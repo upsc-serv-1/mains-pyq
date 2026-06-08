@@ -149,32 +149,21 @@ India has surpassed Japan to become the ***world’s third-largest solar power p
 
 **Ecological Benefits of Solar Energy**
 - **Significant Reduction in Carbon Emissions:** Solar power generation is virtually emissions-free, reducing greenhouse gases.
-
   - **Eg:** The **2,245 MW Bhadla Solar Park** (Rajasthan) offsets **~4 million tonnes of CO₂** annually (Source: PIB)
-
 - **Preservation of Water Resources:** Solar PV systems consume negligible water, unlike coal-based thermal plants that rely heavily on water. This feature is particularly vital in **arid western regions** like Rajasthan.
 - **Efficient Use of Unproductive Land:** Solar parks utilize wastelands and semi-arid regions, preventing pressure on fertile agricultural land.
 - **Support for Climate Goals:** Solar energy aligns with India’s commitment to clean energy transitions under **COP26** and the **National Action Plan on Climate Change**.
-
   - **Eg:** By June 2025, non-fossil fuel capacity reached **49% of total installed power capacity** of **476 GW**.
-
 - **Cleaner Air Quality:** Solar energy produces **no air pollutants** such as sulphur dioxide (SO₂) or nitrogen oxides (NOx), unlike thermal power plants.
 
 **Economic Benefits of Solar Energy in India**
 - **Reduced Import Dependence:** By harnessing abundant sunlight, India lowers its reliance on imported fossil fuels, reducing the **import bill** and exposure to **global price shocks**.
-
   - **Eg:** Coal imports fell **7.9%** in FY 2024–25, saving **$7.93 billion**, reflecting India’s push to cut import dependence.
-
 - **Renewable Capacity Addition:** Solar energy is driving India’s transition from a coal-dominated power mix to a more balanced, sustainable system.
-
   - **Eg:** India’s total installed power capacity reached **476 GW**, with **110.9 GW from solar**.
-
 - **Job Creation and Rural Livelihoods:** Solar energy projects create direct jobs in **manufacturing, installation,** and **maintenance** while also providing **income opportunities** for rural households.
-
   - **Eg:** PM Surya Ghar scheme is also expected to create approximately 17 lakh direct jobs.
-
 - **Support for Long-Term Economic Growth & Investments:** Expansion of solar energy attracts investment, strengthens domestic manufacturing, and contributes to India’s energy transition.
-
   - **Eg:** The PLI Scheme for High-Efficiency Solar PV Modules is projected to create over **6 lakh green jobs** by **2030**.
 
 
@@ -317,23 +306,14 @@ Source Question: Give a geographical explanation for the distribution of off-sho
 
 **Geographical Explanation for the Distribution of Offshore Oil Reserves**
 - **Continental Shelves:** Broad and shallow shelves favour thick deposition of marine sediments rich in organic matter, which, under pressure convert into **hydrocarbons**.
-
   - **Eg:** Persian Gulf, Mumbai High.
-
 - **Passive Continental Margins:** These margins experience slow subsidence and **continuous sediment accumulation**, creating ideal conditions for hydrocarbon generation.
-
   - **Eg:** Brazil’s Atlantic coast, West Africa (Nigeria, Angola).
-
 - **Rifted Basins and Fault Zones:** Submerged rift valleys and grabens act as structural traps that preserve petroleum deposits beneath the sea floor.
-
   - **Eg:** North Sea basins of UK and Norway.
-
 - **Deltaic and Coastal Sedimentation:** River deltas carry **organic-rich sediments** into the ocean, forming prolific offshore basins with large reserves.
-
   - **Eg:** Niger Delta, Krishna–Godavari Basin (India).
-
 - **Sedimentary Troughs and Depressions:** Thick layers of porous rocks overlain by **impervious cap rocks** in troughs trap oil effectively in offshore settings.
-
   - **Eg:** Campos Basin (Brazil), South China Sea. **Difference between Onshore and Offshore Oil Reserves** | **Aspect** | **Off-shore Oil Reserves** | **On-shore Oil Reserves** |
 | --- | --- | --- |
 | **Location** | Found beneath **continental shelves and deep-sea basins**, formed by marine sedimentation. | Found in **continental sedimentary basins** and **inland plains**, often associated with folded mountains or basins. |
@@ -644,19 +624,17 @@ Source Question: Discuss the multi- dimension implications of uneven distributio
 
 ### Body
 
-**The uneven distribution of mineral oil around the world has various implications that affect different dimensions, including economic, political, environmental, and social aspects.** Economic Implications **:**
+**The uneven distribution of mineral oil around the world has various implications that affect different dimensions, including economic, political, environmental, and social aspects.** Economic Implications ***:
 
 - **Dependence on oil exports:** Countries with significant oil reserves tend to depend heavily on oil exports, which can make their economies vulnerable to price fluctuations, supply disruptions, and changes in global demand.
 - **Resource curse:** Countries that depend solely on oil exports may experience the “resource curse” where the abundance of natural resources can lead to corruption, economic mismanagement, and social instability.
 - **Unequal distribution of wealth:** The unequal distribution of oil wealth can lead to income inequality and exacerbate social tensions within countries. **Political Implications**:
-
 - **Geopolitical tensions:** The control and ownership of oil reserves can be a source of geopolitical tensions and conflicts between countries. Countries with significant oil reserves may use oil as a tool of foreign policy, by withholding exports or using oil revenues to support political allies or proxies, leading to power imbalances and political instability.
 - **Influence on international relations:** The unequal distribution of oil can create power imbalances in international relations, with countries with significant reserves of oil having greater bargaining power than those without.
 
 **Environmental Implications:**
 - **Environmental degradation:** The extraction, production, and use of mineral oil can lead to environmental degradation, such as air and water pollution, greenhouse gas emissions, and land degradation.
 - **Climate change:** The continued use of fossil fuels due to an uneven distribution of mineral oil can exacerbate climate change and environmental problems, leading to long-term environmental consequences. **Social Implications**:
-
 - **Health and safety hazards:** Communities living in proximity to oil extraction and production facilities may experience health and safety hazards due to exposure to pollution, accidents, and other risks.
 - **Social inequality:** The unequal distribution of oil wealth can exacerbate income inequality and lead to social unrest within countries.
 
@@ -1644,11 +1622,9 @@ The Ganga River Basin, covering about **27% of India’s geographical area** acr
 
 **Low Density due to Terrain:** Uttarakhand and Himalayan parts of the basin have rugged mountains and steep slopes, restricting agriculture and habitation. Population density in Uttarakhand (2011 Census) is **189 persons/km²**, much below the basin average (Census of India 2011).
 - **Valley Concentrations:** Densities rise in valley towns such as Dehradun ( **550/km²** ) and Haridwar ( **801/km** ²) where flat alluvial terraces and irrigation support settlements.
-
 - **Middle Ganga Basin:** 
 - **Very High Densities:** Uttar Pradesh (828/km²) and Bihar (1,102/km²) are among the most densely populated states of India (Census 2011). Fertile plains and water availability explain these concentrations.
 - **Urban–Rural Clusters:** Cities like Kanpur, Prayagraj, Varanasi, and Patna cluster along rivers, creating dense linear settlements.
-
 - **Lower Ganga Basin:** 
 - **Deltaic Concentration:** West Bengal has **1,029/km² density** (Census 2011), with extremely high values in the Ganga–Brahmaputra delta. Flat terrain and fertile soils sustain this intensity.
 - **Urban Regions:** The Kolkata Metropolitan Area (~14.8 million people, Census 2011) stands out as a mega-urban cluster, benefiting from port location and dense transport networks.
@@ -2741,27 +2717,21 @@ Source Question: How can Artificial Intelligence (AI) and drones be effectively 
 
 **Land Suitability Analysis:** AI analyzes GIS–RS layers on soil, slope, rainfall, and vegetation to identify the most suitable land parcels. This ensures **optimum site selection** for agriculture, industries, or housing projects.
 - **Predictive Modelling of Hazards:** Machine learning applied on RS imagery **forecasts** floods, droughts, or **landslides** in vulnerable terrains. Planners can thus avoid **high-risk areas** when allocating land uses.
-
   - **Eg:** LiDAR: **and** GIS **are used in** Varanasi **to model flood-prone zones under the 3D urban twin initiative.**
-
 - **Urban Growth Forecasting:** AI models use past **RS data** and **GIS layers** to project urban expansion patterns. This helps in **designing transport networks** and zoning policies proactively.
 - **Resource Allocation:** By scanning spatial data, AI pinpoints **underserved areas** lacking basic amenities. **GIS-based maps** then guide the location of schools, health centres, or water supply.
 - **Change Detection:** AI detects even **subtle land-use changes** like **deforestation** or **illegal construction** in RS images. Such insights help in conservation planning and regulatory action.
 - **Decision Support Systems:** AI integrates large volumes of RS data into easy-to-use GIS dashboards. Planners get ready scenarios for sustainable land-use planning.
-
   - **Eg:** Real-Time 3D flood model:** of Varanasi offers over 75 GIS thematic layers for decision support.
 
 **How Drones can be effectively used along with GIS and RS in locational and area planning**
 - **High-Resolution Mapping:** Drones capture **centimetre-level images** of terrain and settlements. When fed into GIS, these maps improve **precision** in **micro** – **levelplanning**.
 - **Ground-Truthing of RS Data:** Drone surveys validate satellite imagery by offering near-real observations. This enhances the accuracy of **GIS-based land-use** and resource maps.
 - **Monitoring of Land Use:** Periodic drone flights detect encroachments, land degradation, or urban sprawl. GIS layers are updated in **real time** for corrective planning.
-
   - **Eg:** Maharashtra government launched a pilot project in **Pune** to conduct **drone-basedsurveys** of mining sites
-
 - **Infrastructure Layouts:** Drone imagery helps trace the exact alignment for roads, canals, and pipelines. Overlays with GIS ensure **minimal displacement** and **optimal land use**.
 - **Disaster Assessment:** Drones map flood plains, landslide scars, or cyclone-hit areas within hours. This real-time data feeds into GIS for **relief distribution** and **rehabilitation planning**.
 - **Agricultural Planning:** Drones capture crop health and irrigation stress at field level. Combined with RS data, this guides **location-specific planning** for farm productivity.
-
   - **Eg:** Farmer in Odisha was honored for using **drones** to **spray fertiliser** across **640+ acres**, improving land management efficiency.
 
 
@@ -2962,22 +2932,17 @@ Non-farm primary activities refer to those economic activities that are directly
 
 - **Western Coast:** Narrow continental shelf, upwelling currents provide a rich source of fish catch.
 - **Eastern Coast:** Wider continental shelf, estuaries, lagoons. Good for prawn & brackish water fishing.
-
 - **Inland Fisheries:** Extensive river systems (Ganga, Brahmaputra, Godavari), reservoirs, lakes, and tanks serve as **inland aquaculture hubs**.
-
 - **Forestry:** 
 - **Himalayas and North-East:** Dense evergreen and temperate forests provide timber, bamboo, medicinal plants.
 - **Central Plateau and Chhota Nagpur:** Tropical deciduous forests yield tendu leaves, lac, and sal.
-
 - **Animal Rearing:** 
 - **Arid and Semi-Arid (Rajasthan, Gujarat):** Sparse vegetation supports camel, goat, and sheep rearing.
 - **Alluvial Plains (Punjab, Haryana, UP):** Abundant fodder sustains dairy farming and cattle rearing.
 - **Mountainous Areas (Himalayas, Ladakh):** Alpine pastures sustain yak, sheep, and pashmina goat.
-
 - **Mining and Quarrying:** 
 - **Peninsular Plateau:** Old crystalline rocks provide coal (Jharkhand), iron ore (Odisha, Chhattisgarh), manganese (Karnataka), and bauxite (Odisha).
 - **Himalayas:** Limited mineral fuels but abundant hydro-power potential.
-
 - **Horticulture and Plantation:**
 - **Hill Slopes:** Tea in Assam, Nilgiris, Darjeeling; coffee in Karnataka and Kerala.
 - **Temperate Climate Hills:** Apple, peach, and plum in Himachal Pradesh and J&K.
@@ -4237,13 +4202,10 @@ Source Question: Whereas the British planters had developed tea gardens all alon
 **Reasons for this disparity:**
 - **Geography:** The geography of the Darjeeling region plays a crucial role in the success of tea cultivation. The area is situated at an altitude of **2,000 to 7,000 feet** above sea level, which provides the perfect conditions for growing high-quality tea.
   - The **cool temperatures and frequent mists** create a unique microclimate that is ideal for tea plants. Shivalik and lesser Himalayas have a different geography, with lower elevations and warmer temperatures that are less suitable for tea cultivation.
-
 - **Soil:** The soil in the Darjeeling region is also conducive to tea cultivation. The area has a diverse range of soils, including sandy loam, clay, and red soil, which are ideal for growing different varieties of tea.
   - The soil in the **Shivaliks and lesser Himalayas** is less diverse and often contains high levels of acidity, which can be detrimental to tea plants.
-
 - **Labor:** Another factor that contributed to the success of tea cultivation in Darjeeling was the availability of skilled labor.
   - The local population had a long history of working in the tea industry, and many were trained in the art of tea plucking and processing.
-
 - The labor force in other regions was less experienced and often had to be trained from scratch.
 - **Marketing:** The success of tea cultivation in Darjeeling can also be attributed to effective marketing strategies.
 - The British planters were able to market Darjeeling tea as a premium product, commanding high prices in international markets.
@@ -4757,9 +4719,7 @@ Challenges faced by Indian women emanate from **Hegemonic patriarchy**, which is
 - **Lack of freedom:** Women in India do not have equal access to autonomy, freedom to move about freely outside the house, social freedom, etc compared to men.
 - **Motherhood penalty:** The primary responsibility of taking care of family and bringing up the child is still on the women. This includes unpaid care work such as childcare, elderly care, and household work.
 - **Declining female labor force participation rate (LFPR):** Many women have to retreat from the workforce due to family pressures. They face ‘dual burden’ i.e., they have to perform both family and professional responsibilities together.
-
   - Despite increasing levels of education and declining fertility rates, the current female LFPR is 25.1% compared to 57.5% for male.
-
 - **Commodification of women:** The women are either shown as docile homemakers or they are shown as sex symbols trying to convince the public at large to buy the product. **Domestic violence and dowry harassment** within the confines of the house are also extensions of this phenomenon
 - **Pink collar jobs:** The women are mostly deemed fit for “pink-collar jobs” only, such as **teachers, nurses, receptionist, babysitter, lecturer** which have been stereotyped for women. This denies them opportunities in other fields
 - **Glass ceilings:** Even when women show their potential in their fields, they face artificial barriers like stereotypes, media-related issues, sexual harassment at the workplace, informal boundaries, which prevent them from advancing upward in their organization into management-level positions. This is also reflected in an increasing wage gap between men and women.
@@ -5232,22 +5192,17 @@ Source Question: What is the significance of Industrial Corridors in India? Iden
   - Aims to create futuristic industrial cities by leveraging the high-speed, high-capacity connectivity provided by the Western Dedicated Freight Corridor.
   - The project is being funded by the Government of India, Japanese loans, investments by Japanese firms, and through Japan depository receipts issued by Indian companies.
   - The estimated cost of the project is USD 100 billion
-
 - **Chennai-Bengaluru Industrial Corridor (CBIC):** Covers Tamil Nadu, Andhra Pradesh, and Karnataka.
   - Aims to create a high-tech industrial zone in southern India
   - Being funded by the Japan International Cooperation Agency (JICA)
-
 - **Bengaluru-Mumbai Economic Corridor (BMEC):** Covers Maharashtra and Karnataka
   - Aims to create a knowledge-based economy by promoting research and innovation in these states
   - Being developed with the help of Britain (UK)
-
 - **Amritsar-Kolkata Industrial Corridor (AKIC):** Covers Punjab, Haryana, Uttarakhand, Uttar Pradesh, Bihar, Jharkhand, and West Bengal.
   - Aims to provide a boost to industrial development in the eastern part of India
   - The Eastern Dedicated Freight Corridor is the backbone of this economic corridor
-
 - **East Coast Economic Corridor (ECEC):** Covers West Bengal, Odisha, Andhra Pradesh, and Tamil Nadu
   - Aims to enhance industrial competitiveness by focusing on development of ports, logistics, and energy infrastructure along the east coast of India
-
 - **North East Myanmar Industrial Corridor:** The North East Myanmar Industrial Corridor is a project that has been launched as part of the Tokyo Declaration for the India-Japan Special Strategic and Global Partnership.
 - This initiative aims to boost connectivity and development in the Northeast region, ultimately driving economic growth and increasing prosperity in the area.
 
@@ -6347,7 +6302,6 @@ Source Question: How can the mountain ecosystem be restored from the negative im
 
 **Major threats to mountainous ecosystems include:**
 - **Climate change:** Rising temperatures can cause glacial melting, altered precipitation patterns, and changes in the timing of seasonal events.
-
   - E.g. Loss of the
 
 **West Antarctic ice sheet, sea level rise would approach 10.5 meters [34 feet].**
@@ -7180,30 +7134,22 @@ According to the **WMO Report 2023**, sea levels are rising at **3.7–3.8 mm** 
 - **Rising temperatures damaging ecosystems:** Coral bleaching disrupts marine biodiversity and fisheries.
 - **Frequent extreme weather events:** Intense cyclones like **Cyclone Winston** (2016) devastate infrastructure and livelihoods equivalent to around **31%** of **GDP** of **Fiji**.
 - **Changing rainfall patterns:** Severe droughts disrupt **agriculture** and **drinking water** supply.
-
   - **Eg:** 2011 drought: **in** Tuvalu **leading to water rationing.**
-
 - **Ecosystem collapse:** Loss of mangroves and seagrass beds reduces **climate resilience** as observed in **Micronesia.**
 - **Economic stress:** Climate change could wipe out tuna stocks, which currently provide about **half** of Tuvalu’s revenues ( **Source**: **IMF** ).
 
 **Ways in which Sea Level Rise impact Island Nations**
 - **Submergence of Low-Lying Islands:** Islands just 1–2 metres above sea level risk permanent inundation.
 - **Population displacement:** Communities forced into internal or external migration.
-
   - **Eg:** Tuvalu: **residents migrating to** New Zealand **(*world’s first planned migration*)under the **Falepili Union Treaty.**
-
 - **Freshwater contamination:**
 
 **Saltwater intrusion** renders aquifers non-potable.
 
   - **Eg:** Maldives:** faces severe freshwater shortages.
-
 - **Accelerated Coastal Erosion:** Narrow shorelines shrink, reducing habitable and cultivable land.
-
   - **Eg:** Kiribati: **losing farmland due to saline intrusion. (** Commonwealth **)**
-
 - **Loss of cultural heritage:** Disappearance of ancestral lands erases traditional identities.
-
   - **Eg:** Kiribati communities:** struggling to preserve oral traditions after relocation.
 
 
@@ -7829,13 +7775,10 @@ Cryptocurrency is a new emerging technology which is revolutionizing the way peo
 - **Greater integration:** Currently, the world is divided in terms of different currencies. Crypto bypasses this division and is increasingly becoming a sought-after way of transacting globally thereby integrating the global society.
 - **Crypto as an investment:** Cryptocurrency has emerged as a new asset class and is seen as an alternative to gold. However, fluctuation in the value of cryptocurrency has made both kings and beggars.
 - **Cheaper and safer transactions:** For consumers, transferring money becomes a lot cheaper and in certain instances, safer as well, as transactions cannot be replicated.
-
   - Due to the ease and speed of transaction it allows, crypto has empowered relief efforts in Ukraine. Ukraine accepts millions of dollars in donations via digital currencies and many Ukrainians have been drawn to cryptocurrency as a place to invest their money as there is no strong stock market alternative.
-
 - **Government control over economy reduces, reducing the hold on the society:** Cryptocurrencies take away the sovereign power of issuing currency making economic policy ineffective and diluting the bond between citizen and government.
 - **Crypto is used for funding activities that destabilize society:** Crypto is used by terrorist organization, drug cartels, money launderers, etc. which negatively impacts society at large. Anonymity in cryptocurrency has the potential to increase crime in society.
 - **Rise in inequality:** Cryptocurrency is acquired and used by the ones who belong to upper strata of the society, people who are digitally illiterate are being left behind. Thus, it can lead to a disproportionate rise in inequality. **Effect of Crypto on Indian Society** Crypto is still in a nascent phase in India, with a huge uncertainty about its future. Recently, the government brought a Cryptocurrency Bill to create a sovereign digital currency and also to control the proliferation of private cryptos. Following are the effects of crypto on Indian society:
-
 - **Rise of new crypto community:** With the rise of cryptocurrency, a new crypto community has emerged – that includes amateur investors, professionals and jobs have come up in the society. Example: Multiple crypto-exchanges have come up.
 - **Risk averse behavior among youth:** As an asset, cryptocurrency has offered huge returns in the past, so it has become a fad among Indian youth to invest in these volatile assets, overlooking the risk associated with it.
 - **Crypto as a means to transact in a cheaper way:** India is the largest receiver of remittances. People can save a lot of money spent on conversion, processing charges, etc.
@@ -8263,7 +8206,6 @@ Source Question: How does the cryosphere affect global climate?
 
 **In 2019, Greenland experienced its largest-ever ice melt, resulting in a significant decrease in its albedo.**
 - **Sea level rise:** As glaciers and ice sheets melt, they contribute to sea level rise, which can have far-reaching impacts on global climate patterns. Sea level rise can alter ocean currents, change precipitation patterns, and impact coastal ecosystems and communities. Like **The small island nation of Kiribati in the Pacific Ocean is particularly vulnerable to sea level rise.** <p align="center"><img src="pwonlyias/images/pw_geography_q337_img1.webp" alt="Global Cryosphere " /></p>
-
 - **Permafrost thawing:** Permafrost is frozen soil that covers nearly a quarter of the land in the Northern Hemisphere. As permafrost thaws, it releases large amounts of methane and carbon dioxide into the atmosphere, which can contribute to the warming of the planet. Like
 
 **In Alaska, the thawing of permafrost has caused infrastructure damage and forced some communities to relocate.**
@@ -8404,11 +8346,8 @@ Source Question: Why are the world’s fold mountain systems located along the m
 <p align="center"><img src="pwonlyias/images/pw_geography_q169_img1.webp" alt="continental convergence" /></p>
 
 - **Association Between Fold Mountains and Earthquakes:** Fold mountains are formed as a result of the collision of two tectonic plates. The movement and collision of these plates can cause earthquakes, as the plates grind against each other or one plate is forced beneath the other in a process known as subduction.
-
 - **Examples:** The Himalayas are located at the boundary between the Indian Plate and the Eurasian Plate and are one of the most seismically active regions in the world.
-
 - **Association Between Fold Mountains and Volcanoes:** Volcanoes are another common feature associated with fold mountains. As tectonic plates collide, one plate is often forced beneath the other, a process known as subduction. This can cause the mantle to melt, creating magma that rises to the surface and forms volcanoes. The Andes Mountains.
-
 - **Examples:** are located along the western coast of South America and are associated with the subduction of the Nazca Plate beneath the South American Plate. This subduction has led to the formation of a chain of volcanoes, including the active Cotopaxi and Tungurahua volcanoes in Ecuador.
 
 
@@ -8861,7 +8800,6 @@ Source Question: Examine the Status of forest resources of India and its resulta
 
 **India Mission and the National Agroforestry Policy.**
 - **Total carbon stock:** The total carbon stock in Indian forests is around 7,124 million tonnes. Deforestation and degradation of forests release carbon dioxide into the atmosphere, contributing to global warming. Preserving and increasing forest cover is crucial for mitigating climate change. **Significant impact on climate change:** Forests act as carbon sinks, absorbing and storing carbon dioxide from the atmosphere.
-
 - They regulate local weather patterns and prevent soil erosion, desertification, and land degradation.
 - Deforestation and forest degradation release carbon dioxide into the atmosphere, contributing to global warming. Preserving and increasing forest cover is crucial for mitigating climate change.
 - The management of forest resources is crucial for the sustainable development of India, and efforts must be made to conserve and enhance their contribution to mitigating climate change.
@@ -10084,10 +10022,8 @@ Source Question: The groundwater potential of the Gangetic valley is on a seriou
 
 **Effect on Food Security in India:**
 - **Reduced Crop Yields:** Groundwater depletion in the Gangetic Valley directly limits irrigation, leading to significant crop yield reductions. **For example:** In **Haryana** and **Uttar Pradesh,** farmers have reported up to **30% lower yields** for staples like **paddy** and **wheat** due to insufficient water availability, posing a serious threat to food security in the region.
-
 - **Increased Dependence on Rainfed Agriculture:** Reduced groundwater forces farmers in the Gangetic Valley to increasingly rely on rainfed agriculture, heightening risks during inconsistent monsoon seasons.
 - **Crop Diversification Challenges:** The decline in groundwater restricts crop diversification in the Gangetic Valley where farmers heavily rely on water-intensive rice. **For example:** In **Punjab,** the depletion of groundwater discourages farmers from adopting less water-demanding crops like **pulses** and **maize**, threatening both **food diversity** and long-term agricultural sustainability.
-
 - **Increased Dependence on Rainfed Agriculture:** Reduced groundwater forces farmers in the Gangetic Valley to rely more on rainfed agriculture, increasing vulnerability to erratic monsoons.
 - **Threat to Livestock Farming:** Declining groundwater availability affects livestock health in the Gangetic Valley by limiting feed quality and quantity, reducing productivity in dairy and meat production, and exacerbating food security issues.
 - **Long-term Sustainability Issues:** Continuous groundwater depletion threatens agricultural sustainability and future food security in the Gangetic Valley, with many districts facing potential water scarcity if current trends persist. **
@@ -10799,7 +10735,6 @@ Water masses refer to distinct bodies of water characterized by their temperatur
 
 **The mixing of warm and cold water currents creates a nutrient-rich environment that supports a diverse range of marine life.**
 - **Climate change:** Changes in ocean currents due to climate change can have significant impacts on marine life, altering water temperatures, and affecting the distribution and survival of various species. **Significant impacts on coastal environment**:
-
 - **Erosion:** Strong ocean currents can cause erosion along the coast, wearing away beaches and cliffs over time. E.g
 
 **The strong ocean currents along the coast of California have caused erosion in areas such as Big Sur**
@@ -11566,16 +11501,13 @@ Globalization has impacted India’s cultural diversity in
 
 **both positive and negative ways:**
 - **Reduced interests in one’s own culture:** Due to globalization and media hype of western culture, awareness about one’s own culture reduced. People are blindly copying features of western culture and giving less importance to their own culture.
-
   - **Example:** Celebrating Christian New Year but neglecting the traditional Indian New Year (around April)
-
 - **Linguistic homogenisation:** English has come to dominate over regional dialects and minority languages. This has resulted in more opportunities for Indians to freely work across the globe. But at the same time, it has impacted the development of local languages, literature and in some cases complete wipe-out of some local languages.
 - **Cultural homogenization:** There is increasing ‘McDonaldization’ of Indian food habits and increasing interest in Western consumption goods. This has resulted in the loss of local artifacts, promotion of western dressing, shift from local culinary habits etc.
 - **Caste:** Globalization has led to decreased emphasis on localized castes. Globalization has led to the rise of lower castes by making them aware of their rights. Caste is a less relevant factor in raising one’s status in the society today.
 - **Nuclearization of family:** Community affiliation reduced due to globalization as the person is more concerned with one’s own interests rather than the communities. Joint family system broke down due to increase in economic migration and choice for individual space as part of globalization.
 - **Women empowerment:** Globalization has attacked the discriminatory tendencies and patriarchal mindset in India. It has helped in getting rid of practices derogatory to women and has helped in the rise of women and exposure of women related issues.
 - **Resurgence of traditions:** Globalization has also led to a renewed interest in India’s traditional culture and values in recent times. There is a greater awareness among people about our traditions than a few generations back.
-
 - For example, the **popularity of yoga, Ayurveda,** and other forms of traditional medicine has increased globally, leading to a renewed interest in India’s ancient knowledge systems.
 
 
@@ -11924,9 +11856,7 @@ These are cities that are experiencing growth at rates much faster than Tier-1 c
 - **Increased entrepreneurial activity:** Majority of the Tier-2 Cities like Jaipur, Surat, Indore, Calicut, etc have attracted **huge investments and are start-up hubs**. This leads to **more employment** opportunities and also more innovation in the market which helps spur demand.
 - **Social media and exposure to western consumerism:** Proliferation of Internet and increased exposure to social media has led to rising aspirations. This has boosted consumer demand across sectors. The **availability and affordability of e-commerce** has made it easier for the middle class to fulfill these aspirations.
 - **Better than Tier-1 cities:** The **moderate cost of living** in Tier 2 cities encourages greater consumption because of the affordability of a better lifestyle. The Tier-2 cities also have **greater ease of living** which is reflected in the Ease of Living Index.
-
 - **Five of the top 10 cities in the Ease of Living (EOL) index are Tier-2 cities:** , namely Ahmedabad, Surat, Coimbatore, Vadodara, and Indore and Tier-2 cities typically have **10% – 35% lower cost of living** as compared to the nearest Tier-1 location
-
 - **Infrastructure development:** Enhanced connectivity, attractive real estate prices, better amenities, less crowded, etc. and a focus on improving the quality of infrastructure attracts the middle class and investors. This leads to further boom in the tier-2 economy.
 - **New market:** The capacity to consume along with the availability of all major consumer brands has led to Tier-2 cities to be established as the new market. The tourism footfall has also increased in these cities leading to increased focus on providing quality amenities and hospitality. These further boosts middle class aspirations and thereby the growth of Tier-2 cities.
 - **Government Initiatives:** like Make in India, Stand-up India, Start-up India, MUDRA Yojana, JAM Trinity, UDAN, etc. in tier 2 cities have brought more people into the fold of the middle class by increasing disposable income and providing them with avenues to spend.
@@ -12217,7 +12147,6 @@ Source Question: Why do some of the most prosperous regions of India have an adv
 - **Property:** The prosperous regions of India attach high value to their property. The social norms are such that only the male child gets to inherit the property. Due to this, the families prefer a male child.
 - **Social Practices:** Despite banning dowry and making it a criminal offense, the dowry system is still prevalent in India. In many cases dowry is taken even if the bride herself is economically independent.
 - **Accessibility to postnatal sex selection techniques:** Better income and awareness of postnatal sex selection techniques makes it easy for couples to access such technology, even if banned by law.
-
 - Child sex ratio reflects the imbalance between the number of girls and boys, indicating that the practice of sex selection (along with other factors such as selective neglect of girls) have led to a drastic decline in the number of girls compared to the number of boys.
 
 
@@ -12600,46 +12529,33 @@ Source Question: Discuss how the changes in shape and sizes of continents and oc
 
 **Changes in Shape and Sizes of Continents**
 - **Divergent Boundaries (Rifting and Continental Break-up):** When continental crust is pulled apart, rift valleys develop, which eventually split landmasses. This leads to fragmentation and change in continental outlines.
-
   - **Eg:** The **East African Rift** may split Africa into two separate continental blocks.
 
 <p align="center"><img src="pwonlyias/images/pw_geography_q872_img1.jpg" alt="1" /></p>
 
 - **Convergent Boundaries (Collision and Mountain Building):** When two continental plates collide, intervening seas close, and the crust folds and uplifts into mountains. This reshapes continents by enlarging landmass thickness.
-
   - **Eg:** The collision of the **Indian** and **Eurasian plates** formed the Himalayas and Tibetan Plateau.
 
 <p align="center"><img src="pwonlyias/images/pw_geography_q872_img2.jpg" alt="2" /></p>
 
 - **Transform Boundaries (Lateral Displacements):** Strike-slip or transverse movements shift landmasses sideways, displacing continental margins and coastlines.
-
   - **Eg:** San Andreas Fault:** , a transform boundary, causes horizontal displacement, shifting California along the Pacific Plate margin.
 
 <p align="center"><img src="pwonlyias/images/pw_geography_q872_img3.jpg" alt="Picture10" /></p>
 
 - **Isostatic Adjustments (Vertical Re-shaping):** Removal or addition of weight (erosion, ice melt, sediment load) causes crust to rise or sink, changing continental relief.
-
   - **Eg:** Post-glacial rebound in Scandinavia has uplifted land, altering coastal shapes.
 
 **Changes in Shape and Sizes of Ocean Basins**
 - **Divergent Boundaries (Sea-Floor Spreading and Basin Expansion):** Magma upwells at mid-ocean ridges, creating new crust and widening ocean basins.
-
   - **Eg:** The Mid-Atlantic Ridge is pushing the Americas and Africa–Europe apart, expanding the Atlantic Ocean.
-
 - **Ocean-ocean Convergent Boundaries (Subduction and Basin Shrinkage):** Oceanic crust descends into trenches at subduction zones, reducing basin area and volume.
-
   - **Eg:** The Pacific Ocean is shrinking along the **Mariana Trench** and Peru–Chile Trench.
-
 - **Continent-continent Convergent Boundaries:** Convergence closes off ocean basins entirely as continents collide.
-
   - **Eg:** The **Tethys Sea** disappeared when India collided with Eurasia.
-
 - **Transform Boundaries (Offsetting and Basin Reshaping):** Oceanic transform faults laterally displace ridges and trenches, altering basin geometry.
-
   - **Eg:** Fracture zones in the Atlantic offset the **Mid-Atlantic Ridge** segments.
-
 - **Divergent to Ocean Formation (Continental Rift to Ocean):** Initial continental rifting can evolve into new ocean basins when seawater invades the rift.
-
   - **Eg:** The **Red Sea Rift** is an embryonic ocean basin forming between Africa and Arabia.
 
 
@@ -12790,7 +12706,6 @@ A fjord is a narrow, deep inlet of seawater bordered by steep cliffs or mountain
 
 **For instance, Norway’s Sognefjord was created through this glacial activity.**
 - **Isostatic Rebound:** As glaciers advance and weigh down the Earth’s crust, the land sinks or subsides under the pressure. When the glaciers retreat, the crust slowly rebounds or rises in response, creating the fjord’s characteristic deep, narrow shape. An example of isostatic rebound is observed in **Drammensfjorden.** <p align="center"><img src="pwonlyias/images/pw_geography_q740_img1.webp" alt="Fjords coasts" /></p>
-
 - **Sea-Level Rise:** Rising sea levels, often associated with the melting of glaciers and the end of ice ages, lead to the submergence of the glacially carved valleys. This submersion fills the valleys with seawater, forming the fjord.
 
 **Milford Sound fjord in New Zealand was formed when the sea inundated a glacial valley.**
@@ -13018,7 +12933,6 @@ Primary rock, also known as igneous rock, is formed through the solidification o
 **Granite:** A **coarse-grained** intrusive rock composed of quartz, feldspar, and mica, widely used in construction.
 - **Basalt:** A **fine-grained** extrusive rock rich in iron and magnesium, commonly found in volcanic areas and used in road construction.
 - **Obsidian:** A volcanic glass formed from rapidly cooled lava, used for decorative purposes and as a cutting tool in ancient civilizations.
-
 - **Characteristics of primary rocks:**
 - **Formation:** Primary rocks are formed through the solidification and **crystallization of molten magma or lava**. They are the first rocks to be formed in the Earth’s crust.
 - **Mineral Composition:** Primary rocks are typically composed of minerals such as **quartz, feldspar, mica, and amphibole**. The specific minerals present in a primary rock depend on the chemical composition of the original magma.
@@ -13350,7 +13264,6 @@ It is located in South America, the longest mountain range in the world.
 - The Andes act as a barrier, preventing the movement of moisture from the east and influencing the precipitation patterns in the region.
 - It acts as a rain shadow zone for Atacama deserts.
 - The Andes have an impact on the temperature and rainfall patterns in neighboring countries such as Argentina, Chile, and Peru. **The Rocky Mountains**:
-
 - It is located in North America.
 - The Rockies influence the movement of air masses, causing them to rise and cool, leading to increased precipitation on the western slopes and a rain shadow effect on the eastern slopes.
 - They capture the moisturized winds from the Pacific and cause large amount of rainfall in its windward side,
@@ -13512,14 +13425,10 @@ Source Question: Examine the role of &#8216;Gig Economy&#8217; in the process of
 
 **Gig economy can help in the process of empowerment of women in India in following ways:**
 - **Balance work and family:** Gig employment allows part-time work and flexible working hours which allows women to balance their traditional family roles (homemakers and caregiver) with employment.
-
   - For example, the rise of online platforms such as **Amazon and Flipkart** has created opportunities for women in rural areas to earn money by selling their products online.
-
 - **Flexibility to enter and exit:** Many women in India face barriers to employment due to cultural and societal norms. The gig economy provides women with on-demand work allowing her to join and drop-out of work force as per her own will.
 - **New employment opportunities:** With gig employment complemented by **work-from-home (WFH)** and technology, new employment opportunities for **women in tier 2 and 3 cities** have emerged where they do not need to travel much.
-
   - A boost in use of digital technology and increased acceptance of virtual working for sales and distribution jobs opens up opportunities for women to enter fields where interactions are managed through apps and phone calls.
-
 - It has addressed the **issue of safety** during travel and night shifts.
 - **Financial independence:** Gig employment helps women earn extra income, boosts her confidence and gives decision making power, all of which are important components of women empowerment.
 - **More rewarding jobs:** The gig economy has helped to provide women with access to higher paying, higher skilled work, such as consulting, design, and marketing, which can be more lucrative than traditional employment opportunities with gender wage gap.
@@ -14005,11 +13914,8 @@ Source Question: Why are the world’s fold mountain systems located along the m
 <p align="center"><img src="pwonlyias/images/pw_geography_q169_img1.webp" alt="continental convergence" /></p>
 
 - **Association Between Fold Mountains and Earthquakes:** Fold mountains are formed as a result of the collision of two tectonic plates. The movement and collision of these plates can cause earthquakes, as the plates grind against each other or one plate is forced beneath the other in a process known as subduction.
-
 - **Examples:** The Himalayas are located at the boundary between the Indian Plate and the Eurasian Plate and are one of the most seismically active regions in the world.
-
 - **Association Between Fold Mountains and Volcanoes:** Volcanoes are another common feature associated with fold mountains. As tectonic plates collide, one plate is often forced beneath the other, a process known as subduction. This can cause the mantle to melt, creating magma that rises to the surface and forms volcanoes. The Andes Mountains.
-
 - **Examples:** are located along the western coast of South America and are associated with the subduction of the Nazca Plate beneath the South American Plate. This subduction has led to the formation of a chain of volcanoes, including the active Cotopaxi and Tungurahua volcanoes in Ecuador.
 
 
@@ -14816,12 +14722,9 @@ The Indian monsoon, one of the most significant weather phenomena in South Asia,
 There is increasing evidence to suggest that human activities are affecting the behavior of the Indian monsoon:-
 
 - **Land Use Changes:** Human-induced alterations in the landscape that could impact the Indian monsoon are land-use changes. Agricultural expansion, deforestation have altered the land surface and vegetation cover, which could impact the atmospheric moisture balance and influence the behavior of the monsoon.
-
 - **E.g:** The Western Ghats and Northeast India, has affected the local climate and monsoon patterns. Deforestation in the Amazon rainforest has also been linked to changes in the South American monsoon
-
 - **Air Pollution:** The rapid industrialization and urbanization in cities like **Delhi** have led to severe air pollution, with high levels of particulate matter and pollutants. This pollution can affect the monsoon by altering cloud formation processes and reducing rainfall, as observed in studies linking air pollution with reduced precipitation over the Indo-Gangetic Plain.
 - **Climate Change:** Climate change, primarily driven by greenhouse gas emissions from human activities, is also likely to influence the behavior of the Indian monsoon. Rising temperatures, altered precipitation patterns, and changing weather patterns could have significant impacts on the timing, intensity, and duration of the monsoon.
-
 - **E.g:** Research suggests that increased warming over the Indian Ocean and decreased temperature gradients between land and ocean can lead to changes in the monsoon circulation, resulting in altered rainfall patterns and prolonged dry spells.
 
 
@@ -15050,7 +14953,6 @@ Water masses refer to distinct bodies of water characterized by their temperatur
 
 **The mixing of warm and cold water currents creates a nutrient-rich environment that supports a diverse range of marine life.**
 - **Climate change:** Changes in ocean currents due to climate change can have significant impacts on marine life, altering water temperatures, and affecting the distribution and survival of various species. **Significant impacts on coastal environment**:
-
 - **Erosion:** Strong ocean currents can cause erosion along the coast, wearing away beaches and cliffs over time. E.g
 
 **The strong ocean currents along the coast of California have caused erosion in areas such as Big Sur**
@@ -15542,12 +15444,9 @@ The Indian monsoon, one of the most significant weather phenomena in South Asia,
 There is increasing evidence to suggest that human activities are affecting the behavior of the Indian monsoon:-
 
 - **Land Use Changes:** Human-induced alterations in the landscape that could impact the Indian monsoon are land-use changes. Agricultural expansion, deforestation have altered the land surface and vegetation cover, which could impact the atmospheric moisture balance and influence the behavior of the monsoon.
-
 - **E.g:** The Western Ghats and Northeast India, has affected the local climate and monsoon patterns. Deforestation in the Amazon rainforest has also been linked to changes in the South American monsoon
-
 - **Air Pollution:** The rapid industrialization and urbanization in cities like **Delhi** have led to severe air pollution, with high levels of particulate matter and pollutants. This pollution can affect the monsoon by altering cloud formation processes and reducing rainfall, as observed in studies linking air pollution with reduced precipitation over the Indo-Gangetic Plain.
 - **Climate Change:** Climate change, primarily driven by greenhouse gas emissions from human activities, is also likely to influence the behavior of the Indian monsoon. Rising temperatures, altered precipitation patterns, and changing weather patterns could have significant impacts on the timing, intensity, and duration of the monsoon.
-
 - **E.g:** Research suggests that increased warming over the Indian Ocean and decreased temperature gradients between land and ocean can lead to changes in the monsoon circulation, resulting in altered rainfall patterns and prolonged dry spells.
 
 
@@ -16522,7 +16421,6 @@ Source Question: What is sea surface temperature rise? How does it affect the fo
 **Impact of SST Rise on Tropical Cyclone Formation:**
 - **Increased Intensity:** Higher SST provides **more energy** to developing tropical cyclones, intensifying their strength. **For example: Cyclone Amphan (2020)**, which struck **India** and **Bangladesh**, was fueled by abnormally warm **Bay of Bengal** waters, reaching super-cyclone status.
 - **More Frequent and Severe Storms:** Rising SSTs lead to an increase in the number of severe tropical cyclones. **For example:** The **2020 Atlantic hurricane season,** which was one of the most active on record, saw 30 named storms, driven in part by higher-than-average SSTs in the Atlantic.
-
 - **Amplified Rainfall:** Warmer ocean surfaces increase the **moisture content** in the atmosphere, leading to heavier rainfall during cyclones. This can cause devastating **floods**.
 - **Extended Duration:** Cyclones fueled by higher SSTs tend to last longer and travel further inland. **For example:Cyclone Idai (2019),** maintained its intensity well after landfall in Mozambique due to the unusually warm waters of the **Mozambique Channel.**
 - **Shifts in Cyclone Tracks:** SST rise can alter cyclone tracks, pushing them toward regions that historically experienced fewer such storms. **For instance:**
@@ -17632,15 +17530,10 @@ Tsunamis are series of **large sea waves** generated by **sudden displacement of
 
 **How Tsunamis are Formed**
 - **Undersea Earthquakes:** Subduction zone quakes cause **vertical seabed displacement**, pushing water upward. This sudden uplift generates powerful waves that evolve into tsunamis.
-
   - **Eg:** The ***2004 Indian Ocean tsunami*** from a 9.1 magnitude quake near Sumatra.
-
 - **Volcanic Eruptions:** Submarine eruptions or the collapse of volcanic flanks displace huge water volumes.
-
   - **Eg:** 1883 Krakatoa eruption, Indonesia.
-
 - **Landslides/Glacier Falls:** Coastal or submarine landslides push water upward, creating localized tsunamis.
-
   - **Eg:** 1958 Lituya Bay, Alaska:** , produced a 500 m wave.
 
 **Where Tsunamis are Formed**
@@ -17655,19 +17548,12 @@ Tsunamis are series of **large sea waves** generated by **sudden displacement of
 
 **Consequences of Tsunamis**
 - **Human Losses and Displacement:** Large coastal populations face massive casualties and forced migration.
-
   - **Eg:** The 2004 Indian Ocean tsunami killed over **2.3 lakh people**.
-
 - **Economic and Infrastructure Damage:** Ports, fisheries, industries, and tourism infrastructure collapse under inundation.
-
   - **Eg:** The **2011 Japan tsunami** caused **$235 billion** in damages.
-
 - **Environmental Degradation:** Saltwater intrusion into groundwater and farmland, along with mangrove destruction, disrupt ecosystems.
-
   - **Eg:** In Tamil Nadu (2004), extensive paddy fields turned saline and unproductive.
-
 - **Public Health and Social Crisis:** Spread of diseases, scarcity of drinking water, and psychological trauma prolong recovery.
-
   - **Eg:** Cholera and diarrheal outbreaks occurred in Sri Lanka and Indonesia post-2004.
 
 
@@ -19106,22 +18992,17 @@ Non-farm primary activities refer to those economic activities that are directly
 
 - **Western Coast:** Narrow continental shelf, upwelling currents provide a rich source of fish catch.
 - **Eastern Coast:** Wider continental shelf, estuaries, lagoons. Good for prawn & brackish water fishing.
-
 - **Inland Fisheries:** Extensive river systems (Ganga, Brahmaputra, Godavari), reservoirs, lakes, and tanks serve as **inland aquaculture hubs**.
-
 - **Forestry:** 
 - **Himalayas and North-East:** Dense evergreen and temperate forests provide timber, bamboo, medicinal plants.
 - **Central Plateau and Chhota Nagpur:** Tropical deciduous forests yield tendu leaves, lac, and sal.
-
 - **Animal Rearing:** 
 - **Arid and Semi-Arid (Rajasthan, Gujarat):** Sparse vegetation supports camel, goat, and sheep rearing.
 - **Alluvial Plains (Punjab, Haryana, UP):** Abundant fodder sustains dairy farming and cattle rearing.
 - **Mountainous Areas (Himalayas, Ladakh):** Alpine pastures sustain yak, sheep, and pashmina goat.
-
 - **Mining and Quarrying:** 
 - **Peninsular Plateau:** Old crystalline rocks provide coal (Jharkhand), iron ore (Odisha, Chhattisgarh), manganese (Karnataka), and bauxite (Odisha).
 - **Himalayas:** Limited mineral fuels but abundant hydro-power potential.
-
 - **Horticulture and Plantation:**
 - **Hill Slopes:** Tea in Assam, Nilgiris, Darjeeling; coffee in Karnataka and Kerala.
 - **Temperate Climate Hills:** Apple, peach, and plum in Himachal Pradesh and J&K.
@@ -21867,7 +21748,6 @@ The Chola dynasty, which ruled over South India (9th to the 13th century CE) is 
 - The Chola architectural style is characterized by its intricate carvings, towering gopurams (temple towers), and extensive use of stone in construction.
 - The **Brihadeeswarar Temple in Thanjavur,** built by the Chola king Raja Raja Chola I, is a prime example of Chola architecture. The temple’s vimana (tower) stands at 216 feet tall, making it one of the tallest temple towers in India.
 - The Chola temples were not just places of worship but also centers of learning and culture.
-
 - They were built to house not just the deities but also the community, with areas for social gatherings, festivals, and even economic activities.
 - The temples also had libraries, schools, and hospitals.
 - The Chola architectural style also incorporated elements of the earlier Pallava and Chalukya styles, as well as influences from Southeast Asia.
@@ -22121,34 +22001,22 @@ Akbar (1556–1605) **, one of the most notable Mughal emperors, is remembered f
 
 **Main Aspects of Akbar’s Religious Syncretism**
 - **Sulh-i-Kul (Peace with All):** Formulated as the core principle of governance, emphasizing universal tolerance and non-discrimination.**
-
   - **Eg:** Abolition of the ***jizya tax*** on non-Muslims in 1564 and the pilgrimage tax in 1563.
-
 - **Religious Debates in the Ibadat Khana:** Established in 1575 at Fatehpur Sikri to hold inter-religious dialogues.
-
   - **Eg:** Invited scholars of ***Islam*** (Abul Fazl, Abdul Qadir Badauni), ***Hinduism***, ***Jainism***(Hiravijaya Suri), ***Christianity*** (Jesuit fathers from Goa), and ***Zoroastrianism.**
 - **Din-i-Ilahi (Religion of God):** Founded in **1582** as a syncretic faith drawing from Islam, Hinduism, Zoroastrianism, and Jainism. It emphasized loyalty to the emperor, ethical conduct, vegetarianism, celibacy, and worship of the sun.
-
   - **Eg:** Leading nobles like ***Birbal*** joined, but overall adoption remained limited.
-
 - **Abolition of Discriminatory Practices:** Stopped forced conversions and discouraged child marriages and Sati (though not abolished).
-
   - **Eg:** Issued ***farmans*** allowing Hindus to freely worship and forbidding cow slaughter in deference to Hindu beliefs.
-
 - **Patronage of Arts and Culture:** Encouraged translation of Sanskrit texts into Persian, promoting cross-cultural learning.
-
   - **Eg:** Mahabharata: ***was translated as the*** Razmnamah ***.**
-
 - **Adoption of Ritual Practices:** Influenced by Zoroastrianism, he introduced rituals like fire worship and sun salutation.
-
   - **Eg:** Celebrated ***Navroz*** festival and adopted practices like ***Jharokha Darshan*** to blend politics with spirituality.
 
 **Limitations / Drawbacks of Akbar’s Religious Syncretism**
 - **Limited Acceptance of Din-i-Ilahi:** It remained confined to a small circle of nobles like Birbal and Abul Fazl; the masses did not embrace it.
 - **Persistence of Deep-Rooted Religious Sentiments:** The Hindu-Muslim divide in society continued; orthodoxy resisted change.
-
   - **Eg:** Abdul Qadir Badauni severely criticized Akbar’s religious innovations.
-
 - **Elite-Centric Policy:** Benefits were primarily for the aristocracy and court elites, leaving the common people largely untouched.
 - **Religious Identity Politics:** Din-i-Ilahi’s deification of the emperor was unacceptable to orthodox Muslims, leading to suspicion and opposition.
 - **Lack of Institutional Framework:** Unlike established religions, Din-i-Ilahi had no scripture, clergy, or mass rituals, limiting its endurance.
@@ -22461,13 +22329,10 @@ During medieval India, Persian literary sources emerged as vital elements in cap
 **Body:**
 - **Historical accounts:** Persian historical works, **including** Minhaj-i Siraj’s **“Tabaqat-i Nasiri,”** Firishta’s **“Tarikh-i Firishta,” and** Abu’l Fazl’s **“Akbarnama,” offer crucial insights into medieval India’s political, social, and economic landscape.**
 - These accounts detail the accomplishments of Islamic rulers, administrative complexities, and the interactions among different regions and communities.
-
 - **Poetry:** During medieval India, Persian poetry thrived **with notable poets such as Amir Khusrau, Hafiz, and Jami.** Their works blended Indian elements, languages, and cultural nuances, reflecting the era’s syncretic nature.
   - This poetry encapsulated the spirit of the time through themes of love, devotion, and human experiences in a concise manner.
-
 - **Sufi literature:** The expansion of Sufism during medieval India resulted in a vast collection of Persian Sufi literature, offering glimpses into the era’s spiritual and mystical aspects.
 - **Texts such as Rumi’s “Masnavi” and Hafez’s “Divan-i-Hafez”:** integrated Sufi principles and doctrines, advocating for values like love, tolerance, and introspection.
-
 - **Translation and adaptation:** Persian literary sources contributed to the preservation and dissemination of knowledge between cultures.
 - **Numerous Sanskrit texts, including the “Mahabharata” (translated as “Razmnama”), “Panchatantra,” and assorted scientific and mathematical works, were translated into Persian.:** This process enabled cross-cultural interactions and enhanced the intellectual milieu of medieval India.
 
@@ -22956,13 +22821,10 @@ Source Question: Describe any four cultural elements of diversity in India and r
 **These can be seen as follows:**
 
 - **Linguistic diversity:** India is one of the most linguistically diverse countries. India has 22 languages as Scheduled languages in the Constitution with over 1100 distinct dialects. The dialects show a continuity which makes it easier for people to understand and communicate with each other. Distinct language and its vast literature acts as a source of pride among people.
-
   - But the linguistic diversity has also been a source of conflict. For instance, Goans are divided on the basis of Maratha and Konkani languages. In Belgaum there is a tug of war between Marathi and Kannada speaking people. Assam is confronted with Bengali and Assamese.
-
 - **Traditions, clothing, food:** India has a rich tradition of music, dance and cuisine, with each region having its own unique style of cooking and flavour.
 - **Festivals:** India has a plethora of festivals at local and regional levels. There are also festivals like Diwali, Holi, Eid, etc that are celebrated throughout India.
 - **Religious Diversity in India:** I:** ndia is home to a diverse range of religious beliefs, with Hinduism, Islam, Christianity, Sikhism, Buddhism, and Jainism among the most widely practiced religions in the country. Religious diversity in India has played a significant role in shaping the country’s social fabric and identity. The foreign religions have interacted with regional culture and formed a unique blend that is not formed elsewhere.
-
 - Example: **Blend of Parsi culture with indigenous culture in Maharashtra.** This diversity in cultural elements has aided India to be seen as a country that respects all traditions and beliefs. While the language differs across regions, people do communicate with each other by learning the other language. Protection given to one’s linguistic identity is what ensures that people of India remain together as a nation. Similarly, the food from the Southern part of India is famous in the Northern part and vice-versa because of the diversity in cuisine.
 
 
@@ -24569,14 +24431,11 @@ Source Question: Examine critically the various facets of economic policies of t
   - **High revenue demands and rigid collection methods led to famines, rural indebtedness, and the impoverishment of the peasantry.**
 - **Trade and commerce:** British economic policies **promoted the export of raw materials from India to Britain and the import of British manufactured goods to India.
 - This led to the transformation of India’s economy from a self-sufficient, diversified economy to a colonial economy dependent on the British.
-
 - **Deindustrialization:** 
 - **Indian handicrafts and small-scale industries could not compete with machine-made British goods,:** leading to widespread unemployment and the decline of local industries.
   - This process of deindustrialization severely undermined the economic self-sufficiency of India.
-
 - **Railways:** While the **railways contributed to the integration of the Indian market and improved transportation, their primary purpose was to serve British economic interests.
 - Moreover, the railways were financed through Indian resources, adding to the drain of wealth from India.
-
 - **Drain of wealth:** This included the repatriation of profits by British companies, salaries and pensions of British officials, and interest payments on loans taken for infrastructure projects like railways.
 
 
@@ -25183,13 +25042,10 @@ Source Question: Highlight the differences in the approach of Subhash Chandra Bo
 **Listed below are some key differences in their philosophies and methods:**
 - **Philosophy of resistance:** Mahatma Gandhi believed in non-violent resistance, employing methods like civil disobedience, non-cooperation, and satyagraha (passive resistance) to fight against British rule.
   - Subhash Chandra Bose advocated for a **more militant and revolutionary approach.** He believed that freedom could only be attained through a decisive armed struggle against the British.
-
 - **Leadership style:** Gandhi led the Indian National Congress (INC) and its various campaigns from the 1920s to the 1940s. His leadership style was characterized by **inclusivity, dialogue, and mass mobilization.
 - **Bose was elected president of the INC twice but eventually parted ways with the organization due to ideological differences. He went on to form the:** Forward Bloc** and later the Indian National Army (INA) to pursue a more radical and revolutionary path towards independence.
-
 - **Attitude towards the British:** Mahatma Gandhi aimed to secure independence through negotiations and peaceful demonstrations, which would compel the British to recognize the legitimate aspirations of the Indian people.
   - Subhash Chandra Bose believed that the British would only relinquish control of India if forced to do so through armed resistance.
-
 - **Alliances with foreign powers:** Gandhi generally avoided seeking alliances with foreign powers, believing that India’s struggle for freedom should be fought by Indians and based on the principles of non-violence and self-reliance.
 - Bose actively sought foreign assistance to challenge British rule in India. During World War II, he **aligned with Germany, Italy, and Japan** to form the INA, which fought alongside Japanese forces in the hope of driving the British out of India.
 
@@ -25652,7 +25508,6 @@ Source Question: The 1857 uprising was the culmination of the recurrent, big and
 **such as the Sanyasi Rebellion (1763-1800) and the Kol Rebellion (1831-1832).**
 - **Religious and cultural factors:** The **British policy of imposing Western culture, education, and religious values** led to resentment among the Indian population, who saw these measures as an assault on their customs and beliefs.
   - Additionally, **rumors about the use of cow and pig fat in the new Enfield rifle cartridges** angered both Hindu and Muslim soldiers, leading to the widespread rebellion in 1857.
-
 - **Political factors:** British annexation policies, such as the **Doctrine of Lapse,** caused discontent among Indian princely states that were forcibly absorbed into British India.
 - **The deposition of Bahadur Shah II,:** the last Mughal emperor, and the annexation of Oudh (Awadh) were significant triggers for the 1857 uprising.
 - **Key local rebellions before 1857:** Some notable examples include the Paika Rebellion (1817) in Odisha, the Santhal Rebellion (1855-1856) in present-day Jharkhand and Bihar, and the Vellore Mutiny (1806) in present-day Tamil Nadu.
@@ -26500,7 +26355,6 @@ Source Question: Trace the rise and growth of socio-religious reform movements w
   - The growth of the Young Bengal movement can be attributed to its members’ active participation in social reform.
   - They challenged social customs like caste discrimination, gender inequality, child marriage, and the practice of Sati.
   - The movement also contributed significantly to the spread of English education, as many Derozians went on to establish schools and colleges to promote modern education in Bengal.
-
 - **Brahmo Samaj:**
   - Brahmo Samaj, another prominent socio-religious reform movement, was founded by Raja Ram Mohan Roy (1772-1833) in 1828.
   - Roy was a visionary social reformer who aimed to reform the traditional Hindu society by blending the best elements of Hinduism with the principles of rationalism and humanism.
@@ -27188,7 +27042,6 @@ Source Question: Discuss the positive and negative effects of globalization on w
 
 **Positive effects of globalization on women**
 - **Change in value systems:** Liberal values: **have toned down the patriarchal mindset of Indian society. The belief that women should be homebound has changed. More women are independent and participate in family and societal** decision-making. **
-
 - **More opportunities:** Globalization has undermined the traditional role of women in homemaking, farming, livestock, animal husbandry, handicrafts, handlooms etc and resulted in a relatively better environment for women. Women are able to engage in productive labor outside their house which helps them raise their standard of living and boosts confidence.
 - **Changing role in Family, Marriage, Caste:** Globalization has posed a major challenge to the institution of patriarchy in India. As women take up jobs and achieve social mobility, they have also begun to stand up for their rights. Nuclear families have become more common and marrying within the same caste has become less important.
 - **Rise in access to education and skills:** Different NGOs have come up in India which impart literacy and **vocational skills to women.** These make women capable of improving their life.
@@ -27761,17 +27614,14 @@ Source Question: Several foreigners made India their homeland and participated i
   - She became involved in Indian politics and joined the Indian National Congress (INC).
   - Besant played a key role in launching the Home Rule League movement in 1916, which aimed at achieving self-government for India within the British Empire.
   - Her contributions helped create awareness about India’s political aspirations and garnered support for the independence movement.
-
 - **Sister Nivedita:**
   - Sister Nivedita was a social worker, author, and disciple of Swami Vivekananda.
   - She dedicated her life to India’s cultural and national awakening.
   - Nivedita actively supported Indian revolutionaries like Aurobindo Ghosh and Bagha Jatin, and was known to have provided financial and moral support to their activities. Her writings and lectures helped create awareness about the need for India’s independence and upliftment of its people.
-
 - **O. Hume:**
   - Allan Octavian Hume, a British civil servant, was a prominent figure in the early phase of the Indian freedom struggle.
   - He is best known for his role in founding the Indian National Congress (INC) in 1885.
   - Although Hume’s vision for the INC was initially limited to facilitating communication between the British administration and the Indian people, the organization later evolved into a major platform for the struggle for Indian independence.
-
 - **Mira Alfassa (The Mother):**
   - Mira Alfassa, also known as The Mother, was a French national who became a spiritual collaborator of Sri Aurobindo.
   - She played an essential role in spreading Aurobindo’s spiritual and nationalist ideas in India and abroad.
@@ -28881,7 +28731,6 @@ Source Question: Examine the linkages between the nineteenth century’s ‘Indi
 **Key elements of the Indian Renaissance and their connections to the formation of national identity include:**
 - **Social and religious reform movements:** The 19th century saw numerous movements aimed at eliminating social ills, such as caste discrimination and harmful traditional practices.
   - Reformers like Raja Ram Mohan Roy and Jyotirao Phule spearheaded these movements, fostering unity among diverse groups and instilling pride in Indian culture, which contributed to national identity formation.
-
 - **Rediscovery of Indian culture and heritage:** Leaders like Swami Vivekananda and Bal Gangadhar Tilak emphasized the importance of cultural revival in building national pride and identity, fostering a sense of shared history among Indians.
 - **Development of modern education:** Western-educated Indians initiated social and political discourse, inspiring others to challenge colonial rule and aspire for self-governance.
 - **Influence of prominent leaders and organizations:** Organizations like the Brahmo Samaj, Arya Samaj, and the Theosophical Society facilitated social and religious reforms. Leaders such as Raja Ram Mohan Roy and Annie Besant were instrumental in advocating for India’s cultural and intellectual revival.
@@ -29351,16 +29200,13 @@ Source Question: Since the decade of the 1920s, the national movement acquired v
 - **Gandhian ideology:** Mahatma Gandhi emerged as a prominent leader during this time, **advocating for non-violent civil disobedience, known as Satyagraha,** and passive resistance as a means to challenge British rule.
   - His campaigns, **such as the Non-Cooperation Movement** (1920-1922) and t **he Khilafat Movement** (1919-1924), garnered support from various sections of society, including peasants, workers, and the middle class.
 - **His emphasis on swaraj (self-rule) and the use of indigenous products (swadeshi):** resonated with the masses and attracted diverse groups to the national movement.
-
 - **Revolutionary nationalism:**
 - **Leaders like Bhagat Singh, Chandrashekhar Azad, and their organizations,:** such as the Hindustan Socialist Republican Association (HSRA), **advocated for armed struggle to achieve independence.
 - Although this approach had limited mass support, it inspired the youth and generated a spirit of sacrifice and patriotism.
 - **Socialism and communism:** The **formation of the Communist Party of India (CPI)** in 1925 and the **rise of socialist leaders like Jawaharlal Nehru and Subhas Chandra Bose helped address socio-economic issues** and attracted workers, peasants, and intellectuals to the nationalist cause.
-
 - **Identity-based movements:** 
 - **The Self-Respect Movement led by E.V. Ramasamy “Periyar” in Tamil Nadu,:** which focused on eradicating caste-based discrimination and promoting self-respect among the lower castes.
   - Similarly, **the demand for separate electorates for Muslims led by the All-India Muslim League** contributed to the communalization of Indian politics.
-
 - **Regional nationalism:** 
 - **Various linguistic and cultural groups demanded greater representation and autonomy:** within the Indian polity.
 - This development diversified the national movement and encouraged regional leaders to participate in the struggle for independence.
@@ -29816,9 +29662,7 @@ The early years after independence were a testing phase for India, marked by the
 
 **Polity: Building Unity and Democracy**
 - **Integration of Princely States:** Sardar Patel and V.P. Menon successfully integrated approx. **562 princely states** through diplomacy and force. It ensured territorial unity and prevented Balkanisation.
-
   - **Eg:** Junagadh: **in 1947,** Kashmir **in 1947–48,** Hyderabad **in 1948.**
-
 - **Adoption of the Constitution (1950):** India became a **sovereign democratic republic** with parliamentary democracy, secularism, and fundamental rights.
 - **First General Elections (1951–52):** Conducted with **universal adult franchise**, involving ~ **173 million voters**, the largest democratic exercise in the world at the time.
 - **Reorganization of States:** Linguistic demands led to the **States Reorganisation Act, 1956**, ensuring administrative efficiency and accommodating regional aspirations without secession.
@@ -29826,12 +29670,9 @@ The early years after independence were a testing phase for India, marked by the
 **Economy: Rebuilding and Planning**
 - **Planning Commission (1950):** Centralized economic planning was introduced to direct scarce resources.
 - **First Five-Year Plan (1951–56):** Focused on **agriculture, irrigation, and rural development** to overcome food shortages.
-
   - **Eg:** Bhakra-Nangal and Damodar Valley projects for irrigation and power generation.
-
 - **Land Reforms:** Abolition of the **zamindari system** and tenancy reforms in states like UP and Bihar aimed to redistribute land and reduce feudal oppression.
 - **Industrial Foundations:** Public sector undertakings established in steel, heavy industries, and energy.
-
   - **Eg:** Hindustan Machine Tools (HMT, 1953): **and the expansion of the** Bhilai steel plant **(with Soviet help).** Education: Laying Knowledge Foundations
 - **Education Commissions:** University Education Commission (1948–49) ***under S. Radhakrishnan, focused on quality higher education.*** Secondary Education Commission (1952–53) ***under Mudaliar, stressed modernization of school education.**
 - **Institution Building:** Establishment of **IIT Kharagpur (1951)** as India’s first IIT; expansion of agricultural universities.
@@ -31741,45 +31582,29 @@ The **French Revolution (1789–1799)** was a watershed movement in world histor
 
 **Political Relevance**
 - **Rise of Democracy:** The Revolution challenged the divine right of kings and asserted the sovereignty of the people.
-
   - **Eg:** France’s 1791 Constitution established a constitutional monarchy and later a republic, inspiring Europe-wide democratic movements.
-
 - **Legal Equality:** It abolished feudal privileges and created uniform laws.
-
   - **Eg:** The **Napoleonic Code (1804)** influenced legal systems in Italy, Spain, Latin America, and even modern civil law traditions worldwide.
-
 - **Popular Sovereignty:** Introduced the idea that legitimacy flows from citizens, not monarchs.
-
   - **Eg:** It Inspired the **Revolutions of 1848** and later movements in Asia and Africa.
-
 **Social Relevance**
 - **Social Equality:** Ended aristocratic and clerical privileges.
-
   - **Eg:** The Abolition of feudal dues (1789) broke landlord dominance over peasants.
-
 - **Women’s Rights Debate:** Sparked early feminist thought which eventually led to status of equality for women.
-
-  - **Eg:** Olympe de Gouges’s “Declaration of the Rights of Woman” (1791):** demanded gender equality.
-
+  - **Eg:** Olympe de Gouges’s “Declaration of the Rights of Woman” (1791) demanded gender equality.
 - **Mass Participation:** Peasants and commoners became political actors, inspiring later grassroots movements.
 - **Cultural Impact:** Revolutionary art, festivals, and symbols (Tricolour, Marseillaise) remain potent emblems of freedom.
-
 **Economic Relevance**
 - **Abolition of Feudal Economy:** Feudal dues and manorial rights were abolished.
 - **Redistribution of Land:** Confiscated church lands were sold, creating a new class of small peasant proprietors.
 - **Uniform Taxation:** Ended tax exemptions for nobility and clergy.
-
-  - **Eg:** Taille and tithe abolished:** , ensuring equality before revenue laws.
-
+  - **Eg:** Taille and tithe abolished, ensuring equality before revenue laws.
 - **Rise of Bourgeoisie:** The Middle classes gained prominence in trade, commerce, and administration, foreshadowing modern capitalism.
 - **State-led Economic Policies:** Revolutionary government undertook price controls, abolished internal tariffs, and promoted free trade in agriculture.
-
 **Global Relevance**
 - **Inspiration for Revolutions:** It sparked revolts worldwide. The **Haitian Revolution (1791–1804)** drew on French revolutionary ideals.
 - **Spread of Nationalism:** Ideas of self-determination influenced anti-colonial struggles.
-
   - **Eg:** The **Indian freedom movement** and leaders like Rammohan Roy admired its ideals.
-
 - **Human Rights Framework:** Inspired the modern charters like the **UN Universal Declaration of Human Rights (1948)**.
 - **Republicanism as a Global Norm:** Shift from monarchy to republican governance across Europe, Asia, and Latin America.
 - **Challenge to Imperialism:** Supported liberation movements in colonies, leaving a lasting anti-colonial legacy.
@@ -32117,13 +31942,10 @@ The American Revolution (1775-1783) was a multifaceted struggle for independence
 - **Mercantilism and British colonial policies:** Mercantilism was a dominant economic theory that linked a nation’s wealth and power to gold and silver accumulation.
   - Colonies served to benefit the mother country, providing raw materials and markets for goods.
   - British policies like the Navigation Acts enforced mercantilism, restricting American colonies’ trade and making them reliant on Britain for imports and exports.
-
 - **Taxation without representation:** A key grievance leading to the American Revolution was taxation without representation.
   - Acts such as the Stamp Act, Townshend Acts, and Tea Act exemplify British efforts to raise revenue from colonies, reflecting mercantilist policies that aimed to exploit the colonies for the mother country’s benefit.
-
 - **Economic self-interest and the desire for free trade:** Many colonists, especially merchants and traders, were frustrated with British mercantilist restrictions.
   - They sought economic self-determination and free trade, believing it would lead to prosperity. This desire fueled the revolutionary sentiment among the colonists.
-
 - **Economic impact of British policies:** British mercantilist policies and taxation measures hindered the colonies’ economic growth and caused financial hardships for colonists, contributing to discontent with British rule and support for the independence movement.
 
 
@@ -32712,13 +32534,10 @@ Source Question: Africa was chopped into states artificially created by accident
 **Body:**
 - **Historical context:** The Scramble for Africa occurred between 1884 and 1914 due to intense competition among European powers seeking territory and resources.
   - Driven by the Industrial Revolution’s increased demand for raw materials and new markets, these powers aimed to expand their influence and territories in Africa.
-
 - **The Berlin Conference (1884-1885):** The Berlin Conference formalized the division of Africa among European powers to prevent conflicts over colonization.
   - However, the boundaries drawn showed little regard for existing ethnic, cultural, and political divisions among African people, often due to limited knowledge and inaccurate maps.
-
 - **Motives behind colonization:** European powers colonized Africa due to economic interests, political competition, and the spread of cultural and religious beliefs.
   - This allowed them to exploit Africa’s resources and strengthen their global influence by competing with rivals.
-
 - **Artificial borders and lasting impacts:** Dividing Africa into artificial states had lasting consequences, as European-drawn borders often ignored existing ethnic, cultural, and political divisions.
 - This led to tensions and conflicts among diverse groups, and hindered the development of cohesive national identities, fostering political instability.
 
@@ -32841,13 +32660,10 @@ The American Revolution (1775-1783) was a multifaceted struggle for independence
 - **Mercantilism and British colonial policies:** Mercantilism was a dominant economic theory that linked a nation’s wealth and power to gold and silver accumulation.
   - Colonies served to benefit the mother country, providing raw materials and markets for goods.
   - British policies like the Navigation Acts enforced mercantilism, restricting American colonies’ trade and making them reliant on Britain for imports and exports.
-
 - **Taxation without representation:** A key grievance leading to the American Revolution was taxation without representation.
   - Acts such as the Stamp Act, Townshend Acts, and Tea Act exemplify British efforts to raise revenue from colonies, reflecting mercantilist policies that aimed to exploit the colonies for the mother country’s benefit.
-
 - **Economic self-interest and the desire for free trade:** Many colonists, especially merchants and traders, were frustrated with British mercantilist restrictions.
   - They sought economic self-determination and free trade, believing it would lead to prosperity. This desire fueled the revolutionary sentiment among the colonists.
-
 - **Economic impact of British policies:** British mercantilist policies and taxation measures hindered the colonies’ economic growth and caused financial hardships for colonists, contributing to discontent with British rule and support for the independence movement.
 
 
@@ -33356,13 +33172,10 @@ The “latecomer” industrial revolution in Japan refers to the rapid industria
 **Body:**
 - **Unique historical and cultural context:** Japan’s geographical isolation and limited natural resources necessitated a different approach to industrialization, focusing on maximizing available resources and adapting foreign technology.
   - Japan’s feudal structure and **strong central authority,** with the emperor at its apex, facilitated the implementation of **top-down policies** to drive industrialization.
-
 - **Role of the Meiji Restoration:** The Meiji Restoration (1868) marked the end of the feudal shogunate and the **beginning of a period of modernization and reform**. This event was a catalyst for Japan’s industrial revolution, as it opened the country to foreign influences and encouraged the adoption of Western ideas.
-
 - **Japan’s approach to industrialization:** Role of the state: The Japanese government played a crucial role in promoting industrialization, investing in infrastructure, subsidizing key industries, and establishing state-owned enterprises.
 - **Zaibatsu:** Powerful Japanese conglomerates, known as zaibatsu, were instrumental in driving industrialization, as they controlled vast resources and enjoyed strong government support.
 - **Emphasis on education:** Japan prioritized the development of human capital through investment in education and the promotion of a skilled workforce. This focus on education was essential for adapting and improving upon Western technologies.
-
 - **Selective borrowing and adaptation:** Japan strategically adopted and adapted Western technology and practices that suited its unique circumstances. This approach allowed Japan to learn from the West while maintaining its cultural identity and maximizing the efficiency of its industrialization process.
 
 
@@ -34307,11 +34120,9 @@ The Suez Crisis of 1956 was a pivotal event that marked a turning point in Brita
 
 **Nationalization of the Suez Canal:** This move was motivated by Egypt’s need for funds to construct the Aswan High Dam after the withdrawal of Western financial support.
 - **Tripartite collusion:** In response to the nationalization, **Britain, France, and Israel formed a secret alliance** to regain control of the canal and remove Nasser from power. Israel invaded Egypt in October 1956, followed by British and French intervention under the pretext of separating the warring parties and protecting the canal.
-
 - **International response to the crisis:**
 - **United States:** The U.S. applied financial and diplomatic pressure on Britain to withdraw its forces.
 - **United Nations:** The UN intervened and called for an immediate ceasefire, eventually deploying the United Nations Emergency Force (UNEF) to maintain peace and order in the region.
-
 - **Impact of the crisis on Britain:**
 - **Economic consequences:** The crisis led to a run on the pound, forcing the British government to seek financial assistance from the International Monetary Fund (IMF) and the United States.
 - **Political repercussions:** The crisis exposed Britain’s diminished global influence and its reliance on U.S. support. British Prime Minister Anthony Eden faced immense criticism and eventually resigned in January 1957.
@@ -35093,7 +34904,6 @@ Source Question: What is regional disparity? How does it differ from diversity? 
 
 **Regional disparity** refers to the **unequal distribution** of resources, development, and opportunities across different regions within a country, leading to imbalances in **economic growth** and **living standards**. Unlike **diversity**, which celebrates differences in culture and geography, **disparity** highlights inequalities. In India, regional disparity is a significant issue, with stark contrasts between prosperous areas and underdeveloped regions. **Regional Disparity**
 - **It refers to the:** unequal distribution **of resources, infrastructure, and development across different regions. This disparity affects** economic growth **,** social development **, and** quality of life **, creating a gap between developed and underdeveloped regions.** For example: **Despite government initiatives, states like** Maharashtra **and** Gujarat **have surged ahead in terms of industrialization, while regions like** Northeast India **continue to lag, resulting in widening economic imbalances.**
-
 - **Economic Inequality:** Regional disparity manifests as **economic inequality** where certain regions are more prosperous than others. **For example**: **Maharashtra’sper capita income** is significantly higher than **Odisha’s**, reflecting the industrial growth imbalance.
 - **Infrastructure Gap:** Disparity is visible in the **infrastructure development** between regions, affecting connectivity and access to basic amenities. **For example**: **Western India**, especially **Gujarat** and **Maharashtra**, boasts superior infrastructure compared to the underdeveloped regions of **Eastern India**.
 - **Resource Distribution:** Regions with **natural resources** may still remain underdeveloped if proper investment and industrialization do not occur. **For example**: **Jharkhand**, rich in coal reserves, lags behind industrialised **Gujarat** in economic growth.
@@ -35498,31 +35308,18 @@ Sects often arise in moments of uncertainty and they attract the marginalized se
  **Salience of ‘sect’ vis-a-vis Caste:** Caste is a system of social stratification in India that influences various aspects of the life of an individual.
 
 - **Sect as unifying factor:** Several sects form just so that the caste-based discrimination is not faced by the people. The marginalized sections of society are mostly lower castes and are thus more attracted towards sects.
-
   - g., **Buddhism** and Jainism started off against the ill-effects of the caste system in India.
-
 - **Sect as divisive factor:** Even within same castes, there may be several sects that may even be opposing in their basic features.
-
   - Brahmins as a caste are sub-divided into sects of Brahmins of Northern India & Southern India. **Salience of ‘sect’ vis-a-vis Region**:
-
 - **Geographically selected culture:** Sect reflects both the geography & culture of the region in which it develops. It is a way of accommodating local needs and aspirations within the mainstream religion.
-
   - Example: The **Shaikh are a Muslim community** found in the north Indian states. They have further sub-sects like siddiqui, farooqi, usmani, abbasi.
-
 - **Political identity:** Owing to rising socio-economic status, various sub-castes in India are asserting their dominance in regional political and social sectors.
-
   - Example: **Lingayats in Karnataka** control the regional politics heavily. **Salience of ‘sect’ vis-a-vis Religion**:
-
 - **Adherence to norms:** Both require their followers to adhere to certain ways of living.
-
 - **Shias and Sunnis:** are sects within Islam and they have different mosques, festivals and way of living too.
-
 - **Religion can be accommodative:** with various sects but, sect is always different & specific to a single value & culture.
-
 - **ISKCON:** is a sect that focuses on only worshiping Lord Krishna.
-
 - **Sect may become a new religion:** Over a period of time, sects may become institutionalized as separate religions.
-
 - For instance, **Buddhism and Jainism** started off as sects within Hinduism but gradually became established as separate religions.
 
 
@@ -35748,7 +35545,6 @@ Water masses refer to distinct bodies of water characterized by their temperatur
 
 **The mixing of warm and cold water currents creates a nutrient-rich environment that supports a diverse range of marine life.**
 - **Climate change:** Changes in ocean currents due to climate change can have significant impacts on marine life, altering water temperatures, and affecting the distribution and survival of various species. **Significant impacts on coastal environment**:
-
 - **Erosion:** Strong ocean currents can cause erosion along the coast, wearing away beaches and cliffs over time. E.g
 
 **The strong ocean currents along the coast of California have caused erosion in areas such as Big Sur**
@@ -35912,21 +35708,13 @@ Source Question: In the context of the diversity of India, can it be said that t
 **Though the government reorganized various states and also formed new states, the cultural units of India are more aligned with regions, rather than the State. This is so because:**
 
 - **Political boundaries are set up based on many different considerations:** The major consideration being the feasibility of creating a State and administrative convenience. **Cultural uniformity** is just one aspect and is not so focused upon since there is free movement within India across State boundaries.
-
   - Example: Telangana and Andhra Pradesh have similarity in Culture but due to large developmental gaps, they separated out. So the Andhra Pradesh region has a culture which is common to Telangana as well despite both being two different states.
-
 - **Culture is influenced by the environment:** Culture is a survival tool in any environment. This can be seen by the fact that the culture of people living by the coast would be totally different from those living in the hinterlands or cities within a State. Also, a similar environment across States would lead to similar culture.
-
   - For instance, people of **Konkan and Vidarbha have totally different cultures despite being in the State of Maharashtra.** Similarly, Rice-fish cuisine has been practiced across all coastal regions in different states.
-
 - **Culture flows as a continuum:** Culture is a way of life of people and thus people living in proximity would have similarities in culture. This similarity would not go away simply because of any political boundary. Culture would be spread across boundaries.
-
   - Example: Rural males in Southern Gujarat and Maharashtra prefer to wear white Gandhi cap, shirt and pajama, whereas in Northern Gujarat and Rajasthan, they prefer turbans, kurta and dhoti. Also, Eastern UP is more similar to Bihar culture than to Western UP.
-
 - **Cultural variations accumulate:** As culture varies locally, the variations accumulate and at some point, become highly distinct. This leads to different cultural regions within a State.
-
   - For instance, Kerala has a lot of differences in dialect, cuisine, way of life, etc across districts, although all of them are broadly termed as Kerala culture.
-
 - **North-East as a hub of diversity:** North Eastern states were formed on ethno-linguistic lines but Culture differs within and across the state. The tribes living in proximity would have distinct cultural practices that separates its identity from the others.
 
 **Even within the small state of Sikkim, we can see two broad cultural elements**
@@ -36062,13 +35850,10 @@ Source Question: Describe any four cultural elements of diversity in India and r
 **These can be seen as follows:**
 
 - **Linguistic diversity:** India is one of the most linguistically diverse countries. India has 22 languages as Scheduled languages in the Constitution with over 1100 distinct dialects. The dialects show a continuity which makes it easier for people to understand and communicate with each other. Distinct language and its vast literature acts as a source of pride among people.
-
   - But the linguistic diversity has also been a source of conflict. For instance, Goans are divided on the basis of Maratha and Konkani languages. In Belgaum there is a tug of war between Marathi and Kannada speaking people. Assam is confronted with Bengali and Assamese.
-
 - **Traditions, clothing, food:** India has a rich tradition of music, dance and cuisine, with each region having its own unique style of cooking and flavour.
 - **Festivals:** India has a plethora of festivals at local and regional levels. There are also festivals like Diwali, Holi, Eid, etc that are celebrated throughout India.
 - **Religious Diversity in India:** I:** ndia is home to a diverse range of religious beliefs, with Hinduism, Islam, Christianity, Sikhism, Buddhism, and Jainism among the most widely practiced religions in the country. Religious diversity in India has played a significant role in shaping the country’s social fabric and identity. The foreign religions have interacted with regional culture and formed a unique blend that is not formed elsewhere.
-
 - Example: **Blend of Parsi culture with indigenous culture in Maharashtra.** This diversity in cultural elements has aided India to be seen as a country that respects all traditions and beliefs. While the language differs across regions, people do communicate with each other by learning the other language. Protection given to one’s linguistic identity is what ensures that people of India remain together as a nation. Similarly, the food from the Southern part of India is famous in the Northern part and vice-versa because of the diversity in cuisine.
 
 
@@ -36297,31 +36082,20 @@ India’s **tribal communities,** constituting **8.6% of the population (Census 
 
 **Displacement as an Axis of Tribal Development**
 - **Development Projects and Dams:** Large-scale dams displaced lakhs of tribals.
-
   - **Eg:** Hirakud Dam (Odisha):** displaced ~20,000 families, mostly tribals.
-
 - **Industrialization and Mining:** Mineral-rich regions overlap with tribal belts, leading to frequent land alienation.
-
   - **Eg:** The **Niyamgiri Hills** mining project threatened the Dongria Kondh and their sacred groves.
-
 - **Forest and Environmental Policies:** Forest conservation laws curtailed tribal access to resources.
-
   - **Eg:** The **Forest Conservation Act (1980)** restricted shifting cultivation and fuelwood collection.
-
 - **Wildlife Conservation Displacement:** Protected areas led to the eviction of forest-dwelling tribals.
-
   - **Eg:** Sariska and Kanha reserves:** displaced forest communities.
-
 - **Violence and Resistance:** Displacement fostered alienation and insurgency in central and north-east India.
-
   - **Eg:** Narmada Bachao Andolan:** highlighted the tribals’ forced dislocation without proper consent.
 
 **Rehabilitation as an Axis of Tribal Development**
 - **Resettlement Policies:** TheGovernment introduced the **Land Acquisition Act 2013** and the **National R&R Policy 2007**.
 - **Land-for-Land Compensation:** Often promised but rarely implemented effectively.
-
   - **Eg:** In the **Sardar Sarovar Project**, many displaced tribals received cash instead of cultivable land.
-
 - **Housing and Infrastructure Schemes:** Some rehabilitation colonies provided housing, but lacked schools, hospitals, and livelihoods.
 - **Skill Development & Employment:** Training schemes were introduced, but poor implementation limited their impact.
 - **Constitutional and Legal Safeguards:**
@@ -36478,28 +36252,20 @@ Tribal communities in India are a diverse group, with significant differences in
 
 **But they can be considered to be a single entity on some counts:**
 - **Social Aspects:** 
-
 - **Endogamy:** Tribal people do not marry outside their group. This maintains their distinct identity.
 - **Distinct identity:** Most of them have a common language, community name, territory, etc., which marks them off from the others.
 - **Spatial Isolation:** They live happily away from the mainstream population.
-
 - **Economic Aspects:** 
-
 - **Self-sufficient:** The tribes are mostly self-reliant and have a system for ensuring the satisfaction of their needs outside the impact of the market forces.
 - **Dependent on Forests:** The tribal way of life is aligned with the forests. The tribes are dependent on forests for their life and livelihood.
 - **Deprivation:** Tribal communities in India are generally disadvantaged compared to the non-tribal population in terms of access to education, healthcare, and other basic services.
-
 - **Political Aspects:** 
-
 - **Distinct political organization:** Tribes have a distinct organized political authority, rather than the mainstream laws and executive authorities, that looks for their interests and welfare.
 - **Egalitarian values:** There is no caste or class distinction among most tribals. The stratification in society is mostly based on age or gender.
-
 - **Culture:** 
-
 - **Worship of a Common Ancestor:** The members of a tribe usually worship a common ancestor and also “Nature” worship is common in them.
   - **Distinct rituals, festivals, cuisine,**
 - **Legal:** 
-
 - Constitutional and legal provisions categorize tribes into a single category of **‘Scheduled Tribes’ (ST)** notwithstanding the diversity among them.
 
 
@@ -36690,14 +36456,10 @@ Source Question: Examine the role of &#8216;Gig Economy&#8217; in the process of
 
 **Gig economy can help in the process of empowerment of women in India in following ways:**
 - **Balance work and family:** Gig employment allows part-time work and flexible working hours which allows women to balance their traditional family roles (homemakers and caregiver) with employment.
-
   - For example, the rise of online platforms such as **Amazon and Flipkart** has created opportunities for women in rural areas to earn money by selling their products online.
-
 - **Flexibility to enter and exit:** Many women in India face barriers to employment due to cultural and societal norms. The gig economy provides women with on-demand work allowing her to join and drop-out of work force as per her own will.
 - **New employment opportunities:** With gig employment complemented by **work-from-home (WFH)** and technology, new employment opportunities for **women in tier 2 and 3 cities** have emerged where they do not need to travel much.
-
   - A boost in use of digital technology and increased acceptance of virtual working for sales and distribution jobs opens up opportunities for women to enter fields where interactions are managed through apps and phone calls.
-
 - It has addressed the **issue of safety** during travel and night shifts.
 - **Financial independence:** Gig employment helps women earn extra income, boosts her confidence and gives decision making power, all of which are important components of women empowerment.
 - **More rewarding jobs:** The gig economy has helped to provide women with access to higher paying, higher skilled work, such as consulting, design, and marketing, which can be more lucrative than traditional employment opportunities with gender wage gap.
@@ -36800,12 +36562,9 @@ The Indian monsoon, one of the most significant weather phenomena in South Asia,
 There is increasing evidence to suggest that human activities are affecting the behavior of the Indian monsoon:-
 
 - **Land Use Changes:** Human-induced alterations in the landscape that could impact the Indian monsoon are land-use changes. Agricultural expansion, deforestation have altered the land surface and vegetation cover, which could impact the atmospheric moisture balance and influence the behavior of the monsoon.
-
 - **E.g:** The Western Ghats and Northeast India, has affected the local climate and monsoon patterns. Deforestation in the Amazon rainforest has also been linked to changes in the South American monsoon
-
 - **Air Pollution:** The rapid industrialization and urbanization in cities like **Delhi** have led to severe air pollution, with high levels of particulate matter and pollutants. This pollution can affect the monsoon by altering cloud formation processes and reducing rainfall, as observed in studies linking air pollution with reduced precipitation over the Indo-Gangetic Plain.
 - **Climate Change:** Climate change, primarily driven by greenhouse gas emissions from human activities, is also likely to influence the behavior of the Indian monsoon. Rising temperatures, altered precipitation patterns, and changing weather patterns could have significant impacts on the timing, intensity, and duration of the monsoon.
-
 - **E.g:** Research suggests that increased warming over the Indian Ocean and decreased temperature gradients between land and ocean can lead to changes in the monsoon circulation, resulting in altered rainfall patterns and prolonged dry spells.
 
 
@@ -37916,9 +37675,7 @@ Source Question: How does Indian society maintain continuity in traditional soci
 **India has** maintained continuity **in traditional social values through:**
 
 - **Enculturation:** Cultural practices and traditions are transmitted from parents and grandparents to children. This includes teaching children about the importance of respect, obedience, and obedience to elders, as well as cultural practices such as rituals and customs.
-
   - For instance, despite urbanization and modernization, all members of the family are always encouraged to be together to celebrate Diwali.
-
 - **Religion:** Many people in India follow traditional religions such as Hinduism, Islam and Sikhism, which have their own set of values and beliefs that are passed down through the generations. These religions also provide a sense of community and belonging which reinforces the traditional values.
 - **Flexibility:** Indian culture has been flexible in accommodating different and even diverging viewpoints.
 - **Tolerance:** Indian society accepted and respected various religions and ensured that there is a peaceful co-existence of religions. In India, tolerance is found for all religions, castes, communities, etc.
@@ -37928,14 +37685,11 @@ Source Question: How does Indian society maintain continuity in traditional soci
 These changes are driven by a range of factors, including economic development, urbanization, and globalization. These changes have led to the erosion of some traditional values and the emergence of new ones. Following changes are taking place:
 
 - **Increased gender equality:** Traditional Indian society often had strict gender roles, with men and women having different roles and responsibilities. However, there has been a shift towards greater gender equality in recent years, with more women entering the workforce and taking on leadership roles.
-
 - **Modern education:** has made progressive values like gender equality, non-discrimination on caste lines etc. a part of the value system.
-
 - **Rise of individualism and decline in collective values:** Materialism and excessive competition have led to an increase in selfish pursuit of personal goals while the collective well-being of society is often ignored.
 - **Nuclearization of familyand decline of joint family as an institution:** .
 - **Increased tolerance for diversity:** Traditional Indian society often had strict social hierarchies and a strong sense of community, but there has been a shift towards greater tolerance for diversity in recent years, with people becoming more accepting of different cultures and ways of life.
 - **Social media is influencing our social values:** Information technology has facilitated quick transfer of information. Social media has led to greater awareness about the traditional Indian culture and value system.
-
 - But exposure to western values, detachment from family affairs due to more attention to social media, etc. has changed the continuity in traditional social life.
 
 
@@ -38961,7 +38715,6 @@ The **main objectives** of Population Education are:
 - **Promote responsible and informed decision-making about reproductive health:** This includes educating people about contraception, preventing unintended pregnancies, and reducing the spread of sexually transmitted infections.
 - **Encourage responsible and sustainable population growth:** This includes educating people about the impact of population growth on the environment and development, and encouraging them to consider the long-term implications of their reproductive decisions. Controlling population can facilitate the development of a **higher quality of life** in the nation.
 - **Foster responsible and sustainable consumption patterns:** This includes educating people about the impact of their consumption patterns on the environment and encouraging them to adopt sustainable lifestyles. **Measures to achieve these objectives:** India was the first country to explicitly announce its **Population policy in 1952**. The aim of the programme was to reduce birth rates “to stabilize the population at a level consistent with the requirements of the national economy”.
-
 - The government launched the **National Family planning program** with the aim of controlling population growth in a socially desirable direction by reducing **Total fertility rate to 2.1 (replacement rate)**.
 - **Providing access to accurate and comprehensive information and services:** This includes ensuring that people have access to accurate and comprehensive information about reproductive health and family planning, as well as access to services such as contraception and reproductive health care.
 - The government is also utilizing **NGOs** and **ASHA workers** to provide delivery of contraceptives and **educate people** in rural and urban areas about family planning.
@@ -39255,7 +39008,6 @@ Source Question: Discuss the positive and negative effects of globalization on w
 
 **Positive effects of globalization on women**
 - **Change in value systems:** Liberal values: **have toned down the patriarchal mindset of Indian society. The belief that women should be homebound has changed. More women are independent and participate in family and societal** decision-making. **
-
 - **More opportunities:** Globalization has undermined the traditional role of women in homemaking, farming, livestock, animal husbandry, handicrafts, handlooms etc and resulted in a relatively better environment for women. Women are able to engage in productive labor outside their house which helps them raise their standard of living and boosts confidence.
 - **Changing role in Family, Marriage, Caste:** Globalization has posed a major challenge to the institution of patriarchy in India. As women take up jobs and achieve social mobility, they have also begun to stand up for their rights. Nuclear families have become more common and marrying within the same caste has become less important.
 - **Rise in access to education and skills:** Different NGOs have come up in India which impart literacy and **vocational skills to women.** These make women capable of improving their life.
@@ -39889,14 +39641,10 @@ Source Question: Examine the role of &#8216;Gig Economy&#8217; in the process of
 
 **Gig economy can help in the process of empowerment of women in India in following ways:**
 - **Balance work and family:** Gig employment allows part-time work and flexible working hours which allows women to balance their traditional family roles (homemakers and caregiver) with employment.
-
   - For example, the rise of online platforms such as **Amazon and Flipkart** has created opportunities for women in rural areas to earn money by selling their products online.
-
 - **Flexibility to enter and exit:** Many women in India face barriers to employment due to cultural and societal norms. The gig economy provides women with on-demand work allowing her to join and drop-out of work force as per her own will.
 - **New employment opportunities:** With gig employment complemented by **work-from-home (WFH)** and technology, new employment opportunities for **women in tier 2 and 3 cities** have emerged where they do not need to travel much.
-
   - A boost in use of digital technology and increased acceptance of virtual working for sales and distribution jobs opens up opportunities for women to enter fields where interactions are managed through apps and phone calls.
-
 - It has addressed the **issue of safety** during travel and night shifts.
 - **Financial independence:** Gig employment helps women earn extra income, boosts her confidence and gives decision making power, all of which are important components of women empowerment.
 - **More rewarding jobs:** The gig economy has helped to provide women with access to higher paying, higher skilled work, such as consulting, design, and marketing, which can be more lucrative than traditional employment opportunities with gender wage gap.
@@ -40418,9 +40166,7 @@ Challenges faced by Indian women emanate from **Hegemonic patriarchy**, which is
 - **Lack of freedom:** Women in India do not have equal access to autonomy, freedom to move about freely outside the house, social freedom, etc compared to men.
 - **Motherhood penalty:** The primary responsibility of taking care of family and bringing up the child is still on the women. This includes unpaid care work such as childcare, elderly care, and household work.
 - **Declining female labor force participation rate (LFPR):** Many women have to retreat from the workforce due to family pressures. They face ‘dual burden’ i.e., they have to perform both family and professional responsibilities together.
-
   - Despite increasing levels of education and declining fertility rates, the current female LFPR is 25.1% compared to 57.5% for male.
-
 - **Commodification of women:** The women are either shown as docile homemakers or they are shown as sex symbols trying to convince the public at large to buy the product. **Domestic violence and dowry harassment** within the confines of the house are also extensions of this phenomenon
 - **Pink collar jobs:** The women are mostly deemed fit for “pink-collar jobs” only, such as **teachers, nurses, receptionist, babysitter, lecturer** which have been stereotyped for women. This denies them opportunities in other fields
 - **Glass ceilings:** Even when women show their potential in their fields, they face artificial barriers like stereotypes, media-related issues, sexual harassment at the workplace, informal boundaries, which prevent them from advancing upward in their organization into management-level positions. This is also reflected in an increasing wage gap between men and women.
@@ -40757,9 +40503,7 @@ Source Question: Discuss the various economic and socio-cultural forces that are
 Some major Causes for Feminization of Indian Agriculture are:
 
 - **Male Migration:** Agriculture distress has made it inevitable for men to seek alternatives, mostly casual labor. Males are more likely to migrate and move from rural to urban areas in search of better job opportunities, while females are primarily responsible for various roles in agriculture.
-
   - As per the 2011 census, approximately 1/3rd of rural male migrated to cities in search of employment and better economic opportunities leading to increased participation of women in agriculture and allied activities.
-
 - **Gender wage gap:** Men are paid more than women in many of the jobs. When a male can get more by working elsewhere, the low-income work of an agricultural laborer is left for women.
 - **Increased mechanization:** With increased use of machines, men have moved to other activities, while traditional physical work like harvesting are typified as women’s work. Women are thus more engaged as agriculture labor rather than as cultivators.
 - **Scope for exploitation:** Given the lack of literacy and skills for agriculture among women, they are more willing to accept low-paid irregular work and are easy to hire and fire.
@@ -40881,9 +40625,7 @@ Patriarchy in India varies in degree depending upon the region, community, class
 - **Child-rearing:** Childbirth is seen as an essential part of marriage and Child rearing is seen to be the responsibility of women alone among the traditional families. This makes it extremely difficult for women to work outside.
 - **Wage disparity:** Despite the same position and type of work, women earned less than their male counterparts. The provisions of maternity leave have further increased this issue as companies either do not prefer hiring women or pay them less than others.
 - **Earning but no say in decision making:** Women from the middle class earn money from working outside their home but her financial contribution does not give her any say in family decision making, since she is not considered smart enough to make decisions. This undervaluation results in low confidence and low productivity, while depriving them of the opportunity to showcase their talent.
-
   - For instance, “Glass ceiling” effect whereby Female employees are not considered for promotions above a certain grade as the patriarchal mindset considers them unsuitable.
-
 - **Safety concerns:** Middle class working women often depend on public transport and such other facilities to go to work. They further face sexual harassment at workplace. Lack of any security measures for women in a patriarchal society often leads to increasing crime against women. The fear induced among women and their families further imposes restrictions on her potential.
 - **Feminization of labor:** Females are considered apt for certain kinds of jobs, often called **‘pink-collar jobs’.** Teaching, nursing, hospitality, etc. Anything apart from these jobs are considered taboo by families and women are not allowed to enter such jobs.
 
@@ -41001,7 +40743,6 @@ Source Question: Why do some of the most prosperous regions of India have an adv
 - **Property:** The prosperous regions of India attach high value to their property. The social norms are such that only the male child gets to inherit the property. Due to this, the families prefer a male child.
 - **Social Practices:** Despite banning dowry and making it a criminal offense, the dowry system is still prevalent in India. In many cases dowry is taken even if the bride herself is economically independent.
 - **Accessibility to postnatal sex selection techniques:** Better income and awareness of postnatal sex selection techniques makes it easy for couples to access such technology, even if banned by law.
-
 - Child sex ratio reflects the imbalance between the number of girls and boys, indicating that the practice of sex selection (along with other factors such as selective neglect of girls) have led to a drastic decline in the number of girls compared to the number of boys.
 
 
@@ -41342,57 +41083,33 @@ Sustainable growth requires balancing economic development with environmental pr
 
 **How Environmental Protection May Conflict with Poor People’s Needs**
 - **Restrictions on Natural Resource Use:** Conservation laws often restrict access to forests, water, and grazing lands.
-
-  - **Eg:** Forest Rights Act (2006):*** implementation challenges led to eviction threats of tribal families in protected areas.
-
+  - **Eg:** Forest Rights Act (2006)**: implementation challenges led to eviction threats of tribal families in protected areas.
 - **Ban on Traditional Activities:** Environmental protection sometimes bans activities like fishing, shifting cultivation, or mining that support poor households.
-
   - **Eg:** Bans on ***sand mining in Kerala and Uttar Pradesh*** cut off income for daily-wage laborers.
-
 - **Displacement due to Conservation Projects:** Creation of national parks and sanctuaries has displaced marginalized groups.
-
   - **Eg:** The Establishment of ***Kanha National Park*** displaced the ***Baiga tribes*** in Madhya Pradesh.
-
 - **Higher Costs of Green Transition:** Shifting to renewable or energy-efficient technology can raise upfront costs for poor households.
-
-  - **Eg:** LPG under Ujjwala Yojana*:** reduces biomass use, but refill affordability remains a challenge, leading poor families back to firewood.
-
+  - **Eg:** LPG under Ujjwala Yojana**: reduces biomass use, but refill affordability remains a challenge, leading poor families back to firewood.
 - **Job Loss in Polluting Industries:** Closure of polluting small units impacts informal workers.
-
   - **Eg:** Delhi’s tanneries and brick kilns closures led to unemployment without alternative livelihoods.
-
 - **Urban Poor and Informal Housing:** Environmental regulations on riverbanks, wetlands, and forests often target slum settlements.
-
-  - **Eg:** Demolition of Yamuna floodplain*:** settlements in Delhi citing ecological concerns.
+  - **Eg:** Demolition of Yamuna floodplain**: settlements in Delhi citing ecological concerns.
 
 **How Sustainable Growth and Environmental Protection Can Support Poor People**
 - **Green Jobs and Renewable Energy:** Expansion of solar and wind sectors creates employment opportunities for rural youth.
-
   - **Eg:** India’s ***solar sector*** employed over 1.6 lakh workers in 2023 (IRENA).
-
 - **Improved Health through Pollution Control:** Reduction in biomass burning improves air quality and reduces disease burden.
-
-  - **Eg:** Ujjwala scheme:*** contributed to a fall in household indoor air pollution, lowering respiratory diseases.
-
+  - **Eg:** Ujjwala scheme**: contributed to a fall in household indoor air pollution, lowering respiratory diseases.
 - **Community-based Natural Resource Management:** Empowering locals in resource conservation ensures both livelihoods and sustainability.
-
-  - **Eg:** Joint Forest Management*:** in Odisha improved forest cover while providing NTFP income.
-
+  - **Eg:** Joint Forest Management**: in Odisha improved forest cover while providing NTFP income.
 - **Eco-Tourism as Income Source:** Conservation areas can create livelihood opportunities through tourism.
-
-  - **Eg:** Kaziranga National Park eco-tourism*:** provides jobs to local Assamese communities.
-
+  - **Eg:** Kaziranga National Park eco-tourism**: provides jobs to local Assamese communities.
 - **Sustainable Agriculture Practices:** Promoting millets, organic farming, and micro-irrigation ensures environmental protection with income security.
-
   - **Eg:** Declaring 2023 as the ***International Year of Millets*** encouraged millet farming, benefitting dryland farmers.
-
 - **Climate-Resilient Infrastructure:** The poor are most vulnerable to climate change. Building resilience (flood-resistant housing, irrigation facilities) protects both the environment and livelihoods.
-
   - **Eg:** The ***PM-KUSUM scheme*** provides farmers with solar pumps, reducing diesel dependence.
-
 - **Circular Economy and Waste-to-Wealth Models:** Waste collection, recycling, and composting provide livelihoods while protecting the environment.
-
-  - **Eg:** Self-Help Groups in Pune:*** run waste segregation and composting units profitably.
+  - **Eg:** Self-Help Groups in Pune**: run waste segregation and composting units profitably.
 
 
 
@@ -41734,13 +41451,10 @@ Cryptocurrency is a new emerging technology which is revolutionizing the way peo
 - **Greater integration:** Currently, the world is divided in terms of different currencies. Crypto bypasses this division and is increasingly becoming a sought-after way of transacting globally thereby integrating the global society.
 - **Crypto as an investment:** Cryptocurrency has emerged as a new asset class and is seen as an alternative to gold. However, fluctuation in the value of cryptocurrency has made both kings and beggars.
 - **Cheaper and safer transactions:** For consumers, transferring money becomes a lot cheaper and in certain instances, safer as well, as transactions cannot be replicated.
-
   - Due to the ease and speed of transaction it allows, crypto has empowered relief efforts in Ukraine. Ukraine accepts millions of dollars in donations via digital currencies and many Ukrainians have been drawn to cryptocurrency as a place to invest their money as there is no strong stock market alternative.
-
 - **Government control over economy reduces, reducing the hold on the society:** Cryptocurrencies take away the sovereign power of issuing currency making economic policy ineffective and diluting the bond between citizen and government.
 - **Crypto is used for funding activities that destabilize society:** Crypto is used by terrorist organization, drug cartels, money launderers, etc. which negatively impacts society at large. Anonymity in cryptocurrency has the potential to increase crime in society.
 - **Rise in inequality:** Cryptocurrency is acquired and used by the ones who belong to upper strata of the society, people who are digitally illiterate are being left behind. Thus, it can lead to a disproportionate rise in inequality. **Effect of Crypto on Indian Society** Crypto is still in a nascent phase in India, with a huge uncertainty about its future. Recently, the government brought a Cryptocurrency Bill to create a sovereign digital currency and also to control the proliferation of private cryptos. Following are the effects of crypto on Indian society:
-
 - **Rise of new crypto community:** With the rise of cryptocurrency, a new crypto community has emerged – that includes amateur investors, professionals and jobs have come up in the society. Example: Multiple crypto-exchanges have come up.
 - **Risk averse behavior among youth:** As an asset, cryptocurrency has offered huge returns in the past, so it has become a fad among Indian youth to invest in these volatile assets, overlooking the risk associated with it.
 - **Crypto as a means to transact in a cheaper way:** India is the largest receiver of remittances. People can save a lot of money spent on conversion, processing charges, etc.
@@ -42995,7 +42709,6 @@ Apart from these, the Government of India has taken up many legal initiatives fo
   - The Act seeks to prevent the commission of atrocities against the members of the Scheduled Castes and the Scheduled Tribes.
   - All offenses under the Act are cognizable and there is no provision of anticipatory bail.
   - The act provides for Special Courts for the trial of such offenses and for the relief and rehabilitation of the victims of such offenses and for matters connected.
-
 - **Forest Rights Act, 2006:** The ST population lives a life that is heavily dependent on forests for a variety of needs, including livelihood, habitation and other sociocultural needs. Their displacement from forests disturbs all aspects of their life, yet they were discriminated against in matters of rehabilitation and compensation.
 - FRA recognises the
 
@@ -43149,7 +42862,6 @@ Generally, the Scheduled Tribes are characterized by distinct culture, geographi
 
 **Article 330 and 332:** Reservation of seats for Scheduled Castes and Scheduled Tribes in the Lok Sabha and Legislative Assemblies of the States respectively
 - **Article 243D:** Reservation of seats (in Panchayats)
-
 - **Agency for monitoring safeguards**
 - **Article 338A:** National Commission for Scheduled Tribe (NCST) –:** It is the body tasked to oversee the implementation of various safeguards provided to STs under the Constitution or under any other law for time being in force and to evaluate the working of such safeguards.
 
@@ -43526,50 +43238,29 @@ Source Question: Do you think that globalization results in only an aggressive c
 
 **Globalization Fueling an Aggressive Consumer Culture**
 - **Mass Marketing and Brand Influence:** Global corporations aggressively shape consumer desires through targeted advertising.
-
   - **Eg:** Fashion brands like ***Shein*** release thousands of designs weekly, driving impulse buying among youth.
-
 - **Fast Fashion and Instant Gratification:** Short product life cycles create overconsumption.
-
-  - **Eg:** Zara and H&M:*** introduce new collections within weeks, fueling throwaway culture.
-
+  - **Eg:** Zara and H&M**: introduce new collections within weeks, fueling throwaway culture.
 - **Cultural Homogenization:** Western consumer brands often dominate over local practices.
-
-  - **Eg:** McDonald’s: ***and*** Starbucks ***are altering urban food culture in India, sidelining indigenous cuisines.**
-
+  - **Eg:** **McDonald’s** and **Starbucks** are altering **urban food culture in India**, sidelining indigenous cuisines.
 - **Digital Consumerism:** E-commerce platforms enable 24/7 access and discounts, normalizing excessive spending.
-
-  - **Eg:** Amazon’s Great Indian Festival*: **and***Flipkart Big Billion Days***fuel record sales annually.**
-
+  - **Eg:** **Amazon’s Great Indian Festival** and **Flipkart Big Billion Days** fuel record sales annually.
 - **Debt-driven Lifestyle:** Easy access to credit cards and EMIs encourages unsustainable spending.
-
   - **Eg:** RBI data shows youth credit card debt spiked in Tier-1 cities post-2020 pandemic recovery.
-
 - **Environmental Stress:** Overconsumption strains natural resources.
-
   - **Eg:** The **textile sector contributes 6–8% of global carbon emissions (ILO report, 2022)**, with India as one of the major producers.
 
 **Globalization Beyond Consumer Culture**
 - **Economic Growth and Job Creation:** Global integration fosters trade and employment.
-
   - **Eg:** India’s **IT** and **software services exports** crossed ***$200 billion*** in FY 2023–24, employing millions.
-
 - **Innovation and Technology Transfer:** Global collaborations enhance scientific advancement.
-
-  - **Eg:** ISRO–NASA NISAR satellite mission:*** symbolises technological synergy.
-
+  - **Eg:** ISRO–NASA NISAR satellite mission**: symbolises technological synergy.
 - **Entrepreneurship and Start-up Ecosystems:** Global capital and ideas support innovation.
-
-  - **Eg:** Flipkart, Ola*:** leveraged foreign investment to scale globally.
-
+  - **Eg:** Flipkart, Ola**: leveraged foreign investment to scale globally.
 - **Cultural Exchange and Inclusivity:** Globalization fosters pluralism.
-
   - **Eg:** Global spread of ***Yoga *and* Ayurveda*** has strengthened India’s soft power.
-
 - **Education and Knowledge Access:** Online learning platforms democratize education.
-
   - **Eg:** Indian students access global courses through ***MIT OpenCourseWare*** and *Coursera.*
-
 - **Global Social Awareness:** Cross-border movements mobilize youth.
   - **Eg:** Fridays for Future: **saw Indian students join***Greta Thunberg’s***climate campaign.**
 
@@ -43762,31 +43453,18 @@ The fast-food industry in India has grown at a CAGR of nearly **18% (2022–23, 
 
 **Why Fast Food Industries are Growing Despite Health Concerns**
 - **Urbanisation & Busy Work Culture:** Urban migrants and office-goers choose convenience over health.
-
   - **Eg:** IT hubs like **Bengaluru and Hyderabad** record the highest Swiggy/Zomato orders per capita.
-
 - **Youth-Centric Demographics:** With **65% of Indians under 35**, youth favour taste, affordability, and novelty over nutrition.
-
   - **Eg:** McDonald’s ***“Happy Price Menu”*** and KFC’s ***“Krushers”*** are directly targeted at college youth.
-
 - **Aggressive Marketing & Branding:** Global chains use celebrity endorsements and catchy campaigns that overshadow health messaging.
-
-  - **Eg:** PepsiCo’s tie-up with IPL*:** linked fast food/snacks with cricket fandom.
-
+  - **Eg:** PepsiCo’s tie-up with IPL**: linked fast food/snacks with cricket fandom.
 - **Digital Delivery Platforms:** Apps like ***Swiggy and Zomato*** penetrate Tier-2/3 towns, normalising fast-food access.
-
   - **Eg:** Swiggy: ***reported** 9,15,000 biryani orders on New Year’s Eve 2023 **.**
-
 - **Rising Incomes & Lifestyle Aspirations:** Growing disposable incomes sustain fast food as a symbol of modern living.
-
   - **Eg:** Domino’s India: ***doubled its outlets to** 1,800+ by 2023 **, catering to the aspirational middle classes.**
-
 - **Westernisation of Food Habits:** Burgers, pizzas, and fried snacks are perceived as symbols of cosmopolitan identity.
-
-  - **Eg:** Starbucks:*** outlets in metros have become urban lifestyle spaces for youth.
-
+  - **Eg:** Starbucks**: outlets in metros have become urban lifestyle spaces for youth.
 - **Policy Gaps in Regulation:** Weak checks on sugar, salt, and trans-fats allow companies to flourish.
-
   - **Eg:** India lacks a **traffic-light food labelling system,** unlike the UK.
 
 | **Health Concerns Linked to Fast Food Consumption** <br>• **Obesity Epidemic: NFHS-5** shows overweight prevalence in states like **Kerala (36%)** and **Punjab (33%)**. <br>• **Diabetes Burden: ICMR 2023**: over **100 million diabetics**, partly linked to high-sugar foods. <br>• **Hypertension & Cardiac Risks:** Excessive salt and fat intake in packaged foods exacerbate hypertension. <br>• **Micronutrient Deficiency:** Processed foods lack fibre and vitamins, leading to hidden hunger. <br>• **Erosion of Traditional Diets:** Decline in millet-based diets reduces nutritional diversity. <br>• **Eg:** FAO notes a **50% drop in millet consumption since the 1970s**. <br>• **Double Burden of Malnutrition:** Coexistence of undernutrition in rural areas and obesity in cities worsens health inequity. |
@@ -44160,31 +43838,21 @@ In the human world ‘resource’ is anything that can be used to fulfill our ne
 The relations between globalization and new technology in the world of scarce resources have varied facets. The positive aspects can be seen as follows:
 
 - **Globalization has made it possible to access scarce resources:** Globalization has led to easier access to new technologies to all the regions of the world.
-
   - **Example:** Lithium is present only at certain places, but it is extracted and sent to far away places and is being used in electronic gadgets globally. India is one of the biggest users of electronic items.
-
 - **Globalization has made it possible for nations to move beyond one’s resource restrictions:** The technologies of the developed countries are being transferred & used in the developing & least developed countries.
-
   - **Example:** Technology is the reason why water-scarce countries in West Asia are able to satisfy their needs. Globalization allows for this technology to be shared with other countries facing water-scarcity like India.
-
 - **Easier to extract maximum potential of scarce resources and reduce the demand for certain resources:** Globalization can help to increase the efficiency of resource use by allowing countries to specialize in the production of certain resources and trade them with other countries. This can help to reduce the overall demand for resources.
-
   - **Example:** New technologies such as renewable energy sources can help to reduce the reliance on non-renewable resources, such as fossil fuels.
-
 - **More power to consumers:** Globalization has allowed for greater competitive markets which ultimately benefits the customer with respect to improved quality of goods and services and reduction in cost.
-
   - **Example:** Internet:** has become the mainstay of today’s society as it has become cheap and
 
 **India is one of the biggest internet users.**
 - **Uniform standards:** Development of technology along with globalization has made it possible to develop uniform standards that allow for greater interoperability and wider reach of products.
-
   - **Example:** Mobile phone technology has uniform standards that allows for phones manufactured anywhere to be used anywhere globally. Similarly, solar panels, pharmaceutical products, etc are produced in India for the world because of uniform standards.
 
 **There are some negative aspects as well:**
 - **Resource curse:** Globalization has made scarce resources captive to the market forces. The poorer third world nations sitting on huge resource wealth are being exploited for feeding the extravagant life of the developed world.
-
   - **Example:** African nations:** feed resources to the Western world. Within India, areas in poorer States feed the resources needed to run industries based in cities.
-
 - **Inequality widens:** Most of the benefits of globalization are reaped by the rich who are the owners of technology. The rich become richer while the poor are unable to access the new technology or its benefits. This may also lead to conflicts. **The Oxfam report** highlights the rising inequalities in the countries and within the countries.
 - **Environmental degradation:** Increased demand for certain resources, such as water and land, can lead to resource depletion and environmental degradation. Growing resource scarcity can trigger zero-sum competition between countries. Various climate change reports highlight the destruction.
 - **Techno-nationalism:** The rise of new technologies in the globalized world is leading to techno nationalism wherein advanced countries dominate third world countries through AI, IoT etc.
@@ -44389,13 +44057,9 @@ Source Question: Is diversity and pluralism in India under threat due to globali
 
 **Areas where cultural diversity is at threat due to globalization:**
 - **Linguistic homogenisation:** The influence of transnational corporations has resulted in a central common language mainly **English,** which dominates regional dialects, and minority languages.
-
   - This impacts the development of local languages, literature and in some cases complete wipe-out of some local languages.
-
 - **Cultural homogenization:** There is increasing ‘ **McDonaldization’** of Indian food habits. Global market decides what’s to be produced, resulting in low incentive for diverse products which means Loss of local artifacts, promotion of western dressing, shift from local culinary habits etc.
-
   - Unmonitored access to Western culture has led to increasing misrepresentation, stereotyping and the risk of loss of culture.
-
 - **Individualisation of relations:** Community affiliation reduced due to globalization as the person is more concerned with one’s own interests rather than the communities.
 - **Nuclearization of family:** Joint family system broke down due to increase in economic migration and choice for individual space as part of globalization.
 - **Marriage:** As an institution, marriage has become more individualized and there is a greater acceptance for ideas like live-in relationships which exist outside the domain of traditional marriage.
@@ -44403,13 +44067,9 @@ Source Question: Is diversity and pluralism in India under threat due to globali
 But there is a **silver lining too**. Globalization has aided diversity in some aspects:
 
 - **Global opportunities:** English as a global language has led to opening up of job and education opportunities throughout the world. Indians have been particularly benefited in the services sector.
-
   - Globalization has aided interaction between people of different cultural backgrounds and helped people learn about other cultures. This has contributed to the emergence of new cultural practices and identities.
-
 - **Wider reach of Indian culture:** Technology has helped preserve some of the dying artifacts, document local languages, made some Indian dishes and artifacts globally popular and also exposed Indians to various global arts/movies etc.
-
   - Example: Yoga has become famous globally and today we have 21st June as **International Yoga Day**.
-
 - **Lesser importance to Caste:** Globalization has led to decreased emphasis on localized castes. Globalization has led to the rise of lower castes by making them aware of their rights. People eat together, and increased instances of inter-caste marriages are seen in the urban areas.
 - **Women empowerment:** Globalization has attacked the discriminatory tendencies and patriarchal mindset in India. It has helped in getting rid of practices derogatory to women and has helped in the rise of women and exposure of women related issues.
 
@@ -44670,9 +44330,7 @@ However, this concept, at present, is undergoing paradigm shifts. While the judi
 - **Misinterpretation of Secularism:** Some people interpret secularism as a rejection of traditional cultural practices and religious beliefs. This leads to the stigmatization of certain cultural practices as “backward” or “primitive”.
 - **Secularism as ‘anti-religion’:** This perception discourages various religious practices like rituals, clothing, thoughts etc. People who wear the saffron dress, who keep beard and pat skull cap (Taqiyah) and all considered fundamentalists. Those who do not believe in good or abandon their religious beliefs are marked as secular. This thought is leading to a slow degradation of cultural practices.
 - **Restrictions on Religious practices:** Certain religious practices have been banned in the name of secularism. These restrictions can be seen as an infringement on religious freedom and cultural practices.
-
   - **Example:** Judiciary banning **bursting of crackers; ban on Jallikattu;** Consumption of certain meats as per local preference is interrupted by **banning slaughter** of those animals.
-
 - **Right to Equality:** Secularism has been used as the basis for furthering principles like gender equality in religious practices. The practice of triple talaq and the ban on entry of women in Sabarimala temple were all declared unlawful by the Supreme Court.
 - **Discrimination in laws:** There are different civil laws for different religious communities. It is being sought to be unified into one in the name of secularism. But this would subdue the varieties in our cultural practices.
 - **Political manipulation:** The concept of secularism is sometimes used for political gains. This can lead to the suppression of certain cultural practices for the sake of electoral gains.
@@ -44998,16 +44656,13 @@ Globalization has impacted India’s cultural diversity in
 
 **both positive and negative ways:**
 - **Reduced interests in one’s own culture:** Due to globalization and media hype of western culture, awareness about one’s own culture reduced. People are blindly copying features of western culture and giving less importance to their own culture.
-
   - **Example:** Celebrating Christian New Year but neglecting the traditional Indian New Year (around April)
-
 - **Linguistic homogenisation:** English has come to dominate over regional dialects and minority languages. This has resulted in more opportunities for Indians to freely work across the globe. But at the same time, it has impacted the development of local languages, literature and in some cases complete wipe-out of some local languages.
 - **Cultural homogenization:** There is increasing ‘McDonaldization’ of Indian food habits and increasing interest in Western consumption goods. This has resulted in the loss of local artifacts, promotion of western dressing, shift from local culinary habits etc.
 - **Caste:** Globalization has led to decreased emphasis on localized castes. Globalization has led to the rise of lower castes by making them aware of their rights. Caste is a less relevant factor in raising one’s status in the society today.
 - **Nuclearization of family:** Community affiliation reduced due to globalization as the person is more concerned with one’s own interests rather than the communities. Joint family system broke down due to increase in economic migration and choice for individual space as part of globalization.
 - **Women empowerment:** Globalization has attacked the discriminatory tendencies and patriarchal mindset in India. It has helped in getting rid of practices derogatory to women and has helped in the rise of women and exposure of women related issues.
 - **Resurgence of traditions:** Globalization has also led to a renewed interest in India’s traditional culture and values in recent times. There is a greater awareness among people about our traditions than a few generations back.
-
 - For example, the **popularity of yoga, Ayurveda,** and other forms of traditional medicine has increased globally, leading to a renewed interest in India’s ancient knowledge systems.
 
 
@@ -45123,7 +44778,6 @@ Source Question: Discuss the positive and negative effects of globalization on w
 
 **Positive effects of globalization on women**
 - **Change in value systems:** Liberal values: **have toned down the patriarchal mindset of Indian society. The belief that women should be homebound has changed. More women are independent and participate in family and societal** decision-making. **
-
 - **More opportunities:** Globalization has undermined the traditional role of women in homemaking, farming, livestock, animal husbandry, handicrafts, handlooms etc and resulted in a relatively better environment for women. Women are able to engage in productive labor outside their house which helps them raise their standard of living and boosts confidence.
 - **Changing role in Family, Marriage, Caste:** Globalization has posed a major challenge to the institution of patriarchy in India. As women take up jobs and achieve social mobility, they have also begun to stand up for their rights. Nuclear families have become more common and marrying within the same caste has become less important.
 - **Rise in access to education and skills:** Different NGOs have come up in India which impart literacy and **vocational skills to women.** These make women capable of improving their life.
@@ -45998,22 +45652,15 @@ While the expression of hierarchy has changed to a large extent in recent times,
 In fact, in recent times, the caste system has been evolving and is assuming new identities. This can be seen in following ways:
 
 - **Political:** Unlike the old structure, various caste communities have strengthened themselves by forming **political parties based on caste identity**. **Example** – Bahujan Samajwadi Party, due to which caste based political mobilization has been increasing.
-
   - Similarly, there is a rising demand for **caste-based allocation of electoral seats**. **Example:Lingayats demand** that they be considered as minority communities.
-
 - **Caste has gone beyond its traditional scope:** Today, **caste-based associations** provide scholarships, residential coaching facilities for competitive exams, support for business, etc. This encourages people to identify more with their caste identity.
 - **Uneven benefits:** Development policies targeting backward castes and scheduled people have only benefited a particular section of the population. These classes have emerged as oligarchs and have created divisions within the backward castes. These policies have strengthened caste-based mobilization.
-
   - **Example:** Major castes like **Maratha, Khap and Patidar have been demanding reservation.** Socially empowered and land-owning communities like the Jats have also united themselves and are demanding reservation.
-
 - **Discrimination still exists:** Caste-based discrimination is still widely prevalent in India, with the lower castes facing social exclusion and violence.
 - **Social:** Due to the effects of globalization and technological development, with more inter-ethnic marriages, strict rules of marriage and succession have slowed. But the expression of social exclusion and maintaining caste-based division by communities has not disappeared, instead, it has become more subtle.
-
   - **Example:** matrimonial advertisements:** demand brides and grooms from particular communities.
-
 - **Caste has grown beyond Hinduism:** In fact, caste is an important factor for marriage, death and other ceremonial rites even among Muslims and Christians. Example: For Dalits converting to Christianity, states like Kerala have separate community names, separate cemeteries, etc.
 - **Caste based social media groups:** Social media has reshaped caste mobilization and caste associations have used it to create discourse, ideate, and connect with each other, and the world.
-
 - Trending caste based hashtags on Twitter, videos on YouTube, etc are ways to keep caste consciousness alive among people.
 
 
@@ -46840,28 +46487,17 @@ Civil services in India embody a distinctive ethos shaped by two complementary p
 
 **How Civil Service Ethos Combines Professionalism with Nationalistic Consciousness**
 - **Meritocratic Recruitment with Constitutional Commitment:** Professionalism begins with a rigorous, merit-based UPSC examination, but the larger purpose is service to the nation.
-
-  - **Eg:** UPSC*:** ensures all-India recruitment cutting across caste, class, and region.
-
+  - **Eg:** UPSC**: ensures all-India recruitment cutting across caste, class, and region.
 - **Neutral Implementation with Democratic Accountability:** Professional ethos requires political neutrality, but it is guided by loyalty to constitutional democracy.
-
   - **Eg:** IAS/IPS officers during elections function under the ***Election Commission***, ensuring both neutrality and the preservation of democratic rights.
-
 - **Efficiency in Development with an Inclusive National Vision:** Professionalism emphasizes efficient policy execution, while a nationalistic ethos ensures inclusion of marginalized groups.
-
-  - **Eg:** Direct Benefit Transfer (DBT):*** combines professional efficiency (leakage reduction) with a nationalistic goal of welfare for the poor.
-
+  - **Eg:** Direct Benefit Transfer (DBT)**: combines professional efficiency (leakage reduction) with a nationalistic goal of welfare for the poor.
 - **Specialized Knowledge Serving Public Interest:** Training equips civil servants with technical expertise, but its application is oriented to national development.
-
   - **Eg:** Engineers like ***E. Sreedharan*** applied professional skills to projects such as the Delhi Metro, combining efficiency with a vision of national progress.
-
 - **Crisis Management with Commitment to Society:** Professional crisis-handling is infused with a nationalistic duty to safeguard citizens’ lives.
-
   - **Eg:** Civil servants coordinated migrant relief, vaccination, and logistics during the **Kerala flood relief (2018)***,* blending technical management with human empathy.
-
 - **Administrative Neutrality with Nation-Building Role:** Officers are trained to be impartial administrators, yet they serve as instruments of unity and integration.
 - **Policy Formulation Guided by Ethical Values:** Professional competence shapes policy design, while nationalistic consciousness ensures policies uphold equity and justice.
-
   - **Eg:** Land reforms (1950s):** implemented by civil servants, balancing efficiency with equity.
 
 
@@ -47243,16 +46879,13 @@ Source Question: Do you agree that regionalism in India appears to be a conseque
 - **Cultural differences:** India is a diverse country with a multitude of cultures and languages, and regionalism can be seen as a way for people to preserve and celebrate their unique cultural identities.
 - **Historical injustices:** Some regions may feel that they have been marginalized or treated unfairly by the Union, leading to a desire for greater autonomy and self-governance. Regionalism becomes a tool for them to mobilize the masses using their cultural symbols.
 - **Political parties:** Political parties often use regionalism as a campaign platform in order to appeal to voters in their respective regions. This can fuel regional identity and a sense of loyalty to one’s own region.
-
   - The reservation of jobs for locals in private companies in many states like Haryana, Karnataka, etc.
-
 - **Social media:** It highlights various facets of regional culture and identity to bring together people belonging to a region. This cultural assertiveness further leads to regionalism.
 - **Imposition of a conflicting ideology or aspiration:** Linguistic aspirations and expression of ethnicity have long remained a formidable basis of regionalism. Example: Imposition of Hindi became a trigger for regional movements in Southern states.
 
 But it is not just about cultural assertiveness, some regional movements are due to genuine issues faced by the people of the region:
 
 - **Crisis situations:** Cultural identity becomes a tool to mobilize people in situations like high unemployment, poverty, uneven development, continuous neglect of a region, etc despite being rich in natural resources. This leads to ‘Son of soil’ movements with regional identity as its basis.
-
 - Ill-conceived top-down approach for development or survival of one region at the cost of the other region.
 
 
@@ -47419,13 +47052,9 @@ Source Question: What is the basis of regionalism? Is it that unequal distributi
 **There are multiple reasons for the sentiment of regionalism to rise among certain sections. These maybe as follows:**
 
 - **Cultural differences:** India is a diverse country with a multitude of cultures and languages, and regionalism can be seen as a way for people to preserve and celebrate their unique cultural identities.
-
 - **Gorkhaland:** is a demand among people living in Bengal who have a distinct culture from the mainstream society there.
-
 - **Historical injustices:** Some regions may feel that they have been marginalized or treated unfairly, leading to a desire for greater autonomy and self-governance. Regionalism becomes a tool for them to mobilize the masses using their cultural symbols.
-
   - The **Jharkhand movement** was a typical example of how historical neglect of the needs of the people living in the region led to rise of regionalism and eventual bifurcation of Bihar state.
-
 - **Imposition of a conflicting ideology or aspiration:** Linguistic aspirations: **and expression of ethnicity have long remained a formidable basis of regionalism. Example:** Imposition of Hindi **became a trigger for regional movements in Southern states.**
 
 But more than these, **uneven development** in different parts of the country may be construed as the prime reason for regionalism. This is manifested in the case of Telangana and is being seen now in the case of **Vidarbha and Gorkhaland.** The following may be some factors behind uneven development triggering the feeling of regionalism:
@@ -47782,22 +47411,17 @@ Tolerance allows divergent ideas, customs, beliefs, and lifestyles to flourish i
 - **‘Vasudhaiva Kutumbakam’:** is a phrase in Maha Upanishad, a Hindu religious text which essentially means “the world is family”.
 - **India has been the living example of tolerance:** Buddhism, Jainism, Sikhism are religions that arose in India. India is home to most of the major religions globally. India has always stood on the principle of **‘Dharma nirapekshata’.
 - Majority of the Kings and emperors of ancient India always adhered to the principle of tolerance. This ensured that the social and cultural diversity was not disturbed and the society remained secular.
-
 - **Constitutional provisions:** The state doesn’t have a recognized religion. Fundamental rights guaranteed by the state’s constitution (Articles 25 to 28), guaranteeing that everyone has the right to practice any religion, represent the state’s tolerance of all religions. **Pluralism as a key element of Indian Secularism:** While tolerance is essential, it still showcases the lack of acceptance. With pluralism, the **differences start to be seen as complementary**. By embracing pluralism, India is able to celebrate and appreciate its diversity, while also promoting a sense of unity and shared values.
-
 - **Cultural features vary:** significantly among different groups **but they are accepted by each other.
 - For instance, festivals like Diwali, Christmas and Eid are celebrated with equal fervor throughout India.
-
 - Religions like Christianity and Islam were introduced by invaders, yet they coexisted with the rest of the society without losing their distinctive identities.
 - When multiple religious communities coexist, over time they begin to **incorporate elements of one another’s** art, architecture, culture, and religion.
-
   - For instance, Mughal art is the result of the fusion of Persian Islamic architecture and native Indian design. The Mughal art in turn strongly influenced the Rajput paintings of Jaipur and Amber. **Assimilation as a key element of Indian Secularism**:
 
 Assimilation is the process whereby individuals or groups of differing ethnic heritage are absorbed into the dominant culture of a society. Assimilation involves the incorporation of diverse groups and cultures into a larger society.
 
 - **Unity in diversity:** In India, assimilation is seen through the view that diversity is a strength, and that by embracing different cultures and traditions, the country can become more united and cohesive.
 - **‘Indian culture’:** Differences in cultures blend together so seamlessly that despite variations, there are several commonalities that lead to a general idea of an ‘Indian culture’.
-
   - For instance, an Indian Muslim or Christian is closer to Indian Hindu than to Christians of Europe or Muslims of West Asia.
 - The Sufi saints are revered by all Indians irrespective of their faith.
 
@@ -48029,9 +47653,7 @@ However, this concept, at present, is undergoing paradigm shifts. While the judi
 - **Misinterpretation of Secularism:** Some people interpret secularism as a rejection of traditional cultural practices and religious beliefs. This leads to the stigmatization of certain cultural practices as “backward” or “primitive”.
 - **Secularism as ‘anti-religion’:** This perception discourages various religious practices like rituals, clothing, thoughts etc. People who wear the saffron dress, who keep beard and pat skull cap (Taqiyah) and all considered fundamentalists. Those who do not believe in good or abandon their religious beliefs are marked as secular. This thought is leading to a slow degradation of cultural practices.
 - **Restrictions on Religious practices:** Certain religious practices have been banned in the name of secularism. These restrictions can be seen as an infringement on religious freedom and cultural practices.
-
   - **Example:** Judiciary banning **bursting of crackers; ban on Jallikattu;** Consumption of certain meats as per local preference is interrupted by **banning slaughter** of those animals.
-
 - **Right to Equality:** Secularism has been used as the basis for furthering principles like gender equality in religious practices. The practice of triple talaq and the ban on entry of women in Sabarimala temple were all declared unlawful by the Supreme Court.
 - **Discrimination in laws:** There are different civil laws for different religious communities. It is being sought to be unified into one in the name of secularism. But this would subdue the varieties in our cultural practices.
 - **Political manipulation:** The concept of secularism is sometimes used for political gains. This can lead to the suppression of certain cultural practices for the sake of electoral gains.
@@ -48497,9 +48119,7 @@ These are cities that are experiencing growth at rates much faster than Tier-1 c
 - **Increased entrepreneurial activity:** Majority of the Tier-2 Cities like Jaipur, Surat, Indore, Calicut, etc have attracted **huge investments and are start-up hubs**. This leads to **more employment** opportunities and also more innovation in the market which helps spur demand.
 - **Social media and exposure to western consumerism:** Proliferation of Internet and increased exposure to social media has led to rising aspirations. This has boosted consumer demand across sectors. The **availability and affordability of e-commerce** has made it easier for the middle class to fulfill these aspirations.
 - **Better than Tier-1 cities:** The **moderate cost of living** in Tier 2 cities encourages greater consumption because of the affordability of a better lifestyle. The Tier-2 cities also have **greater ease of living** which is reflected in the Ease of Living Index.
-
 - **Five of the top 10 cities in the Ease of Living (EOL) index are Tier-2 cities:** , namely Ahmedabad, Surat, Coimbatore, Vadodara, and Indore and Tier-2 cities typically have **10% – 35% lower cost of living** as compared to the nearest Tier-1 location
-
 - **Infrastructure development:** Enhanced connectivity, attractive real estate prices, better amenities, less crowded, etc. and a focus on improving the quality of infrastructure attracts the middle class and investors. This leads to further boom in the tier-2 economy.
 - **New market:** The capacity to consume along with the availability of all major consumer brands has led to Tier-2 cities to be established as the new market. The tourism footfall has also increased in these cities leading to increased focus on providing quality amenities and hospitality. These further boosts middle class aspirations and thereby the growth of Tier-2 cities.
 - **Government Initiatives:** like Make in India, Stand-up India, Start-up India, MUDRA Yojana, JAM Trinity, UDAN, etc. in tier 2 cities have brought more people into the fold of the middle class by increasing disposable income and providing them with avenues to spend.
@@ -48715,9 +48335,7 @@ Source Question: What are the main socio-economic implications arising out of th
 
 **Some positive implications are:**
 - **Economic boost:** Development of IT industries in major cities has led to development of massive **employment opportunities**. This rise in employment led to the **rise of new middle, higher income and improved standard of living. Greater focus on consumption** has led to the development of ancillary businesses as well.
-
   - The IT industry contributes to about 8% of GDP.
-
 - **Gender parity:** The labor force participation of **women in quality jobs is comparatively more in these cities** due to development of IT industries. It has led to their financial independence and empowerment.
 - **Social infrastructure:** Development of IT industries have given **boost to the social infrastructure as the people working in IT industries aspire for and are willing to pay for good quality services**. This could be seen in high **availability of schools, hospitals, transport facilities, etc.** in these cities.
 - **Migration:** As these cities have become the **center of knowledge economy**, there is a marked preference among the educated youth to migrate into these cities for
@@ -48729,9 +48347,7 @@ Source Question: What are the main socio-economic implications arising out of th
 There are some **negative implications** as well. They can be seen as follows:
 
 - **Imbalanced development and economic disparity:** Concentration of IT industry in a **handful of major cities** has led them to develop faster than the semi urban Tier 2 and 3 cities. Moreover, there is also a **huge wage gap** between IT workers and other workers.
-
   - For example, tier 2 and 3 cities like Lucknow, Jaipur, Chandigarh, Bhubaneshwar, Indore were developing slower than their surrounding IT based cities like Delhi, Gurugram, Mumbai, etc.
-
 - **Brain drain:** The concentration of the IT industry in major cities has led to a brain drain in other parts of the country, as people flock to the cities in search of employment opportunities.
 - **Increased cost of living:** Rising real estate prices and increased competition for skilled workers make it difficult for people from lower end jobs in the IT industry to continue to live in these cities.
 - **Stressful way of living:** The inevitability of a job has led to people working beyond their capacity, creating a work-life imbalance. This leads to stress which impacts physical and mental health and also affects family relations.
@@ -49714,16 +49330,13 @@ Globalization has impacted India’s cultural diversity in
 
 **both positive and negative ways:**
 - **Reduced interests in one’s own culture:** Due to globalization and media hype of western culture, awareness about one’s own culture reduced. People are blindly copying features of western culture and giving less importance to their own culture.
-
   - **Example:** Celebrating Christian New Year but neglecting the traditional Indian New Year (around April)
-
 - **Linguistic homogenisation:** English has come to dominate over regional dialects and minority languages. This has resulted in more opportunities for Indians to freely work across the globe. But at the same time, it has impacted the development of local languages, literature and in some cases complete wipe-out of some local languages.
 - **Cultural homogenization:** There is increasing ‘McDonaldization’ of Indian food habits and increasing interest in Western consumption goods. This has resulted in the loss of local artifacts, promotion of western dressing, shift from local culinary habits etc.
 - **Caste:** Globalization has led to decreased emphasis on localized castes. Globalization has led to the rise of lower castes by making them aware of their rights. Caste is a less relevant factor in raising one’s status in the society today.
 - **Nuclearization of family:** Community affiliation reduced due to globalization as the person is more concerned with one’s own interests rather than the communities. Joint family system broke down due to increase in economic migration and choice for individual space as part of globalization.
 - **Women empowerment:** Globalization has attacked the discriminatory tendencies and patriarchal mindset in India. It has helped in getting rid of practices derogatory to women and has helped in the rise of women and exposure of women related issues.
 - **Resurgence of traditions:** Globalization has also led to a renewed interest in India’s traditional culture and values in recent times. There is a greater awareness among people about our traditions than a few generations back.
-
 - For example, the **popularity of yoga, Ayurveda,** and other forms of traditional medicine has increased globally, leading to a renewed interest in India’s ancient knowledge systems.
 
 
@@ -49830,7 +49443,6 @@ Source Question: Discuss the positive and negative effects of globalization on w
 
 **Positive effects of globalization on women**
 - **Change in value systems:** Liberal values: **have toned down the patriarchal mindset of Indian society. The belief that women should be homebound has changed. More women are independent and participate in family and societal** decision-making. **
-
 - **More opportunities:** Globalization has undermined the traditional role of women in homemaking, farming, livestock, animal husbandry, handicrafts, handlooms etc and resulted in a relatively better environment for women. Women are able to engage in productive labor outside their house which helps them raise their standard of living and boosts confidence.
 - **Changing role in Family, Marriage, Caste:** Globalization has posed a major challenge to the institution of patriarchy in India. As women take up jobs and achieve social mobility, they have also begun to stand up for their rights. Nuclear families have become more common and marrying within the same caste has become less important.
 - **Rise in access to education and skills:** Different NGOs have come up in India which impart literacy and **vocational skills to women.** These make women capable of improving their life.
@@ -50032,42 +49644,25 @@ Smart cities in India aim to **reduce urban poverty** by **improving access to h
 
 **Addressing Urban Poverty in Smart Cities**
 - **Affordable Housing:** Smart cities integrate ***Pradhan Mantri Awas Yojana (PMAY–Urban)*** for slum rehabilitation and affordable housing.
-
   - **Eg:** Ahmedabad Smart City: ***constructed over** 10,000 affordable housing units **for slum dwellers.**
-
 - **Slum Redevelopment and Upgradation:** Use of GIS mapping and smart planning for in-situ slum rehabilitation.
-
   - **Eg:** Pune:** adopted GIS-based mapping for slum redevelopment under its Smart City plan.
-
 - **Skill Development and Livelihood Creation:** Smart cities converge with **DAY-NULM** (Deendayal Antyodaya Yojana – National Urban Livelihoods Mission) to create jobs.
-
   - **Eg:** Indore:** smart city linked NULM to street-vendor training and e-rickshaw support.
-
 - **Improved Service Delivery:** Smart metering, waste collection apps, and e-governance ensure poor households get uninterrupted utilities.
-
   - **Eg:** Bhubaneswar: **smart city implemented***24×7 water supply***with household-level meters.**
-
 - **Accessible Urban Mobility:** Smart cities promote affordable, inclusive transport for low-income groups.
-
-  - **Eg:** Kochi Smart City*:** integrated metro with feeder auto-rickshaw services for daily wage workers.
+  - **Eg:** Kochi Smart City**: integrated metro with feeder auto-rickshaw services for daily wage workers.
 
 **Ensuring Distributive Justice in Smart Cities**
 - **Inclusive Urban Planning:** Participatory planning ensures poor communities have a voice.
-
-  - **Eg:** Bhubaneswar’s Child-Friendly City Plan:*** involved slum children in planning safe spaces.
-
+  - **Eg:** Bhubaneswar’s Child-Friendly City Plan**: involved slum children in planning safe spaces.
 - **Equitable Resource Allocation:** Focus on providing basic amenities to underserved areas, not just elite enclaves.
-
-  - **Eg:** Indore Smart City*:** extended 24×7 water supply to slum clusters, reducing inequity.
-
+  - **Eg:** Indore Smart City**: extended 24×7 water supply to slum clusters, reducing inequity.
 - **Transparent Governance:** Use of ICT (apps, grievance portals, dashboards) enhances accountability and fair distribution.
-
   - Eg:*Surat Smart City’s* e-governance portal allows real-time grievance redressal for poor households.
-
 - **Environmental Justice:** Cleaner air, sanitation, and waste management improve quality of life for the poorest.
-
-  - **Eg:** Indore Smart City’s waste segregation system*:** benefited slum dwellers working as informal waste pickers.
-
+  - **Eg:** Indore Smart City’s waste segregation system**: benefited slum dwellers working as informal waste pickers.
 - **Gender and Social Equity:** Women, migrants, and vulnerable groups integrated in policy design. ***Bhubaneswar Smart City*** established gender-sensitive public spaces and e-rickshaw support for women vendors.
 - **Integration with Welfare Schemes:** Smart Cities Mission dovetails with PMAY, AMRUT, Swachh Bharat, and NULM to ensure distributive justice.
 
@@ -51008,7 +50603,6 @@ Generally, the Scheduled Tribes are characterized by distinct culture, geographi
 
 **Article 330 and 332:** Reservation of seats for Scheduled Castes and Scheduled Tribes in the Lok Sabha and Legislative Assemblies of the States respectively
 - **Article 243D:** Reservation of seats (in Panchayats)
-
 - **Agency for monitoring safeguards**
 - **Article 338A:** National Commission for Scheduled Tribe (NCST) –:** It is the body tasked to oversee the implementation of various safeguards provided to STs under the Constitution or under any other law for time being in force and to evaluate the working of such safeguards.
 

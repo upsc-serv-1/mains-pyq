@@ -32,7 +32,6 @@ Source Question: Religious indoctrination via digital media has resulted in Indi
 - **Recruitment and Radicalization:** The digital reach of ISIS allows it to indoctrinate and recruit individuals from India.
   - This can lead to homegrown terrorist attacks.
 - **For instance, reports suggest that several Indian youth, such as Areeb Majeed from Maharashtra,:** were radicalized online and joined ISIS ranks, posing a potential risk of homegrown terrorism.
-
 - **Social Discord:** ISIS’s extremist ideology can exacerbate sectarian tensions in India, a country marked by its religious diversity.
   - **Online propaganda promoting such divisive narratives can fuel social unrest and communal violence.**
 - **Threat to National Unity:** The appeal of ISIS to disenfranchised or marginalized groups can further deepen social divisions, threatening national unity.
@@ -267,10 +266,8 @@ Source Question: Examine the impact of liberalization on companies owned by Indi
 
 **Impact of Liberalization on Indian companies**
 - **Impact on MSMEs:** With liberalization, the list of items reserved for small-scale sectors was substantially curtailed and many new sectors were thrown open to big players. This reduced the certainty for MSMEs and exposed them to international competition.
-
   - But, the MSME sector has managed to survive and still remains one of the major contributors to GDP, exports and private sector employment.
   - Value addition, product innovation and technology adoption remain dismal and they exist only on the back of government support.
-
 - **Impact on Services Sector:** Due to the IT revolution and much cheaper and skilled human resources, numerous jobs shifted from developed countries to India resulting as seen in the rise of BPOs, LPO, software development, etc. Liberalization eased it much further.
 - **Telecom Sector:** After reforms, private companies entered the telecom sector which was monopolized by the public sector till then and was full of inefficiencies. Entry of modern Direct to Home services saw improvements in quality of Television services on one hand and loss of livelihood for numerous local cable operators.
 - **Education and Health Sector:** Post liberalization there has been a rapid increase in the proportion of private schools, colleges and hospitals. Free markets provide goods and services to people who can afford to pay for them, not to those who deserve and need these.
@@ -364,9 +361,7 @@ Source Question: Adoption of the PPP model for infrastructure development of the
 
 **But PPPs in India have not been free of criticism. Some of these criticisms are:**
 - **Lack of regulatory framework:** India lacks a comprehensive and consistent regulatory framework for PPPs, which can lead to problems such as lack of transparency and accountability.
-
 - **Vijay Kelkar Committee:** on PPP recommended setting up independent sector-wise regulators for PPP projects.
-
 - **Limited participation of private sector:** PPP projects in India have been criticized for the limited participation of the private sector, with many projects being dominated by state-owned enterprises and government- owned corporations. Even among the private sector, it is a handful of very large conglomerates who get the projects.
 - **Insufficient risk transfer:** Critics argue that PPP projects in India have not effectively transferred risks to the private sector, leaving the government liable for many of the risks associated with the project.
 - **Lack of competition:** PPP projects in India have been criticized for the lack of competition among private sector partners, resulting in higher costs and lower quality.
@@ -474,10 +469,8 @@ Source Question: Examine the impact of liberalization on companies owned by Indi
 
 **Impact of Liberalization on Indian companies**
 - **Impact on MSMEs:** With liberalization, the list of items reserved for small-scale sectors was substantially curtailed and many new sectors were thrown open to big players. This reduced the certainty for MSMEs and exposed them to international competition.
-
   - But, the MSME sector has managed to survive and still remains one of the major contributors to GDP, exports and private sector employment.
   - Value addition, product innovation and technology adoption remain dismal and they exist only on the back of government support.
-
 - **Impact on Services Sector:** Due to the IT revolution and much cheaper and skilled human resources, numerous jobs shifted from developed countries to India resulting as seen in the rise of BPOs, LPO, software development, etc. Liberalization eased it much further.
 - **Telecom Sector:** After reforms, private companies entered the telecom sector which was monopolized by the public sector till then and was full of inefficiencies. Entry of modern Direct to Home services saw improvements in quality of Television services on one hand and loss of livelihood for numerous local cable operators.
 - **Education and Health Sector:** Post liberalization there has been a rapid increase in the proportion of private schools, colleges and hospitals. Free markets provide goods and services to people who can afford to pay for them, not to those who deserve and need these.
@@ -824,10 +817,8 @@ In the GPS era, Standard Positioning Systems (SPS) offer an accuracy of about 20
 - **Increased Accuracy:** NAVIC provides positional accuracy of less than 20 meters within the Indian region and an area extending 1500 km around it, which is quite favorable compared to the SPS.
 - **Strategic Security:** NAVIC strengthens national security by providing precise locational intelligence to the military, aiding in surveillance, reconnaissance, and missile guidance.
 - **Aid to Civilian Activities:** NAVIC can significantly benefit various civilian sectors.
-
 - **For example, it can enhance the efficiency of logistics and transport through accurate navigation.:** In agriculture, precise locational data can help with land management and precision farming.
   - Furthermore, it can assist disaster management operations by providing accurate and real-time positional data.
-
 - **Economic Growth:** The development of NAVIC opens opportunities for the growth of industries related to space technology, creating jobs, fostering innovation, and thereby contributing to economic growth.
 
 
@@ -1045,33 +1036,22 @@ The **Indian economy** now faces **headwinds** as the global order shifts from f
 
 **Challenges Before the Indian Economy**
 - **Reduced Market Access:** Tariffs and non‑tariff measures in key destinations threaten India’s export competitiveness.
-
   - **Eg:** Debates over **EU carbon border rules and US tariff actions** illustrate rising entry hurdles for Indian goods.
-
 - **Investment Uncertainty:** Developed countries are tightening checks on foreign investments. This can slow Indian companies from buying firms or getting new technology, which hurts their edge in high‑tech industries.
 - **Inflationary Pressures:** Export curbs abroad raise input costs and insecurity.
-
   - **Eg:** Commodity export controls and war‑related price spikes have inflated India’s import bill and disrupted supplies.
-
 - **Pressure on services and mobility:** Tighter visa regimes and data rules in advanced economies can constrain **India’s IT–BPM exports** and movement of **skilled workers,** affecting a major source of surplus.
 - **Volatile capital flows:** Global uncertainty can trigger outflows, weaken the rupee, and raise borrowing costs for Indian firms.
 
 **Measures to Meet These Challenges**
 - **Diversify Export Markets:** Grow sales in Africa, Latin America, and the Middle East to cut reliance on a few markets.
-
   - **Eg:** India–Africa, India–UAE CEPA.
-
 - **Strengthen Domestic Manufacturing:** Use PLI and Make in India to boost local production, reduce imports, and raise high‑value exports.
-
   - **Eg:** Electronics and Pharma Sector.
-
 - **Strategic Trade Agreements:** Seal smart bilateral or regional pacts to secure tariff cuts and standards access.
-
   - **Eg:** India–UK FTA:** talks post‑Brexit.
-
 - **Integrate into GVCs:** Plug into global value chains (GVCs) in electronics, pharma, and IT to scale, specialise, and export more.
 - **Trade Facilitation and Tech Upgradation:** Improve ports, customs, and digital trade systems to cut time and cost for exporters.
-
   - **For instance:** Paperless trade initiatives.
 
 
@@ -2153,13 +2133,9 @@ Source Question: Account for the failure of the manufacturing sector in achievin
 
 **Reasons for failure of labor-intensive manufacturing sector:**
 - **Lack of skilled labour:** Workers moving out of agriculture into export-oriented manufacturing industries do not have the requisite skill set. This results in jobless growth.
-
   - The proportion of formally skilled workers in India is extremely low, at 4.69% of total workforce, compared to 24% in China and 52% in US.
-
 - **Lack of ease of doing business:** in India due to labour market rigidities, tax uncertainties, impediments to entrepreneurial growth have further hindered the expansion of a labour-intensive export manufacturing.
-
   - India ranks 63rd among 190 nations as per EoDB report 2020.
-
 - **Complex labour laws:** There is a huge mesh of labour related laws in India which makes it difficult for employers to navigate. Also, there is no provision for public social security for these labourers making it a burden on the employers.
 
 **Measures to Promote Labour-Intensive Exports**
@@ -2440,7 +2416,6 @@ Source Question: What were the reasons for the introduction of Fiscal Responsibi
 - **Government is:** required to limit the fiscal deficit to 3% of the GDP by March 31, 2021**.
 - Government is required **to limit debt of the central government to 40% of the GDP by the year 2024-25**.
 - It was mandated by the act that the following must be placed along with the Budget documents annually in the Parliament:
-
   - Macroeconomic Framework Statement
   - Medium Term Fiscal Policy Statement and
   - Fiscal Policy Strategy Statement
@@ -3378,13 +3353,9 @@ When economic growth of a country benefits all sections of the population, reduc
 
 - **Inclusive growth approach takes a longer-term perspective:** Inclusive growth policies aim to ensure access to basic services such as education, healthcare, and housing for all members of society. All of these would lead to gains in the future development of the country.
 - **Inclusive growth leads to a wider distribution of wealth:** which creates demand. It focuses on productive employment rather than income redistribution as a means of increasing incomes for excluded groups. This will lead to domestic demand-driven growth which is sustainable in the long run.
-
   - For instance, the Economic survey suggests creation of jobs in the textile and leather sector. Natural fibres and leather are biodegradable and renewable natural resources (unlike jobs in the mining or plastic sector).
-
 - **Strong foundations:** Inclusive growth addresses the structural and fundamental problems in society and the economy. These strategies build strong foundations that are more sustainable for long term transformations.
-
   - Example: Jan Dhan Yojana focused on incorporating the unbanked masses into the financial sector. Financial inclusion leads to greater savings and investment thereby starting a virtuous cycle.
-
 - **Withstanding shocks:** Inclusive growth creates a strength in the economy to withstand shocks and growth becomes sustainable in the longer run.
 - **Environmental sustainability:** Inclusive growth policies aim to protect natural resources as inclusiveness is about the environment as well. With better wealth distribution people move away from polluting sources of energy such as wood, cow dung, etc and adopt more environment-friendly energy sources such as LPG or renewable energy sources. This makes inclusiveness a sustainable process.
 
@@ -3700,9 +3671,7 @@ Poverty and Low human development
 - **Poverty:** has been the major reason for poor performance in human development. Poor people lack the capability and resources and are impacted the most in case of governance failure.
 - **Poor education and skill set:** force individuals to be either underemployed or productively employed (disguised unemployment).
 - **Underemployment:** has been another core concern. Lack of high productivity and high wage jobs has forced underemployment. Skilled labour would provide India a competitive edge for exports from India.
-
   - Due to a dearth of high-productivity, high-wage positions, underemployment is rife. As part of its 3-year Action Plan Agenda, Niti Ayog has proposed setting aside special economic zones along the coast for labour-intensive production.
-
 - **A focus on export manufacturing:** has been recommended for India. The availability of skilled labour would give Make in India an edge in the export market. Furthermore, it has been suggested that seasonal workers be allowed to work on a temporary basis. **Following are the measures can be taken facing these challenges
 - **The:** government must invest in social infrastructure** like education, health and skill development.
 - The **focus in the education sector** has shifted from infrastructure development to improving learning outcomes.
@@ -5170,15 +5139,13 @@ Source Question: Explain the difference between computing methodology of India�
 
 ### Introduction
 
-**GDP is defined as a measure that expresses the economic value of a country’s economic activities. In other words, it is the market value of all the goods and services produced within an economy in a particular period. In 2015, a new series was announced to calculate India’s GDP by upgrading the methodology with new data sources to meet UN standards.** Body **:**
+**GDP is defined as a measure that expresses the economic value of a country’s economic activities. In other words, it is the market value of all the goods and services produced within an economy in a particular period. In 2015, a new series was announced to calculate India’s GDP by upgrading the methodology with new data sources to meet UN standards.** Body ***:
 
 **Difference between old and new methodology:**
 - **Change in Base Year:** Prior to 2015, the base year for calculation of GDP was 2004-05. Post 2015, the base year was changed to 2011-12. Change of base year to calculate GDP is done in line with the global exercise to capture economic information accurately.
 - **Broadening of database:** The performance of the manufacturing sector was previously evaluated using data from the **IIP and the Annual Survey of Industries (ASI)** which has **about 2 lakh companies**. Post-2015, the firms’ annual accounts filed with the **Ministry of Corporate Affairs (MCA 21)** are used, which includes **around five lakh companies**.
 - **GDP at factor cost replaced by GDP at market price:** Previously, GDP at factor cost was calculated. Post-2015, the international practice of GDP at market price and for sector-wise estimation, Gross Value added (GVA) at basic price has been adopted.
-
   - The new measures include not only the cost of production but also product subsidies and Taxes.
-
 - **Calculation of labour income:** Prior to 2015, there was no difference in the way labour income for different kinds of labour was calculated. The new series has used a concept called “effective labour input” i.e., different weights are assigned on whether one was an owner, a hired professional or a helper.
 - **Larger coverage of agriculture and financial sector:** Earlier, only the farm produce was considered as a proxy for agricultural income. Post-2015, value addition in agriculture including other factors like livestock data are considered. Similarly, the financial sector now includes stock brokers, stock exchanges, asset management companies, mutual funds and pension funds, as well as the regulatory bodies, SEBI, PFRDA and IRDA.
 
@@ -5951,15 +5918,12 @@ Source Question: Enumerate the indirect taxes which have been subsumed in the go
 **The GST replaced the following taxes:** <p align="center"><img src="pwonlyias/images/pw_economic_development_q457_img1.webp" alt="GST" /></p>
 
 - At the Central level, the following taxes have been subsumed in the GST:
-
   - Central Excise Duty
   - Additional Excise Duty
   - Service Tax
   - Countervailing Duty
   - Special Additional Duty of Customs
-
 - At the State level, the following taxes have been subsumed in the GST:
-
   - State Value Added Tax/Sales Tax,
   - Entertainment Tax (other than the tax levied by the local bodies),
   - Central Sales Tax (levied by the Centre and collected by the States)
@@ -6301,26 +6265,16 @@ Source Question: “Investment in infrastructure is essential for more rapid and
 
 **Investment in infrastructure is essential for more rapid and inclusive economic growth:**
 - **Creation of Jobs:** Infrastructure development such as road construction, real estate, railway construction, etc. is labour intensive, leading to increase in employment opportunities in formal and informal sectors and thus, fuelling domestic demand.
-
 - **MGNREGA:** is a shining example of this aspect.
-
 - **Multiplier effect:** Capital expenditure has a multiplier of 2.45 and hence it would revive both demand and supply leading to expeditious economic growth and more employment opportunities.
-
 - **The National Infrastructure Pipeline (NIP):** for FY 2019-25 aims to provide world-class infrastructure to citizens and improve their quality of life.
-
 - **Improved connectivity:** Infrastructure investment leads to improved connectivity within and between regions, which in turn leads to greater economic integration and interdependence. This can lead to increased trade and commerce, which can drive economic growth.
-
   - **Example:** Bharatmala and Sagarmala projects, Transit corridors, etc.
-
 - **Logistic Cost:** Building world class roads, railways, ports, inland waterways, will cut down logistic costs and improve competitiveness and promote exports. Currently, Indian logistic cost is around 12-14% of GDP while the benchmark is 7-8% of GDP.
-
 - **Gati Shakti scheme:** or **National Master Plan for multi-modal connectivity plan** with the aim of coordinated planning and execution of infrastructure projects will bring down logistics costs.
-
 - **Farmer’s Income:** Investment in infrastructure would play a critical role in ensuring doubling of farmers income through focus on increased irrigation infrastructure and storage, processing and marketing infrastructure.
 - **Inclusive growth:** Infrastructure investment can also contribute to more inclusive growth by providing access to education, healthcare, and other social services to underserved or disadvantaged communities.
-
   - For instance, **Pradhan Mantri Awas Yojana** (Housing for All by 2022) aims at providing a pucca house with basic amenities to all houseless households living in kutcha and dilapidated houses by 2022.
-
 - **Increased productivity:** Infrastructure investment also leads to increased productivity as it enables the smooth flow of goods and services, reduces transaction costs and enhances the efficiency of production processes.
 
 
@@ -7212,9 +7166,7 @@ Source Question: There is also a point of view that Agricultural Produce Market 
 
 - **Monopoly of APMC:** It deprives farmers from better customers, and consumers from original suppliers. This makes farming less profitable for farmers.
 - **Cartelization:** It is quite often seen that agents in an APMC get together to form a cartel and deliberately restrain themselves from higher bidding. Produce is procured at manipulatively discovered price and sold at higher price. Hoarding of goods by APMC agents leads to food inflation.
-
   - The situation is especially dire for perishable commodities which the farmers are forced to sell at the quoted price since they are in no position to bargain or store their produce till the price increases.
-
 - **Entry Barriers:** License fee in these markets are highly prohibitive. Farmers also have to pay commission, marketing fee, APMC cess which pushes up costs. This hampers growth of agriculture while also increasing the risk of food inflation.
 - **Conflict of Interest:** APMC plays a dual role of regulator and Market. But its role as regulator is undermined by vested interest in lucrative trade.
 - **Other Manipulations:** Agents have a tendency to block a part of payment for unexplained or fictitious reasons. Farmers are sometimes refused payment slips (which acknowledges sale and payment) which is essential for him to get a loan. This hampers investments in the next cropping cycle leading to stagnation of agriculture productivity.
@@ -7378,9 +7330,7 @@ Source Question: How are the principles followed by the NITI Aayog different fro
 - **Fundamental basis:** Planning Commission worked on the ideals of socialism which became largely irrelevant post LPG reforms. NITI Aayog aims for competitive federalism between states in a free market economy.
 - **Competitive federalism:** NITI Aayog has prepared online dashboards to rank the states on various indicators of development such as Sustainable Development Goals (SDG) India Index, Health Index, School Education Quality Index, Digital Transformation Index etc. This helps in replicating the best practices in different States in various sectors.
 - **Decentralization:** NITI Aayog works on participatory decision making along with states while the Planning commission was largely a centralized decision-making body.
-
   - The involvement of chief ministers in the planning process of India improves the spirit of cooperative federalism and participatory planning unlike Planning Commission which was usually headed by union ministers or technocrats.
-
 - **No Financial powers:** The Planning Commission used to allocate funds to states while NITI Aayog is only an advisory body.
 - **Inclusive growth:** The NITI Aayog focuses on inclusive growth and aims to address regional imbalances and disparities in development. The Planning Commission also had similar goals, but its approach was often criticized for being top-down and not sufficiently inclusive.
 - **Coordination between Centre and States:** NITI Aayog has helped in bringing convergence among central and state government and across different ministries to push the agenda of development forward through initiatives like 115 Aspirational Districts.
@@ -7558,14 +7508,10 @@ As per OECD, inclusive growth is economic growth that is distributed fairly acro
 
 **Inclusive growth is difficult in a market economy because:**
 - **Access to essential services:** The profit-driven efficient utilization of market economy does not take into consideration the deprivations faced by the marginalized sections of the population leading to further socio-economic marginalization of the weaker sections.
-
   - Example: Displacement of people for setting up of industries makes the people deprived in every aspect of their life.
-
 - **No leverage for government:** The absence of government intervention does not leave any substantial scope for the government to control the economy and spend on social welfare schemes.
 - **Income inequality:** A distorted and GDP-focused approach promoted by the market economy hinders inclusive growth.
-
   - India’s top 1% owned more than 40.5% of its total wealth in 2021, according to a report by Oxfam. From 8.5% in 1991 to 2.8% in 2021, the lowest 50% ‘s share of the nation’s wealth has decreased steadily.
-
 - **Imbalanced:** The market economy focuses on a particular type of product, sector and workforce and is concentrated in certain regions with favourable conditions.
   - **Example:** Skilled workforce of Bengaluru is employed, while others in and around the city are excluded. The growth is also concentrated in cities.
 - **Unsustainable:** The market economy is led by consumerism and it rarely seeks to be in line with a region’s natural environment. This makes the growth of a market economy non-inclusive as the future generation is deprived of all the natural resources.
@@ -7576,13 +7522,9 @@ Financial inclusion is an important component of the inclusive growth envisaged 
 
 **Role of financial inclusion in promoting economic growth in India:**
 - **Expand resource base:** Financial inclusion contributes to economic development by fostering a culture of saving among a significant portion of the rural population and expanding the financial system’s resource base.
-
   - For instance, more than 43 billion beneficiaries have deposited money through PMJDY since it began, totalling Rs. 146,231 billion.
-
 - **Stimulate economic activity:** Financial Inclusion facilitates access to credit and financial resources which can help promote the entrepreneurial spirit and increase productivity.
-
   - For instance, PM Mudra Yojana was aimed at this aspect. With the availability of capital, more MSMEs, start-ups, etc., can be established that can play a crucial role in economic growth.
-
 - **Financial Inclusion leads to conditions for greater economic growth:** Technology like UPI helps in plugging leakages, increase savings avenue and thereby ensure greater integration with the formal financial services in the country. This promotes growth in the economy.
 - **Security:** The availability of insurance and pension schemes ensures that people are not so worried about their future and thus are able to invest in economic growth.
 
@@ -8483,18 +8425,12 @@ India wants to be a semiconductor hub to cut import dependence, secure supply ch
 
 **Challenges Faced by the Semiconductor Industry**
 - **High capital cost:** A modern fab needs investments of **$10–20 billion** with multi‑year gestation;
-
   - **Eg:** The **Tata Electronics–Powerchip (PSMC) greenfield fab** at Dholera was cleared with about ₹91,000 crore.
-
 - **Energy & Water Requirement:** Semiconductor fabs need stable power and ~2 million litres/day of ultra-pure water per fab.
 - **Human Resource crunch:** India has strong chip design talent but fewer trained process, equipment, and yield engineers for 24×7 fab lines.
-
   - **Eg:** Talent often migrates to the USA, Taiwan, and South Korea.
-
 - **Supply chain and export‑control risks:** Heavy import dependence for equipment, specialty gases, and wafers exposes projects to geopolitical shocks.
-
   - **Eg:** USA-India: **tariff tension,** India-China **unbalanced tie-ups.**
-
 - **Intense global competition:** India competes with **Taiwan, South Korea,** the **United States, and China,** all offering deep subsidies and supplier ecosystems. **Way out:** India can become a semiconductor hub by **assuring long-term subsidies, reliable low-cost power and water, training fab-ready talent** through cleanroom programs and labs, **partnering for process technology** while **localizing chemicals, gases, and spare parts** to reduce disruptions. **India Semiconductor Mission** The India Semiconductor Mission launched in **2021** is the nodal program with a **₹76,000 crore outlay** to connect policy to projects in a way to build an end‑to‑end ecosystem for the semiconductor industry.
 
 **Salient Features of Indian Semiconductor Mission (ISM)**
@@ -8589,13 +8525,9 @@ Source Question: Account for the failure of the manufacturing sector in achievin
 
 **Reasons for failure of labor-intensive manufacturing sector:**
 - **Lack of skilled labour:** Workers moving out of agriculture into export-oriented manufacturing industries do not have the requisite skill set. This results in jobless growth.
-
   - The proportion of formally skilled workers in India is extremely low, at 4.69% of total workforce, compared to 24% in China and 52% in US.
-
 - **Lack of ease of doing business:** in India due to labour market rigidities, tax uncertainties, impediments to entrepreneurial growth have further hindered the expansion of a labour-intensive export manufacturing.
-
   - India ranks 63rd among 190 nations as per EoDB report 2020.
-
 - **Complex labour laws:** There is a huge mesh of labour related laws in India which makes it difficult for employers to navigate. Also, there is no provision for public social security for these labourers making it a burden on the employers.
 
 **Measures to Promote Labour-Intensive Exports**
@@ -9109,14 +9041,10 @@ Source Question: “Economic growth in the recent past has been led by an increa
 **Growth pattern that will lead to creation of more jobs without compromising labour productivity.**
 - **Promotion of non-farm employment:** , such as in the food processing industry.
 - **Focus on Labour Intensive Industries:** such as Textile and Leather.
-
   - Special programmes are required to create jobs in labour-intensive industries.
-
 - Integrate **“Assemble in India for the world”** into Make in India to create 4 crore well-paid jobs by 2025 (Eco Survey 2018-19)
 - **Incentivizing ‘infant’ MSME:** firms rather than dwarf firms wherein incentives should be limited to initial 5-7 years only. (Eco Survey 2019-20)
-
 - **Cluster formation in MSMEs:** leads to more job creation.
-
 - **SEZs as EEE’s:** Change in Orientation of SEZs as 3 E’s- Employment and Economic Enclaves to boost employment creation. (Baba Kalyani Committee)
 - **Coordinate urban development with manufacturing clusters:** Infrastructure investment creates jobs as well as opportunities for further development by the private sector.
 - **Effective Implementation of Labour Reforms, especially the Labour codes,:** will create more opportunities for employment.
@@ -9252,9 +9180,7 @@ Source Question: “While we flaunt India’s demographic dividend, we ignore th
 - **Unorganised sector:** A huge majority of the workforce is employed in the unorganised sector which is riddled with low wages and the absence of social security.
 - **Fall in female labour force participation:** Growing female literacy is not translating into relevant and marketable skills. Lack of flexible entry and exit policies for women into virtual classrooms, and into modules for open digital training, and vocational education limits access to contemporary vocations.
 - **Lack of support infrastructure:** While entrepreneur skills are desired and promoted, there is widespread deficiency of required infrastructure to support new ventures. The need for licence, permissions, and time-consuming efforts discourage new ventures. New privatisation reforms have helped up to a certain extent but a lot is still desired.
-
   - Ex: Tax issues, labour issues, electricity and water issues etc.
-
 - **Disguised unemployment in agriculture:** Lack of development of cottage industry and MSMEs has made it difficult to absorb the unskilled labour force from agriculture
 
 **Jobs prospects for future:**
@@ -9357,7 +9283,6 @@ It allows access to private sector financing to build complex infrastructural pr
 - **NPAs:** There is a greater scope for asset-liability mismatch given the long gestation period. This leads to rise in Non-Performing Assets (NPAs) of banks which provide funds to the private players. Most of these are public sector banks (PSBs) and hence the NPAs become a liability on the people.
 - **Delays:** PPP projects get delayed mostly due to issues in land acquisition and procedural delays. These delays add to cost overruns which makes the entire project unviable.
 - **Lack of regulatory framework:** India lacks a comprehensive and consistent regulatory framework for PPPs, which can lead to problems such as lack of transparency and accountability. There is also an issue of prolonged litigation due to lack of clarity on various aspects of the project. This adds to cost overruns making the project unviable or defaulting on loans.
-
 - **Vijay Kelkar Committee:** on PPP recommended setting up independent sector-wise regulators for PPP projects.
 
 All of these factors lead to transfer of additional liabilities to the future generation who would be obligated to pay these advances along with interest. This creates additional burden and reduces the potential to invest in their future. This makes the entire process unsustainable.
@@ -9476,9 +9401,7 @@ Source Question: Adoption of the PPP model for infrastructure development of the
 
 **But PPPs in India have not been free of criticism. Some of these criticisms are:**
 - **Lack of regulatory framework:** India lacks a comprehensive and consistent regulatory framework for PPPs, which can lead to problems such as lack of transparency and accountability.
-
 - **Vijay Kelkar Committee:** on PPP recommended setting up independent sector-wise regulators for PPP projects.
-
 - **Limited participation of private sector:** PPP projects in India have been criticized for the limited participation of the private sector, with many projects being dominated by state-owned enterprises and government- owned corporations. Even among the private sector, it is a handful of very large conglomerates who get the projects.
 - **Insufficient risk transfer:** Critics argue that PPP projects in India have not effectively transferred risks to the private sector, leaving the government liable for many of the risks associated with the project.
 - **Lack of competition:** PPP projects in India have been criticized for the lack of competition among private sector partners, resulting in higher costs and lower quality.
@@ -9798,12 +9721,10 @@ Source Question: With growing energy needs should India keep on expanding its nu
 
 **Nuclear energy has the potential to be a significant part of this energy mix due to several reasons:**
 - **High Energy Potential:** Nuclear plants, like the Kudankulam Nuclear Power Plant,:** showcase the ability to generate large amounts of energy from a relatively small infrastructure.
-
 - **Currently, KNPP houses two operational units each with a capacity of 1,000 MW, totaling 2,000 MW:** of electricity generation.
   - However, the real potential of this plant lies in its expansion. The construction of units three and four commenced in 2017 with an aim to operationalize them by 2023 and 2024, respectively.
   - Additionally, the fifth and sixth units are under construction as of 2021.
 - **Once all six units are commissioned, estimated by 2027, the power plant will have a combined capacity of 6,000 MW,:** making it the largest nuclear power station in India.
-
 - **Low Greenhouse Gas Emissions:** As a low-carbon technology, **nuclear energy contributed a mere 5% to India’s total greenhouse gas emissions in 2019, per the World Nuclear Association,** while contributing 3.1% to India’s total electricity.
 - **Energy Security:** Nuclear energy, leveraging India’s domestic thorium reserves, can enhance the nation’s energy security, as manifested in the three-stage nuclear power program.
 
@@ -10185,9 +10106,7 @@ Source Question: To what factors can the recent dramatic fall in equipment costs
 - **Scale of production:** The increasing demand for solar energy has led to an increase in production scale, which has reduced the cost of production.
 - **Easier to build and maintain:** solar energy is now faster to build and cheaper than new coal fired power plants, less prone to fuel volatilities and less regulated from an environmental clearance perspective.
 - **Government subsidies and incentives:** Governments around the world have provided subsidies and incentives for the adoption of solar energy, which has made it more affordable for consumers.
-
   - For instance, India has initiatives like National Solar Mission, PM-KUSUM, Grid connected rooftop, etc.
-
 - **Increased competition:** The growth of the solar industry has led to increased competition, which has further driven down equipment costs and tariffs.
 - **Improved regulatory outlook:** The government is demonstrating more clarity in policy. It goes a long way in helping investors to plan their strategy in India.
 
@@ -11400,9 +11319,7 @@ Source Question: National Urban Transport Policy emphasises on ‘moving people�
 
 **Strategies used by the government:**
 - **Tied funds:** Transport is a state subject, thus making the issue of access to the Central government a tricky issue. Considering this, the Centre had to include some components of NUTP in JNNURM, and make the funding dependent on the implementation.
-
   - This is how many cities have introduced BRTS (Bus Rapid Transit System). This has also led states to explore setting up metros.
-
 - The central government has initiated the **Sustainable Urban Transport Project (SUTP)** in partnership with Global Environment Facility (GEF), WB (World Bank) and United Nations Development Programme (UNDP).
 - **Policy of setting up mass public transportation:** – Metro in every city with large population i.e., above 2 million
 - **Encouraging a unified transport authority:** to plan for movement of people instead of separate body for Buses, Taxis, roads etc
@@ -11412,11 +11329,9 @@ The positive impact of the policy can be seen in more people using public transp
 
 - **Ignores needs of Differently abled and old people:** NUTP ignores the transportation difficulties and challenges faced by physically disabled persons and aged people. **The NUTP is more of a policy framework** containing general guidelines rather than rules that are implemented.
 - **No pedestrian safety:** The pedestrians do not get a safe, conflict free and obstruction free path to walk. The cyclists have to fight for the right of way with fast moving motorized modes of transport, many a times risking their lives.
-
   - **Moreover, there is a lack of good quality, all-weather roads along with infrequent maintenance**
 - **Difficulty in using public transport:** The users of Public transport face long waiting periods, uncertainty in travel time and difficult conditions of travel.
 - **Huge deficit in urban transport servicesand infrastructure:** both in quality and quantity. The use of desirable modes like walking, bicycling etc. is declining. As a result, congestion is increasing. Road safety and the rising number of accidents are also a matter of concern.
-
 - **India has hardly 12-13 buses per lakh population instead of 100 per lakh.:** 
 
 
@@ -12013,11 +11928,9 @@ Source Question: Why is nanotechnology one of the key technologies of the 21st c
 
 **Scope of its Application in India’s Development:**
 - **Healthcare:** Nanotechnology can revolutionize healthcare by enabling targeted drug delivery, improving diagnostic methods, and creating more effective implants.
-
   - **For example, nanobots could deliver chemotherapy drugs directly to cancer cells, reducing harmful side effects.**
 - **Energy Sector:** Nanotechnology can enhance the efficiency and sustainability of energy production and storage. For instance, the development of nanomaterials for solar cells could increase their efficiency while reducing costs.
 - **Water Treatment:** Nanotechnology can offer innovative solutions for water purification, essential for a country like India that faces significant water scarcity and contamination issues.
-
   - **For instance, nanotech-based filters can remove harmful microbes and pollutants more effectively than traditional methods.**
 - **Agriculture:** Nanofertilizers and nanopesticides can improve crop yields and reduce environmental impact. Nanosensors can also help monitor soil and crop health, ensuring timely interventions.
 - **Information Technology:** Nanoelectronics can lead to smaller, faster, and more energy-efficient devices, driving the growth of the IT sector.
@@ -12395,9 +12308,7 @@ In 2015, the Ministry of Rural Development and World Bank signed a loan agreemen
 - **Water conservation:** The NWP has helped to conserve water through the construction of check dams, contour trenches, and other water harvesting structures. This has helped to increase the availability of water for agricultural purposes, leading to increased agricultural production.
 - **Soil conservation:** The NWP has also helped to conserve soil through the promotion of measures such as terracing, contouring, and mulching. This has helped to reduce soil erosion, improve soil health, and increase agricultural productivity.
 - **Multiple cropping season:** The water availability through irrigation measures like canals, nullahs etc have ensured that farmers are able to sow crops in the dry season as well. They no longer have to be dependent on rainfall for agriculture.
-
   - Example: Tamil Nadu farmers can grow three crops in a year mainly due to extensive canal irrigation.
-
 - **Livelihoods:** The NWP has contributed to the livelihoods of rural communities by increasing agricultural production and providing employment opportunities through the construction of water harvesting structures and other activities related to watershed development.
 - **Environmental sustainability:** The NWP has contributed to environmental sustainability by promoting sustainable agriculture practices, reducing soil erosion, and conserving water resources.
 - **Transformation of dry patches of land to vibrant farms and plantations.:** For example, Thummachennupalle watershed in Chittoor district was transformed into a community-owned orchard after NABARD implemented Neeranchal. When completed, NWP will convert 12% of wasteland into arable land.
@@ -13624,17 +13535,12 @@ Source Question: What are the different types of agriculture subsidies given to 
 - **Diversion of money meant for boosting agriculture:** There is a chance that farmers can use the money for non-farm unproductive needs.
 - **Increased inequality:** As per Economic Survey-2018, rich farmers have benefitted more over small farmers from the farm subsidies.
 - **Issues like market reforms and innovation:** in agriculture remained **unaddressed** as subsidy is seen as way out from the responsibilities of the government to do this.
-
 - **A culture of subsidies promotes inefficiency and dependence:** on the government and also reduce the incentive to improve. Also, the government in power can provide subsidies for mere political mileage.
-
 - **Monoculture:** Subsidies like MSP has led to cereal centric agriculture with distorted cropping patterns. This has led to drop in prices for these cereals while we have to be dependent on imports for many other crops earlier grown in India.
 - **Environmental damage:** Most indirect subsidies on fertiliser, power and irrigation water contribute to the degradation of natural resources (by excessive use of subsidised resources)
-
   - Example: Rise in soil salinity, water contamination with heavy metals and stress on groundwater aquifers in Punjab due to free power.
-
 - **Trade distortions:** Policies of subsidies promote other countries to follow the same pursuit which may then lead to trade wars and protectionist policies leading to trade distortions.
 - **Capital investment decreased:** From 1976 to 2003- subsidies increased but public investment in agriculture declined.
-
 - The Kelkar committee recommended the phased elimination of subsidies and converting them into capital investments.
 
 
@@ -13992,38 +13898,27 @@ Factors influencing the decision of the farmers on the selection of high-value c
 
 **Economic factors**
 - **Market demand and prices:** Higher and steadier prices for fruits, vegetables, and spices attract farmers to high‑value crops.
-
   - **Eg:** Horticulture value share rising under **MIDH (Mission for Integrated Development of Horticulture)** support.
-
 - **Credit and insurance:** Easy loans and crop insurance reduce risks, letting farmers invest in costlier crops and inputs **.**
 - **Infrastructure:** Cold chains and processing units cut spoilage and raise returns, making perishables more viable.
-
   - **Eg:** Over 50000 post‑harvest assets:** set up under MIDH since 2019–20.
 
 **Environmental and resource factors**
 - **Agro‑climatic suitability:** Farmers choose crops that fit local soil and weather to reduce losses.
-
   - **Eg:** Pomegranate clusters:** developed under horticulture missions in dry belts.
-
 - **Pest risks:** Farmers prefer crops with fewer pest outbreaks or better control options to avoid costly losses.
-
   - **Eg:** Operation Greens: **support for** TOP (Tomato, Onion **and** Potato) crops **reduces volatility.**
 
 **Socio‑cultural factors**
 - **Dietary preferences:** Rising urban demand for fruits, dairy, and exotic vegetables pulls farmers toward diverse, high‑value produce.
 - **Traditional knowledge:** Familiar crops and practices improve confidence and yields.
-
   - **Eg:** Basmati cultivation: **sustained by established farmer** know‑how **in North India.**
 
 **Policy and institutional factors**
 - **Government schemes:** Subsidies and horticulture missions promote diversification toward higher‑value crops.
-
   - **Eg:** MIDH: **added over***15 lakh hectares***under horticulture by 2025.**
-
 - **Export incentives:** Policies support globally demanded crops, improving price realisation.
-
   - **Eg:** Value chain projects: **under** PMKSY **aid spice and fruit processing for export.**
-
 - **Extension services:** KVKs and training help farmers adopt new crops and techniques. **Eg: MIDH** and **PMKSY** projects include capacity building for **FPOs** and **SHGs**.
 
 
@@ -14398,10 +14293,8 @@ Source Question: What are the major reasons for declining rice and wheat yield i
 - **Income and productivity:** 
 - **Rise in labour charges:** and exposure to global markets led to fall in incomes of farmers cultivating rice and wheat.
   - The **productivity is also very less** compared to international standards. For instance, China’s productivity is almost double in both wheat and rice.
-
 - **Seasonality of labour:** While this system is labour intensive, it employs large amounts of labour seasonally i.e., during harvest season or during cropping season. As labour migrates to avoid being unemployed, the agriculture sector faces a shortage of labour leading to reduced yield or even loss of yield.
 - **Lack of innovation:** There is lack of innovation and the present agricultural practices are neither economically nor ecologically sustainable. **Crop diversification** is seen as a solution to many of these problems. Crop diversification refers to a shift from the regional dominance of one crop to production of a variety of crops. Crop diversification can help improve yields because:
-
 - **Complementary crops:** Certain crops like pulses, millets, etc are short duration crops that require less inputs, add nutrients to the soil and also provide with good income source given the demand for a variety of these crops. The system of crop rotation involves such crops alongside paddy and wheat.
 - **Maintaining soil fertility:** Only those crops are grown in a particular region which are suitable to a particular agro-climatic zone and this helps in maintaining soil fertility. It will also stabilize the yield in the same region as the same crop grown again and again on the same soil depletes minerals and organic content out of the soil.
 - **Arrest depletion of groundwater:** It will help in diversifying cropping patterns from water guzzling crops such as paddy to pulses, oilseeds, maize with the aim of tackling the problem of depleting water table.
@@ -14879,11 +14772,9 @@ Source Question: What are the major factors responsible for making the rice-whea
 - **Air pollution:** due to crop residue burning in states like UP, Punjab and Haryana.
 - **Loss of biodiversity:** due to excessive use of hybrid seeds and fertilizers.
   - The use of chemical fertilizers and pesticides to maintain high crop yields has led to **soil degradation and water pollution**.
-
 - **Pest and disease outbreaks:** The monoculture nature of the rice-wheat system makes it susceptible to pest and disease outbreaks, which can lead to crop failures and reduced yields.
 - **Income and productivity:** Rise in labour charges and exposure to global markets led to fall in incomes of farmers cultivating rice and wheat.
   - The productivity is also very less compared to international standards. For instance, China’s productivity is almost double in both wheat and rice.
-
 - **Entrepreneurial Skills of Farmers:** Procurement of almost the entire market arrivals of rice and wheat at MSP for more than 50 years has affected the entrepreneurial skills of farmers to sell their produce in a competitive market based on quality of produce.
 - **Lack of innovation:** There is lack of innovation and the present agricultural practices are neither economically nor ecologically sustainable.
 - **Seasonality of labour:** While this system is labour intensive, it employs large amounts of labour seasonally i.e., during harvest season or during cropping season. Rest of the time the labour is unproductive. This has led to disguised unemployment and increased focus on migration.
@@ -15018,15 +14909,10 @@ Source Question: How do subsidies affect the cropping pattern, crop diversity an
 
 **Subsidies can affect the cropping pattern, crop diversity, and economy of farmers in several ways:**
 - **Cropping pattern:** Subsidies are directly responsible for cropping patterns of an area. The crops that receive better and more attractive subsidies are always selected for growing. The larger the subsidy the larger is the area of a particular crop in a region.
-
   - For example, cheap electricity and irrigation subsidies motivated Punjab farmers to go for water guzzling crops like rice.
-
 - **Crop diversity:** Farmers are more attracted for growing a crop which has support in the form of subsidies. By providing incentives for farmers to grow certain crops, subsidies can reduce crop diversity.
-
   - For example governments have started announcing subsidies for crops other than paddy and wheat so as to increase crop diversity.
-
 - **Economy of farmers:** Subsidies reduce the dependence of farmers on market forces by providing a guaranteed income for their crops.
-
   - On the one hand, this can provide a safety net for farmers, allowing them to continue farming even in difficult market conditions.
   - On the other hand, subsidies create a dependency on government support, which can lead to inefficiencies in the agricultural sector and limit the ability of farmers to respond to market signals.
 
@@ -15244,20 +15130,14 @@ Source Question: Assess the role of National Horticulture Mission (NHM) in boost
 **Role of NHM in boosting productivity and income of horticulture farms**
 - **Integrated Development of Horticulture (IDH):** NHM has implemented IDH, which is aimed at promoting horticulture by integrating production, processing, and marketing activities.
 - **Modernising production:** The mission has envisioned the growth of the specific area-based crops by using cutting-edge technology, natural fertilizers, eco-friendly pesticides, and other tools that enable farmers to increase their output.
-
   - **Example:** Use of harvester machines for sorting out coffee beans.
-
 - Encourage **aggregation of farmers** into farmer groups like FIGs/FPOs and FPCs to bring economy of scale and scope.
 - **Creating integrated boards for governance:** Specific boards are created for looking after the needs of the crop. These specific boards have streamlined the rules for production and sale of the crop. They also provide a platform for selling the produce in markets around the world.
-
   - **Example:** Coffee boards, Cashew boards etc.
-
 - **Training entrepreneurs:** NHM has facilitated the transfer of technology and technical knowledge from research institutions to farmers through training programs and demonstrations. NHM has focused on capacity building of farmers in various aspects of horticulture, such as production, post-harvest management, and marketing. **Success in increasing the income of farmers
 - **After the launch of the NHM, significant progress has been made in:** area expansion under horticulture crops**, resulting in higher production.
-
   - For instance, the production of fruits has increased from 43.5 million tonnes in 2004-05 to 107.7 million tonnes in 2021-22.
   - Over the last decade, the area under horticulture grew at an average rate of 3% per annum and annual production increases at an average rate of 7.0% per annum.
-
 - **Alternative source of income:** Some horticulture crops such as fruits and vegetables can be grown along with conventional crops like rice and wheat. These crops will help in obtaining additional income apart from the main crop.
 - **Diversification of crops:** NHM has encouraged farmers to diversify their crops by promoting the cultivation of high-value crops, such as vegetables and fruits. This has helped farmers to earn more income apart from improving the soil health.
 - NHM has created **new market opportunities** for horticulture crops and **decreased rural unemployment** over the past 20 years.
@@ -16948,7 +16828,6 @@ The National Food Security Act, 2013 **aims to provide subsidized food grains to
 1. According to a UN report number of undernourished people in India has declined by 60 million between 2006 to 2019.
 2. Improved access to food grains have improved the hunger outcomes amongst the poor and underprivileged.
 3. Wide coverage of the 2/3rd population have increased resilience in the poor against income shocks. **Various apprehensions and concerns raised in WTO against the Food security Act**:
-
 - According to the influential developed countries, the **fixation of minimum support prices** for agricultural products by the government puts a control on the prices of these products which, in turn, limits the profits of the big corporate houses.
 - The **government of Indiabuys wheat, rice, sugarcane and now even pulses from the farmers** for fulfilling the objectives under NFSA. This protects the farmers from clutches of such corporations and global traders.
 - The **government** not only buys agricultural products and food grains but also **provides it to two-third of the population** —840 million people on subsidised rates through public distribution system. Due to this, the big corporations are deprived of potential customers and at the same time, poor people are also safeguarded against exploitative prices. This also ensures food security in those states where food grains are not produced in sufficient quantity.
@@ -17087,7 +16966,6 @@ Livestock productivity has been identified as one of the seven sources of income
 - **National Livestock Mission:** to ensure quantitative and qualitative improvement in livestock production systems and capacity building of all stakeholders.
 - **National Artificial Insemination Programme**
 - **Animal Husbandry Infrastructure Development Fund (AHIDF):** Under this scheme, the Central Government provides a 3% interest subvention to the borrower and credit guarantee up to 25% of total borrowing.
-
 - **Livestock Health and Disease Control (LH&DC) Scheme**
 - **National Animal Disease Control Programme (NADCP):** It is being implemented to control Foot & Mouth Disease and Brucellosis.
 - **Animal Husbandry Startup Grand Challenge:** To appreciate innovations coming from the villages to expand the dairy sector in India.
@@ -17284,7 +17162,6 @@ Source Question: What are the major challenges of the Public Distribution System
 
 - **Increased grain procurement,:** associated expenses, and other variables are expected to cause the **food subsidy to expand
 - **In this context,:** Shanta Kumar Committee** recommended that FCI hand over all procurement operations of wheat and paddy to states that have gained sufficient experience in this regard and have created reasonable infrastructure for procurement.
-
 - **Shortfall in storage capacitywith FCI:** Although there has been a significant increase in purchasing, FCI’s storage capacity (both owned and hired) has not risen in step with the growth in purchasing.
 - **Inconsistent quality:** The vast majority of responders claimed that the ration quality varies —sometimes it’s great, sometimes it’s terrible. The criticisms mostly related to the poor quality of the wheat and rice.
 - **No nutritional security:** The PDS has traditionally focused on the distribution of a few basic staples such as rice, wheat, and sugar, with little variety in the types of goods available across regions.
@@ -17293,9 +17170,7 @@ Source Question: What are the major challenges of the Public Distribution System
 - **Universal PDS:** Tamil Nadu implements a universal PDS, such that every household is entitled to subsidised food grains. This way, inclusion and exclusion errors are reduced.
 - **Decrease subsidy burden on government:** In order to increase the effectiveness of PDS, the Economic Survey 2020 suggested limiting the scope of PDS to the bottom 40% of the population and decreasing the subsidy burden on the government.
 - **Digitalisation:** States such as Chhattisgarh and Madhya Pradesh have implemented IT measures to streamline TPDS, through the digitisation of ration cards, the use of GPS tracking of delivery, and the use of SMS based monitoring by citizens. Use of Aadhaar helps prevent duplication and provides for better authentication.
-
   - The **Justice Wadhwa Committee Report for PDS** (2011) recommended computerization to prevent diversion and to allow for safe identification at ration stores.
-
 - **Direct Cash Transfers:** The Government is asking States/UTs to choose Direct Benefit Transfer (DBT) in order to check leakage and diversions.
 - **Improving storage capacities:** Shanta Kumar Committee recommended private participation in storage and distribution to make the system effective. In line with this recommendation, storages are built by private investors and contracted by FCI for a guaranteed duration of 10 years under the Private Entrepreneur Guarantee (PEG) Scheme.
 - **Wider range of products:** Diversify procurement basket. Including local grains in PDS would reduce cost and also ensure nutritional security. The Justice Wadhwa Committee had recommended inclusion of fortified grains under the scheme.
@@ -18604,7 +18479,6 @@ Digital India was **launched in 2015 to create digital infrastructure** for empo
 - **Direct cash transfer:** Digital India will help the government to reach the needy and poor farmers for the Direct cash transfers system replacing agricultural subsidies. This would help in increased agricultural productivity as well as reduce farmer’s debt burden.
 - **Growth of start:** ups: Digital India will enable inclusive, farmer-centric solutions through relevant information services for crop planning and health, improved access to farm inputs, credit, and insurance, help for crop estimation, market intelligence, and support for growth of agri-tech industry and start-ups.
 - **Social media usage:** Digital India will also leverage social media platforms to build human capacity.
-
   - **Example:** Digital Green is a platform that hosts participatory videos where farmers explain best management practices to other farmers. This approach is more cost effective than traditional extension services as farmers trust other farmers and they face similar circumstances.
 
 **Steps taken by the government:**
@@ -18855,21 +18729,14 @@ India’s food processing industry, contributing **~8% to GDP** and **13% to man
 
 **Scope of India’s Food Processing Industry**
 - **Abundant raw materials:** India is the second-largest producer of fruits and vegetables, the third-largest in milk, and a leading producer of cereals, pulses, and spices.
-
   - **Eg:** India produces over ***300 million tonnes*** of fruits and vegetables annually.
-
 - **Large domestic market:** Growing population and rising disposable incomes drive demand for processed foods.
-
   - **Eg:** Packaged food market is projected to reach over ***3 billion US dollars*** by 2027.
-
 - **Export potential:** India exports processed foods to over 150 countries, including ready-to-eat foods, beverages, and frozen foods.
-
   - **Eg:** Processed food’s share in India’s agri-food exports increased from **~14%** (2014–15) to **23.4%** (2023–24).
-
 - **Employment generation:** FPIs create jobs across processing, packaging, storage, logistics, and retail.
 - **Technological adoption:** Opportunities exist for modern processing, cold storage, and preservation technologies.
 - **Government support and incentives:** Schemes like **PMKSY** and **PLI** promote investment and growth in the food processing industry.
-
   - **Eg:** 42 Mega Food Parks:** set up under PMKSY since 2012.
 
 *While the sector’s scope is vast and promising, its full potential is constrained by persistent structural and operational challenges.***Challenges of Food Processing Industry in India.**
@@ -18880,13 +18747,9 @@ India’s food processing industry, contributing **~8% to GDP** and **13% to man
 
 **Measures for Generating Employment Opportunities**
 - **PM Kisan SAMPADA Yojana:** Under PM Kisan SAMPADA Yojana, **1,608 projects** have been sanctioned, creating modern infrastructure and generating significant rural employment through the establishment of food processing units.
-
   - **Eg:** Development of *41 Mega Food Parks, 394 cold chain projects,* and *75 agro-processing clusters*.
-
 - **Production-Linked Incentive (PLI) for Food Processing:** The PLI Scheme for Food Processing Industries (PLISFPI) has approved 171 companies, with incentives of ₹1,155 crore disbursed.
-
   - **Eg:** It has created over ***2.89 lakh jobs***, boosting large-scale employment opportunities (Source: PIB October 2024).
-
 - **Formalisation of Micro-enterprises via PMFME:** The PM Formalisation of Micro Food Processing Enterprises (PMFME) scheme targets ***2 lakh micro-units***, providing credit-linked subsidies to formalise and scale rural enterprises, especially benefiting women and SHGs.
 - **One District One Product (ODOP) Initiative:** The government has identified unique products across **713 districts** under ODOP. This promotes local food products, **boosts branding** and marketing, and creates district-level employment opportunities.
 
@@ -19065,7 +18928,6 @@ Source Question: Elaborate the scope and significance of the food processing ind
 - **Diverse products:** India has a large and diverse base of raw materials, which includes a wide range of agricultural and horticultural crops, as well as livestock and fishery products given the large coastline and diverse agro-climatic conditions.
 - **Market size:** India is one of the largest consumer markets in the world and given the growing middle-class population, the demand is only going to increase.
 - **Investments:** India’s food processing industry is one of the largest FDI recipients and there are a number of government initiatives that aim at boosting the food processing sector.
-
   - **Example: Pradhan Mantri Kisan SAMPADA Yojana (PMKSY), PM-Formalization of Micro Food Processing Enterprises (PMFME) Scheme, Production Linked Incentive scheme (PLIS) for Food Processing Sector**
 - **Untapped potential:** Only 2% of the fruits and vegetables and only 10% of marine produce:** is processed currently. So there is a lot more that can be done in this sector.
 
@@ -19326,7 +19188,6 @@ Source Question: What are the challenges and opportunities in food processing se
 - **Large Consumption Economy:** With rising incomes and standard of living, demand for items immediately available to eat or cook and safe processed food
 - **High value addition:** The 10% of processed food in India is 1/3 of the total food market by value.
 - **Government support:** Government has taken various steps for the promotion of FPIs such as up to 100% FDI under the automatic route, incentives under PM Krishi Sampada Yojana, Mega Food Parks scheme and PLI in the FPI sector in India. **Challenges in food processing industry:** <p align="center"><img src="pwonlyias/images/pw_economic_development_q467_img4.webp" alt="challenges for food processing sector" /></p>
-
 - **Poor supply chain linkage:** Lack of mechanization, high seasonality, perishability, and lack of proper intermediation (supply chain) results in a lack of availability of raw material. Due to inadequate infrastructure, more than 30% of the produce from the farm gate is lost.
 - **Infrastructure bottlenecks:** FPIs need world class infrastructure and logistics support in order to reduce wastage. This would require support from Railways as well as Airways.
 - **Unskilled manpower:** The existing manpower in the farming industry needs to be trained in order to be employable in the FPI sector.
@@ -19809,7 +19670,7 @@ Source Question: What are the impediments in marketing and supply chain manageme
 
 ### Introduction
 
-**The food processing industry encompasses a wide range of activities, including the processing, preservation, packaging, and distribution of food products. It is critical to India’s development as it establishes a vital linkage and synergy between the two pillars of the economy, the Industry and Agriculture.** Body **:**
+**The food processing industry encompasses a wide range of activities, including the processing, preservation, packaging, and distribution of food products. It is critical to India’s development as it establishes a vital linkage and synergy between the two pillars of the economy, the Industry and Agriculture.** Body ***:
 
 But food processing industries face many challenges especially in marketing and supply chain management.
 
@@ -19954,19 +19815,12 @@ Source Question: India needs to strengthen measures to promote the pink revoluti
 - **Improved Nutrition:** Processed meat is a rich source of protein and other essential nutrients.
 - **Employment:** The Pink Revolution has the potential to create jobs in the food processing and retail sectors, which can boost the economy and reduce poverty.
 - **Immense growth potential:** The present meat consumption per capita of around 6 grams per day will improve to 50 grams a day in the next decade or so. When such a phenomenal increase in meat consumption occurs along with a growth in population, the sector will witness tremendous growth.
-
   - India accounts for only 2% of the global market despite its large livestock population.
-
 - **Increased Exports:** The growth of the processed meat industry in India has the potential to increase exports, as the country has a large market for meat products.
-
   - Export-focused organizations have made major investments in the construction of sizable, cutting-edge meat processing facilities.
-
 - **Efficiently organized:** India’s poultry sector is very vertically integrated and operates at a level of efficiency comparable to many western nations. **To promote the Pink Revolution in the food industry in India, the following measures need to be strengthened**:
-
 - **Regulation:** Regulation is needed to ensure that products are safe for consumption and to reduce the health impacts of consuming processed meat. This is a crucial factor in boosting exports as well.
-
   - To give consumers safe and hygienic meat, the Indian government has taken initiatives to modernise municipal abattoirs.
-
 - **Animal Welfare:** Growth of the meat industry must not be at the cost of animal welfare. Measures to improve animal welfare and reduce the negative impacts of the meat industry on the environment must be strengthened.
 - **Research and Development:** Lack of standard policies for meat production and export, including quality and safety aspects of meat and poultry are challenges for the growth of the meat and poultry processing sector. This needs increased research and investment in the sector.
 - **Increased investments:** To boost investments, 100% FDI has been allowed in this sector. More can be done by introducing schemes to boost standardization and exports.
@@ -20244,9 +20098,7 @@ Small farms are not suitable for using expensive technologies,
 - **Assured market:** for their produce at their doorsteps, reducing marketing and transaction costs.
 - **Higher Yield and Productivity:** due to better input and investment as returns are guaranteed by agreement. This would increase the income for farmers
 - **Boost to the Food processing sector:** For instance, the income of potato farmers in Punjab increased by 30-40% after they shifted to contract Farming by signing a contract with a Potato chips manufacturing company.
-
   - For agri-processing industry, contract farming ensures consistent supply of agricultural produce with quality, at right time and lesser cost.
-
 - **Makes small scale farming competitive:** Small farmers can access technology, credit, marketing channels and information while lowering transportation costs. Contract farming can also open up new markets which would otherwise be unavailable to small farmers.
 
 **Disadvantages of Contract Farming**
@@ -20960,9 +20812,7 @@ The small and marginal farmers are one of the weakest sections of Indian society
 - **Abolition of Intermediaries:** It included abolition of Zamindari, Ryotwari and Mahalwari systems. This led to weakening of the debt trap spun by intermediaries which led to dispossession of land for small farmers.
 - Land ownership gave the small farmers greater access to credit facilities.
 - **Tenancy Reform:** It ensured Rent Regulation, Security of land tenure and conferment of ownership rights on tenants. This helped in enhancing food security and investment in irrigation seeds and fertilizers.
-
   - Example: Operation Barga benefited 14 lakh sharecroppers in West Bengal
-
 - **Ceiling on Landholdings:** Ceiling laws ensured redistribution of land from big landlords to landless laborers ensuring land ownership, access to credit, food security etc.
 - **Cooperative Farming:** Farmers pooled their resources and distributed the income as per their share. This reduced input cost, allowed scaling of cultivation and access to large credit while minimizing risk in case of crop failure.
 - **Land Records:** The updation and now the Digitization of Land Records helps in reducing litigation, security for land owners in case of opting for tenancy, better credit availability to small farmers and better policy making for agriculture. (e.g. Digital India Land Records Modernization Programme (DILRMP)). **However, certain challenges remain with Land reforms:
@@ -21097,13 +20947,9 @@ Land reforms play a crucial role in agricultural development as they can increas
 
 **Factors Responsible for the Success of Land Reforms in India:**
 - **Political Will:** The success of land reforms in India was largely due to the political will of the government to implement the reforms.
-
   - Insertion of the 9th schedule in the constitution and abolishing the right to property required considerable political will.
-
 - **Effective Implementation:** The effective implementation of land reforms with the aim of improving the distribution of land ownership and reducing inequalities in landholding was crucial in the success of land reforms.
-
   - The implementation of ceiling laws, which limited the amount of land that a single person could own, was a critical factor in the success of land reforms in India. Political will was crucial for this.
-
 - **Support from Civil Society:** Advent of various NGOs and cooperatives that helped farmers reap the benefits of such laws by increasing literacy and awareness regarding land rights and constitutional provisions.
 - **Green Revolution:** High yield variety (HYV) seeds, inorganic fertilizers and subsidies on farm inputs increased productivity manifold during the Green Revolution.
 - **Strong Monitoring and Evaluation:** The success of land reforms in India was also due to the strong monitoring and evaluation mechanisms put in place to ensure that the reforms were implemented effectively and efficiently.
@@ -21204,7 +21050,6 @@ Relationship between land reforms, agriculture productivity and elimination of p
 - **Improved Land Productivity:** Land reforms can increase land productivity by providing small and marginal farmers with more land, improving access to credit and technology, and increasing the efficiency of land use.
 - **Reduced Poverty:** Increased agricultural growth and productivity and thus enhanced farmers’ income due to land reforms is directly related to rural poverty reduction.
 - **Promotes Economic Growth:** Land reforms can promote economic growth by increasing agricultural production and providing more employment opportunities.
-
   - Land reform leads to increased rural agricultural wages that help in ensuring more income to the rural landless labourers and thus crucial to rural poverty reduction.
 
 **Difficulties in designing and implementation of agriculture-friendly land reforms in India.**
@@ -21492,18 +21337,12 @@ India wants to be a semiconductor hub to cut import dependence, secure supply ch
 
 **Challenges Faced by the Semiconductor Industry**
 - **High capital cost:** A modern fab needs investments of **$10–20 billion** with multi‑year gestation;
-
   - **Eg:** The **Tata Electronics–Powerchip (PSMC) greenfield fab** at Dholera was cleared with about ₹91,000 crore.
-
 - **Energy & Water Requirement:** Semiconductor fabs need stable power and ~2 million litres/day of ultra-pure water per fab.
 - **Human Resource crunch:** India has strong chip design talent but fewer trained process, equipment, and yield engineers for 24×7 fab lines.
-
   - **Eg:** Talent often migrates to the USA, Taiwan, and South Korea.
-
 - **Supply chain and export‑control risks:** Heavy import dependence for equipment, specialty gases, and wafers exposes projects to geopolitical shocks.
-
   - **Eg:** USA-India: **tariff tension,** India-China **unbalanced tie-ups.**
-
 - **Intense global competition:** India competes with **Taiwan, South Korea,** the **United States, and China,** all offering deep subsidies and supplier ecosystems. **Way out:** India can become a semiconductor hub by **assuring long-term subsidies, reliable low-cost power and water, training fab-ready talent** through cleanroom programs and labs, **partnering for process technology** while **localizing chemicals, gases, and spare parts** to reduce disruptions. **India Semiconductor Mission** The India Semiconductor Mission launched in **2021** is the nodal program with a **₹76,000 crore outlay** to connect policy to projects in a way to build an end‑to‑end ecosystem for the semiconductor industry.
 
 **Salient Features of Indian Semiconductor Mission (ISM)**
@@ -22129,9 +21968,7 @@ Source Question: The increase in life expectancy in the country has led to newer
 
 - **Lifestyle diseases:** As people live longer, they may be more prone to developing non-communicable diseases such as heart disease, cancer, diabetes, and stroke. These diseases can have a significant impact on the quality of life of older people and can also place a burden on the healthcare system.
 - **Geriatric care:** India lacks the geriatric care speciality, which focuses on the medical requirements of the old. This may include the provision of long-term care, rehabilitation services, and palliative care.
-
   - According to the National Commission on Population, the share of the elderly in India’s population, close to 9% in 2011, is growing fast and may reach 18% by 2036 and Indian Medical Science does not even provide geriatrics as a subject of study.
-
 - **Mental health problems:** The increase in life expectancy leads to an increase in the prevalence of mental health issues, such as depression, anxiety, and cognitive decline. This is a bigger issue given the fact that elderly people are becoming more isolated and lonelier and are increasingly susceptible to mental health problems.
 - **An increase in the expense of healthcare:** Many older people do not have health insurance and are probably too old to be eligible for one. For instance, compared to non-elderly households, the cost of healthcare has climbed by 3.8 times more for older households.
 - **Scarcity of public health resources:** Extra burden on the already stressed public healthcare system. Accelerated utilisation of resources leading to issues in their distribution and management.
@@ -22342,23 +22179,14 @@ Source Question: What do you understand by nanotechnology and how is it helping 
 
 **“Revolutionizing India’s Healthcare: The Multifaceted Impact of Nanotechnology”:**
 - **Enhancing Disease Diagnosis:** Nanotechnology is transforming disease diagnostics.
-
 - **For instance, Bengaluru-based Achira Labs:** has developed a microfluidics-based lab-on-a-chip device that allows rapid, low-cost diagnostic tests, enabling swift medical interventions.
-
 - **Improving Drug Delivery:** Nanotechnology is revolutionizing drug delivery systems.
-
 - **The Central Drug Research Institute (CDRI), Lucknow, has developed a nano-formulation of Amphotericin B,:** a drug used for treating fungal infections and Kala-azar. This formulation improves drug efficacy and reduces toxicity.
-
 - **Preventing Infections:** Nanomaterials like silver nanoparticles, with antimicrobial properties, are being incorporated in medical devices and wound dressings to prevent infections.
-
 - **For instance, Gujarat-based company, Amrutam,:** has developed nano-silver coated bandages that aid in faster wound healing.
-
 - **Advancing Vaccines and Therapeutics:** Nanotechnology is playing a crucial role in developing vaccines and therapeutics.
-
 - **For example, Covaxin, India’s first indigenous COVID-19 vaccine developed by Bharat Biotech,:** uses an Algel-IMDG adjuvant that forms a nano-sized gel droplet for a more robust immune response.
-
 - **Innovating Biomaterials and Implants:** Nanotechnology is aiding the innovation of durable and biocompatible materials for implants.
-
 - **Sree Chitra Tirunal Institute for Medical Sciences and Technology, Kerala,:** has developed a nanostructured form of titanium that offers enhanced compatibility and durability for orthopedic implants.
 
 
@@ -22482,11 +22310,8 @@ Stem cell therapy, also known as regenerative medicine, is a revolutionary treat
 - **Reduced Dependency on Donor Organs:** Stem cell therapy can reduce the dependency on organ transplants, which often have long waiting lists and risk of organ rejection.
 - **Potential in Genetic Disorders:** Stem cell therapy holds significant promise for genetic disorders like Thalassemia, where it can replace the defective cells with healthy ones, offering a potential cure rather than mere management.
 - **Advancement in Neurological Treatments:** Stem cells hold significant promise in treating neurodegenerative disorders.
-
 - **For instance, in conditions like Parkinson’s and Alzheimer’s disease,:** stem cells could potentially replace damaged neurons, offering new possibilities for treatment and recovery.
-
 - **Revolutionizing Personalized Medicine:** Stem cell therapy could be a game-changer for personalized medicine. Using a patient’s own stem cells, treatments could be tailored specifically to their unique genetic makeup, increasing effectiveness and reducing the risk of adverse reactions.
-
 - **For instance, this approach could optimize cancer treatments,:** providing therapies that target specific genetic anomalies within a patient’s tumor cells.
 
 
@@ -22582,7 +22407,6 @@ Source Question: Can overuse and free availability of antibiotics without Doctor
 **Contributors to Drug Resistance:** <p align="center"><img src="pwonlyias/images/pw_science__technology_q98_img1.webp" alt="Drug Resistance" /></p>
 
 - **Overuse of Antibiotics:** Unnecessary or incorrect usage of antibiotics, often for viral infections where they are ineffective, can lead to antibiotic resistance.
-
   - **For instance, antibiotics are frequently misused for common colds, which are usually caused by viruses.**
 - **Availability Without Prescription:** In many parts of India, antibiotics can be easily purchased without a doctor’s prescription, leading to self-medication and misuse.
 - **Incomplete Courses:** When patients do not complete the prescribed antibiotic course, it allows some bacteria to survive and develop resistance.
@@ -22710,13 +22534,10 @@ Source Question: What do you understand by fixed dose drug combinations (FDCs)? 
 
 <p align="center"><img src="pwonlyias/images/pw_science__technology_q74_img1.webp" alt="FDC" /></p> **Demerits of FDCs:**
 - **Risk of Side Effects:** Combined drugs can increase the risk of adverse effects.
-
   - **For example, FDCs of painkillers and muscle relaxants can have side effects like gastric irritation and dizziness.**
 - **Inappropriate Dosing:** FDCs may result in inappropriate dosing as the dosage of individual drugs cannot be adjusted to individual patient needs.
-
   - **For example, FDCs for hypertension may not suit all patients equally.**
 - **Resistance Development:** In case of infectious diseases, incorrect use of FDCs can lead to drug resistance.
-
 - **For instance, Overuse of antibiotic FDCs has been linked to antibiotic resistance in India.:** 
 
 
@@ -23343,22 +23164,15 @@ Source Question: What is Carbon Capture, Utilization and Storage (CCUS)? What is
 
 **Potential Role in Tackling Climate Change**
 - **Reducing Industrial Emissions:** CCUS captures CO₂ from hard-to-abate sectors like cement, steel, and chemicals where emissions are unavoidable.
-
   - **Eg:** Norway’s Longship Project captures CO₂ from cement production for storage under the North Sea.
-
 - **Decarbonising Power Generation:** It enables continued use of coal and natural gas plants while cutting emissions, supporting energy security during transition.
-
   - **Eg:** Canada’s Boundary Dam Project captures CO₂ from a coal power plant.
-
 - **Producing Low-Carbon Fuels:** Captured CO₂ can be converted into synthetic fuels, hydrogen, or bioenergy with carbon capture (BECCS), creating carbon-neutral energy sources.
 - **Supporting Negative Emissions:** When combined with bioenergy (BECCS) or direct air capture, CCUS can remove CO₂ directly from the atmosphere.
 - **Enhancing Oil Recovery and Resource Efficiency:** Stored CO₂ can be injected into oil wells to boost extraction (Enhanced Oil Recovery -EOR) while sequestering carbon, offering a transitional economic incentive.
 - **Building a Circular Carbon Economy:** Captured CO₂ can be reused in making plastics, building materials, and chemicals, reducing reliance on virgin fossil feedstocks.
-
   - **Eg:** CarbonCure (Canada) uses CO₂ in concrete production, lowering its carbon footprint.
-
 - **Contributing to Net-Zero Targets:** CCUS acts as a bridging technology, ensuring countries can meet Paris Agreement commitments while scaling up renewable and clean tech.
-
   - **Eg:** IEA projects CCUS could cut global CO₂ emissions by nearly **15%** by **2070** under sustainable scenarios.
 
 
@@ -23546,14 +23360,12 @@ Source Question: What is an FRP composite material? How are they manufactured? D
 <p align="center"><img src="pwonlyias/images/pw_science__technology_q79_img1.webp" alt="FRP Composites" /></p> **
 
 *** *
-* ***:**
+* ****:
 
 **Applications in Aviation and Automobile Industry:**
 - **Aviation:** FRP composites are extensively used in the aviation industry due to their high strength-to-weight ratio. They are used in the manufacturing of aircraft bodies, interior components, and more.
-
   - **For example, the Boeing 787 Dreamliner is made up of 50% FRP composites by weight.**
 - **Automobile Industry:** In the automotive industry, FRP composites are used to make lightweight vehicle components. They are used in body panels, interior components, and structural parts.
-
 - **For instance, high-performance cars often feature carbon-fibre body parts.:**
 
 **A few examples:**
@@ -23757,23 +23569,14 @@ Source Question: The Nobel Prize in Physics of 2014 was jointly awarded to Akasa
 
 **Blue LEDs have made significant impacts in human life in following ways:**
 - **Energy Efficiency and Cost Savings:** Blue LEDs, vital for white LED lights, have revolutionized India’s approach to lighting.
-
 - **For instance, the government’s UJALA scheme,:** encouraging LED use, has distributed over 360 million LED bulbs nationwide as of 2021, significantly reducing household electricity costs and national energy consumption.
-
 - **Catalyst for Digital Revolution:** Blue LEDs are integral to digital device screens, including smartphones and laptops.
-
   - This technology has driven digital connectivity, as seen in the **Pradhan Mantri Gramin Digital Saksharta Abhiyan,** which aims to digitally literate 60 million rural households, facilitated by affordable LED-screen devices.
-
 - **Medical Applications and Healthcare:** Blue LEDs have found critical applications in medical treatments, notably in phototherapy devices for neonatal jaundice.
-
 - **Devices like the Brilliance Pro, developed by Indian company D-Rev,:** use blue LEDs to provide affordable and effective treatment for thousands of Indian infants annually.
-
 - **Innovations in Agriculture:** Blue LEDs, utilized in controlled-environment agriculture, improve plant growth.
-
 - **An example is Triton Food works, an Indian startup:** that uses LED lighting in its hydroponic farms, enabling year-round production irrespective of climatic variations.
-
 - **Environmental Sustainability:** By reducing energy consumption and extending bulb lifespan, LED lights contribute to lower carbon emissions.
-
 - This aligns with India’s commitment to reduce its carbon intensity under the Paris Agreement, enhancing environmental sustainability.
 
 
@@ -24163,17 +23966,12 @@ Freshwater scarcity is a significant global issue, driven by both natural factor
 
 **Three Alternative Technologies with merits and demerits:**
 - **Desalination Technologies:** Desalination technologies convert **seawater** into **freshwater** by removing **salt and impurities**, providing an alternative water source in regions facing freshwater scarcity. **For example**: The **Sorek desalination plant** in Israel supplies approximately **20%** of the country’s drinking water.
-
 - **Merits:** Provides a reliable water source for coastal regions.
 - **Demerits:** It requires **high energy consumption** and raises environmental concerns related to brine disposal, which can harm marine ecosystems.
-
 - **Rainwater Harvesting:** This technique captures and stores rainwater for reuse. **For example**: Traditional **Johads in Rajasthan** effectively recharge groundwater and provide irrigation water.
-
 - **Merits:** It is simple to implement and reduces reliance on groundwater.
 - **Demerits:** Its effectiveness is **limited** in regions with **low rainfall** and necessitates adequate storage infrastructure.
-
 - **Wastewater Recycling and Reuse:** This involves treating and reusing wastewater for various applications. **For example**: **Singapore’s NEWater project** treats wastewater for industrial use and potable water, meeting about **40%** of the country’s water needs.
-
 - **Merits:** It conserves freshwater by recycling used water.
 - **Demerits:** The initial **setup costs** are **high**, and there may be public resistance to using treated wastewater.
 
@@ -24530,11 +24328,9 @@ Source Question: What is digital signature? What does its authentication mean? G
 
 **Salient Features of a Digital Signature:**
 - **Authentication:** Digital signatures authenticate the source of messages or documents.
-
   - **For instance, an email with a digital signature ensures the receiver about the sender’s identity.**
 - **Integrity:** They ensure that the content hasn’t been altered in transit. If a digitally signed document is modified, the signature becomes invalid.
 - **Non-repudiation:** The signer cannot deny their involvement in signing a document, providing legal accountability.
-
 - **For instance, in digital contracts, a signer can’t deny they signed the agreement.:** <p align="center"><img src="pwonlyias/images/pw_science__technology_q80_img1.webp" alt="Digital Signature" /></p> **A few examples:**
 - **Income Tax Returns:** In India, digitally signing income tax returns is mandatory for certain categories of taxpayers, providing authenticity and non-repudiation.
 - **GST Portal:** Businesses use digital signatures for GST filing, assuring the authenticity of the filed documents.
@@ -25212,14 +25008,11 @@ Asteroids are rocky, **airless remnants** from the early formation of our solar 
 
 **How Real is the Threat of Them Causing Extinction of Life?**
 - **Potential Real Threat to Extinction of Life:** 
-
 - **Historical Precedent:** Evidence suggests that a massive asteroid impact led to the extinction of the dinosaurs **66 million years ago**, illustrating the catastrophic potential of such events. **For example**: The **Chicxulub crater** in **Mexico** marks the impact site of the asteroid believed to have caused this mass extinction.
 - **Potential for Global Catastrophe:** Large asteroids, typically over 1 km in diameter, could cause widespread destruction, including severe climate disruption and ecosystem collapse. **For example**: Such an impact could trigger global climate changes, like an **“impact winter”** severely affecting food production.
 - **Scientific Consensus on Risk:** Although rare, the possibility of a significant asteroid impact remains a genuine concern due to the potential for catastrophic consequences. **For example**: Reports from NASA’s Planetary Defense Coordination Office ( **PDCO** ) emphasize the severe global effects that could result from a large impact.
 - **Increased Space Activity:** Growing space activity, including satellite launches, **could** contribute to the **risk** of altering asteroid paths through **accidental collisions** or debris formation.
-
 - **Reasons Why the Threat to Life is Not Immediate:** 
-
 - **Low Probability of Impact:** Historically, significant asteroid impacts have been rare, occurring only a few times over millions of years. **For example:** Data from the **Near-Earth Object Observations program** indicates that no known asteroids pose a significant threat to Earth in the near future.
 - **Enhanced Monitoring and Preparedness:** Global tracking and detection efforts have significantly improved, enabling early identification and mitigation of potential threats.
 - **Resilience of Life on Earth:** Life on Earth has demonstrated resilience, surviving multiple mass extinctions and continuing to adapt and evolve in the face of environmental changes. **For example**: After the asteroid impact that caused the extinction of the dinosaurs, **mammals** flourished, showcasing life’s ability to recover and adapt.
@@ -25455,7 +25248,6 @@ Source Question: What is the main task of India&#8217;s third moon mission which
 
 **Subsystems in the Chandrayaan 3 Spacecraft:**
 - **Vikram Lander:** This lander is designed to execute a soft landing on the Moon’s surface. And, aims to provide **critical data on the Moon’s topography and mineral composition**. **Lander Subsystems**:
-
 1. Laser Inertial Referencing and Accelerometer Package (LIRAP)
 2. Ka-Band Altimeter (KaRA)
 3. Lander Position Detection Camera (LPDC)
@@ -25465,7 +25257,6 @@ Source Question: What is the main task of India&#8217;s third moon mission which
 7. Lander Horizontal Velocity Camera (LHVC)
 8. Micro Star sensor
 9. Inclinometer & Touchdown sensors
-
 - **Pragyan Rover:** This rover is engineered to explore the Moon’s surface post-landing, conducting **various experiments and sending data back to Earth**. Its design builds on the lessons learned from the previous missions, enhancing its ability to navigate and collect samples.
 - **Lander Actuators:** Reaction wheels – 4 nos (10 Nms & 0.1 Nm)
 - **Lander Propulsion System:** 
@@ -25948,11 +25739,9 @@ India’s plan to establish its own space station, spearheaded by the Indian Spa
 - **Plan and Timeline:** ISRO aims to construct a 20-ton space station within a decade, intending to support microgravity experiments.
 - **Launch of Gaganyaan Mission:** The mission will not only establish India’s capability to send humans into space but will also test technologies essential for the space station, such as life support and spacecraft re-entry.
 - **Extensive Training and Preparation:** Indian astronauts, or ‘vyomanauts,’ will undergo rigorous training to prepare for long-term space habitation and operations. This preparation includes:
-
   - physical conditioning,
   - technical training, and
   - emergency response.
-
 - **Development of Space Station Modules:** The next step involves the design and development of the space station modules.
 - **Launch and Assembly:** The individual modules will be launched into space and assembled to form the complete space station. This process will be a technical feat requiring precision and coordination.
 - **Operational Phase:** Once fully assembled, the space station will be operational for an estimated 15 years. During this period, astronauts will be regularly transported to and from the space station for research missions.
@@ -26099,9 +25888,7 @@ Source Question: India has achieved remarkable successes in unmanned space missi
 **India’s success in unmanned space missions, such as the Mars Orbiter Mission (MOM) and Chandrayaan, has been commendable. Yet, it has not embarked on a manned space mission so far. The primary challenges for launching a manned space mission are multi-faceted, ranging from technological to logistical.** Body: **<p align="center"><img src="pwonlyias/images/pw_science__technology_q347_img1.webp" alt="Mars Orbiter Mission " /></p>** Technological Challenges: **
 
 - **Advanced Technology:** Manned missions require more sophisticated technology than unmanned missions.
-
 - **For example, the development of a safe and reliable crew module:** to support human life in space is a complex task.
-
 - **Launch and Recovery Systems:** It’s essential to have reliable launch systems that can abort the mission if required, ensuring the crew’s safety. Similarly, recovery systems to bring astronauts safely back to Earth are critical, with the return journey often being even more perilous than the outward trip.
 
 **Human Factor:**
@@ -26377,10 +26164,8 @@ In the GPS era, Standard Positioning Systems (SPS) offer an accuracy of about 20
 - **Increased Accuracy:** NAVIC provides positional accuracy of less than 20 meters within the Indian region and an area extending 1500 km around it, which is quite favorable compared to the SPS.
 - **Strategic Security:** NAVIC strengthens national security by providing precise locational intelligence to the military, aiding in surveillance, reconnaissance, and missile guidance.
 - **Aid to Civilian Activities:** NAVIC can significantly benefit various civilian sectors.
-
 - **For example, it can enhance the efficiency of logistics and transport through accurate navigation.:** In agriculture, precise locational data can help with land management and precision farming.
   - Furthermore, it can assist disaster management operations by providing accurate and real-time positional data.
-
 - **Economic Growth:** The development of NAVIC opens opportunities for the growth of industries related to space technology, creating jobs, fostering innovation, and thereby contributing to economic growth.
 
 
@@ -26974,14 +26759,11 @@ Source Question: How can biotechnology help to improve the living standards of f
 
 - **Drought and Salinity Resistant Crops:** Biotechnology can help create crops resistant to extreme conditions like drought or salinity, which can be a boon in parts of India where water is scarce or soil is saline.
 - **For instance, research is ongoing on the development of a GM rice variety called “Saltol”:** for improved salt tolerance, which could significantly improve crop yield and farmer income in coastal areas with saline soils.
-
 - **Biofertilizers and Biopesticides:**
 - **Biotechnological advancements are leading to the development of biofertilizers and biopesticides, which are environmentally friendly:** alternatives to chemical fertilizers and pesticides.
   - These help improve soil fertility and crop protection while reducing environmental impact and farmer expenditure on inputs.
-
 - **Disease-Resistant Varieties:** Through genetic modification, disease-resistant crop varieties can be developed, which could significantly reduce crop losses.
 - **An example is the ongoing development of Banana varieties resistant to Panama disease,:** a devastating fungal disease, which could safeguard livelihoods of many Banana farmers.
-
 - **Nutrient Enriched Crops:** Biotechnology can help develop nutrient-enriched crops to tackle malnutrition.
 - **An example is Golden Rice, a GM variety rich in Vitamin A,:** which could not only improve farmer income but also address nutritional deficiencies in areas where rice is a staple.
 
@@ -27125,26 +26907,16 @@ Source Question: Why is there so much activity in the field of biotechnology in 
 
 **The upswing in biotechnology activities in India can be ascribed to three key driving factors:**
 - **Government Initiatives:** The Indian Government’s supportive role, through entities like the **Department of Biotechnology (DBT) and Biotechnology Industry Research Assistance Council (BIRAC)**, has sparked growth in biotech research and entrepreneurship.
-
   - An example is the **“Biotechnology Ignition Grant” scheme** aimed at promoting biotech innovation.
-
 - **Human Capital:** India’s substantial talent pool, bolstered by prestigious institutions and increasing student interest in biotech, fuels cutting-edge research.
-
   - **Institutions like the Indian Institute of Science exemplify this research prowess.**
 - **Market Potential:** India, with its large and diverse population, presents enormous potential for tailored healthcare solutions.
-
 - **The success of companies like Biocon in creating affordable biosimilars:** is a testament to this potential. **The surge in biotechnological advancements has significantly elevated the biopharma industry, particularly in areas such as:** <p align="center"><img src="pwonlyias/images/pw_science__technology_q424_img1.webp" alt="biopharma industry" /></p>
-
 - **Advanced Therapeutics:** Biotechnology has propelled the development of novel treatments, such as gene and cell therapies.
-
 - **For example, Zolgensma, a gene therapy for spinal muscular atrophy,:** marks a milestone in advanced therapeutics.
-
 - **Affordable Biosimilars:** Biotechnology facilitates the creation of biosimilars, similar and cheaper versions of expensive biologic medicines.
-
 - **For example, Biocon’s biosimilars, like Trastuzumab for breast cancer,:** have democratized access to life-saving treatments.
-
 - **Personalized Medicine:** Biotechnology allows for customized treatments based on patients’ genetic profiles, significantly improving treatment outcomes.
-
 - **For example, The use of genetic testing in identifying suitable treatments in oncology:** demonstrates the power of personalized medicine.
 
 
@@ -27609,11 +27381,9 @@ Source Question: India’s Traditional Knowledge Digital Library (TKDL), which h
 
 **Pros of Open-Source Licensing:**
 - **Promotion of Traditional Knowledge:** Open-source licensing could increase global awareness of India’s rich traditional medicinal practices.
-
   - **For instance, it could highlight the benefits of Ayurveda, Yoga, and Siddha.**
 - **Research and Development:** Open-source data could spur further research and development, leading to potential breakthroughs in healthcare. Researchers worldwide could leverage this knowledge to enhance their studies.
 - **Prevention of Biopiracy:** By documenting traditional knowledge, India can prevent erroneous patent claims.
-
   - **The successful revocation of the turmeric and neem patents in the US are instances where TKDL played a significant role.**
 - **Access to Healthcare:** Open-source data could make affordable and time-tested healthcare solutions available to a wider audience, especially beneficial in resource-poor settings.
 
@@ -28107,16 +27877,12 @@ Source Question: How does nanotechnology offer significant advancements in the f
 **Advancements offered by Nanotechnology in Agriculture**
 - **Precision Nutrient Delivery:** Nanofertilizers release nutrients gradually, minimizing waste and enhancing yield.
 - **Enhanced Pest and Disease Management:** Nanopesticides target pests more effectively with lower doses.
-
   - **Eg:** Silver nanoparticles*protect crops against fungal infections.
-
 - **Improved Soil and Water Management:** Nanosensors monitor soil moisture and quality for optimal irrigation.
 - **Post-Harvest Preservation:** Nano-packaging reduces spoilage and extends the shelf life of perishable produce.
 - **Early Detection and Diagnostics:** Nanosensors detect crop diseases at an early stage for timely intervention.
-
   - **Eg:** Gold nanoparticle:**
 - based biosensors.
-
 - **Climate-Resilient Farming:** Enhance crop resistance to drought, salinity, and extreme temperatures, ensuring stable yields.
 
 **Socio-Economic Benefits for Farmers**
@@ -28218,11 +27984,9 @@ Source Question: Why is nanotechnology one of the key technologies of the 21st c
 
 **Scope of its Application in India’s Development:**
 - **Healthcare:** Nanotechnology can revolutionize healthcare by enabling targeted drug delivery, improving diagnostic methods, and creating more effective implants.
-
   - **For example, nanobots could deliver chemotherapy drugs directly to cancer cells, reducing harmful side effects.**
 - **Energy Sector:** Nanotechnology can enhance the efficiency and sustainability of energy production and storage. For instance, the development of nanomaterials for solar cells could increase their efficiency while reducing costs.
 - **Water Treatment:** Nanotechnology can offer innovative solutions for water purification, essential for a country like India that faces significant water scarcity and contamination issues.
-
   - **For instance, nanotech-based filters can remove harmful microbes and pollutants more effectively than traditional methods.**
 - **Agriculture:** Nanofertilizers and nanopesticides can improve crop yields and reduce environmental impact. Nanosensors can also help monitor soil and crop health, ensuring timely interventions.
 - **Information Technology:** Nanoelectronics can lead to smaller, faster, and more energy-efficient devices, driving the growth of the IT sector.
@@ -28873,7 +28637,6 @@ Source Question: Describe the major outcome of the 26th session of the Conferenc
 - **Methane Pledge:** The European Union and the US launched a significant pledge to reduce greenhouse gas methane emissions.
   - Members of the alliance committed to lowering global methane emissions by 30% below 2020 levels by 2030.
   - The pledge has the potential to prevent 0.2 degrees Celsius of global warming.
-
 - **Deforestation Pledge:** More than 100 national leaders pledged to halt and reverse deforestation and land degradation by 2030.
   - The agreement expands on the commitment made by 40 countries in the 2014 New York Declaration of Forests.
 
@@ -29421,7 +29184,6 @@ Source Question: Discuss the work of ‘Bose-Einstein Statistics’ done by Prof
 **Bose-Einstein statistics has triggered revolutionary advances in physics, leading to significant practical applications:**
 - **Lasers and Superconductivity:** Central to the operation of lasers **(Light Amplification by Stimulated Emission of Radiation)** is the Bose-Einstein statistics.
 - **These devices have become an integral part of technology and everyday life.:** Similarly, Bose-Einstein condensation principles applied to electron pairs form the basis of our understanding of superconductivity, a state allowing electric current to flow without resistance.
-
 - **Bose-Einstein Condensate (BEC):** The theory also
 
 **forecasted a unique state of matter, the Bose-Einstein condensate, characterized by a group of bosons condensing into the lowest quantum state.**
@@ -29520,9 +29282,7 @@ Source Question: Scientific research in Indian universities is declining, becaus
 
 **Issues:**
 - **Funding Constraints:** Limited funding for scientific research often hampers the capacity of universities to undertake extensive, high-quality research.
-
 - **For instance, the budget allocation for the Department of Science and Technology was around 0.8% of GDP in the 2020-21 budget,:** significantly lower than that in developed countries.
-
 - **Inadequate Infrastructure:** The lack of world-class laboratories, equipment, and research infrastructure often discourages aspiring researchers.
 - **Administrative Hurdles:** Bureaucratic red tape and administrative delays can significantly slow down the progress of research projects.
 - **Lack of Collaboration:** Limited industry-academia collaboration can restrict practical exposure and applicability of research. **Consumer-Oriented Universities:
@@ -29533,7 +29293,6 @@ Source Question: Scientific research in Indian universities is declining, becaus
 ***Way Forward:** 
 - **Boost Funding:** 
 - **Currently, India’s allocation for research and development is around 0.7% of its GDP, which is significantly lower than countries like the USA and China that invest over 2% of their GDP.:** It’s imperative that the government increase this allocation. We’ve seen successful instances where ample funding, like in the case of ISRO, can lead to breakthroughs in technology and global recognition.
-
 - **Upgrade Infrastructure:** Investment in modern research facilities in universities can attract more students towards research.
 - **Encourage Industry-Academia Collaboration:** Partnerships between universities and industries, **similar to the collaboration between IIT Madras and Ather Energy,** can provide practical exposure and make research more application-oriented.
 
@@ -29749,7 +29508,6 @@ The ***International Thermonuclear Experimental Reactor (ITER)***, the world’s
 - **Cryostat:** (the largest stainless-steel vacuum chamber in the world, manufactured by L&T).
   - In-wall **shielding blocks and cooling water** systems.
   - Power supplies and diagnostics systems.
-
 - **Technical Expertise:** Indian scientists from the **Institute for Plasma Research (IPR), Gandhinagar,** have led critical R&D on plasma, cryogenics, and materials.
 - **Industry Participation:** Indian companies (L&T, BHEL, Godrej) are key suppliers, showcasing “Make in India” in high-tech manufacturing.
 
@@ -29907,12 +29665,10 @@ Source Question: With growing energy needs should India keep on expanding its nu
 
 **Nuclear energy has the potential to be a significant part of this energy mix due to several reasons:**
 - **High Energy Potential:** Nuclear plants, like the Kudankulam Nuclear Power Plant,:** showcase the ability to generate large amounts of energy from a relatively small infrastructure.
-
 - **Currently, KNPP houses two operational units each with a capacity of 1,000 MW, totaling 2,000 MW:** of electricity generation.
   - However, the real potential of this plant lies in its expansion. The construction of units three and four commenced in 2017 with an aim to operationalize them by 2023 and 2024, respectively.
   - Additionally, the fifth and sixth units are under construction as of 2021.
 - **Once all six units are commissioned, estimated by 2027, the power plant will have a combined capacity of 6,000 MW,:** making it the largest nuclear power station in India.
-
 - **Low Greenhouse Gas Emissions:** As a low-carbon technology, **nuclear energy contributed a mere 5% to India’s total greenhouse gas emissions in 2019, per the World Nuclear Association,** while contributing 3.1% to India’s total electricity.
 - **Energy Security:** Nuclear energy, leveraging India’s domestic thorium reserves, can enhance the nation’s energy security, as manifested in the three-stage nuclear power program.
 
@@ -30058,7 +29814,6 @@ Source Question: Give an account of the growth and development of nuclear scienc
 - **Nuclear Power:** India’s first nuclear power plant was commissioned in 1969 at Tarapur, Maharashtra, which marked a significant step in the country’s nuclear power generation.
 - **Pokhran Tests:** India demonstrated its nuclear capabilities to the world with the peaceful nuclear explosion at Pokhran in 1974, and later in 1998.
 - **Indigenous Development:** Post the Pokhran tests, India faced international embargos which led to the development of indigenous technology for both power generation and strategic purposes. **India’s three-stage nuclear power programme was conceived by Dr. Homi J. Bhabha in the 1950s.** The program was designed to utilize India’s substantial thorium reserves to meet its long-term energy requirements.
-
 - **Stage One – Pressurized Heavy Water Reactor (PHWR):** In this stage, natural uranium is used as fuel in PHWRs. The uranium-235 isotope undergoes fission to produce energy, while the uranium-238 isotope absorbs neutrons to produce plutonium-239.
 - **Stage Two – Fast Breeder Reactor (FBR):** The second stage utilizes plutonium-239, obtained from the first stage, as fuel in FBRs. These reactors breed more fuel than they consume. The bred material, a mix of plutonium and uranium, is reprocessed to extract plutonium for use in the next batch of fuel.
 - **Stage Three – Thorium Based Reactors:** In the final stage, thorium-232 is converted into uranium-233 in a reactor. The uranium-233 will then serve as fuel. Given that India has one of the largest reserves of thorium in the world, this stage will help achieve energy security.
@@ -30234,23 +29989,14 @@ Source Question: What do you understand by nanotechnology and how is it helping 
 
 **“Revolutionizing India’s Healthcare: The Multifaceted Impact of Nanotechnology”:**
 - **Enhancing Disease Diagnosis:** Nanotechnology is transforming disease diagnostics.
-
 - **For instance, Bengaluru-based Achira Labs:** has developed a microfluidics-based lab-on-a-chip device that allows rapid, low-cost diagnostic tests, enabling swift medical interventions.
-
 - **Improving Drug Delivery:** Nanotechnology is revolutionizing drug delivery systems.
-
 - **The Central Drug Research Institute (CDRI), Lucknow, has developed a nano-formulation of Amphotericin B,:** a drug used for treating fungal infections and Kala-azar. This formulation improves drug efficacy and reduces toxicity.
-
 - **Preventing Infections:** Nanomaterials like silver nanoparticles, with antimicrobial properties, are being incorporated in medical devices and wound dressings to prevent infections.
-
 - **For instance, Gujarat-based company, Amrutam,:** has developed nano-silver coated bandages that aid in faster wound healing.
-
 - **Advancing Vaccines and Therapeutics:** Nanotechnology is playing a crucial role in developing vaccines and therapeutics.
-
 - **For example, Covaxin, India’s first indigenous COVID-19 vaccine developed by Bharat Biotech,:** uses an Algel-IMDG adjuvant that forms a nano-sized gel droplet for a more robust immune response.
-
 - **Innovating Biomaterials and Implants:** Nanotechnology is aiding the innovation of durable and biocompatible materials for implants.
-
 - **Sree Chitra Tirunal Institute for Medical Sciences and Technology, Kerala,:** has developed a nanostructured form of titanium that offers enhanced compatibility and durability for orthopedic implants.
 
 
@@ -31098,7 +30844,6 @@ Source Question: Describe the major outcome of the 26th session of the Conferenc
 - **Methane Pledge:** The European Union and the US launched a significant pledge to reduce greenhouse gas methane emissions.
   - Members of the alliance committed to lowering global methane emissions by 30% below 2020 levels by 2030.
   - The pledge has the potential to prevent 0.2 degrees Celsius of global warming.
-
 - **Deforestation Pledge:** More than 100 national leaders pledged to halt and reverse deforestation and land degradation by 2030.
   - The agreement expands on the commitment made by 40 countries in the 2014 New York Declaration of Forests.
 
@@ -31555,7 +31300,6 @@ India’s climate pledges **evolved** from the **2015 Paris INDC** to enhanced *
 
   - India pledged to reduce the emissions intensity of its GDP by **33–35%** from **2005 levels** by 2030.
 - **Achievement:** As of 2019, India had already achieved a **33% reduction** in emissions intensity, ahead of schedule.
-
 - **Non-Fossil Energy Capacity Target:** 
 
  -
@@ -31572,7 +31316,6 @@ India’s climate pledges **evolved** from the **2015 Paris INDC** to enhanced *
 
   - Create an additional carbon sink of **2.5–3 billion tonnes CO₂** equivalent by 2030.
 - **Achievement:** By 2021, an additional carbon sink of **2.29 billion tonnes CO₂** equivalent had already been created.
-
 - **Equity and Climate Justice:** India highlighted **Common but Differentiated Responsibilities (CBDR)**, stressing low per-capita emissions and demanding climate finance and technology transfer from developed countries.
 
 *India’s NDC was among the most ambitious compared to similarly placed developing nations, but implementation gaps persisted in forestry and adaptation sectors.***Strengthening at COP26 (Glasgow, 2021)**
@@ -31581,7 +31324,6 @@ India’s climate pledges **evolved** from the **2015 Paris INDC** to enhanced *
   - 1 billion tonnes cumulative emissions reduction by 2030
   - 45% emissions‑intensity reduction by 2030
   - Net‑zero by 2070.
-
 - **Lifestyle for Environment (LiFE):** Promote sustainable consumption and behavioral change as a systemic mitigation method.
 - **Early progress signal:** India had already crossed 40% non‑fossil installed capacity ahead of 2030, enabling upward revision.
 - **Global partnerships:** Launch of initiatives for resilience and clean energy collaboration, complementing domestic targets.
@@ -31684,11 +31426,9 @@ The pursuit of carbon credits and clean development mechanisms (CDM) established
 - **Benefits of Carbon Credits and CDMs:** Carbon credits and CDMs incentivize companies to reduce their carbon footprint, leading to a reduction in greenhouse gas emissions.
   - They provide a cost-effective way for developing countries to reduce their carbon emissions.
   - They can generate revenue for companies through the sale of carbon credits.
-
 - **Challenges of Carbon Credits and CDMs:** The value of carbon credits has drastically declined in recent years, making it less attractive for companies to invest in carbon reduction projects.
   - The process of obtaining carbon credits and CDMs can be time-consuming and expensive.
   - The focus on carbon credits and CDMs can detract from other important initiatives to reduce carbon emissions.
-
 - **India’s Energy Needs for Economic Growth:** India is a rapidly growing economy and requires energy to fuel its development.
   - While India is committed to reducing its carbon emissions, it cannot do so at the cost of economic growth.
 - India needs to balance its energy needs with its commitment to reducing carbon emissions.
@@ -31860,7 +31600,6 @@ Sikkim holds the distinction of being India’s first “Organic State.” This 
 **Conservation of Soil and Water:** Organic farming practices in Sikkim prioritize the use of natural fertilizers and pest control methods. This reduces soil erosion and prevents the contamination of water bodies, contributing to the conservation of soil and water resources.
 - **Biodiversity Preservation:** Organic farming practices promote the preservation of biodiversity by avoiding the use of synthetic pesticides and genetically modified organisms. This helps maintain the ecological balance and supports the health of various plant and animal species.
 - **Reduced Environmental Pollution:** By eliminating the use of chemical fertilizers and pesticides, Sikkim’s organic state status minimizes the pollution of air, water, and soil. This leads to cleaner ecosystems and reduced negative impacts on human and animal health.
-
 - **Economic Benefits of Organic State:**
 - **Market Demand and Premium Prices:** Being recognized as an organic state enhances Sikkim’s market competitiveness. The increasing global demand for organic products provides economic opportunities for Sikkim farmers who can command premium prices for their organic produce.
 - **Sustainable Agriculture and Cost Savings:** Organic farming practices reduce dependency on costly synthetic inputs, leading to cost savings for farmers in the long run. Organic farming enhances soil fertility and increases its long-term productivity, ensuring sustainable agriculture practices.
@@ -32478,19 +32217,15 @@ The draft Environment Impact Assessment (EIA) Notification, 2020 proposed by the
 - **Post-Facto Approval:** 
 - **Existing Notification:** Environmental clearances need to be obtained before the commencement of a project.
 - **Draft Notification:** Allows for post-facto approval, meaning projects can be regularized even if they have started construction without securing prior environmental clearances.
-
 - **Public Consultation Process:**
 - **Existing Notification:** Requires a 30-day period for the public to submit responses during a public hearing for any project seeking environmental clearance.
 - **Draft Notification:** Reduces the public consultation period to 20 days, potentially limiting the time for meaningful participation and adequate preparation of views, comments, and suggestions.
-
 - **Compliance Report Submission:**
 - **Existing Notification:** Project proponents are required to submit compliance reports every six months, demonstrating adherence to the terms of permission.
 - **Draft Notification:** Changes the frequency of compliance report submission to once a year, which may reduce the monitoring and reporting of project activities.
-
 - **Categorization and Transparency:**
 - **Existing Notification:** Does not explicitly mention the categorization of projects as **“strategic”** or limit public access to information.
 - **Draft Notification:** Empowers the central government to categorize projects as “strategic” and states that no information related to such projects will be placed in the public domain. This reduces transparency and public scrutiny.
-
 - **Exemptions and Scrutiny:** 
 - **Existing Notification:** New construction projects exceeding 20,000 square meters require detailed scrutiny by the Expert Committee, along with EIA studies and public consultation.
 - **Draft Notification:** Increases the threshold to 1,50,000 square meters, exempting a larger number of construction projects from detailed scrutiny and reducing the scope of EIA studies and public consultation.
@@ -33281,7 +33016,6 @@ Sikkim holds the distinction of being India’s first “Organic State.” This 
 **Conservation of Soil and Water:** Organic farming practices in Sikkim prioritize the use of natural fertilizers and pest control methods. This reduces soil erosion and prevents the contamination of water bodies, contributing to the conservation of soil and water resources.
 - **Biodiversity Preservation:** Organic farming practices promote the preservation of biodiversity by avoiding the use of synthetic pesticides and genetically modified organisms. This helps maintain the ecological balance and supports the health of various plant and animal species.
 - **Reduced Environmental Pollution:** By eliminating the use of chemical fertilizers and pesticides, Sikkim’s organic state status minimizes the pollution of air, water, and soil. This leads to cleaner ecosystems and reduced negative impacts on human and animal health.
-
 - **Economic Benefits of Organic State:**
 - **Market Demand and Premium Prices:** Being recognized as an organic state enhances Sikkim’s market competitiveness. The increasing global demand for organic products provides economic opportunities for Sikkim farmers who can command premium prices for their organic produce.
 - **Sustainable Agriculture and Cost Savings:** Organic farming practices reduce dependency on costly synthetic inputs, leading to cost savings for farmers in the long run. Organic farming enhances soil fertility and increases its long-term productivity, ensuring sustainable agriculture practices.
@@ -33490,7 +33224,6 @@ Photochemical smog refers to a type of air pollution that is formed when sunligh
 - **Formation:** Photochemical smog formation involves a series of complex reactions. During sunlight exposure, nitrogen oxides and VOCs are converted into secondary pollutants, such as ozone (O3) and peroxyacetyl nitrate (PAN). These reactions occur due to the presence of hydrocarbons and nitrogen oxides emitted by vehicles, power plants, and industrial processes.
 - **Effects:** Photochemical smog has numerous adverse effects on human health, ecosystems, and the environment. High levels of ozone can cause respiratory problems, eye irritation, and exacerbate existing lung conditions. It also damages crops, reduces agricultural productivity, and harms aquatic life. Furthermore, photochemical smog contributes to the greenhouse effect and climate change.
 - **Mitigation:** Efforts to mitigate photochemical smog involve a combination of regulatory measures, technological advancements, and public awareness campaigns
-
 - **Emission controls:** Implementing stringent emission standards for vehicles, industries, and power plants can significantly reduce the release of nitrogen oxides and VOCs.
 - **Alternative fuels:** Promoting the use of cleaner fuels, such as compressed natural gas (CNG) and electric vehicles, helps in reducing emissions and mitigating smog formation.
 - **Urban planning:** Developing sustainable urban planning practices that prioritize public transportation, cycling, and pedestrian-friendly infrastructure can reduce vehicular emissions.
@@ -34109,14 +33842,10 @@ Mineral mining provides the raw materials for making electricity, steel, cement,
 
 **Mining as an Environmental Hazard**
 - **Land subsidence:** Unregulated mining weakens slopes, causing ground sinking, soil loss, and structural damage near sites.
-
   - **Eg:** Soapstone mining: **in** Bageshwar, Uttarakhand **triggered subsidence risk and erosion.**
-
 - **River erosion:** Excess sand and gravel removal destabilizes riverbeds, erodes banks, and harms fish and flood resilience.
 - **Toxic drainage:** Acid mine drainage pollutes streams with heavy metals, degrading ecosystems and drinking sources downstream.
-
   - **Eg:** Malanjkhand copper area:** showed acidic runoff contaminating water and sediments.
-
 - **Dust and air:** Blasting, hauling, and dumps add fine particles, worsening local air and respiratory health near mines.
 - **Habitat loss:** Clearing forests and buffers for pits fragments green cover and pressures biodiversity when safeguards are weak.
 - **Community risks:** Poor controls cause water scarcity, noise, accidents, and conflict with nearby settlements and workers.
@@ -34125,19 +33854,13 @@ Mineral mining provides the raw materials for making electricity, steel, cement,
 - **Sustainability ratings:** Star Rating promotes scientific mining:** , closure plans, and social safeguards to raise baseline performance.
 - **DMF welfare:** District Mineral Foundation funds:** water, health, pollution control, and livelihoods in affected areas.
 - **Planned closure:** Scientific closure restores landforms, waterflows, and enables reuse like eco‑parks or solar plants.
-
   - **Eg:** Coal ministry promotes repurposing closed mines for community assets.
-
 - **Curb sand crime:** Enforce laws, use tech monitoring, and shift to manufactured sand to protect rivers.
-
   - **Eg:** Policies promote **M‑sand (manufactured sand)** and tighter checks on extraction.
-
 - **Green buffers:** Create green belts, retaining walls, and slope sensors to stabilize ground and cut dust.
 - **Public oversight:** Share mine performance data and involve communities in plans to reduce conflict and improve compliance.
 - **Green Rehabilitation Measures:** Afforestation and ecological restoration of mined lands.
-
   - **Eg:** Neyveli Lignite Corporation’s:** post-mining afforestation model.
-
 - **Advanced Pollution Management:** Adopting **dust suppression systems** and **real-time** pollution monitoring.
 
 
@@ -35059,15 +34782,10 @@ Source Question: Seawater intrusion in the coastal aquifers is a major concern i
 
 **Natural Causes**
 - **Sea Level Rise due to Climate Change:** Rising sea levels increase hydrostatic pressure along coastlines, pushing saline water into freshwater aquifers.
-
   - **Eg:** The Sundarbans and Odisha coasts have reported increasing salinity linked to sea-level rise *(Source: PIB)*.
-
 - **Tidal Fluctuations and Storm Surges:** High tides, cyclones, and storm surges force seawater to flow inland and infiltrate shallow aquifers.
-
   - **Eg:** The **2004 Indian Ocean tsunami** caused severe seawater ingress in parts of Tamil Nadu.
-
 - **Geological and Hydrogeological Conditions:** Coastal areas with sandy soils, porous rocks, or low-lying physiographic depressions allow rapid seawater percolation.
-
   - **Eg:** Mongrol–Chorwad coast in Saurashtra, Gujarat, faces salinity due to natural hydrogeology and tidal inundation (Source: CGWB).
 
 **Anthropogenic Causes**
@@ -35648,7 +35366,6 @@ Source Question: What is oil pollution? What are its impacts on the marine ecosy
  **Oil pollution** refers to the **introduction of oil substances, primarily from anthropogenic activities**, into the oceans, where it has detrimental impacts on the marine ecosystem. This type of pollution can come from a variety of sources and causes a range of negative effects, some of which are long-lasting and severe.
 
 - **Data regarding oil pollution:** 
-
   - There was an average of 1.8 large oil spills from tanker incidents every year in the decade from 2010 to 2019.
 - In 2022, four oil spills were reported in which more than 700 metric tons of oil was leaked.
 
@@ -36007,12 +35724,10 @@ Source Question: Discuss the Nanami Gange and National Mission for Clean Ganga (
 - **National Mission for Clean Ganga (NMCG):** The National Mission for Clean Ganga (NMCG) was launched in 2014 by the central government.
   - The mission aims to clean and rejuvenate the Ganga river by controlling pollution sources, treating sewage, and conserving biodiversity.
   - The NMCG also aims to create public awareness about the need to keep the river clean and involve local communities in the cleaning efforts.
-
 - **Causes of mixed results from previous schemes:** Despite the launch of several schemes, the Ganga river continues to be heavily polluted.
   - One of the main reasons for this is the lack of effective implementation and monitoring of the schemes.
   - The lack of political will and accountability, which has led to corruption and mismanagement of funds.
   - The increasing population and urbanization along the river have put additional pressure on the river and its ecosystem.
-
 - **Quantum leaps to preserve the river Ganga:** A quantum leap is a significant and transformative change that can have a major impact on the preservation of the Ganga river.
   - One quantum leap could be the development of innovative and sustainable technologies for sewage treatment and waste management. **Example** The use of bioremediation techniques, which use microbes to break down pollutants, can be a more effective and eco-friendly way to treat sewage.
   - Another quantum leap could be the creation of a decentralized governance system, where local communities are empowered to manage and protect the river.
@@ -36744,9 +36459,7 @@ Source Question: How are the principles followed by the NITI Aayog different fro
 - **Fundamental basis:** Planning Commission worked on the ideals of socialism which became largely irrelevant post LPG reforms. NITI Aayog aims for competitive federalism between states in a free market economy.
 - **Competitive federalism:** NITI Aayog has prepared online dashboards to rank the states on various indicators of development such as Sustainable Development Goals (SDG) India Index, Health Index, School Education Quality Index, Digital Transformation Index etc. This helps in replicating the best practices in different States in various sectors.
 - **Decentralization:** NITI Aayog works on participatory decision making along with states while the Planning commission was largely a centralized decision-making body.
-
   - The involvement of chief ministers in the planning process of India improves the spirit of cooperative federalism and participatory planning unlike Planning Commission which was usually headed by union ministers or technocrats.
-
 - **No Financial powers:** The Planning Commission used to allocate funds to states while NITI Aayog is only an advisory body.
 - **Inclusive growth:** The NITI Aayog focuses on inclusive growth and aims to address regional imbalances and disparities in development. The Planning Commission also had similar goals, but its approach was often criticized for being top-down and not sufficiently inclusive.
 - **Coordination between Centre and States:** NITI Aayog has helped in bringing convergence among central and state government and across different ministries to push the agenda of development forward through initiatives like 115 Aspirational Districts.
@@ -37943,7 +37656,6 @@ Source Question: Discuss about the vulnerability of India to earthquake related 
 - **Latur Earthquake (1993):** The Latur earthquake was a 6.2 magnitude earthquake that struck Maharashtra on September 30, 1993. The earthquake caused significant damage to property and infrastructure in the region and claimed more than 9,000 lives.
 - **Bhuj Earthquake (2001):** The Bhuj earthquake was a 7.7 magnitude earthquake that struck Gujarat on January 26, 2001. The earthquake claimed more than 20,000 lives and caused widespread damage to property and infrastructure in the region.
 - **Sikkim Earthquake (2011):** The Sikkim earthquake was a 6.9 magnitude earthquake that struck Sikkim on September 18, 2011. The earthquake caused widespread damage to property and infrastructure in the region and claimed more than 100 lives.
-
 - **Salient Features of Major Earthquake Disasters in India:** Densely populated cities in affected regions are highly vulnerable.
   - Lack of preparedness and inadequate infrastructure.
   - Delay in rescue and relief operations.
@@ -38093,7 +37805,6 @@ The Indian subcontinent has witnessed several major earthquakes in recent years,
 **Gaps in India’s Preparedness for Mitigating the Impact of Earthquakes**
 There are several gaps in the country’s ability to mitigate the impact of earthquakes, including the lack of building codes and seismic-resistant structures.
 - The absence of a dedicated agency for earthquake response and management, limited public awareness and education on earthquake preparedness, and insufficient resources and funding for earthquake mitigation and response. **Mechanisms for Preparedness to Reduce the Risk During Earthquakes:** To reduce the impact of earthquakes, India needs to adopt a multi-faceted approach.
-
 - This includes the development of earthquake-resistant building codes and retrofitting of existing structures.
 - The establishment of a dedicated agency for earthquake management and response, conducting regular earthquake drills and awareness campaigns, and investment in research and development of innovative technologies for earthquake mitigation.
 
@@ -38327,12 +38038,10 @@ Landslides are one of the most destructive natural disasters, causing significan
 - **Geological Factors:** Geological factors such as the type of soil and rock, slope angle, and slope stability can contribute to landslides. **For example** In **Himachal Pradesh** steep slopes with loose soil and rock are more prone to landslides.
 - **Natural Factors:** Natural factors such as heavy rainfall, snowmelt, earthquakes, and volcanic activity can trigger landslides. **For example, In Assam** heavy rainfall can saturate the soil, causing it to become unstable and slide downhill.
 - **Human Factors:** Human activities such as deforestation, mining, and construction can also contribute to landslides. **For example In Kerala** deforestation can destabilize slopes, leading to landslides.
-
 - **Effects of Landslides:**
 - **Loss of Life:** Landslides can cause fatalities and injuries to people in the affected areas.
 - **Damage to Property and Infrastructure:** Landslides can damage or destroy buildings, roads, bridges, and other infrastructure, leading to economic losses.
 - **Environmental Damage:** Landslides can cause significant environmental damage, such as soil erosion, loss of vegetation, and changes to watercourses.
-
 - **National Landslide Risk Management Strategy:**
 - **Hazard Assessment:** Conducting a hazard assessment is the first step in developing a National Landslide Risk Management Strategy. This involves identifying areas prone to landslides and evaluating the potential impact of landslides on people, property, and infrastructure.
 - **Risk Mapping:** Mapping the risk of landslides is essential to developing effective risk management strategies. This involves identifying vulnerable areas and prioritizing them for risk reduction measures.
@@ -39500,7 +39209,6 @@ India’s urban population is projected to reach 40.76% by 2030, emphasizing the
 **g According to ICED 2022 report, the country has experienced a significant increase in annual runoff by approximately 1.3 billion cubic meters due to reduced infiltration and increased surface runoff.**
 - **Poor Drainage Systems:** Insufficient maintenance, blockages, and inadequate capacity of drainage networks impede water flow, exacerbating flood risk.
 - **Encroachment of Water Bodies:** Construction on water bodies reduces their storage capacity, displacing water into urban areas during heavy rainfall.
-
 - **Mechanisms for Preparedness:**
 - **Urban Planning and Zoning:** Implementing proper urban planning strategies, including land-use zoning and flood-sensitive construction practices, can minimize flood vulnerability.
 
@@ -41261,14 +40969,11 @@ Source Question: Border management is a complex task due to difficult terrain an
 **Challenges in Border Management:**
 - **Difficult Terrain:** India shares its borders with countries across diverse landscapes – ranging from dense forests with Bangladesh and Bhutan, deserts with Pakistan, to mountainous terrains with China and Nepal.
   - This geographical diversity presents logistical challenges.
-
 - **Hostile Relations:** Strained relations with nations **like Pakistan and China result in frequent border disputes and tension,** complicating management.
-
 - **Porosity:** Porous borders,
 
 **particularly with Nepal, Bangladesh, and Myanmar, facilitate illegal activities like smuggling, human trafficking, and infiltration.**
 - **Infrastructure Deficiencies:** Lack of adequate infrastructure like roads, fencing, and surveillance equipment hinders effective border patrolling and monitoring. **Strategies for Effective Border Management:** <p align="center"><img src="pwonlyias/images/pw_internal_security_q248_img1.webp" alt="Strategies for Effective Border Management" /></p>
-
 - **Technology Integration:** Advanced surveillance technologies like drones, ground sensors, high-resolution cameras, thermal imagers, aerostats, and satellite imagery can boost border security.
 
 **For instance, India is deploying a comprehensive integrated border management system (CIBMS) along its borders.**
@@ -41385,7 +41090,6 @@ Airspace is crucial for commercial aviation, military defense, and communication
 **Implications of These Laws on the Space Above Airspace**
 - **Lack of Sovereignty in Outer Space:** Unlike airspace, no country can claim sovereignty over outer space.
   - As per the 1967 Outer Space Treaty, outer space, including the Moon and other celestial bodies, is not subject to national appropriation by claim of sovereignty, by means of use or occupation, or by any other means.
-
 - **International Cooperation:** The usage of space above airspace is more of international cooperation and less of individual control.
   - The law insists on the exploration and use of outer space for the benefit and in the interest of all countries.
 
@@ -41486,11 +41190,9 @@ Source Question: How illegal trans-border migration does pose a threat to India�
 
 **The 2008 Mumbai attacks,** in which terrorists used sea routes to infiltrate the country, underscored the risks posed by illegal migration.
 - **In Tamil Nadu, there have been concerns about links between illegal Sri Lankan immigrants:** and militant groups such as the Liberation Tigers of Tamil Eelam (LTTE).
-
 - **Crime and Insurgency:** Illegal migration has been linked to an upsurge in criminal activities.
 - **For example, the India-Bangladesh border has reportedly been a hotbed for smuggling and human trafficking:** . I
   - n the North-Eastern states, insurgency has been fueled by unchecked illegal migration.
-
 - **Social Unrest:** Rapid demographic shifts due to illegal migration have led to social tensions and violence.
 - **The Assam Agitation in the 1980s and more recently, sporadic violence against Sri Lankan refugees in Tamil Nadu, highlight this issue.:**
 
@@ -41500,7 +41202,6 @@ Source Question: How illegal trans-border migration does pose a threat to India�
   - **In Tamil Nadu, coastal security has been strengthened to prevent illegal maritime migration from Sri Lanka.**
 - **Legal Measures:** The government has undertaken **various legal measures such as the National Register of Citizens (NRC) in Assam and the Citizenship Amendment Act (CAA** ) at the national level.
   - However, these initiatives have sparked significant debate due to their potential humanitarian implications.
-
 - **Bilateral Cooperation:** India has sought to bolster cooperation with its neighbors.
 - **The 2015 Land Boundary Agreement with Bangladesh:** is a significant milestone in this regard.
 
@@ -41622,13 +41323,10 @@ Source Question: How far are India’s internal security challenges linked with 
 **Linkage of Internal Security Challenges with Border Management**
 - **Illegal Migration:** India’s porous borders, notably with Bangladesh and Nepal, are conduits for illegal migration, leading to socio-economic tensions and demographic changes.
 - **For instance, the Assam and West Bengal states have faced significant demographic shifts.:** The detection of 31 million illegal Bangladeshi migrants in Assam during the 2019 National Register of Citizens (NRC) updation.
-
 - **Drug Trafficking:** Borders with nations like Myanmar and Pakistan are pivotal routes for drug trafficking.
 - **The 2020 seizure of 3800kg of cannabis at the Mizoram-Bangladesh border exemplifies this issue,:** which contributes to internal security problems like substance addiction and organized crime.
-
 - **Arms Smuggling:** Porous borders, particularly with Nepal and Bangladesh, enable illegal arms smuggling.
 - **The interception of arms consignments destined for Maoist insurgents in Bihar and Jharkhand,:** often smuggled through the India-Nepal border, has underlined this persistent issue, contributing to internal conflicts.
-
 - **Cross-Border Terrorism:** Borders with Pakistan and Myanmar have been infiltration routes for terrorist organizations, causing persistent internal security challenges.
   - **The Uri and Pulwama attacks in Jammu & Kashmir, orchestrated by Pakistan-based terror outfits, are poignant examples.**
 - **Transnational Crimes:** Porous borders facilitate transnational crimes like human trafficking and counterfeit currency rackets.
@@ -41837,15 +41535,12 @@ India’s economy and strategic strength rely heavily on maritime trade, **with 
 
 **Why Maritime Security is Vital to Protect India’s Sea Trade**
 - **Energy Security:** Narrow straits like **Malacca** and **Hormuz** can disrupt supplies if threatened.
-
   - **Eg:** Nearly **80%** of crude oil imports pass through critical sea lanes like the
 
 **Strait of Hormuz and Malacca.**
 - **Economic Growth:** Ports and shipping contribute significantly to GDP, employment, and export competitiveness.
 - **Trade Dependence:** Keeping sea routes safe prevents delays and price spikes.
-
   - **Eg:** ~70% of India’s trade: **by** value **moves via sea routes.**
-
 - **Strategic Connectivity:** Blue Economy and SAGAR vision:** rely on secure seas for trade and regional outreach.
 
 **Maritie Security Challenges**
@@ -42061,7 +41756,6 @@ Source Question: What are the maritime security challenges in India? Discuss the
 - **Illegal Trafficking:** Smuggling of goods, illicit arms, and human trafficking through the sea routes is a perpetual challenge.
   - **The Sundarbans Delta region between West Bengal and Bangladesh and the Palk Strait between Tamil Nadu and Sri Lanka are infamous for such illegal activities.**
 - **Border Disputes:** Geopolitical tensions arise from border disputes **like the Sir Creek dispute with Pakistan in the marshy regions of the Gujarat coast, and the dispute over Katchatheevu island** with Sri Lanka off the Tamil Nadu coast.
-
 - **Natural Disasters:** India’s extensive coastline makes it vulnerable to natural disasters like cyclones and tsunamis.
 - **For instance, Cyclone Amphan (2020) caused widespread devastation in West Bengal, and the 2004 Tsunami severely impacted the Andaman and Nicobar Islands and the eastern coastal states.:**
 
@@ -42641,7 +42335,6 @@ Sikkim holds the distinction of being India’s first “Organic State.” This 
 **Conservation of Soil and Water:** Organic farming practices in Sikkim prioritize the use of natural fertilizers and pest control methods. This reduces soil erosion and prevents the contamination of water bodies, contributing to the conservation of soil and water resources.
 - **Biodiversity Preservation:** Organic farming practices promote the preservation of biodiversity by avoiding the use of synthetic pesticides and genetically modified organisms. This helps maintain the ecological balance and supports the health of various plant and animal species.
 - **Reduced Environmental Pollution:** By eliminating the use of chemical fertilizers and pesticides, Sikkim’s organic state status minimizes the pollution of air, water, and soil. This leads to cleaner ecosystems and reduced negative impacts on human and animal health.
-
 - **Economic Benefits of Organic State:**
 - **Market Demand and Premium Prices:** Being recognized as an organic state enhances Sikkim’s market competitiveness. The increasing global demand for organic products provides economic opportunities for Sikkim farmers who can command premium prices for their organic produce.
 - **Sustainable Agriculture and Cost Savings:** Organic farming practices reduce dependency on costly synthetic inputs, leading to cost savings for farmers in the long run. Organic farming enhances soil fertility and increases its long-term productivity, ensuring sustainable agriculture practices.
@@ -43908,13 +43601,10 @@ Source Question: Cyber warfare is considered by some defense analysts to be a la
   - **For example, the reported breach in 2020 where personal details of 2.9 crore Indians were allegedly sold on the dark web, highlighting the severity of such threats.**
 - **Attacks on Critical Infrastructure:** India’s critical infrastructures are becoming increasingly vulnerable to cyber-attacks.
 - **For instance, in 2020, the power system in Mumbai faced an unexpected blackout, which, as per reports, was a suspected cyber-attack.:** <p align="center"><img src="pwonlyias/images/pw_internal_security_q18_img2.webp" alt="critical information infrastructure" /></p>
-
 - **Cyber Espionage:** India has been a target of numerous state-sponsored cyber-espionage attacks.
 - **A notable example is the ‘Operation Hangover’ attributed to Pakistan,:** where military, diplomatic, and corporate entities were targeted for sensitive information.
-
 - **Phishing and Social Engineering Attacks:** These attacks are becoming more sophisticated and widespread in India.
 - **According to the Indian Computer Emergency Response Team (CERT-In),:** the country witnessed over 2.7 lakh cybersecurity incidents related to phishing in 2020 alone.
-
 - **Cyber Terrorism:** The digital space has become a new medium for terror organizations to spread propaganda and orchestrate attacks.
 - **Groups like ISIS have been reported to use the internet to recruit members from India and spread their ideologies.:**
 
@@ -44454,7 +44144,6 @@ Source Question: Religious indoctrination via digital media has resulted in Indi
 - **Recruitment and Radicalization:** The digital reach of ISIS allows it to indoctrinate and recruit individuals from India.
   - This can lead to homegrown terrorist attacks.
 - **For instance, reports suggest that several Indian youth, such as Areeb Majeed from Maharashtra,:** were radicalized online and joined ISIS ranks, posing a potential risk of homegrown terrorism.
-
 - **Social Discord:** ISIS’s extremist ideology can exacerbate sectarian tensions in India, a country marked by its religious diversity.
   - **Online propaganda promoting such divisive narratives can fuel social unrest and communal violence.**
 - **Threat to National Unity:** The appeal of ISIS to disenfranchised or marginalized groups can further deepen social divisions, threatening national unity.
@@ -44548,7 +44237,6 @@ Source Question: What is social networking site and what security implications d
 **Security Implications of Social Networking Sites (SNS)**
 - **Cyberbullying and Harassment:** Platforms such as Facebook and Twitter are often misused for cyberbullying and harassment.
 - **According to a survey conducted by NortonLifeLock in 2019,:** 60% of Indian parents believed their children were being bullied on social media platforms.
-
 - **Identity Theft:** SNS have increased the risk of identity theft.
 - **For example, the Pune Cyber Crime Cell’s investigation in 2020,:** where a criminal used LinkedIn to impersonate a company HR, thereby luring and defrauding job seekers.
 
@@ -44560,7 +44248,6 @@ Source Question: What is social networking site and what security implications d
   - **A 2021 report by Kaspersky stated that India ranked 14th worldwide in the number of victims attacked via phishing sites.**
 - **Data Privacy Violation:** Companies like Facebook have been criticized for violating user data privacy.
 - **For example, the CBI inquiry into the Cambridge Analytica data scandal,:** examining the alleged illegal personal data harvesting of Indian Facebook users.
-
 - **Platform for Illicit Activities:** Some internet platforms can be used for illegal activities, presenting broader security concerns.
   - **For instance, Indian law enforcement agencies have busted several dark web-based drug trafficking rackets in recent years.**
 - **Misuse by Terrorist Groups:** SNS have been exploited by extremist groups for recruitment and propagating their ideologies.
@@ -44939,14 +44626,11 @@ Despite these significant strides, the issue continues to demand strategic and c
 
 **SRE Scheme:** The Security Related Expenditure (SRE) scheme supports states financially in their fight against LWE, thereby reinforcing their security infrastructure.
 - **Modernisation of State Police Forces:** The government has also been strengthening the police forces with modern weaponry, communication systems, and training to effectively combat LWE.
-
 - **Developmental Initiatives:**
 - **Integrated Action Plan (IAP):** The government aims to mitigate socio-economic disparities exploited by extremists by accelerating development in LWE-affected regions through programs like the Integrated Action Plan.
 - **Aspirational Districts Programme:** This initiative targets historically underdeveloped districts, many of which are affected by LWE, with the goal of transforming them through multi-sectoral development.
-
 - **Political Approaches:** 
 - **Enhancing Local Governance:** By empowering Panchayati Raj institutions and ensuring their proper functioning, the government intends to increase local participation in governance, thus addressing political grievances often fuelled by LWE.
-
 - **Social Strategies:** 
 - **Rehabilitation and Surrender Policies:** These policies incentivize Naxals to surrender and reintegrate into mainstream society, focusing on a more humane approach towards combatants while ensuring the rule of law.
 
@@ -45362,7 +45046,6 @@ Source Question: Money laundering poses a serious threat to country’s economic
   - **For instance, it was reported in 2020 that funds laundered through Hawala transactions were used to finance the 26/11 Mumbai terror attacks.**
 - **Governance and Corruption:** Money laundering can reinforce corruption, erode governance, and weaken democratic institutions.
 - **According to Transparency International’s Corruption Perceptions Index 2022, India ranks 85 out of 180 countries,:** indicating a high level of corruption that can be perpetuated by money laundering activities.
-
 - **Social Impact:** The accumulation of wealth through money laundering can increase social inequality and further marginalize vulnerable sections of society.
 - **As per a 2019 report by Oxfam, the top 10% of the Indian population holds 77% of the total national wealth, a disparity that can be exacerbated by money laundering activities.:**
 
@@ -45574,13 +45257,9 @@ Left Wing Extremism ( **LWE** ), or **naxalism**, is a Maoist-inspired insurgenc
 
 **Impact of Left-Wing Extremism (LWE) on People**
 - **Loss of Lives and Perpetual Fear:** Civilians often fall victim to brutal vigilante justice, being accused of aiding security forces or refusing extremist demands.
-
   - **Eg:** In Chhattisgarh’s **Sukma district**, Maoists recently killed two villagers suspected of being police informers.
-
 - **Disruption of Public Services and Isolation:** LWE violence blocks essential services like healthcare, education, and transport, leaving people cut off from development and governance.
-
   - **Eg:** Katezari village:** in Gadchiroli finally received its first state-run bus after 77 years of insurgency.
-
 - **Forced Displacement and Loss of Livelihoods:** Extremist activities or counterinsurgency operations often displace villagers, forcing them into temporary shelters, disrupting livelihoods.
 - **Breakdown of Local Governance and Coercive Control:** Extremist groups impose parallel governance, levy taxes, and resort to coercion, undermining local democratic institutions. **Measures Taken by the Government to Eliminate LWE**
 
@@ -45814,7 +45493,6 @@ Source Question: Naxalism is a social, economic and developmental issue manifest
 
 **Emerging Issues:**
 - **Expansion:** Naxalites are expanding their influence, especially in the “Red Corridor,” intensifying security concerns. **An example is the state of Chhattisgarh, where an increase in Naxalite activities has been noted recently.** <p align="center"><img src="pwonlyias/images/pw_internal_security_q675_img1.webp" alt="Naxalite area" /></p>
-
 - **Socio-Economic Disparity:** Inequality and underdevelopment in Naxal-affected areas feed the unrest.
 
 **In regions like Bihar and Jharkhand, marked by poverty and underdevelopment, Naxalism often thrives on the discontentment of the marginalized.**
@@ -46100,14 +45778,11 @@ Despite these significant strides, the issue continues to demand strategic and c
 
 **SRE Scheme:** The Security Related Expenditure (SRE) scheme supports states financially in their fight against LWE, thereby reinforcing their security infrastructure.
 - **Modernisation of State Police Forces:** The government has also been strengthening the police forces with modern weaponry, communication systems, and training to effectively combat LWE.
-
 - **Developmental Initiatives:**
 - **Integrated Action Plan (IAP):** The government aims to mitigate socio-economic disparities exploited by extremists by accelerating development in LWE-affected regions through programs like the Integrated Action Plan.
 - **Aspirational Districts Programme:** This initiative targets historically underdeveloped districts, many of which are affected by LWE, with the goal of transforming them through multi-sectoral development.
-
 - **Political Approaches:** 
 - **Enhancing Local Governance:** By empowering Panchayati Raj institutions and ensuring their proper functioning, the government intends to increase local participation in governance, thus addressing political grievances often fuelled by LWE.
-
 - **Social Strategies:** 
 - **Rehabilitation and Surrender Policies:** These policies incentivize Naxals to surrender and reintegrate into mainstream society, focusing on a more humane approach towards combatants while ensuring the rule of law.
 
@@ -46229,17 +45904,13 @@ Source Question: The persisting drives of the government for development of larg
 - **Inclusive Development:** Development projects should be designed with a people-centric approach, considering the rights and needs of local communities.
 - **Prior consent, fair compensation, and provision for suitable livelihood options should be integral parts of such projects.:** Successful models like the **“Samriddhi Corridor” project in Maharashtra which ensures local farmers’ participation and fair compensation** can be followed.
 - **The “Sandesh Model” in Bihar,:** which includes villagers in decision making for industrial projects, has been effective.
-
 - **Skill Development and Education:** These are essential for integrating displaced populations into the mainstream economy.
   - Successful initiatives like the **Skill India mission and educational campaigns, as seen in the “Chhattisgarh government’s education city project” in Dantewada,** need to be effectively implemented in these areas.
 - **Telangana’s “Gurukul” system,:** providing quality residential schooling to tribal students, is a successful example.
-
 - **Infrastructure Development:** Lack of infrastructure in these regions often isolates these communities.
 - **Investment in road connectivity, healthcare facilities, schools, etc., can bring them closer to the mainstream.:** Successful initiatives like the **Pradhan Mantri Gram Sadak Yojana (PMGSY) have shown positive results** in these regions.
-
 - **Participatory Governance:** The involvement of local communities in decision-making processes related to development projects can reduce resistance and foster a sense of ownership.
 - **The PESA (Panchayats Extension to Scheduled Areas) Act implementation can be strengthened:** for this purpose.
-
 - **Security Measures:** While development is the long-term solution, in the short-term, the security forces need to be adequately equipped to maintain law and order, **as seen in the success of the “Greyhounds” model in Andhra Pradesh in dealing with LWE.**
 
 
@@ -46326,7 +45997,6 @@ Source Question: Article 244 of Indian Constitution relates to Administration of
 **Key Provisions under Fifth Schedule:**
 - **Governor’s Report and Discretionary Powers:** The governor has discretionary powers to apply laws in the Scheduled Areas and is required to annually submit a report to the President regarding the administration of such areas.
 - **However, many states have failed to submit these reports,:** leading to a lack of oversight and accountability.
-
 - **Tribes Advisory Council:** Each state having Scheduled Areas is required to establish a Tribes Advisory Council to advise on matters pertaining to the welfare and advancement of the Scheduled Tribes.
   - **However, in several states, these councils are either defunct or fail to have substantive impact due to a lack of resources and support.**
 - **Prohibition of Land Transfer:** The Fifth Schedule prohibits the transfer of tribal land to non-tribals without the consent of the tribal community.
@@ -46335,13 +46005,10 @@ Source Question: Article 244 of Indian Constitution relates to Administration of
 **Impacts of Non-Implementation:**
 - **Economic Alienation:** Non-implementation often leads to economic alienation due to the lack of proper development programs.
 - **In parts of Chhattisgarh and Jharkhand,:** this has created fertile ground for LWE ideologies to proliferate.
-
 - **Land Alienation:** Failure to implement protective measures has led to alienation of tribals from their lands.
 - **For example, in Odisha, illegal mining activities have displaced tribal communities,:** giving rise to grievances exploited by LWE groups.
-
 - **Cultural Alienation:** Inadequate recognition and protection of tribal culture can lead to marginalization.
 - **The case of the Baiga tribe in Madhya Pradesh,:** who faced forced sterilization under family planning programs, illustrates how cultural insensitivity can drive tribal populations towards extremist ideologies.
-
 - **Political Alienation:** Poor implementation of provisions like the Panchayats (Extension to Scheduled Areas) Act, 1996, can lead to political disempowerment.
 - **In Jharkhand, tribal communities have protested against amendments to the Chotanagpur and Santhal Pargana Tenancy Acts,:** which they believe undermine their political rights, fueling the appeal of LWE.
 
@@ -46567,21 +46234,15 @@ Source Question: What are the major challenges to internal security and peace pr
 
 **Major Challenges to Internal Security in the North-East**
 - **Insurgency and Armed Groups:** Presence of multiple outfits (NSCN, ULFA, NDFB, Kuki groups) sustaining violence, extortion, and arms smuggling.
-
   - **Eg:** Government counts **8,000+ surrenders** since 2014, indicating persistent but weakening networks.
-
 - **Cross-Border Issues:** Porous borders with **Myanmar, Bangladesh,** and **Bhutan** enable insurgent sanctuaries, trafficking, and illegal migration.
-
   - **Eg:** AFSPA:** remains in select pockets due to residual cross-border risks.
-
 - **Weak Infrastructure & Terrain:** Difficult geography, poor connectivity, and limited state presence make security operations challenging.
 - **Narcotics and Illicit Trade:** Proximity to the **“Golden Triangle”** fuels drug trafficking and arms smuggling networks.
 
 **Major Challenges to Peace Process in the North-East**
 - **Ethnic Fragmentation:** Conflicting demands of Nagas, Kukis, Bodos, and other groups complicate a unified settlement.
-
   - **Eg:** Naga: **frameworks alongside** Kuki-Zomi and Bodo **processes create parallel tracks needing careful synchronization.**
-
 - **Trust Deficit:** Delays in implementing accords and perceived neglect by the state create dissatisfaction and relapse into violence.
 - **Overlapping Claims:** Territorial disputes between states (e.g., Assam–Meghalaya, Assam–Arunachal) and between communities hinder durable peace.
 - **Parallel Governance by Militants:** Many groups run extortion networks and “tax regimes,” undermining state authority and peace effort.
@@ -46904,54 +46565,40 @@ Terrorism threatens India’s security and development. The 2nd ARC classifies i
 
 **Manifestations of Terrorism in India: Contemporary Examples:**
 - **Cross-Border Terrorism (State-Sponsored):** Terror groups based in Pakistan have targeted India, especially in Jammu & Kashmir.
-
   - **Eg:**
 
 **Pulwama Attack (2019)** by Jaish-e-Mohammed attacked CRPF convoy.
 
 - **Left-Wing Extremism (Naxalism):** Maoist insurgents challenge state authority in the “Red Corridor.”
 - **Urban Terror Networks:** Sleeper cells and radicalisation in cities pose internal security threats.
-
   - **Eg:** Coimbatore car blast incident (October 2022) linked to ISIS-inspired modules.
-
 - **Religious Extremism and Radicalisation:** Terrorist groups exploit communal fault lines for recruitment.
-
   - **Eg:** Arrests of **ISIS-linked modules** in Karnataka, Kerala, and Telangana (2020–23).
-
 - **Northeast Insurgency with Terror Links:** Some insurgent groups have engaged in terror activities with external support and hiding safe havens in Myanmar and Bangladesh.
 - **Cyber-Terrorism:** Terror groups use social media for radicalisation, recruitment, and fundraising.
-
   - **Eg:** Pro-ISIS online propaganda targeting Indian youth, busted by NIA in multiple raids (2022–23).
 
 **Countermeasures Adopted by the State**
 - **Strengthening Legal Framework:** Special laws empower agencies to tackle terrorism effectively.
-
   - **Eg:**
 
 **Unlawful Activities (Prevention) Act (UAPA)** empowers the State to ban organizations and designate individuals as terrorists.
 
 - **Specialised Agencies and Forces:** Establishment of dedicated institutions for intelligence and counter-terrorism operations.
-
   - **Eg:** National Investigation Agency **(NIA, 2008)** and National Security Guard **(NSG)** for counter-terror operations.
-
 - **Intelligence and Surveillance Mechanisms:** Enhanced coordination between central and state agencies.
-
   - **Eg:**
 
 **Multi-Agency Centre (MAC)** under IB facilitates real-time intelligence sharing.
 
 - **Technological Measures:** Use of advanced surveillance, cyber-monitoring, and data analytics to track terror networks.
-
   - **Eg:** Deployment of **NATGRID** and cyber monitoring units to identify online radicalisation and terror financing.
-
 - **Border Management and Security:** Strengthening borders to curb cross-border infiltration and smuggling of arms.
-
   - **Eg:**
 
 **Border Security Force (BSF)** along Pakistan and Bangladesh borders; fencing and use of drones in sensitive zones.
 
 - **International Cooperation:** Collaborating with global institutions and nations to combat terrorism financing and networks.
-
   - **Eg:** India’s role in the Financial **Action Task Force (FATF)** and cooperation with the **US, Israel,** and **European nations** on intelligence sharing.
 
 
@@ -47542,13 +47189,10 @@ Source Question: Analyse the multidimensional challenges posed by external state
 
 **the situation in Jammu and Kashmir.**
 - **Radicalisation:** As witnessed in several cases in Kerala, **Non-state actors like ISIS use digital platforms to radicalize Indian youths**.
-
 - **Cyber Attacks:** 
 - **Countries like China and North Korea pose significant cyber threats,:** as indicated by the 2020 attack on India’s power grid.
-
 - **Drug Trafficking:** 
 - **Groups like the Golden Crescent and Golden Triangle syndicates facilitate drug trafficking,:** destabilizing societies, particularly in the northern states.
-
 - **Left-Wing Extremism (LWE):** LWE poses a significant threat in states like **Chhattisgarh and Jharkhand.
 - While the origin is internal, there have been allegations of external actors,
 
@@ -48087,9 +47731,7 @@ In 2015, the Ministry of Rural Development and World Bank signed a loan agreemen
 - **Water conservation:** The NWP has helped to conserve water through the construction of check dams, contour trenches, and other water harvesting structures. This has helped to increase the availability of water for agricultural purposes, leading to increased agricultural production.
 - **Soil conservation:** The NWP has also helped to conserve soil through the promotion of measures such as terracing, contouring, and mulching. This has helped to reduce soil erosion, improve soil health, and increase agricultural productivity.
 - **Multiple cropping season:** The water availability through irrigation measures like canals, nullahs etc have ensured that farmers are able to sow crops in the dry season as well. They no longer have to be dependent on rainfall for agriculture.
-
   - Example: Tamil Nadu farmers can grow three crops in a year mainly due to extensive canal irrigation.
-
 - **Livelihoods:** The NWP has contributed to the livelihoods of rural communities by increasing agricultural production and providing employment opportunities through the construction of water harvesting structures and other activities related to watershed development.
 - **Environmental sustainability:** The NWP has contributed to environmental sustainability by promoting sustainable agriculture practices, reducing soil erosion, and conserving water resources.
 - **Transformation of dry patches of land to vibrant farms and plantations.:** For example, Thummachennupalle watershed in Chittoor district was transformed into a community-owned orchard after NABARD implemented Neeranchal. When completed, NWP will convert 12% of wasteland into arable land.
@@ -48259,7 +47901,6 @@ Sikkim holds the distinction of being India’s first “Organic State.” This 
 **Conservation of Soil and Water:** Organic farming practices in Sikkim prioritize the use of natural fertilizers and pest control methods. This reduces soil erosion and prevents the contamination of water bodies, contributing to the conservation of soil and water resources.
 - **Biodiversity Preservation:** Organic farming practices promote the preservation of biodiversity by avoiding the use of synthetic pesticides and genetically modified organisms. This helps maintain the ecological balance and supports the health of various plant and animal species.
 - **Reduced Environmental Pollution:** By eliminating the use of chemical fertilizers and pesticides, Sikkim’s organic state status minimizes the pollution of air, water, and soil. This leads to cleaner ecosystems and reduced negative impacts on human and animal health.
-
 - **Economic Benefits of Organic State:**
 - **Market Demand and Premium Prices:** Being recognized as an organic state enhances Sikkim’s market competitiveness. The increasing global demand for organic products provides economic opportunities for Sikkim farmers who can command premium prices for their organic produce.
 - **Sustainable Agriculture and Cost Savings:** Organic farming practices reduce dependency on costly synthetic inputs, leading to cost savings for farmers in the long run. Organic farming enhances soil fertility and increases its long-term productivity, ensuring sustainable agriculture practices.
@@ -48384,11 +48025,8 @@ Source Question: The terms ‘Hot Pursuit’ and ‘Surgical Strikes’ are ofte
 **Strategic Impact of Hot Pursuit and Surgical Strikes:**
 - **Deterrence:** These actions send a strong message to adversarial entities and state sponsors of terrorism, deterring them from engaging in hostile activities.
 - **For instance, India’s surgical strike post the Uri attack in 2016:** signaled its intolerance towards cross-border terrorism.
-
 - **Disruption of Terror Infrastructure:** Such actions aim at damaging the terrorist infrastructure, thereby impeding their operational capabilities.
-
 - **Boost Morale:** Demonstrating the ability to retaliate boosts the morale of security forces and bolsters domestic support.
-
 - **International Diplomacy:** These actions can compel international attention towards the issue of terrorism, facilitating diplomatic pressure on countries harbouring terrorists.
 - However, it might also escalate tension and potentially trigger an international dispute.
 
@@ -48580,7 +48218,6 @@ Source Question: The diverse nature of India as a multireligious and multi-ethni
 **India’s Diversity and Radicalism Exposure**
 - **Diversity as a Double-Edged Sword:** India’s diversity is a strength, but it also allows radical elements to manipulate social fissures.
 - **For instance, communal clashes often have roots in radical ideologies that exploit religious differences.:** A prime example is the **2013 Muzaffarnagar riots, where communal tensions were manipulated, leading to violence and social unrest,** highlighting the need for harmony promotion and radical ideologies counteraction.
-
 - **Regional Radicalism Impact:** Turbulence in regions like Afghanistan-Pakistan (Af-Pak) can indirectly influence susceptible groups within India, **as seen in past instances of terrorist attacks linked to cross-border groups.**
 
 **Counter-Radicalism Strategies**
@@ -48700,7 +48337,6 @@ Source Question: China and Pakistan have entered into an agreement for developme
 
 **potentially bolstering Pakistan’s military capabilities.**
 - **Economic Empowerment of Pakistan:** CPEC, with projects like the $2.5 billion Lahore-Karachi Motorway and the $2.1 billion Karot Hydropower Station, **could greatly uplift Pakistan’s economy and indirectly fortify its military capabilities, possibly upsetting regional power dynamics.** <p align="center"><img src="pwonlyias/images/pw_internal_security_q100_img1.webp" alt="passes through Pok" /></p>
-
 - **Strengthening Pakistan’s Industrial Capacity:** Establishment of Special Economic Zones (SEZs) like the Rashakai Economic Zone and Dhabeji Economic Zone,
 
 **enhancing Pakistan’s industrial and economic potential.**
@@ -49991,7 +49627,6 @@ The policy intended to establish a secure cyberspace ecosystem, ensure complianc
 
 **Key issues affecting the effective implementation of the policy: Critical Evaluation:**
 - **Awareness and Compliance:** Despite its comprehensive nature, awareness and adherence to the policy remain limited, particularly among small and medium enterprises.
-
 - **Infrastructure and Technology:** India’s cybersecurity infrastructure has been slow to keep pace with the policy’s aspirations.
   - **According to a study by the Data Security Council of India, India needed an additional investment of over 100 billion INR in cybersecurity technologies and infrastructure by 2025 to effectively implement the policy.**
 - **Cybersecurity Workforce:** There’s a significant shortage of trained personnel to implement cybersecurity measures.
