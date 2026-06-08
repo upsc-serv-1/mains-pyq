@@ -23,11 +23,13 @@ This file contains the combined solved papers for GS4 subjects in logical order.
 
 **Arguments Supporting Clausewitz’s View**
 - **War as a tool of geopolitical strategy:** States continue to use war to achieve territorial, political, or security objectives.
-- **Eg:** Russia–Ukraine conflict:**(2022–present), where Russia uses war to assert strategic dominance and resist NATO expansion.**
+- **Eg:** ***Russia–Ukraine conflict***: (2022–present), where Russia uses war to assert strategic dominance and resist NATO expansion.
 - **Military means to secure national interest:** When diplomacy fails, states resort to force to secure vital interests.
-- **Eg:** ***Israel–Hamas conflict***: (2023–25), where military action was used to protect security interests and negotiate ceasefire terms.**
+- **Eg:** ***Israel–Hamas conflict***: (2023–25), where military action was used to protect security interests and negotiate ceasefire terms.
 - **Use of force as coercive diplomacy:** War or threat of force is deployed as a bargaining tool to alter adversaries’ behavior.
-- **Eg:** China’s military posturing in the **South China Sea** and **Taiwan Strait** acts as a continuation of diplomacy to assert sovereignty claims and strategic influence. **Limitations in the Present Context**
+- **Eg:** China’s military posturing in the **South China Sea** and **Taiwan Strait** acts as a continuation of diplomacy to assert sovereignty claims and strategic influence.
+
+**Limitations in the Present Context**
 - **Nuclear deterrence:** Risk of mutually assured destruction makes large-scale wars irrational.
 - **Eg:** Despite U.S.–Russia tensions, both avoid direct military confrontation.
 - **Rise of economic and technological warfare:** States increasingly use sanctions, trade wars, and cyber operations instead of open war.
@@ -72,13 +74,15 @@ Wars may still serve **political ends**, but in an age where humanity bears the 
 - **Promoting Impartiality and Non-Partisanship:** Anchors the value of **political neutrality**, crucial for fairness in decision-making.
 - **Eg:** Election Commission officers ensuring free and fair elections irrespective of ruling party interests.
 - **Upholding Human Rights and Dignity:** Inspired by Gandhian ethics of *Sarvodaya* (welfare of all).
-- **Eg:** Police reforms focusing on humane treatment of detainees, respecting Article 21 (Right to Life). **Role of Constitutional Morality in Promoting Good Governance and Accountability**
+- **Eg:** Police reforms focusing on humane treatment of detainees, respecting Article 21 (Right to Life).
+
+**Role of Constitutional Morality in Promoting Good Governance and Accountability**
 - **Equity and Inclusiveness:** Ensures governance that benefits all, especially the marginalized.
 - **Eg:** Reservations and affirmative action implemented despite opposition.
 - **Transparency and Openness:** Institutionalises accountability through RTI, social audits, and proactive disclosure.
 - **Eg:** Social audits in Andhra Pradesh’s MGNREGA scheme curbing corruption.
 - **Accountability Mechanisms:** Strengthens checks and balances, **CAG, Lokpal, vigilance commissions**.
-- **Eg:** CAG’s 2G spectrum audit:**led to policy corrections and legislative scrutiny.**
+- **Eg:** ***CAG’s 2G spectrum audit***: led to policy corrections and legislative scrutiny.
 - **Integrity in Policy Implementation:** Guards against populist shortcuts, ensuring sustainable and just governance.
 - **Eg:** Upholding environmental clearances despite pressure for faster clearances.
 - **Citizen-Centric Governance:** Embeds **seva bhava** (spirit of service), prioritising dignity and welfare over expediency.
@@ -114,22 +118,22 @@ Social re-engineering **through welfare schemes demands** civil servants **act a
 
 **Role of Reason and Critical Thinking in an Ethical Framework**
 - **Contextual Decision-Making:** Understanding local **socio-economic realities** ensures schemes are effective.
-- **Eg:** MGNREGA:**work allocation based on local needs prevents misuse of funds.**
+- **Eg:** ***MGNREGA***: work allocation based on local needs prevents misuse of funds.
 - **Ensuring Equity and Justice:** Policies must prioritize the **marginalized**, ensuring fairness.
-- **Eg:** PM-KISAN:**targeted financial support for small and marginal farmers.**
+- **Eg:** ***PM-KISAN***: targeted financial support for small and marginal farmers.
 - **Strengthens Prudence:** Practical wisdom **guides complex trade**
 - offs between competing objectives.
-- **Eg:** Swachh Bharat Mission:**balanced immediate sanitation infrastructure with long-term behavioral change campaigns.**
+- **Eg:** ***Swachh Bharat Mission***: balanced immediate sanitation infrastructure with long-term behavioral change campaigns.
 - **Upholding Duty and Human Dignity:** Civil servants must act out of **ethical duty** rather than mere compliance.
-- **Eg:** Mid-Day Meal Scheme:**enhances child nutrition and school attendance, respecting children’s rights.**
+- **Eg:** ***Mid-Day Meal Scheme***: enhances child nutrition and school attendance, respecting children’s rights.
 - **Applying Foresight and Analytical Reasoning:** Anticipating **unintended consequences prevents** harm and enhances policy outcomes.
 - **Eg:** Prior assessment in **Ayushman Bharat**prevented duplication of health insurance coverage.
 - **Balancing Transparency vs Discretion:** Balancing openness with **sensitive decision-making** enhances trust and reduces misuse.
 - **Eg:** Targeted **subsidy schemes**use discretion in beneficiary identification to prevent exclusion or inclusion errors.
 - **Promoting Sustainability vs Immediate Gains:** Ensuring schemes deliver **long-term benefits** rather than temporary relief.
-- **Eg:** National Rural Drinking Water Programme:**focuses on sustainable water infrastructure, not just temporary supply.**
+- **Eg:** ***National Rural Drinking Water Programme***: focuses on sustainable water infrastructure, not just temporary supply.
 - **Adopting a Participatory Approach:** Engaging **local stakeholders** fosters ownership and improves effectiveness.
-- **Eg:** Gram Sabha: **monitoring of**MGNREGA **projects ensures accountability and community participation.**
+- **Eg:** ***Gram Sabha***: **monitoring of**MGNREGA **projects ensures accountability and community participation.**
 
 
 
@@ -200,19 +204,19 @@ India’s economic growth is a promising indicator of progress, but the **misuse
 
 **Specific Measures for Ensuring Accountability and Proper Utilisation of Public Funds**
 - **Implementing Real-Time Monitoring Systems:** Use of **digital platforms** and **real-time monitoring systems** to track fund allocation and usage.
-- **Eg:** PFMS (Public Financial Management System)*: **tracks fund usage in schemes like**MGNREGA **and ensures timely disbursement and proper usage.**
+- **Eg:** ***PFMS (Public Financial Management System)***: **tracks fund usage in schemes like**MGNREGA **and ensures timely disbursement and proper usage.**
 - **Conducting Regular Audits:** Regular **internal and external audits** of public expenditure to assess fund allocation and use.
 - **Eg:** The **Comptroller and Auditor General (CAG)** audits government spending, such as the **2G spectrum audit**, which led to reforms and exposed fund mismanagement.
 - **Ensuring Transparent Public Procurement:** E-procurement systems: **to make procurement processes** transparent **and ensure that funds are used appropriately.**
-- **Eg:** GeM (Government e-Marketplace): **ensures** transparency **in procurement and** reduces corruption **in the purchase of goods and services.**
+- **Eg:** ***GeM (Government e-Marketplace)***: **ensures** transparency **in procurement and** reduces corruption **in the purchase of goods and services.**
 - **Social and Performance Audits:** Social audits: **and** performance audits **to engage citizens in verifying the correct implementation of schemes.**
-- **Eg:** MGNREGA: **uses** social audits **to monitor how funds are utilized and whether they reach the intended beneficiaries.**
+- **Eg:** ***MGNREGA***: **uses** social audits **to monitor how funds are utilized and whether they reach the intended beneficiaries.**
 - **Strengthening Whistleblower Protection:** Implement **whistleblower protection mechanisms** to allow employees and citizens to report misuse or underutilisation of funds without fear of retaliation.
-- **Eg:** Tata Group:**has a whistleblower policy that protects employees who report unethical practices, encouraging transparency.**
+- **Eg:** ***Tata Group***: has a whistleblower policy that protects employees who report unethical practices, encouraging transparency.
 - **Establishing Clear Fund Allocation and Budgeting Guidelines:** Ensuring that funds are **earmarked for specific projects** with **clear budgeting** guidelines and **timelines** for their proper use.
-- **Eg:** PMAY (Pradhan Mantri Awas Yojana): **allocates funds specifically for** affordable housing **, with clear targets and monitoring mechanisms in place.**
+- **Eg:** ***PMAY (Pradhan Mantri Awas Yojana)***: **allocates funds specifically for** affordable housing **, with clear targets and monitoring mechanisms in place.**
 - **Promoting Citizen Participation in Governance:** Encourage **public involvement** in **decision-making** and monitoring, enhancing accountability.
-- **Eg:** RTI (Right to Information):**empowers citizens to inquire about government expenditures, ensuring transparency in how funds are spent.**
+- **Eg:** ***RTI (Right to Information)***: empowers citizens to inquire about government expenditures, ensuring transparency in how funds are spent.
 - **Training Public Servants in Financial Integrity and Ethics:** Regular **training programs** for civil servants on **financial management**, **ethics**, and **compliance** to improve competence and reduce mismanagement of funds.
 - **Eg:** LBSNAA (Lal Bahadur Shastri National Academy of Administration)*: **includes modules on** ethics and financial responsibility **in its training for IAS officers.**
 
@@ -244,18 +248,18 @@ An ethical work culture is the backbone of any successful organization. A **code
 
 **Suitable Measures for Ensuring a Value-Based and Compliance-Based Work Culture**
 - **Establishment of a Clear Code of Ethics:** A well-defined **Code of Ethics** sets expectations for conduct and decision-making, laying the foundation for a value-based work culture.
-- **Eg:** Johnson & Johnson’s Credo:**emphasizes values like customer responsibility and community well-being, guiding ethical decision-making.**
+- **Eg:** ***Johnson & Johnson’s Credo***: emphasizes values like customer responsibility and community well-being, guiding ethical decision-making.
 - **Regular Ethical Training and Capacity Building:** Regular **training programs** on ethical conduct and compliance ensure employees adhere to organizational values.
-- **Eg:** Infosys: **conducts** annual ethics workshops **on issues like conflicts of interest and corporate responsibility.**
+- **Eg:** ***Infosys***: **conducts** annual ethics workshops **on issues like conflicts of interest and corporate responsibility.**
 - **Transparent Decision-Making Processes:** It fosters trust and ensures actions align with ethical standards.
-- **Eg:** Wipro: **ensures** transparent procurement **processes by strictly adhering to fairness and anti-corruption guidelines.**
+- **Eg:** ***Wipro***: **ensures** transparent procurement **processes by strictly adhering to fairness and anti-corruption guidelines.**
 - **Creating a Strong Whistleblower Mechanism:** It allows employees to report unethical conduct without fear of retaliation.
 - **Setting Clear Accountability and Monitoring Systems:** Monitoring systems,:**such as audits and performance reviews, ensure compliance with ethical standards.**
-- **Eg:** Cognizant: **conducts** ethical audits **to ensure adherence to its values across departments.**
+- **Eg:** ***Cognizant***: **conducts** ethical audits **to ensure adherence to its values across departments.**
 - **Encouraging Ethical Leadership:** Leaders should model **ethical behavior**, setting the tone for the organization.
-- **Eg:** Satya Nadella’s leadership: **at Microsoft promoted** empathy **and a** growth mindset **, fostering a more inclusive culture.**
+- **Eg:** ***Satya Nadella’s leadership***: **at Microsoft promoted** empathy **and a** growth mindset **, fostering a more inclusive culture.**
 - **Recognizing and Rewarding Ethical Conduct:** Rewarding employees for ethical behavior reinforces **values-driven performance**.
-- **Eg:** Tata Group: **recognizes employees for introducing** eco-friendly practices **and ethical solutions.**
+- **Eg:** ***Tata Group***: **recognizes employees for introducing** eco-friendly practices **and ethical solutions.**
 - **Strong Legal and Ethical Compliance Framework:** Civil servants must follow **legal frameworks** to ensure compliance with statutory and ethical standards.
 - **Eg:** The **RTI Act** ensures **transparency** and accountability in government functioning.
 
@@ -325,18 +329,18 @@ This statement, based on **Kantian duty ethics**, highlights that the highest mo
 - **Duty as a Public Servant:** A civil servant’s primary duty is to serve the public with **integrity, impartiality**, and **competence**, irrespective of personal interests or political pressures.
 - **Eg:** Kiran Bedi,* as the first woman officer in the Indian Police Service, transformed:**Tihar Jail*into a rehabilitative institution, focusing on prisoners’ welfare while maintaining discipline.**
 - **Kantian Ethics of Duty:** Immanuel Kant’s moral theory emphasizes performing duties not for external rewards but because it is the **right thing to do**, upholding justice, **equality**, and **fairness**.
-- **Eg:** Medha Patkar,* during the:**Narmada Bachao Andolan, r*esisted the government’s push for large dams, ensuring the constitutional rights of displaced people were respected.**
+- **Eg:** ***Medha Patkar,* during the***: Narmada Bachao Andolan, r*esisted the government’s push for large dams, ensuring the constitutional rights of displaced people were respected.
 - **Accountability and Integrity:** Civil servants must manage **public resources** transparently and free from corruption, ensuring that they are accountable to the citizens.
-- **Eg:** E. Sreedharan,* known as the: **Metro Man**, led the **Delhi Metro project* with integrity, resisting corruption despite immense pressures.**
+- **Eg:** ***E. Sreedharan,* known as the***: **Metro Man**, led the **Delhi Metro project* with integrity, resisting corruption despite immense pressures.**
 - **Public Service as Duty to Society:** A civil servant should see their role as a **service to society**, motivated by the greater good and societal welfare.
-- **Eg:** Satyendra Dubey:**, an IAS officer, exposed corruption in a highway project and sacrificed his life for the public interest, exemplifying selflessness in service.**Personal Fulfilment through Duty
+- **Eg:** ***Satyendra Dubey***: , an IAS officer, exposed corruption in a highway project and sacrificed his life for the public interest, exemplifying selflessness in service.**Personal Fulfilment through Duty
 - **Selflessness and Service:** Personal fulfilment in civil service comes from **selflessly serving the nation**, prioritizing public welfare over personal gains. This aligns with **Gandhi’s Sevabhava** (spirit of service).
-- **Eg:** Dr. Verghese Kurien,* the architect of India’s:**White Revolution, *found fulfilment in empowering India’s dairy farmers despite opposition from monopolies.**
+- **Eg:** ***Dr. Verghese Kurien,* the architect of India’s***: White Revolution, *found fulfilment in empowering India’s dairy farmers despite opposition from monopolies.
 - **Growth Through Responsibility:** The sense of duty helps a civil servant achieve **personal growth** by providing **purpose** and direction. By dedicating themselves to **ethical duties**, they attain **eudaimonia (flourishing)**, as described by **Aristotle**.
 - **Moral and Professional Satisfaction:** Personal fulfilment also arises when a civil servant experiences **moral satisfaction** from **upholding high standards of governance** and ensuring **justice**.
 - Eg:*M.S. Swaminathan, *an agricultural scientist, found fulfilment by creating sustainable farming practices, benefiting millions of farmers.
 - **Contributing to Societal Development:** Civil servants achieve fulfilment by actively contributing to **societal progress** and seeing their policies lead to long-lasting positive change.
-- **Eg:** Aruna Roy,* through the: **Mazdoor Kisan Shakti Sangathan (MKSS),* played a crucial role in making government actions transparent through** social audits **, contributing to** good governance **.**
+- **Eg:** ***Aruna Roy,* through the***: **Mazdoor Kisan Shakti Sangathan (MKSS),* played a crucial role in making government actions transparent through** social audits **, contributing to** good governance **.**
 
 
 
@@ -366,20 +370,20 @@ William James’ statement underscores the profound **power of personal attitude
 
 **Power of Attitude in Shaping Personal and Social Change**
 - **Personal Responsibility and Self-Transformation:** The quote emphasizes that **individuals** can **transform their lives** by changing their attitudes, reflecting the power of **self-determination**.
-- **Eg:** Dr. A.P.J. Abdul Kalam: **, from humble beginnings, adopted a mindset of** dedication and service **, which led to his rise as a respected scientist and President of India.**
+- **Eg:** ***Dr. A.P.J. Abdul Kalam***: **, from humble beginnings, adopted a mindset of** dedication and service **, which led to his rise as a respected scientist and President of India.**
 - **Positive Outlook for Overcoming Adversity:** A change in **attitude** helps individuals view **challenges as opportunities** for growth, leading to resilience and perseverance.
-- **Eg:** Satyendra Dubey:**, an IAS officer, maintained his integrity and courage in the face of adversity, fighting against corruption despite the risks to his life.**
+- **Eg:** ***Satyendra Dubey***: , an IAS officer, maintained his integrity and courage in the face of adversity, fighting against corruption despite the risks to his life.
 - **Ethical Decision Making and Duty:** Kant’s duty ethics: **suggest that personal growth and ethical behavior come from altering one’s attitude toward** duty and responsibility **.**
 - **Embracing Continuous Learning and Growth:** A change in attitude towards **learning** and self-improvement drives personal and professional development.
-- **Eg:** Satya Nadella: **, CEO of Microsoft, promoted a** growth mindset **at Microsoft, fostering a culture of continuous innovation and learning.**
+- **Eg:** ***Satya Nadella***: **, CEO of Microsoft, promoted a** growth mindset **at Microsoft, fostering a culture of continuous innovation and learning.**
 - **Social Responsibility and Contribution:** Changing one’s attitude can encourage individuals to take **responsibility for the collective good** and contribute to society’s welfare.
-- **Eg:** Dr. Verghese Kurien: **dedicated his life to** empowering dairy farmers **and became the architect of India’s** White Revolution **, reshaping India’s dairy industry.**
+- **Eg:** ***Dr. Verghese Kurien***: **dedicated his life to** empowering dairy farmers **and became the architect of India’s** White Revolution **, reshaping India’s dairy industry.**
 - **Empathy and Building Relationships:** A shift in attitude towards **empathy** and understanding fosters stronger, more positive relationships with others.
-- **Eg:** Nelson Mandela:**’s shift from resentment to reconciliation after his imprisonment helped unite South Africa and promote national healing.**
+- **Eg:** ***Nelson Mandela***: ’s shift from resentment to reconciliation after his imprisonment helped unite South Africa and promote national healing.
 - **Adaptability in Leadership and Governance:** Leaders: **can inspire change by altering their approach to leadership, emphasizing** collaboration **and inclusivity over control.**
-- **Eg:** Mahatma Gandhi: **altered his leadership style from a lawyer to a political and social leader advocating** non-violent civil disobedience **, leading India to independence.**
+- **Eg:** ***Mahatma Gandhi***: **altered his leadership style from a lawyer to a political and social leader advocating** non-violent civil disobedience **, leading India to independence.**
 - **Inspiring Collective Transformation:** When an individual alters their attitude, it can influence the attitudes of others, leading to **collective transformation** in society.
-- **Eg:** The #MeToo Movement:**saw individual stories of courage transform global conversations about sexual harassment, leading to social change and policy reforms.**
+- **Eg:** ***The #MeToo Movement***: saw individual stories of courage transform global conversations about sexual harassment, leading to social change and policy reforms.
 
 
 
@@ -409,19 +413,19 @@ Swami Vivekananda’s quote emphasizes that **moral values**, rather than legal 
 
 **Role of Morality in Societal Strength: Swami Vivekananda’s Perspective**
 - **Morality as the Foundation of Society’s Functioning:** Vivekananda argues that **society’s strength** comes from the **moral fabric** of its people, more than from laws. Ethical behavior, honesty, and social responsibility are essential for societal harmony.
-- **Eg:** Denmark and Sweden: **have low corruption rates due to high** trust **and** moral integrity **, despite having fewer laws on paper.**
+- **Eg:** ***Denmark and Sweden***: **have low corruption rates due to high** trust **and** moral integrity **, despite having fewer laws on paper.**
 - **The Limitation of Laws in Ensuring Social Harmony:** Laws cannot guarantee a **just society** without a collective **moral duty**. Without internalized ethics, laws may be ineffective.
 - **Eg:** In **India**, while anti-corruption laws exist, moral failures at individual and institutional levels continue to foster widespread corruption, showing that laws alone don’t solve deep-rooted ethical issues.
 - **Morality as a Catalyst for Ethical Leadership:** Leaders with **strong moral values** inspire **ethical governance** and foster trust and cooperation among citizens, leading to societal change.
-- **Eg:** Mahatma Gandhi’s leadership: **, based on** truth and non-violence **, helped India achieve independence and demonstrated how** moral integrity **can drive positive social transformation.**
+- **Eg:** ***Mahatma Gandhi’s leadership***: **, based on** truth and non-violence **, helped India achieve independence and demonstrated how** moral integrity **can drive positive social transformation.**
 - **Morality Drives Social Justice and Equity:** Explanation: **Societies that value** morality **promote** inclusion **,** justice **, and** fairness **. Moral attitudes ensure the fair treatment of marginalized communities.**
 - **Eg:** The **Civil Rights Movement** in the U.S. was fueled by a **moral vision of equality**, leading to legislative changes that promoted **racial equality**.
 - **Society’s Strength in Collective Morality:** Collective morality: **fosters** social cohesion **, cooperation, and progress, which are crucial for prosperity.**
-- **Eg:** Norway’s moral fabric: **, rooted in** social welfare **and** equality **, contributes to its strong sense of community and societal success, even during economic challenges.**
+- **Eg:** ***Norway’s moral fabric***: **, rooted in** social welfare **and** equality **, contributes to its strong sense of community and societal success, even during economic challenges.**
 - **Ethical Responsibility Over Legal Enforcement:** Internal **ethical responsibility** can prevent harm and reduce the need for heavy-handed legal enforcement.
 - **Eg:** During the **COVID-19 pandemic**, countries like **New Zealand** saw **voluntary compliance** with health measures, minimizing the need for strict enforcement.
 - **Building a Moral Society through Education:** Moral education:**shapes a society where laws are respected due to internal moral beliefs, not fear of punishment.**
-- **Eg:** Finland’s education system: **embeds** ethical values **, contributing to the nation’s success in** healthcare **,** education **, and** governance **.**
+- **Eg:** ***Finland’s education system***: **embeds** ethical values **, contributing to the nation’s success in** healthcare **,** education **, and** governance **.**
 
 
 
@@ -539,27 +543,27 @@ By acting as an enabler, a civil servant can transform governance into a growth-
 - **Ahimsa (Non-violence):** Advocates compassion towards **all beings**
 - **Eg:** Avoiding animal cruelty, resonating with **Gandhiji’s** principle of **non-violence** in the freedom struggle.
 - **Satya (Truthfulness):** Ensures honesty in **thought, speech**, and **action**
-- **Eg:** Civil servants: **practicing** transparent communication **in policy implementation.**
+- **Eg:** ***Civil servants***: **practicing** transparent communication **in policy implementation.**
 - **Aparigraha (Non-possession):** Encourages detachment from **material excess**
 - **Eg:** Voluntary **simplicity movements** promoting sustainable living.
 - **Asteya (Non-stealing):** Respects **rightful ownership** and fairness
-- **Eg:** Ethical business practices:**ensuring consumer trust.**
+- **Eg:** ***Ethical business practices***: ensuring consumer trust.
 - **Brahmacharya (Celibacy/Moderation):** Promotes **self-discipline** and **control**
 - **Eg:** Professionals balancing **ambition with mindful living** to reduce stress.
 - **Syadvada (Doctrine of Relativity):** Teaches **multiple perspectives (anekantavada)**
-- **Eg:** Tolerance:**in democratic debates, balancing free speech and public order.**Contemporary Relevance of Mahavir’s Teachings
+- **Eg:** ***Tolerance***: in democratic debates, balancing free speech and public order.**Contemporary Relevance of Mahavir’s Teachings
 - **Ahimsa:** Fosters global peace and harmony in times of terrorism, communal violence, and even animal cruelty.
-- **Eg:** Martin Luther King Jr.’s civil rights movement:**was rooted in non-violence.**
+- **Eg:** ***Martin Luther King Jr.’s civil rights movement***: was rooted in non-violence.
 - **Satya:** Strengthens ethical governance in times of fake news, corruption, and dishonesty.
-- **Eg:** RTI Act, 2005:**in India, empowering citizens with truthful information for accountability.**
+- **Eg:** ***RTI Act, 2005***: in India, empowering citizens with truthful information for accountability.
 - **Aparigraha:** Supports sustainable development
-- **Eg:** Minimalist lifestyles:**addressing climate change and overconsumption.**
+- **Eg:** ***Minimalist lifestyles***: addressing climate change and overconsumption.
 - **Asteya:** Builds integrity in public life. Resonates with modern issues like corruption and cyber theft.
 - **Eg:** Vigilance mechanisms like the **Whistleblowers Act, 2014.**
 - **Brahmacharya:** Encourages discipline, helping tackle consumerism, addictions, lifestyle diseases, and nurturing mental health.
-- **Eg:** Mindfulness:**practices in corporate spaces reduce burnout.**
+- **Eg:** ***Mindfulness***: practices in corporate spaces reduce burnout.
 - **Syadvada:** Promotes pluralism and dialogue
-- **Eg:** Conflict resolution: **in multi-ethnic societies like** South Africa **under Mandela’s leadership.**
+- **Eg:** ***Conflict resolution***: **in multi-ethnic societies like** South Africa **under Mandela’s leadership.**
 
 
 
@@ -578,7 +582,7 @@ Mahavira’s ethics, grounded in **universal compassion, truth**, and **self-dis
 
 ### Answer
 
-| **Core Demand of the Question** ● Examine that the application of Artificial Intelligence as a dependable source of input for administrative rational decision-making is a debatable issue. ● Discuss how AI can be used in a prudent manner. |
+| **Core Demand of the Question** <br>• Examine that the application of Artificial Intelligence as a dependable source of input for administrative rational decision-making is a debatable issue. <br>• Discuss how AI can be used in a prudent manner. |
 | --- |
 
 ### Answer
@@ -688,7 +692,7 @@ To truly address global conflicts, powerful nations must balance their economic 
 
 ### Answer
 
-| **Core Demand of the Question** ● Discuss how global warming and climate change are the outcomes of human greed in the name of development. ● Examine how global warming and climate change is indicating extinction of organisms and loss of life on Earth. ● Discuss strategies to protect life and bring equilibrium between society and the environment. |
+| **Core Demand of the Question** <br>• Discuss how global warming and climate change are the outcomes of human greed in the name of development. <br>• Examine how global warming and climate change is indicating extinction of organisms and loss of life on Earth. <br>• Discuss strategies to protect life and bring equilibrium between society and the environment. |
 | --- |
 
 ### Answer
@@ -725,7 +729,7 @@ To truly address global conflicts, powerful nations must balance their economic 
 
 ### Answer
 
-| **Core Demand of the Question** ● Explain the essence of the quote “Faith is of no avail in the absence of strength. Faith and strength, both are essential to accomplish any great work.” ● Examine the relevance of the quote in the present context. |
+| **Core Demand of the Question** <br>• Explain the essence of the quote “Faith is of no avail in the absence of strength. Faith and strength, both are essential to accomplish any great work.” <br>• Examine the relevance of the quote in the present context. |
 | --- |
 
 ### Answer
@@ -765,7 +769,7 @@ Sardar Patel’s philosophy highlights the need for a **balanced approach**, whe
 
 ### Answer
 
-| **Core Demand of the Question** ● Explain the quote “In Law, a Man is Guilty When he Violates the Rights of Others”. ● Explain the quote “In Ethics, he is Guilty if he Only Thinks of Doing So” |
+| **Core Demand of the Question** <br>• Explain the quote “In Law, a Man is Guilty When he Violates the Rights of Others”. <br>• Explain the quote “In Ethics, he is Guilty if he Only Thinks of Doing So” |
 | --- |
 
 ### Answer
@@ -835,7 +839,7 @@ Justice must constantly evolve with societal, technological, and moral changes t
 
 ### Answer
 
-| **Core Demand of the Question** ● Discuss how mindless addiction to Form, ignoring the Substance of the matter, results in rendering injustice. ● Discuss that a perceptive civil servant is one who ignores such literalness and carries out true intent. |
+| **Core Demand of the Question** <br>• Discuss how mindless addiction to Form, ignoring the Substance of the matter, results in rendering injustice. <br>• Discuss that a perceptive civil servant is one who ignores such literalness and carries out true intent. |
 | --- |
 
 ### Answer
@@ -1021,7 +1025,7 @@ Mission Karmayogi aims to instil **efficiency, integrity,** and **accountability
 
 ### Answer
 
-| **Core Demand of the Question** ● Discuss the significance of adapting and applying lessons in a way that suits your own personality and beliefs, instead of copying others. ● Examine the relevance of the quote in the present context. |
+| **Core Demand of the Question** <br>• Discuss the significance of adapting and applying lessons in a way that suits your own personality and beliefs, instead of copying others. <br>• Examine the relevance of the quote in the present context. |
 | --- |
 
 ### Answer
@@ -1578,15 +1582,15 @@ These qualities help civil servants to understand the needs and concerns of the 
 **How empathy and compassion helps a civil servant to be competent**
 
 - **Understanding the needs of the people:** Empathy enables civil servants to put themselves in the shoes of the citizens they serve, understanding their challenges, aspirations, and priorities.
-- **Example:** Bezwada Wilson,:**an Indian civil servant and activist, dedicated his life to eradicating manual scavenging.**
+- **Eg:** ***Bezwada Wilson***: an Indian civil servant and activist, dedicated his life to eradicating manual scavenging.
 - **Effective decision-making:** Compassion allows civil servants to consider the well-being and interests of the people when making decisions, leading to policies and actions that better address societal needs.
-- **Example:** E. Sreedharan,: **popularly known as the “** Metro Man of India **,” is a civil servant who played a pivotal role in the successful implementation of the Delhi Metro project.**
+- **Eg:** ***E. Sreedharan***: **popularly known as the “** Metro Man of India **,” is a civil servant who played a pivotal role in the successful implementation of the Delhi Metro project.**
 - **Building trust and credibility:** By demonstrating empathy and compassion, civil servants can establish trust with the public, enhancing their credibility and legitimacy as representatives of the government.
-- **Example:** Dr. Abhay Bang,: **an Indian civil servant and public health expert, established the Society for Education, Action, and Research in Community Health (SEARCH) to provide healthcare services to marginalized communities in rural** Maharashtra.
+- **Eg:** ***Dr. Abhay Bang***: **an Indian civil servant and public health expert, established the Society for Education, Action, and Research in Community Health (SEARCH) to provide healthcare services to marginalized communities in rural** Maharashtra.
 - **Tailoring services and policies:** Empathy helps civil servants in designing and implementing services and policies that are sensitive to the diverse needs of the population, ensuring inclusivity and fairness.
-- **Example:** Dr. Prakash Amte,: **an Indian civil servant and social worker, along with his wife** Dr. Mandakini Amte **, established Lok Biradari Prakalp, an organization focused on providing healthcare, education, and livelihood support to tribal communities in Maharashtra.**
+- **Eg:** ***Dr. Prakash Amte***: **an Indian civil servant and social worker, along with his wife** Dr. Mandakini Amte **, established Lok Biradari Prakalp, an organization focused on providing healthcare, education, and livelihood support to tribal communities in Maharashtra.**
 - **Conflict resolution and problem-solving:** Compassion allows civil servants to approach conflicts and challenges with understanding and a focus on finding equitable solutions that benefit all stakeholders.
-- **Example:** Kamal Kishore,:**a civil servant, played a significant role in the post-disaster management efforts during the 2013 Uttarakhand floods in India.**
+- **Eg:** ***Kamal Kishore***: a civil servant, played a significant role in the post-disaster management efforts during the 2013 Uttarakhand floods in India.
 
 
 
@@ -1671,10 +1675,10 @@ In all of these examples, ethical considerations go beyond legal or personal rig
 **Body:**
 - **Father:** A father is often seen as the head of the family and a role model for his children. If he leads an honest and ethical life, it will influence his children to do the same. Fathers can teach their children the importance of integrity, honesty, and hard work.
 - **Example ,:** the father of Indian cricket legend Sachin Tendulkar instilled in him the values of discipline, hard work, and honesty from a young age. This shaped Tendulkar into the legendary cricketer and role model he is today.
-- **Example:** , Mahatma Gandhi’s father, Karamchand Gandhi, was a man of strong principles and values. He taught Gandhi the importance of truth, simplicity, and self-discipline. These values shaped Gandhi’s worldview and guided his actions throughout his life.
+- **Eg:** , Mahatma Gandhi’s father, Karamchand Gandhi, was a man of strong principles and values. He taught Gandhi the importance of truth, simplicity, and self-discipline. These values shaped Gandhi’s worldview and guided his actions throughout his life.
 - **Mother:** A mother is the primary caregiver and nurturer of a child. She plays a vital role in shaping the child’s character and values. If a mother leads an honest and ethical life, it will have a profound impact on her child’s values and beliefs. Mothers can teach their children the importance of empathy, compassion, and honesty.
 - **Example ,:** Mother Teresa, who was born and raised in India, devoted her life to serving the poor and needy. Her selfless service and dedication to helping others inspired people all over the world.
-- **Example:** ,Indira Gandhi, India’s first female Prime Minister, was deeply influenced by her mother, Kamala Nehru. Kamala Nehru was a social activist and played a key role in the Indian independence movement. Her commitment to social justice and equality inspired Indira Gandhi to follow in her footsteps.
+- **Eg:** ,Indira Gandhi, India’s first female Prime Minister, was deeply influenced by her mother, Kamala Nehru. Kamala Nehru was a social activist and played a key role in the Indian independence movement. Her commitment to social justice and equality inspired Indira Gandhi to follow in her footsteps.
 - **Teacher:** A teacher is responsible for shaping the minds of young children and imparting knowledge, values, and skills. Teachers play a critical role in molding the future citizens of a country. If teachers lead an honest and ethical life, it will influence their students to do the same. Teachers can teach their students the importance of critical thinking, integrity, and social responsibility.
 - **Example ,:** Sarvepalli Radhakrishnan, a philosopher and teacher, became the second President of India. He was an advocate of education and believed that it was essential for developing ethical and moral values in young people.
 - **Example,:** Dr. APJ Abdul Kalam, the former President of India, was deeply influenced by his teacher, Sivasubramania Iyer. Iyer was a strict disciplinarian and instilled in Kalam a strong work ethic and a love for science and technology. These values inspired Kalam to pursue a career in aerospace engineering and later to become one of India’s most beloved and respected leaders.
@@ -1830,15 +1834,15 @@ By judging success not just by what we achieve but also by what we are willing t
 **Ethical issues involved in digitisation**
 
 - **Inequitable Access:** Limited internet access and technological infrastructure disproportionately affect vulnerable sections, such as rural communities, tribal populations, and economically disadvantaged individuals, widening the digital divide.
-- **Example:** Lack of internet connectivity in remote villages hinders access to online education resources, leaving marginalized students at a disadvantage.
+- **Eg:** Lack of internet connectivity in remote villages hinders access to online education resources, leaving marginalized students at a disadvantage.
 - **Exclusion of Non-Digital Natives:** Older adults and individuals with limited digital literacy may struggle to adapt to online systems, leading to their exclusion from essential services and opportunities.
-- **Example:** Senior citizens, particularly those from marginalized backgrounds, face challenges in accessing online healthcare consultations due to limited technological proficiency.
+- **Eg:** Senior citizens, particularly those from marginalized backgrounds, face challenges in accessing online healthcare consultations due to limited technological proficiency.
 - **Cybersecurity Risks:** Vulnerable individuals may fall victim to online fraud, data breaches, or identity theft, compromising their privacy and financial well-being.
-- **Example:** Phishing scams targeting unsuspecting individuals, including senior citizens, can lead to financial losses and personal information misuse.
+- **Eg:** Phishing scams targeting unsuspecting individuals, including senior citizens, can lead to financial losses and personal information misuse.
 - **Online Harassment and Exploitation:** Vulnerable groups, such as women, children, and LGBTQ+ individuals, may face increased risks of online harassment, cyberbullying, and exploitation.
-- **Example:** Instances of online stalking and harassment of women on social media platforms highlight the need for robust safeguards and mechanisms to protect vulnerable individuals.
+- **Eg:** Instances of online stalking and harassment of women on social media platforms highlight the need for robust safeguards and mechanisms to protect vulnerable individuals.
 - **Bias and Discrimination:** Online algorithms and automated decision-making systems may perpetuate biases and discrimination, affecting vulnerable populations, such as marginalized communities and ethnic minorities.
-- **Example:** Biased facial recognition technology that disproportionately misidentifies individuals with darker skin tones can lead to discriminatory outcomes in law enforcement and public surveillance.
+- **Eg:** Biased facial recognition technology that disproportionately misidentifies individuals with darker skin tones can lead to discriminatory outcomes in law enforcement and public surveillance.
 
 
 
@@ -1947,7 +1951,7 @@ Russia-Ukraine conflict raises numerous ethical issues related to the use of for
 - **Citizen Engagement:** E-Governance initiatives have provided platforms for citizen engagement and participation in decision-making processes.
 - **For instance,:** initiatives like MyGov.in allow citizens to contribute ideas, suggestions, and feedback on various policies and programs, promoting a more inclusive and participatory approach to governance.
 - **Online Grievance Redressal:** The introduction of online grievance redressal portals in e-Governance.
-- **Example:** Centralized Public Grievance Redress and Monitoring System (CPGRAMS:**) has made it easier for beneficiaries to register complaints and seek resolution.**
+- **Eg:** Centralized Public Grievance Redress and Monitoring System (CPGRAMS:**) has made it easier for beneficiaries to register complaints and seek resolution.**
 - **Efficient Service Delivery:** E-Governance has improved the efficiency and speed of service delivery.
 - **For example,:** initiatives like **Direct Benefit Transfer (DBT)** enable the direct transfer of government subsidies and benefits to beneficiaries’ bank accounts, eliminating intermediaries and reducing leakages.
 
@@ -2059,20 +2063,20 @@ While it is important to pay attention to peripheral issues, it is crucial for a
 - **Judiciary:** **Example:** In India, the concept of social audit can be extended to the judiciary through mechanisms such as judicial review and transparency in the judicial process. Public scrutiny and evaluation of judicial decisions and the conduct of judges can contribute to accountability and enhance public trust in the judiciary.
 - Instances of social audits in the judiciary can include the examination of delays in case disposal, transparency in appointment processes, and ethical conduct of judges.
 - **Public Services:** 
-- **Example:** In India, the Mahatma Gandhi National Rural Employment Guarantee Act (MGNREGA) incorporates social audits to ensure transparency, accountability, and public participation in the implementation of the rural employment guarantee scheme.
+- **Eg:** In India, the Mahatma Gandhi National Rural Employment Guarantee Act (MGNREGA) incorporates social audits to ensure transparency, accountability, and public participation in the implementation of the rural employment guarantee scheme.
 - Citizens, along with civil society organizations, conduct audits to verify work undertaken, wages paid, and the overall effectiveness of the program.
 - **Healthcare:** 
-- **Example:** In India, initiatives like the Janani Shishu Suraksha Karyakram (JSSK) have implemented social audits to monitor the provision of maternal and child health services.
+- **Eg:** In India, initiatives like the Janani Shishu Suraksha Karyakram (JSSK) have implemented social audits to monitor the provision of maternal and child health services.
 - These audits involve the participation of community members, enabling them to assess the availability and accessibility of services, infrastructure, and the conduct of healthcare professionals.
 -
 
 **Education:**
-- **Example:** In India, the Right to Education Act (RTE) mandates the involvement of School Management Committees (SMCs) in conducting social audits to monitor the implementation of educational policies.
+- **Eg:** In India, the Right to Education Act (RTE) mandates the involvement of School Management Committees (SMCs) in conducting social audits to monitor the implementation of educational policies.
 - SMCs, consisting of parents and community representatives, assess aspects such as teacher attendance, the functioning of mid-day meal programs, and infrastructure facilities.
 -
 
 **Public Infrastructure Projects:**
-- **Example:** For instance, the Swachh Bharat Mission (Clean India Mission) in India incorporates social audits to evaluate the progress and impact of sanitation initiatives at the grassroots level.
+- **Eg:** For instance, the Swachh Bharat Mission (Clean India Mission) in India incorporates social audits to evaluate the progress and impact of sanitation initiatives at the grassroots level.
 - These audits involve community members inspecting the construction and usage of toilets, assessing the effectiveness of the program, and identifying any discrepancies or issues.
 
 
@@ -2195,15 +2199,15 @@ Public officials who possess these traits can make a significant positive impact
 
 **Five ethical traits that can be used to evaluate the performance of a civil servant are:**
 - **Integrity:** – the ability to act honestly, fairly, and transparently, even in the face of pressure or temptation to do otherwise.
-- **Example:** T. N. Seshan,:**former Chief Election Commissioner of India, During his tenure, he introduced several reforms to ensure free and fair elections.**
+- **Eg:** ***T. N. Seshan***: former Chief Election Commissioner of India, During his tenure, he introduced several reforms to ensure free and fair elections.
 - **Accountability:** – the willingness to take responsibility for one’s actions and decisions, and to be held accountable by others for their impact.
-- **Example:** In 2018, IAS officer Rohini Sindhuri Dasari:**took a tough stand against illegal mining in Karnataka, despite facing political pressure to turn a blind eye.**
+- **Eg:** ***In 2018, IAS officer Rohini Sindhuri Dasari***: took a tough stand against illegal mining in Karnataka, despite facing political pressure to turn a blind eye.
 - **Objectivity:** – the ability to make decisions and take actions based on facts and evidence, rather than personal biases or emotions.
-- **Example:** Raghuram Rajan,:**former Governor of the Reserve Bank of India, is known for his data-driven approach to policy making.**
+- **Eg:** ***Raghuram Rajan***: former Governor of the Reserve Bank of India, is known for his data-driven approach to policy making.
 - **Respect for diversity:** – the ability to recognize and appreciate the differences among individuals and groups, and to treat all stakeholders with dignity and respect.
-- **Example:** R. Subrahmanyam,:**former Chief Secretary of Andhra Pradesh, is known for his work in promoting diversity and inclusion.**
+- **Eg:** ***R. Subrahmanyam***: former Chief Secretary of Andhra Pradesh, is known for his work in promoting diversity and inclusion.
 - **Professionalism:** – the ability to maintain high standards of conduct, appearance, and communication, and to uphold the values and norms of the civil service.
-- **Example:** K. Vijay Raghavan,:**Principal Scientific Adviser to the Government of India, has played a key role in shaping India’s science and technology policies, and has worked to promote innovation and research across the country.**
+- **Eg:** ***K. Vijay Raghavan***: Principal Scientific Adviser to the Government of India, has played a key role in shaping India’s science and technology policies, and has worked to promote innovation and research across the country.
 
 
 
@@ -2237,25 +2241,25 @@ Civil servants who possess these traits are more likely to earn the respect and 
 
 **Ten essential values that are needed to be an effective public servant are:**
 - **Integrity:** The ability to maintain ethical standards and principles.
-- **Example:** IAS officer **Ashok Khemka,** who refused to bow to political pressure and transferred several times for his integrity.
+- **Eg:** IAS officer **Ashok Khemka,** who refused to bow to political pressure and transferred several times for his integrity.
 - **Honesty:** The ability to tell the truth and be transparent in dealings.
-- **Example:** IAS officer **Tukaram Munde,** known for his honesty and transparency in carrying out his duties.
+- **Eg:** IAS officer **Tukaram Munde,** known for his honesty and transparency in carrying out his duties.
 - **Objectivity:** The ability to make decisions based on evidence and facts, rather than personal biases or interests.
-- **Example:** Election Commission of India, which operates independently to ensure free and fair elections.
+- **Eg:** Election Commission of India, which operates independently to ensure free and fair elections.
 - **Accountability:** The ability to take responsibility for actions and decisions.
-- **Example:** Municipal Corporation of Greater Mumbai, which has set up a mechanism for citizens to hold officials accountable for their actions.
+- **Eg:** Municipal Corporation of Greater Mumbai, which has set up a mechanism for citizens to hold officials accountable for their actions.
 - **Transparency:** The ability to provide information and be open in dealings.
-- **Example:** Central Information Commission, which ensures transparency in government processes by providing citizens the right to access information.
+- **Eg:** Central Information Commission, which ensures transparency in government processes by providing citizens the right to access information.
 - **Respect for diversity:** The ability to value and respect differences in culture, ethnicity, and religion.
-- **Example:** IAS officer **Rohini Sindhuri Dasari,** who organized a cultural festival to promote diversity in her district.
+- **Eg:** IAS officer **Rohini Sindhuri Dasari,** who organized a cultural festival to promote diversity in her district.
 - **Professionalism:** The ability to maintain high standards of conduct and behavior.
-- **Example:** Indian Police Service officer **Kiran Bedi,** known for her professionalism and dedication to public service.
+- **Eg:** Indian Police Service officer **Kiran Bedi,** known for her professionalism and dedication to public service.
 - **Loyalty to the Constitution and the nation:** The ability to prioritize national interests over personal or political interests.
-- **Example:** Former President of India **Dr. A.P.J. Abdul Kalam,** who was known for his loyalty to the nation and his commitment to its progress and development.
+- **Eg:** Former President of India **Dr. A.P.J. Abdul Kalam,** who was known for his loyalty to the nation and his commitment to its progress and development.
 - **Dedication to public service:** The ability to serve the public interest with sincerity and commitment.
-- **Example:** IAS officer **K. Vijayendra Pandian**, who worked tirelessly to improve public service delivery in his district.
+- **Eg:** IAS officer **K. Vijayendra Pandian**, who worked tirelessly to improve public service delivery in his district.
 - **Commitment to ethical behavior and principles:** The ability to follow ethical principles and values in all actions and decisions.
-- **Example:** Indian Administrative Service officer **Pradeep Singh**, who scored the first rank in the UPSC civil services examination in 2019 and credited his success to his commitment to ethical behavior and principles. **To prevent unethical behavior in public servants, some ways and means are:** **Training and education**: The Government of India has launched several training and education programs for public servants, such as the mandatory online training on ethics and integrity for all IAS officers.
+- **Eg:** Indian Administrative Service officer **Pradeep Singh**, who scored the first rank in the UPSC civil services examination in 2019 and credited his success to his commitment to ethical behavior and principles. **To prevent unethical behavior in public servants, some ways and means are:** **Training and education**: The Government of India has launched several training and education programs for public servants, such as the mandatory online training on ethics and integrity for all IAS officers.
 - **Code of conduct:** The Central Civil Services (Conduct) Rules, 1964, outline the ethical behavior expected of all public servants in India.
 - **Monitoring and enforcement:** The Central Vigilance Commission (CVC) is an independent body that monitors and enforces ethical behavior in government agencies and public servants.
 - **Whistle-blower protection:** The Whistle-blower Protection Act, 2014, provides protection to whistle-blowers who report corruption or malpractices in government agencies.
@@ -2439,8 +2443,12 @@ The principle of interdependence and cooperation is deeply ingrained in Indian c
 **Examples for ethical dimension being violated by the nation claiming to be democratic with open society.**
 
 **Violation of Non-refoulement Principle:**
-- **Example:** Australia has faced criticism for its policy of turning back asylum seekers arriving by boat. In 2013, Australia implemented Operation Sovereign Borders, intercepting and returning boats carrying asylum seekers to their country of origin, including those facing persecution. **Lack of Compassion and Solidarity:**
-- **Example:** Hungary’s response to the refugee crisis has been criticized for lacking compassion and solidarity. In 2015, Hungary built fences along its borders to deter and prevent the entry of refugees. **Other examples:**
+- **Eg:** Australia has faced criticism for its policy of turning back asylum seekers arriving by boat. In 2013, Australia implemented Operation Sovereign Borders, intercepting and returning boats carrying asylum seekers to their country of origin, including those facing persecution.
+
+**Lack of Compassion and Solidarity:**
+- **Eg:** Hungary’s response to the refugee crisis has been criticized for lacking compassion and solidarity. In 2015, Hungary built fences along its borders to deter and prevent the entry of refugees.
+
+**Other examples:**
 - **The Rohingya crisis:** In 2017, the Rohingya, a Muslim minority in Myanmar, were subjected to a violent military crackdown. Over 700,000 Rohingyas fled to neighboring Bangladesh seeking refuge. However, Bangladesh, being a poor country with limited resources, was unable to accommodate such a large number of refugees. As a result, many Rohingyas were turned back to Myanmar where they faced persecution and human rights violations.
 - **The Syrian refugee crisis:** The Syrian refugee crisis is one of the largest refugee crises in the world. Since the outbreak of the Syrian Civil War in 2011, millions of Syrians have fled their country seeking refuge in neighboring countries and Europe. However, several countries have refused to accept Syrian refugees, citing concerns about national security and economic burden.
 - **The US-Mexico border crisis:** In recent years, thousands of migrants from Central America have been fleeing violence and poverty in their home countries and seeking asylum in the United States. However, the US government has implemented several policies to restrict asylum seekers, including turning back asylum seekers to Mexico where they face violence and human rights abuses.
@@ -2853,9 +2861,9 @@ These examples illustrate how individuals in India have found purpose and meanin
 - **Changing Social Interactions:** The rise of social media platforms has transformed the way people interact and communicate. Online platforms have provided a space for individuals to express their opinions and engage in discussions, sometimes challenging traditional norms and values.
 - **For instance,:** the #MeToo movement gained momentum in India through social media, bringing attention to issues of sexual harassment and challenging traditional power dynamics.
 - **Access to Information and Alternative Perspectives:** The internet has facilitated easy access to information and alternative perspectives, leading to the questioning of traditional beliefs and practices.
-- **Example:** Online platforms and websites that discuss taboo subjects such as inter-caste marriages, LGBTQ+ rights, and gender equality have sparked conversations and challenged traditional norms in India.
+- **Eg:** Online platforms and websites that discuss taboo subjects such as inter-caste marriages, LGBTQ+ rights, and gender equality have sparked conversations and challenged traditional norms in India.
 - **Influence on Youth Culture:** The internet has had a significant impact on youth culture in India. Online platforms, streaming services, and social media have shaped their preferences, lifestyle choices, and aspirations, often in contrast to traditional values.
-- **Example:** Bollywood films have been influenced by global trends and Western values, reflecting changing societal attitudes towards relationships, individualism, and personal expression.
+- **Eg:** Bollywood films have been influenced by global trends and Western values, reflecting changing societal attitudes towards relationships, individualism, and personal expression.
 - **Rise of Online Activism:** Online platforms have given rise to a new form of activism, allowing individuals to mobilize and advocate for social causes that may be at odds with traditional values.
 - **For example,:** campaigns advocating for LGBTQ+ rights, environmental sustainability, and women’s empowerment have gained traction through online platforms, challenging traditional societal norms in India.
 - **Digital Divide and Cultural Disparities:** The internet expansion has also highlighted the digital divide and cultural disparities in India. While urban areas have better access to the internet and exposure to global cultural values, rural areas may still hold strong traditional values and face limited access to the online world.
@@ -3094,13 +3102,13 @@ Overall, Buddha’s teachings continue to inspire and guide people towards a mor
 **Principles of Public life**
 
 - **Selflessness:** Public officials should act solely in the public interest, and not for personal gain or to benefit others.
-- **Example:** A public official who refrains from accepting gifts or favors from individuals or organizations that have business before the government demonstrates selflessness.
+- **Eg:** A public official who refrains from accepting gifts or favors from individuals or organizations that have business before the government demonstrates selflessness.
 - In India, the former Chief Minister of Delhi, Arvind Kejriwal, took a similar stance when he announced that he and other members of his cabinet would not accept official cars or bungalows, which had been a tradition among the political elite.
 - **Integrity:** Public officials should act with integrity, being honest and truthful, and avoiding any conflicts of interest.
-- **Example:** A public official who discloses any potential conflicts of interest and recuses themselves from any decision-making related to those interests demonstrates integrity.
+- **Eg:** A public official who discloses any potential conflicts of interest and recuses themselves from any decision-making related to those interests demonstrates integrity.
 - In India, Justice Sanjay Kishan Kaul, a judge of the Supreme Court of India, recused himself from a case involving the Punjab and Haryana High Court, as he had served as the Chief Justice of that court previously.
 - **Accountability:** Public officials should be accountable for their actions and decisions, and should be subject to scrutiny by the public and other appropriate bodies.
-- **Example:** A public official who is transparent about their actions and decisions, and responds to questions and concerns raised by the public, demonstrates accountability.
+- **Eg:** A public official who is transparent about their actions and decisions, and responds to questions and concerns raised by the public, demonstrates accountability.
 - In India, the Right to Information Act (RTI) provides citizens with the right to request information from any public authority, and has been used to hold public officials accountable for their actions and decisions.
 
 
@@ -3248,15 +3256,15 @@ Efforts must be made to improve the bureaucratic processes, enhance transparency
 
 **Here are some points to consider when justifying this view:**
 - **Breach of trust:** Public servants are entrusted with specific roles and responsibilities to serve the public interest. When they fail to perform their duties, it can be seen as a breach of the trust placed in them.
-- **Example:** Delhi gang-rape case (2012): A police officer neglected duty, resulting in delayed action and a breach of public trust.
+- **Eg:** ***Delhi gang-rape case (2012)***: A police officer neglected duty, resulting in delayed action and a breach of public trust.
 - **Wasting public resources:** Non-performance by public servants often leads to wastage of public resources, as the allocated funds and resources might not be utilized efficiently or effectively.
-- **Example:** Commonwealth Games scam (2010): Funds allocated for infrastructure development were misused, leading to cost overruns and substandard construction.
+- **Eg:** ***Commonwealth Games scam (2010)***: Funds allocated for infrastructure development were misused, leading to cost overruns and substandard construction.
 - **Hindering progress and development:** Failure to perform duties can obstruct the progress and development of society, as public services may not be delivered effectively or on time.
-- **Example:** Delayed Mumbai Metro Line 2A: Bureaucratic inefficiencies and lack of coordination caused significant delays in construction, hampering transportation development.
+- **Eg:** ***Delayed Mumbai Metro Line 2A***: Bureaucratic inefficiencies and lack of coordination caused significant delays in construction, hampering transportation development.
 - **Facilitating corruption:** Non-performance can create opportunities for corruption to thrive, as public servants may demand bribes or engage in other forms of illicit activities to fulfill their obligations.
-- **Example:** Vyapam scam (2013):**Government officials manipulated entrance exams, enabling corruption through bribery and irregular admissions.**
+- **Eg:** ***Vyapam scam (2013)***: Government officials manipulated entrance exams, enabling corruption through bribery and irregular admissions.
 - **Violation of legal and ethical obligations:** Public servants are bound by laws and ethical standards that require them to fulfill their duties. Non-performance can be seen as a violation of these obligations.
-- **Example:** 2G spectrum scam (2008):**Officials violated regulations in allocating telecom spectrum licenses, resulting in substantial financial losses.**
+- **Eg:** ***2G spectrum scam (2008)***: Officials violated regulations in allocating telecom spectrum licenses, resulting in substantial financial losses.
 
 
 
@@ -3859,13 +3867,13 @@ Overall, the quote emphasizes the complexity of ethical decision-making and the 
 
 **Example: The Central Vigilance Commission (CVC) in India acts as an independent oversight body that investigates corruption cases and potential conflicts of interest in the public sector..**
 - **Transparency and Accountability:** Implementing measures to ensure transparency in the decision-making process, such as making financial disclosures public, maintaining registers of interests, and requiring public servants to declare potential conflicts on a regular basis.
-- **Example:** The Right to Information (RTI) Act in India allows citizens to access information held by public authorities.
+- **Eg:** The Right to Information (RTI) Act in India allows citizens to access information held by public authorities.
 - **Cooling-off Periods:** Enforcing cooling-off periods, where public servants are required to wait for a specific duration before joining the private sector or engaging in activities that may create a conflict of interest.
-- **Example:** The Reserve Bank of India (RBI) imposes cooling-off periods for its senior officials before they can join private financial institutions.
+- **Eg:** The Reserve Bank of India (RBI) imposes cooling-off periods for its senior officials before they can join private financial institutions.
 - **Training and Education:** Providing comprehensive training and education programs for public servants to increase awareness about conflicts of interest, ethical decision-making, and the importance of prioritizing public interest.
-- **Example:** The Lal Bahadur Shastri National Academy of Administration (LBSNAA) in India conducts training programs that include sessions on ethics, integrity, and conflict of interest for civil servants.
+- **Eg:** The Lal Bahadur Shastri National Academy of Administration (LBSNAA) in India conducts training programs that include sessions on ethics, integrity, and conflict of interest for civil servants.
 - **Ethical Guidelines:** 
-- **Example:** The All India Services (Conduct) Rules, 1968, provide ethical guidelines for public servants in India. Rule 13 states that public servants must not engage in any work or conduct that is inconsistent with their official duties or may compromise their integrity.
+- **Eg:** The All India Services (Conduct) Rules, 1968, provide ethical guidelines for public servants in India. Rule 13 states that public servants must not engage in any work or conduct that is inconsistent with their official duties or may compromise their integrity.
 
 
 
@@ -4100,10 +4108,10 @@ By applying emotional intelligence in their administrative practices, civil serv
 **Body:**
 - **Father:** A father is often seen as the head of the family and a role model for his children. If he leads an honest and ethical life, it will influence his children to do the same. Fathers can teach their children the importance of integrity, honesty, and hard work.
 - **Example ,:** the father of Indian cricket legend Sachin Tendulkar instilled in him the values of discipline, hard work, and honesty from a young age. This shaped Tendulkar into the legendary cricketer and role model he is today.
-- **Example:** , Mahatma Gandhi’s father, Karamchand Gandhi, was a man of strong principles and values. He taught Gandhi the importance of truth, simplicity, and self-discipline. These values shaped Gandhi’s worldview and guided his actions throughout his life.
+- **Eg:** , Mahatma Gandhi’s father, Karamchand Gandhi, was a man of strong principles and values. He taught Gandhi the importance of truth, simplicity, and self-discipline. These values shaped Gandhi’s worldview and guided his actions throughout his life.
 - **Mother:** A mother is the primary caregiver and nurturer of a child. She plays a vital role in shaping the child’s character and values. If a mother leads an honest and ethical life, it will have a profound impact on her child’s values and beliefs. Mothers can teach their children the importance of empathy, compassion, and honesty.
 - **Example ,:** Mother Teresa, who was born and raised in India, devoted her life to serving the poor and needy. Her selfless service and dedication to helping others inspired people all over the world.
-- **Example:** ,Indira Gandhi, India’s first female Prime Minister, was deeply influenced by her mother, Kamala Nehru. Kamala Nehru was a social activist and played a key role in the Indian independence movement. Her commitment to social justice and equality inspired Indira Gandhi to follow in her footsteps.
+- **Eg:** ,Indira Gandhi, India’s first female Prime Minister, was deeply influenced by her mother, Kamala Nehru. Kamala Nehru was a social activist and played a key role in the Indian independence movement. Her commitment to social justice and equality inspired Indira Gandhi to follow in her footsteps.
 - **Teacher:** A teacher is responsible for shaping the minds of young children and imparting knowledge, values, and skills. Teachers play a critical role in molding the future citizens of a country. If teachers lead an honest and ethical life, it will influence their students to do the same. Teachers can teach their students the importance of critical thinking, integrity, and social responsibility.
 - **Example ,:** Sarvepalli Radhakrishnan, a philosopher and teacher, became the second President of India. He was an advocate of education and believed that it was essential for developing ethical and moral values in young people.
 - **Example,:** Dr. APJ Abdul Kalam, the former President of India, was deeply influenced by his teacher, Sivasubramania Iyer. Iyer was a strict disciplinarian and instilled in Kalam a strong work ethic and a love for science and technology. These values inspired Kalam to pursue a career in aerospace engineering and later to become one of India’s most beloved and respected leaders.
@@ -4367,15 +4375,15 @@ Overall, motivating young people with ethical conduct to come forward and join a
 
 **Body:**
 - **Principles of Justice:** Rawls proposes the principles of justice as fairness, which include equal basic liberties, fair equality of opportunity, and the difference principle.
-- **Example:** The reservation system in India, which aims to provide equal opportunities to historically marginalized communities in education and employment, aligns with Rawls’s principle of fair equality of opportunity.
+- **Eg:** The reservation system in India, which aims to provide equal opportunities to historically marginalized communities in education and employment, aligns with Rawls’s principle of fair equality of opportunity.
 - **Veil of Ignorance:** Rawls suggests making decisions about social structures and policies from a position of impartiality, behind a veil of ignorance, where individuals do not know their own position in society.
-- **Example:** The introduction of the Right to Education Act in India, which guarantees free and compulsory education for all children aged 6 to 14, reflects the idea of making decisions based on the needs and rights of children, regardless of their socio-economic background.
+- **Eg:** The introduction of the Right to Education Act in India, which guarantees free and compulsory education for all children aged 6 to 14, reflects the idea of making decisions based on the needs and rights of children, regardless of their socio-economic background.
 - **Redistribution of Resources:** Rawls argues for the redistribution of wealth and resources to ensure a more equitable society.
-- **Example:** The Mahatma Gandhi National Rural Employment Guarantee Act (MGNREGA) in India, which provides a legal guarantee for 100 days of employment per year to rural households, aims to reduce poverty and address inequalities by providing income and livelihood opportunities to marginalized communities.
+- **Eg:** The Mahatma Gandhi National Rural Employment Guarantee Act (MGNREGA) in India, which provides a legal guarantee for 100 days of employment per year to rural households, aims to reduce poverty and address inequalities by providing income and livelihood opportunities to marginalized communities.
 - **Social Cooperation:** Rawls emphasizes the importance of social cooperation and mutual support for achieving social justice.
-- **Example:** The Self-Help Group (SHG) movement in India, where women come together to form small groups for economic empowerment, exemplifies the idea of social cooperation and collective action to uplift marginalized sections of society.
+- **Eg:** The Self-Help Group (SHG) movement in India, where women come together to form small groups for economic empowerment, exemplifies the idea of social cooperation and collective action to uplift marginalized sections of society.
 - **Human Rights and Social Justice:** Rawls emphasizes the protection of human rights and the elimination of discrimination to achieve social justice.
-- **Example:** The legal recognition and protection of the rights of marginalized groups, such as the Scheduled Castes and Scheduled Tribes, through legislation like the Scheduled Castes and Scheduled Tribes (Prevention of Atrocities) Act, promotes social justice by addressing discrimination and ensuring equal treatment.
+- **Eg:** The legal recognition and protection of the rights of marginalized groups, such as the Scheduled Castes and Scheduled Tribes, through legislation like the Scheduled Castes and Scheduled Tribes (Prevention of Atrocities) Act, promotes social justice by addressing discrimination and ensuring equal treatment.
 
 
 
@@ -4407,25 +4415,29 @@ By emphasizing the fair distribution of social goods and resources, as well as e
 
 **Negative emotions associated with anger include:**
 - **Anxiety and stress:** Frequent and intense anger can cause anxiety and stress, leading to physical and mental health problems.
-- **Example:** During the COVID-19 pandemic, healthcare workers in India experienced high levels of anxiety and stress due to the overwhelming workload, shortage of resources, and constant exposure to the virus.
+- **Eg:** During the COVID-19 pandemic, healthcare workers in India experienced high levels of anxiety and stress due to the overwhelming workload, shortage of resources, and constant exposure to the virus.
 - **Depression:** Anger can trigger feelings of sadness and hopelessness, leading to depression.
-- **Example:** In the aftermath of a major natural disaster, such as the 2004 Indian Ocean tsunami, government officials responsible for disaster management may have experienced depression due to the immense scale of devastation and loss.
+- **Eg:** In the aftermath of a major natural disaster, such as the 2004 Indian Ocean tsunami, government officials responsible for disaster management may have experienced depression due to the immense scale of devastation and loss.
 - **Guilt and shame:** When anger is expressed inappropriately, it can lead to feelings of guilt and shame.
-- **Example:** In 2010, the Commonwealth Games held in Delhi were marred by allegations of corruption and mismanagement, leading to feelings of guilt and shame among certain government officials involved in the organizing committee. **Undesirable behaviors associated with anger include:**
+- **Eg:** In 2010, the Commonwealth Games held in Delhi were marred by allegations of corruption and mismanagement, leading to feelings of guilt and shame among certain government officials involved in the organizing committee.
+
+**Undesirable behaviors associated with anger include:**
 - **Aggression:** Anger can lead to physical and verbal aggression, including hitting, throwing objects, and yelling
-- **Example:** In 2012, during protests against the construction of a nuclear power plant in Kudankulam, Tamil Nadu, clashes between protesters and the police resulted in instances of aggression and physical violence.
+- **Eg:** In 2012, during protests against the construction of a nuclear power plant in Kudankulam, Tamil Nadu, clashes between protesters and the police resulted in instances of aggression and physical violence.
 - **Hostility:** Anger can cause people to become hostile towards others, leading to conflicts and damaged relationships.
-- **Example:** Instances of political leaders engaging in heated debates and verbal attacks during legislative sessions can exemplify hostility within the political arena.
+- **Eg:** Instances of political leaders engaging in heated debates and verbal attacks during legislative sessions can exemplify hostility within the political arena.
 - **Impulsivity:** When angry, people may act impulsively without considering the consequences of their actions.
-- **Example:** Instances of political leaders engaging in heated debates and verbal attacks during legislative sessions can exemplify hostility within the political arena. **To manage and control anger, the following strategies can be used:**
+- **Eg:** Instances of political leaders engaging in heated debates and verbal attacks during legislative sessions can exemplify hostility within the political arena.
+
+**To manage and control anger, the following strategies can be used:**
 - **Recognize triggers:** Identify the situations or people that trigger anger and try to avoid or manage them.
-- **Example:** During the 2013 Muzaffarnagar riots in Uttar Pradesh, a police officer recognized that provocative speeches during political rallies could trigger violence and took proactive measures to manage the situation and prevent further escalation.
+- **Eg:** During the 2013 Muzaffarnagar riots in Uttar Pradesh, a police officer recognized that provocative speeches during political rallies could trigger violence and took proactive measures to manage the situation and prevent further escalation.
 - **Relaxation techniques:** Use relaxation techniques such as deep breathing, meditation, and yoga to calm the mind and body.
-- **Example:** During the 2020 Delhi riots, a district collector regularly practiced deep breathing exercises and mindfulness to remain composed and handle high-pressure situations, ensuring effective management of the unrest.
+- **Eg:** During the 2020 Delhi riots, a district collector regularly practiced deep breathing exercises and mindfulness to remain composed and handle high-pressure situations, ensuring effective management of the unrest.
 - **Cognitive restructuring:** Identify and challenge negative thoughts and beliefs that contribute to anger.
-- **Example:** After the 2002 Godhra train burning incident, a civil servant challenged their biases and negative beliefs about certain communities, attending sensitivity training and actively working towards fostering inclusivity and harmony in their administrative decisions.
+- **Eg:** After the 2002 Godhra train burning incident, a civil servant challenged their biases and negative beliefs about certain communities, attending sensitivity training and actively working towards fostering inclusivity and harmony in their administrative decisions.
 - **Communication:** Express anger in a respectful and assertive way, using “I” statements rather than blaming others.
-- **Example:** In the aftermath of the 26/11 Mumbai attacks in 2008, a government spokesperson addressed the media with composure and clarity, providing updates on the situation and assuring the public without displaying anger or defensiveness.
+- **Eg:** In the aftermath of the 26/11 Mumbai attacks in 2008, a government spokesperson addressed the media with composure and clarity, providing updates on the situation and assuring the public without displaying anger or defensiveness.
 - **Seek help:** If anger is causing problems in personal or work life, seek professional help from a therapist or counselor.
 - A senior bureaucrat dealing with mounting work pressure and anger issues sought guidance from a professional counselor in 2015, obtaining support to manage their emotions effectively and maintain a healthy work-life balance.
 
@@ -4718,52 +4730,54 @@ Weber’s argument that public administration should be judged by a different mo
 
 **(a) Undesirable values prevalent in today’s educated Indians:**
 - **Corruption:** Instances of corruption can be observed in various sectors, such as government offices, public procurement processes, and tax evasion cases.
-- **Example:** The involvement of educated individuals in high-profile corruption cases, such as the 2G spectrum scam and the coal allocation scam, highlighted the persistence of corruption in Indian society.
+- **Eg:** The involvement of educated individuals in high-profile corruption cases, such as the 2G spectrum scam and the coal allocation scam, highlighted the persistence of corruption in Indian society.
 - **Nepotism and favoritism:** Nepotism and favoritism can be seen in sectors like politics, business, and even educational institutions, where individuals with connections or family ties are given preferential treatment over more deserving candidates.
-- **Example:** The controversy surrounding the Bollywood film industry, where star kids and individuals with influential connections are often given opportunities at the expense of talented outsiders, raised concerns about nepotism in the entertainment industry.
+- **Eg:** The controversy surrounding the Bollywood film industry, where star kids and individuals with influential connections are often given opportunities at the expense of talented outsiders, raised concerns about nepotism in the entertainment industry.
 - **Casteism:** Despite constitutional provisions and affirmative action policies, caste-based discrimination and biases persist in various aspects of Indian society, including educational institutions, workplaces, and social interactions.
-- **Example:** Discrimination against individuals from lower castes in educational institutions, denial of opportunities, and exclusion from certain professions are unfortunate manifestations of casteism.
+- **Eg:** Discrimination against individuals from lower castes in educational institutions, denial of opportunities, and exclusion from certain professions are unfortunate manifestations of casteism.
 - **Gender inequality:** Gender-based discrimination and inequality continue to prevail in many parts of Indian society, resulting in limited access to education, employment, and decision-making positions for women.
-- **Example:** The gender pay gap, instances of workplace harassment, and gender-based violence are persistent challenges that reflect the ongoing gender inequality in India.
+- **Eg:** The gender pay gap, instances of workplace harassment, and gender-based violence are persistent challenges that reflect the ongoing gender inequality in India.
 - **Lack of accountability:** Instances of individuals in positions of power evading accountability for their actions, whether in cases of corruption, administrative negligence, or misuse of authority, highlight a lack of responsibility and transparency.
-- **Example:** Cases of public officials involved in scams or misconduct, who manage to evade legal consequences due to political influence or systemic loopholes, demonstrate the need for stronger accountability mechanisms. **(b) Cultivating socio-ethical values in aspiring and serving civil servants:**
+- **Eg:** Cases of public officials involved in scams or misconduct, who manage to evade legal consequences due to political influence or systemic loopholes, demonstrate the need for stronger accountability mechanisms.
+
+**(b) Cultivating socio-ethical values in aspiring and serving civil servants:**
 - **Ethics education and training:** **Example:** The Lal Bahadur Shastri National Academy of Administration (LBSNAA) in Mussoorie, India, offers training programs that include modules on ethics, integrity, and moral values to aspiring civil servants.
 - **Leadership by example:** 
-- **Example:** The Indian Administrative Service (IAS) officers who lead by example and demonstrate ethical behavior in their decision-making processes inspire and influence junior officers to uphold socio-ethical values.
+- **Eg:** The Indian Administrative Service (IAS) officers who lead by example and demonstrate ethical behavior in their decision-making processes inspire and influence junior officers to uphold socio-ethical values.
 
 -
 
 **Strengthening accountability mechanisms:**
-- **Example:** The Central Vigilance Commission (CVC) in India is an independent body responsible for addressing corruption and promoting transparency in public administration. It investigates corruption cases and recommends action against errant civil servants.
+- **Eg:** The Central Vigilance Commission (CVC) in India is an independent body responsible for addressing corruption and promoting transparency in public administration. It investigates corruption cases and recommends action against errant civil servants.
 
 -
 
 **Encouraging ethical decision-making:**
-- **Example:** The Ministry of Personnel, Public Grievances, and Pensions of the Government of India has issued guidelines and codes of conduct for civil servants to promote ethical decision-making and discourage conflicts of interest.
+- **Eg:** The Ministry of Personnel, Public Grievances, and Pensions of the Government of India has issued guidelines and codes of conduct for civil servants to promote ethical decision-making and discourage conflicts of interest.
 
 -
 
 **Continuous professional development:**
-- **Example:** The Department of Personnel and Training (DoPT) in India conducts regular training programs, workshops, and seminars for civil servants to enhance their understanding of ethical issues and develop their ethical reasoning skills.
+- **Eg:** The Department of Personnel and Training (DoPT) in India conducts regular training programs, workshops, and seminars for civil servants to enhance their understanding of ethical issues and develop their ethical reasoning skills.
 - **Institutional reforms:** 
-- **Example:** The introduction of e-governance initiatives and digital platforms for service delivery, such as the online filing of income tax returns and issuance of digital certificates, aims to reduce corruption and increase transparency within public services.
+- **Eg:** The introduction of e-governance initiatives and digital platforms for service delivery, such as the online filing of income tax returns and issuance of digital certificates, aims to reduce corruption and increase transparency within public services.
 
 -
 
 **Collaboration with civil society:**
-- **Example:** The government collaborates with civil society organizations and NGOs to promote transparency, accountability, and citizen engagement through initiatives like the Right to Information (RTI) Act and social audit programs.
+- **Eg:** The government collaborates with civil society organizations and NGOs to promote transparency, accountability, and citizen engagement through initiatives like the Right to Information (RTI) Act and social audit programs.
 
 -
 
 **Recognizing and rewarding ethical behavior:**
-- **Example:** The Prime Minister’s Awards for Excellence in Public Administration recognizes civil servants who demonstrate exceptional commitment to public service and uphold socio-ethical values in their work.
+- **Eg:** The Prime Minister’s Awards for Excellence in Public Administration recognizes civil servants who demonstrate exceptional commitment to public service and uphold socio-ethical values in their work.
 
 -
 
 **Encouraging citizen engagement:**
-- **Example:** The participatory budgeting initiatives in several Indian cities allow citizens to actively engage in decision-making processes, promoting transparency and accountability in public service delivery.
+- **Eg:** The participatory budgeting initiatives in several Indian cities allow citizens to actively engage in decision-making processes, promoting transparency and accountability in public service delivery.
 - **Long-term perspective:** 
-- **Example:** The National Centre for Good Governance (NCGG) in India focuses on capacity building, research, and policy advocacy to promote good governance practices and ethical behavior in public services.
+- **Eg:** The National Centre for Good Governance (NCGG) in India focuses on capacity building, research, and policy advocacy to promote good governance practices and ethical behavior in public services.
 
 
 
@@ -4804,7 +4818,7 @@ Cultivating socio-ethical values in civil servants requires a sustained effort f
 - **Citizen Engagement:** E-Governance initiatives have provided platforms for citizen engagement and participation in decision-making processes.
 - **For instance,:** initiatives like MyGov.in allow citizens to contribute ideas, suggestions, and feedback on various policies and programs, promoting a more inclusive and participatory approach to governance.
 - **Online Grievance Redressal:** The introduction of online grievance redressal portals in e-Governance.
-- **Example:** Centralized Public Grievance Redress and Monitoring System (CPGRAMS:**) has made it easier for beneficiaries to register complaints and seek resolution.**
+- **Eg:** Centralized Public Grievance Redress and Monitoring System (CPGRAMS:**) has made it easier for beneficiaries to register complaints and seek resolution.**
 - **Efficient Service Delivery:** E-Governance has improved the efficiency and speed of service delivery.
 - **For example,:** initiatives like **Direct Benefit Transfer (DBT)** enable the direct transfer of government subsidies and benefits to beneficiaries’ bank accounts, eliminating intermediaries and reducing leakages.
 
@@ -4904,31 +4918,31 @@ A public servant must possess a well-developed sensibility to ethical issues to 
 
 **Here are specific examples of international organizations and their ethical approaches:**
 - **United Nations (UN):** **Ethical consideration:** The UN promotes the values of peace, justice, and cooperation among nations through its Charter and Universal Declaration of Human Rights.
-- **Example:** The UN’s role in mediating conflicts, such as the Camp David Accords between Egypt and Israel in 1978, demonstrates the importance of ethical considerations in fostering peaceful resolutions.
+- **Eg:** The UN’s role in mediating conflicts, such as the Camp David Accords between Egypt and Israel in 1978, demonstrates the importance of ethical considerations in fostering peaceful resolutions.
 
 -
 
 **World Trade Organization (WTO):**
 - **Ethical consideration:** The WTO promotes fair trade practices, nondiscrimination, and transparency among member countries.
-- **Example:** Resolving trade disputes through the WTO’s Dispute Settlement Mechanism, which applies ethical principles of fairness and non-discrimination, helps alleviate conflicts and tensions between nations.
+- **Eg:** Resolving trade disputes through the WTO’s Dispute Settlement Mechanism, which applies ethical principles of fairness and non-discrimination, helps alleviate conflicts and tensions between nations.
 
 -
 
 **International Court of Justice (ICJ):**
 - **Ethical consideration:** The ICJ serves as the principal judicial organ of the UN, applying international law and promoting justice.
-- **Example:** The ICJ’s role in resolving territorial disputes, such as the 2002 ICJ ruling on the India-Pakistan case concerning the Vienna Convention, provides a forum for peaceful settlement and upholds ethical principles of fairness and respect for international law.
+- **Eg:** The ICJ’s role in resolving territorial disputes, such as the 2002 ICJ ruling on the India-Pakistan case concerning the Vienna Convention, provides a forum for peaceful settlement and upholds ethical principles of fairness and respect for international law.
 
 -
 
 **International Criminal Court (ICC):**
 - **Ethical consideration:** The ICC investigates and prosecutes individuals for war crimes, crimes against humanity, and genocide, promoting accountability and justice.
-- **Example:** The ICC’s involvement in cases such as the arrest warrant against Sudan’s President Omar al-Bashir for war crimes highlights the ethical commitment to hold individuals accountable for their actions, contributing to conflict resolution.
+- **Eg:** The ICC’s involvement in cases such as the arrest warrant against Sudan’s President Omar al-Bashir for war crimes highlights the ethical commitment to hold individuals accountable for their actions, contributing to conflict resolution.
 
 -
 
 **United Nations Educational, Scientific and Cultural Organization (UNESCO):**
 - **Ethical consideration:** UNESCO fosters cultural diversity, dialogue, and cooperation among nations to promote understanding and peace.
-- **Example:** UNESCO’s World Heritage Sites program encourages countries to preserve cultural and natural heritage, promoting respect and cooperation among nations while mitigating tensions related to cultural and historical differences.
+- **Eg:** UNESCO’s World Heritage Sites program encourages countries to preserve cultural and natural heritage, promoting respect and cooperation among nations while mitigating tensions related to cultural and historical differences.
 
 
 
@@ -4974,9 +4988,9 @@ By adopting ethical principles such as fair trade and human rights, nations can 
 - **Fortitude:** is another important virtue for public servants to possess. Fortitude means having the courage to do what is right, even in the face of adversity. Public servants who possess fortitude are willing to take difficult or unpopular actions in the interest of the public good.
 - They stand up to pressure from powerful interest groups and are not swayed by personal gain or the fear of retaliation. Fortitude is essential for ensuring that public servants are able to uphold their duty to serve the public good, even in challenging circumstances. **Here are some examples of how trustworthiness and fortitude get manifested in public service:**
 - **Trustworthiness:** Public servants who are trustworthy are transparent in their actions and decisions. They avoid conflicts of interest and prioritize the public good over personal gain.
-- **Example:** a government official who discloses conflicts of interest and avoids situations where they might benefit personally demonstrates trustworthiness. Similarly, a police officer who reports misconduct by a fellow officer shows that they prioritize their duty to uphold the law over loyalty to their colleagues.
+- **Eg:** a government official who discloses conflicts of interest and avoids situations where they might benefit personally demonstrates trustworthiness. Similarly, a police officer who reports misconduct by a fellow officer shows that they prioritize their duty to uphold the law over loyalty to their colleagues.
 - **Fortitude:** Public servants who possess fortitude are willing to take difficult or unpopular actions in the interest of the public good. They are not swayed by pressure from powerful interest groups or fear of retaliation.
-- **Example:** a mayor who stands up to pressure from powerful interest groups to veto a harmful bill that would negatively impact the community shows fortitude. Similarly, a civil servant who speaks up against a corrupt superior or institution displays courage and fortitude in upholding their duty to serve the public.
+- **Eg:** a mayor who stands up to pressure from powerful interest groups to veto a harmful bill that would negatively impact the community shows fortitude. Similarly, a civil servant who speaks up against a corrupt superior or institution displays courage and fortitude in upholding their duty to serve the public.
 
 
 
@@ -5127,9 +5141,9 @@ of the Right to Information (RTI) Act, media activism, and judicial activism hav
 **Negative impacts:**
 
 **Misuse of mechanisms:**
-- **Example:** In some cases, the RTI Act has been used to harass government officials by flooding them with numerous frivolous and repetitive queries, resulting in a waste of time and resources.
+- **Eg:** In some cases, the RTI Act has been used to harass government officials by flooding them with numerous frivolous and repetitive queries, resulting in a waste of time and resources.
 - **Critical analysis:** While the RTI Act is a powerful tool for transparency, measures should be in place to prevent its misuse and ensure its effective utilization. **Fear of repercussions:**
-- **Example:** Due to media and judicial activism, officers may hesitate to make prompt decisions, fearing adverse public scrutiny, legal challenges, or negative media coverage.
+- **Eg:** Due to media and judicial activism, officers may hesitate to make prompt decisions, fearing adverse public scrutiny, legal challenges, or negative media coverage.
 - **Critical analysis:** While accountability is crucial, an excessive fear of consequences may hinder timely decision-making and affect efficient governance. **Suggested resolutions to the dichotomy and minimizing negative impacts:** **Strengthening mechanisms:**
 - **Establish clear guidelines and procedures for utilizing RTI requests, ensuring that they are relevant and do not burden officials with excessive and repetitive queries.:** Training and capacity building:
 - **Provide training and workshops to officers on navigating media and judicial activism, helping them understand their roles, rights, and responsibilities in decision-making processes.:** Promote a culture of accountability:
@@ -5756,13 +5770,17 @@ Personal experiences with a social problem, such as poverty or discrimination, c
 - In our society, contrasting attitudes are prevalent about many social problems, including the caste system. **Attitude with respect to caste system:** **Traditionalist Attitude:**
 - **Emphasis:** Upholding traditional caste-based hierarchy.
 - **Explanation:** Some individuals adhere to the belief that the caste system is an integral part of Indian culture and social order. They may view caste as a necessary division of labor and consider preserving caste-based practices as essential for social stability.
-- **Example:** Certain conservative caste-based organizations, like the Karni Sena in Rajasthan, have vehemently opposed inter-caste marriages and actively worked to preserve caste-based divisions. **Progressive Attitude:**
+- **Eg:** Certain conservative caste-based organizations, like the Karni Sena in Rajasthan, have vehemently opposed inter-caste marriages and actively worked to preserve caste-based divisions.
+
+**Progressive Attitude:**
 - **Emphasis:** Advocating for caste equality and social justice.
 - **Explanation:** Many individuals and groups recognize the caste system as a discriminatory and oppressive social structure that perpetuates inequality. They seek to challenge and dismantle the caste-based hierarchy, promoting social integration and equal opportunities for all.
-- **Example:** Dalit rights activist and lawyer, Bezwada Wilson, co-founded the Safai Karmachari Andolan, an organization dedicated to eradicating manual scavenging and challenging caste-based discrimination. **Mixed Attitude:**
+- **Eg:** Dalit rights activist and lawyer, Bezwada Wilson, co-founded the Safai Karmachari Andolan, an organization dedicated to eradicating manual scavenging and challenging caste-based discrimination.
+
+**Mixed Attitude:**
 - **Emphasis:** Acknowledging the existence of caste but advocating for reform.
 - **Explanation:** Some people acknowledge the historical significance and persistence of the caste system but argue for its reform rather than complete elimination. They may advocate for social reforms, reservation policies, and efforts to promote caste-based inclusivity and inter-caste interactions.
-- **Example:** Prominent economist and Nobel laureate Amartya Sen argues for the need to address social inequality through policies that promote social justice while acknowledging the historical significance and complexity of the caste system in India.
+- **Eg:** Prominent economist and Nobel laureate Amartya Sen argues for the need to address social inequality through policies that promote social justice while acknowledging the historical significance and complexity of the caste system in India.
 
 
 
@@ -5795,14 +5813,14 @@ In conclusion, the formation of attitudes towards social problems is complex and
 **Teachings of Swami Vivekananda:**
 - **Rationality and Scientific temper:** He condemned blind superstitious beliefs and searched for rationality and scientific meaning to every aspect of religion. He says that if superstition enters into the brain, man becomes ignorant and path of degradation of life.
 - **Brotherhood:** Through speech at the World parliament of religions and later initiatives developed a sense of brotherhood among the people of India and people of the globe.
-- **Example:** In a country where several religions take birth & with diversity of people, I always respect them and feel a sense of brotherhood with countrymen.
+- **Eg:** In a country where several religions take birth & with diversity of people, I always respect them and feel a sense of brotherhood with countrymen.
 - **Religion:** According to him true religion is one who follows their conscience and personal religion. He distinguishes institutional religion from personal religion.
-- **Example:** Sri Ramakrishna teaching on harmony of religions attracted people belonging to different denominations. Many householders and youth became his disciples along with Vivekanand.
+- **Eg:** Sri Ramakrishna teaching on harmony of religions attracted people belonging to different denominations. Many householders and youth became his disciples along with Vivekanand.
 - **Empowerment:** His birth anniversary is celebrated as National Youth Day. He believed that Youth energy can change the shape of the country.
 - **Rationality:** Pioneer of a rationalist movement in modern India in the spheres of ethics & religion.
-- **Example:** Curbing of Internet services in Jammu and Kashmir to prevent spread of misinformation and hate speeches.
+- **Eg:** Curbing of Internet services in Jammu and Kashmir to prevent spread of misinformation and hate speeches.
 - **Intensely spiritual & religious man:** He said that he is not interested in Moksha until everyone is liberated.
-- **Example:** He asked all Indians to serve the poor, starving & oppressed millions as this was the only way to see God.
+- **Eg:** He asked all Indians to serve the poor, starving & oppressed millions as this was the only way to see God.
 
 Most importantly, as a civil service aspirant, Vivekananda helped me in understanding my duty towards the downtrodden, making me realize that we all are one i.e., Parmatan and until we all are not happy everyone remains miserable.
 
@@ -6051,19 +6069,23 @@ The principle of the good of an individual being contained in the good of all is
 **Here are some Indian specific examples that illustrate this concept:**
 **Sustainable Agriculture:**
 - Promotion of sustainable farming practices, such as organic farming and agroecology, that prioritize the needs of small-scale farmers and ensure food security while minimizing environmental degradation.
-- **Example:** Sikkim, a state in India, has successfully implemented organic farming practices, reducing dependence on chemical fertilizers and pesticides, and prioritizing the health and well-being of farmers and consumers.
+- **Eg:** Sikkim, a state in India, has successfully implemented organic farming practices, reducing dependence on chemical fertilizers and pesticides, and prioritizing the health and well-being of farmers and consumers.
 
 **Renewable Energy Transition:**
 Embracing renewable energy sources, such as solar and wind power, to meet the energy needs of the growing population while reducing dependence on fossil fuels and mitigating environmental impacts.
-- **Example:** The state of Gujarat has made significant strides in solar energy production, utilizing its vast solar potential and establishing large-scale solar power projects to meet the energy demands of its residents.
+- **Eg:** The state of Gujarat has made significant strides in solar energy production, utilizing its vast solar potential and establishing large-scale solar power projects to meet the energy demands of its residents.
 
 **Corporate Social Responsibility (CSR):**
 - Encouraging corporations to fulfill their social and environmental responsibilities by giving back to society and minimizing the negative impacts of their operations.
-- **Example:** Tata Group, one of India’s largest conglomerates, has implemented various CSR initiatives, focusing on education, healthcare, and sustainable development, to address societal needs and contribute to the well-being of communities. **Forest Conservation and Tribal Rights:**
+- **Eg:** Tata Group, one of India’s largest conglomerates, has implemented various CSR initiatives, focusing on education, healthcare, and sustainable development, to address societal needs and contribute to the well-being of communities.
+
+**Forest Conservation and Tribal Rights:**
 - Balancing the conservation of forests with the protection of indigenous people’s rights, ensuring sustainable livelihoods and preserving biodiversity.
-- **Example:** The Forest Rights Act in India recognizes and grants land and resource rights to tribal and forest-dwelling communities, striking a balance between conservation efforts and the needs of marginalized communities. **Waste Management and Recycling:**
+- **Eg:** The Forest Rights Act in India recognizes and grants land and resource rights to tribal and forest-dwelling communities, striking a balance between conservation efforts and the needs of marginalized communities.
+
+**Waste Management and Recycling:**
 - Implementing effective waste management practices, including segregation, recycling, and waste reduction, to minimize resource consumption, environmental pollution, and promote a circular economy.
-- **Example:** The city of Alappuzha in Kerala has implemented a successful waste management system, emphasizing decentralized waste treatment plants, recycling, and composting, reducing the burden on landfills and promoting sustainable waste practices.
+- **Eg:** The city of Alappuzha in Kerala has implemented a successful waste management system, emphasizing decentralized waste treatment plants, recycling, and composting, reducing the burden on landfills and promoting sustainable waste practices.
 
 
 
@@ -6134,15 +6156,15 @@ Integrity, perseverance, spirit of service, commitment, and courage of convictio
 ### Body
 
 - **INTEGRITY:** It is the quality of being honest and having strong moral principles and It is doing the right things even when nobody’s watching.
-- **Example:** Sir M. Visvesvaraya:**used to use two separate candles each for personal work and office work during the official working hours.** <p align="center"><img src="images/pw_ethics_theoretical_questions_q75_img1.webp" alt="Integrity" /></p>
+- **Eg:** ***Sir M. Visvesvaraya***: used to use two separate candles each for personal work and office work during the official working hours.** <p align="center"><img src="images/pw_ethics_theoretical_questions_q75_img1.webp" alt="Integrity" /></p>
 - **PERSEVERANCE:** It refers to the quality of the character to stay firm on the path of one’s duty. A civil servant often faces difficulties in the performance of his duties. In this regard, it is important to develop the attribute of perseverance.
-- **Example:** Sardar Vallabhbhai Patel,:**the first Deputy Prime Minister and Minister of Home Affairs of India, demonstrated perseverance in uniting the country after independence by integrating various princely states into the Indian Union.**
+- **Eg:** ***Sardar Vallabhbhai Patel***: the first Deputy Prime Minister and Minister of Home Affairs of India, demonstrated perseverance in uniting the country after independence by integrating various princely states into the Indian Union.
 - **SPIRIT OF SERVICE:** it refers to the quality of the character that encourages one to pursue the goals of the organization with devotion. Every organization has some basic objectives, which are ethical in nature. In the Public services, it is particularly important that the officials abide by the ethical code and goals of the public organization. The goal of the public organization is to do good to the society.
-- **Example:** With ‘Project 37’, **Arunachal Officers Raise Lakhs** to Repair Schools, Build Roads. They started by contributing 1500 every month via Electronic Clearance Service, collecting around 2 lakhs in funds. Every month a lottery is held and one school is picked for micro-infrastructure repairs.
+- **Eg:** With ‘Project 37’, **Arunachal Officers Raise Lakhs** to Repair Schools, Build Roads. They started by contributing 1500 every month via Electronic Clearance Service, collecting around 2 lakhs in funds. Every month a lottery is held and one school is picked for micro-infrastructure repairs.
 - **COMMITMENT:** It is the dedication and passion towards a particular task. It helps to achieve goals and not deviate from them.
-- **Example:** Gandhiji:**committed his life to satya and ahimsa, and never wavered from his path despite numerous difficulties.** <p align="center"><img src="images/pw_ethics_theoretical_questions_q75_img2.webp" alt="COMMITMENT" /></p>
+- **Eg:** ***Gandhiji***: committed his life to satya and ahimsa, and never wavered from his path despite numerous difficulties.** <p align="center"><img src="images/pw_ethics_theoretical_questions_q75_img2.webp" alt="COMMITMENT" /></p>
 - **COURAGE OF CONVICTION:** The state or quality of mind or spirit that enables one to face danger or fear with self-possession, confidence and resolution.
-- **Example:** Satyendra Dubey,:**an IES officer who exposed corruption involved in the Golden Quadrilateral Highway Construction project.**
+- **Eg:** ***Satyendra Dubey***: an IES officer who exposed corruption involved in the Golden Quadrilateral Highway Construction project.
 
 [Question ID: 2013-gs4-q151-pwonlyias]
 
@@ -6170,15 +6192,21 @@ Values are the individual principles or qualities that guide judgment and behavi
 
 **It is important to be ethical along with being professionally competent for several reasons, including:** <p align="center"><img src="images/pw_ethics_theoretical_questions_q78_img1.webp" alt="Significs of ethics" /></p> **Trust and Reputation**
 Ethical behavior builds trust and fosters strong relationships with colleagues, clients, and the community.
-- **Example:** The Tata Group, under the leadership of Ratan Tata, is known for upholding ethical values, such as integrity and social responsibility. This commitment to ethics has earned the group a strong reputation globally. **Long-term Success:**
+- **Eg:** The Tata Group, under the leadership of Ratan Tata, is known for upholding ethical values, such as integrity and social responsibility. This commitment to ethics has earned the group a strong reputation globally.
+
+**Long-term Success:**
 - Ethical behavior contributes to long-term success and sustainability in professional endeavors.
 - **Indian Example:** Infosys, an Indian multinational IT company, has built a strong foundation on ethical practices. Their commitment to transparency and integrity has played a crucial role in their continued growth and success. **Stakeholder Confidence:**
 - Ethical behavior instills confidence in stakeholders, including employees, customers, investors, and the public.
-- **Example:** The Securities and Exchange Board of India (SEBI) has implemented stringent ethical regulations in the financial markets to protect investor interests and enhance confidence in the Indian capital market. **Social Impact:**
+- **Eg:** The Securities and Exchange Board of India (SEBI) has implemented stringent ethical regulations in the financial markets to protect investor interests and enhance confidence in the Indian capital market.
+
+**Social Impact:**
 - Ethical conduct positively influences society, contributing to social well-being and progress.
-- **Example:** Devi Shetty, founder of Narayana Health, a chain of affordable healthcare facilities, demonstrates ethical practices by providing accessible and affordable healthcare to underserved communities, making a significant social impact. **Personal Integrity:**
+- **Eg:** Devi Shetty, founder of Narayana Health, a chain of affordable healthcare facilities, demonstrates ethical practices by providing accessible and affordable healthcare to underserved communities, making a significant social impact.
+
+**Personal Integrity:**
 - Being ethical aligns with personal values and integrity, fostering self-respect and a sense of moral purpose.
-- **Example:** Kiran Bedi, a former police officer and social activist, is known for her ethical conduct, integrity, and commitment to social justice. She has been a role model for ethical leadership in India.
+- **Eg:** Kiran Bedi, a former police officer and social activist, is known for her ethical conduct, integrity, and commitment to social justice. She has been a role model for ethical leadership in India.
 
 
 

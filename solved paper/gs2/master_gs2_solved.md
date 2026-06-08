@@ -2014,7 +2014,7 @@ While DNA testing for paternity can be allowed, it must adhere to privacy rights
 Source Question: Right to privacy is intrinsic to life and personal liberty and is inherently protected under Article 21 of the constitution. Explain. In this reference, discuss the law relating to D.N.A. testing of a child in the womb to establish its paternity.
 
 | **Core Demand of Question** ● Discuss how Right to privacy is intrinsic to life and personal liberty and is inherently protected under Article 21 ● Discuss law relating to D.N.A. testing of child in the womb to establish its paternity ● Analyse the conflict between the right to privacy and the need for DNA testing in paternity cases ● Suggest ways to balance the right to privacy with other interests, such as the child’s right to know their parentage |
-| --- | **
+| --- |
 
 **Answer** The **right to privacy** gained significant attention after the landmark **Puttaswamy judgement** in 2017, where the Supreme Court of India declared privacy as a **fundamental right** under **Article 21**. In the context of **DNA testing** for paternity determination, recent cases have sparked debates on balancing the **right to privacy** with the child’s right to know their **biological parentage**. **
 
@@ -2024,14 +2024,14 @@ Source Question: Right to privacy is intrinsic to life and personal liberty and 
 - **Preventing Arbitrary State Action:** It acts as a safeguard against arbitrary state actions, such as **mass surveillance**, **unlawful data collection**, or invasions into personal space. It compels the state to justify any encroachment upon **personal privacy** on reasonable grounds and ensures such actions follow **principles of proportionality and legality**.
 - **Constitutional Protection:** The Supreme Court of India, in its P **uttaswamy v. Union of India (2017) case**, affirmed that the **right to privacy** is an **intrinsic part** of the right to life and personal liberty guaranteed under **Article 21** of the Indian Constitution.
 - **Reproductive Autonomy:** Individuals have the **right to make decisions** regarding **reproduction** and family life, ensuring personal **privacy** and control over intimate matters.
-- **Evolution of Privacy in the Digital Age:** In the modern digital world, the right to privacy has evolved to include the **protection of personal data and digital information**. **
+- **Evolution of Privacy in the Digital Age:** In the modern digital world, the right to privacy has evolved to include the **protection of personal data and digital information**.
 
 **Law Relating to DNA Testing of Child in the Womb to Establish Paternity**
 - **Section 112 of Indian Evidence Act:** This provision presumes that a child born within a marriage is legitimate unless a **DNA test** becomes essential to disprove paternity, protecting the family’s privacy and reputation from unnecessary disputes. **For example:** In **Goutam Kundu vs. State of West Bengal**, the court stressed that DNA tests should be used sparingly.
 - **DNA Technology (Use and Application) Regulation Bill, 2019:** This bill aims to regulate the use of **DNA testing** for legal and forensic purposes, ensuring that privacy concerns are addressed while allowing the establishment of **paternity** when legally required.
 - **Constitutional Security:** Any form of **DNA testing** must comply with constitutional protections under **Article 21**, ensuring that the right to privacy is respected unless there is a compelling legal reason for testing.
 - **Preservation of Family Privacy:** Courts protect **family privacy** by ensuring that **DNA testing** is only ordered when absolutely necessary to resolve legal disputes or paternity issues, preventing undue interference in family matters.
-- **Consent Requirement:** The legal framework mandates **informed consent** from individuals before conducting a **DNA test**, ensuring respect for personal liberty and privacy, especially in cases of sensitive family disputes. **
+- **Consent Requirement:** The legal framework mandates **informed consent** from individuals before conducting a **DNA test**, ensuring respect for personal liberty and privacy, especially in cases of sensitive family disputes.
 
 **Conflict Between Right to Privacy and DNA Testing in Paternity Cases**
 - **Personal Liberty vs. Truth:** There is often a conflict between the individual’s **right to privacy** under **Article 21** and the legal need to uncover the **biological truth** through **DNA testing**, particularly in paternity disputes. **For example:** The **Rohit Shekhar vs. The Narayan Dutt Tiwari** case illustrated this conflict, where DNA testing was crucial despite privacy concerns.
@@ -2668,7 +2668,7 @@ Source Question: Does the right to clean environment entail legal regulations on
 ### Body
 
 **In the context of burning crackers during Diwali, the Apex Court has taken cognizance of the issue and*** delivered several judgments to strike a balance between the right to a clean environment and the cultural practices associated with the festival.*
-- **In the case of M.C. Mehta vs Union of India (2001),:** the Supreme Court emphasized the right to a clean environment and directed the central government to take measures to control noise pollution caused by firecrackers, including the implementation of noise standards for firecrackers and restrictions on their use in residential areas.**
+- **In the case of M.C. Mehta vs Union of India (2001),:** the Supreme Court emphasized the right to a clean environment and directed the central government to take measures to control noise pollution caused by firecrackers, including the implementation of noise standards for firecrackers and restrictions on their use in residential areas.
 - **In the case of Arjun Gopal vs Union of India (2017),:** the Supreme Court imposed a temporary ban on the sale of firecrackers in the Delhi-NCR region to address the severe air pollution caused by the burning of crackers during Diwali. The court also directed the Central Pollution Control Board (CPCB) to study the impact of firecrackers on air quality and submit a report.
 - **In 2018, the Supreme Court issued guidelines on the use of firecrackers during Diwali,:** which included restrictions on the sale and manufacture of non-green crackers, fixed time slots for bursting crackers, and the designation of specific areas for community celebrations. The court also encouraged the use of environmentally-friendly crackers, which cause less air and noise pollution. **These judgments highlight the Apex Court’s efforts to balance the right to a clean environment with the cultural practices associated with Diwali.** Legal regulations on burning crackers aim to minimize the adverse effects on air quality and public health while respecting the cultural significance of the festival.
 
@@ -2746,7 +2746,7 @@ Source Question: What do you understand by the concept “freedom of speech and 
 **However, like all rights, freedom of speech is not absolute.**
 - **It is subject to certain restrictions in the interest of the sovereignty and integrity of India, the security of the State, friendly relations with foreign States, public order, decency, morality, or in relation to contempt of court, defamation, or incitement to an offence.:** These restrictions are outlined in Article 19(2) of the Constitution.
 - **In the context of hate speech, it’s important to note that the Indian legal framework does not explicitly define “hate speech.”:** However, it has been addressed in various sections of the **Indian Penal Code (IPC), such as Sections 153A, 153B, 295A, and 505.
-- **These provisions criminalize any speech, words, signs, or visible representation that can incite hatred or cause harm based on religion, race, place of birth, residence, language, caste, or community.:** Therefore, while freedom of speech is a fundamental right, hate speech, as generally understood, is not protected under it due to its potential to disrupt public order and incite violence. **
+- **These provisions criminalize any speech, words, signs, or visible representation that can incite hatred or cause harm based on religion, race, place of birth, residence, language, caste, or community.:** Therefore, while freedom of speech is a fundamental right, hate speech, as generally understood, is not protected under it due to its potential to disrupt public order and incite violence.
 
 Turning to the issue of films, they indeed occupy a unique space within the sphere of free speech in India.
 - **Despite being a form of artistic expression, films are subject to pre-censorship in India:** under the Cinematograph Act of 1952, which established the Central Board of Film Certification (CBFC).
@@ -3298,7 +3298,7 @@ Article 124 **of the Constitution establishes the Supreme Court of India and pro
 ### Body
 
 **Evolution of Collegium System in India**
-- **Constitutional Provision (1950):** Articles 124 and 217 empowered the President to appoint Supreme Court and High Court judges in “consultation” with the CJI and other judges, giving the **executive primacy** in appointments. **
+- **Constitutional Provision (1950):** Articles 124 and 217 empowered the President to appoint Supreme Court and High Court judges in “consultation” with the CJI and other judges, giving the **executive primacy** in appointments.
 - **First Judges Case (1981):** In *S.P. Gupta v. Union of India (1981)*, the Court held that consultation did not mean concurrence, thus reaffirming the **executive’s dominance** in judicial appointments.
 - **Second Judges Case (1993):** In Supreme Court Advocates-on-Record Association v. Union of India, the Court reversed its earlier stance, creating the **collegium system** where the CJI, with two senior-most judges, held primacy in appointments.
 - **Third Judges Case (1998):** Through a Presidential Reference, the collegium was expanded to **five members** the CJI and four senior-most judges making its recommendations **binding** on the executive.
@@ -3468,8 +3468,8 @@ Both India and the US encounter challenges in managing the interplay between rel
 1. Explanation_PWOnlyIAS:
 Source Question: Discuss India as a secular state and compare it with the secular principles of the US constitution.
 
-| **Core Demand of the Question:** ● Discuss India as a secular state ● Discuss similarities between Indian secularism and the secular principles of the US constitution ● Discuss differences between Indian secularism and the secular principles of the US constitution |
-| --- | **
+| **Core Demand of the Question:** <br>• Discuss India as a secular state <br>• Discuss similarities between Indian secularism and the secular principles of the US constitution <br>• Discuss differences between Indian secularism and the secular principles of the US constitution |
+| --- |
 
 
 **Secularism** is fundamental to modern democratic governance, guaranteeing the **separation of religion from the state**. This principle promotes equal treatment of all religions, safeguards individual rights, and nurtures social harmony. In India, secularism is constitutionally enshrined, ensuring that no religion is favoured by the state, as seen in the **42nd Amendment (1976),** which officially added the term **‘secular.’**
@@ -3493,7 +3493,7 @@ Source Question: Discuss India as a secular state and compare it with the secula
 | **Separation of State and Religion** | India practises a **more flexible model** where the state sometimes sponsors religious festivals. | The US maintains a **strict separation of church and state**, preventing state-sponsored religious activities. |
 | **Religious Symbols in Public** | Religious symbols are **commonly seen** in public institutions and government offices. | **Restriction** on **religious symbols** in public and government establishments. |
 | **Religious Education** | Religious teachings can be **included** in private and minority institutions under specific circumstances. | The US **prohibits religious education** in public schools and ensures the secular nature of public education. |
-| **Political Influence** | Religion has a **strong influence** on politics and elections, with visible religious undertones in campaigns. | The US enforces a **more rigorous separation**, limiting the overt influence of religion on political campaigns. | **
+| **Political Influence** | Religion has a **strong influence** on politics and elections, with visible religious undertones in campaigns. | The US enforces a **more rigorous separation**, limiting the overt influence of religion on political campaigns. |
 
 **As** Sarva Dharma Bhava **emphasises,**“equal respect for all religions”** is key to maintaining harmony. India’s model of secularism seeks inclusivity, while the US focuses on strict separation. Together, these approaches highlight the diverse paths to achieving a balanced state-religion relationship.
 
@@ -5670,8 +5670,8 @@ Strengthening federalism needs better dialogue through the Inter-State Council, 
 1. Explanation_PWOnlyIAS:
 Source Question: What changes has the Union Government recently introduced in the domain of Centre-State relations? Suggest measures to be adopted to build the trust between the Centre and the States and for strengthening federalism.
 
-| **Core Demand of the Question:** ● Discuss recent changes introduced by the Union Government in the domain of Centre-State relations ● Discuss measures to build the trust between the Centre and the States and for strengthening federalism |
-| --- | **
+| **Core Demand of the Question:** <br>• Discuss recent changes introduced by the Union Government in the domain of Centre-State relations <br>• Discuss measures to build the trust between the Centre and the States and for strengthening federalism |
+| --- |
 
 **Answer** The **Centre-State relations** in India have undergone significant changes, in recent years, especially with the rise of debates around **cooperative federalism** and **fiscal devolution**. The **15th Finance Commission’s** recommendations on state allocations and the growing tension over issues like **GST compensation and farm laws** have brought attention to the need for reforms in this dynamic relationship.
 
@@ -7474,8 +7474,8 @@ While merging local bodies can improve efficiency, it risks diminishing local id
 1. Explanation_PWOnlyIAS:
 Source Question: Analyse the role of local bodies in providing good governance at local level and bring out the pros and cons of merging the rural local bodies with the urban local bodies.
 
-| **Core Demand of the Question:** ● Analyse role of local bodies in providing good governance at local level ● Discuss the pros of merging the rural local bodies with the urban local bodies ● Discuss the cons of merging the rural local bodies with the urban local bodies |
-| --- | **
+| **Core Demand of the Question:** <br>• Analyse role of local bodies in providing good governance at local level <br>• Discuss the pros of merging the rural local bodies with the urban local bodies <br>• Discuss the cons of merging the rural local bodies with the urban local bodies |
+| --- |
 
 
 * ***Local bodies form the backbone of:** decentralised governance **in India, empowered by the** 73rd **and** 74th Constitutional Amendments **, which introduced** Articles 243 **to** 243Z **. These amendments have transformed local bodies into key drivers of development and governance. Recently, in 2022, the Supreme Court emphasised the importance of strengthening local bodies by mandating timely elections in states like Maharashtra.**
@@ -9239,8 +9239,8 @@ While the cabinet system has changed power dynamics, parliamentary supremacy is 
 1. Explanation_PWOnlyIAS:
 Source Question: &#8220;The growth of the cabinet system has practically resulted in the marginalisation of parliamentary supremacy&#8221; Elucidate.
 
-| **Core Demand of the Question:** ● Discuss how growth of the cabinet system has practically resulted in the marginalisation of parliamentary supremacy ● Discuss how role of the Parliament remains significant |
-| --- | **
+| **Core Demand of the Question:** <br>• Discuss how growth of the cabinet system has practically resulted in the marginalisation of parliamentary supremacy <br>• Discuss how role of the Parliament remains significant |
+| --- |
 
 **Answer:** The growth of the **cabinet system** in India has significantly shifted power from Parliament to the temporary executive, often raising concerns about the **erosion of parliamentary supremacy**. Recent instances, such as the passing of key bills without extensive debate, reflect the growing dominance of the executive. For example, the **2020 Farm Laws** were passed without thorough parliamentary scrutiny, raising questions about the weakening of Parliament’s role.
 
@@ -14218,7 +14218,7 @@ Source Question: Explain and distinguish between Lok Adalats and Arbitration Tri
 Source Question: Explain and distinguish between Lok Adalats and Arbitration Tribunals. Whether they entertain civil as well as criminal cases?
 
 | **Core Demand of Question** ● Distinguish between Lok Adalats and Arbitration Tribunals ● Discuss whether they entertain civil as well as criminal cases |
-| --- | **
+| --- |
 
 **Answer:** Both **Lok Adalats and Arbitration Tribunals** are alternative dispute resolution **(ADR)** mechanisms aimed at **resolving disputes outside of the traditional court system**. However, they differ significantly in their nature, formation, and procedures. **Lok Adalats** are designed to provide quick, cost-effective solutions to disputes, especially for underprivileged citizens. On the other hand, **Arbitration Tribunals** focus majorly on **commercial** and **contractual disputes.**
 
@@ -14842,8 +14842,8 @@ Though PILs have expanded the ambit of judicial review and have contributed in m
 1. Explanation_PWOnlyIAS:
 Source Question: Explain the reasons for the growth of public interest litigation in India. As a result of it, has the Indian Supreme Court emerged as the world&#8217;s most powerful judiciary?
 
-| **Core Demand of the Question:** ● Explain reasons for the growth of public interest litigation in India ● Discuss the emergence of Supreme Court of India as the world’s most powerful judiciary as a result of PILs ● Suggest suitable way ahead |
-| --- | **
+| **Core Demand of the Question:** <br>• Explain reasons for the growth of public interest litigation in India <br>• Discuss the emergence of Supreme Court of India as the world’s most powerful judiciary as a result of PILs <br>• Suggest suitable way ahead |
+| --- |
 
 **Answer** Public Interest Litigation ( **PIL** ) has fundamentally reshaped the judicial system in India by empowering courts to champion the **rights of marginalised communities**. Rooted in **Articles 32** and **226** of the Indian Constitution, PIL enables individuals or groups to file petitions in the High Courts and Supreme Court on behalf of those whose rights are under threat, expanding judicial reach.
 
@@ -17350,8 +17350,8 @@ While “ONOE” offers several benefits, its implementation would require const
 1. Explanation_PWOnlyIAS:
 Source Question: Examine the need for electoral reforms as suggested by various committees with particular reference to &#8220;one nation-one election principle.
 
-| **Core Demand of the Question:** ● Examine the need for electoral reforms as suggested by various committees ● Discuss issues with one nation-one election principle ● Suggest suitable way ahead |
-| --- | **
+| **Core Demand of the Question:** <br>• Examine the need for electoral reforms as suggested by various committees <br>• Discuss issues with one nation-one election principle <br>• Suggest suitable way ahead |
+| --- |
 
 **Answer:** Electoral reforms are crucial for improving the democratic integrity and efficiency of India’s electoral process. The “ **One Nation, One Election** ” concept, recently endorsed by the **Ram Nath Kovind Committee,** advocates **simultaneous elections** for the Lok Sabha and state assemblies. This reform aims to reduce election-related expenditure, streamline governance, and foster political stability by synchronising electoral cycles across the country.
 
@@ -18703,8 +18703,8 @@ The CAG improves transparency, accountability, and efficiency in managing public
 1. Explanation_PWOnlyIAS:
 Source Question: &#8220;The duty of the Comptroller and Auditor General is not merely to ensure the legality of expenditure but also its propriety.&#8221; Comment.
 
-| **Core Demand of the Question:** ● Discuss role of CAG in ensuring legality of expenditure ● Discuss role of CAG in ensuring propriety of expenditure |
-| --- | **
+| **Core Demand of the Question:** <br>• Discuss role of CAG in ensuring legality of expenditure <br>• Discuss role of CAG in ensuring propriety of expenditure |
+| --- |
 
 
 **The Comptroller and Auditor General (CAG)** of India’s mandate, under **Article 148** of the Constitution extends beyond merely ensuring the legality of government expenditure to also examining its propriety. It suggests that the CAG also has the responsibility of ensuring that public money is spent not just legally ( **Legality of Expenditure** ) but appropriately, prudently, and for the intended purpose ( **Propriety of Expenditure** ).
@@ -19825,7 +19825,7 @@ Source Question: Exercise of CAG’s powers in relation to the accounts of the U
 
 <p align="center"><img src="pwonlyias/images/pw_polity_q264_img1.webp" alt="CAG Reports" /></p>
 
-- **To discuss this, it is essential to understand the nature of the CAG’s audits:** **
+- **To discuss this, it is essential to understand the nature of the CAG’s audits:**
 
 **Financial Audit:** The CAG audits the accounts and financial statements of the government to ensure accuracy, legality, and compliance with established financial rules and regulations.**
 - **Compliance Audit:** The CAG examines whether the government’s activities, operations, and procurement processes comply with the relevant laws, regulations, and policies.
@@ -23140,7 +23140,7 @@ India’s **73rd and 74th Constitutional Amendments** created a three‑tier loc
 - **Centralized Planning Ignores Local Realities:** Policies designed far from the ground often mismatch local needs.
   - **Eg:** The Crop Insurance Scheme (PMFBY) faced criticism as uniform guidelines ignored crop and climatic variations, leaving farmers in rain-fed regions underinsured.
 - **Rigid Guidelines Restrict Flexibility:** Execution agencies have little discretion to adapt programs.
-  - **Eg:** PM-KISAN:** transfers are uniform, but farmers in drought-prone Marathwada need irrigation support rather than just income transfers.
+  - **Eg:** ***PM-KISAN***: transfers are uniform, but farmers in drought-prone Marathwada need irrigation support rather than just income transfers.
 - **Exclusion of Grassroots Participation:** Community involvement is often tokenistic, reducing ownership.
 - **Implementation Gap due to Distance:** Bureaucrats or consultants lack first-hand understanding of ground conditions.
   - **Eg:** In the Swachh **Bharat Mission**, toilets were built rapidly, but usage remained low due to cultural practices not being addressed.
@@ -23148,13 +23148,13 @@ India’s **73rd and 74th Constitutional Amendments** created a three‑tier loc
 
 **Counter-Arguments**
 - **National Integration Needed:** Centralised vision ensures uniformity in core sectors like health and defence.
-  - **Eg:** GST:** framework ensures common taxation across states
+  - **Eg:** ***GST***: framework ensures common taxation across states
 - **Resource Mobilisation:** Higher tiers of government can allocate funds where local units lack capacity.
 - **Technological Interventions:** Digital platforms bridge centre-local gaps, improving coordination.
 - **Cooperative Federalism:** Large coordination is required for some projects which are designed around cross-state and national integration.
-  - **Eg:** Green Energy Corridors:** planned centrally for interstate power flows.
+  - **Eg:** ***Green Energy Corridors***: planned centrally for interstate power flows.
 - **Rights Protection:** Central intervention is often essential to safeguard weaker sections, as local governance may be biased or dominated by elites.
-  - **Eg:** Forest Rights Act (2006):** recognized tribal land claims, preventing displacement by local power structures and ensuring inclusive development.
+  - **Eg:** ***Forest Rights Act (2006)***: recognized tribal land claims, preventing displacement by local power structures and ensuring inclusive development.
 
 **Balanced Way Forward**
 - **Context-Specific Decentralisation:** Delegate routine decision-making to local bodies, while retaining national oversight in critical sectors.
@@ -24162,11 +24162,11 @@ Civil Society Organizations (CSOs) as **Non-state actors** are groups **outside 
 **CSOs perceived as Anti-State Actors**
 - **Policy Criticism:** CSOs’ opposition to state actions on land, environment, or rights often makes them appear obstructive to development.
 - **Foreign Funding Concerns:** Allegations of undue external influence through foreign funding under laws like the FCRA create suspicion about their intentions and loyalty.
-  - **Eg:** Amnesty International India:** faced restrictions under FCRA over
+  - **Eg:** ***Amnesty International India***: faced restrictions under FCRA over
 
 **alleged foreign funding violations.**
 - **Confrontational Tactics:** Protests, Public Interest Litigations (PILs), and campaigns that directly challenge government decisions can make them appear adversarial.
-  - **Eg:**
+  - **Eg:** 
 
 **Anti-nuclear protests at Kudankulam, Tamil Nadu,** were seen as stalling a national energy project.
 
@@ -24175,11 +24175,11 @@ Civil Society Organizations (CSOs) as **Non-state actors** are groups **outside 
 
 **The above segment isn’t always true: CSO acting as Non state actors:**
 - **Awareness & Advocacy:** CSOs spread awareness of rights and schemes, empowering citizens to demand accountability and deepen democracy.
-  - **Eg:** Mazdoor Kisan Shakti Sangathan (MKSS):** campaigned for the Right to Information (RTI).
+  - **Eg:** ***Mazdoor Kisan Shakti Sangathan (MKSS)***: campaigned for the Right to Information (RTI).
 - **Policy Support:** They provide research inputs, expert analysis, and grassroots feedback, acting as knowledge partners for governments in policy formulation and implementation.
 - **Service Delivery:** CSOs provide vital services like health, education, and welfare in underserved areas, especially for vulnerable groups.
 - **Inclusive Development:** CSOs voice the concerns of marginalised groups like women, tribals, and minorities in policy and development agendas.
-  - **Eg:** SEWA:** provides microfinance and livelihood support to self-employed women.
+  - **Eg:** ***SEWA***: provides microfinance and livelihood support to self-employed women.
 - **Crisis Relief:** They can mobilise quickly during emergencies like natural disasters or pandemics (e.g., COVID-19), providing relief, rehabilitation, and community support.
   - **Eg:** During COVID-19, organisations like **Akshaya Patra and Goonj** distributed food and essential supplies to migrants and urban poor.
 
@@ -26068,8 +26068,8 @@ Limited funding, bureaucratic hurdles, and reliance on donors can hinder charita
 1. Explanation_PWOnlyIAS:
 Source Question: Public charitable trusts have the potential to make India&#8217;s development more inclusive as they relate to certain vital public issues. Comment.
 
-| **Core Demand of the Question** ● Discuss role of public charitable trusts in making India’s development more inclusive ● Examine various issues faced by public charitable trusts |
-| --- | **
+| **Core Demand of the Question** <br>• Discuss role of public charitable trusts in making India’s development more inclusive <br>• Examine various issues faced by public charitable trusts |
+| --- |
 
 
 **Public charitable trusts** operate under legal frameworks such as the **Indian Trusts Act, 1882**, focusing on philanthropic initiatives aimed at **education**, **healthcare**, and **social justice**. These trusts (for example, **SEWA Trust**, **Tata Trusts** etc.) play a crucial role in addressing public welfare needs and promoting inclusive development across underserved communities in India. **
@@ -26497,7 +26497,7 @@ The Citizen's Charter has the potential to revolutionize governance by enhancing
 1. Explanation_PWOnlyIAS:
 Source Question: The Citizens&#8217; charter has been a landmark initiative in ensuring citizen-centric administration. But it is yet to reach its full potential. Identify the factors hindering the realisation of its promise and suggest measures to overcome them.
 
-| **Core Demand of the Question:** ● Discuss how Citizens’ charter has been a landmark initiative in ensuring citizen-centric administration ● Identify the factors hindering the realisation of its full potential ● Suggest measures to overcome them |
+| **Core Demand of the Question:** <br>• Discuss how Citizens’ charter has been a landmark initiative in ensuring citizen-centric administration <br>• Identify the factors hindering the realisation of its full potential <br>• Suggest measures to overcome them |
 | --- |
 
 **The** Citizen’s Charter **is a** formal document **that delineates the** services **and** standards **an organisation pledges to provide to its citizens. Introduced to improve accountability and service quality in public administration, it represents a significant advancement in** citizen-centric governance **by promoting transparency, timeliness, and efficiency in public services.**
@@ -26508,7 +26508,7 @@ Source Question: The Citizens&#8217; charter has been a landmark initiative in e
 - **Accessibility:** The Charter emphasises that services should be easily accessible to all citizens, particularly vulnerable groups, ensuring **inclusivity** in public administration. **For example:** The **Income Tax Department’s** introduction of **online services** makes filing returns and tracking refunds accessible to everyone, enhancing user convenience.
 - **Promptness and Timeliness:** Timely delivery of services is a key commitment, aiming to meet user expectations and improve **operational efficiency** in government functions. **For example:** The **‘Tatkal’** booking system by **Indian Railways** addresses last-minute travel needs promptly, ensuring customer satisfaction.
 - **Redress of Grievances:** A clear mechanism for addressing complaints is essential to ensure **accountability** and **user trust** in public services. **For example: Consumer Courts** in **India** allow citizens to file complaints about deficiencies in public services, promoting a culture of accountability.
-- **Feedback Mechanism:** Encouraging citizen feedback is vital for **continuous improvement** of services, enabling adaptation to changing public needs effectively. **For example:** The **in** platform allows citizens to provide direct feedback on various government policies, influencing future enhancements. **
+- **Feedback Mechanism:** Encouraging citizen feedback is vital for **continuous improvement** of services, enabling adaptation to changing public needs effectively. **For example:** The **in** platform allows citizens to provide direct feedback on various government policies, influencing future enhancements.
 
 **Factors Hindering the Realisation of its Promise**
 - **Lack of Awareness:** Many citizens remain unaware of their rights and the standards of service promised by the Citizen’s Charter, hindering its effectiveness in promoting accountability. **For instance:** Despite the **Right to Information Act (2005),** many citizens struggle to utilise these tools to their advantage.
@@ -26524,7 +26524,7 @@ Source Question: The Citizens&#8217; charter has been a landmark initiative in e
 - **Incentives and Accountability:** Establishing incentives for departments meeting service standards, alongside penalties for failures, can drive **compliance** and improve service quality. **For instance:** The **performance-linked pay system** proposed in the **7th Central Pay Commission** could reward efficient public service delivery.
 - **Public Awareness Campaigns:** Conducting ongoing campaigns to educate citizens about their rights under the Citizen’s Charter can **empower** them to demand better services. **For example:** The Government of India’s **‘Jago Grahak Jago’ campaign** effectively raises awareness about consumer rights.
 - **Stakeholder Engagement:** Involving citizens in the drafting and periodic review of the Citizen’s Charter can make it more **responsive** to public needs and expectations. **For example:Participatory budgeting initiatives** in **Pune** invites citizen input in municipal governance, enhancing transparency.
-- **Quality Management Systems:** Implementing quality management systems can help improve service quality and **reliability** in public administration. **For example:** The **ISO 9001 certification** of the **Delhi Metro** has significantly enhanced its operational efficiency and service quality. **
+- **Quality Management Systems:** Implementing quality management systems can help improve service quality and **reliability** in public administration. **For example:** The **ISO 9001 certification** of the **Delhi Metro** has significantly enhanced its operational efficiency and service quality.
 
 **The Citizen’s Charter has brought significant advancements in public service delivery, however, addressing its current limitations and implementing robust revitalization measures is crucial. The aforesaid mentioned efforts can significantly enhance service efficacy, ensuring that the Charter evolves to meet the** dynamic needs **of the** Indian citizenry**.
 
@@ -27132,8 +27132,8 @@ The Public Examinations Act, 2024, strengthens the integrity of public exams in 
 1. Explanation_PWOnlyIAS:
 Source Question: What are the aims and objectives of recently passed and enforced, The Public Examination (Prevention of Unfair Means) Act, 2024. Whether University/State Education Board examinations, too, are covered under the Act?
 
-| **Core Demand of the Question** ● Discuss aims and objectives of recently passed and enforced, The Public Examination (Prevention of Unfair Means) Act, 2024 ● Discuss whether University/State Education Board examinations, too, are covered under the Act |
-| --- | **
+| **Core Demand of the Question** <br>• Discuss aims and objectives of recently passed and enforced, The Public Examination (Prevention of Unfair Means) Act, 2024 <br>• Discuss whether University/State Education Board examinations, too, are covered under the Act |
+| --- |
 
 **Answer** The **Public Examination (Prevention of Unfair Means) Act, 2024,** was introduced to uphold the integrity of public examinations amids rising instances of cheating, with recent reports indicating that India registered **at least 4 paper leak cases** in **2024** alone.
 
@@ -28238,7 +28238,7 @@ E‑governance in India has rapidly built **strong technology platforms** and **
 
 **Built in Biasness toward back end integration compare to user-centric designs:**
 - **Authentication over access:** Strict e-KYC/biometrics add steps that can eliminate vulnerable users when connectivity or biometrics fail.
-  - **Eg:** Aadhaar authentication failures:** led to welfare exclusion risks flagged in policy assessments.
+  - **Eg:** ***Aadhaar authentication failures***: led to welfare exclusion risks flagged in policy assessments.
 - **Uniform designs:** ; Centralized portals push **one-size-fits-all** interfaces that under-serve language, literacy, and disability needs.
 - **Security & Compliance Over User Experience:** Projects emphasise cybersecurity and compliance frameworks, sometimes making platforms cumbersome for citizens.
   - **Eg:** Multiple OTP verifications and login steps are used to ensure security but make access difficult for less tech-savvy users.
@@ -28423,7 +28423,7 @@ To tackle the challenges of the Interactive Service Model of e-governance, the g
 1. Explanation_PWOnlyIAS:
 Source Question: e-governance is not just about the routine application of digital technology in the service delivery process. It is as much about multifarious interactions for ensuring transparency and accountability. In this context evaluate the role of the &#8216;Interactive Service Model’ of e-governance.
 
-| **Core Demand of the Question:** ● Discuss role e-governance for ensuring transparency and accountability, beyond the routine application of digital technology in service delivery. ● Discuss the role of the ‘Interactive Service Model of e-governance’ ● Analyse issues associated with the ‘Interactive Service Model of e-governance’ ● Suggest suitable way ahead |
+| **Core Demand of the Question:** <br>• Discuss role e-governance for ensuring transparency and accountability, beyond the routine application of digital technology in service delivery. <br>• Discuss the role of the ‘Interactive Service Model of e-governance’ <br>• Analyse issues associated with the ‘Interactive Service Model of e-governance’ <br>• Suggest suitable way ahead |
 | --- |
 
 
@@ -29832,8 +29832,8 @@ Achieving a positive public perception of civil servants' integrity and commitme
 1. Explanation_PWOnlyIAS:
 Source Question: The Doctrine of Democratic Governance makes it necessary that the public perception of the integrity and commitment of civil servants becomes absolutely positive. Discuss.
 
-| **Core Demand of the Question:** ● Discuss why Doctrine of Democratic Governance requires positive public perception of civil servants ● Analyse challenges in ensuring positive perception of civil servants ● Suggest suitable way ahead |
-| --- | **
+| **Core Demand of the Question:** <br>• Discuss why Doctrine of Democratic Governance requires positive public perception of civil servants <br>• Analyse challenges in ensuring positive perception of civil servants <br>• Suggest suitable way ahead |
+| --- |
 
 
 **The Doctrine of Democratic governance** relies heavily on the **integrity** and **commitment** of civil servants. **Article 311** of the Indian Constitution ensures their protection, underscoring the significance of their role in upholding the trust and accountability necessary for effective administration.
@@ -33008,7 +33008,7 @@ Source Question: In a crucial domain like the public healthcare system the India
 | **Core Demand of Question** ● Discuss role played in by state in enhancing public healthcare system ● Analyse adverse impact of marketisation of public healthcare system ● Suggest measures address these adverse impact of marketisation |
 | --- |
 
-Recognizing **healthcare as an essential fundamental right for every citizen** is must for welfare of the society. The Indian Constitution, through **Directive Principles (Article 47)**, underscores the State’s responsibility in ensuring the health of its population. Recently, the Supreme Court reaffirmed this, emphasising **universal healthcare access** in light of the ongoing **COVID-19 pandemic**, highlighting the need for stronger public health systems. **
+Recognizing **healthcare as an essential fundamental right for every citizen** is must for welfare of the society. The Indian Constitution, through **Directive Principles (Article 47)**, underscores the State’s responsibility in ensuring the health of its population. Recently, the Supreme Court reaffirmed this, emphasising **universal healthcare access** in light of the ongoing **COVID-19 pandemic**, highlighting the need for stronger public health systems.
 
 **Adverse Impact of Marketisation of the Public Healthcare System**
 - **High Costs (Out of Pocket Expenditure):** A market-driven healthcare system raises treatment costs, making healthcare **unaffordable** and **inaccessible** to economically weaker sections, undermining the
@@ -34749,7 +34749,7 @@ Source Question: Despite the consistent experience of high growth, India still g
 
 **Several issues contribute to the elusiveness of balanced and inclusive development in India**
 
-- **Income inequality:** High levels of income inequality persist in India, with the top 10% of the population holding a disproportionate share of wealth. This unequal distribution of resources limits the ability of the poor to access basic services and opportunities for social and economic mobility.**
+- **Income inequality:** High levels of income inequality persist in India, with the top 10% of the population holding a disproportionate share of wealth. This unequal distribution of resources limits the ability of the poor to access basic services and opportunities for social and economic mobility.
 - **For example, the concentration of wealth is evident in the high-income neighborhoods of cities like Mumbai,:** where luxury residences coexist with sprawling slums, highlighting the stark income divide.
 - **Regional disparities:** Significant development gaps exist between different regions in India, with some states and districts lagging far behind in terms of human development indicators. These disparities exacerbate the challenges faced by disadvantaged regions, perpetuating cycles of poverty and underdevelopment.
 - **For instance, the literacy rate in Bihar is around 63%, while in Kerala, it is over 96%,:** illustrating the regional disparities in educational attainment.
@@ -36079,8 +36079,8 @@ Breaking the vicious cycle of poverty and malnutrition is essential for achievin
 1. Explanation_PWOnlyIAS:
 Source Question: Poverty and malnutrition create a vicious cycle, adversely affecting human capital formation. What steps can be taken to break the cycle?
 
-| **Core Demand of the Question** ● Analyse how poverty and malnutrition create a vicious cycle adversely affecting human capital formation ● Suggest steps can be taken to break the cycle |
-| --- | **
+| **Core Demand of the Question** <br>• Analyse how poverty and malnutrition create a vicious cycle adversely affecting human capital formation <br>• Suggest steps can be taken to break the cycle |
+| --- |
 
 
 **Poverty** and **malnutrition** are interconnected in a vicious cycle where lack of access to nutritious food results in undernourishment, reducing productivity, and perpetuating deprivation. India is ranked **111th out of 125 countries** in the **2023 Global Hunger Index**, reflecting significant nutritional deficiencies due to economic disparities. **
@@ -37834,13 +37834,13 @@ India and Africa share historic ties through trade, culture, and anti-colonial s
 - **Joint Innovation:** Collaborative digital R&D centers foster solutions relevant for both regions, promoting shared growth.
   - **Eg:** India-Africa C **entres for Excellence** in **ICT** encourage joint software development.
 - **Digital Financial Inclusion:** India’s UPI and digital payment expertise is being adapted in Africa to strengthen financial ecosystems.
-  - **Eg:** NPCI: **exploring partnerships with African** fintech platforms **for digital payments.**
+  - **Eg:** ***NPCI***: **exploring partnerships with African** fintech platforms **for digital payments.**
 - **Agritech and E-Health Solutions:** Shared work on digital agriculture platforms and telemedicine strengthens food security and healthcare.
 
 **India-Africa Digital Collaboration achieving Long-Term Institutional Partnerships**
 - **Sustainable ICT Infrastructure:** Investments in broadband, data centers, and satellite connectivity create durable digital foundations.
 - **Policy and Governance Cooperation:** India works with African governments to build e-governance frameworks and cyber security mechanisms.
-  - **Eg:** Joint workshops:** on digital governance under the Ministry of External Affairs (MEA) programmes.
+  - **Eg:** ***Joint workshops***: on digital governance under the Ministry of External Affairs (MEA) programmes.
 - **Institutionalized Forums:** Platforms like IAFS institutionalize digital dialogue, ensuring continuity beyond short-term projects.
 
 
@@ -37991,7 +37991,7 @@ Amid rising Chinese influence and anti-India sentiment, strengthening India-Mald
 1. Explanation_PWOnlyIAS:
 Source Question: Discuss the geopolitical and geostrategic importance of Maldives for India with a focus on global trade and energy flows. Further also discuss how this relationship affects India&#8217;s maritime security and regional stability amidst international competition?
 
-| **Core Demand of the Question** ● Discuss geopolitical and geostrategic importance of Maldives for India with a focus on global trade and energy flows ● Discuss how this relationship affects India’s maritime security and regional stability amidst international competition ● Suggest suitable way ahead |
+| **Core Demand of the Question** <br>• Discuss geopolitical and geostrategic importance of Maldives for India with a focus on global trade and energy flows <br>• Discuss how this relationship affects India’s maritime security and regional stability amidst international competition <br>• Suggest suitable way ahead |
 | --- |
 
 **The strategic location of the** Maldives **along** vital maritime routes **underscores its significance for India, particularly in securing global trade and energy flows. During current Indian** External Affairs Minister recent visit **, India and the Maldives signed an agreement on** Unified Payments Interface (UPI) **, strengthening financial ties and highlighting the growing importance of their** economic **and** strategic partnership **in the region.** Geopolitical and Geostrategic Importance of Maldives for India with a Focus on Global Trade and Energy Flows **
@@ -40255,15 +40255,15 @@ India should maintain **proactive diplomatic engagements** with Central Asian na
 1. Explanation_PWOnlyIAS:
 Source Question: Critically analyse India&#8217;s evolving diplomatic, economic and strategic relations with the Central Asian Republics (CARs) highlighting their increasing significance in regional and global geopolitics.
 
-| **Core Demand of the Question** ● Analyse India’s evolving diplomatic, economic and strategic relations with the Central Asian Republics (CARs) ● Discuss various challenges in India-CAR Relations |
-| --- | **
+| **Core Demand of the Question** <br>• Analyse India’s evolving diplomatic, economic and strategic relations with the Central Asian Republics (CARs) <br>• Discuss various challenges in India-CAR Relations |
+| --- |
 
 **Answer** India’s evolving relations with the **Central Asian Republics (CARs)** have gained prominence due to their strategic importance in regional security, energy resources, and connectivity projects. India, being a rising power, seeks to enhance its footprint in such regions. Like re-emerging views on **TAPI pipeline** and **INSTC** for regional integration. **India’s evolving diplomatic, economic and strategic relations with the Central Asian Republics (CARs)**
 
 **Diplomatic Relations**
 - **Strategic Partnerships:** To bolster defence cooperation, counter-terrorism efforts, and regional stability, aligning its interests with their security needs. **For example:** India’s **military base** in **Tajikistan** underscores its commitment to securing its regional interests, particularly concerning Afghanistan.
 - **Cultural Diplomacy:** Through soft diplomacy, India fosters long-term relations with CARs by promoting cultural exchange programs, educational initiatives, and people-to-people ties.
-- **Regional Cooperation:** India actively engages with CARs through multilateral forums like the **SCO**, focusing on regional security and cooperation, especially against terrorism and extremism. **For example:** India’s participation in **SCO-RATS** allows it to collaborate on anti-terrorism initiatives critical to securing Central Asia and **India’s security interests**. **
+- **Regional Cooperation:** India actively engages with CARs through multilateral forums like the **SCO**, focusing on regional security and cooperation, especially against terrorism and extremism. **For example:** India’s participation in **SCO-RATS** allows it to collaborate on anti-terrorism initiatives critical to securing Central Asia and **India’s security interests**.
 
 **Economic Relations**
 - **Energy Security:** CARs are vital to India’s energy security, providing opportunities to diversify natural gas, oil, and uranium sources. **For example:** India imports uranium from **Kazakhstan** and is exploring the **TAPI pipeline** for natural gas to reduce reliance on
@@ -40282,7 +40282,7 @@ Source Question: Critically analyse India&#8217;s evolving diplomatic, economic 
 - **Terrorism and Instability:** The instability in Afghanistan and the presence of terrorist groups in CARs create security risks, complicating India’s strategic engagement and its efforts to ensure regional peace and security. **For example:** Terrorist networks linked to **ISIS** and **Al-Qaeda** pose a threat to the stability of CARs and by extension, to India’s regional interests.
 - **Economic Barriers:** Despite efforts to increase trade, **non-tariff barriers** and **logistical challenges** hamper India’s economic relations with CARs. **For example:** Trade between India and CARs remains modest, while in 2023, **China’s trade** with Central Asian countries surged to **$89.4 billion**.
 - **Energy Competition:** India faces stiff competition from **China and Russia** for securing long-term access to CAR energy resources, which limits its influence in the energy sector and delays critical projects like the **TAPI pipeline**.
-- **Political Uncertainty:** The internal political instability makes it difficult for India to develop **long-term diplomatic strategies** and **partnerships**. **For example:** The political unrest in **Kazakhstan** in **2022** highlighted the fragility of these governments, complicating **India’s diplomatic engagement**.\ **
+- **Political Uncertainty:** The internal political instability makes it difficult for India to develop **long-term diplomatic strategies** and **partnerships**. **For example:** The political unrest in **Kazakhstan** in **2022** highlighted the fragility of these governments, complicating **India’s diplomatic engagement**.\
 
 **Way Ahead**
 - **Strategic Energy Partnerships:** India should accelerate negotiations for securing **long-term energy agreements** with CARs, especially to ensure energy security for its growing needs. **For example:** Faster completion of **TAPI pipeline** remains crucial for India’s gas supply diversification and energy independence.
@@ -42138,8 +42138,8 @@ Looking forward, India has the potential to emerge as a key player in global sup
 1. Explanation_PWOnlyIAS:
 Source Question: The West is fostering India as an alternative to reduce dependence on China&#8217;s supply chain and as a strategic ally to counter China&#8217;s political and economic dominance. Explain this statement with examples.
 
-| **Core Demand of the Question** ● Discuss how West is fostering India as an alternative to reduce dependence on China’s supply chain ● Discuss how West is fostering India as a strategic ally to counter China’s political and economic dominance |
-| --- | **
+| **Core Demand of the Question** <br>• Discuss how West is fostering India as an alternative to reduce dependence on China’s supply chain <br>• Discuss how West is fostering India as a strategic ally to counter China’s political and economic dominance |
+| --- |
 
 **Answer** In an ongoing polarisation around the world and amidst **rising geopolitical tensions**, the West is increasingly seeking to reduce its dependence on China’s **supply chain.** India is emerging as a key alternative, supported by its economic potential, strategic location, efficient human resource power and growing global influence. Recent initiatives such as the **Indo-Pacific Economic Framework (IPEF)** underscore this shift. **
 
@@ -44897,7 +44897,7 @@ While the CTC has advanced in countering terrorism, a proactive approach is vita
 1. Explanation_PWOnlyIAS:
 Source Question: &#8220;Terrorism has become a significant threat to global peace and security.&#8217; Evaluate the effectiveness of the United Nations Security Council&#8217;s Counter Terrorism Committee (CTC) and its associated bodies in addressing and mitigating this threat at the international level.
 
-| **Core Demand of the Question:** ● Discuss how terrorism has become a significant threat to global peace and security ● Discuss effectiveness of the UN Security Council’s Counter Terrorism Committee (CTC) and associated bodies in addressing and mitigating this threat ● Analyse the challenges faced in counter terrorism efforts ● Suggest suitable way ahead |
+| **Core Demand of the Question:** <br>• Discuss how terrorism has become a significant threat to global peace and security <br>• Discuss effectiveness of the UN Security Council’s Counter Terrorism Committee (CTC) and associated bodies in addressing and mitigating this threat <br>• Analyse the challenges faced in counter terrorism efforts <br>• Suggest suitable way ahead |
 | --- |
 
 
