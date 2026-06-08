@@ -30800,10 +30800,10 @@ Source Question: The political and administrative reorganization of states and t
 
 ### Body
 
-**The political and administrative reorganization of states and territories in India can be traced back to the mid-nineteenth century.*** T*he process of political and administrative reorganization in India can be broadly divided into three phases: **
+**The political and administrative reorganization of states and territories in India can be traced back to the mid-nineteenth century.** The process of political and administrative reorganization in India can be broadly divided into three phases:
 
-**The Colonial Period:
-- **The British colonial government initiated several administrative reforms, such as the:** introduction of the princely state system **and the creation of provinces and presidencies such as the** formation of the Bengal Presidency, Bombay Presidency, and Madras Presidency. **
+**The Colonial Period:**
+- The British colonial government initiated several administrative reforms, such as the introduction of the princely state system and the creation of provinces and presidencies such as the formation of the Bengal Presidency, Bombay Presidency, and Madras Presidency.
 
 **Post-Independence Period:**
 - **Post-Independence Reorganization (1950s):** After India gained independence in 1947, the process of reorganizing states and territories was initiated to address linguistic, cultural, and administrative concerns. For example: States Reorganization Act of 1956; formation of linguistic states like Andhra Pradesh, Kerala, and Karnataka.
