@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>UPSC Mains Master Solved Papers Dashboard</title>
+  <!-- Google Fonts: Outfit and Inter -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Outfit:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <!-- Marked.js for markdown rendering -->
+  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+  <!-- CSS Styling -->
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="app-container">
+    
+    <!-- Sidebar / Sidebar Navigation -->
+    <aside class="sidebar">
+      <div class="sidebar-header">
+        <div class="logo">
+          <span class="logo-icon">▲</span>
+          <span class="logo-text">UPSC Master</span>
+        </div>
+        <p class="sidebar-subtitle">Solved Papers Hub</p>
+      </div>
+      
+      <nav class="paper-selector">
+        <button class="paper-btn active" data-paper="1">
+          <span class="paper-num">GS 1</span>
+          <span class="paper-title">History & Geography</span>
+        </button>
+        <button class="paper-btn" data-paper="2">
+          <span class="paper-num">GS 2</span>
+          <span class="paper-title">Polity & Governance</span>
+        </button>
+        <button class="paper-btn" data-paper="3">
+          <span class="paper-num">GS 3</span>
+          <span class="paper-title">Economy & Security</span>
+        </button>
+      </nav>
+      
+      <div class="sidebar-footer">
+        <div class="stats-card">
+          <div class="stat-item">
+            <span class="stat-value" id="total-questions-count">0</span>
+            <span class="stat-label">Total Questions</span>
+          </div>
+          <div class="stat-item">
+            <span class="stat-value" id="answered-questions-count">0</span>
+            <span class="stat-label">Institutes Covered</span>
+          </div>
+        </div>
+        <a href="editor.html" class="editor-btn" style="text-align: center; display: block; text-decoration: none; padding: 10px; border-radius: 8px; border: 1px dashed var(--border-color); color: var(--text-secondary); margin-bottom: 12px; font-family: var(--font-header); font-weight: 600; font-size: 13px; transition: all 0.2s; background: none;">
+          ⚙️ Open Editor Mode
+        </a>
+        <p class="copy-text">Offline Local Dashboard</p>
+      </div>
+    </aside>
+
+    <!-- Main Content Area -->
+    <main class="main-content">
+      
+      <!-- Top Bar -->
+      <header class="top-bar">
+        <div class="title-section">
+          <h1 id="active-paper-header">General Studies I (GS-I)</h1>
+          <p class="subtitle" id="active-paper-desc">Master solved compilation containing 275 syllabus-mapped questions.</p>
+        </div>
+        <div class="theme-toggle">
+          <!-- Premium aesthetic status indicator -->
+          <span class="pulse-indicator"></span>
+          <span class="status-label">Database Loaded</span>
+        </div>
+      </header>
+
+      <!-- Filter Dashboard -->
+      <section class="filter-panel">
+        <div class="search-wrapper">
+          <span class="search-icon">🔍</span>
+          <input type="text" id="search-input" placeholder="Search questions by keywords, year, or syllabus topic...">
+          <button id="clear-search" class="clear-btn" style="display: none;">✕</button>
+        </div>
+        
+        <div class="filters-row">
+          <!-- Coaching Source Selector -->
+          <div class="filter-group" style="min-width: 200px;">
+            <label for="coaching-select">Primary Coaching Source</label>
+            <div style="position: relative; display: block; width: 100%;">
+              <select id="coaching-select" style="width: 100%; background: var(--bg-secondary); border: 1px solid var(--border-color); border-radius: 8px; padding: 8px 12px; font-family: var(--font-body); font-size: 13px; color: var(--text-main); cursor: pointer; outline: none; appearance: none;">
+                <!-- Will be populated dynamically by JS -->
+              </select>
+              <span style="position: absolute; right: 12px; top: 50%; transform: translateY(-50%); pointer-events: none; font-size: 10px; color: var(--text-muted);">▼</span>
+            </div>
+          </div>
+
+          <!-- Year filter -->
+          <div class="filter-group">
+            <label>Filter by Year</label>
+            <div class="chips-container" id="year-chips">
+              <button class="chip active" data-year="all">All Years</button>
+              <!-- JS will inject years -->
+            </div>
+          </div>
+          
+          <!-- Subject filter -->
+          <div class="filter-group">
+            <label>Filter by Subject</label>
+            <div class="chips-container" id="subject-chips">
+              <button class="chip active" data-subject="all">All Subjects</button>
+              <!-- JS will inject subjects -->
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- Active Stats Overview -->
+      <section class="overview-stats" id="subject-stats-bar">
+        <!-- JS will inject dynamic subject counters -->
+      </section>
+
+      <!-- Questions Container -->
+      <section class="questions-list-wrapper">
+        <div class="list-meta">
+          <span class="results-count" id="results-count-text">Showing 275 questions</span>
+          <div class="sort-selector">
+            <label for="sort-select">Sort by:</label>
+            <select id="sort-select">
+              <option value="id-asc" selected>Question Number (Q1 - Q275)</option>
+              <option value="year-desc">Year (Newest First)</option>
+              <option value="year-asc">Year (Oldest First)</option>
+            </select>
+          </div>
+        </div>
+        
+        <!-- Feed of expandable cards -->
+        <div class="questions-feed" id="questions-feed">
+          <!-- JS will render cards here -->
+          <div class="loading-state">
+            <span class="spinner"></span>
+            <p>Loading questions database...</p>
+          </div>
+        </div>
+      </section>
+
+    </main>
+
+  </div>
+
+  <!-- Load Global JS Data Files -->
+  <script src="data/gs1_data.js"></script>
+  <script src="data/gs2_data.js"></script>
+  <script src="data/gs3_data.js"></script>
+  <!-- Load Main Logic App -->
+  <script src="app.js"></script>
+</body>
+</html>

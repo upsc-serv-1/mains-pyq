@@ -1,0 +1,270 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>UPSC solved papers - Offline Editor Dashboard</title>
+  <!-- Google Fonts: Outfit and Inter -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Outfit:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <!-- Marked.js for markdown rendering in editor -->
+  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+  <!-- CSS Styling -->
+  <link rel="stylesheet" href="styles.css">
+  <style>
+    /* Custom styles specifically for the side-by-side editor layout */
+    .editor-grid {
+      display: flex;
+      flex-direction: column;
+      gap: 24px;
+      margin-top: 24px;
+    }
+    
+    /* Override q-card header cursor to be default instead of pointer since it is static */
+    .editor-grid .q-card-header {
+      cursor: default !important;
+    }
+    
+    /* Split Pane Layout */
+    .editor-split-container {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 20px;
+      align-items: stretch;
+    }
+    
+    .editor-pane {
+      display: flex;
+      flex-direction: column;
+      gap: 8px;
+    }
+    
+    .pane-label {
+      font-family: var(--font-header);
+      font-weight: 700;
+      font-size: 11px;
+      text-transform: uppercase;
+      color: var(--text-muted);
+      letter-spacing: 0.5px;
+    }
+    
+    /* Styling for the editor textarea */
+    .editor-textarea {
+      width: 100%;
+      min-height: 350px;
+      background-color: var(--bg-primary);
+      border: 1px solid var(--border-color);
+      border-radius: 12px;
+      padding: 16px;
+      font-family: var(--font-body);
+      font-size: 14px;
+      line-height: 1.6;
+      color: var(--text-main);
+      resize: vertical;
+      transition: all 0.3s;
+    }
+    
+    .editor-textarea:focus {
+      border-color: var(--accent-purple);
+      outline: none;
+      box-shadow: 0 0 0 3px rgba(124, 58, 237, 0.1);
+    }
+    
+    /* Preview pane styled EXACTLY like the website's .answer-viewport */
+    .editor-preview-viewport {
+      background-color: var(--bg-secondary) !important; /* White background like website */
+      border: 1px solid var(--border-color);
+      border-radius: 12px;
+      padding: 24px !important; /* 24px padding like website */
+      box-shadow: var(--shadow-sm);
+      min-height: 350px;
+      max-height: 500px;
+      overflow-y: auto;
+    }
+    
+    /* Action Bar inside the Card */
+    .editor-actions-bar {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      border-top: 1px solid var(--border-color);
+      padding-top: 16px;
+      margin-top: 16px;
+    }
+    
+    .save-btn {
+      background-color: var(--color-success);
+      color: white;
+      border: none;
+      border-radius: 8px;
+      padding: 8px 16px;
+      font-family: var(--font-header);
+      font-weight: 600;
+      font-size: 13px;
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      gap: 6px;
+      transition: opacity 0.2s;
+    }
+    
+    .save-btn:hover {
+      opacity: 0.9;
+    }
+    
+    .save-btn:disabled {
+      background-color: var(--text-muted);
+      cursor: not-allowed;
+    }
+    
+    /* Save status pill badge on the card header */
+    .save-status-badge {
+      font-family: var(--font-header);
+      font-size: 11px;
+      font-weight: 700;
+      padding: 4px 10px;
+      border-radius: 6px;
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+      flex-shrink: 0;
+    }
+    
+    .save-status-badge.clean {
+      background-color: var(--color-success-bg);
+      color: var(--color-success);
+      border: 1px solid var(--color-success-border);
+    }
+    
+    .save-status-badge.unsaved {
+      background-color: rgba(217, 119, 6, 0.05);
+      color: #D97706; /* Amber */
+      border: 1px solid rgba(217, 119, 6, 0.15);
+    }
+    
+    .save-status-badge.saving {
+      background-color: rgba(124, 58, 237, 0.05);
+      color: var(--accent-purple);
+      border: 1px solid rgba(124, 58, 237, 0.15);
+    }
+    
+    .save-status-badge.success {
+      background-color: rgba(5, 150, 105, 0.15);
+      color: var(--color-success);
+      border: 1px solid var(--color-success-border);
+    }
+    
+    .save-status-badge.error {
+      background-color: var(--color-error-bg);
+      color: var(--color-error);
+      border: 1px solid var(--color-error-border);
+    }
+    
+    /* Selector Layout */
+    .select-row {
+      display: flex;
+      gap: 16px;
+      margin-bottom: 24px;
+    }
+    
+    .select-group {
+      display: flex;
+      flex-direction: column;
+      gap: 8px;
+      flex: 1;
+    }
+    
+    .select-group label {
+      font-family: var(--font-header);
+      font-weight: 600;
+      font-size: 13px;
+      color: var(--text-secondary);
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+    }
+    
+    .editor-select {
+      background-color: var(--bg-secondary);
+      border: 1px solid var(--border-color);
+      border-radius: 12px;
+      padding: 12px;
+      font-family: var(--font-body);
+      font-size: 14px;
+      color: var(--text-main);
+      cursor: pointer;
+    }
+    
+    .editor-select:focus {
+      border-color: var(--accent-purple);
+      outline: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="app-container">
+    
+    <!-- Main Content Area -->
+    <main class="main-content" style="padding: 30px;">
+      
+      <!-- Top Bar -->
+      <header class="top-bar" style="align-items: center; justify-content: space-between; border-bottom: 1px solid var(--border-color); padding-bottom: 20px; margin-bottom: 24px;">
+        <div class="title-section" style="display: flex; flex-direction: column; gap: 6px;">
+          <div style="display: flex; align-items: center; gap: 16px;">
+            <a href="index.html" style="text-decoration: none; padding: 10px 18px; background: var(--accent-gradient); color: white; border-radius: 8px; font-family: var(--font-header); font-weight: 700; font-size: 13px; display: inline-flex; align-items: center; gap: 6px; box-shadow: 0 4px 10px rgba(79, 70, 229, 0.2); transition: opacity 0.2s;">
+              ← Back to Viewer
+            </a>
+            <h1 style="font-size: 24px; margin: 0;">Offline Answer Checker & Editor</h1>
+          </div>
+          <p class="subtitle" style="margin-left: 2px;">Select coaching and subject to view all answers fully expanded, edit them in markdown, and save them directly back to your local files.</p>
+        </div>
+        <div style="display: flex; align-items: center; gap: 12px;">
+          <span style="font-size: 11px; text-transform: uppercase; letter-spacing: 1.5px; color: var(--text-muted); font-weight: 700;">Editor Mode</span>
+          <div class="theme-toggle">
+            <span class="pulse-indicator"></span>
+            <span class="status-label">Editor Server Active</span>
+          </div>
+        </div>
+      </header>
+
+      <!-- Selection Section -->
+      <section class="filter-panel">
+        <div class="select-row">
+          <div class="select-group">
+            <label for="coaching-select">Coaching Institute</label>
+            <select id="coaching-select" class="editor-select">
+              <option value="" disabled selected>Select Coaching...</option>
+            </select>
+          </div>
+          <div class="select-group">
+            <label for="subject-select">GS Paper</label>
+            <select id="subject-select" class="editor-select">
+              <option value="" disabled selected>Select GS Paper...</option>
+            </select>
+          </div>
+        </div>
+      </section>
+
+      <!-- Results Indicator -->
+      <div class="list-meta">
+        <span class="results-count" id="editor-results-count">Choose selections above to load questions.</span>
+      </div>
+      
+      <!-- Questions Editor Grid -->
+      <section class="editor-grid" id="editor-grid">
+        <div class="loading-state" style="display: none;" id="editor-loading">
+          <span class="spinner"></span>
+          <p>Loading subject file from disk...</p>
+        </div>
+      </section>
+
+    </main>
+
+  </div>
+
+  <!-- Load Global JS Data Files -->
+  <script src="data/gs1_data.js"></script>
+  <script src="data/gs2_data.js"></script>
+  <script src="data/gs3_data.js"></script>
+  <script src="editor.js"></script>
+</body>
+</html>

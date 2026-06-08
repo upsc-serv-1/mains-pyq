@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+*.bak
+*.bak2
+*.bak_compaction_prev
+
+# Exclude large PDF files that exceed GitHub's 100MB limit
+solved paper/DECODE ETHICS SOLVED PREVIOUS YEAR QUESTIONS.pdf
+syllabus hierarchy/essay/ESSAY TOPPER COPIES.pdf
