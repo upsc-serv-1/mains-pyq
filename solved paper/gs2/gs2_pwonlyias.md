@@ -2037,7 +2037,7 @@ To maximize the Parliament’s ability to hold the executive accountable, it is 
 
 ### Body
 
-**Cooperation:
+**Cooperation:**
 - The Indian federal system is designed to facilitate cooperation between the center and the states.
 - **The Goods and Services Tax (GST) is a prime example of cooperative federalism,:** where both the center and the states have pooled their powers to create a unified tax system.
 - **Another example is the NITI Aayog,:** which replaced the Planning Commission, fostering collaborative planning and policy-making between the center and the states. **Competition:
@@ -3887,7 +3887,7 @@ The ideal cabinet size balances representation and efficiency. This was evident 
   - **Critics argue that the role of the Governor often leans in favor of the Centre, undermining the federal structure.**
 - **Financial Relations:**
 
-**The Centre has greater control over financial resources compared to the States (Articles 268-293).
+**The Centre has greater control over financial resources compared to the States (Articles 268-293).**
 - A large portion of the revenue sources fall under the Union List.
   - While the Constitution provides for grants and distribution of revenue between the Centre and States, the bargaining power is often tilted towards the Centre.
 
@@ -4825,7 +4825,7 @@ To maximize the benefits of the DBT scheme, it is essential to address these lim
 
 ### Introduction
 
-**The Gati-Shakti Yojana, also known as the National Master Plan for Multi-modal Connectivity, is an ambitious initiative by the Indian government aimed at enhancing infrastructure development and providing seamless connectivity across various modes of transportation. The plan envisions a holistic approach to infrastructure development by integrating road, rail, air, and water transport networks, which is crucial for the nation’s economic growth and regional development.
+**The Gati-Shakti Yojana, also known as the National Master Plan for Multi-modal Connectivity, is an ambitious initiative by the Indian government aimed at enhancing infrastructure development and providing seamless connectivity across various modes of transportation. The plan envisions a holistic approach to infrastructure development by integrating road, rail, air, and water transport networks, which is crucial for the nation’s economic growth and regional development.**
 
 <p align="center"><img src="images/pw_governance_q682_img1.webp" alt="gati shakti " /></p>
 
@@ -5458,7 +5458,7 @@ These measures demonstrate the government’s commitment to improving education,
 
 ### Body
 
-**Liberalization:
+**Liberalization:**
 - The government has undertaken measures to liberalize the economy by deregulating various sectors, simplifying tax structures, and easing licensing requirements.
 - The introduction of the Goods and Services Tax (GST) in 2017 was a major tax reform that aimed to create a unified tax system and improve ease of doing business.
 - However, there is still scope for further liberalization, especially in areas such as labor laws, land acquisition, and agricultural reforms.
@@ -5754,7 +5754,7 @@ The Satyam Scandal was a turning point in India’s corporate governance history
 
 **India’s government combats Khap Panchayat issues through laws, enforcement, and judicial rulings.**
 
-**Legislative:
+**Legislative:**
 - The Parliament has enacted laws that protect individual rights and prohibit honor killings, such as the Indian Penal Code (IPC), the Protection of Women from Domestic Violence Act (2005), and the Scheduled Castes and Scheduled Tribes (Prevention of Atrocities) Act (1989).
 
 **However, these laws have not been able to effectively curb the powers of Khap Panchayats, as their influence remains deeply rooted in local customs and traditions.** Executive **
@@ -5835,7 +5835,7 @@ The SBLP, through its focus on microcredit and SHGs, has not only enabled financ
 
 ### Body
 
-**Arguments in Favour:
+**Arguments in Favour:**
 - **Resistance to Change:** The hierarchical structure and the generalist nature of the cadre-based civil services often lead to a resistance to change. This can slow down the process of implementing new ideas and innovations.
 - **Lack of Accountability:** The cadre-based civil services often lack stringent accountability mechanisms. This can lead to inefficiencies and delays in decision-making and implementation of policies.
 - **Red Tapism:** The bureaucratic procedures associated with cadre-based civil services can sometimes result in excessive red-tapism, leading to delays and inefficiencies in the system.
@@ -5885,7 +5885,7 @@ Self Help Groups (SHGs), formed on the premise of collective effort and shared r
 **Examples of several SHGs in India have faced these challenges head-on.**
 - **SHGs in Rural Uttar Pradesh:**
 
-**In many villages in Uttar Pradesh, women’s SHGs initially faced resistance due to societal norms that restrict women’s role to household chores.
+**In many villages in Uttar Pradesh, women’s SHGs initially faced resistance due to societal norms that restrict women’s role to household chores.**
 - However, through community sensitization programs and the tireless efforts of the women, these groups have managed to break through these barriers and are now effectively contributing to women’s empowerment and rural development.
 
 - **SHGs in Rural Tamil Nadu:** 
@@ -5924,7 +5924,7 @@ Addressing these socio-cultural hurdles is crucial for increasing the penetratio
 
 **However, this move could have diverse implications for various stakeholders including consumers, the Indian Railways, and private container operators.**
 
-**Consumers:
+**Consumers:**
 - The formation of the RTA could be a mixed bag for consumers.
 - From a consumer perspective, the RTA could protect against arbitrary fare increases, similar to the role Electricity Regulatory Commissions play in the power sector.
 - **However, if the RTA follows the recommendation of the Pitroda Committee:** to ensure fares reflect the actual cost of services, there could be a potential fare hike, which could affect consumers accustomed to subsidized rates. **Indian Railways:
@@ -6002,13 +6002,13 @@ A nuanced policy approach, accompanied by robust regulatory mechanisms, is neces
 
 ### Body
 
-**Aadhaar Card:
+**Aadhaar Card:**
 - Aadhaar is a 12-digit unique identity number issued by the Unique Identification Authority of India (UIDAI).
 - It is voluntary in nature, and any Indian resident can apply for an Aadhaar card. Aadhaar’s primary purpose is to serve as a proof of identity and not of citizenship.
 - It has been instrumental in promoting financial inclusion and ensuring that benefits of various government welfare schemes reach the intended beneficiaries.
 - **For instance, the Direct Benefit Transfer (DBT) scheme uses Aadhaar to transfer subsidies directly to the people’s bank accounts, eliminating intermediaries and reducing corruption.:**
 
-**National Population Register (NPR):
+**National Population Register (NPR):**
 - The NPR, on the other hand, is a register of usual residents of the country. It is mandatory and is prepared at the local, sub-district, district, state, and national level.
 - The NPR collects both demographic and biometric data, and its primary purpose is to aid in the framing of policies and planning for the future. **Concurrent Implementation and Merits:** The concurrent implementation of both the Aadhaar Card and the NPR has raised several questions.
 
@@ -6083,7 +6083,7 @@ To effectively resolve the problem of immorality in public affairs, a comprehens
 
 ### Introduction
 
-**India’s public welfare system has historically been plagued by corruption, inefficiencies, and leakages. To address these issues, the government has introduced an electronic cash transfer system, known as Direct Benefit Transfer (DBT), for welfare schemes. This approach aims to transfer subsidies directly to the people through their bank accounts, thus minimizing intermediaries, reducing corruption, eliminating wastage, and facilitating reforms.
+**India’s public welfare system has historically been plagued by corruption, inefficiencies, and leakages. To address these issues, the government has introduced an electronic cash transfer system, known as Direct Benefit Transfer (DBT), for welfare schemes. This approach aims to transfer subsidies directly to the people through their bank accounts, thus minimizing intermediaries, reducing corruption, eliminating wastage, and facilitating reforms.**
 
 **Body:**
 - **Minimizing Corruption:** Electronic cash transfers can significantly reduce corruption by bypassing intermediaries who might siphon off funds.
@@ -6833,7 +6833,7 @@ By ensuring equitable access to health services, promoting preventive care, impr
 
 **Civil Society Organizations (CSOs) and Non-Governmental Organizations (NGOs) play a pivotal role in India’s socio-economic landscape. They supplement and complement government efforts across various sectors, bridging gaps in public service delivery with innovative, grassroots-based solutions.** As per a 2019 report by the Ministry of Statistics and Programme Implementation, India houses approximately 3.2 million NGOs, outnumbering schools and health centers, underlining their significant role. **
 
-**<p align="center"><img src="images/pw_social_justice_q572_img1.webp" alt="image 2023 12 29T160545.886" /></p>
+**<p align="center"><img src="images/pw_social_justice_q572_img1.webp" alt="image 2023 12 29T160545.886" /></p>**
 
 
 
@@ -7123,7 +7123,7 @@ The success of the National Education Policy 2020 in transforming India’s educ
 
 ### Introduction
 
-**The United Nations Multidimensional Poverty Index (MPI) goes beyond income-based measures of poverty to assess various aspects of well-being and deprivation. The MPI evaluates three key dimensions – health, education, and standard of living – through ten indicators.
+**The United Nations Multidimensional Poverty Index (MPI) goes beyond income-based measures of poverty to assess various aspects of well-being and deprivation. The MPI evaluates three key dimensions – health, education, and standard of living – through ten indicators.**
 
 <p align="center"><img src="images/pw_social_justice_q539_img1.webp" alt="image 2023 12 29T161524.618" /></p>
 
@@ -7962,7 +7962,7 @@ While there are certainly potential benefits to granting more autonomy to premie
 - **The National Health Mission (NHM), which includes the National Rural Health Mission (NRHM) and the National Urban Health Mission (NUHM),:** has been instrumental in improving maternal health. Under this, **the Janani Suraksha Yojana (JSY)** incentivized institutional deliveries, thereby reducing maternal mortality rates.
 - **India made considerable progress here as well, with the Maternal Mortality Ratio (MMR) falling from 437 per 100,000 live births in 1990-91 to 113 in 2016-18. However, it fell short of the MDG target of 109.:**
 
-**MDG 6: Combat HIV/AIDS, Malaria, and Other Diseases:
+**MDG 6: Combat HIV/AIDS, Malaria, and Other Diseases:**
 - **The:** National AIDS Control Programme (NACP) **was launched to prevent and control HIV/AIDS in India. Similarly,** the National Vector Borne Disease Control Programme (NVBDCP) **was set up to combat diseases like malaria and dengue.**
 - India has been successful in halting and reversing the incidence of malaria, with a significant decline in the number of cases reported annually. **The incidence of HIV also decreased by 57% from 2000 to 2011.**
 

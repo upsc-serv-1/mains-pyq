@@ -2446,7 +2446,7 @@ Source Question: How does India see its place in the economic space of rising na
 
 **Economic space of rising natural resource-rich Africa:**
 
-**Strategic partnership:
+**Strategic partnership:**
 - India views Africa as a strategic partner and has been engaging with the continent on multiple fronts, including economic, political, and social.
 
 **India has been providing technical and financial assistance to African countries, with a focus on infrastructure development, capacity building, and human resource development.** Natural resources **
@@ -6635,7 +6635,7 @@ Source Question: Why is the Indian Regional Navigational Satellite System [IRNSS
 
 ### Body
 
-**Need of the IRNSS:
+**Need of the IRNSS:**
 - **To provide India with its:** own independent navigation system** that is not dependent on foreign systems like GPS.
 - To provide accurate and reliable navigation services for **civilian and military** applications in India and the surrounding regions.
 - To provide more **precise location** and timing information for various applications, including transportation, agriculture, disaster management, and national security.
@@ -30605,7 +30605,7 @@ The slogan “ **Jai Jawan Jai Kisan”** **(meaning “Hail the Soldier, Hail t
 
 
 ### Body
-**Evolution of the slogan:
+**Evolution of the slogan:**
 - The slogan “Jai Jawan Jai Kisan” emerged in the mid-1960s when India faced challenges like a war with Pakistan and a food crisis.
 - Prime Minister Shastri introduced the slogan to unite the nation and address the urgent need for stronger defense and improved agriculture, highlighting the crucial roles of soldiers and farmers in ensuring national security and food security.
 

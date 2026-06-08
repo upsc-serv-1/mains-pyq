@@ -2859,7 +2859,7 @@ Although India did not follow the traditional path for growth in the manufacturi
 
 ### Body
 
-**This capital formation needs investment. Investment can come either through domestic deposits or through foreign funding. In the case of India, it is mainly the transfer of savings from households to the business sector that leads to increased output and economic expansion.
+**This capital formation needs investment. Investment can come either through domestic deposits or through foreign funding. In the case of India, it is mainly the transfer of savings from households to the business sector that leads to increased output and economic expansion.**
 
 In India, savings have contributed a lot in the economic development since the Indian economy took off in the 1960s and 70s. **In the past few decades, it has been around 33% of GDP.**
 
@@ -5265,7 +5265,7 @@ To safeguard its rich marine biodiversity and the health and livelihood of its c
 
 ### Conclusion
 
-**Conclude your answer with key steps towards Global warming Mitigation and Sustainability. |
+**Conclude your answer with key steps towards Global warming Mitigation and Sustainability.** |
 | --- |
 
 ### Introduction
@@ -5435,7 +5435,7 @@ To achieve the revised air quality standards recommended by WHO, India’s Natio
 
 ### Conclusion
 
-**Conclude your answer with a futuristic approach. |
+**Conclude your answer with a futuristic approach.** |
 | --- |
 
 ### Introduction
@@ -5488,7 +5488,7 @@ India made commitments at COP26, including achieving net-zero emissions by 2070,
 
 ### Introduction
 
-**The Green Grid or One Sun One World One Grid (OSOWOG) initiative, jointly announced by India and the UK at COP-26 in Glasgow, aims to accelerate the development of interconnected electricity grids globally. It seeks to enhance energy access for disadvantaged communities through mini-grids and off-grid solutions.
+**The Green Grid or One Sun One World One Grid (OSOWOG) initiative, jointly announced by India and the UK at COP-26 in Glasgow, aims to accelerate the development of interconnected electricity grids globally. It seeks to enhance energy access for disadvantaged communities through mini-grids and off-grid solutions.**
 
 The concept of a unified global solar grid was initially proposed by the Prime Minister of India at the International Solar Alliance in 2018, emphasizing the importance of sustainable energy solutions on a global scale.
 
@@ -5848,7 +5848,7 @@ The concept of river linking was once a distant dream, but it has now become a r
 
 ### Conclusion
 
-**River linking is a complex issue that requires careful consideration of its advantages and potential impacts on the environment. While it offers benefits like reducing water scarcity and enhancing irrigation, it can also have significant ecological consequences such as habitat destruction and alteration of aquatic ecosystems. The implementation of river linking should be done in a manner that takes into account both the benefits and environmental impacts, to achieve a sustainable outcome.
+**River linking is a complex issue that requires careful consideration of its advantages and potential impacts on the environment. While it offers benefits like reducing water scarcity and enhancing irrigation, it can also have significant ecological consequences such as habitat destruction and alteration of aquatic ecosystems. The implementation of river linking should be done in a manner that takes into account both the benefits and environmental impacts, to achieve a sustainable outcome.**
 
 [Question ID: 2017-gs3-q127-pwonlyias]
 
@@ -5866,7 +5866,7 @@ The concept of river linking was once a distant dream, but it has now become a r
 
 ### Introduction
 
-**The rehabilitation of human settlements is a crucial aspect to consider during the planning of major developmental projects. Such projects often lead to displacement of communities, causing environmental and social impacts. It is important to implement measures to mitigate these impacts and ensure the sustainable development of the affected areas.
+**The rehabilitation of human settlements is a crucial aspect to consider during the planning of major developmental projects. Such projects often lead to displacement of communities, causing environmental and social impacts. It is important to implement measures to mitigate these impacts and ensure the sustainable development of the affected areas.**
 
 **Body:**
 - **Conducting a thorough social impact assessment:** Before any major project, a comprehensive social impact assessment should be conducted to identify the potential impacts of the project on human settlements. This will help in identifying the potential risks and benefits of the project and finding ways to mitigate the negative impacts on communities. **Example** The construction of the Narmada Dam, a comprehensive social impact assessment was conducted to identify the potential impacts of the project on local communities.
@@ -5944,7 +5944,7 @@ To preserve the river Ganga, a quantum leap is required, which involves a multi-
 
 ### Introduction
 
-**Environmental Impact Assessment (EIA) studies have become a crucial part of the project clearance process, ensuring that the environmental impact of any proposed project is thoroughly evaluated. In the coal-fired thermal plants located at coal pitheads, the impact on the environment is significant, and the EIA studies play a critical role in identifying and mitigating these impacts.
+**Environmental Impact Assessment (EIA) studies have become a crucial part of the project clearance process, ensuring that the environmental impact of any proposed project is thoroughly evaluated. In the coal-fired thermal plants located at coal pitheads, the impact on the environment is significant, and the EIA studies play a critical role in identifying and mitigating these impacts.**
 
 **Body:**
 - **Air Pollution:** Coal-fired thermal plants are one of the primary sources of air pollution in India. These plants emit large amounts of carbon dioxide, sulfur dioxide, and nitrogen oxides into the air, contributing to smog, acid rain, and respiratory illnesses.
@@ -6783,7 +6783,7 @@ Biotechnology has broad applications, from healthcare to agriculture, and holds 
 
 ### Introduction
 
-**The COVID-19 pandemic has had an unparalleled global impact. However, technology has emerged as a crucial ally in managing the crisis, facilitating everything from tracking the virus’s spread to delivering healthcare services remotely. India, along with other nations, has harnessed this potential to counter the pandemic’s challenges.
+**The COVID-19 pandemic has had an unparalleled global impact. However, technology has emerged as a crucial ally in managing the crisis, facilitating everything from tracking the virus’s spread to delivering healthcare services remotely. India, along with other nations, has harnessed this potential to counter the pandemic’s challenges.**
 
 <p align="center"><img src="images/pw_science__technology_q489_img1.webp" alt="Technology aid" /></p>
 
@@ -7005,7 +7005,7 @@ The Indian Government, through these strategic initiatives, displays a strong co
 **Ways in which biotechnology help to improve the living standards of farmers:**
 - **Genetically Modified (GM) Crops:**
 
-**GM crops like Bt cotton have already demonstrated substantial yield improvement.
+**GM crops like Bt cotton have already demonstrated substantial yield improvement.**
 - By inserting the Bacillus thuringiensis (Bt) gene into cotton, the plants gained resistance against bollworms, a common pest.
   - As a result, Bt cotton farmers have seen increased yields and reduced pesticide usage, improving their income and environmental sustainability.
 
@@ -7595,7 +7595,7 @@ Overuse and free availability of antibiotics without a prescription are major co
 - In India, the Copyright Act 1957 governs copyright protection.
 - **For instance, the music industry in India often uses copyrights to prevent unauthorized use or reproduction of original compositions.:**
 
-**Patents:
+**Patents:**
 - Patents protect inventions or innovative processes that are useful, non-obvious, and new.
 - A patent grants the inventor an exclusive right to commercially exploit the invention for a certain period, generally 20 years.
 - **The Patents Act 1970 governs patent laws in India.**
@@ -8609,7 +8609,7 @@ The nexus between terrorism and organized crime presents serious security threat
 
 ### Conclusion
 
-**Conclude by reinforcing that tackling Naxalism requires a well-rounded approach that addresses both the symptoms and the root causes. |
+**Conclude by reinforcing that tackling Naxalism requires a well-rounded approach that addresses both the symptoms and the root causes.** |
 | --- |
 
 ### Introduction
@@ -9167,7 +9167,7 @@ An amalgamation of proactive intelligence, developmental initiatives, cultural s
 
 ### Conclusion
 
-**Addressing left-wing extremism in Eastern India necessitates a comprehensive and balanced approach. Inclusive development, effective security operations, improved governance, and strategic negotiations can significantly mitigate this challenge, creating a more peaceful and progressive Eastern India.
+**Addressing left-wing extremism in Eastern India necessitates a comprehensive and balanced approach. Inclusive development, effective security operations, improved governance, and strategic negotiations can significantly mitigate this challenge, creating a more peaceful and progressive Eastern India.**
 
 [Question ID: 2020-gs3-q195-pwonlyias]
 
@@ -9740,7 +9740,7 @@ The debate around AFSPA underscores the delicate balance between national securi
 
 ### Conclusion
 
-**The threat from ISIS, amplified by digital media, necessitates a comprehensive approach that combines effective intelligence and law enforcement with preventive measures such as countering radical ideologies, promoting social harmony, and addressing grievances that fuel radicalization. The ultimate goal must be to preserve and strengthen the pluralistic and inclusive fabric of our society.
+**The threat from ISIS, amplified by digital media, necessitates a comprehensive approach that combines effective intelligence and law enforcement with preventive measures such as countering radical ideologies, promoting social harmony, and addressing grievances that fuel radicalization. The ultimate goal must be to preserve and strengthen the pluralistic and inclusive fabric of our society.**
 
 [Question ID: 2015-gs3-q209-pwonlyias]
 
@@ -10446,7 +10446,7 @@ While dams remain indispensable to India’s developmental goals, safety cannot 
 
 ### Body
 
-**Mechanism of Cloudbursts:
+**Mechanism of Cloudbursts:**
 - Cloudbursts in the Indian subcontinent are primarily caused by convective clouds, such as cumulonimbus clouds.
 - These clouds form when warm and moist air rises rapidly, leading to the condensation of water vapor and the subsequent formation of clouds.
 - The convective process is fueled by factors such as solar heating, moisture availability, and atmospheric instability.
