@@ -352,8 +352,8 @@ The **Indian Constitution** under **Article 368** empowers Parliament to amend p
 **Amending power conferred by Constitution on legislative Institution**
 - **Article 368(1):** Parliament has the power to amend the Constitution by addition, variation, or repeal of provisions (Constitution of India).
 - **Three Types of Amendments:** Simple majority (Money Bill),
- - Special majority (Article 368),
- - Special majority and ratification by half of state legislatures (for federal provisions).
+  - Special majority (Article 368),
+  - Special majority and ratification by half of state legislatures (for federal provisions).
 
 - **Wide Scope:** Parliament can amend most parts of the Constitution, including Fundamental Rights without hampering the basic structure of the Constitution (as upheld in Kesavananda Bharati v. State of Kerala, 1973).
 
@@ -1336,7 +1336,7 @@ While the President of India is elected through an indirect electoral process, e
 
 **Essential conditions for exercise of legislative powers by the Governor:**
 - **Ordinance-making power:** Under **Article 213 of the Constitution, the Governor has the power to promulgate ordinances when the State Legislature is not in session,** and immediate action is required.
- - However, such ordinances must be placed before the State Legislature when it reconvenes, and they cease to operate after six weeks from the date of reassembly unless approved by the Legislature.
+  - However, such ordinances must be placed before the State Legislature when it reconvenes, and they cease to operate after six weeks from the date of reassembly unless approved by the Legislature.
 
 - **Discretionary powers:** The Governor has discretionary powers in certain circumstances, such as when no party has a clear majority in the State Legislature, or when a constitutional crisis arises.
 - In such cases, the Governor can use their discretion to decide on the course of action, ensuring the stability and smooth functioning of the state government.
@@ -1418,17 +1418,17 @@ The Representation of the People Act, 1951, plays a vital role in upholding the 
 **Role of the Election Commission of India in the Evolution of the Model Code of Conduct:**<p align="center"><img src="images/pw_polity_q650_img1.webp" alt="Election Commission" /></p>**
 
 - **Formulation and Evolution:** The ECI formulated the MCC in 1960, based on a consensus among major political parties.
- - Since then, the ECI has periodically updated and revised the MCC to address new challenges and to incorporate feedback from various stakeholders.
+  - Since then, the ECI has periodically updated and revised the MCC to address new challenges and to incorporate feedback from various stakeholders.
 
 - **Implementation and Enforcement:** The ECI is responsible for implementing the MCC and ensuring its adherence by political parties, candidates, and government officials.
- - While the MCC is not legally enforceable, the ECI has the authority to take appropriate action against violators, including issuing warnings, reprimands, or even countermanding elections in extreme cases.
+  - While the MCC is not legally enforceable, the ECI has the authority to take appropriate action against violators, including issuing warnings, reprimands, or even countermanding elections in extreme cases.
 
 - **Awareness and Education:** The ECI plays a vital role in creating awareness about the MCC among political parties, candidates, and the general public.
- - This is achieved through various outreach programs, workshops, and seminars conducted across the country, as well as through media campaigns.
+  - This is achieved through various outreach programs, workshops, and seminars conducted across the country, as well as through media campaigns.
 
 - **Monitoring and Grievance Redressal:** The ECI sets up various monitoring mechanisms, such as general observers, expenditure observers, and flying squads, to ensure compliance with the MCC.
- - It also establishes a grievance redressal system to address complaints related to MCC violations.
- - This includes the establishment of a National Grievance Redressal System and a Central Control Room, as well as an online portal for lodging complaints.
+  - It also establishes a grievance redressal system to address complaints related to MCC violations.
+  - This includes the establishment of a National Grievance Redressal System and a Central Control Room, as well as an online portal for lodging complaints.
 
 - **Adaptation to Technological Advancements:** With the growing influence of technology in the electoral process, the ECI has adapted the MCC to address challenges arising from social media, electronic media, and digital platforms.
 - For instance, the ECI has issued guidelines for political parties and candidates on the use of social media for election campaigning, and it closely monitors online activities for potential MCC violations.
@@ -1581,15 +1581,15 @@ These cases demonstrate that the rights to freedom of movement and residence, wh
 
 - **C. Mehta v. Union of India (1997):**
 - **Taj Mahal Preservation Case:** In this case, the Supreme Court invoked the “ **Precautionary Principle” and “Polluter Pays Principle”** under the Indian Constitution.
- - The Court ordered the closure of industries operating near the Taj Mahal, which contributed to the monument’s degradation due to pollution.
- - This judgment emphasized the need for **sustainable development** and the protection of cultural heritage.
+  - The Court ordered the closure of industries operating near the Taj Mahal, which contributed to the monument’s degradation due to pollution.
+  - This judgment emphasized the need for **sustainable development** and the protection of cultural heritage.
 
 - **Vellore Citizens Welfare Forum v. Union of India (1996):** This case marked the Supreme Court’s recognition of the **“Precautionary Principle”** and the **“Polluter Pays Principle”** as essential components of Indian environmental law.
- - These principles now act as guidelines for authorities to take preventive measures and ensure the polluters bear the cost of pollution remediation.
+  - These principles now act as guidelines for authorities to take preventive measures and ensure the polluters bear the cost of pollution remediation.
 
 - **N. Godavarman Thirumulpad v. Union of India (1997):** Forest Conservation Case: In this landmark judgment, the Supreme Court expanded the **scope of Article 48A and 51A(g) of the Constitution,** which pertains to the protection of the environment and wildlife.
- - The Court emphasized that the state and citizens have a duty to preserve the environment and maintain ecological balance.
- - The case resulted in the creation of the **Central Empowered Committee (CEC) to monitor forest conservation issues in India.**
+  - The Court emphasized that the state and citizens have a duty to preserve the environment and maintain ecological balance.
+  - The case resulted in the creation of the **Central Empowered Committee (CEC) to monitor forest conservation issues in India.**
 
 
 ### Conclusion
@@ -1710,17 +1710,17 @@ These differences reflect the unique historical, social, and political contexts 
 
 **Listed below are the judicial decisions that will help in explaining the doctrine of ‘Constitutional Morality’:**
 - **Kesavananda Bharati v. State of Kerala (1973):** In this landmark judgment, the Supreme Court of India laid down the ‘basic structure doctrine,’ which holds that the Parliament cannot amend the basic structure of the Constitution.
- - The court recognized Constitutional Morality as an essential component of the basic structure, protecting the fundamental values and principles enshrined in the Constitution.
- - **The basic structure includes fundamental rights (Part III of the Constitution), directive principles of state policy (Part IV), and the principle of separation of powers etc.**
+  - The court recognized Constitutional Morality as an essential component of the basic structure, protecting the fundamental values and principles enshrined in the Constitution.
+  - **The basic structure includes fundamental rights (Part III of the Constitution), directive principles of state policy (Part IV), and the principle of separation of powers etc.**
 - **Naz Foundation v. Government of NCT of Delhi (2009):** The Delhi High Court decriminalized consensual homosexual acts between adults, invoking the principle of Constitutional Morality.
 - **The court held that criminalizing homosexuality violates the fundamental rights to equality (Article 14), freedom of expression (Article 19), and life and personal liberty (Article 21) enshrined in the Constitution.:** The court emphasized the need for Constitutional Morality to promote inclusiveness, plurality, and tolerance.
 
 - **Navtej Singh Johar v. Union of India (2018):** In this case, the Supreme Court of India struck down Section 377 of the Indian Penal Code, which criminalized consensual homosexual acts.
- - The court applied the doctrine of Constitutional Morality, emphasizing the need to protect the rights of LGBTQ+ individuals and to prevent discrimination based on sexual orientation.
+  - The court applied the doctrine of Constitutional Morality, emphasizing the need to protect the rights of LGBTQ+ individuals and to prevent discrimination based on sexual orientation.
 - **The court referred to Articles 14, 19, and 21 of the Constitution:** to emphasize the importance of Constitutional Morality in protecting individual rights.
 
 - **Government of NCT of Delhi v. Union of India (2018):** This case dealt with the distribution of powers between the Delhi government and the Union of India.
- - The Supreme Court highlighted the importance of Constitutional Morality in federalism, stating that both the central and state governments should abide by the constitutional values and principles to ensure harmony and good governance.
+  - The Supreme Court highlighted the importance of Constitutional Morality in federalism, stating that both the central and state governments should abide by the constitutional values and principles to ensure harmony and good governance.
 - **The court cited Articles 239AA and 239AB, which deal with the special provisions concerning Delhi’s governance,:** to illustrate the significance of Constitutional Morality in the federal structure.
 
 
@@ -1786,19 +1786,19 @@ Department-related Parliamentary Standing Committees (DRPSCs) are crucial instru
 
 **Body:**
 - **Functions of DRPSCs:** Examining demands for grants and scrutinizing expenditure of ministries.
- - Reviewing legislation and suggesting amendments.
- - Investigating specific policy matters or issues referred by the Parliament.
- - Ensuring accountability by holding the executive answerable for its actions.
+  - Reviewing legislation and suggesting amendments.
+  - Investigating specific policy matters or issues referred by the Parliament.
+  - Ensuring accountability by holding the executive answerable for its actions.
 
 - **Effectiveness of DRPSCs in keeping the administration on its toes:** By scrutinizing demands for grants and expenditures, DRPSCs contribute to financial accountability and ensure that public funds are utilized effectively and efficiently.
- - Their review of legislation and proposed amendments helps refine the law-making process and avoid hasty or ill-considered decisions.
- - Investigating policy matters enables DRPSCs to delve deeper into issues of national importance and provide recommendations for improving government policies.
- - Ensuring accountability is a key aspect of DRPSCs, as they provide a platform for the executive to explain and justify its actions.
+  - Their review of legislation and proposed amendments helps refine the law-making process and avoid hasty or ill-considered decisions.
+  - Investigating policy matters enables DRPSCs to delve deeper into issues of national importance and provide recommendations for improving government policies.
+  - Ensuring accountability is a key aspect of DRPSCs, as they provide a platform for the executive to explain and justify its actions.
 
 - **Challenges and limitations:** Limited time and resources often prevent DRPSCs from conducting comprehensive scrutiny and investigation of all matters under their purview.
- - Lack of domain expertise among members may sometimes affect the quality of their recommendations.
- - Partisan politics can occasionally overshadow the deliberations and decision-making process in the committees.
- - Recommendations made by DRPSCs are not binding on the government, which may choose to accept or reject them.
+  - Lack of domain expertise among members may sometimes affect the quality of their recommendations.
+  - Partisan politics can occasionally overshadow the deliberations and decision-making process in the committees.
+  - Recommendations made by DRPSCs are not binding on the government, which may choose to accept or reject them.
 
 - **Examples showcasing the working of DRPSCs:** The 31st report of the Standing Committee on Information Technology (2018-19) examined issues related to data security and privacy and made recommendations to the government for strengthening the data protection framework in India.
 - The Standing Committee on Finance’s report on the Insolvency and Bankruptcy Code (2016) suggested various amendments to the bill, many of which were incorporated in the final legislation.
@@ -1831,12 +1831,12 @@ India’s federal system features a bicameral legislature in certain states, wit
 - **Constitutional provisions for the establishment of Legislative Councils:**
 
 **Article 169** of the Indian Constitution empowers Parliament to create or abolish Legislative Councils in states if the Legislative Assembly of the concerned state passes a resolution by a majority of the total membership and not less than two-thirds of the members present and voting.
- - The composition and members of the Legislative Council are defined under **Article 171** of the Indian Constitution. A Legislative Council should not have more than one-third of the total number of members in the Legislative Assembly of the state, and not less than 40 members.
- - Members of the Legislative Council are elected through various methods, including indirect elections by the members of the Legislative Assembly, by electorates consisting of members of local authorities, by graduates of at least three years’ standing, by teachers with at least three years’ experience, and by the Governor through nomination.
+  - The composition and members of the Legislative Council are defined under **Article 171** of the Indian Constitution. A Legislative Council should not have more than one-third of the total number of members in the Legislative Assembly of the state, and not less than 40 members.
+  - Members of the Legislative Council are elected through various methods, including indirect elections by the members of the Legislative Assembly, by electorates consisting of members of local authorities, by graduates of at least three years’ standing, by teachers with at least three years’ experience, and by the Governor through nomination.
 
 - **Working of Legislative Councils:** Legislative Councils play a role in the legislative process by reviewing and scrutinizing bills passed by the Legislative Assembly.
- - However, the powers of the Legislative Council are limited in comparison to the Legislative Assembly. While the Council can recommend amendments or delay the passage of a bill, it cannot permanently block a bill. If a bill is rejected or not passed within a specific period, the Legislative Assembly may pass the bill again, and it would be deemed to have been passed by both Houses.
- - Legislative Councils cannot initiate or reject Money Bills. They can only recommend amendments, which the Legislative Assembly may choose to accept or reject.
+  - However, the powers of the Legislative Council are limited in comparison to the Legislative Assembly. While the Council can recommend amendments or delay the passage of a bill, it cannot permanently block a bill. If a bill is rejected or not passed within a specific period, the Legislative Assembly may pass the bill again, and it would be deemed to have been passed by both Houses.
+  - Legislative Councils cannot initiate or reject Money Bills. They can only recommend amendments, which the Legislative Assembly may choose to accept or reject.
 
 - **Current status and illustrations:** As of now, six states in India have bicameral legislatures with Legislative Councils: **Andhra Pradesh, Bihar, Karnataka, Maharashtra, Telangana, and Uttar Pradesh.
 - The recent example of Jammu and Kashmir can be cited, where the Legislative Council was abolished when the state was reorganized into a Union Territory in 2019.
@@ -3213,20 +3213,20 @@ The Preamble of the Indian Constitution serves as the guiding light for the nati
 ### Body
 
 - **Sovereign:** Sovereignty implies that India has the supreme power and authority to govern itself without any external interference.
- - In the present circumstances, India continues to maintain its sovereignty, despite challenges like border disputes with neighboring countries and participation in international treaties.
+  - In the present circumstances, India continues to maintain its sovereignty, despite challenges like border disputes with neighboring countries and participation in international treaties.
 - **For example, India’s robust response to the Doklam standoff with China in 2017 and the abrogation of Article 370 in 2019:** demonstrate its ability to assert its sovereignty.
 
 - **Socialist:** The term “Socialist” was added to the Preamble by the 42nd Amendment in 1976.
- - It reflects India’s commitment to social justice, reducing inequalities, and promoting the welfare of its citizens.
+  - It reflects India’s commitment to social justice, reducing inequalities, and promoting the welfare of its citizens.
 - **Several social welfare programs, such as the Mahatma Gandhi National Rural Employment Guarantee Act (MGNREGA), the Pradhan Mantri Jan Dhan Yojana, and the Ayushman Bharat health insurance scheme,:** exemplify India’s pursuit of socialism.
- - However, challenges such as income inequality, unemployment, and access to education and healthcare persist, indicating the need for continued efforts in this direction.
+  - However, challenges such as income inequality, unemployment, and access to education and healthcare persist, indicating the need for continued efforts in this direction.
 
 - **Secular:** Secularism in the Indian context means that the state maintains a neutral stance towards all religions and guarantees religious freedom to all its citizens.
 - **The landmark judgment of the Supreme Court in the Ayodhya case,:** which paved the way for the construction of a Ram temple while also providing land for a mosque, is an example of India’s secular commitment.
- - However, incidents of religious intolerance, communal violence, and polarized political discourse have raised concerns about secularism in India. Upholding secular principles remains crucial for ensuring religious harmony and safeguarding individual rights.
+  - However, incidents of religious intolerance, communal violence, and polarized political discourse have raised concerns about secularism in India. Upholding secular principles remains crucial for ensuring religious harmony and safeguarding individual rights.
 
 - **Democratic:** Democracy signifies a political system where the government is elected by the people, ensuring the principles of political equality and majority rule.
- - India, as the largest democracy globally, has witnessed regular elections, an independent judiciary, and a vibrant civil society. **For example, the recent state assembly elections in West Bengal and Kerala** demonstrate the robustness of the democratic process.
+  - India, as the largest democracy globally, has witnessed regular elections, an independent judiciary, and a vibrant civil society. **For example, the recent state assembly elections in West Bengal and Kerala** demonstrate the robustness of the democratic process.
 - However, concerns about the erosion of democratic values, media freedom, and the concentration of power have been raised, highlighting the need to strengthen democratic institutions.
 
 
@@ -3376,15 +3376,15 @@ As India’s democracy continues to evolve, it is crucial to address these chall
 
 **Some concrete examples of quasi-judicial bodies in India are:**
 - **Central Administrative Tribunal (CAT):** CAT is a specialized tribunal established under the Administrative Tribunals Act, 1985, to adjudicate disputes related to recruitment and service conditions of public servants.
- - It was created to provide speedy and effective redressal for grievances of government employees, thereby reducing the burden on traditional courts.
+  - It was created to provide speedy and effective redressal for grievances of government employees, thereby reducing the burden on traditional courts.
 
 - **National Green Tribunal (NGT):** Established under the National Green Tribunal Act, 2010, NGT is a specialized body that deals with environmental disputes involving the enforcement of legal rights related to the environment, pollution control, and conservation of natural resources.
- - The NGT is empowered to hear civil cases involving substantial questions related to the environment and impose penalties on violators.
+  - The NGT is empowered to hear civil cases involving substantial questions related to the environment and impose penalties on violators.
 
 <p align="center"><img src="images/pw_polity_q302_img1.webp" alt="quasi-judicial bodies" /></p>
 
 - **Competition Commission of India (CCI):** The CCI is a statutory body set up under the Competition Act, 2002, to prevent practices that have an adverse effect on competition, promote and sustain competition, protect consumer interests, and ensure freedom of trade.
- - The CCI has the authority to investigate anti-competitive practices, impose penalties, and issue orders to regulate market competition.
+  - The CCI has the authority to investigate anti-competitive practices, impose penalties, and issue orders to regulate market competition.
 
 - **Telecom Disputes Settlement and Appellate Tribunal (TDSAT):** Established under the Telecom Regulatory Authority of India (TRAI) Act, 1997, TDSAT is a specialized tribunal that adjudicates disputes and hears appeals related to the telecommunications sector.
 - It deals with cases involving telecom service providers, broadcasting companies, and cable operators, ensuring a focused mechanism for dispute resolution in this rapidly evolving industry.
@@ -3872,24 +3872,24 @@ The ideal cabinet size balances representation and efficiency. This was evident 
 **Features of the Indian Constitution that lean towards a strong Centre.**
 - **Division of Powers:** Under the Indian Constitution, powers are distributed between the Centre and the States through three lists: Union List, State List, and Concurrent List **(Article 246).
 - The Union List includes subjects of national importance (like defense, atomic energy, etc.), and the Centre has exclusive powers to make laws on these subjects.
- - The State List includes subjects of local or regional importance, and the States can make laws on these subjects.
- - The Concurrent List includes subjects where both the Centre and States can make laws.
- - **However, in case of a conflict between Central and State law on a subject in the Concurrent List, the Central law prevails (Article 254).**
+  - The State List includes subjects of local or regional importance, and the States can make laws on these subjects.
+  - The Concurrent List includes subjects where both the Centre and States can make laws.
+  - **However, in case of a conflict between Central and State law on a subject in the Concurrent List, the Central law prevails (Article 254).**
 - **Emergency Powers:** The Centre has been given extensive powers during an emergency **(Article 352, 356, 360).**
 - **During a national emergency, the Centre can make laws on any subject listed in the State List.:** During President’s rule in a state, the executive power shifts to the Centre, and the Parliament assumes the legislative powers of that state.
- - This provision has been criticized for its misuse, as seen in the imposition of President’s rule in states ruled by opposition parties.
+  - This provision has been criticized for its misuse, as seen in the imposition of President’s rule in states ruled by opposition parties.
 
 - **All-India Services:** 
 - **The Constitution provides for All-India Services like the IAS, IPS, etc. (Article 312).:** The members of these services are recruited and trained by the Centre but serve in the States.
- - This creates a sense of uniformity and allows the Centre to maintain a degree of control over the state administration.
+  - This creates a sense of uniformity and allows the Centre to maintain a degree of control over the state administration.
 
 - **Role of the Governor:** The Governor, appointed by the President (i.e., the Central government), has certain discretionary powers, including the power to reserve certain bills for the President’s consideration.
- - **Critics argue that the role of the Governor often leans in favor of the Centre, undermining the federal structure.**
+  - **Critics argue that the role of the Governor often leans in favor of the Centre, undermining the federal structure.**
 - **Financial Relations:**
 
 **The Centre has greater control over financial resources compared to the States (Articles 268-293).
 - A large portion of the revenue sources fall under the Union List.
- - While the Constitution provides for grants and distribution of revenue between the Centre and States, the bargaining power is often tilted towards the Centre.
+  - While the Constitution provides for grants and distribution of revenue between the Centre and States, the bargaining power is often tilted towards the Centre.
 
 - **Parliament’s Power over State Territories:** The Parliament can alter the boundaries of States or create a new State **without the concerned State’s consent (Article 3).**
 
@@ -3969,15 +3969,15 @@ To maintain democratic values and social harmony, a constant reassessment of the
 
 **However, the persistence of such disputes suggests potential inadequacies in both structural and process aspects.**
 - **Structural Inadequacies:** These are inherent limitations within the system which restrict its capacity to effectively address and resolve disputes.
- - One structural issue lies in the Constitution itself, which places water in the State list, leading to conflicts over water resources that cross state boundaries.
+  - One structural issue lies in the Constitution itself, which places water in the State list, leading to conflicts over water resources that cross state boundaries.
 - **For instance, the Cauvery water dispute between Karnataka and Tamil Nadu:** has been prolonged due to this structural issue, leading to social unrest and economic losses.
 
 - **Process Inadequacies:** These are issues related to the implementation and operation of the dispute resolution mechanisms.
- - The Inter-State Water Disputes Act, 1956, mandates the creation of a Tribunal for resolving disputes.
- - However, the process has been criticized for being slow and often failing to implement its own awards.
- - **For example, the Ravi-Beas Water Tribunal, established in 1986, is still pending resolution.**
+  - The Inter-State Water Disputes Act, 1956, mandates the creation of a Tribunal for resolving disputes.
+  - However, the process has been criticized for being slow and often failing to implement its own awards.
+  - **For example, the Ravi-Beas Water Tribunal, established in 1986, is still pending resolution.**
 - **Combined Effect of Structural and Process Inadequacies:** Often, the impact of these inadequacies is compounded, resulting in a failure to effectively resolve water disputes.
- - The protracted nature of many disputes, s **uch as the Krishna river water dispute involving Karnataka, Andhra Pradesh, and Maharashtra, is a testament to these combined inadequacies.**
+  - The protracted nature of many disputes, s **uch as the Krishna river water dispute involving Karnataka, Andhra Pradesh, and Maharashtra, is a testament to these combined inadequacies.**
 
 
 ### Conclusion
@@ -4111,10 +4111,10 @@ The Anti-Defection Law was introduced via the 52nd amendment to the Indian Const
 
 **However, the law also has certain unintended consequences:**
 - **Centralization of power:** In order to prevent disqualification under the law, MPs are required to adhere to the party line.
- - This prevents them from expressing independent views that may diverge from the party’s stand, even if those views may be in the interest of their constituents or the nation at large.
+  - This prevents them from expressing independent views that may diverge from the party’s stand, even if those views may be in the interest of their constituents or the nation at large.
 
 - **Stifling of intra-party democracy and debate:** The fear of disqualification under the anti-defection law discourages MPs from openly voicing dissenting opinions against party leadership or party’s stand on various policy issues.
- - This hampers healthy intra-party debates, leading to a monolithic view on policy matters that may not truly reflect the diversity of opinions within the party.
+  - This hampers healthy intra-party debates, leading to a monolithic view on policy matters that may not truly reflect the diversity of opinions within the party.
 
 - **Neglect of constituency issues:** MPs, fearful of the repercussions of the Anti-Defection Law, might prioritize party interests over the interests of their constituents.
 - This could lead to a neglect of local issues in parliamentary debates. **While the Anti-Defection Law has served its purpose of bringing stability to the political structure and preventing unethical political defections, its unintended consequences on parliamentary debates and the role of individual MPs cannot be overlooked.** There is a growing consensus that reform is needed in the functioning of the law to balance the need for political stability with the necessity for vibrant, constructive, and diverse debates in the Parliament. **For instance, the Dinesh Goswami Committee on electoral reforms suggested that disqualification should occur only in cases where there are clear defections, and not in cases where an MP/MLA simply votes against the party line.** In the current form of the law, there’s a line of thought that it undermines the very spirit of democracy, which is based on debates, discussions, and a healthy difference of opinion. **As a specific case, there is a 2018 vote of no confidence in the Lok Sabha. The Telugu Desam Party (TDP) issued a whip to its members to vote against the government.** However, one of the TDP’s MPs, Diwakar Reddy, defied the party’s order and abstained from voting. In this case, the anti-defection law served to stifle individual dissent and forced MPs to vote along party lines, suppressing what could have been a healthy debate on the floor of the house.
@@ -4957,7 +4957,7 @@ By adopting measures like enhancing financial devolution, promoting transparency
 - **According to a 2020 survey by the National Statistical Office (NSO), only 8.5% of Indian households with members aged between 5 and 24 had both a computer and an internet connection.:** This disparity in access to digital education tools widens the educational gap and hinders human capital development.
 
 - **Reduced access to government services and schemes:** Many government services and welfare schemes have increasingly become digitized, requiring individuals to have digital skills and ICT access to benefit from them.
- - Digital illiteracy and lack of ICT accessibility can prevent rural populations from availing these services, exacerbating inequality and hindering socio-economic development.
+  - Digital illiteracy and lack of ICT accessibility can prevent rural populations from availing these services, exacerbating inequality and hindering socio-economic development.
 - **For example, despite the push for digital banking and transactions under the Jan Dhan-Aadhaar-Mobile (JAM) trinity,:** many rural inhabitants struggle to avail these services due to digital illiteracy.
 
 - **Hindered economic opportunities:** In the digital age, a significant number of job opportunities require digital skills and ICT access. Digital illiteracy and lack of ICT infrastructure in rural areas can limit the availability of such opportunities, leading to higher unemployment rates and poverty.
@@ -5421,14 +5421,14 @@ These measures demonstrate the government’s commitment to improving education,
 - **For instance, Kerala’s response to the Nipah virus outbreak in 2018 and COVID-19 pandemic:** was lauded for its effectiveness, largely due to the active involvement of Local Self Governments (LSGs) and the public in controlling the spread of the virus.
 - **In Tamil Nadu, the implementation of the Public Health Act,:** which involved significant public participation, was key in building an effective health infrastructure. ***“Factors facilitating Citizen Participation and Strengthening Government Effectiveness: A Multi-Dimensional Approach”
 - **Decentralization and Local Governance:** The 73rd and 74th Constitutional Amendments, which introduced Panchayati Raj Institutions (PRIs) and Urban Local Bodies (ULBs), respectively, marked a significant step towards decentralization in India.
- - Participatory planning and budgeting at the local level enable citizens to have a say in the allocation of resources and prioritization of development projects.
+  - Participatory planning and budgeting at the local level enable citizens to have a say in the allocation of resources and prioritization of development projects.
 - **The establishment of ward committees and gram sabhas:** provides a platform for citizens to voice their concerns, discuss local issues, and hold their representatives accountable.
 
 - **Social Audit and Transparency:** Social audits empower citizens to monitor the implementation of government schemes, identify discrepancies, and demand corrective actions.
 - **The RTI Act enables citizens to access information related to government functioning,:** thereby enhancing transparency and reducing corruption.
 
 - **Civil Society Organizations and Citizen Engagement:** Civil society organizations raise awareness about government schemes and entitlements, helping people access their rights and benefits.
- - These organizations also act as watchdogs, ensuring that the government system remains accountable and responsive to citizens’ needs.
+  - These organizations also act as watchdogs, ensuring that the government system remains accountable and responsive to citizens’ needs.
 
 - **Use of Technology for Citizen Participation:** Online platforms and mobile applications, such as MyGov, facilitate citizen participation in policy-making, crowdsourcing ideas, and feedback on government programs.
 - **Technology-driven initiatives like Digital India and Aadhaar have streamlined service delivery and reduced leakages in welfare schemes,:** ensuring that benefits reach the intended beneficiaries.
@@ -5511,19 +5511,19 @@ The Indian government has made considerable progress in responding to the demand
 **Non-state actors in the Indian governance system can be broadly classified into three categories**
 - **Civil Society Organizations (NGOs):** Civil society organizations and NGOs have played a significant role in various aspects of governance in India. They have contributed to policy-making, implementation, and monitoring by:
 
- - Advocating for policy changes and raising awareness about social issues, such as environmental protection, human rights, and public health.
- - Supplementing government efforts by implementing programs in sectors like education, healthcare, and poverty alleviation.
- - Ensuring transparency and accountability in governance by monitoring public institutions and policies.
+  - Advocating for policy changes and raising awareness about social issues, such as environmental protection, human rights, and public health.
+  - Supplementing government efforts by implementing programs in sectors like education, healthcare, and poverty alleviation.
+  - Ensuring transparency and accountability in governance by monitoring public institutions and policies.
 
 - **For example, The Right to Information (RTI) movement led by civil society organizations like Mazdoor Kisan Shakti Sangathan (MKSS):** played a key role in the enactment of the Right to Information Act in 2005.
 - **Private Sector Entities:** The private sector has played a crucial role in India’s economic growth and development, contributing to employment generation, infrastructure development, and technological advancements.
- - Public-Private Partnerships (PPPs) have been instrumental in the implementation of various infrastructure projects, such as highways, airports, and metro rail systems.
- - Corporate Social Responsibility (CSR) initiatives have facilitated the private sector’s involvement in addressing social and environmental issues.
+  - Public-Private Partnerships (PPPs) have been instrumental in the implementation of various infrastructure projects, such as highways, airports, and metro rail systems.
+  - Corporate Social Responsibility (CSR) initiatives have facilitated the private sector’s involvement in addressing social and environmental issues.
 
 - **For instance, Tata Consultancy Services (TCS) has implemented various CSR initiatives:** in areas like education, health, and environment.
 - **Media Institutions:** The media plays a vital role in shaping public opinion, holding the government accountable, and ensuring transparency in the governance system.
- - Investigative journalism has exposed corruption and other governance failures, leading to policy changes and legal action against the perpetrators.
- - Media coverage of social issues, such as gender equality, child labor, and environmental degradation, has raised awareness and influenced public policy.
+  - Investigative journalism has exposed corruption and other governance failures, leading to policy changes and legal action against the perpetrators.
+  - Media coverage of social issues, such as gender equality, child labor, and environmental degradation, has raised awareness and influenced public policy.
 - **For example, The media’s coverage of the Nirbhaya case in 2012:** led to widespread public outrage and subsequent changes in laws related to sexual assault and gender-based violence.
 
 
@@ -5676,7 +5676,7 @@ It’s crucial to strike a balance between ensuring accountability and maintaini
 
 **However, in recent years, there have been instances that indicate a threat to the autonomy of these regulatory institutions.**
 - **The Reserve Bank of India (RBI):** RBI is India’s central bank and is responsible for maintaining monetary stability. However, there have been episodes of public disagreements between the government and the RBI.
- - **For instance, the abrupt demonetization in 2016 raised concerns about RBI’s autonomy.**
+  - **For instance, the abrupt demonetization in 2016 raised concerns about RBI’s autonomy.**
 - **Again, the dispute over the RBI’s capital reserves in 2018:** led to the resignation of its then Governor, Urjit Patel, underlining the concerns about the central bank’s independence.
 
 - **The Central Bureau of Investigation (CBI):** Known as the premier investigating agency of India, the CBI’s independence has been a subject of debate.
@@ -5795,7 +5795,7 @@ The Self-Help Group (SHG) Bank Linkage Programme (SBLP) is a unique initiative i
 **Body:**
 - **Financial Inclusion:** The SBLP has significantly contributed to financial inclusion in India by enabling millions of women from low-income groups to access formal banking services.
 - **For example, in the state of Kerala, the Kudumbashree project (which operates under the SBLP model):** has over 4 million women members, making it one of the largest women’s empowerment projects in the country.
- - These women have access to credit, savings, and insurance services through their respective SHGs.
+  - These women have access to credit, savings, and insurance services through their respective SHGs.
 
 - **Empowerment and Decision Making:** The program has empowered women by giving them control over financial resources and decision-making power.
 - **A study by the Indian School of Business on SHGs in rural Andhra Pradesh found that women who participated in the program had increased bargaining power:** within their households and improved status within their communities.
@@ -6051,15 +6051,15 @@ While there are merits in both the Aadhaar and NPR schemes, their concurrent imp
 - **For instance, a politician might engage in hate speech or incite violence, actions that are immoral but may not be classified as corruption.:** The Lokpal, designed primarily to investigate corruption allegations, may not be able to adequately address such issues.
 
 - **Lack of Moral and Ethical Education:** The problem of immorality in public affairs is deeply rooted in the lack of moral and ethical education.
- - Many individuals entering politics may lack a strong moral and ethical foundation, and the Lokpal, despite its strengths, cannot impart moral education or foster a culture of integrity.
- - **The case of Bihar’s ‘Fodder Scam’ is a good example where the lack of ethical conduct led to large-scale embezzlement of public funds.**
+  - Many individuals entering politics may lack a strong moral and ethical foundation, and the Lokpal, despite its strengths, cannot impart moral education or foster a culture of integrity.
+  - **The case of Bihar’s ‘Fodder Scam’ is a good example where the lack of ethical conduct led to large-scale embezzlement of public funds.**
 - **Social and Cultural Factors:** The issue of immorality in public affairs is also deeply rooted in certain social and cultural practices.
- - For instance, the practice of giving and accepting bribes has been normalized in many parts of India, and this is something that the Lokpal alone cannot change.
+  - For instance, the practice of giving and accepting bribes has been normalized in many parts of India, and this is something that the Lokpal alone cannot change.
 - **The ‘Vyapam Scam’ in Madhya Pradesh is an example of this,:** where bribery and corruption were deeply embedded in the system of professional examinations.
 
 - **Structural and Systemic Issues:** Often, the problem of immorality in public affairs is tied to structural and systemic issues.
- - These include the lack of transparency, accountability, and the concentration of power in the hands of a few.
- - While the Lokpal can investigate individual cases of corruption, it may not be equipped to address these larger systemic issues.
+  - These include the lack of transparency, accountability, and the concentration of power in the hands of a few.
+  - While the Lokpal can investigate individual cases of corruption, it may not be equipped to address these larger systemic issues.
 - **The 2G Spectrum scam is an example where structural issues allowed for widespread corruption.:** 
 
 
@@ -6090,12 +6090,12 @@ To effectively resolve the problem of immorality in public affairs, a comprehens
 - **For example, in the Public Distribution System (PDS),:** there have been instances of middlemen diverting subsidized food grains. With DBT, beneficiaries receive cash directly, reducing the scope for such diversion.
 
 - **Eliminating Wastage:** The DBT system can eliminate wastage by accurately targeting beneficiaries.
- - Traditional welfare delivery systems often suffer from inclusion and exclusion errors, where ineligible people receive benefits while eligible people are left out.
- - DBT, when combined with Aadhaar-linked identification, can address this issue.
- - **For instance, under the Pradhan Mantri Ujjwala Yojana, DBT has ensured that subsidized LPG connections reach the intended beneficiaries.**
+  - Traditional welfare delivery systems often suffer from inclusion and exclusion errors, where ineligible people receive benefits while eligible people are left out.
+  - DBT, when combined with Aadhaar-linked identification, can address this issue.
+  - **For instance, under the Pradhan Mantri Ujjwala Yojana, DBT has ensured that subsidized LPG connections reach the intended beneficiaries.**
 - **Facilitating Reforms:** The DBT system can facilitate reforms by providing a foundation for more efficient and effective welfare schemes.
- - It can also foster financial inclusion by incentivizing people to open bank accounts.
- - **The Jan Dhan Yojana, which aims to provide universal access to banking services, has benefited significantly from DBT.**
+  - It can also foster financial inclusion by incentivizing people to open bank accounts.
+  - **The Jan Dhan Yojana, which aims to provide universal access to banking services, has benefited significantly from DBT.**
 - **Transparency and Accountability:** The DBT system improves transparency and accountability in the delivery of welfare services. It allows for better tracking of funds and easier identification of bottlenecks or leakages.
 - **For instance, the Mahatma Gandhi National Rural Employment Guarantee Act (MGNREGA):** has seen improved transparency with wage payments being made directly into the bank accounts of the beneficiaries.
 
@@ -6217,16 +6217,16 @@ Pressure groups play a significant role in India’s democratic setup. They act 
 
 **The Role of Connectivity in PURA**
 - **Physical Connectivity:** Physical connectivity is a foundational aspect of PURA. It involves the development of transportation and infrastructure to ensure the smooth movement of goods, services, and people.
- - Physical connectivity can lead to improved access to markets for farmers, better delivery of healthcare services, and increased tourism in rural areas.
+  - Physical connectivity can lead to improved access to markets for farmers, better delivery of healthcare services, and increased tourism in rural areas.
 - **For instance, the construction of rural roads under the Pradhan Mantri Gram Sadak Yojana (PMGSY):** has been instrumental in providing physical connectivity. This has not only improved market access for rural products but also enhanced the reach of urban amenities like healthcare and education to rural areas.
 
 - **Electronic Connectivity:** Electronic connectivity, involving telecommunication and internet services, is another critical aspect of PURA.
- - It promotes digital inclusivity and equips rural areas to leverage the benefits of the digital economy.
- - With electronic connectivity, rural citizens can access digital services like e-learning, e-healthcare, digital banking, and e-governance, thereby bridging the urban-rural divide.
+  - It promotes digital inclusivity and equips rural areas to leverage the benefits of the digital economy.
+  - With electronic connectivity, rural citizens can access digital services like e-learning, e-healthcare, digital banking, and e-governance, thereby bridging the urban-rural divide.
 - **An example of this is the BharatNet project, aimed at providing broadband connectivity to all gram panchayats in the country.:** This has enabled the rural populace to access various online services and opportunities, reinforcing the PURA concept.
 
 - **Knowledge Connectivity:** Knowledge connectivity involves providing quality education and skill development opportunities to rural residents.
- - It empowers them to participate more effectively in the economy and avail themselves of better employment opportunities.
+  - It empowers them to participate more effectively in the economy and avail themselves of better employment opportunities.
 - **One of the initiatives towards this end is the establishment of Skill Development Centers in rural areas under the Skill India Mission.:** These centers have been crucial in providing vocational training to the rural youth, thereby enhancing their employability.
 
 
@@ -6258,14 +6258,14 @@ The philosophy of PURA is indeed rooted in the principle of connectivity. By fos
 **Legitimacy and Accountability of SHGs and MFIs**
 - **Regulatory Framework and Legitimacy:** In India, the regulatory framework for these entities **has been set up by the Reserve Bank of India (RBI) for MFIs and the National Bank for Agriculture and Rural Development (NABARD) for SHGs.
 - Despite this, there have been issues with legitimacy, with many SHGs operating without official registration.
- - This lack of registration leads to inadequate legal protection for members and hinders access to institutional credit.
+  - This lack of registration leads to inadequate legal protection for members and hinders access to institutional credit.
 - **For example, the Andhra Pradesh microfinance crisis in 2010 highlighted the issue of legitimacy,:** where the presence of unregulated MFIs led to over-indebtedness and a slew of borrower suicides. In the aftermath, the RBI stepped in to regulate the sector through the Malegam Committee recommendations, emphasizing the need for legitimacy and regulatory compliance for the health of the sector.
 
 - **Accountability and Transparency:** Accountability and transparency are crucial for the sustained success of SHGs and MFIs. There have been cases where lack of proper accountability and transparency mechanisms has led to misuse of funds, corruption, and even collapse of some SHGs and MFIs.
 - **For instance, the SKS Microfinance scandal in India highlighted the need for better accountability.:** The company, once a darling of the microfinance world, faced serious allegations regarding its lending practices, aggressive recovery methods, and corporate governance, leading to a significant fall in its share prices.
 
 - **Role of Technology:** Technology can play a crucial role in enhancing the legitimacy and accountability of SHGs and MFIs.
- - Digital platforms can facilitate transparent transactions, better record-keeping, and timely reporting, thereby improving accountability.
+  - Digital platforms can facilitate transparent transactions, better record-keeping, and timely reporting, thereby improving accountability.
 - **For example, the digital SHG Bank Linkage platform (ESHAKTI) by NABARD has helped improve the quality of bookkeeping and enhanced transparency of SHGs.:** 
 
 
@@ -6301,13 +6301,13 @@ As these entities play a critical role in India’s socio-economic landscape, en
 - **For instance, the dispute between SEBI and IRDA over the regulation of ULIPs in 2010 showcased the complexities arising from overlapping jurisdictions.:** SEBI argued that since ULIPs have an investment component, they should be under its regulation, while IRDA contended that ULIPs are essentially insurance products.
 
 - **Need for Unified Regulation:** The diversification of financial products necessitates a unified regulatory framework to ensure comprehensive oversight, consumer protection, and financial stability.
- - A unified regulator could streamline regulations, reduce regulatory arbitrage, and ensure better supervision of hybrid products.
+  - A unified regulator could streamline regulations, reduce regulatory arbitrage, and ensure better supervision of hybrid products.
 
 - **Global Trends:** Globally, many countries like the UK have moved towards unified regulation.
- - The Financial Conduct Authority (FCA) in the UK oversees all financial markets and sectors, ensuring consistency in regulation and reducing potential regulatory gaps.
+  - The Financial Conduct Authority (FCA) in the UK oversees all financial markets and sectors, ensuring consistency in regulation and reducing potential regulatory gaps.
 
 - **Potential Challenges:** While merging SEBI and IRDA could alleviate regulatory overlaps, it could also pose challenges.
- - These bodies have specialized expertise in their respective domains, and a merger could dilute this focus.
+  - These bodies have specialized expertise in their respective domains, and a merger could dilute this focus.
 - Furthermore, the scale and complexity of the combined regulatory responsibilities could be overwhelming, potentially affecting regulatory efficiency.
 
 
@@ -6405,33 +6405,33 @@ The ***paradox of poverty*** refers to persistent deprivation amid overall growt
 
  -
 
- - Large landowners control most fertile land; small and marginal farmers remain landless or with tiny plots. In India, top 10% of landowners control nearly 50% of agricultural land.
+  - Large landowners control most fertile land; small and marginal farmers remain landless or with tiny plots. In India, top 10% of landowners control nearly 50% of agricultural land.
 - **Effect:** Low productivity and low income for majority → poverty persists despite agricultural growth.
 
 - **Access to Capital & Credit:** 
 
  -
 
- - Wealthy households can invest, poor households rely on informal high-interest loans.
+  - Wealthy households can invest, poor households rely on informal high-interest loans.
 - **Effect:** Poor cannot improve productivity or start small enterprises → trapped in poverty.
 
 - **Educational & Skill Disparities:** 
 
  -
 
- - Resource-poor families cannot afford quality education or vocational training.
+  - Resource-poor families cannot afford quality education or vocational training.
 - **Effect:** Limited employment opportunities → low earning potential → persistent poverty.
 
 - **Technological Divide:** 
 
  -
 
- - Advanced tools, machinery, irrigation, or digital platforms are mostly accessible to resource-rich owners.
+  - Advanced tools, machinery, irrigation, or digital platforms are mostly accessible to resource-rich owners.
 - **Effect:** Productivity and income gap widens, leaving the marginalized behind → paradox: economy grows but poor remain poor.
 
 - **Social & Gender Inequalities:** 
 
- - Caste, ethnicity, and gender biases limit resource access for Dalits, Adivasis, and women.
+  - Caste, ethnicity, and gender biases limit resource access for Dalits, Adivasis, and women.
 - **Effect:** Discrimination reinforces low ownership → structural poverty continues despite national development.
 
 
@@ -6674,10 +6674,10 @@ Going ahead, while addressing the criticisms of being potentially discriminatory
 **Some measures to manage inflation include**
 
 
- - Implementing a sound monetary policy framework, like inflation targeting, to maintain price stability.
- - Ensuring a well-functioning supply chain and addressing structural bottlenecks in the production and distribution of essential goods.
- - Promoting competition in the market to keep prices in check.
- - In India, **the Reserve Bank of India (RBI) has implemented an inflation targeting framework since 2016, with the aim of maintaining price stability and keeping inflation under control.** Under this framework, the RBI sets a target for consumer price inflation (CPI) and takes monetary policy actions to achieve this target.
+  - Implementing a sound monetary policy framework, like inflation targeting, to maintain price stability.
+  - Ensuring a well-functioning supply chain and addressing structural bottlenecks in the production and distribution of essential goods.
+  - Promoting competition in the market to keep prices in check.
+  - In India, **the Reserve Bank of India (RBI) has implemented an inflation targeting framework since 2016, with the aim of maintaining price stability and keeping inflation under control.** Under this framework, the RBI sets a target for consumer price inflation (CPI) and takes monetary policy actions to achieve this target.
 
 - **Unemployment:** High unemployment rates not only lead to income loss for affected individuals and families, but also contribute to social unrest and increased crime rates.
 - **For example, in India, unemployment rates have been increasing due to factors such as the COVID-19 pandemic and economic slowdown. As per the National Statistical Office’s report released in May 2021, the country’s unemployment rate stood at 7.97% in the week ending on April 25, 2021.:** The high unemployment rates have led to a rise in social unrest and protests by youth and student groups, demanding job opportunities and better employment prospects. The protests often turn violent, leading to increased crime rates and disruption of law and order.
@@ -6891,27 +6891,27 @@ Microfinancing of women Self-Help Groups (SHGs) has emerged as a powerful tool f
 
 - **Microfinance and Breaking the Cycle of Poverty:**
 - **A prominent example in India is the Bandhan Bank,:** which started as a microfinance institution providing small loans to poor women. Bandhan, meaning ‘bond’, has been particularly successful in rural and semi-urban areas of Eastern and North Eastern India.
- - With access to microcredit, women have been able to engage in income-generating activities, ranging from small scale farming to setting up micro-enterprises.
- - This increased access to financial resources has enabled them to better support their families, invest in their children’s education, and seek necessary healthcare services.
- - Thus, Bandhan’s microfinance initiatives have played a significant role in breaking the cycle of poverty in these regions.
+  - With access to microcredit, women have been able to engage in income-generating activities, ranging from small scale farming to setting up micro-enterprises.
+  - This increased access to financial resources has enabled them to better support their families, invest in their children’s education, and seek necessary healthcare services.
+  - Thus, Bandhan’s microfinance initiatives have played a significant role in breaking the cycle of poverty in these regions.
 
 - **Microfinance and Tackling Malnutrition:** In the Indian context, the **Tamil Nadu Women’s Development Project,also known as the Mahalir Thittam,** is an example of how microfinance can indirectly influence nutritional outcomes.
- - This project, initiated in 1989, included the formation of women’s SHGs, which were provided with microcredit to start small businesses.
- - Alongside the provision of microcredit, the program also included training sessions on various aspects of health and nutrition.
- - With an improved financial status and enhanced understanding of nutrition, women in these SHGs have been able to make better nutritional choices for their households, thereby helping in tackling the problem of malnutrition.
+  - This project, initiated in 1989, included the formation of women’s SHGs, which were provided with microcredit to start small businesses.
+  - Alongside the provision of microcredit, the program also included training sessions on various aspects of health and nutrition.
+  - With an improved financial status and enhanced understanding of nutrition, women in these SHGs have been able to make better nutritional choices for their households, thereby helping in tackling the problem of malnutrition.
 
 - **Economic empowerment:** Microfinancing enables women to access credit and other financial services, allowing them to start or expand income-generating activities.
 - **Decision-making and gender equality:** As women become economically independent through microfinancing, they often gain more decision-making power within their households and communities. This can lead to a shift in traditional gender roles and contribute to greater gender equality.
 
- - Example: **SEWA (Self-Employed Women’s Association)** in India has empowered women through microfinancing, leading to increased participation in household and community decision-making.
+  - Example: **SEWA (Self-Employed Women’s Association)** in India has empowered women through microfinancing, leading to increased participation in household and community decision-making.
 
 - **Improved access to education and healthcare:** With increased income and decision-making power, women are more likely to invest in their family’s education and healthcare, contributing to better overall well-being and breaking the cycle of malnutrition.
 
- - Example: **Studies have shown that women who participate in SHGs with access to microfinance are more likely to send their children to school** and seek timely medical care.
+  - Example: **Studies have shown that women who participate in SHGs with access to microfinance are more likely to send their children to school** and seek timely medical care.
 
 - **Social empowerment and networking:** Women SHGs create a platform for members to come together, share experiences, and support each other. This social empowerment and networking can lead to collective action against social issues such as gender discrimination, domestic violence, and child marriage, further breaking the cycle of gender inequality.
 
- - Example: **The Kudumbashree program in Kerala,** India, has successfully used microfinancing for women SHGs to address various social issues and promote women’s empowerment.
+  - Example: **The Kudumbashree program in Kerala,** India, has successfully used microfinancing for women SHGs to address various social issues and promote women’s empowerment.
 
 - **Multiplier effect:** The economic and social empowerment of women through microfinancing can have a multiplier effect on the community, as women are more likely to reinvest their income in their family’s well-being, leading to reduced poverty and improved health and nutrition.
 
@@ -6973,18 +6973,18 @@ The “Earn while you Learn” approach can better equip students with the skill
 
 **Listed below are the interventions that can help change this milieu**
 - **Legal reforms:** Strengthening laws related to gender-based violence, property rights, and equal pay can help challenge patriarchal norms and promote gender equality.
- - Ensuring strict enforcement of these laws and raising awareness about legal provisions can empower women to claim their rights.
- - **The Protection of Women from Domestic Violence Act, 2005, and the Sexual Harassment of Women at Workplace Act, 2013, are examples that need to be strictly enforced.**
+  - Ensuring strict enforcement of these laws and raising awareness about legal provisions can empower women to claim their rights.
+  - **The Protection of Women from Domestic Violence Act, 2005, and the Sexual Harassment of Women at Workplace Act, 2013, are examples that need to be strictly enforced.**
 - **Political Representation:** Legislation like the Women’s Reservation Bill, which proposes to reserve 33% of all seats in the Lok Sabha and in all state legislative assemblies for women, can ensure greater female representation in politics, thereby challenging patriarchal norms.
 - **Engaging men and boys:** Encouraging men and boys to become active participants in the fight against patriarchy and gender discrimination is crucial.
- - Programs that promote positive masculinity and engage men as allies can help change attitudes and foster a more gender-equitable environment.
- - **Initiatives like the “HeForShe” campaign by UN Women seek to involve men and boys as advocates for gender equality.**
+  - Programs that promote positive masculinity and engage men as allies can help change attitudes and foster a more gender-equitable environment.
+  - **Initiatives like the “HeForShe” campaign by UN Women seek to involve men and boys as advocates for gender equality.**
 - **Sensitization and awareness campaigns:** Conducting widespread awareness campaigns targeting both men and women can help challenge traditional gender stereotypes and promote gender-sensitive attitudes.
- - These campaigns should focus on the importance of gender equality, equal opportunities, and shared responsibilities.
- - **The “Bell Bajao” campaign by Breakthrough India is an example of using innovative approaches to raise awareness about domestic violence.**
+  - These campaigns should focus on the importance of gender equality, equal opportunities, and shared responsibilities.
+  - **The “Bell Bajao” campaign by Breakthrough India is an example of using innovative approaches to raise awareness about domestic violence.**
 - **Media representation:** Ensuring fair and accurate representation of women in media and popular culture can help challenge stereotypes and promote positive role models for women.
- - Encouraging media outlets to adopt gender-sensitive reporting and promoting diverse and empowering portrayals of women can contribute to changing social attitudes.
- - **For example, the introduction of guidelines to avoid stereotyping women in advertisements by the Advertising Standards Council of India.**
+  - Encouraging media outlets to adopt gender-sensitive reporting and promoting diverse and empowering portrayals of women can contribute to changing social attitudes.
+  - **For example, the introduction of guidelines to avoid stereotyping women in advertisements by the Advertising Standards Council of India.**
 - **Workplace policies:** Implementing gender-sensitive workplace policies, such as equal pay, flexible work arrangements, and strong anti-harassment measures, can help create an inclusive work environment that values the contributions of both men and women equally.
 - **Community-based initiatives:** Engaging community leaders, religious institutions, and local organizations in promoting gender equality can help address patriarchal attitudes at the grassroots level. These initiatives can encourage dialogue, foster understanding, and create a supportive environment for women to challenge gender norms.
 - **Comprehensive sex education:** Introducing comprehensive sex education in schools that covers topics such as consent, gender identity, and healthy relationships can help build a foundation of understanding and respect for gender equality from an early age.
@@ -7264,11 +7264,11 @@ To enhance the performance of welfare schemes for vulnerable sections, it is ess
 
 - **Tackling regional health disparities:** Local community-level interventions can address these disparities by customizing health programs to suit the needs of specific communities.
 
- - Example: **The ASHA (Accredited Social Health Activist) program** trains local women as community health workers, who can understand and address the specific health needs of their communities, thus bridging the gap in healthcare access.
+  - Example: **The ASHA (Accredited Social Health Activist) program** trains local women as community health workers, who can understand and address the specific health needs of their communities, thus bridging the gap in healthcare access.
 
 - **Strengthening primary health care:** It ensures early detection, prevention, and treatment of common diseases, reducing the burden on secondary and tertiary healthcare facilities.
 
- - Example: **The National Rural Health Mission (NRHM)** focuses on strengthening primary healthcare infrastructure by upgrading sub-centers, Primary Health Centers (PHCs), and Community Health Centers (CHCs) in rural areas.
+  - Example: **The National Rural Health Mission (NRHM)** focuses on strengthening primary healthcare infrastructure by upgrading sub-centers, Primary Health Centers (PHCs), and Community Health Centers (CHCs) in rural areas.
 
 - **Empowering communities:** The Village Health and Sanitation Committees (VHSCs):** are constituted to involve community members in decision-making, planning, and monitoring of local health and sanitation programs.
 - **Enhancing health awareness:** Community-led Total Sanitation (CLTS) campaigns:** have been successful in promoting better sanitation practices and reducing open defecation, thus improving public health.
@@ -7342,15 +7342,15 @@ Focusing solely on the lack of food availability as the main cause of hunger ris
 
 **Listed below are the provisions of the RPWD Act:**
 - **Legislative framework:** The RPWD Act replaced the Persons with Disabilities (Equal Opportunities, Protection of Rights and Full Participation) Act, 1995, and expanded the definition of disabilities, covering 21 conditions instead of 7.
- - It aligns with the United Nations Convention on the Rights of Persons with Disabilities (UNCRPD), which India ratified in 2007.
+  - It aligns with the United Nations Convention on the Rights of Persons with Disabilities (UNCRPD), which India ratified in 2007.
 
 - **Non-discrimination and equal opportunities:** The Act prohibits discrimination based on disability and mandates the provision of equal opportunities in education, employment, and access to public facilities.
- - It also emphasizes reasonable accommodation to ensure that persons with disabilities can fully participate in society.
+  - It also emphasizes reasonable accommodation to ensure that persons with disabilities can fully participate in society.
 
 - **Accessibility:** The Act requires both public and private establishments to provide accessible facilities and services to persons with disabilities, ensuring their right to live independently and participate fully in all aspects of life.
 
 - **Education and employment:** The RPWD Act mandates inclusive education and provides for reservation in higher education and government jobs.
- - It also encourages private sector employers to provide equal opportunities to persons with disabilities.
+  - It also encourages private sector employers to provide equal opportunities to persons with disabilities.
 
 - **Legal capacity and decision-making:** The Act recognizes the legal capacity of persons with disabilities and provides for the appointment of guardians in cases where they require assistance in decision-making.
 
@@ -7502,14 +7502,14 @@ The Water, Sanitation, and Hygiene (WASH) scheme aims to improve public health a
 
 **The WASH scheme involves the following aspects:**
 - **Identification of beneficiary segments:** Identifying the most vulnerable and marginalized populations, such as those living in remote rural areas, urban slums, or areas with high poverty rates, is crucial.
- - These groups often have limited access to WASH facilities and are more susceptible to waterborne diseases and poor hygiene-related health issues.
- - Focusing on these segments allows the WASH scheme to significantly impact overall health and well-being.
+  - These groups often have limited access to WASH facilities and are more susceptible to waterborne diseases and poor hygiene-related health issues.
+  - Focusing on these segments allows the WASH scheme to significantly impact overall health and well-being.
 
 - **Anticipated outcomes:** The primary objectives of the WASH scheme include reducing waterborne diseases, enhancing access to clean water and sanitation facilities, and promoting healthy hygiene practices.
- - Achieving these outcomes requires interventions directly addressing the needs of the identified beneficiary segments, such as constructing and maintaining water supply systems, building toilets and sanitation facilities, and promoting behavioral change through hygiene education and community engagement.
+  - Achieving these outcomes requires interventions directly addressing the needs of the identified beneficiary segments, such as constructing and maintaining water supply systems, building toilets and sanitation facilities, and promoting behavioral change through hygiene education and community engagement.
 
 - **Synchronization of beneficiary identification and outcomes:** Aligning the identification of beneficiary segments with the anticipated outcomes ensures that resources are effectively allocated to areas of greatest need.
- - This synchronization also enables better monitoring and evaluation of the scheme’s impact, allowing for necessary adjustments and improvements in program implementation.
+  - This synchronization also enables better monitoring and evaluation of the scheme’s impact, allowing for necessary adjustments and improvements in program implementation.
 
 - **Collaboration with stakeholders:** Successful implementation of WASH policies involves various stakeholders, including local governments, NGOs, community-based organizations, and the private sector.
 - This collaborative approach ensures that the needs of the identified beneficiary segments are adequately addressed, and the anticipated outcomes are achieved.
@@ -7580,10 +7580,10 @@ Although there has been progress in implementing the National Child Policy’s p
 
 **To improve the status and performance of these sectors, the following suggestions can be considered:**
 - **Universal access and equity:** Ensuring access to quality primary education and health care for all, irrespective of socio-economic background or geographical location, is essential.
- - This can be achieved by building schools and health care centers in remote areas, providing scholarships to underprivileged children, and addressing gender disparities in access to education and health care services.
+  - This can be achieved by building schools and health care centers in remote areas, providing scholarships to underprivileged children, and addressing gender disparities in access to education and health care services.
 
 - **Quality improvement:** Focus on enhancing the quality of education and health care services by adopting innovative teaching methods, improving curriculum and teacher training, and upgrading infrastructure and facilities in schools and health care centers.
- - Periodic assessment of learning outcomes and health care outcomes can help identify areas requiring improvement.
+  - Periodic assessment of learning outcomes and health care outcomes can help identify areas requiring improvement.
 
 - **Community engagement:** This can improve accountability, foster a sense of ownership, and help in tailoring services to better meet the community’s needs.
 
@@ -7592,7 +7592,7 @@ Although there has been progress in implementing the National Child Policy’s p
 - **Technological integration:** This can include digital learning tools, telemedicine services, and electronic health records to streamline service delivery and improve overall efficiency.
 
 - **Health promotion and preventive care:** Strengthen primary health care by focusing on health promotion and preventive care, including vaccinations, health education, and screening for common diseases.
- - This can help reduce the burden on secondary and tertiary health care facilities and lead to better health outcomes.
+  - This can help reduce the burden on secondary and tertiary health care facilities and lead to better health outcomes.
 
 - **Adequate funding:** This can be achieved by increasing budgetary allocations and exploring alternative funding sources, such as public-private partnerships and international aid.
 
@@ -7833,11 +7833,11 @@ However, both approaches need to be balanced. Overemphasis on rewards may lead t
 - **For instance, while schemes like Mahatma Gandhi National Rural Employment Guarantee Act (MGNREGA) or Pradhan Mantri Awas Yojana – Gramin (PMAY-G):** provide employment and housing in rural areas, they do not necessarily facilitate the transition to urban economies or the establishment of businesses in urban areas.
 
 - **Lack of Relevant Skills:** Some schemes provide skill development for traditional or rural-centric vocations but lack the necessary training for skills relevant to urban economies.
- - As a result, members of these communities might find it difficult to start businesses in urban settings that require different skill sets.
+  - As a result, members of these communities might find it difficult to start businesses in urban settings that require different skill sets.
 
 - **Access to Capital:** 
 - **Despite schemes like the Pradhan Mantri Mudra Yojana (PMMY) or Stand Up India,:** which aim to provide loans for starting businesses, many marginalized individuals still struggle with access to capital.
- - These schemes often require formal banking access, financial literacy, and collateral, which can be challenging for these communities.
+  - These schemes often require formal banking access, financial literacy, and collateral, which can be challenging for these communities.
 
 - **Social Discrimination:** Social discrimination remains a major hurdle.
 - Even in urban settings, people from backward communities often face discrimination, which can deter them from establishing businesses or can limit their customer base. **However, it is important to note that not all government schemes lead to exclusion in urban economies.** There are schemes like the Deendayal Antyodaya Yojana-National Urban Livelihoods Mission (DAY-NULM) that specifically aim to reduce poverty and vulnerability in urban areas by providing skill training, supporting self-employment, and offering subsidized loans.
@@ -7870,18 +7870,18 @@ To ensure these schemes effectively support these communities in urban settings,
 
 **The NHRC can be seen as a vital complement to the judiciary and other institutions in the following ways**
 - **Investigation of Violations:** The NHRC investigates violations of human rights, either on its initiative or based on complaints.
- - It can visit prisons and other institutions under the control of the government to ensure that they respect human rights standards.
+  - It can visit prisons and other institutions under the control of the government to ensure that they respect human rights standards.
 - **For instance, the NHRC has played an active role in investigating instances of custodial deaths, police atrocities, and violations of the rights of marginalized communities.:** It complements the judiciary by stepping in when these violations may not reach the courts.
 
 - **Review of Laws and Policies:** The NHRC can review laws and policies for their human rights implications, recommend changes, and advocate for new laws that advance human rights.
- - It plays a crucial role in ensuring that the government’s actions align with India’s constitution and international human rights commitments.
- - **For instance, NHRC’s recommendations were instrumental in the passing of the Protection of Human Rights Act.**
+  - It plays a crucial role in ensuring that the government’s actions align with India’s constitution and international human rights commitments.
+  - **For instance, NHRC’s recommendations were instrumental in the passing of the Protection of Human Rights Act.**
 - **Awareness and Education:** The NHRC has a crucial role in promoting awareness about human rights, creating a culture of respect for human rights.
- - It conducts public hearings, workshops, and campaigns to enhance people’s understanding of their rights, thereby complementing the educational efforts of other institutions.
+  - It conducts public hearings, workshops, and campaigns to enhance people’s understanding of their rights, thereby complementing the educational efforts of other institutions.
 
 - **Advisory Role:** The NHRC advises the government on human rights issues, serving as a bridge between civil society and the government.
- - It helps ensure government accountability by making recommendations based on its investigations and reviews.
- - **For instance, during the COVID-19 pandemic, the NHRC issued advisories to the government on safeguarding the rights of marginalized and vulnerable sections of the society.**
+  - It helps ensure government accountability by making recommendations based on its investigations and reviews.
+  - **For instance, during the COVID-19 pandemic, the NHRC issued advisories to the government on safeguarding the rights of marginalized and vulnerable sections of the society.**
 - **International Cooperation:** The NHRC cooperates with international human rights bodies, sharing best practices and learning from their experiences.
 - This cooperation helps ensure that India’s human rights protection measures are in line with international standards. ***However, for the NHRC to be more effective,*** it needs more support from other mechanisms that ensure government accountability. The NHRC lacks the power to enforce its recommendations, relying on moral authority and public pressure to make the government act. It needs more cooperation from the judiciary, which can enforce its recommendations, and from the government, which must implement the recommended changes. It also needs more cooperation from civil society, which can help by spreading awareness about human rights and reporting violations.
 
@@ -7913,16 +7913,16 @@ The NHRC plays a vital role in complementing the judiciary and other institution
 
 **There are several perspectives to consider in this discussion, each with its own merits and potential drawbacks. Here are some key factors to consider:**
 - **Maintaining Academic Excellence:** IITs and IIMs have long been recognized as centers of academic excellence in India, and some argue that allowing these institutions to independently design courses and determine student selection criteria would enable them to better maintain their high standards.
- - For example, they could introduce innovative courses or admission processes that align with global standards or emerging trends, such as interdisciplinary studies, AI/ML courses, or entrepreneurship programs.
+  - For example, they could introduce innovative courses or admission processes that align with global standards or emerging trends, such as interdisciplinary studies, AI/ML courses, or entrepreneurship programs.
 
 - **Adapting to Changing Dynamics:** If these institutes are granted more autonomy, they might be better positioned to quickly adjust their curriculums or teaching methods to accommodate such changes.
- - For instance, during the COVID-19 pandemic, many institutions globally had to shift to online teaching methods; autonomous institutions could make such decisions more swiftly.
+  - For instance, during the COVID-19 pandemic, many institutions globally had to shift to online teaching methods; autonomous institutions could make such decisions more swiftly.
 
 - **Ensuring Equal Opportunities:** Currently, IITs and IIMs have reservation policies in place to ensure representation of various social groups.
- - If these institutions were allowed to set their own admission criteria, some worry that these policies might be overlooked, further marginalizing certain groups.
+  - If these institutions were allowed to set their own admission criteria, some worry that these policies might be overlooked, further marginalizing certain groups.
 
 - **Accountability:** These institutions receive significant public funding, and some argue that they should therefore be accountable to the public and the government.
- - If they were allowed to operate independently, it might be more difficult to hold them accountable for their actions and decisions.
+  - If they were allowed to operate independently, it might be more difficult to hold them accountable for their actions and decisions.
 
 - **Quality Control:** If each institute is allowed to set its own curriculum and admission criteria, there could be a significant disparity in the quality of education provided by different institutes.
 - This could lead to an uneven playing field for students, where the opportunities available to them depend largely on which institute they attend.
@@ -8002,14 +8002,14 @@ While India made significant progress towards achieving the health-related MDGs,
 - **For instance, the Pradhan Mantri Awas Yojana (PMAY):** has provisions for the States to decide the design and cost of the houses, ensuring cost-effective utilization of funds.
 
 - **Promotion of Cooperative Federalism:** The restructuring promotes cooperative federalism by encouraging dialogue and cooperation between the Central and State Governments.
- - This can lead to better policy-making and implementation.
+  - This can lead to better policy-making and implementation.
 
 **Challenges in Restructuring CSS:**
 - **Mismatch of Priorities:** The restructuring may not always align with the States’ priorities. The Central Government may prioritize certain sectors, while the State Governments may have different priorities based on their local needs.
- - This can lead to conflicts and poor implementation.
+  - This can lead to conflicts and poor implementation.
 
 - **Lack of Capacity:** Many State Governments may lack the capacity for efficient planning and implementation of the restructured schemes.
- - **For instance, several States have been unable to fully utilize the funds allocated under the National Health Mission due to capacity constraints.**
+  - **For instance, several States have been unable to fully utilize the funds allocated under the National Health Mission due to capacity constraints.**
 - **Inequality Among States:** The restructuring may lead to inequality among States.
 - Wealthier States with better administrative capacity may be able to implement the schemes more effectively, leaving the poorer States behind. This can exacerbate regional disparities.
 
@@ -8044,13 +8044,13 @@ While the restructuring of Centrally Sponsored Schemes can provide more flexibil
 * **<p align="center"><img src="images/pw_social_justice_q54_img1.webp" alt="image 2023 12 29T153145.387" /></p>:***
 
 - **Enhancing Nutritional Intake:** The MDM aims to improve the nutritional status of children in government and government-aided schools across the country.
- - It does so by providing free, nutritious meals to children, thus ensuring at least one balanced meal a day.
+  - It does so by providing free, nutritious meals to children, thus ensuring at least one balanced meal a day.
 - **The meal typically consists of a combination of cereals, pulses, vegetables, and sometimes even fruit,:** aiming to provide a minimum amount of calories, proteins, and other essential nutrients.
 - **For example, the prescribed nutritional content is 450 calories and 12 grams of protein for primary school children, and 700 calories and 20 grams of protein for upper primary school children.:** Undernourishment and malnutrition are prevalent issues among Indian children, and providing a nutritious meal during the school day can significantly improve their health and well-being.
 
 - **Boosting School Enrollment and Attendance:** The scheme serves as an incentive for families to send their children to school.
- - By providing a free meal, it aims to increase enrollment rates, reduce dropouts, and ensure regular attendance, especially in rural and economically backward areas.
- - **The scheme is based on the premise that hunger should not be a barrier to education.**
+  - By providing a free meal, it aims to increase enrollment rates, reduce dropouts, and ensure regular attendance, especially in rural and economically backward areas.
+  - **The scheme is based on the premise that hunger should not be a barrier to education.**
 - **By ensuring that children are fed at school, parents, especially from low-income families, are more likely to send their children to school:** rather than keep them at home or use them for work.
 - In this way, the Mid Day Meal Scheme contributes to increasing literacy rates and improving the overall educational scenario in the country. ***Latest Mandates:*** In recent years, there have been several important mandates related to the MDM. The scheme has been extended to upper primary classes in government, government-aided, and local body schools. In 2013, the Supreme Court directed all states to provide a mid-day meal during the summer vacation to prevent child malnutrition. ***Success and Impact of MDM:**
 - The Mid Day Meal Scheme has had a significant impact on children’s health and education in India. Studies have shown that it has led to an increase in school enrollment and attendance, particularly among girls.
@@ -8864,9 +8864,9 @@ The United States of America (USA) and China are currently engaged in a complex 
 - **Global influence:** China is seeking to expand its global influence through initiatives like the Belt and Road Initiative, which could challenge US global dominance.
 
 - **US–Soviet during cold war:** The US had a much larger economy and military, and was able to outspend the Soviet Union in defense.
- - The Soviet Union’s economic model was inefficient and unsustainable, leading to a decline in its power over time.
- - The Soviet Union’s military power was primarily focused on Europe, and did not have a global military presence like the US.
- - The Soviet Union’s ideology, communism, had limited appeal outside of the Soviet bloc, The US represented democracy and capitalism, which had broader appeal.
+  - The Soviet Union’s economic model was inefficient and unsustainable, leading to a decline in its power over time.
+  - The Soviet Union’s military power was primarily focused on Europe, and did not have a global military presence like the US.
+  - The Soviet Union’s ideology, communism, had limited appeal outside of the Soviet bloc, The US represented democracy and capitalism, which had broader appeal.
 - The Soviet Union was also limited by the fact that it had to maintain control over a vast, multi-ethnic empire, which placed a strain on its resources and limited its ability to project power abroad.
 
 
@@ -8947,7 +8947,7 @@ According to a Ministry of External Affairs report, there are 32 million NRIs an
 - **Influence:** The Indian diaspora’s political contributions have had a significant impact on the politics of Europe and America. They leverage their influence to shape policies, especially regarding immigration, diversity, and bilateral relations with India.
 
 - **Examples:** In **the United States**, the Indian-American community played a pivotal role in the 2020 US Presidential elections. They organized voter outreach campaigns, fundraising initiatives, and mobilized support for candidate Joe Biden, who acknowledged and valued their contributions.
- - During the **Brexit referendum campaign** in the UK, the Indian diaspora actively participated in discussions, debates, and campaigns, expressing their perspectives on the impact of Brexit on trade, immigration, and cultural exchanges between India and the UK.
+  - During the **Brexit referendum campaign** in the UK, the Indian diaspora actively participated in discussions, debates, and campaigns, expressing their perspectives on the impact of Brexit on trade, immigration, and cultural exchanges between India and the UK.
 - In **Canada**, the Indian diaspora has been vocal in advocating for immigrant rights and policies that support diverse communities. They have successfully influenced government decisions and policies that positively affect the Indian diaspora and other immigrant groups.
 
 
@@ -8976,19 +8976,19 @@ The Quadrilateral Security Dialogue, commonly known as QUAD, was established in 
 
 **Body:**
 - **The QUAD’s initial focus was on security and military cooperation:** Its primary focus was on security and military cooperation in the Indo-Pacific region.
- - The four countries involved aimed to counter China’s growing influence and assertiveness in the region.
- - The QUAD has evolved to focus on other areas of cooperation, including economic and technological cooperation.
+  - The four countries involved aimed to counter China’s growing influence and assertiveness in the region.
+  - The QUAD has evolved to focus on other areas of cooperation, including economic and technological cooperation.
 
 - **The QUAD’s focus on economic cooperation:** The QUAD has been increasingly focusing on economic cooperation. October 2020, the four countries held a virtual summit, where they announced their intention to create a new framework for cooperation on issues such as supply chain resilience, infrastructure development, and digital technology.
- - The emphasis on economic cooperation highlights the importance of trade and investment in the Indo-Pacific region.
+  - The emphasis on economic cooperation highlights the importance of trade and investment in the Indo-Pacific region.
 
 - **The QUAD as a potential trade bloc:** There have been discussions about the QUAD transforming itself into a trade bloc.
- - This would involve the four countries reducing trade barriers and increasing economic integration.
- - A trade bloc would allow for increased trade and investment between the countries involved, creating economic benefits for all.
- - It would also serve to counter China’s economic influence in the region, as well as provide an alternative to the Belt and Road Initiative.
+  - This would involve the four countries reducing trade barriers and increasing economic integration.
+  - A trade bloc would allow for increased trade and investment between the countries involved, creating economic benefits for all.
+  - It would also serve to counter China’s economic influence in the region, as well as provide an alternative to the Belt and Road Initiative.
 
 - **Implications of the transition:** The transition from a military alliance to a trade bloc would have significant implications for the countries involved and the region as a whole.
- - The countries involved, increased economic cooperation would create economic benefits, including increased trade and investment.
+  - The countries involved, increased economic cooperation would create economic benefits, including increased trade and investment.
 - It would provide an alternative to China’s Belt and Road Initiative, which has been criticized for its debt-trap diplomacy.
 
 
@@ -9441,13 +9441,13 @@ The McBride Commission of UNESCO was established in 1977 to examine the relation
 ### Body
 
 - **Aim and Objectives of the McBride Commission of the UNESCO:** To study and make recommendations on issues related to communication and the free flow of information.
- - To assess the role of media in promoting cultural diversity, understanding, and cooperation among nations.
- - The impact of media concentration and ownership on the free flow of information and cultural diversity.
- - To examine the relationship between communication and development and promote the use of communication for development purposes.
+  - To assess the role of media in promoting cultural diversity, understanding, and cooperation among nations.
+  - The impact of media concentration and ownership on the free flow of information and cultural diversity.
+  - To examine the relationship between communication and development and promote the use of communication for development purposes.
 
 - **India’s Position on the McBride Commission:** India supported the establishment of the McBride Commission and actively participated in its deliberations.
- - India supported the Commission’s recommendations on promoting cultural diversity, understanding, and cooperation among nations through the media.
- - India also supported the Commission’s recommendations on the need for greater access to communication technologies and the use of communication for development purposes.
+  - India supported the Commission’s recommendations on promoting cultural diversity, understanding, and cooperation among nations through the media.
+  - India also supported the Commission’s recommendations on the need for greater access to communication technologies and the use of communication for development purposes.
 - India expressed reservations on some of the Commission’s recommendations related to media ownership and regulation, arguing that these should be left to individual countries to decide.
 
 
@@ -9910,8 +9910,8 @@ These constraints and unlock the full potential of their economic ties, India an
 **The withdrawal of the International Security Assistance Force (ISAF) from Afghanistan in 2014 has significant implications for the region’s security** Body: **
 
 - **Challenges for India:** The withdrawal of ISAF (International Security Assistance Force) from Afghanistan could potentially create a security vacuum, allowing militant groups like the **Taliban, Al-Qaeda, and the Haqqani Network** to increase their activities in the region.
- - Pakistan has had a complex relationship with the Taliban, with historical ties and influence over certain factions. The resurgence of the Taliban could have implications for Pakistan’s own security dynamics, as it may face an influx of refugees or an increase in cross-border terrorism.
- - The presence of extremist groups in Pakistan, such as **Tehreek-e-Taliban Pakistan (TTP)**, poses a potential risk to regional stability.A resurgent Taliban in Afghanistan could provide ideological and operational support to these groups, potentially exacerbating Pakistan’s internal security situation.
+  - Pakistan has had a complex relationship with the Taliban, with historical ties and influence over certain factions. The resurgence of the Taliban could have implications for Pakistan’s own security dynamics, as it may face an influx of refugees or an increase in cross-border terrorism.
+  - The presence of extremist groups in Pakistan, such as **Tehreek-e-Taliban Pakistan (TTP)**, poses a potential risk to regional stability.A resurgent Taliban in Afghanistan could provide ideological and operational support to these groups, potentially exacerbating Pakistan’s internal security situation.
 
 - **Safeguarding India’s Strategic Interests:**
 - **Diplomacy:** India has engaged in diplomatic initiatives to strengthen its relationships with regional powers, including Russia, Iran, and Central Asian countries.
@@ -10062,7 +10062,7 @@ The Gujral Doctrine refers to a set of principles proposed by the former Indian 
 - **Peaceful settlement of disputes:** The doctrine emphasizes the need to resolve disputes with neighboring countries through peaceful means, such as dialogue and negotiations.
 
 - **Relevance Today:** The Gujral Doctrine remains relevant today India’s relations with its neighboring countries. The principles of the doctrine continue to guide India’s foreign policy towards its neighbors, particularly in the areas of **economic cooperation and regional integration**.
- - The Gujral Doctrine’s principles serve as a guiding framework for India’s foreign policy, emphasizing economic cooperation and regional integration. The doctrine’s continued application fosters stronger ties with neighboring nations, promoting mutual growth and stability.
+  - The Gujral Doctrine’s principles serve as a guiding framework for India’s foreign policy, emphasizing economic cooperation and regional integration. The doctrine’s continued application fosters stronger ties with neighboring nations, promoting mutual growth and stability.
 - By prioritizing non-reciprocity, addressing concerns of smaller nations, and advocating for transparent and inclusive regional cooperation, the Gujral Doctrine ensures India’s engagement with its neighbors is based on mutual respect and shared prosperity. Its continued implementation enhances India’s standing as a responsible and cooperative regional power.
 
 

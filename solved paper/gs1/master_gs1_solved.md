@@ -1364,6 +1364,10 @@ India has significant reserves of uranium and thorium, there are challenges asso
 
 India has significant reserves of uranium, it still relies on imports to meet its requirements. Moreover, the production of nuclear energy raises concerns regarding the safe disposal of nuclear waste. Therefore, the development of alternative sources of energy remains a pressing need.
 
+
+
+---
+
 1. Explanation_Rau IAS:
 Source Question: Defying the barriers of age, gender and religion, the Indian women became the torch bearer during the struggle for freedom in India. Discuss. (10 Marks, 150 Words)
 
@@ -4232,13 +4236,13 @@ Source Question: Whereas the British planters had developed tea gardens all alon
 
 **Reasons for this disparity:**
 - **Geography:** The geography of the Darjeeling region plays a crucial role in the success of tea cultivation. The area is situated at an altitude of **2,000 to 7,000 feet** above sea level, which provides the perfect conditions for growing high-quality tea.
- - The **cool temperatures and frequent mists** create a unique microclimate that is ideal for tea plants. Shivalik and lesser Himalayas have a different geography, with lower elevations and warmer temperatures that are less suitable for tea cultivation.
+  - The **cool temperatures and frequent mists** create a unique microclimate that is ideal for tea plants. Shivalik and lesser Himalayas have a different geography, with lower elevations and warmer temperatures that are less suitable for tea cultivation.
 
 - **Soil:** The soil in the Darjeeling region is also conducive to tea cultivation. The area has a diverse range of soils, including sandy loam, clay, and red soil, which are ideal for growing different varieties of tea.
- - The soil in the **Shivaliks and lesser Himalayas** is less diverse and often contains high levels of acidity, which can be detrimental to tea plants.
+  - The soil in the **Shivaliks and lesser Himalayas** is less diverse and often contains high levels of acidity, which can be detrimental to tea plants.
 
 - **Labor:** Another factor that contributed to the success of tea cultivation in Darjeeling was the availability of skilled labor.
- - The local population had a long history of working in the tea industry, and many were trained in the art of tea plucking and processing.
+  - The local population had a long history of working in the tea industry, and many were trained in the art of tea plucking and processing.
 
 - The labor force in other regions was less experienced and often had to be trained from scratch.
 - **Marketing:** The success of tea cultivation in Darjeeling can also be attributed to effective marketing strategies.
@@ -4754,7 +4758,7 @@ Challenges faced by Indian women emanate from **Hegemonic patriarchy**, which is
 - **Motherhood penalty:** The primary responsibility of taking care of family and bringing up the child is still on the women. This includes unpaid care work such as childcare, elderly care, and household work.
 - **Declining female labor force participation rate (LFPR):** Many women have to retreat from the workforce due to family pressures. They face ‘dual burden’ i.e., they have to perform both family and professional responsibilities together.
 
- - Despite increasing levels of education and declining fertility rates, the current female LFPR is 25.1% compared to 57.5% for male.
+  - Despite increasing levels of education and declining fertility rates, the current female LFPR is 25.1% compared to 57.5% for male.
 
 - **Commodification of women:** The women are either shown as docile homemakers or they are shown as sex symbols trying to convince the public at large to buy the product. **Domestic violence and dowry harassment** within the confines of the house are also extensions of this phenomenon
 - **Pink collar jobs:** The women are mostly deemed fit for “pink-collar jobs” only, such as **teachers, nurses, receptionist, babysitter, lecturer** which have been stereotyped for women. This denies them opportunities in other fields
@@ -5225,24 +5229,24 @@ Source Question: What is the significance of Industrial Corridors in India? Iden
 
 **Characteristics of some of the industrial corridors in India:**
 - **Delhi-Mumbai Industrial Corridor (DMIC):** Covers an overall length of 1483 km between Delhi and Mumbai
- - Aims to create futuristic industrial cities by leveraging the high-speed, high-capacity connectivity provided by the Western Dedicated Freight Corridor.
- - The project is being funded by the Government of India, Japanese loans, investments by Japanese firms, and through Japan depository receipts issued by Indian companies.
- - The estimated cost of the project is USD 100 billion
+  - Aims to create futuristic industrial cities by leveraging the high-speed, high-capacity connectivity provided by the Western Dedicated Freight Corridor.
+  - The project is being funded by the Government of India, Japanese loans, investments by Japanese firms, and through Japan depository receipts issued by Indian companies.
+  - The estimated cost of the project is USD 100 billion
 
 - **Chennai-Bengaluru Industrial Corridor (CBIC):** Covers Tamil Nadu, Andhra Pradesh, and Karnataka.
- - Aims to create a high-tech industrial zone in southern India
- - Being funded by the Japan International Cooperation Agency (JICA)
+  - Aims to create a high-tech industrial zone in southern India
+  - Being funded by the Japan International Cooperation Agency (JICA)
 
 - **Bengaluru-Mumbai Economic Corridor (BMEC):** Covers Maharashtra and Karnataka
- - Aims to create a knowledge-based economy by promoting research and innovation in these states
- - Being developed with the help of Britain (UK)
+  - Aims to create a knowledge-based economy by promoting research and innovation in these states
+  - Being developed with the help of Britain (UK)
 
 - **Amritsar-Kolkata Industrial Corridor (AKIC):** Covers Punjab, Haryana, Uttarakhand, Uttar Pradesh, Bihar, Jharkhand, and West Bengal.
- - Aims to provide a boost to industrial development in the eastern part of India
- - The Eastern Dedicated Freight Corridor is the backbone of this economic corridor
+  - Aims to provide a boost to industrial development in the eastern part of India
+  - The Eastern Dedicated Freight Corridor is the backbone of this economic corridor
 
 - **East Coast Economic Corridor (ECEC):** Covers West Bengal, Odisha, Andhra Pradesh, and Tamil Nadu
- - Aims to enhance industrial competitiveness by focusing on development of ports, logistics, and energy infrastructure along the east coast of India
+  - Aims to enhance industrial competitiveness by focusing on development of ports, logistics, and energy infrastructure along the east coast of India
 
 - **North East Myanmar Industrial Corridor:** The North East Myanmar Industrial Corridor is a project that has been launched as part of the Tokyo Declaration for the India-Japan Special Strategic and Global Partnership.
 - This initiative aims to boost connectivity and development in the Northeast region, ultimately driving economic growth and increasing prosperity in the area.
@@ -6344,7 +6348,7 @@ Source Question: How can the mountain ecosystem be restored from the negative im
 **Major threats to mountainous ecosystems include:**
 - **Climate change:** Rising temperatures can cause glacial melting, altered precipitation patterns, and changes in the timing of seasonal events.
 
- - E.g. Loss of the
+  - E.g. Loss of the
 
 **West Antarctic ice sheet, sea level rise would approach 10.5 meters [34 feet].**
 - **Deforestation:** Deforestation can result in soil erosion, habitat loss, and changes in water availability. Human–animal conflicts are common. E.g
@@ -7826,7 +7830,7 @@ Cryptocurrency is a new emerging technology which is revolutionizing the way peo
 - **Crypto as an investment:** Cryptocurrency has emerged as a new asset class and is seen as an alternative to gold. However, fluctuation in the value of cryptocurrency has made both kings and beggars.
 - **Cheaper and safer transactions:** For consumers, transferring money becomes a lot cheaper and in certain instances, safer as well, as transactions cannot be replicated.
 
- - Due to the ease and speed of transaction it allows, crypto has empowered relief efforts in Ukraine. Ukraine accepts millions of dollars in donations via digital currencies and many Ukrainians have been drawn to cryptocurrency as a place to invest their money as there is no strong stock market alternative.
+  - Due to the ease and speed of transaction it allows, crypto has empowered relief efforts in Ukraine. Ukraine accepts millions of dollars in donations via digital currencies and many Ukrainians have been drawn to cryptocurrency as a place to invest their money as there is no strong stock market alternative.
 
 - **Government control over economy reduces, reducing the hold on the society:** Cryptocurrencies take away the sovereign power of issuing currency making economic policy ineffective and diluting the bond between citizen and government.
 - **Crypto is used for funding activities that destabilize society:** Crypto is used by terrorist organization, drug cartels, money launderers, etc. which negatively impacts society at large. Anonymity in cryptocurrency has the potential to increase crime in society.
@@ -9569,7 +9573,6 @@ Source Question: How does the Juno Mission of NASA help to understand the origin
 ### Conclusion
 
 The Juno Mission has provided significant insights into Jupiter’s composition, structure, and magnetic field, which has helped scientists understand the formation and evolution of not only Jupiter but also our entire solar system. The knowledge gained from this mission has contributed to our understanding of the early stages of planetary formation, and thus, the origin and evolution of Earth.
--
 
 1. Explanation_Rau IAS:
 Source Question: Clarify how mid-eighteenth century India was beset with the spectre of a fragmented polity. (10 Marks, 150 Words)
@@ -13510,12 +13513,12 @@ Source Question: Examine the role of &#8216;Gig Economy&#8217; in the process of
 **Gig economy can help in the process of empowerment of women in India in following ways:**
 - **Balance work and family:** Gig employment allows part-time work and flexible working hours which allows women to balance their traditional family roles (homemakers and caregiver) with employment.
 
- - For example, the rise of online platforms such as **Amazon and Flipkart** has created opportunities for women in rural areas to earn money by selling their products online.
+  - For example, the rise of online platforms such as **Amazon and Flipkart** has created opportunities for women in rural areas to earn money by selling their products online.
 
 - **Flexibility to enter and exit:** Many women in India face barriers to employment due to cultural and societal norms. The gig economy provides women with on-demand work allowing her to join and drop-out of work force as per her own will.
 - **New employment opportunities:** With gig employment complemented by **work-from-home (WFH)** and technology, new employment opportunities for **women in tier 2 and 3 cities** have emerged where they do not need to travel much.
 
- - A boost in use of digital technology and increased acceptance of virtual working for sales and distribution jobs opens up opportunities for women to enter fields where interactions are managed through apps and phone calls.
+  - A boost in use of digital technology and increased acceptance of virtual working for sales and distribution jobs opens up opportunities for women to enter fields where interactions are managed through apps and phone calls.
 
 - It has addressed the **issue of safety** during travel and night shifts.
 - **Financial independence:** Gig employment helps women earn extra income, boosts her confidence and gives decision making power, all of which are important components of women empowerment.
@@ -17453,7 +17456,6 @@ Source Question: Bring Out the causes for more frequent landslide in the Himalay
 ### Conclusion
 
 The Himalayas and Western Ghats are two prominent mountain ranges in India. Although both regions experience landslides, the Himalayas witness more frequent landslides than the Western Ghats. The major causes of this difference include geological factors such as the steepness of the Himalayan slopes, tectonic activity, and heavy rainfall.
--
 
 1. Explanation_Superkalam:
 Source Question: Bring out the causes for more frequent landslides in the Himalayas than in the Western Ghats.
@@ -22461,7 +22463,7 @@ During medieval India, Persian literary sources emerged as vital elements in cap
 - These accounts detail the accomplishments of Islamic rulers, administrative complexities, and the interactions among different regions and communities.
 
 - **Poetry:** During medieval India, Persian poetry thrived **with notable poets such as Amir Khusrau, Hafiz, and Jami.** Their works blended Indian elements, languages, and cultural nuances, reflecting the era’s syncretic nature.
- - This poetry encapsulated the spirit of the time through themes of love, devotion, and human experiences in a concise manner.
+  - This poetry encapsulated the spirit of the time through themes of love, devotion, and human experiences in a concise manner.
 
 - **Sufi literature:** The expansion of Sufism during medieval India resulted in a vast collection of Persian Sufi literature, offering glimpses into the era’s spiritual and mystical aspects.
 - **Texts such as Rumi’s “Masnavi” and Hafez’s “Divan-i-Hafez”:** integrated Sufi principles and doctrines, advocating for values like love, tolerance, and introspection.
@@ -22955,7 +22957,7 @@ Source Question: Describe any four cultural elements of diversity in India and r
 
 - **Linguistic diversity:** India is one of the most linguistically diverse countries. India has 22 languages as Scheduled languages in the Constitution with over 1100 distinct dialects. The dialects show a continuity which makes it easier for people to understand and communicate with each other. Distinct language and its vast literature acts as a source of pride among people.
 
- - But the linguistic diversity has also been a source of conflict. For instance, Goans are divided on the basis of Maratha and Konkani languages. In Belgaum there is a tug of war between Marathi and Kannada speaking people. Assam is confronted with Bengali and Assamese.
+  - But the linguistic diversity has also been a source of conflict. For instance, Goans are divided on the basis of Maratha and Konkani languages. In Belgaum there is a tug of war between Marathi and Kannada speaking people. Assam is confronted with Bengali and Assamese.
 
 - **Traditions, clothing, food:** India has a rich tradition of music, dance and cuisine, with each region having its own unique style of cooking and flavour.
 - **Festivals:** India has a plethora of festivals at local and regional levels. There are also festivals like Diwali, Holi, Eid, etc that are celebrated throughout India.
@@ -24563,14 +24565,14 @@ Source Question: Examine critically the various facets of economic policies of t
 
 **Listed below are various facets of economic policies of the British in India from mid-eighteenth century till independence:**
 - **Revenue administration:** The British introduced various land revenue systems in India, such as the Permanent Settlement, Ryotwari, and Mahalwari systems.
- - While **these systems aimed to streamline revenue collection,** they often resulted in the exploitation of farmers and the concentration of wealth among a few landholders.
- - **High revenue demands and rigid collection methods led to famines, rural indebtedness, and the impoverishment of the peasantry.**
+  - While **these systems aimed to streamline revenue collection,** they often resulted in the exploitation of farmers and the concentration of wealth among a few landholders.
+  - **High revenue demands and rigid collection methods led to famines, rural indebtedness, and the impoverishment of the peasantry.**
 - **Trade and commerce:** British economic policies **promoted the export of raw materials from India to Britain and the import of British manufactured goods to India.
 - This led to the transformation of India’s economy from a self-sufficient, diversified economy to a colonial economy dependent on the British.
 
 - **Deindustrialization:** 
 - **Indian handicrafts and small-scale industries could not compete with machine-made British goods,:** leading to widespread unemployment and the decline of local industries.
- - This process of deindustrialization severely undermined the economic self-sufficiency of India.
+  - This process of deindustrialization severely undermined the economic self-sufficiency of India.
 
 - **Railways:** While the **railways contributed to the integration of the Indian market and improved transportation, their primary purpose was to serve British economic interests.
 - Moreover, the railways were financed through Indian resources, adding to the drain of wealth from India.
@@ -25180,13 +25182,13 @@ Source Question: Highlight the differences in the approach of Subhash Chandra Bo
 
 **Listed below are some key differences in their philosophies and methods:**
 - **Philosophy of resistance:** Mahatma Gandhi believed in non-violent resistance, employing methods like civil disobedience, non-cooperation, and satyagraha (passive resistance) to fight against British rule.
- - Subhash Chandra Bose advocated for a **more militant and revolutionary approach.** He believed that freedom could only be attained through a decisive armed struggle against the British.
+  - Subhash Chandra Bose advocated for a **more militant and revolutionary approach.** He believed that freedom could only be attained through a decisive armed struggle against the British.
 
 - **Leadership style:** Gandhi led the Indian National Congress (INC) and its various campaigns from the 1920s to the 1940s. His leadership style was characterized by **inclusivity, dialogue, and mass mobilization.
 - **Bose was elected president of the INC twice but eventually parted ways with the organization due to ideological differences. He went on to form the:** Forward Bloc** and later the Indian National Army (INA) to pursue a more radical and revolutionary path towards independence.
 
 - **Attitude towards the British:** Mahatma Gandhi aimed to secure independence through negotiations and peaceful demonstrations, which would compel the British to recognize the legitimate aspirations of the Indian people.
- - Subhash Chandra Bose believed that the British would only relinquish control of India if forced to do so through armed resistance.
+  - Subhash Chandra Bose believed that the British would only relinquish control of India if forced to do so through armed resistance.
 
 - **Alliances with foreign powers:** Gandhi generally avoided seeking alliances with foreign powers, believing that India’s struggle for freedom should be fought by Indians and based on the principles of non-violence and self-reliance.
 - Bose actively sought foreign assistance to challenge British rule in India. During World War II, he **aligned with Germany, Italy, and Japan** to form the INA, which fought alongside Japanese forces in the hope of driving the British out of India.
@@ -25428,7 +25430,7 @@ Source Question: Mahatma Gandhi and Dr. B R Ambedkar, despite having divergent a
 
 ### Body
 
-**Mahatma Gandhi
+**Mahatma Gandhi**
 - Mahatma Gandhi, a spiritual and political leader, sought to bring about social reform through the use of non-violent resistance and the concept of Satyagraha, which emphasized truth and non-violence.
 - He believed in the **unity of all religions and the essential oneness of humanity.** His approach to social issues was rooted in the belief that change must come from within the individual, rather than being imposed by law or government.
 - To this end, he worked towards eradicating untouchability and caste discrimination by promoting the idea of **‘Harijan’ or ‘children of God’** to refer to Dalits.
@@ -25644,12 +25646,12 @@ Source Question: The 1857 uprising was the culmination of the recurrent, big and
 
 **The major factors and local rebellions that led to the 1857 uprising include:**
 - **Socio-economic factors:** British economic policies, **such as heavy taxation and land revenue systems,** impoverished the peasantry and led to widespread famines.
- - The **introduction of modern industries, railways, and telegraphs** disrupted traditional occupations, causing social unrest.
- - These factors contributed to several local rebellions,
+  - The **introduction of modern industries, railways, and telegraphs** disrupted traditional occupations, causing social unrest.
+  - These factors contributed to several local rebellions,
 
 **such as the Sanyasi Rebellion (1763-1800) and the Kol Rebellion (1831-1832).**
 - **Religious and cultural factors:** The **British policy of imposing Western culture, education, and religious values** led to resentment among the Indian population, who saw these measures as an assault on their customs and beliefs.
- - Additionally, **rumors about the use of cow and pig fat in the new Enfield rifle cartridges** angered both Hindu and Muslim soldiers, leading to the widespread rebellion in 1857.
+  - Additionally, **rumors about the use of cow and pig fat in the new Enfield rifle cartridges** angered both Hindu and Muslim soldiers, leading to the widespread rebellion in 1857.
 
 - **Political factors:** British annexation policies, such as the **Doctrine of Lapse,** caused discontent among Indian princely states that were forcibly absorbed into British India.
 - **The deposition of Bahadur Shah II,:** the last Mughal emperor, and the annexation of Oudh (Awadh) were significant triggers for the 1857 uprising.
@@ -28878,7 +28880,7 @@ Source Question: Examine the linkages between the nineteenth century’s ‘Indi
 
 **Key elements of the Indian Renaissance and their connections to the formation of national identity include:**
 - **Social and religious reform movements:** The 19th century saw numerous movements aimed at eliminating social ills, such as caste discrimination and harmful traditional practices.
- - Reformers like Raja Ram Mohan Roy and Jyotirao Phule spearheaded these movements, fostering unity among diverse groups and instilling pride in Indian culture, which contributed to national identity formation.
+  - Reformers like Raja Ram Mohan Roy and Jyotirao Phule spearheaded these movements, fostering unity among diverse groups and instilling pride in Indian culture, which contributed to national identity formation.
 
 - **Rediscovery of Indian culture and heritage:** Leaders like Swami Vivekananda and Bal Gangadhar Tilak emphasized the importance of cultural revival in building national pride and identity, fostering a sense of shared history among Indians.
 - **Development of modern education:** Western-educated Indians initiated social and political discourse, inspiring others to challenge colonial rule and aspire for self-governance.
@@ -29347,7 +29349,7 @@ Source Question: Since the decade of the 1920s, the national movement acquired v
 
 **The key ideological strands and their impact on the national movement in the 1920s include:**
 - **Gandhian ideology:** Mahatma Gandhi emerged as a prominent leader during this time, **advocating for non-violent civil disobedience, known as Satyagraha,** and passive resistance as a means to challenge British rule.
- - His campaigns, **such as the Non-Cooperation Movement** (1920-1922) and t **he Khilafat Movement** (1919-1924), garnered support from various sections of society, including peasants, workers, and the middle class.
+  - His campaigns, **such as the Non-Cooperation Movement** (1920-1922) and t **he Khilafat Movement** (1919-1924), garnered support from various sections of society, including peasants, workers, and the middle class.
 - **His emphasis on swaraj (self-rule) and the use of indigenous products (swadeshi):** resonated with the masses and attracted diverse groups to the national movement.
 
 - **Revolutionary nationalism:**
@@ -29357,7 +29359,7 @@ Source Question: Since the decade of the 1920s, the national movement acquired v
 
 - **Identity-based movements:** 
 - **The Self-Respect Movement led by E.V. Ramasamy “Periyar” in Tamil Nadu,:** which focused on eradicating caste-based discrimination and promoting self-respect among the lower castes.
- - Similarly, **the demand for separate electorates for Muslims led by the All-India Muslim League** contributed to the communalization of Indian politics.
+  - Similarly, **the demand for separate electorates for Muslims led by the All-India Muslim League** contributed to the communalization of Indian politics.
 
 - **Regional nationalism:** 
 - **Various linguistic and cultural groups demanded greater representation and autonomy:** within the Indian polity.
@@ -32113,14 +32115,14 @@ The American Revolution (1775-1783) was a multifaceted struggle for independence
 
 **Body:**
 - **Mercantilism and British colonial policies:** Mercantilism was a dominant economic theory that linked a nation’s wealth and power to gold and silver accumulation.
- - Colonies served to benefit the mother country, providing raw materials and markets for goods.
- - British policies like the Navigation Acts enforced mercantilism, restricting American colonies’ trade and making them reliant on Britain for imports and exports.
+  - Colonies served to benefit the mother country, providing raw materials and markets for goods.
+  - British policies like the Navigation Acts enforced mercantilism, restricting American colonies’ trade and making them reliant on Britain for imports and exports.
 
 - **Taxation without representation:** A key grievance leading to the American Revolution was taxation without representation.
- - Acts such as the Stamp Act, Townshend Acts, and Tea Act exemplify British efforts to raise revenue from colonies, reflecting mercantilist policies that aimed to exploit the colonies for the mother country’s benefit.
+  - Acts such as the Stamp Act, Townshend Acts, and Tea Act exemplify British efforts to raise revenue from colonies, reflecting mercantilist policies that aimed to exploit the colonies for the mother country’s benefit.
 
 - **Economic self-interest and the desire for free trade:** Many colonists, especially merchants and traders, were frustrated with British mercantilist restrictions.
- - They sought economic self-determination and free trade, believing it would lead to prosperity. This desire fueled the revolutionary sentiment among the colonists.
+  - They sought economic self-determination and free trade, believing it would lead to prosperity. This desire fueled the revolutionary sentiment among the colonists.
 
 - **Economic impact of British policies:** British mercantilist policies and taxation measures hindered the colonies’ economic growth and caused financial hardships for colonists, contributing to discontent with British rule and support for the independence movement.
 
@@ -32709,13 +32711,13 @@ Source Question: Africa was chopped into states artificially created by accident
 
 **Body:**
 - **Historical context:** The Scramble for Africa occurred between 1884 and 1914 due to intense competition among European powers seeking territory and resources.
- - Driven by the Industrial Revolution’s increased demand for raw materials and new markets, these powers aimed to expand their influence and territories in Africa.
+  - Driven by the Industrial Revolution’s increased demand for raw materials and new markets, these powers aimed to expand their influence and territories in Africa.
 
 - **The Berlin Conference (1884-1885):** The Berlin Conference formalized the division of Africa among European powers to prevent conflicts over colonization.
- - However, the boundaries drawn showed little regard for existing ethnic, cultural, and political divisions among African people, often due to limited knowledge and inaccurate maps.
+  - However, the boundaries drawn showed little regard for existing ethnic, cultural, and political divisions among African people, often due to limited knowledge and inaccurate maps.
 
 - **Motives behind colonization:** European powers colonized Africa due to economic interests, political competition, and the spread of cultural and religious beliefs.
- - This allowed them to exploit Africa’s resources and strengthen their global influence by competing with rivals.
+  - This allowed them to exploit Africa’s resources and strengthen their global influence by competing with rivals.
 
 - **Artificial borders and lasting impacts:** Dividing Africa into artificial states had lasting consequences, as European-drawn borders often ignored existing ethnic, cultural, and political divisions.
 - This led to tensions and conflicts among diverse groups, and hindered the development of cohesive national identities, fostering political instability.
@@ -32837,14 +32839,14 @@ The American Revolution (1775-1783) was a multifaceted struggle for independence
 
 **Body:**
 - **Mercantilism and British colonial policies:** Mercantilism was a dominant economic theory that linked a nation’s wealth and power to gold and silver accumulation.
- - Colonies served to benefit the mother country, providing raw materials and markets for goods.
- - British policies like the Navigation Acts enforced mercantilism, restricting American colonies’ trade and making them reliant on Britain for imports and exports.
+  - Colonies served to benefit the mother country, providing raw materials and markets for goods.
+  - British policies like the Navigation Acts enforced mercantilism, restricting American colonies’ trade and making them reliant on Britain for imports and exports.
 
 - **Taxation without representation:** A key grievance leading to the American Revolution was taxation without representation.
- - Acts such as the Stamp Act, Townshend Acts, and Tea Act exemplify British efforts to raise revenue from colonies, reflecting mercantilist policies that aimed to exploit the colonies for the mother country’s benefit.
+  - Acts such as the Stamp Act, Townshend Acts, and Tea Act exemplify British efforts to raise revenue from colonies, reflecting mercantilist policies that aimed to exploit the colonies for the mother country’s benefit.
 
 - **Economic self-interest and the desire for free trade:** Many colonists, especially merchants and traders, were frustrated with British mercantilist restrictions.
- - They sought economic self-determination and free trade, believing it would lead to prosperity. This desire fueled the revolutionary sentiment among the colonists.
+  - They sought economic self-determination and free trade, believing it would lead to prosperity. This desire fueled the revolutionary sentiment among the colonists.
 
 - **Economic impact of British policies:** British mercantilist policies and taxation measures hindered the colonies’ economic growth and caused financial hardships for colonists, contributing to discontent with British rule and support for the independence movement.
 
@@ -33353,7 +33355,7 @@ The “latecomer” industrial revolution in Japan refers to the rapid industria
 
 **Body:**
 - **Unique historical and cultural context:** Japan’s geographical isolation and limited natural resources necessitated a different approach to industrialization, focusing on maximizing available resources and adapting foreign technology.
- - Japan’s feudal structure and **strong central authority,** with the emperor at its apex, facilitated the implementation of **top-down policies** to drive industrialization.
+  - Japan’s feudal structure and **strong central authority,** with the emperor at its apex, facilitated the implementation of **top-down policies** to drive industrialization.
 
 - **Role of the Meiji Restoration:** The Meiji Restoration (1868) marked the end of the feudal shogunate and the **beginning of a period of modernization and reform**. This event was a catalyst for Japan’s industrial revolution, as it opened the country to foreign influences and encouraged the adoption of Western ideas.
 
@@ -35497,19 +35499,19 @@ Sects often arise in moments of uncertainty and they attract the marginalized se
 
 - **Sect as unifying factor:** Several sects form just so that the caste-based discrimination is not faced by the people. The marginalized sections of society are mostly lower castes and are thus more attracted towards sects.
 
- - g., **Buddhism** and Jainism started off against the ill-effects of the caste system in India.
+  - g., **Buddhism** and Jainism started off against the ill-effects of the caste system in India.
 
 - **Sect as divisive factor:** Even within same castes, there may be several sects that may even be opposing in their basic features.
 
- - Brahmins as a caste are sub-divided into sects of Brahmins of Northern India & Southern India. **Salience of ‘sect’ vis-a-vis Region**:
+  - Brahmins as a caste are sub-divided into sects of Brahmins of Northern India & Southern India. **Salience of ‘sect’ vis-a-vis Region**:
 
 - **Geographically selected culture:** Sect reflects both the geography & culture of the region in which it develops. It is a way of accommodating local needs and aspirations within the mainstream religion.
 
- - Example: The **Shaikh are a Muslim community** found in the north Indian states. They have further sub-sects like siddiqui, farooqi, usmani, abbasi.
+  - Example: The **Shaikh are a Muslim community** found in the north Indian states. They have further sub-sects like siddiqui, farooqi, usmani, abbasi.
 
 - **Political identity:** Owing to rising socio-economic status, various sub-castes in India are asserting their dominance in regional political and social sectors.
 
- - Example: **Lingayats in Karnataka** control the regional politics heavily. **Salience of ‘sect’ vis-a-vis Religion**:
+  - Example: **Lingayats in Karnataka** control the regional politics heavily. **Salience of ‘sect’ vis-a-vis Religion**:
 
 - **Adherence to norms:** Both require their followers to adhere to certain ways of living.
 
@@ -35911,19 +35913,19 @@ Source Question: In the context of the diversity of India, can it be said that t
 
 - **Political boundaries are set up based on many different considerations:** The major consideration being the feasibility of creating a State and administrative convenience. **Cultural uniformity** is just one aspect and is not so focused upon since there is free movement within India across State boundaries.
 
- - Example: Telangana and Andhra Pradesh have similarity in Culture but due to large developmental gaps, they separated out. So the Andhra Pradesh region has a culture which is common to Telangana as well despite both being two different states.
+  - Example: Telangana and Andhra Pradesh have similarity in Culture but due to large developmental gaps, they separated out. So the Andhra Pradesh region has a culture which is common to Telangana as well despite both being two different states.
 
 - **Culture is influenced by the environment:** Culture is a survival tool in any environment. This can be seen by the fact that the culture of people living by the coast would be totally different from those living in the hinterlands or cities within a State. Also, a similar environment across States would lead to similar culture.
 
- - For instance, people of **Konkan and Vidarbha have totally different cultures despite being in the State of Maharashtra.** Similarly, Rice-fish cuisine has been practiced across all coastal regions in different states.
+  - For instance, people of **Konkan and Vidarbha have totally different cultures despite being in the State of Maharashtra.** Similarly, Rice-fish cuisine has been practiced across all coastal regions in different states.
 
 - **Culture flows as a continuum:** Culture is a way of life of people and thus people living in proximity would have similarities in culture. This similarity would not go away simply because of any political boundary. Culture would be spread across boundaries.
 
- - Example: Rural males in Southern Gujarat and Maharashtra prefer to wear white Gandhi cap, shirt and pajama, whereas in Northern Gujarat and Rajasthan, they prefer turbans, kurta and dhoti. Also, Eastern UP is more similar to Bihar culture than to Western UP.
+  - Example: Rural males in Southern Gujarat and Maharashtra prefer to wear white Gandhi cap, shirt and pajama, whereas in Northern Gujarat and Rajasthan, they prefer turbans, kurta and dhoti. Also, Eastern UP is more similar to Bihar culture than to Western UP.
 
 - **Cultural variations accumulate:** As culture varies locally, the variations accumulate and at some point, become highly distinct. This leads to different cultural regions within a State.
 
- - For instance, Kerala has a lot of differences in dialect, cuisine, way of life, etc across districts, although all of them are broadly termed as Kerala culture.
+  - For instance, Kerala has a lot of differences in dialect, cuisine, way of life, etc across districts, although all of them are broadly termed as Kerala culture.
 
 - **North-East as a hub of diversity:** North Eastern states were formed on ethno-linguistic lines but Culture differs within and across the state. The tribes living in proximity would have distinct cultural practices that separates its identity from the others.
 
@@ -36061,7 +36063,7 @@ Source Question: Describe any four cultural elements of diversity in India and r
 
 - **Linguistic diversity:** India is one of the most linguistically diverse countries. India has 22 languages as Scheduled languages in the Constitution with over 1100 distinct dialects. The dialects show a continuity which makes it easier for people to understand and communicate with each other. Distinct language and its vast literature acts as a source of pride among people.
 
- - But the linguistic diversity has also been a source of conflict. For instance, Goans are divided on the basis of Maratha and Konkani languages. In Belgaum there is a tug of war between Marathi and Kannada speaking people. Assam is confronted with Bengali and Assamese.
+  - But the linguistic diversity has also been a source of conflict. For instance, Goans are divided on the basis of Maratha and Konkani languages. In Belgaum there is a tug of war between Marathi and Kannada speaking people. Assam is confronted with Bengali and Assamese.
 
 - **Traditions, clothing, food:** India has a rich tradition of music, dance and cuisine, with each region having its own unique style of cooking and flavour.
 - **Festivals:** India has a plethora of festivals at local and regional levels. There are also festivals like Diwali, Holi, Eid, etc that are celebrated throughout India.
@@ -36495,7 +36497,7 @@ Tribal communities in India are a diverse group, with significant differences in
 - **Culture:** 
 
 - **Worship of a Common Ancestor:** The members of a tribe usually worship a common ancestor and also “Nature” worship is common in them.
- - **Distinct rituals, festivals, cuisine,**
+  - **Distinct rituals, festivals, cuisine,**
 - **Legal:** 
 
 - Constitutional and legal provisions categorize tribes into a single category of **‘Scheduled Tribes’ (ST)** notwithstanding the diversity among them.
@@ -36689,12 +36691,12 @@ Source Question: Examine the role of &#8216;Gig Economy&#8217; in the process of
 **Gig economy can help in the process of empowerment of women in India in following ways:**
 - **Balance work and family:** Gig employment allows part-time work and flexible working hours which allows women to balance their traditional family roles (homemakers and caregiver) with employment.
 
- - For example, the rise of online platforms such as **Amazon and Flipkart** has created opportunities for women in rural areas to earn money by selling their products online.
+  - For example, the rise of online platforms such as **Amazon and Flipkart** has created opportunities for women in rural areas to earn money by selling their products online.
 
 - **Flexibility to enter and exit:** Many women in India face barriers to employment due to cultural and societal norms. The gig economy provides women with on-demand work allowing her to join and drop-out of work force as per her own will.
 - **New employment opportunities:** With gig employment complemented by **work-from-home (WFH)** and technology, new employment opportunities for **women in tier 2 and 3 cities** have emerged where they do not need to travel much.
 
- - A boost in use of digital technology and increased acceptance of virtual working for sales and distribution jobs opens up opportunities for women to enter fields where interactions are managed through apps and phone calls.
+  - A boost in use of digital technology and increased acceptance of virtual working for sales and distribution jobs opens up opportunities for women to enter fields where interactions are managed through apps and phone calls.
 
 - It has addressed the **issue of safety** during travel and night shifts.
 - **Financial independence:** Gig employment helps women earn extra income, boosts her confidence and gives decision making power, all of which are important components of women empowerment.
@@ -37915,7 +37917,7 @@ Source Question: How does Indian society maintain continuity in traditional soci
 
 - **Enculturation:** Cultural practices and traditions are transmitted from parents and grandparents to children. This includes teaching children about the importance of respect, obedience, and obedience to elders, as well as cultural practices such as rituals and customs.
 
- - For instance, despite urbanization and modernization, all members of the family are always encouraged to be together to celebrate Diwali.
+  - For instance, despite urbanization and modernization, all members of the family are always encouraged to be together to celebrate Diwali.
 
 - **Religion:** Many people in India follow traditional religions such as Hinduism, Islam and Sikhism, which have their own set of values and beliefs that are passed down through the generations. These religions also provide a sense of community and belonging which reinforces the traditional values.
 - **Flexibility:** Indian culture has been flexible in accommodating different and even diverging viewpoints.
@@ -39888,12 +39890,12 @@ Source Question: Examine the role of &#8216;Gig Economy&#8217; in the process of
 **Gig economy can help in the process of empowerment of women in India in following ways:**
 - **Balance work and family:** Gig employment allows part-time work and flexible working hours which allows women to balance their traditional family roles (homemakers and caregiver) with employment.
 
- - For example, the rise of online platforms such as **Amazon and Flipkart** has created opportunities for women in rural areas to earn money by selling their products online.
+  - For example, the rise of online platforms such as **Amazon and Flipkart** has created opportunities for women in rural areas to earn money by selling their products online.
 
 - **Flexibility to enter and exit:** Many women in India face barriers to employment due to cultural and societal norms. The gig economy provides women with on-demand work allowing her to join and drop-out of work force as per her own will.
 - **New employment opportunities:** With gig employment complemented by **work-from-home (WFH)** and technology, new employment opportunities for **women in tier 2 and 3 cities** have emerged where they do not need to travel much.
 
- - A boost in use of digital technology and increased acceptance of virtual working for sales and distribution jobs opens up opportunities for women to enter fields where interactions are managed through apps and phone calls.
+  - A boost in use of digital technology and increased acceptance of virtual working for sales and distribution jobs opens up opportunities for women to enter fields where interactions are managed through apps and phone calls.
 
 - It has addressed the **issue of safety** during travel and night shifts.
 - **Financial independence:** Gig employment helps women earn extra income, boosts her confidence and gives decision making power, all of which are important components of women empowerment.
@@ -40417,7 +40419,7 @@ Challenges faced by Indian women emanate from **Hegemonic patriarchy**, which is
 - **Motherhood penalty:** The primary responsibility of taking care of family and bringing up the child is still on the women. This includes unpaid care work such as childcare, elderly care, and household work.
 - **Declining female labor force participation rate (LFPR):** Many women have to retreat from the workforce due to family pressures. They face ‘dual burden’ i.e., they have to perform both family and professional responsibilities together.
 
- - Despite increasing levels of education and declining fertility rates, the current female LFPR is 25.1% compared to 57.5% for male.
+  - Despite increasing levels of education and declining fertility rates, the current female LFPR is 25.1% compared to 57.5% for male.
 
 - **Commodification of women:** The women are either shown as docile homemakers or they are shown as sex symbols trying to convince the public at large to buy the product. **Domestic violence and dowry harassment** within the confines of the house are also extensions of this phenomenon
 - **Pink collar jobs:** The women are mostly deemed fit for “pink-collar jobs” only, such as **teachers, nurses, receptionist, babysitter, lecturer** which have been stereotyped for women. This denies them opportunities in other fields
@@ -40756,7 +40758,7 @@ Some major Causes for Feminization of Indian Agriculture are:
 
 - **Male Migration:** Agriculture distress has made it inevitable for men to seek alternatives, mostly casual labor. Males are more likely to migrate and move from rural to urban areas in search of better job opportunities, while females are primarily responsible for various roles in agriculture.
 
- - As per the 2011 census, approximately 1/3rd of rural male migrated to cities in search of employment and better economic opportunities leading to increased participation of women in agriculture and allied activities.
+  - As per the 2011 census, approximately 1/3rd of rural male migrated to cities in search of employment and better economic opportunities leading to increased participation of women in agriculture and allied activities.
 
 - **Gender wage gap:** Men are paid more than women in many of the jobs. When a male can get more by working elsewhere, the low-income work of an agricultural laborer is left for women.
 - **Increased mechanization:** With increased use of machines, men have moved to other activities, while traditional physical work like harvesting are typified as women’s work. Women are thus more engaged as agriculture labor rather than as cultivators.
@@ -40880,7 +40882,7 @@ Patriarchy in India varies in degree depending upon the region, community, class
 - **Wage disparity:** Despite the same position and type of work, women earned less than their male counterparts. The provisions of maternity leave have further increased this issue as companies either do not prefer hiring women or pay them less than others.
 - **Earning but no say in decision making:** Women from the middle class earn money from working outside their home but her financial contribution does not give her any say in family decision making, since she is not considered smart enough to make decisions. This undervaluation results in low confidence and low productivity, while depriving them of the opportunity to showcase their talent.
 
- - For instance, “Glass ceiling” effect whereby Female employees are not considered for promotions above a certain grade as the patriarchal mindset considers them unsuitable.
+  - For instance, “Glass ceiling” effect whereby Female employees are not considered for promotions above a certain grade as the patriarchal mindset considers them unsuitable.
 
 - **Safety concerns:** Middle class working women often depend on public transport and such other facilities to go to work. They further face sexual harassment at workplace. Lack of any security measures for women in a patriarchal society often leads to increasing crime against women. The fear induced among women and their families further imposes restrictions on her potential.
 - **Feminization of labor:** Females are considered apt for certain kinds of jobs, often called **‘pink-collar jobs’.** Teaching, nursing, hospitality, etc. Anything apart from these jobs are considered taboo by families and women are not allowed to enter such jobs.
@@ -41733,7 +41735,7 @@ Cryptocurrency is a new emerging technology which is revolutionizing the way peo
 - **Crypto as an investment:** Cryptocurrency has emerged as a new asset class and is seen as an alternative to gold. However, fluctuation in the value of cryptocurrency has made both kings and beggars.
 - **Cheaper and safer transactions:** For consumers, transferring money becomes a lot cheaper and in certain instances, safer as well, as transactions cannot be replicated.
 
- - Due to the ease and speed of transaction it allows, crypto has empowered relief efforts in Ukraine. Ukraine accepts millions of dollars in donations via digital currencies and many Ukrainians have been drawn to cryptocurrency as a place to invest their money as there is no strong stock market alternative.
+  - Due to the ease and speed of transaction it allows, crypto has empowered relief efforts in Ukraine. Ukraine accepts millions of dollars in donations via digital currencies and many Ukrainians have been drawn to cryptocurrency as a place to invest their money as there is no strong stock market alternative.
 
 - **Government control over economy reduces, reducing the hold on the society:** Cryptocurrencies take away the sovereign power of issuing currency making economic policy ineffective and diluting the bond between citizen and government.
 - **Crypto is used for funding activities that destabilize society:** Crypto is used by terrorist organization, drug cartels, money launderers, etc. which negatively impacts society at large. Anonymity in cryptocurrency has the potential to increase crime in society.
@@ -42990,9 +42992,9 @@ Apart from these, the Government of India has taken up many legal initiatives fo
 
 **Scheduled Castes and Scheduled Tribes (Prevention of Atrocities), 2015 and Panchayat (Extension to the Scheduled Areas), Act, 1996.**
 - **Scheduled Castes and Scheduled Tribes (Prevention of Atrocities) Act, 2015:** The STs face peculiar atrocities like accusation of witchcraft, disrobing of women and sexual harassment, defiling their sacred places and forest deities, imposing social or economic boycott, abusing them through words, acts or gesture, etc.
- - The Act seeks to prevent the commission of atrocities against the members of the Scheduled Castes and the Scheduled Tribes.
- - All offenses under the Act are cognizable and there is no provision of anticipatory bail.
- - The act provides for Special Courts for the trial of such offenses and for the relief and rehabilitation of the victims of such offenses and for matters connected.
+  - The Act seeks to prevent the commission of atrocities against the members of the Scheduled Castes and the Scheduled Tribes.
+  - All offenses under the Act are cognizable and there is no provision of anticipatory bail.
+  - The act provides for Special Courts for the trial of such offenses and for the relief and rehabilitation of the victims of such offenses and for matters connected.
 
 - **Forest Rights Act, 2006:** The ST population lives a life that is heavily dependent on forests for a variety of needs, including livelihood, habitation and other sociocultural needs. Their displacement from forests disturbs all aspects of their life, yet they were discriminated against in matters of rehabilitation and compensation.
 - FRA recognises the
@@ -43142,7 +43144,7 @@ Generally, the Scheduled Tribes are characterized by distinct culture, geographi
 - **Article 16:** Reservation in posts and services and in matters of promotion has been provided in Article 16(4), 16(4A) and 16(4B) of the Constitution.
 - **Article 23:** which prohibits traffic in human beings and beggars and other similar forms of forced labor has a special significance for Scheduled Tribes.
 - **Article 46:** Promotion of Educational and Economic interests of Scheduled Tribes –:** It provides that the State shall promote with special care the educational and economic interests of the Scheduled Tribes and shall protect them from social injustice and all forms of exploitation.
- - **Article 335: Claims of Scheduled Castes and Scheduled Tribes to services and posts**
+  - **Article 335: Claims of Scheduled Castes and Scheduled Tribes to services and posts**
 - **Political Safeguards:**
 
 **Article 330 and 332:** Reservation of seats for Scheduled Castes and Scheduled Tribes in the Lok Sabha and Legislative Assemblies of the States respectively
@@ -44388,11 +44390,11 @@ Source Question: Is diversity and pluralism in India under threat due to globali
 **Areas where cultural diversity is at threat due to globalization:**
 - **Linguistic homogenisation:** The influence of transnational corporations has resulted in a central common language mainly **English,** which dominates regional dialects, and minority languages.
 
- - This impacts the development of local languages, literature and in some cases complete wipe-out of some local languages.
+  - This impacts the development of local languages, literature and in some cases complete wipe-out of some local languages.
 
 - **Cultural homogenization:** There is increasing ‘ **McDonaldization’** of Indian food habits. Global market decides what’s to be produced, resulting in low incentive for diverse products which means Loss of local artifacts, promotion of western dressing, shift from local culinary habits etc.
 
- - Unmonitored access to Western culture has led to increasing misrepresentation, stereotyping and the risk of loss of culture.
+  - Unmonitored access to Western culture has led to increasing misrepresentation, stereotyping and the risk of loss of culture.
 
 - **Individualisation of relations:** Community affiliation reduced due to globalization as the person is more concerned with one’s own interests rather than the communities.
 - **Nuclearization of family:** Joint family system broke down due to increase in economic migration and choice for individual space as part of globalization.
@@ -44402,11 +44404,11 @@ But there is a **silver lining too**. Globalization has aided diversity in some 
 
 - **Global opportunities:** English as a global language has led to opening up of job and education opportunities throughout the world. Indians have been particularly benefited in the services sector.
 
- - Globalization has aided interaction between people of different cultural backgrounds and helped people learn about other cultures. This has contributed to the emergence of new cultural practices and identities.
+  - Globalization has aided interaction between people of different cultural backgrounds and helped people learn about other cultures. This has contributed to the emergence of new cultural practices and identities.
 
 - **Wider reach of Indian culture:** Technology has helped preserve some of the dying artifacts, document local languages, made some Indian dishes and artifacts globally popular and also exposed Indians to various global arts/movies etc.
 
- - Example: Yoga has become famous globally and today we have 21st June as **International Yoga Day**.
+  - Example: Yoga has become famous globally and today we have 21st June as **International Yoga Day**.
 
 - **Lesser importance to Caste:** Globalization has led to decreased emphasis on localized castes. Globalization has led to the rise of lower castes by making them aware of their rights. People eat together, and increased instances of inter-caste marriages are seen in the urban areas.
 - **Women empowerment:** Globalization has attacked the discriminatory tendencies and patriarchal mindset in India. It has helped in getting rid of practices derogatory to women and has helped in the rise of women and exposure of women related issues.
@@ -45997,7 +45999,7 @@ In fact, in recent times, the caste system has been evolving and is assuming new
 
 - **Political:** Unlike the old structure, various caste communities have strengthened themselves by forming **political parties based on caste identity**. **Example** – Bahujan Samajwadi Party, due to which caste based political mobilization has been increasing.
 
- - Similarly, there is a rising demand for **caste-based allocation of electoral seats**. **Example:Lingayats demand** that they be considered as minority communities.
+  - Similarly, there is a rising demand for **caste-based allocation of electoral seats**. **Example:Lingayats demand** that they be considered as minority communities.
 
 - **Caste has gone beyond its traditional scope:** Today, **caste-based associations** provide scholarships, residential coaching facilities for competitive exams, support for business, etc. This encourages people to identify more with their caste identity.
 - **Uneven benefits:** Development policies targeting backward castes and scheduled people have only benefited a particular section of the population. These classes have emerged as oligarchs and have created divisions within the backward castes. These policies have strengthened caste-based mobilization.
@@ -47242,7 +47244,7 @@ Source Question: Do you agree that regionalism in India appears to be a conseque
 - **Historical injustices:** Some regions may feel that they have been marginalized or treated unfairly by the Union, leading to a desire for greater autonomy and self-governance. Regionalism becomes a tool for them to mobilize the masses using their cultural symbols.
 - **Political parties:** Political parties often use regionalism as a campaign platform in order to appeal to voters in their respective regions. This can fuel regional identity and a sense of loyalty to one’s own region.
 
- - The reservation of jobs for locals in private companies in many states like Haryana, Karnataka, etc.
+  - The reservation of jobs for locals in private companies in many states like Haryana, Karnataka, etc.
 
 - **Social media:** It highlights various facets of regional culture and identity to bring together people belonging to a region. This cultural assertiveness further leads to regionalism.
 - **Imposition of a conflicting ideology or aspiration:** Linguistic aspirations and expression of ethnicity have long remained a formidable basis of regionalism. Example: Imposition of Hindi became a trigger for regional movements in Southern states.
@@ -47422,7 +47424,7 @@ Source Question: What is the basis of regionalism? Is it that unequal distributi
 
 - **Historical injustices:** Some regions may feel that they have been marginalized or treated unfairly, leading to a desire for greater autonomy and self-governance. Regionalism becomes a tool for them to mobilize the masses using their cultural symbols.
 
- - The **Jharkhand movement** was a typical example of how historical neglect of the needs of the people living in the region led to rise of regionalism and eventual bifurcation of Bihar state.
+  - The **Jharkhand movement** was a typical example of how historical neglect of the needs of the people living in the region led to rise of regionalism and eventual bifurcation of Bihar state.
 
 - **Imposition of a conflicting ideology or aspiration:** Linguistic aspirations: **and expression of ethnicity have long remained a formidable basis of regionalism. Example:** Imposition of Hindi **became a trigger for regional movements in Southern states.**
 
@@ -47789,14 +47791,14 @@ Tolerance allows divergent ideas, customs, beliefs, and lifestyles to flourish i
 - Religions like Christianity and Islam were introduced by invaders, yet they coexisted with the rest of the society without losing their distinctive identities.
 - When multiple religious communities coexist, over time they begin to **incorporate elements of one another’s** art, architecture, culture, and religion.
 
- - For instance, Mughal art is the result of the fusion of Persian Islamic architecture and native Indian design. The Mughal art in turn strongly influenced the Rajput paintings of Jaipur and Amber. **Assimilation as a key element of Indian Secularism**:
+  - For instance, Mughal art is the result of the fusion of Persian Islamic architecture and native Indian design. The Mughal art in turn strongly influenced the Rajput paintings of Jaipur and Amber. **Assimilation as a key element of Indian Secularism**:
 
 Assimilation is the process whereby individuals or groups of differing ethnic heritage are absorbed into the dominant culture of a society. Assimilation involves the incorporation of diverse groups and cultures into a larger society.
 
 - **Unity in diversity:** In India, assimilation is seen through the view that diversity is a strength, and that by embracing different cultures and traditions, the country can become more united and cohesive.
 - **‘Indian culture’:** Differences in cultures blend together so seamlessly that despite variations, there are several commonalities that lead to a general idea of an ‘Indian culture’.
 
- - For instance, an Indian Muslim or Christian is closer to Indian Hindu than to Christians of Europe or Muslims of West Asia.
+  - For instance, an Indian Muslim or Christian is closer to Indian Hindu than to Christians of Europe or Muslims of West Asia.
 - The Sufi saints are revered by all Indians irrespective of their faith.
 
 
@@ -48714,7 +48716,7 @@ Source Question: What are the main socio-economic implications arising out of th
 **Some positive implications are:**
 - **Economic boost:** Development of IT industries in major cities has led to development of massive **employment opportunities**. This rise in employment led to the **rise of new middle, higher income and improved standard of living. Greater focus on consumption** has led to the development of ancillary businesses as well.
 
- - The IT industry contributes to about 8% of GDP.
+  - The IT industry contributes to about 8% of GDP.
 
 - **Gender parity:** The labor force participation of **women in quality jobs is comparatively more in these cities** due to development of IT industries. It has led to their financial independence and empowerment.
 - **Social infrastructure:** Development of IT industries have given **boost to the social infrastructure as the people working in IT industries aspire for and are willing to pay for good quality services**. This could be seen in high **availability of schools, hospitals, transport facilities, etc.** in these cities.
@@ -48728,7 +48730,7 @@ There are some **negative implications** as well. They can be seen as follows:
 
 - **Imbalanced development and economic disparity:** Concentration of IT industry in a **handful of major cities** has led them to develop faster than the semi urban Tier 2 and 3 cities. Moreover, there is also a **huge wage gap** between IT workers and other workers.
 
- - For example, tier 2 and 3 cities like Lucknow, Jaipur, Chandigarh, Bhubaneshwar, Indore were developing slower than their surrounding IT based cities like Delhi, Gurugram, Mumbai, etc.
+  - For example, tier 2 and 3 cities like Lucknow, Jaipur, Chandigarh, Bhubaneshwar, Indore were developing slower than their surrounding IT based cities like Delhi, Gurugram, Mumbai, etc.
 
 - **Brain drain:** The concentration of the IT industry in major cities has led to a brain drain in other parts of the country, as people flock to the cities in search of employment opportunities.
 - **Increased cost of living:** Rising real estate prices and increased competition for skilled workers make it difficult for people from lower end jobs in the IT industry to continue to live in these cities.
@@ -50060,7 +50062,7 @@ Smart cities in India aim to **reduce urban poverty** by **improving access to h
 
 - **Transparent Governance:** Use of ICT (apps, grievance portals, dashboards) enhances accountability and fair distribution.
 
- - Eg:*Surat Smart City’s* e-governance portal allows real-time grievance redressal for poor households.
+  - Eg:*Surat Smart City’s* e-governance portal allows real-time grievance redressal for poor households.
 
 - **Environmental Justice:** Cleaner air, sanitation, and waste management improve quality of life for the poorest.
 
@@ -51001,7 +51003,7 @@ Generally, the Scheduled Tribes are characterized by distinct culture, geographi
 - **Article 16:** Reservation in posts and services and in matters of promotion has been provided in Article 16(4), 16(4A) and 16(4B) of the Constitution.
 - **Article 23:** which prohibits traffic in human beings and beggars and other similar forms of forced labor has a special significance for Scheduled Tribes.
 - **Article 46:** Promotion of Educational and Economic interests of Scheduled Tribes –:** It provides that the State shall promote with special care the educational and economic interests of the Scheduled Tribes and shall protect them from social injustice and all forms of exploitation.
- - **Article 335: Claims of Scheduled Castes and Scheduled Tribes to services and posts**
+  - **Article 335: Claims of Scheduled Castes and Scheduled Tribes to services and posts**
 - **Political Safeguards:**
 
 **Article 330 and 332:** Reservation of seats for Scheduled Castes and Scheduled Tribes in the Lok Sabha and Legislative Assemblies of the States respectively
