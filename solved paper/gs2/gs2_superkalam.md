@@ -39,7 +39,7 @@ To ensure true functional autonomy, India must institutionalize an independent *
 
 ---
 
-## Question 2 (Year: 2025 | Paper: GS 2 | Marks: N/A) **Compare and contrast the President&#x27;s power to pardon in India and in the USA. Are there any limits to it in both the countries? What are preemptive pardons?**
+## Question 2 (Year: 2025 | Paper: GS 2 | Marks: N/A) Compare and contrast the President&#x27;s power to pardon in India and in the USA. Are there any limits to it in both the countries? What are preemptive pardons?
 
 ### Answer
 
@@ -59,7 +59,7 @@ India and USA Pardon Power Comparison
 | **Decision Process** | Acts on Council of Ministers' advice (Article 74) | Independent presidential discretion |
 | **Judicial Review** | Extensive (mala fide, arbitrary decisions) | Limited (Ex Parte Garland case) |
 
-## Constitutional Framework and Scope **Indian Context**:
+## Constitutional Framework and Scope Indian Context:
 
 -** Article 72 **empowers President for Union law offenses and death sentences
 - Federal structure limits scope - state offenses under Governor's jurisdiction
@@ -72,7 +72,7 @@ India and USA Pardon Power Comparison
 - Historical precedent since** George Washington's Whiskey Rebellion pardons **- Cannot override state convictions or congressional impeachment
 -** Trump's 237 pardons **during final days demonstrated extensive use
 
-## Limits to Pardoning Power** Indian Limitations**:
+## Limits to Pardoning Power Indian Limitations:
 
 -** Judicial review **for arbitrary or discriminatory decisions
 -** Maru Ram v. Union of India **established review parameters
@@ -101,7 +101,7 @@ While both systems recognize clemency as a constitutional necessity, India’s m
 
 ---
 
-## Question 3 (Year: 2025 | Paper: GS 2 | Marks: N/A)** &quot;Constitutional morality is the fulcrum which acts as an essential check upon the high functionaries and citizens alike….&quot;**
+## Question 3 (Year: 2025 | Paper: GS 2 | Marks: N/A) &quot;Constitutional morality is the fulcrum which acts as an essential check upon the high functionaries and citizens alike….&quot;
 **Question ID: 2025-gs2-q3-superkalam**
 
 ### Answer
@@ -149,7 +149,7 @@ Constitutional morality acts as the** soul of the Constitution**, ensuring that 
 
 ---
 
-## Question 4 (Year: 2025 | Paper: GS 2 | Marks: N/A)** Discuss the &#x27;corrupt practices&#x27; for the purpose of the Representation of the People Act, 1951. Analyze whether the increase in the assets of the legislators and/or their associates, disproportionate to their known sources of income, would constitute &#x27;undue influence&#x27; and consequently a corrupt practice. **
+## Question 4 (Year: 2025 | Paper: GS 2 | Marks: N/A) Discuss the &#x27;corrupt practices&#x27; for the purpose of the Representation of the People Act, 1951. Analyze whether the increase in the assets of the legislators and/or their associates, disproportionate to their known sources of income, would constitute &#x27;undue influence&#x27; and consequently a corrupt practice. 
 
 ### Answer
 **Question ID: 2025-gs2-q4-superkalam**
@@ -160,7 +160,7 @@ The Representation of the People Act (RPA), 1951 lays down provisions to ensure 
 
 Corrupt practices in Indian elections
 
-## Corrupt Practices under RPA, 1951** Bribery (Section 123(1)): **- Promotion of Enmity or Hatred among communities.
+## Corrupt Practices under RPA, 1951 Bribery (Section 123(1)): - Promotion of Enmity or Hatred among communities.
 - Use of Government Machinery/Official Position for electoral gains.
 - Includes indirect benefits like loan waivers targeting specific voter groups
 - Publication of False Statements regarding candidates.
@@ -193,7 +193,7 @@ Strengthening electoral integrity requires amendments linking disproportionate a
 
 ---
 
-## Question 5 (Year: 2025 | Paper: GS 2 | Marks: N/A)** Discuss the evolution of collegium system in India. Critically examine the advantages and disadvantages of the system of appointment of the Judges of the Supreme Court of India and that of the USA. **
+## Question 5 (Year: 2025 | Paper: GS 2 | Marks: N/A) Discuss the evolution of collegium system in India. Critically examine the advantages and disadvantages of the system of appointment of the Judges of the Supreme Court of India and that of the USA. 
 
 ### Answer
 **Question ID: 2025-gs2-q5-superkalam**
@@ -246,7 +246,7 @@ India’s collegium system prioritises autonomy of the judiciary but often lacks
 
 ---
 
-## Question 6 (Year: 2025 | Paper: GS 2 | Marks: N/A)** Discuss the nature of Jammu and Kashmir Legislative Assembly after the Jammu and Kashmir Reorganization Act, 2019. Briefly describe the powers and functions of the Assembly of the Union Territory of Jammu and Kashmir. **
+## Question 6 (Year: 2025 | Paper: GS 2 | Marks: N/A) Discuss the nature of Jammu and Kashmir Legislative Assembly after the Jammu and Kashmir Reorganization Act, 2019. Briefly describe the powers and functions of the Assembly of the Union Territory of Jammu and Kashmir. 
 
 ### Answer
 **Question ID: 2025-gs2-q6-superkalam**
@@ -257,7 +257,7 @@ The** Jammu and Kashmir Reorganization Act, 2019 **transformed the state into a 
 
 Nature of Jammu and Kashmir Legislature after Reorganisation
 
-##** Nature of Jammu and Kashmir Legislative Assembly** **Constitutional Status:** - Like Puducherry, J&K’s Assembly is governed by Article 239A, while Delhi operates under a distinct Article 239AA with a more complex power-sharing framework between the LG and the government.
+## Nature of Jammu and Kashmir Legislative Assembly Constitutional Status: - Like Puducherry, J&K’s Assembly is governed by Article 239A, while Delhi operates under a distinct Article 239AA with a more complex power-sharing framework between the LG and the government.
 - Operates under the direct supervision of the **Lieutenant Governor** appointed by the President
 - Follows** unicameral structure**, unlike the earlier bicameral system of the erstwhile state
 - Subject to** Parliamentary oversight **through Union Home Ministry
@@ -282,9 +282,11 @@ Nature of Jammu and Kashmir Legislature after Reorganisation
 - **No confidence motions** against the Council of Ministers
 - Approval of **Lieutenant Governor's reports** to the President
 
-The transformed Assembly represents a** hybrid federal structure**, balancing regional democratic participation with enhanced central oversight, ensuring integration while maintaining local representation through institutions like** District Development Councils **and** Panchayati Raj **---
+The transformed Assembly represents a** hybrid federal structure**, balancing regional democratic participation with enhanced central oversight, ensuring integration while maintaining local representation through institutions like** District Development Councils **and** Panchayati Raj **
 
-## Question 7 (Year: 2025 | Paper: GS 2 | Marks: N/A)** Examine the evolving pattern of Centre-State financial relations in the context of planned development in India. How far have the recent reforms impacted the fiscal federalism in India? **
+---
+
+## Question 7 (Year: 2025 | Paper: GS 2 | Marks: N/A) Examine the evolving pattern of Centre-State financial relations in the context of planned development in India. How far have the recent reforms impacted the fiscal federalism in India? 
 
 ### Answer
 
@@ -331,10 +333,10 @@ Economic reforms Pre and Post Niti Aayog** Centralised Planning Era (1950–1991
 
 ---
 
-## Question 7 (Year: 2025 | Paper: GS 2 | Marks: N/A)** Indian Constitution has conferred the amending power on the ordinary legislative institutions with a few procedural hurdles. In view of this statement, examine the procedural and substantive limitations on the amending power of the Parliament to change the Constitution. **
+## Question 300 (Year: 2025 | Paper: GS 2 | Marks: N/A) Indian Constitution has conferred the amending power on the ordinary legislative institutions with a few procedural hurdles. In view of this statement, examine the procedural and substantive limitations on the amending power of the Parliament to change the Constitution. 
 
 ### Answer
-**Question ID: 2025-gs2-q7-superkalam**
+**Question ID: 2025-gs2-q300-superkalam**
 
 CJI D.Y. Chandrachud recently called the Basic Structure Doctrine the "North Star" guiding India. With 106 successful amendments, Article 368 balances legislative agility with strict procedural and substantive hurdles.
 
@@ -365,11 +367,11 @@ Article 368: Limitations on Amending Power
 
 By anchoring legislative power to the basic structure, India ensures its Constitution remains an adaptable, living document capable of evolving without losing its foundational democratic soul.
 
-[Question ID: 2025-gs2-q7-superkalam]
+[Question ID: 2025-gs2-q300-superkalam]
 
 ---
 
-## Question 8 (Year: 2025 | Paper: GS 2 | Marks: N/A) **&quot;The Attorney General of India plays a crucial role in guiding the legal framework of the Union Government and ensuring sound governance through legal counsel.&quot; Discuss his responsibilities, rights and limitations in this regard.**
+## Question 8 (Year: 2025 | Paper: GS 2 | Marks: N/A) &quot;The Attorney General of India plays a crucial role in guiding the legal framework of the Union Government and ensuring sound governance through legal counsel.&quot; Discuss his responsibilities, rights and limitations in this regard.
 
 ### Answer
 **Question ID: 2025-gs2-q8-superkalam**
@@ -405,7 +407,7 @@ Filling subordinate law officer vacancies and institutionalizing the National Li
 
 ---
 
-## Question 9 (Year: 2025 | Paper: GS 2 | Marks: N/A)** The National Commission for Protection of Child Rights has to address the challenges faced by children in the digital era. Examine the existing policies and suggest measures the Commission can initiate to tackle the issue. **
+## Question 9 (Year: 2025 | Paper: GS 2 | Marks: N/A) The National Commission for Protection of Child Rights has to address the challenges faced by children in the digital era. Examine the existing policies and suggest measures the Commission can initiate to tackle the issue. 
 
 ### Answer
 **Question ID: 2025-gs2-q9-superkalam**
@@ -416,7 +418,7 @@ The** National Commission for Protection of Child Rights (NCPCR) **faces unprece
 
 NCPCR Digital Safety Framework Core Components
 
-##** Challenges Faced by Children in Digital Era **
+## Challenges Faced by Children in Digital Era 
 **Online Safety Threats:** - **Cyberbullying and harassment** affecting 1 in 3 children online
 - **Online sexual exploitation** with 2.4 million reported cases (2017-2020)
 - **Digital addiction** leading to mental health issues among 40% urban children
@@ -427,14 +429,14 @@ NCPCR Digital Safety Framework Core Components
 - **Language barriers** in digital content consumption
 - **Infrastructure inadequacy** in remote areas
 
-## **Existing Policies** | **Policy/Act** | **Key Provisions** | **Limitations** |
+## Existing Policies | Policy/Act | Key Provisions | Limitations |
 | --- | --- | --- |
 | **POCSO Act 2012** | Online child sexual abuse coverage | Limited enforcement mechanisms |
 | **IT Act 2000 (Amendment 2008)** | Cybercrime provisions | Inadequate child-specific protections |
 | **Digital Personal Data Protection Act 2023** | Children's data protection | Implementation pending |
 | **Juvenile Justice Act 2015** | Child welfare in digital crimes | Lacks preventive measures |
 
-## **Suggested Measures for NCPCR**
+## Suggested Measures for NCPCR
 ** Policy Initiatives: **- Develop** comprehensive Digital Child Safety Policy **with mandatory implementation
 - Establish** Child Digital Rights Charter **ensuring privacy and safety
 - Create** age-appropriate internet usage guidelines **for different developmental stages
@@ -451,7 +453,7 @@ The** Digital India initiative **must prioritize child safety through NCPCR's en
 
 ---
 
-## Question 10 (Year: 2025 | Paper: GS 2 | Marks: N/A)** What are environmental pressure groups? Discuss their role in raising awareness, influencing policies and advocating for environmental protection in India. **
+## Question 10 (Year: 2025 | Paper: GS 2 | Marks: N/A) What are environmental pressure groups? Discuss their role in raising awareness, influencing policies and advocating for environmental protection in India. 
 
 ### Answer
 **Question ID: 2025-gs2-q10-superkalam**
@@ -492,7 +494,7 @@ To achieve** Net-Zero 2070**, India must view these groups as essential trustees
 
 ---
 
-## Question 11 (Year: 2024 | Paper: GS 2 | Marks: N/A)** Analyze the role of local bodies in providing good governance at local level and bring out the pros and cons of merging the rural local bodies with the urban local bodies. **
+## Question 11 (Year: 2024 | Paper: GS 2 | Marks: N/A) Analyze the role of local bodies in providing good governance at local level and bring out the pros and cons of merging the rural local bodies with the urban local bodies. 
 
 ### Answer
 
@@ -531,7 +533,7 @@ The** 16th Finance Commission **should incentivize cooperative regional planning
 
 ---
 
-## Question 12 (Year: 2024 | Paper: GS 2 | Marks: N/A)** Discuss India as a secular state and compare it with the secular principles of the US constitution. **
+## Question 12 (Year: 2024 | Paper: GS 2 | Marks: N/A) Discuss India as a secular state and compare it with the secular principles of the US constitution. 
 
 ### Answer
 
@@ -593,7 +595,7 @@ While both India and the US uphold secularism and religious freedom, their appro
 
 ---
 
-## Question 13 (Year: 2024 | Paper: GS 2 | Marks: N/A)** Examine the need for electoral reforms as suggested by various committees with particular reference to the “one nation-one election” principle. **
+## Question 13 (Year: 2024 | Paper: GS 2 | Marks: N/A) Examine the need for electoral reforms as suggested by various committees with particular reference to the “one nation-one election” principle. 
 
 ### Answer
 
@@ -635,7 +637,7 @@ As the Union Cabinet recently approved ONOE in phases, the newly formed Implemen
 
 ---
 
-## Question 14 (Year: 2024 | Paper: GS 2 | Marks: N/A)** Explain and distinguish between Lok Adalats and Arbitration Tribunals. Whether they entertain civil as well as criminal cases? **
+## Question 14 (Year: 2024 | Paper: GS 2 | Marks: N/A) Explain and distinguish between Lok Adalats and Arbitration Tribunals. Whether they entertain civil as well as criminal cases? 
 
 ### Answer
 
@@ -670,7 +672,7 @@ Strengthening these mechanisms through seamless digital integration and the** Na
 
 ---
 
-## Question 15 (Year: 2024 | Paper: GS 2 | Marks: N/A)** Explain the reasons for the growth of PILs in India. As a result of it, has the India supreme court emerged as the most powerful judiciary? **
+## Question 15 (Year: 2024 | Paper: GS 2 | Marks: N/A) Explain the reasons for the growth of PILs in India. As a result of it, has the India supreme court emerged as the most powerful judiciary? 
 
 ### Answer
 
@@ -711,7 +713,7 @@ While PILs forged the SC into a formidable socio-economic equalizer, its power r
 
 ---
 
-## Question 16 (Year: 2024 | Paper: GS 2 | Marks: N/A)** Right to privacy is intrinsic to life and personal liberty and is inherently protected under Article 21 of the constitution. Explain. In this reference discuss the law relating to D.N.A. testing of a child in the womb to establish its paternity. **
+## Question 16 (Year: 2024 | Paper: GS 2 | Marks: N/A) Right to privacy is intrinsic to life and personal liberty and is inherently protected under Article 21 of the constitution. Explain. In this reference discuss the law relating to D.N.A. testing of a child in the womb to establish its paternity. 
 
 ### Answer
 
@@ -769,7 +771,7 @@ Right to Privacy Three-Fold Test
 
 ---
 
-## Question 17 (Year: 2024 | Paper: GS 2 | Marks: N/A)** &quot;The duty of the Comptroller and Auditor General is not merely to ensure the legality of expenditure but also its propriety.&quot; Comment. **
+## Question 17 (Year: 2024 | Paper: GS 2 | Marks: N/A) &quot;The duty of the Comptroller and Auditor General is not merely to ensure the legality of expenditure but also its propriety.&quot; Comment. 
 
 ### Answer
 
@@ -830,7 +832,7 @@ In essence, the CAG's role as envisioned by the Constitution goes beyond being a
 
 ---
 
-## Question 18 (Year: 2024 | Paper: GS 2 | Marks: N/A)** &quot;The growth of the cabinet system has practically resulted in the marginalization of parliamentary supremacy.&quot; Elucidate. **
+## Question 18 (Year: 2024 | Paper: GS 2 | Marks: N/A) &quot;The growth of the cabinet system has practically resulted in the marginalization of parliamentary supremacy.&quot; Elucidate. 
 
 ### Answer
 
@@ -875,7 +877,7 @@ The evolution of India's cabinet system, while ensuring administrative efficienc
 
 ---
 
-## Question 19 (Year: 2024 | Paper: GS 2 | Marks: N/A)** What changes has the union government recently introduced in the domain of center- state relations ? Suggest measures to be adopted to build the trust between the center and the states and for strengthening federalism. **
+## Question 19 (Year: 2024 | Paper: GS 2 | Marks: N/A) What changes has the union government recently introduced in the domain of center- state relations ? Suggest measures to be adopted to build the trust between the center and the states and for strengthening federalism. 
 
 ### Answer
 
@@ -915,7 +917,7 @@ Fostering mutual trust is not just a constitutional obligation but an economic n
 
 ---
 
-## Question 20 (Year: 2023 | Paper: GS 2 | Marks: N/A)** Account for legal and political factors responsible for the reduced frequency of using article 356 by the union government mid-1990s. **
+## Question 20 (Year: 2023 | Paper: GS 2 | Marks: N/A) Account for legal and political factors responsible for the reduced frequency of using article 356 by the union government mid-1990s. 
 
 ### Answer
 **Question ID: 2023-gs2-q20-superkalam**
@@ -976,7 +978,7 @@ The decline in the use of Article 356 reflects the** maturation of Indian democr
 
 ---
 
-## Question 21 (Year: 2023 | Paper: GS 2 | Marks: N/A)** Compare and contrast the British and Indian approaches to parliamentary sovereignty. **
+## Question 21 (Year: 2023 | Paper: GS 2 | Marks: N/A) Compare and contrast the British and Indian approaches to parliamentary sovereignty. 
 
 ### Answer
 **Question ID: 2023-gs2-q21-superkalam**
@@ -1013,7 +1015,7 @@ The Indian approach to parliamentary sovereignty represents a unique adaptation 
 
 ---
 
-## Question 22 (Year: 2023 | Paper: GS 2 | Marks: N/A)** Constitutionally guaranteed judicial independence is a prerequisite of democracy. Comment. **
+## Question 22 (Year: 2023 | Paper: GS 2 | Marks: N/A) Constitutionally guaranteed judicial independence is a prerequisite of democracy. Comment. 
 
 ### Answer
 **Question ID: 2023-gs2-q22-superkalam**
@@ -1024,13 +1026,13 @@ Judicial independence is the doctrine that the judiciary must be free from inter
 
 Checks and Balances in a Democracy
 
-##** Why Judicial Independence is a Prerequisite of Democracy **1.** Guardian of Fundamental Rights **- An independent judiciary ensures protection of citizens against executive or legislative overreach.** Example:** *Kesavananda Bharati v. State of Kerala (1973)* upheld the Basic Structure doctrine.
+## Why Judicial Independence is a Prerequisite of Democracy 1. Guardian of Fundamental Rights - An independent judiciary ensures protection of citizens against executive or legislative overreach. Example: *Kesavananda Bharati v. State of Kerala (1973)* upheld the Basic Structure doctrine.
 2. **Maintains Rule of Law** - Prevents arbitrary use of power by holding authorities accountable. **Example:** Judicial review under Articles 32 and 226.
 3. **Checks and Balances in Democracy** - Prevents concentration of power in one organ of government. Judiciary acts as a balancing force between Parliament and Executive.
 4. **Confidence of the People in Justice System** - Citizens’ faith in impartial justice strengthens democracy. Without independence, judiciary risks becoming a tool of authoritarianism.
 5. **Safeguard During Political Instability** - During emergencies, only an independent judiciary can uphold constitutional values. **Example:** *ADM Jabalpur v. Shivkant Shukla (1976)* became a lesson on the dangers of judicial compromise.
 
-## **Constitutional Provisions Ensuring Judicial Independence** 1. **Separation of Powers** – Article 50 (DPSP): State shall separate judiciary from executive in the public services of the State.
+## Constitutional Provisions Ensuring Judicial Independence 1. Separation of Powers – Article 50 (DPSP): State shall separate judiciary from executive in the public services of the State.
 2. **Security of Tenure** – Article 124(4) (SC Judges) & Article 217 (HC Judges): Judges can only be removed by impeachment on grounds of “proved misbehavior or incapacity.”
 3. **Fixed Service Conditions** – Articles 125 & 221: Salaries, allowances, and privileges of judges cannot be altered to their disadvantage.
 4. **Financial Independence** – Articles 112–113 & 203–204: Judges’ salaries are charged upon the Consolidated Fund of India/State and are not subject to vote of Parliament/State legislature.
@@ -1038,7 +1040,7 @@ Checks and Balances in a Democracy
 6. **Judicial Review** – Articles 13, 32, 226: Empower courts to strike down unconstitutional laws.
 7. **Contempt of Court Powers** – Articles 129 & 215: SC and HCs are courts of record with power to punish for contempt to protect dignity and independence.
 
-## **Challenges to Judicial Independence in India** 1. **Opaque Appointment System** - Collegium system (evolved through *Second Judges Case, 1993*) lacks transparency and accountability. Absence of clear criteria leads to allegations of nepotism and favoritism.
+## Challenges to Judicial Independence in India 1. Opaque Appointment System - Collegium system (evolved through *Second Judges Case, 1993*) lacks transparency and accountability. Absence of clear criteria leads to allegations of nepotism and favoritism.
 **Law Commission Report (214th, 2008)** flagged the need for reforms in judicial appointments.
 2. **Post-Retirement Appointments** - Judges accepting positions in tribunals, commissions, or as Governors soon after retirement raise concerns of impartiality in judgments. **Example:** Criticism of judges taking up political appointments soon after retiring.
 3. **Executive Pressure in Transfers** - Under **Article 222**, President (on CJI’s advice) can transfer judges of High Courts. This power, if misused, can undermine independence.** Example: **Controversial transfer of Justice Jayant Patel (2017) raised concerns about punitive transfers.
@@ -1053,7 +1055,7 @@ Judicial independence is not a privilege of judges but a** right of citizens to 
 
 ---
 
-## Question 23 (Year: 2023 | Paper: GS 2 | Marks: N/A)** Discuss the role of presiding officers of state legislatures in maintaining order and impartiality in conducting legislative work and in facilitating best democratic practices. **
+## Question 23 (Year: 2023 | Paper: GS 2 | Marks: N/A) Discuss the role of presiding officers of state legislatures in maintaining order and impartiality in conducting legislative work and in facilitating best democratic practices. 
 
 ### Answer
 **Question ID: 2023-gs2-q23-superkalam**
@@ -1121,7 +1123,7 @@ The presiding officer is the** custodian of the legislature’s dignity**. For I
 
 ---
 
-## Question 24 (Year: 2023 | Paper: GS 2 | Marks: N/A)** Explain the significance of the 101st constitutional amendment act. To what extent does it reflect the accommodative spirit of federalism. **
+## Question 24 (Year: 2023 | Paper: GS 2 | Marks: N/A) Explain the significance of the 101st constitutional amendment act. To what extent does it reflect the accommodative spirit of federalism. 
 
 ### Answer
 **Question ID: 2023-gs2-q24-superkalam**
@@ -1175,7 +1177,7 @@ The 101st Amendment exemplifies the evolution of Indian federalism from rigid de
 
 ---
 
-## Question 25 (Year: 2023 | Paper: GS 2 | Marks: N/A)** Explain the structure of the Parliamentary Committee system. How far have the financial committee helped in the institutionalisation of Indian Parliament. **
+## Question 25 (Year: 2023 | Paper: GS 2 | Marks: N/A) Explain the structure of the Parliamentary Committee system. How far have the financial committee helped in the institutionalisation of Indian Parliament. 
 
 ### Answer
 
@@ -1222,7 +1224,7 @@ Financial committees have strengthened** India’s parliamentary sovereignty **b
 
 ---
 
-## Question 26 (Year: 2023 | Paper: GS 2 | Marks: N/A)** “The constitution of India is a living instrument with capabilities of enormous dynamism. It is a constitution made for a progressive society.” Illustrate with special reference to the expanding horizons of the right to life and personal liberty. **
+## Question 26 (Year: 2023 | Paper: GS 2 | Marks: N/A) “The constitution of India is a living instrument with capabilities of enormous dynamism. It is a constitution made for a progressive society.” Illustrate with special reference to the expanding horizons of the right to life and personal liberty. 
 
 ### Answer
 **Question ID: 2023-gs2-q26-superkalam**
@@ -1267,7 +1269,7 @@ The Indian Constitution, especially through Article 21, exemplifies how a legal 
 
 ---
 
-## Question 27 (Year: 2023 | Paper: GS 2 | Marks: N/A)** The states in India seem reluctant to empower urban local bodies both functionally as well as financially. Comment. **
+## Question 27 (Year: 2023 | Paper: GS 2 | Marks: N/A) The states in India seem reluctant to empower urban local bodies both functionally as well as financially. Comment. 
 
 ### Answer
 **Question ID: 2023-gs2-q27-superkalam**
@@ -1278,7 +1280,7 @@ The 74th Constitutional Amendment Act (1992) provided constitutional status to U
 
 Devolution bottleneck from state
 
-##** Reluctance in Functional Empowerment **1.** Incomplete Devolution of the 18 Functions (12th Schedule): **Many states have not fully devolved all functions such as urban planning, water supply, solid waste management, etc.** Example: **Urban planning and town planning often remain with parastatal bodies like** Development Authorities **(e.g., DDA in Delhi), not municipalities.
+## Reluctance in Functional Empowerment 1. Incomplete Devolution of the 18 Functions (12th Schedule): Many states have not fully devolved all functions such as urban planning, water supply, solid waste management, etc. Example: Urban planning and town planning often remain with parastatal bodies like Development Authorities (e.g., DDA in Delhi), not municipalities.
 2.** Control over Staff and Services: **ULBs often lack control over personnel, who are recruited and controlled by state governments.** Example: **In Uttar Pradesh and Bihar, municipal commissioners are often IAS officers accountable primarily to state government, not local bodies.
 3.** Parallel Bodies Diluting Authority: **Creation of state-run urban development authorities, smart city SPVs, and metropolitan planning committees weakens ULBs’ autonomy.
 4.** Retention of Core Urban Planning Functions by State Agencies: **Key functions like urban land use, building approval, and zoning continue to be exercised by state-level development authorities.** Example: **In Bangalore,** the Bangalore Development Authority (BDA) **oversees urban planning, while the BBMP (municipal body) has limited say.
@@ -1286,14 +1288,14 @@ Devolution bottleneck from state
 6.** Political Resistance to Decentralization: **State-level politicians are often reluctant to cede powers to local elected representatives.** Example: **In West Bengal, the state government’s tight administrative control over Kolkata Municipal Corporation has led to limited functional autonomy.
 7.** Fragmented Institutional Jurisdictions: **Multiple agencies within the same city create overlapping roles, leading to weak coordination and diluted authority of ULBs.** Example: **In Delhi, three municipal bodies (MCDs), NDMC, and Cantonment Board operate along with central bodies like DDA and PWD, causing functional fragmentation.
 
-##** Reluctance in Financial Empowerment **1.** Dependence on State and Central Transfers: **ULBs rely heavily on external funding, making them vulnerable to delays and political discretion.** Example: **According to the 15th Finance Commission, nearly 60–80% of municipal revenue in smaller towns comes from state/central grants.
+## Reluctance in Financial Empowerment 1. Dependence on State and Central Transfers: ULBs rely heavily on external funding, making them vulnerable to delays and political discretion. Example: According to the 15th Finance Commission, nearly 60–80% of municipal revenue in smaller towns comes from state/central grants.
 2.** Poor Revenue Mobilization by ULBs: **Most ULBs fail to fully exploit their potential to raise own-source revenue (OSR) from taxes and fees.** Example: **Municipal revenue in India is only about 1% of GDP, while in countries like South Africa and Brazil it is over 6% of GDP.
 3.** Irregular and Weak Implementation of State Finance Commissions (SFCs): **Article 243I mandates that SFCs be constituted every 5 years, but this is rarely followed strictly.** Example: **As per a RBI Report (2022), less than 50% of states have implemented the recommendations of the latest SFCs.
 4.** Cumbersome Grant Mechanisms: **Grants from the Union (e.g., Finance Commission grants, CSS) are often conditional, limiting the autonomy of ULBs in allocating resources.** Example: **In Smart Cities Mission, many ULBs have complained of stringent fund utilization norms and complex monitoring structures.
 5.** Poor Financial Management Capacity: **ULBs often lack qualified accountants, financial planners, or digital systems for transparent budgeting and auditing.** Example: **In many municipalities of North-Eastern states and smaller towns, annual financial statements are delayed or absent, violating statutory norms.
 6.** Under-utilization of Municipal Bonds: **Despite being a viable source of long-term infrastructure finance, municipal bonds are underutilized due to poor creditworthiness and lack of market confidence.** Example: **As per SEBI (2022), only ~12 ULBs have issued bonds since 2017, with Ahmedabad, Pune, and Hyderabad leading the way.
 
-##** Way Forward **1.** Constitutional and Legislative Reforms: **-** Mandatory implementation of SFC recommendations: **States must be made accountable through legislative oversight and periodic reviews by Parliament or a constitutional body.** Example: **Kerala has implemented most SFC recommendations on time — resulting in higher devolution to ULBs.
+## Way Forward 1. Constitutional and Legislative Reforms: - Mandatory implementation of SFC recommendations: States must be made accountable through legislative oversight and periodic reviews by Parliament or a constitutional body. Example: Kerala has implemented most SFC recommendations on time — resulting in higher devolution to ULBs.
 
  -** Mandatory implementation of SFC recommendations: **Introduce Municipal Cadre: Establish an All India Municipal Services to provide trained, professional urban administrators as recommended by the Second ARC.
 
@@ -1315,14 +1317,14 @@ While India urbanizes rapidly, the failure to empower ULBs functionally and fina
 
 ---
 
-## Question 28 (Year: 2022 | Paper: GS 2 | Marks: N/A)** Discuss the essential conditions for exercise of the legislative powers by the Governor. Discuss the legality of re-promulgation of ordinances by the Governor without placing them before the Legislature. **
+## Question 28 (Year: 2022 | Paper: GS 2 | Marks: N/A) Discuss the essential conditions for exercise of the legislative powers by the Governor. Discuss the legality of re-promulgation of ordinances by the Governor without placing them before the Legislature. 
 
 ### Answer
 **Question ID: 2022-gs2-q28-superkalam**
 
 The Governor is the** constitutional head of a state **and derives legislative powers under** Part VI of the Constitution (Articles 174–213)**. Though largely exercised on the** aid and advice of the Council of Ministers**, these powers play a vital role in maintaining the balance between executive and legislature.
 
-##** Essential Conditions for Exercise of Legislative Powers by the Governor **1.** Summoning and Proroguing of Legislature (Article 174) **- The Governor summons and prorogues the sessions of the state legislature.
+## Essential Conditions for Exercise of Legislative Powers by the Governor 1. Summoning and Proroguing of Legislature (Article 174) - The Governor summons and prorogues the sessions of the state legislature.
  - However, this power must be exercised** on the aid and advice of the Council of Ministers** (**Shamsher Singh v. State of Punjab, 1974**).
  -** Example: **In 2023, Rajasthan CM accused the Governor of delaying the Assembly session, raising debate over discretionary misuse.
 
@@ -1347,7 +1349,7 @@ The Governor is the** constitutional head of a state **and derives legislative p
  - Ordinance has** same force as an Act **but must be laid before legislature within** 6 weeks of reassembly**, else it ceases to operate.
  - Intended as an** emergency provision**, not an alternative to law-making.
 
-##** Legality of Re-Promulgation of Ordinances **1.** Constitutional Perspective: **Ordinance-making is meant for emergencies, not for bypassing legislature. Re-promulgation undermines** legislative supremacy and separation of powers**.
+## Legality of Re-Promulgation of Ordinances 1. Constitutional Perspective: Ordinance-making is meant for emergencies, not for bypassing legislature. Re-promulgation undermines legislative supremacy and separation of powers.
 2.** Judicial Pronouncements: **-** D.C. Wadhwa v. State of Bihar (1987) **– SC held continuous re-promulgation of ordinances for 14 years in Bihar as a** fraud on the Constitution**.
 -** Krishna Kumar Singh v. State of Bihar (2017, 7-judge bench) **– SC ruled that ordinances lapse automatically if not placed before the legislature. Re-promulgation without legislative scrutiny is** unconstitutional**.
 - Ordinance must also** state the necessity **for its promulgation; otherwise, it violates democratic principles.
@@ -1372,21 +1374,21 @@ The Governor’s legislative role is** largely ceremonial but constitutionally s
 
 ---
 
-## Question 29 (Year: 2022 | Paper: GS 2 | Marks: N/A)** Discuss the procedures to decide the disputes arising out of the election of a Member of the Parliament or State Legislature under The Representation of the People Act, 1951. What are the grounds on which the election of any returned candidate may be declared void? What remedy is available to the aggrieved party against the decision ? Refer to the case laws. **
+## Question 29 (Year: 2022 | Paper: GS 2 | Marks: N/A) Discuss the procedures to decide the disputes arising out of the election of a Member of the Parliament or State Legislature under The Representation of the People Act, 1951. What are the grounds on which the election of any returned candidate may be declared void? What remedy is available to the aggrieved party against the decision ? Refer to the case laws. 
 
 ### Answer
 **Question ID: 2022-gs2-q29-superkalam**
 
 Free and fair elections are the lifeblood of a parliamentary democracy. To preserve electoral integrity, the** Representation of the People Act, 1951 (RPA) **provides a judicial mechanism for resolving disputes related to the election of Members of Parliament (MPs) and State Legislatures (MLAs).
 
-##** Procedure for Election Disputes under RPA, 1951 **1.** Exclusive Jurisdiction of High Courts: **As per** Sec. 80 RPA**, election disputes can only be challenged by an** Election Petition **in the High Court.
+## Procedure for Election Disputes under RPA, 1951 1. Exclusive Jurisdiction of High Courts: As per Sec. 80 RPA, election disputes can only be challenged by an Election Petition in the High Court.
 2.** Filing of Petition:** Candidate/elector may file petition (**Sec. 81**) within** 45 days **of result declaration.
 3.** Trial: **Conducted by a** single judge of High Court**; follows civil procedure (**Sec. 86**).
 4.** Transfer of Petition: **Petition can be transferred by Supreme Court/Election Commission (**Sec. 86A**).
 5.** Appeal: **High Court decision appealable to** Supreme Court **within** 30 days** (**Sec. 116A**).
 6.** Case law:** **N.P. Ponnuswami v. Returning Officer (1952)** – election disputes can only be raised after completion of election process through election petition.
 
-## **Grounds for Declaring Election Void (Sec. 100, RPA 1951)** The High Court may declare an election void if:
+## Grounds for Declaring Election Void (Sec. 100, RPA 1951) The High Court may declare an election void if:
 
 1. **Improper acceptance/rejection of nomination papers:** - **K. Venkatachalam v. A. Swamickan (1999):** - election void as candidate was not a voter in the constituency.
 
@@ -1401,7 +1403,7 @@ Free and fair elections are the lifeblood of a parliamentary democracy. To prese
 
 5.** Disqualification of candidate **at time of election (Articles 84, 102 for MPs; 173, 191 for MLAs).
 
-##** Remedies for Aggrieved Party **1.** Relief by High Court (Sec. 98 & 101 RPA 1951): **May dismiss petition, declare election void, or declare another candidate duly elected.
+## Remedies for Aggrieved Party 1. Relief by High Court (Sec. 98 & 101 RPA 1951): May dismiss petition, declare election void, or declare another candidate duly elected.
 2.** Appeal to Supreme Court (Sec. 116A RPA 1951): **To be filed within 30 days of High Court decision.
 3.** Election Commission’s Role: **Only advisory in post-election disqualification; not in deciding election disputes.
 4.** Case law: **-** Indira Nehru Gandhi v. Raj Narain (1975) **– Allahabad HC voided Indira Gandhi’s election for corrupt practices. SC upheld judicial review as part of basic structure.
@@ -1413,20 +1415,20 @@ The RPA, 1951 provides a** judicial framework **ensuring that electoral disputes
 
 ---
 
-## Question 30 (Year: 2022 | Paper: GS 2 | Marks: N/A)** Discuss the role of the Election Commission of India in the light of the evolution of the Model Code of Conduct. **
+## Question 30 (Year: 2022 | Paper: GS 2 | Marks: N/A) Discuss the role of the Election Commission of India in the light of the evolution of the Model Code of Conduct. 
 
 ### Answer
 **Question ID: 2022-gs2-q30-superkalam**
 
 Free and fair elections are the foundation of democracy. The** Election Commission of India (ECI)**, empowered by** Article 324 of the Constitution**, ensures this by enforcing the** Model Code of Conduct (MCC)**—a set of agreed rules by political parties that evolved into a robust framework since the 1960s.
 
-##** Evolution of the MCC **-** 1960**: First in Kerala Assembly Elections, voluntary code.
+## Evolution of the MCC - 1960: First in Kerala Assembly Elections, voluntary code.
 -** 1962**: Adopted nationwide in Lok Sabha elections.
 -** 1967**: ECI actively supervised compliance.
 -** 1991**: Strengthened due to misuse of government machinery.
 -** 2007 onwards**: Updated to cover new platforms like social media.
 
-##** Role of ECI through MCC **1.** Ensuring Level Playing Field: **MCC prevents ruling parties from misusing government machinery (official vehicles, staff, advertisements..etc).
+## Role of ECI through MCC 1. Ensuring Level Playing Field: MCC prevents ruling parties from misusing government machinery (official vehicles, staff, advertisements..etc).
 
  -** Example: **In 2019 Lok Sabha elections, ECI prohibited use of armed forces’ images in campaign material.
 
@@ -1450,7 +1452,7 @@ Free and fair elections are the foundation of democracy. The** Election Commissi
 
  -** Example: **In 2019, several leaders were barred from campaigning for 48–72 hours as preventive action.
 
-##** Challenges in Implementation **1.** Lack of Statutory Backing: **MCC is not part of** Representation of People Act, 1951**; it derives force only from** ECI’s constitutional authority**.
+## Challenges in Implementation 1. Lack of Statutory Backing: MCC is not part of Representation of People Act, 1951; it derives force only from ECI’s constitutional authority.
 
  - Thus, violations attract only indirect provisions like** IPC Sections 171B–171F (corrupt practices)**, making enforcement weak.
 
@@ -1474,7 +1476,7 @@ Free and fair elections are the foundation of democracy. The** Election Commissi
 
  -** Example: **During 2014 & 2019 elections, many complaints of hate speech were decided only after multiple phases were over.
 
-##** Way Forward **1.** Statutory Backing to MCC: **- As recommended by the** 2nd Administrative Reforms Commission (2008) **and** Justice Tarkunde Committee**, MCC should be incorporated into the** Representation of People Act, 1951 **to provide legal enforceability.
+## Way Forward 1. Statutory Backing to MCC: - As recommended by the 2nd Administrative Reforms Commission (2008) and Justice Tarkunde Committee, MCC should be incorporated into the Representation of People Act, 1951 to provide legal enforceability.
 
 2.** Regulation of Digital Campaigning: **- The** Law Commission (255th Report, 2015) **suggested robust monitoring of online political ads and fake news.
  - Partnership between ECI and tech platforms is needed for real-time flagging of violations.
@@ -1496,21 +1498,21 @@ The MCC has evolved into a strong moral code ensuring** ethical, fair, and level
 
 ---
 
-## Question 31 (Year: 2022 | Paper: GS 2 | Marks: N/A)** Discuss the role of the National Commission for Backward Classes in the wake of its transformation from a statutory body to a constitutional body. **
+## Question 31 (Year: 2022 | Paper: GS 2 | Marks: N/A) Discuss the role of the National Commission for Backward Classes in the wake of its transformation from a statutory body to a constitutional body. 
 
 ### Answer
 **Question ID: 2022-gs2-q31-superkalam**
 
 The National Commission for Backward Classes (NCBC) was created in 1993 under a statute. With the** 102nd Constitutional Amendment Act, 2018**, it became a** constitutional body under Article 338B**, thereby enhancing its powers and autonomy in protecting the rights of Other Backward Classes (OBCs).
 
-##** Expanded Role after Constitutional Status **1.** Constitutional Legitimacy: **Elevated to the level of SC/ST Commissions, strengthening its authority in recommending and monitoring OBC safeguards.
+## Expanded Role after Constitutional Status 1. Constitutional Legitimacy: Elevated to the level of SC/ST Commissions, strengthening its authority in recommending and monitoring OBC safeguards.
 2.** Advisory on OBC List: **Examines inclusion/exclusion of communities from the** Central OBC list **and advises the President.
 3.** Safeguarding Rights: **Inquires into complaints of denial of rights and safeguards to OBCs.
 4.** Quasi-Judicial Powers: **It has powers of a civil court for investigation and inquiry, making its proceedings more effective.
 5.** Reporting to President: **Submits annual and special reports to the President, which are placed before Parliament.
 6.** Strengthening Federal Balance: **Plays a crucial role in Centre–State coordination on reservation policies after the** Maratha Reservation **judgment (2021).
 
-##** Achievements Since Becoming a Constitutional Body **1.** Greater Visibility & Authority: **Its recommendations now carry constitutional weight, making it harder for governments to ignore them.
+## Achievements Since Becoming a Constitutional Body 1. Greater Visibility & Authority: Its recommendations now carry constitutional weight, making it harder for governments to ignore them.
 2.** Reservation in Education & Employment: **Actively monitored implementation of the** 27% OBC quota in NEET admissions (2021)**, ensuring fairness in central institutions.
 3.** Sub-Categorisation Debate: **Played a role in examining demands for sub-categorisation of OBCs to ensure equitable distribution of reservation benefits.
 4.** Public Hearings & Complaints Redressal: **It has taken up complaints of OBC denial in recruitment and welfare schemes, thereby expanding grievance redressal.
@@ -1522,14 +1524,14 @@ The NCBC’s transformation into a constitutional body has strengthened its role
 
 ---
 
-## Question 32 (Year: 2022 | Paper: GS 2 | Marks: N/A)** Discuss the role of the Vice –Presidents of India as the chairman of the Rajyasabha **
+## Question 32 (Year: 2022 | Paper: GS 2 | Marks: N/A) Discuss the role of the Vice –Presidents of India as the chairman of the Rajyasabha 
 
 ### Answer
 **Question ID: 2022-gs2-q32-superkalam**
 
 The Vice-President of India, under** Article 64 of the Constitution**, serves as the** ex-officio Chairman of the Rajya Sabha**. As presiding officer of the Upper House, he ensures orderly functioning, neutrality in decision-making, and protection of the federal character envisioned by the framers of the Constitution.
 
-##** Role as Chairman of Rajya Sabha **1.** Presiding Authority: **Maintains discipline, order, and decorum in debates.He decides who speaks and manages interruptions.
+## Role as Chairman of Rajya Sabha 1. Presiding Authority: Maintains discipline, order, and decorum in debates.He decides who speaks and manages interruptions.
 
  -** Example: **crucial during disruptions in the passage of farm bills (2020).
 
@@ -1542,7 +1544,7 @@ The Vice-President of India, under** Article 64 of the Constitution**, serves as
 5.** Referral to Committees: **Refers bills to parliamentary committees for detailed scrutiny, strengthening deliberation (e.g., labour code bills, data protection bill).
 6.** Guardian of Federal Balance: **Ensures that state interests are adequately represented in a House designed as the “Council of States.”
 
-##** Challenges Faced **1.** Frequent Disruptions: **PRS data shows Rajya Sabha lost ~30% of its time (2018–22) due to protests and adjournments, limiting meaningful debate.
+## Challenges Faced 1. Frequent Disruptions: PRS data shows Rajya Sabha lost ~30% of its time (2018–22) due to protests and adjournments, limiting meaningful debate.
 2.** Allegations of Partisanship: **Disallowing discussions (e.g., Pegasus spyware, 2021) has invited charges of bias.
 3.** Weaker Powers than Lok Sabha Speaker: **Chairman Cannot decide disqualification cases under the Tenth Schedule.
 4.** Declining Quality of Debate: **Vice-President Hamid Ansari (2017) lamented growing disruptions and lack of substantive deliberation.
@@ -1555,20 +1557,20 @@ The Vice-President, as Chairman of the Rajya Sabha, plays a** pivotal role in su
 
 ---
 
-## Question 33 (Year: 2022 | Paper: GS 2 | Marks: N/A)** “Right of movement and residence throughout the territory of India are freely available to the Indian citizens, but these rights are not absolute. “ Comment. **
+## Question 33 (Year: 2022 | Paper: GS 2 | Marks: N/A) “Right of movement and residence throughout the territory of India are freely available to the Indian citizens, but these rights are not absolute. “ Comment. 
 
 ### Answer
 **Question ID: 2022-gs2-q33-superkalam**
 
 The** right to freedom of movement and residence **is enshrined in** Article 19(1)(d) and 19(1)(e) **of the Indian Constitution, ensuring that every citizen can** move freely throughout India and reside in any part of the territory**. However, like other Fundamental Rights, these freedoms are** not absolute **and are subject to** reasonable restrictions **under Article 19(5).
 
-##** Why these rights are important **1.** National Integration **– Strengthens the idea of “One Nation, One People”.
+## Why these rights are important 1. National Integration – Strengthens the idea of “One Nation, One People”.
 2.** Economic Mobility **– Facilitates free labour movement and investments across regions.
 3.** Social & Cultural Exchange **– Migration enriches cultural pluralism (e.g., IT professionals in Bengaluru from across India).
 4.** Empowerment **– Enables citizens from backward regions to access opportunities in developed states.
 5.** Constitutional Morality **– Promotes equality and liberty under the vision of the Preamble.
 
-##** Restrictions under Article 19(5) **The Constitution permits the State to impose** reasonable restrictions **in the interest of the** general public **or for the** protection of Scheduled Tribes**.
+## Restrictions under Article 19(5) The Constitution permits the State to impose reasonable restrictions in the interest of the general public or for the protection of Scheduled Tribes.
 
 1.** Restrictions for Public Interest **-** Health & Safety**: During epidemics like** COVID-19**, restrictions were imposed on movement and residence.
  -** Security & Order**: In insurgency-hit areas like** Jammu & Kashmir or North-East**, movement may be restricted.
@@ -1588,18 +1590,18 @@ The right to** movement and residence **is a** pillar of individual liberty and 
 
 ---
 
-## Question 34 (Year: 2022 | Paper: GS 2 | Marks: N/A)** “The most significant achievement of modern law in India is the constitutionalization of environmental problems by the Supreme Court.” Discuss this statement with the help of relevant case laws. **
+## Question 34 (Year: 2022 | Paper: GS 2 | Marks: N/A) “The most significant achievement of modern law in India is the constitutionalization of environmental problems by the Supreme Court.” Discuss this statement with the help of relevant case laws. 
 
 ### Answer
 **Question ID: 2022-gs2-q34-superkalam**
 
 Environmental protection in India has evolved from being a policy issue to a** constitutional obligation**, largely due to the proactive role of the** Supreme Court of India (SCI)**. By interpreting constitutional provisions, the Court has recognized** environmental rights as part of fundamental human rights**, effectively** constitutionalizing environmental problems**.
 
-##** Constitutional Basis for Environmental Protection **-** Article 21: **Right to life includes the** right to a healthy environment**.
+## Constitutional Basis for Environmental Protection - Article 21: Right to life includes the right to a healthy environment.
 -** Article 48A: **Directive Principle – state must protect and improve the environment.
 -** Article 51A(g): **Fundamental duty of citizens to protect and improve natural surroundings.
 
-##** Landmark Supreme Court Cases **1.** Rural Litigation and Entitlement Kendra vs. State of UP (1985) **- Concerned** pollution of the Ganga and other rivers**.
+## Landmark Supreme Court Cases 1. Rural Litigation and Entitlement Kendra vs. State of UP (1985) - Concerned pollution of the Ganga and other rivers.
  - Court held that pollution violates** Article 21 **and directed the state to take remedial measures.
 
 2.** MC Mehta vs. Union of India (1986–1991) **– Taj Trapezium & Delhi Pollution Cases
@@ -1615,12 +1617,12 @@ Environmental protection in India has evolved from being a policy issue to a** c
 5.** T.N. Godavarman Thirumulpad vs. Union of India (1996 onwards) **- Concerned forest conservation and biodiversity protection.
  - Court emphasized** Article 48A and 51A(g) **to regulate deforestation.
 
-##** Principles Developed by the Supreme Court **-** Precautionary Principle: **Preventive action even if risk is uncertain.
+## Principles Developed by the Supreme Court - Precautionary Principle: Preventive action even if risk is uncertain.
 -** Polluter Pays Principle: **Offenders bear the cost of environmental harm.
 -** Sustainable Development: **Balancing economic growth with ecological protection.
 -** Public Trust Doctrine: **State as trustee of natural resources for public use.
 
-##** Expanded Impact of Constitutionalization **1.** Legal Enforcement of Environmental Rights **- Environmental protection is no longer just a policy objective; it is** legally enforceable through courts**.
+## Expanded Impact of Constitutionalization 1. Legal Enforcement of Environmental Rights - Environmental protection is no longer just a policy objective; it is legally enforceable through courts.
  - Citizens can file** public interest litigations (PILs) **to address environmental harm.
 
 2.** Integration with Fundamental Rights **- Right to life under** Article 21 **now includes the** right to a clean and healthy environment**, making environmental degradation a human rights issue.
@@ -1644,14 +1646,14 @@ Through its judicial interventions, the** Supreme Court has made environmental p
 
 ---
 
-## Question 35 (Year: 2022 | Paper: GS 2 | Marks: N/A)** To what extent, in your opinion, as the decentralisation of power in India changed the governance landscape at the grassroots? **
+## Question 35 (Year: 2022 | Paper: GS 2 | Marks: N/A) To what extent, in your opinion, as the decentralisation of power in India changed the governance landscape at the grassroots? 
 
 ### Answer
 **Question ID: 2022-gs2-q35-superkalam**
 
 Decentralisation refers to the transfer of authority, responsibility, and resources from higher levels of government to local institutions. In India, the** 73rd and 74th Constitutional Amendments (1992) **provided constitutional status to Panchayati Raj Institutions (PRIs) and Urban Local Bodies (ULBs), marking a watershed in grassroots governance and advancing the vision of** Gram Swaraj**.
 
-##** Transformative Impacts **1.** Deepening of Democracy**: Nearly** 31 lakh elected representatives**, with** 46% women**, make India the world’s largest grassroots democracy.
+## Transformative Impacts 1. Deepening of Democracy: Nearly 31 lakh elected representatives, with 46% women, make India the world’s largest grassroots democracy.
 2.** Social Inclusion**: Reservations for SCs/STs/OBCs and women mainstreamed marginalised voices (e.g., tribal women sarpanchs in Jharkhand).
 3.** Participatory Planning**: Gram Sabhas in** Kerala’s People’s Plan Campaign **and MP’s Gram Swaraj Act institutionalised collective decision-making.
 4.** Improved Service Delivery**: PRIs handle health sub-centres, Anganwadis, rural roads, models like** Hiware Bazar (Maharashtra) **and** Kudumbashree (Kerala) **demonstrate success.
@@ -1660,7 +1662,7 @@ Decentralisation refers to the transfer of authority, responsibility, and resour
 7.** Environmental Sustainability**: Village-led watershed projects and forest governance (e.g.,** Mendha Lekha, Maharashtra**).
 8.** Disaster Management**: Odisha PRIs have effectively managed cyclones, PRIs played a frontline role during COVID-19.
 
-##** Challenges Facing Decentralisation **1.** Fiscal Dependence **- PRIs and ULBs lack revenue autonomy.
+## Challenges Facing Decentralisation 1. Fiscal Dependence - PRIs and ULBs lack revenue autonomy.
  -** RBI Report on Local Finances (2021)**: PRIs’ own revenue less than 10% of total receipts.
  - ULBs raise only** 0.2% of GDP in revenues **vs** 7% in OECD countries **(World Bank, 2023).
 
@@ -1685,14 +1687,14 @@ Decentralisation has** reshaped grassroots governance **by empowering communitie
 
 ---
 
-## Question 36 (Year: 2022 | Paper: GS 2 | Marks: N/A)** While the national political parties in India favour centralisation, the regional parties are in favour of State autonomy.” Comment.**
+## Question 36 (Year: 2022 | Paper: GS 2 | Marks: N/A) While the national political parties in India favour centralisation, the regional parties are in favour of State autonomy.” Comment.
 
 ### Answer
 **Question ID: 2022-gs2-q36-superkalam**
 
 The Indian federation is unique—**“quasi-federal with a strong unitary bias”** (K.C. Wheare). While the Constitution provides for a strong Union to preserve unity, regional diversities have produced strong demands for **State autonomy**, especially from regional parties.
 
-##** National Parties and Centralisation **1.** Constitutional Bias Towards the Centre: **-** Article 246 **(Union List primacy),** Article 249 **(Parliament can legislate on State List in national interest), and** Article356 **(President’s Rule) favour national parties.
+## National Parties and Centralisation 1. Constitutional Bias Towards the Centre: - Article 246 (Union List primacy), Article 249 (Parliament can legislate on State List in national interest), and Article356 (President’s Rule) favour national parties.
  -** Example: **Between** 1951–2016, Article 356 was invoked 125 times**.
 
 2.** One Nation, One Policy Approach **- National parties support centralisation for uniform economic and social reforms.
@@ -1714,7 +1716,7 @@ The Indian federation is unique—**“quasi-federal with a strong unitary bias�
 7.** Judicial Support to Union Supremacy **- SC has repeatedly upheld Union supremacy in emergencies.
  -** Example:** **Union of India v. H.S. Dhillon (1972)** upheld Centre’s taxation power beyond Union List.
 
-## **Regional Parties and State Autonomy** 1. **Safeguarding Linguistic & Cultural Identities** - Regional parties emphasise sub-nationalism.
+## Regional Parties and State Autonomy 1. Safeguarding Linguistic & Cultural Identities - Regional parties emphasise sub-nationalism.
  - **Example:** **DMK’s anti-Hindi agitations (1960s)** safeguarded Tamil identity; later TMC resisted Hindi signage rules.
 
 2. **Demand for Fiscal Federalism** - States seek more autonomy in spending.
@@ -1737,7 +1739,7 @@ The Indian federation is unique—**“quasi-federal with a strong unitary bias�
 7. **Push for Strengthened Institutional Mechanisms** - Regional parties advocate revitalisation of **Inter-State Council (Art. 263)** and greater role of **Finance Commission**.
  -** Example:** **Punchhi Commission (2010)** also recommended making Inter-State Council a permanent body.
 
-## **Committees and Judicial Interventions** - **Sarkaria Commission (1988)**: Favoured cooperative federalism, but upheld Centre’s primacy in unity/security.
+## Committees and Judicial Interventions - Sarkaria Commission (1988): Favoured cooperative federalism, but upheld Centre’s primacy in unity/security.
 -** Punchhi Commission (2010)**: Recommended clear guidelines for Governor’s role, stricter limits on Article 356, and more fiscal devolution.
 -** S.R. Bommai Case (1994)**: Restricted arbitrary dismissal of state governments, reinforcing state autonomy.
 -** Rameshwar Prasad v. Union of India (2006)**: Held dissolution of Bihar Assembly unconstitutional, bolstering state autonomy.
@@ -1748,7 +1750,7 @@ The tension between** centralisation (national parties) **and** autonomy (region
 
 ---
 
-## Question 37 (Year: 2021 | Paper: GS 2 | Marks: N/A)** ‘Constitutional Morality’ is rooted in the Constitution itself and is founded on its essential facets. Explain the doctrine of ‘Constitutional Morality’ with the help of relevant judicial decisions. **
+## Question 37 (Year: 2021 | Paper: GS 2 | Marks: N/A) ‘Constitutional Morality’ is rooted in the Constitution itself and is founded on its essential facets. Explain the doctrine of ‘Constitutional Morality’ with the help of relevant judicial decisions. 
 
 ### Answer
 **Question ID: 2021-gs2-q37-superkalam**
@@ -1787,7 +1789,7 @@ Constitutional Morality continues evolving through judicial interpretation, ensu
 
 ---
 
-## Question 38 (Year: 2021 | Paper: GS 2 | Marks: N/A)** Discuss the desirability of greater representation to women in the higher judiciary to ensure diversity, equity and inclusiveness. **
+## Question 38 (Year: 2021 | Paper: GS 2 | Marks: N/A) Discuss the desirability of greater representation to women in the higher judiciary to ensure diversity, equity and inclusiveness. 
 
 ### Answer
 **Question ID: 2021-gs2-q38-superkalam**
@@ -1831,7 +1833,7 @@ The** Supreme Court's 2023 guidelines **emphasizing diversity in judicial appoin
 
 ---
 
-## Question 39 (Year: 2021 | Paper: GS 2 | Marks: N/A)** Do Department -related Parliamentary Standing Committees keep the administration on its toes and inspire reverence for parliamentary control? Evaluate the working of such committees with suitable examples. **
+## Question 39 (Year: 2021 | Paper: GS 2 | Marks: N/A) Do Department -related Parliamentary Standing Committees keep the administration on its toes and inspire reverence for parliamentary control? Evaluate the working of such committees with suitable examples. 
 
 ### Answer
 **Question ID: 2021-gs2-q39-superkalam**
@@ -1868,7 +1870,7 @@ DRPSCs significantly enhance parliamentary democracy by providing specialized ov
 
 ---
 
-## Question 40 (Year: 2021 | Paper: GS 2 | Marks: N/A)** Explain the constitutional provisions under which Legislative Councils are established. Review the working and current status of Legislative Councils with suitable illustrations **
+## Question 40 (Year: 2021 | Paper: GS 2 | Marks: N/A) Explain the constitutional provisions under which Legislative Councils are established. Review the working and current status of Legislative Councils with suitable illustrations 
 
 ### Answer
 **Question ID: 2021-gs2-q40-superkalam**
@@ -1885,12 +1887,12 @@ Legislative Councils represent the upper house in India's bicameral state legisl
 
 ## Working and Functions
 
-###** Legislative Functions: **- Cannot reject** Money Bills **but delays up to 14 days
+### Legislative Functions: - Cannot reject Money Bills but delays up to 14 days
 - Delays ordinary bills maximum 4 months through amendments/recommendations
 - Joint sitting provision unavailable, giving Assembly final authority
 - Reviews and suggests improvements to legislation
 
-###** Deliberative Role: **- Provides platform for experts, academics, and experienced personalities
+### Deliberative Role: - Provides platform for experts, academics, and experienced personalities
 - Facilitates detailed discussion on complex policy matters
 - Acts as revising chamber ensuring thorough legislative scrutiny
 
@@ -1908,11 +1910,11 @@ Legislative Councils represent the upper house in India's bicameral state legisl
 
 ## Assessment and Challenges
 
-###** Positive Contributions: **- Enhanced representation for educators, graduates, and local body members
+### Positive Contributions: - Enhanced representation for educators, graduates, and local body members
 - Quality debates on specialized subjects like education, agriculture
 - Reduced legislative burden on assemblies
 
-###** Current Limitations: **- High maintenance costs (₹15-20 crore annually per state)
+### Current Limitations: - High maintenance costs (₹15-20 crore annually per state)
 - Political accommodation often overrides merit-based nominations
 - Limited legislative powers reduce effectiveness
 
@@ -1922,7 +1924,7 @@ Legislative Councils continue serving as valuable democratic institutions, with 
 
 ---
 
-## Question 41 (Year: 2021 | Paper: GS 2 | Marks: N/A)** How have the recommendations of the 14th Finance Commission of India enabled the states to improve their fiscal position? **
+## Question 41 (Year: 2021 | Paper: GS 2 | Marks: N/A) How have the recommendations of the 14th Finance Commission of India enabled the states to improve their fiscal position? 
 
 ### Answer
 **Question ID: 2021-gs2-q41-superkalam**
@@ -1961,26 +1963,26 @@ The** 14th Finance Commission (2015-20)**, chaired by** Dr. Y.V. Reddy**, revolu
 
 ---
 
-## Question 42 (Year: 2021 | Paper: GS 2 | Marks: N/A)** The jurisdiction of the Central Bureau of Investigation(CBI) regarding lodging an FIR and conducting probe within a particular state is being questioned by various States. However, the power of States to withhold consent to the CBI is not absolute. Explain with special reference to the federal character of India. **
+## Question 42 (Year: 2021 | Paper: GS 2 | Marks: N/A) The jurisdiction of the Central Bureau of Investigation(CBI) regarding lodging an FIR and conducting probe within a particular state is being questioned by various States. However, the power of States to withhold consent to the CBI is not absolute. Explain with special reference to the federal character of India. 
 
 ### Answer
 **Question ID: 2021-gs2-q42-superkalam**
 
 The Central Bureau of Investigation (CBI) operates within India's federal structure where state consent requirements create tensions between central investigative powers and state autonomy.
 
-##** Legal Framework and State Consent Requirements **-** Delhi Special Police Establishment Act, 1946 **mandates state consent for CBI investigations within state territory
+## Legal Framework and State Consent Requirements - Delhi Special Police Establishment Act, 1946 mandates state consent for CBI investigations within state territory
 -** Seventh Schedule **places 'Police' under** State List (List II)**, establishing state primacy in law enforcement
 - States can** withdraw general consent **as done by West Bengal (2018), Maharashtra (2020), Punjab (2022), and Jharkhand (2022)
 -** Section 6 of DSPE Act **allows states to restrict CBI's entry and investigation powers
 - Over** 9 states **have withdrawn general consent, affecting CBI's operational capacity
 
-##** Constitutional Limitations on State Powers **-** Supreme Court directions **under Article 32 and 136 bypass state consent requirements
+## Constitutional Limitations on State Powers - Supreme Court directions under Article 32 and 136 bypass state consent requirements
 -** High Court orders **can mandate CBI investigation despite state objections
 - Cases involving** Union Territory subjects **or** Central Government employees **don't require state consent
 -** Inter-state ramifications **allow central intervention under Article 131
 -** Contempt of court **provisions prevent states from obstructing court-ordered investigations
 
-##** Federal Balance and Cooperative Federalism **-** Article 355 **mandates states to assist Centre in maintaining constitutional machinery
+## Federal Balance and Cooperative Federalism - Article 355 mandates states to assist Centre in maintaining constitutional machinery
 -** Concurrent List subjects **like criminal law allow central agency intervention
 -** National importance cases **require uniform investigation standards across states
 -** Anti-corruption framework **under Prevention of Corruption Act empowers CBI nationally
@@ -1998,7 +2000,7 @@ The federal character demands balancing state autonomy with national investigati
 
 ---
 
-## Question 43 (Year: 2021 | Paper: GS 2 | Marks: N/A)** Though the Human Rights Commissions have contributed immensely to the protection of human rights in India, yet they have failed to assert themselves against the mighty and powerful. Analyzing their structural and practical limitations, suggest remedial measures **
+## Question 43 (Year: 2021 | Paper: GS 2 | Marks: N/A) Though the Human Rights Commissions have contributed immensely to the protection of human rights in India, yet they have failed to assert themselves against the mighty and powerful. Analyzing their structural and practical limitations, suggest remedial measures 
 
 ### Answer
 **Question ID: 2021-gs2-q43-superkalam**
@@ -2041,7 +2043,7 @@ Strengthening Human Rights Commissions requires transforming them from advisory 
 
 ---
 
-## Question 44 (Year: 2021 | Paper: GS 2 | Marks: N/A)** To what extent, in your view, the Parliament is able to ensure accountability of the executive in India? **
+## Question 44 (Year: 2021 | Paper: GS 2 | Marks: N/A) To what extent, in your view, the Parliament is able to ensure accountability of the executive in India? 
 
 ### Answer
 **Question ID: 2021-gs2-q44-superkalam**
@@ -2078,7 +2080,7 @@ Parliament possesses robust constitutional mechanisms for executive accountabili
 
 ---
 
-## Question 45 (Year: 2020 | Paper: GS 2 | Marks: N/A)** How far do you think cooperation, competition and confrontation have shaped the nature of federation in India? Cite some recent examples to validate your answer. **
+## Question 45 (Year: 2020 | Paper: GS 2 | Marks: N/A) How far do you think cooperation, competition and confrontation have shaped the nature of federation in India? Cite some recent examples to validate your answer. 
 
 ### Answer
 **Question ID: 2020-gs2-q45-superkalam**
@@ -2116,20 +2118,20 @@ Streamlining disqualification procedures through** Election Commission's **enhan
 
 ---
 
-## Question 46 (Year: 2020 | Paper: GS 2 | Marks: N/A)** Judicial legislation is antithetical to the doctrine of separation of powers as envisaged in the Indian Constitution. In this context justify the filing of a large number of public interest petitions praying for issuing guidelines to executive authorities. **
+## Question 46 (Year: 2020 | Paper: GS 2 | Marks: N/A) Judicial legislation is antithetical to the doctrine of separation of powers as envisaged in the Indian Constitution. In this context justify the filing of a large number of public interest petitions praying for issuing guidelines to executive authorities. 
 
 ### Answer
 **Question ID: 2020-gs2-q46-superkalam**
 
 Recent amendments to the RTI Act, particularly through the DPDP Act 2023, have raised significant concerns about the Information Commission's institutional independence. These changes require careful analysis of their implications on transparency governance.
 
-##** Erosion of Autonomy **-** Appointment and Tenure Changes**: The 2019 RTI Amendment Act empowered the Central Government to determine the tenure and salary of Information Commissioners, previously fixed at five years, potentially compromising their independence.
+## Erosion of Autonomy - Appointment and Tenure Changes: The 2019 RTI Amendment Act empowered the Central Government to determine the tenure and salary of Information Commissioners, previously fixed at five years, potentially compromising their independence.
 -** Administrative Control**: Increased government control over operational aspects reduces the Commission's decision-making autonomy in sensitive transparency cases.
 -** Budgetary Dependencies**: Enhanced financial dependence on the executive may influence the Commission's ability to function independently.
 -** Decision-Making Constraints**: New provisions may limit the Commission's discretionary powers in balancing public interest with privacy concerns.
 -** Reduced Security of Tenure**: Uncertainty in tenure affects the Commission's ability to take bold decisions against government departments.
 
-##** Impact on Independence **|** Aspect **|** Before Amendments **|** After Amendments **|
+## Impact on Independence | Aspect | Before Amendments | After Amendments |
 | --- | --- | --- |
 |** Tenure **| Fixed 5 years | Government discretion |
 |** Salary **| Statutory provision | Government determination |
@@ -2141,7 +2143,7 @@ Recent amendments to the RTI Act, particularly through the DPDP Act 2023, have r
 -** Administrative Pressure**: Increased compliance requirements may divert focus from core transparency mandates.
 -** Public Trust Concerns**: Perceived government control may undermine public confidence in the Commission's neutrality.
 
-##** Implications for Transparency **-** Information Access**: Stricter personal data protection norms under DPDP Act may limit citizens' access to government information, affecting the Commission's role as transparency guardian.
+## Implications for Transparency - Information Access: Stricter personal data protection norms under DPDP Act may limit citizens' access to government information, affecting the Commission's role as transparency guardian.
 -** Public Interest Balance**: The Commission's ability to independently determine public interest in disclosure cases becomes constrained.
 -** Accountability Mechanisms**: Weakened institutional independence may impact the Commission's effectiveness in ensuring government accountability.
 -** Democratic Governance**: Reduced transparency oversight affects broader democratic governance and citizen empowerment.
@@ -2152,7 +2154,7 @@ These amendments represent a significant shift toward executive control over tra
 
 ---
 
-## Question 47 (Year: 2020 | Paper: GS 2 | Marks: N/A)** Once a speaker, Always a speaker’! Do you think the practice should be adopted to impart objectivity to the office of the Speaker of Lok Sabha? What could be its implications for the robust functioning of parliamentary business in India. **
+## Question 47 (Year: 2020 | Paper: GS 2 | Marks: N/A) Once a speaker, Always a speaker’! Do you think the practice should be adopted to impart objectivity to the office of the Speaker of Lok Sabha? What could be its implications for the robust functioning of parliamentary business in India. 
 
 ### Answer
 **Question ID: 2020-gs2-q47-superkalam**
@@ -2216,14 +2218,14 @@ The federal structure's strength lies in managing these three dimensions simulta
 
 ---
 
-## Question 48 (Year: 2020 | Paper: GS 2 | Marks: N/A)** Rajyasabha has been transformed from a ‘useless Stepney tire’ to the most useful supportive organ in the past few decades. Highlight the factors as well as areas in which this transformation could be visible. **
+## Question 48 (Year: 2020 | Paper: GS 2 | Marks: N/A) Rajyasabha has been transformed from a ‘useless Stepney tire’ to the most useful supportive organ in the past few decades. Highlight the factors as well as areas in which this transformation could be visible. 
 
 ### Answer
 **Question ID: 2020-gs2-q48-superkalam**
 
 Recent judicial developments show India and UK's legal systems both converging through shared reforms and diverging due to distinct constitutional frameworks and contemporary challenges.
 
-## Points of Convergence** Technological Modernization **-** Digital Court Systems**: India's e-Courts Project Phase III (2023-2027) mirrors UK's Courts and Tribunals Service digitization
+## Points of Convergence Technological Modernization - Digital Court Systems: India's e-Courts Project Phase III (2023-2027) mirrors UK's Courts and Tribunals Service digitization
 -** AI Integration**: Both exploring artificial intelligence for case management - India's SUPACE project and UK's 2040 Digital Justice Vision
 -** Online Dispute Resolution**: Virtual hearings normalized post-COVID in both nations
 -** Data Analytics**: Case tracking through India's National Judicial Data Grid and UK's HMCTS digital platform
@@ -2255,7 +2257,7 @@ Both systems continue evolving - India through** National Mission for Justice De
 
 ---
 
-## Question 49 (Year: 2020 | Paper: GS 2 | Marks: N/A)** Recent amendments to the Right toInformation Act will have a profound impact on the autonomy and independence of the Information Commission”. Discuss. **
+## Question 49 (Year: 2020 | Paper: GS 2 | Marks: N/A) Recent amendments to the Right toInformation Act will have a profound impact on the autonomy and independence of the Information Commission”. Discuss. 
 
 ### Answer
 **Question ID: 2020-gs2-q49-superkalam**
@@ -2283,7 +2285,7 @@ Recent debates over the** Lok Sabha Speaker's neutrality **during crucial parlia
 |** Decision-making **| Potential party influence | Complete institutional independence |
 |** Credibility **| Questioned by opposition | Enhanced public trust |
 
-## Implications for Parliamentary Business** Positive Impacts: **-** Procedural Consistency**: Uniform application of parliamentary rules across party lines
+## Implications for Parliamentary Business Positive Impacts: - Procedural Consistency: Uniform application of parliamentary rules across party lines
 -** Enhanced Deliberations**: Opposition more likely to cooperate with genuinely neutral Speaker
 -** Constitutional Sanctity**: Stronger implementation of parliamentary privileges and procedures** Implementation Challenges: **-** Constitutional Amendment**: Requires modification of** Article 94 **and relevant parliamentary procedures
 -** Political Resistance**: Parties may oppose losing control over Speaker's post-tenure activities
@@ -2295,7 +2297,7 @@ The** 2nd Administrative Reforms Commission **recommendations on parliamentary r
 
 ---
 
-## Question 50 (Year: 2020 | Paper: GS 2 | Marks: N/A)** The Indian Constitution exhibits centralizing tendencies to maintain unity and integrity of the nation. Elucidate in the perspective of the Epidemic Diseases Act, 1897; The Disaster Management Act, 2005 and recently passed Farm Acts. **
+## Question 50 (Year: 2020 | Paper: GS 2 | Marks: N/A) The Indian Constitution exhibits centralizing tendencies to maintain unity and integrity of the nation. Elucidate in the perspective of the Epidemic Diseases Act, 1897; The Disaster Management Act, 2005 and recently passed Farm Acts. 
 
 ### Answer
 **Question ID: 2020-gs2-q50-superkalam**
@@ -2354,7 +2356,7 @@ The Constitution's centralizing features serve national integration effectively 
 
 ---
 
-## Question 51 (Year: 2020 | Paper: GS 2 | Marks: N/A)** The judicial systems in India and the UK seem to be converging as well as diverging in recent times. Highlight the key points of convergence and divergence between the two nations in terms of their judicial practices. **
+## Question 51 (Year: 2020 | Paper: GS 2 | Marks: N/A) The judicial systems in India and the UK seem to be converging as well as diverging in recent times. Highlight the key points of convergence and divergence between the two nations in terms of their judicial practices. 
 
 ### Answer
 **Question ID: 2020-gs2-q51-superkalam**
@@ -2400,7 +2402,7 @@ The proliferation of PILs reflects institutional necessity rather than judicial 
 
 ---
 
-## Question 52 (Year: 2020 | Paper: GS 2 | Marks: N/A)** The strength and sustenance of local institutions in India has shifted from their formative phase of ‘functions, functionaries and funds’ to the contemporary stage of’ functionality’. Highlight the critical challenges faced by local institutions in terms of their functionality in recent times. **
+## Question 52 (Year: 2020 | Paper: GS 2 | Marks: N/A) The strength and sustenance of local institutions in India has shifted from their formative phase of ‘functions, functionaries and funds’ to the contemporary stage of’ functionality’. Highlight the critical challenges faced by local institutions in terms of their functionality in recent times. 
 
 ### Answer
 **Question ID: 2020-gs2-q52-superkalam**
@@ -2409,37 +2411,37 @@ The transformation of local institutions from basic structural requirements to f
 
 ## Administrative and Capacity Constraints
 
-###** Human Resource Deficiencies **- Limited technical expertise among elected representatives hampers effective decision-making and policy implementation
+### Human Resource Deficiencies - Limited technical expertise among elected representatives hampers effective decision-making and policy implementation
 - Despite** Ministry of Panchayati Raj training 25.67 lakh participants **in 2023-24, skill gaps persist in project management and governance
 - Frequent turnover of elected officials disrupts institutional memory and continuity
 - Inadequate professional support staff affects day-to-day administrative functions
 - Language barriers and low literacy levels impede effective communication with higher authorities
 
-###** Technological and Infrastructure Gaps **- Poor digital infrastructure limits e-governance adoption and service delivery efficiency
+### Technological and Infrastructure Gaps - Poor digital infrastructure limits e-governance adoption and service delivery efficiency
 - Limited internet connectivity affects real-time data management and reporting systems
 - Inadequate physical infrastructure constrains operational capacity of local institutions
 - Lack of modern equipment and facilities affects service quality and citizen satisfaction
 
 ## Financial and Resource Management Issues
 
-###** Funding Irregularities **- Delayed fund transfers from state governments disrupt project timelines and implementation schedules
+### Funding Irregularities - Delayed fund transfers from state governments disrupt project timelines and implementation schedules
 -** 15th Finance Commission allocations **face implementation challenges due to procedural bottlenecks
 - Over-dependence on central and state grants restricts financial autonomy and decision-making flexibility
 - Limited own revenue generation capacity affects long-term sustainability and growth prospects
 - Complex financial procedures and compliance requirements burden local institutions with administrative overhead
 
-###** Resource Utilization Challenges **- Poor budget planning and expenditure tracking systems lead to inefficient resource allocation
+### Resource Utilization Challenges - Poor budget planning and expenditure tracking systems lead to inefficient resource allocation
 - Lack of financial expertise among local representatives affects optimal fund utilization
 - Limited procurement capacity and vendor management skills impact project quality and cost-effectiveness
 
 ## Governance and Accountability Deficits
 
-###** Political Interference and Social Barriers **- State-level political interference undermines local autonomy and democratic decision-making processes
+### Political Interference and Social Barriers - State-level political interference undermines local autonomy and democratic decision-making processes
 - Elite capture by dominant social groups affects equitable resource distribution and inclusive development
 - Gender disparities persist despite** 73rd Amendment reservations**, limiting women's effective participation in governance
 - Caste-based discrimination affects fair representation and social justice in local decision-making
 
-###** Monitoring and Evaluation Weaknesses **- Inadequate grievance redressal mechanisms affect citizen trust and institutional credibility
+### Monitoring and Evaluation Weaknesses - Inadequate grievance redressal mechanisms affect citizen trust and institutional credibility
 - Poor coordination between different governance tiers creates operational conflicts and policy implementation gaps
 - Limited transparency in decision-making processes reduces public accountability and citizen engagement
 
@@ -2456,7 +2458,7 @@ Strengthening local institutions requires comprehensive reforms including enhanc
 
 ---
 
-## Question 53 (Year: 2020 | Paper: GS 2 | Marks: N/A)** There is a need for simplification of Procedure for **
+## Question 53 (Year: 2020 | Paper: GS 2 | Marks: N/A) There is a need for simplification of Procedure for 
 
 ### Answer
 **Question ID: 2020-gs2-q53-superkalam**
@@ -2507,7 +2509,7 @@ The Rajya Sabha's transformation exemplifies constitutional democracy's maturati
 
 ---
 
-## Question 54 (Year: 2020 | Paper: GS 2 | Marks: N/A)** Which steps are required for constitutionalisation of a commission? Do you think imparting constitutionality to the national commission for women would ensure greater gender justice and empowerment in India? Give reasons. **
+## Question 54 (Year: 2020 | Paper: GS 2 | Marks: N/A) Which steps are required for constitutionalisation of a commission? Do you think imparting constitutionality to the national commission for women would ensure greater gender justice and empowerment in India? Give reasons. 
 
 ### Answer
 **Question ID: 2020-gs2-q54-superkalam**
@@ -2557,7 +2559,7 @@ Constitutional status would significantly strengthen NCW's effectiveness in ensu
 
 ---
 
-## Question 55 (Year: 2019 | Paper: GS 2 | Marks: N/A)** Despite Consistent experience of High growth, India **
+## Question 55 (Year: 2019 | Paper: GS 2 | Marks: N/A) Despite Consistent experience of High growth, India 
 
 ### Answer
 **Question ID: 2019-gs2-q55-superkalam**
@@ -2593,7 +2595,7 @@ India's** National Food Security Act **and** PM Garib Kalyan Yojana **require en
 
 ---
 
-## Question 56 (Year: 2019 | Paper: GS 2 | Marks: N/A)** Do you think that the constitution of India does **
+## Question 56 (Year: 2019 | Paper: GS 2 | Marks: N/A) Do you think that the constitution of India does 
 
 ### Answer
 **Question ID: 2019-gs2-q56-superkalam**
@@ -2650,7 +2652,7 @@ The CAT's transformation into an independent judicial authority represents const
 
 ---
 
-## Question 57 (Year: 2019 | Paper: GS 2 | Marks: N/A)** From the resolution of contentious issues **
+## Question 57 (Year: 2019 | Paper: GS 2 | Marks: N/A) From the resolution of contentious issues 
 
 ### Answer
 **Question ID: 2019-gs2-q57-superkalam**
@@ -2694,7 +2696,7 @@ France can benefit from India's** "principled distance" **approach, balancing re
 
 ---
 
-## Question 58 (Year: 2019 | Paper: GS 2 | Marks: N/A)** Individual Parliamentarian’s role as the national **
+## Question 58 (Year: 2019 | Paper: GS 2 | Marks: N/A) Individual Parliamentarian’s role as the national 
 
 ### Answer
 **Question ID: 2019-gs2-q58-superkalam**
@@ -2744,7 +2746,7 @@ Revitalizing individual parliamentarians' legislative role requires comprehensiv
 
 ---
 
-## Question 59 (Year: 2019 | Paper: GS 2 | Marks: N/A)** On what grounds a people’s representative can be **
+## Question 59 (Year: 2019 | Paper: GS 2 | Marks: N/A) On what grounds a people’s representative can be 
 
 ### Answer
 **Question ID: 2019-gs2-q59-superkalam**
@@ -2812,7 +2814,7 @@ The RPA 1951's disqualification framework, strengthened by landmark cases like**
 
 ---
 
-## Question 60 (Year: 2019 | Paper: GS 2 | Marks: N/A)** Parliament’s power to amend the Constitution is **
+## Question 60 (Year: 2019 | Paper: GS 2 | Marks: N/A) Parliament’s power to amend the Constitution is 
 
 ### Answer
 **Question ID: 2019-gs2-q60-superkalam**
@@ -2852,7 +2854,7 @@ The Basic Structure Doctrine ensures Parliament cannot use Article 368 to destro
 
 ---
 
-## Question 61 (Year: 2019 | Paper: GS 2 | Marks: N/A)** The Attorney-General is the chief legal adviser **
+## Question 61 (Year: 2019 | Paper: GS 2 | Marks: N/A) The Attorney-General is the chief legal adviser 
 
 ### Answer
 **Question ID: 2019-gs2-q61-superkalam**
@@ -2905,7 +2907,7 @@ The Attorney General's office strengthens India's constitutional framework throu
 
 ---
 
-## Question 62 (Year: 2019 | Paper: GS 2 | Marks: N/A)** The Central Administration Tribunal which was **
+## Question 62 (Year: 2019 | Paper: GS 2 | Marks: N/A) The Central Administration Tribunal which was 
 
 ### Answer
 **Question ID: 2019-gs2-q62-superkalam**
@@ -2954,7 +2956,7 @@ The evolving relationship between farmer organizations and policymakers reflects
 
 ---
 
-## Question 63 (Year: 2019 | Paper: GS 2 | Marks: N/A)** The reservation of seats for women in the **
+## Question 63 (Year: 2019 | Paper: GS 2 | Marks: N/A) The reservation of seats for women in the 
 
 ### Answer
 **Question ID: 2019-gs2-q63-superkalam**
@@ -2965,7 +2967,7 @@ The 73rd and 74th Constitutional Amendments (1992) mandating 33% women's reserva
 
 Constitutional Mandate Versus Ground Reality Flowchart
 
-## Limited Impact on Patriarchal Character** Proxy Representation: **-** "Sarpanch Pati" phenomenon **- Male family members exercise actual power while women serve as figureheads
+## Limited Impact on Patriarchal Character Proxy Representation: - "Sarpanch Pati" phenomenon - Male family members exercise actual power while women serve as figureheads
 - Decision-making remains concentrated with traditional male power holders
 - Women representatives often lack autonomy in policy choices
 - Social pressure restricts independent political expression
@@ -2975,7 +2977,7 @@ Constitutional Mandate Versus Ground Reality Flowchart
 -** Digital divide **hampers access to government schemes and e-governance
 - Insufficient support systems for balancing family and political responsibilities
 
-## Positive Outcomes and Transformations** Governance Improvements: **-** Maharashtra study (2023) **shows 23% improvement in maternal health outcomes under women sarpanches
+## Positive Outcomes and Transformations Governance Improvements: - Maharashtra study (2023) shows 23% improvement in maternal health outcomes under women sarpanches
 - Enhanced focus on** MGNREGA implementation **and social welfare schemes
 - Better maintenance of public facilities like schools, health centers, and water systems
 - Increased transparency in fund utilization through** Social Audit processes **- Greater emphasis on** Swachh Bharat Mission **and sanitation initiatives** Women's Empowerment Indicators: **- Rise in** Self-Help Group formations **- over 7 crore women in SHGs nationally
@@ -2997,7 +2999,7 @@ While reservation has opened political spaces for women, dismantling patriarchal
 
 ---
 
-## Question 64 (Year: 2019 | Paper: GS 2 | Marks: N/A)** There is a growing divergence in the relationship **
+## Question 64 (Year: 2019 | Paper: GS 2 | Marks: N/A) There is a growing divergence in the relationship 
 
 ### Answer
 **Question ID: 2019-gs2-q64-superkalam**
@@ -3054,7 +3056,7 @@ India's constitutional genius lies in creating a** dynamic equilibrium **rather 
 
 ---
 
-## Question 65 (Year: 2019 | Paper: GS 2 | Marks: N/A)** What are the methods used by the Farmer&#x27;s **
+## Question 65 (Year: 2019 | Paper: GS 2 | Marks: N/A) What are the methods used by the Farmer&#x27;s 
 
 ### Answer
 **Question ID: 2019-gs2-q65-superkalam**
@@ -3093,7 +3095,7 @@ Judicial Resolution of Legislative Conflicts Flowchart
 |** Application **| Direct conflicts | Apparent conflicts |
 |** Outcome **| Union law prevails | Both provisions coexist |
 
-## Contemporary Judicial Evolution** Recent Developments**: Courts emphasized balanced interpretation in** Agricultural Laws Case (2023) **and** Internet Shutdown Cases (2024) **- Created** "Substantial Interest Test" **for determining genuine conflicts
+## Contemporary Judicial Evolution Recent Developments: Courts emphasized balanced interpretation in Agricultural Laws Case (2023) and Internet Shutdown Cases (2024) - Created "Substantial Interest Test" for determining genuine conflicts
 - Developed** "Cooperative Federalism Framework" **for complex legislative overlaps
 - Established** "Constitutional Harmony Principle" **for future interpretations
 - Introduced** "Federal Balance Test" **in concurrent list disputes
@@ -3105,7 +3107,7 @@ These principles have evolved into sophisticated judicial tools that preserve In
 
 ---
 
-## Question 66 (Year: 2019 | Paper: GS 2 | Marks: N/A)** What can France learn from the Indian **
+## Question 66 (Year: 2019 | Paper: GS 2 | Marks: N/A) What can France learn from the Indian 
 
 ### Answer
 **Question ID: 2019-gs2-q66-superkalam**
@@ -3116,7 +3118,7 @@ India's GDP growth averaging 6-7% annually contrasts sharply with its HDI rank o
 
 Barriers to Inclusive Development Radial Diagram
 
-##** Issues in Income Distribution and Wealth Concentration **-** Wealth Inequality**: Top 1% holds 40.5% of national wealth while bottom 50% owns merely 3% (Oxfam 2024)
+## Issues in Income Distribution and Wealth Concentration - Wealth Inequality: Top 1% holds 40.5% of national wealth while bottom 50% owns merely 3% (Oxfam 2024)
 -** Regional Disparities**: Per capita income gap between richest (Goa: ₹4.6 lakh) and poorest states (Bihar: ₹48,000)
 -** Urban-Rural Divide**: Rural poverty rate at 25.7% compared to urban 13.7% (NITI Aayog 2023)
 -** Sectoral Imbalance**: Agriculture employs 42% workforce but contributes only 18% to GDP
@@ -3128,13 +3130,13 @@ Barriers to Inclusive Development Radial Diagram
 | MPI (2023) | 0.069 | 0.087 | Improving |
 | Public Health Spending | 2.1% of GDP | 6.6% | Inadequate |
 
-##** Structural and Institutional Challenges **-** Informal Economy**: 90% workers in informal sector lack social security and job protection
+## Structural and Institutional Challenges - Informal Economy: 90% workers in informal sector lack social security and job protection
 -** Education Quality Crisis**: 50% Class 5 students cannot read Class 2 text (ASER 2023)
 -** Healthcare Access**: Doctor-patient ratio 1:1456 against WHO standard 1:1000
 -** Digital Divide**: Only 38% rural households have internet access versus 87% urban
 -** Governance Deficit**: Poor implementation of welfare schemes reaching only 60% intended beneficiaries
 
-##** Path Toward Inclusive Development **-** Constitutional Framework**: Article 38 mandates state to minimize inequalities in income and opportunities
+## Path Toward Inclusive Development - Constitutional Framework: Article 38 mandates state to minimize inequalities in income and opportunities
 -** Policy Integration**: Linking growth policies with human development through** PM Gati Shakti **infrastructure mission
 -** Technology Leverage**:** Digital India 2.0 **for bridging access gaps in remote areas
 -** Skill Enhancement**:** Skill India Mission **targeting 40 crore people by 2025
@@ -3146,7 +3148,7 @@ India must transform from a growth-focused to development-oriented economy, ensu
 
 ---
 
-## Question 67 (Year: 2018 | Paper: GS 2 | Marks: N/A)** Assess the importance of the Panchayat system in India as a part of local government. Apart from government grants, what sources can the Panchayats look out for financing developmental projects? **
+## Question 67 (Year: 2018 | Paper: GS 2 | Marks: N/A) Assess the importance of the Panchayat system in India as a part of local government. Apart from government grants, what sources can the Panchayats look out for financing developmental projects? 
 
 ### Answer
 **Question ID: 2018-gs2-q67-superkalam**
@@ -3157,29 +3159,29 @@ India's Panchayati Raj system, institutionalized through the** 73rd Constitution
 
 Panchayat Finance Sources Tree Diagram
 
-##** Importance of Panchayat System in Local Governance **###** Democratic Participation and Representation **- Ensures** direct citizen participation **through regular elections and mandatory Gram Sabha meetings
+## Importance of Panchayat System in Local Governance ### Democratic Participation and Representation - Ensures direct citizen participation through regular elections and mandatory Gram Sabha meetings
 - Provides** 33% reservation for women **(states like** Odisha **increased it to 50% in 2023)
 - Empowers marginalized communities through reserved seats for** SC/ST populations **- Facilitates** social audit **of government schemes, ensuring transparency
 - Creates local leadership, especially among rural women and marginalized groups
 
-###** Administrative Efficiency and Service Delivery **- Implements flagship schemes like** MGNREGA, Swachh Bharat Mission, **and** PM-KISAN **- Ensures better monitoring of development programs through local oversight
+### Administrative Efficiency and Service Delivery - Implements flagship schemes like MGNREGA, Swachh Bharat Mission, and PM-KISAN - Ensures better monitoring of development programs through local oversight
 - Facilitates** bottom-up planning **via Village Development Plans and District Planning Committees
 - Provides essential services like sanitation, water supply, and primary healthcare
 - Reduces bureaucratic delays through decentralized decision-making
 
-###** Development and Welfare Functions **- Manages rural infrastructure development including roads, schools, and health centers
+### Development and Welfare Functions - Manages rural infrastructure development including roads, schools, and health centers
 - Implements poverty alleviation and livelihood programs
 - Promotes local economic development through skill training and micro-enterprises
 - Ensures food security through** Public Distribution System **management
 - Coordinates disaster management and emergency response at village level
 
-##** Alternative Financing Sources for Panchayats **###** Local Revenue Generation **-** Property tax collection **(e.g.,** Tirupati Rural **achieved ₹29.70 crore in 2023-24)
+## Alternative Financing Sources for Panchayats ### Local Revenue Generation - Property tax collection (e.g., Tirupati Rural achieved ₹29.70 crore in 2023-24)
 - User charges for water supply, waste management, and market facilities
 - Professional tax from local businesses and trade licenses
 - Revenue from community assets like ponds, markets, and common lands
 - Toll collection from local infrastructure like community halls
 
-###** Public-Private Partnerships and External Support **-** Corporate Social Responsibility (CSR) funds **(e.g.,** Rajasthan Panchayats **securing ₹45 crore for rural infrastructure in 2024)
+### Public-Private Partnerships and External Support - Corporate Social Responsibility (CSR) funds (e.g., Rajasthan Panchayats securing ₹45 crore for rural infrastructure in 2024)
 - Partnerships with private companies for renewable energy projects
 -** Crowdfunding platforms **for specific development initiatives
 - International donor agencies and NGO collaborations
@@ -3191,7 +3193,7 @@ The Panchayati Raj system, strengthened by the** 15th Finance Commission's **₹
 
 ---
 
-## Question 68 (Year: 2018 | Paper: GS 2 | Marks: N/A)** How far do you agree with the view that tribunals curtail the jurisdiction of ordinary courts? In view of the above, discuss the constitutional validity and competency of the tribunals in India. **
+## Question 68 (Year: 2018 | Paper: GS 2 | Marks: N/A) How far do you agree with the view that tribunals curtail the jurisdiction of ordinary courts? In view of the above, discuss the constitutional validity and competency of the tribunals in India. 
 
 ### Answer
 **Question ID: 2018-gs2-q68-superkalam**
@@ -3234,7 +3236,7 @@ Tribunals represent a constitutional evolution balancing efficiency with justice
 
 ---
 
-## Question 69 (Year: 2018 | Paper: GS 2 | Marks: N/A)** How is the Finance Commission of India constituted? What do you know about the terms of reference of the recently constituted Finance Commission? Discuss. **
+## Question 69 (Year: 2018 | Paper: GS 2 | Marks: N/A) How is the Finance Commission of India constituted? What do you know about the terms of reference of the recently constituted Finance Commission? Discuss. 
 
 ### Answer
 **Question ID: 2018-gs2-q69-superkalam**
@@ -3245,13 +3247,13 @@ The Finance Commission serves as a constitutional bridge ensuring equitable fisc
 
 Finance Commission Constitution Organizational Chart
 
-##** Constitutional Framework and Composition** **Article 280 Provisions:** -** Mandatory Constitution**: President must constitute Finance Commission every five years or earlier if necessary
+## Constitutional Framework and Composition Article 280 Provisions: - Mandatory Constitution: President must constitute Finance Commission every five years or earlier if necessary
 -** Composition Structure**: Chairman and four other members appointed by the President
 -** Parliamentary Role**: Parliament determines qualifications and selection process through Finance Commission (Miscellaneous Provisions) Act, 1951
 -** Expertise Requirements**: Members should possess specialized knowledge in public finance, economics, administration, and financial matters
 -** Tenure**: Generally five years, with specific terms defined by the President
 
-##** 16th Finance Commission: Terms of Reference (2024-2029) **
+## 16th Finance Commission: Terms of Reference (2024-2029) 
 **Core Mandates:** - **Tax Devolution**: Recommend distribution of net tax proceeds between Union and States for 2026-31 period
 -** Grants Framework**: Define principles governing grants-in-aid to states from Consolidated Fund of India
 -** Local Bodies**: Measures to augment state resources for strengthening Panchayats and Municipalities
@@ -3261,7 +3263,7 @@ Finance Commission Constitution Organizational Chart
 -** Tax Mobilization**: Incentivize states for improved tax collection and revenue generation
 -** Climate Action**: Consider states' efforts in environmental sustainability and climate change mitigation
 
-##** Contemporary Significance **
+## Contemporary Significance 
 **Leadership and Timeline:** - **Chairperson**: Dr. Arvind Panagariya (former NITI Aayog Vice-Chairman)
 -** Report Submission**: October 31, 2025
 -** Implementation Period**: 2026-2031** Innovative Features: **- Enhanced focus on** technology adoption **and** digital governance **- Integration of** environmental sustainability **parameters
@@ -3272,7 +3274,7 @@ Finance Commission Constitution Organizational Chart
 
 ---
 
-## Question 70 (Year: 2018 | Paper: GS 2 | Marks: N/A)** In the light of recent controversy regarding the use of Electronic Voting Machines (EVM), what are the challenges before the Election Commission of India to ensure the trustworthiness of elections? **
+## Question 70 (Year: 2018 | Paper: GS 2 | Marks: N/A) In the light of recent controversy regarding the use of Electronic Voting Machines (EVM), what are the challenges before the Election Commission of India to ensure the trustworthiness of elections? 
 
 ### Answer
 **Question ID: 2018-gs2-q70-superkalam**
@@ -3325,7 +3327,7 @@ The ECI must balance technological advancement with democratic principles, ensur
 
 ---
 
-## Question 71 (Year: 2018 | Paper: GS 2 | Marks: N/A)** India and the USA are two large democracies. Examine the basic tenets on which the two political systems are based. **
+## Question 71 (Year: 2018 | Paper: GS 2 | Marks: N/A) India and the USA are two large democracies. Examine the basic tenets on which the two political systems are based. 
 
 ### Answer
 **Question ID: 2018-gs2-q71-superkalam**
@@ -3367,7 +3369,7 @@ Both democracies demonstrate that constitutional principles can adapt to diverse
 
 ---
 
-## Question 72 (Year: 2018 | Paper: GS 2 | Marks: N/A)** Multiplicity of various commissions for the vulnerable sections of the society leads to problems of overlapping jurisdiction and duplication of functions. Is it better to merge all commissions into an umbrella Human Rights Commission? Argue your case. **
+## Question 72 (Year: 2018 | Paper: GS 2 | Marks: N/A) Multiplicity of various commissions for the vulnerable sections of the society leads to problems of overlapping jurisdiction and duplication of functions. Is it better to merge all commissions into an umbrella Human Rights Commission? Argue your case. 
 
 ### Answer
 **Question ID: 2018-gs2-q72-superkalam**
@@ -3429,7 +3431,7 @@ A coordinated approach preserving specialized expertise while eliminating duplic
 
 ---
 
-## Question 73 (Year: 2018 | Paper: GS 2 | Marks: N/A)** “The Comptroller and Auditor General (CAG) has a very vital role to play.” Explain how this is reflected in the method and terms of his appointment as well as the range of powers he can exercise. **
+## Question 73 (Year: 2018 | Paper: GS 2 | Marks: N/A) “The Comptroller and Auditor General (CAG) has a very vital role to play.” Explain how this is reflected in the method and terms of his appointment as well as the range of powers he can exercise. 
 
 ### Answer
 **Question ID: 2018-gs2-q73-superkalam**
@@ -3474,7 +3476,7 @@ The CAG's constitutional status, secured tenure, and extensive audit powers coll
 
 ---
 
-## Question 74 (Year: 2018 | Paper: GS 2 | Marks: N/A) **Under what circumstances can the Financial Emergency be proclaimed by the President of India? What consequences follow when such a declaration remains in force?**
+## Question 74 (Year: 2018 | Paper: GS 2 | Marks: N/A) Under what circumstances can the Financial Emergency be proclaimed by the President of India? What consequences follow when such a declaration remains in force?
 
 ### Answer
 **Question ID: 2018-gs2-q74-superkalam**
@@ -3534,7 +3536,7 @@ Despite facing severe economic challenges like the** 1991 balance of payments cr
 
 ---
 
-## Question 75 (Year: 2018 | Paper: GS 2 | Marks: N/A)** Whether the National Commission for Scheduled Castes (NCSC) can enforce the implementation of constitutional reservation for the Scheduled Castes in the religious minority institutions? Examine. **
+## Question 75 (Year: 2018 | Paper: GS 2 | Marks: N/A) Whether the National Commission for Scheduled Castes (NCSC) can enforce the implementation of constitutional reservation for the Scheduled Castes in the religious minority institutions? Examine. 
 
 ### Answer
 **Question ID: 2018-gs2-q75-superkalam**
@@ -3545,26 +3547,26 @@ Recent constitutional debates highlight the complex intersection between minorit
 
 Article 15 SC Reservations Block Diagram
 
-##** Constitutional Framework and NCSC Powers **-** Article 338 **empowers NCSC to investigate, monitor, and evaluate implementation of constitutional safeguards for SCs
+## Constitutional Framework and NCSC Powers - Article 338 empowers NCSC to investigate, monitor, and evaluate implementation of constitutional safeguards for SCs
 -** NCSC can issue summons**, examine witnesses, and requisition public records under quasi-judicial powers
 -** Protection of Civil Rights Act, 1955 **and SC/ST (Prevention of Atrocities) Act, 1989 provide statutory backing
 -** Article 17 **abolishes untouchability, creating constitutional obligation for all institutions
 - Commission can recommend policy measures to Central and State governments
 
-##** Minority Institution Protections vs SC Rights **|** Aspect **|** Minority Institutions **|** SC Reservation Rights **|
+## Minority Institution Protections vs SC Rights | Aspect | Minority Institutions | SC Reservation Rights |
 | --- | --- | --- |
 |** Constitutional Basis **| Article 30(1) - Right to establish and administer | Article 15(4), 16(4) - Special provisions |
 |** Reservation Mandate **| Exempted under Article 15(5) | Mandatory in public institutions |
 |** Autonomy Level **| Complete administrative control | Subject to constitutional obligations |
 |** NCSC Authority **| Limited to recommendations | Full enforcement powers |
 
-##** Limitations on NCSC Enforcement **-** Article 30(1) supremacy**: Religious minorities' fundamental right to institutional autonomy overrides reservation mandates
+## Limitations on NCSC Enforcement - Article 30(1) supremacy: Religious minorities' fundamental right to institutional autonomy overrides reservation mandates
 -** TMA Pai Foundation case (2002)**: Supreme Court affirmed minority institutions' exemption from general reservation policies
 -** Article 15(5) explicit protection**: Constitutional amendment specifically excludes minority institutions from reservation requirements
 -** Federal structure**: NCSC cannot override state-level minority institution regulations
 -** Voluntary compliance principle**: Enforcement limited to persuasion rather than compulsion
 
-##** Recent Developments and Judicial Trends **-** AMU case (2024)**: Supreme Court's 4:3 majority reaffirmed minority status, strengthening institutional autonomy
+## Recent Developments and Judicial Trends - AMU case (2024): Supreme Court's 4:3 majority reaffirmed minority status, strengthening institutional autonomy
 -** Kerala Education Bill controversy (2023)**: State attempts to enforce reservations in minority colleges faced constitutional challenges
 -** NCSC Annual Report 2023-24**: Highlighted gaps in SC representation across educational sectors including minority institutions
 -** Right to Education Act implementation**: Ongoing debates about 25% reservation applicability in aided minority schools
@@ -3575,7 +3577,7 @@ The constitutional balance prioritizes minority institutional autonomy while ena
 
 ---
 
-## Question 76 (Year: 2018 | Paper: GS 2 | Marks: N/A)** Whether the Supreme Court Judgement (July 2018) can settle the political tussle between the Lt. Governor and elected government of Delhi? Examine.**
+## Question 76 (Year: 2018 | Paper: GS 2 | Marks: N/A) Whether the Supreme Court Judgement (July 2018) can settle the political tussle between the Lt. Governor and elected government of Delhi? Examine.
 **Question ID: 2018-gs2-q76-superkalam**
 
 ### Answer
@@ -3622,7 +3624,7 @@ The 2018 judgment provided important constitutional clarity but cannot eliminate
 
 ---
 
-## Question 77 (Year: 2018 | Paper: GS 2 | Marks: N/A)** Why do you think the committees are considered to be useful for parliamentary work? Discuss, in this context, the role of the Estimates Committee **
+## Question 77 (Year: 2018 | Paper: GS 2 | Marks: N/A) Why do you think the committees are considered to be useful for parliamentary work? Discuss, in this context, the role of the Estimates Committee 
 
 ### Answer
 **Question ID: 2018-gs2-q77-superkalam**
@@ -3635,13 +3637,13 @@ Estimates Committee Structural Framework Diagram
 
 ## Utility of Parliamentary Committees
 
-###** Detailed Scrutiny and Expertise **-** Specialized Knowledge**: Committees develop subject-matter expertise that general parliamentary sessions cannot provide
+### Detailed Scrutiny and Expertise - Specialized Knowledge: Committees develop subject-matter expertise that general parliamentary sessions cannot provide
 -** Technical Analysis**: Enable thorough examination of complex bills, policies, and technical matters
 -** Time Efficiency**: Allow detailed discussion without consuming precious parliamentary time
 -** Documentation**: Maintain comprehensive records and evidence for informed decision-making
 -** Expert Consultation**: Can invite specialists, stakeholders, and officials for detailed interactions
 
-###** Enhanced Legislative Process **-** Pre-legislative Scrutiny**: Examine draft bills before parliamentary introduction
+### Enhanced Legislative Process - Pre-legislative Scrutiny: Examine draft bills before parliamentary introduction
 -** Amendment Suggestions**: Propose specific improvements to legislative proposals
 -** Implementation Review**: Monitor how enacted laws are being implemented by executive
 -** Policy Evaluation**: Assess effectiveness of existing policies and suggest modifications
@@ -3655,13 +3657,13 @@ Estimates Committee Structural Framework Diagram
 
 ## Role of Estimates Committee
 
-###** Financial Oversight Functions **-** Budget Examination**: Scrutinizes annual budget estimates to identify potential savings
+### Financial Oversight Functions - Budget Examination: Scrutinizes annual budget estimates to identify potential savings
 -** Expenditure Analysis**: Reviews government spending patterns across ministries and departments
 -** Economy Recommendations**: Suggests measures to reduce wasteful expenditure and improve efficiency
 -** Performance Audit**: Evaluates cost-effectiveness of government programs and schemes
 -** Resource Optimization**: Recommends better allocation of financial resources
 
-###** Administrative Accountability **-** Ministry Interaction**: Directly engages with secretaries and senior officials for explanations
+### Administrative Accountability - Ministry Interaction: Directly engages with secretaries and senior officials for explanations
 -** Project Monitoring**: Tracks implementation of major government projects and their financial implications
 -** Policy Assessment**: Evaluates whether policies achieve desired outcomes within allocated budgets
 -** Follow-up Mechanism**: Monitors implementation of committee recommendations
@@ -3673,7 +3675,7 @@ Parliamentary committees, particularly the** Estimates Committee**, strengthen d
 
 ---
 
-## Question 78 (Year: 2017 | Paper: GS 2 | Marks: N/A)** Critically examine the Supreme Court’s judgement on ‘The National Judicial Appointments Commission Act, 2014’ with reference to the appointment of judges of higher judiciary in India. **
+## Question 78 (Year: 2017 | Paper: GS 2 | Marks: N/A) Critically examine the Supreme Court’s judgement on ‘The National Judicial Appointments Commission Act, 2014’ with reference to the appointment of judges of higher judiciary in India. 
 
 ### Answer
 **Question ID: 2017-gs2-q78-superkalam**
@@ -3699,12 +3701,12 @@ Recent debates on judicial independence were reignited when the Supreme Court st
 
 ## Critical Assessment of the Judgment
 
-###** Strengths of SC Decision: **-** Independence Protection**: Preserved judicial autonomy from executive interference
+### Strengths of SC Decision: - Independence Protection: Preserved judicial autonomy from executive interference
 -** Constitutional Sanctity**: Upheld basic structure doctrine established in** Kesavananda Bharati case (1973) **-** Precedent Consistency**: Maintained continuity with earlier collegium judgments
 -** Separation of Powers**: Protected constitutional balance between three organs
 -** Institutional Integrity**: Prevented potential political influence in judicial appointments
 
-###** Limitations and Criticisms: **-** Transparency Deficit**: Justice Chelameswar's dissent highlighted collegium's opacity
+### Limitations and Criticisms: - Transparency Deficit: Justice Chelameswar's dissent highlighted collegium's opacity
 -** Accountability Gap**: No external oversight mechanism for judicial appointments
 -** Reform Opportunity**: Missed chance to address systemic appointment delays
 -** Democratic Participation**: Excluded broader stakeholder involvement in selection process
@@ -3716,32 +3718,32 @@ The judgment reflects tension between** judicial independence **and** democratic
 
 ---
 
-## Question 79 (Year: 2017 | Paper: GS 2 | Marks: N/A)** Discuss the role of the Public Accounts Committee in establishing accountability of the government to the people. **
+## Question 79 (Year: 2017 | Paper: GS 2 | Marks: N/A) Discuss the role of the Public Accounts Committee in establishing accountability of the government to the people. 
 
 ### Answer
 **Question ID: 2017-gs2-q79-superkalam**
 
 The Public Accounts Committee (PAC) stands as Parliament's primary watchdog, ensuring government financial accountability through systematic examination of public expenditure and CAG reports.
 
-##** Constitutional Framework and Composition **-** Article 308 **empowers Parliament to constitute committees, with PAC being the** oldest parliamentary committee **(established 1921)
+## Constitutional Framework and Composition - Article 308 empowers Parliament to constitute committees, with PAC being the oldest parliamentary committee (established 1921)
 - Comprises** 22 members **(15 Lok Sabha, 7 Rajya Sabha) elected through** proportional representation **-** Opposition member **traditionally chairs the committee, ensuring impartial oversight (current chair:** Adhir Ranjan Chowdhury**)
 - Members serve** one-year tenure **with expertise in finance and public administration
 - Operates on** non-partisan basis **transcending party politics for effective scrutiny
 
-##** Core Functions and Powers **-** Audit Examination**: Reviews annual CAG reports highlighting financial irregularities and performance audits
+## Core Functions and Powers - Audit Examination: Reviews annual CAG reports highlighting financial irregularities and performance audits
 -** Appropriation Scrutiny**: Ensures government spending aligns with parliamentary sanctions and budgetary allocations
 -** Loss Investigation**: Examines cases of financial losses, wasteful expenditure, and revenue shortfalls
 -** PSU Oversight**: Reviews public sector undertaking performance and their contribution to public exchequer
 -** Recommendation Authority**: Issues binding recommendations for improving financial management and accountability
 
-##** Accountability Mechanisms **|** Method **|** Application **|** Recent Examples **|
+## Accountability Mechanisms | Method | Application | Recent Examples |
 | --- | --- | --- |
 |** Evidence Collection **| Summons officials, calls documents | 2G spectrum allocation probe |
 |** Public Hearings **| Cross-examines department heads | Coal block allocation irregularities |
 |** Site Visits **| On-ground verification of projects | PM-KISAN scheme implementation |
 |** Report Publication **| Parliamentary tabling with recommendations | GST revenue shortfall analysis (2024) |
 
-##** Democratic Impact and Effectiveness **-** Deterrent Effect**: Prevents financial mismanagement through continuous oversight threat
+## Democratic Impact and Effectiveness - Deterrent Effect: Prevents financial mismanagement through continuous oversight threat
 -** Transparency Enhancement**: Public reports expose government financial decisions to scrutiny
 -** Policy Correction**: Forces course corrections in financial policies and implementation
 -** Public Trust**: Builds citizen confidence through independent examination of tax money utilization
@@ -3753,7 +3755,7 @@ The PAC exemplifies** Article 21A's **spirit of accountable governance, with rec
 
 ---
 
-## Question 80 (Year: 2017 | Paper: GS 2 | Marks: N/A)** Examine the scope of Fundamental Rights in light of the latest judgement of the Supreme Court on the Right to Privacy. **
+## Question 80 (Year: 2017 | Paper: GS 2 | Marks: N/A) Examine the scope of Fundamental Rights in light of the latest judgement of the Supreme Court on the Right to Privacy. 
 
 ### Answer
 **Question ID: 2017-gs2-q80-superkalam**
@@ -3796,14 +3798,14 @@ The Privacy judgment represents a** watershed moment **in Indian constitutional 
 
 ---
 
-## Question 81 (Year: 2017 | Paper: GS 2 | Marks: N/A)** Explain the salient features of the Constitution (One Hundred and First Amendment) Act, 2016. Do you think it is efficacious enough ‘to remove cascading effect of taxes and provide for the common national market for goods and services’? **
+## Question 81 (Year: 2017 | Paper: GS 2 | Marks: N/A) Explain the salient features of the Constitution (One Hundred and First Amendment) Act, 2016. Do you think it is efficacious enough ‘to remove cascading effect of taxes and provide for the common national market for goods and services’? 
 
 ### Answer
 **Question ID: 2017-gs2-q81-superkalam**
 
 The Constitution (101st Amendment) Act, 2016 introduced GST, fundamentally transforming India's indirect tax landscape. Its efficacy in creating a unified market structure requires comprehensive evaluation.
 
-##** Key Features of the 101st Amendment Act **-** Constitutional Framework **- Introduced** Article 246A **granting concurrent powers to Centre and States for intra-state GST
+## Key Features of the 101st Amendment Act - Constitutional Framework - Introduced Article 246A granting concurrent powers to Centre and States for intra-state GST
  - Established** GST Council **under** Article 279A **as constitutional body for tax harmonization
  - Created** Article 366(12A) **defining goods and services for tax purposes
  - Added** Article 269A **for IGST collection and distribution mechanism
@@ -3813,7 +3815,7 @@ The Constitution (101st Amendment) Act, 2016 introduced GST, fundamentally trans
  - Established** GST Compensation Cess **on luxury and sin goods
  - Protected state fiscal autonomy during transition period
 
-##** Efficacy in Removing Cascading Effect **|** Aspect **|** Pre-GST Era **|** Post-GST Implementation **|
+## Efficacy in Removing Cascading Effect | Aspect | Pre-GST Era | Post-GST Implementation |
 | --- | --- | --- |
 |** Tax Structure **| Multiple taxes (VAT, Service Tax, Excise) | Unified GST system |
 |** Input Tax Credit **| Limited and complex | Comprehensive credit chain |
@@ -3829,7 +3831,7 @@ The Constitution (101st Amendment) Act, 2016 introduced GST, fundamentally trans
  - Introduced** faceless assessment **and** AI-driven **risk assessment
  - Implemented** e-invoicing **for businesses above ₹5 crore turnover
 
-##** Persistent Challenges **-** Revenue Concerns**: States like** Punjab and Kerala **faced revenue shortfalls of ₹8,000-10,000 crore annually
+## Persistent Challenges - Revenue Concerns: States like Punjab and Kerala faced revenue shortfalls of ₹8,000-10,000 crore annually
 -** Compliance Issues**:** CAG Reports (2024) **highlight invoice mismatches worth ₹38,000 crore
 -** Technical Hurdles**: GSTN faced** system downtimes **affecting business operations
 
@@ -3839,14 +3841,14 @@ The Constitution (101st Amendment) Act has substantially achieved its objectives
 
 ---
 
-## Question 82 (Year: 2017 | Paper: GS 2 | Marks: N/A)** How do pressure groups influence the Indian political process? Do you agree with this view that informal pressure groups have emerged as powerful than formal pressure groups in recent years? **
+## Question 82 (Year: 2017 | Paper: GS 2 | Marks: N/A) How do pressure groups influence the Indian political process? Do you agree with this view that informal pressure groups have emerged as powerful than formal pressure groups in recent years? 
 
 ### Answer
 **Question ID: 2017-gs2-q82-superkalam**
 
 Recent developments in Indian politics, particularly the role of social media in movements like farmers' protests and CAA demonstrations, highlight the evolving nature of pressure group influence. Pressure groups serve as vital intermediaries between citizens and government, advocating for specific interests through various channels.
 
-##** How Pressure Groups Influence Indian Political Process **-** Legislative Lobbying**: Direct engagement with MPs and MLAs to advocate for favorable legislation
+## How Pressure Groups Influence Indian Political Process - Legislative Lobbying: Direct engagement with MPs and MLAs to advocate for favorable legislation
 
  - Industry associations like** FICCI and CII **regularly interact with policymakers
  - Professional groups like** Indian Medical Association (IMA) **influencing healthcare policies
@@ -3881,7 +3883,7 @@ Recent developments in Indian politics, particularly the role of social media in
  - Professional associations endorsing candidates based on their stance
  - Issue-based groups campaigning during elections
 
-##** Rise of Informal Pressure Groups **###** Advantages of Informal Groups: **-** Digital Mobilization**: Social media enables rapid organization without formal structures
+## Rise of Informal Pressure Groups ### Advantages of Informal Groups: - Digital Mobilization: Social media enables rapid organization without formal structures
 
  -** #MeToo movement **influencing workplace harassment policies in 2023-24
  -** Citizens' groups **on WhatsApp and Twitter shaping local governance issues
@@ -3902,12 +3904,12 @@ Recent developments in Indian politics, particularly the role of social media in
  - Volunteer-driven operations reducing overhead costs
  - Direct communication channels bypassing traditional intermediaries
 
-###** Challenges with Informal Groups: **-** Accountability Issues**: Lack of transparent leadership and decision-making processes
+### Challenges with Informal Groups: - Accountability Issues: Lack of transparent leadership and decision-making processes
 -** Information Verification**: Difficulty in authenticating claims and data
 -** Sustainability Concerns**: Often dissolve after achieving immediate objectives
 -** Elite Capture**: Risk of being dominated by vocal minorities
 
-##** Comparison: Informal vs Formal Pressure Groups **|** Aspect **|** Formal Groups **|** Informal Groups **|
+## Comparison: Informal vs Formal Pressure Groups | Aspect | Formal Groups | Informal Groups |
 | --- | --- | --- |
 |** Organization **| Structured hierarchy | Loose networks |
 |** Resources **| Established funding | Crowdsourced/voluntary |
@@ -3915,7 +3917,7 @@ Recent developments in Indian politics, particularly the role of social media in
 |** Accountability **| Clear leadership | Diffused responsibility |
 |** Sustainability **| Long-term presence | Issue-specific |
 
-##** Assessment: Informal Groups More Powerful?** **I agree** that informal pressure groups have become increasingly powerful due to:
+## Assessment: Informal Groups More Powerful? I agree that informal pressure groups have become increasingly powerful due to:
 
 -** Digital Democracy**: Social media amplifies voices beyond traditional gatekeepers
 -** Real-time Mobilization**: Instant response to policy announcements and government actions
@@ -3930,7 +3932,7 @@ Informal pressure groups represent a democratic evolution, complementing formal 
 
 ---
 
-## Question 83 (Year: 2017 | Paper: GS 2 | Marks: N/A)** Is the National Commission for Women able to strategize and tackle the problems that women face in both public and private spheres? Give reasons in support of your answer. **
+## Question 83 (Year: 2017 | Paper: GS 2 | Marks: N/A) Is the National Commission for Women able to strategize and tackle the problems that women face in both public and private spheres? Give reasons in support of your answer. 
 
 ### Answer
 **Question ID: 2017-gs2-q83-superkalam**
@@ -3963,7 +3965,7 @@ Constitutional status enhancement and increased budgetary allocation, along with
 
 ---
 
-## Question 84 (Year: 2017 | Paper: GS 2 | Marks: N/A)** Simultaneous election to the Lok Sabha and the State Assemblies will limit the amount of time and money spent in electioneering but it will reduce the government’s accountability to the people’ Discuss. **
+## Question 84 (Year: 2017 | Paper: GS 2 | Marks: N/A) Simultaneous election to the Lok Sabha and the State Assemblies will limit the amount of time and money spent in electioneering but it will reduce the government’s accountability to the people’ Discuss. 
 
 ### Answer
 **Question ID: 2017-gs2-q84-superkalam**
@@ -4004,7 +4006,7 @@ Recent discussions on the** One Nation, One Election **proposal have intensified
 |** Accountability Frequency **| Every 1-2 years | Every 5 years |
 |** Governance Disruption **| High (frequent MCC) | Low (once in 5 years) |
 
-## Balanced Approach** Strengthening Accountability Mechanisms **like empowered local bodies, regular performance audits, and citizen engagement platforms can address democratic deficit concerns. The** 2024 High-Level Committee **suggests phased implementation with constitutional amendments under** Articles 83, 172, and 356**.
+## Balanced Approach Strengthening Accountability Mechanisms like empowered local bodies, regular performance audits, and citizen engagement platforms can address democratic deficit concerns. The 2024 High-Level Committee suggests phased implementation with constitutional amendments under Articles 83, 172, and 356.
 
 Simultaneous elections offer substantial cost savings and governance efficiency, but require complementary democratic institutions to maintain the essential accountability fabric of Indian democracy.
 
@@ -4012,7 +4014,7 @@ Simultaneous elections offer substantial cost savings and governance efficiency,
 
 ---
 
-## Question 85 (Year: 2017 | Paper: GS 2 | Marks: N/A)** The Indian Constitution has provisions for holding joint sessions of the two houses of the Parliament. Enumerate the occasions when this would normally happen and also the occasions when it cannot, with reasons thereof. **
+## Question 85 (Year: 2017 | Paper: GS 2 | Marks: N/A) The Indian Constitution has provisions for holding joint sessions of the two houses of the Parliament. Enumerate the occasions when this would normally happen and also the occasions when it cannot, with reasons thereof. 
 
 ### Answer
 **Question ID: 2017-gs2-q85-superkalam**
@@ -4056,7 +4058,7 @@ Joint sessions represent constitutional wisdom in balancing democratic governanc
 
 ---
 
-## Question 86 (Year: 2017 | Paper: GS 2 | Marks: N/A)** The local self-government system in India has not proved to be an effective instrument of governance. Critically examine the statement and give your views to improve the situation. **
+## Question 86 (Year: 2017 | Paper: GS 2 | Marks: N/A) The local self-government system in India has not proved to be an effective instrument of governance. Critically examine the statement and give your views to improve the situation. 
 
 ### Answer
 **Question ID: 2017-gs2-q86-superkalam**
@@ -4065,19 +4067,19 @@ Local self-government institutions, despite constitutional backing through the**
 
 ## Challenges Hindering Effective Governance
 
-###** Financial Constraints: **-** Limited fiscal autonomy **with only 4% of total government expenditure handled by local bodies
+### Financial Constraints: - Limited fiscal autonomy with only 4% of total government expenditure handled by local bodies
 - Delayed fund transfers from state governments affecting project implementation
 - Poor** own revenue generation **capacity, heavily dependent on grants
 - Inadequate implementation of** 14th Finance Commission **recommendations for direct fund transfer
 - Lack of administrative control over** functionaries and funds **(3Fs concept)
 
-###** Administrative and Structural Issues: **-** Insufficient devolution **of 29 subjects listed in 11th and 12th Schedules
+### Administrative and Structural Issues: - Insufficient devolution of 29 subjects listed in 11th and 12th Schedules
 - Lack of trained personnel and technical expertise at local level
 -** Parallel bureaucracy **through state government departments undermining local authority
 - Poor coordination between** Panchayati Raj Institutions **and urban local bodies
 - Irregular conduct of elections in states like** Tamil Nadu and Odisha **## Measures to Improve Effectiveness
 
-###** Financial Empowerment: **- Strict implementation of** State Finance Commission **recommendations every five years
+### Financial Empowerment: - Strict implementation of State Finance Commission recommendations every five years
 -** Direct Benefit Transfer **through** PFMS (Public Financial Management System) **- Strengthening property tax collection and** revenue mobilization **through technology
 -** Activity mapping **linking funds, functions, and functionaries clearly
 - Greater allocation from** Centrally Sponsored Schemes **like** MGNREGA and SBM **###** Administrative and Governance Reforms: **-** Mandatory capacity building **through institutions like** NIRD&PR **- Implementation of** e-governance platforms **like** ePanchayat **covering 2.67 lakh Gram Panchayats
@@ -4091,7 +4093,7 @@ Despite structural challenges, successful models like** Kerala's Kudumbashree **
 
 ---
 
-## Question 87 (Year: 2017 | Paper: GS 2 | Marks: N/A)** To enhance the quality of democracy in India the The Election Commission of India has proposed electoral reforms in 2016. What are the suggested reforms and how far are they significant to make democracy successful? **
+## Question 87 (Year: 2017 | Paper: GS 2 | Marks: N/A) To enhance the quality of democracy in India the The Election Commission of India has proposed electoral reforms in 2016. What are the suggested reforms and how far are they significant to make democracy successful? 
 
 ### Answer
 **Question ID: 2017-gs2-q87-superkalam**
@@ -4156,19 +4158,19 @@ These reforms address core democratic deficits including money power, criminaliz
 
 ---
 
-## Question 88 (Year: 2017 | Paper: GS 2 | Marks: N/A)** To ensure the effective implementation of policies addressing water, sanitation and hygiene needs, the identification of beneficiary segments is to be synchronized with the anticipated outcomes’ Examine the statement in the context of the WASH scheme. **
+## Question 88 (Year: 2017 | Paper: GS 2 | Marks: N/A) To ensure the effective implementation of policies addressing water, sanitation and hygiene needs, the identification of beneficiary segments is to be synchronized with the anticipated outcomes’ Examine the statement in the context of the WASH scheme. 
 
 ### Answer
 **Question ID: 2017-gs2-q88-superkalam**
 
 India's WASH (Water, Sanitation and Hygiene) schemes represent a crucial intersection of public health, social equity, and sustainable development, requiring strategic beneficiary identification for effective policy outcomes.
 
-##** Beneficiary Identification in WASH Schemes **-** Demographic Targeting**: Priority given to** Scheduled Castes, Scheduled Tribes, and Below Poverty Line families **through data-driven household surveys and socio-economic mapping
+## Beneficiary Identification in WASH Schemes - Demographic Targeting: Priority given to Scheduled Castes, Scheduled Tribes, and Below Poverty Line families through data-driven household surveys and socio-economic mapping
 -** Geographic Prioritization**:** Aspirational districts **and water-stressed regions identified first - 118 aspirational districts covered under Jal Jeevan Mission with** accelerated implementation **-** Vulnerability Assessment**: Pregnant women, children under 5, and elderly populations mapped for** targeted health interventions **through WASH programs
 -** Technology Integration**:** Digital beneficiary database **through Common Service Centers enabling real-time tracking and transparent selection
 -** Community-based Selection**:** Gram Sabha involvement **in beneficiary identification ensuring local context and preventing exclusion errors
 
-##** Synchronization with Anticipated Outcomes **-** Health Impact Measurement**:** 46% reduction in diarrheal diseases **in areas with improved WASH facilities, directly correlating beneficiary selection with health outcomes
+## Synchronization with Anticipated Outcomes - Health Impact Measurement: 46% reduction in diarrheal diseases in areas with improved WASH facilities, directly correlating beneficiary selection with health outcomes
 -** Gender Empowerment Goals**:** Women-centric targeting **under Swachh Bharat Mission resulting in** 60% reduction in time spent collecting water **-** Educational Outcomes**: Schools with separate toilets for girls showing** 11% higher enrollment rates**, linking infrastructure to education goals
 -** Economic Benefits**:** ₹50,000 annual household savings **from reduced medical expenses and time savings in targeted beneficiary families
 -** Environmental Sustainability**:** Grey water recycling **in 2.3 lakh households achieving water conservation targets
@@ -4185,7 +4187,7 @@ The success of WASH schemes depends on evidence-based beneficiary identification
 
 ---
 
-## Question 89 (Year: 2016 | Paper: GS 2 | Marks: N/A)** Did the Government of India Act, of **
+## Question 89 (Year: 2016 | Paper: GS 2 | Marks: N/A) Did the Government of India Act, of 
 
 ### Answer
 **Question ID: 2016-gs2-q89-superkalam**
@@ -4235,7 +4237,7 @@ The 1935 Act represented British compromise between Indian demands for self-rule
 
 ---
 
-## Question 90 (Year: 2016 | Paper: GS 2 | Marks: N/A)** Discuss each adjective attached to the **
+## Question 90 (Year: 2016 | Paper: GS 2 | Marks: N/A) Discuss each adjective attached to the 
 
 ### Answer
 **Question ID: 2016-gs2-q90-superkalam**
@@ -4286,7 +4288,7 @@ These adjectives remain** defendable **through robust constitutional framework, 
 
 ---
 
-## Question 91 (Year: 2016 | Paper: GS 2 | Marks: N/A)** Discuss the essentials of the 69th **
+## Question 91 (Year: 2016 | Paper: GS 2 | Marks: N/A) Discuss the essentials of the 69th 
 
 ### Answer
 **Question ID: 2016-gs2-q91-superkalam**
@@ -4346,7 +4348,7 @@ The Delhi governance model represents a unique experiment in** Indian federalism
 
 ---
 
-## Question 92 (Year: 2016 | Paper: GS 2 | Marks: N/A)** Exercise of CAG’s powers in relation **
+## Question 92 (Year: 2016 | Paper: GS 2 | Marks: N/A) Exercise of CAG’s powers in relation 
 
 ### Answer
 **Question ID: 2016-gs2-q92-superkalam**
@@ -4389,7 +4391,7 @@ The CAG's policy implementation audits remain within constitutional bounds when 
 
 ---
 
-## Question 93 (Year: 2016 | Paper: GS 2 | Marks: N/A)** The Indian party system is passing **
+## Question 93 (Year: 2016 | Paper: GS 2 | Marks: N/A) The Indian party system is passing 
 
 ### Answer
 **Question ID: 2016-gs2-q93-superkalam**
@@ -4433,7 +4435,7 @@ The transition reflects democracy's maturation through contradictions. Strengthe
 
 ---
 
-## Question 94 (Year: 2016 | Paper: GS 2 | Marks: N/A)** To what extent is Article 370 of the **
+## Question 94 (Year: 2016 | Paper: GS 2 | Marks: N/A) To what extent is Article 370 of the 
 
 ### Answer
 **Question ID: 2016-gs2-q94-superkalam**
@@ -4491,20 +4493,20 @@ The Supreme Court's verdict has conclusively established Article 370's temporary
 
 ---
 
-## Question 95 (Year: 2016 | Paper: GS 2 | Marks: N/A)** What is the quasi-judicial body? Explain **
+## Question 95 (Year: 2016 | Paper: GS 2 | Marks: N/A) What is the quasi-judicial body? Explain 
 
 ### Answer
 **Question ID: 2016-gs2-q95-superkalam**
 
 A quasi-judicial body is an administrative authority that exercises judicial powers without being a formal court, following principles of natural justice while making binding decisions on disputes within its specialized domain.
 
-##** Nature and Characteristics of Quasi-Judicial Bodies **-** Hybrid Function**: Combines administrative and judicial powers, operating between executive and judicial branches
+## Nature and Characteristics of Quasi-Judicial Bodies - Hybrid Function: Combines administrative and judicial powers, operating between executive and judicial branches
 -** Statutory Powers**: Derive authority from specific legislation with defined jurisdiction and procedural rules
 -** Natural Justice Principles**: Must follow** audi alteram partem **(hear both sides) and** nemo judex in causa sua **(no bias)
 -** Specialized Expertise**: Handle technical matters requiring domain knowledge beyond general courts
 -** Binding Decisions**: Orders are legally enforceable, subject to judicial review by higher courts
 
-##** Constitutional and Statutory Examples **### Constitutional Bodies
+## Constitutional and Statutory Examples ### Constitutional Bodies
 
 -** Election Commission of India**: Adjudicates election disputes, candidate disqualifications, and political party recognition matters
 -** Union Public Service Commission**: Conducts disciplinary proceedings against civil servants and decides on service matters
@@ -4515,7 +4517,7 @@ A quasi-judicial body is an administrative authority that exercises judicial pow
 -** National Green Tribunal**: Handles environmental disputes with expedited procedures, disposing over** 20,000 cases **since 2010
 -** Income Tax Appellate Tribunal**: Decides tax disputes with specialized benches across major cities
 
-##** Recent Developments and Significance **Modern quasi-judicial bodies like the** Insolvency and Bankruptcy Board **(2016) have revolutionized corporate dispute resolution, resolving** 4,500+ cases **worth ₹3 lakh crore by 2024. The** Goods and Services Tax Appellate Tribunal **established in 2023 provides specialized tax dispute resolution.
+## Recent Developments and Significance Modern quasi-judicial bodies like the Insolvency and Bankruptcy Board (2016) have revolutionized corporate dispute resolution, resolving 4,500+ cases worth ₹3 lakh crore by 2024. The Goods and Services Tax Appellate Tribunal established in 2023 provides specialized tax dispute resolution.
 
 These bodies ensure** speedy justice delivery **while reducing burden on regular courts, with institutions like** Debt Recovery Tribunals **recovering over ₹1.2 lakh crore in 2024. Their specialized nature makes them indispensable for India's complex governance structure.
 
@@ -4523,7 +4525,7 @@ These bodies ensure** speedy justice delivery **while reducing burden on regular
 
 ---
 
-## Question 96 (Year: 2016 | Paper: GS 2 | Marks: N/A)** What was held in the Coelho case? In **
+## Question 96 (Year: 2016 | Paper: GS 2 | Marks: N/A) What was held in the Coelho case? In 
 
 ### Answer
 **Question ID: 2016-gs2-q96-superkalam**
@@ -4567,7 +4569,7 @@ The Coelho judgment definitively establishes judicial review as a** basic featur
 
 ---
 
-## Question 97 (Year: 2015 | Paper: GS 2 | Marks: N/A)** Discuss the possible factors that inhibit India from enacting for its citizens a uniform **
+## Question 97 (Year: 2015 | Paper: GS 2 | Marks: N/A) Discuss the possible factors that inhibit India from enacting for its citizens a uniform 
 
 ### Answer
 **Question ID: 2015-gs2-q97-superkalam**
@@ -4612,14 +4614,14 @@ Cooperative federalism, exemplified by** GST Council's success **and** NITI Aayo
 
 ---
 
-## Question 98 (Year: 2015 | Paper: GS 2 | Marks: N/A)** Does the right to a clean environment entail legal regulation on burning crackers during Diwali? Discuss in the light of Article 21 of the Indian Constitution and judgements of the apex in this regard. **
+## Question 98 (Year: 2015 | Paper: GS 2 | Marks: N/A) Does the right to a clean environment entail legal regulation on burning crackers during Diwali? Discuss in the light of Article 21 of the Indian Constitution and judgements of the apex in this regard. 
 
 ### Answer
 **Question ID: 2015-gs2-q98-superkalam**
 
 Recent Supreme Court interventions and rising pollution levels during festive seasons highlight the critical balance between environmental protection and cultural practices under India's constitutional framework.
 
-##** Article 21 and Environmental Rights **-** Expansive Interpretation**: Supreme Court has evolved Article 21 from mere survival to include right to live with dignity in a pollution-free environment
+## Article 21 and Environmental Rights - Expansive Interpretation: Supreme Court has evolved Article 21 from mere survival to include right to live with dignity in a pollution-free environment
 -** Judicial Precedents**:
 
  -** MC Mehta vs Union of India (1987)**: Established environmental protection as fundamental right
@@ -4629,13 +4631,13 @@ Recent Supreme Court interventions and rising pollution levels during festive se
 -** Constitutional Mandate**: Article 48A (DPSP) and Article 51A(g) create state and citizen duties for environmental protection
 -** Life with Dignity**: Court emphasized that meaningful life requires clean air, water, and environment
 
-##** Supreme Court's Firecracker Regulations **-** Arjun Gopal vs Union of India (2017)**: Landmark judgment allowing only green crackers during specified hours
+## Supreme Court's Firecracker Regulations - Arjun Gopal vs Union of India (2017): Landmark judgment allowing only green crackers during specified hours
 -** Time Restrictions**: Bursting permitted only 8 PM-10 PM on Diwali and 6 AM-10 PM on other festivals
 -** Green Crackers**: CSIR-developed crackers with 30% reduced emissions mandated
 -** Complete Ban Rejected**: Court avoided blanket prohibition, balancing religious freedom with environmental concerns
 -** State Powers**: Empowered state governments to impose stricter regulations based on local air quality
 
-##** Implementation and Impact Assessment **|** Parameter **|** Before Regulation **|** Post-2017 Judgment **|
+## Implementation and Impact Assessment | Parameter | Before Regulation | Post-2017 Judgment |
 | --- | --- | --- |
 |** Delhi AQI (Post-Diwali 2024) **| Often >500 | 339 (Very Poor) |
 |** Cities with Severe AQI **| Multiple cities | Zero cities in 2024 |
@@ -4645,7 +4647,7 @@ Recent Supreme Court interventions and rising pollution levels during festive se
 -** Public Compliance**: Gradual shift toward green crackers, though traditional crackers still dominate markets
 -** Health Benefits**: Reduction in respiratory emergency cases, particularly among children and elderly
 
-##** Balancing Rights and Cultural Practices **-** Reasonable Restrictions**: Court applied proportionality test under Article 19, allowing restrictions on manner of celebration, not celebration itself
+## Balancing Rights and Cultural Practices - Reasonable Restrictions: Court applied proportionality test under Article 19, allowing restrictions on manner of celebration, not celebration itself
 -** Cultural Sensitivity**: Acknowledged Diwali's religious significance while prioritizing public health
 -** Alternative Solutions**: Promoted laser shows, community celebrations, and eco-friendly alternatives
 -** Federal Approach**: Allowed states flexibility based on local environmental conditions and AQI levels
@@ -4657,7 +4659,7 @@ The Supreme Court's nuanced approach demonstrates that Article 21's right to cle
 
 ---
 
-## Question 99 (Year: 2015 | Paper: GS 2 | Marks: N/A)** Examine critically the recent changes in the rule governing foreign funding of NGOs under the Foreign Contribution (Regulation) Act (FCRA), 1976. **
+## Question 99 (Year: 2015 | Paper: GS 2 | Marks: N/A) Examine critically the recent changes in the rule governing foreign funding of NGOs under the Foreign Contribution (Regulation) Act (FCRA), 1976. 
 
 ### Answer
 **Question ID: 2015-gs2-q99-superkalam**
@@ -4685,7 +4687,7 @@ Recent amendments to the Foreign Contribution (Regulation) Act (FCRA) have signi
 |** Operations **| Streamlined banking process | Limited financial flexibility |
 |** Sector Health **| Enhanced accountability | Over 16,000 NGOs lost registration since 2020 |
 
-## Critical Evaluation** Supportive Arguments: **- Enhanced** national security **by preventing misuse of foreign funds for anti-national activities
+## Critical Evaluation Supportive Arguments: - Enhanced national security by preventing misuse of foreign funds for anti-national activities
 - Improved** financial transparency **through centralized banking and reporting
 - Better** government oversight **of foreign-funded activities** Concerns Raised: **-** Operational difficulties **for grassroots organizations lacking technical capacity
 - Potential** shrinking space **for civil society and democratic discourse
@@ -4697,14 +4699,14 @@ The** Supreme Court's validation **of 2020 FCRA amendments in 2022 confirmed the
 
 ---
 
-## Question 100 (Year: 2015 | Paper: GS 2 | Marks: N/A)** If an amendment bill to the Whistleblowers Protection Act 2011 tabled in the Parliament is passed, there may be no one left to protect. Critically Evaluate. **
+## Question 100 (Year: 2015 | Paper: GS 2 | Marks: N/A) If an amendment bill to the Whistleblowers Protection Act 2011 tabled in the Parliament is passed, there may be no one left to protect. Critically Evaluate. 
 
 ### Answer
 **Question ID: 2015-gs2-q100-superkalam**
 
 The proposed amendments to the Whistleblowers Protection Act 2011 raise critical concerns about the future of transparency and accountability in Indian governance.
 
-##** Dilution of Protection Mechanisms **-** Expanded Exemptions **- Exclusion of matters under** Official Secrets Act 1923 **creates vast immunity zones
+## Dilution of Protection Mechanisms - Expanded Exemptions - Exclusion of matters under Official Secrets Act 1923 creates vast immunity zones
  -** "National security" **clause provides blanket protection to government agencies
  - Defence, intelligence, and atomic energy sectors become completely insulated from scrutiny
  -** RTI Act 2005 **already provides adequate national security exemptions without compromising whistleblower protection
@@ -4716,20 +4718,20 @@ The proposed amendments to the Whistleblowers Protection Act 2011 raise critical
  -** CVC guidelines 2021 **already recommend identity protection as fundamental right
  - Complex procedures discourage potential whistleblowers from coming forward
 
-##** Impact on Democratic Governance **-** Accountability Deficit **- Recent cases like** Satyendra Dubey (2003) **and** Shanmughan Manjunath (2005) **demonstrate fatal consequences of weak protection
+## Impact on Democratic Governance - Accountability Deficit - Recent cases like Satyendra Dubey (2003) and Shanmughan Manjunath (2005) demonstrate fatal consequences of weak protection
  -** CBI data 2024 **shows 89% decline in corruption complaints post-amendment discussions
  -** Transparency International India **reports correlation between weak whistleblower laws and increased corruption perception
  - Constitutional** Article 21 **right to life gets compromised without adequate protection
  -** Supreme Court **in** Subhash Chandra Agarwal vs. Union of India (2020) **emphasized whistleblower protection as fundamental right
 
-##** International Comparisons and Best Practices **| Country | Protection Mechanism | Success Rate |
+## International Comparisons and Best Practices | Country | Protection Mechanism | Success Rate |
 | --- | --- | --- |
 |** USA **| Whistleblower Protection Act | 78% cases resolved |
 |** UK **| Public Interest Disclosure Act | 65% effective protection |
 |** India (Current) **| WPA 2011 | 23% implementation |
 |** India (Proposed) **| Amended WPA | Projected 8% effectiveness |
 
-##** Balancing Security and Transparency **-** Constitutional Safeguards **-** Article 19(2) **already provides reasonable restrictions on free speech for national security
+## Balancing Security and Transparency - Constitutional Safeguards - Article 19(2) already provides reasonable restrictions on free speech for national security
  -** National Security Act 1980 **offers adequate protection without compromising transparency
  - Independent judicial review mechanism can balance competing interests
  -** Lokpal Act 2013 **provides template for protected disclosure with security considerations
@@ -4741,7 +4743,7 @@ The amendment risks creating a** "protection paradox" **where those meant to be 
 
 ---
 
-## Question 101 (Year: 2015 | Paper: GS 2 | Marks: N/A)** In the absence of well educated and organised local-level government system, **
+## Question 101 (Year: 2015 | Paper: GS 2 | Marks: N/A) In the absence of well educated and organised local-level government system, 
 
 ### Answer
 **Question ID: 2015-gs2-q101-superkalam**
@@ -4789,7 +4791,7 @@ While constitutional institutions have taken significant steps, comprehensive le
 
 ---
 
-## Question 102 (Year: 2015 | Paper: GS 2 | Marks: N/A)** Khap panchayats have been in the news for functioning as extra-constitutional authorities, often delivering pronouncements amounting to human rights violations. Discuss critically the actions taken by the legislative, executive and judiciary to set things right in this regard. **
+## Question 102 (Year: 2015 | Paper: GS 2 | Marks: N/A) Khap panchayats have been in the news for functioning as extra-constitutional authorities, often delivering pronouncements amounting to human rights violations. Discuss critically the actions taken by the legislative, executive and judiciary to set things right in this regard. 
 
 ### Answer
 **Question ID: 2015-gs2-q102-superkalam**
@@ -4845,12 +4847,12 @@ The frequent use of** ordinances under Article 123 **has sparked debates about e
 
 ## Should Ordinance Power be Repealed?
 
-###** Arguments for Retention: **-** Crisis Management**: Essential for handling emergencies like** Pulwama attack response **or** economic stimulus during lockdown **-** Administrative Continuity**: Prevents governance paralysis during parliamentary recesses
+### Arguments for Retention: - Crisis Management: Essential for handling emergencies like Pulwama attack response or economic stimulus during lockdown - Administrative Continuity: Prevents governance paralysis during parliamentary recesses
 -** Federal Flexibility**: Allows center-state coordination during urgent situations
 -** Constitutional Design**: Framers included it considering India's diverse challenges
 -** International Practice**: Similar powers exist in other democracies like France and Germany
 
-###** Arguments for Repeal/Restriction: **-** Technology Solutions**: Modern communication enables rapid Parliament assembly
+### Arguments for Repeal/Restriction: - Technology Solutions: Modern communication enables rapid Parliament assembly
 -** Democratic Erosion**:** 146 ordinances under current government **suggests overuse
 -** Alternative Mechanisms**: Emergency sessions and standing committees can handle urgent matters
 -** Accountability Deficit**: Limited post-promulgation scrutiny and debate
@@ -4862,7 +4864,7 @@ The ordinance power requires** constitutional reform **rather than complete repe
 
 ---
 
-## Question 103 (Year: 2015 | Paper: GS 2 | Marks: N/A)** Resorting to ordinances has always raised concern about the violation of the spirit of separation of power doctrine. While noting the rationales justifying the power to promulgate, analyse whether the decision of the Supreme Court on the issue has further facilitated resorting to this power. Should the power to promulgate the ordinances be repealed? **
+## Question 103 (Year: 2015 | Paper: GS 2 | Marks: N/A) Resorting to ordinances has always raised concern about the violation of the spirit of separation of power doctrine. While noting the rationales justifying the power to promulgate, analyse whether the decision of the Supreme Court on the issue has further facilitated resorting to this power. Should the power to promulgate the ordinances be repealed? 
 
 ### Answer
 **Question ID: 2015-gs2-q103-superkalam**
@@ -4899,14 +4901,14 @@ The path forward requires** inclusive dialogue**, addressing legitimate minority
 
 ---
 
-## Question 104 (Year: 2015 | Paper: GS 2 | Marks: N/A)** The concept of cooperative federalism has been increasingly emphasised in recent years. **
+## Question 104 (Year: 2015 | Paper: GS 2 | Marks: N/A) The concept of cooperative federalism has been increasingly emphasised in recent years. 
 
 ### Answer
 **Question ID: 2015-gs2-q104-superkalam**
 
 Recent data shows that only 47% of Panchayat members have completed secondary education, highlighting the critical challenge of transforming PRIs from political entities into effective governance instruments.
 
-##** Challenges Limiting Governance Effectiveness **-** Educational and Administrative Deficits **- Lack of technical expertise among elected representatives hampers scheme implementation
+## Challenges Limiting Governance Effectiveness - Educational and Administrative Deficits - Lack of technical expertise among elected representatives hampers scheme implementation
  - Poor understanding of** 73rd Constitutional Amendment **provisions affects decision-making
  - Inadequate financial management skills lead to fund misutilization
  - Limited knowledge of legal frameworks reduces administrative efficiency
@@ -4918,7 +4920,7 @@ Recent data shows that only 47% of Panchayat members have completed secondary ed
  - Patronage networks prioritize political loyalty over merit-based appointments
  - Short-term electoral gains overshadow long-term developmental vision
 
-##** Emerging Improvements and Success Stories **-** Digital Governance Initiatives **-** e-Gram Swaraj Portal **connects 2.67 lakh Panchayats, improving transparency
+## Emerging Improvements and Success Stories - Digital Governance Initiatives - e-Gram Swaraj Portal connects 2.67 lakh Panchayats, improving transparency
  -** BharatNet 2.0 **provides high-speed internet to 1.18 lakh Gram Panchayats (2024)
  - Online service delivery reduces bureaucratic interference and corruption
  - Digital literacy programs enhance technical capabilities of local representatives
@@ -4930,7 +4932,7 @@ Recent data shows that only 47% of Panchayat members have completed secondary ed
  - Performance-based funding incentivizes effective governance
  - Women's Self-Help Groups enhance participatory governance
 
-##** Institutional Reforms Required **- Mandatory training certification for elected representatives
+## Institutional Reforms Required - Mandatory training certification for elected representatives
 - Technical support through district-level resource centers
 - Regular skill development workshops on governance and finance
 - Academic partnerships for knowledge transfer and capacity building
@@ -4942,14 +4944,14 @@ Digital transformation and systematic capacity building through initiatives like
 
 ---
 
-## Question 105 (Year: 2015 | Paper: GS 2 | Marks: N/A)** To achieve the desired objectives, it is necessary to ensure that the regulatory institutions remain independent and autonomous. Discuss in the light of experiences in the recent past. **
+## Question 105 (Year: 2015 | Paper: GS 2 | Marks: N/A) To achieve the desired objectives, it is necessary to ensure that the regulatory institutions remain independent and autonomous. Discuss in the light of experiences in the recent past. 
 
 ### Answer
 **Question ID: 2015-gs2-q105-superkalam**
 
 Independent regulatory institutions are essential for ensuring fair governance and protecting public interest from political interference and vested interests.
 
-##** Need for Regulatory Independence **-** Objective Decision-Making **- Ensures unbiased implementation of policies without political considerations
+## Need for Regulatory Independence - Objective Decision-Making - Ensures unbiased implementation of policies without political considerations
  - Protects public interest over partisan agendas
  - Maintains credibility through transparent processes
  - Prevents regulatory capture by powerful lobbies
@@ -4961,7 +4963,7 @@ Independent regulatory institutions are essential for ensuring fair governance a
  - Independent regulation attracts foreign investment
  - Ensures level playing field for all market participants
 
-##** Recent Challenges to Autonomy **|** Institution **|** Challenge **|** Impact **|
+## Recent Challenges to Autonomy | Institution | Challenge | Impact |
 | --- | --- | --- |
 | RBI | Government pressure on interest rates (2018-19) | Governor Urjit Patel's resignation |
 | CBI | Political interference in investigations | "Caged parrot" Supreme Court observation |
@@ -4973,7 +4975,7 @@ Independent regulatory institutions are essential for ensuring fair governance a
  -** Lokpal**: Delayed appointments affecting anti-corruption efforts
  -** Judicial appointments**: Collegium system vs government preferences creating friction
 
-##** Strengthening Institutional Independence **-** Legal Framework Enhancement **- Fixed tenure for regulatory heads with specific removal procedures
+## Strengthening Institutional Independence - Legal Framework Enhancement - Fixed tenure for regulatory heads with specific removal procedures
  - Financial autonomy through dedicated budget allocations
  - Clear mandate definition preventing scope creep
  - Protection against arbitrary transfers and postings
@@ -4991,7 +4993,7 @@ The** Second Administrative Reforms Commission **emphasized that regulatory inde
 
 ---
 
-## Question 106 (Year: 2015 | Paper: GS 2 | Marks: N/A)** What are the major changes brought in the Arbitration and Conciliation Act, 1966 through the recent ordinance promulgated by the President? How far will it improve India’s dispute resolution mechanism? Discuss. **
+## Question 106 (Year: 2015 | Paper: GS 2 | Marks: N/A) What are the major changes brought in the Arbitration and Conciliation Act, 1966 through the recent ordinance promulgated by the President? How far will it improve India’s dispute resolution mechanism? Discuss. 
 
 ### Answer
 **Question ID: 2015-gs2-q106-superkalam**
@@ -5000,24 +5002,24 @@ Recent amendments to the** Arbitration and Conciliation Act, 1996 **reflect Indi
 
 ## Major Changes Through Recent Amendments
 
-###** Removal of Misconduct Provisions **- Eliminated** "misconduct of arbitrator" **as grounds for challenging arbitral awards
+### Removal of Misconduct Provisions - Eliminated "misconduct of arbitrator" as grounds for challenging arbitral awards
 - Reduced scope for frivolous litigation and court interference
 - Enhanced** finality and enforceability **of arbitral awards
 - Aligned with international best practices like UNCITRAL Model Law
 -** Example**: 2019 amendment removed Section 12(5) automatic disqualification provisions
 
-###** Substantial Injustice Test **- Introduced requirement to demonstrate** "substantial injustice" **for setting aside awards
+### Substantial Injustice Test - Introduced requirement to demonstrate "substantial injustice" for setting aside awards
 - Raised threshold for challenging arbitral decisions in courts
 - Shifted burden of proof on parties seeking to overturn awards
 - Reduced judicial intervention in technical arbitration matters
 -** Example**: Courts now require concrete evidence of prejudice rather than procedural irregularities
 
-###** Automatic Stay Modifications **-** 2020 ordinance **modified automatic stay provisions on award enforcement
+### Automatic Stay Modifications - 2020 ordinance modified automatic stay provisions on award enforcement
 - Special provisions for cases involving** fraud or corruption allegations **- Balanced approach between award finality and fraud prevention
 - Expedited enforcement procedures for legitimate awards
 - Enhanced creditor protection mechanisms
 
-###** Arbitrator Qualifications and Institutional Framework **- Establishment of** Arbitration Council of India (ACI) **as apex regulatory body
+### Arbitrator Qualifications and Institutional Framework - Establishment of Arbitration Council of India (ACI) as apex regulatory body
 - Grading system for arbitral institutions and arbitrators
 - Enhanced qualification requirements for arbitrators
 - Professional development and training programs
@@ -5032,12 +5034,12 @@ Recent amendments to the** Arbitration and Conciliation Act, 1996 **reflect Indi
 |** Timeline **| Prolonged proceedings | Time-bound resolution (12-18 months) |
 |** International Ranking **| 142nd (2014) Ease of Business | 63rd (2020) Ease of Business |
 
-###** Business Environment Improvements **-** Foreign Direct Investment **increase from $36 billion (2014) to $83 billion (2022)
+### Business Environment Improvements - Foreign Direct Investment increase from $36 billion (2014) to $83 billion (2022)
 - Reduced litigation costs by approximately** 30-40% **-** International Arbitration Centre at GIFT City **operational since 2022
 - Enhanced investor confidence in Indian dispute resolution system
 -** Singapore International Arbitration Centre **partnership for capacity building
 
-###** Judicial System Benefits **- Reduced burden on commercial courts by** 25% **in major metros
+### Judicial System Benefits - Reduced burden on commercial courts by 25% in major metros
 - Specialized** Commercial Courts Act, 2015 **complementing arbitration reforms
 - Fast-track resolution of high-value commercial disputes
 -** Alternative Dispute Resolution **promotion through judicial training programs
@@ -5048,7 +5050,7 @@ The amendments represent India's transition from a** litigation-heavy **to** arb
 
 ---
 
-## Question 107 (Year: 2014 | Paper: GS 2 | Marks: N/A)** Instances of the President&#x27;s delay in commuting death sentences has come under public debate as denial of justice. Should there be a time specified for the President to accept/reject such petitions? Analyse **
+## Question 107 (Year: 2014 | Paper: GS 2 | Marks: N/A) Instances of the President&#x27;s delay in commuting death sentences has come under public debate as denial of justice. Should there be a time specified for the President to accept/reject such petitions? Analyse 
 
 ### Answer
 **Question ID: 2014-gs2-q107-superkalam**
@@ -5088,7 +5090,7 @@ A** 12-month outer limit **with built-in safeguards would ensure both swift just
 
 ---
 
-## Question 108 (Year: 2014 | Paper: GS 2 | Marks: N/A)** Starting from inventing the ‘basic structure’ doctrine, the judiciary has played a highly proactive role in ensuring that India develops into a thriving democracy. In light of the statement, evaluate the role played by judicial activism in achieving the ideals of democracy. **
+## Question 108 (Year: 2014 | Paper: GS 2 | Marks: N/A) Starting from inventing the ‘basic structure’ doctrine, the judiciary has played a highly proactive role in ensuring that India develops into a thriving democracy. In light of the statement, evaluate the role played by judicial activism in achieving the ideals of democracy. 
 
 ### Answer
 **Question ID: 2014-gs2-q108-superkalam**
@@ -5133,7 +5135,7 @@ The judiciary's proactive stance has undeniably strengthened Indian democracy by
 
 ---
 
-## Question 109 (Year: 2014 | Paper: GS 2 | Marks: N/A)** The National Human Rights Commission (NHRC) in India can be most effective when its tasks are adequately supported by other mechanisms that ensure the accountability of a government. In light of the above observation, assess the role of NHRC as an effective complement to the judiciary and other institutions in promoting and protecting human rights standards. **
+## Question 109 (Year: 2014 | Paper: GS 2 | Marks: N/A) The National Human Rights Commission (NHRC) in India can be most effective when its tasks are adequately supported by other mechanisms that ensure the accountability of a government. In light of the above observation, assess the role of NHRC as an effective complement to the judiciary and other institutions in promoting and protecting human rights standards. 
 
 ### Answer
 **Question ID: 2014-gs2-q109-superkalam**
@@ -5187,7 +5189,7 @@ The NHRC's effectiveness depends on robust institutional ecosystem support, requ
 
 ---
 
-## Question 110 (Year: 2014 | Paper: GS 2 | Marks: N/A)** The ‘Powers, Privileges and Immunities of Parliament and its Members’ as envisaged in Article 105 of the Constitution leave room for a large number of uncodified and unenumerated privileges to continue. Assess the reasons for the absence of legal codification of the ‘parliamentary privileges’. How can this problem be addressed? **
+## Question 110 (Year: 2014 | Paper: GS 2 | Marks: N/A) The ‘Powers, Privileges and Immunities of Parliament and its Members’ as envisaged in Article 105 of the Constitution leave room for a large number of uncodified and unenumerated privileges to continue. Assess the reasons for the absence of legal codification of the ‘parliamentary privileges’. How can this problem be addressed? 
 
 ### Answer
 **Question ID: 2014-gs2-q110-superkalam**
@@ -5240,7 +5242,7 @@ Parliamentary privileges remain largely uncodified under** Article 105**, creati
 
 ---
 
-## Question 111 (Year: 2014 | Paper: GS 2 | Marks: N/A)** The setting up of a Rail Tariff Authority to regulate fares will subject the cash strapped Indian Railways to demand subsidy for the obligation to operate non-profitable routes and services. Taking into account the experience in the power sector, discuss if the proposed reform is expected to benefit the consumers, the Indian Railways or the private container operators. **
+## Question 111 (Year: 2014 | Paper: GS 2 | Marks: N/A) The setting up of a Rail Tariff Authority to regulate fares will subject the cash strapped Indian Railways to demand subsidy for the obligation to operate non-profitable routes and services. Taking into account the experience in the power sector, discuss if the proposed reform is expected to benefit the consumers, the Indian Railways or the private container operators. 
 
 ### Answer
 **Question ID: 2014-gs2-q111-superkalam**
@@ -5284,7 +5286,7 @@ The reform is expected to benefit** consumers through transparent pricing**,** R
 
 ---
 
-## Question 112 (Year: 2014 | Paper: GS 2 | Marks: N/A)** The size of the cabinet should be as big as governmental work justifies and as big as the Prime Minister can manage as a team. How far is the efficacy of a government then inversely related to the size of the cabinet? Discuss. **
+## Question 112 (Year: 2014 | Paper: GS 2 | Marks: N/A) The size of the cabinet should be as big as governmental work justifies and as big as the Prime Minister can manage as a team. How far is the efficacy of a government then inversely related to the size of the cabinet? Discuss. 
 
 ### Answer
 **Question ID: 2014-gs2-q112-superkalam**
@@ -5333,7 +5335,7 @@ Government efficacy isn't purely inversely related to cabinet size but depends o
 
 ---
 
-## Question 113 (Year: 2014 | Paper: GS 2 | Marks: N/A)** Though the federal principle is dominant in our Constitution and that principle is one of its basic features, it is equally true that federalism under the Indian Constitution leans in favour of a strong Centre, a feature that militates against the concept of strong federalism. **
+## Question 113 (Year: 2014 | Paper: GS 2 | Marks: N/A) Though the federal principle is dominant in our Constitution and that principle is one of its basic features, it is equally true that federalism under the Indian Constitution leans in favour of a strong Centre, a feature that militates against the concept of strong federalism. 
 
 ### Answer
 **Question ID: 2014-gs2-q113-superkalam**
@@ -5375,7 +5377,7 @@ The Indian federal system, while architecturally favoring a strong Centre, conti
 
 ---
 
-## Question 114 (Year: 2014 | Paper: GS 2 | Marks: N/A)** What do you understand about the concept “freedom of speech and expression”? Does it cover hate speech also? Why do the films in India stand on a slightly different plane from other forms of expression? Discuss. **
+## Question 114 (Year: 2014 | Paper: GS 2 | Marks: N/A) What do you understand about the concept “freedom of speech and expression”? Does it cover hate speech also? Why do the films in India stand on a slightly different plane from other forms of expression? Discuss. 
 
 ### Answer
 **Question ID: 2014-gs2-q114-superkalam**
@@ -5420,7 +5422,7 @@ Films operate within a distinct regulatory framework due to their unique combina
 
 ---
 
-## Question 115 (Year: 2013 | Paper: GS 2 | Marks: N/A)** ‘A national Lokpal, however strong it may be, cannot resolve the problems of immorality in public affairs’. Discuss. **
+## Question 115 (Year: 2013 | Paper: GS 2 | Marks: N/A) ‘A national Lokpal, however strong it may be, cannot resolve the problems of immorality in public affairs’. Discuss. 
 
 ### Answer
 **Question ID: 2013-gs2-q115-superkalam**
@@ -5483,7 +5485,7 @@ While the Lokpal represents a significant step toward institutional accountabili
 
 ---
 
-## Question 116 (Year: 2013 | Paper: GS 2 | Marks: N/A)** Constitutional mechanisms to resolve the inter-state water disputes have failed to address and solve the problems. Is the failure due to structural or process inadequacy or both? Discuss. **
+## Question 116 (Year: 2013 | Paper: GS 2 | Marks: N/A) Constitutional mechanisms to resolve the inter-state water disputes have failed to address and solve the problems. Is the failure due to structural or process inadequacy or both? Discuss. 
 
 ### Answer
 **Question ID: 2013-gs2-q116-superkalam**
@@ -5524,7 +5526,7 @@ The failure stems from both structural design flaws and process implementation g
 
 ---
 
-## Question 117 (Year: 2013 | Paper: GS 2 | Marks: N/A)** Discuss Section 66A of the IT Act, with reference to its alleged violation of Article 19 of the Constitution. **
+## Question 117 (Year: 2013 | Paper: GS 2 | Marks: N/A) Discuss Section 66A of the IT Act, with reference to its alleged violation of Article 19 of the Constitution. 
 
 ### Answer
 **Question ID: 2013-gs2-q117-superkalam**
@@ -5572,7 +5574,7 @@ The invalidation reinforced that** fundamental rights **cannot be compromised fo
 
 ---
 
-## Question 118 (Year: 2013 | Paper: GS 2 | Marks: N/A)** Discuss the recommendations of the 13th Finance Commission which have been a departure from the previous commissions for strengthening the local government finances. **
+## Question 118 (Year: 2013 | Paper: GS 2 | Marks: N/A) Discuss the recommendations of the 13th Finance Commission which have been a departure from the previous commissions for strengthening the local government finances. 
 
 ### Answer
 **Question ID: 2013-gs2-q118-superkalam**
@@ -5626,32 +5628,32 @@ The 13th Finance Commission's revolutionary approach established** fiscal decent
 
 ---
 
-## Question 119 (Year: 2013 | Paper: GS 2 | Marks: N/A)** Recent directives from the Ministry of Petroleum and Natural Gas are perceived by the ‘Nagas’ as a threat to override the exceptional status enjoyed by the State. Discuss in light of Article 371A of the Indian Constitution. **
+## Question 119 (Year: 2013 | Paper: GS 2 | Marks: N/A) Recent directives from the Ministry of Petroleum and Natural Gas are perceived by the ‘Nagas’ as a threat to override the exceptional status enjoyed by the State. Discuss in light of Article 371A of the Indian Constitution. 
 
 ### Answer
 **Question ID: 2013-gs2-q119-superkalam**
 
 Recent MoPNG directives on petroleum exploration have intensified concerns among Nagas about potential erosion of their constitutionally guaranteed special status under Article 371A.
 
-##** Constitutional Framework of Article 371A **-** Comprehensive Autonomy**: Provides Nagaland exceptional powers over land, resources, religious practices, social customs, and customary law administration
+## Constitutional Framework of Article 371A - Comprehensive Autonomy: Provides Nagaland exceptional powers over land, resources, religious practices, social customs, and customary law administration
 -** Legislative Protection**: No Act of Parliament applies to Nagaland regarding these matters without state assembly consent
 -** Judicial Safeguards**: Special provisions ensure central laws don't override Naga customary practices
 -** Resource Sovereignty**: Grants exclusive control over land and natural resources within state boundaries
 -** Cultural Preservation**: Protects traditional Naga way of life from external interference
 
-##** Current Areas of Contention **-** Petroleum Exploration Rights**: MoPNG's unilateral directives on oil and gas exploration conflict with state's resource control under Article 371A
+## Current Areas of Contention - Petroleum Exploration Rights: MoPNG's unilateral directives on oil and gas exploration conflict with state's resource control under Article 371A
 -** Environmental Concerns**: Central policies may override traditional Naga land management and conservation practices
 -** Revenue Sharing**: Disputes over petroleum revenue distribution between Centre and state
 -** Procedural Violations**: Lack of proper consultation with Nagaland government before implementing exploration policies
 -** Customary Land Rights**: Conflict between modern extraction methods and traditional land ownership systems
 
-##** Legal and Political Implications **-** Constitutional Precedent**: *State of Nagaland v. Union of India (2010)* established Parliament's authority over petroleum resources, creating legal ambiguity
+## Legal and Political Implications - Constitutional Precedent: *State of Nagaland v. Union of India (2010)* established Parliament's authority over petroleum resources, creating legal ambiguity
 - **Federal Balance**: Tensions reflect broader Centre-state relations challenges in India's asymmetric federalism
 -** Tribal Rights**: Issue connects to larger debate about indigenous communities' rights over natural resources
 -** Implementation Challenges**: Need for reconciling constitutional provisions with national energy security requirements
 -** Future Governance**: Sets precedent for other northeastern states with special constitutional status
 
-##** Path to Resolution **-** Consultation Mechanism**: Establish formal Centre-state dialogue framework respecting Article 371A provisions
+## Path to Resolution - Consultation Mechanism: Establish formal Centre-state dialogue framework respecting Article 371A provisions
 -** Revenue Sharing Model**: Develop equitable petroleum revenue distribution considering Nagaland's special status
 -** Environmental Safeguards**: Incorporate traditional conservation practices into modern exploration frameworks
 -** Legal Clarity**: Supreme Court interpretation needed to resolve constitutional ambiguities
@@ -5663,7 +5665,7 @@ Resolving this conflict requires balancing national energy security with constit
 
 ---
 
-## Question 120 (Year: 2013 | Paper: GS 2 | Marks: N/A)** The role of individual MPs (Members of Parliament) has diminished over the years and as a result, healthy constructive debates on policy issues are not usually witnessed. How far can this be attributed to the anti-defection law, which was legislated but with a different intention? **
+## Question 120 (Year: 2013 | Paper: GS 2 | Marks: N/A) The role of individual MPs (Members of Parliament) has diminished over the years and as a result, healthy constructive debates on policy issues are not usually witnessed. How far can this be attributed to the anti-defection law, which was legislated but with a different intention? 
 
 ### Answer
 **Question ID: 2013-gs2-q120-superkalam**
@@ -5718,7 +5720,7 @@ While the anti-defection law successfully achieved political stability, comprehe
 
 ---
 
-## Question 121 (Year: 2013 | Paper: GS 2 | Marks: N/A)** The Supreme Court of India keeps a check on the arbitrary power of the Parliament in amending the Constitution. Discuss critically. **
+## Question 121 (Year: 2013 | Paper: GS 2 | Marks: N/A) The Supreme Court of India keeps a check on the arbitrary power of the Parliament in amending the Constitution. Discuss critically. 
 
 ### Answer
 **Question ID: 2013-gs2-q121-superkalam**
@@ -5782,25 +5784,25 @@ Civil Society Organizations (CSOs) are non-State, voluntary groups that operate 
 
 State, Civil Society, Market Trinity
 
-## **CSOs as Non-State Actors** ### **Complementary Governance Role:** - **Service delivery partners**: Akshaya Patra Foundation serves 1.8 million children daily under Mid-Day Meal Scheme.
+## CSOs as Non-State Actors ### Complementary Governance Role: - Service delivery partners: Akshaya Patra Foundation serves 1.8 million children daily under Mid-Day Meal Scheme.
 -** Policy implementation**: Self-Employed Women's Association (SEWA) facilitates financial inclusion through Jan Dhan Yojana.
 -** Community mobilization**: Arya Samaj's role in Swachh Bharat Mission across rural Haryana.
 -** Capacity building**: Pratham's collaboration with state governments for foundational literacy.
 -** Social audit mechanisms**: Mazdoor Kisan Shakti Sangathan's transparency initiatives in MGNREGA.
 
-###** Democratic Participation: **-** Voter awareness**: Association for Democratic Reforms' election transparency efforts.
+### Democratic Participation: - Voter awareness: Association for Democratic Reforms' election transparency efforts.
 -** Grievance redressal**: Citizen forums supporting PM GrievCell portal.
 -** Rights advocacy**: Legal aid societies working with National Legal Services Authority.
 -** Research partnerships**: Centre for Policy Research's inputs to NITI Aayog policies.
 -** Disaster response**: Goonj's coordination with NDMA during COVID-19 pandemic.
 
-##** Perception as Anti-State Actors **###** Regulatory Tensions: **-** FCRA restrictions**: Oxfam India, Greenpeace losing licenses for environmental advocacy.
+## Perception as Anti-State Actors ### Regulatory Tensions: - FCRA restrictions: Oxfam India, Greenpeace losing licenses for environmental advocacy.
 -** Sedition allegations**: Activists like Aruna Roy facing legal challenges for RTI campaigns.
 -** Foreign funding scrutiny**: Christian missionaries' educational institutions under investigation.
 -** Resource competition**: Conflicts over government contracts between CSOs and private agencies.
 -** Ideological differences**: Environmental groups opposing mining projects in tribal areas.
 
-###** Institutional Friction: **-** Accountability demands**: CSOs questioning government expenditure through RTI applications.
+### Institutional Friction: - Accountability demands: CSOs questioning government expenditure through RTI applications.
 -** Policy criticism**: Human rights organizations highlighting governance gaps in Kashmir.
 -** International reporting**: Amnesty International's documentation affecting India's global image.
 -** Court interventions**: PIL activism challenging government policies on pollution, displacement.
@@ -5812,7 +5814,7 @@ The perception of CSOs as anti-State emerges when criticism is mistaken for oppo
 
 ---
 
-## Question 123 (Year: 2025 | Paper: GS 2 | Marks: N/A)** e-governance projects have a built-in bias towards technology and back-end integration than user-centric designs. Examine. **
+## Question 123 (Year: 2025 | Paper: GS 2 | Marks: N/A) e-governance projects have a built-in bias towards technology and back-end integration than user-centric designs. Examine. 
 
 ### Answer
 **Question ID: 2025-gs2-q123-superkalam**
@@ -5845,7 +5847,7 @@ Successful e-governance requires balancing technological robustness with user-ce
 
 ---
 
-## Question 124 (Year: 2025 | Paper: GS 2 | Marks: N/A)** &quot;In contemporary development models, decision-making and problem-solving responsibilities are not located close to the source of information and execution defeating the objectives of development.&quot; Critically evaluate. **
+## Question 124 (Year: 2025 | Paper: GS 2 | Marks: N/A) &quot;In contemporary development models, decision-making and problem-solving responsibilities are not located close to the source of information and execution defeating the objectives of development.&quot; Critically evaluate. 
 
 ### Answer
 **Question ID: 2025-gs2-q124-superkalam**
@@ -5888,7 +5890,7 @@ The path forward lies in** subsidiarity principle **- decisions at the most loca
 
 ---
 
-## Question 125 (Year: 2024 | Paper: GS 2 | Marks: N/A)** E-governance is not just about the routine application of digital technology in service delivery process. It is as much about multifarious interactions for ensuring transparency and accountability. In this context, evaluate the role of the &quot;Interactive Service Model&quot; of e-governance. **
+## Question 125 (Year: 2024 | Paper: GS 2 | Marks: N/A) E-governance is not just about the routine application of digital technology in service delivery process. It is as much about multifarious interactions for ensuring transparency and accountability. In this context, evaluate the role of the &quot;Interactive Service Model&quot; of e-governance. 
 
 ### Answer
 
@@ -5960,7 +5962,7 @@ The success of e-governance through** Interactive Service Model **demonstrates I
 
 ---
 
-## Question 126 (Year: 2024 | Paper: GS 2 | Marks: N/A)** Public charitable trusts have the potential to make India’s development more inclusive as they relate to certain vital public issues. Comment. **
+## Question 126 (Year: 2024 | Paper: GS 2 | Marks: N/A) Public charitable trusts have the potential to make India’s development more inclusive as they relate to certain vital public issues. Comment. 
 
 ### Answer
 
@@ -5998,7 +6000,7 @@ By fostering synergistic government-trust partnerships, India can transition fro
 
 ---
 
-## Question 127 (Year: 2024 | Paper: GS 2 | Marks: N/A)** The citizen charter has been a landmark initiative in ensuring citizen- centric administration. But it is yet to reach its full potential. Identify the factors hindering the full realization of its promise and suggest measures to overcome them. **
+## Question 127 (Year: 2024 | Paper: GS 2 | Marks: N/A) The citizen charter has been a landmark initiative in ensuring citizen- centric administration. But it is yet to reach its full potential. Identify the factors hindering the full realization of its promise and suggest measures to overcome them. 
 
 ### Answer
 
@@ -6063,7 +6065,7 @@ The transformation of citizen charters from mere documents to effective tools of
 
 ---
 
-## Question 128 (Year: 2024 | Paper: GS 2 | Marks: N/A)** The Doctrine of Democratic governance makes it necessary that the public perception of the integrity and commitment of civil servants becomes absolutely positive. Discuss. **
+## Question 128 (Year: 2024 | Paper: GS 2 | Marks: N/A) The Doctrine of Democratic governance makes it necessary that the public perception of the integrity and commitment of civil servants becomes absolutely positive. Discuss. 
 
 ### Answer
 
@@ -6101,7 +6103,7 @@ As Kautilya noted, the welfare of the state lies in the happiness of its subject
 
 ---
 
-## Question 129 (Year: 2024 | Paper: GS 2 | Marks: N/A) **What are the aims and objectives of recently passed and enforced, The Public Examination (Prevention of Unfair Means) Act, 2024? Whether University/State Education Board examinations, too, are covered under the Act?**
+## Question 129 (Year: 2024 | Paper: GS 2 | Marks: N/A) What are the aims and objectives of recently passed and enforced, The Public Examination (Prevention of Unfair Means) Act, 2024? Whether University/State Education Board examinations, too, are covered under the Act?
 
 ### Answer
 
@@ -6144,7 +6146,7 @@ The Act serves as a** blueprint for educational reform**, encouraging states and
 
 ---
 
-## Question 130 (Year: 2023 | Paper: GS 2 | Marks: N/A)** Development and welfare schemes for the vulnerable sections, by its nature, are discriminatory in approach. Do you agree? Give reasons for your answer. **
+## Question 130 (Year: 2023 | Paper: GS 2 | Marks: N/A) Development and welfare schemes for the vulnerable sections, by its nature, are discriminatory in approach. Do you agree? Give reasons for your answer. 
 
 ### Answer
 **Question ID: 2023-gs2-q130-superkalam**
@@ -6164,7 +6166,7 @@ Formal vs Substantive Equality
 5.** Political Instrumentalisation: **Welfare schemes targeted at specific communities are often** announced before elections**, leading to a perception of** vote-bank politics**.** Example: **Loan waivers for minority communities or special sops for OBC women launched just before assembly polls.
 6.** Inter-group Competition and Identity Assertion: **Targeted schemes have encouraged new caste and community groups (e.g., Jats, Patidars, Marathas) to demand inclusion under OBC or EWS categories.
 
-## Why This** Discriminatio **is Justified and Constitutional
+## Why This Discriminatio is Justified and Constitutional
 
 1.** Constitutionally Sanctioned Affirmative Action: **-** Article 15(3) **empowers the State to make special provisions for women and children.** Example: **Beti Bachao Beti Padhao, Ujjwala Yojana, and PM Matru Vandana Yojana specifically benefit women.
 
@@ -6187,7 +6189,7 @@ The so-called “discriminatory” nature of welfare schemes must be interpreted
 
 ---
 
-## Question 131 (Year: 2023 | Paper: GS 2 | Marks: N/A) **Discuss the role of the Competition Commission of India in containing the abuse of dominant position by the Multi-National Corporations in India. Refer to the recent decisions.**
+## Question 131 (Year: 2023 | Paper: GS 2 | Marks: N/A) Discuss the role of the Competition Commission of India in containing the abuse of dominant position by the Multi-National Corporations in India. Refer to the recent decisions.
 
 ### Answer
 **Question ID: 2023-gs2-q131-superkalam**
@@ -6249,7 +6251,7 @@ The** Competition Commission of India **plays a critical role in safeguarding In
 
 ---
 
-## Question 132 (Year: 2023 | Paper: GS 2 | Marks: N/A)** e-governance as a critical tool of governance, has ushered in effectiveness, transparency and accountability in governments. What inadequacies hamper the enhancement of these features. **
+## Question 132 (Year: 2023 | Paper: GS 2 | Marks: N/A) e-governance as a critical tool of governance, has ushered in effectiveness, transparency and accountability in governments. What inadequacies hamper the enhancement of these features. 
 
 ### Answer
 **Question ID: 2023-gs2-q132-superkalam**
@@ -6288,7 +6290,7 @@ Inadequacies in e-Governance: Key Challenges
 
 ---
 
-## Question 133 (Year: 2023 | Paper: GS 2 | Marks: N/A)** Skill development programmes have succeeded in increasing human resources supply to various sectors. In the context of the statement analyse the linkages between, education, skill and employment. **
+## Question 133 (Year: 2023 | Paper: GS 2 | Marks: N/A) Skill development programmes have succeeded in increasing human resources supply to various sectors. In the context of the statement analyse the linkages between, education, skill and employment. 
 
 ### Answer
 **Question ID: 2023-gs2-q133-superkalam**
@@ -6325,7 +6327,7 @@ The synergy between education, skills, and employment requires a holistic approa
 
 ---
 
-## Question 134 (Year: 2023 | Paper: GS 2 | Marks: N/A)** The crucial aspect of development process has been the inadequate attention paid to Human resource development in India. Suggest measures to that can address this inadequacy. **
+## Question 134 (Year: 2023 | Paper: GS 2 | Marks: N/A) The crucial aspect of development process has been the inadequate attention paid to Human resource development in India. Suggest measures to that can address this inadequacy. 
 
 ### Answer
 **Question ID: 2023-gs2-q134-superkalam**
@@ -6386,14 +6388,14 @@ India’s demographic advantage will turn into a **demographic burden** unless w
 
 ---
 
-## Question 135 (Year: 2022 | Paper: GS 2 | Marks: N/A)** Do you agree with the view that increasing dependence on donor agencies for development reduces the importance of community participation in the development process ? Justify your answer. **
+## Question 135 (Year: 2022 | Paper: GS 2 | Marks: N/A) Do you agree with the view that increasing dependence on donor agencies for development reduces the importance of community participation in the development process ? Justify your answer. 
 
 ### Answer
 **Question ID: 2022-gs2-q135-superkalam**
 
 Development in India has historically involved a** triangular relationship **between the** State, community institutions, and external actors (donors/NGOs/IFIs)**. While donor agencies such as the** World Bank, IMF, UNDP, UNICEF **provide resources and expertise, over-dependence can erode** community participation**, which is central to** sustainable and inclusive growth**.
 
-##** Why Increasing Dependence on Donor Agencies May Reduce Community Participation **1.** Top–Down Model of Development **- Donor projects often impose** externally designed templates**, ignoring local diversity.
+## Why Increasing Dependence on Donor Agencies May Reduce Community Participation 1. Top–Down Model of Development - Donor projects often impose externally designed templates, ignoring local diversity.
  -** Example:** **World Bank structural adjustment loans (1991–92)** emphasized fiscal reforms but ignored grassroots livelihood issues.
 
 2. **Erosion of Local Ownership** - The **NITI Aayog (2019)** report highlighted how donor-driven sanitation programmes pre-Swachh Bharat failed due to lack of **behavioural change and ownership**.
@@ -6411,7 +6413,7 @@ Development in India has historically involved a** triangular relationship **bet
 6.** Dependency Syndrome **- Excessive reliance on external agencies risks creating a** culture of aid dependency**, reducing incentives for communities to mobilise their own resources.
  - The** Economic Survey 2016-17 **cautioned against external dependence for core social sector funding.
 
-##** Counter-View: Donor Agencies Can Enhance Community Participation **1.** Capacity Building and Awareness Creation **- Donor agencies fund** training, education, and awareness drives**, enabling communities to participate.
+## Counter-View: Donor Agencies Can Enhance Community Participation 1. Capacity Building and Awareness Creation - Donor agencies fund training, education, and awareness drives, enabling communities to participate.
  -** Example:** **UNICEF-supported Total Sanitation Campaign** in Maharashtra mobilised communities successfully.
 
 2. **Bridging Financial and Technical Gaps** - Donors provide crucial resources where state capacity is weak.
@@ -6428,7 +6430,7 @@ Development in India has historically involved a** triangular relationship **bet
 
 6. **Alignment with SDGs** - Donor agencies integrate local development into **global Sustainable Development Goals (SDGs)**, ensuring better measurement and accountability.
 
-##** Way Forward **1.** Community-Led Donor Engagement: **External funding should** flow through PRIs and Gram Sabhas **as mandated by** 73rd Amendment**.
+## Way Forward 1. Community-Led Donor Engagement: External funding should flow through PRIs and Gram Sabhas as mandated by 73rd Amendment.
 2.** Strengthen Accountability: **Institutionalise** social audits **and** citizen report cards **for donor-funded projects (as suggested by the** Second ARC Report**).
 3.** Capacity Building of Local Institutions: **As per** World Bank’s Community Driven Development Framework**, donors should** invest in local governance capacity**, not just assets.
 4.** Blend Local and Global Agendas: **Projects must balance** SDGs with community-specific needs **(e.g., irrigation, food security).
@@ -6440,20 +6442,20 @@ While donor agencies bring financial resources, technical expertise, and global 
 
 ---
 
-## Question 136 (Year: 2022 | Paper: GS 2 | Marks: N/A)** The Gati-Shakti Yojana needs meticulous coordination between the government and the private sector to achieve the goal of connectivity. Discuss. **
+## Question 136 (Year: 2022 | Paper: GS 2 | Marks: N/A) The Gati-Shakti Yojana needs meticulous coordination between the government and the private sector to achieve the goal of connectivity. Discuss. 
 
 ### Answer
 **Question ID: 2022-gs2-q136-superkalam**
 
 Connectivity is the backbone of economic growth. The** PM Gati-Shakti National Master Plan (2021) **was launched to integrate infrastructure creation across sectors. Its success depends on** synergy between government planning and private sector execution**.
 
-##** PM Gati-Shakti Yojana – Key Features **-** Launched: **October 2021 as a ₹100 lakh crore National Master Plan.
+## PM Gati-Shakti Yojana – Key Features - Launched: October 2021 as a ₹100 lakh crore National Master Plan.
 -** Objective: **To bring** integrated, multi-modal infrastructure **and reduce logistics costs from** 13–14% to ~8% of GDP**.
 -** Approach: **Uses a** GIS-based digital platform **that integrates data of** 16 ministries **for planning and monitoring.
 -** Focus Areas: **Roads, railways, ports, airports, inland waterways, logistics parks and industrial corridors.
 -** Target: **Seamless connectivity for economic zones, improved global competitiveness, and job creation.
 
-##** Why Coordination with Private Sector is Crucial **1.** Resource Mobilisation: **Infrastructure development requires huge funding (NIP estimates** ₹100 lakh crore **by 2025). Private capital through PPPs, Infrastructure Investment Trusts (InvITs), and bonds is critical.
+## Why Coordination with Private Sector is Crucial 1. Resource Mobilisation: Infrastructure development requires huge funding (NIP estimates ₹100 lakh crore by 2025). Private capital through PPPs, Infrastructure Investment Trusts (InvITs), and bonds is critical.
 2.** Technology & Innovation: **Private firms provide cutting-edge tools like** GIS mapping, satellite data, AI-driven logistics models**.** Example: **private geospatial companies enhance the Gati-Shakti digital platform.
 3.** Efficient Project Execution: **Government projects often face delays (average** 4.2 years **delay, MOSPI data). Private sector’s efficiency in procurement, design, and construction can reduce time and cost overruns.
 4.** Logistics and Supply Chain Integration: **Gati-Shakti targets lowering logistics costs from** 13–14% to ~8% of GDP**. Private players in warehousing, ports, and cold-chain logistics (e.g.,** Amazon, Delhivery, Mahindra Logistics**) are key for last-mile efficiency.
@@ -6466,14 +6468,14 @@ PM Gati-Shakti reflects a** shift from fragmented planning to holistic infrastru
 
 ---
 
-## Question 137 (Year: 2022 | Paper: GS 2 | Marks: N/A)** The Rights of Persons with Disabilities Act, 2016 remains only a legal document without intense sensitisation of government functionaries and citizens regarding disability. Comment. **
+## Question 137 (Year: 2022 | Paper: GS 2 | Marks: N/A) The Rights of Persons with Disabilities Act, 2016 remains only a legal document without intense sensitisation of government functionaries and citizens regarding disability. Comment. 
 
 ### Answer
 **Question ID: 2022-gs2-q137-superkalam**
 
 The** Rights of Persons with Disabilities (RPwD) Act, 2016**, enacted to fulfil India’s commitment to the** UNCRPD**, expanded recognised disabilities from 7 to 21 and mandated rights in education, employment, and accessibility. However, its implementation suffers from inadequate** sensitisation and attitudinal change **among officials and society.
 
-##** RPwD Act Remains Limited without Sensitisation **1.** Low Awareness Among Functionaries: **- Many officials are unaware of provisions like** reasonable accommodation **or** barrier-free access**.
+## RPwD Act Remains Limited without Sensitisation 1. Low Awareness Among Functionaries: - Many officials are unaware of provisions like reasonable accommodation or barrier-free access.
  -** Example: **In the** Vikash Kumar vs UPSC (2021) **case, UPSC denied a scribe to a disabled candidate due to lack of awareness, later corrected by the Supreme Court.
 
 2.** Inadequate Training of Service Providers: **- Teachers, doctors, police officers, and local officials are not adequately trained to handle disability rights.
@@ -6494,7 +6496,7 @@ The** Rights of Persons with Disabilities (RPwD) Act, 2016**, enacted to fulfil 
 
 Despite these limitations the act provided renewed impetus to empowering PwD people.
 
-##** Achievements of RPwD Act, 2016 **1.** Expansion of Disability Categories: **- Increased from** 7 to 21 recognised disabilities**, including autism, thalassemia, acid attack victims, and multiple sclerosis.
+## Achievements of RPwD Act, 2016 1. Expansion of Disability Categories: - Increased from 7 to 21 recognised disabilities, including autism, thalassemia, acid attack victims, and multiple sclerosis.
  - This widened the coverage, ensuring benefits for nearly** 3 crore PwDs (Census 2011) **compared to 2.1 crore earlier.
 
 2.** Enhanced Reservation in Jobs and Education: **- Raised reservation from** 3% to 4% in government jobs **and** 5% in higher education**.
@@ -6518,20 +6520,20 @@ The RPwD Act, 2016 is progressive on paper but remains under-realised without** 
 
 ---
 
-## Question 138 (Year: 2021 | Paper: GS 2 | Marks: N/A)** Can Civil Society and Non-Governmental Organisations present an alternative model of public service delivery to benefit the common citizen. Discuss the challenges of this alternative model. **
+## Question 138 (Year: 2021 | Paper: GS 2 | Marks: N/A) Can Civil Society and Non-Governmental Organisations present an alternative model of public service delivery to benefit the common citizen. Discuss the challenges of this alternative model. 
 
 ### Answer
 **Question ID: 2021-gs2-q138-superkalam**
 
 Civil Society Organizations (CSOs) and NGOs have emerged as vital alternative service providers, with India hosting over** 3.3 million NGOs **as of 2023, demonstrating their potential to revolutionize public service delivery through innovative, community-centered approaches.
 
-##** Alternative Service Delivery Models **-** Last-Mile Connectivity**: Organizations like** Akshaya Patra **serve** 2 million children daily **across 12 states, demonstrating superior reach in remote areas where government infrastructure remains limited.
+## Alternative Service Delivery Models - Last-Mile Connectivity: Organizations like Akshaya Patra serve 2 million children daily across 12 states, demonstrating superior reach in remote areas where government infrastructure remains limited.
 -** Technology-Driven Solutions**:** Digital Green **uses video-based extension services reaching** 1 million farmers**, showcasing cost-effective agricultural advisory services at** 10 times lower cost **than traditional methods.
 -** Specialized Healthcare Delivery**:** Aravind Eye Care **performs** 400,000+ surgeries annually **with cross-subsidization models, making quality healthcare accessible to economically weaker sections.
 -** Community Participation**:** SEWA's **cooperative model engages** 2 million women members **in financial inclusion and skill development, ensuring sustainable livelihood generation.
 -** Rapid Response Mechanisms**: During** COVID-19**, organizations like** Goonj **provided immediate relief to** 5 lakh families**, demonstrating agility unmatched by bureaucratic processes.
 
-##** Challenges of Alternative Model **-** Funding Sustainability**: Over** 60% NGOs **face irregular funding, with** FCRA amendments 2020 **restricting foreign contributions, limiting operational capacity and long-term program sustainability.
+## Challenges of Alternative Model - Funding Sustainability: Over 60% NGOs face irregular funding, with FCRA amendments 2020 restricting foreign contributions, limiting operational capacity and long-term program sustainability.
 -** Regulatory Compliance**: Complex requirements including** 12A, 80G certifications **and** CSR compliance **create administrative burdens, with** 25% operational costs **devoted to compliance activities.
 -** Scale Limitations**: Most NGOs operate in** limited geographical areas **with restricted beneficiary coverage, unable to match government's nationwide reach and standardization.
 -** Coordination Gaps**: Poor integration with government schemes leads to** program duplication **and resource wastage, reducing overall development impact.
@@ -6543,7 +6545,7 @@ The** National Policy on Voluntary Sector 2007 **envisioned collaborative partne
 
 ---
 
-## Question 139 (Year: 2021 | Paper: GS 2 | Marks: N/A)** Can the vicious cycle of gender inequality, poverty and malnutrition be broken through microfinancing of women SHGs? Explain with examples. **
+## Question 139 (Year: 2021 | Paper: GS 2 | Marks: N/A) Can the vicious cycle of gender inequality, poverty and malnutrition be broken through microfinancing of women SHGs? Explain with examples. 
 
 ### Answer
 **Question ID: 2021-gs2-q139-superkalam**
@@ -6586,7 +6588,7 @@ Microfinancing through women SHGs creates a** multiplier effect **- economically
 
 ---
 
-## Question 140 (Year: 2021 | Paper: GS 2 | Marks: N/A)** Has digital illiteracy, particularly in rural areas, couple with lack of Information and Communication Technology(ICT) accessibility hindered socio-economic development? Examine with justification. **
+## Question 140 (Year: 2021 | Paper: GS 2 | Marks: N/A) Has digital illiteracy, particularly in rural areas, couple with lack of Information and Communication Technology(ICT) accessibility hindered socio-economic development? Examine with justification. 
 
 ### Answer
 **Question ID: 2021-gs2-q140-superkalam**
@@ -6623,27 +6625,27 @@ Digital illiteracy coupled with ICT accessibility gaps has indeed hindered compr
 
 ---
 
-## Question 141 (Year: 2021 | Paper: GS 2 | Marks: N/A)** “Pressure groups play a vital role in influencing public policy making in India.” Explain how the business associations contribute to public policies. **
+## Question 141 (Year: 2021 | Paper: GS 2 | Marks: N/A) “Pressure groups play a vital role in influencing public policy making in India.” Explain how the business associations contribute to public policies. 
 
 ### Answer
 **Question ID: 2021-gs2-q141-superkalam**
 
 Recent corporate-government collaborations during policy formulation highlight the significant influence of business associations in Indian policy-making. Business associations serve as crucial intermediaries between private sector interests and government decision-making processes.
 
-##** Mechanisms of Business Association Influence **-** Pre-Budget Consultations**: Industry chambers like** FICCI**,** CII**, and** ASSOCHAM **participate in annual Finance Ministry consultations, submitting detailed recommendations for fiscal policies and tax reforms.
+## Mechanisms of Business Association Influence - Pre-Budget Consultations: Industry chambers like FICCI, CII, and ASSOCHAM participate in annual Finance Ministry consultations, submitting detailed recommendations for fiscal policies and tax reforms.
 -** Policy Research and White Papers**: Organizations conduct comprehensive studies providing evidence-based policy inputs.** NASSCOM's **AI policy framework contributed significantly to India's National Strategy for Artificial Intelligence 2024.
 -** Regulatory Engagement**: Business groups maintain continuous dialogue with regulatory bodies like** SEBI**,** RBI**, and** TRAI**, influencing sectoral regulations and compliance frameworks.
 -** Parliamentary Committee Interactions**: Associations present testimonies before parliamentary standing committees, offering technical expertise on proposed legislation.
 -** Government Advisory Bodies**: Industry representatives serve on various government committees and task forces, directly participating in policy formulation processes.
 
-##** Key Impact Areas **|** Policy Domain **|** Business Association Role **|** Recent Examples **|
+## Key Impact Areas | Policy Domain | Business Association Role | Recent Examples |
 | --- | --- | --- |
 |** Economic Reforms **| Advocacy for structural changes | GST simplification, Labor Code reforms |
 |** Digital Policy **| Technical expertise provision | Data Protection Bill inputs, Digital India initiatives |
 |** Infrastructure **| Investment facilitation | National Infrastructure Pipeline consultations |
 |** Trade Policy **| Export promotion strategies | PLI scheme design, FTA negotiations |
 
-##** Challenges in Policy Influence **-** Power Asymmetry**: Large corporations dominate policy discussions while** MSMEs **struggle for adequate representation in association activities.
+## Challenges in Policy Influence - Power Asymmetry: Large corporations dominate policy discussions while MSMEs struggle for adequate representation in association activities.
 -** Regulatory Capture Risk**: Over-dependence on industry inputs may lead to policies favoring business interests over public welfare.
 -** Transparency Deficits**: Limited disclosure of lobbying activities and funding sources affects policy-making credibility.
 -** Conflicting Interests**: Different business associations often present contradictory recommendations, creating policy confusion.
@@ -6654,7 +6656,7 @@ Business associations' constructive engagement in policy-making reflects India's
 
 ---
 
-## Question 142 (Year: 2020 | Paper: GS 2 | Marks: N/A)** In order to enhance the prospects of social development, sound and adequate health care policies are needed particularly in the fields of geriatric and maternal health care. Discuss **
+## Question 142 (Year: 2020 | Paper: GS 2 | Marks: N/A) In order to enhance the prospects of social development, sound and adequate health care policies are needed particularly in the fields of geriatric and maternal health care. Discuss 
 
 ### Answer
 **Question ID: 2020-gs2-q142-superkalam**
@@ -6698,7 +6700,7 @@ Recent healthcare data reveals India's demographic transition necessitates focus
 
 ---
 
-## Question 143 (Year: 2020 | Paper: GS 2 | Marks: N/A)** Institutional quality is a crucial driver of economic performance”. In this context suggest reforms in the Civil Service for strengthening democracy **
+## Question 143 (Year: 2020 | Paper: GS 2 | Marks: N/A) Institutional quality is a crucial driver of economic performance”. In this context suggest reforms in the Civil Service for strengthening democracy 
 
 ### Answer
 **Question ID: 2020-gs2-q143-superkalam**
@@ -6750,7 +6752,7 @@ These comprehensive reforms, anchored in the** National Programme for Civil Serv
 
 ---
 
-## Question 144 (Year: 2020 | Paper: GS 2 | Marks: N/A)** National Education Policy 2020 is in conformity with the Sustainable Development Goals-4 (2030). It intended to restructure and re-orient the education system in India. Critically examine the statement. **
+## Question 144 (Year: 2020 | Paper: GS 2 | Marks: N/A) National Education Policy 2020 is in conformity with the Sustainable Development Goals-4 (2030). It intended to restructure and re-orient the education system in India. Critically examine the statement. 
 
 ### Answer
 **Question ID: 2020-gs2-q144-superkalam**
@@ -6817,27 +6819,27 @@ The Fourth Industrial Revolution has established e-Governance as an integral gov
 
 ---
 
-## Question 145 (Year: 2020 | Paper: GS 2 | Marks: N/A)** The emergence of Fourth Industrial Revolution (Digital Revolution) has initiated e-Governance as an integral part of government”. Discuss. **
+## Question 145 (Year: 2020 | Paper: GS 2 | Marks: N/A) The emergence of Fourth Industrial Revolution (Digital Revolution) has initiated e-Governance as an integral part of government”. Discuss. 
 
 ### Answer
 **Question ID: 2020-gs2-q145-superkalam**
 
 The National Education Policy 2020 represents India's comprehensive alignment with SDG-4, aiming to transform education through structural reforms and inclusive approaches.
 
-##** Alignment with SDG-4 Framework **-** Universal Access Achievement**: NEP 2020 targets** 100% Gross Enrollment Ratio **by 2030, directly supporting SDG-4's universal education mandate
+## Alignment with SDG-4 Framework - Universal Access Achievement: NEP 2020 targets 100% Gross Enrollment Ratio by 2030, directly supporting SDG-4's universal education mandate
 -** Quality Learning Outcomes**: Introduction of** 5+3+3+4 curricular structure **emphasizes foundational literacy and numeracy, replacing rote learning with competency-based assessment
 -** Equity and Inclusion**: Special provisions for** Socio-Economically Disadvantaged Groups (SEDGs) **through targeted scholarships and gender inclusion funds align with SDG-4's "leave no one behind" principle
 -** Technology Integration**:** National Educational Technology Forum (NETF) **and digital platforms support SDG-4's technology-enabled learning targets
 -** Lifelong Learning**: Emphasis on** multiple entry-exit options **in higher education promotes continuous skill development throughout life
 
-##** Structural Transformation Initiatives **|** Reform Area **|** NEP 2020 Provision **|** SDG-4 Target Alignment **|
+## Structural Transformation Initiatives | Reform Area | NEP 2020 Provision | SDG-4 Target Alignment |
 | --- | --- | --- |
 | Early Childhood Care | Universal pre-primary education | Target 4.2 - Early childhood development |
 | Higher Education | 50% GER by 2035 | Target 4.3 - Equal access to higher education |
 | Teacher Training | 4-year B.Ed programs | Target 4.c - Qualified teachers |
 | Funding | 6% of GDP allocation | Target 4.b - Education financing |
 
-##** Implementation Progress and Challenges **-** Positive Developments**:** 1,400+ colleges **across states implementing NEP curricula;** ₹1.28 trillion **education budget allocation in 2024-25
+## Implementation Progress and Challenges - Positive Developments: 1,400+ colleges across states implementing NEP curricula; ₹1.28 trillion education budget allocation in 2024-25
 -** Digital Infrastructure**:** PM eVIDYA **initiative launched with 200+ educational channels supporting remote learning accessibility
 -** Resource Constraints**: Current education spending at** 4.6% of GDP **falls short of NEP's 6% target, potentially limiting comprehensive implementation
 -** Capacity Building Gap**: Need for training** 94 lakh teachers **in new pedagogical approaches poses significant logistical challenges
@@ -6849,26 +6851,26 @@ NEP 2020 demonstrates strong conceptual alignment with** SDG-4's transformative 
 
 ---
 
-## Question 146 (Year: 2019 | Paper: GS 2 | Marks: N/A)** Implementation of information and Communication **
+## Question 146 (Year: 2019 | Paper: GS 2 | Marks: N/A) Implementation of information and Communication 
 
 ### Answer
 **Question ID: 2019-gs2-q146-superkalam**
 
 Digital governance initiatives in India face significant implementation challenges, with central sector projects experiencing cost overruns of** Rs 5.71 lakh crore **across 458 projects in 2024, highlighting the urgent need for systematic reforms.
 
-##** Vital Factors Affecting ICT Implementation **###** Technical and Infrastructure Challenges **-** Digital Divide**: Only 38% of Indian households are digitally literate (61% urban vs 25% rural)
+## Vital Factors Affecting ICT Implementation ### Technical and Infrastructure Challenges - Digital Divide: Only 38% of Indian households are digitally literate (61% urban vs 25% rural)
 -** Inadequate Infrastructure**: Poor internet connectivity and unreliable power supply, particularly in remote areas
 -** System Integration Issues**: Lack of interoperability between different government systems and databases
 -** Cybersecurity Vulnerabilities**: Insufficient data protection measures and security protocols
 -** Technology Obsolescence**: Rapid technological changes making systems outdated quickly
 
-###** Human Resource and Capacity Constraints **-** Skill Gap**: Limited technical expertise among government officials for ICT management
+### Human Resource and Capacity Constraints - Skill Gap: Limited technical expertise among government officials for ICT management
 -** Resistance to Change**: Bureaucratic inertia and preference for traditional paper-based processes
 -** Inadequate Training**: Insufficient continuous learning programs for staff adaptation
 -** High Attrition**: Loss of trained personnel to private sector due to better opportunities
 -** Change Management**: Poor communication of benefits to end-users and stakeholders
 
-###** Governance and Management Deficiencies **-** Poor Project Planning**: Inadequate feasibility studies and requirement analysis
+### Governance and Management Deficiencies - Poor Project Planning: Inadequate feasibility studies and requirement analysis
 -** Weak Monitoring**: Absence of real-time tracking and evaluation mechanisms
 -** Coordination Gaps**: Limited inter-departmental collaboration and data sharing
 -** Political Will**: Inconsistent support across political transitions
@@ -6881,17 +6883,17 @@ Digital governance initiatives in India face significant implementation challeng
 | Capacity Building | Medium | Skill development, retention policies |
 | Governance | Medium | PMO framework, clear SOPs |
 
-##** Measures for Effective Implementation **###** Infrastructure and Technical Solutions **-** Robust Digital Framework**: Expand** BharatNet 2.0 **for universal connectivity and adopt cloud-first policy
+## Measures for Effective Implementation ### Infrastructure and Technical Solutions - Robust Digital Framework: Expand BharatNet 2.0 for universal connectivity and adopt cloud-first policy
 -** System Standardization**: Implement** India Stack **architecture for seamless integration across platforms
 -** Cybersecurity Enhancement**: Establish** Information Security Education and Awareness (ISEA) **protocols
 -** User-Centric Design**: Develop multilingual, accessible interfaces following** Web Content Accessibility Guidelines **-** Technology Future-Proofing**: Regular technology audits and upgrade roadmaps
 
-###** Capacity Building and Change Management **-** Comprehensive Training**: Launch** Digital Saksharta Abhiyan **for officials and citizens
+### Capacity Building and Change Management - Comprehensive Training: Launch Digital Saksharta Abhiyan for officials and citizens
 -** Dedicated IT Cells**: Establish technical support units in each department with clear mandates
 -** Public-Private Partnerships**: Leverage private sector expertise through** Digital India Land Records Modernization **-** Incentive Structures**: Performance-linked rewards for successful ICT adoption
 -** Knowledge Management**: Create institutional memory systems and best practice repositories
 
-###** Project Management and Governance Reforms **-** Agile Implementation**: Adopt iterative development cycles with regular stakeholder feedback
+### Project Management and Governance Reforms - Agile Implementation: Adopt iterative development cycles with regular stakeholder feedback
 -** Real-time Monitoring**: Deploy** Project Management Information System (PMIS) **for transparent tracking
 -** Clear Accountability**: Define roles through** RACI matrices **and performance indicators
 -** Stakeholder Engagement**: Regular consultations with users, civil society, and technical experts
@@ -6903,14 +6905,14 @@ Successful initiatives like** Aadhaar**,** UPI**, and** CoWIN **demonstrate that
 
 ---
 
-## Question 147 (Year: 2019 | Paper: GS 2 | Marks: N/A)** In the context of the neo-liberal paradigm of **
+## Question 147 (Year: 2019 | Paper: GS 2 | Marks: N/A) In the context of the neo-liberal paradigm of 
 
 ### Answer
 **Question ID: 2019-gs2-q147-superkalam**
 
 Recent shifts toward** Atmanirbhar Bharat **and decentralized governance highlight India's adoption of multi-level planning within neo-liberal frameworks. This approach aims to optimize resource allocation and streamline implementation through coordinated efforts across governance tiers.
 
-##** Cost-Effectiveness Through Multi-level Planning **-** Resource Optimization**:** MGNREGA **demonstrates how block-level planning reduces administrative costs by 30% compared to centralized execution, with local panchayats directly managing ₹73,000 crores annually.
+## Cost-Effectiveness Through Multi-level Planning - Resource Optimization: MGNREGA demonstrates how block-level planning reduces administrative costs by 30% compared to centralized execution, with local panchayats directly managing ₹73,000 crores annually.
 -** Economies of Scale**:
 
  -** District Mineral Foundation **pools resources from multiple villages, reducing per-unit infrastructure costs
@@ -6920,7 +6922,7 @@ Recent shifts toward** Atmanirbhar Bharat **and decentralized governance highlig
 -** Private Sector Participation**:** Smart Cities Mission **leverages PPP models, with private partners contributing 60% of ₹2.05 lakh crore investment, reducing government expenditure.
 -** Targeted Resource Allocation**:** PM-KISAN **transfers ₹6,000 directly to farmers' accounts, eliminating intermediary costs and reducing leakages by 80%.
 
-##** Removal of Implementation Blockages **-** Institutional Mechanisms**:
+## Removal of Implementation Blockages - Institutional Mechanisms:
 
  -** District Planning Committees **under 74th Amendment coordinate between rural and urban planning
  -** State Finance Commissions **ensure timely fund devolution to local bodies
@@ -6940,7 +6942,7 @@ Multi-level planning under neo-liberal paradigms has proven effective through in
 
 ---
 
-## Question 148 (Year: 2019 | Paper: GS 2 | Marks: N/A)** The need for cooperation among various service **
+## Question 148 (Year: 2019 | Paper: GS 2 | Marks: N/A) The need for cooperation among various service 
 
 ### Answer
 **Question ID: 2019-gs2-q148-superkalam**
@@ -6977,7 +6979,7 @@ Partnership-driven development has transformed India's governance approach, with
 
 ---
 
-## Question 149 (Year: 2018 | Paper: GS 2 | Marks: N/A)** E-governance is not only about utilisation of the power of new technology, but also much about the critical importance of the ‘use value’ of information. Explain. **
+## Question 149 (Year: 2018 | Paper: GS 2 | Marks: N/A) E-governance is not only about utilisation of the power of new technology, but also much about the critical importance of the ‘use value’ of information. Explain. 
 
 ### Answer
 **Question ID: 2018-gs2-q149-superkalam**
@@ -7016,7 +7018,7 @@ E-governance success depends on converting technological capabilities into tangi
 
 ---
 
-## Question 150 (Year: 2018 | Paper: GS 2 | Marks: N/A)** “Policy contradictions among various competing sectors and stakeholders have resulted in inadequate protection and prevention of degradation to the environment.” Comment with relevant illustrations. **
+## Question 150 (Year: 2018 | Paper: GS 2 | Marks: N/A) “Policy contradictions among various competing sectors and stakeholders have resulted in inadequate protection and prevention of degradation to the environment.” Comment with relevant illustrations. 
 
 ### Answer
 **Question ID: 2018-gs2-q150-superkalam**
@@ -7069,7 +7071,7 @@ Policy contradictions arise from competing economic and environmental priorities
 
 ---
 
-## Question 151 (Year: 2018 | Paper: GS 2 | Marks: N/A)** The Citizen’s Charter is an ideal instrument of organisational transparency and accountability, but it has its own limitations. Identify the limitations and suggest measures for greater effectiveness of the Citizen’s Charters. **
+## Question 151 (Year: 2018 | Paper: GS 2 | Marks: N/A) The Citizen’s Charter is an ideal instrument of organisational transparency and accountability, but it has its own limitations. Identify the limitations and suggest measures for greater effectiveness of the Citizen’s Charters. 
 
 ### Answer
 **Question ID: 2018-gs2-q151-superkalam**
@@ -7078,19 +7080,19 @@ The Citizen's Charter, introduced in 1997, represents a social contract between 
 
 ## Limitations of Citizen's Charter
 
-###** Legal and Enforcement Challenges: **-** Lack of legal backing **making it a voluntary document without enforceability
+### Legal and Enforcement Challenges: - Lack of legal backing making it a voluntary document without enforceability
 -** Absence of penalties **for non-compliance with charter provisions
 - No integration with** Right to Service Acts **limiting accountability mechanisms
 - Weak grievance redressal systems failing to address citizen complaints effectively
 - Limited judicial intervention in charter-related disputes
 
-###** Implementation and Design Issues: **-** Poor stakeholder consultation **during charter formulation leading to unrealistic standards
+### Implementation and Design Issues: - Poor stakeholder consultation during charter formulation leading to unrealistic standards
 - Inadequate** financial and human resources **allocated for effective implementation
 -** Bureaucratic resistance **and lack of commitment from public officials
 - Missing standardized templates resulting in inconsistent charter quality across departments
 -** Absence of citizen feedback mechanisms **in charter design and review processes
 
-###** Monitoring and Awareness Gaps: **-** Weak monitoring systems **to track performance against charter commitments
+### Monitoring and Awareness Gaps: - Weak monitoring systems to track performance against charter commitments
 - Limited** public awareness **about charter rights and entitlements among citizens
 - No standardized evaluation framework to assess charter effectiveness
 -** Poor publicity **and inadequate dissemination of charter information
@@ -7098,13 +7100,13 @@ The Citizen's Charter, introduced in 1997, represents a social contract between 
 
 ## Measures for Greater Effectiveness
 
-###** Strengthening Legal Framework: **- Enacting** comprehensive legislation **to make citizen's charters legally binding
+### Strengthening Legal Framework: - Enacting comprehensive legislation to make citizen's charters legally binding
 - Integration with state-level** Right to Service Acts **for better enforcement
 - Establishing** time-bound penalties **for non-compliance with charter commitments
 - Creating** independent ombudsman **mechanisms for charter violations
 - Mandatory legal review of charters every three years
 
-###** Capacity Building and Technology Integration: **- Regular** training programs **for public officials on charter implementation
+### Capacity Building and Technology Integration: - Regular training programs for public officials on charter implementation
 - Leveraging** digital platforms **like UMANG App and** e-governance **portals
 - Implementing** Sevottam Model **for service delivery excellence across departments
 - Establishing** dedicated monitoring cells **in each department with clear mandates
@@ -7116,7 +7118,7 @@ The transformation of Citizen's Charters from symbolic documents to effective go
 
 ---
 
-## Question 152 (Year: 2017 | Paper: GS 2 | Marks: N/A)** Initially, Civil Services in India were designed to achieve the goals of neutrality and effectiveness, which seems to be lacking in the present context. Do you agree with the view that drastic reforms arerequired in Civil Services? Comment **
+## Question 152 (Year: 2017 | Paper: GS 2 | Marks: N/A) Initially, Civil Services in India were designed to achieve the goals of neutrality and effectiveness, which seems to be lacking in the present context. Do you agree with the view that drastic reforms arerequired in Civil Services? Comment 
 
 ### Answer
 **Question ID: 2017-gs2-q152-superkalam**
@@ -7160,27 +7162,27 @@ The 2nd Administrative Reforms Commission's recommendations remain largely unimp
 
 ---
 
-## Question 153 (Year: 2017 | Paper: GS 2 | Marks: N/A)** Poverty Alleviation Programmes in India remain mere showpieces until and unless they are backed by political will. Discuss with reference to the performance of the major poverty alleviation programmes in India. **
+## Question 153 (Year: 2017 | Paper: GS 2 | Marks: N/A) Poverty Alleviation Programmes in India remain mere showpieces until and unless they are backed by political will. Discuss with reference to the performance of the major poverty alleviation programmes in India. 
 
 ### Answer
 **Question ID: 2017-gs2-q153-superkalam**
 
 Recent data shows India's poverty rate declining to** 4-4.5% **(SBI estimate, 2024), yet the effectiveness of poverty alleviation programmes continues to depend critically on sustained political commitment and implementation quality.
 
-##** Political Will as Implementation Catalyst **-** Resource Mobilization**: Political commitment determines budgetary priorities -** ₹2,02,950 crore **allocated for rural development in 2024-25, with** MGNREGS **receiving ₹86,000 crore
+## Political Will as Implementation Catalyst - Resource Mobilization: Political commitment determines budgetary priorities - ₹2,02,950 crore allocated for rural development in 2024-25, with MGNREGS receiving ₹86,000 crore
 -** Administrative Oversight**: Strong political backing ensures regular monitoring, transparent fund utilization, and timely course corrections
 -** Inter-departmental Coordination**: Political leadership facilitates convergence between ministries for holistic poverty reduction approach
 -** Grievance Redressal**: Political will drives establishment of robust complaint mechanisms and accountability systems
 -** Long-term Vision**: Sustained commitment prevents programme discontinuation during political transitions
 
-##** Performance Analysis of Major Programmes **| Programme | Achievements | Challenges |
+## Performance Analysis of Major Programmes | Programme | Achievements | Challenges |
 | --- | --- | --- |
 |** MGNREGS **| 8.07 crore households provided employment (2023-24), Average wage rate ₹221/day | Delayed payments, Asset quality issues |
 |** PMAY-G **| 2.95 crore houses completed since 2016, 96% completion rate | Beneficiary identification gaps, Quality concerns |
 |** NSAP **| 5.6 crore beneficiaries covered | Limited pension amounts (₹200-500/month), Poor coverage |
 |** PMGSY **| 7.69 lakh km roads constructed | Maintenance issues, Limited rural connectivity |
 
-##** Implementation Gaps and Solutions **-** Technology Integration**:** JAM Trinity **and** Direct Benefit Transfer **have reduced leakages by 2-3% of GDP since 2014
+## Implementation Gaps and Solutions - Technology Integration: JAM Trinity and Direct Benefit Transfer have reduced leakages by 2-3% of GDP since 2014
 -** Capacity Building**:** Mission Antyodaya **framework provides convergence platform for 29 interventions across 11 ministries
 -** Community Participation**:** Gram Panchayat Development Plans **ensure local ownership and transparency
 -** Performance Monitoring**: Real-time dashboards like** MGNREGA Public Data Portal **enhance accountability
@@ -7192,7 +7194,7 @@ Political will must manifest through consistent funding, regular monitoring, and
 
 ---
 
-## Question 154 (Year: 2016 | Paper: GS 2 | Marks: N/A)** Demographic Dividend in India will **
+## Question 154 (Year: 2016 | Paper: GS 2 | Marks: N/A) Demographic Dividend in India will 
 
 ### Answer
 **Question ID: 2016-gs2-q154-superkalam**
@@ -7231,7 +7233,7 @@ The demographic dividend's success depends on bridging the skill-job gap through
 
 ---
 
-## Question 155 (Year: 2016 | Paper: GS 2 | Marks: N/A)** Effectiveness of the government **
+## Question 155 (Year: 2016 | Paper: GS 2 | Marks: N/A) Effectiveness of the government 
 
 ### Answer
 **Question ID: 2016-gs2-q155-superkalam**
@@ -7308,20 +7310,20 @@ The relationship between government effectiveness and people's participation in 
 
 ---
 
-## Question 156 (Year: 2016 | Paper: GS 2 | Marks: N/A)** Has the Indian governmental system **
+## Question 156 (Year: 2016 | Paper: GS 2 | Marks: N/A) Has the Indian governmental system 
 
 ### Answer
 **Question ID: 2016-gs2-q156-superkalam**
 
 India's response to the 1991 LPG reforms represents a significant economic transformation, though effectiveness remains debatable across different sectors and regions.
 
-##** Adequate Response to LPG Demands **###** Economic Liberalization Achievements **-** GDP Growth**: Sustained economic expansion with** 7.8% growth in Q1 2025**, demonstrating macroeconomic stability post-reforms
+## Adequate Response to LPG Demands ### Economic Liberalization Achievements - GDP Growth: Sustained economic expansion with 7.8% growth in Q1 2025, demonstrating macroeconomic stability post-reforms
 -** FDI Influx**: Cumulative** $1.07 trillion FDI **from 2000-2025, reflecting improved global investor confidence
 -** Disinvestment Success**:** ₹5.82 lakh crores **raised through 350+ disinvestment instances, reducing government fiscal burden
 -** Regulatory Framework**: Establishment of modern regulators like** SEBI (1992)**,** TRAI (1997)**,** IRDA (1999) **ensuring market transparency
 -** Trade Integration**: WTO membership enabling** $770 billion merchandise trade **in 2023-24, positioning India globally
 
-###** Privatization Progress **-** Strategic Disinvestment**: Successful privatization of** Air India (2021)**,** BPCL stake sale**, demonstrating policy commitment
+### Privatization Progress - Strategic Disinvestment: Successful privatization of Air India (2021), BPCL stake sale, demonstrating policy commitment
 -** Corporate Governance**: Implementation of** Companies Act 2013 **improving business environment rankings
 -** Banking Reforms**:** Bank consolidation **reducing PSBs from 27 to 12, enhancing operational efficiency
 -** Infrastructure PPP**:** ₹9.4 lakh crore **investment through PPP models in highways, airports, ports
@@ -7333,12 +7335,12 @@ India's response to the 1991 LPG reforms represents a significant economic trans
 | Trade Policy | Import Substitution | Export Promotion | $770 billion trade volume |
 | Industrial Policy | License Raj | Deregulated | Manufacturing at 17% of GDP |
 
-##** Areas Requiring Enhanced Response **-** Labor Laws**: Complex labor regulations still deterring manufacturing investments despite** 4 Labor Codes (2020) **-** Agricultural Reforms**: Minimal progress in land leasing, contract farming despite** Farm Laws 2020 **withdrawal
+## Areas Requiring Enhanced Response - Labor Laws: Complex labor regulations still deterring manufacturing investments despite 4 Labor Codes (2020) - Agricultural Reforms: Minimal progress in land leasing, contract farming despite Farm Laws 2020 withdrawal
 -** Judicial Delays**:** 4.7 crore pending cases **hampering business confidence and contract enforcement
 -** Bureaucratic Efficiency**: Administrative delays in clearances despite** Single Window System **initiatives
 -** Financial Inclusion**:** 190 million unbanked adults **limiting inclusive growth benefits
 
-##** Government's Future Responsiveness Strategy **-** Digital Governance**: Expand** Digital India 2.0 **integrating AI/blockchain for transparent, efficient service delivery
+## Government's Future Responsiveness Strategy - Digital Governance: Expand Digital India 2.0 integrating AI/blockchain for transparent, efficient service delivery
 -** Regulatory Harmonization**: Create unified regulatory framework reducing compliance burden through** Jan Vishwas Act 2023 **-** Judicial Reforms**: Fast-track commercial courts expansion and** e-courts mission 2.0 **implementation
 -** Administrative Efficiency**: Performance-based incentives for bureaucracy aligned with** Mission Karmayogi **-** Data-Driven Policy**: Establish real-time monitoring systems for evidence-based policy formulation
 
@@ -7348,7 +7350,7 @@ The government must accelerate second-generation reforms focusing on factor mark
 
 ---
 
-## Question 157 (Year: 2016 | Paper: GS 2 | Marks: N/A)** In the Indian governance system, the **
+## Question 157 (Year: 2016 | Paper: GS 2 | Marks: N/A) In the Indian governance system, the 
 
 ### Answer
 **Question ID: 2016-gs2-q157-superkalam**
@@ -7405,7 +7407,7 @@ The statement underestimates non-state actors' contributions to Indian governanc
 
 ---
 
-## Question 158 (Year: 2016 | Paper: GS 2 | Marks: N/A)** In the integrity index of Transparency **
+## Question 158 (Year: 2016 | Paper: GS 2 | Marks: N/A) In the integrity index of Transparency 
 
 ### Answer
 **Question ID: 2016-gs2-q158-superkalam**
@@ -7453,26 +7455,26 @@ The path forward requires comprehensive reforms including** Lokpal **strengtheni
 
 ---
 
-## Question 159 (Year: 2016 | Paper: GS 2 | Marks: N/A)** Professor Amartya Sen has advocated **
+## Question 159 (Year: 2016 | Paper: GS 2 | Marks: N/A) Professor Amartya Sen has advocated 
 
 ### Answer
 **Question ID: 2016-gs2-q159-superkalam**
 
 India's educational and healthcare sectors face critical gaps despite constitutional commitments, necessitating comprehensive reforms as advocated by** Professor Amartya Sen **for inclusive development.
 
-##** Challenges in Primary Education **-** Learning Crisis**:** ASER 2024 **reveals only 50% of Grade 5 students can read Grade 2-level text, indicating severe quality deficits despite 98% enrollment rates
+## Challenges in Primary Education - Learning Crisis: ASER 2024 reveals only 50% of Grade 5 students can read Grade 2-level text, indicating severe quality deficits despite 98% enrollment rates
 -** Infrastructure Deficits**: Many schools lack basic facilities - proper classrooms, toilets, libraries, and digital connectivity affecting learning outcomes
 -** Teacher Quality Issues**: Inadequate training, high pupil-teacher ratios (1:24 nationally), frequent absenteeism, and lack of subject expertise
 -** Dropout Rates**: Higher dropout rates among marginalized communities, particularly girls in secondary education transition
 -** Digital Divide**: Limited access to technology-enabled learning, especially in rural and tribal areas
 
-##** Challenges in Primary Healthcare **-** Access Barriers**: Rural areas face acute shortage of healthcare facilities with only 1 doctor per 1,445 people against WHO norm of 1:1,000
+## Challenges in Primary Healthcare - Access Barriers: Rural areas face acute shortage of healthcare facilities with only 1 doctor per 1,445 people against WHO norm of 1:1,000
 -** Resource Constraints**: Healthcare spending at** 2.8% of GDP **(2024-25) remains among world's lowest, affecting service delivery
 -** Quality Concerns**: Poor infrastructure in** Primary Health Centers (PHCs)**, shortage of essential medicines, inadequate diagnostic facilities
 -** Human Resource Crisis**: Shortage of qualified doctors, nurses, and paramedical staff, particularly in remote areas
 -** Preventive Care Gaps**: Weak focus on health education, sanitation, and nutrition affecting overall health outcomes
 
-##** Comprehensive Reform Suggestions **|** Sector **|** Key Reforms **|** Implementation Strategy **|
+## Comprehensive Reform Suggestions | Sector | Key Reforms | Implementation Strategy |
 | --- | --- | --- |
 |** Education **| Competency-based learning, teacher training |** NEP 2020 **implementation with adequate funding |
 |** Healthcare **| Universal healthcare access, preventive care |** Ayushman Bharat **expansion with quality assurance |
@@ -7488,7 +7490,7 @@ Achieving** SDG 3 **and** SDG 4 **requires coordinated implementation of** Natio
 
 ---
 
-## Question 160 (Year: 2016 | Paper: GS 2 | Marks: N/A)** Traditional bureaucratic structure and **
+## Question 160 (Year: 2016 | Paper: GS 2 | Marks: N/A) Traditional bureaucratic structure and 
 
 ### Answer
 **Question ID: 2016-gs2-q160-superkalam**
@@ -7532,7 +7534,7 @@ The transformation of India's bureaucracy through initiatives like** National Pr
 
 ---
 
-## Question 161 (Year: 2015 | Paper: GS 2 | Marks: N/A)** How can the role of NGOs be strengthened in India for development works relating to the protection of the Environment? Discuss throwing light on the major constraints. **
+## Question 161 (Year: 2015 | Paper: GS 2 | Marks: N/A) How can the role of NGOs be strengthened in India for development works relating to the protection of the Environment? Discuss throwing light on the major constraints. 
 
 ### Answer
 **Question ID: 2015-gs2-q161-superkalam**
@@ -7588,7 +7590,7 @@ Foreign educational institutions can significantly improve India's higher educat
 
 ---
 
-## Question 162 (Year: 2015 | Paper: GS 2 | Marks: N/A)** In the light of the Satyam Scandal (2009), discuss the changes brought in corporate governance to ensure transparency and accountability. **
+## Question 162 (Year: 2015 | Paper: GS 2 | Marks: N/A) In the light of the Satyam Scandal (2009), discuss the changes brought in corporate governance to ensure transparency and accountability. 
 
 ### Answer
 **Question ID: 2015-gs2-q162-superkalam**
@@ -7644,7 +7646,7 @@ The post-Satyam reforms have significantly strengthened India's corporate govern
 
 ---
 
-## Question 163 (Year: 2015 | Paper: GS 2 | Marks: N/A)** The Public health system has limitations in providing universal health coverage. Do you think that the private sector can help in bridging the gap? What other viable alternatives do you suggest? **
+## Question 163 (Year: 2015 | Paper: GS 2 | Marks: N/A) The Public health system has limitations in providing universal health coverage. Do you think that the private sector can help in bridging the gap? What other viable alternatives do you suggest? 
 
 ### Answer
 **Question ID: 2015-gs2-q163-superkalam**
@@ -7701,7 +7703,7 @@ A hybrid healthcare model combining public sector commitment, private sector eff
 
 ---
 
-## Question 164 (Year: 2015 | Paper: GS 2 | Marks: N/A)** The quality of higher education in India requires major improvement to make it internationally competitive. Do you think that the entry of foreign educational institutions would help improve the quality of technical and higher education in the country? Discuss. **
+## Question 164 (Year: 2015 | Paper: GS 2 | Marks: N/A) The quality of higher education in India requires major improvement to make it internationally competitive. Do you think that the entry of foreign educational institutions would help improve the quality of technical and higher education in the country? Discuss. 
 
 ### Answer
 **Question ID: 2015-gs2-q164-superkalam**
@@ -7737,7 +7739,7 @@ The SBLP's transformation of** 13 million rural women **into confident entrepren
 
 ---
 
-## Question 165 (Year: 2015 | Paper: GS 2 | Marks: N/A)** The Self Help Group (SHG) Bank Linkage Program (SBLP), which is India’s innovation, has proved to be one of the most effective poverty alleviation and women empowerment programmes. Elucidate. **
+## Question 165 (Year: 2015 | Paper: GS 2 | Marks: N/A) The Self Help Group (SHG) Bank Linkage Program (SBLP), which is India’s innovation, has proved to be one of the most effective poverty alleviation and women empowerment programmes. Elucidate. 
 
 ### Answer
 **Question ID: 2015-gs2-q165-superkalam**
@@ -7794,7 +7796,7 @@ Effective environmental governance requires empowered NGOs working alongside gov
 
 ---
 
-## Question 166 (Year: 2015 | Paper: GS 2 | Marks: N/A)** Though there have been several different estimates of poverty in India, all indicate a reduction in poverty over time. Do you agree? Critically examine with reference to urban and rural poverty indicators. **
+## Question 166 (Year: 2015 | Paper: GS 2 | Marks: N/A) Though there have been several different estimates of poverty in India, all indicate a reduction in poverty over time. Do you agree? Critically examine with reference to urban and rural poverty indicators. 
 
 ### Answer
 **Question ID: 2015-gs2-q166-superkalam**
@@ -7842,20 +7844,20 @@ While multiple estimation methods confirm overall poverty reduction trends, chal
 
 ---
 
-## Question 167 (Year: 2014 | Paper: GS 2 | Marks: N/A)** Do government’s schemes for up-lifting vulnerable and backward communities by protecting required social resources for them, lead to their exclusion in establishing businesses in urban economies? **
+## Question 167 (Year: 2014 | Paper: GS 2 | Marks: N/A) Do government’s schemes for up-lifting vulnerable and backward communities by protecting required social resources for them, lead to their exclusion in establishing businesses in urban economies? 
 
 ### Answer
 **Question ID: 2014-gs2-q167-superkalam**
 
 Recent data shows that while protective schemes have reached 200+ million beneficiaries, urban entrepreneurship among vulnerable communities remains below 15% of total business registrations.
 
-##** Protective Schemes and Business Exclusion Dynamics **-** Dependency Creation**: Reservation-based schemes like** MGNREGA **provide employment security but may reduce entrepreneurial risk-taking among vulnerable communities
+## Protective Schemes and Business Exclusion Dynamics - Dependency Creation: Reservation-based schemes like MGNREGA provide employment security but may reduce entrepreneurial risk-taking among vulnerable communities
 -** Skill Limitation**: Focus on basic welfare often neglects business skills development, creating gaps in urban market competitiveness
 -** Resource Allocation**: Protective schemes concentrate on survival needs rather than investment capital, limiting business venture capabilities
 -** Market Segregation**: Reserved categories in government contracts sometimes create separate economic spaces, reducing mainstream market exposure
 -** Confidence Barriers**: Long-term dependency on protective measures can reduce self-reliance and business confidence in competitive urban environments
 
-##** Integration Opportunities in Urban Economics **-** Policy Convergence**:** Stand-Up India **(2016-2024) has enabled 1.3 lakh SC/ST entrepreneurs with loans worth Rs. 30,000 crores, demonstrating successful integration potential
+## Integration Opportunities in Urban Economics - Policy Convergence: Stand-Up India (2016-2024) has enabled 1.3 lakh SC/ST entrepreneurs with loans worth Rs. 30,000 crores, demonstrating successful integration potential
 -** Skill Enhancement**:** Skill India Mission **targets 40 crore people by 2025, with special focus on marginalized communities for urban employment
 -** Financial Inclusion**:** MUDRA Yojana **has disbursed Rs. 23 lakh crores to 38 crore borrowers, with significant representation from vulnerable groups
 -** Digital Empowerment**:** PM-WANI **scheme enables small entrepreneurs from backward communities to establish internet businesses with minimal investment
@@ -7873,7 +7875,7 @@ Effective governance requires transforming protective schemes into empowerment p
 
 ---
 
-## Question 168 (Year: 2014 | Paper: GS 2 | Marks: N/A)** Has the Cadre based Civil Services Organization been the cause of slow growth in India? Critically examine. **
+## Question 168 (Year: 2014 | Paper: GS 2 | Marks: N/A) Has the Cadre based Civil Services Organization been the cause of slow growth in India? Critically examine. 
 
 ### Answer
 **Question ID: 2014-gs2-q168-superkalam**
@@ -7913,7 +7915,7 @@ The cadre-based system represents both strength and constraint in India's growth
 
 ---
 
-## Question 169 (Year: 2014 | Paper: GS 2 | Marks: N/A)** The penetration of Self Help Groups (SHGs) in rural areas in promoting participation in development programmes is facing socio-cultural hurdles. Examine. **
+## Question 169 (Year: 2014 | Paper: GS 2 | Marks: N/A) The penetration of Self Help Groups (SHGs) in rural areas in promoting participation in development programmes is facing socio-cultural hurdles. Examine. 
 
 ### Answer
 **Question ID: 2014-gs2-q169-superkalam**
@@ -7953,7 +7955,7 @@ The** Self Help Group (SHG) movement **has emerged as a powerful tool for financ
 -** Risk Aversion**: Cultural tendency to avoid new financial instruments and investment opportunities
 -** Generational Conflicts**: Older family members opposing younger women's participation in modern financial systems
 
-## Government Initiatives Addressing Challenges** DAY-NRLM **focuses on intensive capacity building and social mobilization to overcome cultural barriers.** Mahila Shakti Kendra **scheme promotes women's empowerment through SHGs at grassroots level.
+## Government Initiatives Addressing Challenges DAY-NRLM focuses on intensive capacity building and social mobilization to overcome cultural barriers. Mahila Shakti Kendra scheme promotes women's empowerment through SHGs at grassroots level.
 
 Transforming socio-cultural attitudes requires sustained efforts combining** financial literacy campaigns**,** community sensitization**, and** policy support **to realize SHGs' potential in achieving inclusive rural development.
 
@@ -7961,44 +7963,44 @@ Transforming socio-cultural attitudes requires sustained efforts combining** fin
 
 ---
 
-## Question 170 (Year: 2014 | Paper: GS 2 | Marks: N/A)** Though 100 percent FDI is already allowed in non-news media like a trade publication and general entertainment channel, the government is mulling over the proposal for increased FDI in news media for quite some time. What difference would an increase in FDI make? Critically evaluate the pros and cons. **
+## Question 170 (Year: 2014 | Paper: GS 2 | Marks: N/A) Though 100 percent FDI is already allowed in non-news media like a trade publication and general entertainment channel, the government is mulling over the proposal for increased FDI in news media for quite some time. What difference would an increase in FDI make? Critically evaluate the pros and cons. 
 
 ### Answer
 **Question ID: 2014-gs2-q170-superkalam**
 
 The Indian government has been considering increased FDI in news media beyond the current 26% limit, following global trends in media liberalization.
 
-##** Advantages of Increased FDI in News Media **###** Economic and Infrastructure Development **-** Capital Infusion**: Enhanced financial resources for modern broadcasting infrastructure and digital transformation
+## Advantages of Increased FDI in News Media ### Economic and Infrastructure Development - Capital Infusion: Enhanced financial resources for modern broadcasting infrastructure and digital transformation
 -** Employment Generation**: Creation of jobs across technical, editorial, and administrative sectors
 -** Technology Transfer**: Access to cutting-edge broadcasting technologies and production techniques
 -** Market Expansion**: Growth of media ecosystem supporting** Make in India **initiative
 -** Revenue Enhancement**: Improved advertising models and subscription-based revenue streams
 
-###** Quality and Professional Standards **-** International Expertise**: Access to global best practices in journalism and content creation
+### Quality and Professional Standards - International Expertise: Access to global best practices in journalism and content creation
 -** Professional Training**: Skill development programs for journalists and media professionals
 -** Content Quality**: Enhanced production values and diverse content offerings
 -** Innovation**: Introduction of new media formats and digital platforms
 -** Competitive Environment**: Healthy competition leading to better services
 
-##** Challenges and Concerns **###** National Security and Sovereignty **-** Information Security**: Risk of sensitive data and strategic information exposure to foreign entities
+## Challenges and Concerns ### National Security and Sovereignty - Information Security: Risk of sensitive data and strategic information exposure to foreign entities
 -** Content Control**: Potential foreign influence on editorial policies and national narrative
 -** Public Opinion Manipulation**: Possibility of agenda-setting by foreign powers during critical times
 -** Data Localization**: Challenges in ensuring compliance with data protection norms
 -** Strategic Autonomy**: Threat to India's independent media landscape
 
-###** Cultural and Social Impact **-** Editorial Independence**: Risk of compromised journalistic integrity and editorial freedom
+### Cultural and Social Impact - Editorial Independence: Risk of compromised journalistic integrity and editorial freedom
 -** Cultural Values**: Potential dilution of local cultural content and regional perspectives
 -** Language Media**: Threat to vernacular and regional language journalism
 -** Social Cohesion**: Impact on national unity through divisive content strategies
 -** Democratic Discourse**: Influence on public debate and democratic processes
 
-##** Global Examples and Lessons **| Country | FDI Limit | Key Safeguards |
+## Global Examples and Lessons | Country | FDI Limit | Key Safeguards |
 | --- | --- | --- |
 |** Canada **| 46.7% | National interest review mechanism |
 |** Australia **| 15% | Foreign ownership restrictions |
 |** UK **| No limit | Regulatory oversight through Ofcom |
 
-##** Way Forward **###** Regulatory Framework **-** Phased Liberalization**: Gradual increase from 26% to 49% with performance review
+## Way Forward ### Regulatory Framework - Phased Liberalization: Gradual increase from 26% to 49% with performance review
 -** Screening Mechanism**: Robust due diligence process similar to** Committee on Foreign Investment **-** Editorial Safeguards**: Clear separation between ownership and editorial control
 -** Transparency Requirements**: Mandatory disclosure of funding sources and ownership patterns
 -** Content Guidelines**: Adherence to** Programme Code **under Cable Television Networks Act
@@ -8009,7 +8011,7 @@ A balanced approach to FDI liberalization in news media, supported by strong reg
 
 ---
 
-## Question 171 (Year: 2013 | Paper: GS 2 | Marks: N/A)** Many State Governments further bifurcate geographical administrative areas like Districts and Talukas for better governance. In light of the above, can it also be justified that a larger number of smaller States would bring in effective governance at the State level? Discuss. **
+## Question 171 (Year: 2013 | Paper: GS 2 | Marks: N/A) Many State Governments further bifurcate geographical administrative areas like Districts and Talukas for better governance. In light of the above, can it also be justified that a larger number of smaller States would bring in effective governance at the State level? Discuss. 
 
 ### Answer
 **Question ID: 2013-gs2-q171-superkalam**
@@ -8054,14 +8056,14 @@ Future state reorganization should prioritize evidence-based assessment over pol
 
 ---
 
-## Question 172 (Year: 2013 | Paper: GS 2 | Marks: N/A)** Pressure group politics is sometimes seen as the informal face of politics. With regards to the above, assess the structure and functioning of pressure groups in India. **
+## Question 172 (Year: 2013 | Paper: GS 2 | Marks: N/A) Pressure group politics is sometimes seen as the informal face of politics. With regards to the above, assess the structure and functioning of pressure groups in India. 
 
 ### Answer
 **Question ID: 2013-gs2-q172-superkalam**
 
 Recent farmers' protests and various advocacy movements demonstrate how pressure groups serve as vital bridges between citizens and government, functioning as the "informal face of politics" by channeling diverse interests into policy discourse.
 
-##** Structure of Pressure Groups in India **-** Economic Interest Groups**:
+## Structure of Pressure Groups in India - Economic Interest Groups:
 
  -** Business Organizations**: FICCI, CII, and ASSOCHAM representing industrial interests with well-funded secretariats and professional lobbying capabilities
  -** Agricultural Groups**: Bharatiya Kisan Union, All India Kisan Sabha advocating for farmer welfare and MSP policies
@@ -8074,7 +8076,7 @@ Recent farmers' protests and various advocacy movements demonstrate how pressure
  -** Religious Groups**: Organizations representing minority rights and religious freedom concerns
  -** NGOs and Civil Society**: Groups like Greenpeace India, PUCL focusing on environmental and human rights issues
 
-##** Functioning and Methods of Operation **|** Method **|** Description **|** Examples **|
+## Functioning and Methods of Operation | Method | Description | Examples |
 | --- | --- | --- |
 |** Direct Lobbying **| Face-to-face meetings with policymakers | CII's pre-budget consultations with Finance Ministry |
 |** Mass Mobilization **| Protests, strikes, and demonstrations | 2020-21 farmers' protests at Delhi borders |
@@ -8095,7 +8097,7 @@ The evolving landscape of pressure group politics reflects India's democratic ma
 
 ---
 
-## Question 173 (Year: 2013 | Paper: GS 2 | Marks: N/A)** The legitimacy and accountability of Self Help Groups (SHGs) and their patrons, the micro-finance outfits, need systematic assessment and scrutiny for the sustained success of the concept. Discuss. **
+## Question 173 (Year: 2013 | Paper: GS 2 | Marks: N/A) The legitimacy and accountability of Self Help Groups (SHGs) and their patrons, the micro-finance outfits, need systematic assessment and scrutiny for the sustained success of the concept. Discuss. 
 
 ### Answer
 **Question ID: 2013-gs2-q173-superkalam**
@@ -8158,14 +8160,14 @@ The Self Help Group (SHG) model has emerged as India's largest women's empowerme
 
 ---
 
-## Question 174 (Year: 2013 | Paper: GS 2 | Marks: N/A)** Though Citizen’s charters have been formulated by many public service delivery organizations, there is no corresponding improvement in the level of citizens’ satisfaction and quality of services being provided. Analyse. **
+## Question 174 (Year: 2013 | Paper: GS 2 | Marks: N/A) Though Citizen’s charters have been formulated by many public service delivery organizations, there is no corresponding improvement in the level of citizens’ satisfaction and quality of services being provided. Analyse. 
 
 ### Answer
 **Question ID: 2013-gs2-q174-superkalam**
 
 Recent surveys by the Department of Administrative Reforms and Public Grievances show that despite 2,000+ Citizen's Charters across ministries, citizen satisfaction remains below 60%, indicating significant implementation gaps.
 
-##** Challenges in Implementation of Citizen's Charters **-** Poor Design and Standards **- Vague service commitments without specific timelines or measurable outcomes
+## Challenges in Implementation of Citizen's Charters - Poor Design and Standards - Vague service commitments without specific timelines or measurable outcomes
  - Lack of stakeholder consultation during formulation, reducing ownership
  - Absence of legal backing, making charters merely advisory documents
  - Generic templates without customization for local needs
@@ -8177,7 +8179,7 @@ Recent surveys by the Department of Administrative Reforms and Public Grievances
  - Weak complaint resolution processes discouraging feedback
  - Limited integration with digital platforms and e-governance systems
 
-##** Reasons for Low Citizen Satisfaction **-** Implementation Gaps **- Bureaucratic resistance to change and accountability measures
+## Reasons for Low Citizen Satisfaction - Implementation Gaps - Bureaucratic resistance to change and accountability measures
  - Mismatch between promised standards and actual delivery capabilities
  - Inadequate training of front-line staff on charter commitments
  - Resource constraints limiting service quality improvements
@@ -8189,7 +8191,7 @@ Recent surveys by the Department of Administrative Reforms and Public Grievances
  - Absence of regular citizen satisfaction surveys
  - Poor redressal of grievances within stipulated timeframes
 
-##** Way Forward for Effective Implementation **- Regular review through** Citizen Report Cards **and participatory audits
+## Way Forward for Effective Implementation - Regular review through Citizen Report Cards and participatory audits
 - Integration with** Right to Public Services Acts **for legal enforceability
 - Adoption of** SMART goals **(Specific, Measurable, Achievable, Relevant, Time-bound)
 - Leveraging** Digital India **initiatives for online service delivery
@@ -8249,7 +8251,7 @@ Addressing resource ownership inequality through** Land Acquisition Act amendmen
 
 ---
 
-## Question 176 (Year: 2025 | Paper: GS 2 | Marks: N/A)** Women&#x27;s social capital complements in advancing empowerment and gender equity. Explain. **
+## Question 176 (Year: 2025 | Paper: GS 2 | Marks: N/A) Women&#x27;s social capital complements in advancing empowerment and gender equity. Explain. 
 
 ### Answer
 **Question ID: 2025-gs2-q176-superkalam**
@@ -8282,7 +8284,7 @@ By institutionalizing these grassroots networks, India can effectively transform
 
 ---
 
-## Question 177 (Year: 2024 | Paper: GS 2 | Marks: N/A)** In a crucial domain like the public healthcare system, the Indian State should play a vital role to contain the adverse impact of marketisation of the system. Suggest some measures through which the State can enhance the reach of public healthcare at the grassroots level **
+## Question 177 (Year: 2024 | Paper: GS 2 | Marks: N/A) In a crucial domain like the public healthcare system, the Indian State should play a vital role to contain the adverse impact of marketisation of the system. Suggest some measures through which the State can enhance the reach of public healthcare at the grassroots level 
 
 ### Answer
 
@@ -8348,7 +8350,7 @@ The State must act not merely as a service provider, but also as a** regulator a
 
 ---
 
-## Question 178 (Year: 2024 | Paper: GS 2 | Marks: N/A)** Poverty and malnutrition create a vicious cycle, adversely affecting human capital formation. What steps can be taken to break the cycle? **
+## Question 178 (Year: 2024 | Paper: GS 2 | Marks: N/A) Poverty and malnutrition create a vicious cycle, adversely affecting human capital formation. What steps can be taken to break the cycle? 
 
 ### Answer
 
@@ -8384,7 +8386,7 @@ As the** NITI Aayog National MPI Review **notes, 13.5 crore Indians have recentl
 
 ---
 
-## Question 179 (Year: 2023 | Paper: GS 2 | Marks: N/A)** Discuss the contribution of civil society groups for women’s effective and meaningful participation and representation in state legislature in India. **
+## Question 179 (Year: 2023 | Paper: GS 2 | Marks: N/A) Discuss the contribution of civil society groups for women’s effective and meaningful participation and representation in state legislature in India. 
 
 ### Answer
 **Question ID: 2023-gs2-q179-superkalam**
@@ -8419,7 +8421,7 @@ The collaborative efforts of civil society groups have been instrumental in crea
 
 ---
 
-## Question 180 (Year: 2023 | Paper: GS 2 | Marks: N/A)** Explain the constitutional perspective of gender justice with the help of relevant Constitutional provisions and case laws. **
+## Question 180 (Year: 2023 | Paper: GS 2 | Marks: N/A) Explain the constitutional perspective of gender justice with the help of relevant Constitutional provisions and case laws. 
 
 ### Answer
 **Question ID: 2023-gs2-q180-superkalam**
@@ -8430,9 +8432,9 @@ Gender justice refers to the fair treatment of all genders, ensuring equality, d
 
 Pillars of Gender Justice and Equality
 
-##** Constitutional Provisions Ensuring Gender Justice **###** A. Preamble **- Enshrines the ideals of** justice – social, economic, and political**, and** equality of status and opportunity**, laying the philosophical foundation for gender justice.
+## Constitutional Provisions Ensuring Gender Justice ### A. Preamble - Enshrines the ideals of justice – social, economic, and political, and equality of status and opportunity, laying the philosophical foundation for gender justice.
 
-###** B. Fundamental Rights (Part III) **1.** Article 14 **– Equality before law and equal protection of laws to all persons.
+### B. Fundamental Rights (Part III) 1. Article 14 – Equality before law and equal protection of laws to all persons.
 
  - Landmark Case:** Charu Khurana v. Union of India (2014) **– Allowed women to work as make-up artists in the film industry, striking down gender-based licensing rules.
 
@@ -8445,12 +8447,12 @@ Pillars of Gender Justice and Equality
 
  -** Suchita Srivastava v. Chandigarh Admin (2009) **– Recognized reproductive rights of women.
 
-###** C. Directive Principles of State Policy (Part IV) **1.** Article 39(a), (d), (e) **– Equal pay for equal work, health and strength of women not to be abused.
+### C. Directive Principles of State Policy (Part IV) 1. Article 39(a), (d), (e) – Equal pay for equal work, health and strength of women not to be abused.
 2.** Article 42 **– Just and humane conditions of work and maternity relief.
 
-###** D. Fundamental Duties (Part IV-A) **1.** Article 51A(e) **– Fundamental Duty to renounce practices derogatory to women’s dignity.
+### D. Fundamental Duties (Part IV-A) 1. Article 51A(e) – Fundamental Duty to renounce practices derogatory to women’s dignity.
 
-##** Judicial Interpretation Promoting Gender Justice **1.** Vishaka v. State of Rajasthan (1997): **Laid down guidelines to prevent workplace sexual harassment – later codified in the** POSH Act, 2013**.
+## Judicial Interpretation Promoting Gender Justice 1. Vishaka v. State of Rajasthan (1997): Laid down guidelines to prevent workplace sexual harassment – later codified in the POSH Act, 2013.
 2.** Joseph Shine v. Union of India (2018): **Decriminalised adultery, emphasized dignity and autonomy of women.
 3.** Shayara Bano v. Union of India (2017): **Declared Triple Talaq unconstitutional, upheld equality and dignity of Muslim women.
 4.** Anuj Garg v. Hotel Association of India (2008): **Struck down prohibition on women working in bars as being based on patriarchal notions.
@@ -8462,7 +8464,7 @@ The Indian Constitution provides a robust framework for gender justice, reinforc
 
 ---
 
-## Question 181 (Year: 2023 | Paper: GS 2 | Marks: N/A)** Who are entitled to receive free legal aid in India. Assess the role of NALSA in rendering free legal aid in India. **
+## Question 181 (Year: 2023 | Paper: GS 2 | Marks: N/A) Who are entitled to receive free legal aid in India. Assess the role of NALSA in rendering free legal aid in India. 
 
 ### Answer
 
@@ -8504,14 +8506,14 @@ While** NALSA **has played a pivotal role in** institutionalising legal aid in I
 
 ---
 
-## Question 182 (Year: 2022 | Paper: GS 2 | Marks: N/A)** Besides the welfare schemes, India needs deft management of inflation and unemployment to serve the poor and the underprivileged sections of the society. Discuss. **
+## Question 182 (Year: 2022 | Paper: GS 2 | Marks: N/A) Besides the welfare schemes, India needs deft management of inflation and unemployment to serve the poor and the underprivileged sections of the society. Discuss. 
 
 ### Answer
 **Question ID: 2022-gs2-q182-superkalam**
 
 India has built a wide social protection net through schemes like** NFSA, MGNREGA, PM-KISAN, Ayushman Bharat, and PM Ujjwala Yojana**, which aim to reduce poverty and vulnerability. However, the** real impact of these schemes is often diluted by persistent inflation and high unemployment**, which erode the benefits and keep households dependent on short-term relief rather than long-term empowerment.
 
-##** Why Management of Inflation and Unemployment is Essential for Poor & Vulnerable **1.** Erosion of Welfare Benefits **- Inflation, especially in food and fuel (CPI food inflation ~7.8% in 2023), reduces real income, neutralizing gains from welfare transfers.
+## Why Management of Inflation and Unemployment is Essential for Poor & Vulnerable 1. Erosion of Welfare Benefits - Inflation, especially in food and fuel (CPI food inflation ~7.8% in 2023), reduces real income, neutralizing gains from welfare transfers.
  -** Example: **NFSA grain at ₹3/kg helps, but high cooking gas and edible oil prices burden households.
 
 2.** Employment as a Path to Dignity **- Welfare creates a safety net, but sustainable poverty reduction needs productive jobs.
@@ -8528,7 +8530,7 @@ India has built a wide social protection net through schemes like** NFSA, MGNREG
 
 6.** Vicious Cycle of Poverty **- Inflation + unemployment trap poor households in debt and informal work, reducing chances of upward mobility despite welfare access.
 
-##** Way Forward **1.** Indexation of Welfare Benefits to Inflation **- Welfare transfers like** PM-KISAN**, old-age pensions, and** MGNREGA wages **should be linked to** CPI-AL (Consumer Price Index for Agricultural Labourers)**.
+## Way Forward 1. Indexation of Welfare Benefits to Inflation - Welfare transfers like PM-KISAN, old-age pensions, and MGNREGA wages should be linked to CPI-AL (Consumer Price Index for Agricultural Labourers).
  - The** Rangarajan Committee (2014) **on poverty measurement stressed the importance of inflation-adjusted entitlements to ensure “real” protection.
 
 2.** Strengthening Employment Generation **- Expand** MGNREGA **to 150 days in distressed districts and ensure timely payment of wages.
@@ -8555,14 +8557,14 @@ Welfare schemes are** necessary but not sufficient**. Inflation and unemployment
 
 ---
 
-## Question 183 (Year: 2022 | Paper: GS 2 | Marks: N/A)** Reforming the government delivery system through the Direct Benefit Transfer Scheme is a progressive step, but it has its limitations too. Comment. **
+## Question 183 (Year: 2022 | Paper: GS 2 | Marks: N/A) Reforming the government delivery system through the Direct Benefit Transfer Scheme is a progressive step, but it has its limitations too. Comment. 
 
 ### Answer
 **Question ID: 2022-gs2-q183-superkalam**
 
 Direct Benefit Transfer (DBT), launched in** 2013**, seeks to reform subsidy and welfare delivery by transferring benefits** directly to beneficiaries’ bank accounts**, reducing leakages and ensuring transparency. It is a landmark in** governance reforms **under the Digital India and JAM (Jan-Dhan–Aadhaar–Mobile) trinity.
 
-##** Achievements of DBT in Reforming Delivery **1.** Reduced Leakages and Corruption: **In LPG subsidy (PAHAL scheme), DBT eliminated fake/duplicate connections, saving over** ₹1.7 lakh crore (2014–2021, MoPNG)**.
+## Achievements of DBT in Reforming Delivery 1. Reduced Leakages and Corruption: In LPG subsidy (PAHAL scheme), DBT eliminated fake/duplicate connections, saving over ₹1.7 lakh crore (2014–2021, MoPNG).
 2.** Financial Inclusion and Empowerment: **- JAM trinity helped bring** 50+ crore beneficiaries **into formal banking (Jan-Dhan accounts).
  - Enhanced dignity and autonomy, especially for women receiving welfare funds (e.g., PM Matru Vandana Yojana).
 
@@ -8570,7 +8572,7 @@ Direct Benefit Transfer (DBT), launched in** 2013**, seeks to reform subsidy and
 4.** Efficiency and Timeliness: **Wages, pensions, scholarships are directly credited, reducing middlemen delays.** Example: **During** COVID-19 PMGKY**, over** ₹90,000 crore **was quickly transferred to poor households through DBT.
 5.** Cost Saving to Exchequer: **Ministry of Finance estimates DBT has saved** ₹2.23 lakh crore till 2022 **by plugging leakages across schemes.
 
-##** Limitations of DBT **1.** Digital Divide and Exclusion Errors: **Beneficiaries in rural/tribal areas often lack access to banking, smartphones, or internet.** Example:** **Jharkhand starvation deaths (2017)** were linked to Aadhaar–ration mismatches.
+## Limitations of DBT 1. Digital Divide and Exclusion Errors: Beneficiaries in rural/tribal areas often lack access to banking, smartphones, or internet. Example: Jharkhand starvation deaths (2017) were linked to Aadhaar–ration mismatches.
 2. **Aadhaar-related Issues:** Biometric authentication failures due to old age, disability, or poor connectivity exclude genuine beneficiaries.
 3. **Banking Infrastructure Deficit:** Rural branches, ATMs, and Business Correspondents are inadequate, forcing long travel and wait times for cash withdrawals.
 4. **One-size-fits-all Approach:** In-kind benefits (like PDS grain) cannot be replaced by cash transfers in food-insecure regions due to market fluctuations.
@@ -8583,14 +8585,14 @@ DBT has been a **game-changer in subsidy delivery**, ensuring transparency and s
 
 ---
 
-## Question 184 (Year: 2022 | Paper: GS 2 | Marks: N/A)** The Right of Children to Free and Compulsory Education Act, 2009 remains inadequate in promoting incentive-based systems for children’s education without generating awareness about the importance of schooling. Analyse. **
+## Question 184 (Year: 2022 | Paper: GS 2 | Marks: N/A) The Right of Children to Free and Compulsory Education Act, 2009 remains inadequate in promoting incentive-based systems for children’s education without generating awareness about the importance of schooling. Analyse. 
 
 ### Answer
 **Question ID: 2022-gs2-q184-superkalam**
 
 The** Right to Education (RTE) Act, 2009 **made education a** fundamental right under Article 21A **for children aged 6–14 years. While it addresses** structural and financial barriers **through incentives, it often falls short in creating** awareness and behavioural change**, which is crucial for ensuring consistent school attendance and learning outcomes.
 
-##** Limitations of RTE in Incentive-Based Systems without Awareness **1.** Focus on Access, Not Retention **- Incentives like** free textbooks, uniforms, midday meals **encourage enrolment, but dropouts remain high.
+## Limitations of RTE in Incentive-Based Systems without Awareness 1. Focus on Access, Not Retention - Incentives like free textbooks, uniforms, midday meals encourage enrolment, but dropouts remain high.
  -** Example:** **U-DISE 2021-22 data** - Dropout rate at upper primary level is **12.6%** nationally, higher in disadvantaged groups.
 
 2. **Quality of Learning is Overlooked** - RTE mandates **infrastructure norms** (toilets, pupil–teacher ratio), but not **learning outcomes**.
@@ -8608,7 +8610,7 @@ The** Right to Education (RTE) Act, 2009 **made education a** fundamental right 
 6. **Teacher Accountability Missing** - Without strong **school–community interaction** (School Management Committees often dysfunctional), incentives cannot change mindsets.
  - **Justice Verma Committee (2012)** noted weak accountability as a barrier to RTE implementation.
 
-## **Way Forward** 1. **Shift from Input Norms to Learning Outcomes** - The **NEP 2020** stresses **Foundational Literacy and Numeracy (FLN)** by 2025 through the **NIPUN Bharat Mission**.
+## Way Forward 1. Shift from Input Norms to Learning Outcomes - The NEP 2020 stresses Foundational Literacy and Numeracy (FLN) by 2025 through the NIPUN Bharat Mission.
  - Currently,** ASER 2022 **shows that only** 43% of Class 5 children can read a Class 2 text**, highlighting poor learning outcomes.
  -** Example:** **Delhi’s “Chunauti” programme** that focused on remedial classes improved pass percentage in govt schools, showing the value of outcome-focused interventions.
 
@@ -8641,14 +8643,14 @@ While the RTE Act created a **legal framework for universal schooling**, its** i
 
 ---
 
-## Question 185 (Year: 2021 | Paper: GS 2 | Marks: N/A)** “Besides being a moral imperative of the Welfare State, primary health structure is a necessary precondition for sustainable development.” Analyse. **
+## Question 185 (Year: 2021 | Paper: GS 2 | Marks: N/A) “Besides being a moral imperative of the Welfare State, primary health structure is a necessary precondition for sustainable development.” Analyse. 
 
 ### Answer
 **Question ID: 2021-gs2-q185-superkalam**
 
 Primary healthcare serves as both a fundamental right and development catalyst, making it essential for welfare states pursuing sustainable growth.
 
-## Primary Healthcare as Moral Imperative** Constitutional Foundation**:** Article 21 **guarantees right to life, while** Article 47 **mandates state responsibility for public health, making healthcare a fundamental duty of welfare states.** Social Justice Dimension**: Primary healthcare ensures equitable access regardless of economic status, with** Ayushman Bharat **covering 50 crore beneficiaries and** Jan Aushadhi Kendras **providing affordable medicines.** Human Dignity**: Universal healthcare access upholds dignity through** National Health Mission**, reducing out-of-pocket expenditure from 65% to 48% since 2014.** Ethical Obligation**: Welfare states must prioritize basic healthcare as demonstrated by** Kerala's **comprehensive primary healthcare model achieving lowest infant mortality rates in India.** Global Commitment**:** Universal Health Coverage **under** SDG 3 **reflects international consensus on healthcare as fundamental human right.
+## Primary Healthcare as Moral Imperative Constitutional Foundation: Article 21 guarantees right to life, while Article 47 mandates state responsibility for public health, making healthcare a fundamental duty of welfare states. Social Justice Dimension: Primary healthcare ensures equitable access regardless of economic status, with Ayushman Bharat covering 50 crore beneficiaries and Jan Aushadhi Kendras providing affordable medicines. Human Dignity: Universal healthcare access upholds dignity through National Health Mission, reducing out-of-pocket expenditure from 65% to 48% since 2014. Ethical Obligation: Welfare states must prioritize basic healthcare as demonstrated by Kerala's comprehensive primary healthcare model achieving lowest infant mortality rates in India. Global Commitment: Universal Health Coverage under SDG 3 reflects international consensus on healthcare as fundamental human right.
 
 ## Primary Healthcare Enabling Sustainable Development
 
@@ -8664,7 +8666,7 @@ Primary healthcare transcends mere service delivery to become the foundation for
 
 ---
 
-## Question 186 (Year: 2021 | Paper: GS 2 | Marks: N/A)** “Earn while you learn’ scheme needs to be strengthened to make vocational education and skill training meaningful.” Comment. **
+## Question 186 (Year: 2021 | Paper: GS 2 | Marks: N/A) “Earn while you learn’ scheme needs to be strengthened to make vocational education and skill training meaningful.” Comment. 
 
 ### Answer
 **Question ID: 2021-gs2-q186-superkalam**
@@ -8704,7 +8706,7 @@ Strengthening 'earn while you learn' schemes aligns with** Atmanirbhar Bharat **
 
 ---
 
-## Question 187 (Year: 2021 | Paper: GS 2 | Marks: N/A)** “Though women in post-Independent India have excelled in various fields, the social attitude towards women and feminist movement has been patriarchal.” Apart from women education and women empowerment schemes, what interventions can help change this milieu? **
+## Question 187 (Year: 2021 | Paper: GS 2 | Marks: N/A) “Though women in post-Independent India have excelled in various fields, the social attitude towards women and feminist movement has been patriarchal.” Apart from women education and women empowerment schemes, what interventions can help change this milieu? 
 
 ### Answer
 **Question ID: 2021-gs2-q187-superkalam**
@@ -8742,7 +8744,7 @@ Transforming India's patriarchal milieu requires sustained efforts combining leg
 
 ---
 
-## Question 188 (Year: 2020 | Paper: GS 2 | Marks: N/A)** Incidence and intensity of poverty are most important in determining poverty based on income alone. In this context analyze the latest United Nations Multi Poverty Index report. **
+## Question 188 (Year: 2020 | Paper: GS 2 | Marks: N/A) Incidence and intensity of poverty are most important in determining poverty based on income alone. In this context analyze the latest United Nations Multi Poverty Index report. 
 
 ### Answer
 **Question ID: 2020-gs2-q188-superkalam**
@@ -8796,7 +8798,7 @@ India's success in multidimensional poverty reduction validates comprehensive de
 
 ---
 
-## Question 189 (Year: 2020 | Paper: GS 2 | Marks: N/A)** Microfinance as an anti-poverty vaccine is aimed at asset creation and income security of the rural poor in India”. Evaluate the role of Self Help Groups in achieving twin objectives along with empowering women in rural India. **
+## Question 189 (Year: 2020 | Paper: GS 2 | Marks: N/A) Microfinance as an anti-poverty vaccine is aimed at asset creation and income security of the rural poor in India”. Evaluate the role of Self Help Groups in achieving twin objectives along with empowering women in rural India. 
 
 ### Answer
 **Question ID: 2020-gs2-q189-superkalam**
@@ -8838,30 +8840,30 @@ The success of initiatives like** Deendayal Antyodaya Yojana-NRLM **demonstrates
 
 ---
 
-## Question 190 (Year: 2019 | Paper: GS 2 | Marks: N/A)** The Performance of welfare schemes that are **
+## Question 190 (Year: 2019 | Paper: GS 2 | Marks: N/A) The Performance of welfare schemes that are 
 
 ### Answer
 **Question ID: 2019-gs2-q190-superkalam**
 
 Recent data shows that despite Rs. 2.35 lakh crore allocated for welfare schemes in 2024-25, many vulnerable sections remain unaware of available benefits. Effective welfare delivery requires active beneficiary participation throughout the policy lifecycle.
 
-##** Challenges in Awareness and Information Access **-** Digital Divide**: Over 40% of rural households lack internet access, limiting awareness of digitized welfare schemes like** PM-KISAN **and** Ayushman Bharat**.
+## Challenges in Awareness and Information Access - Digital Divide: Over 40% of rural households lack internet access, limiting awareness of digitized welfare schemes like PM-KISAN and Ayushman Bharat.
 -** Language Barriers**: Complex documentation in English/Hindi excludes tribal communities and linguistic minorities from understanding scheme provisions.
 -** Information Asymmetry**: Middlemen exploit knowledge gaps, with studies showing 30% beneficiaries unaware of their entitlements under** MGNREGA**.
 -** Low Literacy Rates**: 25% adult illiteracy among SCs/STs hampers comprehension of scheme guidelines and application processes.
 -** Media Penetration Gap**: Limited reach of government communication in remote areas affects scheme visibility.
 
-##** Impact of Limited Beneficiary Participation **-** Poor Scheme Design**: Top-down planning without community consultation leads to misaligned programs failing to address ground realities.
+## Impact of Limited Beneficiary Participation - Poor Scheme Design: Top-down planning without community consultation leads to misaligned programs failing to address ground realities.
 -** Implementation Failures**: Absence of beneficiary oversight enables corruption and elite capture in schemes like** PDS **and housing programs.
 -** Low Utilization Rates**: Despite allocation increases, schemes show poor uptake -** PM Awas Yojana **achieved only 65% target completion.
 -** Feedback Vacuum**: Lack of beneficiary input prevents course correction and scheme optimization.
 
-##** Solutions and Strategic Interventions **###** Participatory Governance Mechanisms: **-** Social Audits**: Mandatory community audits for all welfare schemes, following** Andhra Pradesh's successful MGNREGA model **-** Gram Sabha Empowerment**: Strengthening village-level planning under** PESA Act **provisions
+## Solutions and Strategic Interventions ### Participatory Governance Mechanisms: - Social Audits: Mandatory community audits for all welfare schemes, following Andhra Pradesh's successful MGNREGA model - Gram Sabha Empowerment: Strengthening village-level planning under PESA Act provisions
 
-###** Awareness Enhancement: **-** Jan Aushadhi Common Service Centers**: Leveraging existing infrastructure for scheme information dissemination
+### Awareness Enhancement: - Jan Aushadhi Common Service Centers: Leveraging existing infrastructure for scheme information dissemination
 -** Mission Antyodaya**: Integrated approach covering 50,000 gram panchayats for comprehensive awareness
 
-###** Technology Integration: **-** MyGov Platform**: Citizen engagement portal receiving 2.8 crore suggestions for policy improvement
+### Technology Integration: - MyGov Platform: Citizen engagement portal receiving 2.8 crore suggestions for policy improvement
 -** Direct Benefit Transfer (DBT)**: Eliminating middlemen while ensuring transparent fund flow
 
 Enhanced beneficiary awareness and participation transform welfare delivery from government-centric to people-centric governance, aligning with** Article 243 **provisions and** SDG Goal 1 **for poverty eradication through inclusive development.
@@ -8870,7 +8872,7 @@ Enhanced beneficiary awareness and participation transform welfare delivery from
 
 ---
 
-## Question 191 (Year: 2018 | Paper: GS 2 | Marks: N/A)** Appropriate local community level healthcare intervention is a prerequisite to achieve ‘Health for All’ in India. Explain. **
+## Question 191 (Year: 2018 | Paper: GS 2 | Marks: N/A) Appropriate local community level healthcare intervention is a prerequisite to achieve ‘Health for All’ in India. Explain. 
 
 ### Answer
 **Question ID: 2018-gs2-q191-superkalam**
@@ -8925,7 +8927,7 @@ Community-level interventions form the cornerstone of India's health system, ens
 
 ---
 
-## Question 192 (Year: 2018 | Paper: GS 2 | Marks: N/A)** How far do you agree with the view that the focus on lack of availability of food as the main cause of hunger takes the attention away from ineffective human development policies in India? **
+## Question 192 (Year: 2018 | Paper: GS 2 | Marks: N/A) How far do you agree with the view that the focus on lack of availability of food as the main cause of hunger takes the attention away from ineffective human development policies in India? 
 
 ### Answer
 **Question ID: 2018-gs2-q192-superkalam**
@@ -8965,7 +8967,7 @@ The persistence of malnutrition despite India being the** world's largest rice e
 
 ---
 
-## Question 193 (Year: 2017 | Paper: GS 2 | Marks: N/A)** Does the Rights of Persons with Disabilities Act, 2016 ensure an effective mechanism for empowerment and inclusion of the intended beneficiaries in society? Discuss. **
+## Question 193 (Year: 2017 | Paper: GS 2 | Marks: N/A) Does the Rights of Persons with Disabilities Act, 2016 ensure an effective mechanism for empowerment and inclusion of the intended beneficiaries in society? Discuss. 
 
 ### Answer
 **Question ID: 2017-gs2-q193-superkalam**
@@ -8974,20 +8976,20 @@ Recent data shows that India has over** 2.68 crore persons with disabilities**, 
 
 ## Empowerment Mechanisms in RPwD Act 2016
 
-###** Rights-Based Approach **-** Legal Recognition**: Shifted from charity-based model to** rights-based approach**, recognizing persons with disabilities as equal citizens
+### Rights-Based Approach - Legal Recognition: Shifted from charity-based model to rights-based approach, recognizing persons with disabilities as equal citizens
 -** Expanded Definition**: Increased disability categories from 7 to** 21 types**, including autism, cerebral palsy, and acid attack victims
 -** Non-Discrimination**: Prohibits discrimination in employment, education, and access to goods and services
 -** Legal Capacity**: Recognizes** equal legal capacity **with provision for supported decision-making
 -** Guardianship Reform**: Replaced guardianship with** limited guardianship **system, preserving individual autonomy
 
-###** Inclusion Mechanisms **|** Sector **|** Provision **|** Impact **|
+### Inclusion Mechanisms | Sector | Provision | Impact |
 | --- | --- | --- |
 |** Employment **| 4% reservation in government jobs | Enhanced economic participation |
 |** Education **| 5% reservation in higher education | Improved educational access |
 |** Infrastructure **| Barrier-free access mandate | Better physical accessibility |
 |** Transportation **| Accessible public transport | Enhanced mobility |
 
-###** Implementation Framework **-** Central/State Monitoring**: Establishment of** Central and State Advisory Boards **for policy oversight
+### Implementation Framework - Central/State Monitoring: Establishment of Central and State Advisory Boards for policy oversight
 -** District Committees**:** District Level Committees **for local implementation and grievance redressal
 -** Chief Commissioner**:** Chief Commissioner for Persons with Disabilities **as apex monitoring authority
 -** Financial Support**:** Scholarship schemes **and assistive device distribution programs
@@ -8995,11 +8997,11 @@ Recent data shows that India has over** 2.68 crore persons with disabilities**, 
 
 ## Challenges in Effective Implementation
 
-###** Infrastructure and Accessibility Gaps **-** Limited Compliance**: Many public buildings and transport systems remain inaccessible despite legal mandates
+### Infrastructure and Accessibility Gaps - Limited Compliance: Many public buildings and transport systems remain inaccessible despite legal mandates
 -** Digital Divide**: Inadequate accessible technology and websites hindering digital inclusion
 -** Rural Areas**: Poor infrastructure in rural regions limiting access to services and opportunities
 
-###** Systemic Implementation Issues **-** Awareness Deficit**: Limited knowledge among implementing authorities about disability rights
+### Systemic Implementation Issues - Awareness Deficit: Limited knowledge among implementing authorities about disability rights
 -** Certification Delays**: Slow disability certification process affecting benefit access
 -** Inadequate Funding**:** Budget constraints **limiting comprehensive program implementation
 -** Attitudinal Barriers**: Persistent social stigma and discriminatory practices in society
@@ -9010,7 +9012,7 @@ The RPwD Act 2016 provides a comprehensive framework aligning with** UN Conventi
 
 ---
 
-## Question 194 (Year: 2017 | Paper: GS 2 | Marks: N/A)** Hunger and Poverty are the biggest challenges for good governance in India still today. Evaluate how far successive governments have progressed in dealing with these humongous problems. Suggest measures for improvement. **
+## Question 194 (Year: 2017 | Paper: GS 2 | Marks: N/A) Hunger and Poverty are the biggest challenges for good governance in India still today. Evaluate how far successive governments have progressed in dealing with these humongous problems. Suggest measures for improvement. 
 
 ### Answer
 **Question ID: 2017-gs2-q194-superkalam**
@@ -9064,7 +9066,7 @@ India's poverty and hunger challenge requires** convergence of schemes**, improv
 
 ---
 
-## Question 195 (Year: 2017 | Paper: GS 2 | Marks: N/A)** The emergence of Self Help Groups(SHGs) in contemporary times points to the slow but steady withdrawal of the state from developmental activities. Examine the role of the SHGs in developmental activities and the measures taken by the Government of India to promote the SHGs. **
+## Question 195 (Year: 2017 | Paper: GS 2 | Marks: N/A) The emergence of Self Help Groups(SHGs) in contemporary times points to the slow but steady withdrawal of the state from developmental activities. Examine the role of the SHGs in developmental activities and the measures taken by the Government of India to promote the SHGs. 
 
 ### Answer
 **Question ID: 2017-gs2-q195-superkalam**
@@ -9117,7 +9119,7 @@ SHGs demonstrate successful state-society partnership rather than state withdraw
 
 ---
 
-## Question 196 (Year: 2016 | Paper: GS 2 | Marks: N/A)** Examine the main provisions of the **
+## Question 196 (Year: 2016 | Paper: GS 2 | Marks: N/A) Examine the main provisions of the 
 
 ### Answer
 **Question ID: 2016-gs2-q196-superkalam**
@@ -9177,7 +9179,7 @@ The National Child Policy's implementation requires strengthened** institutional
 
 ---
 
-## Question 197 (Year: 2014 | Paper: GS 2 | Marks: N/A)** An athlete participates in Olympics for personal triumph and nation’s glory; victors are showered with cash incentives by various agencies, on their return. Discuss the merit of state sponsored talent hunt and its cultivation as against the rationale of a reward mechanism as encouragement. **
+## Question 197 (Year: 2014 | Paper: GS 2 | Marks: N/A) An athlete participates in Olympics for personal triumph and nation’s glory; victors are showered with cash incentives by various agencies, on their return. Discuss the merit of state sponsored talent hunt and its cultivation as against the rationale of a reward mechanism as encouragement. 
 
 ### Answer
 **Question ID: 2014-gs2-q197-superkalam**
@@ -9233,7 +9235,7 @@ Premier institutions should retain their status with enhanced autonomy while ens
 
 ---
 
-## Question 198 (Year: 2014 | Paper: GS 2 | Marks: N/A)** Should the premier institutes like IITs/IIMs be allowed to retain premier status, allow more academic independence in designing courses and also decide mode/criteria of selection of students. Discuss in light of the growing challenges. **
+## Question 198 (Year: 2014 | Paper: GS 2 | Marks: N/A) Should the premier institutes like IITs/IIMs be allowed to retain premier status, allow more academic independence in designing courses and also decide mode/criteria of selection of students. Discuss in light of the growing challenges. 
 
 ### Answer
 **Question ID: 2014-gs2-q198-superkalam**
@@ -9271,7 +9273,7 @@ The Olympic journey embodies both personal achievement and national representati
  -** Limited Reach**: Rewards benefit few successful athletes while neglecting broader talent pool
  -** Sustainability Issues**: One-time rewards don't create lasting sporting infrastructure or culture
 
-## Optimal Integration Strategy -** Balanced Resource Allocation **-** 80-20 Model**: Allocate 80% resources to talent development, 20% to reward mechanisms
+## Optimal Integration Strategy - Balanced Resource Allocation - 80-20 Model: Allocate 80% resources to talent development, 20% to reward mechanisms
 -** Performance Milestones**: Implement graduated rewards during training phases, not just final achievements
 -** Infrastructure Focus**: Prioritize facility creation over individual cash rewards for long-term impact
 
@@ -9281,7 +9283,7 @@ The** Mission Olympic Cell's **integrated approach combining TOPS with Khelo Ind
 
 ---
 
-## Question 199 (Year: 2014 | Paper: GS 2 | Marks: N/A)** Two parallel run schemes of the Government, viz the Adhar card and NPR, one of voluntary and the other as compulsory, have led to debates at national levels and also litigations. On merits , discuss whether or not both schemes need to run concurrently. Analyse the potential of the schemes to achieve development benefits and equitable growth. **
+## Question 199 (Year: 2014 | Paper: GS 2 | Marks: N/A) Two parallel run schemes of the Government, viz the Adhar card and NPR, one of voluntary and the other as compulsory, have led to debates at national levels and also litigations. On merits , discuss whether or not both schemes need to run concurrently. Analyse the potential of the schemes to achieve development benefits and equitable growth. 
 
 ### Answer
 **Question ID: 2014-gs2-q199-superkalam**
@@ -9348,7 +9350,7 @@ The concurrent operation serves India's federal governance needs effectively. Wh
 
 ---
 
-## Question 200 (Year: 2013 | Paper: GS 2 | Marks: N/A)** An electronic cash transfer system for welfare schemes is an ambitious project to minimize corruption, eliminate wastage, and facilitate reforms. Comment. **
+## Question 200 (Year: 2013 | Paper: GS 2 | Marks: N/A) An electronic cash transfer system for welfare schemes is an ambitious project to minimize corruption, eliminate wastage, and facilitate reforms. Comment. 
 
 ### Answer
 **Question ID: 2013-gs2-q200-superkalam**
@@ -9389,7 +9391,7 @@ The electronic cash transfer system has proven to be a paradigm shift in welfare
 
 ---
 
-## Question 201 (Year: 2013 | Paper: GS 2 | Marks: N/A)** Identify the Millennium Development Goals (MDGs) that are related to health.Discuss the success of the actions taken by the Government to achieve the same. **
+## Question 201 (Year: 2013 | Paper: GS 2 | Marks: N/A) Identify the Millennium Development Goals (MDGs) that are related to health.Discuss the success of the actions taken by the Government to achieve the same. 
 
 ### Answer
 **Question ID: 2013-gs2-q201-superkalam**
@@ -9430,7 +9432,7 @@ The Millennium Development Goals (MDGs) were established by the UN in 2000 to ad
 |** Maternal Health **|** Significant Progress **| 86% reduction in MMR (1990-2015) |
 |** Disease Control **|** Mixed Results **| HIV stabilized, malaria reduced, TB challenges remain |
 
-### Major Government Initiatives** Child Health Programs: **-** Mission Indradhanush (2014)**: Achieved 90% immunization coverage
+### Major Government Initiatives Child Health Programs: - Mission Indradhanush (2014): Achieved 90% immunization coverage
 -** Integrated Child Development Services (ICDS)**: Nutrition and healthcare for 10 crore children
 -** Rashtriya Bal Swasthya Karyakram**: Early detection and treatment of diseases
 -** Janani Shishu Suraksha Karyakram**: Free delivery and transport services** Maternal Health Interventions: **-** Janani Suraksha Yojana (2005)**: Cash incentives for institutional deliveries increased from 39% to 89%
@@ -9452,7 +9454,7 @@ India's success in health MDGs demonstrates effective policy implementation and 
 
 ---
 
-## Question 202 (Year: 2013 | Paper: GS 2 | Marks: N/A)** The basis of providing urban amenities in rural areas (PURA) is rooted in establishing connectivity. Comment. **
+## Question 202 (Year: 2013 | Paper: GS 2 | Marks: N/A) The basis of providing urban amenities in rural areas (PURA) is rooted in establishing connectivity. Comment. 
 
 ### Answer
 **Question ID: 2013-gs2-q202-superkalam**
@@ -9497,7 +9499,7 @@ Connectivity thus forms the backbone of PURA by creating an ecosystem where rura
 
 ---
 
-## Question 203 (Year: 2013 | Paper: GS 2 | Marks: N/A)** The Central Government frequently complains about the poor performance of the State Governments in eradicating the suffering of the vulnerable sections of the society. Restructuring of Centrally sponsored schemes across the sectors for ameliorating the cause of vulnerable sections of the population aims at providing flexibility to the States in better implementation. Critically evaluate. **
+## Question 203 (Year: 2013 | Paper: GS 2 | Marks: N/A) The Central Government frequently complains about the poor performance of the State Governments in eradicating the suffering of the vulnerable sections of the society. Restructuring of Centrally sponsored schemes across the sectors for ameliorating the cause of vulnerable sections of the population aims at providing flexibility to the States in better implementation. Critically evaluate. 
 
 ### Answer
 **Question ID: 2013-gs2-q203-superkalam**
@@ -9538,7 +9540,7 @@ While CSS restructuring provides necessary flexibility, success depends on addre
 
 ---
 
-## Question 204 (Year: 2013 | Paper: GS 2 | Marks: N/A)** The concept of the Mid-Day Meal (MDM) scheme is almost a century old in India with early beginnings in the Madras Presidency in pre-independent India. The scheme has again been given impetus in most states in the last two decades. Critically examine its twin objectives, latest mandates, and success. **
+## Question 204 (Year: 2013 | Paper: GS 2 | Marks: N/A) The concept of the Mid-Day Meal (MDM) scheme is almost a century old in India with early beginnings in the Madras Presidency in pre-independent India. The scheme has again been given impetus in most states in the last two decades. Critically examine its twin objectives, latest mandates, and success. 
 
 ### Answer
 **Question ID: 2013-gs2-q204-superkalam**
@@ -9597,7 +9599,7 @@ The transformation into** PM POSHAN **demonstrates India's commitment to achievi
 
 ---
 
-## Question 205 (Year: 2013 | Paper: GS 2 | Marks: N/A)** The product diversification of financial institutions and insurance companies, resulting in overlapping of products and services strengthens the case for the merger of the two regulatory agencies, namely SEBI and IRDA. Justify. **
+## Question 205 (Year: 2013 | Paper: GS 2 | Marks: N/A) The product diversification of financial institutions and insurance companies, resulting in overlapping of products and services strengthens the case for the merger of the two regulatory agencies, namely SEBI and IRDA. Justify. 
 
 ### Answer
 **Question ID: 2013-gs2-q205-superkalam**
@@ -9698,7 +9700,7 @@ India's energy security integration with foreign policy requires balancing tradi
 
 ---
 
-## Question 207 (Year: 2025 | Paper: GS 2 | Marks: N/A)** India-Africa digital partnership is achieving mutual respect, co-development and long-term institutional partnerships. Elaborate. **
+## Question 207 (Year: 2025 | Paper: GS 2 | Marks: N/A) India-Africa digital partnership is achieving mutual respect, co-development and long-term institutional partnerships. Elaborate. 
 
 ### Answer
 **Question ID: 2025-gs2-q207-superkalam**
@@ -9743,7 +9745,7 @@ This partnership exemplifies** "Atmanirbhar Bharat" **principles globally, with 
 
 ---
 
-## Question 208 (Year: 2025 | Paper: GS 2 | Marks: N/A)** &quot;The reform process in the United Nations remains unresolved, because of the delicate imbalance of East and West and entanglement of the USA vs. Russo-Chinese alliance.&quot; Examine and critically evaluate the East-West policy confrontations in this regard. **
+## Question 208 (Year: 2025 | Paper: GS 2 | Marks: N/A) &quot;The reform process in the United Nations remains unresolved, because of the delicate imbalance of East and West and entanglement of the USA vs. Russo-Chinese alliance.&quot; Examine and critically evaluate the East-West policy confrontations in this regard. 
 
 ### Answer
 **Question ID: 2025-gs2-q208-superkalam**
@@ -9756,17 +9758,17 @@ Stalled UN Reforms between Western and Eastern Blocs
 
 However, UN reforms remain stalled largely due to the** East-West geopolitical divide**, reflecting the unresolved power equilibrium between the** USA and Western allies **versus** Russia and China **## East-West Policy Confrontations in UN Reform
 
-###** Security Council Reform Deadlock **-** Western position**: Expansion with** Germany, Japan, India, Brazil **as permanent members, emphasizing democratic credentials and financial contributions
+### Security Council Reform Deadlock - Western position: Expansion with Germany, Japan, India, Brazil as permanent members, emphasizing democratic credentials and financial contributions
 -** Eastern bloc stance**:** Russia-China **oppose Western expansion, advocating for** African and Asian representation **without additional Western allies
 -** Veto power disputes**: US blocks Russian proposals while** China **vetoes Western-backed resolutions, creating systematic paralysis
 -** Regional alignments**:** BRICS nations **support multipolar representation versus** G7's **democracy-based membership criteria
 -** Procedural battles**:** Article 108 amendment requirements **exploited by opposing blocs to prevent reforms
 
-###** Institutional Governance Conflicts **-** Budget disputes**:** US **withholding contributions over** Chinese influence **in specialized agencies like** WHO **and** UNIDO **-** Leadership contests**:** 2024 WHO Director-General election **reflected East-West divisions with** European vs Asian candidates **-** Operational mandates**: Disagreements over** peacekeeping missions **in** Mali, DRC**, with Western emphasis on human rights versus Eastern sovereignty principles
+### Institutional Governance Conflicts - Budget disputes: US withholding contributions over Chinese influence in specialized agencies like WHO and UNIDO - Leadership contests: 2024 WHO Director-General election reflected East-West divisions with European vs Asian candidates - Operational mandates: Disagreements over peacekeeping missions in Mali, DRC, with Western emphasis on human rights versus Eastern sovereignty principles
 -** Agency restructuring**:** Russia-China **bloc opposes Western-dominated** Peacebuilding Commission **expansion
 -** Secretariat appointments**: Geographic distribution conflicts between** Western merit-based **versus** Eastern quota-based **systems
 
-###** Ideological Confrontations **-** Human rights vs sovereignty**:** US-EU **promoting** R2P doctrine **opposed by** Russia-China's **non-interference stance
+### Ideological Confrontations - Human rights vs sovereignty: US-EU promoting R2P doctrine opposed by Russia-China's non-interference stance
 -** Climate governance**:** Green transition financing **disputes between developed-developing nation blocs
 -** Technology governance**:** US **cyber-security proposals versus** Chinese **digital sovereignty framework
 -** Development paradigms**:** Western liberal democracy promotion **conflicting with** Eastern alternative development models **-** International law interpretation**: Divergent views on** territorial integrity, self-determination**, evident in** Ukraine, Taiwan, Kashmir **contexts
@@ -9777,7 +9779,7 @@ The** East-West policy confrontations** fundamentally stem from competing vision
 
 ---
 
-## Question 209 (Year: 2025 | Paper: GS 2 | Marks: N/A)** &quot;With the waning of globalization, post-Cold War world is becoming a site of sovereign nationalism.&quot; Elucidate. **
+## Question 209 (Year: 2025 | Paper: GS 2 | Marks: N/A) &quot;With the waning of globalization, post-Cold War world is becoming a site of sovereign nationalism.&quot; Elucidate. 
 
 ### Answer
 **Question ID: 2025-gs2-q209-superkalam**
@@ -9812,7 +9814,7 @@ This shift requires recalibrating toward strategic interdependence. Middle power
 
 ---
 
-## Question 210 (Year: 2024 | Paper: GS 2 | Marks: N/A)** Critically analyze India&#x27;s evolving diplomatic, economic and strategic relations with the Central Asian Republics (CARs) highlighting their increasing significance in regional and global geopolitics. **
+## Question 210 (Year: 2024 | Paper: GS 2 | Marks: N/A) Critically analyze India&#x27;s evolving diplomatic, economic and strategic relations with the Central Asian Republics (CARs) highlighting their increasing significance in regional and global geopolitics. 
 
 ### Answer
 
@@ -9847,7 +9849,7 @@ To overcome physical barriers, India must pivot toward digital and pharmaceutica
 
 ---
 
-## Question 211 (Year: 2024 | Paper: GS 2 | Marks: N/A)** Discuss the geopolitical and geostrategic importance of Maldives for India with a focus on global trade and energy flows. Further also discuss how this relationship affects India&#x27;s maritime security and regional stability amidst international competition? **
+## Question 211 (Year: 2024 | Paper: GS 2 | Marks: N/A) Discuss the geopolitical and geostrategic importance of Maldives for India with a focus on global trade and energy flows. Further also discuss how this relationship affects India&#x27;s maritime security and regional stability amidst international competition? 
 
 ### Answer
 
@@ -9913,7 +9915,7 @@ The evolving geopolitical landscape in Maldives demands India's careful attentio
 
 ---
 
-## Question 212 (Year: 2024 | Paper: GS 2 | Marks: N/A)** Terrorism has become a significant threat to global peace and security. Evaluate the effectiveness of the United Nations Security Council&#x27;s Counter Terrorism Committee (CTC) and its associated bodies in addressing and mitigating this threat at the international level. **
+## Question 212 (Year: 2024 | Paper: GS 2 | Marks: N/A) Terrorism has become a significant threat to global peace and security. Evaluate the effectiveness of the United Nations Security Council&#x27;s Counter Terrorism Committee (CTC) and its associated bodies in addressing and mitigating this threat at the international level. 
 
 ### Answer
 
@@ -9967,7 +9969,7 @@ While the** CTC **has established crucial frameworks for international counter-t
 
 ---
 
-## Question 213 (Year: 2024 | Paper: GS 2 | Marks: N/A)** &quot;The West is fostering India as an alternative to reduce dependence on China&#x27;s supply chain and as a strategic ally to counter China&#x27;s political and economic dominance.&quot; Explain this statement with examples. **
+## Question 213 (Year: 2024 | Paper: GS 2 | Marks: N/A) &quot;The West is fostering India as an alternative to reduce dependence on China&#x27;s supply chain and as a strategic ally to counter China&#x27;s political and economic dominance.&quot; Explain this statement with examples. 
 
 ### Answer
 
@@ -10018,7 +10020,7 @@ The West's strategic fostering of India as an alternative to China represents a 
 
 ---
 
-## Question 214 (Year: 2023 | Paper: GS 2 | Marks: N/A)** Indian diaspora has scaled new heights in the west. Describe its economic and political benefits for India. **
+## Question 214 (Year: 2023 | Paper: GS 2 | Marks: N/A) Indian diaspora has scaled new heights in the west. Describe its economic and political benefits for India. 
 
 ### Answer
 **Question ID: 2023-gs2-q214-superkalam**
@@ -10029,7 +10031,7 @@ The Indian diaspora, particularly in the** Western nations **such as the USA, UK
 
 Indian Diaspora Benefits in the West
 
-##** Economic Benefits of Indian Diaspora in the West **1.** High Volume of Remittances **- India received** $111 billion in remittances in 2022 **(World Bank), the highest globally.
+## Economic Benefits of Indian Diaspora in the West 1. High Volume of Remittances - India received $111 billion in remittances in 2022 (World Bank), the highest globally.
  - A significant share comes from high-income countries like** USA, UK, Canada, and Australia**.
  - These remittances support household consumption, education, health, and local economies, particularly in states like** Kerala, Punjab, and Andhra Pradesh**.
 
@@ -10049,7 +10051,7 @@ Indian Diaspora Benefits in the West
 6.** Boost to India's Global Service Economy **- Indian-origin professionals in top roles abroad create demand for** India-based services**, especially in** IT, fintech, and healthcare**.
  - They also facilitate** outsourcing contracts **and offshoring of operations to India.
 
-##** Political Benefits of Indian Diaspora in the West **1.** Enhancing India's Soft Power and Global Image **- The global success of the diaspora enhances India’s reputation as a country of talent and values.
+## Political Benefits of Indian Diaspora in the West 1. Enhancing India's Soft Power and Global Image - The global success of the diaspora enhances India’s reputation as a country of talent and values.
  -** Example: **Leaders like** Kamala Harris (US VP) **and** Rishi Sunak (UK PM) **symbolize Indian civilisational depth and multiculturalism.
 
 2.** Diaspora Diplomacy and Policy Advocacy **- Diaspora organizations lobby host governments to support India’s interests, such as** trade deals, defence cooperation**, or during crises.
@@ -10073,7 +10075,7 @@ The Indian diaspora in the West is a vital national asset. With rising political
 
 ---
 
-## Question 215 (Year: 2023 | Paper: GS 2 | Marks: N/A)** Sea is an important component of the Cosmos’. Discuss in the light of the above statement the role of the IMO (International Maritime Organisation) in protecting environment and enhancing maritime safety and security. **
+## Question 215 (Year: 2023 | Paper: GS 2 | Marks: N/A) Sea is an important component of the Cosmos’. Discuss in the light of the above statement the role of the IMO (International Maritime Organisation) in protecting environment and enhancing maritime safety and security. 
 
 ### Answer
 **Question ID: 2023-gs2-q215-superkalam**
@@ -10114,7 +10116,7 @@ As a UN agency, the IMO fosters international cooperation on uniform safety prot
 
 ---
 
-## Question 216 (Year: 2023 | Paper: GS 2 | Marks: N/A)** The expansion and strengthening of NATO and a stronger US-Europe strategic partnership works well for India. What is your opinion about this statement? Give reasons and examples to support your answer. **
+## Question 216 (Year: 2023 | Paper: GS 2 | Marks: N/A) The expansion and strengthening of NATO and a stronger US-Europe strategic partnership works well for India. What is your opinion about this statement? Give reasons and examples to support your answer. 
 
 ### Answer
 **Question ID: 2023-gs2-q216-superkalam**
@@ -10125,7 +10127,7 @@ The** renewed strength of NATO **and the deepening** US-Europe strategic partner
 
 NATO, US-Europe Benefits, Strategic Security for India
 
-##** Yes, it works well for India – Reasons and Examples **1.** Checks Revisionist Powers like China and Russia **- NATO’s increased focus on** collective security and global norms **helps limit** Russia's aggression **in Eurasia and** China's assertiveness **in the Indo-Pacific.
+## Yes, it works well for India – Reasons and Examples 1. Checks Revisionist Powers like China and Russia - NATO’s increased focus on collective security and global norms helps limit Russia's aggression in Eurasia and China's assertiveness in the Indo-Pacific.
  -** Example: **NATO’s** 2022 Strategic Concept **for the first time acknowledged China as a “challenge,” aligning with India’s concerns in the Indo-Pacific.
 
 2.** Frees Up US Focus Towards Indo-Pacific **- A more self-reliant and assertive** European security ecosystem **enables the** US to allocate more military and diplomatic bandwidth **toward the Indo-Pacific, where India faces China.
@@ -10140,7 +10142,7 @@ NATO, US-Europe Benefits, Strategic Security for India
 5.** Support on Multilateral Platforms **- The US and Europe have increasingly supported** India’s role in global governance**—such as reforms in** UNSC and export control regimes **(MTCR, Wassenaar).
  - Their partnership enhances India’s diplomatic leverage on** climate action, technology, and global health**.
 
-##** Counter-Concerns **1.** Risk of Global Polarisation and New Bloc Politics **- Strengthened NATO may revive** Cold War-style bipolarity**, weakening** multilateralism **and marginalising countries like India that prefer** strategic autonomy**.
+## Counter-Concerns 1. Risk of Global Polarisation and New Bloc Politics - Strengthened NATO may revive Cold War-style bipolarity, weakening multilateralism and marginalising countries like India that prefer strategic autonomy.
  - India’s non-aligned stance on conflicts like** Russia-Ukraine **may face increased pressure from both sides.
 
 2.** Strained India-Russia Defence Ties **- NATO’s posture towards Russia could undermine India’s long-standing** defence partnership with Moscow**, which still supplies over** 50% of India’s military hardware**.
@@ -10164,7 +10166,7 @@ The** expansion and strengthening of NATO and transatlantic ties **broadly align
 
 ---
 
-## Question 217 (Year: 2023 | Paper: GS 2 | Marks: N/A)** Virus of conflict is affecting the functioning of the SCO”. In the light of the above statement point out the role of India in mitigating the problems. **
+## Question 217 (Year: 2023 | Paper: GS 2 | Marks: N/A) Virus of conflict is affecting the functioning of the SCO”. In the light of the above statement point out the role of India in mitigating the problems. 
 
 ### Answer
 **Question ID: 2023-gs2-q217-superkalam**
@@ -10175,7 +10177,7 @@ The Shanghai Cooperation Organisation (SCO), a key Eurasian grouping, is increas
 
 India's SECURE strategy for SCO explained
 
-##** Virus of Conflict in the SCO: Key Challenges **1.** India-China Border Tensions: **- The** Galwan Valley clash (2020) **and subsequent military standoff have strained bilateral relations.
+## Virus of Conflict in the SCO: Key Challenges 1. India-China Border Tensions: - The Galwan Valley clash (2020) and subsequent military standoff have strained bilateral relations.
  - Resulted in reduced trust and limited cooperation within the SCO security framework.
 
 2.** India-Pakistan Hostilities: **- Pakistan’s** sponsorship of cross-border terrorism **and its attempts to** internationalize bilateral issues like Kashmir **undermine the SCO’s non-interference principle.
@@ -10195,7 +10197,7 @@ India's SECURE strategy for SCO explained
  - China and Pakistan advocate engagement for stability, whereas India and some Central Asian states demand an inclusive government and guarantees against terrorism.
  - This divergence has prevented the formulation of a coherent regional strategy on Afghanistan.
 
-##** Role of India in Mitigating SCO Conflicts **India has played a** constructive and multi-pronged role **in countering the conflicts and enhancing cooperative spirit within SCO:
+## Role of India in Mitigating SCO Conflicts India has played a constructive and multi-pronged role in countering the conflicts and enhancing cooperative spirit within SCO:
 
 1.** Upholding Principles of Sovereignty and Non-Interference **- India consistently asserts that** bilateral disputes must not vitiate multilateral forums**.
 - Refused to endorse BRI due to its violation of sovereignty through the** China-Pakistan Economic Corridor (CPEC) **in Pakistan-occupied Kashmir (PoK), but still participates constructively.
@@ -10218,7 +10220,7 @@ India's SECURE strategy for SCO explained
  - Focused on** digital inclusion, startups, and cooperation in agriculture, culture, and education**.
  - Excluded Pakistan from SCO Film Festival due to concerns over extremism narratives.
 
-##** Way Forward: Enhancing India’s Role **1.** Promote Neutral Platforms **for dialogue between adversaries like India-Pakistan and India-China.
+## Way Forward: Enhancing India’s Role 1. Promote Neutral Platforms for dialogue between adversaries like India-Pakistan and India-China.
 2. Strengthen** economic cooperation **in energy, pharmaceuticals, and IT with Central Asia.
 3. Lead efforts to** reform SCO structures **to include** crisis management mechanisms**.
 4. Build coalitions with** like-minded members **(e.g., Russia, Central Asian Republics) to counterbalance Chinese overreach.
@@ -10229,7 +10231,7 @@ India’s** principled engagement **within the SCO, despite underlying conflicts
 
 ---
 
-## Question 218 (Year: 2022 | Paper: GS 2 | Marks: N/A)** Clean energy is the order of the day.’ Describe briefly India’s changing policy towards climate change in various international fora in the context of geopolitics. **
+## Question 218 (Year: 2022 | Paper: GS 2 | Marks: N/A) Clean energy is the order of the day.’ Describe briefly India’s changing policy towards climate change in various international fora in the context of geopolitics. 
 
 ### Answer
 **Question ID: 2022-gs2-q218-superkalam**
@@ -10240,7 +10242,7 @@ Clean energy has emerged as both a** developmental imperative and geopolitical t
 
 Timeline flowchart with sequential connected blocks
 
-##** India’s Changing Climate Policy in International Fora **1.** Early Phase (1990s–2000s) **- In the** UNFCCC & Kyoto Protocol (1997)**, India strongly emphasized the principle of** Common but Differentiated Responsibilities (CBDR)**.
+## India’s Changing Climate Policy in International Fora 1. Early Phase (1990s–2000s) - In the UNFCCC & Kyoto Protocol (1997), India strongly emphasized the principle of Common but Differentiated Responsibilities (CBDR).
  - It resisted binding emission reduction targets, arguing its per capita emissions were far below developed nations.
  - Climate policy was largely framed around protecting developmental space.
 
@@ -10261,7 +10263,7 @@ Timeline flowchart with sequential connected blocks
  -** ISA expansion**: 110+ countries joined, making India a clean energy “norm entrepreneur.”
  -** Leadership in Global Biofuel Alliance (2023, with US & Brazil): **Positions India as a bridge between developed & developing economies in green energy transition.
 
-##** Geopolitical Dimensions of India’s Climate Policy **1.** Climate Justice and Equity in Global Forums: **India consistently advocates for** equity and CBDR (Common but Differentiated Responsibilities)**, arguing that developed nations must take the lead.
+## Geopolitical Dimensions of India’s Climate Policy 1. Climate Justice and Equity in Global Forums: India consistently advocates for equity and CBDR (Common but Differentiated Responsibilities), arguing that developed nations must take the lead.
 
  -** Example: **At** COP26 (Glasgow, 2021)**, India pledged** Net Zero by 2070**, balancing development needs with climate action.
 
@@ -10299,14 +10301,14 @@ India’s climate policy has evolved from** defensive equity-seeking to proactiv
 
 ---
 
-## Question 219 (Year: 2022 | Paper: GS 2 | Marks: N/A)** Critically examine the procedures through which the Presidents of India and France are elected. **
+## Question 219 (Year: 2022 | Paper: GS 2 | Marks: N/A) Critically examine the procedures through which the Presidents of India and France are elected. 
 
 ### Answer
 **Question ID: 2022-gs2-q219-superkalam**
 
 The President, as Head of State, represents the sovereignty of the nation. While both** India and France **are republics, their presidential election systems reflect their distinct political contexts: India’s parliamentary system with a ceremonial president, and France’s semi-presidential system where the president wields substantial executive powers.
 
-##** Election of the President of India **1.** Indirect Election (Electoral College) **- Elected by an** Electoral College **comprising:** Elected MPs of both Houses **and** Elected MLAs of all states & UTs with legislatures**.
+## Election of the President of India 1. Indirect Election (Electoral College) - Elected by an Electoral College comprising: Elected MPs of both Houses and Elected MLAs of all states & UTs with legislatures.
  -** Nominated MPs/MLAs **are excluded.
 
 2.** Value of Votes & Proportional Representation **- Each MLA’s vote value =** population of state ÷ (1000 × total elected MLAs) **(based on** 1971 Census, frozen till 2026**).
@@ -10318,7 +10320,7 @@ The President, as Head of State, represents the sovereignty of the nation. While
  - Over-reliance on party majority in Parliament → reduces independence.
  - Smaller states over/under-represented due to outdated population data.
 
-##** Election of the President of France **1.** Direct Universal Suffrage **- Introduced under** Fifth Republic (1958 Constitution, 1962 amendment)**.
+## Election of the President of France 1. Direct Universal Suffrage - Introduced under Fifth Republic (1958 Constitution, 1962 amendment).
  - Citizens directly elect the President, it ensures** popular legitimacy**.
 
 2.** Two-Round System **- If no candidate secures** absolute majority in the first round**, top two proceed to run-off.
@@ -10331,7 +10333,7 @@ The President, as Head of State, represents the sovereignty of the nation. While
  - Risk of** personality cult politics **due to direct mandate.
  - Smaller parties disadvantaged in the first round.
 
-##** Comparison: India vs. France **| Aspect |** India **|** France **|
+## Comparison: India vs. France | Aspect | India | France |
 | --- | --- | --- |
 |** System **| Parliamentary democracy (ceremonial president) | Semi-presidential system (powerful president) |
 |** Electoral Method **| Indirect, via Electoral College | Direct universal suffrage |
@@ -10340,7 +10342,7 @@ The President, as Head of State, represents the sovereignty of the nation. While
 |** Role of President **| Largely nominal; acts on aid and advice of Council of Ministers (Art. 74) | Real executive powers: foreign policy, defense, appointing PM, dissolving Assembly |
 |** Criticism **| Weak mandate, over-reliant on ruling party, outdated census data | Over-centralisation of power, risk of authoritarian tendencies |
 
-##** Critical Examination **-** India’s procedure **ensures federal balance and prevents concentration of power, but results in a** weak presidency **dependent on ruling party’s numbers.
+## Critical Examination - India’s procedure ensures federal balance and prevents concentration of power, but results in a weak presidency dependent on ruling party’s numbers.
 -** France’s system **ensures** strong legitimacy **and popular accountability, but risks** executive dominance **undermining parliamentary democracy.
 - India sacrifices direct legitimacy for** stability & federalism**, while France prioritises** popular sovereignty **but struggles with** executive–legislative tensions** (e.g., *cohabitation* when President and PM are from rival parties).
 
@@ -10350,7 +10352,7 @@ Both systems reflect historical choices: India’s founders feared authoritarian
 
 ---
 
-## Question 220 (Year: 2022 | Paper: GS 2 | Marks: N/A) **Do you think that BIMSTEC is a parallel organisation like the SAARC ? What are the similarities and dissimilarities between the two ? How are Indian foreign policy objectives realized by forming this new organisation ?**
+## Question 220 (Year: 2022 | Paper: GS 2 | Marks: N/A) Do you think that BIMSTEC is a parallel organisation like the SAARC ? What are the similarities and dissimilarities between the two ? How are Indian foreign policy objectives realized by forming this new organisation ?
 
 ### Answer
 **Question ID: 2022-gs2-q220-superkalam**
@@ -10361,14 +10363,14 @@ BIMSTEC (Bay of Bengal Initiative for Multi-Sectoral Technical and Economic Coop
 
 SAARC Venn Diagram of Member Overlap
 
-##** Similarities between BIMSTEC and SAARC **1.** Regional Cooperation Objective: **Both aim to promote** economic, social, and technical cooperation **among member countries for regional development.
+## Similarities between BIMSTEC and SAARC 1. Regional Cooperation Objective: Both aim to promote economic, social, and technical cooperation among member countries for regional development.
 2.** South Asian Membership Overlap: **Share common members like** India, Bangladesh, Bhutan, Nepal, and Sri Lanka**, highlighting regional connectivity goals.
 3.** Multi-sectoral Collaboration: **Both organizations focus on sectors like** trade, energy, agriculture, education, and disaster management**.
 4.** Intergovernmental Structure: **Decisions are made through** summits, ministerial meetings, and secretariat coordination**, reflecting a formal multilateral framework.
 5.** Promotion of Peace and Stability: **Both seek to** enhance regional stability and cooperation**, providing a platform to address shared challenges.
 6.** Framework for Treaties and Agreements: **Serve as a platform for** bilateral and multilateral agreements **in trade, connectivity, and social sectors.
 
-##** Dissimilarities between BIMSTEC and SAARC **| Feature | BIMSTEC | SAARC |
+## Dissimilarities between BIMSTEC and SAARC | Feature | BIMSTEC | SAARC |
 | --- | --- | --- |
 |** Membership **| 7 countries (India, Bangladesh, Myanmar, Sri Lanka, Thailand, Nepal, Bhutan) | 8 South Asian countries (India, Pakistan, Bangladesh, Nepal, Bhutan, Sri Lanka, Maldives, Afghanistan) |
 |** Focus Region **| Bay of Bengal, connecting South and Southeast Asia | South Asia only |
@@ -10377,7 +10379,7 @@ SAARC Venn Diagram of Member Overlap
 |** Connectivity Emphasis **| Strong focus on** infrastructure, trade corridors, maritime links **| Limited in physical connectivity initiatives |
 |** Indian Influence **| India plays a** leading and central role **| India has influence but often blocked by Pakistan |
 
-##** How BIMSTEC Realizes Indian Foreign Policy Objectives **1.** Strengthening ‘Act East’ Policy: **BIMSTEC links India with Southeast Asia through** Myanmar and Thailand**, supporting infrastructure and trade connectivity.
+## How BIMSTEC Realizes Indian Foreign Policy Objectives 1. Strengthening ‘Act East’ Policy: BIMSTEC links India with Southeast Asia through Myanmar and Thailand, supporting infrastructure and trade connectivity.
 2.** Counterbalancing China’s Influence: **Provides an** India-centric platform **in the Bay of Bengal, as China’s Belt and Road Initiative gains ground in the region.
 3.** Regional Security & Maritime Cooperation: **Enhances cooperation in** disaster management, counter-terrorism, and naval exercises**, aligning with SAGAR (Security and Growth for All in the Region).
 4.** Economic Diplomacy: **Promotes trade integration via** BIMSTEC Free Trade Area (BFTA) **and energy cooperation projects (pipelines, power grids).
@@ -10390,7 +10392,7 @@ While BIMSTEC shares** structural similarities with SAARC**, it is** more flexib
 
 ---
 
-## Question 221 (Year: 2022 | Paper: GS 2 | Marks: N/A)** How will 12U2 (India, Israel, UAE and USA) grouping transform India’s position in global politics? **
+## Question 221 (Year: 2022 | Paper: GS 2 | Marks: N/A) How will 12U2 (India, Israel, UAE and USA) grouping transform India’s position in global politics? 
 
 ### Answer
 **Question ID: 2022-gs2-q221-superkalam**
@@ -10401,7 +10403,7 @@ The formation of the** I2U2 grouping in July 2022 **(also termed the “West Asi
 
 Interconnected Circular Nodes in Diamond Shape
 
-##** Transformational Impact on India’s Position in Global Politics **1.** Strategic Positioning in West Asia **- India gains a stronger footprint in** West Asia**, a region critical for** energy security (over 60% of India’s crude oil imports)**.
+## Transformational Impact on India’s Position in Global Politics 1. Strategic Positioning in West Asia - India gains a stronger footprint in West Asia, a region critical for energy security (over 60% of India’s crude oil imports).
  - The grouping complements India’s deepening ties with** UAE (Comprehensive Economic Partnership Agreement, 2022) **and** Israel (defence and agriculture cooperation)**.
  - It reduces India’s overdependence on traditional forums like** OIC**, where Pakistan often influences the agenda.
 
@@ -10458,7 +10460,7 @@ I2U2 represents a** paradigm shift in India’s foreign policy**—from being a*
 
 ---
 
-## Question 222 (Year: 2022 | Paper: GS 2 | Marks: N/A)** India is an age-old friend of Sri Lanka.’ Discuss India’s role in the recent crisis in Sri Lanka in the light of the preceding statement. **
+## Question 222 (Year: 2022 | Paper: GS 2 | Marks: N/A) India is an age-old friend of Sri Lanka.’ Discuss India’s role in the recent crisis in Sri Lanka in the light of the preceding statement. 
 
 ### Answer
 **Question ID: 2022-gs2-q222-superkalam**
@@ -10469,7 +10471,7 @@ India and Sri Lanka share** civilizational, cultural, and historical ties **span
 
 India's Assistance to Sri Lanka Hub
 
-##** India’s Role in the Recent Sri Lankan Crisis **1.** Largest Bilateral Financial Support: **India extended** over $4 billion in 2022**, including** $1 billion line of credit for essential imports **and** $500 million fuel credit line**, making it the** biggest aid provider **during the crisis.
+## India’s Role in the Recent Sri Lankan Crisis 1. Largest Bilateral Financial Support: India extended over $4 billion in 2022, including $1 billion line of credit for essential imports and $500 million fuel credit line, making it the biggest aid provider during the crisis.
 2.** Emergency Humanitarian Assistance: **- Over** 25,000 MT rice, medicines, milk powder **sent under humanitarian aid.
  - Helped ordinary citizens facing shortages and food inflation of nearly** 80% in mid-2022 (World Bank)**.
 
@@ -10491,7 +10493,7 @@ India’s swift response to Sri Lanka’s economic crisis reaffirmed that it is 
 
 ---
 
-## Question 223 (Year: 2021 | Paper: GS 2 | Marks: N/A)** Analyze the distinguishing features of the notion of Equality in the Constitutions of the USA and India. **
+## Question 223 (Year: 2021 | Paper: GS 2 | Marks: N/A) Analyze the distinguishing features of the notion of Equality in the Constitutions of the USA and India. 
 
 ### Answer
 **Question ID: 2021-gs2-q223-superkalam**
@@ -10504,13 +10506,13 @@ USA Constitution and the 14th Amendment
 
 ## Constitutional Framework of Equality
 
-###** US Constitution: **- Emphasizes equality through the** 14th Amendment's Equal Protection Clause **(1868)
+### US Constitution: - Emphasizes equality through the 14th Amendment's Equal Protection Clause (1868)
 - Follows** negative equality **approach - prohibiting state discrimination
 - Uses** three-tier scrutiny system**: strict scrutiny for race/religion, intermediate for gender, rational basis for economic classifications
 - Recent** Students for Fair Admissions v. Harvard **(2023) ended race-based affirmative action in college admissions
 - Focuses primarily on** procedural equality **and equal treatment under law
 
-###** Indian Constitution: **- Comprehensive equality framework through** Articles 14-18 **- Adopts both** negative and positive equality **principles
+### Indian Constitution: - Comprehensive equality framework through Articles 14-18 - Adopts both negative and positive equality principles
 -** Article 14**: Right to equality before law and equal protection of laws
 -** Article 15(4) and 16(4)**: Enable special provisions for socially disadvantaged groups
 - Recent** Dr. Jaishri Laxmanrao Patil v. Chief Minister **(2024) reaffirmed reasonable classification doctrine
@@ -10526,7 +10528,7 @@ USA Constitution and the 14th Amendment
 
 ## Distinctive Features
 
-###** Substantive vs. Formal Equality: **- USA: Emphasizes** formal equality **- same treatment for all
+### Substantive vs. Formal Equality: - USA: Emphasizes formal equality - same treatment for all
 - India: Pursues** substantive equality **- unequal treatment to achieve equal outcomes
 - Indian approach includes** economic reservations **through 103rd Amendment (2019)
 - US focuses on** individual merit **while India considers** group disadvantage **###** Social Context Integration: **- India's Constitution explicitly recognizes** caste-based discrimination **and untouchability
@@ -10539,7 +10541,7 @@ Both constitutions demonstrate evolving interpretations of equality. While the U
 
 ---
 
-## Question 224 (Year: 2021 | Paper: GS 2 | Marks: N/A)** Critically examine the aims and objectives of SCO. What importance does it hold for India? **
+## Question 224 (Year: 2021 | Paper: GS 2 | Marks: N/A) Critically examine the aims and objectives of SCO. What importance does it hold for India? 
 
 ### Answer
 **Question ID: 2021-gs2-q224-superkalam**
@@ -10605,7 +10607,7 @@ SCO provides India a crucial platform to advance its** "Multi-alignment" policy 
 
 ---
 
-## Question 225 (Year: 2021 | Paper: GS 2 | Marks: N/A)** “If the last few decades were Asia&#x27;s growth story, the next few are expected to be Africa&#x27;s.” In the light of this statement, examine India’s influence in Africa in recent years. **
+## Question 225 (Year: 2021 | Paper: GS 2 | Marks: N/A) “If the last few decades were Asia&#x27;s growth story, the next few are expected to be Africa&#x27;s.” In the light of this statement, examine India’s influence in Africa in recent years. 
 
 ### Answer
 **Question ID: 2021-gs2-q225-superkalam**
@@ -10642,7 +10644,7 @@ India's Influence in Africa Hub Diagram
 
 ---
 
-## Question 226 (Year: 2021 | Paper: GS 2 | Marks: N/A)** The newly tri-nation partnership AUKUS is aimed at countering China’s ambitions in the Indo-Pacific region. Is it going to supersede the existing partnerships in the region? Discuss the strength and impact of AUKUS in the present scenario. **
+## Question 226 (Year: 2021 | Paper: GS 2 | Marks: N/A) The newly tri-nation partnership AUKUS is aimed at countering China’s ambitions in the Indo-Pacific region. Is it going to supersede the existing partnerships in the region? Discuss the strength and impact of AUKUS in the present scenario. 
 
 ### Answer
 **Question ID: 2021-gs2-q226-superkalam**
@@ -10668,9 +10670,9 @@ AUKUS Venn Diagram and its Components
 
 ## Impact in Present Scenario
 
-###** Strategic Deterrence: **-** Countering China**: Responds to China's** dual aircraft carrier operations **beyond Second Island Chain and expansion in** South China Sea **-** Technology Competition**: Addresses China's advances in** hypersonic missiles **and** AI-powered military systems **-** Alliance Solidarity**: Demonstrates Western unity following** 2024 Taiwan Strait tensions **and recent Chinese military exercises
+### Strategic Deterrence: - Countering China: Responds to China's dual aircraft carrier operations beyond Second Island Chain and expansion in South China Sea - Technology Competition: Addresses China's advances in hypersonic missiles and AI-powered military systems - Alliance Solidarity: Demonstrates Western unity following 2024 Taiwan Strait tensions and recent Chinese military exercises
 
-###** Regional Response: **-** Mixed Reception**: Japan seeks closer cooperation while** ASEAN nations **express concerns about regional militarization
+### Regional Response: - Mixed Reception: Japan seeks closer cooperation while ASEAN nations express concerns about regional militarization
 -** Economic Implications**: Potential strain on China-Australia trade relations worth** $165 billion annually **(2023 data)
 
 AUKUS strengthens Indo-Pacific security architecture through technological superiority and strategic deterrence, working alongside existing partnerships to maintain regional stability, as evidenced by the** 2024 Indo-Pacific Strategy **updates.
@@ -10679,7 +10681,7 @@ AUKUS strengthens Indo-Pacific security architecture through technological super
 
 ---
 
-## Question 227 (Year: 2021 | Paper: GS 2 | Marks: N/A)** “The USA is facing an existential threat in the form of China, that is much more challenging than the erstwhile Soviet Union.” Explain. **
+## Question 227 (Year: 2021 | Paper: GS 2 | Marks: N/A) “The USA is facing an existential threat in the form of China, that is much more challenging than the erstwhile Soviet Union.” Explain. 
 
 ### Answer
 **Question ID: 2021-gs2-q227-superkalam**
@@ -10728,7 +10730,7 @@ China's comprehensive challenge across economic, technological, and strategic di
 
 ---
 
-## Question 228 (Year: 2020 | Paper: GS 2 | Marks: N/A)** Critically examine the role of WHO in providing global health security during the COVID-19 Pandemic. **
+## Question 228 (Year: 2020 | Paper: GS 2 | Marks: N/A) Critically examine the role of WHO in providing global health security during the COVID-19 Pandemic. 
 
 ### Answer
 **Question ID: 2020-gs2-q228-superkalam**
@@ -10739,12 +10741,12 @@ WHO faced unprecedented challenges during COVID-19, serving as the primary globa
 
 WHO hub and spoke diagram illustration
 
-##** WHO's Leadership and Coordination Role **-** Emergency Declaration**: Declared Public Health Emergency of International Concern on January 30, 2020, providing early global alert system
+## WHO's Leadership and Coordination Role - Emergency Declaration: Declared Public Health Emergency of International Concern on January 30, 2020, providing early global alert system
 -** Technical Guidance**: Issued over 200 technical guidance documents on treatment protocols, testing strategies, and prevention measures
 -** Global Surveillance**: Established comprehensive tracking systems for virus mutations and variants through** GISAID platform **-** Research Coordination**: Facilitated international collaboration through** R&D Blueprint **and** Solidarity Trial **for treatment evaluation
 -** Information Hub**: Served as central repository for pandemic data, countering misinformation through regular briefings
 
-##** Resource Mobilization and Distribution **-** COVAX Initiative**: Co-led global vaccine equity program, delivering** 1.9 billion doses **to 146 countries by 2023
+## Resource Mobilization and Distribution - COVAX Initiative: Co-led global vaccine equity program, delivering 1.9 billion doses to 146 countries by 2023
 -** Funding Mechanisms**: Mobilized** $2.4 billion **through COVID-19 Solidarity Response Fund for emergency response
 -** Supply Chain Support**: Coordinated distribution of** 500 million diagnostic tests **and** 240 million PPE items **globally
 -** Technical Assistance**: Deployed over** 2,000 experts **to support 150+ countries in pandemic response
@@ -10752,7 +10754,7 @@ WHO hub and spoke diagram illustration
 
 (SK Flowchart: WHO's pandemic response coordination showing emergency declaration → resource mobilization → global coordination → technical support)
 
-##** Criticisms and Limitations **-** Delayed Response**: Faced criticism for delayed pandemic declaration despite early warning signs from multiple countries
+## Criticisms and Limitations - Delayed Response: Faced criticism for delayed pandemic declaration despite early warning signs from multiple countries
 -** China Relations**: Scrutinized for initial reliance on Chinese data and delayed independent investigation approval
 -** Enforcement Powers**: Limited authority to compel member states' compliance with health recommendations
 -** Funding Constraints**: Chronic underfunding affected rapid response capabilities, with** 80% budget **dependent on voluntary contributions
@@ -10764,7 +10766,7 @@ WHO's pandemic response highlighted both the critical importance of global healt
 
 ---
 
-## Question 229 (Year: 2020 | Paper: GS 2 | Marks: N/A)** Quadrilateral Security Dialogue is transforming itself into a trade block from the military alliance, in present times. Discuss **
+## Question 229 (Year: 2020 | Paper: GS 2 | Marks: N/A) Quadrilateral Security Dialogue is transforming itself into a trade block from the military alliance, in present times. Discuss 
 
 ### Answer
 **Question ID: 2020-gs2-q229-superkalam**
@@ -10805,7 +10807,7 @@ The Indian diaspora exemplifies successful** brain circulation **rather than dra
 
 ---
 
-## Question 230 (Year: 2020 | Paper: GS 2 | Marks: N/A)** The Indian diaspora has a decisive role to play in the politics and economy of America and European Countries”. Comment with examples. **
+## Question 230 (Year: 2020 | Paper: GS 2 | Marks: N/A) The Indian diaspora has a decisive role to play in the politics and economy of America and European Countries”. Comment with examples. 
 
 ### Answer
 **Question ID: 2020-gs2-q230-superkalam**
@@ -10855,7 +10857,7 @@ The Quad's transformation into an economic partnership represents a** mature app
 
 ---
 
-## Question 231 (Year: 2020 | Paper: GS 2 | Marks: N/A)** What is the significance of Indo-US deals over Indo-Russian defense deals? Discuss with reference to stability in the Indo-Pacific region. **
+## Question 231 (Year: 2020 | Paper: GS 2 | Marks: N/A) What is the significance of Indo-US deals over Indo-Russian defense deals? Discuss with reference to stability in the Indo-Pacific region. 
 
 ### Answer
 **Question ID: 2020-gs2-q231-superkalam**
@@ -10900,7 +10902,7 @@ While India maintains strategic autonomy through diversified partnerships, Indo-
 
 ---
 
-## Question 232 (Year: 2019 | Paper: GS 2 | Marks: N/A)** The long-sustained image of India as a leader **
+## Question 232 (Year: 2019 | Paper: GS 2 | Marks: N/A) The long-sustained image of India as a leader 
 
 ### Answer
 **Question ID: 2019-gs2-q232-superkalam**
@@ -10913,13 +10915,13 @@ US Strategic Vision Venn Diagram
 
 ## Sources of Friction in India-US Relations
 
-###** Strategic Autonomy vs Alliance Expectations **- India's** multi-alignment policy **conflicts with US preference for binary alliance structures
+### Strategic Autonomy vs Alliance Expectations - India's multi-alignment policy conflicts with US preference for binary alliance structures
 - Continued defense partnership with Russia despite CAATSA sanctions pressure
 - India's** 36% arms imports **from Russia (2020-2024) creates Washington's discomfort
 - US struggles to accept India's independent foreign policy choices, including energy imports from Iran and Russia
 -** S-400 missile system **procurement despite US objections demonstrates India's autonomous decision-making
 
-###** Economic and Trade Disagreements **- US imposition of** 50% reciprocal tariffs **in 2025 reflects frustration with India's economic policies
+### Economic and Trade Disagreements - US imposition of 50% reciprocal tariffs in 2025 reflects frustration with India's economic policies
 - Trade deficit concerns and market access disputes persist despite growing bilateral commerce
 - India's** Atmanirbhar Bharat **initiative sometimes perceived as protectionist by US businesses
 - Intellectual property and technology transfer disagreements in sectors like pharmaceuticals
@@ -10927,11 +10929,11 @@ US Strategic Vision Venn Diagram
 
 ## Washington's Strategic Positioning Challenges
 
-###** Regional Leadership Recognition **- US difficulty in accepting India as the** natural leader of South Asia **- Competition over influence in Indo-Pacific despite Quad partnership
+### Regional Leadership Recognition - US difficulty in accepting India as the natural leader of South Asia - Competition over influence in Indo-Pacific despite Quad partnership
 - Limited US support for India's permanent** UN Security Council **membership aspirations
 - Reluctance to fully endorse India's regional security role, particularly regarding Pakistan and China
 
-###** Global Governance Expectations **- India's balanced approach to** Russia-Ukraine conflict **frustrates US expectations of aligned positions
+### Global Governance Expectations - India's balanced approach to Russia-Ukraine conflict frustrates US expectations of aligned positions
 - Different priorities in multilateral forums like G20 and BRICS
 - India's emphasis on** Global South leadership **sometimes conflicts with Western priorities
 - Divergent approaches to climate change responsibilities and development financing
@@ -10950,7 +10952,7 @@ The challenge lies in Washington's traditional alliance framework struggling to 
 
 ---
 
-## Question 233 (Year: 2019 | Paper: GS 2 | Marks: N/A)** The time has come for India and Japan to build a **
+## Question 233 (Year: 2019 | Paper: GS 2 | Marks: N/A) The time has come for India and Japan to build a 
 
 ### Answer
 **Question ID: 2019-gs2-q233-superkalam**
@@ -10999,7 +11001,7 @@ UNESCO's survival depends on member states' collective commitment to depoliticiz
 
 ---
 
-## Question 234 (Year: 2019 | Paper: GS 2 | Marks: N/A)** Too little cash, too much politics, leaves UNESCO **
+## Question 234 (Year: 2019 | Paper: GS 2 | Marks: N/A) Too little cash, too much politics, leaves UNESCO 
 
 ### Answer
 **Question ID: 2019-gs2-q234-superkalam**
@@ -11050,7 +11052,7 @@ India's evolving global image reflects natural progression from revolutionary id
 
 ---
 
-## Question 235 (Year: 2019 | Paper: GS 2 | Marks: N/A)** What introduces friction into the ties between **
+## Question 235 (Year: 2019 | Paper: GS 2 | Marks: N/A) What introduces friction into the ties between 
 
 ### Answer
 **Question ID: 2019-gs2-q235-superkalam**
@@ -11100,7 +11102,7 @@ The India-Japan partnership represents a** defining relationship of the 21st cen
 
 ---
 
-## Question 236 (Year: 2018 | Paper: GS 2 | Marks: N/A)** A number of outside powers have entrenched themselves in Central Asia, which is a zone of interest to India. Discuss the implications, in this context, of India’s joining the Ashgabat Agreement, 2018. **
+## Question 236 (Year: 2018 | Paper: GS 2 | Marks: N/A) A number of outside powers have entrenched themselves in Central Asia, which is a zone of interest to India. Discuss the implications, in this context, of India’s joining the Ashgabat Agreement, 2018. 
 
 ### Answer
 **Question ID: 2018-gs2-q236-superkalam**
@@ -11155,7 +11157,7 @@ India's participation transforms the Ashgabat Agreement into a vital component o
 
 ---
 
-## Question 237 (Year: 2018 | Paper: GS 2 | Marks: N/A)** In what ways would the ongoing US-Iran Nuclear Pact Controversy affect the national interest of India? How should India respond to its situation? **
+## Question 237 (Year: 2018 | Paper: GS 2 | Marks: N/A) In what ways would the ongoing US-Iran Nuclear Pact Controversy affect the national interest of India? How should India respond to its situation? 
 
 ### Answer
 **Question ID: 2018-gs2-q237-superkalam**
@@ -11216,7 +11218,7 @@ India should respond through calculated strategic patience, maintaining essentia
 
 ---
 
-## Question 238 (Year: 2018 | Paper: GS 2 | Marks: N/A)** “India’s relations with Israel have, of late, acquired a depth and diversity, which cannot be rolled back.” Discuss. **
+## Question 238 (Year: 2018 | Paper: GS 2 | Marks: N/A) “India’s relations with Israel have, of late, acquired a depth and diversity, which cannot be rolled back.” Discuss. 
 
 ### Answer
 **Question ID: 2018-gs2-q238-superkalam**
@@ -11269,7 +11271,7 @@ The India-Israel partnership has achieved** irreversible strategic depth **throu
 
 ---
 
-## Question 239 (Year: 2018 | Paper: GS 2 | Marks: N/A)** What are the key areas of reform if the WTO has to survive in the present context of ‘Trade War’, especially keeping in mind the interest of India? **
+## Question 239 (Year: 2018 | Paper: GS 2 | Marks: N/A) What are the key areas of reform if the WTO has to survive in the present context of ‘Trade War’, especially keeping in mind the interest of India? 
 
 ### Answer
 **Question ID: 2018-gs2-q239-superkalam**
@@ -11331,7 +11333,7 @@ The WTO's survival requires addressing institutional paralysis while preserving 
 
 ---
 
-## Question 240 (Year: 2017 | Paper: GS 2 | Marks: N/A)** China is using its economic relations and positive trade surplus as tools to develop potential military power status in Asia’, In light of this statement, discuss its impact on India as her neighbour. **
+## Question 240 (Year: 2017 | Paper: GS 2 | Marks: N/A) China is using its economic relations and positive trade surplus as tools to develop potential military power status in Asia’, In light of this statement, discuss its impact on India as her neighbour. 
 
 ### Answer
 **Question ID: 2017-gs2-q240-superkalam**
@@ -11374,7 +11376,7 @@ India must accelerate** Atmanirbhar Bharat **initiatives while strengthening mul
 
 ---
 
-## Question 241 (Year: 2017 | Paper: GS 2 | Marks: N/A)** Indian Diaspora has an important role to play in South-East Asian countries’ economy and society. Appraise the role of the Indian Diaspora in South-East Asia in this context. **
+## Question 241 (Year: 2017 | Paper: GS 2 | Marks: N/A) Indian Diaspora has an important role to play in South-East Asian countries’ economy and society. Appraise the role of the Indian Diaspora in South-East Asia in this context. 
 
 ### Answer
 **Question ID: 2017-gs2-q241-superkalam**
@@ -11411,7 +11413,7 @@ The Indian diaspora's multifaceted contributions strengthen South-East Asia's ec
 
 ---
 
-## Question 242 (Year: 2017 | Paper: GS 2 | Marks: N/A)** The question of India’s Energy Security constitutes the most important part of India’s economic progress. Analyze India’s energy policy cooperation with West Asian Countries. **
+## Question 242 (Year: 2017 | Paper: GS 2 | Marks: N/A) The question of India’s Energy Security constitutes the most important part of India’s economic progress. Analyze India’s energy policy cooperation with West Asian Countries. 
 
 ### Answer
 **Question ID: 2017-gs2-q242-superkalam**
@@ -11422,23 +11424,23 @@ India's energy security represents a cornerstone of economic development, with W
 
 Map showing West Asia and India
 
-##** Hydrocarbon Cooperation with West Asian Countries **###** Oil Import Partnerships: **-** Saudi Arabia**: Largest crude supplier providing 20% of India's total imports through long-term contracts
+## Hydrocarbon Cooperation with West Asian Countries ### Oil Import Partnerships: - Saudi Arabia: Largest crude supplier providing 20% of India's total imports through long-term contracts
 -** UAE**: Strategic petroleum reserves cooperation and joint refinery projects worth $44 billion
 -** Iraq**: Second-largest supplier with 23% share, enhanced through diplomatic engagements
 -** Iran**: Historical energy partner with Chabahar port facilitating energy transit
 -** Kuwait**: Elevated to strategic partnership in 2025, focusing on energy security
 
-###** LNG and Gas Cooperation: **-** Qatar**: 20-year LNG agreement for 7.5 million tonnes annually signed in 2024
+### LNG and Gas Cooperation: - Qatar: 20-year LNG agreement for 7.5 million tonnes annually signed in 2024
 -** Oman**: Joint ventures in LNG terminals and gas pipeline projects
 -** UAE**: ADNOC-IOC partnership for downstream operations and strategic reserves
 
-##** Renewable Energy Transition Cooperation **-** Saudi Arabia**: Joint solar and wind projects under Vision 2030 alignment
+## Renewable Energy Transition Cooperation - Saudi Arabia: Joint solar and wind projects under Vision 2030 alignment
 -** UAE**: ADNOC-BPCL collaboration on green hydrogen production and solar power
 -** Oman**: Green hydrogen corridor development for export to India
 -** Jordan**: Solar energy cooperation through Indian technical expertise
 -** Israel**: Advanced renewable technology transfer and joint R&D programs
 
-##** Strategic Policy Framework **-** India-GCC Strategic Partnership**: Comprehensive energy dialogue platform
+## Strategic Policy Framework - India-GCC Strategic Partnership: Comprehensive energy dialogue platform
 -** Energy Security Framework**: Diversification through multiple West Asian partners
 -** Investment Protection Agreements**: Securing long-term energy investments
 -** Technology Transfer Protocols**: Knowledge sharing in clean energy sectors
@@ -11450,7 +11452,7 @@ India's energy diplomacy with West Asia exemplifies strategic diversification, b
 
 ---
 
-## Question 243 (Year: 2017 | Paper: GS 2 | Marks: N/A)** What are the main functions of the United Nations? Economic and Social Council (ECOSOC)?Explain different functional commissions attached to it. **
+## Question 243 (Year: 2017 | Paper: GS 2 | Marks: N/A) What are the main functions of the United Nations? Economic and Social Council (ECOSOC)?Explain different functional commissions attached to it. 
 
 ### Answer
 **Question ID: 2017-gs2-q243-superkalam**
@@ -11498,7 +11500,7 @@ Through its** 54-member rotating council **and specialized commissions, ECOSOC c
 
 ---
 
-## Question 244 (Year: 2016 | Paper: GS 2 | Marks: N/A)** Evaluate the economic and strategic **
+## Question 244 (Year: 2016 | Paper: GS 2 | Marks: N/A) Evaluate the economic and strategic 
 
 ### Answer
 **Question ID: 2016-gs2-q244-superkalam**
@@ -11511,29 +11513,29 @@ Geopolitical Map of India and ASEAN
 
 ## Economic Dimensions of Look East Policy
 
-###** Trade and Investment Growth: **-** India-ASEAN trade **reached $131.5 billion in 2023-24, with ASEAN becoming India's fourth-largest trading partner
+### Trade and Investment Growth: - India-ASEAN trade reached $131.5 billion in 2023-24, with ASEAN becoming India's fourth-largest trading partner
 -** Singapore **emerged as largest FDI source with investments worth $17.2 billion in 2023-24
 -** India-Japan Comprehensive Economic Partnership Agreement **facilitated $18.8 billion bilateral trade in 2024
 
-###** Regional Economic Integration: **-** RCEP negotiations **(though India withdrew) demonstrated commitment to regional economic frameworks
+### Regional Economic Integration: - RCEP negotiations (though India withdrew) demonstrated commitment to regional economic frameworks
 -** Indo-Pacific Economic Framework **participation since 2022 for supply chain resilience
 -** BIMSTEC Free Trade Area **negotiations advancing economic cooperation with Myanmar, Thailand, Sri Lanka
 
-###** Infrastructure Connectivity: **-** India-Myanmar-Thailand Trilateral Highway **enhancing trade corridors
+### Infrastructure Connectivity: - India-Myanmar-Thailand Trilateral Highway enhancing trade corridors
 -** Kaladan Multi-Modal Transit Transport Project **connecting northeast India via Myanmar
 -** Chennai-Vladivostok Maritime Corridor **boosting Far East trade
 
 ## Strategic Dimensions of Look East Policy
 
-###** Security Partnerships: **-** QUAD framework **with US, Japan, Australia for Indo-Pacific security architecture
+### Security Partnerships: - QUAD framework with US, Japan, Australia for Indo-Pacific security architecture
 -** Malabar Naval Exercises 2024 **demonstrating maritime cooperation capabilities
 -** 2+2 Dialogues **with Japan strengthening defense technology cooperation
 
-###** Geopolitical Balancing: **-** String of Pearls counter-strategy **through partnerships with Vietnam, Philippines, Indonesia
+### Geopolitical Balancing: - String of Pearls counter-strategy through partnerships with Vietnam, Philippines, Indonesia
 -** Andaman and Nicobar Command **serving as strategic gateway to Southeast Asia
 -** Act East Policy's military dimension **includes joint exercises like Yudh Abhyas (US), Dharma Guardian (Japan)
 
-###** Multilateral Engagement: **-** East Asia Summit **participation since 2011 for regional security dialogue
+### Multilateral Engagement: - East Asia Summit participation since 2011 for regional security dialogue
 -** ASEAN Regional Forum **membership advancing conflict prevention mechanisms
 -** ADMM-Plus framework **for maritime domain awareness and humanitarian assistance
 
@@ -11543,7 +11545,7 @@ The policy successfully transformed India from a peripheral to central player in
 
 ---
 
-## Question 245 (Year: 2016 | Paper: GS 2 | Marks: N/A)** Increasing cross-border terrorist attacks in India and growing interference in the internal affairs of member-states by Pakistan are not conducive for the future of SAARC (South Asian Association for Regional Cooperation).” Explain with suitable examples **
+## Question 245 (Year: 2016 | Paper: GS 2 | Marks: N/A) Increasing cross-border terrorist attacks in India and growing interference in the internal affairs of member-states by Pakistan are not conducive for the future of SAARC (South Asian Association for Regional Cooperation).” Explain with suitable examples 
 
 ### Answer
 **Question ID: 2016-gs2-q245-superkalam**
@@ -11581,7 +11583,7 @@ Flowchart of Pakistan in 2016
 
 ---
 
-## Question 246 (Year: 2016 | Paper: GS 2 | Marks: N/A)** The broader aims and objectives of **
+## Question 246 (Year: 2016 | Paper: GS 2 | Marks: N/A) The broader aims and objectives of 
 
 ### Answer
 **Question ID: 2016-gs2-q246-superkalam**
@@ -11646,7 +11648,7 @@ The Doha Round's revival requires addressing the development dimension genuinely
 
 ---
 
-## Question 247 (Year: 2016 | Paper: GS 2 | Marks: N/A)** What are the aims and objectives of the **
+## Question 247 (Year: 2016 | Paper: GS 2 | Marks: N/A) What are the aims and objectives of the 
 
 ### Answer
 **Question ID: 2016-gs2-q247-superkalam**
@@ -11657,7 +11659,7 @@ The McBride Commission, established by UNESCO in 1977, emerged from concerns abo
 
 Status Quo Comparative Flow Diagram
 
-##** Key Aims and Objectives of McBride Commission **-** New World Information and Communication Order (NWICO) **- Establishing balanced information flow between North and South
+## Key Aims and Objectives of McBride Commission - New World Information and Communication Order (NWICO) - Establishing balanced information flow between North and South
  - Reducing Western monopoly over global news dissemination
  - Creating alternative communication channels for developing nations
  - Promoting cultural diversity in media content
@@ -11675,7 +11677,7 @@ Status Quo Comparative Flow Diagram
  - Supporting community-based communication systems
  - Linking communication with socio-economic development
 
-##** India's Position and Support **-** Strong Advocacy Through Non-Aligned Movement **- Led NAM countries in supporting NWICO principles
+## India's Position and Support - Strong Advocacy Through Non-Aligned Movement - Led NAM countries in supporting NWICO principles
  - Championed South-South cooperation in communication
  - Advocated for reduced dependence on Western news agencies
  - Supported establishment of Non-Aligned News Agencies Pool (NANAP)
@@ -11693,7 +11695,7 @@ India continues advocating for digital sovereignty and equitable information acc
 
 ---
 
-## Question 248 (Year: 2015 | Paper: GS 2 | Marks: N/A)** Discuss the impediments India is facing in its pursuit of a permanent seat in the UNSC. **
+## Question 248 (Year: 2015 | Paper: GS 2 | Marks: N/A) Discuss the impediments India is facing in its pursuit of a permanent seat in the UNSC. 
 
 ### Answer
 **Question ID: 2015-gs2-q248-superkalam**
@@ -11733,7 +11735,7 @@ India's path requires sustained diplomatic engagement, demonstrated global leade
 
 ---
 
-## Question 249 (Year: 2015 | Paper: GS 2 | Marks: N/A)** Project ‘Mausam’ is considered a unique foreign policy initiative of the Indian government to improve relationships with its neighbours. Does the project have a strategic dimension? Discuss. **
+## Question 249 (Year: 2015 | Paper: GS 2 | Marks: N/A) Project ‘Mausam’ is considered a unique foreign policy initiative of the Indian government to improve relationships with its neighbours. Does the project have a strategic dimension? Discuss. 
 
 ### Answer
 **Question ID: 2015-gs2-q249-superkalam**
@@ -11772,7 +11774,7 @@ Project Mausam demonstrates India's nuanced approach to** Indo-Pacific strategy*
 
 ---
 
-## Question 250 (Year: 2015 | Paper: GS 2 | Marks: N/A)** Terrorist activities and mutual distrust have clouded India–Pakistan relations. To what extent the use of soft power like sports and cultural exchange could help generate goodwill between the two countries? Discuss with suitable examples. **
+## Question 250 (Year: 2015 | Paper: GS 2 | Marks: N/A) Terrorist activities and mutual distrust have clouded India–Pakistan relations. To what extent the use of soft power like sports and cultural exchange could help generate goodwill between the two countries? Discuss with suitable examples. 
 
 ### Answer
 **Question ID: 2015-gs2-q250-superkalam**
@@ -11783,23 +11785,23 @@ Recent terrorist incidents and diplomatic tensions have strained India-Pakistan 
 
 Multi Track Diplomacy Pyramid Diagram
 
-##** Sports as Bridge-Building Tool **-** Cricket Diplomacy Impact**: The** 2024 T20 World Cup **matches between India and Pakistan drew over** 300 million viewers globally**, demonstrating sport's unifying power beyond political boundaries
+## Sports as Bridge-Building Tool - Cricket Diplomacy Impact: The 2024 T20 World Cup matches between India and Pakistan drew over 300 million viewers globally, demonstrating sport's unifying power beyond political boundaries
 -** Historical Precedents**:** 1987 Cricket World Cup **in India saw Pakistani team receiving warm reception, while** 2004 Pakistan cricket tour **helped ease post-Kargil tensions
 -** Economic Opportunities**: Joint sporting events generate significant revenue through broadcasting rights, tourism, and merchandise, creating stakeholder interest in peaceful relations
 -** Youth Engagement**: Sports personalities like** Babar Azam and Virat Kohli's mutual respect **influences millions of young fans on both sides
 -** Multilateral Platforms**: Events like** Asia Cup **and** SAARC Games **provide neutral venues for sporting diplomacy
 
-##** Cultural Exchange Potential **-** Shared Heritage**: Common language (Urdu/Hindi), literature, and Sufi traditions create natural cultural bridges between communities
+## Cultural Exchange Potential - Shared Heritage: Common language (Urdu/Hindi), literature, and Sufi traditions create natural cultural bridges between communities
 -** Bollywood Influence**: Pakistani artists like** Rahat Fateh Ali Khan **and** Atif Aslam **have massive Indian fan following, while Indian films remain popular in Pakistan
 -** Literary Connections**: Works of** Faiz Ahmed Faiz, Manto**, and contemporary writers resonate across borders, promoting mutual understanding
 -** Religious Tourism**: Shared spiritual sites like** Kartarpur Corridor **(opened 2019) demonstrate religion's role in building goodwill
 -** Academic Collaboration**: Student exchanges and joint research projects can foster long-term understanding between future leaders
 
-##** Challenges and Limitations **-** Security Concerns**:** Pulwama attack (2019) **led to India boycotting bilateral cricket series, showing how terrorism undermines soft power initiatives
+## Challenges and Limitations - Security Concerns: Pulwama attack (2019) led to India boycotting bilateral cricket series, showing how terrorism undermines soft power initiatives
 -** Political Interference**: Government policies often restrict cultural exchanges during periods of heightened tensions
 -** Limited Institutional Framework**: Absence of robust mechanisms to sustain cultural diplomacy during political crises
 
-##** Way Forward **-** Track-II Diplomacy**: Encouraging unofficial cultural and sporting exchanges through civil society organizations
+## Way Forward - Track-II Diplomacy: Encouraging unofficial cultural and sporting exchanges through civil society organizations
 -** Digital Connectivity**: Leveraging social media platforms for virtual cultural exchanges and collaborative projects
 
 While soft power cannot resolve core political issues, sustained cultural and sporting exchanges can create constituencies for peace on both sides, potentially influencing policy decisions toward cooperation.
@@ -11808,7 +11810,7 @@ While soft power cannot resolve core political issues, sustained cultural and sp
 
 ---
 
-## Question 251 (Year: 2015 | Paper: GS 2 | Marks: N/A)** The Increasing interest of India in Africa has its pros and cons. Critically Examine. **
+## Question 251 (Year: 2015 | Paper: GS 2 | Marks: N/A) The Increasing interest of India in Africa has its pros and cons. Critically Examine. 
 
 ### Answer
 **Question ID: 2015-gs2-q251-superkalam**
@@ -11866,7 +11868,7 @@ The** India-Africa Forum Summit mechanism **and initiatives like** concessional 
 
 ---
 
-## Question 252 (Year: 2014 | Paper: GS 2 | Marks: N/A)** India has recently signed to become a founding member of New Development Bank (NDB) and also the Asian Infrastructure Investment Bank (AIIB). How will the role of the two Banks be different? Discuss the strategic significance of these two Banks for India. **
+## Question 252 (Year: 2014 | Paper: GS 2 | Marks: N/A) India has recently signed to become a founding member of New Development Bank (NDB) and also the Asian Infrastructure Investment Bank (AIIB). How will the role of the two Banks be different? Discuss the strategic significance of these two Banks for India. 
 
 ### Answer
 **Question ID: 2014-gs2-q252-superkalam**
@@ -11920,7 +11922,7 @@ Both institutions complement India's infrastructure financing strategy while adv
 
 ---
 
-## Question 253 (Year: 2014 | Paper: GS 2 | Marks: N/A)** Some of the International funding agencies have special terms for economic participation stipulating a substantial component of the aid used for sourcing equipment from the leading countries. Discuss the merits of such terms and there exists a strong case not to accept such conditions in the Indian context. **
+## Question 253 (Year: 2014 | Paper: GS 2 | Marks: N/A) Some of the International funding agencies have special terms for economic participation stipulating a substantial component of the aid used for sourcing equipment from the leading countries. Discuss the merits of such terms and there exists a strong case not to accept such conditions in the Indian context. 
 
 ### Answer
 **Question ID: 2014-gs2-q253-superkalam**
@@ -11976,7 +11978,7 @@ India's robust manufacturing ecosystem and strategic autonomy objectives necessi
 
 ---
 
-## Question 254 (Year: 2014 | Paper: GS 2 | Marks: N/A)** The aim of Information Technology Agreements (ITAs) is to lower all taxes and tariffs on Information technology products by signatories to zero. What impact would such agreements have on India’s interests? **
+## Question 254 (Year: 2014 | Paper: GS 2 | Marks: N/A) The aim of Information Technology Agreements (ITAs) is to lower all taxes and tariffs on Information technology products by signatories to zero. What impact would such agreements have on India’s interests? 
 
 ### Answer
 **Question ID: 2014-gs2-q254-superkalam**
@@ -12015,7 +12017,7 @@ India must balance ITA participation with domestic industry protection through s
 
 ---
 
-## Question 255 (Year: 2014 | Paper: GS 2 | Marks: N/A)** With respect to the South China sea, maritime territorial disputes and rising tension affirm the need for safeguarding maritime security to ensure freedom of navigation and ever flight throughout the region. In this context, discuss the bilateral issues between India and China. **
+## Question 255 (Year: 2014 | Paper: GS 2 | Marks: N/A) With respect to the South China sea, maritime territorial disputes and rising tension affirm the need for safeguarding maritime security to ensure freedom of navigation and ever flight throughout the region. In this context, discuss the bilateral issues between India and China. 
 
 ### Answer
 **Question ID: 2014-gs2-q255-superkalam**
@@ -12073,7 +12075,7 @@ The India-China bilateral maritime relationship reflects broader geopolitical co
 
 ---
 
-## Question 256 (Year: 2014 | Paper: GS 2 | Marks: N/A)** WTO is an important international institution where decisions taken affect countries in a profound manner. What is the mandate of WTO and how binding are their decisions? Critically analyse India’s stand on the latest round of talks on Food security. **
+## Question 256 (Year: 2014 | Paper: GS 2 | Marks: N/A) WTO is an important international institution where decisions taken affect countries in a profound manner. What is the mandate of WTO and how binding are their decisions? Critically analyse India’s stand on the latest round of talks on Food security. 
 
 ### Answer
 **Question ID: 2014-gs2-q256-superkalam**
@@ -12124,7 +12126,7 @@ India's food security stance reflects broader tensions between** global trade li
 
 ---
 
-## Question 257 (Year: 2013 | Paper: GS 2 | Marks: N/A)** Discuss the political developments in Maldives in the last two years. Should they be of any cause of concern to India? **
+## Question 257 (Year: 2013 | Paper: GS 2 | Marks: N/A) Discuss the political developments in Maldives in the last two years. Should they be of any cause of concern to India? 
 
 ### Answer
 **Question ID: 2013-gs2-q257-superkalam**
@@ -12170,7 +12172,7 @@ The Maldives has experienced significant political shifts since 2022, with new l
 
 ---
 
-## Question 258 (Year: 2013 | Paper: GS 2 | Marks: N/A)** Economic ties between India and Japan while growing in recent years are still far below their potential. Elucidate the policy constraints that are inhibiting this growth **
+## Question 258 (Year: 2013 | Paper: GS 2 | Marks: N/A) Economic ties between India and Japan while growing in recent years are still far below their potential. Elucidate the policy constraints that are inhibiting this growth 
 
 ### Answer
 **Question ID: 2013-gs2-q258-superkalam**
@@ -12230,7 +12232,7 @@ Enhanced cooperation through initiatives like the** India-Japan Industrial Compe
 
 ---
 
-## Question 259 (Year: 2013 | Paper: GS 2 | Marks: N/A)** In respect of India — Sri Lanka relations, discuss how domestic factors influence foreign policy. **
+## Question 259 (Year: 2013 | Paper: GS 2 | Marks: N/A) In respect of India — Sri Lanka relations, discuss how domestic factors influence foreign policy. 
 
 ### Answer
 **Question ID: 2013-gs2-q259-superkalam**
@@ -12270,7 +12272,7 @@ Domestic factors will continue shaping India-Sri Lanka relations, requiring care
 
 ---
 
-## Question 260 (Year: 2013 | Paper: GS 2 | Marks: N/A)** The proposed withdrawal of the International Security Assistance Force (ISAF) from Afghanistan in 2014 is fraught with major security implications for the countries of the region. Examine because India is faced with a plethora of challenges and needs to safeguard its strategic interests. **
+## Question 260 (Year: 2013 | Paper: GS 2 | Marks: N/A) The proposed withdrawal of the International Security Assistance Force (ISAF) from Afghanistan in 2014 is fraught with major security implications for the countries of the region. Examine because India is faced with a plethora of challenges and needs to safeguard its strategic interests. 
 
 ### Answer
 **Question ID: 2013-gs2-q260-superkalam**
@@ -12327,7 +12329,7 @@ India's approach must balance immediate security concerns with long-term strateg
 
 ---
 
-## Question 261 (Year: 2013 | Paper: GS 2 | Marks: N/A)** The protests in Shahbag Square in Dhaka in Bangladesh reveal a fundamental split in society between the nationalists and Islamic forces. What is its significance for India? **
+## Question 261 (Year: 2013 | Paper: GS 2 | Marks: N/A) The protests in Shahbag Square in Dhaka in Bangladesh reveal a fundamental split in society between the nationalists and Islamic forces. What is its significance for India? 
 
 ### Answer
 **Question ID: 2013-gs2-q261-superkalam**
@@ -12374,7 +12376,7 @@ The ideological contest in Bangladesh directly affects India's** Act East Policy
 
 ---
 
-## Question 262 (Year: 2013 | Paper: GS 2 | Marks: N/A)** The World Bank and the IMF, collectively known as the Bretton Woods Institutions, are the two inter-governmental pillars supporting the structure of the world’s economic and financial order. Superficially, the World Bank and the IMF exhibit many common characteristics, yet their role, functions, and mandate are distinctly different. Elucidate. **
+## Question 262 (Year: 2013 | Paper: GS 2 | Marks: N/A) The World Bank and the IMF, collectively known as the Bretton Woods Institutions, are the two inter-governmental pillars supporting the structure of the world’s economic and financial order. Superficially, the World Bank and the IMF exhibit many common characteristics, yet their role, functions, and mandate are distinctly different. Elucidate. 
 
 ### Answer
 **Question ID: 2013-gs2-q262-superkalam**
@@ -12426,7 +12428,7 @@ The evolving global landscape, including** climate change **and** digital transf
 
 ---
 
-## Question 263 (Year: 2013 | Paper: GS 2 | Marks: N/A)** What do you understand by ‘The String of Pearls’? How does it impact India? Briefly outline the steps taken by India to counter this. **
+## Question 263 (Year: 2013 | Paper: GS 2 | Marks: N/A) What do you understand by ‘The String of Pearls’? How does it impact India? Briefly outline the steps taken by India to counter this. 
 
 ### Answer
 **Question ID: 2013-gs2-q263-superkalam**
@@ -12478,7 +12480,7 @@ India's comprehensive strategy through naval modernization, regional partnership
 
 ---
 
-## Question 264 (Year: 2013 | Paper: GS 2 | Marks: N/A)** What is meant by the Gujral doctrine? Does it have any relevance today? Discuss. **
+## Question 264 (Year: 2013 | Paper: GS 2 | Marks: N/A) What is meant by the Gujral doctrine? Does it have any relevance today? Discuss. 
 
 ### Answer
 **Question ID: 2013-gs2-q264-superkalam**

@@ -4855,9 +4855,7 @@ Environmental Impact Assessment ( **EIA** ) is a vital process in India that ass
 
 **Role of NGOs and Activists in influencing EIA outcome:**
 - **Advocacy and Awareness:** NGOs play a crucial role in raising public awareness about the environmental consequences and mobilizing community support. **For example:** The **Narmada Bachao Andolan** (NBA) in India mobilized local communities against the **Sardar Sarovar Dam,**
-- **Monitoring Compliance:** NGOs actively monitor projects and report violations to ensure compliance with environmental regulations throughout and post the EIA process.
-
-For example **: The Centre for Science and Environment (** CSE **) scrutinized the** Mathurapur Water Supply Project **in** West Bengal, highlighting deficiencies in its EIA regarding water resources and biodiversity.
+- **Monitoring Compliance:** NGOs actively monitor projects and report violations to ensure compliance with environmental regulations throughout and post the EIA process. For example **: The Centre for Science and Environment (** CSE **) scrutinized the** Mathurapur Water Supply Project **in** West Bengal, highlighting deficiencies in its EIA regarding water resources and biodiversity.
 - **Legal Intervention:** Activists frequently use legal channels to challenge inadequate or non-compliant EIAs. **For example**: In the **Khandadhar Iron Ore Mine** in **Odisha**, local activists and NGOs successfully petitioned the Supreme Court to halt the project due to flaws in its EIA documentation.
 - **Research and Evidence:** NGOs conduct independent research that provides essential data to challenge government or corporate assessments.
 - **Public Participation:** NGOs facilitate community engagement in the EIA process, ensuring that diverse perspectives are included. **For example**: In the **Kochi-Mangaluru Natural Gas Pipeline project**, local NGOs like the **Kerala Sasthra Sahitya Parishad** facilitated community engagement through public meetings, ensuring diverse perspectives were heard.
@@ -5616,12 +5614,8 @@ Climate change is a global problem that affects every country, including India. 
 
 ### Body
 
-- **Impacts of Climate Change on India:** Climate change has already started to affect India in various ways, including changes in rainfall patterns, temperature, and extreme weather events. The agricultural sector is particularly vulnerable, with erratic rainfall patterns affecting crop yields and food security. Climate change also affects public health, water availability, and biodiversity.
-
-**Like increased droughts in Maharashtra and flooding in Assam.**
-- **Effects on Himalayan States:** Himalayan states are particularly vulnerable to climate change impacts due to their sensitive ecosystems and unique topography. The melting of glaciers and snow cover has led to increased risks of floods, landslides, and water scarcity. The region is also prone to disasters such as cloudbursts and flash floods.
-
-**Like Himalayan states like Uttarakhand and Himachal Pradesh are witnessing the melting of glaciers, leading to increased risks of floods and landslides.**
+- **Impacts of Climate Change on India:** Climate change has already started to affect India in various ways, including changes in rainfall patterns, temperature, and extreme weather events. The agricultural sector is particularly vulnerable, with erratic rainfall patterns affecting crop yields and food security. Climate change also affects public health, water availability, and biodiversity. Like increased droughts in Maharashtra and flooding in Assam.
+- **Effects on Himalayan States:** Himalayan states are particularly vulnerable to climate change impacts due to their sensitive ecosystems and unique topography. The melting of glaciers and snow cover has led to increased risks of floods, landslides, and water scarcity. The region is also prone to disasters such as cloudbursts and flash floods. Like Himalayan states like Uttarakhand and Himachal Pradesh are witnessing the melting of glaciers, leading to increased risks of floods and landslides.
 - **Effects on Coastal States:** Coastal states are also vulnerable to climate change impacts, with sea-level rise posing a significant threat to coastal communities and infrastructure. The increased frequency and intensity of cyclones, storm surges, and saltwater intrusion are also causing severe damage to the coastal regions. E.g **Coastal states such as Gujarat and Odisha are experiencing the impact of sea-level rise, posing a threat to communities and infrastructure.**
 
 **Climate change is a global phenomenon that affects the entire planet:**
@@ -6144,9 +6138,7 @@ Intellectual Property Rights (IPRs) are vital for driving **innovation** and sec
 - **Ethical and Public Opinions:** Public sentiment, particularly in regions like **Europe**, plays a significant role in shaping patent policies and often leads to **stricter regulations.**
 
 **For example:** European **resistance** to **GMOs** has led to strict patent laws, limiting biotech companies from commercialising modified crops.
-- **Role of International Bodies:** Organisations such as **WIPO** help standardise and guide the complex global IPR landscape, facilitating international patent protection.
-
-For example: **WIPO’s** Patent Cooperation Treaty (PCT) **simplifies international patent filing, providing global protection for biotechnological innovations requiring multi-country coverage.**
+- **Role of International Bodies:** Organisations such as **WIPO** help standardise and guide the complex global IPR landscape, facilitating international patent protection. For example: **WIPO’s** Patent Cooperation Treaty (PCT) **simplifies international patent filing, providing global protection for biotechnological innovations requiring multi-country coverage.**
 
 **Reasons for Low Commercialization of Patents in India:**
 - **Inadequate R&D Infrastructure:** India’s evolving research infrastructure, especially in biotechnology, often **lacks** the **advanced facilities needed for developing market-ready products.**
@@ -6323,9 +6315,7 @@ AI holds transformative potential for healthcare, but, as with any potent tool, 
 - **Soft Landing:** Unlike the Chandrayaan-1, which was only an orbiter, and Chandrayaan-2, which failed in its soft-landing attempt due to a last-minute glitch, the **third mission achieved a seamless soft landing**.
 - **Lunar Research:** Its soft landing would **allow for extensive lunar research,** which could only be partially executed in previous missions. Eg: Chandrayaan-1 discovered water molecules on the Moon but couldn’t analyse samples, a limitation the third mission aims to overcome.
 - **Material Extraction:** A successful soft landing opens up the **possibility of collecting lunar soil samples.** Chandrayaan-2 had an onboard rover named ‘Pragyan’ intended for this purpose, but it couldn’t be utilized due to the failed landing attempt.
-- **Advanced Technology:** The third moon mission is expected to employ advanced technology, including improved landing gear and more powerful engines, drawing from global successes
-
-**like NASA’s Apollo and China’s Chang’e missions.**
+- **Advanced Technology:** The third moon mission is expected to employ advanced technology, including improved landing gear and more powerful engines, drawing from global successes like NASA’s Apollo and China’s Chang’e missions.
 - **Human Exploration Preparation:** With successful soft landing, it can serve as a precursor to potential human exploration. Earlier missions were not equipped for this, but by demonstrating a successful soft landing, India paved the way for **projects like sending astronauts to the Moon.**
 
 **Countries that have Achieved this Task:**
@@ -6346,9 +6336,7 @@ AI holds transformative potential for healthcare, but, as with any potent tool, 
 9. Inclinometer & Touchdown sensors
 - **Pragyan Rover:** This rover is engineered to explore the Moon’s surface post-landing, conducting **various experiments and sending data back to Earth**. Its design builds on the lessons learned from the previous missions, enhancing its ability to navigate and collect samples.
 - **Lander Actuators:** Reaction wheels – 4 nos (10 Nms & 0.1 Nm)
-- **Lander Propulsion System:** 
-
-i-Propellant Propulsion System (MMH + MON3), 4 nos. of 800 N Throttleable engines & 8 nos. of 58 N Throttleable Engine Control Electronics
+- **Lander Propulsion System:** i-Propellant Propulsion System (MMH + MON3), 4 nos. of 800 N Throttleable engines & 8 nos. of 58 N Throttleable Engine Control Electronics
 
 - **Deep Space Network:** A robust communication subsystem is required to maintain contact between the spacecraft and the ground control. **NASA’s Deep Space Network has helped ISRO** in this regard, offering real-time tracking and command functionalities.
 - **Solar X-ray Monitor (SXM):** Instruments like these are intended to collect scientific data. They serve to enhance our **understanding of the Moon’s composition,** thereby helping to address key scientific questions relating to Earth’s satellite.
@@ -7228,9 +7216,7 @@ While open-sourcing the TKDL offers several benefits like promoting traditional 
 
 **Propelling Research Initiatives:**
 - **Collaborative Research:** The collaboration between IIT Madras and the Indian start-up Genrobotics:** led to the development of Bandicoot, a robot designed to clean sewers.
-- **Government Funding:** The Department of Science & Technology (DST), Government of India, has initiated several programs to stimulate research in robotics,
-
-**such as the National Initiative for Developing and Harnessing Innovations (NIDHI) program.**
+- **Government Funding:** The Department of Science & Technology (DST), Government of India, has initiated several programs to stimulate research in robotics, such as the National Initiative for Developing and Harnessing Innovations (NIDHI) program.
 - **Skill Development:** Institutes like IITs and NITs are offering specialized courses in robotics and automation,:** contributing to the development of a skilled workforce in this field.
 - **Competitions and Challenges:** Indian Robotics competitions, such as the e-Yantra Robotics Competition by IIT Bombay,:** are stimulating innovation in robotics among students.
 
@@ -7975,9 +7961,7 @@ India shares extensive and strategically significant borders with **China (3,488
 - **Cross-border Terrorism:** Pakistan’s support for terrorist groups operating in India remains a major concern. **For example**: The **2008 Mumbai attacks**, executed by the **Lashkar-e-Taiba**, resulted in extensive loss of life and international condemnation.
 - **Ceasefire Violations:** Frequent **ceasefire violations** along the Line of Control **(LoC)** exacerbate tensions and threaten civilian safety.
 - **Narcotics Trafficking:** The border regions are **hotspots** for drug trafficking, further complicating security dynamics.
-- **Infiltration:** Militant infiltration remains a critical challenge for cross border national secuirty.
-
-For example **: The** Pathankot attack (2016) involved militants crossing from Pakistan, resulting in a prolonged engagement with security forces.
+- **Infiltration:** Militant infiltration remains a critical challenge for cross border national secuirty. For example **: The** Pathankot attack (2016) involved militants crossing from Pakistan, resulting in a prolonged engagement with security forces.
 - **Socio-economic Impact on Border Communities:** Communities near the borders face significant socio-economic challenges due to ongoing conflict, hindering their development opportunities.
 
 **Conflicting Issues and Security Challenges Along the India-China Border:**
@@ -8342,9 +8326,7 @@ The nexus between terrorism and organized crime presents serious security threat
 **Multilayered Strategy (SAMADHAN):**
 
 **SAMADHAN, a comprehensive strategy encompassing Security, development, and dialogue, aims to counter Naxalism.**
-- **Enhanced Security Measures:** Strengthening intelligence and inter-state coordination can contain the insurgency.
-
-**For example, ‘Operation Prahaar’ by Chhattisgarh Police showed effective implementation of these measures.**
+- **Enhanced Security Measures:** Strengthening intelligence and inter-state coordination can contain the insurgency. For example, ‘Operation Prahaar’ by Chhattisgarh Police showed effective implementation of these measures.
 - **Socio-Economic Development:** Addressing regional disparities can alleviate Naxalism.
 
 **The Pradhan Mantri Gram Sadak Yojana has been instrumental in this regard.**
@@ -8525,9 +8507,7 @@ Tackling the menace of terrorism requires a multi-pronged strategy that targets 
 ### Body
 
 **Multidimensional Challenges:**
-- **Cross-Border Terrorism:** States like Pakistan have been implicated in sponsoring terrorism in India,
-
-**for instance, the 2008 Mumbai attacks.**
+- **Cross-Border Terrorism:** States like Pakistan have been implicated in sponsoring terrorism in India, for instance, the 2008 Mumbai attacks.
 - **Proxy Wars:** Certain external state actors instigate low-intensity conflicts, like
 
 **the situation in Jammu and Kashmir.**
@@ -8552,9 +8532,7 @@ Tackling the menace of terrorism requires a multi-pronged strategy that targets 
 - **International Cooperation:** India collaborates with various international
 
 **forums like the United Nations and ASEAN to share best practices and gain support against common threats.**
-- **Cyber Security:** India is actively investing in strengthening its cyber defense capabilities.
-
-**For instance, the National Cyber Security Policy aims to build a secure and resilient cyberspace.**
+- **Cyber Security:** India is actively investing in strengthening its cyber defense capabilities. For instance, the National Cyber Security Policy aims to build a secure and resilient cyberspace.
 - **Socio-Economic Development:** Schemes like ‘Aspirational Districts Programme’:** aim to reduce social and economic disparities in affected areas, diminishing the appeal of radical ideologies.
 - **Strict Law Enforcement:** Strict enforcement of laws, l **ike the Unlawful Activities (Prevention) Act,** can deter activities like drug trafficking and terrorist financing.
 
@@ -8587,12 +8565,8 @@ The threats posed by external state and non-state actors to India’s internal s
 ### Body
 
 **Contribution of Emerging Technologies and Globalization to Money Laundering:**
-- **Cryptocurrency:** Anonymity of transactions in cryptocurrencies like Bitcoin is often exploited for money laundering,
-
-**for example in the 2020 Twitter Bitcoin scam.**
-- **Digital Payment Systems:** Globalized digital payment systems can be misused for transferring illicit funds across borders,
-
-**for example, in the Wirecard scandal.**
+- **Cryptocurrency:** Anonymity of transactions in cryptocurrencies like Bitcoin is often exploited for money laundering, for example in the 2020 Twitter Bitcoin scam.
+- **Digital Payment Systems:** Globalized digital payment systems can be misused for transferring illicit funds across borders, for example, in the Wirecard scandal.
 - **Offshore Banking:** Globalization has facilitated easier access to offshore banking, often used to hide illicit funds, **for example, the revelations from the Panama Papers.** <p align="center"><img src="images/pw_internal_security_q582_img1.webp" alt="Globalization to Money Laundering" /></p>
 
 **Measures to Tackle Money Laundering:**
@@ -8632,9 +8606,7 @@ In today’s digital age, cyber attacks pose a significant threat to national se
 
 **Impact on Internal Security:**
 - **Data Breaches:** Cyber attacks can lead to major data breaches, jeopardizing sensitive data. **For instance, the BigBasket data breach in 2020** exposed user data on the dark web.
-- **Infrastructure Disruption:** Critical infrastructures can be targeted, causing widespread disruption.
-
-**For example, the attempted cyber attack on India’s Power Grid Corporation in 2021.**
+- **Infrastructure Disruption:** Critical infrastructures can be targeted, causing widespread disruption. For example, the attempted cyber attack on India’s Power Grid Corporation in 2021.
 - **Economic Impact:** The economy can be significantly affected, particularly the banking and financial sectors,
 
 **as witnessed in the 2016 cyber attack on the Union Bank of India.**
@@ -8645,9 +8617,7 @@ In today’s digital age, cyber attacks pose a significant threat to national se
 
 **India’s National Cyber Security Strategy 2020 aims at achieving this.**
 - **Capacity Building:** Training and developing skilled cybersecurity personnel can ensure a quick and effective response to threats. **For example, the establishment of the National Critical Information Infrastructure Protection Centre (NCIIPC)**.
-- **International Cooperation:** Collaboration with international entities can provide advanced solutions.
-
-**For example, India’s collaboration with countries like France in cybersecurity.**
+- **International Cooperation:** Collaboration with international entities can provide advanced solutions. For example, India’s collaboration with countries like France in cybersecurity.
 - **Regulatory Measures:** Implementing stricter cybersecurity laws can discourage potential attackers. India has taken several steps in this regard:
 - **Information Technology Act, 2000:** India’s main law for dealing with cybercrime, updated in 2008 to strengthen cybersecurity measures.
 - **Personal Data Protection Bill, 2019:** A proposed bill establishing a comprehensive data protection framework with strict penalties for violations.
@@ -8982,12 +8952,8 @@ The progress achieved in curbing LWE underscores the efficacy of India’s multi
 
 **Potential Threats of Cyber-attack:**
 - **National Security:** Cyber-attacks can disrupt critical infrastructure, such as power grids, communication networks, and defense systems, undermining national security. **For example, the 2019 cyber breach at the Kudankulam Nuclear Power Plant** underscores threats to national security.
-- **Economic Damage:** Attacks on financial institutions or e-commerce platforms can lead to massive economic losses and shake investor confidence.
-
-**For example, Cyfirma reported in 2020 that Indian companies lost over $4 billion due to cyber threats.**
-- **Data Theft:** Cyber-attacks can result in breaches of personal and sensitive data, infringing upon individual privacy and potentially leading to identity theft or fraud.
-
-**For example, the 2021 data breach at Air India, affecting 4.5 million customers worldwide, illustrates the risks of data theft.**
+- **Economic Damage:** Attacks on financial institutions or e-commerce platforms can lead to massive economic losses and shake investor confidence. For example, Cyfirma reported in 2020 that Indian companies lost over $4 billion due to cyber threats.
+- **Data Theft:** Cyber-attacks can result in breaches of personal and sensitive data, infringing upon individual privacy and potentially leading to identity theft or fraud. For example, the 2021 data breach at Air India, affecting 4.5 million customers worldwide, illustrates the risks of data theft.
 - **Disruption of Public Services:** Attacks on government systems can disrupt public services, causing inconvenience and potential chaos. F **or example, the 2020 cyberattack on the Ministry of Health** disrupted crucial public services amidst the COVID-19 pandemic.
 
 <p align="center"><img src="images/pw_internal_security_q322_img1.webp" alt="cyberspace" /></p>
@@ -9146,13 +9112,9 @@ Tackling terrorism is a complex task that requires both proactive and reactive s
 
 **particularly with Nepal, Bangladesh, and Myanmar, facilitate illegal activities like smuggling, human trafficking, and infiltration.**
 - **Infrastructure Deficiencies:** Lack of adequate infrastructure like roads, fencing, and surveillance equipment hinders effective border patrolling and monitoring. **Strategies for Effective Border Management:** <p align="center"><img src="images/pw_internal_security_q248_img1.webp" alt="Strategies for Effective Border Management" /></p>
-- **Technology Integration:** Advanced surveillance technologies like drones, ground sensors, high-resolution cameras, thermal imagers, aerostats, and satellite imagery can boost border security.
-
-**For instance, India is deploying a comprehensive integrated border management system (CIBMS) along its borders.**
+- **Technology Integration:** Advanced surveillance technologies like drones, ground sensors, high-resolution cameras, thermal imagers, aerostats, and satellite imagery can boost border security. For instance, India is deploying a comprehensive integrated border management system (CIBMS) along its borders.
 - **Infrastructure Development:** Enhancing border infrastructure like roads, fencing, and border outposts can improve patrolling and deter illicit activities.
-- **Improved Diplomacy:** Resolving border disputes through diplomatic dialogues and agreements can ease border management.
-
-**For instance, the Land Boundary Agreement with Bangladesh in 2015 resolved long-standing border issues.**
+- **Improved Diplomacy:** Resolving border disputes through diplomatic dialogues and agreements can ease border management. For instance, the Land Boundary Agreement with Bangladesh in 2015 resolved long-standing border issues.
 - **Coordinated Efforts:** The implementation of a **coordinated border management (CBM) approach in India involvesmultiple agencies like the Border Security Force (BSF),** intelligence agencies, and local administrations for effective border management.
 
 
@@ -9857,9 +9819,7 @@ Managing India’s porous borders is crucial to addressing its internal security
 
 **Steps Required to Control Money Laundering**
 - **Strengthening Regulatory Framework:** Implement strong Anti-Money Laundering (AML) laws, **like the Prevention of Money Laundering Act (PMLA),** and ensure their effective enforcement.
-- **Enhancing Surveillance and Intelligence:** Improve surveillance systems, and bolster the capabilities of organizations
-
-**like the Enforcement Directorate (ED) and Financial Intelligence Unit (FIU-IND).**
+- **Enhancing Surveillance and Intelligence:** Improve surveillance systems, and bolster the capabilities of organizations like the Enforcement Directorate (ED) and Financial Intelligence Unit (FIU-IND).
 - **International Cooperation:** Enhance cooperation with international bodies **like Financial Action Task Force (FATF)** and share intelligence with other nations to prevent cross-border money laundering.
 - **Promoting Financial Transparency:** Encourage the use of formal banking channels, **implement Know Your Customer (KYC) norms effectively, and promote digital transactions to increase transparency and traceability.** <p align="center"><img src="images/pw_internal_security_q45_img1.webp" alt="FATF's" /></p>
 

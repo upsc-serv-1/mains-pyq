@@ -1032,9 +1032,7 @@ Mission Karmayogi aims to instil **efficiency, integrity,** and **accountability
 **Swami Vivekananda’s** quote, “Learn everything that is good from others, but bring it in, and in your own way absorb it, do not become others,” advocates for embracing valuable knowledge while maintaining one’s individuality. This idea is central to **ethical living**, ensuring that while we learn from **diverse cultures and practices**, we adapt those lessons to align with our personal beliefs and identity.
 
 **Significance of Adapting and Applying Lessons to Suit Your Own Personality and Beliefs:**
-- **Retaining Individuality:** Adapting lessons allows individuals to grow while maintaining their **personal values**, avoiding the risk of losing one’s identity.
-
-For example **: India’s** Make in India **initiative encourages adopting** global manufacturing techniques **while promoting** local industries.
+- **Retaining Individuality:** Adapting lessons allows individuals to grow while maintaining their **personal values**, avoiding the risk of losing one’s identity. For example **: India’s** Make in India **initiative encourages adopting** global manufacturing techniques **while promoting** local industries.
 - **Fostering Creativity and Innovation:** When lessons are adapted rather than copied, they inspire creative solutions tailored to **one’s unique context.** **For example**: The **Digital India** programme integrates global technology models but is customised to fit India’s needs, such as **Aadhaar-linked services.**
 - **Cultural Relevance:** Adapting ideas ensures they resonate within a specific cultural framework, enhancing their acceptance and effectiveness. **For example**: India’s **National Education Policy (2020)** incorporates global best practices while emphasising **Indian languages and values.**
 - **Building Confidence:** Personalising lessons reinforces **self-reliance**, as individuals learn to trust their judgement rather than blindly imitating others. **For example**: **Start-up India draws on global entrepreneurship trends but encourages Indian entrepreneurs to innovate in local needs.**
@@ -4236,9 +4234,7 @@ In all these cases, the individuals refused to compromise their principles or va
 - The Good Friday Agreement, which brought an end to the conflict in Northern Ireland, was a significant step towards establishing peace and stability in the region.
 - **The Joint Comprehensive Plan of Action (JCPOA),:** also known as the Iran nuclear deal, aimed to prevent Iran from acquiring nuclear weapons and reduce tensions between Iran and other nations. **Security:** It refers to the protection of a nation’s people, territory, and interests from external and internal threats. Security can be achieved through military, intelligence, and law enforcement means. **For example,**
 - **The North Atlantic Treaty Organization (NATO):** was formed to provide collective security to its member nations against external threats.
-- **The United Nations:** Peacekeeping Forces work to maintain peace and security in conflict zones, such as in South Sudan and the Democratic Republic of the Congo.
-
-These three pillars are interrelated and essential for stable and constructive international relations. Nations that are strong can contribute to maintaining peace and security, while peaceful and secure nations can use their resources to promote strength and stability globally.
+- **The United Nations:** Peacekeeping Forces work to maintain peace and security in conflict zones, such as in South Sudan and the Democratic Republic of the Congo. These three pillars are interrelated and essential for stable and constructive international relations. Nations that are strong can contribute to maintaining peace and security, while peaceful and secure nations can use their resources to promote strength and stability globally.
 
 
 

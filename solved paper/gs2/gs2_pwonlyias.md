@@ -809,9 +809,7 @@ The Public Examination (Prevention of Unfair Means) Act, 2024, is a landmark ste
 **Answer** The **Centre-State relations** in India have undergone significant changes, in recent years, especially with the rise of debates around **cooperative federalism** and **fiscal devolution**. The **15th Finance Commission’s** recommendations on state allocations and the growing tension over issues like **GST compensation and farm laws** have brought attention to the need for reforms in this dynamic relationship.
 
 **Recent Changes Introduced by the Union Government (Centre-State Relations)**
-- **15th Finance Commission’s Recommendations:** The Centre implemented Commission’s recommendation of reducing the **states’ share in taxes** from 42% to 41%
-
-For instance: The reduction in states share acknowledges the fiscal challenges while balancing the needs of Jammu & Kashmir as a Union Territory.
+- **15th Finance Commission’s Recommendations:** The Centre implemented Commission’s recommendation of reducing the **states’ share in taxes** from 42% to 41% For instance: The reduction in states share acknowledges the fiscal challenges while balancing the needs of Jammu & Kashmir as a Union Territory.
 -
 
 
@@ -4715,18 +4713,14 @@ The **vision of decentralized urban governance, as outlined in the 74th Constitu
 
 **Advantages of the DBT Scheme:**
 - **Transparency and efficiency:** By transferring benefits directly into beneficiaries’ bank accounts, the DBT scheme bypasses intermediaries, reducing leakages and corruption. For example, Direct benefit transfer to bank accounts of beneficiaries ensures transparency and reduces leakages.
-- **Empowerment:** The DBT scheme empowers beneficiaries by giving them more control over their entitlements.
-
-**For example, PM Ujjwala Scheme has encouraged women’s empowerment by promoting access to clean cooking fuel, reducing their exposure to harmful fumes, and freeing up their time spent on gathering fuel.**
+- **Empowerment:** The DBT scheme empowers beneficiaries by giving them more control over their entitlements. For example, PM Ujjwala Scheme has encouraged women’s empowerment by promoting access to clean cooking fuel, reducing their exposure to harmful fumes, and freeing up their time spent on gathering fuel.
 - **Financial inclusion:** The DBT scheme encourages beneficiaries to open bank accounts and engage with the formal financial system, promoting financial inclusion and increasing access to credit and other financial services.
 - **Monitoring and evaluation:** The DBT scheme enables the government to track the disbursement of benefits, facilitating better monitoring and evaluation of welfare programs.
 
 **Farmers, being the backbone of the Indian economy, receive a variety of subsidies from the government.**
 - **One such initiative is the PM-KISAN scheme,:** which provides income support to all landholding farmer families across the country to enable them to take care of expenses related to agriculture and allied activities as well as domestic needs.
 - **Under the scheme, farmers receive Rs 6,000 per year in three equal installments directly into their bank accounts.:** This direct transfer of benefits has helped farmers invest in necessary agricultural inputs, such as seeds, fertilizers, and equipment, in a timely manner. ***Limitations of the DBT Scheme:
-- **Digital divide:** In many rural areas, internet penetration is still low, and digital literacy is limited. This may exclude some beneficiaries from accessing their entitlements, particularly the elderly, persons with disabilities, and those with limited access to digital resources.
-
-**For example, there is Limited coverage of the National Health Insurance Scheme in some areas due to lack of awareness, identification of beneficiaries, and connectivity issues.**
+- **Digital divide:** In many rural areas, internet penetration is still low, and digital literacy is limited. This may exclude some beneficiaries from accessing their entitlements, particularly the elderly, persons with disabilities, and those with limited access to digital resources. For example, there is Limited coverage of the National Health Insurance Scheme in some areas due to lack of awareness, identification of beneficiaries, and connectivity issues.
 - **Banking infrastructure:** Inadequate banking infrastructure may hinder the timely disbursement of benefits and create difficulties for beneficiaries in accessing their funds.
 - **Identification and targeting:** Errors in identification or exclusion of deserving beneficiaries can undermine the scheme’s effectiveness and lead to grievances.
 - **Administrative capacity:** Limited administrative capacity can lead to delays in processing, disbursement, and redressal of grievances.
@@ -4922,15 +4916,11 @@ It is crucial for policymakers, the private sector, and civil society to collabo
 - **Expert Advice:** They provide technical expertise and industry insights to policymakers for informed decision making.
 
 **NASSCOM’s recommendations on IT policies and the ease of doing business have often been taken into account by the government.**
-- **Funding Research:** Business associations fund research to generate data supporting their policy recommendations.
-
-**For example, ASSOCHAM frequently publishes reports on various economic issues influencing policy debates.**
+- **Funding Research:** Business associations fund research to generate data supporting their policy recommendations. For example, ASSOCHAM frequently publishes reports on various economic issues influencing policy debates.
 - **Organizing Events:** They hold conferences and seminars to discuss policy issues, providing a platform for dialogue between policymakers and industry.
 
 **The annual “India Economic Summit” organized by the World Economic Forum in collaboration with CII is an example.**
-- **Public Campaigns:** Business associations run campaigns to build public support for their policy positions.
-
-**For instance, FICCI’s campaigns promoting “Make in India” have shaped public opinion and policy orientation towards domestic manufacturing.**
+- **Public Campaigns:** Business associations run campaigns to build public support for their policy positions. For instance, FICCI’s campaigns promoting “Make in India” have shaped public opinion and policy orientation towards domestic manufacturing.
 - **Representation in Policy Forums:** Business associations often have representation in various governmental policy forums. **For instance, representatives from CII and FICCI are regularly part of various government committees and task forces formed for policy-making.**
 
 
@@ -6031,12 +6021,8 @@ The reorganization and bifurcation of administrative areas have been ongoing pro
 - **Fostering Regional Development:** Smaller states can potentially foster balanced regional development by addressing regional disparities within large states. **For instance, the creation of Chhattisgarh from Madhya Pradesh has led to better focus on the development of the mineral-rich but backward region.**
 
 **Arguments Against Smaller States:**
-- **Administrative and Financial Burdens:** The creation of smaller states can lead to administrative and financial burdens due to the need for establishing new administrative machinery, and the sharing of resources and assets.
-
-**This was seen during the bifurcation of Andhra Pradesh, leading to disputes over the sharing of resources and the capital city.**
-- **Possibility of Increased Regionalism:** Smaller states can potentially lead to increased regionalism, threatening national integration.
-
-**For instance, demands for separate states such as Gorkhaland in West Bengal and Bodoland in Assam, if conceded, could trigger similar demands from other regions, leading to instability.**
+- **Administrative and Financial Burdens:** The creation of smaller states can lead to administrative and financial burdens due to the need for establishing new administrative machinery, and the sharing of resources and assets. This was seen during the bifurcation of Andhra Pradesh, leading to disputes over the sharing of resources and the capital city.
+- **Possibility of Increased Regionalism:** Smaller states can potentially lead to increased regionalism, threatening national integration. For instance, demands for separate states such as Gorkhaland in West Bengal and Bodoland in Assam, if conceded, could trigger similar demands from other regions, leading to instability.
 - **Lack of Sustainable Development:** Smaller states may not necessarily ensure sustainable development. **For instance, despite the creation of Jharkhand, the state has been lagging in terms of development indicators due to issues like governance deficits and left-wing extremism.**
 
 
@@ -6065,12 +6051,8 @@ Bifurcation of administrative areas can enhance local governance, but creating s
 ### Body
 
 **Structure of Pressure Groups in India**
-- **Interest-Based:** Many pressure groups are formed based on shared interests, such as business groups
-
-**like FICCI, ASSOCHAM, and NASSCOM, or labor unions like the All India Trade Union Congress (AITUC) and Bharatiya Mazdoor Sangh (BMS).**
-- **Issue-Based:** Some pressure groups are formed around specific issues, such as environmental groups
-
-**like the Chipko Movement, or human rights groups like Amnesty International India.**
+- **Interest-Based:** Many pressure groups are formed based on shared interests, such as business groups like FICCI, ASSOCHAM, and NASSCOM, or labor unions like the All India Trade Union Congress (AITUC) and Bharatiya Mazdoor Sangh (BMS).
+- **Issue-Based:** Some pressure groups are formed around specific issues, such as environmental groups like the Chipko Movement, or human rights groups like Amnesty International India.
 - **Identity-Based:** Several pressure groups in India are formed based on identity lines, such as caste groups **like the Dravida Munnetra Kazhagam (DMK) or religious groups like the All India Muslim Personal Law Board.**
 
 ***Functioning of Pressure Groups in India:**:
@@ -6228,15 +6210,9 @@ Introduced in India in 1997, Citizen’s Charters aimed to enhance governance by
 ### Body
 * **This could be attributed to several reasons**
 - **Absence of Penal Provisions:** The charters do not have any legal binding, and hence there are no penalties or punishments for non-compliance. This has led to a lack of seriousness among the public servants towards adhering to the charters.
-- **Poor Implementation:** Even where the charters are well-designed, the implementation often falls short.
-
-**For example, the Citizen’s Charter of the Municipal Corporation of Delhi promises a certain level of cleanliness, but the city continues to grapple with sanitation issues.**
-- **Lack of Regular Review and Update:** Many charters are outdated and have not been revised to reflect the changes in service delivery or the expectations of the citizens.
-
-**For instance, the Citizen’s Charter of the Postal Department has not been updated since its inception.**
-- **Ineffective Grievance Redressal Mechanism:** While most of the charters have a provision for grievance redressal, the mechanism is often ineffective.
-
-**For example, the Citizen’s Charter of the Indian Railways promises to address complaints within a certain timeframe, but in reality, many complaints remain unresolved for extended periods.**
+- **Poor Implementation:** Even where the charters are well-designed, the implementation often falls short. For example, the Citizen’s Charter of the Municipal Corporation of Delhi promises a certain level of cleanliness, but the city continues to grapple with sanitation issues.
+- **Lack of Regular Review and Update:** Many charters are outdated and have not been revised to reflect the changes in service delivery or the expectations of the citizens. For instance, the Citizen’s Charter of the Postal Department has not been updated since its inception.
+- **Ineffective Grievance Redressal Mechanism:** While most of the charters have a provision for grievance redressal, the mechanism is often ineffective. For example, the Citizen’s Charter of the Indian Railways promises to address complaints within a certain timeframe, but in reality, many complaints remain unresolved for extended periods.
 - **Lack of Awareness:** A significant proportion of the population is unaware of the existence of such charters, thus limiting their effectiveness.
 
 **A study conducted by the Centre for Good Governance in 2015 showed that only 40% of citizens were aware of such charters.**
@@ -8304,9 +8280,7 @@ The **North Atlantic Treaty Organization (NATO), 1949** by the **North Atlantic 
 **Concerns for India:**
 - **Russia Relations:** India’s procurement of the S-400 missile defencesystem:** from Russia has already drawn concerns from NATO allies, potentially affecting India’s relations with NATO countries while straining its historical ties with Russia.
 - **Economic Pressures:** There could be pressures to comply with **economic sanctions imposed by NATO allies on other countries**, which might affect India’s economic relations and trade agreements with those nations, as seen in the Iran oil trade disruptions.
-- **Technology Transfer Restrictions:** India’s attempts to acquire modern technology can be hampered due to restrictions imposed by NATO countries, affecting collaborative projects
-
-**such as the Fifth Generation Fighter Aircraft (FGFA) with Russia.**
+- **Technology Transfer Restrictions:** India’s attempts to acquire modern technology can be hampered due to restrictions imposed by NATO countries, affecting collaborative projects such as the Fifth Generation Fighter Aircraft (FGFA) with Russia.
 - **Resource Allocation:** Aligning with NATO defence initiatives might compel India to increase its defence spending substantially, which **could divert funds from critical domestic programs such as health and education**.
 - **Sovereignty Concerns:** Navigating partnerships with stronger NATO alliances may sometimes **come at the cost of compromising on strategic decisions independen** tly, thus posing a challenge to India’s policy of maintaining sovereign decision-making in international relations.
 

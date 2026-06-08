@@ -101,6 +101,7 @@ function bindSelectors() {
 // Metadata & Matching Helpers
 // ==========================================================================
 function getFolderName(coaching) {
+  if (!coaching) return "pwonlyias";
   const key = coaching.toLowerCase();
   return key; // e.g. "drishti ias", "superkalam" match folder name directly
 }
@@ -354,8 +355,8 @@ async function loadQuestions(scrollToQNum = null) {
       
       // Initialize preview rendering and height synchronization after rendering
       setTimeout(() => {
-        updatePreview(q.q_num);
         autoResize(q.q_num);
+        updatePreview(q.q_num);
       }, 50);
     });
     
@@ -418,11 +419,12 @@ window.updatePreview = function(qNum) {
       html = window.marked.parse(text);
     } else if (typeof window.marked === "function") {
       html = window.marked(text);
-    } else {
-      html = basicMarkdownParser(text);
     }
   } catch (e) {
-    console.error("Markdown parsing error, using fallback:", e);
+    console.error("Marked library failed, falling back to basic parser:", e);
+  }
+  
+  if (!html) {
     html = basicMarkdownParser(text);
   }
   

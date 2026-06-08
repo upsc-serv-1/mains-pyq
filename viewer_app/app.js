@@ -1059,7 +1059,7 @@ async function renderAnswer(q, instName) {
   
   const sourceHtml = ansData.source ? `
     <div class="answer-meta">
-      <strong>Source Question Match:</strong> ${ansData.source}
+      <strong>Source Question Match:</strong> ${ansData.source.replace(/\*\*Question ID:\s*[a-zA-Z0-9_-]+\*\*/gi, "").replace(/\[?Question ID:\s*[a-zA-Z0-9_-]+\]?/gi, "").trim()}
     </div>
   ` : "";
   

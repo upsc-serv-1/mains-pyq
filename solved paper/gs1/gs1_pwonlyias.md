@@ -1931,12 +1931,8 @@ As for the preservation of their cultural identity, the Indian indentured labore
 
 **However, the extent to which they were successful varied depending on the region and local circumstances.**
 - **Language:** Many indentured laborers continued to speak their native languages and passed them down to subsequent generations.
-- **Religion:** Indentured laborers brought their religious practices with them to the colonies. They built temples and mosques, maintained their religious festivals and rituals, and passed on their faith to their descendants. Hinduism, Islam, and Sikhism are still practiced by descendants of indentured laborers in countries like
-
-**Fiji, Trinidad and Tobago, Mauritius, and Guyana.**
-- **Cuisine:** The fusion of Indian and local food has led to unique dishes in countries
-
-**like Trinidad and Tobago, where roti and curry are now considered national dishes.**
+- **Religion:** Indentured laborers brought their religious practices with them to the colonies. They built temples and mosques, maintained their religious festivals and rituals, and passed on their faith to their descendants. Hinduism, Islam, and Sikhism are still practiced by descendants of indentured laborers in countries like **Fiji, Trinidad and Tobago, Mauritius, and Guyana.**
+- **Cuisine:** The fusion of Indian and local food has led to unique dishes in countries **like Trinidad and Tobago, where roti and curry are now considered national dishes.**
 - **Arts and culture:** Indian indentured laborers also brought their music, dance, and other art forms to the colonies. Over time, these artistic expressions have evolved and merged with local cultural elements, giving rise to new forms of art.
 
 
@@ -5562,11 +5558,13 @@ These are some of the provisions for the protection and development of scheduled
 
 ---
 
-## Question 51 (Year: 2015 | Paper: GS 1 | Marks: 10 Marks | Words: 150 Words)
+## Question 302 (Year: 2015 | Paper: GS 1 | Marks: 10 Marks | Words: 150 Words)
 
 **Critically examine whether growing population is the cause of poverty OR poverty is the main cause of population increase in India.**
 
-### Answer **Answer:**
+### Answer
+
+**Answer:**
 
 | **Approach:** <br> **Introduction** <br>• Define poverty. **Body** <br>• Mention the relation between population and poverty and analyze both aspects i.e., whether poverty causes population growth or population growth causes poverty. **Conclusion** <br>• Mention that both reinforce each other. |
 | --- |
@@ -5583,17 +5581,13 @@ It has been realized that demographic trends are indeed important in determining
 
 Whether growing population is the cause of poverty or poverty is the main cause of population increase in India is debatable. It can be analyzed as follows:
 
-a)
-
-**High population growth rate leads to poverty**
+a). **High population growth rate leads to poverty**
 This view was popular in the 1970s.
 
 - **Pressure on State’s resources:** High population growth leads to more pressure on the economic resources of the State. This leads to less power with the State to alleviate people from poverty.
 - **Pressure on family resources:** Greater number of children makes it difficult for the parents to provide for their nutrition, health and education. Lack of these facilities deprives the children of capabilities and keeps them engaged in the cycle of poverty.
 
-b)
-
-**Poverty leads to increase in population**
+b). **Poverty leads to increase in population**
 - **From the point of view of the poor,:** one more child means two more hands to work and earn for the family.** This makes poverty a strong cause for a growing population.
 - **Lack of money and proper awareness about contraceptive methods:** makes it difficult for the poor to practice family planning.
 - **High mortality risk:** Poor lifestyle and high mortality among children leads to uncertainty among parents. They thus go for more children to ensure that at least a few survive.
@@ -5603,8 +5597,6 @@ b)
 ### Conclusion
 
 So, the answer to such a question depends on whether it is to be seen from the government’s point of view or the individual’s point of view. Population growth or decline alone is not a determining factor of poverty. It is the ability of the state to make its population skilled enough to be productive that makes a difference. Building the capabilities would make the growth in population seem as an asset rather than a liability on the State.
-
-[Question ID: 2016-gs1-q134-pwonlyias]
 
 ---
 
@@ -7175,9 +7167,17 @@ India is the world’s fourth largest country in terms of total wind installatio
 
 
 ### Body
- **Reasons for the limited spatial spread of wind energy:** 1. **Land availability:** Wind turbines require large tracts of land. Acquiring land becomes challenging and time-consuming due to issues related to land ownership, local regulations, and environmental concerns.
-2. **Transmission infrastructure:** Wind energy projects require adequate transmission infrastructure to transport the electricity from the project site to the grid. The existing transmission infrastructure in India is often inadequate, leading to grid congestion and curtailment of wind power generation. **E.g The nation is on a clear and achievable path towards its renewable energy target of 275 gigawatts (GW) by 2026/27.** 3. **Financing:** The high capital costs associated with wind energy projects often make it challenging for developers to secure financing. Lack of a supportive regulatory framework, including feed-in-tariffs and other incentives, can discourage private investment in wind energy. **E.g India aims to achieve 60 GW of wind power by 2022, necessitating a doubling of the current deployment rate.** 4. **Political and regulatory challenges:** The development of wind energy projects in India is often hindered by political and regulatory challenges, including bureaucratic delays, corruption, and a lack of clear policy directives.
-5. **Environmental issues :** Killing of birds by turbines or fans of wind projects. **E.g The Great Indian Bustard, an endangered bird, has been affected by wind turbines in the Kutch region.**
+
+**Reasons for the limited spatial spread of wind energy:**
+- **Land availability:** Wind turbines require large tracts of land. Acquiring land becomes challenging and time-consuming due to issues related to land ownership, local regulations, and environmental concerns.
+- **Transmission infrastructure:** Wind energy projects require adequate transmission infrastructure to transport the electricity from the project site to the grid. The existing transmission infrastructure in India is often inadequate, leading to grid congestion and curtailment of wind power generation.
+  - *Example:* The nation is on a clear and achievable path towards its renewable energy target of 275 gigawatts (GW) by 2026/27.
+- **Financing:** The high capital costs associated with wind energy projects often make it challenging for developers to secure financing. Lack of a supportive regulatory framework, including feed-in-tariffs and other incentives, can discourage private investment in wind energy.
+  - *Example:* India aims to achieve 60 GW of wind power by 2022, necessitating a doubling of the current deployment rate.
+- **Political and regulatory challenges:** The development of wind energy projects in India is often hindered by political and regulatory challenges, including bureaucratic delays, corruption, and a lack of clear policy directives.
+- **Environmental issues:** Killing of birds by turbines or fans of wind projects.
+  - *Example:* The Great Indian Bustard, an endangered bird, has been affected by wind turbines in the Kutch region.
+
 
 
 ### Conclusion
@@ -7456,12 +7456,19 @@ The uneven distribution of mineral oil in the world has significant multi-dimens
 
 Volcanic eruptions are a natural phenomenon that can have significant impacts on the environment and society. In 2021, several volcanic eruptions occurred around the world, which had varying impacts on the regional environment.
 
-<p align="center"><img src="images/pw_geography_q610_img1.webp" alt="natural phenomenon" /></p> **Body:** | Mount Sinabung Volcano | Indonesia |
+<p align="center"><img src="images/pw_geography_q610_img1.webp" alt="natural phenomenon" /></p>
+
+**Body:**
+
+| Volcano | Location |
 | --- | --- |
+| Mount Sinabung Volcano | Indonesia |
 | Klyuchevskoy volcano | Russia far eastern Kamchatka peninsula |
 | Fournaise volcano | Reunion |
 | Mount Etna | Italy |
-| Erebus | Antarctica | **Significant impacts of Volcanic eruptions**:
+| Erebus | Antarctica |
+
+**Significant impacts of Volcanic eruptions:**
 
 - **Air Quality:** Volcanic eruptions release fine particles into the air, such as ash and aerosols, which can lead to reduced visibility, crop damage, and other environmental impacts.
 - **Climate:** The gasses and particles released by eruptions can block sunlight, causing cooling of the Earth’s surface. This can lead to changes in weather patterns, including changes in rainfall and temperature. Volcanic eruptions contribute to **global climate change** by releasing large amounts of greenhouse gasses into the atmosphere.
@@ -8031,8 +8038,11 @@ Water masses refer to distinct bodies of water characterized by their temperatur
 - **Beach nourishment:** Conversely, ocean currents can also bring in sediment from offshore areas, providing natural beach nourishment.
 - **Pollution transport:** Ocean currents can transport pollutants, such as oil spills or plastic debris, to coastal areas, potentially harming marine life and human health.
 - **Water quality:** Changes in ocean currents can also affect water quality in coastal areas, altering salinity levels and nutrient concentrations.
-- **Tourism and recreation:** Ocean currents can influence the quality of surfing and other recreational activities, making them more or less favorable depending on conditions. **Impact of water mass on the climate and marine life :
-- **1. The movement of water masses has profound effects on the marine environment. Downwelling, the sinking of surface waters to deeper depths, can provide a source of food for deep-sea organisms. It can lead to oxygen depletion in deep waters, creating:** “dead zones”** where marine life struggles to survive. The downwelling of water can contribute to oceanic carbon storage, playing a role in the global carbon cycle and climate change.
+- **Tourism and recreation:** Ocean currents can influence the quality of surfing and other recreational activities, making them more or less favorable depending on conditions.
+
+ **Impact of water mass on the climate and marine life :**
+
+1. The movement of water masses has profound effects on the marine environment. Downwelling, the sinking of surface waters to deeper depths, can provide a source of food for deep-sea organisms. It can lead to oxygen depletion in deep waters, creating: "**dead zones**" where marine life struggles to survive. The downwelling of water can contribute to oceanic carbon storage, playing a role in the global carbon cycle and climate change.
 2. The upwelling of water, the rising of deep waters to the surface, has its own set of impacts. Upwelling stimulates the growth of phytoplankton, microscopic marine plants, which form the basis of the marine food chain. This increased availability of phytoplankton can support a range of marine life, from small zooplankton to large fish and marine mammals. Upwelling can influence the distribution and migration patterns of various marine species, creating areas of high biodiversity and productivity.
 
 
@@ -8451,18 +8461,23 @@ The Juno Mission has provided significant insights into Jupiter’s composition,
 
 ---
 
-## Question 58 (Year: 2017 | Paper: GS 1 | Marks: 10 Marks | Words: 150 Words)
+## Question 300 (Year: 2017 | Paper: GS 1 | Marks: 10 Marks | Words: 150 Words)
+**Question ID: 2017-gs1-q300-pwonlyias**
 
 **“In Spite of adverse environmental impact, coal mining is still inevitable for development”. Discuss.**
 
-### Answer **Answer:**
+### Answer
 
-| **Approach:** <br> **Introduction** <br>• Write about the importance of Coal Mine and its impact. **Body** <br>• Discuss the advantages and disadvantages of coal Mining. **Conclusion** <br>• Conclude your answer with a futuristic approach. |
+| **Core Demand of the Question** <br>• Inevitability of coal mining for development <br>• Adverse environmental impacts of coal mining |
 | --- |
 
 ### Introduction
 
-**Coal mining has been a crucial part of global energy production for centuries, but it is not without its drawbacks. Despite its environmental impacts, many argue that it is still necessary for development. In this essay, we will explore both sides of this argument.** Body: **<p align="center"><img src="images/pw_geography_q343_img1.webp" alt="India Coal Reserve" /></p>**
+Coal mining has been a crucial part of global energy production for centuries, but it is not without its drawbacks. Despite its environmental impacts, many argue that it is still necessary for development. In this essay, we will explore both sides of this argument.
+
+### Body
+
+<p align="center"><img src="images/pw_geography_q343_img1.webp" alt="India Coal Reserve" /></p>
 
 **Inevitability of Coal Mining:**
 - **Energy Security and needs:** Coal is the most abundant and widely used fossil fuel. It provides a reliable and affordable source of energy that is essential for economic growth and development.
@@ -8477,13 +8492,11 @@ The Juno Mission has provided significant insights into Jupiter’s composition,
 - **Resource Depletion:** Coal is a non-renewable resource that is finite. As such, its continued use for energy generation will lead to its eventual depletion.
 - **Climate Change:** Coal is a major contributor to greenhouse gas emissions, which are responsible for climate change. The continued use of coal for energy generation is unsustainable and will lead to further environmental degradation.
 
-
-
 ### Conclusion
 
 Coal mining is still inevitable for development, but its negative impacts cannot be ignored. To ensure sustainable development, it is necessary to adopt cleaner coal technologies and invest in renewable energy sources such as solar and wind power. Governments and businesses should also focus on reducing the environmental and health impacts of coal mining and address the social and economic concerns of affected communities. Only by balancing the benefits and costs of coal mining can we achieve sustainable development in the long run.
 
-[Question ID: 2017-gs1-q201-pwonlyias]
+[Question ID: 2017-gs1-q300-pwonlyias]
 
 ---
 
@@ -8499,7 +8512,13 @@ Coal mining is still inevitable for development, but its negative impacts cannot
 
 ### Introduction
 
-**Floods have been a recurring natural disaster in India, causing loss of life and property damage. However, floods also bring with them an opportunity to harness water resources for irrigation and inland navigation.** Body: **<p align="center"><img src="images/pw_geography_q345_img1.webp" alt="Flood prone area" /></p>** Converted into a sustainable source of irrigation and all-weather inland navigation in India: **
+**Floods have been a recurring natural disaster in India, causing loss of life and property damage. However, floods also bring with them an opportunity to harness water resources for irrigation and inland navigation.**
+
+### Body
+
+<p align="center"><img src="images/pw_geography_q345_img1.webp" alt="Flood prone area" /></p>
+
+**Converted into a sustainable source of irrigation and all-weather inland navigation in India:**
 
 **Irrigation:**
 - **Inter-basin transfer:** involves moving water from areas with surplus water to those facing a shortage. India has implemented this method with projects such as the Beas-Sutlej link, Ken-Betwa link, and Telugu Ganga Project, which have also helped in developing inland navigation.
@@ -9332,44 +9351,37 @@ The Himalayas and Western Ghats are two prominent mountain ranges in India. Alth
 
 ---
 
-## Question 82 (Year: 2013 | Paper: GS 1 | Marks: 5 Marks | Words: 100 Words)
+## Question 301 (Year: 2013 | Paper: GS 1 | Marks: 5 Marks | Words: 100 Words)
+**Question ID: 2013-gs1-q301-pwonlyias**
 
 **Bring out the causes for the formation of heat islands in the urban habitat of the world.**
 
-### Answer **Answer:**
+### Answer
 
-| **Approach:** <br> **Introduction:** <br>• Define Urban Heat Island effect. **Body:** <br>• Enlist and describe the causes of Urban Heat Island effect **Conclusion:** <br>• Summary of the answer. |
+| **Core Demand of the Question** <br>• Causes of the formation of Urban Heat Islands (UHI) |
 | --- |
 
 ### Introduction
 
-**The Urban Heat Island [UHI] effect refers to the observable occurrence of markedly higher temperatures in urban regions relative to adjacent rural areas, primarily as a result of human activities. Typically, the mean temperature in urban heat islands can be 8 to 10 degrees Celsius higher than in the surrounding rural zones.**
+The Urban Heat Island [UHI] effect refers to the observable occurrence of markedly higher temperatures in urban regions relative to adjacent rural areas, primarily as a result of human activities. Typically, the mean temperature in urban heat islands can be 8 to 10 degrees Celsius higher than in the surrounding rural zones.
 
 ### Body
 
-**Causes of Urban Heat Island effect:** <p align="center"><img src="images/pw_geography_q11_img1.webp" alt="heat island effect" /></p>
+**Causes of Urban Heat Island effect:**
 
-- **Heat-absorbing surfaces:** Urban areas have a higher percentage of heat-absorbing surfaces, such as concrete and asphalt, which absorb and retain heat during the day and release it at night, leading to a warmer environment. E.g
+<p align="center"><img src="images/pw_geography_q11_img1.webp" alt="heat island effect" /></p>
 
-**In downtown areas Phoenix, Arizona, and Las Vegas, Nevada, the prevalence of concrete and asphalt results in temperatures that can be up to 10 degrees Fahrenheit (5.6 degrees Celsius) warmer than surrounding rural areas.**
-- **Reduced vegetation:** Urban areas have fewer trees and vegetation compared to rural areas, which results in less shade and reduced cooling effects through evapotranspiration. E.g
-
-**The lack of trees and green spaces in urban areas like New York City’s concrete jungle can result in temperatures up to 7 degrees Fahrenheit (3.9 degrees Celsius) warmer than surrounding suburban or rural areas.**
-- **Human activities:** The use of air conditioning, industrial activities, and transportation in urban areas, generates heat and contributes to the overall increase in temperature. E.g
-
-**Los Angeles, California, the use of air conditioning, industrial activities, and transportation contributes to the urban heat island effect, with downtown areas reaching temperatures 5-10 degrees Fahrenheit (2.8-5.6 degrees Celsius) warmer than surrounding areas.**
-- **Urban geometry:** The compact, dense, and high-rise buildings in urban areas create an urban canyon effect that traps heat, reduces air circulation, and increases temperature. E.g
-
-**Tokyo, Japan, the compact and high-rise buildings can create an urban canyon effect that traps heat and reduces air circulation, leading to temperatures up to 14 degrees Fahrenheit (7.8 degrees Celsius) warmer than surrounding rural areas.**
-- **Climate change:** Urban Heat Island effect is expected to worsen with climate change due to the rising global temperatures, which can further exacerbate the heat island effect. E.g **Phoenix, Arizona, projected to see increases in the number of days with temperatures over 110 degrees Fahrenheit (43 degrees Celsius) due to rising global temperatures.**
-
-
+- **Heat-absorbing surfaces:** Urban areas have a higher percentage of heat-absorbing surfaces, such as concrete and asphalt, which absorb and retain heat during the day and release it at night, leading to a warmer environment. E.g., in downtown areas of Phoenix, Arizona, and Las Vegas, Nevada, the prevalence of concrete and asphalt results in temperatures that can be up to 10 degrees Fahrenheit (5.6 degrees Celsius) warmer than surrounding rural areas.
+- **Reduced vegetation:** Urban areas have fewer trees and vegetation compared to rural areas, which results in less shade and reduced cooling effects through evapotranspiration. E.g., the lack of trees and green spaces in urban areas like New York City's concrete jungle can result in temperatures up to 7 degrees Fahrenheit (3.9 degrees Celsius) warmer than surrounding suburban or rural areas.
+- **Human activities:** The use of air conditioning, industrial activities, and transportation in urban areas generates heat and contributes to the overall increase in temperature. E.g., in Los Angeles, California, the use of air conditioning, industrial activities, and transportation contributes to the urban heat island effect, with downtown areas reaching temperatures 5-10 degrees Fahrenheit (2.8-5.6 degrees Celsius) warmer than surrounding areas.
+- **Urban geometry:** The compact, dense, and high-rise buildings in urban areas create an urban canyon effect that traps heat, reduces air circulation, and increases temperature. E.g., in Tokyo, Japan, the compact and high-rise buildings can create an urban canyon effect that traps heat and reduces air circulation, leading to temperatures up to 14 degrees Fahrenheit (7.8 degrees Celsius) warmer than surrounding rural areas.
+- **Climate change:** Urban Heat Island effect is expected to worsen with climate change due to the rising global temperatures, which can further exacerbate the heat island effect. E.g., Phoenix, Arizona is projected to see increases in the number of days with temperatures over 110 degrees Fahrenheit (43 degrees Celsius) due to rising global temperatures.
 
 ### Conclusion
 
 UHI can cause various environmental and health issues and its causes include anthropogenic heat, changes in land use, and lack of vegetation. Mitigating UHI can be achieved through strategies such as green infrastructure and urban planning.
 
-[Question ID: 2013-gs1-q224-pwonlyias]
+[Question ID: 2013-gs1-q301-pwonlyias]
 
 ---
 
