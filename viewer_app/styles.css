@@ -948,8 +948,21 @@ button, input, select {
   padding-left: 20px;
 }
 
+.markdown-body ul ul,
+.markdown-body ul ol,
+.markdown-body ol ul,
+.markdown-body ol ol {
+  margin-top: 4px;
+  margin-bottom: 4px;
+}
+
 .markdown-body li {
   margin-bottom: 6px;
+}
+
+.markdown-body li p {
+  margin-top: 0;
+  margin-bottom: 4px;
 }
 
 .markdown-body hr {
