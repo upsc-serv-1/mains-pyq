@@ -49,7 +49,7 @@ Source Question: Did the Government of India Act, 1935 lay down a federal consti
 
 ### Introduction
 
-: **The Government of India Act, 1935 was an important piece of legislation passed by the British Parliament that laid the foundation for the governance of British India. It was the most comprehensive and extensive reform of the constitutional and administrative framework in India under British rule. The Act aimed to introduce a federal system of government, uniting the British Indian provinces and the princely states under a central authority.**
+**The Government of India Act, 1935 was an important piece of legislation passed by the British Parliament that laid the foundation for the governance of British India. It was the most comprehensive and extensive reform of the constitutional and administrative framework in India under British rule. The Act aimed to introduce a federal system of government, uniting the British Indian provinces and the princely states under a central authority.**
 
 ### Body
 
@@ -171,7 +171,7 @@ Source Question: Discuss each adjective attached to the word ‘Republic’ in t
 
 ### Introduction
 
-:** The Preamble of the Indian Constitution serves as the guiding light for the nation, setting forth its fundamental principles and values. Among these principles, India is declared as a “Sovereign Socialist Secular Democratic Republic,” representing the key features of the country’s political and social fabric. These adjectives reflect the aspirations of the founding fathers and continue to guide India’s development and progress.
+** The Preamble of the Indian Constitution serves as the guiding light for the nation, setting forth its fundamental principles and values. Among these principles, India is declared as a “Sovereign Socialist Secular Democratic Republic,” representing the key features of the country’s political and social fabric. These adjectives reflect the aspirations of the founding fathers and continue to guide India’s development and progress.
 
 <p align="center"><img src="pwonlyias/images/pw_polity_q253_img1.webp" alt="value of preamble" /></p>
 
@@ -533,7 +533,7 @@ Source Question: On what grounds a people’s representative can be disqualified
 
 ### Introduction
 
-: **The Representation of People’s Act, 1951 (RPA) is an important piece of legislation that governs the conduct of elections in India. It provides the grounds for disqualifying a person from contesting elections or holding the position of a people’s representative.**
+**The Representation of People’s Act, 1951 (RPA) is an important piece of legislation that governs the conduct of elections in India. It provides the grounds for disqualifying a person from contesting elections or holding the position of a people’s representative.**
 
 ### Body
 
@@ -667,7 +667,7 @@ Source Question: Explain the salient features of the constitution (One Hundred a
 
 ### Introduction
 
-: **The Constitution (One Hundred and First Amendment) Act, 2016, introduced the Goods and Services Tax (GST) in India, a comprehensive indirect tax system aimed at streamlining the taxation process and creating a common national market for goods and services.** Body: **<p align="center"><img src="pwonlyias/images/pw_polity_q330_img1.webp" alt="GST" /></p>**
+**The Constitution (One Hundred and First Amendment) Act, 2016, introduced the Goods and Services Tax (GST) in India, a comprehensive indirect tax system aimed at streamlining the taxation process and creating a common national market for goods and services.** Body: **<p align="center"><img src="pwonlyias/images/pw_polity_q330_img1.webp" alt="GST" /></p>**
 
 **The amendment’s salient features include:**
 - **Dual GST structure:** This includes Central GST (CGST) and State GST (SGST) or Union Territory GST (UTGST) depending on the transaction type.
@@ -1159,7 +1159,7 @@ Source Question: “The most significant achievement of modern law in India is t
 
 ### Introduction
 
-: **This statement highlights the crucial role played by the Indian Supreme Court in integrating environmental concerns into the legal and constitutional framework. The Supreme Court has been instrumental in interpreting the Constitution to address environmental issues and uphold the right to a healthy environment as a fundamental right.**
+**This statement highlights the crucial role played by the Indian Supreme Court in integrating environmental concerns into the legal and constitutional framework. The Supreme Court has been instrumental in interpreting the Constitution to address environmental issues and uphold the right to a healthy environment as a fundamental right.**
 
 ### Body
 
@@ -1309,7 +1309,7 @@ Source Question: What was held in the Coelho case? In this context, can you say 
 
 ### Introduction
 
-:** The I.R. Coelho v. State of Tamil Nadu (2007), is a landmark judgment by the Supreme Court of India that significantly reinforced the doctrine of the basic structure of the Constitution and the importance of judicial review.
+** The I.R. Coelho v. State of Tamil Nadu (2007), is a landmark judgment by the Supreme Court of India that significantly reinforced the doctrine of the basic structure of the Constitution and the importance of judicial review.
 
 **Body:**
 - **In the Coelho case, the Supreme Court held that any law placed in the Ninth Schedule of the Indian Constitution, which provides a protective shield against judicial scrutiny, is not immune from judicial review:** if it violates the basic structure of the Constitution.
@@ -1665,7 +1665,7 @@ Source Question: ‘Constitutional Morality’ is rooted in the Constitution its
 
 ### Introduction
 
-: **Constitutional Morality, though not explicitly stated in the text of the Constitution, is an inherent philosophical concept that governs the operation and interpretation of the Constitution. It embodies the spirit and ethos of the Constitution, ensuring adherence to its core principles, maintaining a balance between individual rights, governmental authority, and the pursuit of social justice.**
+**Constitutional Morality, though not explicitly stated in the text of the Constitution, is an inherent philosophical concept that governs the operation and interpretation of the Constitution. It embodies the spirit and ethos of the Constitution, ensuring adherence to its core principles, maintaining a balance between individual rights, governmental authority, and the pursuit of social justice.**
 
 ### Body
 
@@ -1797,7 +1797,7 @@ Source Question: Discuss the possible factors that inhibit India from enacting f
 
 ### Introduction
 
-: **A Uniform Civil Code (UCC) refers to a common set of laws governing personal matters such as marriage, divorce, inheritance, adoption, and maintenance for all citizens of a country, irrespective of religion, caste, or community. Article 44 of the Indian Constitution, a part of the Directive Principles of State Policy, envisions the implementation of a UCC for its citizens.**
+**A Uniform Civil Code (UCC) refers to a common set of laws governing personal matters such as marriage, divorce, inheritance, adoption, and maintenance for all citizens of a country, irrespective of religion, caste, or community. Article 44 of the Indian Constitution, a part of the Directive Principles of State Policy, envisions the implementation of a UCC for its citizens.**
 
 ### Body
 
@@ -2440,7 +2440,7 @@ Source Question: “Right of movement and residence throughout the territory of 
 
 ### Introduction
 
-: **Article 19(1)(d) and (e) of the Indian Constitution guarantee the fundamental rights of freedom of movement and residence to all Indian citizens. However, these rights are not absolute and are subject to certain reasonable restrictions for the protection of public interest and national security.**
+**Article 19(1)(d) and (e) of the Indian Constitution guarantee the fundamental rights of freedom of movement and residence to all Indian citizens. However, these rights are not absolute and are subject to certain reasonable restrictions for the protection of public interest and national security.**
 
 ### Body
 
@@ -2588,7 +2588,7 @@ Source Question: Examine the scope of Fundamental Rights in the light of the lat
 
 ### Introduction
 
-:**
+**
 
 **The Right to Privacy judgment by the Supreme Court of India in 2017 (Justice K.S. Puttaswamy (Retd.) vs Union of India)** marked a significant milestone in the interpretation and scope of Fundamental Rights in India. The nine-judge bench **unanimously recognized the Right to Privacy as an intrinsic part of the Right to Life** and Personal Liberty under Article 21 of the Constitution.
 
@@ -2678,7 +2678,7 @@ Source Question: Does the right to clean environment entail legal regulations on
 
 ### Introduction
 
-: **The right to a clean environment is an essential aspect of the right to life, enshrined under Article 21 of the Indian Constitution, which states that “No person shall be deprived of his life or personal liberty except according to the procedure established by law.” The right to a clean environment includes the right to clean air, which is crucial for ensuring a healthy life.**
+**The right to a clean environment is an essential aspect of the right to life, enshrined under Article 21 of the Indian Constitution, which states that “No person shall be deprived of his life or personal liberty except according to the procedure established by law.” The right to a clean environment includes the right to clean air, which is crucial for ensuring a healthy life.**
 
 ### Body
 
@@ -2754,7 +2754,7 @@ Source Question: What do you understand by the concept “freedom of speech and 
 
 ### Introduction
 
-: **Freedom of speech and expression is a fundamental right enshrined in Article 19(1)(a) of the Constitution of India. It empowers every citizen to freely voice their thoughts, ideas, and beliefs without fear of reprisal, censorship, or legal sanction. It allows for the free exchange of ideas, fosters creativity, and is critical for the healthy functioning of a democratic society.**
+**Freedom of speech and expression is a fundamental right enshrined in Article 19(1)(a) of the Constitution of India. It empowers every citizen to freely voice their thoughts, ideas, and beliefs without fear of reprisal, censorship, or legal sanction. It allows for the free exchange of ideas, fosters creativity, and is critical for the healthy functioning of a democratic society.**
 
 ### Body
 
@@ -2885,7 +2885,7 @@ Source Question: Discuss Section 66A of IT Act, with reference to its alleged vi
 
 ### Introduction
 
-: **Section 66A of the Information Technology (IT) Act, 2000 of India was enacted with the intent of combating cybercrimes, particularly those involving communication services. This provision criminalized sending offensive messages through communication services, which included any information that was grossly offensive, false and meant for the purpose of causing annoyance, inconvenience, danger, obstruction, insult, injury, criminal intimidation, enmity, hatred or ill will.**
+**Section 66A of the Information Technology (IT) Act, 2000 of India was enacted with the intent of combating cybercrimes, particularly those involving communication services. This provision criminalized sending offensive messages through communication services, which included any information that was grossly offensive, false and meant for the purpose of causing annoyance, inconvenience, danger, obstruction, insult, injury, criminal intimidation, enmity, hatred or ill will.**
 
 ### Body
 
@@ -3852,7 +3852,7 @@ Source Question: Critically examine the procedures through which the Presidents 
 
 ### Introduction
 
-: **The election processes for the Presidents of India and France differ significantly due to the unique political and constitutional systems in each country. While India follows a parliamentary system with a President as the ceremonial head of state, France has a semi-presidential system where the President has significant executive powers.**
+**The election processes for the Presidents of India and France differ significantly due to the unique political and constitutional systems in each country. While India follows a parliamentary system with a President as the ceremonial head of state, France has a semi-presidential system where the President has significant executive powers.**
 
 ### Body
 
@@ -4032,7 +4032,7 @@ Source Question: Analyze the distinguishing features of the notion of Equality i
 
 ### Introduction
 
-: **The notion of equality is a fundamental principle enshrined in the Constitutions of both the United States and India. Although both countries share a commitment to ensuring equality for their citizens, the way this concept is articulated and implemented in their respective Constitutions reveals some distinct differences.**
+**The notion of equality is a fundamental principle enshrined in the Constitutions of both the United States and India. Although both countries share a commitment to ensuring equality for their citizens, the way this concept is articulated and implemented in their respective Constitutions reveals some distinct differences.**
 
 ### Body
 
@@ -4205,7 +4205,7 @@ Source Question: The judicial systems in India and the UK seem to be converging 
 
 ### Introduction
 
-: **The judicial systems in India and the United Kingdom have historical linkages, as India’s legal system was significantly influenced by British colonial rule. Over time, both systems have evolved, reflecting the changes in their respective societies and political systems.**
+**The judicial systems in India and the United Kingdom have historical linkages, as India’s legal system was significantly influenced by British colonial rule. Over time, both systems have evolved, reflecting the changes in their respective societies and political systems.**
 
 ### Body
 
@@ -4383,7 +4383,7 @@ Source Question: What can France learn from the Indian Constitution’s approach
 
 ### Introduction
 
-: **France and India have distinct approaches to secularism, grounded in their unique historical, cultural, and social contexts. The French model of secularism, known as “laïcité,” emphasizes a strict separation between religion and the state. In contrast, the Indian Constitution embraces a more inclusive and accommodating form of secularism.**
+**France and India have distinct approaches to secularism, grounded in their unique historical, cultural, and social contexts. The French model of secularism, known as “laïcité,” emphasizes a strict separation between religion and the state. In contrast, the Indian Constitution embraces a more inclusive and accommodating form of secularism.**
 
 ### Body
 
@@ -4541,7 +4541,7 @@ Source Question: Whether the Supreme Court Judgment (July 2018) can settle the p
 
 ### Introduction
 
-: **The political tussle between the Lt. Governor and the elected government of Delhi has been a long-standing issue, centered around the division of powers and responsibilities in the governance of the National Capital Territory of Delhi. In July 2018, the Supreme Court of India delivered a significant judgment aiming to clarify the roles and powers of the Lt. Governor and the elected government.**
+**The political tussle between the Lt. Governor and the elected government of Delhi has been a long-standing issue, centered around the division of powers and responsibilities in the governance of the National Capital Territory of Delhi. In July 2018, the Supreme Court of India delivered a significant judgment aiming to clarify the roles and powers of the Lt. Governor and the elected government.**
 
 ### Body
 
@@ -4992,7 +4992,7 @@ Source Question: Under what circumstances can the Financial Emergency be proclai
 
 ### Introduction
 
-: **Financial Emergency, as per Article 360 of the Indian Constitution, is one of the three types of emergencies that the President of India can proclaim. It has never been imposed in the history of independent India. It aims to address situations where the country’s financial stability or credit is threatened.**
+**Financial Emergency, as per Article 360 of the Indian Constitution, is one of the three types of emergencies that the President of India can proclaim. It has never been imposed in the history of independent India. It aims to address situations where the country’s financial stability or credit is threatened.**
 
 ### Body
 
@@ -5127,7 +5127,7 @@ Source Question: What was held in the Coelho case? In this context, can you say 
 
 ### Introduction
 
-:** The I.R. Coelho v. State of Tamil Nadu (2007), is a landmark judgment by the Supreme Court of India that significantly reinforced the doctrine of the basic structure of the Constitution and the importance of judicial review.
+** The I.R. Coelho v. State of Tamil Nadu (2007), is a landmark judgment by the Supreme Court of India that significantly reinforced the doctrine of the basic structure of the Constitution and the importance of judicial review.
 
 **Body:**
 - **In the Coelho case, the Supreme Court held that any law placed in the Ninth Schedule of the Indian Constitution, which provides a protective shield against judicial scrutiny, is not immune from judicial review:** if it violates the basic structure of the Constitution.
@@ -5234,7 +5234,7 @@ Source Question: Recent directives from Ministry of Petroleum and Natural Gas ar
 
 ### Introduction
 
-: **Nagaland, under the Indian Constitution’s Article 371A, enjoys a distinctive status designed to preserve its unique social customs, practices, and laws. However, recent directives from the Ministry of Petroleum and Natural Gas regarding resource extraction have sparked apprehension among the Nagas, who perceive these directives as undermining the state’s special status.**
+**Nagaland, under the Indian Constitution’s Article 371A, enjoys a distinctive status designed to preserve its unique social customs, practices, and laws. However, recent directives from the Ministry of Petroleum and Natural Gas regarding resource extraction have sparked apprehension among the Nagas, who perceive these directives as undermining the state’s special status.**
 
 ### Body
 
@@ -6225,7 +6225,7 @@ Source Question: Indian Constitution exhibits centralising tendencies to maintai
 
 ### Introduction
 
-: **The Indian Constitution aims to maintain unity and integrity within the diverse and complex socio-political fabric of the nation. Over the years, several legislations have been enacted to ensure central control in times of crisis or to address specific challenges.**
+**The Indian Constitution aims to maintain unity and integrity within the diverse and complex socio-political fabric of the nation. Over the years, several legislations have been enacted to ensure central control in times of crisis or to address specific challenges.**
 
 ### Body
 
@@ -6429,7 +6429,7 @@ Source Question: How far do you think cooperation, competition and confrontation
 
 ### Introduction
 
-: **India’s federal system is shaped by a complex interplay of cooperation, competition, and confrontation between the central and state governments. Cooperation plays a significant role in fostering collaborative planning and policy-making.** An example is the establishment of the NITI Aayog, **which promotes cooperative federalism by facilitating dialogue and coordination between the center and the states in matters of economic planning and development.**
+**India’s federal system is shaped by a complex interplay of cooperation, competition, and confrontation between the central and state governments. Cooperation plays a significant role in fostering collaborative planning and policy-making.** An example is the establishment of the NITI Aayog, **which promotes cooperative federalism by facilitating dialogue and coordination between the center and the states in matters of economic planning and development.**
 
 ### Body
 
@@ -6592,7 +6592,7 @@ Source Question: What can France learn from the Indian Constitution’s approach
 
 ### Introduction
 
-: **France and India have distinct approaches to secularism, grounded in their unique historical, cultural, and social contexts. The French model of secularism, known as “laïcité,” emphasizes a strict separation between religion and the state. In contrast, the Indian Constitution embraces a more inclusive and accommodating form of secularism.**
+**France and India have distinct approaches to secularism, grounded in their unique historical, cultural, and social contexts. The French model of secularism, known as “laïcité,” emphasizes a strict separation between religion and the state. In contrast, the Indian Constitution embraces a more inclusive and accommodating form of secularism.**
 
 ### Body
 
@@ -6688,7 +6688,7 @@ Source Question: The concept of cooperative federalism has been increasingly emp
 
 ### Introduction
 
-: **Cooperative federalism refers to a collaborative relationship between the central and state governments, where both levels of government work together in the decision-making process and share responsibilities for national development. In recent years, there has been an increased emphasis on cooperative federalism in India to ensure inclusive growth and address various challenges faced by the nation.**
+**Cooperative federalism refers to a collaborative relationship between the central and state governments, where both levels of government work together in the decision-making process and share responsibilities for national development. In recent years, there has been an increased emphasis on cooperative federalism in India to ensure inclusive growth and address various challenges faced by the nation.**
 
 ### Body
 
@@ -6800,7 +6800,7 @@ Source Question: Though the federal principle is dominant in our Constitution an
 
 ### Introduction
 
-: **The Indian Constitution is often described as ‘quasi-federal’ in nature because it combines elements of federalism and unitarism. Although it establishes a federal structure of government, it provides the central government with certain powers that strengthen its position relative to the states, reflecting a degree of unitarism.**
+**The Indian Constitution is often described as ‘quasi-federal’ in nature because it combines elements of federalism and unitarism. Although it establishes a federal structure of government, it provides the central government with certain powers that strengthen its position relative to the states, reflecting a degree of unitarism.**
 
 ### Body
 
@@ -6930,7 +6930,7 @@ Source Question: Constitutional mechanisms to resolve the inter-state water disp
 
 ### Introduction
 
-: **Inter-state water disputes in India are a recurring issue due to the country’s federal structure and the uneven distribution of water resources. The Constitution provides mechanisms for the resolution of these disputes under Article 262 and the Inter-State Water Disputes Act, 1956.**
+**Inter-state water disputes in India are a recurring issue due to the country’s federal structure and the uneven distribution of water resources. The Constitution provides mechanisms for the resolution of these disputes under Article 262 and the Inter-State Water Disputes Act, 1956.**
 
 ### Body
 
@@ -7006,7 +7006,7 @@ Source Question: Many State Governments further bifurcate geographical administr
 
 ### Introduction
 
-:** The reorganization and bifurcation of administrative areas have been ongoing processes in India since independence, aimed at improving governance and administrative efficiency. While the bifurcation of districts and talukas is a common practice at the local level, the creation of smaller states is a much-debated topic in India’s political and administrative discourse.
+** The reorganization and bifurcation of administrative areas have been ongoing processes in India since independence, aimed at improving governance and administrative efficiency. While the bifurcation of districts and talukas is a common practice at the local level, the creation of smaller states is a much-debated topic in India’s political and administrative discourse.
 
 <p align="center"><img src="pwonlyias/images/pw_governance_q44_img1.webp" alt="image 2023 12 29T151125.069" /></p>
 
@@ -7209,7 +7209,7 @@ Source Question: Discuss the nature of Jammu and Kashmir Legislative Assembly af
 
 ### Introduction
 
-: **The 2019 Reorganization Act split the former state into** two Union Territories, giving Jammu and Kashmir **an elected legislature under** Article 239A, while Ladakh **was created** without a legislature **, reshaping lawmaking and governance structures in the region.**
+**The 2019 Reorganization Act split the former state into** two Union Territories, giving Jammu and Kashmir **an elected legislature under** Article 239A, while Ladakh **was created** without a legislature **, reshaping lawmaking and governance structures in the region.**
 
 ### Body
 
@@ -7295,7 +7295,7 @@ Source Question: Discuss the essentials of the 69th Constitutional Amendment Act
 
 ### Introduction
 
-: **The 69th Constitutional Amendment Act of 1991 granted special status to the National Capital Territory (NCT) of Delhi by introducing Articles 239AA and 239AB into the Indian Constitution. The amendment aimed to balance Delhi’s unique needs and ensure efficient administration. It established a framework for the Delhi Legislative Assembly, defined the Lieutenant Governor (LG)’s powers, and divided responsibilities between the Union Government and the NCT Government.**
+**The 69th Constitutional Amendment Act of 1991 granted special status to the National Capital Territory (NCT) of Delhi by introducing Articles 239AA and 239AB into the Indian Constitution. The amendment aimed to balance Delhi’s unique needs and ensure efficient administration. It established a framework for the Delhi Legislative Assembly, defined the Lieutenant Governor (LG)’s powers, and divided responsibilities between the Union Government and the NCT Government.**
 
 ### Body
 
@@ -7985,7 +7985,7 @@ Source Question: To what extent, in your opinion, has the decentralisation of po
 
 ### Introduction
 
-:** The decentralization of power in India has significantly changed the governance landscape at the grassroots level. The 73rd and 74th Constitutional Amendments in 1992, which formalized the Panchayati Raj system and urban local bodies, respectively, have been instrumental in this process.
+** The decentralization of power in India has significantly changed the governance landscape at the grassroots level. The 73rd and 74th Constitutional Amendments in 1992, which formalized the Panchayati Raj system and urban local bodies, respectively, have been instrumental in this process.
 
 <p align="center"><img src="pwonlyias/images/pw_governance_q691_img1.webp" alt="decentralization" /></p>
 
@@ -8245,7 +8245,7 @@ Source Question: The strength and sustenance of local institutions in India has 
 
 ### Introduction
 
-:** The evolution of local institutions in India has witnessed a significant transition from their formative phase, which was primarily focused on ‘Functions, Functionaries, and Funds,’ to the contemporary stage emphasizing ‘Functionality.’ This shift underscores the importance of effective and efficient governance, service delivery, and responsiveness to the needs of local communities.
+** The evolution of local institutions in India has witnessed a significant transition from their formative phase, which was primarily focused on ‘Functions, Functionaries, and Funds,’ to the contemporary stage emphasizing ‘Functionality.’ This shift underscores the importance of effective and efficient governance, service delivery, and responsiveness to the needs of local communities.
 
 <p align="center"><img src="pwonlyias/images/pw_polity_q196_img1.webp" alt="significance of LSG " /></p>
 
@@ -8487,7 +8487,7 @@ Source Question: Individual Parliamentarian’s role as the national law maker i
 
 ### Introduction
 
-: **In a democratic setup, individual parliamentarians play a critical role as national lawmakers, responsible for debating, scrutinizing, and passing legislation that impacts the nation. However, in recent years, there has been a perceived decline in the role of individual parliamentarians, which has adversely affected the quality of parliamentary debates and their outcomes.**
+**In a democratic setup, individual parliamentarians play a critical role as national lawmakers, responsible for debating, scrutinizing, and passing legislation that impacts the nation. However, in recent years, there has been a perceived decline in the role of individual parliamentarians, which has adversely affected the quality of parliamentary debates and their outcomes.**
 
 ### Body
 
@@ -8671,7 +8671,7 @@ Source Question: Assess the importance of the Panchayat system in India as a par
 
 ### Introduction
 
-: **The Panchayat system is a crucial part of India’s local government, aimed at promoting grassroots democracy, decentralization, and inclusive development. Panchayats play a significant role in empowering communities and fostering socio-economic progress at the local level.**
+**The Panchayat system is a crucial part of India’s local government, aimed at promoting grassroots democracy, decentralization, and inclusive development. Panchayats play a significant role in empowering communities and fostering socio-economic progress at the local level.**
 
 ### Body
 
@@ -8863,7 +8863,7 @@ Source Question: “The local self government system in India has not proved to 
 
 ### Introduction
 
-: **The local self-government system in India, including Panchayati Raj Institutions and Urban Local Bodies, was established to promote participatory democracy, decentralized governance, and address local concerns.** Despite the 73rd and 74th Constitutional Amendments providing a legal framework, **the effectiveness of these institutions in governance continues to be debated.**
+**The local self-government system in India, including Panchayati Raj Institutions and Urban Local Bodies, was established to promote participatory democracy, decentralized governance, and address local concerns.** Despite the 73rd and 74th Constitutional Amendments providing a legal framework, **the effectiveness of these institutions in governance continues to be debated.**
 
 <p align="center"><img src="pwonlyias/images/pw_polity_q196_img1.webp" alt="significance of LSG" /></p>
 
@@ -8966,7 +8966,7 @@ Source Question: In absence of a well-educated and organized local level governm
 
 ### Introduction
 
-: **Panchayats and Samitis are local level government institutions in India, established under the 73rd and 74th Constitutional Amendments to ensure decentralized governance and promote participatory democracy. These institutions aim to facilitate local self-governance, empower communities, and address the specific needs of rural and urban areas.**
+**Panchayats and Samitis are local level government institutions in India, established under the 73rd and 74th Constitutional Amendments to ensure decentralized governance and promote participatory democracy. These institutions aim to facilitate local self-governance, empower communities, and address the specific needs of rural and urban areas.**
 
 ### Body
 
@@ -9100,7 +9100,7 @@ Source Question: Critically examine the Supreme Court’s judgement on ‘Nation
 
 ### Introduction
 
-: **The National Judicial Appointments Commission (NJAC) Act, 2014, was a significant legal development in India aimed at reforming the appointment of judges in the higher judiciary. However, it was struck down as unconstitutional by the Supreme Court in a landmark judgement in the case of Supreme Court Advocates-on-Record Association v. Union of India (2015).**
+**The National Judicial Appointments Commission (NJAC) Act, 2014, was a significant legal development in India aimed at reforming the appointment of judges in the higher judiciary. However, it was struck down as unconstitutional by the Supreme Court in a landmark judgement in the case of Supreme Court Advocates-on-Record Association v. Union of India (2015).**
 
 ### Body
 
@@ -9495,7 +9495,7 @@ Source Question: Discuss the essential conditions for exercise of the legislativ
 
 ### Introduction
 
-: **The Governor, as the constitutional head of a state in India, has specific legislative powers and responsibilities. These powers allow the Governor to address pressing issues when the State Legislature is not in session and maintain the functioning of the state government.**
+**The Governor, as the constitutional head of a state in India, has specific legislative powers and responsibilities. These powers allow the Governor to address pressing issues when the State Legislature is not in session and maintain the functioning of the state government.**
 
 ### Body
 
@@ -9725,7 +9725,7 @@ Source Question: To what extent, in your view, the Parliament is able to ensure 
 
 ### Introduction
 
-: **In a parliamentary democracy like India, the executive is responsible to the Parliament, which plays a crucial role in ensuring accountability and transparency in governance. The Parliament uses various mechanisms to scrutinize the executive’s actions, policies, and decisions, maintaining a system of checks and balances.**
+**In a parliamentary democracy like India, the executive is responsible to the Parliament, which plays a crucial role in ensuring accountability and transparency in governance. The Parliament uses various mechanisms to scrutinize the executive’s actions, policies, and decisions, maintaining a system of checks and balances.**
 
 ### Body
 
@@ -9917,7 +9917,7 @@ Source Question: Whether the Supreme Court Judgment (July 2018) can settle the p
 
 ### Introduction
 
-: **The political tussle between the Lt. Governor and the elected government of Delhi has been a long-standing issue, centered around the division of powers and responsibilities in the governance of the National Capital Territory of Delhi. In July 2018, the Supreme Court of India delivered a significant judgment aiming to clarify the roles and powers of the Lt. Governor and the elected government.**
+**The political tussle between the Lt. Governor and the elected government of Delhi has been a long-standing issue, centered around the division of powers and responsibilities in the governance of the National Capital Territory of Delhi. In July 2018, the Supreme Court of India delivered a significant judgment aiming to clarify the roles and powers of the Lt. Governor and the elected government.**
 
 ### Body
 
@@ -10025,7 +10025,7 @@ Source Question: Resorting to ordinances has always raised concern on violation 
 
 ### Introduction
 
-: **The power to promulgate ordinances is provided to the President of India under Article 123 and to the Governors of states under Article 213 of the Indian Constitution. This provision allows for the enactment of laws when the Parliament or the state legislature is not in session, and immediate legislative action is required. However, resorting to ordinances has often raised concerns about violating the spirit of the separation of powers doctrine, which emphasizes the distinct roles of the legislature, executive, and judiciary.**
+**The power to promulgate ordinances is provided to the President of India under Article 123 and to the Governors of states under Article 213 of the Indian Constitution. This provision allows for the enactment of laws when the Parliament or the state legislature is not in session, and immediate legislative action is required. However, resorting to ordinances has often raised concerns about violating the spirit of the separation of powers doctrine, which emphasizes the distinct roles of the legislature, executive, and judiciary.**
 
 ### Body
 
@@ -10251,7 +10251,7 @@ Source Question: Judicial Legislation is antithetical to the doctrine of separat
 
 ### Introduction
 
-:** The doctrine of separation of powers, as envisaged in the Indian Constitution, promotes the division of governmental responsibilities into distinct branches to limit any one branch from exercising the core functions of another. Judicial legislation, also known as judicial activism, occurs when the judiciary interprets the law or creates new legal principles, often encroaching upon the domain of the executive or legislature.
+** The doctrine of separation of powers, as envisaged in the Indian Constitution, promotes the division of governmental responsibilities into distinct branches to limit any one branch from exercising the core functions of another. Judicial legislation, also known as judicial activism, occurs when the judiciary interprets the law or creates new legal principles, often encroaching upon the domain of the executive or legislature.
 
 **Body:**
 - **Need for judicial intervention:** The Indian judicial system has witnessed a large number of PILs, as citizens seek to address pressing social issues, protect fundamental rights, and hold the executive accountable. In many cases, the executive and legislative branches have been unable or unwilling to tackle these issues effectively. As a result, the judiciary has stepped in to bridge the gap and protect the rights of citizens.
@@ -10334,7 +10334,7 @@ Source Question: The Supreme Court of India keeps a check on arbitrary power of 
 
 ### Introduction
 
-: **The Indian Constitution provides for a parliamentary system of government that is federal in structure with unitary features. The Constitution of India is considered to be supreme, and any law inconsistent with the Constitution is declared void. The Parliament has the power to amend the Constitution, but this power is not unlimited. The Supreme Court, acting as the guardian and interpreter of the Constitution, has the authority to keep a check on the Parliament’s power to amend the Constitution.**
+**The Indian Constitution provides for a parliamentary system of government that is federal in structure with unitary features. The Constitution of India is considered to be supreme, and any law inconsistent with the Constitution is declared void. The Parliament has the power to amend the Constitution, but this power is not unlimited. The Supreme Court, acting as the guardian and interpreter of the Constitution, has the authority to keep a check on the Parliament’s power to amend the Constitution.**
 
 ### Body
 
@@ -10734,7 +10734,7 @@ Source Question: “The Attorney-General is the chief legal adviser and lawyer o
 
 ### Introduction
 
-:** The Attorney-General of India is a constitutional position defined under Article 76 of the Indian Constitution. As the highest law officer in the country, the Attorney-General serves as the chief legal adviser and lawyer for the Government of India, representing the government in legal matters and advising them on various issues of law.
+** The Attorney-General of India is a constitutional position defined under Article 76 of the Indian Constitution. As the highest law officer in the country, the Attorney-General serves as the chief legal adviser and lawyer for the Government of India, representing the government in legal matters and advising them on various issues of law.
 
 **Body:**
 - **Appointment and qualifications:** The Attorney-General is appointed by the President of India and must possess the qualifications required to be appointed as a judge of the Supreme Court, i.e., they must be a citizen of India, a distinguished jurist, or have been a judge of a High Court for at least five years, or an advocate of a High Court for at least ten years.
@@ -10966,7 +10966,7 @@ Source Question: Explain the constitutional provisions under which Legislative C
 
 ### Introduction
 
-:** India’s federal system features a bicameral legislature in certain states, with an Upper House called the Legislative Council, or Vidhan Parishad, complementing the Lower House or Legislative Assembly. States such as Andhra Pradesh, Bihar, Karnataka, Maharashtra, Telangana, and Uttar Pradesh have Legislative Councils, which are established under specific constitutional provisions.
+** India’s federal system features a bicameral legislature in certain states, with an Upper House called the Legislative Council, or Vidhan Parishad, complementing the Lower House or Legislative Assembly. States such as Andhra Pradesh, Bihar, Karnataka, Maharashtra, Telangana, and Uttar Pradesh have Legislative Councils, which are established under specific constitutional provisions.
 
 **Body:**
 - **Constitutional provisions for the establishment of Legislative Councils:**
@@ -11212,7 +11212,7 @@ Source Question: Explain the constitutional provisions under which Legislative C
 
 ### Introduction
 
-:** India’s federal system features a bicameral legislature in certain states, with an Upper House called the Legislative Council, or Vidhan Parishad, complementing the Lower House or Legislative Assembly. States such as Andhra Pradesh, Bihar, Karnataka, Maharashtra, Telangana, and Uttar Pradesh have Legislative Councils, which are established under specific constitutional provisions.
+** India’s federal system features a bicameral legislature in certain states, with an Upper House called the Legislative Council, or Vidhan Parishad, complementing the Lower House or Legislative Assembly. States such as Andhra Pradesh, Bihar, Karnataka, Maharashtra, Telangana, and Uttar Pradesh have Legislative Councils, which are established under specific constitutional provisions.
 
 **Body:**
 - **Constitutional provisions for the establishment of Legislative Councils:**
@@ -11444,7 +11444,7 @@ Source Question: Rajya Sabha has been transformed from a ‘useless stepney tyre
 
 ### Introduction
 
-: **The Rajya Sabha, the upper house of India’s Parliament, has undergone a remarkable transformation in recent decades. Once dismissed as a ‘useless stepney tyre,’ it has evolved into an indispensable supporting organ, playing a vital role in the legislative process and safeguarding the principles of Indian democracy.**
+**The Rajya Sabha, the upper house of India’s Parliament, has undergone a remarkable transformation in recent decades. Once dismissed as a ‘useless stepney tyre,’ it has evolved into an indispensable supporting organ, playing a vital role in the legislative process and safeguarding the principles of Indian democracy.**
 
 ### Body
 
@@ -11585,7 +11585,7 @@ Source Question: The Indian Constitution has provisions for holding a joint sess
 
 ### Introduction
 
-: **The Indian Constitution provides for the joint session of both houses of Parliament** under Article 108. **A joint session of the Parliament is a special mechanism to resolve legislative deadlock between the Lok Sabha (House of the People) and the Rajya Sabha (Council of States).**
+**The Indian Constitution provides for the joint session of both houses of Parliament** under Article 108. **A joint session of the Parliament is a special mechanism to resolve legislative deadlock between the Lok Sabha (House of the People) and the Rajya Sabha (Council of States).**
 
 ### Body
 
@@ -12047,7 +12047,7 @@ Source Question: Do Department -related Parliamentary Standing Committees keep t
 
 ### Introduction
 
-:** Department-related Parliamentary Standing Committees (DRPSCs) are crucial instruments of parliamentary control over the executive in India. They help in maintaining checks and balances by examining government policies, legislation, and administration.
+** Department-related Parliamentary Standing Committees (DRPSCs) are crucial instruments of parliamentary control over the executive in India. They help in maintaining checks and balances by examining government policies, legislation, and administration.
 
 **Body:**
 - **Functions of DRPSCs:** Examining demands for grants and scrutinizing expenditure of ministries.
@@ -12262,7 +12262,7 @@ Source Question: Why do you think the committees are considered to be useful for
 
 ### Introduction
 
-: **Parliamentary committees are an essential part of the legislative process, as they provide a platform for detailed scrutiny of legislative proposals, policies, budgets, and other matters. These committees consist of Members of Parliament (MPs) from various political parties, working in a non-partisan manner to ensure efficient functioning of the parliamentary system.**
+**Parliamentary committees are an essential part of the legislative process, as they provide a platform for detailed scrutiny of legislative proposals, policies, budgets, and other matters. These committees consist of Members of Parliament (MPs) from various political parties, working in a non-partisan manner to ensure efficient functioning of the parliamentary system.**
 
 ### Body
 
@@ -12409,7 +12409,7 @@ Source Question: Discuss the role of Public Accounts Committee in establishing a
 
 ### Introduction
 
-: **The Public Accounts Committee (PAC) is a crucial parliamentary committee in India that plays a vital role in ensuring the government’s financial accountability to the people. Its primary function is to examine the annual audit reports of the Comptroller and Auditor General of India (CAG), which scrutinizes the appropriation of funds granted by the Parliament to the government.**
+**The Public Accounts Committee (PAC) is a crucial parliamentary committee in India that plays a vital role in ensuring the government’s financial accountability to the people. Its primary function is to examine the annual audit reports of the Comptroller and Auditor General of India (CAG), which scrutinizes the appropriation of funds granted by the Parliament to the government.**
 
 ### Body
 
@@ -12491,7 +12491,7 @@ Source Question: The ‘Powers, Privileges and Immunities of Parliament and its 
 
 ### Introduction
 
-: **The concept of ‘parliamentary privileges’ refers to the rights and immunities that are deemed necessary for the House of Parliament, as well as its members and committees, to effectively carry out their functions.** Article 105 **of the Indian Constitution sets out these privileges, but they are not codified or enumerated, meaning they aren’t explicitly listed or defined in the law.**
+**The concept of ‘parliamentary privileges’ refers to the rights and immunities that are deemed necessary for the House of Parliament, as well as its members and committees, to effectively carry out their functions.** Article 105 **of the Indian Constitution sets out these privileges, but they are not codified or enumerated, meaning they aren’t explicitly listed or defined in the law.**
 
 ### Body
 
@@ -12955,7 +12955,7 @@ Source Question: Discuss the role of the Vice –Presidents of India as the chai
 
 ### Introduction
 
-: **The Vice-President of India is the second-highest constitutional office in the country, provisioned under** Art.66 of constitution **and one of their key responsibilities is to serve as the ex-officio Chairman of the Rajya Sabha, the Upper House of the Parliament of India. This role is crucial to ensuring the smooth functioning of the Rajya Sabha and maintaining the dignity and decorum of the House.**
+**The Vice-President of India is the second-highest constitutional office in the country, provisioned under** Art.66 of constitution **and one of their key responsibilities is to serve as the ex-officio Chairman of the Rajya Sabha, the Upper House of the Parliament of India. This role is crucial to ensuring the smooth functioning of the Rajya Sabha and maintaining the dignity and decorum of the House.**
 
 <p align="center"><img src="pwonlyias/images/pw_polity_q652_img1.webp" alt="Role of vice president" /></p>
 
@@ -13185,7 +13185,7 @@ Source Question: ‘Once a Speaker, Always a Speaker’! Do you think this pract
 
 ### Introduction
 
-: **The practice of “Once a Speaker, Always a Speaker” implies that the Speaker should not return to active party politics even after their term ends. This approach aims to impart objectivity and neutrality to the office of the Speaker.**
+**The practice of “Once a Speaker, Always a Speaker” implies that the Speaker should not return to active party politics even after their term ends. This approach aims to impart objectivity and neutrality to the office of the Speaker.**
 
 ### Body
 
@@ -13431,7 +13431,7 @@ Source Question: Individual Parliamentarian’s role as the national law maker i
 
 ### Introduction
 
-: **In a democratic setup, individual parliamentarians play a critical role as national lawmakers, responsible for debating, scrutinizing, and passing legislation that impacts the nation. However, in recent years, there has been a perceived decline in the role of individual parliamentarians, which has adversely affected the quality of parliamentary debates and their outcomes.**
+**In a democratic setup, individual parliamentarians play a critical role as national lawmakers, responsible for debating, scrutinizing, and passing legislation that impacts the nation. However, in recent years, there has been a perceived decline in the role of individual parliamentarians, which has adversely affected the quality of parliamentary debates and their outcomes.**
 
 ### Body
 
@@ -13544,7 +13544,7 @@ Source Question: The role of individual MPs (Members of Parliament) has diminish
 
 ### Introduction
 
-:** The Anti-Defection Law was introduced via the 52nd amendment to the Indian Constitution in 1985, which added the 10th Schedule to the Indian Constitution. The aim of this law was to curb political defections, which were causing instability in the government and undermining the faith of the electorate. The law prohibits elected members from defecting to another party after elections, and if they do, they are liable to be disqualified from their position.
+** The Anti-Defection Law was introduced via the 52nd amendment to the Indian Constitution in 1985, which added the 10th Schedule to the Indian Constitution. The aim of this law was to curb political defections, which were causing instability in the government and undermining the faith of the electorate. The law prohibits elected members from defecting to another party after elections, and if they do, they are liable to be disqualified from their position.
 
 <p align="center"><img src="pwonlyias/images/pw_polity_q62_img1.webp" alt="responsibilities of MP" /></p>
 
@@ -13880,7 +13880,7 @@ Source Question: “The Attorney-General is the chief legal adviser and lawyer o
 
 ### Introduction
 
-:** The Attorney-General of India is a constitutional position defined under Article 76 of the Indian Constitution. As the highest law officer in the country, the Attorney-General serves as the chief legal adviser and lawyer for the Government of India, representing the government in legal matters and advising them on various issues of law.
+** The Attorney-General of India is a constitutional position defined under Article 76 of the Indian Constitution. As the highest law officer in the country, the Attorney-General serves as the chief legal adviser and lawyer for the Government of India, representing the government in legal matters and advising them on various issues of law.
 
 **Body:**
 - **Appointment and qualifications:** The Attorney-General is appointed by the President of India and must possess the qualifications required to be appointed as a judge of the Supreme Court, i.e., they must be a citizen of India, a distinguished jurist, or have been a judge of a High Court for at least five years, or an advocate of a High Court for at least ten years.
@@ -13989,7 +13989,7 @@ Source Question: Instances of President’s delay in commuting death sentences h
 
 ### Introduction
 
-: **The President of India has the constitutional authority to grant pardons, and to suspend, remit, or commute sentences in certain cases, as per Article 72 of the Indian Constitution. This power is exercised on the advice of the Council of Ministers. However, there is no specified time limit for the President to accept or reject mercy petitions, leading to instances where petitions have languished for years. This delay has been a subject of criticism and public debate, especially in cases involving death sentences.**
+**The President of India has the constitutional authority to grant pardons, and to suspend, remit, or commute sentences in certain cases, as per Article 72 of the Indian Constitution. This power is exercised on the advice of the Council of Ministers. However, there is no specified time limit for the President to accept or reject mercy petitions, leading to instances where petitions have languished for years. This delay has been a subject of criticism and public debate, especially in cases involving death sentences.**
 
 ### Body
 
@@ -14075,7 +14075,7 @@ Source Question: The size of the cabinet should be as big as governmental work j
 
 ### Introduction
 
-: **The size of a cabinet plays a pivotal role in shaping the functioning of a government. It is thought that it should be as expansive as necessary to manage governmental work and as large as the Prime Minister can capably manage. However, the relationship between the size of the cabinet and the efficacy of the government is a subject of much debate.**
+**The size of a cabinet plays a pivotal role in shaping the functioning of a government. It is thought that it should be as expansive as necessary to manage governmental work and as large as the Prime Minister can capably manage. However, the relationship between the size of the cabinet and the efficacy of the government is a subject of much debate.**
 
 ### Body
 
@@ -14659,7 +14659,7 @@ Source Question: What are the major changes brought in the Arbitration and Conci
 
 ### Introduction
 
-: **The Arbitration and Conciliation Act, 1996, is the primary legislation governing arbitration and conciliation in India. It aims to provide an effective and efficient dispute resolution mechanism outside the traditional court system. In recent years, several amendments have been made to the Act through ordinances to address various concerns and further improve the arbitration landscape in India.**
+**The Arbitration and Conciliation Act, 1996, is the primary legislation governing arbitration and conciliation in India. It aims to provide an effective and efficient dispute resolution mechanism outside the traditional court system. In recent years, several amendments have been made to the Act through ordinances to address various concerns and further improve the arbitration landscape in India.**
 
 ### Body
 
@@ -15071,7 +15071,7 @@ Source Question: Discuss the desirability of greater representation to women in 
 
 ### Introduction
 
-: **Representation of women in higher judiciary is crucial for achieving diversity, equity, and inclusiveness. As of 2021, the Supreme Court of India has only four sitting women judges out of the total 33 judges, accounting for about 12% of the total strength. In High Courts across India, the situation is not much better, with women judges representing only around 11.5% of the total judges. This underrepresentation of women in higher judiciary highlights the persistent gender disparity in this crucial sector.**
+**Representation of women in higher judiciary is crucial for achieving diversity, equity, and inclusiveness. As of 2021, the Supreme Court of India has only four sitting women judges out of the total 33 judges, accounting for about 12% of the total strength. In High Courts across India, the situation is not much better, with women judges representing only around 11.5% of the total judges. This underrepresentation of women in higher judiciary highlights the persistent gender disparity in this crucial sector.**
 
 ### Body
 
@@ -15203,7 +15203,7 @@ Source Question: Starting from inventing the ‘basic structure’ doctrine, the
 
 ### Introduction
 
-: **The Indian judiciary, with its power of judicial review, has played a critical role in shaping the country’s democratic fabric. Judicial activism in India has helped enforce and safeguard the principles of democracy in many ways. The ‘basic structure’ doctrine, first introduced in the landmark Kesavananda Bharati vs State of Kerala case (1973), is an example of judicial activism. This doctrine holds that the Parliament cannot amend the ‘basic structure’ of the Constitution, thereby preserving its fundamental principles, irrespective of political changes in the government.**
+**The Indian judiciary, with its power of judicial review, has played a critical role in shaping the country’s democratic fabric. Judicial activism in India has helped enforce and safeguard the principles of democracy in many ways. The ‘basic structure’ doctrine, first introduced in the landmark Kesavananda Bharati vs State of Kerala case (1973), is an example of judicial activism. This doctrine holds that the Parliament cannot amend the ‘basic structure’ of the Constitution, thereby preserving its fundamental principles, irrespective of political changes in the government.**
 
 ### Body
 
@@ -15517,7 +15517,7 @@ Source Question: Khap Panchayats have been in the news for functioning as extra-
 
 ### Introduction
 
-: **Khap Panchayats are traditional caste-based councils predominantly found in the northern Indian states, such as Haryana, Uttar Pradesh, and Rajasthan. These councils have often been criticized for functioning as extra-constitutional authorities and delivering pronouncements that amount to human rights violations, including but not limited to honor killings, gender discrimination, and the suppression of individual liberties.**
+**Khap Panchayats are traditional caste-based councils predominantly found in the northern Indian states, such as Haryana, Uttar Pradesh, and Rajasthan. These councils have often been criticized for functioning as extra-constitutional authorities and delivering pronouncements that amount to human rights violations, including but not limited to honor killings, gender discrimination, and the suppression of individual liberties.**
 
 ### Body
 
@@ -15923,7 +15923,7 @@ Source Question: Pressure groups play a vital role in influencing public policy 
 
 ### Introduction
 
-: **Pressure groups, also known as interest groups or lobbying groups, are organizations that seek to influence public policy and decision-making processes in favor of their specific interests. In India, business associations are a prominent type of pressure group that plays a crucial role in shaping public policies.**
+**Pressure groups, also known as interest groups or lobbying groups, are organizations that seek to influence public policy and decision-making processes in favor of their specific interests. In India, business associations are a prominent type of pressure group that plays a crucial role in shaping public policies.**
 
 ### Body
 
@@ -16127,7 +16127,7 @@ Source Question: What are the methods used by the farmers’ organisation to inf
 
 ### Introduction
 
-: **Farmers’ organizations play a significant role in representing the interests of the farming community in India. They seek to influence policy-makers to ensure that policies and legislation are favorable to farmers and address their concerns.**
+**Farmers’ organizations play a significant role in representing the interests of the farming community in India. They seek to influence policy-makers to ensure that policies and legislation are favorable to farmers and address their concerns.**
 
 ### Body
 
@@ -16258,7 +16258,7 @@ Source Question: How do pressure groups influence Indian political process? Do y
 
 ### Introduction
 
-:** Pressure groups are vital to the Indian political process, influencing decisions, shaping public opinion, and advocating for specific causes. Formal pressure groups are structured entities, such as trade unions and NGOs, while informal pressure groups are more loosely organized, including social movements and online communities. Both types of pressure groups contribute to a vibrant democracy by ensuring diverse voices are heard in policy-making.
+** Pressure groups are vital to the Indian political process, influencing decisions, shaping public opinion, and advocating for specific causes. Formal pressure groups are structured entities, such as trade unions and NGOs, while informal pressure groups are more loosely organized, including social movements and online communities. Both types of pressure groups contribute to a vibrant democracy by ensuring diverse voices are heard in policy-making.
 
 <p align="center"><img src="pwonlyias/images/pw_polity_q335_img1.webp" alt="features of Pressure groups" /></p>
 
@@ -16406,7 +16406,7 @@ Source Question: Pressure group politics is sometimes seen as the informal face 
 
 ### Introduction
 
-: **Pressure groups are organized interest groups that aim to influence public policies and decisions without seeking formal political power. They are often viewed as the informal face of politics because they operate outside the formal political structure but play a significant role in shaping policy outcomes. In India, pressure groups have a diverse structure and functioning, reflecting the country’s socio-economic-political diversity.**
+**Pressure groups are organized interest groups that aim to influence public policies and decisions without seeking formal political power. They are often viewed as the informal face of politics because they operate outside the formal political structure but play a significant role in shaping policy outcomes. In India, pressure groups have a diverse structure and functioning, reflecting the country’s socio-economic-political diversity.**
 
 ### Body
 
@@ -16778,7 +16778,7 @@ Source Question: Discuss the procedures to decide the disputes arising out of th
 
 ### Introduction
 
-: **The Representation of the People Act, 1951, is a comprehensive legislation enacted to provide for the conduct of elections and adjudication of disputes arising from such elections in India. It deals with the election of members to both Parliament and State Legislatures.**
+**The Representation of the People Act, 1951, is a comprehensive legislation enacted to provide for the conduct of elections and adjudication of disputes arising from such elections in India. It deals with the election of members to both Parliament and State Legislatures.**
 
 ### Body
 
@@ -17007,7 +17007,7 @@ Source Question: “There is a need for simplification of procedure for disquali
 
 ### Introduction
 
-: **The Representation of Peoples Act (RPA) is a crucial piece of legislation in India that provides a framework for the conduct of elections and the qualifications and disqualifications of candidates. A key concern with the RPA is the complexity of the procedure for disqualifying individuals found guilty of corrupt practices, which has implications for the integrity of the electoral process.**
+**The Representation of Peoples Act (RPA) is a crucial piece of legislation in India that provides a framework for the conduct of elections and the qualifications and disqualifications of candidates. A key concern with the RPA is the complexity of the procedure for disqualifying individuals found guilty of corrupt practices, which has implications for the integrity of the electoral process.**
 
 ### Body
 
@@ -17190,7 +17190,7 @@ Source Question: On what grounds a people’s representative can be disqualified
 
 ### Introduction
 
-: **The Representation of People’s Act, 1951 (RPA) is an important piece of legislation that governs the conduct of elections in India. It provides the grounds for disqualifying a person from contesting elections or holding the position of a people’s representative.**
+**The Representation of People’s Act, 1951 (RPA) is an important piece of legislation that governs the conduct of elections in India. It provides the grounds for disqualifying a person from contesting elections or holding the position of a people’s representative.**
 
 ### Body
 
@@ -17598,7 +17598,7 @@ Source Question: How is the Finance Commission of India constituted? What do you
 
 ### Introduction
 
-: **The Finance Commission of India is a constitutional body established under Article 280 of the Indian Constitution, responsible for recommending the distribution of financial resources between the Union and State governments. The Commission ensures fiscal federalism and equitable distribution of resources, thereby promoting balanced economic development across the country.**
+**The Finance Commission of India is a constitutional body established under Article 280 of the Indian Constitution, responsible for recommending the distribution of financial resources between the Union and State governments. The Commission ensures fiscal federalism and equitable distribution of resources, thereby promoting balanced economic development across the country.**
 
 ### Body
 
@@ -17738,7 +17738,7 @@ Source Question: To enhance the quality of democracy in India the Election Commi
 
 ### Introduction
 
-: **The Election Commission of India (ECI) has proposed several electoral reforms in 2016 to improve the quality of democracy in India. These suggested reforms aim to make the electoral process more transparent, accountable, and inclusive.**
+**The Election Commission of India (ECI) has proposed several electoral reforms in 2016 to improve the quality of democracy in India. These suggested reforms aim to make the electoral process more transparent, accountable, and inclusive.**
 
 ### Body
 
@@ -17898,7 +17898,7 @@ Source Question: ‘Simultaneous election to the Lok Sabha and the State Assembl
 
 ### Introduction
 
-: **Simultaneous elections, also known as “One Nation, One Election,” refer to the proposal of conducting both Lok Sabha and State Assembly elections concurrently in India. This concept aims to streamline the electoral process, save resources, and reduce the disruptions caused by frequent elections.** Body: **<p align="center"><img src="pwonlyias/images/pw_polity_q358_img1.webp" alt="simultaneous elections" /></p>**
+**Simultaneous elections, also known as “One Nation, One Election,” refer to the proposal of conducting both Lok Sabha and State Assembly elections concurrently in India. This concept aims to streamline the electoral process, save resources, and reduce the disruptions caused by frequent elections.** Body: **<p align="center"><img src="pwonlyias/images/pw_polity_q358_img1.webp" alt="simultaneous elections" /></p>**
 
 **Advantages of simultaneous elections:**
 - **Saving resources:** Conducting simultaneous elections can save a significant amount of financial and administrative resources, as well as time spent in electioneering.
@@ -18100,7 +18100,7 @@ Source Question: Discuss the role of the Election Commission of India in the lig
 
 ### Introduction
 
-: **The** Election Commission of India (ECI), **as mentioned** under Article 324 **of the Indian Constitution, is an autonomous constitutional body that oversees the country’s electoral processes, ensuring free, fair elections, transparency, and upholding democratic principles. A key instrument used by the ECI is the Model Code of Conduct (MCC), a set of guidelines regulating the behavior of political parties, candidates, and government officials during elections. Though not legally enforceable, the MCC is widely accepted and followed to maintain a level playing field.**
+**The** Election Commission of India (ECI), **as mentioned** under Article 324 **of the Indian Constitution, is an autonomous constitutional body that oversees the country’s electoral processes, ensuring free, fair elections, transparency, and upholding democratic principles. A key instrument used by the ECI is the Model Code of Conduct (MCC), a set of guidelines regulating the behavior of political parties, candidates, and government officials during elections. Though not legally enforceable, the MCC is widely accepted and followed to maintain a level playing field.**
 
 ### Body
 
@@ -18423,7 +18423,7 @@ Source Question: While the national political parties in India favour centralisa
 
 ### Introduction
 
-: **India’s federal structure of governance involves a delicate balance of power between the central government and the state governments. This balance is often influenced by the preferences of national and regional political parties. National parties tend to favor centralization, while regional parties advocate for state autonomy.**
+**India’s federal structure of governance involves a delicate balance of power between the central government and the state governments. This balance is often influenced by the preferences of national and regional political parties. National parties tend to favor centralization, while regional parties advocate for state autonomy.**
 
 ### Body
 
@@ -18584,7 +18584,7 @@ Source Question: The Indian party system is passing through a phase of transitio
 
 ### Introduction
 
-: **The Indian party system, with its diverse political landscape, has been experiencing a period of transition marked by a complex interplay of various forces. These changes have led to a scenario filled with contradictions and paradoxes, reflecting the evolving nature of India’s democracy and its political institutions.**
+**The Indian party system, with its diverse political landscape, has been experiencing a period of transition marked by a complex interplay of various forces. These changes have led to a scenario filled with contradictions and paradoxes, reflecting the evolving nature of India’s democracy and its political institutions.**
 
 ### Body
 
@@ -18976,7 +18976,7 @@ Source Question: Discuss the role of the National Commission for Backward Classe
 
 ### Introduction
 
-:** The National Commission for Backward Classes (NCBC) was initially established as a statutory body under the National Commission for Backward Classes Act, 1993. In 2018, with the 102nd Constitutional Amendment Act, the NCBC was granted constitutional status, becoming an essential institution for safeguarding the interests of the socially and educationally backward classes in India.
+** The National Commission for Backward Classes (NCBC) was initially established as a statutory body under the National Commission for Backward Classes Act, 1993. In 2018, with the 102nd Constitutional Amendment Act, the NCBC was granted constitutional status, becoming an essential institution for safeguarding the interests of the socially and educationally backward classes in India.
 
 <p align="center"><img src="pwonlyias/images/pw_polity_q651_img1.webp" alt="NCBC" /></p>
 
@@ -19164,7 +19164,7 @@ Source Question: How have the recommendations of the 14th Finance Commission of 
 
 ### Introduction
 
-: **The recommendations by the 14th Finance Commission of India aimed at increasing the share of resources transferred to states, enabling them to have more financial autonomy and flexibility to address their specific needs. These recommendations marked a significant shift in India’s fiscal federalism, leading to several changes in the states’ fiscal positions.**
+**The recommendations by the 14th Finance Commission of India aimed at increasing the share of resources transferred to states, enabling them to have more financial autonomy and flexibility to address their specific needs. These recommendations marked a significant shift in India’s fiscal federalism, leading to several changes in the states’ fiscal positions.**
 
 ### Body
 
@@ -19404,7 +19404,7 @@ Source Question: How is the Finance Commission of India constituted? What do you
 
 ### Introduction
 
-: **The Finance Commission of India is a constitutional body established under Article 280 of the Indian Constitution, responsible for recommending the distribution of financial resources between the Union and State governments. The Commission ensures fiscal federalism and equitable distribution of resources, thereby promoting balanced economic development across the country.**
+**The Finance Commission of India is a constitutional body established under Article 280 of the Indian Constitution, responsible for recommending the distribution of financial resources between the Union and State governments. The Commission ensures fiscal federalism and equitable distribution of resources, thereby promoting balanced economic development across the country.**
 
 ### Body
 
@@ -19606,7 +19606,7 @@ Source Question: Appropriate local community-level healthcare intervention is a 
 
 ### Introduction
 
-:**
+**
 
 ***‘Health for All’:*** is a universal goal aimed at ensuring equitable access to healthcare services for every individual. In India, achieving this goal requires appropriate local community-level healthcare interventions, which can address the unique health needs and challenges of diverse populations across the country.
 
@@ -19778,7 +19778,7 @@ Source Question: Whether National Commission for Scheduled Castes (NCSC) can enf
 
 ### Introduction
 
-: **The National Commission for Scheduled Castes (NCSC) is a constitutional body established to safeguard the rights and interests of the Scheduled Castes (SCs) in India. Its mandate includes monitoring the implementation of reservation policies and addressing grievances related to discrimination against SCs.**
+**The National Commission for Scheduled Castes (NCSC) is a constitutional body established to safeguard the rights and interests of the Scheduled Castes (SCs) in India. Its mandate includes monitoring the implementation of reservation policies and addressing grievances related to discrimination against SCs.**
 
 ### Body
 
@@ -19889,7 +19889,7 @@ Source Question: Exercise of CAG’s powers in relation to the accounts of the U
 
 ### Introduction
 
-: **The Comptroller and Auditor General (CAG) of India is a constitutional authority derived from Article 149 of the Indian Constitution. The CAG’s primary role is to audit the accounts of the Union and the States, ensuring transparency, accountability, and efficient utilization of public funds.**
+**The Comptroller and Auditor General (CAG) of India is a constitutional authority derived from Article 149 of the Indian Constitution. The CAG’s primary role is to audit the accounts of the Union and the States, ensuring transparency, accountability, and efficient utilization of public funds.**
 
 ### Body
 
@@ -19991,7 +19991,7 @@ Source Question: Discuss the recommendations of the 13th Finance Commission whic
 
 ### Introduction
 
-:** The 13th Finance Commission, chaired by Dr. Vijay Kelkar, covered the period from 2010 to 2015. It made several significant recommendations, marking a shift from its predecessors, to strengthen the financial status of local governments – both rural (Panchayats) and urban (Municipalities).
+** The 13th Finance Commission, chaired by Dr. Vijay Kelkar, covered the period from 2010 to 2015. It made several significant recommendations, marking a shift from its predecessors, to strengthen the financial status of local governments – both rural (Panchayats) and urban (Municipalities).
 
 **Body:**
 - **Performance-Based Grants:** For the first time, the 13th Finance Commission introduced the concept of performance-based grants, wherein a certain portion of the grants was tied to the achievement of specific performance criteria by the local bodies. This incentivised local bodies to improve their performance.
@@ -20167,7 +20167,7 @@ Source Question: The jurisdiction of the Central Bureau of Investigation(CBI) re
 
 ### Introduction
 
-: **The Central Bureau of Investigation (CBI) is India’s premier investigating agency, responsible for investigating high-profile cases related to corruption, economic offenses, and other serious crimes. It operates under the jurisdiction of the Ministry of Personnel, Public Grievances, and Pensions.**
+**The Central Bureau of Investigation (CBI) is India’s premier investigating agency, responsible for investigating high-profile cases related to corruption, economic offenses, and other serious crimes. It operates under the jurisdiction of the Ministry of Personnel, Public Grievances, and Pensions.**
 
 ### Body
 
@@ -20374,7 +20374,7 @@ Source Question: “The Attorney-General is the chief legal adviser and lawyer o
 
 ### Introduction
 
-:** The Attorney-General of India is a constitutional position defined under Article 76 of the Indian Constitution. As the highest law officer in the country, the Attorney-General serves as the chief legal adviser and lawyer for the Government of India, representing the government in legal matters and advising them on various issues of law.
+** The Attorney-General of India is a constitutional position defined under Article 76 of the Indian Constitution. As the highest law officer in the country, the Attorney-General serves as the chief legal adviser and lawyer for the Government of India, representing the government in legal matters and advising them on various issues of law.
 
 **Body:**
 - **Appointment and qualifications:** The Attorney-General is appointed by the President of India and must possess the qualifications required to be appointed as a judge of the Supreme Court, i.e., they must be a citizen of India, a distinguished jurist, or have been a judge of a High Court for at least five years, or an advocate of a High Court for at least ten years.
@@ -20553,7 +20553,7 @@ Source Question: How far do you agree with the view that tribunals curtail the j
 
 ### Introduction
 
-:**
+**
 
 **Tribunals in India** are specialized quasi-judicial bodies **under Article 323A and 323B,** established to adjudicate disputes in specific areas, such as tax, environment, and labor. They aim to provide efficient, cost-effective, and expert resolution of disputes, thereby reducing the burden on ordinary courts.
 
@@ -20673,7 +20673,7 @@ Source Question: What is a quasi judicial body? Explain with the help of concret
 
 ### Introduction
 
-: **Quasi-judicial bodies are administrative or non-judicial entities that possess the authority to adjudicate disputes, make decisions, and impose penalties in specific areas. Although not part of the traditional judicial system, they exercise powers akin to courts, thereby providing a more efficient and focused mechanism for dispute resolution.** Articles 323A and 323B of the Constitution empower the establishment of such bodies. **
+**Quasi-judicial bodies are administrative or non-judicial entities that possess the authority to adjudicate disputes, make decisions, and impose penalties in specific areas. Although not part of the traditional judicial system, they exercise powers akin to courts, thereby providing a more efficient and focused mechanism for dispute resolution.** Articles 323A and 323B of the Constitution empower the establishment of such bodies. **
 
 **
 
@@ -20781,7 +20781,7 @@ Source Question: “For achieving the desired objectives, it is necessary to ens
 
 ### Introduction
 
-: **Regulatory institutions play a crucial role in the effective functioning of a nation’s economy and social structure by maintaining checks and balances. To achieve their objectives, it is essential for these institutions to remain independent and autonomous. This autonomy allows them to make decisions based on technical expertise without undue political or commercial influence.**
+**Regulatory institutions play a crucial role in the effective functioning of a nation’s economy and social structure by maintaining checks and balances. To achieve their objectives, it is essential for these institutions to remain independent and autonomous. This autonomy allows them to make decisions based on technical expertise without undue political or commercial influence.**
 
 ### Body
 
@@ -20887,7 +20887,7 @@ Source Question: The setting up of a Rail Tariff Authority to regulate fares wil
 
 ### Introduction
 
-: **The Indian government’s proposal to establish a Rail Tariff Authority (RTA) to regulate fares in Indian Railways is a significant policy shift aimed at bringing transparency and rationalization in fare determination. The idea of an independent tariff regulatory authority for the railways was first recommended** by the Expert Group for Modernization of Indian Railways, headed by Dr. Sam Pitroda in 2012, and later reinforced by the Bibek Debroy Committee in 2015. **
+**The Indian government’s proposal to establish a Rail Tariff Authority (RTA) to regulate fares in Indian Railways is a significant policy shift aimed at bringing transparency and rationalization in fare determination. The idea of an independent tariff regulatory authority for the railways was first recommended** by the Expert Group for Modernization of Indian Railways, headed by Dr. Sam Pitroda in 2012, and later reinforced by the Bibek Debroy Committee in 2015. **
 
 **
 
@@ -20987,7 +20987,7 @@ Source Question: The product diversification of financial institutions and insur
 
 ### Introduction
 
-: **With the rapid evolution of financial markets and institutions in India, the landscape of products and services offered by financial institutions and insurance companies has diversified significantly. This diversification has led to a considerable overlap of products and services, strengthening the case for merging the two regulatory bodies, the Securities and Exchange Board of India (SEBI) and the Insurance Regulatory and Development Authority of India (IRDA).**
+**With the rapid evolution of financial markets and institutions in India, the landscape of products and services offered by financial institutions and insurance companies has diversified significantly. This diversification has led to a considerable overlap of products and services, strengthening the case for merging the two regulatory bodies, the Securities and Exchange Board of India (SEBI) and the Insurance Regulatory and Development Authority of India (IRDA).**
 
 ### Body
 
@@ -21661,7 +21661,7 @@ Source Question: Though the Human Rights Commissions have contributed immensely 
 
 ### Introduction
 
-: **Human Rights Commissions, both at the national and state levels, play a crucial role in promoting and protecting human rights in India. While they have made significant contributions in this regard, their effectiveness has often been undermined due to structural and practical limitations.**
+**Human Rights Commissions, both at the national and state levels, play a crucial role in promoting and protecting human rights in India. While they have made significant contributions in this regard, their effectiveness has often been undermined due to structural and practical limitations.**
 
 ### Body
 
@@ -21907,7 +21907,7 @@ Source Question: Which steps are required for constitutionalization of a Commiss
 
 ### Introduction
 
-: **The process of constitutionalization of a Commission involves enshrining it within the Constitution of India, providing it with a legal and institutional framework, as well as granting it powers and functions to carry out its mandate effectively.**
+**The process of constitutionalization of a Commission involves enshrining it within the Constitution of India, providing it with a legal and institutional framework, as well as granting it powers and functions to carry out its mandate effectively.**
 
 ### Body
 
@@ -22143,7 +22143,7 @@ Source Question: Appropriate local community-level healthcare intervention is a 
 
 ### Introduction
 
-:**
+**
 
 ***‘Health for All’:*** is a universal goal aimed at ensuring equitable access to healthcare services for every individual. In India, achieving this goal requires appropriate local community-level healthcare interventions, which can address the unique health needs and challenges of diverse populations across the country.
 
@@ -22283,7 +22283,7 @@ Source Question: Is the National Commission for Women able to strategise and tac
 
 ### Introduction
 
-: **The National Commission for Women (NCW) is a statutory body in India, established in 1992, to protect and promote the interests of women. It plays a crucial role in strategizing and tackling problems that women face in both public and private spheres. However, the effectiveness of the NCW in addressing these issues can be debated.**
+**The National Commission for Women (NCW) is a statutory body in India, established in 1992, to protect and promote the interests of women. It plays a crucial role in strategizing and tackling problems that women face in both public and private spheres. However, the effectiveness of the NCW in addressing these issues can be debated.**
 
 ### Body
 
@@ -22381,7 +22381,7 @@ Source Question: National Human Rights Commission (NHRC) in India can be most ef
 
 ### Introduction
 
-: **The National Human Rights Commission (NHRC) in India has played a significant role in promoting and protecting human rights standards since its inception in 1993. It is an autonomous public body that was established to protect and promote human rights, defined by the UN’s Universal Declaration of Human Rights, within India.**
+**The National Human Rights Commission (NHRC) in India has played a significant role in promoting and protecting human rights standards since its inception in 1993. It is an autonomous public body that was established to protect and promote human rights, defined by the UN’s Universal Declaration of Human Rights, within India.**
 
 ### Body
 
@@ -22506,7 +22506,7 @@ Source Question: A national Lokpal, however strong it may be, cannot resolve the
 
 ### Introduction
 
-: **Lokpal is an anti-corruption institution or ombudsman that represents the public interest. In the Indian context, the Lokpal and Lokayuktas Act, 2013, provides for the establishment of a Lokpal at the Center and Lokayuktas in states to investigate allegations of corruption against public functionaries.**
+**Lokpal is an anti-corruption institution or ombudsman that represents the public interest. In the Indian context, the Lokpal and Lokayuktas Act, 2013, provides for the establishment of a Lokpal at the Center and Lokayuktas in states to investigate allegations of corruption against public functionaries.**
 
 ### Body
 
@@ -22729,7 +22729,7 @@ Source Question: The Gati-Shakti Yojana needs meticulous co-ordination between t
 
 ### Introduction
 
-: **The Gati-Shakti Yojana, also known as the National Master Plan for Multi-modal Connectivity, is an ambitious initiative by the Indian government aimed at enhancing infrastructure development and providing seamless connectivity across various modes of transportation. The plan envisions a holistic approach to infrastructure development by integrating road, rail, air, and water transport networks, which is crucial for the nation’s economic growth and regional development.
+**The Gati-Shakti Yojana, also known as the National Master Plan for Multi-modal Connectivity, is an ambitious initiative by the Indian government aimed at enhancing infrastructure development and providing seamless connectivity across various modes of transportation. The plan envisions a holistic approach to infrastructure development by integrating road, rail, air, and water transport networks, which is crucial for the nation’s economic growth and regional development.
 
 <p align="center"><img src="pwonlyias/images/pw_governance_q682_img1.webp" alt="gati shakti " /></p>
 
@@ -22854,7 +22854,7 @@ Source Question: Two parallel run schemes of the Government, viz the Adhar card 
 
 ### Introduction
 
-: **The Aadhaar Card and the National Population Register (NPR) are two significant government initiatives in India that have garnered attention at national levels, leading to numerous debates and litigations. Both these schemes have unique features and objectives, and while they have certain commonalities, they are fundamentally different in their purpose and implementation.**
+**The Aadhaar Card and the National Population Register (NPR) are two significant government initiatives in India that have garnered attention at national levels, leading to numerous debates and litigations. Both these schemes have unique features and objectives, and while they have certain commonalities, they are fundamentally different in their purpose and implementation.**
 
 ### Body
 
@@ -22976,7 +22976,7 @@ Source Question: The basis of providing urban amenities in rural areas (PURA) is
 
 ### Introduction
 
-: **The Provision of Urban Amenities in Rural Areas (PURA) is an initiative launched by the Government of India to uplift and transform rural regions by providing urban amenities. The initiative is primarily based on the idea of establishing connectivity – physical, electronic, and knowledge connectivity. The essence of PURA lies in creating an interconnected rural and urban India, wherein rural regions are not left behind in the march towards holistic development.**
+**The Provision of Urban Amenities in Rural Areas (PURA) is an initiative launched by the Government of India to uplift and transform rural regions by providing urban amenities. The initiative is primarily based on the idea of establishing connectivity – physical, electronic, and knowledge connectivity. The essence of PURA lies in creating an interconnected rural and urban India, wherein rural regions are not left behind in the march towards holistic development.**
 
 ### Body
 
@@ -23429,7 +23429,7 @@ Source Question: “In the context of neo-liberal paradigm of development planni
 
 ### Introduction
 
-: **Multi-level planning, an approach that integrates decision-making and resource allocation across various government levels, is crucial in the neo-liberal paradigm of development planning. By emphasizing decentralization, market-oriented reforms, and public-private partnerships, it aims to increase cost-effectiveness and eliminate implementation blockages, resulting in more efficient and responsive development outcomes.**
+**Multi-level planning, an approach that integrates decision-making and resource allocation across various government levels, is crucial in the neo-liberal paradigm of development planning. By emphasizing decentralization, market-oriented reforms, and public-private partnerships, it aims to increase cost-effectiveness and eliminate implementation blockages, resulting in more efficient and responsive development outcomes.**
 
 ### Body
 
@@ -23682,7 +23682,7 @@ Source Question: Individual Parliamentarian’s role as the national law maker i
 
 ### Introduction
 
-: **In a democratic setup, individual parliamentarians play a critical role as national lawmakers, responsible for debating, scrutinizing, and passing legislation that impacts the nation. However, in recent years, there has been a perceived decline in the role of individual parliamentarians, which has adversely affected the quality of parliamentary debates and their outcomes.**
+**In a democratic setup, individual parliamentarians play a critical role as national lawmakers, responsible for debating, scrutinizing, and passing legislation that impacts the nation. However, in recent years, there has been a perceived decline in the role of individual parliamentarians, which has adversely affected the quality of parliamentary debates and their outcomes.**
 
 ### Body
 
@@ -23836,7 +23836,7 @@ Source Question: “India’s relations with Israel have, of late, acquired a de
 
 ### Introduction
 
-: **India-Israel relations exemplify realism in foreign policy. Diplomatic ties established in 1992 have grown rapidly, covering defense, homeland security, agriculture, water management, and education. Recent de-hyphenation of Israel and Palestine policies marks a turning point.**
+**India-Israel relations exemplify realism in foreign policy. Diplomatic ties established in 1992 have grown rapidly, covering defense, homeland security, agriculture, water management, and education. Recent de-hyphenation of Israel and Palestine policies marks a turning point.**
 
 ### Body
 
@@ -23930,7 +23930,7 @@ Source Question: Has the Indian governmental system responded adequately to the 
 
 ### Introduction
 
-: **In 1991, India introduced a set of economic policies known as Liberalization, Privatization, and Globalization (LPG) to revamp the country’s stagnant economy. The LPG policies aimed to liberalize the economy, promote private sector participation, and integrate India with the global economy. The policies brought about significant changes in the Indian economic landscape, resulting in increased foreign investment, trade, and technology transfer. However, the policies also faced criticism for exacerbating income inequality and neglecting social welfare concerns.**
+**In 1991, India introduced a set of economic policies known as Liberalization, Privatization, and Globalization (LPG) to revamp the country’s stagnant economy. The LPG policies aimed to liberalize the economy, promote private sector participation, and integrate India with the global economy. The policies brought about significant changes in the Indian economic landscape, resulting in increased foreign investment, trade, and technology transfer. However, the policies also faced criticism for exacerbating income inequality and neglecting social welfare concerns.**
 
 ### Body
 
@@ -24057,7 +24057,7 @@ Source Question: Though 100 percent FDI is already allowed in non-news media lik
 
 ### Introduction
 
-: **Foreign Direct Investment (FDI) plays a crucial role in the economic growth of a nation. In India, 100% FDI is allowed in non-news media like trade publications and general entertainment channels, while FDI in news media is capped at 26%. The government has been contemplating increasing FDI in news media, which could have various implications.**
+**Foreign Direct Investment (FDI) plays a crucial role in the economic growth of a nation. In India, 100% FDI is allowed in non-news media like trade publications and general entertainment channels, while FDI in news media is capped at 26%. The government has been contemplating increasing FDI in news media, which could have various implications.**
 
 ### Body
 
@@ -24692,7 +24692,7 @@ Source Question: Can Civil Society and Non-Governmental Organisations present an
 
 ### Introduction
 
-: **Civil Society Organizations (CSOs) and Non-Governmental Organizations (NGOs) play a pivotal role in India’s socio-economic landscape. They supplement and complement government efforts across various sectors, bridging gaps in public service delivery with innovative, grassroots-based solutions.** As per a 2019 report by the Ministry of Statistics and Programme Implementation, India houses approximately 3.2 million NGOs, outnumbering schools and health centers, underlining their significant role. **
+**Civil Society Organizations (CSOs) and Non-Governmental Organizations (NGOs) play a pivotal role in India’s socio-economic landscape. They supplement and complement government efforts across various sectors, bridging gaps in public service delivery with innovative, grassroots-based solutions.** As per a 2019 report by the Ministry of Statistics and Programme Implementation, India houses approximately 3.2 million NGOs, outnumbering schools and health centers, underlining their significant role. **
 
 **<p align="center"><img src="pwonlyias/images/pw_social_justice_q572_img1.webp" alt="image 2023 12 29T160545.886" /></p>
 
@@ -24843,7 +24843,7 @@ Source Question: “In the Indian governance system, the role of non-state actor
 
 ### Introduction
 
-: **The statement that “In the Indian governance system, the role of non-state actors has been only marginal” can be debated from different perspectives. While it is true that the state remains the primary actor in governance, the role of non-state actors has been growing in various sectors, challenging the notion of their marginality.**
+**The statement that “In the Indian governance system, the role of non-state actors has been only marginal” can be debated from different perspectives. While it is true that the state remains the primary actor in governance, the role of non-state actors has been growing in various sectors, challenging the notion of their marginality.**
 
 ### Body
 
@@ -24969,7 +24969,7 @@ Source Question: Examine critically the recent changes in the rules governing fo
 
 ### Introduction
 
-: **The Foreign Contribution (Regulation) Act (FCRA), 1976, was enacted in India to regulate the acceptance and usage of foreign contributions and hospitality by individuals and organizations. Over the years, the government has made several amendments to the Act, the most recent being in 2020. While the stated aim is to ensure transparency and accountability in foreign funding, some of these changes have sparked controversy.**
+**The Foreign Contribution (Regulation) Act (FCRA), 1976, was enacted in India to regulate the acceptance and usage of foreign contributions and hospitality by individuals and organizations. Over the years, the government has made several amendments to the Act, the most recent being in 2020. While the stated aim is to ensure transparency and accountability in foreign funding, some of these changes have sparked controversy.**
 
 ### Body
 
@@ -25059,7 +25059,7 @@ Source Question: How can the role of NGOs be strengthened in India for developme
 
 ### Introduction
 
-: **Non-Governmental Organizations (NGOs) have been crucial in the field of environmental protection in India, raising awareness, lobbying for stronger laws, and engaging in ground-level conservation efforts.**
+**Non-Governmental Organizations (NGOs) have been crucial in the field of environmental protection in India, raising awareness, lobbying for stronger laws, and engaging in ground-level conservation efforts.**
 
 ### Body
 
@@ -25283,7 +25283,7 @@ Source Question: Can the vicious cycle of gender inequality, poverty and malnutr
 
 ### Introduction
 
-:** Microfinancing of women Self-Help Groups (SHGs) has emerged as a powerful tool for empowering women and addressing various socio-economic challenges, such as gender inequality, poverty, and malnutrition. By providing women with access to financial resources and promoting economic independence, microfinancing can play a significant role in breaking the vicious cycle.
+** Microfinancing of women Self-Help Groups (SHGs) has emerged as a powerful tool for empowering women and addressing various socio-economic challenges, such as gender inequality, poverty, and malnutrition. By providing women with access to financial resources and promoting economic independence, microfinancing can play a significant role in breaking the vicious cycle.
 
 <p align="center"><img src="pwonlyias/images/pw_social_justice_q573_img1.webp" alt="image 2023 12 29T155821.331 1" /></p>
 
@@ -25525,7 +25525,7 @@ Source Question: “Micro-Finance as an anti-poverty vaccine, is aimed at asset 
 
 ### Introduction
 
-:** Micro-finance has emerged as a powerful instrument for poverty reduction, asset creation, and income security in developing countries, including India. Self Help Groups (SHGs) have been instrumental in providing microfinance services to rural poor, especially women.
+** Micro-finance has emerged as a powerful instrument for poverty reduction, asset creation, and income security in developing countries, including India. Self Help Groups (SHGs) have been instrumental in providing microfinance services to rural poor, especially women.
 
 <p align="center"><img src="pwonlyias/images/pw_social_justice_q521_img1.webp" alt="image 2023 12 29T162141.093" /></p>
 
@@ -25670,7 +25670,7 @@ Source Question: ‘The emergence of Self Help Groups(SHGs) in contemporary time
 
 ### Introduction
 
-:** The emergence of Self Help Groups (SHGs) in contemporary times has significantly contributed to developmental activities in India, particularly in rural areas. While it may be argued that the growth of SHGs indicates a slow withdrawal of the state from developmental activities, it can also be seen as a complementary strategy to empower communities and promote sustainable development.
+** The emergence of Self Help Groups (SHGs) in contemporary times has significantly contributed to developmental activities in India, particularly in rural areas. While it may be argued that the growth of SHGs indicates a slow withdrawal of the state from developmental activities, it can also be seen as a complementary strategy to empower communities and promote sustainable development.
 
 <p align="center"><img src="pwonlyias/images/pw_governance_q362_img1.webp" alt="image 2023 12 29T130744.720" /></p>
 
@@ -25791,7 +25791,7 @@ Source Question: The Self-Help Group (SHG) Bank Linkage Programme (SBLP), which 
 
 ### Introduction
 
-:** The Self-Help Group (SHG) Bank Linkage Programme (SBLP) is a unique initiative in India that aims to enable SHGs, particularly those composed of women from marginalized sections of society, to access formal banking services. Started in 1992 by NABARD (National Bank for Agriculture and Rural Development), the program has proven to be one of the most effective tools for poverty alleviation and women empowerment in India.
+** The Self-Help Group (SHG) Bank Linkage Programme (SBLP) is a unique initiative in India that aims to enable SHGs, particularly those composed of women from marginalized sections of society, to access formal banking services. Started in 1992 by NABARD (National Bank for Agriculture and Rural Development), the program has proven to be one of the most effective tools for poverty alleviation and women empowerment in India.
 
 **Body:**
 - **Financial Inclusion:** The SBLP has significantly contributed to financial inclusion in India by enabling millions of women from low-income groups to access formal banking services.
@@ -25893,7 +25893,7 @@ Source Question: The penetration of Self Help Groups (SHGs) in rural areas in pr
 
 ### Introduction
 
-:** Self Help Groups (SHGs), formed on the premise of collective effort and shared responsibility, have emerged as a pivotal social innovation for promoting participatory development, particularly in the rural context. By catalyzing small-scale entrepreneurship, enhancing financial literacy, and fostering economic inclusion, SHGs have the potential to address the socio-economic gaps that persist in rural areas.
+** Self Help Groups (SHGs), formed on the premise of collective effort and shared responsibility, have emerged as a pivotal social innovation for promoting participatory development, particularly in the rural context. By catalyzing small-scale entrepreneurship, enhancing financial literacy, and fostering economic inclusion, SHGs have the potential to address the socio-economic gaps that persist in rural areas.
 
 <p align="center"><img src="pwonlyias/images/pw_governance_q145_img1.webp" alt="image 2023 12 29T140011.366" /></p>
 
@@ -26017,7 +26017,7 @@ Source Question: The legitimacy and accountability of Self Help Groups (SHGs) an
 
 ### Introduction
 
-: **Self-Help Groups (SHGs) and Micro-Finance Institutions (MFIs) have emerged as significant instruments for promoting socio-economic change in India. They play a crucial role in financial inclusion, poverty alleviation, women empowerment, and grassroots-level social development.** As per the National Rural Livelihoods Mission (NRLM) data as of March 2019, there were around 6.9 million SHGs in India, **which indicates their widespread reach and influence. However, to ensure their sustained effectiveness and the realization of their full potential, it is necessary to systematically assess and scrutinize their legitimacy and accountability.**
+**Self-Help Groups (SHGs) and Micro-Finance Institutions (MFIs) have emerged as significant instruments for promoting socio-economic change in India. They play a crucial role in financial inclusion, poverty alleviation, women empowerment, and grassroots-level social development.** As per the National Rural Livelihoods Mission (NRLM) data as of March 2019, there were around 6.9 million SHGs in India, **which indicates their widespread reach and influence. However, to ensure their sustained effectiveness and the realization of their full potential, it is necessary to systematically assess and scrutinize their legitimacy and accountability.**
 
 ### Body
 
@@ -26375,7 +26375,7 @@ Source Question: Do you agree with the view that increasing dependence on donor 
 
 ### Introduction
 
-: **The role of donor agencies in financing development projects in India has grown over the years, leading to increased collaboration between these organizations and the government. While donor agencies can provide essential financial and technical support, there is a concern that their increasing involvement may undermine community participation in the development process.**
+**The role of donor agencies in financing development projects in India has grown over the years, leading to increased collaboration between these organizations and the government. While donor agencies can provide essential financial and technical support, there is a concern that their increasing involvement may undermine community participation in the development process.**
 
 ### Body
 
@@ -26894,7 +26894,7 @@ Source Question: E-governance is not only about utilization of the power of new 
 
 ### Introduction
 
-:** E-governance refers to the application of information and communication technology (ICT) to deliver government services, exchange information, facilitate communication, and improve the overall efficiency, transparency, and accountability of government processes.
+** E-governance refers to the application of information and communication technology (ICT) to deliver government services, exchange information, facilitate communication, and improve the overall efficiency, transparency, and accountability of government processes.
 
 <p align="center"><img src="pwonlyias/images/pw_governance_q405_img1.webp" alt="image 2023 12 29T122229.181" /></p>
 
@@ -27003,7 +27003,7 @@ Source Question: Though Citizen’s charters have been formulated by many public
 
 ### Introduction
 
-:** Introduced in India in 1997, Citizen’s Charters aimed to enhance governance by stipulating service delivery standards for public sector organizations. However, despite being in operation for over two decades, their impact on augmenting citizen satisfaction and improving service quality hasn’t been significantly substantial.
+** Introduced in India in 1997, Citizen’s Charters aimed to enhance governance by stipulating service delivery standards for public sector organizations. However, despite being in operation for over two decades, their impact on augmenting citizen satisfaction and improving service quality hasn’t been significantly substantial.
 
 <p align="center"><img src="pwonlyias/images/pw_governance_q67_img1.webp" alt="image 2023 12 29T180011.587" /></p>
 
@@ -27471,7 +27471,7 @@ Source Question: Reforming the government delivery system through the Direct Ben
 
 ### Introduction
 
-: **The Direct Benefit Transfer (DBT) Scheme is an initiative by the Indian government aimed at reforming the government delivery system by transferring subsidies and benefits directly into the bank accounts of eligible beneficiaries. This system aims to enhance transparency, reduce corruption, and improve the efficiency of welfare programs. While the DBT scheme is a progressive step, it also has certain limitations.**
+**The Direct Benefit Transfer (DBT) Scheme is an initiative by the Indian government aimed at reforming the government delivery system by transferring subsidies and benefits directly into the bank accounts of eligible beneficiaries. This system aims to enhance transparency, reduce corruption, and improve the efficiency of welfare programs. While the DBT scheme is a progressive step, it also has certain limitations.**
 
 ### Body
 
@@ -27658,7 +27658,7 @@ Source Question: “Recent amendments to the Right to Information Act will have 
 
 ### Introduction
 
-:** The Right to Information (RTI) Act was enacted in India in 2005 to promote transparency and accountability in the functioning of the government. The Information Commission, an independent institution, plays a crucial role in adjudicating on complaints and appeals filed under the RTI Act.
+** The Right to Information (RTI) Act was enacted in India in 2005 to promote transparency and accountability in the functioning of the government. The Information Commission, an independent institution, plays a crucial role in adjudicating on complaints and appeals filed under the RTI Act.
 
 <p align="center"><img src="pwonlyias/images/pw_polity_q533_img1.webp" alt="RTI" /></p>
 
@@ -27765,7 +27765,7 @@ Source Question: “Effectiveness of the government system at various levels and
 
 ### Introduction
 
-: **The relationship between the effectiveness of the government system at various levels and people’s participation in the governance system is indeed interdependent. In the context of India, this interdependence can be observed through the functioning of the three-tier government structure – the central, state, and local levels – and the active involvement of citizens in various aspects of governance.**
+**The relationship between the effectiveness of the government system at various levels and people’s participation in the governance system is indeed interdependent. In the context of India, this interdependence can be observed through the functioning of the three-tier government structure – the central, state, and local levels – and the active involvement of citizens in various aspects of governance.**
 
 ### Body
 
@@ -27907,7 +27907,7 @@ Source Question: In the integrity index of Transparency International, India sta
 
 ### Introduction
 
-: **According to Transparency International’s 2022 Corruption Perceptions Index (CPI), India ranked 85th out of 180 countries, with a score of 40 out of 100, indicating a significant issue with corruption and public morality. The low ranking can be attributed to various legal, political, social, and cultural factors that have contributed to the decline of public morality in India.**
+**According to Transparency International’s 2022 Corruption Perceptions Index (CPI), India ranked 85th out of 180 countries, with a score of 40 out of 100, indicating a significant issue with corruption and public morality. The low ranking can be attributed to various legal, political, social, and cultural factors that have contributed to the decline of public morality in India.**
 
 ### Body
 
@@ -28025,7 +28025,7 @@ Source Question: “If amendment bill to the Whistleblowers Act, 2011 tabled in 
 
 ### Introduction
 
-: **The Whistleblowers Protection Act, 2011, was enacted to provide a mechanism for the protection of whistleblowers who expose corruption, wrongdoing, or other illegal activities in public offices. However, concerns have been raised about the proposed amendment bill, which seeks to introduce certain changes to the Act.**
+**The Whistleblowers Protection Act, 2011, was enacted to provide a mechanism for the protection of whistleblowers who expose corruption, wrongdoing, or other illegal activities in public offices. However, concerns have been raised about the proposed amendment bill, which seeks to introduce certain changes to the Act.**
 
 ### Body
 
@@ -28125,7 +28125,7 @@ Source Question: In the light of the Satyam Scandal (2009), discuss the changes 
 
 ### Introduction
 
-:** The Satyam Scandal, often referred to as “India’s Enron,” was a corporate scandal affecting India-based company Satyam Computer Services in 2009, where the chairman Ramalinga Raju confessed that the company’s accounts had been falsified.
+** The Satyam Scandal, often referred to as “India’s Enron,” was a corporate scandal affecting India-based company Satyam Computer Services in 2009, where the chairman Ramalinga Raju confessed that the company’s accounts had been falsified.
 
 <p align="center"><img src="pwonlyias/images/pw_governance_q197_img1.webp" alt="image 2023 12 29T135123.917" /></p>
 
@@ -29136,7 +29136,7 @@ Source Question: Has digital illiteracy, particularly in rural areas, coupled wi
 
 ### Introduction
 
-: **The rapid advancement of digital technologies has transformed various aspects of modern life, making digital literacy and Information and Communication Technology (ICT) accessibility vital components for socio-economic development. However, in many rural areas, digital illiteracy and lack of ICT infrastructure continue to persist, creating barriers to progress and exacerbating existing inequalities.**
+**The rapid advancement of digital technologies has transformed various aspects of modern life, making digital literacy and Information and Communication Technology (ICT) accessibility vital components for socio-economic development. However, in many rural areas, digital illiteracy and lack of ICT infrastructure continue to persist, creating barriers to progress and exacerbating existing inequalities.**
 
 ### Body
 
@@ -29337,7 +29337,7 @@ Source Question: “The emergence of the Fourth Industrial Revolution (Digital R
 
 ### Introduction
 
-: **The Fourth Industrial Revolution, also known as the Digital Revolution, has brought about significant changes in various sectors of society, including governance. It is characterized by advancements in technology such as artificial intelligence, the internet of things, big data analytics, and blockchain, among others.**
+**The Fourth Industrial Revolution, also known as the Digital Revolution, has brought about significant changes in various sectors of society, including governance. It is characterized by advancements in technology such as artificial intelligence, the internet of things, big data analytics, and blockchain, among others.**
 
 ### Body
 
@@ -29545,7 +29545,7 @@ Source Question: What are the methods used by the farmers’ organisation to inf
 
 ### Introduction
 
-: **Farmers’ organizations play a significant role in representing the interests of the farming community in India. They seek to influence policy-makers to ensure that policies and legislation are favorable to farmers and address their concerns.**
+**Farmers’ organizations play a significant role in representing the interests of the farming community in India. They seek to influence policy-makers to ensure that policies and legislation are favorable to farmers and address their concerns.**
 
 ### Body
 
@@ -29717,7 +29717,7 @@ Source Question: E-governance is not only about utilization of the power of new 
 
 ### Introduction
 
-:** E-governance refers to the application of information and communication technology (ICT) to deliver government services, exchange information, facilitate communication, and improve the overall efficiency, transparency, and accountability of government processes.
+** E-governance refers to the application of information and communication technology (ICT) to deliver government services, exchange information, facilitate communication, and improve the overall efficiency, transparency, and accountability of government processes.
 
 <p align="center"><img src="pwonlyias/images/pw_governance_q405_img1.webp" alt="image 2023 12 29T122229.181" /></p>
 
@@ -29798,7 +29798,7 @@ Source Question: Electronic cash transfer system for the welfare schemes is an a
 
 ### Introduction
 
-: **India’s public welfare system has historically been plagued by corruption, inefficiencies, and leakages. To address these issues, the government has introduced an electronic cash transfer system, known as Direct Benefit Transfer (DBT), for welfare schemes. This approach aims to transfer subsidies directly to the people through their bank accounts, thus minimizing intermediaries, reducing corruption, eliminating wastage, and facilitating reforms.
+**India’s public welfare system has historically been plagued by corruption, inefficiencies, and leakages. To address these issues, the government has introduced an electronic cash transfer system, known as Direct Benefit Transfer (DBT), for welfare schemes. This approach aims to transfer subsidies directly to the people through their bank accounts, thus minimizing intermediaries, reducing corruption, eliminating wastage, and facilitating reforms.
 
 **Body:**
 - **Minimizing Corruption:** Electronic cash transfers can significantly reduce corruption by bypassing intermediaries who might siphon off funds.
@@ -30199,7 +30199,7 @@ Source Question: “Institutional quality is a crucial driver of economic perfor
 
 ### Introduction
 
-: **Institutional quality greatly influences economic performance by enabling effective policy implementation and good governance. As a key component of a country’s administration, the civil service plays a crucial role in policy execution and fostering democracy.**
+**Institutional quality greatly influences economic performance by enabling effective policy implementation and good governance. As a key component of a country’s administration, the civil service plays a crucial role in policy execution and fostering democracy.**
 
 ### Body
 
@@ -30325,7 +30325,7 @@ Source Question: Initially Civil Services in India were designed to achieve the 
 
 ### Introduction
 
-: **The Civil Services in India were established to uphold neutrality and effectiveness in governance. However, in recent times, concerns have arisen regarding their ability to maintain these principles, sparking debates on the need for drastic reforms.**
+**The Civil Services in India were established to uphold neutrality and effectiveness in governance. However, in recent times, concerns have arisen regarding their ability to maintain these principles, sparking debates on the need for drastic reforms.**
 
 ### Body
 
@@ -30444,7 +30444,7 @@ Source Question: “Traditional bureaucratic structure and culture have hampered
 
 ### Introduction
 
-: **India’s traditional bureaucratic structure and culture have been criticized for hindering the country’s process of socio-economic development. The bureaucracy is known for its complex and time-consuming procedures, lack of transparency, and corrupt practices, which have often impeded the implementation of development policies and programs.**
+**India’s traditional bureaucratic structure and culture have been criticized for hindering the country’s process of socio-economic development. The bureaucracy is known for its complex and time-consuming procedures, lack of transparency, and corrupt practices, which have often impeded the implementation of development policies and programs.**
 
 ### Body
 
@@ -30554,7 +30554,7 @@ Source Question: Has the Cadre based Civil Services Organization been the cause 
 
 ### Introduction
 
-: **The Indian Administrative Service (IAS) and other cadre-based civil services have played a significant role in the administration and governance of India since independence. While these services have been instrumental in implementing numerous developmental and welfare schemes across the country, they have also been criticized for being a cause of slow change due to their bureaucratic structure and other issues.**
+**The Indian Administrative Service (IAS) and other cadre-based civil services have played a significant role in the administration and governance of India since independence. While these services have been instrumental in implementing numerous developmental and welfare schemes across the country, they have also been criticized for being a cause of slow change due to their bureaucratic structure and other issues.**
 
 ### Body
 
@@ -30688,7 +30688,7 @@ Source Question: Examine the main provisions of the National Child Policy and th
 
 ### Introduction
 
-: **The National Child Policy (NCP) was introduced in India in 2013 to provide a comprehensive framework for the protection, development, and well-being of children in the country. It covers a wide range of issues, including health, nutrition, education, protection, and participation.**
+**The National Child Policy (NCP) was introduced in India in 2013 to provide a comprehensive framework for the protection, development, and well-being of children in the country. It covers a wide range of issues, including health, nutrition, education, protection, and participation.**
 
 ### Body
 
@@ -30916,7 +30916,7 @@ Source Question: The Rights of Persons with Disabilities Act, 2016 remains only 
 
 ### Introduction
 
-: **In India, the 2011 Census data indicates that approximately 2.21% of the population has some form of disability. The Rights of Persons with Disabilities Act, 2016 (RPWD Act) is a comprehensive legislation aimed at empowering persons with disabilities, promoting their rights, and ensuring an inclusive society where they can participate on an equal footing with others.**
+**In India, the 2011 Census data indicates that approximately 2.21% of the population has some form of disability. The Rights of Persons with Disabilities Act, 2016 (RPWD Act) is a comprehensive legislation aimed at empowering persons with disabilities, promoting their rights, and ensuring an inclusive society where they can participate on an equal footing with others.**
 
 ### Body
 
@@ -31054,7 +31054,7 @@ Source Question: Does the Rights of Persons with Disabilities Act, 2016 ensure e
 
 ### Introduction
 
-: **The Rights of Persons with Disabilities Act, 2016 (RPWD Act) was enacted in India to empower and include persons with disabilities in the society, ensuring that they can enjoy equal rights, opportunities, and dignity. The Act seeks to provide a comprehensive and effective mechanism for their inclusion and empowerment.**
+**The Rights of Persons with Disabilities Act, 2016 (RPWD Act) was enacted in India to empower and include persons with disabilities in the society, ensuring that they can enjoy equal rights, opportunities, and dignity. The Act seeks to provide a comprehensive and effective mechanism for their inclusion and empowerment.**
 
 ### Body
 
@@ -31481,7 +31481,7 @@ Source Question: Performance of welfare schemes that are implemented for vulnera
 
 ### Introduction
 
-: **Welfare schemes aimed at vulnerable sections are crucial for promoting inclusive development and reducing disparities. However, the performance of these schemes often falls short of expectations due to the absence of awareness and active involvement of the target groups at all stages of the policy process.**
+**Welfare schemes aimed at vulnerable sections are crucial for promoting inclusive development and reducing disparities. However, the performance of these schemes often falls short of expectations due to the absence of awareness and active involvement of the target groups at all stages of the policy process.**
 
 ### Body
 
@@ -31573,7 +31573,7 @@ Source Question: Do government’s schemes for up-lifting vulnerable and backwar
 
 ### Introduction
 
-: **The government’s schemes intended to uplift vulnerable and backward communities are typically designed to ensure social justice and bridge the gap between different sections of society. These schemes often involve reservations in education and jobs, financial assistance, skill development programs, and access to social resources like housing, healthcare, and sanitation.**
+**The government’s schemes intended to uplift vulnerable and backward communities are typically designed to ensure social justice and bridge the gap between different sections of society. These schemes often involve reservations in education and jobs, financial assistance, skill development programs, and access to social resources like housing, healthcare, and sanitation.**
 
 ### Body
 
@@ -31658,7 +31658,7 @@ Source Question: The Central Government frequently complains on the poor perform
 
 ### Introduction
 
-: **India’s federal structure is characterized by the distribution of powers between the Central and State Governments. While the Central Government is responsible for formulating broad policies, the State Governments are responsible for implementing these policies at the grassroots level. This often leads to a blame game, with the Central Government criticizing State Governments for poor implementation and the States blaming the Centre for lack of flexibility in centrally sponsored schemes (CSS).**
+**India’s federal structure is characterized by the distribution of powers between the Central and State Governments. While the Central Government is responsible for formulating broad policies, the State Governments are responsible for implementing these policies at the grassroots level. This often leads to a blame game, with the Central Government criticizing State Governments for poor implementation and the States blaming the Centre for lack of flexibility in centrally sponsored schemes (CSS).**
 
 ### Body
 
@@ -32039,7 +32039,7 @@ Source Question: “Though women in post-Independent India have excelled in vari
 
 ### Introduction
 
-: **While women in post-Independent India have made significant strides in various fields, patriarchal attitudes and social norms continue to hinder the progress of gender equality and the feminist movement. Beyond education and empowerment schemes, a comprehensive approach involving various interventions is required to address these challenges and transform the social milieu.**
+**While women in post-Independent India have made significant strides in various fields, patriarchal attitudes and social norms continue to hinder the progress of gender equality and the feminist movement. Beyond education and empowerment schemes, a comprehensive approach involving various interventions is required to address these challenges and transform the social milieu.**
 
 ### Body
 
@@ -32343,7 +32343,7 @@ Source Question: The Right of Children to Free and Compulsory Education Act, 200
 
 ### Introduction
 
-: **The Right of Children to Free and Compulsory Education (RTE) Act, 2009, is a landmark legislation in India that aims to provide free and compulsory education for all children aged 6-14 years. While the Act has made significant strides in improving access to education, there are concerns that it may not be sufficient in promoting an incentive-based system for children’s education without generating awareness about the importance of schooling.**
+**The Right of Children to Free and Compulsory Education (RTE) Act, 2009, is a landmark legislation in India that aims to provide free and compulsory education for all children aged 6-14 years. While the Act has made significant strides in improving access to education, there are concerns that it may not be sufficient in promoting an incentive-based system for children’s education without generating awareness about the importance of schooling.**
 
 ### Body
 
@@ -32570,7 +32570,7 @@ Source Question: “Earn while you learn scheme needs to be strengthened to make
 
 ### Introduction
 
-:** The “Earn while you Learn” scheme combines vocational education and skill training with on-the-job practical experience, providing students with the opportunity to gain real-world work experience while pursuing their studies. This approach is essential for making vocational education and skill training more meaningful and relevant to the demands of the job market.
+** The “Earn while you Learn” scheme combines vocational education and skill training with on-the-job practical experience, providing students with the opportunity to gain real-world work experience while pursuing their studies. This approach is essential for making vocational education and skill training more meaningful and relevant to the demands of the job market.
 
 **Body:**
 - **Relevance to industry requirements:** Strengthening the “Earn while you Learn” scheme ensures that the vocational education and skill training curricula are aligned with industry requirements.
@@ -32761,7 +32761,7 @@ Source Question: National Education Policy 2020 is in conformity with the Sustai
 
 ### Introduction
 
-: **The National Education Policy (NEP) 2020 aims to revamp the education system in India and align it with the Sustainable Development Goal 4 (SDG-4) – “Ensure inclusive and equitable quality education and promote lifelong learning opportunities for all” by 2030. This policy has introduced significant changes and reforms to the education system in India, focusing on accessibility, quality, equity, and inclusivity.**
+**The National Education Policy (NEP) 2020 aims to revamp the education system in India and align it with the Sustainable Development Goal 4 (SDG-4) – “Ensure inclusive and equitable quality education and promote lifelong learning opportunities for all” by 2030. This policy has introduced significant changes and reforms to the education system in India, focusing on accessibility, quality, equity, and inclusivity.**
 
 ### Body
 
@@ -32890,7 +32890,7 @@ Source Question: The quality of higher education in India requires major improve
 
 ### Introduction
 
-:** The quality of higher education in India is a matter of concern as highlighted by various international rankings like the QS World University Rankings and Times Higher Education World University Rankings, where Indian universities often rank low.
+** The quality of higher education in India is a matter of concern as highlighted by various international rankings like the QS World University Rankings and Times Higher Education World University Rankings, where Indian universities often rank low.
 
 <p align="center"><img src="pwonlyias/images/pw_social_justice_q222_img1.webp" alt="image 2023 12 29T172639.773" /></p>
 
@@ -32995,7 +32995,7 @@ Source Question: Should the premier institutes like IITs/IIMs be allowed to reta
 
 ### Introduction
 
-: **Premier institutes such as the Indian Institutes of Technology (IITs) and Indian Institutes of Management (IIMs) hold a distinguished position in the realm of higher education in India. These institutions have garnered immense recognition for their academic excellence and their role in producing highly skilled professionals. However, a pertinent question arises as to whether these premier institutes should retain their esteemed status while being granted greater academic independence in designing courses and determining the mode and criteria for student selection.**
+**Premier institutes such as the Indian Institutes of Technology (IITs) and Indian Institutes of Management (IIMs) hold a distinguished position in the realm of higher education in India. These institutions have garnered immense recognition for their academic excellence and their role in producing highly skilled professionals. However, a pertinent question arises as to whether these premier institutes should retain their esteemed status while being granted greater academic independence in designing courses and determining the mode and criteria for student selection.**
 
 ### Body
 
@@ -33412,7 +33412,7 @@ Source Question: “Besides being a moral imperative of a Welfare State, primary
 
 ### Introduction
 
-: **Primary health care is a fundamental aspect of a welfare state and plays a crucial role in promoting sustainable development. As a moral imperative, it ensures that all citizens have access to essential health services, while also serving as a foundation for building a healthy and productive society.**
+**Primary health care is a fundamental aspect of a welfare state and plays a crucial role in promoting sustainable development. As a moral imperative, it ensures that all citizens have access to essential health services, while also serving as a foundation for building a healthy and productive society.**
 
 ### Body
 
@@ -33653,7 +33653,7 @@ Source Question: In order to enhance the prospects of social development, sound 
 
 ### Introduction
 
-: **Achieving social development is inextricably linked to the health and well-being of a population. Geriatric and maternal health care are two vital areas that significantly impact societal progress, underscoring the importance of well-designed and comprehensive policies to meet their unique needs.**
+**Achieving social development is inextricably linked to the health and well-being of a population. Geriatric and maternal health care are two vital areas that significantly impact societal progress, underscoring the importance of well-designed and comprehensive policies to meet their unique needs.**
 
 ### Body
 
@@ -33851,7 +33851,7 @@ Source Question: Appropriate local community-level healthcare intervention is a 
 
 ### Introduction
 
-:**
+**
 
 ***‘Health for All’:*** is a universal goal aimed at ensuring equitable access to healthcare services for every individual. In India, achieving this goal requires appropriate local community-level healthcare interventions, which can address the unique health needs and challenges of diverse populations across the country.
 
@@ -33976,7 +33976,7 @@ Source Question: ‘To ensure effective implementation of policies addressing wa
 
 ### Introduction
 
-:** The Water, Sanitation, and Hygiene (WASH) scheme aims to improve public health and well-being by providing access to clean water, adequate sanitation facilities, and promoting good hygiene practices. Ensuring effective implementation of policies addressing WASH needs requires synchronizing the identification of beneficiary segments with the anticipated outcomes.
+** The Water, Sanitation, and Hygiene (WASH) scheme aims to improve public health and well-being by providing access to clean water, adequate sanitation facilities, and promoting good hygiene practices. Ensuring effective implementation of policies addressing WASH needs requires synchronizing the identification of beneficiary segments with the anticipated outcomes.
 
 <p align="center"><img src="pwonlyias/images/pw_social_justice_q370_img1.webp" alt="image 2023 12 29T165115.243" /></p>
 
@@ -34065,7 +34065,7 @@ Source Question: Public health system has limitations in providing universal hea
 
 ### Introduction
 
-: **The public health system in many countries, including India, faces significant challenges in providing universal health coverage due to limited resources, inadequate infrastructure, and a shortage of healthcare professionals, among other factors.**
+**The public health system in many countries, including India, faces significant challenges in providing universal health coverage due to limited resources, inadequate infrastructure, and a shortage of healthcare professionals, among other factors.**
 
 ### Body
 
@@ -34184,7 +34184,7 @@ Source Question: Identify the Millennium Development Goals (MDGs) that are relat
 
 ### Introduction
 
-: **The Millennium Development Goals (MDGs) were eight international development goals established following the Millennium Summit of the United Nations in 2000. Among these, three MDGs directly relate to health: MDG 4 aimed at reducing child mortality rates; MDG 5 focused on improving maternal health; and MDG 6 combatted HIV/AIDS, malaria, and other diseases.**
+**The Millennium Development Goals (MDGs) were eight international development goals established following the Millennium Summit of the United Nations in 2000. Among these, three MDGs directly relate to health: MDG 4 aimed at reducing child mortality rates; MDG 5 focused on improving maternal health; and MDG 6 combatted HIV/AIDS, malaria, and other diseases.**
 
 ### Body
 
@@ -35069,7 +35069,7 @@ Source Question: “Demographic Dividend in India will remain only theoretical u
 
 ### Introduction
 
-: **India is home to one of the world’s largest and youngest populations. As of 2023, approximately 65% of the country’s population is in the working-age group of 15-64 years, presenting a significant demographic dividend. This demographic dividend refers to the potential economic benefits that can be derived from having a large, young, and working-age population. However, this dividend can only be fully realized if the population is well-educated, adequately skilled, and employable. The Indian government has recognized this imperative and has implemented various measures to enhance the human capacity of the population.**
+**India is home to one of the world’s largest and youngest populations. As of 2023, approximately 65% of the country’s population is in the working-age group of 15-64 years, presenting a significant demographic dividend. This demographic dividend refers to the potential economic benefits that can be derived from having a large, young, and working-age population. However, this dividend can only be fully realized if the population is well-educated, adequately skilled, and employable. The Indian government has recognized this imperative and has implemented various measures to enhance the human capacity of the population.**
 
 ### Body
 
@@ -35164,7 +35164,7 @@ Source Question: An athlete participates in Olympics for personal triumph and na
 
 ### Introduction
 
-: **Both state-sponsored talent hunt and cultivation, as well as the reward mechanism, play crucial roles in nurturing athletic talent and promoting sporting excellence at international levels such as the Olympics. They serve different yet complementary purposes in the holistic development of athletes.**
+**Both state-sponsored talent hunt and cultivation, as well as the reward mechanism, play crucial roles in nurturing athletic talent and promoting sporting excellence at international levels such as the Olympics. They serve different yet complementary purposes in the holistic development of athletes.**
 
 ### Body
 
@@ -35308,7 +35308,7 @@ Source Question: Professor Amartya Sen has advocated important reforms in the re
 
 ### Introduction
 
-: **Nobel laureate Professor Amartya Sen has consistently emphasized the critical role of primary education and primary health care in driving human development, social progress, and economic growth. To unlock their full potential, it is essential to address the challenges faced by these sectors and adopt effective strategies for improvement.**
+**Nobel laureate Professor Amartya Sen has consistently emphasized the critical role of primary education and primary health care in driving human development, social progress, and economic growth. To unlock their full potential, it is essential to address the challenges faced by these sectors and adopt effective strategies for improvement.**
 
 ### Body
 
@@ -35502,7 +35502,7 @@ Source Question: “The Attorney-General is the chief legal adviser and lawyer o
 
 ### Introduction
 
-:** The Attorney-General of India is a constitutional position defined under Article 76 of the Indian Constitution. As the highest law officer in the country, the Attorney-General serves as the chief legal adviser and lawyer for the Government of India, representing the government in legal matters and advising them on various issues of law.
+** The Attorney-General of India is a constitutional position defined under Article 76 of the Indian Constitution. As the highest law officer in the country, the Attorney-General serves as the chief legal adviser and lawyer for the Government of India, representing the government in legal matters and advising them on various issues of law.
 
 **Body:**
 - **Appointment and qualifications:** The Attorney-General is appointed by the President of India and must possess the qualifications required to be appointed as a judge of the Supreme Court, i.e., they must be a citizen of India, a distinguished jurist, or have been a judge of a High Court for at least five years, or an advocate of a High Court for at least ten years.
@@ -35665,7 +35665,7 @@ Source Question: How far do you agree with the view that the focus on lack of av
 
 ### Introduction
 
-:**
+**
 
 **The 2022 Global Hunger Index ranks India 107th out of 121 countries, highlighting a critical hunger issue. With the world’s highest child wasting rate at 19.3%,** the problem extends beyond food scarcity. It’s a complex interplay of socio-economic factors, health and sanitation issues, and the effectiveness of human development policies. Therefore, a comprehensive approach is vital to address India’s hunger challenge holistically.
 
@@ -35757,7 +35757,7 @@ Source Question: The concept of Mid Day Meal (MDM) scheme is almost a century ol
 
 ### Introduction
 
-: **The Mid Day Meal Scheme (MDM) is a significant government initiative in India aimed at enhancing the nutritional status and educational attainment of school-age children. Initiated in the Madras Presidency during pre-independent India, the scheme has been revitalized in most states in recent decades.**
+**The Mid Day Meal Scheme (MDM) is a significant government initiative in India aimed at enhancing the nutritional status and educational attainment of school-age children. Initiated in the Madras Presidency during pre-independent India, the scheme has been revitalized in most states in recent decades.**
 
 ### Body
 
@@ -35914,7 +35914,7 @@ Source Question: Hunger and Poverty are the biggest challenges for good governan
 
 ### Introduction
 
-: **Despite India’s economic progress, it grapples with severe hunger and poverty issues.** The 2022 Global Hunger Index places India at 107 out of 121 countries, with the world’s highest child wasting rate at 19.3%. **Concurrently,** although poverty rates have decreased over the years, the pandemic’s impact suggests a potential rise, **with a significant portion of the population still living in extreme poverty. These persistent challenges underscore the need for comprehensive and inclusive policies.** <p align="center"><img src="pwonlyias/images/pw_social_justice_q340_img1.webp" alt="image 2023 12 29T170206.454" /></p> Body: **
+**Despite India’s economic progress, it grapples with severe hunger and poverty issues.** The 2022 Global Hunger Index places India at 107 out of 121 countries, with the world’s highest child wasting rate at 19.3%. **Concurrently,** although poverty rates have decreased over the years, the pandemic’s impact suggests a potential rise, **with a significant portion of the population still living in extreme poverty. These persistent challenges underscore the need for comprehensive and inclusive policies.** <p align="center"><img src="pwonlyias/images/pw_social_justice_q340_img1.webp" alt="image 2023 12 29T170206.454" /></p> Body: **
 
 ***Progress made by successive governments:*:**
 
@@ -36561,7 +36561,7 @@ Source Question: Besides the welfare schemes, India needs deft management of inf
 
 ### Introduction
 
-: **India’s welfare schemes have played a significant role in alleviating poverty and improving the living conditions of the poor and underprivileged sections of society. However, to achieve inclusive and sustainable growth, the country also needs to address broader economic challenges, particularly inflation and unemployment.**
+**India’s welfare schemes have played a significant role in alleviating poverty and improving the living conditions of the poor and underprivileged sections of society. However, to achieve inclusive and sustainable growth, the country also needs to address broader economic challenges, particularly inflation and unemployment.**
 
 ### Body
 
@@ -36831,7 +36831,7 @@ Source Question: “The incidence and intensity of poverty are more important in
 
 ### Introduction
 
-: **The United Nations Multidimensional Poverty Index (MPI) goes beyond income-based measures of poverty to assess various aspects of well-being and deprivation. The MPI evaluates three key dimensions – health, education, and standard of living – through ten indicators.
+**The United Nations Multidimensional Poverty Index (MPI) goes beyond income-based measures of poverty to assess various aspects of well-being and deprivation. The MPI evaluates three key dimensions – health, education, and standard of living – through ten indicators.
 
 <p align="center"><img src="pwonlyias/images/pw_social_justice_q539_img1.webp" alt="image 2023 12 29T161524.618" /></p>
 
@@ -36973,7 +36973,7 @@ Source Question: “Poverty Alleviation programs in India remain mere showpieces
 
 ### Introduction
 
-:**
+**
 
 India, in its pursuit of inclusive growth, continues to be plagued by the longstanding challenges of poverty and inequality. While numerous poverty alleviation programs are in place, their effectiveness is often curtailed, partially due to insufficient political commitment. **According to the World Bank data, by 2021, there had been a gradual decline in poverty rates in India. However, the COVID-19 pandemic has likely intensified these issues.** This scenario underscores the urgent necessity for robust political commitment and systemic reforms to alleviate poverty.
 
@@ -37089,7 +37089,7 @@ Source Question: Though there have been several different estimates of poverty i
 
 ### Introduction
 
-: **The measurement of poverty in India has been a subject of intense debate with various estimates put forth by different organizations and committees. Though the methods and exact figures vary, there is a broad consensus that poverty levels have decreased over time.**
+**The measurement of poverty in India has been a subject of intense debate with various estimates put forth by different organizations and committees. Though the methods and exact figures vary, there is a broad consensus that poverty levels have decreased over time.**
 
 ### Body
 
@@ -37286,7 +37286,7 @@ Source Question: Discuss the role of the Election Commission of India in the lig
 
 ### Introduction
 
-: **The** Election Commission of India (ECI), **as mentioned** under Article 324 **of the Indian Constitution, is an autonomous constitutional body that oversees the country’s electoral processes, ensuring free, fair elections, transparency, and upholding democratic principles. A key instrument used by the ECI is the Model Code of Conduct (MCC), a set of guidelines regulating the behavior of political parties, candidates, and government officials during elections. Though not legally enforceable, the MCC is widely accepted and followed to maintain a level playing field.**
+**The** Election Commission of India (ECI), **as mentioned** under Article 324 **of the Indian Constitution, is an autonomous constitutional body that oversees the country’s electoral processes, ensuring free, fair elections, transparency, and upholding democratic principles. A key instrument used by the ECI is the Model Code of Conduct (MCC), a set of guidelines regulating the behavior of political parties, candidates, and government officials during elections. Though not legally enforceable, the MCC is widely accepted and followed to maintain a level playing field.**
 
 ### Body
 
@@ -37424,7 +37424,7 @@ Source Question: Project “Mausam” is considered a unique foreign policy init
 
 ### Introduction
 
-:** Project Mausam is an Indian government initiative launched in 2014 to explore the historical and cultural linkages between countries in the Indian Ocean region. The project seeks to promote greater cultural understanding and people-to-people exchanges between India and its neighbors, enhancing regional cooperation and stability.
+** Project Mausam is an Indian government initiative launched in 2014 to explore the historical and cultural linkages between countries in the Indian Ocean region. The project seeks to promote greater cultural understanding and people-to-people exchanges between India and its neighbors, enhancing regional cooperation and stability.
 
 **The project has a strategic dimension that can help India advance its strategic interests in the region.**
 - **Strategic dimension of Project Mausam:**
@@ -37510,7 +37510,7 @@ Source Question: Terrorist activities and mutual distrust have clouded India &#8
 
 ### Introduction
 
-: **India-Pakistan relations have been fraught with mutual distrust and terrorist activities, making it challenging to establish a peaceful and cooperative relationship. The use of soft power tools, Sports and cultural exchanges, can help promote goodwill between the two countries and foster greater understanding and cooperation.**
+**India-Pakistan relations have been fraught with mutual distrust and terrorist activities, making it challenging to establish a peaceful and cooperative relationship. The use of soft power tools, Sports and cultural exchanges, can help promote goodwill between the two countries and foster greater understanding and cooperation.**
 
 ### Body
 
@@ -37586,7 +37586,7 @@ Source Question: Discuss the political developments in Maldives in the last two 
 
 ### Introduction
 
-: **In the past two years, political developments in Maldives have presented both opportunities and concerns for India. The victory of Ibrahim Mohamed Solih in the presidential election signaled a shift towards democracy, but challenges such as China’s growing influence, security threats, and the need for regional stability have emerged.**
+**In the past two years, political developments in Maldives have presented both opportunities and concerns for India. The victory of Ibrahim Mohamed Solih in the presidential election signaled a shift towards democracy, but challenges such as China’s growing influence, security threats, and the need for regional stability have emerged.**
 
 ### Body
 
@@ -37692,7 +37692,7 @@ Source Question: Discuss Section 66A of IT Act, with reference to its alleged vi
 
 ### Introduction
 
-: **Section 66A of the Information Technology (IT) Act, 2000 of India was enacted with the intent of combating cybercrimes, particularly those involving communication services. This provision criminalized sending offensive messages through communication services, which included any information that was grossly offensive, false and meant for the purpose of causing annoyance, inconvenience, danger, obstruction, insult, injury, criminal intimidation, enmity, hatred or ill will.**
+**Section 66A of the Information Technology (IT) Act, 2000 of India was enacted with the intent of combating cybercrimes, particularly those involving communication services. This provision criminalized sending offensive messages through communication services, which included any information that was grossly offensive, false and meant for the purpose of causing annoyance, inconvenience, danger, obstruction, insult, injury, criminal intimidation, enmity, hatred or ill will.**
 
 ### Body
 
@@ -37779,7 +37779,7 @@ Source Question: The protests in Shahbag Square in Dhaka in Bangladesh reveal a 
 
 ### Introduction
 
-: **The protests in Shahbag Square in Dhaka, Bangladesh, which started in February 2013, were primarily against the war crimes trial of leaders of the Jamaat-e-Islami party. They highlighted the ideological divide between the secular, liberal forces and the Islamist groups in Bangladesh.**
+**The protests in Shahbag Square in Dhaka, Bangladesh, which started in February 2013, were primarily against the war crimes trial of leaders of the Jamaat-e-Islami party. They highlighted the ideological divide between the secular, liberal forces and the Islamist groups in Bangladesh.**
 
 ### Body
 
@@ -37869,7 +37869,7 @@ Source Question: What is meant by Gujral doctrine? Does it have any relevance to
 
 ### Introduction
 
-:** The Gujral Doctrine refers to a set of principles proposed by the former Indian Prime Minister, I.K. Gujral, in the 1990s. The doctrine aims to promote peaceful and friendly relations between India and its neighboring countries, particularly Pakistan.
+** The Gujral Doctrine refers to a set of principles proposed by the former Indian Prime Minister, I.K. Gujral, in the 1990s. The doctrine aims to promote peaceful and friendly relations between India and its neighboring countries, particularly Pakistan.
 
 **Body:**
 - **The Gujral Doctrine is based on five principles:**
@@ -38492,7 +38492,7 @@ Source Question: What is the significance of Indo- US defence deals over Indo-Ru
 
 ### Introduction
 
-: **Indo-US and Indo-Russian relations have been crucial for India’s foreign policy. Indo-US ties have strengthened in recent years, driven by shared democratic values and strategic interests. Indo-Russian relations have a longstanding history, characterized by defense cooperation and strategic partnership.**
+**Indo-US and Indo-Russian relations have been crucial for India’s foreign policy. Indo-US ties have strengthened in recent years, driven by shared democratic values and strategic interests. Indo-Russian relations have a longstanding history, characterized by defense cooperation and strategic partnership.**
 
 ### Body
 
@@ -38719,7 +38719,7 @@ Source Question: “The long-sustained image of India as a leader of the oppress
 
 ### Introduction
 
-: **India’s foreign policy approach has undergone a significant shift from its long-standing image as a leader of oppressed and marginalized nations to a new-found role in the emerging global order. While India’s leadership and idealistic credentials were sustained during the Cold War era, its focus has shifted towards prioritizing national interests over the collective interests of developing countries.**
+**India’s foreign policy approach has undergone a significant shift from its long-standing image as a leader of oppressed and marginalized nations to a new-found role in the emerging global order. While India’s leadership and idealistic credentials were sustained during the Cold War era, its focus has shifted towards prioritizing national interests over the collective interests of developing countries.**
 
 ### Body
 
@@ -38908,7 +38908,7 @@ Source Question: “The long-sustained image of India as a leader of the oppress
 
 ### Introduction
 
-: **India’s foreign policy approach has undergone a significant shift from its long-standing image as a leader of oppressed and marginalized nations to a new-found role in the emerging global order. While India’s leadership and idealistic credentials were sustained during the Cold War era, its focus has shifted towards prioritizing national interests over the collective interests of developing countries.**
+**India’s foreign policy approach has undergone a significant shift from its long-standing image as a leader of oppressed and marginalized nations to a new-found role in the emerging global order. While India’s leadership and idealistic credentials were sustained during the Cold War era, its focus has shifted towards prioritizing national interests over the collective interests of developing countries.**
 
 ### Body
 
@@ -39094,7 +39094,7 @@ Source Question: “India’s relations with Israel have, of late, acquired a de
 
 ### Introduction
 
-: **India-Israel relations exemplify realism in foreign policy. Diplomatic ties established in 1992 have grown rapidly, covering defense, homeland security, agriculture, water management, and education. Recent de-hyphenation of Israel and Palestine policies marks a turning point.**
+**India-Israel relations exemplify realism in foreign policy. Diplomatic ties established in 1992 have grown rapidly, covering defense, homeland security, agriculture, water management, and education. Recent de-hyphenation of Israel and Palestine policies marks a turning point.**
 
 ### Body
 
@@ -39203,7 +39203,7 @@ Source Question: Increased interest of India in Africa has its pros and cons. Cr
 
 ### Introduction
 
-:** India’s growing interest in Africa has been marked by increased economic, strategic, and cultural engagements with African countries. While this presents several opportunities for both India and Africa, it raises concerns about the potential negative consequences of such engagement.
+** India’s growing interest in Africa has been marked by increased economic, strategic, and cultural engagements with African countries. While this presents several opportunities for both India and Africa, it raises concerns about the potential negative consequences of such engagement.
 
 **Body:**
 - **Pros of India’s Increasing Interest in Africa:**
@@ -39330,7 +39330,7 @@ Source Question: With respect to the South China sea, maritime territorial dispu
 
 ### Introduction
 
-: **The South China Sea region has been a source of maritime territorial disputes, leading to rising tensions and concerns about safeguarding maritime security to ensure freedom of navigation and flight in the region. India and China have their own bilateral issues that have added to the complexity of the situation.**
+**The South China Sea region has been a source of maritime territorial disputes, leading to rising tensions and concerns about safeguarding maritime security to ensure freedom of navigation and flight in the region. India and China have their own bilateral issues that have added to the complexity of the situation.**
 
 ### Body
 
@@ -39672,7 +39672,7 @@ Source Question: How will I2U2(India, Israel, UAE and USA) grouping transform In
 
 ### Introduction
 
-: **The emergence of the 12U2 group – comprising India, Israel, UAE, and the USA – is expected to have a significant impact on India’s position in global politics. The group is based on shared interests and values, including democracy, innovation, and economic growth.**
+**The emergence of the 12U2 group – comprising India, Israel, UAE, and the USA – is expected to have a significant impact on India’s position in global politics. The group is based on shared interests and values, including democracy, innovation, and economic growth.**
 
 ### Body
 
@@ -39918,7 +39918,7 @@ Source Question: “If the last few decades were of Asian’s.” In the light o
 
 ### Introduction
 
-:** The last few decades have seen extraordinary growth of Asian countries, particularly China, India, Japan, and South Korea. The paradigm is now tilting towards Africa.
+** The last few decades have seen extraordinary growth of Asian countries, particularly China, India, Japan, and South Korea. The paradigm is now tilting towards Africa.
 
 <p align="center"><img src="pwonlyias/images/pw_international_relations_q603_img1.webp" alt="India- Africa" /></p>
 
@@ -40124,7 +40124,7 @@ Source Question: The newly tri-nation partnership AUKUS is aimed at countering C
 
 ### Introduction
 
-:** The recent announcement of the trilateral security partnership between Australia, the United Kingdom, and the United States, known as AUKUS, has drawn attention for its potential impact on the Indo-Pacific region. AUKUS aims to counter China’s growing influence in the region and has already sparked controversy.
+** The recent announcement of the trilateral security partnership between Australia, the United Kingdom, and the United States, known as AUKUS, has drawn attention for its potential impact on the Indo-Pacific region. AUKUS aims to counter China’s growing influence in the region and has already sparked controversy.
 
 <p align="center"><img src="pwonlyias/images/pw_international_relations_q618_img1.webp" alt="Aukus" /></p>
 
@@ -40344,7 +40344,7 @@ Source Question: Quadrilateral Security Dialogue (QUAD) is transforming itself i
 
 ### Introduction
 
-:** The Quadrilateral Security Dialogue, commonly known as QUAD, was established in 2007 as a military alliance among the United States, Japan, Australia, and India. However, in recent years, there has been a shift towards transforming QUAD into a trade bloc.
+** The Quadrilateral Security Dialogue, commonly known as QUAD, was established in 2007 as a military alliance among the United States, Japan, Australia, and India. However, in recent years, there has been a shift towards transforming QUAD into a trade bloc.
 
 **Body:**
 - **The QUAD’s initial focus was on security and military cooperation:** Its primary focus was on security and military cooperation in the Indo-Pacific region.
@@ -40965,7 +40965,7 @@ Source Question: Discuss the procedures to decide the disputes arising out of th
 
 ### Introduction
 
-: **The Representation of the People Act, 1951, is a comprehensive legislation enacted to provide for the conduct of elections and adjudication of disputes arising from such elections in India. It deals with the election of members to both Parliament and State Legislatures.**
+**The Representation of the People Act, 1951, is a comprehensive legislation enacted to provide for the conduct of elections and adjudication of disputes arising from such elections in India. It deals with the election of members to both Parliament and State Legislatures.**
 
 ### Body
 
@@ -41233,7 +41233,7 @@ Source Question: Critically examine the aims and objectives of SCO. What Importa
 
 ### Introduction
 
-:** The Shanghai Cooperation Organisation (SCO) is an intergovernmental organization founded in 2001 with the objective of political, economic and security cooperation between the member nations. India became a permanent member of the SCO in 2017.
+** The Shanghai Cooperation Organisation (SCO) is an intergovernmental organization founded in 2001 with the objective of political, economic and security cooperation between the member nations. India became a permanent member of the SCO in 2017.
 
 **Body:**
 - **Aims and Objectives of SCO:**
@@ -41402,7 +41402,7 @@ Source Question: “Increase cross- border terrorist attacks in India and growin
 
 ### Introduction
 
-:** The South Asian Association for Regional Cooperation (SAARC), established in 1985, has faced significant limitations in its effectiveness due to persistent tensions and disagreements between India and Pakistan. Over the past few years, SAARC has been largely inactive, primarily due to friction between the two countries. This article explores the consequences of this situation and the importance of engaging Pakistan to address the economic and security challenges faced by SAARC member nations.
+** The South Asian Association for Regional Cooperation (SAARC), established in 1985, has faced significant limitations in its effectiveness due to persistent tensions and disagreements between India and Pakistan. Over the past few years, SAARC has been largely inactive, primarily due to friction between the two countries. This article explores the consequences of this situation and the importance of engaging Pakistan to address the economic and security challenges faced by SAARC member nations.
 
 **Body:**
 - **Friction between India and Pakistan:** The attack on an Indian Army camp in **Uri by militants** crossing the Line of Control in India-administered Kashmir further heightened the tensions between India and Pakistan. The Indian government condemned Pakistan strongly and sought to isolate Islamabad on the international stage. India’s decision to withdraw from the 19th SAARC Summit in Islamabad in 2016 was a clear indication of its stance.
@@ -41487,7 +41487,7 @@ Source Question: Evaluate the economic and strategic dimension of India’s Look
 
 ### Introduction
 
-:** India’s Look East Policy (LEP) was launched in 1991 to strengthen India’s economic and strategic ties with Southeast Asia, East Asia, and the Pacific. It aimed to leverage India’s geographical proximity to these regions and tap into their dynamic economies to accelerate India’s own economic growth.
+** India’s Look East Policy (LEP) was launched in 1991 to strengthen India’s economic and strategic ties with Southeast Asia, East Asia, and the Pacific. It aimed to leverage India’s geographical proximity to these regions and tap into their dynamic economies to accelerate India’s own economic growth.
 
 **India’s Look East Policy of the Post-Cold War International Scenario:**
 - **Economic Dimension:**
@@ -41915,7 +41915,7 @@ Source Question: Clean energy is the order of the day. Describe briefly India’
 
 ### Introduction
 
-:** India’s climate change policy has shifted from energy security to global leadership in clean energy. Its diplomatic stance at COP reflects a pro-environment outlook. India’s acceptance of net-zero commitments emphasizes its commitment based on common but differentiated responsibilities. The Panchamrit agenda outlines ambitious targets for renewable energy, carbon reduction, and achieving net-zero, showcasing India’s commitment and intent for clean energy leadership.
+** India’s climate change policy has shifted from energy security to global leadership in clean energy. Its diplomatic stance at COP reflects a pro-environment outlook. India’s acceptance of net-zero commitments emphasizes its commitment based on common but differentiated responsibilities. The Panchamrit agenda outlines ambitious targets for renewable energy, carbon reduction, and achieving net-zero, showcasing India’s commitment and intent for clean energy leadership.
 
 **Body:**
 - **Paris Agreement and Nationally Determined Contributions (NDCs):** India played a crucial role in the negotiations and ratification of the Paris Agreement. It committed to reducing its emissions intensity and increasing the share of non-fossil fuel-based power generation in its NDCs.
@@ -42093,7 +42093,7 @@ Source Question: Indian Diaspora has an important role to play in South-East Asi
 
 ### Introduction
 
-:** India and South East Asia have shared a long history of economic, cultural, and trading ties since the Chola period. The Indian diaspora in the region has contributed significantly to its economy and society. Moreover, India’s trade with South East Asia accounts for approximately 10.2% of all Indian trade, indicating the region’s economic and strategic importance.
+** India and South East Asia have shared a long history of economic, cultural, and trading ties since the Chola period. The Indian diaspora in the region has contributed significantly to its economy and society. Moreover, India’s trade with South East Asia accounts for approximately 10.2% of all Indian trade, indicating the region’s economic and strategic importance.
 
 <p align="center"><img src="pwonlyias/images/pw_international_relations_q348_img1.webp" alt="Indian Diaspora" /></p>
 
@@ -42860,7 +42860,7 @@ Source Question: “The long-sustained image of India as a leader of the oppress
 
 ### Introduction
 
-: **India’s foreign policy approach has undergone a significant shift from its long-standing image as a leader of oppressed and marginalized nations to a new-found role in the emerging global order. While India’s leadership and idealistic credentials were sustained during the Cold War era, its focus has shifted towards prioritizing national interests over the collective interests of developing countries.**
+**India’s foreign policy approach has undergone a significant shift from its long-standing image as a leader of oppressed and marginalized nations to a new-found role in the emerging global order. While India’s leadership and idealistic credentials were sustained during the Cold War era, its focus has shifted towards prioritizing national interests over the collective interests of developing countries.**
 
 ### Body
 
@@ -43044,7 +43044,7 @@ Source Question: “India’s relations with Israel have, of late, acquired a de
 
 ### Introduction
 
-: **India-Israel relations exemplify realism in foreign policy. Diplomatic ties established in 1992 have grown rapidly, covering defense, homeland security, agriculture, water management, and education. Recent de-hyphenation of Israel and Palestine policies marks a turning point.**
+**India-Israel relations exemplify realism in foreign policy. Diplomatic ties established in 1992 have grown rapidly, covering defense, homeland security, agriculture, water management, and education. Recent de-hyphenation of Israel and Palestine policies marks a turning point.**
 
 ### Body
 
@@ -43195,7 +43195,7 @@ Source Question: In what ways would the ongoing US-Iran Nuclear Pact Controversy
 
 ### Introduction
 
-: **The US-Iran Nuclear Pact Controversy has created significant global attention and concern. As a major regional power, India’s position on this issue is critical. The implications of this controversy on India’s national interest need to be carefully and an appropriate response should be devised to safeguard its interests.**
+**The US-Iran Nuclear Pact Controversy has created significant global attention and concern. As a major regional power, India’s position on this issue is critical. The implications of this controversy on India’s national interest need to be carefully and an appropriate response should be devised to safeguard its interests.**
 
 ### Body
 
@@ -43337,7 +43337,7 @@ Source Question: China is using its economic relation and positive trade surplus
 
 ### Introduction
 
-:** China’s rapid rise as an economic and military superpower has significant implications for India, its neighbor. China has been using its economic relations and trade surplus as a tool to enhance its military power in Asia, as seen through initiatives such as the Belt and Road Initiative and the China Pakistan Economic Corridor.
+** China’s rapid rise as an economic and military superpower has significant implications for India, its neighbor. China has been using its economic relations and trade surplus as a tool to enhance its military power in Asia, as seen through initiatives such as the Belt and Road Initiative and the China Pakistan Economic Corridor.
 
 **Body:**
 - **Impact of China’s rise on India:**
@@ -43417,7 +43417,7 @@ Source Question: The proposed withdrawal of the International Security Assistanc
 
 ### Introduction
 
-: **The withdrawal of the International Security Assistance Force (ISAF) from Afghanistan in 2014 has significant implications for the region’s security** Body: **
+**The withdrawal of the International Security Assistance Force (ISAF) from Afghanistan in 2014 has significant implications for the region’s security** Body: **
 
 **
 - **Challenges for India:** The withdrawal of ISAF (International Security Assistance Force) from Afghanistan could potentially create a security vacuum, allowing militant groups like the **Taliban, Al-Qaeda, and the Haqqani Network** to increase their activities in the region.
@@ -43531,7 +43531,7 @@ Source Question: What do you understand by ‘The String of Pearls’? How does 
 
 ### Introduction
 
-:** The “String of Pearls” is a term used to describe China’s strategic encirclement of India through the development of a network of ports and military bases in the Indian Ocean region. It refers to China’s efforts to establish a “string” of naval bases, commercial ports, and other facilities in countries surrounding India, Pakistan, Sri Lanka, Myanmar, and Bangladesh.
+** The “String of Pearls” is a term used to describe China’s strategic encirclement of India through the development of a network of ports and military bases in the Indian Ocean region. It refers to China’s efforts to establish a “string” of naval bases, commercial ports, and other facilities in countries surrounding India, Pakistan, Sri Lanka, Myanmar, and Bangladesh.
 
 <p align="center"><img src="pwonlyias/images/pw_international_relations_q76_img1.webp" alt="String of Pearls" /></p>
 
@@ -43760,7 +43760,7 @@ Source Question: “The USA is facing an existential threat in the form of China
 
 ### Introduction
 
-:** The United States of America (USA) and China are currently engaged in a complex geopolitical rivalry that has been dubbed the “new Cold War.” China’s emergence as a global superpower has made it a significant competitor for the USA, leading to concerns about the future of the international order.
+** The United States of America (USA) and China are currently engaged in a complex geopolitical rivalry that has been dubbed the “new Cold War.” China’s emergence as a global superpower has made it a significant competitor for the USA, leading to concerns about the future of the international order.
 
 **Body:**
 - **Comparison with USSR and China:**
@@ -44217,7 +44217,7 @@ Source Question: ‘Indian diaspora has a decisive role to play in the politics 
 
 ### Introduction
 
-:** According to a Ministry of External Affairs report, there are 32 million NRIs and PIOs (inc. OCIs) residing outside India and overseas Indians comprise the world’s largest overseas diaspora. Every year 2.5 million (25 lakhs) Indians migrate overseas, which is the highest annual number of migrants in the world. India’s large diaspora is distributed across the United Arab Emirates (3.5 million), the United States of America (2.7 million) and Saudi Arabia (2.5 million). Other countries hosting large numbers of Indian migrants included Australia, Canada, Kuwait, Oman, Pakistan, Qatar and the United Kingdom.
+** According to a Ministry of External Affairs report, there are 32 million NRIs and PIOs (inc. OCIs) residing outside India and overseas Indians comprise the world’s largest overseas diaspora. Every year 2.5 million (25 lakhs) Indians migrate overseas, which is the highest annual number of migrants in the world. India’s large diaspora is distributed across the United Arab Emirates (3.5 million), the United States of America (2.7 million) and Saudi Arabia (2.5 million). Other countries hosting large numbers of Indian migrants included Australia, Canada, Kuwait, Oman, Pakistan, Qatar and the United Kingdom.
 
 <p align="center"><img src="pwonlyias/images/pw_international_relations_q348_img1.webp" alt="Indian Diaspora" /></p>
 
@@ -44332,7 +44332,7 @@ Source Question: Indian Diaspora has an important role to play in South-East Asi
 
 ### Introduction
 
-:** India and South East Asia have shared a long history of economic, cultural, and trading ties since the Chola period. The Indian diaspora in the region has contributed significantly to its economy and society. Moreover, India’s trade with South East Asia accounts for approximately 10.2% of all Indian trade, indicating the region’s economic and strategic importance.
+** India and South East Asia have shared a long history of economic, cultural, and trading ties since the Chola period. The Indian diaspora in the region has contributed significantly to its economy and society. Moreover, India’s trade with South East Asia accounts for approximately 10.2% of all Indian trade, indicating the region’s economic and strategic importance.
 
 <p align="center"><img src="pwonlyias/images/pw_international_relations_q348_img1.webp" alt="Indian Diaspora" /></p>
 
@@ -44420,7 +44420,7 @@ Source Question: Some of the international funding agencies have special terms f
 
 ### Introduction
 
-: **Several international funding agencies have special terms for economic participation, which stipulate that a significant portion of the aid must be used to source equipment from leading countries.** World Bank’s **funding agreements often include provisions requiring recipient countries to allocate a substantial portion of the aid towards purchasing equipment from globally recognized manufacturers.** The International Monetary Fund **(IMF) frequently sets conditions in its financial assistance programs, emphasizing the necessity for beneficiary nations to prioritize procurement of equipment from established global suppliers as part of their economic participation.**
+**Several international funding agencies have special terms for economic participation, which stipulate that a significant portion of the aid must be used to source equipment from leading countries.** World Bank’s **funding agreements often include provisions requiring recipient countries to allocate a substantial portion of the aid towards purchasing equipment from globally recognized manufacturers.** The International Monetary Fund **(IMF) frequently sets conditions in its financial assistance programs, emphasizing the necessity for beneficiary nations to prioritize procurement of equipment from established global suppliers as part of their economic participation.**
 
 - **Debate on Conditions for International Funding:**
 - **Facilitate technology transfer:** These terms help in promoting the transfer of technology and expertise from the leading countries, which can help in developing the recipient country’s industry.
@@ -44514,7 +44514,7 @@ Source Question: Some of the international funding agencies have special terms f
 
 ### Introduction
 
-: **Several international funding agencies have special terms for economic participation, which stipulate that a significant portion of the aid must be used to source equipment from leading countries.** World Bank’s **funding agreements often include provisions requiring recipient countries to allocate a substantial portion of the aid towards purchasing equipment from globally recognized manufacturers.** The International Monetary Fund **(IMF) frequently sets conditions in its financial assistance programs, emphasizing the necessity for beneficiary nations to prioritize procurement of equipment from established global suppliers as part of their economic participation.**
+**Several international funding agencies have special terms for economic participation, which stipulate that a significant portion of the aid must be used to source equipment from leading countries.** World Bank’s **funding agreements often include provisions requiring recipient countries to allocate a substantial portion of the aid towards purchasing equipment from globally recognized manufacturers.** The International Monetary Fund **(IMF) frequently sets conditions in its financial assistance programs, emphasizing the necessity for beneficiary nations to prioritize procurement of equipment from established global suppliers as part of their economic participation.**
 
 - **Debate on Conditions for International Funding:**
 - **Facilitate technology transfer:** These terms help in promoting the transfer of technology and expertise from the leading countries, which can help in developing the recipient country’s industry.
@@ -44608,7 +44608,7 @@ Source Question: India has recently signed to become a founding member of New De
 
 ### Introduction
 
-: **India’s recent decision to become a founding member of the New Development Bank (NDB) and the Asian Infrastructure Investment Bank (AIIB) has generated interest in the role these two banks will play.**
+**India’s recent decision to become a founding member of the New Development Bank (NDB) and the Asian Infrastructure Investment Bank (AIIB) has generated interest in the role these two banks will play.**
 
 ### Body
 
@@ -44723,7 +44723,7 @@ Source Question: The World Bank and the IMF, Collectively known as the Bretton w
 
 ### Introduction
 
-:** The World Bank (WB) and the International Monetary Fund (IMF) are two intergovernmental organizations established at the Bretton Woods Conference in 1944. Some commonalities, their role in promoting global economic development, their functions and mandates are distinct and different from one another.
+** The World Bank (WB) and the International Monetary Fund (IMF) are two intergovernmental organizations established at the Bretton Woods Conference in 1944. Some commonalities, their role in promoting global economic development, their functions and mandates are distinct and different from one another.
 
 **Body:**
 - **Elucidate these differences:**
@@ -45672,7 +45672,7 @@ Source Question: Critically Examine the role of WHO in providing global health s
 
 ### Introduction
 
-: **The COVID-19 pandemic has posed a significant challenge to global health security, with the World Health Organization (WHO) playing a vital role in providing guidance and support to countries worldwide. The WHO’s response to the pandemic has been criticized for its handling of China and the delay in declaring COVID-19 a pandemic.**
+**The COVID-19 pandemic has posed a significant challenge to global health security, with the World Health Organization (WHO) playing a vital role in providing guidance and support to countries worldwide. The WHO’s response to the pandemic has been criticized for its handling of China and the delay in declaring COVID-19 a pandemic.**
 
 ### Body
 
@@ -45823,7 +45823,7 @@ Source Question: “The Attorney-General is the chief legal adviser and lawyer o
 
 ### Introduction
 
-:** The Attorney-General of India is a constitutional position defined under Article 76 of the Indian Constitution. As the highest law officer in the country, the Attorney-General serves as the chief legal adviser and lawyer for the Government of India, representing the government in legal matters and advising them on various issues of law.
+** The Attorney-General of India is a constitutional position defined under Article 76 of the Indian Constitution. As the highest law officer in the country, the Attorney-General serves as the chief legal adviser and lawyer for the Government of India, representing the government in legal matters and advising them on various issues of law.
 
 **Body:**
 - **Appointment and qualifications:** The Attorney-General is appointed by the President of India and must possess the qualifications required to be appointed as a judge of the Supreme Court, i.e., they must be a citizen of India, a distinguished jurist, or have been a judge of a High Court for at least five years, or an advocate of a High Court for at least ten years.
@@ -45935,7 +45935,7 @@ Source Question: What are the main functions of the United Nations Economic and 
 
 ### Introduction
 
-:** The United Nations Economic and Social Council (ECOSOC) is a principal organ of the United Nations and plays a vital role in promoting international economic and social cooperation. It serves as a platform for the coordination and cooperation of various United Nations bodies, specialized agencies, and other international organizations.
+** The United Nations Economic and Social Council (ECOSOC) is a principal organ of the United Nations and plays a vital role in promoting international economic and social cooperation. It serves as a platform for the coordination and cooperation of various United Nations bodies, specialized agencies, and other international organizations.
 
 **Body:**
 - **Main Functions of ECOSOC:**
@@ -46063,7 +46063,7 @@ Source Question: What are the aims and objectives of the McBride Commission of U
 
 ### Introduction
 
-:** The McBride Commission of UNESCO was established in 1977 to examine the relationship between the mass media and the process of development. The commission aimed to promote a new world information order that would prioritize the needs and interests of developing countries in the global media landscape.
+** The McBride Commission of UNESCO was established in 1977 to examine the relationship between the mass media and the process of development. The commission aimed to promote a new world information order that would prioritize the needs and interests of developing countries in the global media landscape.
 
 <p align="center"><img src="pwonlyias/images/pw_international_relations_q300_img1.webp" alt="objective of UNESCO" /></p>
 
@@ -46180,7 +46180,7 @@ Source Question: Discuss the impediments India is facing in its pursuit of a per
 
 ### Introduction
 
-:** The United Nations Security Council (UNSC) plays a vital role in maintaining global peace and security, including authorizing the use of force, imposing sanctions, and establishing peacekeeping operations. Permanent membership on the UNSC is important because it grants a country a veto power, enabling it to block any UNSC resolution, and provides an opportunity to shape international policy, enhancing its influence and status in the global arena.
+** The United Nations Security Council (UNSC) plays a vital role in maintaining global peace and security, including authorizing the use of force, imposing sanctions, and establishing peacekeeping operations. Permanent membership on the UNSC is important because it grants a country a veto power, enabling it to block any UNSC resolution, and provides an opportunity to shape international policy, enhancing its influence and status in the global arena.
 
 <p align="center"><img src="pwonlyias/images/pw_international_relations_q183_img1.webp" alt="Approach for UNSC" /></p>
 
@@ -46353,7 +46353,7 @@ Source Question: What are the Key areas of reform if the WTO has to survive in t
 
 ### Introduction
 
-:** A trade war is an economic conflict between nations characterized by the imposition of tariffs and trade barriers to protect domestic industries and gain leverage in international trade negotiations. The World Trade Organization (WTO) was established in 1995 to supervise and liberalize international trade. Recent trade wars between the US and other countries have highlighted the need for reforms to ensure the survival of the WTO.
+** A trade war is an economic conflict between nations characterized by the imposition of tariffs and trade barriers to protect domestic industries and gain leverage in international trade negotiations. The World Trade Organization (WTO) was established in 1995 to supervise and liberalize international trade. Recent trade wars between the US and other countries have highlighted the need for reforms to ensure the survival of the WTO.
 
 **Body:**
 - **Current Issues in the WTO:**
@@ -46483,7 +46483,7 @@ Source Question: “The broader aims and objectives of the WTO are to manage and
 
 ### Introduction
 
-:** India has taken a firm stand against the inclusion of ‘new issues’ such as labor and environment within the purview of the World Trade Organization (WTO). The country emphasizes resolving outstanding matters related to the Doha Round negotiations before discussing non-trade and WTO-plus issues. India, along with other developing countries, is concerned that addressing these new issues prematurely could hinder global trade and disadvantage developing nations.
+** India has taken a firm stand against the inclusion of ‘new issues’ such as labor and environment within the purview of the World Trade Organization (WTO). The country emphasizes resolving outstanding matters related to the Doha Round negotiations before discussing non-trade and WTO-plus issues. India, along with other developing countries, is concerned that addressing these new issues prematurely could hinder global trade and disadvantage developing nations.
 
 **Body:**
 - **The Significance of Doha Round:** India’s primary contention lies in the fact that the Nairobi declaration failed to reaffirm the mandate of the Doha Round, which aimed to foster global trade liberalization. Therefore, India insists on prioritizing the resolution of outstanding issues from the Doha Round negotiations before engaging in discussions on non-trade matters.
@@ -46603,7 +46603,7 @@ Source Question: The aim of information Technology Agreements (ITAs) is to lower
 
 ### Introduction
 
-: **The Information Technology Agreement (ITA) aims to reduce or eliminate tariffs on information technology products, promoting free trade and economic growth among the signatories. While the agreement has had a positive impact on global trade, it has raised concerns about its impact on India’s interests.**
+**The Information Technology Agreement (ITA) aims to reduce or eliminate tariffs on information technology products, promoting free trade and economic growth among the signatories. While the agreement has had a positive impact on global trade, it has raised concerns about its impact on India’s interests.**
 
 ### Body
 
@@ -46687,7 +46687,7 @@ Source Question: WTO is an important international institution where decisions t
 
 ### Introduction
 
-:** The World Trade Organization (WTO) holds a crucial position as an international institution, impacting countries profoundly through the decisions it takes. Established in 1995, the WTO serves as a platform for member nations to negotiate and regulate global trade rules, resolve trade disputes, and promote economic cooperation.
+** The World Trade Organization (WTO) holds a crucial position as an international institution, impacting countries profoundly through the decisions it takes. Established in 1995, the WTO serves as a platform for member nations to negotiate and regulate global trade rules, resolve trade disputes, and promote economic cooperation.
 
 **Body:**
 - **Role and Implications of WTO Decisions:** Decisions made within the WTO framework have far-reaching implications for economies worldwide. The organization’s agreements cover various sectors, including goods, services, intellectual property rights, and trade-related aspects of investment. These agreements shape trade policies and regulations, impacting market access, tariffs, subsidies, and other trade-related measures.

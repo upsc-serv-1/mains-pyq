@@ -1203,7 +1203,7 @@ Digitalization has indeed spurred growth and added a dynamic dimension to the In
 
 ### Introduction
 
-: **The four key elements for producing goods and services in an economy are labour, capital, natural resources, and entrepreneurship. According to the International Labour Organisation (ILO), labour productivity represents the total volume of output (measured in terms of Gross Domestic Product, GDP) produced per unit of labour (measured in terms of the number of employed persons or hours worked) during a given time reference period. It is an indicator of the efficiency of a country’s workforce.**
+**The four key elements for producing goods and services in an economy are labour, capital, natural resources, and entrepreneurship. According to the International Labour Organisation (ILO), labour productivity represents the total volume of output (measured in terms of Gross Domestic Product, GDP) produced per unit of labour (measured in terms of the number of employed persons or hours worked) during a given time reference period. It is an indicator of the efficiency of a country’s workforce.**
 
 ### Body
 
@@ -1254,7 +1254,7 @@ The above strategies would enable India to create more jobs and reap its favoura
 
 ### Introduction
 
-: **The food processing industry encompasses a wide range of activities, including the processing, preservation, packaging, and distribution of food products. The Indian food processing sector contributes to almost 6% of GDP, 13% of Indian exports, and 6% of overall industrial investment in the country.**
+**The food processing industry encompasses a wide range of activities, including the processing, preservation, packaging, and distribution of food products. The Indian food processing sector contributes to almost 6% of GDP, 13% of Indian exports, and 6% of overall industrial investment in the country.**
 
 ### Body
 
@@ -1302,7 +1302,7 @@ Despite its many benefits, the **level of processing of agricultural produce is 
 
 ### Introduction
 
-:** As per OECD, inclusive growth is economic growth that is distributed fairly across society and creates opportunities for all. In a market economy, the production of goods and services is directed by the laws of supply and demand and is driven by profit with no government intervention.
+** As per OECD, inclusive growth is economic growth that is distributed fairly across society and creates opportunities for all. In a market economy, the production of goods and services is directed by the laws of supply and demand and is driven by profit with no government intervention.
 
 <p align="center"><img src="images/pw_economic_development_q670_img1.webp" alt="inclusive growth" /></p>
 
@@ -1358,7 +1358,7 @@ Since the 11th Five Year Plan, it has been clearly stated that economic growth m
 
 ### Introduction
 
-: **Life expectancy has improved as a result of advancements in medical care, social conditions generally, and healthcare accessibility. From 50 years in the 1970s to around 70 years since 2015, India’s life expectancy at birth grew by about 20 years over a 45-year span.**
+**Life expectancy has improved as a result of advancements in medical care, social conditions generally, and healthcare accessibility. From 50 years in the 1970s to around 70 years since 2015, India’s life expectancy at birth grew by about 20 years over a 45-year span.**
 
 ### Body
 
@@ -1401,7 +1401,7 @@ Investing a little to engage the elderly in communities can improve their health
 
 ### Introduction
 
-:** Agricultural marketing refers to movement of agricultural produce from farm land to the end-consumers. It is an important part of the agricultural value chain. A well-developed agriculture market can streamline the supply chain, eliminate intermediaries, reduce post-harvest losses, double farmers’ income and keep prices affordable for the consumers.
+** Agricultural marketing refers to movement of agricultural produce from farm land to the end-consumers. It is an important part of the agricultural value chain. A well-developed agriculture market can streamline the supply chain, eliminate intermediaries, reduce post-harvest losses, double farmers’ income and keep prices affordable for the consumers.
 
 Upstream in Indian agricultural marketing refers to the raw materials required for production, whereas downstream is the other end, where products are made and delivered.
 
@@ -1444,7 +1444,7 @@ The government has taken various measures for improving marketing of agricultura
 
 ### Introduction
 
-: **The Public Distribution System (PDS) is an Indian food security system which evolved as a system for the distribution of food grains and other essential items to low-income households at affordable prices and management of emergency situations. It is the largest food security scheme globally and covers almost 60% of the Indian population.**
+**The Public Distribution System (PDS) is an Indian food security system which evolved as a system for the distribution of food grains and other essential items to low-income households at affordable prices and management of emergency situations. It is the largest food security scheme globally and covers almost 60% of the Indian population.**
 
 ### Body
 
@@ -1498,7 +1498,7 @@ PDS is a scheme that has become the lifeline for millions and its role was clear
 
 ### Introduction
 
-:** Integrated farming system is a type of agriculture that aims to create a balanced and sustainable ecosystem by combining different types of farming practices, such as crop production, animal husbandry, and forestry. The combination is such that the waste of one process becomes the input for other processes.
+** Integrated farming system is a type of agriculture that aims to create a balanced and sustainable ecosystem by combining different types of farming practices, such as crop production, animal husbandry, and forestry. The combination is such that the waste of one process becomes the input for other processes.
 
 The main goal of integrated farming is to optimize the use of resources, reduce the need for external inputs, and increase the overall productivity and profitability of the farm along with year-round employment.
 
@@ -1536,7 +1536,7 @@ IFS provides multiple benefits like optimization of resources, diversification o
 
 ### Introduction
 
-: **Public-private partnerships (PPPs) are formally established agreements between public and private parties to share risks and benefits in the provision of public services and infrastructure. During the year 2020-2021, India appraised a total of 125 PPP projects costing INR 1.72 lakh crore between the central and state projects.**
+**Public-private partnerships (PPPs) are formally established agreements between public and private parties to share risks and benefits in the provision of public services and infrastructure. During the year 2020-2021, India appraised a total of 125 PPP projects costing INR 1.72 lakh crore between the central and state projects.**
 
 ### Body
 
@@ -1577,7 +1577,7 @@ Although there are challenges like delays in land acquisition, non-availability 
 
 ### Introduction
 
-: **The Union Budget is referred to as the Annual Financial Statement (AFS) under the Constitution. It is a statement of the estimated receipts and expenditure of the Government in a financial year.**
+**The Union Budget is referred to as the Annual Financial Statement (AFS) under the Constitution. It is a statement of the estimated receipts and expenditure of the Government in a financial year.**
 
 ### Body
 
@@ -1604,7 +1604,7 @@ Although there are challenges like delays in land acquisition, non-availability 
 
 ### Introduction
 
-: **A V-shaped recovery is characterized by a quick and sustained recovery in measures of economic performance after a sharp economic decline.**
+**A V-shaped recovery is characterized by a quick and sustained recovery in measures of economic performance after a sharp economic decline.**
 
 ### Body
 
@@ -1641,7 +1641,7 @@ While experts may differ as to whether the Indian economy has experienced a V-sh
 
 ### Introduction
 
-: **GDP is defined as a measure that expresses the economic value of a country’s economic activities. In other words, it is the market value of all the goods and services produced within an economy in a particular period. In 2015, a new series was announced to calculate India’s GDP by upgrading the methodology with new data sources to meet UN standards.** Body **:**
+**GDP is defined as a measure that expresses the economic value of a country’s economic activities. In other words, it is the market value of all the goods and services produced within an economy in a particular period. In 2015, a new series was announced to calculate India’s GDP by upgrading the methodology with new data sources to meet UN standards.** Body **:**
 
 **Difference between old and new methodology:**
 - **Change in Base Year:** Prior to 2015, the base year for calculation of GDP was 2004-05. Post 2015, the base year was changed to 2011-12. Change of base year to calculate GDP is done in line with the global exercise to capture economic information accurately.
@@ -1675,7 +1675,7 @@ The shift in the method of GDP calculation depicts dynamism in the growth calcul
 
 ### Introduction
 
-:** Water is a scarce natural resource. India has 18% of the world’s population but just 4% of the water resources, making it among the most water-stressed in the world. Most of this water is used in agriculture for irrigation purposes. The efficient use of available water for irrigation is a major challenge.
+** Water is a scarce natural resource. India has 18% of the world’s population but just 4% of the water resources, making it among the most water-stressed in the world. Most of this water is used in agriculture for irrigation purposes. The efficient use of available water for irrigation is a major challenge.
 
 Micro-irrigation is a modern method of irrigation by which water is irrigated through drippers, sprinklers, foggers and by other emitters on the surface or subsurface of the land. Sprinkler irrigation and drip irrigation are the commonly used micro-irrigation methods.
 
@@ -1716,7 +1716,7 @@ Overall, micro-irrigation has the potential to make a significant contribution t
 
 ### Introduction
 
-:** Land reform refers to efforts to reform ownership, operation, leasing, sales, and property rights of land in India. The Indian Government was committed to land reforms and to ensure distributive justice as was promised during the freedom struggle. Post Independent India has seen movements like Bhoodan and Gramdan which were persuasive in nature. Later, laws were passed by Governments for abolishing landlordism, distributing land through imposition of ceilings, protection of tenants and consolidation of land-holdings.
+** Land reform refers to efforts to reform ownership, operation, leasing, sales, and property rights of land in India. The Indian Government was committed to land reforms and to ensure distributive justice as was promised during the freedom struggle. Post Independent India has seen movements like Bhoodan and Gramdan which were persuasive in nature. Later, laws were passed by Governments for abolishing landlordism, distributing land through imposition of ceilings, protection of tenants and consolidation of land-holdings.
 
 <p align="center"><img src="images/pw_economic_development_q597_img1.webp" alt="objective of land reforms" /></p>
 
@@ -1758,7 +1758,7 @@ Thus, Land Reforms have been a mixed experience with right intention but ineffec
 
 ### Introduction
 
-: **Basic infrastructure facilities in the country provide the foundation of growth. In the absence of adequate infrastructure, the economy operates at suboptimal levels and remains distant from its potential and frontier growth trajectory.**
+**Basic infrastructure facilities in the country provide the foundation of growth. In the absence of adequate infrastructure, the economy operates at suboptimal levels and remains distant from its potential and frontier growth trajectory.**
 
 ### Body
 
@@ -1808,7 +1808,7 @@ Infrastructure lies at the core of India’s ability to realise a number of SDGs
 
 ### Introduction
 
-:** The National Food Security Act, 2013 aims to provide subsidized food grains to approximately two-third of the country’s population. The enactment of this landmark legislation, brought a paradigm shift in India’s approach to food security i.e., from welfare to rights-based approach.
+** The National Food Security Act, 2013 aims to provide subsidized food grains to approximately two-third of the country’s population. The enactment of this landmark legislation, brought a paradigm shift in India’s approach to food security i.e., from welfare to rights-based approach.
 
 <p align="center"><img src="images/pw_economic_development_q631_img1.webp" alt="NFSA 20b" /></p>
 
@@ -1854,7 +1854,7 @@ NFSA has been a game changer but there is still a long way to go for India as In
 
 ### Introduction
 
-:** Potential GDP (gross domestic product) is the maximum level of output or real GDP that an economy can sustain without generating inflationary pressures. It is determined by the productive capacity of an economy, which is influenced by a range of factors such as the size and skill level of the labour force, the level of capital stock, the state of technology, and the level of natural resources.
+** Potential GDP (gross domestic product) is the maximum level of output or real GDP that an economy can sustain without generating inflationary pressures. It is determined by the productive capacity of an economy, which is influenced by a range of factors such as the size and skill level of the labour force, the level of capital stock, the state of technology, and the level of natural resources.
 
 The potential GDP is often used as a benchmark to gauge the actual level of output in an economy, and to measure the extent to which an economy is operating at or above its potential.
 
@@ -1898,7 +1898,7 @@ Potential GDP is determined by various factors. Accurately estimating potential 
 
 ### Introduction
 
-:** Intra-generational equity refers to the distribution of resources and opportunities within a single generation. It is concerned with ensuring that the needs and rights of all members of a society are met, regardless of their age, gender, race, or other characteristics.
+** Intra-generational equity refers to the distribution of resources and opportunities within a single generation. It is concerned with ensuring that the needs and rights of all members of a society are met, regardless of their age, gender, race, or other characteristics.
 
 On the other hand, inter-generational equity refers to the distribution of resources and opportunities across different generations. It is concerned with ensuring that the needs and rights of future generations are taken into account and that they have the same opportunities as the current generation.
 
@@ -1934,7 +1934,7 @@ The concept of inclusive growth and sustainable development are the key pillars 
 
 ### Introduction
 
-: **Investment refers to the** deployment of capital or funds for the purpose of acquiring or expanding productive capacity **. Capital formation refers to the accumulation of capital stock such as buildings, machinery, equipment, and other physical assets that are used to produce goods and services. It is that part of a country’s current output and imports which is not consumed or exported during the accounting period, but is set aside as an addition to its stock of capital goods.**
+**Investment refers to the** deployment of capital or funds for the purpose of acquiring or expanding productive capacity **. Capital formation refers to the accumulation of capital stock such as buildings, machinery, equipment, and other physical assets that are used to produce goods and services. It is that part of a country’s current output and imports which is not consumed or exported during the accounting period, but is set aside as an addition to its stock of capital goods.**
 
 ### Body
 
@@ -1977,7 +1977,7 @@ Capital formation and especially gross capital formation is one of the biggest p
 
 ### Introduction
 
-: **The Goods and Services Tax (compensation to states) Act of 2017 is** a legal assurance given by the Union government to compensate states for loss of revenue for a period of five years **as per section 18 of the Constitution (101st Amendment) Act, 2016. It calls for a compensation by the centre to the states upon a shortfall of revenue of 14% or more under GST till June 2022.**
+**The Goods and Services Tax (compensation to states) Act of 2017 is** a legal assurance given by the Union government to compensate states for loss of revenue for a period of five years **as per section 18 of the Constitution (101st Amendment) Act, 2016. It calls for a compensation by the centre to the states upon a shortfall of revenue of 14% or more under GST till June 2022.**
 
 ### Body
 
@@ -2017,7 +2017,7 @@ The 15th FC report had projected that the gap between GST cess collections and t
 
 ### Introduction
 
-: **The food processing industry encompasses a wide range of activities, including the processing, preservation, packaging, and distribution of food products. The food processing industry in India plays a vital role in the country’s economy and is an important contributor to the growth and development of the agriculture sector.**
+**The food processing industry encompasses a wide range of activities, including the processing, preservation, packaging, and distribution of food products. The food processing industry in India plays a vital role in the country’s economy and is an important contributor to the growth and development of the agriculture sector.**
 
 ### Body
 
@@ -2068,7 +2068,7 @@ Food processing provides an opportunity to utilize excess production efficiently
 
 ### Introduction
 
-: **Agricultural marketing refers to all of the activities, agencies, and policies involved in farmers procuring farm inputs and moving agricultural produce from farms to consumers/manufacturers/exporters.**
+**Agricultural marketing refers to all of the activities, agencies, and policies involved in farmers procuring farm inputs and moving agricultural produce from farms to consumers/manufacturers/exporters.**
 
 ### Body
 
@@ -2102,7 +2102,7 @@ Agriculture marketing is a key aspect in achieving the goal of doubling farmer�
 
 ### Introduction
 
-: **The Rice-wheat cropping system is India’s most widely adopted cropping system practiced on an estimated area of around 11 million hectares. It involves the cultivation of rice during the summer monsoon season, followed by the cultivation of wheat during the winter season. This system is prevalent in Indo-Gangetic plains (IGP) and is predominant in Uttar Pradesh, Punjab, Haryana, Bihar, West Bengal, Madhya Pradesh etc.**
+**The Rice-wheat cropping system is India’s most widely adopted cropping system practiced on an estimated area of around 11 million hectares. It involves the cultivation of rice during the summer monsoon season, followed by the cultivation of wheat during the winter season. This system is prevalent in Indo-Gangetic plains (IGP) and is predominant in Uttar Pradesh, Punjab, Haryana, Bihar, West Bengal, Madhya Pradesh etc.**
 
 ### Body
 
@@ -2162,7 +2162,7 @@ The traditional Green Revolution States would need to shed “business as usual�
 
 ### Introduction
 
-: **Goods and Services Tax (GST) is** an indirect, comprehensive, multi-stage, destination-based tax that is levied on every value addition. **GST replaced a host of indirect taxes being levied by the central and state governments, which has changed the taxation landscape. The underlying theme was to have a ‘one nation one tax’ which would improve ease of doing business for taxpayers, bring in transparency, ensure timely compliance and ultimately reduce the tax burden for the common man.**
+**Goods and Services Tax (GST) is** an indirect, comprehensive, multi-stage, destination-based tax that is levied on every value addition. **GST replaced a host of indirect taxes being levied by the central and state governments, which has changed the taxation landscape. The underlying theme was to have a ‘one nation one tax’ which would improve ease of doing business for taxpayers, bring in transparency, ensure timely compliance and ultimately reduce the tax burden for the common man.**
 
 ### Body
 
@@ -2217,7 +2217,7 @@ GST has been a significant reform which eliminates cascading of taxes and reduce
 
 ### Introduction
 
-: **The Indian economy has witnessed a gradual transition from a period of high and variable inflation to a more stable and low level of inflation along with steady GDP growth in the past five years, according to the Economic Survey 2018-2019. There are diverse opinions on this view.**
+**The Indian economy has witnessed a gradual transition from a period of high and variable inflation to a more stable and low level of inflation along with steady GDP growth in the past five years, according to the Economic Survey 2018-2019. There are diverse opinions on this view.**
 
 ### Body
 
@@ -2253,7 +2253,7 @@ There can be a conflict between economic growth and inflation. In periods of rap
 
 ### Introduction
 
-: **Integrated farming system is** a type of agriculture that aims to create a balanced and sustainable ecosystem **by combining different types of farming practices, such as crop production, animal husbandry, and forestry. The combination is such that the waste of one process becomes the input for other processes.**
+**Integrated farming system is** a type of agriculture that aims to create a balanced and sustainable ecosystem **by combining different types of farming practices, such as crop production, animal husbandry, and forestry. The combination is such that the waste of one process becomes the input for other processes.**
 
 ### Body
 
@@ -2293,7 +2293,7 @@ The IFS approach can be helpful in sustaining agricultural production by improvi
 
 ### Introduction
 
-: **Watershed** is a geo-hydrological unit of land, which collects water and drains it through a common point **. Watershed management basically involves storage and recharge of groundwater through various methods like percolation tanks, recharge wells and artificial ponds. The Government launched Integrated Watershed Development Program (IWDP) and National Watershed Development Program for Rainfed Areas (NWDPRA) with the help of the World Bank.**
+**Watershed** is a geo-hydrological unit of land, which collects water and drains it through a common point **. Watershed management basically involves storage and recharge of groundwater through various methods like percolation tanks, recharge wells and artificial ponds. The Government launched Integrated Watershed Development Program (IWDP) and National Watershed Development Program for Rainfed Areas (NWDPRA) with the help of the World Bank.**
 
 In 2015, the Ministry of Rural Development and World Bank signed a loan agreement to consolidate these initiatives under **“Neeranchal National Watershed Project (NWP)”.**
 
@@ -2335,7 +2335,7 @@ This is an inclusive concept wherein decentralization, community participation a
 
 ### Introduction
 
-: **As per OECD, inclusive growth is** economic growth that is distributed fairly across society and creates opportunities for all. **The UN Brundtland commission’s report ‘Our Common Future (1987)’ defined sustainable development as development that meets the needs of the present without compromising the ability of future generations to meet their own needs.**
+**As per OECD, inclusive growth is** economic growth that is distributed fairly across society and creates opportunities for all. **The UN Brundtland commission’s report ‘Our Common Future (1987)’ defined sustainable development as development that meets the needs of the present without compromising the ability of future generations to meet their own needs.**
 
 <p align="center"><img src="images/pw_economic_development_q464_img1.webp" alt="Inclusive growth" /></p>
 
@@ -2379,7 +2379,7 @@ Inclusiveness and sustainability are interwoven in the concept of inclusive grow
 
 ### Introduction
 
-: **Public expenditure management (PEM) is the** approach of prudent use of government financial resources so as to achieve good governance. **It deals with allocation of public financial resources into public administration, economic growth and for some welfare schemes. Primarily it concerns overall fiscal discipline, allocation of resources, operational efficiency and macro-economic stability.**
+**Public expenditure management (PEM) is the** approach of prudent use of government financial resources so as to achieve good governance. **It deals with allocation of public financial resources into public administration, economic growth and for some welfare schemes. Primarily it concerns overall fiscal discipline, allocation of resources, operational efficiency and macro-economic stability.**
 
 ### Body
 
@@ -2414,7 +2414,7 @@ In the aftermath of LPG reforms, the nation’s per capita income increased, gov
 
 ### Introduction
 
-: **The Public Distribution System (PDS) is** an Indian food security system **which evolved as a system** for the distribution of food grains and other essential items to low-income households **at affordable prices and management of emergency situations. It is the largest food security scheme globally and covers almost 60% of the Indian population.**
+**The Public Distribution System (PDS) is** an Indian food security system **which evolved as a system** for the distribution of food grains and other essential items to low-income households **at affordable prices and management of emergency situations. It is the largest food security scheme globally and covers almost 60% of the Indian population.**
 
 ### Body
 
@@ -2458,7 +2458,7 @@ The government initiatives for reform are in the right direction. But there are 
 
 ### Introduction
 
-:** The food processing industry encompasses a wide range of activities, including the processing, preservation, packaging, and distribution of food products. It also includes the process of value addition to produce food products through methods such as preservation, the addition of food additives, drying, etc.
+** The food processing industry encompasses a wide range of activities, including the processing, preservation, packaging, and distribution of food products. It also includes the process of value addition to produce food products through methods such as preservation, the addition of food additives, drying, etc.
 
 <p align="center"><img src="images/pw_economic_development_q467_img1.webp" alt=" food processing market" /></p>
 
@@ -2509,7 +2509,7 @@ For unhindered growth, it becomes important to address the demand and supply-sid
 
 ### Introduction
 
-: **Under the Indian taxation system, Capital Gain Tax (CGT) is** levied on any profit arising from sale of ‘Capital Asset’. **Depending on the length / duration of the ownership before selling of the asset, this tax is further divided into Long term CGT and Short term CGT.**
+**Under the Indian taxation system, Capital Gain Tax (CGT) is** levied on any profit arising from sale of ‘Capital Asset’. **Depending on the length / duration of the ownership before selling of the asset, this tax is further divided into Long term CGT and Short term CGT.**
 
 Dividend Distribution Tax (DDT) is **levied on the amount of profits paid by the company** in the form of dividends to its shareholders.
 
@@ -2553,7 +2553,7 @@ A good taxation system should be “progressive” i.e. those with higher income
 
 ### Introduction
 
-: **MSP is** a form of market intervention **by the Government of India** to insure agricultural producers **against any sharp fall in farm prices during bumper production years. The major objectives are to support the farmers from distress sales and to procure food grains for public distribution.**
+**MSP is** a form of market intervention **by the Government of India** to insure agricultural producers **against any sharp fall in farm prices during bumper production years. The major objectives are to support the farmers from distress sales and to procure food grains for public distribution.**
 
 ### Body
 
@@ -2599,7 +2599,7 @@ The objectives with which MSP was introduced has been only partially met. Hence,
 
 ### Introduction
 
-: **A supermarket is a self-service retail shop offering a wide variety of food and household products under a single roof. They are the primary retail channels for these products and directly impact the supply and demand dynamics.**
+**A supermarket is a self-service retail shop offering a wide variety of food and household products under a single roof. They are the primary retail channels for these products and directly impact the supply and demand dynamics.**
 
 ### Body
 
@@ -2639,7 +2639,7 @@ Direct sourcing, quality control measures, standardization, aggregation, and use
 
 ### Introduction
 
-: **Inspired by the Soviet Model, India had** established a Planning Commission in 1950 **to design the five-year plans for India. In 2015, it was replaced by a new organisation named National Institution for Transforming India (NITI) Aayog, in line with the changing needs of new India.**
+**Inspired by the Soviet Model, India had** established a Planning Commission in 1950 **to design the five-year plans for India. In 2015, it was replaced by a new organisation named National Institution for Transforming India (NITI) Aayog, in line with the changing needs of new India.**
 
 ### Body
 
@@ -2678,7 +2678,7 @@ Although socio-economic transformation lies at the heart of both NITI Aayog and 
 
 ### Introduction
 
-:**
+**
 
 **Protectionism** means the use of tariff and non-tariff barriers to protect the local industry against foreign competition. For instance, U.S.A. had placed 25% tariffs on all steel imports, and 10% on aluminium imports. **Currency Manipulation** occurs when a central bank keeps buying dollars to create artificial scarcity of dollars in the forex markets thereby causing weakening of the local currency. This helps to boost the country’s exports.
 
@@ -2722,7 +2722,7 @@ Protectionism has a mixed impact on Indian macroeconomic stability because while
 
 ### Introduction
 
-: **National Horticulture Mission (NHM) is an Indian Government scheme promoted with the** objective to develop horticulture to the maximum potential **available in the states and to augment production of all horticultural products. It was launched in 2005 by the Ministry of Agriculture and Farmers’ Welfare.**
+**National Horticulture Mission (NHM) is an Indian Government scheme promoted with the** objective to develop horticulture to the maximum potential **available in the states and to augment production of all horticultural products. It was launched in 2005 by the Ministry of Agriculture and Farmers’ Welfare.**
 
 ### Body
 
@@ -2769,7 +2769,7 @@ By combining horticulture cultivation with traditional farming, agriculture in o
 
 ### Introduction
 
-: **Cropping pattern is the** proportion of area under various crops at a point of time **. The cropping patterns of a region are mainly influenced by the geo-climatic, socio-economic, historical and political factors.**
+**Cropping pattern is the** proportion of area under various crops at a point of time **. The cropping patterns of a region are mainly influenced by the geo-climatic, socio-economic, historical and political factors.**
 
 <p align="center"><img src="images/pw_economic_development_q423_img1.webp" alt="Major crop area" /></p>
 
@@ -2816,7 +2816,7 @@ India’s Millet Revolution is driven by growing awareness of the health and env
 
 ### Introduction
 
-: **A key lacuna in India’s growth has been slow growth of manufacturing in labor-intensive sectors like textiles, footwear, etc and concentration in capital intensive manufacturing sectors like auto parts, chemicals, software and pharmaceuticals. None of these sectors employ low-skilled workers in large numbers.**
+**A key lacuna in India’s growth has been slow growth of manufacturing in labor-intensive sectors like textiles, footwear, etc and concentration in capital intensive manufacturing sectors like auto parts, chemicals, software and pharmaceuticals. None of these sectors employ low-skilled workers in large numbers.**
 
 ### Body
 
@@ -2860,7 +2860,7 @@ Although India did not follow the traditional path for growth in the manufacturi
 
 ### Introduction
 
-: **Capital formation refers to the** accumulation of capital stock such as buildings, machinery, equipment, and other physical assets **that are used to produce goods and services. It is that part of a country’s current output and imports which is not consumed or exported during the accounting period, but is set aside as an addition to its stock of capital goods. Capital formation is the most important factor that drives the economic development of a nation.**
+**Capital formation refers to the** accumulation of capital stock such as buildings, machinery, equipment, and other physical assets **that are used to produce goods and services. It is that part of a country’s current output and imports which is not consumed or exported during the accounting period, but is set aside as an addition to its stock of capital goods. Capital formation is the most important factor that drives the economic development of a nation.**
 
 ### Body
 
@@ -2897,7 +2897,7 @@ India has a favourable demographic dividend. But to really harness it, it must l
 
 ### Introduction
 
-: **Public-private partnerships (PPPs) are** formally established agreements between public and private parties **to share risks and benefits in the provision of public services and infrastructure. As per** World Bank **,** India **is one of the leading countries in terms of readiness for PPPs with** ~2000 PPP projects **in various stages of implementation.**
+**Public-private partnerships (PPPs) are** formally established agreements between public and private parties **to share risks and benefits in the provision of public services and infrastructure. As per** World Bank **,** India **is one of the leading countries in terms of readiness for PPPs with** ~2000 PPP projects **in various stages of implementation.**
 
 <p align="center"><img src="images/pw_economic_development_q106_img1.webp" alt="PPP" /></p>
 
@@ -2942,7 +2942,7 @@ The understanding between public and private players should not be rigid but fle
 
 ### Introduction
 
-: **India is primarily an agricultural economy and the majority of people are still dependent on agriculture for their livelihood. After independence, development of agriculture has been assured by various revolutions supported by the government.**
+**India is primarily an agricultural economy and the majority of people are still dependent on agriculture for their livelihood. After independence, development of agriculture has been assured by various revolutions supported by the government.**
 
 ### Body
 
@@ -2980,7 +2980,7 @@ To further carry on the momentum of these programmes and assure food security in
 
 ### Introduction
 
-: **An agricultural subsidy is** an incentive paid by the government to the farmers as a supplement of their income **to maintain the supply of the agricultural commodities. In India, the subsidy covers fertilizer, irrigation, equipment, credit subsidy, seed subsidy, export subsidy, etc.**
+**An agricultural subsidy is** an incentive paid by the government to the farmers as a supplement of their income **to maintain the supply of the agricultural commodities. In India, the subsidy covers fertilizer, irrigation, equipment, credit subsidy, seed subsidy, export subsidy, etc.**
 
 ### Body
 
@@ -3058,7 +3058,7 @@ Since most of these initiatives are long term measures, they would need time to 
 
 ### Introduction
 
-: **The Rice-wheat cropping system is** India’s most widely adopted cropping system practiced on an estimated area of around 11 million hectares **. It involves the cultivation of rice during the summer monsoon season, followed by the cultivation of wheat during the winter season. This system is prevalent in Indo-Gangetic plains (IGP) and is predominant in Uttar Pradesh, Punjab, Haryana, Bihar, West Bengal, Madhya Pradesh etc.**
+**The Rice-wheat cropping system is** India’s most widely adopted cropping system practiced on an estimated area of around 11 million hectares **. It involves the cultivation of rice during the summer monsoon season, followed by the cultivation of wheat during the winter season. This system is prevalent in Indo-Gangetic plains (IGP) and is predominant in Uttar Pradesh, Punjab, Haryana, Bihar, West Bengal, Madhya Pradesh etc.**
 
 ### Body
 
@@ -3107,7 +3107,7 @@ Crop diversification is one of the most suitable ways of stabilising the crop yi
 
 ### Introduction
 
-: **The food processing industry encompasses a wide range of activities, including the processing, preservation, packaging, and distribution of food products. India being an agricultural country offers ideal conditions for development of emerging food processing industry. Easy availability of raw materials, changing lifestyles in urban and rural areas and favourable fiscal policies are giving a push to this sunrise sector.**
+**The food processing industry encompasses a wide range of activities, including the processing, preservation, packaging, and distribution of food products. India being an agricultural country offers ideal conditions for development of emerging food processing industry. Easy availability of raw materials, changing lifestyles in urban and rural areas and favourable fiscal policies are giving a push to this sunrise sector.**
 
 ### Body
 
@@ -3147,7 +3147,7 @@ India must leverage all the available resources to emerge as a leader in food pr
 
 ### Introduction
 
-: **As per OECD, inclusive growth is** economic growth that is distributed fairly across society and creates opportunities for all **. When economic growth of a country benefits all sections of the population, reduces poverty and creates employment opportunities for all, the growth is said to be inclusive.**
+**As per OECD, inclusive growth is** economic growth that is distributed fairly across society and creates opportunities for all **. When economic growth of a country benefits all sections of the population, reduces poverty and creates employment opportunities for all, the growth is said to be inclusive.**
 
 <p align="center"><img src="images/pw_economic_development_q374_img1.webp" alt="inclusive growth" /></p>
 
@@ -3195,7 +3195,7 @@ Inclusive growth will aid in the empowerment of disadvantaged and marginalized p
 
 ### Introduction
 
-: **Inclusive growth has remained elusive despite government’s best efforts. Post-1991 India has witnessed a rise not only in prosperity but also disparities. Inequalities have got widened and accelerated. More and faster development has occurred in areas that are already well developed and rich. Well-developed and prosperous regions have attracted most of foreign investment and have grown further rapidly.**
+**Inclusive growth has remained elusive despite government’s best efforts. Post-1991 India has witnessed a rise not only in prosperity but also disparities. Inequalities have got widened and accelerated. More and faster development has occurred in areas that are already well developed and rich. Well-developed and prosperous regions have attracted most of foreign investment and have grown further rapidly.**
 
 ### Body
 
@@ -3244,7 +3244,7 @@ Careless and useless deployment of manpower has inhibited the individuals as wel
 
 ### Introduction
 
-: **Land reform refers to** efforts to reform ownership, operation, leasing, sales, and property rights of land in India. **The Indian Government was committed to land reforms and to ensure distributive justice as was promised during the freedom struggle. Post Independent India has seen movements like Bhoodan and Gramdan which were persuasive in nature. Later, laws were passed by Governments for abolishing landlordism, distributing land through imposition of ceilings, protection of tenants and consolidation of land-holdings.**
+**Land reform refers to** efforts to reform ownership, operation, leasing, sales, and property rights of land in India. **The Indian Government was committed to land reforms and to ensure distributive justice as was promised during the freedom struggle. Post Independent India has seen movements like Bhoodan and Gramdan which were persuasive in nature. Later, laws were passed by Governments for abolishing landlordism, distributing land through imposition of ceilings, protection of tenants and consolidation of land-holdings.**
 
 <p align="center"><img src="images/pw_economic_development_q258_img1.webp" alt="land reforms" /></p>
 
@@ -3294,7 +3294,7 @@ Land reforms play a crucial role in agricultural development, as they can increa
 
 ### Introduction
 
-: **Indian Agriculture is excessively dependent on monsoons. According to** World Bank **only 35 % of total area under cultivation in India was irrigated by 2010. Monsoon fluctuations and other natural calamities such as natural fires, typhoons, hail storms, etc have played havoc in Indian farmer’s lives. Even when there is bountiful production, the farmer has fallen victim to price fluctuations. Crop insurance plan assists in the stabilization of crop production and related income of the farmers.**
+**Indian Agriculture is excessively dependent on monsoons. According to** World Bank **only 35 % of total area under cultivation in India was irrigated by 2010. Monsoon fluctuations and other natural calamities such as natural fires, typhoons, hail storms, etc have played havoc in Indian farmer’s lives. Even when there is bountiful production, the farmer has fallen victim to price fluctuations. Crop insurance plan assists in the stabilization of crop production and related income of the farmers.**
 
 ### Body
 
@@ -3337,7 +3337,7 @@ Climate change induced extreme weather conditions and market fluctuations have i
 
 ### Introduction
 
-: **Globalization means** free trade in goods, services, and capital **. Globalization boosted the economy’s multidimensional efficiency, but it also promoted flexible employment and informalization. Although informalisation has provided livelihood to many, it has not raised the living standard as was expected.**
+**Globalization means** free trade in goods, services, and capital **. Globalization boosted the economy’s multidimensional efficiency, but it also promoted flexible employment and informalization. Although informalisation has provided livelihood to many, it has not raised the living standard as was expected.**
 
 ### Body
 
@@ -3378,7 +3378,7 @@ Although the informal economy provides much needed jobs for the poor, it does so
 
 ### Introduction
 
-: **Foreign Direct Investment (FDI) refers to** capital inflows from abroad **that are invested in or to enhance the production capacity of the economy.**
+**Foreign Direct Investment (FDI) refers to** capital inflows from abroad **that are invested in or to enhance the production capacity of the economy.**
 
 ### Body
 
@@ -3420,7 +3420,7 @@ FDI is a very crucial aspect of how development would occur given the fact that 
 
 ### Introduction
 
-: **Financial inclusion is defined by GoI as** “the process of ensuring access to financial services and timely adequate credit **when needed by vulnerable groups such as weaker sections and low-income groups at an affordable cost”.**
+**Financial inclusion is defined by GoI as** “the process of ensuring access to financial services and timely adequate credit **when needed by vulnerable groups such as weaker sections and low-income groups at an affordable cost”.**
 
 Dimensions of financial inclusion are bank penetration, credit penetration, deposit penetration for which **Pradhan Mantri Jan-Dhan Yojana (PMJDY)** is a major initiative. More than 46.25 crore beneficiaries have banked under PMJDY since inception.
 
@@ -3460,7 +3460,7 @@ PMJDY has achieved milestones and is truly a step in the right direction toward 
 
 ### Introduction
 
-: **Gender Budgeting is** not an accounting exercise but an ongoing process of keeping a gender perspective in policy/programme formulation **, its implementation and review. It entails dissection of the Government budgets to establish its gender differential impacts and to ensure that gender commitments are translated into budgetary commitments.**
+**Gender Budgeting is** not an accounting exercise but an ongoing process of keeping a gender perspective in policy/programme formulation **, its implementation and review. It entails dissection of the Government budgets to establish its gender differential impacts and to ensure that gender commitments are translated into budgetary commitments.**
 
 Women constitute **48%** of India’s population, but they lag behind men on many social indicators like health, education, economic opportunities, etc. The way Government budgets allocate resources, has the potential to transform these gender inequalities. In view of this, Gender Budgeting has been propagated as a tool for achieving gender mainstreaming.
 
@@ -3544,7 +3544,7 @@ There is much promise in digital applications to improve farmer livelihoods. Ove
 
 ### Introduction
 
-: **The average size of land holding has been declining in India since Independence due to increase in population, diversion of agricultural land for industrialization and urbanization and also because of divisions within the family. The current size of land holding is** 1.21 ha **and** 85% farmers **are marginal farmers.**
+**The average size of land holding has been declining in India since Independence due to increase in population, diversion of agricultural land for industrialization and urbanization and also because of divisions within the family. The current size of land holding is** 1.21 ha **and** 85% farmers **are marginal farmers.**
 
 ### Body
 
@@ -3594,7 +3594,7 @@ Thus, even though contract Farming has significant potential to turnaround produ
 
 ### Introduction
 
-: **Direct Benefit Transfer (DBT) has been visioned as** an aid for simpler/faster flow of information and funds to the beneficiaries **and to reduce the fraud in the delivery system.**
+**Direct Benefit Transfer (DBT) has been visioned as** an aid for simpler/faster flow of information and funds to the beneficiaries **and to reduce the fraud in the delivery system.**
 
 ### Body
 
@@ -3626,7 +3626,7 @@ The goal of the government in subsidy reform through DBT is not doing away with 
 
 ### Introduction
 
-: **Livestock sector plays an important role in the Indian economy. India has vast livestock resources. Livestock sector** contributes 4.11% of GDP and 30.1% as a contribution to total agriculture GVA (at constant prices) in 2020-21 **. Rapid growth of this sector can lead to more egalitarian and inclusive growth. This is because those engaged in it are mostly small landholders and the landless farmers.**
+**Livestock sector plays an important role in the Indian economy. India has vast livestock resources. Livestock sector** contributes 4.11% of GDP and 30.1% as a contribution to total agriculture GVA (at constant prices) in 2020-21 **. Rapid growth of this sector can lead to more egalitarian and inclusive growth. This is because those engaged in it are mostly small landholders and the landless farmers.**
 
 Livestock productivity has been identified as one of the seven sources of income growth under the government’s target of doubling farmers’ income.
 
@@ -3679,7 +3679,7 @@ The objective of animal rearing is to make livestock useful for human beings for
 
 ### Introduction
 
-: **A jobless growth is an economic phenomenon in which** a macro economy experiences growth while maintaining or decreasing its level of employment **. The Indian growth experience of the last decade can be called jobless growth as the rate of employment growth is less than the growth experienced by the economy.**
+**A jobless growth is an economic phenomenon in which** a macro economy experiences growth while maintaining or decreasing its level of employment **. The Indian growth experience of the last decade can be called jobless growth as the rate of employment growth is less than the growth experienced by the economy.**
 
 ### Body
 
@@ -3723,7 +3723,7 @@ The experiences of developed countries have demonstrated that the growth of smal
 
 ### Introduction
 
-: **An SEZ is** a territory within a country that is typically duty-free (Fiscal Concession) **and has different business and commercial laws chiefly to encourage investment and create employment. Usually the goal is to increase foreign investments and boost exports by increasing the ease of doing business.**
+**An SEZ is** a territory within a country that is typically duty-free (Fiscal Concession) **and has different business and commercial laws chiefly to encourage investment and create employment. Usually the goal is to increase foreign investments and boost exports by increasing the ease of doing business.**
 
 ### Body
 
@@ -3759,7 +3759,7 @@ SEZs have been looked up to as the tools of industrial development, manufacturin
 
 ### Introduction
 
-: **According to IEEFA, India could be able to produce up to** 405 gigawatts of energy from renewable sources by 2030 **, which is even greater than the target of the government to produce 50% of its electricity from non-fossil fuel sources by the end of this decade. Solar energy is set to contribute a lot to that target.**
+**According to IEEFA, India could be able to produce up to** 405 gigawatts of energy from renewable sources by 2030 **, which is even greater than the target of the government to produce 50% of its electricity from non-fossil fuel sources by the end of this decade. Solar energy is set to contribute a lot to that target.**
 
 ### Body
 
@@ -3804,7 +3804,7 @@ Overall, the trend towards lower equipment costs and tariffs for solar energy is
 
 ### Introduction
 
-: **The food processing industry encompasses a wide range of activities, including the processing, preservation, packaging, and distribution of food products. It is critical to India’s development as it establishes a vital linkage and synergy between the two pillars of the economy, the Industry and Agriculture.** Body **:**
+**The food processing industry encompasses a wide range of activities, including the processing, preservation, packaging, and distribution of food products. It is critical to India’s development as it establishes a vital linkage and synergy between the two pillars of the economy, the Industry and Agriculture.** Body **:**
 
 But food processing industries face many challenges especially in marketing and supply chain management.
 
@@ -3850,7 +3850,7 @@ E-retailers engagement with FPO’s may bridge technological gaps and bring more
 
 ### Introduction
 
-: **Capitalism is an economic system in which** most or all of the trade, industry, and means of production are owned by private people **and used to make money. Capitalism is based on private property, the accumulation of capital, a competitive market, and wages.**
+**Capitalism is an economic system in which** most or all of the trade, industry, and means of production are owned by private people **and used to make money. Capitalism is based on private property, the accumulation of capital, a competitive market, and wages.**
 
 <p align="center"><img src="images/pw_economic_development_q99_img1.webp" alt="capitalism" /></p>
 
@@ -3888,7 +3888,7 @@ Capitalism needs to be regulated for delivery of greatest economic growth to gre
 
 ### Introduction
 
-: **Public-private partnerships (PPPs) are** formally established agreements between public and private parties to share risks and benefits **in the provision of public services and infrastructure. PPP is a model that has been widely adopted by governments around the world as a means of delivering infrastructure and public services more efficiently and effectively.**
+**Public-private partnerships (PPPs) are** formally established agreements between public and private parties to share risks and benefits **in the provision of public services and infrastructure. PPP is a model that has been widely adopted by governments around the world as a means of delivering infrastructure and public services more efficiently and effectively.**
 
 ### Body
 
@@ -3972,7 +3972,7 @@ The new FDI policy has the potential to reduce dependency on imports in the defe
 
 ### Introduction
 
-: **The Government of India has mandated agriculture and primary sector lending as priority lending and has increased fund allocation to it over the years. However, according to the RBI study only around 3% of the credit offtake reserved for the primary sector is taken by small and medium farmers and biggest beneficiary of the expanded credit are large farmers and agriculture-based industries.**
+**The Government of India has mandated agriculture and primary sector lending as priority lending and has increased fund allocation to it over the years. However, according to the RBI study only around 3% of the credit offtake reserved for the primary sector is taken by small and medium farmers and biggest beneficiary of the expanded credit are large farmers and agriculture-based industries.**
 
 ### Body
 
@@ -4010,7 +4010,7 @@ Village society needs a financing system which takes into consideration the loca
 
 ### Introduction
 
-: **The vision statement of the** National Urban Transport Policy (NUTP) **acknowledges that people occupy centre-stage, and that cities must evolve in a manner that supports the main social and economic activities taking place there. The objectives of the NUTP also broadly focus on making life easier for city residents. The NUTP** aims to bring about equitable use of road space with people and not vehicles as the focus **. This policy was created to motivate the building of people-centric urban transport solutions instead of focusing on improving the conditions for private motor vehicles.**
+**The vision statement of the** National Urban Transport Policy (NUTP) **acknowledges that people occupy centre-stage, and that cities must evolve in a manner that supports the main social and economic activities taking place there. The objectives of the NUTP also broadly focus on making life easier for city residents. The NUTP** aims to bring about equitable use of road space with people and not vehicles as the focus **. This policy was created to motivate the building of people-centric urban transport solutions instead of focusing on improving the conditions for private motor vehicles.**
 
 ### Body
 
@@ -4057,7 +4057,7 @@ There is a need for more equitable allocation of road space with people, rather 
 
 ### Introduction
 
-: **Normally countries shift from agriculture to industry and then later to services. But India didn’t see a growth phase in industries, rather it shifted directly from agriculture to services. This may be termed as** Premature deindustrialization **. Premature deindustrialization in India refers to the decline of the industrial sector in the country before it has reached its full potential.**
+**Normally countries shift from agriculture to industry and then later to services. But India didn’t see a growth phase in industries, rather it shifted directly from agriculture to services. This may be termed as** Premature deindustrialization **. Premature deindustrialization in India refers to the decline of the industrial sector in the country before it has reached its full potential.**
 
 ### Body
 
@@ -4100,7 +4100,7 @@ Therefore, although India can become a developed country without a strong indust
 
 ### Introduction
 
-: **The Right to Fair Compensation and Transparency in Land Acquisition, Rehabilitation and Resettlement Act, 2013** replaced the archaic Land Acquisition Act of 1894 **.**
+**The Right to Fair Compensation and Transparency in Land Acquisition, Rehabilitation and Resettlement Act, 2013** replaced the archaic Land Acquisition Act of 1894 **.**
 
 India’s land acquisition was undertaken under antiquated Colonial Land acquisition act which had led to increased distress, conflict over eviction of land owners and landless labour from their land without proper compensation or rehabilitation. This led to enactment of the LARR Act 2013.
 
@@ -4147,7 +4147,7 @@ The LARR Act of 2013 was brought to give effect to the pre-existing fundamental 
 
 ### Introduction
 
-: **Agriculture is a state subject and almost all state governments enacted APMC act in the 1950’s or so, to bring transparency and end discretion of traders. Under the APMC acts, States are geographically divided into markets which are headed by market committees and any production in that area shall be brought to a market committee for sale. This is applicable to ‘notified agricultural products’ which differs from state to state and generally includes most of the important cereals, vegetables and other horticulture products.**
+**Agriculture is a state subject and almost all state governments enacted APMC act in the 1950’s or so, to bring transparency and end discretion of traders. Under the APMC acts, States are geographically divided into markets which are headed by market committees and any production in that area shall be brought to a market committee for sale. This is applicable to ‘notified agricultural products’ which differs from state to state and generally includes most of the important cereals, vegetables and other horticulture products.**
 
 ### Body
 
@@ -4182,7 +4182,7 @@ All this led the central govt to formulate Model APMC act in 2003, but it has no
 
 ### Introduction
 
-: **Demographic dividend occurs** when the proportion of working age people (15 years – 64 years) in the total population is high **because this indicates that more people have the potential to be productive and contribute to growth of the economy. The Young population is expected to drive the next level growth of the Indian economy and India has a very young population now. But while we flaunt the demographic dividend, there are major issues that act as impediments. The largest and most serious among them is unemployment.**
+**Demographic dividend occurs** when the proportion of working age people (15 years – 64 years) in the total population is high **because this indicates that more people have the potential to be productive and contribute to growth of the economy. The Young population is expected to drive the next level growth of the Indian economy and India has a very young population now. But while we flaunt the demographic dividend, there are major issues that act as impediments. The largest and most serious among them is unemployment.**
 
 ### Body
 
@@ -4225,7 +4225,7 @@ India needs to reform Labour laws to promote formal employment, focus more on sk
 
 ### Introduction
 
-: **Public-private partnerships (PPPs) are** formally established agreements between public and private parties to share risks and benefits **in the provision of public services and infrastructure. PPP is a model that has been widely adopted by governments around the world as a means of delivering infrastructure and public services more efficiently and effectively. fact showing share of ppp in total infrastructure of nation** Body: **
+**Public-private partnerships (PPPs) are** formally established agreements between public and private parties to share risks and benefits **in the provision of public services and infrastructure. PPP is a model that has been widely adopted by governments around the world as a means of delivering infrastructure and public services more efficiently and effectively. fact showing share of ppp in total infrastructure of nation** Body: **
 
 **Public Private Partnerships (PPP) is favoured in infrastructural projects because:**
 - **Private sector finance and expertise:** PPPs provide a way for governments to access private sector financing to build complex infrastructural projects, while the private sector is assured of returns based on government guarantee.
@@ -4266,7 +4266,7 @@ Although there are challenges like delays in land acquisition, non-availability 
 
 ### Introduction
 
-:** Goods and Services Tax (GST) is an indirect, comprehensive, multi-stage, destination-based tax that is levied on every value addition. GST replaced a host of indirect taxes being levied by the central and state governments, which has changed the taxation landscape.
+** Goods and Services Tax (GST) is an indirect, comprehensive, multi-stage, destination-based tax that is levied on every value addition. GST replaced a host of indirect taxes being levied by the central and state governments, which has changed the taxation landscape.
 
 <p align="center"><img src="images/pw_economic_development_q23_img1.webp" alt="gst" /></p>
 
@@ -4311,7 +4311,7 @@ GST has been a significant reform which eliminates cascading of taxes and reduce
 
 ### Introduction
 
-: **Land reform refers to** efforts to reform ownership, operation, leasing, sales, and property rights of land in India **. The Indian Government was committed to land reforms and to ensure distributive justice as was promised during the freedom struggle. Post Independent India has seen movements like** Bhoodan and Gramdan **which were persuasive in nature. Later, laws were passed by Governments for abolishing landlordism, distributing land through imposition of ceilings, protection of tenants and consolidation of land-holdings.**
+**Land reform refers to** efforts to reform ownership, operation, leasing, sales, and property rights of land in India **. The Indian Government was committed to land reforms and to ensure distributive justice as was promised during the freedom struggle. Post Independent India has seen movements like** Bhoodan and Gramdan **which were persuasive in nature. Later, laws were passed by Governments for abolishing landlordism, distributing land through imposition of ceilings, protection of tenants and consolidation of land-holdings.**
 
 Land reforms play a crucial role in agricultural development as they can increase land productivity, reduce poverty, and promote economic growth.
 
@@ -4356,7 +4356,7 @@ Land reforms play a crucial role in agricultural development, as they can increa
 
 ### Introduction
 
-: **Economic liberalization is** generally described as the relaxing of government regulations in a country **to allow for private sector companies to operate business transactions with fewer restrictions.**
+**Economic liberalization is** generally described as the relaxing of government regulations in a country **to allow for private sector companies to operate business transactions with fewer restrictions.**
 
 ### Body
 
@@ -4392,7 +4392,7 @@ In the Indian case, the term liberalization is used to show the direction of the
 
 ### Introduction
 
-: **The “Pink Revolution” refers to the** growth of the processed meat industry in India **. India as a country with a huge cattle and poultry population has huge potential for growth if this sector is modernized. However, there are several measures that need to be strengthened in order to fully realise the benefits of the Pink Revolution.**
+**The “Pink Revolution” refers to the** growth of the processed meat industry in India **. India as a country with a huge cattle and poultry population has huge potential for growth if this sector is modernized. However, there are several measures that need to be strengthened in order to fully realise the benefits of the Pink Revolution.**
 
 ### Body
 
@@ -4442,7 +4442,7 @@ The Pink Revolution in India has the potential to improve nutrition and health o
 
 ### Introduction
 
-: **The National Family Health Survey (NFHS)** conducted in 2019-21 **shows that a considerable proportion of young children in India face food insecurity, which raises concerns about their development and future well-being. To achieve the** Sustainable Development Goal (SDG) 2 of zero hunger **, India must take strategic initiatives to eliminate food insecurity and ensure affordable access to nutritious food for all.**
+**The National Family Health Survey (NFHS)** conducted in 2019-21 **shows that a considerable proportion of young children in India face food insecurity, which raises concerns about their development and future well-being. To achieve the** Sustainable Development Goal (SDG) 2 of zero hunger **, India must take strategic initiatives to eliminate food insecurity and ensure affordable access to nutritious food for all.**
 
 The National Food Security Act, 2013 **aims to provide subsidized food grains to approximately two-third of the country’s population**. The enactment of this landmark legislation, brought a paradigm shift in approach to food security, from welfare to rights-based approach.
 
@@ -4482,7 +4482,7 @@ It is to be understood that the rules of WTO were not geared to help agrarian ec
 
 ### Introduction
 
-: **Farm subsidy is** a governmental subsidy paid to farmers to supplement farmer’s income and enhance their productivity **. Farm subsidies act as a complementary income to farmers, which can be invested back in agriculture in the form of good quality inputs, thereby boosting productivity and income. Major subsidies in India are fertiliser, power, credit, output, seed, and export subsidies. In 2021 Agri-subsidies were around 5 lakh crores as per NITI Aayog ( including food and fertiliser subsidies).**
+**Farm subsidy is** a governmental subsidy paid to farmers to supplement farmer’s income and enhance their productivity **. Farm subsidies act as a complementary income to farmers, which can be invested back in agriculture in the form of good quality inputs, thereby boosting productivity and income. Major subsidies in India are fertiliser, power, credit, output, seed, and export subsidies. In 2021 Agri-subsidies were around 5 lakh crores as per NITI Aayog ( including food and fertiliser subsidies).**
 
 ### Body
 
@@ -4531,7 +4531,7 @@ The agriculture sector which provides more than 40% of employment, contributes o
 
 ### Introduction
 
-: **Tax expenditure are** concessions and exemptions provided to the taxpayers by the government **. Tax expenditures are revenue losses attributable to tax provisions that often result from the use of the tax system to promote social goals without incurring direct expenditures.**
+**Tax expenditure are** concessions and exemptions provided to the taxpayers by the government **. Tax expenditures are revenue losses attributable to tax provisions that often result from the use of the tax system to promote social goals without incurring direct expenditures.**
 
 ### Body
 
@@ -4568,7 +4568,7 @@ Thus, tax expenditure is seen as a way to boost development and tax revenue in t
 
 ### Introduction
 
-: **Fiscal Responsibility and Budget Management (FRBM) Act, 2003** provides a legal and institutional framework for fiscal consolidation **. It is now mandatory for the Central government to take measures to reduce the fiscal deficit, to eliminate revenue deficit and to improve the overall management of the public funds by moving towards a balanced budget. The Act binds not only the present government but also the future Government to adhere to the path of fiscal consolidation.**
+**Fiscal Responsibility and Budget Management (FRBM) Act, 2003** provides a legal and institutional framework for fiscal consolidation **. It is now mandatory for the Central government to take measures to reduce the fiscal deficit, to eliminate revenue deficit and to improve the overall management of the public funds by moving towards a balanced budget. The Act binds not only the present government but also the future Government to adhere to the path of fiscal consolidation.**
 
 ### Body
 
@@ -4619,7 +4619,7 @@ FRBM brought focus on fiscal discipline and provided benchmarks to measure the s
 
 ### Introduction
 
-: **The Companies Act, 2013** regulates the companies incorporated under the Act replacing the earlier Act of 1956 **. It provides certain compliances which the company has to fulfil. Sustainable economic growth requires inclusive growth. Corporate social responsibility (CSR) seeks to achieve inclusive growth through addressing the challenges and catering to elements of Inclusive Growth like skill development.**
+**The Companies Act, 2013** regulates the companies incorporated under the Act replacing the earlier Act of 1956 **. It provides certain compliances which the company has to fulfil. Sustainable economic growth requires inclusive growth. Corporate social responsibility (CSR) seeks to achieve inclusive growth through addressing the challenges and catering to elements of Inclusive Growth like skill development.**
 
 The Act **prescribes an expenditure of 2 per cent of the company’s profits on CSR** (corporate social responsibility) activities in their respective areas of operation. These would have to be outcome and timeline-driven with details posted on websites.
 
@@ -4661,7 +4661,7 @@ Due to a lack of strategic planning, proper experimentation, innovation, and eng
 
 ### Introduction
 
-: **India’s green energy corridor (GEC) is** an ambitious plan aimed at integrating renewable energy into the country’s power grid **and reducing the dependence on conventional sources of energy. The project involves building a network of high-voltage transmission lines to transport electricity generated from renewable sources, such as solar and wind power, from the states where they are abundant to the areas that require them. Recently, phase 2 of the GEC has been initiated.**
+**India’s green energy corridor (GEC) is** an ambitious plan aimed at integrating renewable energy into the country’s power grid **and reducing the dependence on conventional sources of energy. The project involves building a network of high-voltage transmission lines to transport electricity generated from renewable sources, such as solar and wind power, from the states where they are abundant to the areas that require them. Recently, phase 2 of the GEC has been initiated.**
 
 The green energy corridor project is being implemented by Power Grid Corporation of India Limited (PGCIL) with the support of the Ministry of New and Renewable Energy (MNRE) and other government agencies.
 
@@ -5277,7 +5277,7 @@ To safeguard its rich marine biodiversity and the health and livelihood of its c
 
 ### Introduction
 
-:** Global warming is a pressing environmental issue that has far-reaching implications for the Earth’s climate system. It refers to the long-term increase in average temperatures due to the accumulation of greenhouse gasses (GHGs) in the atmosphere. This rise in temperature has several effects on global climate patterns, including increased frequency and intensity of extreme weather events, melting glaciers and polar ice caps, rising sea levels, and disruptions to ecosystems.
+** Global warming is a pressing environmental issue that has far-reaching implications for the Earth’s climate system. It refers to the long-term increase in average temperatures due to the accumulation of greenhouse gasses (GHGs) in the atmosphere. This rise in temperature has several effects on global climate patterns, including increased frequency and intensity of extreme weather events, melting glaciers and polar ice caps, rising sea levels, and disruptions to ecosystems.
 
 <p align="center"><img src="images/pw_environment_and_ecology_q643_img1.webp" alt="global warming" /></p>
 
@@ -5317,7 +5317,7 @@ The Kyoto Protocol, established in 1997, played a crucial role in addressing glo
 
 ### Introduction
 
-:** Photochemical smog refers to a type of air pollution that is formed when sunlight interacts with pollutants, primarily nitrogen oxides (NOx) and volatile organic compounds (VOCs), in the presence of heat. This phenomenon is commonly observed in urban areas with high traffic and industrial activities.
+** Photochemical smog refers to a type of air pollution that is formed when sunlight interacts with pollutants, primarily nitrogen oxides (NOx) and volatile organic compounds (VOCs), in the presence of heat. This phenomenon is commonly observed in urban areas with high traffic and industrial activities.
 
 <p align="center"><img src="images/pw_environment_and_ecology_q644_img1.webp" alt="Photochemical smog " /></p>
 
@@ -5359,7 +5359,7 @@ Photochemical smog necessitates immediate action due to its complex formation an
 
 ### Introduction
 
-: **Coastal erosion is a significant environmental hazard affecting India’s vast coastline, which spans approximately 7,500 kilometers. It is primarily caused by natural processes such as wave action, tides, and currents, exacerbated by human activities. Coastal erosion has far-reaching consequences on coastal communities, infrastructure, and ecosystems.**
+**Coastal erosion is a significant environmental hazard affecting India’s vast coastline, which spans approximately 7,500 kilometers. It is primarily caused by natural processes such as wave action, tides, and currents, exacerbated by human activities. Coastal erosion has far-reaching consequences on coastal communities, infrastructure, and ecosystems.**
 
 ### Body
 
@@ -5401,8 +5401,6 @@ Coastal erosion demands urgent attention to safeguard vulnerable coastlines. Eff
 | --- |
 
 ### Introduction
-
-:
 
 The World Health Organisation (WHO) recently released revised Global Air Quality Guidelines (AQGs), which provide key recommendations for reducing air pollution and protecting public health.
 
@@ -5449,7 +5447,7 @@ To achieve the revised air quality standards recommended by WHO, India’s Natio
 
 ### Introduction
 
-: **The United Nations Framework Convention on Climate Change (UNFCCC) is an international treaty established in 1992 to address the urgent issue of climate change. The UNFCCC provides a platform for nations to cooperate and take action to mitigate greenhouse gas emissions and adapt to the impacts of climate change. It has been ratified by almost all countries, making it nearly universal in its membership.**
+**The United Nations Framework Convention on Climate Change (UNFCCC) is an international treaty established in 1992 to address the urgent issue of climate change. The UNFCCC provides a platform for nations to cooperate and take action to mitigate greenhouse gas emissions and adapt to the impacts of climate change. It has been ratified by almost all countries, making it nearly universal in its membership.**
 
 ### Body
 
@@ -5497,7 +5495,7 @@ India made commitments at COP26, including achieving net-zero emissions by 2070,
 
 ### Introduction
 
-: **The Green Grid or One Sun One World One Grid (OSOWOG) initiative, jointly announced by India and the UK at COP-26 in Glasgow, aims to accelerate the development of interconnected electricity grids globally. It seeks to enhance energy access for disadvantaged communities through mini-grids and off-grid solutions.
+**The Green Grid or One Sun One World One Grid (OSOWOG) initiative, jointly announced by India and the UK at COP-26 in Glasgow, aims to accelerate the development of interconnected electricity grids globally. It seeks to enhance energy access for disadvantaged communities through mini-grids and off-grid solutions.
 
 The concept of a unified global solar grid was initially proposed by the Prime Minister of India at the International Solar Alliance in 2018, emphasizing the importance of sustainable energy solutions on a global scale.
 
@@ -5535,7 +5533,7 @@ The idea of a global interconnected solar power grid, which formed the basis of 
 
 ### Introduction
 
-:** The draft Environment Impact Assessment (EIA) Notification, 2020 proposed by the Ministry of Environment, Forest, and Climate Change (MoEFCC) aims to replace the existing EIA Notification from 2006. The draft introduces significant changes that have sparked debates and concerns. Understanding the differences between the two notifications is crucial in assessing the potential implications on environmental governance and public participation.
+** The draft Environment Impact Assessment (EIA) Notification, 2020 proposed by the Ministry of Environment, Forest, and Climate Change (MoEFCC) aims to replace the existing EIA Notification from 2006. The draft introduces significant changes that have sparked debates and concerns. Understanding the differences between the two notifications is crucial in assessing the potential implications on environmental governance and public participation.
 
 <p align="center"><img src="images/pw_environment_and_ecology_q508_img1.webp" alt="EIA" /></p>
 
@@ -5581,7 +5579,7 @@ The draft EIA Notification, 2020 diverges from the existing EIA Notification, 20
 
 ### Introduction
 
-: **The Jal Shakti Abhiyan launched by the Government of India. It is a significant initiative aimed at addressing water conservation and water security in the country. This comprehensive campaign encompasses various measures to promote efficient water management and enhance water availability.**
+**The Jal Shakti Abhiyan launched by the Government of India. It is a significant initiative aimed at addressing water conservation and water security in the country. This comprehensive campaign encompasses various measures to promote efficient water management and enhance water availability.**
 
 ### Body
 
@@ -5617,7 +5615,7 @@ The salient features of the Jal Shakti Abhiyan include rainwater harvesting, rev
 
 ### Introduction
 
-:** The National Clean Air Programme (NCAP), introduced by the Government of India, is a significant initiative aimed at combating air pollution and improving air quality across the country. This comprehensive program encompasses various measures and strategies to mitigate pollution sources and promote clean air for the well-being of citizens.
+** The National Clean Air Programme (NCAP), introduced by the Government of India, is a significant initiative aimed at combating air pollution and improving air quality across the country. This comprehensive program encompasses various measures and strategies to mitigate pollution sources and promote clean air for the well-being of citizens.
 
 <p align="center"><img src="images/pw_environment_and_ecology_q550_img1.webp" alt="NAPC" /></p>
 
@@ -5654,7 +5652,7 @@ The key features of the National Clean Air Programme (NCAP) include setting up a
 
 ### Introduction
 
-: **Coastal sand mining, whether legal or illegal, is a significant environmental threat. It has detrimental effects on coastal ecosystems. Focuses on the impacts of sand mining along the Indian coasts, highlighting specific examples.**
+**Coastal sand mining, whether legal or illegal, is a significant environmental threat. It has detrimental effects on coastal ecosystems. Focuses on the impacts of sand mining along the Indian coasts, highlighting specific examples.**
 
 ### Body
 
@@ -5692,7 +5690,7 @@ Sand mining along the Indian coasts has led to coastal erosion, saline-water int
 
 ### Introduction
 
-: **Carrying capacity represents the delicate balance between the population’s needs and the ecosystem’s ability to provide essential resources, such as food, water, and habitat. It considers factors like availability, renewal rates, and regenerative capacities of natural resources within the ecosystem. Carrying capacity is not static but can change over time due to factors like climate change, habitat degradation, and resource depletion.**
+**Carrying capacity represents the delicate balance between the population’s needs and the ecosystem’s ability to provide essential resources, such as food, water, and habitat. It considers factors like availability, renewal rates, and regenerative capacities of natural resources within the ecosystem. Carrying capacity is not static but can change over time due to factors like climate change, habitat degradation, and resource depletion.**
 
 ### Body
 
@@ -5725,7 +5723,7 @@ By comprehending the carrying capacity of an ecosystem, policymakers and planner
 
 ### Introduction
 
-:** Sikkim holds the distinction of being India’s first “Organic State.” This achievement brings forth significant ecological and economic benefits, showcasing the positive impacts of transitioning to organic farming practices.
+** Sikkim holds the distinction of being India’s first “Organic State.” This achievement brings forth significant ecological and economic benefits, showcasing the positive impacts of transitioning to organic farming practices.
 
 **Body:**
 - **Ecological Benefits of Organic State:**
@@ -5761,7 +5759,7 @@ The organic status of Sikkim has not only led to a healthier environment with re
 
 ### Introduction
 
-: **India boasts a wide range of biodiversity, harboring diverse plant and animal species, many of which are exclusive to the region. With its varied habitats like tropical forests, grasslands, deserts, and coastal areas, India is recognized as one of the** 12 megadiverse countries globally **.**
+**India boasts a wide range of biodiversity, harboring diverse plant and animal species, many of which are exclusive to the region. With its varied habitats like tropical forests, grasslands, deserts, and coastal areas, India is recognized as one of the** 12 megadiverse countries globally **.**
 
 ### Body
 
@@ -5795,7 +5793,7 @@ The Biological Diversity Act, 2002 plays a crucial role in the conservation of I
 
 ### Introduction
 
-:** Climate change is a global problem that affects every country, including India. The changing climate patterns have caused severe impacts on the environment, economy, and society, and the effects are expected to worsen in the future.
+** Climate change is a global problem that affects every country, including India. The changing climate patterns have caused severe impacts on the environment, economy, and society, and the effects are expected to worsen in the future.
 
 <p align="center"><img src="images/pw_environment_and_ecology_q317_img1.webp" alt="climate change" /></p>
 
@@ -5837,7 +5835,7 @@ Climate change is a pressing issue that requires immediate attention in India. T
 
 ### Introduction
 
-:** The concept of river linking was once a distant dream, but it has now become a reality in India. River linking is a significant development that aims to address the water scarcity issues in various regions. While it offers several benefits, it is important to consider its potential impact on the environment.
+** The concept of river linking was once a distant dream, but it has now become a reality in India. River linking is a significant development that aims to address the water scarcity issues in various regions. While it offers several benefits, it is important to consider its potential impact on the environment.
 
 **Body:**
 - **Improved Irrigation:** River linking can provide a reliable source of water for irrigation purposes in drought-prone areas. It can also reduce the dependency on monsoon rains.
@@ -5876,7 +5874,7 @@ Climate change is a pressing issue that requires immediate attention in India. T
 
 ### Introduction
 
-: **The rehabilitation of human settlements is a crucial aspect to consider during the planning of major developmental projects. Such projects often lead to displacement of communities, causing environmental and social impacts. It is important to implement measures to mitigate these impacts and ensure the sustainable development of the affected areas.
+**The rehabilitation of human settlements is a crucial aspect to consider during the planning of major developmental projects. Such projects often lead to displacement of communities, causing environmental and social impacts. It is important to implement measures to mitigate these impacts and ensure the sustainable development of the affected areas.
 
 **Body:**
 - **Conducting a thorough social impact assessment:** Before any major project, a comprehensive social impact assessment should be conducted to identify the potential impacts of the project on human settlements. This will help in identifying the potential risks and benefits of the project and finding ways to mitigate the negative impacts on communities. **Example** The construction of the Narmada Dam, a comprehensive social impact assessment was conducted to identify the potential impacts of the project on local communities.
@@ -5906,7 +5904,7 @@ The rehabilitation of human settlements is a crucial factor in ensuring the succ
 
 ### Introduction
 
-: **The Nanami Gange and National Mission for Clean Ganga (NMCG) are two significant programs launched by the Indian government to clean and preserve the river Ganga.The Ganga river is one of the most important and sacred rivers in India, but it is also one of the most polluted. Despite the government’s efforts, the results of previous schemes have been mixed due to various reasons.**
+**The Nanami Gange and National Mission for Clean Ganga (NMCG) are two significant programs launched by the Indian government to clean and preserve the river Ganga.The Ganga river is one of the most important and sacred rivers in India, but it is also one of the most polluted. Despite the government’s efforts, the results of previous schemes have been mixed due to various reasons.**
 
 ### Body
 
@@ -5954,7 +5952,7 @@ To preserve the river Ganga, a quantum leap is required, which involves a multi-
 
 ### Introduction
 
-: **Environmental Impact Assessment (EIA) studies have become a crucial part of the project clearance process, ensuring that the environmental impact of any proposed project is thoroughly evaluated. In the coal-fired thermal plants located at coal pitheads, the impact on the environment is significant, and the EIA studies play a critical role in identifying and mitigating these impacts.
+**Environmental Impact Assessment (EIA) studies have become a crucial part of the project clearance process, ensuring that the environmental impact of any proposed project is thoroughly evaluated. In the coal-fired thermal plants located at coal pitheads, the impact on the environment is significant, and the EIA studies play a critical role in identifying and mitigating these impacts.
 
 **Body:**
 - **Air Pollution:** Coal-fired thermal plants are one of the primary sources of air pollution in India. These plants emit large amounts of carbon dioxide, sulfur dioxide, and nitrogen oxides into the air, contributing to smog, acid rain, and respiratory illnesses.
@@ -5983,7 +5981,7 @@ Coal-fired thermal plants located at coal pitheads have significant environmenta
 
 ### Introduction
 
-:** The pursuit of carbon credits and clean development mechanisms (CDM) established under the United Nations Framework Convention on Climate Change (UNFCCC) is a crucial step towards mitigating climate change. The decline in the value of carbon credits has raised questions about their effectiveness in promoting sustainable development and clean energy.
+** The pursuit of carbon credits and clean development mechanisms (CDM) established under the United Nations Framework Convention on Climate Change (UNFCCC) is a crucial step towards mitigating climate change. The decline in the value of carbon credits has raised questions about their effectiveness in promoting sustainable development and clean energy.
 
 <p align="center"><img src="images/pw_environment_and_ecology_q134_img1.webp" alt="carbon credit" /></p>
 
@@ -6021,7 +6019,7 @@ India’s energy needs for economic growth require a balanced approach that addr
 
 ### Introduction
 
-: **Water is a vital resource for life and development, and its sustainable management is essential for economic growth and social welfare. The National Water Policy (2012) aims to ensure the equitable and sustainable management of water resources in India. India has a comprehensive National Water Policy that provides a framework for water resource development and management.**
+**Water is a vital resource for life and development, and its sustainable management is essential for economic growth and social welfare. The National Water Policy (2012) aims to ensure the equitable and sustainable management of water resources in India. India has a comprehensive National Water Policy that provides a framework for water resource development and management.**
 
 ### Body
 
@@ -6064,7 +6062,7 @@ The pollution of the river Ganges and other water bodies, India must adopt a mul
 
 ### Introduction
 
-: **Illegal mining is the extraction of minerals and resources from areas without proper authorization, consent, or permits. It is a grave issue that has several negative consequences for both the environment and society. In India, illegal mining is a significant problem, and it has led to the degradation of forests, land, and water resources, as well as the displacement of indigenous communities.**
+**Illegal mining is the extraction of minerals and resources from areas without proper authorization, consent, or permits. It is a grave issue that has several negative consequences for both the environment and society. In India, illegal mining is a significant problem, and it has led to the degradation of forests, land, and water resources, as well as the displacement of indigenous communities.**
 
 ### Body
 
@@ -6591,7 +6589,7 @@ The **success of India’s third moon mission** would be a significant milestone
 
 ### Introduction
 
-: **The James Webb Space Telescope (JWST), launched on 25th December, 2021, is a revolutionary observatory, substantially more advanced than its predecessor, the Hubble Space Telescope. It’s not just a bigger, better version of Hubble, but a completely new concept that will allow us to peer deeper into the universe’s history and mysteries.**
+**The James Webb Space Telescope (JWST), launched on 25th December, 2021, is a revolutionary observatory, substantially more advanced than its predecessor, the Hubble Space Telescope. It’s not just a bigger, better version of Hubble, but a completely new concept that will allow us to peer deeper into the universe’s history and mysteries.**
 
 ### Body
 
@@ -6635,7 +6633,7 @@ In essence, the James Webb Space Telescope is set to revolutionize our understan
 
 ### Introduction
 
-: **Vaccines have long served as a critical tool in combating infectious diseases, enabling our immune systems to fight off harmful pathogens effectively. They are developed based on principles of immunology, essentially teaching our bodies to recognize and respond to specific infectious agents.**
+**Vaccines have long served as a critical tool in combating infectious diseases, enabling our immune systems to fight off harmful pathogens effectively. They are developed based on principles of immunology, essentially teaching our bodies to recognize and respond to specific infectious agents.**
 
 ### Body
 
@@ -6682,7 +6680,7 @@ Vaccines represent one of the most effective tools we have to control and preven
 
 ### Introduction
 
-: **The S-400 Triumf, developed by Russia, is an advanced air defence system hailed globally for its superior technical capabilities. It is especially recognized for its extended range, versatility, advanced radar system, and ability to engage various targets.** Body: **<p align="center"><img src="images/pw_science__technology_q600_img1.webp" alt="S-400 " /></p>**
+**The S-400 Triumf, developed by Russia, is an advanced air defence system hailed globally for its superior technical capabilities. It is especially recognized for its extended range, versatility, advanced radar system, and ability to engage various targets.** Body: **<p align="center"><img src="images/pw_science__technology_q600_img1.webp" alt="S-400 " /></p>**
 
 **S-400 is technically superior for the following reasons:**
 - **Extended Range:** The S-400 can destroy aerial targets at a range of up to 400 kilometers, far outpacing similar systems. For example, the American-made Patriot system has an operational range of only 160 kilometers.
@@ -6713,7 +6711,7 @@ The S-400 Triumf’s unique capabilities make it one of the most formidable air 
 
 ### Introduction
 
-: **The 2014 Nobel Prize in Physics honoured Isamu Akasaki, Hiroshi Amano, and Shuji Nakamura for their pioneering invention of Blue Light Emitting Diodes (LEDs) in the 1990s. This technological breakthrough has had far-reaching implications, transforming various facets of human life globally and particularly in India.** Body: **<p align="center"><img src="images/pw_science__technology_q619_img1.webp" alt="Blue LEDs " /></p>**
+**The 2014 Nobel Prize in Physics honoured Isamu Akasaki, Hiroshi Amano, and Shuji Nakamura for their pioneering invention of Blue Light Emitting Diodes (LEDs) in the 1990s. This technological breakthrough has had far-reaching implications, transforming various facets of human life globally and particularly in India.** Body: **<p align="center"><img src="images/pw_science__technology_q619_img1.webp" alt="Blue LEDs " /></p>**
 
 **Blue LEDs have made significant impacts in human life in following ways:**
 - **Energy Efficiency and Cost Savings:** Blue LEDs, vital for white LED lights, have revolutionized India’s approach to lighting.
@@ -6758,7 +6756,7 @@ The advent of Blue LEDs, a breakthrough invention, has permeated numerous sector
 
 ### Introduction
 
-: **Biotechnology, the application of biological systems to develop or create products, is a burgeoning field in India. It has the potential to significantly uplift impoverished communities through breakthroughs in healthcare, agriculture, and environmental management.** Body: **
+**Biotechnology, the application of biological systems to develop or create products, is a burgeoning field in India. It has the potential to significantly uplift impoverished communities through breakthroughs in healthcare, agriculture, and environmental management.** Body: **
 
 **<p align="center"><img src="images/pw_science__technology_q630_img1.webp" alt="Biotechnology" /></p>** **“Transforming Lives through Biotechnological Advancements: A Focus on India’s Impoverished Communities”**
 - **Healthcare Advancements:** Biotechnology has revolutionized healthcare with developments such as affordable biosimilar drugs, effectively reducing healthcare costs. **For instance, Biocon, an Indian biotech firm,** has developed affordable insulin.
@@ -6794,7 +6792,7 @@ Biotechnology has broad applications, from healthcare to agriculture, and holds 
 
 ### Introduction
 
-: **The COVID-19 pandemic has had an unparalleled global impact. However, technology has emerged as a crucial ally in managing the crisis, facilitating everything from tracking the virus’s spread to delivering healthcare services remotely. India, along with other nations, has harnessed this potential to counter the pandemic’s challenges.
+**The COVID-19 pandemic has had an unparalleled global impact. However, technology has emerged as a crucial ally in managing the crisis, facilitating everything from tracking the virus’s spread to delivering healthcare services remotely. India, along with other nations, has harnessed this potential to counter the pandemic’s challenges.
 
 <p align="center"><img src="images/pw_science__technology_q489_img1.webp" alt="Technology aid" /></p>
 
@@ -6839,7 +6837,7 @@ Technology has played an essential role in managing the COVID-19 pandemic, from 
 
 ### Introduction
 
-: **Science permeates every aspect of our lives, from the technologies we use daily to the way we understand our world. In India, science has been particularly transformative in the field of agriculture, leading to increased productivity, sustainability, and resilience.**
+**Science permeates every aspect of our lives, from the technologies we use daily to the way we understand our world. In India, science has been particularly transformative in the field of agriculture, leading to increased productivity, sustainability, and resilience.**
 
 ### Body
 
@@ -6880,7 +6878,7 @@ Science is deeply interwoven with our lives, empowering us with capabilities pre
 
 ### Introduction
 
-: **Nanotechnology, a multidisciplinary field dealing with the manipulation and control of matter at the atomic or molecular scale (1 to 100 nanometers), has been heralded as a game-changer in multiple sectors. In India, this technology is opening new frontiers in healthcare, enabling more effective diagnosis, treatment, and prevention of diseases.** Body: **
+**Nanotechnology, a multidisciplinary field dealing with the manipulation and control of matter at the atomic or molecular scale (1 to 100 nanometers), has been heralded as a game-changer in multiple sectors. In India, this technology is opening new frontiers in healthcare, enabling more effective diagnosis, treatment, and prevention of diseases.** Body: **
 
 **“Revolutionizing India’s Healthcare: The Multifaceted Impact of Nanotechnology”:**
 - **Enhancing Disease Diagnosis:** Nanotechnology is transforming disease diagnostics.
@@ -6925,7 +6923,7 @@ Nanotechnology is playing a transformative role in India’s healthcare sector, 
 
 ### Introduction
 
-:** India’s plan to establish its own space station, spearheaded by the Indian Space Research Organisation (ISRO), is a significant stride in its space exploration journey. This ambitious venture symbolises India’s technological prowess and its determination to secure a prominent place in the global space community.
+** India’s plan to establish its own space station, spearheaded by the Indian Space Research Organisation (ISRO), is a significant stride in its space exploration journey. This ambitious venture symbolises India’s technological prowess and its determination to secure a prominent place in the global space community.
 
 **Body:**
 - **Plan and Timeline:** ISRO aims to construct a 20-ton space station within a decade, intending to support microgravity experiments.
@@ -6976,7 +6974,7 @@ This venture, with its far-reaching implications in scientific discovery, techno
 
 ### Introduction
 
-:** India, a country replete with rich traditional medicinal knowledge, faces a significant task in safeguarding this wealth from misappropriation and unwarranted patenting, particularly by foreign pharmaceutical entities. The Indian Government, cognizant of this challenge, has launched various initiatives to secure these invaluable resources while promoting their beneficial use.
+** India, a country replete with rich traditional medicinal knowledge, faces a significant task in safeguarding this wealth from misappropriation and unwarranted patenting, particularly by foreign pharmaceutical entities. The Indian Government, cognizant of this challenge, has launched various initiatives to secure these invaluable resources while promoting their beneficial use.
 
 **Body:**
 - **Traditional Knowledge Digital Library (TKDL):** The TKDL, a compendium of over 200,000 medicinal formulations, deters unjust patent claims.
@@ -7009,7 +7007,7 @@ The Indian Government, through these strategic initiatives, displays a strong co
 
 ### Introduction
 
-: **Biotechnology promises a transformative impact on Indian agriculture, serving as a key lever to uplift the living standards of Indian farmers by enhancing crop yields, resilience, and nutritional content, while reducing input costs.**
+**Biotechnology promises a transformative impact on Indian agriculture, serving as a key lever to uplift the living standards of Indian farmers by enhancing crop yields, resilience, and nutritional content, while reducing input costs.**
 
 ### Body
 
@@ -7057,7 +7055,7 @@ The deployment of biotechnology in agriculture, with its numerous advantages, ha
 
 ### Introduction
 
-: **The realm of quantum mechanics underwent a profound transformation with the pioneering work of Prof. Satyendra Nath Bose, especially his revolutionary concept of ‘Bose-Einstein Statistics’. This fundamental shift in understanding underpins many modern physical theories and technologies.**
+**The realm of quantum mechanics underwent a profound transformation with the pioneering work of Prof. Satyendra Nath Bose, especially his revolutionary concept of ‘Bose-Einstein Statistics’. This fundamental shift in understanding underpins many modern physical theories and technologies.**
 
 ### Body
 
@@ -7101,7 +7099,7 @@ In essence, Prof. Satyendra Nath Bose’s path-breaking contribution to Bose-Ein
 
 ### Introduction
 
-: **India is witnessing a surge in biotechnology activities, driven by a synergistic combination of government initiatives, a burgeoning pool of human capital, and promising market potential. This rise in activity has paved the way for substantial benefits in the field of biopharma.**
+**India is witnessing a surge in biotechnology activities, driven by a synergistic combination of government initiatives, a burgeoning pool of human capital, and promising market potential. This rise in activity has paved the way for substantial benefits in the field of biopharma.**
 
 ### Body
 
@@ -7151,7 +7149,7 @@ The dynamic growth in India’s biotechnology sector is reshaping the landscape 
 
 ### Introduction
 
-: **Initiated in the 1950s, commercial nuclear power has grown to supply 10% of global electricity through around 440 reactors, becoming the second largest source of low-carbon power. Moreover, over 50 countries employ nuclear energy in about 220 research reactors, broadening its applications to medical and industrial isotopes and training. Amidst this backdrop, India, as the world’s second most populous nation and third-largest energy consumer, faces escalating energy demands due to rapid economic and urban expansion. Thus, a diverse energy mix, inclusive of nuclear power, is vital for India to sustain its growth trajectory.**
+**Initiated in the 1950s, commercial nuclear power has grown to supply 10% of global electricity through around 440 reactors, becoming the second largest source of low-carbon power. Moreover, over 50 countries employ nuclear energy in about 220 research reactors, broadening its applications to medical and industrial isotopes and training. Amidst this backdrop, India, as the world’s second most populous nation and third-largest energy consumer, faces escalating energy demands due to rapid economic and urban expansion. Thus, a diverse energy mix, inclusive of nuclear power, is vital for India to sustain its growth trajectory.**
 
 ### Body
 
@@ -7201,7 +7199,7 @@ The road to harnessing nuclear energy to satiate India’s energy needs and meet
 
 ### Introduction
 
-: **Embarking on its journey in nuclear science and technology post-independence, India has etched significant milestones in this field. This path, marked by unyielding dedication and innovation, began with the establishment of the Atomic Energy Commission in 1948, aiming to harness the atom’s power for national progress and strategic necessities.**
+**Embarking on its journey in nuclear science and technology post-independence, India has etched significant milestones in this field. This path, marked by unyielding dedication and innovation, began with the establishment of the Atomic Energy Commission in 1948, aiming to harness the atom’s power for national progress and strategic necessities.**
 
 ### Body
 
@@ -7245,7 +7243,7 @@ The development of nuclear science and technology in India, marked by remarkable
 
 ### Introduction
 
-: **India’s success in unmanned space missions, such as the Mars Orbiter Mission (MOM) and Chandrayaan, has been commendable. Yet, it has not embarked on a manned space mission so far. The primary challenges for launching a manned space mission are multi-faceted, ranging from technological to logistical.** Body: **<p align="center"><img src="images/pw_science__technology_q347_img1.webp" alt="Mars Orbiter Mission " /></p>** Technological Challenges: **
+**India’s success in unmanned space missions, such as the Mars Orbiter Mission (MOM) and Chandrayaan, has been commendable. Yet, it has not embarked on a manned space mission so far. The primary challenges for launching a manned space mission are multi-faceted, ranging from technological to logistical.** Body: **<p align="center"><img src="images/pw_science__technology_q347_img1.webp" alt="Mars Orbiter Mission " /></p>** Technological Challenges: **
 
 **
 - **Advanced Technology:** Manned missions require more sophisticated technology than unmanned missions.
@@ -7335,7 +7333,7 @@ It’s important to note, however, that while stem cell therapy holds great pote
 
 ### Introduction
 
-: **India’s accomplishments in space science and technology have been remarkable, starting with the establishment of ISRO in 1969 and the launch of India’s first satellite, Aryabhata, in 1975. ISRO has since propelled India into a league of nations with advanced space capabilities.** Body: **<p align="center"><img src="images/pw_science__technology_q254_img1.webp" alt="Space Tech" /></p>** Landmark Missions: **
+**India’s accomplishments in space science and technology have been remarkable, starting with the establishment of ISRO in 1969 and the launch of India’s first satellite, Aryabhata, in 1975. ISRO has since propelled India into a league of nations with advanced space capabilities.** Body: **<p align="center"><img src="images/pw_science__technology_q254_img1.webp" alt="Space Tech" /></p>** Landmark Missions: **
 
 **
 - **Chandrayaan-1 (2008):** Marked India’s first successful lunar mission, which resulted in the groundbreaking discovery of water molecules on the moon, contributing to our understanding of the lunar environment.
@@ -7379,7 +7377,7 @@ The strides India has made in space science and technology have been transformat
 
 ### Introduction
 
-: **Nanotechnology, the art and science of manipulating matter at the nanoscale (1-100 nanometers), is hailed as a revolutionary force in the realm of modern science. In the same way that the microchip transformed technology during the 20th century, nanotechnology is anticipated to bring a new wave of innovation in the 21st century.**
+**Nanotechnology, the art and science of manipulating matter at the nanoscale (1-100 nanometers), is hailed as a revolutionary force in the realm of modern science. In the same way that the microchip transformed technology during the 20th century, nanotechnology is anticipated to bring a new wave of innovation in the 21st century.**
 
 ### Body
 
@@ -7429,7 +7427,7 @@ Nanotechnology, as a frontier technology, can play a crucial role in India’s d
 
 ### Introduction
 
-: **India’s Traditional Knowledge Digital Library (TKDL) is a valuable repository of over 2 million medicinal formulations derived from traditional Indian systems of medicine. Making this database publicly available under open-source licensing could have both advantages and potential drawbacks.** Body: **<p align="center"><img src="images/pw_science__technology_q202_img1.webp" alt="Traditional Knowledge Digital Library " /></p>**
+**India’s Traditional Knowledge Digital Library (TKDL) is a valuable repository of over 2 million medicinal formulations derived from traditional Indian systems of medicine. Making this database publicly available under open-source licensing could have both advantages and potential drawbacks.** Body: **<p align="center"><img src="images/pw_science__technology_q202_img1.webp" alt="Traditional Knowledge Digital Library " /></p>**
 
 **Pros of Open-Source Licensing:**
 - **Promotion of Traditional Knowledge:** Open-source licensing could increase global awareness of India’s rich traditional medicinal practices.
@@ -7469,7 +7467,7 @@ While open-sourcing the TKDL offers several benefits like promoting traditional 
 
 ### Introduction
 
-: **Robots have the potential to transform numerous sectors by taking over tasks that are dangerous, dull, or demanding for humans, thereby making labor more sustainable. Simultaneously, initiatives promoting research in this domain can lead to substantive and gainful innovation.**
+**Robots have the potential to transform numerous sectors by taking over tasks that are dangerous, dull, or demanding for humans, thereby making labor more sustainable. Simultaneously, initiatives promoting research in this domain can lead to substantive and gainful innovation.**
 
 ### Body
 
@@ -7513,7 +7511,7 @@ Robots can sustainably manage prohibitive labor across numerous sectors, enhanci
 
 ### Introduction
 
-:**
+**
 
 In the GPS era, Standard Positioning Systems (SPS) offer an accuracy of about 20-30 meters and are primarily used for civilian applications. Precision Positioning Systems (PPS), on the other hand, offer accuracy around 10 meters and are primarily used by the U.S. military and its allies. **In this context, India has undertaken an ambitious project known as the Indian Regional Navigation Satellite System (IRNSS), or NavIC (Navigation with Indian Constellation),** which employs a constellation of just seven satellites to provide comprehensive positioning data to users in India and its vicinity.
 
@@ -7557,7 +7555,7 @@ The IRNSS or NAVIC is a strategic step for India not only in the field of space 
 
 ### Introduction
 
-: **Overuse and free availability of antibiotics without a doctor’s prescription indeed contribute significantly to the emergence of drug-resistant diseases in India. This phenomenon, known as antibiotic resistance, is a global health concern.**
+**Overuse and free availability of antibiotics without a doctor’s prescription indeed contribute significantly to the emergence of drug-resistant diseases in India. This phenomenon, known as antibiotic resistance, is a global health concern.**
 
 ### Body
 
@@ -7603,7 +7601,7 @@ Overuse and free availability of antibiotics without a prescription are major co
 
 ### Introduction
 
-: **In the era of globalization, Intellectual Property Rights (IPRs) are pivotal in fostering innovation and creativity. As key constituents of IPRs, Copyrights, Patents, and Trade Secrets protect creators’ and innovators’ rights, stimulate fair competition, and propel economic growth, while often being a source of intricate legal disputes.** Body: **<p align="center"><img src="images/pw_science__technology_q116_img1.webp" alt="Intellectual property's rights" /></p>** Copyrights:
+**In the era of globalization, Intellectual Property Rights (IPRs) are pivotal in fostering innovation and creativity. As key constituents of IPRs, Copyrights, Patents, and Trade Secrets protect creators’ and innovators’ rights, stimulate fair competition, and propel economic growth, while often being a source of intricate legal disputes.** Body: **<p align="center"><img src="images/pw_science__technology_q116_img1.webp" alt="Intellectual property's rights" /></p>** Copyrights:
 - **Copyrights pertain to artistic and literary works, including books, music, films, and software.:** 
 - Copyright grants the creator exclusive rights to reproduce, distribute, perform, and display the work publicly.
 - In India, the Copyright Act 1957 governs copyright protection.
@@ -7645,7 +7643,7 @@ Intellectual Property Rights are of paramount importance in the globalized era, 
 
 ### Introduction
 
-: **The issue of declining scientific research in Indian universities is multifaceted and extends beyond the attraction of alternative career paths. While it’s true that professions in business, engineering, and administration may offer immediate lucrative prospects, several other systemic issues contribute to the situation.**
+**The issue of declining scientific research in Indian universities is multifaceted and extends beyond the attraction of alternative career paths. While it’s true that professions in business, engineering, and administration may offer immediate lucrative prospects, several other systemic issues contribute to the situation.**
 
 ### Body
 
@@ -7690,7 +7688,7 @@ While the attractiveness of alternative career paths plays a part in the decline
 
 ### Introduction
 
-: **The amendment to Section 3(d) of the Indian Patent Law, 1970 in 2005, is a landmark development in the Indian patenting system. It is essentially a public health safeguard within India’s patent laws, aimed at preventing “evergreening” of patents.**
+**The amendment to Section 3(d) of the Indian Patent Law, 1970 in 2005, is a landmark development in the Indian patenting system. It is essentially a public health safeguard within India’s patent laws, aimed at preventing “evergreening” of patents.**
 
 ### Body
 
@@ -7740,7 +7738,7 @@ The amendment to Section 3(d) represents a significant compromise between foster
 
 ### Introduction
 
-: **3D printing, or additive manufacturing, is a technology that creates three-dimensional objects from a digital file. It works by laying down successive layers of material until the object is fully formed.**
+**3D printing, or additive manufacturing, is a technology that creates three-dimensional objects from a digital file. It works by laying down successive layers of material until the object is fully formed.**
 
 ### Body
 
@@ -7787,7 +7785,7 @@ While 3D printing is an innovative technology that offers numerous benefits, it 
 
 ### Introduction
 
-: **Fixed Dose Drug Combinations (FDCs) are pharmaceutical products that combine two or more active drugs in a single dosage form. They are designed to improve patient compliance and efficacy of treatment. In recent years, various government health agencies worldwide have advocated for their use to address public health issues such as HIV/AIDS, tuberculosis, and malaria.**
+**Fixed Dose Drug Combinations (FDCs) are pharmaceutical products that combine two or more active drugs in a single dosage form. They are designed to improve patient compliance and efficacy of treatment. In recent years, various government health agencies worldwide have advocated for their use to address public health issues such as HIV/AIDS, tuberculosis, and malaria.**
 
 ### Body
 
@@ -7830,7 +7828,7 @@ While FDCs offer significant benefits, their use must be carefully managed to mi
 
 ### Introduction
 
-: **The Umpire Decision Review System (UDRS or DRS) in cricket is a technology-based system used to assist on-field umpires with their decision-making. Teams can request a review of decisions made by the on-field umpires, which are then analyzed using multiple technologies.**
+**The Umpire Decision Review System (UDRS or DRS) in cricket is a technology-based system used to assist on-field umpires with their decision-making. Teams can request a review of decisions made by the on-field umpires, which are then analyzed using multiple technologies.**
 
 ### Body
 
@@ -7865,7 +7863,7 @@ While DRS has been a game-changer in cricket, ensuring higher accuracy of umpiri
 
 ### Introduction
 
-: **Fibre Reinforced Polymer (FRP) composites are materials made from two distinct components – a matrix (often a plastic like epoxy, polyester, or nylon) and a reinforcing fibrous material (like glass or carbon fibers). The result is a light, strong, and durable material with superior mechanical properties.**
+**Fibre Reinforced Polymer (FRP) composites are materials made from two distinct components – a matrix (often a plastic like epoxy, polyester, or nylon) and a reinforcing fibrous material (like glass or carbon fibers). The result is a light, strong, and durable material with superior mechanical properties.**
 
 ### Body
 
@@ -7914,7 +7912,7 @@ FRP composites, with their unique characteristics, have found extensive applicat
 
 ### Introduction
 
-: **A digital signature is a cryptographic tool used to verify the authenticity and integrity of digital messages or documents. It acts like a handwritten signature, but with additional layers of security.**
+**A digital signature is a cryptographic tool used to verify the authenticity and integrity of digital messages or documents. It acts like a handwritten signature, but with additional layers of security.**
 
 ### Body
 
@@ -8571,7 +8569,7 @@ The **‘hearts and minds’ strategy remains central to envisioning a peaceful 
 
 ### Introduction
 
-: **Organized crime refers to criminal activities that are coordinated, structured, and operated by groups or networks with the intention of generating significant profits through illegal means. These criminal enterprises engage in various types of illicit activities, which can be categorized into different forms of organized crime.**
+**Organized crime refers to criminal activities that are coordinated, structured, and operated by groups or networks with the intention of generating significant profits through illegal means. These criminal enterprises engage in various types of illicit activities, which can be categorized into different forms of organized crime.**
 
 ### Body
 
@@ -8628,7 +8626,7 @@ The nexus between terrorism and organized crime presents serious security threat
 
 ### Introduction
 
-: **Naxalism in India started as a protest by farmers in 1967 in a small village called Naxalbari in West Bengal. Over the years, this protest grew into a larger issue and has now become a major security problem for the country.**
+**Naxalism in India started as a protest by farmers in 1967 in a small village called Naxalbari in West Bengal. Over the years, this protest grew into a larger issue and has now become a major security problem for the country.**
 
 ### Body
 
@@ -8681,7 +8679,7 @@ The nexus between terrorism and organized crime presents serious security threat
 
 ### Introduction
 
-: **Cybersecurity, a vital aspect of modern digital societies, aims to protect information systems from threats, damages, and disruptions. As India accelerates its digital transformation, the development and implementation of a comprehensive National Cyber Security Strategy is crucial.**
+**Cybersecurity, a vital aspect of modern digital societies, aims to protect information systems from threats, damages, and disruptions. As India accelerates its digital transformation, the development and implementation of a comprehensive National Cyber Security Strategy is crucial.**
 
 ### Body
 
@@ -8730,7 +8728,7 @@ As cyber threats continue to evolve, India has taken substantial steps towards b
 
 ### Introduction
 
-: **India, with its vast coastline stretching over 7500 kilometers and strategic location in the Indian Ocean region, faces a multitude of maritime security challenges. These concerns have been amplified by the growing significance of the maritime domain in global commerce, energy security, and geopolitics.**
+**India, with its vast coastline stretching over 7500 kilometers and strategic location in the Indian Ocean region, faces a multitude of maritime security challenges. These concerns have been amplified by the growing significance of the maritime domain in global commerce, energy security, and geopolitics.**
 
 ### Body
 
@@ -8783,7 +8781,7 @@ India’s maritime security landscape is complex, requiring multi-dimensional ap
 
 ### Introduction
 
-: **Terrorism is a pressing concern for India, given its geographical location and socio-political dynamics. The complexity and intensity of this issue stems from various causes and intricate linkages, presenting a formidable challenge to national security.**
+**Terrorism is a pressing concern for India, given its geographical location and socio-political dynamics. The complexity and intensity of this issue stems from various causes and intricate linkages, presenting a formidable challenge to national security.**
 
 ### Body
 
@@ -8828,7 +8826,7 @@ Tackling the menace of terrorism requires a multi-pronged strategy that targets 
 
 ### Introduction
 
-: **India’s internal security landscape is complex, marked by challenges posed by both external state and non-state actors. Their activities and influences extend across various dimensions, escalating the intricacies of maintaining national security.**
+**India’s internal security landscape is complex, marked by challenges posed by both external state and non-state actors. Their activities and influences extend across various dimensions, escalating the intricacies of maintaining national security.**
 
 ### Body
 
@@ -8891,7 +8889,7 @@ The threats posed by external state and non-state actors to India’s internal s
 
 ### Introduction
 
-: **Money laundering, the act of making illegal income appear lawful, has intensified with the rise of digital technologies and globalization. These advancements have eased cross-border transactions and enhanced anonymity, boosting such unlawful practices.** According to the United Nations Office on Drugs and Crime (UNODC), global money laundering represents 2-5% of the world’s GDP, or around $800 billion to $2 trillion each year, posing a severe global concern. **
+**Money laundering, the act of making illegal income appear lawful, has intensified with the rise of digital technologies and globalization. These advancements have eased cross-border transactions and enhanced anonymity, boosting such unlawful practices.** According to the United Nations Office on Drugs and Crime (UNODC), global money laundering represents 2-5% of the world’s GDP, or around $800 billion to $2 trillion each year, posing a severe global concern. **
 
 **
 
@@ -8935,7 +8933,7 @@ While emerging technologies and globalization present challenges in the fight ag
 
 ### Introduction
 
-:**
+**
 
 In today’s digital age, cyber attacks pose a significant threat to national security. India, with its rapidly expanding digital ecosystem, is particularly vulnerable to cross-border cyber attacks, presenting significant risks to its internal security. A **recent example is the massive power outage in Mumbai in October 2020,** which according to **a study by Recorded Future,** a US-based cyber intelligence firm, c **ould be linked to a China-based threat activity group known as RedEcho.** Such instances underscore the severity and frequency of cyber threats India faces, necessitating robust cyber defense mechanisms.
 
@@ -8990,7 +8988,7 @@ Cross-border cyber attacks pose significant threats to India’s internal securi
 
 ### Introduction
 
-: **With extensive borders along Myanmar, Bangladesh, and Pakistan, including the tense Line of Control (LoC), India experiences numerous security threats and crimes that cross these borders. Therefore, it’s vital to maintain high alertness and a solid security infrastructure to ensure national safety and peace.**
+**With extensive borders along Myanmar, Bangladesh, and Pakistan, including the tense Line of Control (LoC), India experiences numerous security threats and crimes that cross these borders. Therefore, it’s vital to maintain high alertness and a solid security infrastructure to ensure national safety and peace.**
 
 ### Body
 
@@ -9036,7 +9034,7 @@ The multiplicity of threats across India’s vast and diverse borders necessitat
 
 ### Introduction
 
-: **Cyber crime, defined as unlawful acts done using computers or the internet, is a serious issue in today’s highly digital world. Its importance lies in its ability to harm individuals, businesses, and even countries, making it a major concern for everyone. According to a report by Cybersecurity Ventures,** cybercrime is projected to cost the world $10.5 trillion annually by 2025 **, amounting to approximately 10% of the global GDP, underscoring its massive economic impact.**
+**Cyber crime, defined as unlawful acts done using computers or the internet, is a serious issue in today’s highly digital world. Its importance lies in its ability to harm individuals, businesses, and even countries, making it a major concern for everyone. According to a report by Cybersecurity Ventures,** cybercrime is projected to cost the world $10.5 trillion annually by 2025 **, amounting to approximately 10% of the global GDP, underscoring its massive economic impact.**
 
 ### Body
 
@@ -9079,7 +9077,7 @@ Cyber crime represents a significant threat in our interconnected world, capable
 
 ### Introduction
 
-:** Disaster management in India has traditionally been reactive, with the focus on response and relief operations after a disaster has occurred. The Government of India has taken several measures to shift the focus towards a more proactive approach to disaster management.
+** Disaster management in India has traditionally been reactive, with the focus on response and relief operations after a disaster has occurred. The Government of India has taken several measures to shift the focus towards a more proactive approach to disaster management.
 
 <p align="center"><img src="images/pw_disaster_management_q34_img1.webp" alt="Disaster management" /></p>
 
@@ -9121,7 +9119,7 @@ The Government of India has initiated several measures to improve disaster manag
 
 ### Introduction
 
-: **Effective border area management in India, characterized by diverse geographies and cross-border issues, requires multifaceted strategies, including denial of local support to militants and fostering positive perceptions among locals.**
+**Effective border area management in India, characterized by diverse geographies and cross-border issues, requires multifaceted strategies, including denial of local support to militants and fostering positive perceptions among locals.**
 
 ### Body
 
@@ -9160,7 +9158,7 @@ An amalgamation of proactive intelligence, developmental initiatives, cultural s
 
 ### Introduction
 
-: **The rise of left-wing extremism, particularly in the Eastern parts of India, is a manifestation of complex socio-economic issues and political realities. This extremist insurgency, often termed as India’s “greatest internal security challenge,” is deeply embedded in systemic inequalities, governance deficits, and ideological factors.**
+**The rise of left-wing extremism, particularly in the Eastern parts of India, is a manifestation of complex socio-economic issues and political realities. This extremist insurgency, often termed as India’s “greatest internal security challenge,” is deeply embedded in systemic inequalities, governance deficits, and ideological factors.**
 
 ### Body
 
@@ -9183,7 +9181,7 @@ An amalgamation of proactive intelligence, developmental initiatives, cultural s
 
 ### Conclusion
 
-: **Addressing left-wing extremism in Eastern India necessitates a comprehensive and balanced approach. Inclusive development, effective security operations, improved governance, and strategic negotiations can significantly mitigate this challenge, creating a more peaceful and progressive Eastern India.
+**Addressing left-wing extremism in Eastern India necessitates a comprehensive and balanced approach. Inclusive development, effective security operations, improved governance, and strategic negotiations can significantly mitigate this challenge, creating a more peaceful and progressive Eastern India.
 
 [Question ID: 2020-gs3-q195-pwonlyias]
 
@@ -9201,7 +9199,7 @@ An amalgamation of proactive intelligence, developmental initiatives, cultural s
 
 ### Introduction
 
-:**
+**
 
 **Amidst a sharp rise in cybercrimes, with 52,974 cases of cybercrime in 2021, an increase of over 5 per cent from 2020 (50,035 cases) and over 15 per cent from 2019 (44,735 cases),** according to latest National Crime Records Bureau’s (NCRB) ‘Crime In India – 2021’ report, **the Kerala Police initiated the Cyber Dome Project.** This project aims at combatting cyber threats and enhancing cybersecurity. This Public-Private Partnership leverages advanced technology, intelligence, and community engagement to prevent cybercrimes, aid investigations, and raise public awareness about online safety.
 
@@ -9238,7 +9236,7 @@ The Cyber Dome Project, with its multi-pronged approach towards cyber threats, h
 
 ### Introduction
 
-: **Left Wing Extremism (LWE), also known as Naxalism or Maoist insurgency, has been a persistent threat to India’s security and developmental narrative. Particularly entrenched in the central and eastern regions, LWE not only disrupts socio-economic progression but also undermines democratic governance.**
+**Left Wing Extremism (LWE), also known as Naxalism or Maoist insurgency, has been a persistent threat to India’s security and developmental narrative. Particularly entrenched in the central and eastern regions, LWE not only disrupts socio-economic progression but also undermines democratic governance.**
 
 ### Body
 
@@ -9293,7 +9291,7 @@ The progress achieved in curbing LWE underscores the efficacy of India’s multi
 
 ### Introduction
 
-: **In today’s digital age, cyber-attacks have emerged as a serious threat to national security, economic stability, and individual privacy in India.** According to the “Cyber Threats and Trends” report published by Seqrite, India witnessed around 4.5 million cybersecurity incidents in 2022 alone. **The evolving nature of these threats necessitates a robust and dynamic security framework.**
+**In today’s digital age, cyber-attacks have emerged as a serious threat to national security, economic stability, and individual privacy in India.** According to the “Cyber Threats and Trends” report published by Seqrite, India witnessed around 4.5 million cybersecurity incidents in 2022 alone. **The evolving nature of these threats necessitates a robust and dynamic security framework.**
 
 ### Body
 
@@ -9337,7 +9335,7 @@ As India continues to digitalize, the threat of cyber-attacks will become increa
 
 ### Introduction
 
-: **Mob violence, marked by uncontrolled public disorder and chaos, is indeed emerging as a significant law and order challenge in India. Instances like the Dadri lynching (2015) or the Alwar violence (2017) underscore the scale of this issue.**
+**Mob violence, marked by uncontrolled public disorder and chaos, is indeed emerging as a significant law and order challenge in India. Instances like the Dadri lynching (2015) or the Alwar violence (2017) underscore the scale of this issue.**
 
 ### Body
 
@@ -9378,7 +9376,7 @@ The issue of mob violence in India is multifaceted, fed by various social, techn
 
 ### Introduction
 
-: **The North-Eastern region of India has long been a hotspot for insurgency, owing to a complex interplay of socio-economic, political, and geographical factors.**
+**The North-Eastern region of India has long been a hotspot for insurgency, owing to a complex interplay of socio-economic, political, and geographical factors.**
 
 ### Body
 
@@ -9411,7 +9409,7 @@ The endurance of armed insurgency in the North-East region is a complex issue de
 
 ### Introduction
 
-: **Terrorism, an insidious threat to national security, disrupts social harmony and economic stability. Curbing this menace requires a multifaceted strategy encompassing both preventive and reactive measures.**
+**Terrorism, an insidious threat to national security, disrupts social harmony and economic stability. Curbing this menace requires a multifaceted strategy encompassing both preventive and reactive measures.**
 
 ### Body
 
@@ -9451,7 +9449,7 @@ Tackling terrorism is a complex task that requires both proactive and reactive s
 
 ### Introduction
 
-: **Border management in India is a complex task due to its unique geographical diversity and strained relations with certain neighboring countries. Effective management is crucial for national security, peaceful international relations, and curbing illicit activities.**
+**Border management in India is a complex task due to its unique geographical diversity and strained relations with certain neighboring countries. Effective management is crucial for national security, peaceful international relations, and curbing illicit activities.**
 
 ### Body
 
@@ -9495,7 +9493,7 @@ Despite the challenges, effective border management is attainable through strate
 
 ### Introduction
 
-: **Over the past few decades, the nature of terrorism has undergone significant transformation globally, and India is no exception. The term “competitive industry” in relation to terrorism implies an increased organization, monetization, and competition among terror groups, a trend visible everywhere.**
+**Over the past few decades, the nature of terrorism has undergone significant transformation globally, and India is no exception. The term “competitive industry” in relation to terrorism implies an increased organization, monetization, and competition among terror groups, a trend visible everywhere.**
 
 ### Body
 
@@ -9530,7 +9528,7 @@ Indeed, terrorism has evolved into a form of “competitive industry” in India
 
 ### Introduction
 
-: **‘Hot Pursuit’ and ‘Surgical Strikes’ are military strategies often employed in the face of cross-border terrorist threats. While ‘Hot Pursuit’ involves chasing a retreating enemy into its territory, ‘Surgical Strikes’ are precise, targeted operations intended to inflict damage with minimal collateral damage and escalation.**
+**‘Hot Pursuit’ and ‘Surgical Strikes’ are military strategies often employed in the face of cross-border terrorist threats. While ‘Hot Pursuit’ involves chasing a retreating enemy into its territory, ‘Surgical Strikes’ are precise, targeted operations intended to inflict damage with minimal collateral damage and escalation.**
 
 ### Body
 
@@ -9567,7 +9565,7 @@ While ‘Hot Pursuit’ and ‘Surgical Strikes’ can be effective military res
 
 ### Introduction
 
-: **The use of the internet and social media by non-state actors for subversive activities has become a major concern worldwide. These platforms, while being avenues for communication and information exchange, are also exploited for spreading propaganda, recruitment, and coordinating malicious activities.**
+**The use of the internet and social media by non-state actors for subversive activities has become a major concern worldwide. These platforms, while being avenues for communication and information exchange, are also exploited for spreading propaganda, recruitment, and coordinating malicious activities.**
 
 ### Body
 
@@ -9606,7 +9604,7 @@ While the misuse of internet and social media by non-state actors poses a signif
 
 ### Introduction
 
-: **The proliferation of cyberspace, while enabling rapid development, also exposes India to new threats and challenges. In response to these, the government of India rolled out the National Cyber Security Policy, 2013. However, this policy faces certain challenges that need to be addressed for effective implementation.**
+**The proliferation of cyberspace, while enabling rapid development, also exposes India to new threats and challenges. In response to these, the government of India rolled out the National Cyber Security Policy, 2013. However, this policy faces certain challenges that need to be addressed for effective implementation.**
 
 ### Body
 
@@ -9651,7 +9649,7 @@ The National Cyber Security Policy, 2013, was an important step in fortifying In
 
 ### Introduction
 
-: **The shift from traditional in-house server hosting to cloud hosting represents a significant trend in IT strategies for organizations worldwide, including government bodies. Both methods have distinct advantages and security implications.**
+**The shift from traditional in-house server hosting to cloud hosting represents a significant trend in IT strategies for organizations worldwide, including government bodies. Both methods have distinct advantages and security implications.**
 
 ### Body
 
@@ -9695,7 +9693,7 @@ While cloud hosting provides flexibility, cost-effectiveness, and accessibility,
 
 ### Introduction
 
-: **The Armed Forces (Special Powers) Act, 1958 (AFSPA) is a legislation that grants special powers to the Indian Armed Forces in what the act terms as “disturbed areas”** in the states of Arunachal Pradesh, Assam, Manipur, Nagaland. It was later extended to Jammu and Kashmir in 1990 due to escalating insurgency. **Recently, the Union Government reduced the footprint of AFSPA,** partially withdrawing it from areas in Assam, Nagaland, and Manipur. **However,** AFSPA still prevails in parts of these states, as well as certain regions of Arunachal Pradesh and Jammu & Kashmir. **
+**The Armed Forces (Special Powers) Act, 1958 (AFSPA) is a legislation that grants special powers to the Indian Armed Forces in what the act terms as “disturbed areas”** in the states of Arunachal Pradesh, Assam, Manipur, Nagaland. It was later extended to Jammu and Kashmir in 1990 due to escalating insurgency. **Recently, the Union Government reduced the footprint of AFSPA,** partially withdrawing it from areas in Assam, Nagaland, and Manipur. **However,** AFSPA still prevails in parts of these states, as well as certain regions of Arunachal Pradesh and Jammu & Kashmir. **
 
 **
 
@@ -9735,7 +9733,7 @@ The debate around AFSPA underscores the delicate balance between national securi
 
 ### Introduction
 
-: **The proliferation of digital media has opened up new avenues for extremist groups like ISIS to indoctrinate and recruit youth from across the globe, including India, posing significant challenges to national security.**
+**The proliferation of digital media has opened up new avenues for extremist groups like ISIS to indoctrinate and recruit youth from across the globe, including India, posing significant challenges to national security.**
 
 ### Body
 
@@ -9758,7 +9756,7 @@ The debate around AFSPA underscores the delicate balance between national securi
 
 ### Conclusion
 
-: **The threat from ISIS, amplified by digital media, necessitates a comprehensive approach that combines effective intelligence and law enforcement with preventive measures such as countering radical ideologies, promoting social harmony, and addressing grievances that fuel radicalization. The ultimate goal must be to preserve and strengthen the pluralistic and inclusive fabric of our society.
+**The threat from ISIS, amplified by digital media, necessitates a comprehensive approach that combines effective intelligence and law enforcement with preventive measures such as countering radical ideologies, promoting social harmony, and addressing grievances that fuel radicalization. The ultimate goal must be to preserve and strengthen the pluralistic and inclusive fabric of our society.
 
 [Question ID: 2015-gs3-q209-pwonlyias]
 
@@ -9776,7 +9774,7 @@ The debate around AFSPA underscores the delicate balance between national securi
 
 ### Introduction
 
-: **The drive for industrialization and development in backward areas, while necessary for economic growth, has often resulted in displacement and marginalization of local tribal populations and farmers. This has led to discontent, giving rise to movements like the Left-Wing Extremism (LWE) seen in areas like Malkangiri and Naxalbari.**
+**The drive for industrialization and development in backward areas, while necessary for economic growth, has often resulted in displacement and marginalization of local tribal populations and farmers. This has led to discontent, giving rise to movements like the Left-Wing Extremism (LWE) seen in areas like Malkangiri and Naxalbari.**
 
 ### Body
 
@@ -9819,7 +9817,7 @@ Winning back the LWE-affected citizens into the mainstream requires not just eco
 
 ### Introduction
 
-: **The China-Pakistan Economic Corridor (CPEC), part of China’s Belt and Road Initiative, is a development project that raises significant security concerns for India due to its strategic location and potential military implications.**
+**The China-Pakistan Economic Corridor (CPEC), part of China’s Belt and Road Initiative, is a development project that raises significant security concerns for India due to its strategic location and potential military implications.**
 
 ### Body
 
@@ -9869,7 +9867,7 @@ While the China-Pakistan Economic Corridor poses security challenges for India, 
 
 ### Introduction
 
-: **Illegal trans-border migration into India, particularly in regions such as Assam and Tamil Nadu, poses a considerable threat to the nation’s security. The vast, diverse geography of India, coupled with its economic prospects, makes it a target for illicit migration. The magnitude of this issue can be gauged from** a report published by the Ministry of Home Affairs in 2020, which estimated that there are over 2 million illegal immigrants residing in India, **a significant number of which are in Assam and Tamil Nadu.**
+**Illegal trans-border migration into India, particularly in regions such as Assam and Tamil Nadu, poses a considerable threat to the nation’s security. The vast, diverse geography of India, coupled with its economic prospects, makes it a target for illicit migration. The magnitude of this issue can be gauged from** a report published by the Ministry of Home Affairs in 2020, which estimated that there are over 2 million illegal immigrants residing in India, **a significant number of which are in Assam and Tamil Nadu.**
 
 ### Body
 
@@ -9928,7 +9926,7 @@ Addressing the challenge of illegal trans-border migration requires a nuanced, m
 
 ### Introduction
 
-: **The International Maritime Organisation’s (IMO) 2012 decision to shift the high-risk piracy area’s longitudinal marking from 65° East to 78° East in the Arabian Sea has significant implications for India’s maritime security.**
+**The International Maritime Organisation’s (IMO) 2012 decision to shift the high-risk piracy area’s longitudinal marking from 65° East to 78° East in the Arabian Sea has significant implications for India’s maritime security.**
 
 ### Body
 
@@ -9960,7 +9958,7 @@ The IMO’s decision to shift the piracy high-risk area’s longitudinal marking
 
 ### Introduction
 
-: **Airspace is the portion of the atmosphere controlled by a country above its territory, including its territorial waters or, more broadly, any specific three-dimensional portion of the atmosphere. The concept of airspace is vital for various activities such as aviation, national security, weather forecasting, telecommunications, and space exploration. International civil aviation laws, under the auspices of the International Civil Aviation Organization (ICAO), affirm the sovereign rights of a nation over its territorial airspace.**
+**Airspace is the portion of the atmosphere controlled by a country above its territory, including its territorial waters or, more broadly, any specific three-dimensional portion of the atmosphere. The concept of airspace is vital for various activities such as aviation, national security, weather forecasting, telecommunications, and space exploration. International civil aviation laws, under the auspices of the International Civil Aviation Organization (ICAO), affirm the sovereign rights of a nation over its territorial airspace.**
 
 ### Body
 
@@ -10007,7 +10005,7 @@ Airspace and outer space are integral parts of our interconnected world, and the
 
 ### Introduction
 
-: **India, a colorful mosaic of diverse religions and ethnicities, faces susceptibility to radical influences due to geopolitical turbulence in its vicinity. It is vital to have robust mechanisms to counter such threats to maintain societal harmony.**
+**India, a colorful mosaic of diverse religions and ethnicities, faces susceptibility to radical influences due to geopolitical turbulence in its vicinity. It is vital to have robust mechanisms to counter such threats to maintain societal harmony.**
 
 ### Body
 
@@ -10047,7 +10045,7 @@ India’s diversity, while making it susceptible to radicalism, also offers the 
 
 ### Introduction
 
-: **Article 244 of the Indian Constitution pertains to the administration of Scheduled Areas and Tribal Areas in India. The non-implementation of provisions under the Fifth Schedule, meant for the administration and control of Scheduled Areas and Scheduled Tribes, has had significant implications for the growth of Left-Wing Extremism (LWE) in India.**
+**Article 244 of the Indian Constitution pertains to the administration of Scheduled Areas and Tribal Areas in India. The non-implementation of provisions under the Fifth Schedule, meant for the administration and control of Scheduled Areas and Scheduled Tribes, has had significant implications for the growth of Left-Wing Extremism (LWE) in India.**
 
 ### Body
 
@@ -10095,7 +10093,7 @@ The non-implementation of the Fifth Schedule provisions has inadvertently contri
 
 ### Introduction
 
-: **In contemporary times, warfare is no longer confined to traditional battlefields.** The digital realm has emerged as the ‘Fourth Front’ of warfare – a domain where nations engage in cyber warfare. **This term refers to the strategic use of digital attacks by one nation-state against another, intending to disrupt, damage, or gain unauthorized access to critical infrastructures, computer systems, data, and networks, thereby causing substantial harm to the economy, security, and military capabilities.**
+**In contemporary times, warfare is no longer confined to traditional battlefields.** The digital realm has emerged as the ‘Fourth Front’ of warfare – a domain where nations engage in cyber warfare. **This term refers to the strategic use of digital attacks by one nation-state against another, intending to disrupt, damage, or gain unauthorized access to critical infrastructures, computer systems, data, and networks, thereby causing substantial harm to the economy, security, and military capabilities.**
 
 <p align="center"><img src="images/pw_internal_security_q18_img1.webp" alt="traditional battlefields" /></p>
 
@@ -10146,7 +10144,7 @@ While India has made strides in strengthening its cyber warfare preparedness, th
 
 ### Introduction
 
-: **India’s internal security is intrinsically linked to its border management due to its vast and porous borders with several South Asian countries and Myanmar. These borders present unique challenges due to their diverse topography and demographic composition.**
+**India’s internal security is intrinsically linked to its border management due to its vast and porous borders with several South Asian countries and Myanmar. These borders present unique challenges due to their diverse topography and demographic composition.**
 
 ### Body
 
@@ -10187,7 +10185,7 @@ Managing India’s porous borders is crucial to addressing its internal security
 
 ### Introduction
 
-: **Money laundering, the process of making illegally-gained proceeds appear legal, poses a serious threat to India’s economic sovereignty, undermining the integrity of the financial system and hampering economic development.** As per the United Nations Office on Drugs and Crime, it is estimated that the amount of money laundered globally in one year is 2–5% of global GDP, or $800 billion – $2 trillion in current US dollars. **Although India-specific data is difficult to accurately measure due to the clandestine nature of these transactions, the magnitude of the problem can be inferred from global statistics.**
+**Money laundering, the process of making illegally-gained proceeds appear legal, poses a serious threat to India’s economic sovereignty, undermining the integrity of the financial system and hampering economic development.** As per the United Nations Office on Drugs and Crime, it is estimated that the amount of money laundered globally in one year is 2–5% of global GDP, or $800 billion – $2 trillion in current US dollars. **Although India-specific data is difficult to accurately measure due to the clandestine nature of these transactions, the magnitude of the problem can be inferred from global statistics.**
 
 ### Body
 
@@ -10232,7 +10230,7 @@ While money laundering poses a serious threat to India’s economic sovereignty,
 
 ### Introduction
 
-: **A digital signature is a cryptographic technique used to validate the authenticity and integrity of a digital message or document. It is the digital equivalent of a handwritten signature or stamped seal, but it offers far more inherent security.**
+**A digital signature is a cryptographic technique used to validate the authenticity and integrity of a digital message or document. It is the digital equivalent of a handwritten signature or stamped seal, but it offers far more inherent security.**
 
 ### Body
 
@@ -10269,7 +10267,7 @@ Digital signatures play a crucial role in maintaining the integrity, authenticit
 
 ### Introduction
 
-: **Social networking sites (SNS), such as Facebook, Twitter, and LinkedIn, have revolutionized the way we communicate, connect, and share information. They act as virtual platforms where users can create profiles, interact with friends, and meet new people with similar interests. However, the rise of SNS has brought forth a myriad of security implications.**
+**Social networking sites (SNS), such as Facebook, Twitter, and LinkedIn, have revolutionized the way we communicate, connect, and share information. They act as virtual platforms where users can create profiles, interact with friends, and meet new people with similar interests. However, the rise of SNS has brought forth a myriad of security implications.**
 
 ### Body
 
@@ -10460,7 +10458,7 @@ While dams remain indispensable to India’s developmental goals, safety cannot 
 
 ### Introduction
 
-: **A cloudburst is an extreme weather event characterized by an intense and sudden downpour over a localized area, often accompanied by thunder and lightning. It is a type of heavy rainfall that occurs within a short duration, usually lasting for a few minutes to a couple of hours.**
+**A cloudburst is an extreme weather event characterized by an intense and sudden downpour over a localized area, often accompanied by thunder and lightning. It is a type of heavy rainfall that occurs within a short duration, usually lasting for a few minutes to a couple of hours.**
 
 ### Body
 
@@ -10504,7 +10502,7 @@ Cloudbursts are a significant natural hazard in the Indian subcontinent, particu
 
 ### Introduction
 
-:** Landslides are one of the most destructive natural disasters, causing significant loss of life and property damage globally. They can be triggered by a range of factors, including human activities, geological and environmental conditions.
+** Landslides are one of the most destructive natural disasters, causing significant loss of life and property damage globally. They can be triggered by a range of factors, including human activities, geological and environmental conditions.
 
 <p align="center"><img src="images/pw_disaster_management_q578_img1.webp" alt="geological and environmental condition" /></p>
 
@@ -10551,7 +10549,7 @@ Landslides are a significant natural hazard that can cause extensive damage and 
 
 ### Introduction
 
-: **India is highly vulnerable to earthquake-related hazards due to its location in the seismic zone. The country has a long history of seismic activity, and the northern and north-eastern regions are particularly prone to earthquakes.**
+**India is highly vulnerable to earthquake-related hazards due to its location in the seismic zone. The country has a long history of seismic activity, and the northern and north-eastern regions are particularly prone to earthquakes.**
 
 ### Body
 
@@ -10596,7 +10594,7 @@ The major earthquake disasters in the last three decades have highlighted the ne
 
 ### Introduction
 
-:** Disaster preparedness refers to measures taken in advance to minimize the impact of natural or man-made disasters on human life and property. Disaster preparedness is crucial for effective disaster management. Hazard zonation mapping is an important tool that can aid in disaster mitigation, especially in the case of landslides.
+** Disaster preparedness refers to measures taken in advance to minimize the impact of natural or man-made disasters on human life and property. Disaster preparedness is crucial for effective disaster management. Hazard zonation mapping is an important tool that can aid in disaster mitigation, especially in the case of landslides.
 
 <p align="center"><img src="images/pw_disaster_management_q471_img1.webp" alt="Disaster preparedness" /></p>
 
@@ -10636,7 +10634,7 @@ Hazard zonation mapping can help in disaster mitigation by identifying high-risk
 
 ### Introduction
 
-: **A tsunami is a catastrophic oceanic phenomenon, typically caused by submarine earthquakes, volcanic eruptions, or landslides. On December 26, 2004, an undersea megathrust earthquake off the west coast of northern Sumatra triggered one of the deadliest natural disasters in history, causing severe destruction in 14 countries, including India. The tragedy underlined the necessity for a well-structured disaster preparedness and mitigation strategy. The guidelines set forth by the National Disaster Management Authority (NDMA) in 2010 outline a strategic approach to deal with such disasters in the future.**
+**A tsunami is a catastrophic oceanic phenomenon, typically caused by submarine earthquakes, volcanic eruptions, or landslides. On December 26, 2004, an undersea megathrust earthquake off the west coast of northern Sumatra triggered one of the deadliest natural disasters in history, causing severe destruction in 14 countries, including India. The tragedy underlined the necessity for a well-structured disaster preparedness and mitigation strategy. The guidelines set forth by the National Disaster Management Authority (NDMA) in 2010 outline a strategic approach to deal with such disasters in the future.**
 
 ### Body
 
@@ -10680,7 +10678,7 @@ The 2004 tsunami was a grim reminder of the devastating potential of natural dis
 
 ### Introduction
 
-:** India’s urban population is projected to reach 40.76% by 2030, emphasizing the importance of urbanization for economic growth. Inadequate urban planning and climate change contribute to urban flooding, as witnessed in Hyderabad (2020), Chennai (2015), and Bengaluru (recently).
+** India’s urban population is projected to reach 40.76% by 2030, emphasizing the importance of urbanization for economic growth. Inadequate urban planning and climate change contribute to urban flooding, as witnessed in Hyderabad (2020), Chennai (2015), and Bengaluru (recently).
 
 <p align="center"><img src="images/pw_disaster_management_q292_img1.webp" alt="causes for urban flood" /></p>
 
@@ -10733,7 +10731,7 @@ Urban floods and implementing robust preparedness mechanisms, the risk associate
 
 ### Introduction
 
-: **Uttarakhand, a state in northern India, has experienced several incidents of cloudbursts in recent times, resulting in significant loss of life and property. To effectively mitigate the impact of these natural disasters, the National Disaster Management Authority (NDMA) has formulated guidelines.**
+**Uttarakhand, a state in northern India, has experienced several incidents of cloudbursts in recent times, resulting in significant loss of life and property. To effectively mitigate the impact of these natural disasters, the National Disaster Management Authority (NDMA) has formulated guidelines.**
 
 ### Body
 
@@ -10781,7 +10779,7 @@ Uttarakhand can strengthen its disaster management strategies and minimize the i
 
 ### Introduction
 
-: **India’s location at the boundary of two converging tectonic plates makes it a hotspot for earthquakes, with over 60% of the country’s area vulnerable to seismic activity. Despite the significant threat, mitigation measures in India are inadequate.**
+**India’s location at the boundary of two converging tectonic plates makes it a hotspot for earthquakes, with over 60% of the country’s area vulnerable to seismic activity. Despite the significant threat, mitigation measures in India are inadequate.**
 
 ### Body
 
@@ -10825,7 +10823,7 @@ The increasing frequency of earthquakes in the Indian subcontinent highlights th
 
 ### Introduction
 
-: **Drought, characterized by its extensive spatial coverage, prolonged duration, gradual onset, and adverse impacts on vulnerable populations, has gained recognition as a disaster. This essay focuses on the September 2010 guidelines provided by the National Disaster Management Authority (NDMA) to address the preparedness mechanisms required to cope with potential consequences stemming from El Nino and La Nina events in India.**
+**Drought, characterized by its extensive spatial coverage, prolonged duration, gradual onset, and adverse impacts on vulnerable populations, has gained recognition as a disaster. This essay focuses on the September 2010 guidelines provided by the National Disaster Management Authority (NDMA) to address the preparedness mechanisms required to cope with potential consequences stemming from El Nino and La Nina events in India.**
 
 ### Body
 
@@ -10860,7 +10858,7 @@ The September 2010 guidelines by the NDMA serve as a valuable resource for enhan
 
 ### Introduction
 
-:** Vulnerability and risk assessment play a pivotal role in pre-disaster management, providing crucial insights into the potential impacts of disasters. By evaluating the vulnerabilities of communities, infrastructures, and ecosystems, and assessing the associated risks, administrators can effectively allocate resources and develop targeted strategies.
+** Vulnerability and risk assessment play a pivotal role in pre-disaster management, providing crucial insights into the potential impacts of disasters. By evaluating the vulnerabilities of communities, infrastructures, and ecosystems, and assessing the associated risks, administrators can effectively allocate resources and develop targeted strategies.
 
 <p align="center"><img src="images/pw_disaster_management_q34_img1.webp" alt="Disaster management" /></p>
 
