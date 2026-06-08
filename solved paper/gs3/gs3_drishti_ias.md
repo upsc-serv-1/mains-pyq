@@ -204,13 +204,11 @@ The PLI scheme should further leverage transparent applications, widen the eligi
 
 ### Introduction
 
-:
 
 The government expenditure on social services grew at a **5.9% CAGR from FY12 to FY23,** reflecting increased focus on education, healthcare, and rural development since the **1991 reforms for inclusive growth.**
 
 ### Body
 
-:
 
 **Pattern and Trend of Public Expenditure on Social Services (Post-Reform Period):**
 
@@ -232,7 +230,6 @@ The government expenditure on social services grew at a **5.9% CAGR from FY12 to
 
 ### Conclusion
 
-:
 
 Public expenditure on social services in post-reform India has risen to support inclusive growth. Achieving true inclusive growth requires **better resource efficiency** and **targeted beneficiary support.** Efforts must continue to address these issues while
 
@@ -264,7 +261,7 @@ According to CPI, in **August 2024**, food inflation was **5.66%,** with rural i
 
 ### Body
 
-: **Causes of Persistent High Food Inflation In India** ![Image](http://drishtiias.com/images/uploads/1727934402_image6.png)
+**Causes of Persistent High Food Inflation In India** ![Image](http://drishtiias.com/images/uploads/1727934402_image6.png)
 [View Offline Local Backup](images/economic_development_q6_img1.png)
 
 ### Effectiveness of RBI's Monetary Policy in Controlling Food Inflation
@@ -351,13 +348,11 @@ Factors responsible for the poor implementation of land reforms in other parts:
 
 ### Introduction
 
-:
 
 The four Labour Codes in India—on Wages, Industrial Relations, Social Security, and Occupational Safety—represent a significant overhaul of the country’s labor laws.
 
 ### Body
 
-:
 
 **Merits:**
 
@@ -393,7 +388,6 @@ The four Labour Codes in India—on Wages, Industrial Relations, Social Security
 
 ### Conclusion
 
-:
 
 The implementation of these codes is expected to bring significant changes to India’s labor market, aiming to simplify and modernize labor laws, but the final rollout is still awaited.
 
@@ -2216,7 +2210,6 @@ India's food processing sector holds significant growth potential. Cold chain ex
 
 ### Introduction
 
-:
 
 Millets are drought-resistant "nutri-cereals" that contain **7-12% protein** and boast a superior amino acid profile. Often called **superfoods** as they are both affordable and nutritionally rich.
 
@@ -2224,7 +2217,6 @@ Millets are drought-resistant "nutri-cereals" that contain **7-12% protein** and
 
 ### Body
 
-:
 
 Role of Millets in Ensuring Health
 
@@ -2242,7 +2234,6 @@ Role of Millets in Nutritional Security
 
 ### Conclusion
 
-:
 
 Thus, initiatives for **Nutritional Security through Intensive Millets Promotion (INSIMP),** and increased MSP for millets are significant steps in the right direction. Shifting perceptions and incorporating these nutrient-rich grains can lead to a healthier future.
 
@@ -2267,13 +2258,11 @@ Thus, initiatives for **Nutritional Security through Intensive Millets Promotion
 
 ### Introduction
 
-:
 
 Agriculture in India accounts for nearly 80% of the country's annual fresh water use, amounting to 700 billion cubic metres. As of 2022-23, approximately 52% of the 141 million hectares of gross sown area had irrigation access, a significant increase from 41% in 2016, highlighting the importance of efficient irrigation management amid ongoing challenges.
 
 ### Body
 
-:
 
 **Challenges Faced by the Indian Irrigation System**
 
@@ -2303,7 +2292,6 @@ Agriculture in India accounts for nearly 80% of the country's annual fresh water
 
 ### Conclusion
 
-:
 
 To tackle water depletion and outdated infrastructure, India must adopt sustainable irrigation practices, modernize systems, and promote micro-irrigation. Efficient fund use and participatory management are essential for ensuring water security and boosting agricultural productivity.
 
@@ -3471,11 +3459,10 @@ India has progressively scaled up ambitions w.r.t. climate change, while balanci
 
 ### Introduction
 
-: **Industrial pollution** of river water in India severely impacts **ecosystems, human health, and livelihoods** by degrading water quality through the discharge of untreated effluents.
+**Industrial pollution** of river water in India severely impacts **ecosystems, human health, and livelihoods** by degrading water quality through the discharge of untreated effluents.
 
 ### Body
 
-:
 
 **Mitigation Measures**
 
@@ -3517,7 +3504,6 @@ India has progressively scaled up ambitions w.r.t. climate change, while balanci
 
 ### Conclusion
 
-:
 
 Addressing industrial pollution of river water in India requires a multi-faceted approach involving
 
@@ -4700,13 +4686,11 @@ India is strengthening its semiconductor ecosystem through the **ISM**, agreemen
 
 ### Introduction
 
-:
 
 The current global scenario of **intellectual property rights (IPR)** for life materials allows patents on **genetically modified organisms (GMOs)** and biotechnological inventions but not on natural life forms. Companies like **Monsanto can patent GMOs,** while **natural genes like BRCA1 cannot be patented.** International agreements, like the **Nagoya Protocol,** ensure fair benefit-sharing with communities when their **genetic resources** are used.
 
 ### Body
 
-:
 
 In 2023, India saw a total of 83,000 patents filed, a **24.6% growth rate,** the highest in the past 20 years, according to a report by Nasscom. However, In India, **fewer than 5% of patents are commercialized.** **Reasons, Solutions and Government Initiatives to tacke Lack of Commercialization of Patents:**
 | **Reasons** | **Solutions** | **Government Initiatives** |
@@ -4719,7 +4703,6 @@ In 2023, India saw a total of 83,000 patents filed, a **24.6% growth rate,** the
 
 ### Conclusion
 
-:
 
 India's growing number of patent filings shows the need to improve commercialization by making **regulatory reforms**, building better infrastructure, and **promoting collaboration**. By strengthening the patent system and **supporting entrepreneurship,** India can unlock its innovation potential and move closer to its goal of becoming a
 
@@ -4797,13 +4780,11 @@ While electronic toll collection technology offers numerous benefits, **careful 
 
 ### Introduction
 
-:
 
 Amidst the rapid growth of **digital technology** and the increasing reliance on data-driven services, the **Digital Personal Data Protection Act, 2023** marks a significant step forward in **India's data privacy landscape.**
 
 ### Body
 
-:
 
 **Context:**
 
@@ -4839,7 +4820,7 @@ Amidst the rapid growth of **digital technology** and the increasing reliance on
 
 ### Conclusion
 
-: **Digital Personal Data Protection Act, 2023** marks a crucial advancement in India's data protection landscape, striving to **balance individual privacy rights, digital democracy with the needs of enhanced digital scrutiny and national interests.** ---
+**Digital Personal Data Protection Act, 2023** marks a crucial advancement in India's data protection landscape, striving to **balance individual privacy rights, digital democracy with the needs of enhanced digital scrutiny and national interests.** ---
 
 ## Question 8 (Year: 2024) **The world is facing an acute shortage of clean and safe freshwater. What are the alternative technologies which can solve this crisis? Briefly discuss any three such technologies citing their key merits and demerits. (Answer in 250 words)**
 
@@ -4918,13 +4899,11 @@ Integrating advanced technologies like desalination, wastewater treatment, and A
 
 ### Introduction
 
-:
 
 Asteroids (minor planets) are rocky, airless remnants from the early formation of the solar system, approximately 4.6 billion years ago, primarily **found orbiting the Sun between Mars and Jupiter** in the main asteroid belt.
 
 ### Body
 
-:
 
 **Threats Posed by Asteroids**
 
@@ -4956,7 +4935,6 @@ Asteroids (minor planets) are rocky, airless remnants from the early formation o
 
 ### Conclusion
 
-:
 
 While asteroids pose a threat, advancements in detection, deflection, and global cooperation are improving planetary defense, ensuring better preparedness and future opportunities for asteroid resource utilisation.
 
@@ -5900,7 +5878,6 @@ India’s maritime security is central to its economic well-being, energy access
 
 ### Conclusion
 
-:
 
 A Multi-faceted approach is essential to counter narco-terrorism. Strengthening border security, enhancing international cooperation, and implementing stringent anti-money laundering measures such as Prevention of Money Laundering Act, 2002 are crucial. Additionally, addressing socio-economic issues, promoting alternative livelihoods, and investing in education can help reduce the appeal of drug trafficking and terrorism, fostering long-term stability.
 
@@ -5986,7 +5963,6 @@ Through initiatives like BADP and BIM, India is not only enhancing border securi
 
 ### Introduction
 
-:
 
 The **proliferation of social media and encrypted messaging services** has revolutionised communication in India.
 
@@ -5998,7 +5974,6 @@ The **proliferation of social media and encrypted messaging services** has revol
 
 ### Body
 
-:
 
 **Security Challenges of Social Media and Encrypted Messaging Services:**
 
@@ -6032,7 +6007,6 @@ The **proliferation of social media and encrypted messaging services** has revol
 
 ### Conclusion
 
-:
 
 By combining technological solutions, digital literacy initiatives, and collaborative efforts between stakeholders, India can create a more secure online environment. Ultimately, the goal is to strike a **delicate balance between national security interests and individual privacy rights,** ensuring a safe and vibrant digital ecosystem for all citizens.
 
@@ -7147,11 +7121,10 @@ Send To My Bookmarks
 
 ### Introduction
 
-: **Disaster resilience** is the ability to withstand, prevent, and recover from the **harmful effects of natural hazards** on people, places, and the environment.
+**Disaster resilience** is the ability to withstand, prevent, and recover from the **harmful effects of natural hazards** on people, places, and the environment.
 
 ### Body
 
-:
 
 Disaster resilience is determined by several factors, including:
 
@@ -7179,7 +7152,6 @@ Disaster resilience is determined by several factors, including:
 
 ### Conclusion
 
-:
 
 The **Government of India** has issued a set of priority actions based on the goals, targets, and priorities of the Sendai Framework 2015-2030. The government of India, during the **Asian Ministerial Conference for Disaster Risk Reduction (AMCDRR) 2016,** has extended the grant of USD 1 million to UNISDR for the effective implementation of the Sendai Framework for Disaster Risk Reduction in the **Asian region**.
 

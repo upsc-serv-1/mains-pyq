@@ -1621,26 +1621,24 @@ While their methods and demands may have been moderate compared to the more radi
 ### Body
 
 **These movements played an essential role in shaping the social, religious, and educational aspects of modern India:**
-- **Young Bengal Movement:** The Young Bengal movement, also known as the Derozians, was founded by Henry Louis Vivian Derozio (1809-1831) in the early 19th century.
- - The movement emerged as a response to the social and religious orthodoxy prevalent in India during the time.
- - The Young Bengal movement aimed to promote Western education, rationalism, and modernity among the Indian youth.
- - The Derozians were deeply influenced by the ideals of liberty, equality, and fraternity.
- - The growth of the Young Bengal movement can be attributed to its members’ active participation in social reform.
- - They challenged social customs like caste discrimination, gender inequality, child marriage, and the practice of Sati.
- - The movement also contributed significantly to the spread of English education, as many Derozians went on to establish schools and colleges to promote modern education in Bengal.
+- **Young Bengal Movement:**
+  - The Young Bengal movement, also known as the Derozians, was founded by Henry Louis Vivian Derozio (1809-1831) in the early 19th century.
+  - The movement emerged as a response to the social and religious orthodoxy prevalent in India during the time.
+  - The Young Bengal movement aimed to promote Western education, rationalism, and modernity among the Indian youth.
+  - The Derozians were deeply influenced by the ideals of liberty, equality, and fraternity.
+  - The growth of the Young Bengal movement can be attributed to its members’ active participation in social reform.
+  - They challenged social customs like caste discrimination, gender inequality, child marriage, and the practice of Sati.
+  - The movement also contributed significantly to the spread of English education, as many Derozians went on to establish schools and colleges to promote modern education in Bengal.
 
-- **Brahmo Samaj:** Brahmo Samaj, another prominent socio-religious reform movement, was founded by Raja Ram Mohan Roy (1772-1833) in 1828.
- - Roy was a visionary social reformer who aimed to reform the traditional Hindu society by blending the best elements of Hinduism with the principles of rationalism and humanism.
-- The Brahmo Samaj movement
-
-**aimed to purify Hinduism by eliminating superstitions, caste discrimination, and other social evils.**
-It also sought to promote monotheism and rationalism in religious practices.
- - The movement emphasized the importance of education, particularly for women, as a means to empower them and uplift their social status.
-- The Brahmo Samaj movement grew under the leadership of other prominent reformers such as
-
-**Debendranath Tagore (1817-1905) and Keshub Chandra Sen (1838-1884).**
-Under Keshub Chandra Sen’s leadership, the Brahmo Samaj further expanded its reach and became a more radical and inclusive movement.
-- Sen’s advocacy for the abolition of caste distinctions, the promotion of women’s education, and his opposition to child marriage and polygamy helped establish the Brahmo Samaj as a powerful force for social reform in India.
+- **Brahmo Samaj:**
+  - Brahmo Samaj, another prominent socio-religious reform movement, was founded by Raja Ram Mohan Roy (1772-1833) in 1828.
+  - Roy was a visionary social reformer who aimed to reform the traditional Hindu society by blending the best elements of Hinduism with the principles of rationalism and humanism.
+  - The Brahmo Samaj movement **aimed to purify Hinduism by eliminating superstitions, caste discrimination, and other social evils.**
+  - It also sought to promote monotheism and rationalism in religious practices.
+  - The movement emphasized the importance of education, particularly for women, as a means to empower them and uplift their social status.
+  - The Brahmo Samaj movement grew under the leadership of other prominent reformers such as **Debendranath Tagore (1817-1905) and Keshub Chandra Sen (1838-1884)**.
+  - Under Keshub Chandra Sen’s leadership, the Brahmo Samaj further expanded its reach and became a more radical and inclusive movement.
+  - Sen’s advocacy for the abolition of caste distinctions, the promotion of women’s education, and his opposition to child marriage and polygamy helped establish the Brahmo Samaj as a powerful force for social reform in India.
 
 
 
@@ -6675,7 +6673,7 @@ Non-farm primary activities refer to those economic activities that are directly
 | **Core Demand of the Question** ● Highlight that the groundwater potential of the gangetic valley is on a serious decline. ● Discuss how this decline may affect the food security of India. ● Suggest a Way Ahead |
 | --- |
 
-: **The** Gangetic Valley **plays a pivotal role in India’s total food production. However, this vital region faces a severe decline in groundwater levels due to** over-extraction **and** unsustainable agricultural practices, **jeopardising its ability to sustain crop yields and, consequently, the food security of millions across the nation.**
+**The** Gangetic Valley **plays a pivotal role in India’s total food production. However, this vital region faces a severe decline in groundwater levels due to** over-extraction **and** unsustainable agricultural practices, **jeopardising its ability to sustain crop yields and, consequently, the food security of millions across the nation.**
 
 **Decline in Groundwater Potential of the Gangetic Valley:**
 - **Over-extraction:** Excessive groundwater extraction for irrigation has led to a rapid depletion of aquifers, reducing the overall availability of groundwater.

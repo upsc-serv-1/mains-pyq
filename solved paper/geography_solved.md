@@ -510,7 +510,7 @@ Source Question: Examine the potential of wind energy in India and explain the r
 
 ### Introduction
 
-:** India is the world’s fourth largest country in terms of total wind installations after China, the USA and Germany. India has a manufacturing base of about 10 GW per annum. The total installed wind capacity in India is 40.8 GW as of June 30, 2022. States like Tamil Nadu, Gujarat, Karnataka, and Maharashtra were the leading markets for wind, accounting for 72.3% of the cumulative capacity.
+** India is the world’s fourth largest country in terms of total wind installations after China, the USA and Germany. India has a manufacturing base of about 10 GW per annum. The total installed wind capacity in India is 40.8 GW as of June 30, 2022. States like Tamil Nadu, Gujarat, Karnataka, and Maharashtra were the leading markets for wind, accounting for 72.3% of the cumulative capacity.
 
 <p align="center"><img src="pwonlyias/images/pw_geography_q660_img1.webp" alt="wind power installation" /></p>
 
@@ -697,7 +697,7 @@ Source Question: Discuss the multi- dimension implications of uneven distributio
 
 ### Introduction
 
-: **The uneven distribution of mineral oil in the world. Slightly less than half of the world’s proven reserves are located in the Middle East [including Iran but not North Africa]. Following the Middle East are Canada and the United States, Latin America, Africa, and the region made up of Russia, Kazakhstan, and other countries that were once part of the Soviet Union.** Body: **The uneven distribution of mineral oil around the world has various implications that affect different dimensions, including economic, political, environmental, and social aspects.** Economic Implications **:**
+**The uneven distribution of mineral oil in the world. Slightly less than half of the world’s proven reserves are located in the Middle East [including Iran but not North Africa]. Following the Middle East are Canada and the United States, Latin America, Africa, and the region made up of Russia, Kazakhstan, and other countries that were once part of the Soviet Union.** Body: **The uneven distribution of mineral oil around the world has various implications that affect different dimensions, including economic, political, environmental, and social aspects.** Economic Implications **:**
 
 - **Dependence on oil exports:** Countries with significant oil reserves tend to depend heavily on oil exports, which can make their economies vulnerable to price fluctuations, supply disruptions, and changes in global demand.
 - **Resource curse:** Countries that depend solely on oil exports may experience the “resource curse” where the abundance of natural resources can lead to corruption, economic mismanagement, and social instability.
@@ -949,7 +949,7 @@ Source Question: India has immense potential for solar energy though there are r
 
 ### Introduction
 
-: **Solar energy is a major component of India’s renewable energy portfolio, owing to its vast potential with a solar energy availability of 4000 trillion KWh per year. India has committed to generating 100 GW of solar power out of 175 GW of renewable energy by 2022 under the Intended Nationally Determined Contributions (INDCs). Currently, India has an installed solar capacity of 43 GW.** Body: ****
+**Solar energy is a major component of India’s renewable energy portfolio, owing to its vast potential with a solar energy availability of 4000 trillion KWh per year. India has committed to generating 100 GW of solar power out of 175 GW of renewable energy by 2022 under the Intended Nationally Determined Contributions (INDCs). Currently, India has an installed solar capacity of 43 GW.** Body: ****
 **Regional variations**:
 
 - **Desert areas:** of Rajasthan and Kutch, which have barren lands and receive high insolation, are considered ideal for solar energy generation.
@@ -1062,7 +1062,7 @@ Source Question: What is the economic significance of the discovery of oil in th
 
 ### Introduction
 
-: **Arctic oil can be found both on and offshore but the vast majority [an estimated 84%] is offshore. The Arctic Sea has the potential to transform the global energy market. The economic benefits of this discovery must be weighed against the potential environmental consequences of extracting and transporting oil in this sensitive ecosystem.** Body: ****
+**Arctic oil can be found both on and offshore but the vast majority [an estimated 84%] is offshore. The Arctic Sea has the potential to transform the global energy market. The economic benefits of this discovery must be weighed against the potential environmental consequences of extracting and transporting oil in this sensitive ecosystem.** Body: ****
 
 **Positive Implications:**
 - **Increased oil supply:** The Arctic region is estimated to hold significant oil reserves, and the discovery of oil in the Arctic ocean could increase global oil supply, potentially reducing oil prices.
@@ -1166,7 +1166,7 @@ Source Question: It is said that India has substantial reserves of shale oil and
 
 ### Introduction
 
-: **India is believed to have significant reserves of shale oil and gas, which could potentially meet the country’s energy needs for a quarter-century. Despite the potential, the tapping of these resources does not seem to be high on the agenda.** Body: ****
+**India is believed to have significant reserves of shale oil and gas, which could potentially meet the country’s energy needs for a quarter-century. Despite the potential, the tapping of these resources does not seem to be high on the agenda.** Body: ****
 
 **Availability of Shale Oil and Gas in India**
 - **India is estimated to have significant reserves of shale oil and gas, primarily located in the Cambay, Krishna-Godavari, and Cauvery basins. These reserves are estimated to be:** around 96 trillion cubic **feet of gas and** 1 billion barrels **of oil.**
@@ -1290,7 +1290,7 @@ Source Question: With growing scarcity of fossil fuels, atomic energy is gaining
 
 ### Introduction
 
-: **India currently has a total installed nuclear power capacity of 6,780 MW, which accounts for around 2% of the country’s total power generation capacity. The government has set a target to increase this capacity to 22,480 MW by 2031, with several new nuclear power plants under construction or planned for construction.** Body: **The increasing scarcity of fossil fuels has led to a greater reliance on nuclear energy worldwide, and India is no exception. It is crucial to examine the availability of raw materials required for the generation of atomic energy both in India and globally.**
+**India currently has a total installed nuclear power capacity of 6,780 MW, which accounts for around 2% of the country’s total power generation capacity. The government has set a target to increase this capacity to 22,480 MW by 2031, with several new nuclear power plants under construction or planned for construction.** Body: **The increasing scarcity of fossil fuels has led to a greater reliance on nuclear energy worldwide, and India is no exception. It is crucial to examine the availability of raw materials required for the generation of atomic energy both in India and globally.**
 
 <p align="center"><img src="pwonlyias/images/pw_geography_q89_img1.webp" alt="fossil fuels" /></p> **Uranium reserves:**
 
@@ -2055,7 +2055,7 @@ Source Question: Discuss the natural resource potentials of ‘Deccan trap’.
 
 ### Introduction
 
-:** The Deccan Trap is a large volcanic feature located in west-central India. It has several natural resources that are economically valuable.
+** The Deccan Trap is a large volcanic feature located in west-central India. It has several natural resources that are economically valuable.
 
 <p align="center"><img src="pwonlyias/images/pw_geography_q648_img1.webp" alt="Deccan volcanic " /></p>
 
@@ -2295,7 +2295,7 @@ Source Question: Why is India taking keen interest in the Arctic region?
 
 ### Introduction
 
-:** India’s interest in the Arctic region is motivated by economic, strategic, scientific, and diplomatic factors. The region’s resource exploration potential, new trade routes, climate change impact, scientific research opportunities, and diplomatic engagement make it an attractive area for India.
+** India’s interest in the Arctic region is motivated by economic, strategic, scientific, and diplomatic factors. The region’s resource exploration potential, new trade routes, climate change impact, scientific research opportunities, and diplomatic engagement make it an attractive area for India.
 
 <p align="center"><img src="pwonlyias/images/pw_geography_q390_img1.webp" alt=" Arctic region " /></p>
 
@@ -2408,7 +2408,7 @@ Source Question: How does India see its place in the economic space of rising na
 
 ### Introduction
 
-: **India’s relations with Africa have been traditionally strong, dating back to the days of India’s independence movement. With Africa’s increasing importance as a strategic partner, India has been keen to expand its presence and influence in the continent, including in the natural resource-rich areas.** Body: ****
+**India’s relations with Africa have been traditionally strong, dating back to the days of India’s independence movement. With Africa’s increasing importance as a strategic partner, India has been keen to expand its presence and influence in the continent, including in the natural resource-rich areas.** Body: ****
 
 **Economic space of rising natural resource-rich Africa:**
 **Strategic partnership:
@@ -3290,7 +3290,7 @@ Source Question: Describing the distribution of rubber producing countries, indi
 
 ### Introduction
 
-: **Natural rubber is a polymer of isoprene, an organic compound. Thailand is the largest producer of rubber in the world followed by Indonesia, Vietnam, Brazil, India and China. These nations are located in** tropical regions **. Their climate is warm and humid which is ideal for growing rubber trees.**
+**Natural rubber is a polymer of isoprene, an organic compound. Thailand is the largest producer of rubber in the world followed by Indonesia, Vietnam, Brazil, India and China. These nations are located in** tropical regions **. Their climate is warm and humid which is ideal for growing rubber trees.**
 
 <p align="center"><img src="pwonlyias/images/pw_geography_q642_img1.webp" alt="tropical regions" /></p>
 
@@ -3529,7 +3529,7 @@ Source Question: Despite India being one of the countries of Gondwanaland, its m
 
 ### Introduction
 
-: **India is one of the countries of the ancient supercontinent, Gondwanaland, which is known for its rich mineral deposits. Mining sector is an important contributor to India’s economy, with its contribution to India’s Gross Domestic Product (GDP) ranging from 2.3% to 2.9% over the last decade.** Body: **The mining sector in India has historically contributed a relatively low percentage to the country’s Gross Domestic Product (GDP) compared to other sectors.**
+**India is one of the countries of the ancient supercontinent, Gondwanaland, which is known for its rich mineral deposits. Mining sector is an important contributor to India’s economy, with its contribution to India’s Gross Domestic Product (GDP) ranging from 2.3% to 2.9% over the last decade.** Body: **The mining sector in India has historically contributed a relatively low percentage to the country’s Gross Domestic Product (GDP) compared to other sectors.**
 
 **Reasons for low contribution:**
 - **Modernization and technological advancements:** The mining industry in India is predominantly carried out by small-scale miners who use outdated technology and equipment, resulting in low productivity and efficiency. The lack of modernization and technology also hinders the exploration and extraction of minerals in the country.E.g J
@@ -3800,7 +3800,7 @@ Source Question: Defining Blue Revolution. Explain the problem and strategies fo
 
 ### Introduction
 
-: **The “Blue Revolution” refers to the sustainable and innovative development of the world’s fisheries and aquaculture sectors to meet the growing demand for seafood while protecting the health of marine ecosystems and improving the livelihoods of fishing communities. The sector has enormous potential to contribute to the country’s food security and rural livelihoods.** Body: ****
+**The “Blue Revolution” refers to the sustainable and innovative development of the world’s fisheries and aquaculture sectors to meet the growing demand for seafood while protecting the health of marine ecosystems and improving the livelihoods of fishing communities. The sector has enormous potential to contribute to the country’s food security and rural livelihoods.** Body: ****
 
 **Problems of pisciculture development in India:**
 - **Lack of infrastructure:** Primary challenges facing the development of pisciculture in India is the lack of adequate infrastructure, including fish hatcheries, fish seed farms, fish processing facilities, and transportation networks. This lack of infrastructure makes it difficult for fish farmers to produce and sell their products.
@@ -3983,7 +3983,7 @@ Source Question: “In Spite of adverse environmental impact, coal mining is sti
 
 ### Introduction
 
-: **Coal mining has been a crucial part of global energy production for centuries, but it is not without its drawbacks. Despite its environmental impacts, many argue that it is still necessary for development. In this essay, we will explore both sides of this argument.** Body: **<p align="center"><img src="pwonlyias/images/pw_geography_q343_img1.webp" alt="India Coal Reserve" /></p>**
+**Coal mining has been a crucial part of global energy production for centuries, but it is not without its drawbacks. Despite its environmental impacts, many argue that it is still necessary for development. In this essay, we will explore both sides of this argument.** Body: **<p align="center"><img src="pwonlyias/images/pw_geography_q343_img1.webp" alt="India Coal Reserve" /></p>**
 
 **Inevitability of Coal Mining:**
 - **Energy Security and needs:** Coal is the most abundant and widely used fossil fuel. It provides a reliable and affordable source of energy that is essential for economic growth and development.
@@ -4110,7 +4110,7 @@ Source Question: Mention the advantages of the cultivation of pulses because of 
 
 ### Introduction
 
-: **Pulses are an essential source of nutrition for millions of people worldwide. From 19 million ha in 1950-51 to 28 million ha in 2021,the area under pulses has grown. The production of pulses surged by nearly 200 % during the same span. In 2016, the United Nations declared it the International Year of Pulses to highlight their importance.** Body: ****
+**Pulses are an essential source of nutrition for millions of people worldwide. From 19 million ha in 1950-51 to 28 million ha in 2021,the area under pulses has grown. The production of pulses surged by nearly 200 % during the same span. In 2016, the United Nations declared it the International Year of Pulses to highlight their importance.** Body: ****
 
 **Advantages of Pulses:**
 - **Nutritional benefits:** Pulses are a rich source of **protein, fiber, vitamins**, and They are low in fat and have no cholesterol, making them an excellent choice for a healthy diet.
@@ -4211,7 +4211,7 @@ Source Question: Whereas the British planters had developed tea gardens all alon
 
 ### Introduction
 
-: **Tea cultivation has a long history in India, with British planters introducing the crop in the mid-19th century. Tea gardens were established along the Shivaliks and lesser Himalayas from Assam to Himachal Pradesh; the planters did not succeed in replicating the success of Darjeeling elsewhere.** Body: **<p align="center"><img src="pwonlyias/images/pw_geography_q166_img1.webp" alt="British planters" /></p>**
+**Tea cultivation has a long history in India, with British planters introducing the crop in the mid-19th century. Tea gardens were established along the Shivaliks and lesser Himalayas from Assam to Himachal Pradesh; the planters did not succeed in replicating the success of Darjeeling elsewhere.** Body: **<p align="center"><img src="pwonlyias/images/pw_geography_q166_img1.webp" alt="British planters" /></p>**
 
 **Reasons for this disparity:**
 - **Geography:** The geography of the Darjeeling region plays a crucial role in the success of tea cultivation. The area is situated at an altitude of **2,000 to 7,000 feet** above sea level, which provides the perfect conditions for growing high-quality tea.
@@ -4328,7 +4328,7 @@ Source Question: Why did the Green Revolution in India virtually bypass the east
 
 ### Introduction
 
-: **The Green Revolution, initiated in the 1960s, brought a significant transformation in the agricultural sector in India. This revolution virtually bypassed the eastern region of India, despite the availability of fertile soil and water resources.** Body: ****
+**The Green Revolution, initiated in the 1960s, brought a significant transformation in the agricultural sector in India. This revolution virtually bypassed the eastern region of India, despite the availability of fertile soil and water resources.** Body: ****
 
 **Factors that led to the Green Revolution bypassing the northeastern region of India:**
 - **Lack of Irrigation Infrastructure:** One of the main reasons for the Green Revolution’s limited impact in the eastern region was the lack of adequate irrigation infrastructure. The region had fertile soil and good availability of water, there was little investment in irrigation systems, leading to lower yields and less efficient use of resources.
@@ -4474,7 +4474,7 @@ Source Question: Account for the present location of iron and steel industries a
 
 ### Introduction
 
-: **Major location factors for iron and steel industries include proximity to raw materials such as iron ore and coal, access to transportation, availability of energy sources, and proximity to markets for finished products.** Body: ****
+**Major location factors for iron and steel industries include proximity to raw materials such as iron ore and coal, access to transportation, availability of energy sources, and proximity to markets for finished products.** Body: ****
 
 **Factor that affect location the of iron and steel industries away from raw material:**
 - **Access to better infrastructure:** The present location of iron and steel industries is close to ports, roads, and railways, which makes transportation of finished products more convenient. E.g. **The Vizag steel Plant, in Andhra Pradesh,** is the first port – based plant.
@@ -5008,7 +5008,7 @@ Source Question: What is the significance of Industrial Corridors in India? Iden
 
 ### Introduction
 
-: **Industrial corridors are critical to** India’s economic development **as they offer a platform for industrial growth by providing state-of-the-art infrastructure and logistics facilities. They can stimulate economic growth, attract investment, create employment, and improve the overall standard of living. The identification of specific corridors for development is a step towards increasing industrial competitiveness and creating employment opportunities.** Body: ****
+**Industrial corridors are critical to** India’s economic development **as they offer a platform for industrial growth by providing state-of-the-art infrastructure and logistics facilities. They can stimulate economic growth, attract investment, create employment, and improve the overall standard of living. The identification of specific corridors for development is a step towards increasing industrial competitiveness and creating employment opportunities.** Body: ****
 
 **Significance of Industrial Corridors in India:**
 - **Promote industrialization:** Industrial corridors provide an opportunity for the government to develop new industrial clusters, which will promote industrialization and economic growth.
@@ -5196,7 +5196,7 @@ Source Question: Petroleum refineries are not necessarily located nearer to crud
 
 ### Introduction
 
-: **Petroleum, a natural resource found underground, is extracted from wells and then refined into various types of fuels using fractional distillation to separate its components. Oil refineries are often situated far from crude oil-producing areas, particularly in developing countries.** Body: ****
+**Petroleum, a natural resource found underground, is extracted from wells and then refined into various types of fuels using fractional distillation to separate its components. Oil refineries are often situated far from crude oil-producing areas, particularly in developing countries.** Body: ****
 
 **Benefit of Refineries near oil resources**
 Refineries located close to crude oil sources can reduce transportation costs and ensure a steady supply of crude oil, lowering the cost of final products and increasing profitability.
@@ -5321,7 +5321,7 @@ Source Question: Account for the change in the spatial pattern of the Iron and S
 
 ### Introduction
 
-: **The iron and steel industry has been one of the most important and strategic industries in the world since the Industrial Revolution. The spatial pattern of the industry has changed significantly over time.** Body: ****
+**The iron and steel industry has been one of the most important and strategic industries in the world since the Industrial Revolution. The spatial pattern of the industry has changed significantly over time.** Body: ****
 
 **Reasons of change in spatial pattern in Iron industry:**
 - **Technological Innovations:** Significant factors driving the change in the spatial pattern of the iron and steel industry has been technological innovation. The development of new technologies and production processes, it has become possible to locate iron and steel plants closer to raw material sources, reducing transportation costs and improving efficiency.
@@ -5419,7 +5419,7 @@ Source Question: Analyze the factor for highly decentralized cotton textile indu
 
 ### Introduction
 
-: **In 202, India stood as the third highest exporter of raw cotton globally, accounting for about 10.2% of the global exports. India’s total cotton exports are estimated to be 4 million bales in 2021-22 [COCPC Report]. India has a highly decentralized cotton textile industry with a large number of small-scale units spread across the country.** Body: ****
+**In 202, India stood as the third highest exporter of raw cotton globally, accounting for about 10.2% of the global exports. India’s total cotton exports are estimated to be 4 million bales in 2021-22 [COCPC Report]. India has a highly decentralized cotton textile industry with a large number of small-scale units spread across the country.** Body: ****
 
 **Some of the key factors that have contributed to this decentralized nature of the industry are discussed below:**
 - **Historical Legacy:** The cotton textile industry in India has a long history, dating back to ancient times. The industry has traditionally been decentralized, with handloom weaving being practiced in homes and small workshops in different parts of the country. E.g
@@ -5694,7 +5694,7 @@ Source Question: Mention the significance of straits and isthmus in internationa
 
 ### Introduction
 
-: **Strait and isthmus are narrow passages of water and land, respectively, which have played a crucial role in international trade for centuries. These natural features have helped connect various regions of the world, facilitating the movement of goods and people. Like Malacca Strait, Gibraltar strait.** Body: ****
+**Strait and isthmus are narrow passages of water and land, respectively, which have played a crucial role in international trade for centuries. These natural features have helped connect various regions of the world, facilitating the movement of goods and people. Like Malacca Strait, Gibraltar strait.** Body: ****
 
 **Significance role of straits and isthmus in international trade:**
 - **Reduced Distance:** Straits and isthmuses reduce the distance between regions, making transportation of goods and people more efficient. Like the **Suez Canal** on the isthmus of Suez prevents the circumvention of Africa by ship for trade between Europe and Asia.
@@ -5923,7 +5923,7 @@ Source Question: How can the mountain ecosystem be restored from the negative im
 
 ### Introduction
 
-: **The mountain ecosystem is a crucial and sensitive part of the environment, delicate and complex, and they are affected by human activities such as development initiatives and tourism. Some activities can cause a wide range of negative impacts on the ecosystem, habitat destruction, soil erosion, pollution, and the displacement of native species.** Body: ****
+**The mountain ecosystem is a crucial and sensitive part of the environment, delicate and complex, and they are affected by human activities such as development initiatives and tourism. Some activities can cause a wide range of negative impacts on the ecosystem, habitat destruction, soil erosion, pollution, and the displacement of native species.** Body: ****
 
 **Major threats to mountainous ecosystems include:**
 - **Climate change:** Rising temperatures can cause glacial melting, altered precipitation patterns, and changes in the timing of seasonal events.
@@ -6153,7 +6153,7 @@ Source Question: Why is the Indian Regional Navigational Satellite System [IRNSS
 
 ### Introduction
 
-: **The Indian Regional Navigational Satellite System [IRNSS] is also known as** NavIC, **developed to provide India with its own independent navigation system that is not dependent on foreign systems like GPS. It is a sophisticated satellite-based navigation system designed to provide accurate and reliable location information for users on the ground.** Body: ****
+**The Indian Regional Navigational Satellite System [IRNSS] is also known as** NavIC, **developed to provide India with its own independent navigation system that is not dependent on foreign systems like GPS. It is a sophisticated satellite-based navigation system designed to provide accurate and reliable location information for users on the ground.** Body: ****
 **Need of the IRNSS:
 - **To provide India with its:** own independent navigation system** that is not dependent on foreign systems like GPS.
 - To provide accurate and reliable navigation services for **civilian and military** applications in India and the surrounding regions.
@@ -6308,7 +6308,7 @@ Source Question: Enumerate the problem and prospects of inland water transport i
 
 ### Introduction
 
-: **Inland water transport [IWT] is a crucial mode of transportation in India that can provide a cost-effective, energy-efficient, and environmentally sustainable alternative to road and rail transport; it remains underutilized at a share of 2% in India’s model mix.** Body: ****
+**Inland water transport [IWT] is a crucial mode of transportation in India that can provide a cost-effective, energy-efficient, and environmentally sustainable alternative to road and rail transport; it remains underutilized at a share of 2% in India’s model mix.** Body: ****
 
 **Problems of Inland Water Transport in India:**
 - **Infrastructure:** The lack of adequate infrastructure, such as ports, terminals, and navigational aids, hinders the growth of IWT in India.
@@ -6438,7 +6438,7 @@ Source Question: The state of Jammu and Kashmir, Himachal Pradesh and Uttarakhan
 
 ### Introduction
 
-: **Tourism sector contributes around 5.5-6% to the country’s GDP. It has become a significant contributor to the economies of Jammu and Kashmir, Himachal Pradesh, and Uttarakhand. This rapid growth in tourism has also put a strain on the fragile ecosystems of these states.** Body: ****
+**Tourism sector contributes around 5.5-6% to the country’s GDP. It has become a significant contributor to the economies of Jammu and Kashmir, Himachal Pradesh, and Uttarakhand. This rapid growth in tourism has also put a strain on the fragile ecosystems of these states.** Body: ****
 
 **Challenges of ecological carrying capacity due to tourism:**
 
@@ -7154,7 +7154,7 @@ Source Question: The process of desertification does not have climate boundaries
 
 ### Introduction
 
-: **Desertification is the process of land degradation in arid, semi-arid, and dry sub-humid regions caused by a combination of natural and human factors. Environmental challenges threaten the sustainability of agriculture and livelihoods in these regions.** Body: ****
+**Desertification is the process of land degradation in arid, semi-arid, and dry sub-humid regions caused by a combination of natural and human factors. Environmental challenges threaten the sustainability of agriculture and livelihoods in these regions.** Body: ****
 
 **Desertification is not restricted by climate boundaries due to some reason.**
 - **Climate change:** Changes in temperature, rainfall patterns, and extreme weather events due to climate change can exacerbate desertification in arid and semi-arid regions. In these regions, droughts, prolonged dry spells, and heat waves can lead to soil degradation, loss of vegetation, and increased desertification. Like Latin America and the Caribbean are actually about one-fourth desert and dry lands.
@@ -7591,7 +7591,7 @@ Source Question: How will the melting of Himalayas glaciers have a far-reaching 
 
 ### Introduction
 
-: **The Himalayas are one of the most significant mountain ranges in the world, with an estimated height of over 8,849 meters. The melting of glaciers in the Himalayas is a cause of concern for India’s water resources. As the source of many major rivers, including the Ganges, Brahmaputra, and Indus, the melting of Himalayan glaciers can have far-reaching impacts on water availability, irrigation, hydropower generation, and socio-economic development in the region.** Body: ****
+**The Himalayas are one of the most significant mountain ranges in the world, with an estimated height of over 8,849 meters. The melting of glaciers in the Himalayas is a cause of concern for India’s water resources. As the source of many major rivers, including the Ganges, Brahmaputra, and Indus, the melting of Himalayan glaciers can have far-reaching impacts on water availability, irrigation, hydropower generation, and socio-economic development in the region.** Body: ****
 
 **The melting of Himalayan glaciers could impact the water resources:**
 - **Increase in River flows:** The melting of glaciers can lead to an increase in the volume and intensity of river flows, which can cause flash floods and landslides. E.g.
@@ -7812,7 +7812,7 @@ Source Question: How does the cryosphere affect global climate?
 
 ### Introduction
 
-: **The cryosphere, which comprises the frozen water on the Earth’s surface, plays a crucial role in regulating the planet’s climate. The impact of the cryosphere on global climate is significant and far-reaching, affecting everything from ocean currents to precipitation patterns.** Body: ****
+**The cryosphere, which comprises the frozen water on the Earth’s surface, plays a crucial role in regulating the planet’s climate. The impact of the cryosphere on global climate is significant and far-reaching, affecting everything from ocean currents to precipitation patterns.** Body: ****
 
 **Impact of Cryosphere on Global Climate:**
 - **Albedo:** The cryosphere has a high albedo, which means it reflects a significant amount of the sun’s energy [80-90%] back into space. This reflected energy helps to cool the Earth’s surface and atmosphere, and it plays a critical role in regulating the Earth’s temperature. Like
@@ -8381,7 +8381,7 @@ Source Question: Examine the Status of forest resources of India and its resulta
 
 ### Introduction
 
-: **According to the** India State of Forest Report 2019 **, the Indian forest cover is** around 24.56% **of its total geographical area. The country has lost around** 9.38 million hectares **of forest cover between 1991 and 2019.** Body: **Forests are a critical natural resource in India, providing numerous ecological, economic, and social benefits. They are home to diverse flora and fauna, regulate local weather patterns, and provide livelihoods to millions of people.**
+**According to the** India State of Forest Report 2019 **, the Indian forest cover is** around 24.56% **of its total geographical area. The country has lost around** 9.38 million hectares **of forest cover between 1991 and 2019.** Body: **Forests are a critical natural resource in India, providing numerous ecological, economic, and social benefits. They are home to diverse flora and fauna, regulate local weather patterns, and provide livelihoods to millions of people.**
 
 **Status of forest resources of India as follows.**
 - **Mangrove cover:** Mangroves are a vital ecosystem that plays a crucial role in coastal protection, carbon sequestration, and supporting biodiversity. Mangroves cover an area of **around 4,975 square km**. E.g. Sundarbans delta in the Bay of Bengal being the largest mangrove forest in the world.
@@ -8602,7 +8602,7 @@ Source Question: Assess the impact of global warming on the coral life system wi
 
 ### Introduction
 
-: **Coral reefs are some of the most diverse and important ecosystems on the planet, providing habitat for a quarter of all marine life. They are under threat from the effects of global warming, including rising sea temperatures, ocean acidification, and increased frequency and severity of storms.** Body: ****
+**Coral reefs are some of the most diverse and important ecosystems on the planet, providing habitat for a quarter of all marine life. They are under threat from the effects of global warming, including rising sea temperatures, ocean acidification, and increased frequency and severity of storms.** Body: ****
 
 **Impact of global warming on the coral life system:**
 - **Coral Bleaching:** Rising ocean temperatures cause coral bleaching, where corals expel the symbiotic algae living in their tissues. This leads to a loss of color and can eventually result in the death of the coral if it is bleached for prolonged periods. **g The Great Barrier Reef in Australia** is a well-known example of a coral site that has been impacted by coral bleaching due to rising ocean temperatures.
@@ -8804,7 +8804,7 @@ Source Question: Discuss the causes of depletion of mangroves and explain their 
 
 ### Introduction
 
-:** Mangroves are an important part of coastal ecosystems, providing a range of ecological, economic, and cultural benefits. Despite their importance, mangroves have been subject to significant depletion in recent decades, with estimates suggesting that up to 50% of mangrove forests have been lost globally.
+** Mangroves are an important part of coastal ecosystems, providing a range of ecological, economic, and cultural benefits. Despite their importance, mangroves have been subject to significant depletion in recent decades, with estimates suggesting that up to 50% of mangrove forests have been lost globally.
 
 <p align="center"><img src="pwonlyias/images/pw_geography_q438_img1.webp" alt="Mangroves cover state" /></p>
 
@@ -8967,7 +8967,7 @@ Source Question: How does the Juno Mission of NASA help to understand the origin
 
 ### Introduction
 
-: **The Juno Mission launched by NASA in 2011, aims to study Jupiter, the largest planet in our solar system. This mission also holds immense significance in understanding the origin and evolution of Earth, as Jupiter is believed to have formed around the same time as the Sun and the other planets.** Body: ****
+**The Juno Mission launched by NASA in 2011, aims to study Jupiter, the largest planet in our solar system. This mission also holds immense significance in understanding the origin and evolution of Earth, as Jupiter is believed to have formed around the same time as the Sun and the other planets.** Body: ****
 
 **Juno Mission contributed to our understanding of Earth:**
 - **Formation of the solar system:** Studying Jupiter’s composition, structure, and magnetic field, we can learn more about the conditions that existed during the solar system’s formation. This can help to better understand how Earth and the other planets in our solar system formed.
@@ -9081,7 +9081,7 @@ Source Question: The South China Sea has assumed great geopolitical significance
 
 ### Introduction
 
-: **The South China Sea has become a significant geopolitical hotspot due to its strategic location. The region is home to more than 200 small islands, coral reefs, and atolls that are claimed by China, Taiwan, Vietnam, the Philippines, Malaysia, and Brunei. The dispute over territorial claims, freedom of navigation, and natural resources has raised tensions among regional and global powers.** Body: ****
+**The South China Sea has become a significant geopolitical hotspot due to its strategic location. The region is home to more than 200 small islands, coral reefs, and atolls that are claimed by China, Taiwan, Vietnam, the Philippines, Malaysia, and Brunei. The dispute over territorial claims, freedom of navigation, and natural resources has raised tensions among regional and global powers.** Body: ****
 **Significance of south China sea:** <p align="center"><img src="pwonlyias/images/pw_geography_q295_img1.webp" alt="South China Sea" /></p>
 
 - **Territorial Claims:** The territorial claims in the South China Sea have been a long standing issue, with several countries claiming exclusive economic zones [EEZs] and rights over the islands and resources. China’s claim over the majority of the South China Sea, marked by the **nine-dash line,** has been contested by other countries and has led to tensions in the region.
@@ -9196,7 +9196,7 @@ Source Question: Mumbai, Delhi and Kolkata are the three megacities of the count
 
 ### Introduction
 
-: **“Delhi has been consistently ranked as one of the most polluted cities in the world. In 2022, it was listed as the 4th most polluted city in the world, according to IQ Air’s World Air Quality Report.” Air pollution is contamination of the indoor or outdoor environment by any chemical, physical or biological agent.** Body: **Mumbai, Delhi, and Kolkata are the three most populous cities in India, and all three face significant air pollution challenges. Delhi’s air pollution problem is more severe than the other two cities.**
+**“Delhi has been consistently ranked as one of the most polluted cities in the world. In 2022, it was listed as the 4th most polluted city in the world, according to IQ Air’s World Air Quality Report.” Air pollution is contamination of the indoor or outdoor environment by any chemical, physical or biological agent.** Body: **Mumbai, Delhi, and Kolkata are the three most populous cities in India, and all three face significant air pollution challenges. Delhi’s air pollution problem is more severe than the other two cities.**
 
 **Significant reasons:**
 - **Geographical Location:** Delhi is situated in a landlocked area, with no nearby water bodies, while Mumbai and Kolkata are coastal cities. This geographic location of Delhi exacerbates the impact of pollution due to the absence of a natural outlet for pollutants.
@@ -9432,7 +9432,7 @@ Source Question: The groundwater potential of the Gangetic valley is on a seriou
 
 ### Answer
 
-: **The** Gangetic Valley **plays a pivotal role in India’s total food production. However, this vital region faces a severe decline in groundwater levels due to** over-extraction **and** unsustainable agricultural practices, **jeopardising its ability to sustain crop yields and, consequently, the food security of millions across the nation.**
+**The** Gangetic Valley **plays a pivotal role in India’s total food production. However, this vital region faces a severe decline in groundwater levels due to** over-extraction **and** unsustainable agricultural practices, **jeopardising its ability to sustain crop yields and, consequently, the food security of millions across the nation.**
 
 **Decline in Groundwater Potential of the Gangetic Valley:**
 - **Over-extraction:** Excessive groundwater extraction for irrigation has led to a rapid depletion of aquifers, reducing the overall availability of groundwater.
@@ -9926,7 +9926,7 @@ Source Question: The interlinking of rivers can provide viable solutions to the 
 
 ### Introduction
 
-: **The interlinking of rivers aims to connect the rivers and reduce the imbalance between water-scarce and water-surplus regions. It generates hydropower, provides irrigation facilities, and improves the navigability of rivers.** Body: ****
+**The interlinking of rivers aims to connect the rivers and reduce the imbalance between water-scarce and water-surplus regions. It generates hydropower, provides irrigation facilities, and improves the navigability of rivers.** Body: ****
 
 **Pros of Interlinking of Rivers:**
 - **Improved Water Management:** Interlinking of rivers aims to improve the management of water resources in India, reducing water scarcity and ensuring better utilization of water. **Example** the **Ken-Betwa river interlinking project** in Madhya Pradesh aims to transfer water from the Ken river basin to the Betwa river basin, providing irrigation facilities to farmers in the water-scarce region.
@@ -10373,7 +10373,7 @@ Source Question: “The ideal solution to depleting ground water resources in In
 
 ### Introduction
 
-: **By 2030, the country’s water demand is projected to be twice the available supply, implying severe water scarcity for hundreds of millions and an eventual loss of around 6% of the country’s GDP. About 75 % of households do not have drinking water at home, 84% rural households do not have piped water access, and 70% of India’s water is contaminated, with the country currently ranked 120 among 122 in the water quality Index.** Body: ****
+**By 2030, the country’s water demand is projected to be twice the available supply, implying severe water scarcity for hundreds of millions and an eventual loss of around 6% of the country’s GDP. About 75 % of households do not have drinking water at home, 84% rural households do not have piped water access, and 70% of India’s water is contaminated, with the country currently ranked 120 among 122 in the water quality Index.** Body: ****
 
 **Solutions for water harvesting in India**
 
@@ -10497,7 +10497,7 @@ Source Question: In what way can floods be converted into a sustainable source o
 
 ### Introduction
 
-: **Floods have been a recurring natural disaster in India, causing loss of life and property damage. However, floods also bring with them an opportunity to harness water resources for irrigation and inland navigation.** Body: **<p align="center"><img src="pwonlyias/images/pw_geography_q345_img1.webp" alt="Flood prone area" /></p>** Converted into a sustainable source of irrigation and all-weather inland navigation in India: ****
+**Floods have been a recurring natural disaster in India, causing loss of life and property damage. However, floods also bring with them an opportunity to harness water resources for irrigation and inland navigation.** Body: **<p align="center"><img src="pwonlyias/images/pw_geography_q345_img1.webp" alt="Flood prone area" /></p>** Converted into a sustainable source of irrigation and all-weather inland navigation in India: ****
 
 **Irrigation:**
 - **Inter-basin transfer:** involves moving water from areas with surplus water to those facing a shortage. India has implemented this method with projects such as the Beas-Sutlej link, Ken-Betwa link, and Telugu Ganga Project, which have also helped in developing inland navigation.
@@ -10638,7 +10638,7 @@ Source Question: In what way micro- watershed development projects help in water
 
 ### Introduction
 
-: **Micro-watershed development refers to the holistic approach of managing small-scale watersheds to promote sustainable land and water resource management. It involves implementing conservation measures, land use planning, and community participation for improved water availability and soil conservation.** Body: ****
+**Micro-watershed development refers to the holistic approach of managing small-scale watersheds to promote sustainable land and water resource management. It involves implementing conservation measures, land use planning, and community participation for improved water availability and soil conservation.** Body: ****
 
 **Micro-watershed development project role in water conservation in drought prone and semi-arid regions:**
 - **Soil and Water Conservation:** Micro-watershed development projects focus on soil and water conservation through measures such as contour bunding, check dams, and water harvesting structures. This helps in reducing soil erosion and increasing water retention in the soil.
@@ -10774,7 +10774,7 @@ Source Question: Present an account of the Indus Water Treaty and examine its ec
 
 ### Introduction
 
-: **The Indus Water Treaty is a bilateral water-sharing agreement signed between India and Pakistan in 1960 to share the waters of the Indus River and its tributaries. The treaty provides for the allocation of the river waters between the two countries and regulates the construction of dams and other water-related infrastructure on the river.** Body: **<p align="center"><img src="pwonlyias/images/pw_geography_q284_img1.webp" alt="Division of river" /></p>**
+**The Indus Water Treaty is a bilateral water-sharing agreement signed between India and Pakistan in 1960 to share the waters of the Indus River and its tributaries. The treaty provides for the allocation of the river waters between the two countries and regulates the construction of dams and other water-related infrastructure on the river.** Body: **<p align="center"><img src="pwonlyias/images/pw_geography_q284_img1.webp" alt="Division of river" /></p>**
 
 - **Ecological Implications:** The Indus Water Treaty has had significant ecological implications, particularly for the downstream areas in Pakistan. The construction of **dams and barrages** by India has resulted in reduced water flows downstream, leading to degradation of ecosystems, loss of biodiversity, and **reduced fish populations.**
 - **Economic Implications:** The treaty has also had significant economic implications for both India and Pakistan. The treaty’s provisions have enabled the development of **hydroelectric power projects**, which have provided India with significant electricity generation capacity. However, the treaty has also resulted in disputes over the sharing of the river waters, which has impacted economic growth and development in the region.
@@ -10965,7 +10965,7 @@ Source Question: India is well endowed with fresh water resources. Critically ex
 
 ### Introduction
 
-: **India experiences an average precipitation of 1170 mm per year, or about 4000 cubic kilometers of rain annually or about 1720 cubic meters of fresh water per person every year. India accounts for 18 % of the world population and about 4 % of the world’s water resources. Despite this abundance, the country continues to face water scarcity, particularly in arid and semi-arid regions.** Body: ****
+**India experiences an average precipitation of 1170 mm per year, or about 4000 cubic kilometers of rain annually or about 1720 cubic meters of fresh water per person every year. India accounts for 18 % of the world population and about 4 % of the world’s water resources. Despite this abundance, the country continues to face water scarcity, particularly in arid and semi-arid regions.** Body: ****
 
 **Reasons for water scarcity in India:**
 - **Unequal distribution:** The states of Uttarakhand, Himachal Pradesh, and the northeastern states of India have abundant water resources, while the arid regions of Rajasthan, Gujarat, and parts of Maharashtra face severe water scarcity.
@@ -11457,7 +11457,7 @@ Source Question: What do you understand about the phenomenon of temperature inve
 
 ### Introduction
 
-: **Temperature inversion is a meteorological phenomenon where the normal decrease in temperature with height is reversed, and the temperature increases instead of decreasing. In other words, the air near the surface of the Earth is cooler than the air above it.** Body: **Temperature inversion can occur due to several factors such as radiation cooling, subsidence of air, advection of warm air, and the presence of an inversion layer.**
+**Temperature inversion is a meteorological phenomenon where the normal decrease in temperature with height is reversed, and the temperature increases instead of decreasing. In other words, the air near the surface of the Earth is cooler than the air above it.** Body: **Temperature inversion can occur due to several factors such as radiation cooling, subsidence of air, advection of warm air, and the presence of an inversion layer.**
 
 <p align="center"><img src="pwonlyias/images/pw_geography_q71_img1.webp" alt="Thermal inversion" /></p>
 
@@ -11557,7 +11557,7 @@ Source Question: Major hot deserts in the northern hemisphere are located betwee
 
 ### Introduction
 
-: **Hot deserts are typically found in the subtropical regions of the world, with the majority located in the northern hemisphere. Interestingly, they are mostly located between the latitudes of 20-30 degrees north and on the western side of the Continents.** Body: **<p align="center"><img src="pwonlyias/images/pw_geography_q42_img1.webp" alt="hot deserts in the northern" /></p>**
+**Hot deserts are typically found in the subtropical regions of the world, with the majority located in the northern hemisphere. Interestingly, they are mostly located between the latitudes of 20-30 degrees north and on the western side of the Continents.** Body: **<p align="center"><img src="pwonlyias/images/pw_geography_q42_img1.webp" alt="hot deserts in the northern" /></p>**
 
 **Various factors of geographical location:**
 - **Global Wind Patterns:** The Earth’s atmospheric circulation pattern, also known as **the Hadley Cell**, plays a crucial role in the formation of deserts. The hot, moist air rises at the equator and travels towards the poles, then cools and descends around **20-30 degrees** north and south of the equator, creating arid conditions in those regions. E.g Azizia, Libya.
@@ -12199,7 +12199,7 @@ Source Question: Describe the characteristics and types of primary rocks.
 
 ### Introduction
 
-:** Primary rock, also known as igneous rock, is formed through the solidification of molten material, such as magma or lava. It is characterized by its crystalline structure and diverse mineral composition. Primary rocks provide valuable insights into the Earth’s geological history and are essential components of the rock cycle.
+** Primary rock, also known as igneous rock, is formed through the solidification of molten material, such as magma or lava. It is characterized by its crystalline structure and diverse mineral composition. Primary rocks provide valuable insights into the Earth’s geological history and are essential components of the rock cycle.
 
 **Body:**
 - **Type of Primary Rock:** **Granite:** A **coarse-grained** intrusive rock composed of quartz, feldspar, and mica, widely used in construction.
@@ -12542,7 +12542,7 @@ Source Question: Briefly mention the alignment of major mountain ranges of the w
 
 ### Introduction
 
-:** The major mountain ranges of the world are aligned along tectonic plate boundaries, where the movement of the Earth’s crust has resulted in the formation of large mountainous regions. The alignment of these mountain ranges can have a significant impact on local weather conditions, influencing temperature, precipitation, and wind patterns.
+** The major mountain ranges of the world are aligned along tectonic plate boundaries, where the movement of the Earth’s crust has resulted in the formation of large mountainous regions. The alignment of these mountain ranges can have a significant impact on local weather conditions, influencing temperature, precipitation, and wind patterns.
 
 <p align="center"><img src="pwonlyias/images/pw_geography_q570_img1.webp" alt="major mountain ranges " /></p>
 
@@ -12904,7 +12904,7 @@ Source Question: Discuss the geophysical characteristic of the Circum- Pacific z
 
 ### Introduction
 
-: **The Circum-Pacific Zone, also known as the** Ring of Fire **, is a region surrounding the Pacific Ocean characterized by high seismic and volcanic activity.**
+**The Circum-Pacific Zone, also known as the** Ring of Fire **, is a region surrounding the Pacific Ocean characterized by high seismic and volcanic activity.**
 
 <p align="center"><img src="pwonlyias/images/pw_geography_q494_img1.webp" alt="Pacific Zone" /></p>
 
@@ -13201,7 +13201,7 @@ Source Question: Why are the world’s fold mountain systems located along the m
 
 ### Introduction
 
-: **Fold mountains are formed by the folding and uplift of rock layers due to tectonic plate movements. The collision of two continental plates, or the subduction of an oceanic plate beneath a continental plate, can create compressional forces that cause the Earth’s crust to buckle and fold, resulting in the formation of fold mountains.** Body: ****
+**Fold mountains are formed by the folding and uplift of rock layers due to tectonic plate movements. The collision of two continental plates, or the subduction of an oceanic plate beneath a continental plate, can create compressional forces that cause the Earth’s crust to buckle and fold, resulting in the formation of fold mountains.** Body: ****
 
 **The world’s fold mountain systems are located along the margins of continents due to the following reasons:**
 - **Plate Tectonics:** Fold mountains are formed by the collision or convergence of tectonic plates. When continental plates collide, the intense compressional forces cause the crust to buckle, fold, and uplift, leading to the formation of mountain ranges along the plate boundaries.
@@ -13306,7 +13306,7 @@ Source Question: There is no formation of deltas by rivers of the western Ghat. 
 
 ### Introduction
 
-: **Deltas are landforms that occur at the mouth of rivers where they meet a body of standing water, sea or lake. They are typically formed when the river deposits sediment as it flows into the standing water, creating a fan-shaped pattern of land.** Body: ****
+**Deltas are landforms that occur at the mouth of rivers where they meet a body of standing water, sea or lake. They are typically formed when the river deposits sediment as it flows into the standing water, creating a fan-shaped pattern of land.** Body: ****
 
 **Western Ghats no deltas due to several reasons:**
 - **Steep Gradient:** The rivers of the western Ghats have a steep gradient, which means that they flow rapidly and do not deposit sediment as readily as rivers with a gentler gradient.
@@ -13381,7 +13381,7 @@ Source Question: What do you understand about the theory of continental drift? D
 
 ### Introduction
 
-: **The theory of continental drift was proposed by Alfred Wegener in 1912, but it was not widely accepted until the 1950s. Continental drift suggests that the Earth’s continents were once joined together as a single landmass called Pangaea, which began to break apart around 200 million years ago, and have been moving away from each other since then.** Body: ****
+**The theory of continental drift was proposed by Alfred Wegener in 1912, but it was not widely accepted until the 1950s. Continental drift suggests that the Earth’s continents were once joined together as a single landmass called Pangaea, which began to break apart around 200 million years ago, and have been moving away from each other since then.** Body: ****
 **Theory based on evidence:** <p align="center"><img src="pwonlyias/images/pw_geography_q73_img1.webp" alt="continental drift" /></p>
 
 - **Fit of the continents:** The coastlines of many continents fit together like puzzle pieces, suggesting that they were once part of a larger landmass. **Example**: - South American and African plate.
@@ -13505,7 +13505,7 @@ Source Question: Explain the formation of thousand of islands in Indonesian and 
 
 ### Introduction
 
-: **The Indonesian and Philippine archipelagos are renowned for their thousands of islands. The formation of these islands is a result of complex geological processes that have taken place over millions of years. Understanding the mechanisms behind the formation of these islands is crucial for developing strategies to mitigate the potential hazards associated with natural phenomena in these regions.** Body: ****
+**The Indonesian and Philippine archipelagos are renowned for their thousands of islands. The formation of these islands is a result of complex geological processes that have taken place over millions of years. Understanding the mechanisms behind the formation of these islands is crucial for developing strategies to mitigate the potential hazards associated with natural phenomena in these regions.** Body: ****
 
 **Plate Tectonics and Volcanism:**
 - **The Role of Plate Tectonics:** The islands of Indonesia and the Philippines are located along the Pacific Ring of Fire, a region characterized by active volcanoes and frequent earthquakes. This region is also the site of intense plate tectonic activity, where several tectonic plates collide and interact with each other.
@@ -13843,7 +13843,7 @@ Source Question: What characteristic can be assigned to monsoon climate that suc
 
 ### Introduction
 
-: **Monsoon climate is a distinct climate pattern that prevails in several regions across the world. This climate is characterized by seasonal changes in wind patterns, which result in alternating wet and dry seasons. The monsoon climate plays a crucial role in supporting agricultural production and food security, particularly in monsoon Asia, where over 50% of the world’s population resides.** Body: ****
+**Monsoon climate is a distinct climate pattern that prevails in several regions across the world. This climate is characterized by seasonal changes in wind patterns, which result in alternating wet and dry seasons. The monsoon climate plays a crucial role in supporting agricultural production and food security, particularly in monsoon Asia, where over 50% of the world’s population resides.** Body: ****
 
 **Characteristics of monsoon climate:**
 - **Seasonal rainfall:** One of the defining features of monsoon climate is the seasonal rainfall patterns. During the wet season, which typically lasts from June to September, monsoon Asia experiences heavy rainfall, which can be as high as 90% of the region’s annual precipitation. This rainfall is critical for supporting agricultural production and replenishing water resources, which are essential for food security.
@@ -13979,7 +13979,7 @@ Source Question: How far do you agree that the behavior of the Indian monsoon ha
 
 ### Introduction
 
-:** The Indian monsoon, one of the most significant weather phenomena in South Asia, is critical for the country’s agriculture, economy, and livelihoods. With climate change and human activities the monsoon pattern has changed.
+** The Indian monsoon, one of the most significant weather phenomena in South Asia, is critical for the country’s agriculture, economy, and livelihoods. With climate change and human activities the monsoon pattern has changed.
 
 There is increasing evidence to suggest that human activities are affecting the behavior of the Indian monsoon:-
 
@@ -14181,7 +14181,7 @@ Source Question: How do ocean currents and water masses differ in their impact o
 
 ### Introduction
 
-:** Ocean currents are continuous streams of water that flow in specific directions and paths. They can be cold or warm currents and exist on the ocean’s surface or deep within it.
+** Ocean currents are continuous streams of water that flow in specific directions and paths. They can be cold or warm currents and exist on the ocean’s surface or deep within it.
 
 Water masses refer to distinct bodies of water characterized by their temperature, salinity, and density. Water masses, like the North Atlantic Deep Water found in the Norwegian Sea, differ from ocean currents as they represent large volumes of water with consistent properties rather than continuous flowing streams.
 
@@ -14385,7 +14385,7 @@ Source Question: What are the consequences of spreading ‘Dead Zone’ on marin
 
 ### Introduction
 
-: **A Dead Zone is an area of the ocean with low or no oxygen levels, where marine life cannot survive. The main cause of Dead Zones is eutrophication, the process by which excessive nutrients, such as nitrogen and phosphorus, enter coastal waters from agricultural and industrial sources, causing an overgrowth of algae. When these algae die, they sink to the bottom and decompose, depleting the oxygen in the water.** Body: ****
+**A Dead Zone is an area of the ocean with low or no oxygen levels, where marine life cannot survive. The main cause of Dead Zones is eutrophication, the process by which excessive nutrients, such as nitrogen and phosphorus, enter coastal waters from agricultural and industrial sources, causing an overgrowth of algae. When these algae die, they sink to the bottom and decompose, depleting the oxygen in the water.** Body: ****
 
 **Consequences of Dead Zones on marine ecosystems:**
 - **Loss of Marine Life:** Dead Zones can cause significant losses of marine life, as oxygen-deprived fish, crabs, and other organisms suffocate and die. These organisms are crucial to the food chain, and their loss can have cascading effects throughout the ecosystem.
@@ -14521,7 +14521,7 @@ Source Question: Account for variations in oceanic salinity and discuss its mult
 
 ### Introduction
 
-: **Oceanic salinity, or the concentration of salt in seawater, varies across the world’s oceans due to a range of factors. These variations can have far-reaching impacts on ocean circulation, marine ecosystems, and climate patterns. The average salinity of the water body of the oceans is 35 parts per thousand.** Body: ****
+**Oceanic salinity, or the concentration of salt in seawater, varies across the world’s oceans due to a range of factors. These variations can have far-reaching impacts on ocean circulation, marine ecosystems, and climate patterns. The average salinity of the water body of the oceans is 35 parts per thousand.** Body: ****
 
 **Reasons for oceanic salinity and its multi-dimensional effects:**
 - **Precipitation:** Regions with high precipitation rates tend to have lower salinity levels because freshwater from rain dilutes the saltwater in the ocean. On the other hand, regions with low precipitation rates have higher salinity levels.
@@ -14916,7 +14916,7 @@ Source Question: What are the forces that influence ocean currents? Describe the
 
 ### Introduction
 
-:** Ocean currents are the continuous, directed movements of seawater. They play an essential role in the earth’s climate and weather patterns, as well as in the distribution of marine life.
+** Ocean currents are the continuous, directed movements of seawater. They play an essential role in the earth’s climate and weather patterns, as well as in the distribution of marine life.
 
 <p align="center"><img src="pwonlyias/images/pw_geography_q693_img1.webp" alt="warm & cold currents" /></p>
 
@@ -15788,7 +15788,7 @@ Source Question: Discuss the meaning of color-coded weather warnings for cyclone
 
 ### Introduction
 
-:**
+**
 **India Meteorological Department (IMD)** issues color-coded weather warnings for cyclone-prone areas in India to alert people about the potential danger from cyclones. These color codes represent the intensity of the cyclone and the likely impact on people and property in the affected areas.
 
 
@@ -15901,7 +15901,7 @@ Source Question: Tropical cyclones are largely confined to the South China Sea, 
 
 ### Introduction
 
-: **Tropical cyclones, also known as hurricanes or typhoons, are severe weather events that can cause devastating damage to coastal communities. These storms are largely confined to specific regions of the world, including the South China Sea, Bay of Bengal, and Gulf of Mexico.** Body: **<p align="center"><img src="pwonlyias/images/pw_geography_q156_img1.webp" alt="Tropical cyclones" /></p>**
+**Tropical cyclones, also known as hurricanes or typhoons, are severe weather events that can cause devastating damage to coastal communities. These storms are largely confined to specific regions of the world, including the South China Sea, Bay of Bengal, and Gulf of Mexico.** Body: **<p align="center"><img src="pwonlyias/images/pw_geography_q156_img1.webp" alt="Tropical cyclones" /></p>**
 
 **Important of geographic limitation:**
 - **Warm sea surface temperature [SST]:** Tropical cyclones require warm ocean waters of at least 26.5°C to develop and strengthen. **The South China Sea, Bay of Bengal, and Gulf of Mexico** have warm sea surface temperatures throughout the year, making them ideal regions for the formation and strengthening of tropical cyclones.
@@ -16014,7 +16014,7 @@ Source Question: The recent cyclone on the east coast of India was called “Pha
 
 ### Introduction
 
-: **Tropical cyclones are named differently across the world based on a set of guidelines established by regional meteorological agencies. The naming conventions aim to provide quick identification of storms, assist in communication, and raise awareness among people in the affected areas.** Body: ****
+**Tropical cyclones are named differently across the world based on a set of guidelines established by regional meteorological agencies. The naming conventions aim to provide quick identification of storms, assist in communication, and raise awareness among people in the affected areas.** Body: ****
 **Tropical cyclones are named across the world:** <p align="center"><img src="pwonlyias/images/pw_geography_q61_img1.webp" alt="Tropical cyclones " /></p>
 
 - **Bay of Bengal and Arabian Sea:** The India Meteorological Department **[IMD]** names tropical cyclones in the Bay of Bengal and the Arabian Sea. They use a list of names that rotate every few years and include names contributed by **13 countries**.
@@ -16155,7 +16155,7 @@ Source Question: Differentiate the causes of landslides in the Himalayan region 
 
 ### Introduction
 
-:** A landslide is a natural disaster that occurs when a mass of earth or rock suddenly moves downhill under the influence of gravity. It is common in many regions around the world, including the Himalayan region and the Western Ghats of India.
+** A landslide is a natural disaster that occurs when a mass of earth or rock suddenly moves downhill under the influence of gravity. It is common in many regions around the world, including the Himalayan region and the Western Ghats of India.
 
 <p align="center"><img src="pwonlyias/images/pw_geography_q580_img1.webp" alt="location of field sampling plots" /></p>
 
@@ -16328,7 +16328,7 @@ Source Question: “The Himalayas are highly prone to landslides.” Discuss the
 
 ### Introduction
 
-: **The Himalayas is the highest mountain range in the world, and has 9 out of 10 of the world’s highest peaks. One of the most geologically active mountain ranges in the world, it is highly prone to landslides. Landslides occur due to various reasons and can cause significant damage to life, property, and infrastructure.** Body: **<p align="center"><img src="pwonlyias/images/pw_geography_q293_img1.webp" alt="geographical boundaries" /></p>**
+**The Himalayas is the highest mountain range in the world, and has 9 out of 10 of the world’s highest peaks. One of the most geologically active mountain ranges in the world, it is highly prone to landslides. Landslides occur due to various reasons and can cause significant damage to life, property, and infrastructure.** Body: **<p align="center"><img src="pwonlyias/images/pw_geography_q293_img1.webp" alt="geographical boundaries" /></p>**
 
 **Causes of Landslides in the Himalayas:**
 - **Geological Composition:** The Himalayas are geologically unstable due to tectonic plate movements, resulting in frequent earthquakes and landslides. E.g
@@ -16480,7 +16480,7 @@ Source Question: Bring Out the causes for more frequent landslide in the Himalay
 
 ### Introduction
 
-: **Landslides are a common natural phenomenon in mountainous regions, causing significant damage to property and human lives. The Himalayas and Western Ghats are two prominent mountain ranges in India. The Himalayas witness more frequent landslides than the Western Ghats.** Body: ****
+**Landslides are a common natural phenomenon in mountainous regions, causing significant damage to property and human lives. The Himalayas and Western Ghats are two prominent mountain ranges in India. The Himalayas witness more frequent landslides than the Western Ghats.** Body: ****
 
 **Causes for more frequent landslides in the Himalayas than in the Western Ghats:**
 - **Geology:** The Himalayas are geologically **young mountains** formed by the collision of the Indian and Eurasian tectonic plates. They have **steep slopes**, and their rocks are less stable and prone to landslides. The Western Ghats are older mountains formed by volcanic activity, and their slopes are gentler and more stable.

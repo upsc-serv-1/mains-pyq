@@ -1983,13 +1983,11 @@ Source Question: Right to Privacy is intrinsic to life and liberty and is inhere
 
 ### Introduction
 
-:
 
 The **Right to Privacy** is intrinsic to the concepts of **life** and **personal liberty** under **Article 21.**
 
 ### Body
 
-:
 
 **The Right to Privacy is Intrinsic to Life and Liberty**
 
@@ -2019,7 +2017,6 @@ The **Right to Privacy** is intrinsic to the concepts of **life** and **personal
 
 ### Conclusion
 
-:
 
 While DNA testing for paternity can be allowed, it must adhere to privacy rights, legal safeguards, and medical ethics. Courts must carefully balance these competing rights based on the circumstances, ensuring privacy and justice.
 
@@ -3457,7 +3454,6 @@ Source Question: Discuss India as a secular state and compare with the secular p
 
 ### Introduction
 
-:
 
 The concept of secularism in India and the United States differs significantly in both theory and practice.
 
@@ -3481,7 +3477,6 @@ The concept of secularism in India and the United States differs significantly i
 
 ### Conclusion
 
-:
 
 Both India and the US encounter challenges in managing the interplay between religious influence in politics and safeguarding individual rights. Ultimately, the success of secularism in promoting harmony and democracy relies on the steadfast commitment to uphold constitutional principles in both countries.
 
@@ -9252,13 +9247,11 @@ Source Question: "The growth of the cabinet system has practically resulted in t
 
 ### Introduction
 
-:
 
 The cabinet system in India has evolved significantly, emphasising **collective responsibility** and the Prime Minister as **"first among equals.** " However, despite **not being explicitly mentioned in the Constitution**, this evolution has sometimes marginalised Parliamentary supremacy.
 
 ### Body
 
-:
 
 - **Concentration of Power in the Executive:** The cabinet centralises power in the hands of the **Prime Minister** and key ministers. **Justice Nagarathna's 2023 dissent** highlighted the unlawfulness of demonetisation without Parliament's approval.
 
@@ -9270,7 +9263,6 @@ The cabinet system in India has evolved significantly, emphasising **collective 
 
 ### Conclusion
 
-:
 
 While the cabinet system has changed power dynamics, parliamentary supremacy is constitutionally protected with Parliament **retaining essential powers like no-confidence motions (Article 75)**. The repeal of **farm laws in 2021** shows that Parliament can effectively check executive power, highlighting the need for balance between governance and oversight.
 
@@ -14239,7 +14231,6 @@ Source Question: Explain and distinguish between Lok Adalats and Arbitration Tri
 
 ### Introduction
 
-:
 
 - Lok Adalats are statutory forums under the Legal Services Authorities Act, 1987, functioning as part of the Alternative Dispute Resolution (ADR) mechanism.
 
@@ -14247,7 +14238,7 @@ Source Question: Explain and distinguish between Lok Adalats and Arbitration Tri
 
 ### Body
 
-: **Difference Between Lok Adalats and Arbitration Tribunals**
+**Difference Between Lok Adalats and Arbitration Tribunals**
 | **Aspect** | **Lok Adalats** | **Arbitration Tribunals** |
 | --- | --- | --- |
 | Nature of Dispute Resolution | Focuses on amicable settlements through mutual agreement. | Resolves disputes based on legal adjudication, resulting in a binding decision. |
@@ -14848,7 +14839,6 @@ Source Question: Explain the reasons for the growth of public interest litigatio
 
 ### Introduction
 
-:
 
 A Public Interest Litigation (PIL) is a legal action initiated in a court of law to protect the interests of the public or a specific group, rather than individual rights.
 
@@ -26183,13 +26173,11 @@ Source Question: Public charitable trusts have the potential to make India's dev
 
 ### Introduction
 
-:
 
 Public charitable trusts (PCTs) are non-profit entities established under the **Indian Trusts Act of 1982** to serve the public good, addressing various socio-economic issues like healthcare, education, poverty alleviation, disaster relief, and environmental conservation.
 
 ### Body
 
-:
 
 **PCTs can make India's development more inclusive by:**
 
@@ -26205,7 +26193,6 @@ Public charitable trusts (PCTs) are non-profit entities established under the **
 
 ### Conclusion
 
-:
 
 Limited funding, bureaucratic hurdles, and reliance on donors can hinder charitable trusts' impact. Enhancing regulations and transparency, along with increased government collaboration, can boost their effectiveness in promoting inclusive growth and empowering marginalized communities.
 
@@ -26645,7 +26632,7 @@ Source Question: The Citizens&#8217; charter has been a landmark initiative in e
 | **Core Demand of the Question:** ● Discuss how Citizens’ charter has been a landmark initiative in ensuring citizen-centric administration ● Identify the factors hindering the realisation of its full potential ● Suggest measures to overcome them |
 | --- |
 
-: **The** Citizen’s Charter **is a** formal document **that delineates the** services **and** standards **an organisation pledges to provide to its citizens. Introduced to improve accountability and service quality in public administration, it represents a significant advancement in** citizen-centric governance **by promoting transparency, timeliness, and efficiency in public services.**
+**The** Citizen’s Charter **is a** formal document **that delineates the** services **and** standards **an organisation pledges to provide to its citizens. Introduced to improve accountability and service quality in public administration, it represents a significant advancement in** citizen-centric governance **by promoting transparency, timeliness, and efficiency in public services.**
 
 **Citizens’ charter as a landmark initiative in ensuring citizen-centric administration**
 - **Quality of Service:** The Citizens’ Charter aims to deliver **high-quality** public services through transparent communication and accountability, allowing **public trust** and **satisfaction** in government operations. **For example:Indian Railways’** commitment to timely train services and clean facilities reflects its dedication to quality service.
@@ -28547,7 +28534,7 @@ Source Question: e-governance is not just about the routine application of digit
 
 ### Introduction
 
-: **E-governance** is the use of **digital technology** by governments to provide services to citizens. E.g. DigiLocker, Jeevan Pramaan, Mobile Seva.
+**E-governance** is the use of **digital technology** by governments to provide services to citizens. E.g. DigiLocker, Jeevan Pramaan, Mobile Seva.
 
 The **interactive service model of e-governance** transforms **one-way service delivery** into a dialogue, allowing citizens to voice concerns and participate in decision-making.
 
@@ -28556,7 +28543,7 @@ The **interactive service model of e-governance** transforms **one-way service d
 
 ### Body
 
-: **Role of Interactive Service Model(ISM) in Ensuring Transparency and Accountability:** - **Two-way Communication:** Initiatives like the **MyGov platform** in India enable direct dialogue between citizens and the government, fostering engagement and feedback.
+**Role of Interactive Service Model(ISM) in Ensuring Transparency and Accountability:** - **Two-way Communication:** Initiatives like the **MyGov platform** in India enable direct dialogue between citizens and the government, fostering engagement and feedback.
 
 - **Access to Information:** Portals such as the Right to Information mechanism and the National Portal of India provide citizens with comprehensive updates and information.
 
@@ -28572,7 +28559,6 @@ Although the Interactive Service Model is crucial, its implementation faces chal
 
 ### Conclusion
 
-:
 
 To tackle the challenges of the Interactive Service Model of e-governance, the government must bridge the **digital divide** with **rural connectivity** and **promote digital literacy,** while ensuring data privacy and encouraging bureaucratic reform. This will enhance e-transparency and empower citizens through the effective use of electronic platforms and social media, making services clear and accessible to all.
 
@@ -28582,7 +28568,7 @@ Source Question: e-governance is not just about the routine application of digit
 | **Core Demand of the Question:** ● Discuss role e-governance for ensuring transparency and accountability, beyond the routine application of digital technology in service delivery. ● Discuss the role of the ‘Interactive Service Model of e-governance’ ● Analyse issues associated with the ‘Interactive Service Model of e-governance’ ● Suggest suitable way ahead |
 | --- |
 
-: **
+**
 
 **E-governance** initiatives like **UPI & Digilocker** are revolutionising the relationship between the government and citizens, by going beyond basic conventional norms. On similar lines the **Interactive Service Model of e-governance** enables **two-way communication** between citizens and the government, using ICT to enhance access to services and promote active citizen participation in governance.**
 
@@ -29948,13 +29934,11 @@ Source Question: The Doctrine of Democratic Governance makes it necessary that t
 
 ### Introduction
 
-:
 
 The doctrine of democratic governance is a system where government institutions operate based on democratic processes, rules, and norms, fostering trust between the people and those who govern.
 
 ### Body
 
-:
 
 Democratic governance necessitates certain standards from civil servants for positive public perception:
 
@@ -29984,7 +29968,6 @@ However, challenges like **corruption, bureaucratic inertia,** lack of transpare
 
 ### Conclusion
 
-:
 
 Achieving a positive public perception of civil servants' integrity and commitment requires a **multifaceted approach** that addresses both the **root causes of public distrust** and the strategies to enhance it. Only through sustained efforts to uphold principles of good governance, accountability, and transparency governments can ensure the legitimacy and effectiveness of
 
@@ -36288,7 +36271,6 @@ Source Question: Poverty and malnutrition create a vicious cycle, adversely affe
 
 ### Introduction
 
-:
 
 Human capital refers to the skills and knowledge of individuals that enhance productivity. **Poverty and malnutrition hinder human capital** **formation** by causing poor education outcomes, health issues, and limited opportunities, perpetuating a cycle of intergenerational poverty and reduced economic potential.
 
@@ -36297,7 +36279,6 @@ Human capital refers to the skills and knowledge of individuals that enhance pro
 
 ### Body
 
-:
 
 **Steps to Break the Vicious Cycle**
 
@@ -38266,7 +38247,7 @@ Source Question: Discuss the geopolitical and geostrategic importance of Maldive
 | **Core Demand of the Question** ● Discuss geopolitical and geostrategic importance of Maldives for India with a focus on global trade and energy flows ● Discuss how this relationship affects India’s maritime security and regional stability amidst international competition ● Suggest suitable way ahead |
 | --- |
 
-: **The strategic location of the** Maldives **along** vital maritime routes **underscores its significance for India, particularly in securing global trade and energy flows. During current Indian** External Affairs Minister recent visit **, India and the Maldives signed an agreement on** Unified Payments Interface (UPI) **, strengthening financial ties and highlighting the growing importance of their** economic **and** strategic partnership **in the region.** Geopolitical and Geostrategic Importance of Maldives for India with a Focus on Global Trade and Energy Flows **
+**The strategic location of the** Maldives **along** vital maritime routes **underscores its significance for India, particularly in securing global trade and energy flows. During current Indian** External Affairs Minister recent visit **, India and the Maldives signed an agreement on** Unified Payments Interface (UPI) **, strengthening financial ties and highlighting the growing importance of their** economic **and** strategic partnership **in the region.** Geopolitical and Geostrategic Importance of Maldives for India with a Focus on Global Trade and Energy Flows **
 
 **Geopolitical Importance:**
 - **Major Trade Route Security:** Ensuring the safety of critical maritime routes that facilitate global trade is crucial for India’s economic and strategic interests, especially since **70% of India’s oil imports transit** through these waters. **For example:** Monitoring shipping lanes near the **Eight Degree Channel**, located between the Maldives and India **,** is critical for securing India’s oil imports from the **Middle East.**
@@ -45146,13 +45127,11 @@ Source Question: Terrorism has become a significant threat to global peace and s
 
 ### Introduction
 
-:
 
 The **Global Terrorism Index 2024** notes a **22% rise in terrorism-related deaths globally,** the highest since 2017. In response, the UN Security Council's Counter-Terrorism Committee (CTC) plays a vital role in boosting international cooperation to tackle this issue.
 
 ### Body
 
-:
 
 **Threat of Terrorism to Global Peace and Security:**
 
@@ -45202,7 +45181,7 @@ Source Question: &#8220;Terrorism has become a significant threat to global peac
 | **Core Demand of the Question:** ● Discuss how terrorism has become a significant threat to global peace and security ● Discuss effectiveness of the UN Security Council’s Counter Terrorism Committee (CTC) and associated bodies in addressing and mitigating this threat ● Analyse the challenges faced in counter terrorism efforts ● Suggest suitable way ahead |
 | --- |
 
-:**
+**
 
 **
 

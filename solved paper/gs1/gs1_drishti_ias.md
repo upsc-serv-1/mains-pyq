@@ -153,7 +153,6 @@ The **fusion of dynamic human forms,** intricate detailing, religious themes, an
 
 ### Introduction
 
-:
 
 The transition from the Rig Vedic (1500–1000 BCE) to the Later Vedic (1000–500 BCE) period marked a shift from a nomadic lifestyle to a sedentary agrarian society, leading to profound changes in social structures and livelihoods.
 
@@ -172,7 +171,6 @@ The transition from the Rig Vedic (1500–1000 BCE) to the Later Vedic (1000–5
 
 ### Conclusion
 
-:
 
 The shift from the nomadic, egalitarian society of the Rig Veda to the rigid caste structure and agrarian economy of the later Vedic time led to urbanization in the Ganga Valley, exemplified by the Mahajanapadas.
 
@@ -224,7 +222,6 @@ The Pallavas ruled from the 3rd to the 9th century CE. They were feudatories of 
 
 ### Conclusion
 
-:
 
 The Pallavas of Kanchi laid a rich cultural legacy through their contributions to architecture, sculpture, and literature. Their innovations in temple architecture and patronage of literature not only influenced South Indian art but also had a lasting impact on Indian cultural history.
 
@@ -249,13 +246,11 @@ The Pallavas of Kanchi laid a rich cultural legacy through their contributions t
 
 ### Introduction
 
-:
 
 The Cholas (8th-12th century AD) are remembered as one of the longest ruling dynasties in the southern regions of India. This rule stretched over for over five long centuries where Chola art saw culmination of dravida temple art resulting in the most sophisticated buildings.
 
 ### Body
 
-:
 
 **The uniqueness of Chola temples:**
 
@@ -307,7 +302,6 @@ The Cholas (8th-12th century AD) are remembered as one of the longest ruling dyn
 
 ### Conclusion
 
-:
 
 The Chola Dynasty’s patronage, grand temples, architectural innovations, and support for sculptural art led to UNESCO recognition of their temples as world heritage sites.
 
@@ -1977,11 +1971,10 @@ The French Revolution was not merely a French event but a **global turning point
 
 ### Introduction
 
-: **World War I (WW I), lasted from July 1914 to November 1918,** was fought between the Allied Powers and the Central Powers. While it is often argued that the war was fought to preserve the balance of power in Europe, this perspective only partially explains the complex conditions that led to the conflict.
+**World War I (WW I), lasted from July 1914 to November 1918,** was fought between the Allied Powers and the Central Powers. While it is often argued that the war was fought to preserve the balance of power in Europe, this perspective only partially explains the complex conditions that led to the conflict.
 
 ### Body
 
-:
 
 **Balance of Power as a Cause:**
 
@@ -2007,7 +2000,6 @@ The French Revolution was not merely a French event but a **global turning point
 
 ### Conclusion
 
-:
 
 While the preservation of the balance of power was a significant factor in the outbreak of the First World War, it was not the sole cause. Nationalism, imperialism, economic rivalry, and domestic pressures also played crucial roles.
 
@@ -2537,13 +2529,12 @@ These three concepts of equality, equity, and women's empowerment are foundation
 
 ### Introduction
 
-:
 
 Intercaste marriages in India have seen some increase, especially among castes with socio-economic parity, while interreligious marriages remain relatively rare due to various socio-cultural factors.
 
 ### Body
 
-: **Reasons for the rise in intercaste marriages among castes with socio-economic parity:** - **Urbanisation and education:** The rise of urban culture and improved education has increased societal acceptance of intercaste marriages, with young people prioritizing compatibility over caste.
+**Reasons for the rise in intercaste marriages among castes with socio-economic parity:** - **Urbanisation and education:** The rise of urban culture and improved education has increased societal acceptance of intercaste marriages, with young people prioritizing compatibility over caste.
 
 - In 2023, Bengaluru represented 17.8% of all intercaste marriages in Karnataka.
 
@@ -2561,7 +2552,6 @@ Intercaste marriages in India have seen some increase, especially among castes w
 
 ### Conclusion
 
-:
 
 Intercaste marriages are on the rise in India, but interreligious marriages still encounter significant obstacles due to complexity of factors, indicating a need for greater acceptance and tolerance.
 
@@ -2584,13 +2574,11 @@ Intercaste marriages are on the rise in India, but interreligious marriages stil
 
 ### Introduction
 
-:
 
 A collaborative model involving multi-stakeholder engagement between the Government, NGOs, and private sector, is essential for India’s socio-economic development, aiming to make India a developed nation by 2047.
 
 ### Body
 
-:
 
 **Collaborative Model to Deal With Socio-Economic Issues:**
 
@@ -2609,7 +2597,6 @@ A collaborative model involving multi-stakeholder engagement between the Governm
 
 ### Conclusion
 
-:
 
 Collaboration for collective impact uses diverse models to effectively address Sustainable Development Goals (SDGs) while promoting trust and transparency, making it essential for the socio-economic development of the country.
 
@@ -2664,7 +2651,6 @@ Collaboration for collective impact uses diverse models to effectively address S
 
 ### Conclusion
 
-:
 
 The government has introduced several initiatives to address regional disparity in India, including the **Backward Regions Grant Fund, Pradhan Mantri Gram Sadak Yojana, and the National Rural Livelihoods Mission**. Addressing these disparities is vital for promoting balanced development and ensuring that all regions can share in the benefits of economic progress and opportunities.
 
@@ -2807,7 +2793,6 @@ India's cultural diversity, encompassing various languages, religions, and tradi
 
 ### Body
 
-:
 
 **Correlation Between Cultural Diversity and Socio-Economic Marginality**
 
@@ -4816,7 +4801,6 @@ The term "Demographic Winter" refers to a significant decrease in birth rates, a
 
 ### Body
 
-:
 
 **Causes of Demographic Winter**
 
@@ -4977,7 +4961,6 @@ A twister (tornadoes) is a violent windstorm featuring a twisting, **funnel-shap
 
 ### Body
 
-:
 
 **Factors that lead to frequent occurrence of Twisters in Gulf of Mexico:**
 

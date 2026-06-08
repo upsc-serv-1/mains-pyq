@@ -4358,7 +4358,7 @@ Centralised templates help align standards and scale, but they often miss local 
 | **Core Demand of the Question:** ● Discuss role e-governance for ensuring transparency and accountability, beyond the routine application of digital technology in service delivery. ● Discuss the role of the ‘Interactive Service Model of e-governance’ ● Analyse issues associated with the ‘Interactive Service Model of e-governance’ ● Suggest suitable way ahead |
 | --- |
 
-: **
+**
 
 **E-governance** initiatives like **UPI & Digilocker** are revolutionising the relationship between the government and citizens, by going beyond basic conventional norms. On similar lines the **Interactive Service Model of e-governance** enables **two-way communication** between citizens and the government, using ICT to enhance access to services and promote active citizen participation in governance.**
 
@@ -4454,7 +4454,7 @@ Public charitable trusts are uniquely positioned to fill gaps in public service 
 | **Core Demand of the Question:** ● Discuss how Citizens’ charter has been a landmark initiative in ensuring citizen-centric administration ● Identify the factors hindering the realisation of its full potential ● Suggest measures to overcome them |
 | --- |
 
-: **The** Citizen’s Charter **is a** formal document **that delineates the** services **and** standards **an organisation pledges to provide to its citizens. Introduced to improve accountability and service quality in public administration, it represents a significant advancement in** citizen-centric governance **by promoting transparency, timeliness, and efficiency in public services.**
+**The** Citizen’s Charter **is a** formal document **that delineates the** services **and** standards **an organisation pledges to provide to its citizens. Introduced to improve accountability and service quality in public administration, it represents a significant advancement in** citizen-centric governance **by promoting transparency, timeliness, and efficiency in public services.**
 
 **Citizens’ charter as a landmark initiative in ensuring citizen-centric administration**
 - **Quality of Service:** The Citizens’ Charter aims to deliver **high-quality** public services through transparent communication and accountability, allowing **public trust** and **satisfaction** in government operations. **For example:Indian Railways’** commitment to timely train services and clean facilities reflects its dedication to quality service.
@@ -8340,7 +8340,7 @@ India’s engagement with the Central Asian Republics offers great potential to 
 | **Core Demand of the Question** ● Discuss geopolitical and geostrategic importance of Maldives for India with a focus on global trade and energy flows ● Discuss how this relationship affects India’s maritime security and regional stability amidst international competition ● Suggest suitable way ahead |
 | --- |
 
-: **The strategic location of the** Maldives **along** vital maritime routes **underscores its significance for India, particularly in securing global trade and energy flows. During current Indian** External Affairs Minister recent visit **, India and the Maldives signed an agreement on** Unified Payments Interface (UPI) **, strengthening financial ties and highlighting the growing importance of their** economic **and** strategic partnership **in the region.** Geopolitical and Geostrategic Importance of Maldives for India with a Focus on Global Trade and Energy Flows **
+**The strategic location of the** Maldives **along** vital maritime routes **underscores its significance for India, particularly in securing global trade and energy flows. During current Indian** External Affairs Minister recent visit **, India and the Maldives signed an agreement on** Unified Payments Interface (UPI) **, strengthening financial ties and highlighting the growing importance of their** economic **and** strategic partnership **in the region.** Geopolitical and Geostrategic Importance of Maldives for India with a Focus on Global Trade and Energy Flows **
 
 **Geopolitical Importance:**
 - **Major Trade Route Security:** Ensuring the safety of critical maritime routes that facilitate global trade is crucial for India’s economic and strategic interests, especially since **70% of India’s oil imports transit** through these waters. **For example:** Monitoring shipping lanes near the **Eight Degree Channel**, located between the Maldives and India **,** is critical for securing India’s oil imports from the **Middle East.**
@@ -8424,7 +8424,7 @@ The West’s focus on fostering India as an alternative to China in both supply 
 | **Core Demand of the Question:** ● Discuss how terrorism has become a significant threat to global peace and security ● Discuss effectiveness of the UN Security Council’s Counter Terrorism Committee (CTC) and associated bodies in addressing and mitigating this threat ● Analyse the challenges faced in counter terrorism efforts ● Suggest suitable way ahead |
 | --- |
 
-:**
+**
 
 **
 

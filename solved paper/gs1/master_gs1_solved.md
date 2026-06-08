@@ -10069,7 +10069,7 @@ Source Question: The groundwater potential of the Gangetic valley is on a seriou
 | **Core Demand of the Question** ● Highlight that the groundwater potential of the gangetic valley is on a serious decline. ● Discuss how this decline may affect the food security of India. ● Suggest a Way Ahead |
 | --- |
 
-: **The** Gangetic Valley **plays a pivotal role in India’s total food production. However, this vital region faces a severe decline in groundwater levels due to** over-extraction **and** unsustainable agricultural practices, **jeopardising its ability to sustain crop yields and, consequently, the food security of millions across the nation.**
+**The** Gangetic Valley **plays a pivotal role in India’s total food production. However, this vital region faces a severe decline in groundwater levels due to** over-extraction **and** unsustainable agricultural practices, **jeopardising its ability to sustain crop yields and, consequently, the food security of millions across the nation.**
 
 **Decline in Groundwater Potential of the Gangetic Valley:**
 - **Over-extraction:** Excessive groundwater extraction for irrigation has led to a rapid depletion of aquifers, reducing the overall availability of groundwater.
@@ -17814,7 +17814,6 @@ A twister (tornadoes) is a violent windstorm featuring a twisting, **funnel-shap
 
 ### Body
 
-:
 
 **Factors that lead to frequent occurrence of Twisters in Gulf of Mexico:**
 
@@ -19207,7 +19206,6 @@ Source Question: Underline the changes in the field of society and economy from 
 
 ### Introduction
 
-:
 
 The transition from the Rig Vedic (1500–1000 BCE) to the Later Vedic (1000–500 BCE) period marked a shift from a nomadic lifestyle to a sedentary agrarian society, leading to profound changes in social structures and livelihoods.
 
@@ -19226,7 +19224,6 @@ The transition from the Rig Vedic (1500–1000 BCE) to the Later Vedic (1000–5
 
 ### Conclusion
 
-:
 
 The shift from the nomadic, egalitarian society of the Rig Veda to the rigid caste structure and agrarian economy of the later Vedic time led to urbanization in the Ganga Valley, exemplified by the Mahajanapadas.
 
@@ -20655,7 +20652,6 @@ The Pallavas ruled from the 3rd to the 9th century CE. They were feudatories of 
 
 ### Conclusion
 
-:
 
 The Pallavas of Kanchi laid a rich cultural legacy through their contributions to architecture, sculpture, and literature. Their innovations in temple architecture and patronage of literature not only influenced South Indian art but also had a lasting impact on Indian cultural history.
 
@@ -20809,13 +20805,11 @@ Source Question: Though the great Cholas are no more yet their name is still rem
 
 ### Introduction
 
-:
 
 The Cholas (8th-12th century AD) are remembered as one of the longest ruling dynasties in the southern regions of India. This rule stretched over for over five long centuries where Chola art saw culmination of dravida temple art resulting in the most sophisticated buildings.
 
 ### Body
 
-:
 
 **The uniqueness of Chola temples:**
 
@@ -20867,7 +20861,6 @@ The Cholas (8th-12th century AD) are remembered as one of the longest ruling dyn
 
 ### Conclusion
 
-:
 
 The Chola Dynasty’s patronage, grand temples, architectural innovations, and support for sculptural art led to UNESCO recognition of their temples as world heritage sites.
 
@@ -26507,26 +26500,24 @@ Source Question: Trace the rise and growth of socio-religious reform movements w
 ### Body
 
 **These movements played an essential role in shaping the social, religious, and educational aspects of modern India:**
-- **Young Bengal Movement:** The Young Bengal movement, also known as the Derozians, was founded by Henry Louis Vivian Derozio (1809-1831) in the early 19th century.
- - The movement emerged as a response to the social and religious orthodoxy prevalent in India during the time.
- - The Young Bengal movement aimed to promote Western education, rationalism, and modernity among the Indian youth.
- - The Derozians were deeply influenced by the ideals of liberty, equality, and fraternity.
- - The growth of the Young Bengal movement can be attributed to its members’ active participation in social reform.
- - They challenged social customs like caste discrimination, gender inequality, child marriage, and the practice of Sati.
- - The movement also contributed significantly to the spread of English education, as many Derozians went on to establish schools and colleges to promote modern education in Bengal.
+- **Young Bengal Movement:**
+  - The Young Bengal movement, also known as the Derozians, was founded by Henry Louis Vivian Derozio (1809-1831) in the early 19th century.
+  - The movement emerged as a response to the social and religious orthodoxy prevalent in India during the time.
+  - The Young Bengal movement aimed to promote Western education, rationalism, and modernity among the Indian youth.
+  - The Derozians were deeply influenced by the ideals of liberty, equality, and fraternity.
+  - The growth of the Young Bengal movement can be attributed to its members’ active participation in social reform.
+  - They challenged social customs like caste discrimination, gender inequality, child marriage, and the practice of Sati.
+  - The movement also contributed significantly to the spread of English education, as many Derozians went on to establish schools and colleges to promote modern education in Bengal.
 
-- **Brahmo Samaj:** Brahmo Samaj, another prominent socio-religious reform movement, was founded by Raja Ram Mohan Roy (1772-1833) in 1828.
- - Roy was a visionary social reformer who aimed to reform the traditional Hindu society by blending the best elements of Hinduism with the principles of rationalism and humanism.
-- The Brahmo Samaj movement
-
-**aimed to purify Hinduism by eliminating superstitions, caste discrimination, and other social evils.**
-It also sought to promote monotheism and rationalism in religious practices.
- - The movement emphasized the importance of education, particularly for women, as a means to empower them and uplift their social status.
-- The Brahmo Samaj movement grew under the leadership of other prominent reformers such as
-
-**Debendranath Tagore (1817-1905) and Keshub Chandra Sen (1838-1884).**
-Under Keshub Chandra Sen’s leadership, the Brahmo Samaj further expanded its reach and became a more radical and inclusive movement.
-- Sen’s advocacy for the abolition of caste distinctions, the promotion of women’s education, and his opposition to child marriage and polygamy helped establish the Brahmo Samaj as a powerful force for social reform in India.
+- **Brahmo Samaj:**
+  - Brahmo Samaj, another prominent socio-religious reform movement, was founded by Raja Ram Mohan Roy (1772-1833) in 1828.
+  - Roy was a visionary social reformer who aimed to reform the traditional Hindu society by blending the best elements of Hinduism with the principles of rationalism and humanism.
+  - The Brahmo Samaj movement **aimed to purify Hinduism by eliminating superstitions, caste discrimination, and other social evils.**
+  - It also sought to promote monotheism and rationalism in religious practices.
+  - The movement emphasized the importance of education, particularly for women, as a means to empower them and uplift their social status.
+  - The Brahmo Samaj movement grew under the leadership of other prominent reformers such as **Debendranath Tagore (1817-1905) and Keshub Chandra Sen (1838-1884)**.
+  - Under Keshub Chandra Sen’s leadership, the Brahmo Samaj further expanded its reach and became a more radical and inclusive movement.
+  - Sen’s advocacy for the abolition of caste distinctions, the promotion of women’s education, and his opposition to child marriage and polygamy helped establish the Brahmo Samaj as a powerful force for social reform in India.
 
 
 
@@ -34527,11 +34518,10 @@ Source Question: How far is it correct to say that the First World War was fough
 
 ### Introduction
 
-: **World War I (WW I), lasted from July 1914 to November 1918,** was fought between the Allied Powers and the Central Powers. While it is often argued that the war was fought to preserve the balance of power in Europe, this perspective only partially explains the complex conditions that led to the conflict.
+**World War I (WW I), lasted from July 1914 to November 1918,** was fought between the Allied Powers and the Central Powers. While it is often argued that the war was fought to preserve the balance of power in Europe, this perspective only partially explains the complex conditions that led to the conflict.
 
 ### Body
 
-:
 
 **Balance of Power as a Cause:**
 
@@ -34557,7 +34547,6 @@ Source Question: How far is it correct to say that the First World War was fough
 
 ### Conclusion
 
-:
 
 While the preservation of the balance of power was a significant factor in the outbreak of the First World War, it was not the sole cause. Nationalism, imperialism, economic rivalry, and domestic pressures also played crucial roles.
 
@@ -35100,7 +35089,6 @@ Source Question: What is regional disparity? How does it differ from diversity? 
 
 ### Conclusion
 
-:
 
 The government has introduced several initiatives to address regional disparity in India, including the **Backward Regions Grant Fund, Pradhan Mantri Gram Sadak Yojana, and the National Rural Livelihoods Mission**. Addressing these disparities is vital for promoting balanced development and ensuring that all regions can share in the benefits of economic progress and opportunities.
 
@@ -35272,7 +35260,6 @@ India's cultural diversity, encompassing various languages, religions, and tradi
 
 ### Body
 
-:
 
 **Correlation Between Cultural Diversity and Socio-Economic Marginality**
 
@@ -37000,13 +36987,12 @@ Source Question: Intercaste marriages between castes which have socio-economic p
 
 ### Introduction
 
-:
 
 Intercaste marriages in India have seen some increase, especially among castes with socio-economic parity, while interreligious marriages remain relatively rare due to various socio-cultural factors.
 
 ### Body
 
-: **Reasons for the rise in intercaste marriages among castes with socio-economic parity:** - **Urbanisation and education:** The rise of urban culture and improved education has increased societal acceptance of intercaste marriages, with young people prioritizing compatibility over caste.
+**Reasons for the rise in intercaste marriages among castes with socio-economic parity:** - **Urbanisation and education:** The rise of urban culture and improved education has increased societal acceptance of intercaste marriages, with young people prioritizing compatibility over caste.
 
 - In 2023, Bengaluru represented 17.8% of all intercaste marriages in Karnataka.
 
@@ -37024,7 +37010,6 @@ Intercaste marriages in India have seen some increase, especially among castes w
 
 ### Conclusion
 
-:
 
 Intercaste marriages are on the rise in India, but interreligious marriages still encounter significant obstacles due to complexity of factors, indicating a need for greater acceptance and tolerance.
 
@@ -38465,7 +38450,6 @@ The term "Demographic Winter" refers to a significant decrease in birth rates, a
 
 ### Body
 
-:
 
 **Causes of Demographic Winter**
 
@@ -41536,13 +41520,11 @@ Source Question: In dealing with socio-economic issues of development, what kind
 
 ### Introduction
 
-:
 
 A collaborative model involving multi-stakeholder engagement between the Government, NGOs, and private sector, is essential for India’s socio-economic development, aiming to make India a developed nation by 2047.
 
 ### Body
 
-:
 
 **Collaborative Model to Deal With Socio-Economic Issues:**
 
@@ -41561,7 +41543,6 @@ A collaborative model involving multi-stakeholder engagement between the Governm
 
 ### Conclusion
 
-:
 
 Collaboration for collective impact uses diverse models to effectively address Sustainable Development Goals (SDGs) while promoting trust and transparency, making it essential for the socio-economic development of the country.
 

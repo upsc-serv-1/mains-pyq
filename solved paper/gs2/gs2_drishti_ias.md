@@ -581,7 +581,6 @@ While “ONOE” offers several benefits, its implementation would require const
 
 ### Introduction
 
-:
 
 - Lok Adalats are statutory forums under the Legal Services Authorities Act, 1987, functioning as part of the Alternative Dispute Resolution (ADR) mechanism.
 
@@ -589,7 +588,7 @@ While “ONOE” offers several benefits, its implementation would require const
 
 ### Body
 
-: **Difference Between Lok Adalats and Arbitration Tribunals**
+**Difference Between Lok Adalats and Arbitration Tribunals**
 | **Aspect** | **Lok Adalats** | **Arbitration Tribunals** |
 | --- | --- | --- |
 | Nature of Dispute Resolution | Focuses on amicable settlements through mutual agreement. | Resolves disputes based on legal adjudication, resulting in a binding decision. |
@@ -625,13 +624,11 @@ While “ONOE” offers several benefits, its implementation would require const
 
 ### Introduction
 
-:
 
 The cabinet system in India has evolved significantly, emphasising **collective responsibility** and the Prime Minister as **"first among equals.** " However, despite **not being explicitly mentioned in the Constitution**, this evolution has sometimes marginalised Parliamentary supremacy.
 
 ### Body
 
-:
 
 - **Concentration of Power in the Executive:** The cabinet centralises power in the hands of the **Prime Minister** and key ministers. **Justice Nagarathna's 2023 dissent** highlighted the unlawfulness of demonetisation without Parliament's approval.
 
@@ -643,7 +640,6 @@ The cabinet system in India has evolved significantly, emphasising **collective 
 
 ### Conclusion
 
-:
 
 While the cabinet system has changed power dynamics, parliamentary supremacy is constitutionally protected with Parliament **retaining essential powers like no-confidence motions (Article 75)**. The repeal of **farm laws in 2021** shows that Parliament can effectively check executive power, highlighting the need for balance between governance and oversight.
 
@@ -715,13 +711,11 @@ The CAG improves transparency, accountability, and efficiency in managing public
 
 ### Introduction
 
-:
 
 The **Right to Privacy** is intrinsic to the concepts of **life** and **personal liberty** under **Article 21.**
 
 ### Body
 
-:
 
 **The Right to Privacy is Intrinsic to Life and Liberty**
 
@@ -751,7 +745,6 @@ The **Right to Privacy** is intrinsic to the concepts of **life** and **personal
 
 ### Conclusion
 
-:
 
 While DNA testing for paternity can be allowed, it must adhere to privacy rights, legal safeguards, and medical ethics. Courts must carefully balance these competing rights based on the circumstances, ensuring privacy and justice.
 
@@ -848,7 +841,6 @@ Strengthening federalism needs better dialogue through the Inter-State Council, 
 
 ### Introduction
 
-:
 
 A Public Interest Litigation (PIL) is a legal action initiated in a court of law to protect the interests of the public or a specific group, rather than individual rights.
 
@@ -911,7 +903,6 @@ Though PILs have expanded the ambit of judicial review and have contributed in m
 
 ### Introduction
 
-:
 
 The concept of secularism in India and the United States differs significantly in both theory and practice.
 
@@ -935,7 +926,6 @@ The concept of secularism in India and the United States differs significantly i
 
 ### Conclusion
 
-:
 
 Both India and the US encounter challenges in managing the interplay between religious influence in politics and safeguarding individual rights. Ultimately, the success of secularism in promoting harmony and democracy relies on the steadfast commitment to uphold constitutional principles in both countries.
 
@@ -3463,13 +3453,11 @@ While merging local bodies can improve efficiency, it risks diminishing local id
 
 ### Introduction
 
-:
 
 The doctrine of democratic governance is a system where government institutions operate based on democratic processes, rules, and norms, fostering trust between the people and those who govern.
 
 ### Body
 
-:
 
 Democratic governance necessitates certain standards from civil servants for positive public perception:
 
@@ -3499,7 +3487,6 @@ However, challenges like **corruption, bureaucratic inertia,** lack of transpare
 
 ### Conclusion
 
-:
 
 Achieving a positive public perception of civil servants' integrity and commitment requires a **multifaceted approach** that addresses both the **root causes of public distrust** and the strategies to enhance it. Only through sustained efforts to uphold principles of good governance, accountability, and transparency governments can ensure the legitimacy and effectiveness of
 
@@ -3636,7 +3623,7 @@ The Citizen's Charter has the potential to revolutionize governance by enhancing
 
 ### Introduction
 
-: **E-governance** is the use of **digital technology** by governments to provide services to citizens. E.g. DigiLocker, Jeevan Pramaan, Mobile Seva.
+**E-governance** is the use of **digital technology** by governments to provide services to citizens. E.g. DigiLocker, Jeevan Pramaan, Mobile Seva.
 
 The **interactive service model of e-governance** transforms **one-way service delivery** into a dialogue, allowing citizens to voice concerns and participate in decision-making.
 
@@ -3645,7 +3632,7 @@ The **interactive service model of e-governance** transforms **one-way service d
 
 ### Body
 
-: **Role of Interactive Service Model(ISM) in Ensuring Transparency and Accountability:** - **Two-way Communication:** Initiatives like the **MyGov platform** in India enable direct dialogue between citizens and the government, fostering engagement and feedback.
+**Role of Interactive Service Model(ISM) in Ensuring Transparency and Accountability:** - **Two-way Communication:** Initiatives like the **MyGov platform** in India enable direct dialogue between citizens and the government, fostering engagement and feedback.
 
 - **Access to Information:** Portals such as the Right to Information mechanism and the National Portal of India provide citizens with comprehensive updates and information.
 
@@ -3661,7 +3648,6 @@ Although the Interactive Service Model is crucial, its implementation faces chal
 
 ### Conclusion
 
-:
 
 To tackle the challenges of the Interactive Service Model of e-governance, the government must bridge the **digital divide** with **rural connectivity** and **promote digital literacy,** while ensuring data privacy and encouraging bureaucratic reform. This will enhance e-transparency and empower citizens through the effective use of electronic platforms and social media, making services clear and accessible to all.
 
@@ -4852,13 +4838,11 @@ NCPCR plays a vital role in protecting children’s rights in the digital age. T
 
 ### Introduction
 
-:
 
 Public charitable trusts (PCTs) are non-profit entities established under the **Indian Trusts Act of 1982** to serve the public good, addressing various socio-economic issues like healthcare, education, poverty alleviation, disaster relief, and environmental conservation.
 
 ### Body
 
-:
 
 **PCTs can make India's development more inclusive by:**
 
@@ -4874,7 +4858,6 @@ Public charitable trusts (PCTs) are non-profit entities established under the **
 
 ### Conclusion
 
-:
 
 Limited funding, bureaucratic hurdles, and reliance on donors can hinder charitable trusts' impact. Enhancing regulations and transparency, along with increased government collaboration, can boost their effectiveness in promoting inclusive growth and empowering marginalized communities.
 
@@ -4897,7 +4880,6 @@ Limited funding, bureaucratic hurdles, and reliance on donors can hinder charita
 
 ### Introduction
 
-:
 
 Human capital refers to the skills and knowledge of individuals that enhance productivity. **Poverty and malnutrition hinder human capital** **formation** by causing poor education outcomes, health issues, and limited opportunities, perpetuating a cycle of intergenerational poverty and reduced economic potential.
 
@@ -4906,7 +4888,6 @@ Human capital refers to the skills and knowledge of individuals that enhance pro
 
 ### Body
 
-:
 
 **Steps to Break the Vicious Cycle**
 
@@ -6306,13 +6287,11 @@ India should maintain **proactive diplomatic engagements** with Central Asian na
 
 ### Introduction
 
-:
 
 The **Global Terrorism Index 2024** notes a **22% rise in terrorism-related deaths globally,** the highest since 2017. In response, the UN Security Council's Counter-Terrorism Committee (CTC) plays a vital role in boosting international cooperation to tackle this issue.
 
 ### Body
 
-:
 
 **Threat of Terrorism to Global Peace and Security:**
 
