@@ -314,7 +314,11 @@ Source Question: Give a geographical explanation for the distribution of off-sho
 - **Deltaic and Coastal Sedimentation:** River deltas carry **organic-rich sediments** into the ocean, forming prolific offshore basins with large reserves.
   - **Eg:** Niger Delta, Krishna–Godavari Basin (India).
 - **Sedimentary Troughs and Depressions:** Thick layers of porous rocks overlain by **impervious cap rocks** in troughs trap oil effectively in offshore settings.
-  - **Eg:** Campos Basin (Brazil), South China Sea. **Difference between Onshore and Offshore Oil Reserves** | **Aspect** | **Off-shore Oil Reserves** | **On-shore Oil Reserves** |
+  - **Eg:** Campos Basin (Brazil), South China Sea.
+
+**Difference between Onshore and Offshore Oil Reserves**
+
+| **Aspect** | **Off-shore Oil Reserves** | **On-shore Oil Reserves** |
 | --- | --- | --- |
 | **Location** | Found beneath **continental shelves and deep-sea basins**, formed by marine sedimentation. | Found in **continental sedimentary basins** and **inland plains**, often associated with folded mountains or basins. |
 | **Geological Setting** | Linked to **passive margins, rift basins,** and **deltaic deposits** rich in marine organic matter. **Eg:** North Sea, Gulf of Mexico. | Associated with **foreland basins, continental shelves, and interior basins**. **Eg:** Persian Gulf fields (Saudi Arabia, Iraq), Texas and Siberian plains. |
@@ -322,7 +326,11 @@ Source Question: Give a geographical explanation for the distribution of off-sho
 | **Cost of Exploration** | Very high due to complex technology, offshore platforms, and safety measures. | Lower cost as drilling and transport infrastructure is easier and less risky on land. |
 | **Environmental Impact** | Greater risk of **oil spills, marine pollution, and ecological damage** to coastal ecosystems. | Leads to **land degradation, deforestation, and groundwater contamination**. |
 | **Production Share** | Contributes about **30% of global crude oil output**, increasingly important due to deep-water discoveries. **Eg:** Brazil’s pre-salt fields, West Africa offshore. | Historically dominant, still supplies **major share of global oil**. **Eg:** On-shore fields in Middle East, Russia, USA. |
-| **Technological Dependence** | Heavily reliant on **R&D, subsea pipelines** and **remotely operated vehicles.** | Less dependent on high-end technology. Conventional drilling methods often suffice. | **Conclusion** The distribution of offshore oil reserves underlines geography’s role in g **lobal energy supply**. While these reserves are crucial for energy security, their exploitation must be balanced with **ecological safeguards** and a **gradual shift** towards offshore wind and other renewables for a sustainable energy future.
+| **Technological Dependence** | Heavily reliant on **R&D, subsea pipelines** and **remotely operated vehicles.** | Less dependent on high-end technology. Conventional drilling methods often suffice. |
+
+### Conclusion
+
+The distribution of offshore oil reserves underlines geography’s role in **global energy supply**. While these reserves are crucial for energy security, their exploitation must be balanced with **ecological safeguards** and a **gradual shift** towards offshore wind and other renewables for a sustainable energy future.
 
 1. Explanation_Superkalam:
 Source Question: Give a geographical explanation of the distribution of off-shore oil reserves of the world. How are they different from the on-shore occurrences of oil reserves?
@@ -1617,15 +1625,14 @@ The Ganga River Basin, covering about **27% of India’s geographical area** acr
 
 **Distribution and Density of Population in the Ganga River Basin**
 - **Upper Ganga Basin:**
-
-**Low Density due to Terrain:** Uttarakhand and Himalayan parts of the basin have rugged mountains and steep slopes, restricting agriculture and habitation. Population density in Uttarakhand (2011 Census) is **189 persons/km²**, much below the basin average (Census of India 2011).
-- **Valley Concentrations:** Densities rise in valley towns such as Dehradun ( **550/km²** ) and Haridwar ( **801/km** ²) where flat alluvial terraces and irrigation support settlements.
+  - **Low Density due to Terrain:** Uttarakhand and Himalayan parts of the basin have rugged mountains and steep slopes, restricting agriculture and habitation. Population density in Uttarakhand (2011 Census) is **189 persons/km²**, much below the basin average (Census of India 2011).
+  - **Valley Concentrations:** Densities rise in valley towns such as Dehradun ( **550/km²** ) and Haridwar ( **801/km** ²) where flat alluvial terraces and irrigation support settlements.
 - **Middle Ganga Basin:** 
-- **Very High Densities:** Uttar Pradesh (828/km²) and Bihar (1,102/km²) are among the most densely populated states of India (Census 2011). Fertile plains and water availability explain these concentrations.
-- **Urban–Rural Clusters:** Cities like Kanpur, Prayagraj, Varanasi, and Patna cluster along rivers, creating dense linear settlements.
+  - **Very High Densities:** Uttar Pradesh (828/km²) and Bihar (1,102/km²) are among the most densely populated states of India (Census 2011). Fertile plains and water availability explain these concentrations.
+  - **Urban–Rural Clusters:** Cities like Kanpur, Prayagraj, Varanasi, and Patna cluster along rivers, creating dense linear settlements.
 - **Lower Ganga Basin:** 
-- **Deltaic Concentration:** West Bengal has **1,029/km² density** (Census 2011), with extremely high values in the Ganga–Brahmaputra delta. Flat terrain and fertile soils sustain this intensity.
-- **Urban Regions:** The Kolkata Metropolitan Area (~14.8 million people, Census 2011) stands out as a mega-urban cluster, benefiting from port location and dense transport networks.
+  - **Deltaic Concentration:** West Bengal has **1,029/km² density** (Census 2011), with extremely high values in the Ganga–Brahmaputra delta. Flat terrain and fertile soils sustain this intensity.
+  - **Urban Regions:** The Kolkata Metropolitan Area (~14.8 million people, Census 2011) stands out as a mega-urban cluster, benefiting from port location and dense transport networks.
 
 **Role of Land Resource**
 - **Flat Alluvial Plains:** The extensive plains of UP, Bihar, and West Bengal provide cultivable land, encouraging dense agrarian and urban settlements.
