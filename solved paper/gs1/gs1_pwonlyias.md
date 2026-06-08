@@ -9407,7 +9407,9 @@ UHI can cause various environmental and health issues and its causes include ant
 - India has significant reserves of coal bed methane [CBM], which can be extracted using similar techniques as shale gas.
 - India has the fifth-largest CBM reserves in the world, with an estimated reserve of **2,700 billion cubic meters**.
 
-<p align="center"><img src="images/pw_geography_q40_img1.webp" alt="shale oil & gases" /></p> **Issues Involved in Tapping Shale Oil and Gas Reserves in India:** Despite having substantial reserves, tapping shale oil and gas reserves in India has been slow due to various reasons, including regulatory issues, environmental concerns, and lack of infrastructure:-
+<p align="center"><img src="images/pw_geography_q40_img1.webp" alt="shale oil & gases" /></p> 
+
+**Issues Involved in Tapping Shale Oil and Gas Reserves in India:** Despite having substantial reserves, tapping shale oil and gas reserves in India has been slow due to various reasons, including regulatory issues, environmental concerns, and lack of infrastructure:-
 
 - **The regulatory framework:** for shale gas extraction is not well developed, and the environmental impact of fracking and drilling operations is not fully understood.
 - This has led to concerns about potential **groundwater contamination** and seismic activity.
@@ -9486,7 +9488,7 @@ The location of major hot deserts in the northern hemisphere is a result of comp
 
 ---
 
-## Question 86 (Year: 2013 | Paper: GS 1 | Marks: 5 Marks | Words: 100 Words)
+## Question 303 (Year: 2013 | Paper: GS 1 | Marks: 5 Marks | Words: 100 Words)
 
 **There is no formation of deltas by rivers of the western Ghat. Why?**
 
