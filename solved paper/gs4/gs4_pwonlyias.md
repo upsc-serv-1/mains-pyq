@@ -25,7 +25,7 @@ This file contains the combined solved papers for GS4 subjects in logical order.
 - **War as a tool of geopolitical strategy:** States continue to use war to achieve territorial, political, or security objectives.
 - **Eg:** Russia–Ukraine conflict:**(2022–present), where Russia uses war to assert strategic dominance and resist NATO expansion.**
 - **Military means to secure national interest:** When diplomacy fails, states resort to force to secure vital interests.
-- **Eg:** Israel–Hamas conflict**:(2023–25), where military action was used to protect security interests and negotiate ceasefire terms.**
+- **Eg:** ***Israel–Hamas conflict***: (2023–25), where military action was used to protect security interests and negotiate ceasefire terms.**
 - **Use of force as coercive diplomacy:** War or threat of force is deployed as a bargaining tool to alter adversaries’ behavior.
 - **Eg:** China’s military posturing in the **South China Sea** and **Taiwan Strait** acts as a continuation of diplomacy to assert sovereignty claims and strategic influence. **Limitations in the Present Context**
 - **Nuclear deterrence:** Risk of mutually assured destruction makes large-scale wars irrational.
@@ -6051,8 +6051,13 @@ The principle of the good of an individual being contained in the good of all is
 **Here are some Indian specific examples that illustrate this concept:**
 **Sustainable Agriculture:**
 - Promotion of sustainable farming practices, such as organic farming and agroecology, that prioritize the needs of small-scale farmers and ensure food security while minimizing environmental degradation.
-- **Example:** Sikkim, a state in India, has successfully implemented organic farming practices, reducing dependence on chemical fertilizers and pesticides, and prioritizing the health and well-being of farmers and consumers.**:*Renewable Energy Transition**Embracing renewable energy sources, such as solar and wind power, to meet the energy needs of the growing population while reducing dependence on fossil fuels and mitigating environmental impacts.**
-- **Example:** The state of Gujarat has made significant strides in solar energy production, utilizing its vast solar potential and establishing large-scale solar power projects to meet the energy demands of its residents. **Corporate Social Responsibility (CSR):**
+- **Example:** Sikkim, a state in India, has successfully implemented organic farming practices, reducing dependence on chemical fertilizers and pesticides, and prioritizing the health and well-being of farmers and consumers.
+
+**Renewable Energy Transition:**
+Embracing renewable energy sources, such as solar and wind power, to meet the energy needs of the growing population while reducing dependence on fossil fuels and mitigating environmental impacts.
+- **Example:** The state of Gujarat has made significant strides in solar energy production, utilizing its vast solar potential and establishing large-scale solar power projects to meet the energy demands of its residents.
+
+**Corporate Social Responsibility (CSR):**
 - Encouraging corporations to fulfill their social and environmental responsibilities by giving back to society and minimizing the negative impacts of their operations.
 - **Example:** Tata Group, one of India’s largest conglomerates, has implemented various CSR initiatives, focusing on education, healthcare, and sustainable development, to address societal needs and contribute to the well-being of communities. **Forest Conservation and Tribal Rights:**
 - Balancing the conservation of forests with the protection of indigenous people’s rights, ensuring sustainable livelihoods and preserving biodiversity.

@@ -578,7 +578,7 @@ Addressing persistent high food inflation is essential for ensuring **economic s
 - **RBI’s Focus on Core Inflation:** The RBI focuses on core inflation, excluding food and fuel prices, which can enhance its ability to maintain overall price stability. **For instance:** The strategic focus on controlling **core inflation in 2020**, amidst pandemic-related **supply chain disruptions**, allowed the RBI to implement measures that indirectly eased food inflation pressures.
 - **Intervention in Exchange Rate Management:** The RBI intervenes in the forex market to manage the exchange rate, which can impact the cost of imported food items, especially edible oils and pulses.
   - **For example:** In **2021**, as global oil prices surged, the RBI’s management of the rupee’s exchange rate helped control the cost of imported food products.
-- **Coordination with Fiscal Policy:** Effective control of food inflation requires coordination between RBI’s monetary measures and government fiscal policies, such as subsidies and import duties. **For example**: **Subsidies** for **pulses** in **2022** helped reduce prices, highlighting the need for combined fiscal and monetary strategies. **
+- **Coordination with Fiscal Policy:** Effective control of food inflation requires coordination between RBI’s monetary measures and government fiscal policies, such as subsidies and import duties. **For example**: **Subsidies** for **pulses** in **2022** helped reduce prices, highlighting the need for combined fiscal and monetary strategies.
 
 **Shortcomings of RBI’s Monetary Policy in Controlling Food Inflation:**
 - **Limited Impact on Supply-Side Factors:** Food inflation is driven by supply-side issues like **weather disruptions** and **transport costs**, which monetary policy can’t address effectively. **For example:** Despite RBI’s rate hikes during the **2019 monsoon deficit**, food prices surged due to crop failures.
@@ -1586,7 +1586,9 @@ While experts may differ as to whether the Indian economy has experienced a V-sh
 
 ### Introduction
 
-**GDP is defined as a measure that expresses the economic value of a country’s economic activities. In other words, it is the market value of all the goods and services produced within an economy in a particular period. In 2015, a new series was announced to calculate India’s GDP by upgrading the methodology with new data sources to meet UN standards.** Body ***:
+**GDP is defined as a measure that expresses the economic value of a country’s economic activities. In other words, it is the market value of all the goods and services produced within an economy in a particular period. In 2015, a new series was announced to calculate India’s GDP by upgrading the methodology with new data sources to meet UN standards.**
+
+### Body
 
 **Difference between old and new methodology:**
 - **Change in Base Year:** Prior to 2015, the base year for calculation of GDP was 2004-05. Post 2015, the base year was changed to 2011-12. Change of base year to calculate GDP is done in line with the global exercise to capture economic information accurately.
@@ -3691,7 +3693,9 @@ Overall, the trend towards lower equipment costs and tariffs for solar energy is
 
 ### Introduction
 
-**The food processing industry encompasses a wide range of activities, including the processing, preservation, packaging, and distribution of food products. It is critical to India’s development as it establishes a vital linkage and synergy between the two pillars of the economy, the Industry and Agriculture.** Body ***:
+**The food processing industry encompasses a wide range of activities, including the processing, preservation, packaging, and distribution of food products. It is critical to India’s development as it establishes a vital linkage and synergy between the two pillars of the economy, the Industry and Agriculture.**
+
+### Body
 
 But food processing industries face many challenges especially in marketing and supply chain management.
 

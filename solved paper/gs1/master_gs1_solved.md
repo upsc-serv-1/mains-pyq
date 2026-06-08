@@ -624,7 +624,9 @@ Source Question: Discuss the multi- dimension implications of uneven distributio
 
 ### Body
 
-**The uneven distribution of mineral oil around the world has various implications that affect different dimensions, including economic, political, environmental, and social aspects.** Economic Implications ***:
+**The uneven distribution of mineral oil around the world has various implications that affect different dimensions, including economic, political, environmental, and social aspects.**
+
+**Economic Implications**:
 
 - **Dependence on oil exports:** Countries with significant oil reserves tend to depend heavily on oil exports, which can make their economies vulnerable to price fluctuations, supply disruptions, and changes in global demand.
 - **Resource curse:** Countries that depend solely on oil exports may experience the “resource curse” where the abundance of natural resources can lead to corruption, economic mismanagement, and social instability.
@@ -1341,10 +1343,6 @@ India has significant reserves of uranium and thorium, there are challenges asso
 ### Conclusion
 
 India has significant reserves of uranium, it still relies on imports to meet its requirements. Moreover, the production of nuclear energy raises concerns regarding the safe disposal of nuclear waste. Therefore, the development of alternative sources of energy remains a pressing need.
-
-
-
----
 
 1. Explanation_Rau IAS:
 Source Question: Defying the barriers of age, gender and religion, the Indian women became the torch bearer during the struggle for freedom in India. Discuss. (10 Marks, 150 Words)
@@ -41083,33 +41081,33 @@ Sustainable growth requires balancing economic development with environmental pr
 
 **How Environmental Protection May Conflict with Poor People’s Needs**
 - **Restrictions on Natural Resource Use:** Conservation laws often restrict access to forests, water, and grazing lands.
-  - **Eg:** Forest Rights Act (2006)**: implementation challenges led to eviction threats of tribal families in protected areas.
+  - **Eg:** ***Forest Rights Act (2006)***: implementation challenges led to eviction threats of tribal families in protected areas.
 - **Ban on Traditional Activities:** Environmental protection sometimes bans activities like fishing, shifting cultivation, or mining that support poor households.
   - **Eg:** Bans on ***sand mining in Kerala and Uttar Pradesh*** cut off income for daily-wage laborers.
 - **Displacement due to Conservation Projects:** Creation of national parks and sanctuaries has displaced marginalized groups.
   - **Eg:** The Establishment of ***Kanha National Park*** displaced the ***Baiga tribes*** in Madhya Pradesh.
 - **Higher Costs of Green Transition:** Shifting to renewable or energy-efficient technology can raise upfront costs for poor households.
-  - **Eg:** LPG under Ujjwala Yojana**: reduces biomass use, but refill affordability remains a challenge, leading poor families back to firewood.
+  - **Eg:** ***LPG under Ujjwala Yojana***: reduces biomass use, but refill affordability remains a challenge, leading poor families back to firewood.
 - **Job Loss in Polluting Industries:** Closure of polluting small units impacts informal workers.
   - **Eg:** Delhi’s tanneries and brick kilns closures led to unemployment without alternative livelihoods.
 - **Urban Poor and Informal Housing:** Environmental regulations on riverbanks, wetlands, and forests often target slum settlements.
-  - **Eg:** Demolition of Yamuna floodplain**: settlements in Delhi citing ecological concerns.
+  - **Eg:** ***Demolition of Yamuna floodplain***: settlements in Delhi citing ecological concerns.
 
 **How Sustainable Growth and Environmental Protection Can Support Poor People**
 - **Green Jobs and Renewable Energy:** Expansion of solar and wind sectors creates employment opportunities for rural youth.
   - **Eg:** India’s ***solar sector*** employed over 1.6 lakh workers in 2023 (IRENA).
 - **Improved Health through Pollution Control:** Reduction in biomass burning improves air quality and reduces disease burden.
-  - **Eg:** Ujjwala scheme**: contributed to a fall in household indoor air pollution, lowering respiratory diseases.
+  - **Eg:** ***Ujjwala scheme***: contributed to a fall in household indoor air pollution, lowering respiratory diseases.
 - **Community-based Natural Resource Management:** Empowering locals in resource conservation ensures both livelihoods and sustainability.
-  - **Eg:** Joint Forest Management**: in Odisha improved forest cover while providing NTFP income.
+  - **Eg:** ***Joint Forest Management***: in Odisha improved forest cover while providing NTFP income.
 - **Eco-Tourism as Income Source:** Conservation areas can create livelihood opportunities through tourism.
-  - **Eg:** Kaziranga National Park eco-tourism**: provides jobs to local Assamese communities.
+  - **Eg:** ***Kaziranga National Park eco-tourism***: provides jobs to local Assamese communities.
 - **Sustainable Agriculture Practices:** Promoting millets, organic farming, and micro-irrigation ensures environmental protection with income security.
   - **Eg:** Declaring 2023 as the ***International Year of Millets*** encouraged millet farming, benefitting dryland farmers.
 - **Climate-Resilient Infrastructure:** The poor are most vulnerable to climate change. Building resilience (flood-resistant housing, irrigation facilities) protects both the environment and livelihoods.
   - **Eg:** The ***PM-KUSUM scheme*** provides farmers with solar pumps, reducing diesel dependence.
 - **Circular Economy and Waste-to-Wealth Models:** Waste collection, recycling, and composting provide livelihoods while protecting the environment.
-  - **Eg:** Self-Help Groups in Pune**: run waste segregation and composting units profitably.
+  - **Eg:** ***Self-Help Groups in Pune***: run waste segregation and composting units profitably.
 
 
 
@@ -43240,7 +43238,7 @@ Source Question: Do you think that globalization results in only an aggressive c
 - **Mass Marketing and Brand Influence:** Global corporations aggressively shape consumer desires through targeted advertising.
   - **Eg:** Fashion brands like ***Shein*** release thousands of designs weekly, driving impulse buying among youth.
 - **Fast Fashion and Instant Gratification:** Short product life cycles create overconsumption.
-  - **Eg:** Zara and H&M**: introduce new collections within weeks, fueling throwaway culture.
+  - **Eg:** ***Zara and H&M***: introduce new collections within weeks, fueling throwaway culture.
 - **Cultural Homogenization:** Western consumer brands often dominate over local practices.
   - **Eg:** **McDonald’s** and **Starbucks** are altering **urban food culture in India**, sidelining indigenous cuisines.
 - **Digital Consumerism:** E-commerce platforms enable 24/7 access and discounts, normalizing excessive spending.
@@ -43254,9 +43252,9 @@ Source Question: Do you think that globalization results in only an aggressive c
 - **Economic Growth and Job Creation:** Global integration fosters trade and employment.
   - **Eg:** India’s **IT** and **software services exports** crossed ***$200 billion*** in FY 2023–24, employing millions.
 - **Innovation and Technology Transfer:** Global collaborations enhance scientific advancement.
-  - **Eg:** ISRO–NASA NISAR satellite mission**: symbolises technological synergy.
+  - **Eg:** ***ISRO–NASA NISAR satellite mission***: symbolises technological synergy.
 - **Entrepreneurship and Start-up Ecosystems:** Global capital and ideas support innovation.
-  - **Eg:** Flipkart, Ola**: leveraged foreign investment to scale globally.
+  - **Eg:** ***Flipkart, Ola***: leveraged foreign investment to scale globally.
 - **Cultural Exchange and Inclusivity:** Globalization fosters pluralism.
   - **Eg:** Global spread of ***Yoga *and* Ayurveda*** has strengthened India’s soft power.
 - **Education and Knowledge Access:** Online learning platforms democratize education.
@@ -43457,13 +43455,13 @@ The fast-food industry in India has grown at a CAGR of nearly **18% (2022–23, 
 - **Youth-Centric Demographics:** With **65% of Indians under 35**, youth favour taste, affordability, and novelty over nutrition.
   - **Eg:** McDonald’s ***“Happy Price Menu”*** and KFC’s ***“Krushers”*** are directly targeted at college youth.
 - **Aggressive Marketing & Branding:** Global chains use celebrity endorsements and catchy campaigns that overshadow health messaging.
-  - **Eg:** PepsiCo’s tie-up with IPL**: linked fast food/snacks with cricket fandom.
+  - **Eg:** ***PepsiCo’s tie-up with IPL***: linked fast food/snacks with cricket fandom.
 - **Digital Delivery Platforms:** Apps like ***Swiggy and Zomato*** penetrate Tier-2/3 towns, normalising fast-food access.
   - **Eg:** Swiggy: ***reported** 9,15,000 biryani orders on New Year’s Eve 2023 **.**
 - **Rising Incomes & Lifestyle Aspirations:** Growing disposable incomes sustain fast food as a symbol of modern living.
   - **Eg:** Domino’s India: ***doubled its outlets to** 1,800+ by 2023 **, catering to the aspirational middle classes.**
 - **Westernisation of Food Habits:** Burgers, pizzas, and fried snacks are perceived as symbols of cosmopolitan identity.
-  - **Eg:** Starbucks**: outlets in metros have become urban lifestyle spaces for youth.
+  - **Eg:** ***Starbucks***: outlets in metros have become urban lifestyle spaces for youth.
 - **Policy Gaps in Regulation:** Weak checks on sugar, salt, and trans-fats allow companies to flourish.
   - **Eg:** India lacks a **traffic-light food labelling system,** unlike the UK.
 
@@ -46487,11 +46485,11 @@ Civil services in India embody a distinctive ethos shaped by two complementary p
 
 **How Civil Service Ethos Combines Professionalism with Nationalistic Consciousness**
 - **Meritocratic Recruitment with Constitutional Commitment:** Professionalism begins with a rigorous, merit-based UPSC examination, but the larger purpose is service to the nation.
-  - **Eg:** UPSC**: ensures all-India recruitment cutting across caste, class, and region.
+  - **Eg:** ***UPSC***: ensures all-India recruitment cutting across caste, class, and region.
 - **Neutral Implementation with Democratic Accountability:** Professional ethos requires political neutrality, but it is guided by loyalty to constitutional democracy.
   - **Eg:** IAS/IPS officers during elections function under the ***Election Commission***, ensuring both neutrality and the preservation of democratic rights.
 - **Efficiency in Development with an Inclusive National Vision:** Professionalism emphasizes efficient policy execution, while a nationalistic ethos ensures inclusion of marginalized groups.
-  - **Eg:** Direct Benefit Transfer (DBT)**: combines professional efficiency (leakage reduction) with a nationalistic goal of welfare for the poor.
+  - **Eg:** ***Direct Benefit Transfer (DBT)***: combines professional efficiency (leakage reduction) with a nationalistic goal of welfare for the poor.
 - **Specialized Knowledge Serving Public Interest:** Training equips civil servants with technical expertise, but its application is oriented to national development.
   - **Eg:** Engineers like ***E. Sreedharan*** applied professional skills to projects such as the Delhi Metro, combining efficiency with a vision of national progress.
 - **Crisis Management with Commitment to Society:** Professional crisis-handling is infused with a nationalistic duty to safeguard citizens’ lives.
@@ -49650,19 +49648,19 @@ Smart cities in India aim to **reduce urban poverty** by **improving access to h
 - **Skill Development and Livelihood Creation:** Smart cities converge with **DAY-NULM** (Deendayal Antyodaya Yojana – National Urban Livelihoods Mission) to create jobs.
   - **Eg:** Indore:** smart city linked NULM to street-vendor training and e-rickshaw support.
 - **Improved Service Delivery:** Smart metering, waste collection apps, and e-governance ensure poor households get uninterrupted utilities.
-  - **Eg:** Bhubaneswar: **smart city implemented***24×7 water supply***with household-level meters.**
+  - **Eg:** Bhubaneswar: **smart city implemented 24×7 water supply with household-level meters.**
 - **Accessible Urban Mobility:** Smart cities promote affordable, inclusive transport for low-income groups.
-  - **Eg:** Kochi Smart City**: integrated metro with feeder auto-rickshaw services for daily wage workers.
+  - **Eg:** ***Kochi Smart City***: integrated metro with feeder auto-rickshaw services for daily wage workers.
 
 **Ensuring Distributive Justice in Smart Cities**
 - **Inclusive Urban Planning:** Participatory planning ensures poor communities have a voice.
-  - **Eg:** Bhubaneswar’s Child-Friendly City Plan**: involved slum children in planning safe spaces.
+  - **Eg:** ***Bhubaneswar’s Child-Friendly City Plan***: involved slum children in planning safe spaces.
 - **Equitable Resource Allocation:** Focus on providing basic amenities to underserved areas, not just elite enclaves.
-  - **Eg:** Indore Smart City**: extended 24×7 water supply to slum clusters, reducing inequity.
+  - **Eg:** ***Indore Smart City***: extended 24×7 water supply to slum clusters, reducing inequity.
 - **Transparent Governance:** Use of ICT (apps, grievance portals, dashboards) enhances accountability and fair distribution.
   - Eg:*Surat Smart City’s* e-governance portal allows real-time grievance redressal for poor households.
 - **Environmental Justice:** Cleaner air, sanitation, and waste management improve quality of life for the poorest.
-  - **Eg:** Indore Smart City’s waste segregation system**: benefited slum dwellers working as informal waste pickers.
+  - **Eg:** ***Indore Smart City’s waste segregation system***: benefited slum dwellers working as informal waste pickers.
 - **Gender and Social Equity:** Women, migrants, and vulnerable groups integrated in policy design. ***Bhubaneswar Smart City*** established gender-sensitive public spaces and e-rickshaw support for women vendors.
 - **Integration with Welfare Schemes:** Smart Cities Mission dovetails with PMAY, AMRUT, Swachh Bharat, and NULM to ensure distributive justice.
 
@@ -49813,7 +49811,7 @@ Rural-Urban migration refers to the movement of people from rural areas to urban
 - **Cultural and Social Attractions:** Cities offer richer cultural scenes, entertainment options, and social amenities. **For example**: **Cairo** has vibrant cultural hubs with numerous festivals, museums, and theatres.
 - **Social Safety Nets and Networks:** Migrants are drawn to areas where established communities and social networks can help them with accommodation and employment. **For example**: **Sao Paulo** has strong migrant networks that provide support to newcomers.
 - **Perceived Economic Mobility:** Large cities symbolise success and **upward mobility**, which attract migrants seeking better livelihoods. **For example**: In **New Delhi** and **Mumbai,** many people migrate with the hope of **economic improvement**.
-- **Government and Private Investment:** Cities often receive significant government and corporate investments, boosting job creation and development projects. **For example**: IT hubs like **Bangalore** draw people from smaller towns. **
+- **Government and Private Investment:** Cities often receive significant government and corporate investments, boosting job creation and development projects. **For example**: IT hubs like **Bangalore** draw people from smaller towns.
 
 **Reasons why smaller towns are not attracting migrants compared to large cities in developing countries:**
 - **Limited Job Opportunities:** Smaller towns have fewer industries and businesses, limiting employment prospects. **For example**: Rural areas provide fewer formal jobs, driving residents toward cities like **Lagos** and **New Delhi.**
