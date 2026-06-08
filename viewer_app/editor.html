@@ -53,6 +53,7 @@
     .editor-textarea {
       width: 100%;
       min-height: 350px;
+      flex-grow: 1;
       background-color: var(--bg-primary);
       border: 1px solid var(--border-color);
       border-radius: 12px;
@@ -61,8 +62,9 @@
       font-size: 14px;
       line-height: 1.6;
       color: var(--text-main);
-      resize: vertical;
+      resize: none; /* Disable manual resize since it auto-resizes */
       transition: all 0.3s;
+      overflow-y: hidden; /* Hide textarea scrollbar since it grows */
     }
     
     .editor-textarea:focus {
@@ -79,7 +81,7 @@
       padding: 24px !important; /* 24px padding like website */
       box-shadow: var(--shadow-sm);
       min-height: 350px;
-      max-height: 500px;
+      flex-grow: 1;
       overflow-y: auto;
     }
     

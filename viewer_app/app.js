@@ -1044,10 +1044,16 @@ async function renderAnswer(q, instName) {
   
   // Check if Marked library is available for beautiful rendering
   let renderedHtml = "";
-  if (window.marked && typeof window.marked.parse === "function") {
-    renderedHtml = window.marked.parse(bodyText);
-  } else {
-    // Offline / CDN unavailable fallback markdown parser
+  try {
+    if (window.marked && typeof window.marked.parse === "function") {
+      renderedHtml = window.marked.parse(bodyText);
+    } else if (typeof window.marked === "function") {
+      renderedHtml = window.marked(bodyText);
+    } else {
+      renderedHtml = basicMarkdownParser(bodyText);
+    }
+  } catch (e) {
+    console.error("Markdown parsing error in app, using fallback:", e);
     renderedHtml = basicMarkdownParser(bodyText);
   }
   

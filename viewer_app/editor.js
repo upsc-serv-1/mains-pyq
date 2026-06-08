@@ -386,14 +386,9 @@ async function loadQuestions(scrollToQNum = null) {
 // ==========================================================================
 window.autoResize = function(qNum) {
   const textarea = document.getElementById(`textarea-${qNum}`);
-  const previewDiv = document.getElementById(`preview-${qNum}`);
-  if (textarea && previewDiv) {
+  if (textarea) {
     textarea.style.height = "auto";
     textarea.style.height = textarea.scrollHeight + "px";
-    
-    // Synchronize preview height to match textarea scroll height
-    previewDiv.style.height = textarea.scrollHeight + "px";
-    previewDiv.style.maxHeight = textarea.scrollHeight + "px";
   }
 };
 
@@ -418,15 +413,42 @@ window.updatePreview = function(qNum) {
   });
   
   let html = "";
-  if (window.marked && typeof window.marked.parse === "function") {
-    html = window.marked.parse(text);
-  } else {
-    // fallback plain text conversion
-    html = text.replace(/\n/g, "<br>");
+  try {
+    if (window.marked && typeof window.marked.parse === "function") {
+      html = window.marked.parse(text);
+    } else if (typeof window.marked === "function") {
+      html = window.marked(text);
+    } else {
+      html = basicMarkdownParser(text);
+    }
+  } catch (e) {
+    console.error("Markdown parsing error, using fallback:", e);
+    html = basicMarkdownParser(text);
   }
   
   previewDiv.innerHTML = html;
 };
+
+function basicMarkdownParser(md) {
+  if (!md) return "";
+  let html = md.trim();
+  html = html.replace(/^###\s+(.*?)$/gm, '<h3>$1</h3>');
+  html = html.replace(/^##\s+(.*?)$/gm, '<h2>$1</h2>');
+  html = html.replace(/^#\s+(.*?)$/gm, '<h1>$1</h1>');
+  html = html.replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>');
+  html = html.replace(/^\-\s+(.*?)$/gm, '<li>$1</li>');
+  html = html.replace(/^\*\s+(.*?)$/gm, '<li>$1</li>');
+  html = html.replace(/(<li>.*?<\/li>\n?)+/g, '<ul>$&</ul>');
+  html = html.replace(/^---$/gm, '<hr>');
+  html = html.replace(/^>\s+(.*?)$/gm, '<blockquote>$1</blockquote>');
+  html = html.split('\n\n').map(p => {
+    if (!p.trim().startsWith('<h') && !p.trim().startsWith('<ul') && !p.trim().startsWith('<block') && !p.trim().startsWith('<hr')) {
+      return `<p>${p.trim().replace(/\n/g, '<br>')}</p>`;
+    }
+    return p.trim();
+  }).join('\n');
+  return html;
+}
 
 // ==========================================================================
 // Save Answer back to Local Markdown File
