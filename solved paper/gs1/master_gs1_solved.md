@@ -36251,22 +36251,22 @@ Tribal communities in India are a diverse group, with significant differences in
 ### Body
 
 **But they can be considered to be a single entity on some counts:**
-- **Social Aspects:** 
-- **Endogamy:** Tribal people do not marry outside their group. This maintains their distinct identity.
-- **Distinct identity:** Most of them have a common language, community name, territory, etc., which marks them off from the others.
-- **Spatial Isolation:** They live happily away from the mainstream population.
-- **Economic Aspects:** 
-- **Self-sufficient:** The tribes are mostly self-reliant and have a system for ensuring the satisfaction of their needs outside the impact of the market forces.
-- **Dependent on Forests:** The tribal way of life is aligned with the forests. The tribes are dependent on forests for their life and livelihood.
-- **Deprivation:** Tribal communities in India are generally disadvantaged compared to the non-tribal population in terms of access to education, healthcare, and other basic services.
-- **Political Aspects:** 
-- **Distinct political organization:** Tribes have a distinct organized political authority, rather than the mainstream laws and executive authorities, that looks for their interests and welfare.
-- **Egalitarian values:** There is no caste or class distinction among most tribals. The stratification in society is mostly based on age or gender.
-- **Culture:** 
-- **Worship of a Common Ancestor:** The members of a tribe usually worship a common ancestor and also “Nature” worship is common in them.
-  - **Distinct rituals, festivals, cuisine,**
-- **Legal:** 
-- Constitutional and legal provisions categorize tribes into a single category of **‘Scheduled Tribes’ (ST)** notwithstanding the diversity among them.
+- **Social Aspects:**
+  - **Endogamy:** Tribal people do not marry outside their group. This maintains their distinct identity.
+  - **Distinct identity:** Most of them have a common language, community name, territory, etc., which marks them off from the others.
+  - **Spatial Isolation:** They live happily away from the mainstream population.
+- **Economic Aspects:**
+  - **Self-sufficient:** The tribes are mostly self-reliant and have a system for ensuring the satisfaction of their needs outside the impact of the market forces.
+  - **Dependent on Forests:** The tribal way of life is aligned with the forests. The tribes are dependent on forests for their life and livelihood.
+  - **Deprivation:** Tribal communities in India are generally disadvantaged compared to the non-tribal population in terms of access to education, healthcare, and other basic services.
+- **Political Aspects:**
+  - **Distinct political organization:** Tribes have a distinct organized political authority, rather than the mainstream laws and executive authorities, that looks for their interests and welfare.
+  - **Egalitarian values:** There is no caste or class distinction among most tribals. The stratification in society is mostly based on age or gender.
+- **Culture:**
+  - **Worship of a Common Ancestor:** The members of a tribe usually worship a common ancestor and also “Nature” worship is common in them.
+    - **Distinct rituals, festivals, cuisine,**
+- **Legal:**
+  - Constitutional and legal provisions categorize tribes into a single category of **‘Scheduled Tribes’ (ST)** notwithstanding the diversity among them.
 
 
 
