@@ -1324,7 +1324,9 @@ Source Question: With growing scarcity of fossil fuels, atomic energy is gaining
 
 **The increasing scarcity of fossil fuels has led to a greater reliance on nuclear energy worldwide, and India is no exception. It is crucial to examine the availability of raw materials required for the generation of atomic energy both in India and globally.**
 
-<p align="center"><img src="pwonlyias/images/pw_geography_q89_img1.webp" alt="fossil fuels" /></p> **Uranium reserves:**
+<p align="center"><img src="pwonlyias/images/pw_geography_q89_img1.webp" alt="fossil fuels" /></p> 
+
+**Uranium reserves:**
 
 - India has significant reserves of uranium, a key raw material required for the generation of atomic energy. The country is estimated to have around **70,000 tonnes** of uranium, primarily located in the states of Jharkhand, Andhra Pradesh, and Meghalaya.
 - The uranium reserves in India are considered to be of medium to high-grade, and efforts are being made to increase uranium exploration and mining in the country. Australia, Canada, and Kazakhstan have large uranium reserves and are major producers of uranium, supplying it to countries such as the USA, France, and China. **Thorium reserves:
