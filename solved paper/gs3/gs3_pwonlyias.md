@@ -621,7 +621,6 @@ Addressing persistent high food inflation is essential for ensuring **economic s
 
 **While RBI’s monetary policy helps curb** inflation **, its effect on** food inflation **is limited by supply constraints and global factors. A coordinated approach, including fiscal interventions and agricultural reforms, ensures** food price stability **and** economic resilience. **
 
-**
 
 ---
 
@@ -726,7 +725,6 @@ The **UDAN scheme** has made notable progress in connecting underserved regions,
 | **Core Demand of the Question** ● Elaborate on the factors responsible for the successful implementation of land reforms in some parts of the country. ● Mention the issues faced in other parts of India in land reforms ● Suggest way forward to enhance the implementation of land reforms |
 | --- | **
 
-**
 
 **‘Land belongs to the farmer’** was a powerful slogan that became popular during the early years of India’s efforts to reform agriculture. **Land reforms** have been a critical tool to **alleviate** **poverty**, reduce **inequality**, and ensure **equitable** land distribution. Though the success of these reforms has been uneven, states like **West Bengal** and **Kerala** have effectively implemented land redistribution, transforming the rural landscape.
 
@@ -759,7 +757,6 @@ The **UDAN scheme** has made notable progress in connecting underserved regions,
 
 **Land reforms remain a critical component of** inclusive rural development **in India. Moving forward, a focus on political commitment, legal reforms, technological advancements, and community involvement is essential for ensuring the successful implementation of land reforms. By** modernising land records **and furthering participation, India can transform its agrarian landscape and create a more** equitable society. **
 
-**
 
 ---
 
@@ -805,7 +802,6 @@ The **‘care economy’** and the **‘monetized economy’** are two separate 
 - **Tokenization of Care Work:** Cryptocurrencies like Bitcoin: **provide a framework for tokenization. Implementing a similar structure for care work can allow women to earn tokens that are** redeemable for goods, services, **or even fiat currency.**
 - **Global Care Exchange Programs:** Au pair programs: **have been successful in offering international childcare opportunities. Extending this to other forms of care work can** broaden horizons and enhance earning prospects for women caregiv **
 
-**
 
 
 
@@ -2678,7 +2674,6 @@ Although socio-economic transformation lies at the heart of both NITI Aayog and 
 
 ### Introduction
 
-**
 
 **Protectionism** means the use of tariff and non-tariff barriers to protect the local industry against foreign competition. For instance, U.S.A. had placed 25% tariffs on all steel imports, and 10% on aluminium imports. **Currency Manipulation** occurs when a central bank keeps buying dollars to create artificial scarcity of dollars in the forex markets thereby causing weakening of the local currency. This helps to boost the country’s exports.
 
@@ -3941,7 +3936,6 @@ Although there are challenges, PPPs can help to address the challenges of financ
 
 **Short run implications**
 
-**
 - **It can potentially:** boost the total FDI inflow **in the defence sector, of which a great proportion will be potentially allocated to the setting up of manufacturing units, thereby** accelerating employment **.**
 - The change of the FDI limit to 100% will encourage more established foreign companies to **share their technology** since they can own a controlling stake, thus leading to more FDI opportunities in India.
 - Reduced imports are likely to lead to **greater transparency** with a diminishing role for middlemen.
@@ -4581,7 +4575,6 @@ Thus, tax expenditure is seen as a way to boost development and tax revenue in t
 
 **Thus, FRBM was enacted to institutionalize fiscal prudence and discipline. FRBM Act aimed to achieve fiscal discipline through limits on the Central Government borrowings, debt and deficits, greater transparency in fiscal operations of the Central Government etc.** Salient features of FRBM **
 
-**
 - **Government is:** required to limit the fiscal deficit to 3% of the GDP by March 31, 2021**.
 - Government is required **to limit debt of the central government to 40% of the GDP by the year 2024-25**.
 - It was mandated by the act that the following must be placed along with the Budget documents annually in the Parliament:
@@ -5852,7 +5845,6 @@ Climate change is a pressing issue that requires immediate attention in India. T
 **g:The interlinking of the Ken and Betwa rivers can lead to the submergence of the Panna Tiger Reserve, impacting the wildlife and biodiversity of the area.**
 - **Soil Erosion:** The construction of dams and canals for river linking can lead to soil erosion, which can impact the agricultural productivity of the region. **g: The construction of canals for the Godavari-Krishna river linking project in Andhra Pradesh can lead to soil erosion, impacting the agricultural productivity of the region.**
 
-**
 
 ### Conclusion
 
@@ -6645,7 +6637,6 @@ In essence, the James Webb Space Telescope is set to revolutionize our understan
 
 **It’s somewhat like showing a ‘wanted poster’ of a criminal to a security guard, so they can recognize and apprehend the criminal if they ever encounter them.** Working of Vaccines **
 
-**
 - **Vaccines work:** by training the immune system to recognize and combat specific pathogens.
 - When a vaccine is administered, it stimulates the immune system to produce a response, including the creation of memory cells.
 - These cells remember the pathogen and can mount a quick and effective response if the body encounters the actual pathogen in the future.
@@ -7245,7 +7236,6 @@ The development of nuclear science and technology in India, marked by remarkable
 
 **India’s success in unmanned space missions, such as the Mars Orbiter Mission (MOM) and Chandrayaan, has been commendable. Yet, it has not embarked on a manned space mission so far. The primary challenges for launching a manned space mission are multi-faceted, ranging from technological to logistical.** Body: **<p align="center"><img src="images/pw_science__technology_q347_img1.webp" alt="Mars Orbiter Mission " /></p>** Technological Challenges: **
 
-**
 - **Advanced Technology:** Manned missions require more sophisticated technology than unmanned missions.
 
 - **For example, the development of a safe and reliable crew module:** to support human life in space is a complex task.
@@ -7335,7 +7325,6 @@ It’s important to note, however, that while stem cell therapy holds great pote
 
 **India’s accomplishments in space science and technology have been remarkable, starting with the establishment of ISRO in 1969 and the launch of India’s first satellite, Aryabhata, in 1975. ISRO has since propelled India into a league of nations with advanced space capabilities.** Body: **<p align="center"><img src="images/pw_science__technology_q254_img1.webp" alt="Space Tech" /></p>** Landmark Missions: **
 
-**
 - **Chandrayaan-1 (2008):** Marked India’s first successful lunar mission, which resulted in the groundbreaking discovery of water molecules on the moon, contributing to our understanding of the lunar environment.
 - **Mars Orbiter Mission (2013):** Known as ‘Mangalyaan’, it made India the first Asian nation to reach Mars, and the first globally to succeed on its initial attempt, improving our knowledge of the Martian atmosphere.
 
@@ -7511,7 +7500,6 @@ Robots can sustainably manage prohibitive labor across numerous sectors, enhanci
 
 ### Introduction
 
-**
 
 In the GPS era, Standard Positioning Systems (SPS) offer an accuracy of about 20-30 meters and are primarily used for civilian applications. Precision Positioning Systems (PPS), on the other hand, offer accuracy around 10 meters and are primarily used by the U.S. military and its allies. **In this context, India has undertaken an ambitious project known as the Indian Regional Navigation Satellite System (IRNSS), or NavIC (Navigation with Indian Constellation),** which employs a constellation of just seven satellites to provide comprehensive positioning data to users in India and its vicinity.
 
@@ -8891,7 +8879,6 @@ The threats posed by external state and non-state actors to India’s internal s
 
 **Money laundering, the act of making illegal income appear lawful, has intensified with the rise of digital technologies and globalization. These advancements have eased cross-border transactions and enhanced anonymity, boosting such unlawful practices.** According to the United Nations Office on Drugs and Crime (UNODC), global money laundering represents 2-5% of the world’s GDP, or around $800 billion to $2 trillion each year, posing a severe global concern. **
 
-**
 
 
 ### Body
@@ -8933,7 +8920,6 @@ While emerging technologies and globalization present challenges in the fight ag
 
 ### Introduction
 
-**
 
 In today’s digital age, cyber attacks pose a significant threat to national security. India, with its rapidly expanding digital ecosystem, is particularly vulnerable to cross-border cyber attacks, presenting significant risks to its internal security. A **recent example is the massive power outage in Mumbai in October 2020,** which according to **a study by Recorded Future,** a US-based cyber intelligence firm, c **ould be linked to a China-based threat activity group known as RedEcho.** Such instances underscore the severity and frequency of cyber threats India faces, necessitating robust cyber defense mechanisms.
 
@@ -9199,7 +9185,6 @@ An amalgamation of proactive intelligence, developmental initiatives, cultural s
 
 ### Introduction
 
-**
 
 **Amidst a sharp rise in cybercrimes, with 52,974 cases of cybercrime in 2021, an increase of over 5 per cent from 2020 (50,035 cases) and over 15 per cent from 2019 (44,735 cases),** according to latest National Crime Records Bureau’s (NCRB) ‘Crime In India – 2021’ report, **the Kerala Police initiated the Cyber Dome Project.** This project aims at combatting cyber threats and enhancing cybersecurity. This Public-Private Partnership leverages advanced technology, intelligence, and community engagement to prevent cybercrimes, aid investigations, and raise public awareness about online safety.
 
@@ -9695,7 +9680,6 @@ While cloud hosting provides flexibility, cost-effectiveness, and accessibility,
 
 **The Armed Forces (Special Powers) Act, 1958 (AFSPA) is a legislation that grants special powers to the Indian Armed Forces in what the act terms as “disturbed areas”** in the states of Arunachal Pradesh, Assam, Manipur, Nagaland. It was later extended to Jammu and Kashmir in 1990 due to escalating insurgency. **Recently, the Union Government reduced the footprint of AFSPA,** partially withdrawing it from areas in Assam, Nagaland, and Manipur. **However,** AFSPA still prevails in parts of these states, as well as certain regions of Arunachal Pradesh and Jammu & Kashmir. **
 
-**
 
 
 ### Body

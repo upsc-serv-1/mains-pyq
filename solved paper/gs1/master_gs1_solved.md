@@ -2447,12 +2447,10 @@ Source Question: How does India see its place in the economic space of rising na
 
 **India has been providing technical and financial assistance to African countries, with a focus on infrastructure development, capacity building, and human resource development.** Natural resources **
 
-**
 Africa is rich in natural resources, including minerals, oil, and gas. India, as a rapidly growing economy, needs access to these resources to fuel its own growth.
 
 **India has been investing in the exploration and development of natural resources in Africa.** Trade and investment **
 
-**
 India is Africa’s third-largest trading partner, and bilateral trade has been increasing steadily.
 - India has been investing in various sectors in Africa, including agriculture, mining, infrastructure, and energy.
 
@@ -6912,7 +6910,6 @@ Source Question: The state of Jammu and Kashmir, Himachal Pradesh and Uttarakhan
 
 **Pollution in the region leads to clogging of water bodies.** Infrastructure Strain **
 
-**
 The rapid growth of tourism in Jammu and Kashmir, Himachal Pradesh, and Uttarakhand has put immense strain on the region’s infrastructure, leading to increased congestion, traffic jams, and overcrowding.
 - It has led to **increased air and noise pollution**, affecting the quality of life for local residents and tourists alike.
 - The **inadequate supply of basic services** such as water, sanitation, and waste management has led to further environmental degradation and public health challenges.
@@ -7191,7 +7188,6 @@ According to the **WMO Report 2023**, sea levels are rising at **3.7–3.8 mm** 
 
   - **Eg:** Tuvalu: **residents migrating to** New Zealand **(*world’s first planned migration*)under the **Falepili Union Treaty.**
 
-**
 - **Freshwater contamination:**
 
 **Saltwater intrusion** renders aquifers non-potable.
@@ -13347,7 +13343,6 @@ Mountain Ranges and its Climatic Influence. There are several important mountain
 
 **Influence the** monsoon **winds that bring rainfall to India and other surrounding countries.** The Andes **
 
-**
 It is located in South America, the longest mountain range in the world.
 - The Andes act as a barrier, preventing the movement of moisture from the east and influencing the precipitation patterns in the region.
 - It acts as a rain shadow zone for Atacama deserts.
@@ -13359,7 +13354,6 @@ It is located in South America, the longest mountain range in the world.
 
 **They also give a** rain-shadow effect **to the deserts in Southwest North America.** The Alps **
 
-**
 The Alps, located in Europe.
 - It acts as a barrier, preventing the movement of cold air from the north and influencing the precipitation patterns in the region.
 - The Alps have a significant impact on the temperature and rainfall patterns in neighboring countries such as France, Switzerland, and Italy.
@@ -15917,7 +15911,6 @@ Source Question: What are the forces that influence ocean currents? Describe the
 - **Ocean currents maintain:** ecological balance **by transferring water to areas of less oceanic current and having low fish population to maintain oxygen level and fish in the deficit area. Like** Equatorial Current.
 - **Fishing boats and fleets use ocean currents to:** track and locate **fish, which helps to increase their catch rates.like** Atlantic Drift. **
 
-**
 
 
 
@@ -16707,7 +16700,6 @@ Source Question: Discuss the meaning of color-coded weather warnings for cyclone
 
 ### Introduction
 
-**
 
 **India Meteorological Department (IMD)** issues color-coded weather warnings for cyclone-prone areas in India to alert people about the potential danger from cyclones. These color codes represent the intensity of the cyclone and the likely impact on people and property in the affected areas.
 
@@ -23647,7 +23639,6 @@ Source Question: Assess the importance of the accounts of the Chinese and Arab t
 
 ### Introduction
 
-**
 
 The accounts of Chinese and Arab travelers provide an invaluable perspective on the history of India. These accounts offer a wealth of information about the political, social, economic, and cultural aspects of India during various time periods. Notable travelers such as **Fa-Hien (5th century CE), Hsuan Tsang (7th century CE),** and **Al-Biruni (11th century CE)** have left detailed records of their observations and experiences in India.
 
@@ -25445,7 +25436,6 @@ Source Question: Mahatma Gandhi and Dr. B R Ambedkar, despite having divergent a
 
 **Gandhi’s constructive programs, including education and economic self-sufficiency, were aimed at improving the lives of the downtrodden and promoting harmony among different communities.** Dr. B.R. Ambedkar **
 
-**
 B.R. Ambedkar, a jurist, economist, and social reformer, was a strong advocate for the rights of Dalits and other marginalized groups. He was born into a Dalit family and experienced caste-based discrimination first-hand, which shaped his views on social reform.
 - Ambedkar believed in achieving social justice through legal and constitutional means, f
 
@@ -27197,7 +27187,6 @@ Source Question: Discuss the positive and negative effects of globalization on w
 **Positive effects of globalization on women**
 - **Change in value systems:** Liberal values: **have toned down the patriarchal mindset of Indian society. The belief that women should be homebound has changed. More women are independent and participate in family and societal** decision-making. **
 
-**
 - **More opportunities:** Globalization has undermined the traditional role of women in homemaking, farming, livestock, animal husbandry, handicrafts, handlooms etc and resulted in a relatively better environment for women. Women are able to engage in productive labor outside their house which helps them raise their standard of living and boosts confidence.
 - **Changing role in Family, Marriage, Caste:** Globalization has posed a major challenge to the institution of patriarchy in India. As women take up jobs and achieve social mobility, they have also begun to stand up for their rights. Nuclear families have become more common and marrying within the same caste has become less important.
 - **Rise in access to education and skills:** Different NGOs have come up in India which impart literacy and **vocational skills to women.** These make women capable of improving their life.
@@ -28001,7 +27990,6 @@ The Quit India Movement (QIM), launched on August 8, 1942, was a mass protest de
 
 ### Conclusion
 
-**
 
 The Quit India Movement was the **final nail in the coffin of British imperial rule**, as it crystallized the demand for complete independence and directly influenced the **Cabinet Mission Plan of 1946**, ultimately paving the way for **India’s independence in 1947**.
 
@@ -30605,7 +30593,6 @@ Source Question: Write a critical note on the evolution and significance of the 
 
 ### Introduction
 
-**
 
 The slogan “ **Jai Jawan Jai Kisan”** **(meaning “Hail the Soldier, Hail the Farmer”)** holds immense significance in India’s history and continues to resonate in the nation’s consciousness. It was coined by India’s second Prime Minister, Lal Bahadur Shastri, in 1965 during a period of national crisis. The slogan reflects the importance of soldiers and farmers in ensuring the nation’s security, self-sufficiency, and prosperity.
 
@@ -36474,7 +36461,6 @@ Source Question: Given the diversities among the tribal communities in India, in
 
 ### Introduction
 
-**
 
 According to Census 2011, the tribal population constitutes **around 8.6% of the total population.** Though numerically small, they represent the enormous diversity of India. They are an example of the ethnographic wealth and culture of Indian heritage.
 
@@ -38957,7 +38943,6 @@ Source Question: Discuss the main objectives of Population Education and point o
 
 ### Introduction
 
-**
 
 **Population education** is a form of education that aims to increase awareness and understanding of population-related issues, such as population growth, family planning, reproductive health, and the impact of population on the environment and development.
 
@@ -39265,7 +39250,6 @@ Source Question: Discuss the positive and negative effects of globalization on w
 **Positive effects of globalization on women**
 - **Change in value systems:** Liberal values: **have toned down the patriarchal mindset of Indian society. The belief that women should be homebound has changed. More women are independent and participate in family and societal** decision-making. **
 
-**
 - **More opportunities:** Globalization has undermined the traditional role of women in homemaking, farming, livestock, animal husbandry, handicrafts, handlooms etc and resulted in a relatively better environment for women. Women are able to engage in productive labor outside their house which helps them raise their standard of living and boosts confidence.
 - **Changing role in Family, Marriage, Caste:** Globalization has posed a major challenge to the institution of patriarchy in India. As women take up jobs and achieve social mobility, they have also begun to stand up for their rights. Nuclear families have become more common and marrying within the same caste has become less important.
 - **Rise in access to education and skills:** Different NGOs have come up in India which impart literacy and **vocational skills to women.** These make women capable of improving their life.
@@ -40760,7 +40744,6 @@ Source Question: Discuss the various economic and socio-cultural forces that are
 
 **Feminization refers to increased participation of women in agricultural activities. According to NSSO data,** more than 70% of rural women workers are engaged in agricultural work. **
 
-**
 
 
 ### Body
@@ -45135,7 +45118,6 @@ Source Question: Discuss the positive and negative effects of globalization on w
 **Positive effects of globalization on women**
 - **Change in value systems:** Liberal values: **have toned down the patriarchal mindset of Indian society. The belief that women should be homebound has changed. More women are independent and participate in family and societal** decision-making. **
 
-**
 - **More opportunities:** Globalization has undermined the traditional role of women in homemaking, farming, livestock, animal husbandry, handicrafts, handlooms etc and resulted in a relatively better environment for women. Women are able to engage in productive labor outside their house which helps them raise their standard of living and boosts confidence.
 - **Changing role in Family, Marriage, Caste:** Globalization has posed a major challenge to the institution of patriarchy in India. As women take up jobs and achieve social mobility, they have also begun to stand up for their rights. Nuclear families have become more common and marrying within the same caste has become less important.
 - **Rise in access to education and skills:** Different NGOs have come up in India which impart literacy and **vocational skills to women.** These make women capable of improving their life.
@@ -47778,7 +47760,6 @@ Source Question: Are tolerance, assimilation and pluralism the key elements in t
 
 ### Introduction
 
-**
 
 Indian Secularism is characterized by the recognition of **all religions as equal, i.e “Sarva Dharma Sambhava”.** It does not envisage a strict separation of religion and state as seen in the Western form of secularism. Secularism is an essential feature of the Indian Constitution. The term ‘Secular’ was interpreted in the **S.R. Bommai** case to mean religious tolerance and equal treatment of all religious groups.
 
@@ -49844,7 +49825,6 @@ Source Question: Discuss the positive and negative effects of globalization on w
 **Positive effects of globalization on women**
 - **Change in value systems:** Liberal values: **have toned down the patriarchal mindset of Indian society. The belief that women should be homebound has changed. More women are independent and participate in family and societal** decision-making. **
 
-**
 - **More opportunities:** Globalization has undermined the traditional role of women in homemaking, farming, livestock, animal husbandry, handicrafts, handlooms etc and resulted in a relatively better environment for women. Women are able to engage in productive labor outside their house which helps them raise their standard of living and boosts confidence.
 - **Changing role in Family, Marriage, Caste:** Globalization has posed a major challenge to the institution of patriarchy in India. As women take up jobs and achieve social mobility, they have also begun to stand up for their rights. Nuclear families have become more common and marrying within the same caste has become less important.
 - **Rise in access to education and skills:** Different NGOs have come up in India which impart literacy and **vocational skills to women.** These make women capable of improving their life.

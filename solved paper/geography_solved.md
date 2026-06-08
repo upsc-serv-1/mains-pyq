@@ -15788,7 +15788,6 @@ Source Question: Discuss the meaning of color-coded weather warnings for cyclone
 
 ### Introduction
 
-**
 **India Meteorological Department (IMD)** issues color-coded weather warnings for cyclone-prone areas in India to alert people about the potential danger from cyclones. These color codes represent the intensity of the cyclone and the likely impact on people and property in the affected areas.
 
 

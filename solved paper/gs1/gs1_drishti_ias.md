@@ -1411,7 +1411,6 @@ The Quit India Movement (QIM), launched on August 8, 1942, was a mass protest de
 
 ### Conclusion
 
-**
 
 The Quit India Movement was the **final nail in the coffin of British imperial rule**, as it crystallized the demand for complete independence and directly influenced the **Cabinet Mission Plan of 1946**, ultimately paving the way for **India’s independence in 1947**.
 

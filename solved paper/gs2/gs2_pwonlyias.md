@@ -210,7 +210,6 @@ Article 124 **of the Constitution establishes the Supreme Court of India and pro
 **Evolution of Collegium System in India**
 - **Constitutional Provision (1950):** Articles 124 and 217 empowered the President to appoint Supreme Court and High Court judges in “consultation” with the CJI and other judges, giving the **executive primacy** in appointments. **
 
-**
 - **First Judges Case (1981):** In *S.P. Gupta v. Union of India (1981)*, the Court held that consultation did not mean concurrence, thus reaffirming the **executive’s dominance** in judicial appointments.
 - **Second Judges Case (1993):** In Supreme Court Advocates-on-Record Association v. Union of India, the Court reversed its earlier stance, creating the **collegium system** where the CJI, with two senior-most judges, held primacy in appointments.
 - **Third Judges Case (1998):** Through a Presidential Reference, the collegium was expanded to **five members** the CJI and four senior-most judges making its recommendations **binding** on the executive.
@@ -478,7 +477,6 @@ Environmental protection and development must **go hand in hand.** Open decision
 | **Core Demand of the Question:** ● Analyse role of local bodies in providing good governance at local level ● Discuss the pros of merging the rural local bodies with the urban local bodies ● Discuss the cons of merging the rural local bodies with the urban local bodies |
 | --- | **
 
-**
 
 * ***Local bodies form the backbone of:** decentralised governance **in India, empowered by the** 73rd **and** 74th Constitutional Amendments **, which introduced** Articles 243 **to** 243Z **. These amendments have transformed local bodies into key drivers of development and governance. Recently, in 2022, the Supreme Court emphasised the importance of strengthening local bodies by mandating timely elections in states like Maharashtra.**
 
@@ -523,7 +521,6 @@ The local body is the lowest tier of governance, but by no means the least. Merg
 | **Core Demand of the Question:** ● Discuss India as a secular state ● Discuss similarities between Indian secularism and the secular principles of the US constitution ● Discuss differences between Indian secularism and the secular principles of the US constitution |
 | --- | **
 
-**
 
 **Secularism** is fundamental to modern democratic governance, guaranteeing the **separation of religion from the state**. This principle promotes equal treatment of all religions, safeguards individual rights, and nurtures social harmony. In India, secularism is constitutionally enshrined, ensuring that no religion is favoured by the state, as seen in the **42nd Amendment (1976),** which officially added the term **‘secular.’**
 
@@ -717,7 +714,6 @@ As Kerala High Court held, “ **Privacy is the ultimate expression of the sanct
 | **Core Demand of the Question:** ● Discuss role of CAG in ensuring legality of expenditure ● Discuss role of CAG in ensuring propriety of expenditure |
 | --- | **
 
-**
 
 **The Comptroller and Auditor General (CAG)** of India’s mandate, under **Article 148** of the Constitution extends beyond merely ensuring the legality of government expenditure to also examining its propriety. It suggests that the CAG also has the responsibility of ensuring that public money is spent not just legally ( **Legality of Expenditure** ) but appropriately, prudently, and for the intended purpose ( **Propriety of Expenditure** ).
 
@@ -1878,7 +1874,6 @@ The ongoing debate surrounding the necessity and relevance of Legislative Counci
 
 **This increased devolution allowed states to have more resources at their disposal, enabling them to address their developmental needs and improve their fiscal position.** Revenue deficit grants **
 
-**
 The Commission identified states with revenue deficits and recommended revenue deficit grants to bridge the gap, ensuring fiscal stability for these states.
 - These grants helped the states maintain their expenditure commitments without resorting to excessive borrowing, thus contributing to their fiscal stability.
 
@@ -2096,7 +2091,6 @@ The Disaster Management Act was established to provide a comprehensive framework
 
 **This centralizing approach ensures a unified strategy, effective resource allocation, and efficient coordination among various agencies during disaster situations.** Farm Acts **
 
-**
 The recent Farm Acts were introduced to reform India’s agricultural sector by liberalizing trade, providing a framework for contract farming, and removing stock holding limits on essential commodities.
 - These reforms aimed to empower farmers, improve market access, and attract private investment.
 - However, the acts have been criticized for potentially undermining the authority of state governments, especially in areas such as agricultural marketing and price regulation.
@@ -2738,7 +2732,6 @@ The Supreme Court judgment of July 2018 offers a legal framework clarifying the 
 
 ### Introduction
 
-**
 
 **Tribunals in India** are specialized quasi-judicial bodies **under Article 323A and 323B,** established to adjudicate disputes in specific areas, such as tax, environment, and labor. They aim to provide efficient, cost-effective, and expert resolution of disputes, thereby reducing the burden on ordinary courts.
 
@@ -2857,7 +2850,6 @@ While the Court’s concerns about the independence of the judiciary are valid, 
 
 ### Introduction
 
-**
 
 **The Right to Privacy judgment by the Supreme Court of India in 2017 (Justice K.S. Puttaswamy (Retd.) vs Union of India)** marked a significant milestone in the interpretation and scope of Fundamental Rights in India. The nine-judge bench **unanimously recognized the Right to Privacy as an intrinsic part of the Right to Life** and Personal Liberty under Article 21 of the Constitution.
 
@@ -3373,7 +3365,6 @@ As India’s democracy continues to evolve, it is crucial to address these chall
 
 **Quasi-judicial bodies are administrative or non-judicial entities that possess the authority to adjudicate disputes, make decisions, and impose penalties in specific areas. Although not part of the traditional judicial system, they exercise powers akin to courts, thereby providing a more efficient and focused mechanism for dispute resolution.** Articles 323A and 323B of the Constitution empower the establishment of such bodies. **
 
-**
 
 
 ### Body
@@ -4358,7 +4349,6 @@ Centralised templates help align standards and scale, but they often miss local 
 | **Core Demand of the Question:** ● Discuss role e-governance for ensuring transparency and accountability, beyond the routine application of digital technology in service delivery. ● Discuss the role of the ‘Interactive Service Model of e-governance’ ● Analyse issues associated with the ‘Interactive Service Model of e-governance’ ● Suggest suitable way ahead |
 | --- |
 
-**
 
 **E-governance** initiatives like **UPI & Digilocker** are revolutionising the relationship between the government and citizens, by going beyond basic conventional norms. On similar lines the **Interactive Service Model of e-governance** enables **two-way communication** between citizens and the government, using ICT to enhance access to services and promote active citizen participation in governance.**
 
@@ -4411,7 +4401,6 @@ E-governance, particularly through the Interactive Service Model, holds the pote
 | **Core Demand of the Question** ● Discuss role of public charitable trusts in making India’s development more inclusive ● Examine various issues faced by public charitable trusts |
 | --- | **
 
-**
 
 **Public charitable trusts** operate under legal frameworks such as the **Indian Trusts Act, 1882**, focusing on philanthropic initiatives aimed at **education**, **healthcare**, and **social justice**. These trusts (for example, **SEWA Trust**, **Tata Trusts** etc.) play a crucial role in addressing public welfare needs and promoting inclusive development across underserved communities in India. **
 
@@ -4496,7 +4485,6 @@ Public charitable trusts are uniquely positioned to fill gaps in public service 
 | **Core Demand of the Question:** ● Discuss why Doctrine of Democratic Governance requires positive public perception of civil servants ● Analyse challenges in ensuring positive perception of civil servants ● Suggest suitable way ahead |
 | --- | **
 
-**
 
 **The Doctrine of Democratic governance** relies heavily on the **integrity** and **commitment** of civil servants. **Article 311** of the Indian Constitution ensures their protection, underscoring the significance of their role in upholding the trust and accountability necessary for effective administration.
 
@@ -5479,7 +5467,6 @@ These measures demonstrate the government’s commitment to improving education,
 
 **However, the pace of privatization has been slow, and several PSUs continue to underperform. The government should accelerate its privatization efforts, focusing on loss-making and non-strategic enterprises while ensuring a transparent and competitive process.** Globalization **
 
-**
 India has benefited from globalization through increased trade, foreign investment, and technology transfers.
 - The government has liberalized its Foreign Direct Investment (FDI) policies, allowing greater foreign investment in various sectors.
 - Enhancing trade relations, promoting exports, and attracting foreign investment should remain top priorities. *
@@ -5772,13 +5759,11 @@ The Satyam Scandal was a turning point in India’s corporate governance history
 
 **However, these laws have not been able to effectively curb the powers of Khap Panchayats, as their influence remains deeply rooted in local customs and traditions.** Executive **
 
-**
 The executive branch of the government, comprising the police and the administration, has taken action in specific cases involving human rights violations by Khap Panchayats.
 - For instance, police have arrested individuals involved in honor killings, and the administration has taken measures to ensure the security of the affected individuals or families.
 
 **However, these efforts have often been reactive rather than proactive, and the enforcement of existing laws has been inadequate.** Judiciary **
 
-**
 The Indian judiciary has played a more proactive role in dealing with the issue of Khap Panchayats. The Supreme Court of India, in various judgments, has condemned the functioning of these councils as parallel judicial systems and has directed the police and administration to take strict action against them.
 - **In the case of Shakti Vahini v. Union of India (2018),:** the Supreme Court ruled that any attempt by Khap Panchayats to interfere in the marriages of consenting adults is illegal, and laid down preventive, remedial, and punitive measures to deal with the issue of honor killings.
 - The court has also taken suo motu cognizance in cases of human rights violations by Khap Panchayats and has ordered investigations and the provision of protection to the affected parties.
@@ -5933,7 +5918,6 @@ Addressing these socio-cultural hurdles is crucial for increasing the penetratio
 
 **The Indian government’s proposal to establish a Rail Tariff Authority (RTA) to regulate fares in Indian Railways is a significant policy shift aimed at bringing transparency and rationalization in fare determination. The idea of an independent tariff regulatory authority for the railways was first recommended** by the Expert Group for Modernization of Indian Railways, headed by Dr. Sam Pitroda in 2012, and later reinforced by the Bibek Debroy Committee in 2015. **
 
-**
 
 
 ### Body
@@ -6584,7 +6568,6 @@ Recognizing **healthcare as an essential fundamental right for every citizen** i
 
 **Going ahead,** the State must ensure **that its interventions in the healthcare sector align with** Sustainable Development Goal (SDG) 3 **—ensuring healthy lives and promoting well-being for all at all ages. This includes universal health coverage, reducing inequalities** (SDG 10) **, and building resilient healthcare infrastructure** (SDG 9). **
 
-**
 
 ---
 
@@ -6597,7 +6580,6 @@ Recognizing **healthcare as an essential fundamental right for every citizen** i
 | **Core Demand of the Question** ● Analyse how poverty and malnutrition create a vicious cycle adversely affecting human capital formation ● Suggest steps can be taken to break the cycle |
 | --- | **
 
-**
 
 **Poverty** and **malnutrition** are interconnected in a vicious cycle where lack of access to nutritious food results in undernourishment, reducing productivity, and perpetuating deprivation. India is ranked **111th out of 125 countries** in the **2023 Global Hunger Index**, reflecting significant nutritional deficiencies due to economic disparities. **
 
@@ -7185,7 +7167,6 @@ The United Nations Multidimensional Poverty Index Report offers a more comprehen
 
 **Several issues contribute to the elusiveness of balanced and inclusive development in India**
 
-**
 - **Income inequality:** High levels of income inequality persist in India, with the top 10% of the population holding a disproportionate share of wealth. This unequal distribution of resources limits the ability of the poor to access basic services and opportunities for social and economic mobility.**
 
 - **For example, the concentration of wealth is evident in the high-income neighborhoods of cities like Mumbai,:** where luxury residences coexist with sprawling slums, highlighting the stark income divide.
@@ -7274,7 +7255,6 @@ To enhance the performance of welfare schemes for vulnerable sections, it is ess
 
 ### Introduction
 
-**
 
 ***‘Health for All’:*** is a universal goal aimed at ensuring equitable access to healthcare services for every individual. In India, achieving this goal requires appropriate local community-level healthcare interventions, which can address the unique health needs and challenges of diverse populations across the country.
 
@@ -7319,7 +7299,6 @@ By focusing on these community-based interventions, India can make significant s
 
 ### Introduction
 
-**
 
 **The 2022 Global Hunger Index ranks India 107th out of 121 countries, highlighting a critical hunger issue. With the world’s highest child wasting rate at 19.3%,** the problem extends beyond food scarcity. It’s a complex interplay of socio-economic factors, health and sanitation issues, and the effectiveness of human development policies. Therefore, a comprehensive approach is vital to address India’s hunger challenge holistically.
 
@@ -7444,7 +7423,6 @@ While successive governments have made progress in dealing with hunger and pover
 
 ### Introduction
 
-**
 
 India, in its pursuit of inclusive growth, continues to be plagued by the longstanding challenges of poverty and inequality. While numerous poverty alleviation programs are in place, their effectiveness is often curtailed, partially due to insufficient political commitment. **According to the World Bank data, by 2021, there had been a gradual decline in poverty rates in India. However, the COVID-19 pandemic has likely intensified these issues.** This scenario underscores the urgent necessity for robust political commitment and systemic reforms to alleviate poverty.
 
@@ -8352,7 +8330,6 @@ India’s engagement with the Central Asian Republics offers great potential to 
 - **Surveillance and Monitoring:** The geographic proximity of the Maldives enables India to enhance its maritime surveillance capabilities, especially in the **Southern Indian Ocean**, crucial for tracking trade routes and security threats. **For example:** India helped set up **radar systems** on the Maldivian islands as part of the **Coastal Surveillance Radar System (CSRS),** allowing better monitoring of maritime traffic and potential threats.
 - **Access to Deep-Sea Resources:** Collaborating with the Maldives offers India opportunities to **explore** and **exploit underutilised deep-searesources**, including fisheries and **oceanic minerals**. **Ways in which This Relationship Affects India’s Maritime Security and Regional Stability Amidst International Competition**
 
-**
 
 **Maritime Security:**
 - **Enhanced Naval Capabilities:** Strengthening naval cooperation with the Maldives enhances **India’s maritime defence**. **For example:** Joint naval exercises like **Ekuverin** have been conducted annually since 2009 between India and the Maldives.
@@ -8402,7 +8379,6 @@ India’s proactive engagement with the Maldives remains crucial for ensuring re
 - **Space Cooperation:** The West is collaborating with India to develop its **space capabilities**, which can serve as a counterbalance to China’s growing dominance in space exploration and satellite technology.
   - **For example:** NISAR: **, a joint Earth-observation mission by** NASA **and** ISRO **, exemplifies the strengthening space collaboration between India and the U.S.**
 
-**
 
 **Economic Dominance:**
 - **Trade Diversification:** The West is increasingly focused on **diversifying trade** away from China, turning to India as a reliable partner for sourcing goods, services, and investments. **For example:US-India bilateral trade** reached a record **$128 billion** in **2023**, signalling the West’s growing economic engagement with India to reduce reliance on China.
@@ -8424,9 +8400,7 @@ The West’s focus on fostering India as an alternative to China in both supply 
 | **Core Demand of the Question:** ● Discuss how terrorism has become a significant threat to global peace and security ● Discuss effectiveness of the UN Security Council’s Counter Terrorism Committee (CTC) and associated bodies in addressing and mitigating this threat ● Analyse the challenges faced in counter terrorism efforts ● Suggest suitable way ahead |
 | --- |
 
-**
 
-**
 
 **Terrorism** is one of the most pressing challenges to international peace, destabilising nations and regions. It **destabilises economies**, **displaces populations**, and **erodes social cohesion**. Tackling this multifaceted issue demands **swift** and **coordinated global action** to build resilience, strengthen collaboration, and create effective counter-terrorism strategies for enduring stability.
 
@@ -9901,7 +9875,6 @@ As India-Maldives relations evolve, India must navigate concerns over political 
 
 **India and Japan have strengthened their economic ties in recent years, but the potential for growth in this area remains largely untapped. Several policy constraints have hampered the expansion of bilateral economic cooperation between the two countries.** Body **
 
-**
 - **Economic ties between India and Japan have witnessed significant growth. The two nations have made considerable strides in enhancing:** bilateral trade and investment. **Several collaborative initiatives, including joint ventures and technology transfers, have been established, contributing to the strengthening of economic cooperation.**
 - High-level visits and dialogues have facilitated closer engagement, leading to increased business collaborations and exchange of expertise. Despite this progress, there remains substantial untapped potential for further expanding and deepening the economic ties between India and Japan.
 - **Tariff and Non-Tariff Barriers:** India and Japan have imposed high tariffs and non-tariff barriers on each other’s goods and services, which is a major impediment to trade. These barriers make the imports and exports between the two countries expensive and uncompetitive. This has resulted in a low volume of trade between the two countries.
@@ -9936,7 +9909,6 @@ These constraints and unlock the full potential of their economic ties, India an
 
 **The withdrawal of the International Security Assistance Force (ISAF) from Afghanistan in 2014 has significant implications for the region’s security** Body: **
 
-**
 - **Challenges for India:** The withdrawal of ISAF (International Security Assistance Force) from Afghanistan could potentially create a security vacuum, allowing militant groups like the **Taliban, Al-Qaeda, and the Haqqani Network** to increase their activities in the region.
  - Pakistan has had a complex relationship with the Taliban, with historical ties and influence over certain factions. The resurgence of the Taliban could have implications for Pakistan’s own security dynamics, as it may face an influx of refugees or an increase in cross-border terrorism.
  - The presence of extremist groups in Pakistan, such as **Tehreek-e-Taliban Pakistan (TTP)**, poses a potential risk to regional stability.A resurgent Taliban in Afghanistan could provide ideological and operational support to these groups, potentially exacerbating Pakistan’s internal security situation.
