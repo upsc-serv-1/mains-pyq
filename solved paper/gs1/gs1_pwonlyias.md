@@ -6303,26 +6303,24 @@ Non-farm primary activities refer to those economic activities that are directly
 
 **How are these activities related to physiographic features in India:**
 - **Fishing:**
-
-**Coastline:** India’s ***7,500 km long coastline*** provides rich avenues for marine fisheries.
-
-- **Western Coast:** Narrow continental shelf, upwelling currents provide a rich source of fish catch.
-- **Eastern Coast:** Wider continental shelf, estuaries, lagoons. Good for prawn & brackish water fishing.
-- **Inland Fisheries:** Extensive river systems (Ganga, Brahmaputra, Godavari), reservoirs, lakes, and tanks serve as **inland aquaculture hubs**.
+  - **Coastline:** India’s ***7,500 km long coastline*** provides rich avenues for marine fisheries.
+  - **Western Coast:** Narrow continental shelf, upwelling currents provide a rich source of fish catch.
+  - **Eastern Coast:** Wider continental shelf, estuaries, lagoons. Good for prawn & brackish water fishing.
+  - **Inland Fisheries:** Extensive river systems (Ganga, Brahmaputra, Godavari), reservoirs, lakes, and tanks serve as **inland aquaculture hubs**.
 - **Forestry:** 
-- **Himalayas and North-East:** Dense evergreen and temperate forests provide timber, bamboo, medicinal plants.
-- **Central Plateau and Chhota Nagpur:** Tropical deciduous forests yield tendu leaves, lac, and sal.
+  - **Himalayas and North-East:** Dense evergreen and temperate forests provide timber, bamboo, medicinal plants.
+  - **Central Plateau and Chhota Nagpur:** Tropical deciduous forests yield tendu leaves, lac, and sal.
 - **Animal Rearing:** 
-- **Arid and Semi-Arid (Rajasthan, Gujarat):** Sparse vegetation supports camel, goat, and sheep rearing.
-- **Alluvial Plains (Punjab, Haryana, UP):** Abundant fodder sustains dairy farming and cattle rearing.
-- **Mountainous Areas (Himalayas, Ladakh):** Alpine pastures sustain yak, sheep, and pashmina goat.
+  - **Arid and Semi-Arid (Rajasthan, Gujarat):** Sparse vegetation supports camel, goat, and sheep rearing.
+  - **Alluvial Plains (Punjab, Haryana, UP):** Abundant fodder sustains dairy farming and cattle rearing.
+  - **Mountainous Areas (Himalayas, Ladakh):** Alpine pastures sustain yak, sheep, and pashmina goat.
 - **Mining and Quarrying:** 
-- **Peninsular Plateau:** Old crystalline rocks provide coal (Jharkhand), iron ore (Odisha, Chhattisgarh), manganese (Karnataka), and bauxite (Odisha).
-- **Himalayas:** Limited mineral fuels but abundant hydro-power potential.
+  - **Peninsular Plateau:** Old crystalline rocks provide coal (Jharkhand), iron ore (Odisha, Chhattisgarh), manganese (Karnataka), and bauxite (Odisha).
+  - **Himalayas:** Limited mineral fuels but abundant hydro-power potential.
 - **Horticulture and Plantation:**
-- **Hill Slopes:** Tea in Assam, Nilgiris, Darjeeling; coffee in Karnataka and Kerala.
-- **Temperate Climate Hills:** Apple, peach, and plum in Himachal Pradesh and J&K.
-- **Tropical Coastal Plains:** Coconut and spices in Kerala; cashew in Konkan and Goa.
+  - **Hill Slopes:** Tea in Assam, Nilgiris, Darjeeling; coffee in Karnataka and Kerala.
+  - **Temperate Climate Hills:** Apple, peach, and plum in Himachal Pradesh and J&K.
+  - **Tropical Coastal Plains:** Coconut and spices in Kerala; cashew in Konkan and Goa.
 
 
 
