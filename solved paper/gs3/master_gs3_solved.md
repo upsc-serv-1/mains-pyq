@@ -28624,11 +28624,7 @@ With its pollution free nature, virtually inexhaustible supply and global distri
 1. Explanation_PWOnlyIAS:
 Source Question: Describe the major outcome of the 26th session of the Conference of Parties [COP] to the United Nations Framework conversation on climate change [UNFCCC]. What are the commitments made by India in this conference
 
-| **Approach:** <br> **Introduction** <br>• Brief about UNFCCC and COP26. **Body** <br>• Discuss about the major outcomes of COP 26. <br>• Write about commitments made by India in COP 26.
-
-### Conclusion
-
-**Conclude your answer with a futuristic approach.** |
+| **Approach:** <br> **Introduction** <br> • Brief about UNFCCC and COP26. **Body** <br> • Discuss about the major outcomes of COP 26. <br> • Write about commitments made by India in COP 26. <br> **Conclusion** <br> • Conclude your answer with a futuristic approach. |
 | --- |
 
 ### Introduction
@@ -29271,11 +29267,7 @@ Q166. Scientific research in Indian universities is declining, because a career 
 1. Explanation_PWOnlyIAS:
 Source Question: Scientific research in Indian universities is declining, because a career in science is not as attractive as are business professions, engineering or administration, and the universities are becoming consumer-oriented. Critically comment. (200 words, 12.5 marks)
 
-| **Approach:** <br> **Introduction** <br>• The introduction would present the assertion of declining scientific research in Indian universities and attribute it to the attraction towards business, engineering, and administration professions.
-
-### Body
-
-**The body of the answer would be divided into two main sections: <br>• Issues <br>• Consumer-Oriented Universities <br>• Way Forward **Conclusion** <br>• The conclusion would encapsulate the discussion and underline the need for a multifaceted approach to revitalize scientific research in Indian universities. |
+| **Approach:** <br> **Introduction** <br> • The introduction would present the assertion of declining scientific research in Indian universities and attribute it to the attraction towards business, engineering, and administration professions. <br> **Body** <br> **The body of the answer would be divided into two main sections: <br> • Issues <br> • Consumer-Oriented Universities <br> • Way Forward **Conclusion** <br> • The conclusion would encapsulate the discussion and underline the need for a multifaceted approach to revitalize scientific research in Indian universities. |
 | --- |
 
 ### Introduction
@@ -30593,11 +30585,7 @@ The Kyoto Protocol is based on the principle of common but differentiated respon
 1. Explanation_PWOnlyIAS:
 Source Question: Discuss global warming and mention its effects on global climate. Explain the control measures to bring down the level of greenhouse gasses which cause global warming in the light of the Kyoto Protocol 1997.
 
-| **Approach:** <br> **Introduction:** <br>• Define Global warming. **Body** <br>• Write about the Global Warming Impacts on Earth Climate. <br>• Write down the control measures to reduce the GHG emission in the light of Kyoto Protocol.
-
-### Conclusion
-
-**Conclude your answer with key steps towards Global warming Mitigation and Sustainability.** |
+| **Approach:** <br> **Introduction:** <br> • Define Global warming. **Body** <br> • Write about the Global Warming Impacts on Earth Climate. <br> • Write down the control measures to reduce the GHG emission in the light of Kyoto Protocol. <br> **Conclusion** <br> • Conclude your answer with key steps towards Global warming Mitigation and Sustainability. |
 | --- |
 
 ### Introduction
@@ -30831,11 +30819,7 @@ COP26 of Glasgow is a promising start on emissions reduction, however, on the pa
 1. Explanation_PWOnlyIAS:
 Source Question: Describe the major outcome of the 26th session of the Conference of Parties [COP] to the United Nations Framework conversation on climate change [UNFCCC]. What are the commitments made by India in this conference
 
-| **Approach:** <br> **Introduction** <br>• Brief about UNFCCC and COP26. **Body** <br>• Discuss about the major outcomes of COP 26. <br>• Write about commitments made by India in COP 26.
-
-### Conclusion
-
-**Conclude your answer with a futuristic approach.** |
+| **Approach:** <br> **Introduction** <br> • Brief about UNFCCC and COP26. **Body** <br> • Discuss about the major outcomes of COP 26. <br> • Write about commitments made by India in COP 26. <br> **Conclusion** <br> • Conclude your answer with a futuristic approach. |
 | --- |
 
 ### Introduction
@@ -45482,11 +45466,7 @@ India has made little success tackling Naxalism, but the root causes have not be
 1. Explanation_PWOnlyIAS:
 Source Question: Naxalism is a social, economic and developmental issue manifesting as a violent internal security threat. In this context, discuss the emerging issues and suggest a multilayered strategy to tackle the menace of Naxalism.
 
-| **Approach:** <br> **Introduction** <br>• Briefly introduce by describing the origin of Naxalism and its evolution into a significant security challenge for India. **Body** <br>• Identify and explain the emerging issues related to Naxalism. <br>• Discuss a comprehensive strategy that includes security measures, socio-economic development, and political engagement. <br>• Substantiate with appropriate examples.
-
-### Conclusion
-
-**Conclude by reinforcing that tackling Naxalism requires a well-rounded approach that addresses both the symptoms and the root causes.** |
+| **Approach:** <br> **Introduction** <br> • Briefly introduce by describing the origin of Naxalism and its evolution into a significant security challenge for India. **Body** <br> • Identify and explain the emerging issues related to Naxalism. <br> • Discuss a comprehensive strategy that includes security measures, socio-economic development, and political engagement. <br> • Substantiate with appropriate examples. <br> **Conclusion** <br> • Conclude by reinforcing that tackling Naxalism requires a well-rounded approach that addresses both the symptoms and the root causes. |
 | --- |
 
 ### Introduction

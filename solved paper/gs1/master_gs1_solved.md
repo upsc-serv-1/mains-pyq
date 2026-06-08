@@ -14538,9 +14538,7 @@ The role of monsoon is vital in the economy of major parts of the world because 
 1. Explanation_PWOnlyIAS:
 Source Question: What characteristic can be assigned to monsoon climate that succeeds in feeding more than 50 % of the world population residing in monsoon Asia?
 
-| **Approach:** <br> **Introduction** <br>• Brief about Monsoon climate. **Body** <br>• Describe the Characteristics of monsoon climate **.**
-
-**Conclusion** <br>• Conclude your answer with a futuristic approach. |
+| **Approach:** <br> **Introduction** <br> • Brief about Monsoon climate. **Body** <br> • Describe the Characteristics of monsoon climate .** <br> **Conclusion** <br> • Conclude your answer with a futuristic approach. |
 | --- |
 
 ### Introduction
@@ -40487,9 +40485,7 @@ Q221. Discuss the various economic and socio-cultural forces that are driving in
 1. Explanation_PWOnlyIAS:
 Source Question: Discuss the various economic and socio-cultural forces that are driving increasing feminization of agriculture in India.
 
-| **Approach:** <br> **Introduction** <br>• Mention what the term feminization of agriculture means **.**
-
-**Body** <br>• Mention the major socio-economic causes for the rising number of women in the agriculture sector. **Conclusion** <br>• Mention that feminization of agriculture is a reality and the government must take steps to address their concerns specifically. |
+| **Approach:** <br> **Introduction** <br> • Mention what the term feminization of agriculture means .** <br> **Body** <br> • Mention the major socio-economic causes for the rising number of women in the agriculture sector. **Conclusion** <br> • Mention that feminization of agriculture is a reality and the government must take steps to address their concerns specifically. |
 | --- |
 
 ### Introduction
@@ -46861,11 +46857,7 @@ Although, socio-cultural factors motivate regionalism, other factors such as soc
 1. Explanation_PWOnlyIAS:
 Source Question: Do you agree that regionalism in India appears to be a consequence of rising cultural assertiveness? Argue.
 
-| **Approach:** <br> **Introduction** <br>• Define regionalism <br>• Mention some of its positive and negative aspects.
-
-### Body
-
-**Mention how regionalism in India can be seen as a result of cultural assertiveness. Later mention how regionalism has other aspects too. **Conclusion** <br>• Conclude saying that regionalism in India can be seen as a consequence of rising cultural assertiveness but there are other factors too leading to its rise. <br>• Then mention how the positives of regionalism can be extracted to the benefit of nation building. |
+| **Approach:** <br> **Introduction** <br> • Define regionalism <br> • Mention some of its positive and negative aspects. <br> **Body** <br> • Mention how regionalism in India can be seen as a result of cultural assertiveness. Later mention how regionalism has other aspects too. **Conclusion** <br> • Conclude saying that regionalism in India can be seen as a consequence of rising cultural assertiveness but there are other factors too leading to its rise. <br> • Then mention how the positives of regionalism can be extracted to the benefit of nation building. |
 | --- |
 
 ### Introduction

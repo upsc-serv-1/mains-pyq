@@ -18034,9 +18034,7 @@ Model Code of Conduct does not have any statutory backing, it has come to acquir
 1. Explanation_PWOnlyIAS:
 Source Question: Discuss the role of the Election Commission of India in the light of the evolution of the Model Code of Conduct.
 
-| **Approach:** <br> **Introduction** <br>• Introduce the Election Commission of India (ECI) and the Model Code of Conduct (MCC), emphasizing the significance of the MCC in ensuring free and fair elections. **Body** <br>• Discuss the role of the Election Commission of India in the light of the evolution of the Model Code of Conduct. <br>• **Formulation and Evolution** <br>• **Implementation and Enforcement** <br>• **Awareness and Education** <br>• **Monitoring and Grievance Redressal** <br>• **Adaptation to Technological Advancements**
-
-**Conclusion** <br>• Conclude, emphasizing its significance in maintaining the integrity of the electoral process in India. |
+| **Approach:** <br> **Introduction** <br> • Introduce the Election Commission of India (ECI) and the Model Code of Conduct (MCC), emphasizing the significance of the MCC in ensuring free and fair elections. **Body** <br> • Discuss the role of the Election Commission of India in the light of the evolution of the Model Code of Conduct. <br> • **Formulation and Evolution** <br> • **Implementation and Enforcement** <br> • **Awareness and Education** <br> • **Monitoring and Grievance Redressal** <br> • **Adaptation to Technological Advancements** <br> **Conclusion** <br> • Conclude, emphasizing its significance in maintaining the integrity of the electoral process in India. |
 | --- |
 
 ### Introduction
@@ -33765,11 +33763,7 @@ A traditional approach has been to segment the beneficiaries on the basis of geo
 1. Explanation_PWOnlyIAS:
 Source Question: ‘To ensure effective implementation of policies addressing water, sanitation and hygiene needs, the identification of beneficiary segments is to be synchronized with the anticipated outcomes’. Examine the statement in the context of the WASH scheme.
 
-| **Approach:** <br> **Introduction** <br>• Introduce the WASH scheme and its objectives.
-
-### Body
-
-**Divide the body into four main sections: <br>• Identification of beneficiary segments: <br>• Focus on vulnerable and marginalized populations. <br>• Address the specific needs of these groups. <br>• Anticipated outcomes: <br>• Reducing waterborne diseases. <br>• Enhancing access to clean water and sanitation facilities. <br>• Promoting healthy hygiene practices. <br>• Synchronization of beneficiary identification and outcomes: <br>• Targeted interventions. <br>• Efficient resource allocation. <br>• Improved monitoring and evaluation. <br>• Collaboration with stakeholders: <br>• Involvement of local governments, NGOs, community-based organizations, and the private sector. <br>• Addressing needs and achieving anticipated outcomes. **Conclusion** <br>• Write a relevant conclusion. |
+| **Approach:** <br> **Introduction** <br> • Introduce the WASH scheme and its objectives. <br> **Body** <br> **Divide the body into four main sections: <br> • Identification of beneficiary segments: <br> • Focus on vulnerable and marginalized populations. <br> • Address the specific needs of these groups. <br> • Anticipated outcomes: <br> • Reducing waterborne diseases. <br> • Enhancing access to clean water and sanitation facilities. <br> • Promoting healthy hygiene practices. <br> • Synchronization of beneficiary identification and outcomes: <br> • Targeted interventions. <br> • Efficient resource allocation. <br> • Improved monitoring and evaluation. <br> • Collaboration with stakeholders: <br> • Involvement of local governments, NGOs, community-based organizations, and the private sector. <br> • Addressing needs and achieving anticipated outcomes. **Conclusion** <br> • Write a relevant conclusion. |
 | --- |
 
 ### Introduction
@@ -36312,9 +36306,7 @@ India has leading demographic dividend, **fifth largest** economy by nominal GDP
 1. Explanation_PWOnlyIAS:
 Source Question: Besides the welfare schemes, India needs deft management of inflation and unemployment to serve the poor and the underprivileged sections of the society. Discuss.
 
-| **Approach:** <br> **Introduction** <br>• Introduce the importance of welfare schemes in India and emphasize the need for addressing broader economic challenges, particularly inflation and unemployment, to serve the poor and underprivileged sections of society. **Body** <br>• Discuss the significance of managing inflation and unemployment, elaborating on the measures that can be taken to address these issues, and explain how doing so complements welfare schemes **.**
-
-**Conclusion** <br>• Write a relevant conclusion. |
+| **Approach:** <br> **Introduction** <br> • Introduce the importance of welfare schemes in India and emphasize the need for addressing broader economic challenges, particularly inflation and unemployment, to serve the poor and underprivileged sections of society. **Body** <br> • Discuss the significance of managing inflation and unemployment, elaborating on the measures that can be taken to address these issues, and explain how doing so complements welfare schemes .** <br> **Conclusion** <br> • Write a relevant conclusion. |
 | --- |
 
 ### Introduction
@@ -37023,9 +37015,7 @@ The Sri Lankan crisis is not just a domestic problem, but it has a spill-over ef
 1. Explanation_PWOnlyIAS:
 Source Question: Discuss the role of the Election Commission of India in the light of the evolution of the Model Code of Conduct.
 
-| **Approach:** <br> **Introduction** <br>• Introduce the Election Commission of India (ECI) and the Model Code of Conduct (MCC), emphasizing the significance of the MCC in ensuring free and fair elections. **Body** <br>• Discuss the role of the Election Commission of India in the light of the evolution of the Model Code of Conduct. <br>• **Formulation and Evolution** <br>• **Implementation and Enforcement** <br>• **Awareness and Education** <br>• **Monitoring and Grievance Redressal** <br>• **Adaptation to Technological Advancements**
-
-**Conclusion** <br>• Conclude, emphasizing its significance in maintaining the integrity of the electoral process in India. |
+| **Approach:** <br> **Introduction** <br> • Introduce the Election Commission of India (ECI) and the Model Code of Conduct (MCC), emphasizing the significance of the MCC in ensuring free and fair elections. **Body** <br> • Discuss the role of the Election Commission of India in the light of the evolution of the Model Code of Conduct. <br> • **Formulation and Evolution** <br> • **Implementation and Enforcement** <br> • **Awareness and Education** <br> • **Monitoring and Grievance Redressal** <br> • **Adaptation to Technological Advancements** <br> **Conclusion** <br> • Conclude, emphasizing its significance in maintaining the integrity of the electoral process in India. |
 | --- |
 
 ### Introduction

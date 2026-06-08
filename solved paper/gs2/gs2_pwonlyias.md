@@ -1395,9 +1395,7 @@ The Representation of the People Act, 1951, plays a vital role in upholding the 
 
 ### Answer **Answer:**
 
-| **Approach:** <br> **Introduction** <br>• Introduce the Election Commission of India (ECI) and the Model Code of Conduct (MCC), emphasizing the significance of the MCC in ensuring free and fair elections. **Body** <br>• Discuss the role of the Election Commission of India in the light of the evolution of the Model Code of Conduct. <br>• **Formulation and Evolution** <br>• **Implementation and Enforcement** <br>• **Awareness and Education** <br>• **Monitoring and Grievance Redressal** <br>• **Adaptation to Technological Advancements**
-
-**Conclusion** <br>• Conclude, emphasizing its significance in maintaining the integrity of the electoral process in India. |
+| **Approach:** <br> **Introduction** <br> • Introduce the Election Commission of India (ECI) and the Model Code of Conduct (MCC), emphasizing the significance of the MCC in ensuring free and fair elections. **Body** <br> • Discuss the role of the Election Commission of India in the light of the evolution of the Model Code of Conduct. <br> • **Formulation and Evolution** <br> • **Implementation and Enforcement** <br> • **Awareness and Education** <br> • **Monitoring and Grievance Redressal** <br> • **Adaptation to Technological Advancements** <br> **Conclusion** <br> • Conclude, emphasizing its significance in maintaining the integrity of the electoral process in India. |
 | --- |
 
 ### Introduction
@@ -6537,9 +6535,7 @@ Going ahead, while addressing the criticisms of being potentially discriminatory
 
 ### Answer **Answer:**
 
-| **Approach:** <br> **Introduction** <br>• Introduce the importance of welfare schemes in India and emphasize the need for addressing broader economic challenges, particularly inflation and unemployment, to serve the poor and underprivileged sections of society. **Body** <br>• Discuss the significance of managing inflation and unemployment, elaborating on the measures that can be taken to address these issues, and explain how doing so complements welfare schemes **.**
-
-**Conclusion** <br>• Write a relevant conclusion. |
+| **Approach:** <br> **Introduction** <br> • Introduce the importance of welfare schemes in India and emphasize the need for addressing broader economic challenges, particularly inflation and unemployment, to serve the poor and underprivileged sections of society. **Body** <br> • Discuss the significance of managing inflation and unemployment, elaborating on the measures that can be taken to address these issues, and explain how doing so complements welfare schemes .** <br> **Conclusion** <br> • Write a relevant conclusion. |
 | --- |
 
 ### Introduction
@@ -7309,11 +7305,7 @@ Only with steadfast political commitment can these programs transition from mere
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br>• Introduce the WASH scheme and its objectives.
-
-### Body
-
-**Divide the body into four main sections: <br>• Identification of beneficiary segments: <br>• Focus on vulnerable and marginalized populations. <br>• Address the specific needs of these groups. <br>• Anticipated outcomes: <br>• Reducing waterborne diseases. <br>• Enhancing access to clean water and sanitation facilities. <br>• Promoting healthy hygiene practices. <br>• Synchronization of beneficiary identification and outcomes: <br>• Targeted interventions. <br>• Efficient resource allocation. <br>• Improved monitoring and evaluation. <br>• Collaboration with stakeholders: <br>• Involvement of local governments, NGOs, community-based organizations, and the private sector. <br>• Addressing needs and achieving anticipated outcomes. **Conclusion** <br>• Write a relevant conclusion. |
+| **Approach:** <br> **Introduction** <br> • Introduce the WASH scheme and its objectives. <br> **Body** <br> **Divide the body into four main sections: <br> • Identification of beneficiary segments: <br> • Focus on vulnerable and marginalized populations. <br> • Address the specific needs of these groups. <br> • Anticipated outcomes: <br> • Reducing waterborne diseases. <br> • Enhancing access to clean water and sanitation facilities. <br> • Promoting healthy hygiene practices. <br> • Synchronization of beneficiary identification and outcomes: <br> • Targeted interventions. <br> • Efficient resource allocation. <br> • Improved monitoring and evaluation. <br> • Collaboration with stakeholders: <br> • Involvement of local governments, NGOs, community-based organizations, and the private sector. <br> • Addressing needs and achieving anticipated outcomes. **Conclusion** <br> • Write a relevant conclusion. |
 | --- |
 
 ### Introduction

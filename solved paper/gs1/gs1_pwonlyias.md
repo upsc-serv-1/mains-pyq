@@ -4863,11 +4863,7 @@ The relationship between customs and reason is complex and multifaceted, and dep
 
 ### Answer **Answer:**
 
-| **Approach:** <br> **Introduction** <br>• Define regionalism <br>• Mention some of its positive and negative aspects.
-
-### Body
-
-**Mention how regionalism in India can be seen as a result of cultural assertiveness. Later mention how regionalism has other aspects too. **Conclusion** <br>• Conclude saying that regionalism in India can be seen as a consequence of rising cultural assertiveness but there are other factors too leading to its rise. <br>• Then mention how the positives of regionalism can be extracted to the benefit of nation building. |
+| **Approach:** <br> **Introduction** <br> • Define regionalism <br> • Mention some of its positive and negative aspects. <br> **Body** <br> • Mention how regionalism in India can be seen as a result of cultural assertiveness. Later mention how regionalism has other aspects too. **Conclusion** <br> • Conclude saying that regionalism in India can be seen as a consequence of rising cultural assertiveness but there are other factors too leading to its rise. <br> • Then mention how the positives of regionalism can be extracted to the benefit of nation building. |
 | --- |
 
 ### Introduction
@@ -5697,9 +5693,7 @@ Globalization affected Indian women in both ways, but there is a greater scope t
 
 ### Answer **Answer:**
 
-| **Approach:** <br> **Introduction** <br>• Mention what the term feminization of agriculture means **.**
-
-**Body** <br>• Mention the major socio-economic causes for the rising number of women in the agriculture sector. **Conclusion** <br>• Mention that feminization of agriculture is a reality and the government must take steps to address their concerns specifically. |
+| **Approach:** <br> **Introduction** <br> • Mention what the term feminization of agriculture means .** <br> **Body** <br> • Mention the major socio-economic causes for the rising number of women in the agriculture sector. **Conclusion** <br> • Mention that feminization of agriculture is a reality and the government must take steps to address their concerns specifically. |
 | --- |
 
 ### Introduction
@@ -8599,9 +8593,7 @@ The location of petroleum refineries in developing countries away from crude oil
 
 ### Answer **Answer:**
 
-| **Approach:** <br> **Introduction** <br>• Brief about Monsoon climate. **Body** <br>• Describe the Characteristics of monsoon climate **.**
-
-**Conclusion** <br>• Conclude your answer with a futuristic approach. |
+| **Approach:** <br> **Introduction** <br> • Brief about Monsoon climate. **Body** <br> • Describe the Characteristics of monsoon climate .** <br> **Conclusion** <br> • Conclude your answer with a futuristic approach. |
 | --- |
 
 ### Introduction
