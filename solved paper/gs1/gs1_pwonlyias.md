@@ -673,7 +673,7 @@ Bhakti Literature’s nature is characterized by its intense emotional appeal, s
 
 ### Introduction
 
-** Indian philosophy and tradition have played a pivotal role in shaping the country’s architectural and artistic heritage. The rich cultural tapestry of India, with its diverse belief systems and regional variations, has given rise to a myriad of unique styles, themes, and iconography throughout the country’s monuments and art.
+Indian philosophy and tradition have played a pivotal role in shaping the country’s architectural and artistic heritage. The rich cultural tapestry of India, with its diverse belief systems and regional variations, has given rise to a myriad of unique styles, themes, and iconography throughout the country’s monuments and art.
 
 **Body:**
 - **Spiritual and religious influences:** Hinduism, **Buddhism, and Jainism have contributed to the architectural landscape, such as the Ajanta and Ellora caves,** which showcase religious art and architecture with intricate carvings and sculptures from Indian scriptures and mythologies.
@@ -708,7 +708,7 @@ Indian philosophy and tradition have been instrumental in shaping the country’
 
 ### Introduction
 
-** During medieval India, Persian literary sources emerged as vital elements in capturing the zeitgeist of the age. With the establishment of Islamic rule in the region, Persian became the language of governance, courtly life, and culture, leading to the development of a rich and varied body of literature. This literature not only mirrored the political, social, and cultural realities of the period, but also served as a crucial bridge, connecting the Indian and Persian cultural spheres and fostering a unique synthesis between them.
+During medieval India, Persian literary sources emerged as vital elements in capturing the zeitgeist of the age. With the establishment of Islamic rule in the region, Persian became the language of governance, courtly life, and culture, leading to the development of a rich and varied body of literature. This literature not only mirrored the political, social, and cultural realities of the period, but also served as a crucial bridge, connecting the Indian and Persian cultural spheres and fostering a unique synthesis between them.
 
 **Body:**
 - **Historical accounts:** Persian historical works, **including** Minhaj-i Siraj’s **“Tabaqat-i Nasiri,”** Firishta’s **“Tarikh-i Firishta,” and** Abu’l Fazl’s **“Akbarnama,” offer crucial insights into medieval India’s political, social, and economic landscape.**
@@ -780,7 +780,7 @@ Rock-cut architecture has not only contributed to the artistic and cultural heri
 
 ### Introduction
 
-** Gandhara art is known for its unique blend of Indian, Central Asian, and Greco-Bactrian elements. This syncretic art form emerged as a result of cultural interactions during the conquests of Alexander the Great, the Greco-Bactrian Kingdom, and the Kushan Empire.
+Gandhara art is known for its unique blend of Indian, Central Asian, and Greco-Bactrian elements. This syncretic art form emerged as a result of cultural interactions during the conquests of Alexander the Great, the Greco-Bactrian Kingdom, and the Kushan Empire.
 
 **Body:**
 - **Hellenistic influence:** Gandhara art features Greco-Bactrian elements such as realistic human proportions, naturalistic facial expressions, and intricate drapery. **For example, the standing Buddha statues from Gandhara** exhibit Hellenistic drapery and lifelike facial expressions.
@@ -860,7 +860,7 @@ The need for protecting Indian art heritage is undeniably pressing. It is impera
 
 ### Introduction
 
-** The Bhakti movement, which originated in South India around the 7th century, spread throughout the Indian subcontinent, emphasizing personal spiritual experiences through love and devotion to God. Sri Chaitanya Mahaprabhu, a 16th-century saint, brought about a remarkable transformation in the Bhakti movement, particularly in Eastern India.
+The Bhakti movement, which originated in South India around the 7th century, spread throughout the Indian subcontinent, emphasizing personal spiritual experiences through love and devotion to God. Sri Chaitanya Mahaprabhu, a 16th-century saint, brought about a remarkable transformation in the Bhakti movement, particularly in Eastern India.
 
 **Body:**
 - **Focus on group devotion:** Sri Chaitanya Mahaprabhu **introduced “Sankirtan,** ” the collective chanting of God’s holy names. This practice engaged individuals from diverse backgrounds in communal worship, fostering spiritual unity and fellowship.
@@ -2000,7 +2000,7 @@ While Indian indentured laborers and their descendants have made efforts to pres
 
 ### Introduction
 
-** During the mid-eighteenth century, India experienced significant political fragmentation and instability. This situation can be attributed to various factors, including the decline of the Mughal Empire, the rise of regional powers, and the increasing influence of European powers.
+During the mid-eighteenth century, India experienced significant political fragmentation and instability. This situation can be attributed to various factors, including the decline of the Mughal Empire, the rise of regional powers, and the increasing influence of European powers.
 
 **Body:**
 - **Decline of the Mughal Empire:** Weak successors,:** internal power struggles, and the lack of a centralized administration led to a steady erosion of the empire’s authority. As the Mughal Empire weakened, it was unable to maintain law and order or effectively govern its territories, which left a power vacuum in various regions.
@@ -2134,7 +2134,7 @@ This social reform movement in India played a significant role in addressing wom
 
 ### Introduction
 
-** The ‘Moderates’ were a prominent faction within the Indian nationalist movement during the late nineteenth century, advocating for political and administrative reforms within the framework of British colonial rule. However, by the end of the nineteenth century, they struggled to gain widespread support and conviction for their ideology and political goals among the Indian population.
+The ‘Moderates’ were a prominent faction within the Indian nationalist movement during the late nineteenth century, advocating for political and administrative reforms within the framework of British colonial rule. However, by the end of the nineteenth century, they struggled to gain widespread support and conviction for their ideology and political goals among the Indian population.
 
 **Body:**
 - **Limited objectives:** They did not demand complete independence, which made their goals less appealing to many Indians who sought total freedom from British rule.
@@ -3073,7 +3073,7 @@ The decolonization process in the Malay Peninsula has left a legacy of key issue
 
 ### Introduction
 
-** The anti-colonial struggles in West Africa played a pivotal role in the region’s eventual independence from European colonial powers. The emergence of a new elite, comprising Western-educated Africans, greatly contributed to the success of these struggles.
+The anti-colonial struggles in West Africa played a pivotal role in the region’s eventual independence from European colonial powers. The emergence of a new elite, comprising Western-educated Africans, greatly contributed to the success of these struggles.
 
 **Body:**
 - **Emergence of the new elite:** The new elite of Western-educated Africans emerged during the late colonial period, as colonial governments introduced Western-style education to train locals for subordinate roles in the colonial administration.
@@ -3225,7 +3225,7 @@ The NEP may have provided a framework for a mixed economy that allowed India to 
 
 ### Introduction
 
-** The Suez Crisis of 1956 was a pivotal event that marked a turning point in Britain’s status as a global power. It not only exposed the limitations of British military and political influence but also shattered the nation’s self-image as a dominant force in international affairs.
+The Suez Crisis of 1956 was a pivotal event that marked a turning point in Britain’s status as a global power. It not only exposed the limitations of British military and political influence but also shattered the nation’s self-image as a dominant force in international affairs.
 
 **Body:**
 - **Events leading to the Suez Crisis:**
@@ -3337,7 +3337,7 @@ The Scramble for Africa resulted in the creation of artificial borders that disr
 
 ### Introduction
 
-** The American Revolution (1775-1783) was a multifaceted struggle for independence by the thirteen American colonies against Great Britain. While it is true that economic factors, such as opposition to mercantilism, played a significant role in the revolution, it is important to consider other contributing factors, such as political and ideological motivations.
+The American Revolution (1775-1783) was a multifaceted struggle for independence by the thirteen American colonies against Great Britain. While it is true that economic factors, such as opposition to mercantilism, played a significant role in the revolution, it is important to consider other contributing factors, such as political and ideological motivations.
 
 **Body:**
 - **Mercantilism and British colonial policies:** Mercantilism was a dominant economic theory that linked a nation’s wealth and power to gold and silver accumulation.
@@ -3372,7 +3372,7 @@ While the American Revolution encompassed various factors, the quest for economi
 
 ### Introduction
 
-** The “latecomer” industrial revolution in Japan refers to the rapid industrialization that occurred during the late 19th and early 20th centuries, following the Meiji Restoration. Unlike the Western experience, Japan’s industrial revolution involved a unique set of factors that were deeply rooted in its historical and cultural context.
+The “latecomer” industrial revolution in Japan refers to the rapid industrialization that occurred during the late 19th and early 20th centuries, following the Meiji Restoration. Unlike the Western experience, Japan’s industrial revolution involved a unique set of factors that were deeply rooted in its historical and cultural context.
 
 **Body:**
 - **Unique historical and cultural context:** Japan’s geographical isolation and limited natural resources necessitated a different approach to industrialization, focusing on maximizing available resources and adapting foreign technology.
@@ -4444,7 +4444,7 @@ Understanding the fluid and static nature of caste identity in India is a comple
 
 ### Introduction
 
-** Sects are a smaller group of faith that follows a traditional religion but with exception to certain tenets of the traditional religion. It can also refer to religious groups that have separated themselves from an established religion and now follow their own rules. E.g., Brahmo Samaj, ISKCON, etc are sects within Hinduism.
+Sects are a smaller group of faith that follows a traditional religion but with exception to certain tenets of the traditional religion. It can also refer to religious groups that have separated themselves from an established religion and now follow their own rules. E.g., Brahmo Samaj, ISKCON, etc are sects within Hinduism.
 
 Sects often arise in moments of uncertainty and they attract the marginalized sections of the society.
 
@@ -5320,7 +5320,7 @@ In recent times, Indian society has seen a surge in multiple divisive issues lik
 
 ### Introduction
 
-** Secularism is a principle of separation of religious institutions and state. India, since Independence, has been following a peculiar notion of secularism, whereby all religions are treated equally and supported by the State.
+Secularism is a principle of separation of religious institutions and state. India, since Independence, has been following a peculiar notion of secularism, whereby all religions are treated equally and supported by the State.
 
 However, this concept, at present, is undergoing paradigm shifts. While the judiciary is enriching the concept of secularism by inserting Constitutional morality as a significant component of secularism, there is a growth of misguided perceptions about secularism. The ultimate outcome of these changes is the rise of various challenges to our diverse cultural practices.
 
@@ -5361,7 +5361,7 @@ India must always be the perfect picture of booming diversity. It is obvious tha
 
 ### Introduction
 
-** Nearly one-sixth of the world’s women live in India and they form almost half of the Indian population. Despite this, Women in India face lots of issues and problems some of which have continued since centuries while others are new, some of which are common for all women in India while some may be more prevalent in particular areas.
+Nearly one-sixth of the world’s women live in India and they form almost half of the Indian population. Despite this, Women in India face lots of issues and problems some of which have continued since centuries while others are new, some of which are common for all women in India while some may be more prevalent in particular areas.
 
 Challenges faced by Indian women emanate from **Hegemonic patriarchy**, which is prevalent in Indian society. The discrimination against women appears to be common sense to such an extent that even women also become the supporter and perpetrator of this very notion. This is a problem that is common for all women in India and has been so since time immemorial.
 
@@ -5411,7 +5411,7 @@ Though with rise in education, modernization and urbanization, women have got re
 
 ### Introduction
 
-** Caste refers to a broad hierarchical institutional arrangement with which basic social factors such as birth, marriage, food-sharing, etc. are organized into hierarchies of rank and status. These subdivisions have traditionally been associated with occupations, and in relation to other higher and lower castes, decide social relations.
+Caste refers to a broad hierarchical institutional arrangement with which basic social factors such as birth, marriage, food-sharing, etc. are organized into hierarchies of rank and status. These subdivisions have traditionally been associated with occupations, and in relation to other higher and lower castes, decide social relations.
 
 While the expression of hierarchy has changed to a large extent in recent times, the system itself has not changed much. For example- even though untouchability and caste-based discrimination are prohibited under the Constitution of India, occupations such as manual scavenging consist mostly of workers belonging to the lower castes.
 
@@ -5624,7 +5624,7 @@ Barring occasional incidents of violence and hatred, Indian civilization has alw
 
 ### Introduction
 
-** Since ancient times, Scheduled Tribes (STs) have faced cultural discrimination and socio-political and economic exploitation. Consequently, the majority of them suffer from the problems of health, nutrition, education and income.
+Since ancient times, Scheduled Tribes (STs) have faced cultural discrimination and socio-political and economic exploitation. Consequently, the majority of them suffer from the problems of health, nutrition, education and income.
 
 The Constitution of India has several provisions to prevent discrimination against people belonging to Scheduled Tribes and to protect their rights.
 
@@ -5700,7 +5700,7 @@ With such a large population and the limited resources at hand, the demographic 
 
 ### Introduction
 
-** Globalization means growing interdependence and integration of economies, societies and cultures from across the world. It is brought about by cross border trade of goods, services and technology and flow of investment and people.
+Globalization means growing interdependence and integration of economies, societies and cultures from across the world. It is brought about by cross border trade of goods, services and technology and flow of investment and people.
 
 India is a culturally diverse nation. At the core of Indian culture lies few elements like family, language, cuisine, caste and religion.
 
@@ -5791,7 +5791,7 @@ In a country as diverse as India, regionalism is inevitable if the specific need
 
 ### Introduction
 
-** Scheduled Tribes are those groups of tribes who are listed in the Constitution as tribes and thus enjoy special protection. Scheduled Tribes, as a term, was introduced as part of the Government of India Act, 1935.
+Scheduled Tribes are those groups of tribes who are listed in the Constitution as tribes and thus enjoy special protection. Scheduled Tribes, as a term, was introduced as part of the Government of India Act, 1935.
 
 No specific criteria is mentioned under the Constitution for listing any particular community as a tribe under the Constitution. **Article 342** states that the President by public notification would specify the tribes or tribal communities to be deemed as scheduled tribes in relation to that state or Union Territory.
 
@@ -6153,7 +6153,7 @@ Changes in the society’s mindset, better enforcement of dowry and sex-selectiv
 
 ### Introduction
 
-** Globalization means growing interdependence and integration of economies, societies and cultures from across the world. It is brought about by cross border trade of goods, services and technology and flow of investment and people.
+Globalization means growing interdependence and integration of economies, societies and cultures from across the world. It is brought about by cross border trade of goods, services and technology and flow of investment and people.
 
 According to the National Commission on Population, the share of the elderly in India’s population, close to 9% in 2011, is growing fast and may reach 18% by 2036. This shift is a result of a combination of factors, including increased life expectancy and declining birth rates.
 
@@ -6223,7 +6223,7 @@ In a country as diverse as India, regionalism is inevitable if the specific need
 
 ### Introduction
 
-** Women’s organizations are key to addressing the core problems faced by women in the society as they truly understand and develop solutions focused on women.
+Women’s organizations are key to addressing the core problems faced by women in the society as they truly understand and develop solutions focused on women.
 
 Radical feminists hold a deep conviction that only women can understand women’s problems and struggles. They believe membership should be only for women in social organizations and NGOs created to carry forward the fight against discrimination.
 
@@ -7339,7 +7339,7 @@ The urgency of addressing the crisis of availability and access to freshwater ca
 
 ### Introduction
 
-** Primary rock, also known as igneous rock, is formed through the solidification of molten material, such as magma or lava. It is characterized by its crystalline structure and diverse mineral composition. Primary rocks provide valuable insights into the Earth’s geological history and are essential components of the rock cycle.
+Primary rock, also known as igneous rock, is formed through the solidification of molten material, such as magma or lava. It is characterized by its crystalline structure and diverse mineral composition. Primary rocks provide valuable insights into the Earth’s geological history and are essential components of the rock cycle.
 
 **Body:**
 - **Type of Primary Rock:**
@@ -7453,7 +7453,7 @@ The IMD also provides detailed information on the potential impact of the cyclon
 
 ### Introduction
 
-** The Deccan Trap is a large volcanic feature located in west-central India. It has several natural resources that are economically valuable.
+The Deccan Trap is a large volcanic feature located in west-central India. It has several natural resources that are economically valuable.
 
 <p align="center"><img src="images/pw_geography_q648_img1.webp" alt="Deccan volcanic " /></p>
 
@@ -7492,7 +7492,7 @@ Deccan Traps is a region with diverse natural resources, which can contribute to
 
 ### Introduction
 
-** India is the world’s fourth largest country in terms of total wind installations after China, the USA and Germany. India has a manufacturing base of about 10 GW per annum. The total installed wind capacity in India is 40.8 GW as of June 30, 2022. States like Tamil Nadu, Gujarat, Karnataka, and Maharashtra were the leading markets for wind, accounting for 72.3% of the cumulative capacity.
+India is the world’s fourth largest country in terms of total wind installations after China, the USA and Germany. India has a manufacturing base of about 10 GW per annum. The total installed wind capacity in India is 40.8 GW as of June 30, 2022. States like Tamil Nadu, Gujarat, Karnataka, and Maharashtra were the leading markets for wind, accounting for 72.3% of the cumulative capacity.
 
 <p align="center"><img src="images/pw_geography_q660_img1.webp" alt="wind power installation" /></p>
 
@@ -7561,7 +7561,7 @@ Straits and isthmuses play an essential role in international trade, providing a
 
 ### Introduction
 
-** Ocean currents are the continuous, directed movements of seawater. They play an essential role in the earth’s climate and weather patterns, as well as in the distribution of marine life.
+Ocean currents are the continuous, directed movements of seawater. They play an essential role in the earth’s climate and weather patterns, as well as in the distribution of marine life.
 
 <p align="center"><img src="images/pw_geography_q693_img1.webp" alt="warm & cold currents" /></p>
 
@@ -7604,7 +7604,7 @@ Ocean currents are driven by various forces. Ocean currents play a critical role
 
 ### Introduction
 
-** The major mountain ranges of the world are aligned along tectonic plate boundaries, where the movement of the Earth’s crust has resulted in the formation of large mountainous regions. The alignment of these mountain ranges can have a significant impact on local weather conditions, influencing temperature, precipitation, and wind patterns.
+The major mountain ranges of the world are aligned along tectonic plate boundaries, where the movement of the Earth’s crust has resulted in the formation of large mountainous regions. The alignment of these mountain ranges can have a significant impact on local weather conditions, influencing temperature, precipitation, and wind patterns.
 
 <p align="center"><img src="images/pw_geography_q570_img1.webp" alt="major mountain ranges " /></p>
 
@@ -7695,7 +7695,7 @@ India’s mining industry has significant potential to contribute to the country
 
 ### Introduction
 
-** A landslide is a natural disaster that occurs when a mass of earth or rock suddenly moves downhill under the influence of gravity. It is common in many regions around the world, including the Himalayan region and the Western Ghats of India.
+A landslide is a natural disaster that occurs when a mass of earth or rock suddenly moves downhill under the influence of gravity. It is common in many regions around the world, including the Himalayan region and the Western Ghats of India.
 
 <p align="center"><img src="images/pw_geography_q580_img1.webp" alt="location of field sampling plots" /></p>
 
@@ -7815,7 +7815,7 @@ The occurrence of volcanic eruptions in 2021 had varying impacts that can be bot
 
 ### Introduction
 
-** Land reclamation is the process of creating new land from areas that were previously underwater or otherwise unusable. This process is usually undertaken for agricultural, industrial, or residential development purposes.
+Land reclamation is the process of creating new land from areas that were previously underwater or otherwise unusable. This process is usually undertaken for agricultural, industrial, or residential development purposes.
 
 **Body:**
 - **Loss of Biodiversity:** Water bodies are home to a diverse range of aquatic and semi-aquatic species. Reclaiming these areas for urban development can result in the loss of habitats and the displacement of wildlife. This can have significant ecological impacts and affect the food chain and the ecosystem. Like **Dal Lakein Srinagar.**
@@ -8202,7 +8202,7 @@ Global warming impacts on coral life are significant and complex, threatening ec
 
 ### Introduction
 
-** Mangroves are an important part of coastal ecosystems, providing a range of ecological, economic, and cultural benefits. Despite their importance, mangroves have been subject to significant depletion in recent decades, with estimates suggesting that up to 50% of mangrove forests have been lost globally.
+Mangroves are an important part of coastal ecosystems, providing a range of ecological, economic, and cultural benefits. Despite their importance, mangroves have been subject to significant depletion in recent decades, with estimates suggesting that up to 50% of mangrove forests have been lost globally.
 
 <p align="center"><img src="images/pw_geography_q438_img1.webp" alt="Mangroves cover state" /></p>
 
@@ -8333,7 +8333,7 @@ A well-developed urban mass transport system can be a game-changer for India’s
 
 ### Introduction
 
-** Ocean currents are continuous streams of water that flow in specific directions and paths. They can be cold or warm currents and exist on the ocean’s surface or deep within it.
+Ocean currents are continuous streams of water that flow in specific directions and paths. They can be cold or warm currents and exist on the ocean’s surface or deep within it.
 
 Water masses refer to distinct bodies of water characterized by their temperature, salinity, and density. Water masses, like the North Atlantic Deep Water found in the Norwegian Sea, differ from ocean currents as they represent large volumes of water with consistent properties rather than continuous flowing streams.
 
@@ -8432,7 +8432,7 @@ IRNSS is a critical technological development for India as it enhances the effic
 
 ### Introduction
 
-** India’s interest in the Arctic region is motivated by economic, strategic, scientific, and diplomatic factors. The region’s resource exploration potential, new trade routes, climate change impact, scientific research opportunities, and diplomatic engagement make it an attractive area for India.
+India’s interest in the Arctic region is motivated by economic, strategic, scientific, and diplomatic factors. The region’s resource exploration potential, new trade routes, climate change impact, scientific research opportunities, and diplomatic engagement make it an attractive area for India.
 
 <p align="center"><img src="images/pw_geography_q390_img1.webp" alt=" Arctic region " /></p>
 
@@ -9161,7 +9161,7 @@ The South China Sea’s geopolitical significance is due to its location as a vi
 
 ### Introduction
 
-** The Indian monsoon, one of the most significant weather phenomena in South Asia, is critical for the country’s agriculture, economy, and livelihoods. With climate change and human activities the monsoon pattern has changed.
+The Indian monsoon, one of the most significant weather phenomena in South Asia, is critical for the country’s agriculture, economy, and livelihoods. With climate change and human activities the monsoon pattern has changed.
 
 There is increasing evidence to suggest that human activities are affecting the behavior of the Indian monsoon:-
 

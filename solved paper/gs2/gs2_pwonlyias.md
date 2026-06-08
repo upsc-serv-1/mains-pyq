@@ -1455,14 +1455,14 @@ The Election Commission of India plays a crucial role in the evolution, implemen
 
 ### Introduction
 
-** The National Commission for Backward Classes (NCBC) was initially established as a statutory body under the National Commission for Backward Classes Act, 1993. In 2018, with the 102nd Constitutional Amendment Act, the NCBC was granted constitutional status, becoming an essential institution for safeguarding the interests of the socially and educationally backward classes in India.
+The National Commission for Backward Classes (NCBC) was initially established as a statutory body under the National Commission for Backward Classes Act, 1993. In 2018, with the 102nd Constitutional Amendment Act, the NCBC was granted constitutional status, becoming an essential institution for safeguarding the interests of the socially and educationally backward classes in India.
 
 <p align="center"><img src="images/pw_polity_q651_img1.webp" alt="NCBC" /></p>
 
 
 
 ### Body
-** Evolution and Expansion of NCBC: From Statutory to Constitutional
+Evolution and Expansion of NCBC: From Statutory to Constitutional
 
 
 
@@ -1782,7 +1782,7 @@ Initiatives like the introduction of gender diversity targets or quotas for publ
 
 ### Introduction
 
-** Department-related Parliamentary Standing Committees (DRPSCs) are crucial instruments of parliamentary control over the executive in India. They help in maintaining checks and balances by examining government policies, legislation, and administration.
+Department-related Parliamentary Standing Committees (DRPSCs) are crucial instruments of parliamentary control over the executive in India. They help in maintaining checks and balances by examining government policies, legislation, and administration.
 
 **Body:**
 - **Functions of DRPSCs:** Examining demands for grants and scrutinizing expenditure of ministries.
@@ -1825,7 +1825,7 @@ Addressing these challenges and strengthening the working of DRPSCs will contrib
 
 ### Introduction
 
-** India’s federal system features a bicameral legislature in certain states, with an Upper House called the Legislative Council, or Vidhan Parishad, complementing the Lower House or Legislative Assembly. States such as Andhra Pradesh, Bihar, Karnataka, Maharashtra, Telangana, and Uttar Pradesh have Legislative Councils, which are established under specific constitutional provisions.
+India’s federal system features a bicameral legislature in certain states, with an Upper House called the Legislative Council, or Vidhan Parishad, complementing the Lower House or Legislative Assembly. States such as Andhra Pradesh, Bihar, Karnataka, Maharashtra, Telangana, and Uttar Pradesh have Legislative Councils, which are established under specific constitutional provisions.
 
 **Body:**
 - **Constitutional provisions for the establishment of Legislative Councils:**
@@ -2118,7 +2118,7 @@ These Acts are examples of legislation that showcase these centralizing inclinat
 
 ### Introduction
 
-** The doctrine of separation of powers, as envisaged in the Indian Constitution, promotes the division of governmental responsibilities into distinct branches to limit any one branch from exercising the core functions of another. Judicial legislation, also known as judicial activism, occurs when the judiciary interprets the law or creates new legal principles, often encroaching upon the domain of the executive or legislature.
+The doctrine of separation of powers, as envisaged in the Indian Constitution, promotes the division of governmental responsibilities into distinct branches to limit any one branch from exercising the core functions of another. Judicial legislation, also known as judicial activism, occurs when the judiciary interprets the law or creates new legal principles, often encroaching upon the domain of the executive or legislature.
 
 **Body:**
 - **Need for judicial intervention:** The Indian judicial system has witnessed a large number of PILs, as citizens seek to address pressing social issues, protect fundamental rights, and hold the executive accountable. In many cases, the executive and legislative branches have been unable or unwilling to tackle these issues effectively. As a result, the judiciary has stepped in to bridge the gap and protect the rights of citizens.
@@ -2230,7 +2230,7 @@ The Rajya Sabha has been instrumental in upholding federalism, but there is pote
 
 ### Introduction
 
-** The Right to Information (RTI) Act was enacted in India in 2005 to promote transparency and accountability in the functioning of the government. The Information Commission, an independent institution, plays a crucial role in adjudicating on complaints and appeals filed under the RTI Act.
+The Right to Information (RTI) Act was enacted in India in 2005 to promote transparency and accountability in the functioning of the government. The Information Commission, an independent institution, plays a crucial role in adjudicating on complaints and appeals filed under the RTI Act.
 
 <p align="center"><img src="images/pw_polity_q533_img1.webp" alt="RTI" /></p>
 
@@ -2306,7 +2306,7 @@ As both nations continue to evolve and address contemporary challenges, their ju
 
 ### Introduction
 
-** The evolution of local institutions in India has witnessed a significant transition from their formative phase, which was primarily focused on ‘Functions, Functionaries, and Funds,’ to the contemporary stage emphasizing ‘Functionality.’ This shift underscores the importance of effective and efficient governance, service delivery, and responsiveness to the needs of local communities.
+The evolution of local institutions in India has witnessed a significant transition from their formative phase, which was primarily focused on ‘Functions, Functionaries, and Funds,’ to the contemporary stage emphasizing ‘Functionality.’ This shift underscores the importance of effective and efficient governance, service delivery, and responsiveness to the needs of local communities.
 
 <p align="center"><img src="images/pw_polity_q196_img1.webp" alt="significance of LSG " /></p>
 
@@ -2489,7 +2489,7 @@ This Act plays a crucial role in maintaining the integrity of the electoral proc
 
 ### Introduction
 
-** The Attorney-General of India is a constitutional position defined under Article 76 of the Indian Constitution. As the highest law officer in the country, the Attorney-General serves as the chief legal adviser and lawyer for the Government of India, representing the government in legal matters and advising them on various issues of law.
+The Attorney-General of India is a constitutional position defined under Article 76 of the Indian Constitution. As the highest law officer in the country, the Attorney-General serves as the chief legal adviser and lawyer for the Government of India, representing the government in legal matters and advising them on various issues of law.
 
 **Body:**
 - **Appointment and qualifications:** The Attorney-General is appointed by the President of India and must possess the qualifications required to be appointed as a judge of the Supreme Court, i.e., they must be a citizen of India, a distinguished jurist, or have been a judge of a High Court for at least five years, or an advocate of a High Court for at least ten years.
@@ -2927,7 +2927,7 @@ Addressing the challenges faced by businesses and states, and further simplifyin
 
 ### Introduction
 
-** Pressure groups are vital to the Indian political process, influencing decisions, shaping public opinion, and advocating for specific causes. Formal pressure groups are structured entities, such as trade unions and NGOs, while informal pressure groups are more loosely organized, including social movements and online communities. Both types of pressure groups contribute to a vibrant democracy by ensuring diverse voices are heard in policy-making.
+Pressure groups are vital to the Indian political process, influencing decisions, shaping public opinion, and advocating for specific causes. Formal pressure groups are structured entities, such as trade unions and NGOs, while informal pressure groups are more loosely organized, including social movements and online communities. Both types of pressure groups contribute to a vibrant democracy by ensuring diverse voices are heard in policy-making.
 
 <p align="center"><img src="images/pw_polity_q335_img1.webp" alt="features of Pressure groups" /></p>
 
@@ -3204,7 +3204,7 @@ The Act, however, significantly influenced the framing of the Constitution of In
 
 ### Introduction
 
-** The Preamble of the Indian Constitution serves as the guiding light for the nation, setting forth its fundamental principles and values. Among these principles, India is declared as a “Sovereign Socialist Secular Democratic Republic,” representing the key features of the country’s political and social fabric. These adjectives reflect the aspirations of the founding fathers and continue to guide India’s development and progress.
+The Preamble of the Indian Constitution serves as the guiding light for the nation, setting forth its fundamental principles and values. Among these principles, India is declared as a “Sovereign Socialist Secular Democratic Republic,” representing the key features of the country’s political and social fabric. These adjectives reflect the aspirations of the founding fathers and continue to guide India’s development and progress.
 
 <p align="center"><img src="images/pw_polity_q253_img1.webp" alt="value of preamble" /></p>
 
@@ -3411,7 +3411,7 @@ These bodies are essential for providing efficient, specialized, and focused dis
 
 ### Introduction
 
-** The I.R. Coelho v. State of Tamil Nadu (2007), is a landmark judgment by the Supreme Court of India that significantly reinforced the doctrine of the basic structure of the Constitution and the importance of judicial review.
+The I.R. Coelho v. State of Tamil Nadu (2007), is a landmark judgment by the Supreme Court of India that significantly reinforced the doctrine of the basic structure of the Constitution and the importance of judicial review.
 
 **Body:**
 - **In the Coelho case, the Supreme Court held that any law placed in the Ninth Schedule of the Indian Constitution, which provides a protective shield against judicial scrutiny, is not immune from judicial review:** if it violates the basic structure of the Constitution.
@@ -3928,7 +3928,7 @@ The Constitution of India, while predominantly federal, does exhibit certain uni
 - **In the context of hate speech, it’s important to note that the Indian legal framework does not explicitly define “hate speech.”:** However, it has been addressed in various sections of the **Indian Penal Code (IPC), such as Sections 153A, 153B, 295A, and 505.
 - **These provisions criminalize any speech, words, signs, or visible representation that can incite hatred or cause harm based on religion, race, place of birth, residence, language, caste, or community.:** Therefore, while freedom of speech is a fundamental right, hate speech, as generally understood, is not protected under it due to its potential to disrupt public order and incite violence. **
 
-** Turning to the issue of films, they indeed occupy a unique space within the sphere of free speech in India.
+Turning to the issue of films, they indeed occupy a unique space within the sphere of free speech in India.
 - **Despite being a form of artistic expression, films are subject to pre-censorship in India:** under the Cinematograph Act of 1952, which established the Central Board of Film Certification (CBFC).
 - **This is different from other forms of artistic expression, such as books or paintings, which are not subject to such prior restraint.:**
 
@@ -4034,7 +4034,7 @@ Therefore, while Section 66A of the IT Act was intended to protect individuals a
 
 ### Introduction
 
-** The 13th Finance Commission, chaired by Dr. Vijay Kelkar, covered the period from 2010 to 2015. It made several significant recommendations, marking a shift from its predecessors, to strengthen the financial status of local governments – both rural (Panchayats) and urban (Municipalities).
+The 13th Finance Commission, chaired by Dr. Vijay Kelkar, covered the period from 2010 to 2015. It made several significant recommendations, marking a shift from its predecessors, to strengthen the financial status of local governments – both rural (Panchayats) and urban (Municipalities).
 
 **Body:**
 - **Performance-Based Grants:** For the first time, the 13th Finance Commission introduced the concept of performance-based grants, wherein a certain portion of the grants was tied to the achievement of specific performance criteria by the local bodies. This incentivised local bodies to improve their performance.
@@ -4101,7 +4101,7 @@ Resolving this tension requires balancing respect for the constitutional provisi
 
 ### Introduction
 
-** The Anti-Defection Law was introduced via the 52nd amendment to the Indian Constitution in 1985, which added the 10th Schedule to the Indian Constitution. The aim of this law was to curb political defections, which were causing instability in the government and undermining the faith of the electorate. The law prohibits elected members from defecting to another party after elections, and if they do, they are liable to be disqualified from their position.
+The Anti-Defection Law was introduced via the 52nd amendment to the Indian Constitution in 1985, which added the 10th Schedule to the Indian Constitution. The aim of this law was to curb political defections, which were causing instability in the government and undermining the faith of the electorate. The law prohibits elected members from defecting to another party after elections, and if they do, they are liable to be disqualified from their position.
 
 <p align="center"><img src="images/pw_polity_q62_img1.webp" alt="responsibilities of MP" /></p>
 
@@ -4897,7 +4897,7 @@ The Rights of Persons with Disabilities Act, 2016 is a significant milestone in 
 
 ### Introduction
 
-** The decentralization of power in India has significantly changed the governance landscape at the grassroots level. The 73rd and 74th Constitutional Amendments in 1992, which formalized the Panchayati Raj system and urban local bodies, respectively, have been instrumental in this process.
+The decentralization of power in India has significantly changed the governance landscape at the grassroots level. The 73rd and 74th Constitutional Amendments in 1992, which formalized the Panchayati Raj system and urban local bodies, respectively, have been instrumental in this process.
 
 <p align="center"><img src="images/pw_governance_q691_img1.webp" alt="decentralization" /></p>
 
@@ -5174,7 +5174,7 @@ By promoting local participation, responsiveness, and accountability, multi-leve
 
 ### Introduction
 
-** E-governance refers to the application of information and communication technology (ICT) to deliver government services, exchange information, facilitate communication, and improve the overall efficiency, transparency, and accountability of government processes.
+E-governance refers to the application of information and communication technology (ICT) to deliver government services, exchange information, facilitate communication, and improve the overall efficiency, transparency, and accountability of government processes.
 
 <p align="center"><img src="images/pw_governance_q405_img1.webp" alt="image 2023 12 29T122229.181" /></p>
 
@@ -5326,7 +5326,7 @@ By addressing the various challenges and implementing the necessary reforms, the
 
 ### Introduction
 
-** The emergence of Self Help Groups (SHGs) in contemporary times has significantly contributed to developmental activities in India, particularly in rural areas. While it may be argued that the growth of SHGs indicates a slow withdrawal of the state from developmental activities, it can also be seen as a complementary strategy to empower communities and promote sustainable development.
+The emergence of Self Help Groups (SHGs) in contemporary times has significantly contributed to developmental activities in India, particularly in rural areas. While it may be argued that the growth of SHGs indicates a slow withdrawal of the state from developmental activities, it can also be seen as a complementary strategy to empower communities and promote sustainable development.
 
 <p align="center"><img src="images/pw_governance_q362_img1.webp" alt="image 2023 12 29T130744.720" /></p>
 
@@ -5709,7 +5709,7 @@ The autonomy of regulatory institutions is not an end in itself but a means to a
 
 ### Introduction
 
-** The Satyam Scandal, often referred to as “India’s Enron,” was a corporate scandal affecting India-based company Satyam Computer Services in 2009, where the chairman Ramalinga Raju confessed that the company’s accounts had been falsified.
+The Satyam Scandal, often referred to as “India’s Enron,” was a corporate scandal affecting India-based company Satyam Computer Services in 2009, where the chairman Ramalinga Raju confessed that the company’s accounts had been falsified.
 
 <p align="center"><img src="images/pw_governance_q197_img1.webp" alt="image 2023 12 29T135123.917" /></p>
 
@@ -5790,7 +5790,7 @@ Despite these efforts, the influence of Khap Panchayats persists, primarily due 
 
 ### Introduction
 
-** The Self-Help Group (SHG) Bank Linkage Programme (SBLP) is a unique initiative in India that aims to enable SHGs, particularly those composed of women from marginalized sections of society, to access formal banking services. Started in 1992 by NABARD (National Bank for Agriculture and Rural Development), the program has proven to be one of the most effective tools for poverty alleviation and women empowerment in India.
+The Self-Help Group (SHG) Bank Linkage Programme (SBLP) is a unique initiative in India that aims to enable SHGs, particularly those composed of women from marginalized sections of society, to access formal banking services. Started in 1992 by NABARD (National Bank for Agriculture and Rural Development), the program has proven to be one of the most effective tools for poverty alleviation and women empowerment in India.
 
 **Body:**
 - **Financial Inclusion:** The SBLP has significantly contributed to financial inclusion in India by enabling millions of women from low-income groups to access formal banking services.
@@ -5868,7 +5868,7 @@ While the cadre-based civil services in India have certain structural issues tha
 
 ### Introduction
 
-** Self Help Groups (SHGs), formed on the premise of collective effort and shared responsibility, have emerged as a pivotal social innovation for promoting participatory development, particularly in the rural context. By catalyzing small-scale entrepreneurship, enhancing financial literacy, and fostering economic inclusion, SHGs have the potential to address the socio-economic gaps that persist in rural areas.
+Self Help Groups (SHGs), formed on the premise of collective effort and shared responsibility, have emerged as a pivotal social innovation for promoting participatory development, particularly in the rural context. By catalyzing small-scale entrepreneurship, enhancing financial literacy, and fostering economic inclusion, SHGs have the potential to address the socio-economic gaps that persist in rural areas.
 
 <p align="center"><img src="images/pw_governance_q145_img1.webp" alt="image 2023 12 29T140011.366" /></p>
 
@@ -6121,7 +6121,7 @@ Despite the potential benefits, there are challenges in implementing the electro
 
 ### Introduction
 
-** The reorganization and bifurcation of administrative areas have been ongoing processes in India since independence, aimed at improving governance and administrative efficiency. While the bifurcation of districts and talukas is a common practice at the local level, the creation of smaller states is a much-debated topic in India’s political and administrative discourse.
+The reorganization and bifurcation of administrative areas have been ongoing processes in India since independence, aimed at improving governance and administrative efficiency. While the bifurcation of districts and talukas is a common practice at the local level, the creation of smaller states is a much-debated topic in India’s political and administrative discourse.
 
 <p align="center"><img src="images/pw_governance_q44_img1.webp" alt="image 2023 12 29T151125.069" /></p>
 
@@ -6332,7 +6332,7 @@ The diversification and overlap of financial products and services indeed streng
 
 ### Introduction
 
-** Introduced in India in 1997, Citizen’s Charters aimed to enhance governance by stipulating service delivery standards for public sector organizations. However, despite being in operation for over two decades, their impact on augmenting citizen satisfaction and improving service quality hasn’t been significantly substantial.
+Introduced in India in 1997, Citizen’s Charters aimed to enhance governance by stipulating service delivery standards for public sector organizations. However, despite being in operation for over two decades, their impact on augmenting citizen satisfaction and improving service quality hasn’t been significantly substantial.
 
 <p align="center"><img src="images/pw_governance_q67_img1.webp" alt="image 2023 12 29T180011.587" /></p>
 
@@ -6881,7 +6881,7 @@ By overcoming these challenges, NGOs and Civil Society can play a vital role in 
 
 ### Introduction
 
-** Microfinancing of women Self-Help Groups (SHGs) has emerged as a powerful tool for empowering women and addressing various socio-economic challenges, such as gender inequality, poverty, and malnutrition. By providing women with access to financial resources and promoting economic independence, microfinancing can play a significant role in breaking the vicious cycle.
+Microfinancing of women Self-Help Groups (SHGs) has emerged as a powerful tool for empowering women and addressing various socio-economic challenges, such as gender inequality, poverty, and malnutrition. By providing women with access to financial resources and promoting economic independence, microfinancing can play a significant role in breaking the vicious cycle.
 
 <p align="center"><img src="images/pw_social_justice_q573_img1.webp" alt="image 2023 12 29T155821.331 1" /></p>
 
@@ -6937,7 +6937,7 @@ Through the successful implementation of microfinancing programs, such as the Gr
 
 ### Introduction
 
-** The “Earn while you Learn” scheme combines vocational education and skill training with on-the-job practical experience, providing students with the opportunity to gain real-world work experience while pursuing their studies. This approach is essential for making vocational education and skill training more meaningful and relevant to the demands of the job market.
+The “Earn while you Learn” scheme combines vocational education and skill training with on-the-job practical experience, providing students with the opportunity to gain real-world work experience while pursuing their studies. This approach is essential for making vocational education and skill training more meaningful and relevant to the demands of the job market.
 
 **Body:**
 - **Relevance to industry requirements:** Strengthening the “Earn while you Learn” scheme ensures that the vocational education and skill training curricula are aligned with industry requirements.
@@ -7049,7 +7049,7 @@ By focusing on preventive care, accessibility, workforce development, mental hea
 
 ### Introduction
 
-** Micro-finance has emerged as a powerful instrument for poverty reduction, asset creation, and income security in developing countries, including India. Self Help Groups (SHGs) have been instrumental in providing microfinance services to rural poor, especially women.
+Micro-finance has emerged as a powerful instrument for poverty reduction, asset creation, and income security in developing countries, including India. Self Help Groups (SHGs) have been instrumental in providing microfinance services to rural poor, especially women.
 
 <p align="center"><img src="images/pw_social_justice_q521_img1.webp" alt="image 2023 12 29T162141.093" /></p>
 
@@ -7492,7 +7492,7 @@ Only with steadfast political commitment can these programs transition from mere
 
 ### Introduction
 
-** The Water, Sanitation, and Hygiene (WASH) scheme aims to improve public health and well-being by providing access to clean water, adequate sanitation facilities, and promoting good hygiene practices. Ensuring effective implementation of policies addressing WASH needs requires synchronizing the identification of beneficiary segments with the anticipated outcomes.
+The Water, Sanitation, and Hygiene (WASH) scheme aims to improve public health and well-being by providing access to clean water, adequate sanitation facilities, and promoting good hygiene practices. Ensuring effective implementation of policies addressing WASH needs requires synchronizing the identification of beneficiary segments with the anticipated outcomes.
 
 <p align="center"><img src="images/pw_social_justice_q370_img1.webp" alt="image 2023 12 29T165115.243" /></p>
 
@@ -7701,7 +7701,7 @@ While the private sector can play a significant role in bridging the gap in univ
 
 ### Introduction
 
-** The quality of higher education in India is a matter of concern as highlighted by various international rankings like the QS World University Rankings and Times Higher Education World University Rankings, where Indian universities often rank low.
+The quality of higher education in India is a matter of concern as highlighted by various international rankings like the QS World University Rankings and Times Higher Education World University Rankings, where Indian universities often rank low.
 
 <p align="center"><img src="images/pw_social_justice_q222_img1.webp" alt="image 2023 12 29T172639.773" /></p>
 
@@ -8649,7 +8649,7 @@ Despite the ‘Virus of Conflict’ permeating the SCO, India leverages its dipl
 
 ### Introduction
 
-** India’s climate change policy has shifted from energy security to global leadership in clean energy. Its diplomatic stance at COP reflects a pro-environment outlook. India’s acceptance of net-zero commitments emphasizes its commitment based on common but differentiated responsibilities. The Panchamrit agenda outlines ambitious targets for renewable energy, carbon reduction, and achieving net-zero, showcasing India’s commitment and intent for clean energy leadership.
+India’s climate change policy has shifted from energy security to global leadership in clean energy. Its diplomatic stance at COP reflects a pro-environment outlook. India’s acceptance of net-zero commitments emphasizes its commitment based on common but differentiated responsibilities. The Panchamrit agenda outlines ambitious targets for renewable energy, carbon reduction, and achieving net-zero, showcasing India’s commitment and intent for clean energy leadership.
 
 **Body:**
 - **Paris Agreement and Nationally Determined Contributions (NDCs):** India played a crucial role in the negotiations and ratification of the Paris Agreement. It committed to reducing its emissions intensity and increasing the share of non-fossil fuel-based power generation in its NDCs.
@@ -8716,7 +8716,7 @@ The 12U2 grouping has the potential to significantly enhance India’s position 
 
 ### Introduction
 
-** The Shanghai Cooperation Organisation (SCO) is an intergovernmental organization founded in 2001 with the objective of political, economic and security cooperation between the member nations. India became a permanent member of the SCO in 2017.
+The Shanghai Cooperation Organisation (SCO) is an intergovernmental organization founded in 2001 with the objective of political, economic and security cooperation between the member nations. India became a permanent member of the SCO in 2017.
 
 **Body:**
 - **Aims and Objectives of SCO:**
@@ -8763,7 +8763,7 @@ The SCO holds significant importance for India as it provides a platform for Ind
 
 ### Introduction
 
-** The last few decades have seen extraordinary growth of Asian countries, particularly China, India, Japan, and South Korea. The paradigm is now tilting towards Africa.
+The last few decades have seen extraordinary growth of Asian countries, particularly China, India, Japan, and South Korea. The paradigm is now tilting towards Africa.
 
 <p align="center"><img src="images/pw_international_relations_q603_img1.webp" alt="India- Africa" /></p>
 
@@ -8809,7 +8809,7 @@ India’s longstanding ties with Africa and its diplomatic and economic initiati
 
 ### Introduction
 
-** The recent announcement of the trilateral security partnership between Australia, the United Kingdom, and the United States, known as AUKUS, has drawn attention for its potential impact on the Indo-Pacific region. AUKUS aims to counter China’s growing influence in the region and has already sparked controversy.
+The recent announcement of the trilateral security partnership between Australia, the United Kingdom, and the United States, known as AUKUS, has drawn attention for its potential impact on the Indo-Pacific region. AUKUS aims to counter China’s growing influence in the region and has already sparked controversy.
 
 <p align="center"><img src="images/pw_international_relations_q618_img1.webp" alt="Aukus" /></p>
 
@@ -8845,7 +8845,7 @@ AUKUS is a significant development in the Indo-Pacific region that has the poten
 
 ### Introduction
 
-** The United States of America (USA) and China are currently engaged in a complex geopolitical rivalry that has been dubbed the “new Cold War.” China’s emergence as a global superpower has made it a significant competitor for the USA, leading to concerns about the future of the international order.
+The United States of America (USA) and China are currently engaged in a complex geopolitical rivalry that has been dubbed the “new Cold War.” China’s emergence as a global superpower has made it a significant competitor for the USA, leading to concerns about the future of the international order.
 
 **Body:**
 - **Comparison with USSR and China:**
@@ -8932,7 +8932,7 @@ The COVID-19 pandemic has highlighted the importance of global health security, 
 
 ### Introduction
 
-** According to a Ministry of External Affairs report, there are 32 million NRIs and PIOs (inc. OCIs) residing outside India and overseas Indians comprise the world’s largest overseas diaspora. Every year 2.5 million (25 lakhs) Indians migrate overseas, which is the highest annual number of migrants in the world. India’s large diaspora is distributed across the United Arab Emirates (3.5 million), the United States of America (2.7 million) and Saudi Arabia (2.5 million). Other countries hosting large numbers of Indian migrants included Australia, Canada, Kuwait, Oman, Pakistan, Qatar and the United Kingdom.
+According to a Ministry of External Affairs report, there are 32 million NRIs and PIOs (inc. OCIs) residing outside India and overseas Indians comprise the world’s largest overseas diaspora. Every year 2.5 million (25 lakhs) Indians migrate overseas, which is the highest annual number of migrants in the world. India’s large diaspora is distributed across the United Arab Emirates (3.5 million), the United States of America (2.7 million) and Saudi Arabia (2.5 million). Other countries hosting large numbers of Indian migrants included Australia, Canada, Kuwait, Oman, Pakistan, Qatar and the United Kingdom.
 
 <p align="center"><img src="images/pw_international_relations_q348_img1.webp" alt="Indian Diaspora" /></p>
 
@@ -8972,7 +8972,7 @@ The Indian diaspora has emerged as a powerful force, influencing the economic an
 
 ### Introduction
 
-** The Quadrilateral Security Dialogue, commonly known as QUAD, was established in 2007 as a military alliance among the United States, Japan, Australia, and India. However, in recent years, there has been a shift towards transforming QUAD into a trade bloc.
+The Quadrilateral Security Dialogue, commonly known as QUAD, was established in 2007 as a military alliance among the United States, Japan, Australia, and India. However, in recent years, there has been a shift towards transforming QUAD into a trade bloc.
 
 **Body:**
 - **The QUAD’s initial focus was on security and military cooperation:** Its primary focus was on security and military cooperation in the Indo-Pacific region.
@@ -9138,7 +9138,7 @@ India’s relations with Israel have acquired a depth and diversity that cannot 
 
 ### Introduction
 
-** A trade war is an economic conflict between nations characterized by the imposition of tariffs and trade barriers to protect domestic industries and gain leverage in international trade negotiations. The World Trade Organization (WTO) was established in 1995 to supervise and liberalize international trade. Recent trade wars between the US and other countries have highlighted the need for reforms to ensure the survival of the WTO.
+A trade war is an economic conflict between nations characterized by the imposition of tariffs and trade barriers to protect domestic industries and gain leverage in international trade negotiations. The World Trade Organization (WTO) was established in 1995 to supervise and liberalize international trade. Recent trade wars between the US and other countries have highlighted the need for reforms to ensure the survival of the WTO.
 
 **Body:**
 - **Current Issues in the WTO:**
@@ -9214,7 +9214,7 @@ India’s relations with Iran are complex and go beyond geopolitical and geo-eco
 
 ### Introduction
 
-** China’s rapid rise as an economic and military superpower has significant implications for India, its neighbor. China has been using its economic relations and trade surplus as a tool to enhance its military power in Asia, as seen through initiatives such as the Belt and Road Initiative and the China Pakistan Economic Corridor.
+China’s rapid rise as an economic and military superpower has significant implications for India, its neighbor. China has been using its economic relations and trade surplus as a tool to enhance its military power in Asia, as seen through initiatives such as the Belt and Road Initiative and the China Pakistan Economic Corridor.
 
 **Body:**
 - **Impact of China’s rise on India:**
@@ -9247,7 +9247,7 @@ China’s rapid rise as an economic and military powerhouse poses significant ch
 
 ### Introduction
 
-** India and South East Asia have shared a long history of economic, cultural, and trading ties since the Chola period. The Indian diaspora in the region has contributed significantly to its economy and society. Moreover, India’s trade with South East Asia accounts for approximately 10.2% of all Indian trade, indicating the region’s economic and strategic importance.
+India and South East Asia have shared a long history of economic, cultural, and trading ties since the Chola period. The Indian diaspora in the region has contributed significantly to its economy and society. Moreover, India’s trade with South East Asia accounts for approximately 10.2% of all Indian trade, indicating the region’s economic and strategic importance.
 
 <p align="center"><img src="images/pw_international_relations_q348_img1.webp" alt="Indian Diaspora" /></p>
 
@@ -9285,7 +9285,7 @@ The Indian diaspora has played a crucial role in the economic and social develop
 
 ### Introduction
 
-** The United Nations Economic and Social Council (ECOSOC) is a principal organ of the United Nations and plays a vital role in promoting international economic and social cooperation. It serves as a platform for the coordination and cooperation of various United Nations bodies, specialized agencies, and other international organizations.
+The United Nations Economic and Social Council (ECOSOC) is a principal organ of the United Nations and plays a vital role in promoting international economic and social cooperation. It serves as a platform for the coordination and cooperation of various United Nations bodies, specialized agencies, and other international organizations.
 
 **Body:**
 - **Main Functions of ECOSOC:**
@@ -9323,7 +9323,7 @@ The United Nations Economic and Social Council (ECOSOC) is a critical organ of t
 
 ### Introduction
 
-** India’s Look East Policy (LEP) was launched in 1991 to strengthen India’s economic and strategic ties with Southeast Asia, East Asia, and the Pacific. It aimed to leverage India’s geographical proximity to these regions and tap into their dynamic economies to accelerate India’s own economic growth.
+India’s Look East Policy (LEP) was launched in 1991 to strengthen India’s economic and strategic ties with Southeast Asia, East Asia, and the Pacific. It aimed to leverage India’s geographical proximity to these regions and tap into their dynamic economies to accelerate India’s own economic growth.
 
 **India’s Look East Policy of the Post-Cold War International Scenario:**
 - **Economic Dimension:**
@@ -9367,7 +9367,7 @@ India’s Look East Policy has been a significant success, both in terms of econ
 
 ### Introduction
 
-** The South Asian Association for Regional Cooperation (SAARC), established in 1985, has faced significant limitations in its effectiveness due to persistent tensions and disagreements between India and Pakistan. Over the past few years, SAARC has been largely inactive, primarily due to friction between the two countries. This article explores the consequences of this situation and the importance of engaging Pakistan to address the economic and security challenges faced by SAARC member nations.
+The South Asian Association for Regional Cooperation (SAARC), established in 1985, has faced significant limitations in its effectiveness due to persistent tensions and disagreements between India and Pakistan. Over the past few years, SAARC has been largely inactive, primarily due to friction between the two countries. This article explores the consequences of this situation and the importance of engaging Pakistan to address the economic and security challenges faced by SAARC member nations.
 
 **Body:**
 - **Friction between India and Pakistan:** The attack on an Indian Army camp in **Uri by militants** crossing the Line of Control in India-administered Kashmir further heightened the tensions between India and Pakistan. The Indian government condemned Pakistan strongly and sought to isolate Islamabad on the international stage. India’s decision to withdraw from the 19th SAARC Summit in Islamabad in 2016 was a clear indication of its stance.
@@ -9395,7 +9395,7 @@ Tensions and disagreements between India and Pakistan have hampered SAARC’s ef
 
 ### Introduction
 
-** India has taken a firm stand against the inclusion of ‘new issues’ such as labor and environment within the purview of the World Trade Organization (WTO). The country emphasizes resolving outstanding matters related to the Doha Round negotiations before discussing non-trade and WTO-plus issues. India, along with other developing countries, is concerned that addressing these new issues prematurely could hinder global trade and disadvantage developing nations.
+India has taken a firm stand against the inclusion of ‘new issues’ such as labor and environment within the purview of the World Trade Organization (WTO). The country emphasizes resolving outstanding matters related to the Doha Round negotiations before discussing non-trade and WTO-plus issues. India, along with other developing countries, is concerned that addressing these new issues prematurely could hinder global trade and disadvantage developing nations.
 
 **Body:**
 - **The Significance of Doha Round:** India’s primary contention lies in the fact that the Nairobi declaration failed to reaffirm the mandate of the Doha Round, which aimed to foster global trade liberalization. Therefore, India insists on prioritizing the resolution of outstanding issues from the Doha Round negotiations before engaging in discussions on non-trade matters.
@@ -9432,7 +9432,7 @@ India’s efforts to prevent the introduction of ‘new issues’ in the WTO, an
 
 ### Introduction
 
-** The McBride Commission of UNESCO was established in 1977 to examine the relationship between the mass media and the process of development. The commission aimed to promote a new world information order that would prioritize the needs and interests of developing countries in the global media landscape.
+The McBride Commission of UNESCO was established in 1977 to examine the relationship between the mass media and the process of development. The commission aimed to promote a new world information order that would prioritize the needs and interests of developing countries in the global media landscape.
 
 <p align="center"><img src="images/pw_international_relations_q300_img1.webp" alt="objective of UNESCO" /></p>
 
@@ -9472,7 +9472,7 @@ The UNESCO’s McBride Commission aimed to tackle media concentration and inform
 
 ### Introduction
 
-** The United Nations Security Council (UNSC) plays a vital role in maintaining global peace and security, including authorizing the use of force, imposing sanctions, and establishing peacekeeping operations. Permanent membership on the UNSC is important because it grants a country a veto power, enabling it to block any UNSC resolution, and provides an opportunity to shape international policy, enhancing its influence and status in the global arena.
+The United Nations Security Council (UNSC) plays a vital role in maintaining global peace and security, including authorizing the use of force, imposing sanctions, and establishing peacekeeping operations. Permanent membership on the UNSC is important because it grants a country a veto power, enabling it to block any UNSC resolution, and provides an opportunity to shape international policy, enhancing its influence and status in the global arena.
 
 <p align="center"><img src="images/pw_international_relations_q183_img1.webp" alt="Approach for UNSC" /></p>
 
@@ -9510,7 +9510,7 @@ India’s pursuit of a permanent seat in the UNSC has been hampered by several f
 
 ### Introduction
 
-** India’s growing interest in Africa has been marked by increased economic, strategic, and cultural engagements with African countries. While this presents several opportunities for both India and Africa, it raises concerns about the potential negative consequences of such engagement.
+India’s growing interest in Africa has been marked by increased economic, strategic, and cultural engagements with African countries. While this presents several opportunities for both India and Africa, it raises concerns about the potential negative consequences of such engagement.
 
 **Body:**
 - **Pros of India’s Increasing Interest in Africa:**
@@ -9547,7 +9547,7 @@ India’s increasing interest in Africa presents several opportunities for both 
 
 ### Introduction
 
-** Project Mausam is an Indian government initiative launched in 2014 to explore the historical and cultural linkages between countries in the Indian Ocean region. The project seeks to promote greater cultural understanding and people-to-people exchanges between India and its neighbors, enhancing regional cooperation and stability.
+Project Mausam is an Indian government initiative launched in 2014 to explore the historical and cultural linkages between countries in the Indian Ocean region. The project seeks to promote greater cultural understanding and people-to-people exchanges between India and its neighbors, enhancing regional cooperation and stability.
 
 **The project has a strategic dimension that can help India advance its strategic interests in the region.**
 - **Strategic dimension of Project Mausam:**
@@ -9794,7 +9794,7 @@ India and China’s bilateral issues in the South China Sea region have become a
 
 ### Introduction
 
-** The World Trade Organization (WTO) holds a crucial position as an international institution, impacting countries profoundly through the decisions it takes. Established in 1995, the WTO serves as a platform for member nations to negotiate and regulate global trade rules, resolve trade disputes, and promote economic cooperation.
+The World Trade Organization (WTO) holds a crucial position as an international institution, impacting countries profoundly through the decisions it takes. Established in 1995, the WTO serves as a platform for member nations to negotiate and regulate global trade rules, resolve trade disputes, and promote economic cooperation.
 
 **Body:**
 - **Role and Implications of WTO Decisions:** Decisions made within the WTO framework have far-reaching implications for economies worldwide. The organization’s agreements cover various sectors, including goods, services, intellectual property rights, and trade-related aspects of investment. These agreements shape trade policies and regulations, impacting market access, tariffs, subsidies, and other trade-related measures.
@@ -9974,7 +9974,7 @@ The protests in Shahbag Square highlighted the clash between secular and Islamis
 
 ### Introduction
 
-** The World Bank (WB) and the International Monetary Fund (IMF) are two intergovernmental organizations established at the Bretton Woods Conference in 1944. Some commonalities, their role in promoting global economic development, their functions and mandates are distinct and different from one another.
+The World Bank (WB) and the International Monetary Fund (IMF) are two intergovernmental organizations established at the Bretton Woods Conference in 1944. Some commonalities, their role in promoting global economic development, their functions and mandates are distinct and different from one another.
 
 **Body:**
 - **Elucidate these differences:**
@@ -10007,7 +10007,7 @@ The World Bank and the IMF are two important institutions in the global economic
 
 ### Introduction
 
-** The “String of Pearls” is a term used to describe China’s strategic encirclement of India through the development of a network of ports and military bases in the Indian Ocean region. It refers to China’s efforts to establish a “string” of naval bases, commercial ports, and other facilities in countries surrounding India, Pakistan, Sri Lanka, Myanmar, and Bangladesh.
+The “String of Pearls” is a term used to describe China’s strategic encirclement of India through the development of a network of ports and military bases in the Indian Ocean region. It refers to China’s efforts to establish a “string” of naval bases, commercial ports, and other facilities in countries surrounding India, Pakistan, Sri Lanka, Myanmar, and Bangladesh.
 
 <p align="center"><img src="images/pw_international_relations_q76_img1.webp" alt="String of Pearls" /></p>
 
@@ -10050,7 +10050,7 @@ India has been taking several steps to counter China’s ‘String of Pearls’ 
 
 ### Introduction
 
-** The Gujral Doctrine refers to a set of principles proposed by the former Indian Prime Minister, I.K. Gujral, in the 1990s. The doctrine aims to promote peaceful and friendly relations between India and its neighboring countries, particularly Pakistan.
+The Gujral Doctrine refers to a set of principles proposed by the former Indian Prime Minister, I.K. Gujral, in the 1990s. The doctrine aims to promote peaceful and friendly relations between India and its neighboring countries, particularly Pakistan.
 
 **Body:**
 - **The Gujral Doctrine is based on five principles:**

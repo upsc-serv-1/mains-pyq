@@ -1298,7 +1298,7 @@ Despite its many benefits, the **level of processing of agricultural produce is 
 
 ### Introduction
 
-** As per OECD, inclusive growth is economic growth that is distributed fairly across society and creates opportunities for all. In a market economy, the production of goods and services is directed by the laws of supply and demand and is driven by profit with no government intervention.
+As per OECD, inclusive growth is economic growth that is distributed fairly across society and creates opportunities for all. In a market economy, the production of goods and services is directed by the laws of supply and demand and is driven by profit with no government intervention.
 
 <p align="center"><img src="images/pw_economic_development_q670_img1.webp" alt="inclusive growth" /></p>
 
@@ -1397,7 +1397,7 @@ Investing a little to engage the elderly in communities can improve their health
 
 ### Introduction
 
-** Agricultural marketing refers to movement of agricultural produce from farm land to the end-consumers. It is an important part of the agricultural value chain. A well-developed agriculture market can streamline the supply chain, eliminate intermediaries, reduce post-harvest losses, double farmers’ income and keep prices affordable for the consumers.
+Agricultural marketing refers to movement of agricultural produce from farm land to the end-consumers. It is an important part of the agricultural value chain. A well-developed agriculture market can streamline the supply chain, eliminate intermediaries, reduce post-harvest losses, double farmers’ income and keep prices affordable for the consumers.
 
 Upstream in Indian agricultural marketing refers to the raw materials required for production, whereas downstream is the other end, where products are made and delivered.
 
@@ -1494,7 +1494,7 @@ PDS is a scheme that has become the lifeline for millions and its role was clear
 
 ### Introduction
 
-** Integrated farming system is a type of agriculture that aims to create a balanced and sustainable ecosystem by combining different types of farming practices, such as crop production, animal husbandry, and forestry. The combination is such that the waste of one process becomes the input for other processes.
+Integrated farming system is a type of agriculture that aims to create a balanced and sustainable ecosystem by combining different types of farming practices, such as crop production, animal husbandry, and forestry. The combination is such that the waste of one process becomes the input for other processes.
 
 The main goal of integrated farming is to optimize the use of resources, reduce the need for external inputs, and increase the overall productivity and profitability of the farm along with year-round employment.
 
@@ -1671,7 +1671,7 @@ The shift in the method of GDP calculation depicts dynamism in the growth calcul
 
 ### Introduction
 
-** Water is a scarce natural resource. India has 18% of the world’s population but just 4% of the water resources, making it among the most water-stressed in the world. Most of this water is used in agriculture for irrigation purposes. The efficient use of available water for irrigation is a major challenge.
+Water is a scarce natural resource. India has 18% of the world’s population but just 4% of the water resources, making it among the most water-stressed in the world. Most of this water is used in agriculture for irrigation purposes. The efficient use of available water for irrigation is a major challenge.
 
 Micro-irrigation is a modern method of irrigation by which water is irrigated through drippers, sprinklers, foggers and by other emitters on the surface or subsurface of the land. Sprinkler irrigation and drip irrigation are the commonly used micro-irrigation methods.
 
@@ -1712,7 +1712,7 @@ Overall, micro-irrigation has the potential to make a significant contribution t
 
 ### Introduction
 
-** Land reform refers to efforts to reform ownership, operation, leasing, sales, and property rights of land in India. The Indian Government was committed to land reforms and to ensure distributive justice as was promised during the freedom struggle. Post Independent India has seen movements like Bhoodan and Gramdan which were persuasive in nature. Later, laws were passed by Governments for abolishing landlordism, distributing land through imposition of ceilings, protection of tenants and consolidation of land-holdings.
+Land reform refers to efforts to reform ownership, operation, leasing, sales, and property rights of land in India. The Indian Government was committed to land reforms and to ensure distributive justice as was promised during the freedom struggle. Post Independent India has seen movements like Bhoodan and Gramdan which were persuasive in nature. Later, laws were passed by Governments for abolishing landlordism, distributing land through imposition of ceilings, protection of tenants and consolidation of land-holdings.
 
 <p align="center"><img src="images/pw_economic_development_q597_img1.webp" alt="objective of land reforms" /></p>
 
@@ -1804,7 +1804,7 @@ Infrastructure lies at the core of India’s ability to realise a number of SDGs
 
 ### Introduction
 
-** The National Food Security Act, 2013 aims to provide subsidized food grains to approximately two-third of the country’s population. The enactment of this landmark legislation, brought a paradigm shift in India’s approach to food security i.e., from welfare to rights-based approach.
+The National Food Security Act, 2013 aims to provide subsidized food grains to approximately two-third of the country’s population. The enactment of this landmark legislation, brought a paradigm shift in India’s approach to food security i.e., from welfare to rights-based approach.
 
 <p align="center"><img src="images/pw_economic_development_q631_img1.webp" alt="NFSA 20b" /></p>
 
@@ -1850,7 +1850,7 @@ NFSA has been a game changer but there is still a long way to go for India as In
 
 ### Introduction
 
-** Potential GDP (gross domestic product) is the maximum level of output or real GDP that an economy can sustain without generating inflationary pressures. It is determined by the productive capacity of an economy, which is influenced by a range of factors such as the size and skill level of the labour force, the level of capital stock, the state of technology, and the level of natural resources.
+Potential GDP (gross domestic product) is the maximum level of output or real GDP that an economy can sustain without generating inflationary pressures. It is determined by the productive capacity of an economy, which is influenced by a range of factors such as the size and skill level of the labour force, the level of capital stock, the state of technology, and the level of natural resources.
 
 The potential GDP is often used as a benchmark to gauge the actual level of output in an economy, and to measure the extent to which an economy is operating at or above its potential.
 
@@ -1894,7 +1894,7 @@ Potential GDP is determined by various factors. Accurately estimating potential 
 
 ### Introduction
 
-** Intra-generational equity refers to the distribution of resources and opportunities within a single generation. It is concerned with ensuring that the needs and rights of all members of a society are met, regardless of their age, gender, race, or other characteristics.
+Intra-generational equity refers to the distribution of resources and opportunities within a single generation. It is concerned with ensuring that the needs and rights of all members of a society are met, regardless of their age, gender, race, or other characteristics.
 
 On the other hand, inter-generational equity refers to the distribution of resources and opportunities across different generations. It is concerned with ensuring that the needs and rights of future generations are taken into account and that they have the same opportunities as the current generation.
 
@@ -2454,7 +2454,7 @@ The government initiatives for reform are in the right direction. But there are 
 
 ### Introduction
 
-** The food processing industry encompasses a wide range of activities, including the processing, preservation, packaging, and distribution of food products. It also includes the process of value addition to produce food products through methods such as preservation, the addition of food additives, drying, etc.
+The food processing industry encompasses a wide range of activities, including the processing, preservation, packaging, and distribution of food products. It also includes the process of value addition to produce food products through methods such as preservation, the addition of food additives, drying, etc.
 
 <p align="center"><img src="images/pw_economic_development_q467_img1.webp" alt=" food processing market" /></p>
 
@@ -4260,7 +4260,7 @@ Although there are challenges like delays in land acquisition, non-availability 
 
 ### Introduction
 
-** Goods and Services Tax (GST) is an indirect, comprehensive, multi-stage, destination-based tax that is levied on every value addition. GST replaced a host of indirect taxes being levied by the central and state governments, which has changed the taxation landscape.
+Goods and Services Tax (GST) is an indirect, comprehensive, multi-stage, destination-based tax that is levied on every value addition. GST replaced a host of indirect taxes being levied by the central and state governments, which has changed the taxation landscape.
 
 <p align="center"><img src="images/pw_economic_development_q23_img1.webp" alt="gst" /></p>
 
@@ -5026,7 +5026,7 @@ For example **: The Centre for Science and Environment (** CSE **) scrutinized t
 - **Policy Advocacy:** NGOs advocate for the development of stronger environmental policies and EIA guidelines. **For example**: The People’s Movement Against Nuclear Energy ( **PMANE** ) significant influence over the **Kudankulam Nuclear Power Plant** in **Tamil Nadu** highlighted safety and environmental concerns prompting greater scrutiny and changes to safety protocols.
 - **Capacity Building:** NGOs equip communities with training and resources, empowering them to engage effectively in the EIA process. **Four examples of Influence of Environmental NGOs and Activists in EIA Processes:**
 
-** 1.
+1.
 
 **Niyamgiri Bauxite Mining Project (Odisha)**
 - **NGOs/Activists:** Survival International, Amnesty International, Dongria Kondh tribe (PVTG).
@@ -5270,7 +5270,7 @@ To safeguard its rich marine biodiversity and the health and livelihood of its c
 
 ### Introduction
 
-** Global warming is a pressing environmental issue that has far-reaching implications for the Earth’s climate system. It refers to the long-term increase in average temperatures due to the accumulation of greenhouse gasses (GHGs) in the atmosphere. This rise in temperature has several effects on global climate patterns, including increased frequency and intensity of extreme weather events, melting glaciers and polar ice caps, rising sea levels, and disruptions to ecosystems.
+Global warming is a pressing environmental issue that has far-reaching implications for the Earth’s climate system. It refers to the long-term increase in average temperatures due to the accumulation of greenhouse gasses (GHGs) in the atmosphere. This rise in temperature has several effects on global climate patterns, including increased frequency and intensity of extreme weather events, melting glaciers and polar ice caps, rising sea levels, and disruptions to ecosystems.
 
 <p align="center"><img src="images/pw_environment_and_ecology_q643_img1.webp" alt="global warming" /></p>
 
@@ -5310,7 +5310,7 @@ The Kyoto Protocol, established in 1997, played a crucial role in addressing glo
 
 ### Introduction
 
-** Photochemical smog refers to a type of air pollution that is formed when sunlight interacts with pollutants, primarily nitrogen oxides (NOx) and volatile organic compounds (VOCs), in the presence of heat. This phenomenon is commonly observed in urban areas with high traffic and industrial activities.
+Photochemical smog refers to a type of air pollution that is formed when sunlight interacts with pollutants, primarily nitrogen oxides (NOx) and volatile organic compounds (VOCs), in the presence of heat. This phenomenon is commonly observed in urban areas with high traffic and industrial activities.
 
 <p align="center"><img src="images/pw_environment_and_ecology_q644_img1.webp" alt="Photochemical smog " /></p>
 
@@ -5526,7 +5526,7 @@ The idea of a global interconnected solar power grid, which formed the basis of 
 
 ### Introduction
 
-** The draft Environment Impact Assessment (EIA) Notification, 2020 proposed by the Ministry of Environment, Forest, and Climate Change (MoEFCC) aims to replace the existing EIA Notification from 2006. The draft introduces significant changes that have sparked debates and concerns. Understanding the differences between the two notifications is crucial in assessing the potential implications on environmental governance and public participation.
+The draft Environment Impact Assessment (EIA) Notification, 2020 proposed by the Ministry of Environment, Forest, and Climate Change (MoEFCC) aims to replace the existing EIA Notification from 2006. The draft introduces significant changes that have sparked debates and concerns. Understanding the differences between the two notifications is crucial in assessing the potential implications on environmental governance and public participation.
 
 <p align="center"><img src="images/pw_environment_and_ecology_q508_img1.webp" alt="EIA" /></p>
 
@@ -5608,7 +5608,7 @@ The salient features of the Jal Shakti Abhiyan include rainwater harvesting, rev
 
 ### Introduction
 
-** The National Clean Air Programme (NCAP), introduced by the Government of India, is a significant initiative aimed at combating air pollution and improving air quality across the country. This comprehensive program encompasses various measures and strategies to mitigate pollution sources and promote clean air for the well-being of citizens.
+The National Clean Air Programme (NCAP), introduced by the Government of India, is a significant initiative aimed at combating air pollution and improving air quality across the country. This comprehensive program encompasses various measures and strategies to mitigate pollution sources and promote clean air for the well-being of citizens.
 
 <p align="center"><img src="images/pw_environment_and_ecology_q550_img1.webp" alt="NAPC" /></p>
 
@@ -5716,7 +5716,7 @@ By comprehending the carrying capacity of an ecosystem, policymakers and planner
 
 ### Introduction
 
-** Sikkim holds the distinction of being India’s first “Organic State.” This achievement brings forth significant ecological and economic benefits, showcasing the positive impacts of transitioning to organic farming practices.
+Sikkim holds the distinction of being India’s first “Organic State.” This achievement brings forth significant ecological and economic benefits, showcasing the positive impacts of transitioning to organic farming practices.
 
 **Body:**
 - **Ecological Benefits of Organic State:**
@@ -5786,7 +5786,7 @@ The Biological Diversity Act, 2002 plays a crucial role in the conservation of I
 
 ### Introduction
 
-** Climate change is a global problem that affects every country, including India. The changing climate patterns have caused severe impacts on the environment, economy, and society, and the effects are expected to worsen in the future.
+Climate change is a global problem that affects every country, including India. The changing climate patterns have caused severe impacts on the environment, economy, and society, and the effects are expected to worsen in the future.
 
 <p align="center"><img src="images/pw_environment_and_ecology_q317_img1.webp" alt="climate change" /></p>
 
@@ -5828,7 +5828,7 @@ Climate change is a pressing issue that requires immediate attention in India. T
 
 ### Introduction
 
-** The concept of river linking was once a distant dream, but it has now become a reality in India. River linking is a significant development that aims to address the water scarcity issues in various regions. While it offers several benefits, it is important to consider its potential impact on the environment.
+The concept of river linking was once a distant dream, but it has now become a reality in India. River linking is a significant development that aims to address the water scarcity issues in various regions. While it offers several benefits, it is important to consider its potential impact on the environment.
 
 **Body:**
 - **Improved Irrigation:** River linking can provide a reliable source of water for irrigation purposes in drought-prone areas. It can also reduce the dependency on monsoon rains.
@@ -5973,7 +5973,7 @@ Coal-fired thermal plants located at coal pitheads have significant environmenta
 
 ### Introduction
 
-** The pursuit of carbon credits and clean development mechanisms (CDM) established under the United Nations Framework Convention on Climate Change (UNFCCC) is a crucial step towards mitigating climate change. The decline in the value of carbon credits has raised questions about their effectiveness in promoting sustainable development and clean energy.
+The pursuit of carbon credits and clean development mechanisms (CDM) established under the United Nations Framework Convention on Climate Change (UNFCCC) is a crucial step towards mitigating climate change. The decline in the value of carbon credits has raised questions about their effectiveness in promoting sustainable development and clean energy.
 
 <p align="center"><img src="images/pw_environment_and_ecology_q134_img1.webp" alt="carbon credit" /></p>
 
@@ -6914,7 +6914,7 @@ Nanotechnology is playing a transformative role in India’s healthcare sector, 
 
 ### Introduction
 
-** India’s plan to establish its own space station, spearheaded by the Indian Space Research Organisation (ISRO), is a significant stride in its space exploration journey. This ambitious venture symbolises India’s technological prowess and its determination to secure a prominent place in the global space community.
+India’s plan to establish its own space station, spearheaded by the Indian Space Research Organisation (ISRO), is a significant stride in its space exploration journey. This ambitious venture symbolises India’s technological prowess and its determination to secure a prominent place in the global space community.
 
 **Body:**
 - **Plan and Timeline:** ISRO aims to construct a 20-ton space station within a decade, intending to support microgravity experiments.
@@ -6965,7 +6965,7 @@ This venture, with its far-reaching implications in scientific discovery, techno
 
 ### Introduction
 
-** India, a country replete with rich traditional medicinal knowledge, faces a significant task in safeguarding this wealth from misappropriation and unwarranted patenting, particularly by foreign pharmaceutical entities. The Indian Government, cognizant of this challenge, has launched various initiatives to secure these invaluable resources while promoting their beneficial use.
+India, a country replete with rich traditional medicinal knowledge, faces a significant task in safeguarding this wealth from misappropriation and unwarranted patenting, particularly by foreign pharmaceutical entities. The Indian Government, cognizant of this challenge, has launched various initiatives to secure these invaluable resources while promoting their beneficial use.
 
 **Body:**
 - **Traditional Knowledge Digital Library (TKDL):** The TKDL, a compendium of over 200,000 medicinal formulations, deters unjust patent claims.
@@ -9063,7 +9063,7 @@ Cyber crime represents a significant threat in our interconnected world, capable
 
 ### Introduction
 
-** Disaster management in India has traditionally been reactive, with the focus on response and relief operations after a disaster has occurred. The Government of India has taken several measures to shift the focus towards a more proactive approach to disaster management.
+Disaster management in India has traditionally been reactive, with the focus on response and relief operations after a disaster has occurred. The Government of India has taken several measures to shift the focus towards a more proactive approach to disaster management.
 
 <p align="center"><img src="images/pw_disaster_management_q34_img1.webp" alt="Disaster management" /></p>
 
@@ -10486,7 +10486,7 @@ Cloudbursts are a significant natural hazard in the Indian subcontinent, particu
 
 ### Introduction
 
-** Landslides are one of the most destructive natural disasters, causing significant loss of life and property damage globally. They can be triggered by a range of factors, including human activities, geological and environmental conditions.
+Landslides are one of the most destructive natural disasters, causing significant loss of life and property damage globally. They can be triggered by a range of factors, including human activities, geological and environmental conditions.
 
 <p align="center"><img src="images/pw_disaster_management_q578_img1.webp" alt="geological and environmental condition" /></p>
 
@@ -10578,7 +10578,7 @@ The major earthquake disasters in the last three decades have highlighted the ne
 
 ### Introduction
 
-** Disaster preparedness refers to measures taken in advance to minimize the impact of natural or man-made disasters on human life and property. Disaster preparedness is crucial for effective disaster management. Hazard zonation mapping is an important tool that can aid in disaster mitigation, especially in the case of landslides.
+Disaster preparedness refers to measures taken in advance to minimize the impact of natural or man-made disasters on human life and property. Disaster preparedness is crucial for effective disaster management. Hazard zonation mapping is an important tool that can aid in disaster mitigation, especially in the case of landslides.
 
 <p align="center"><img src="images/pw_disaster_management_q471_img1.webp" alt="Disaster preparedness" /></p>
 
@@ -10662,7 +10662,7 @@ The 2004 tsunami was a grim reminder of the devastating potential of natural dis
 
 ### Introduction
 
-** India’s urban population is projected to reach 40.76% by 2030, emphasizing the importance of urbanization for economic growth. Inadequate urban planning and climate change contribute to urban flooding, as witnessed in Hyderabad (2020), Chennai (2015), and Bengaluru (recently).
+India’s urban population is projected to reach 40.76% by 2030, emphasizing the importance of urbanization for economic growth. Inadequate urban planning and climate change contribute to urban flooding, as witnessed in Hyderabad (2020), Chennai (2015), and Bengaluru (recently).
 
 <p align="center"><img src="images/pw_disaster_management_q292_img1.webp" alt="causes for urban flood" /></p>
 
@@ -10842,7 +10842,7 @@ The September 2010 guidelines by the NDMA serve as a valuable resource for enhan
 
 ### Introduction
 
-** Vulnerability and risk assessment play a pivotal role in pre-disaster management, providing crucial insights into the potential impacts of disasters. By evaluating the vulnerabilities of communities, infrastructures, and ecosystems, and assessing the associated risks, administrators can effectively allocate resources and develop targeted strategies.
+Vulnerability and risk assessment play a pivotal role in pre-disaster management, providing crucial insights into the potential impacts of disasters. By evaluating the vulnerabilities of communities, infrastructures, and ecosystems, and assessing the associated risks, administrators can effectively allocate resources and develop targeted strategies.
 
 <p align="center"><img src="images/pw_disaster_management_q34_img1.webp" alt="Disaster management" /></p>
 
