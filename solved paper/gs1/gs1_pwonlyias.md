@@ -1414,32 +1414,43 @@ Despite the adversities, tribal communities mounted resistance, both violent and
 
 **What was the difference between Mahatma Gandhi and Rabindranath Tagore in their approach towards education and nationalism?**
 
-### Answer **Answer:**
+### Answer
 
-| **Approach** <br>• **Introduction:** Write about Mahatma Gandhi and Rabindranath Tagore briefly **Body** <br>• Write the difference between Mahatma Gandhi and Rabindranath Tagore in their approach towards education <br>• Write the difference between Mahatma Gandhi and Rabindranath Tagore in their approach towards nationalism **Conclusion** <br>• Give appropriate conclusion in this regard |
+| **Approach** <br> **Introduction:** Write about Mahatma Gandhi and Rabindranath Tagore briefly <br> **Body:** Write the difference between Mahatma Gandhi and Rabindranath Tagore in their approach towards education <br> Write the difference between Mahatma Gandhi and Rabindranath Tagore in their approach towards nationalism <br> **Conclusion:** Give appropriate conclusion in this regard |
 | --- |
 
 ### Introduction
 
-**Mahatma Gandhi and Rabindranath Tagore** were two stalwarts in Indian history, carving out distinct paths in the nation’s freedom struggle and societal development. While **Gandhi led India to independence** through non-violent civil disobedience. **Tagore, the first non-European Nobel laureate**, provided a robust intellectual foundation for the emerging nation.
+**Mahatma Gandhi and Rabindranath Tagore** were two stalwarts in Indian history, carving out distinct paths in the nation’s freedom struggle and societal development. While **Gandhi led India to independence** through non-violent civil disobedience, **Tagore, the first non-European Nobel laureate**, provided a robust intellectual foundation for the emerging nation.
 
 ### Body
- **Difference between Mahatma Gandhi and Rabindranath Tagore in their approach towards education** | **Aspect** | **Mahatma Gandhi** | **Rabindranath Tagore** |
+
+**Difference between Mahatma Gandhi and Rabindranath Tagore in their approach towards education:**
+
+| **Aspect** | **Mahatma Gandhi** | **Rabindranath Tagore** |
 | --- | --- | --- |
 | **Philosophy** | Education should be practical and focused on **holistic development**, emphasizing moral values | Believed in a **more flexible, creative, and global approach** to education, focusing on the harmonic development of a human being |
 | **Curriculum** | Advocated for a craft-centred education that would **encourage self-sufficiency and incorporate vocational training** | Envisioned an education system that **fosters creativity through art, music, and dance** |
 | **Teaching Method** | Preferred **hands-on teaching** methods to cultivate a sense of dignity of labour. | Encouraged open environments, even **open-air classes**, to nurture the natural curiosity of students |
-| **Institutions** | Established basic education institutions grounded on the philosophy of **‘Nai Talim’** | Founded **Shantiniketan**, an institution where learning was closely integrated with nature and art |
-| **Global Influence** | **Less concerned with** aligning the education system with **global trends** | Advocated for an **education that is in touch with global movemen** ts and enriches one’s understanding of the world |
+| **Institutions** | Established basic education institutions grounded on the philosophy of **“Nai Talim”** | Founded **Shantiniketan**, an institution where learning was closely integrated with nature and art |
+| **Global Influence** | **Less concerned with** aligning the education system with **global trends** | Advocated for an **education that is in touch with global movements** and enriches one’s understanding of the world |
 | **Focus** | Education should be **more individual-centric**, aimed at character building | Focus was on nurturing universal human values and fostering a deep appreciation for the **interconnectedness of all beings** |
-| **Language** | Gandhiji focused on use of Vernacular language for education in early stage | Focus on use of English Language as global movement. | **Difference between Mahatma Gandhi and Rabindranath Tagore in their approach towards nationalism** | **Aspect** | **Mahatma Gandhi** | **Rabindranath Tagore** |
+| **Language** | Gandhiji focused on use of Vernacular language for education in early stage | Focus on use of English Language as global movement. |
+
+**Difference between Mahatma Gandhi and Rabindranath Tagore in their approach towards nationalism:**
+
+| **Aspect** | **Mahatma Gandhi** | **Rabindranath Tagore** |
 | --- | --- | --- |
 | **Perspective on Unity** | Advocated for a **united India,** overcoming regional and communal divides | Had reservations about intense nationalism, promoting a more **universal brotherhood** |
 | **Means to Achieve Freedom** | Leveraged non-violent **civil disobedience and non-cooperation movements** | **Criticized the aggressive nationalistic movements**, preferring a path of self-awareness and reasoning |
 | **View on Western Influence** | Often **critical of western civilization**, emphasizing on Swaraj or self-rule | Had a more **accommodative view of the west,** embracing modern and progressive ideals while maintaining a critical stance |
 | **Role in Freedom Struggle** | Actively led movements and **mobilized masses** for a collective goal | Maintained a **more philosophical and educational stance**, nurturing a space for intellectual discourse |
 | **Perspective on Culture** | Promoted **Swadeshi** and encouraged indigenous culture and products | Appreciated universal values and encouraged a synthesis of different cultures, fostering **international harmony** |
-| **Vision for Post-Independent India** | Envisioned a **self-sufficient village economy** grounded in non-violence | Aspired for a **nation with a rich cultural tapestry**, nourished by education and universal human values | **Conclusion** Both Gandhi and Tagore were monumental figures in Indian history, crafting divergent paths towards the development of society and education. Their **efforts have sculpted the Indian educational landscape and societal norms to a large extent**, leaving a profound imprint on the nation’s ethos.
+| **Vision for Post-Independent India** | Envisioned a **self-sufficient village economy** grounded in non-violence | Aspired for a **nation with a rich cultural tapestry**, nourished by education and universal human values |
+
+### Conclusion
+
+Both Gandhi and Tagore were monumental figures in Indian history, crafting divergent paths towards the development of society and education. Their **efforts have sculpted the Indian educational landscape and societal norms to a large extent**, leaving a profound imprint on the nation’s ethos.
 
 [Question ID: 2023-gs1-q33-pwonlyias]
 
