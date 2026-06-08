@@ -2431,22 +2431,26 @@ The involvement of Indian women in the freedom struggle not only paved the way f
 ### Body
 
 **Some notable foreign figures who contributed to India’s freedom struggle are:**
-- **Annie Besant:** Annie Besant, an Irish-born British socialist, theosophist, and women’s rights activist, played a significant role in the Indian freedom struggle.
- - She became involved in Indian politics and joined the Indian National Congress (INC).
- - Besant played a key role in launching the Home Rule League movement in 1916, which aimed at achieving self-government for India within the British Empire.
- - Her contributions helped create awareness about India’s political aspirations and garnered support for the independence movement.
+- **Annie Besant:**
+  - Annie Besant, an Irish-born British socialist, theosophist, and women’s rights activist, played a significant role in the Indian freedom struggle.
+  - She became involved in Indian politics and joined the Indian National Congress (INC).
+  - Besant played a key role in launching the Home Rule League movement in 1916, which aimed at achieving self-government for India within the British Empire.
+  - Her contributions helped create awareness about India’s political aspirations and garnered support for the independence movement.
 
-- **Sister Nivedita:** Sister Nivedita was a social worker, author, and disciple of Swami Vivekananda.
- - She dedicated her life to India’s cultural and national awakening.
-- **Nivedita actively supported Indian revolutionaries like Aurobindo Ghosh and Bagha Jatin, and was known to have provided financial and moral support to their activities.:** Her writings and lectures helped create awareness about the need for India’s independence and upliftment of its people.
+- **Sister Nivedita:**
+  - Sister Nivedita was a social worker, author, and disciple of Swami Vivekananda.
+  - She dedicated her life to India’s cultural and national awakening.
+  - Nivedita actively supported Indian revolutionaries like Aurobindo Ghosh and Bagha Jatin, and was known to have provided financial and moral support to their activities. Her writings and lectures helped create awareness about the need for India’s independence and upliftment of its people.
 
-- **O. Hume:** Allan Octavian Hume, a British civil servant, was a prominent figure in the early phase of the Indian freedom struggle.
- - He is best known for his role in founding the Indian National Congress (INC) in 1885.
- - Although Hume’s vision for the INC was initially limited to facilitating communication between the British administration and the Indian people, the organization later evolved into a major platform for the struggle for Indian independence.
+- **O. Hume:**
+  - Allan Octavian Hume, a British civil servant, was a prominent figure in the early phase of the Indian freedom struggle.
+  - He is best known for his role in founding the Indian National Congress (INC) in 1885.
+  - Although Hume’s vision for the INC was initially limited to facilitating communication between the British administration and the Indian people, the organization later evolved into a major platform for the struggle for Indian independence.
 
-- **Mira Alfassa (The Mother):** Mira Alfassa, also known as The Mother, was a French national who became a spiritual collaborator of Sri Aurobindo.
- - She played an essential role in spreading Aurobindo’s spiritual and nationalist ideas in India and abroad.
-- While her primary focus was on spiritual work, her support for Indian nationalists and their cause contributed to the broader struggle for Indian independence.
+- **Mira Alfassa (The Mother):**
+  - Mira Alfassa, also known as The Mother, was a French national who became a spiritual collaborator of Sri Aurobindo.
+  - She played an essential role in spreading Aurobindo’s spiritual and nationalist ideas in India and abroad.
+  - While her primary focus was on spiritual work, her support for Indian nationalists and their cause contributed to the broader struggle for Indian independence.
 
 
 
