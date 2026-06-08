@@ -14438,7 +14438,7 @@ Administrative tribunals, enabled by **Articles 323A and 323B,** provide speedy,
 - **Cost-Effective & Accessible:** Simplified procedures make justice more affordable and less formal than traditional courts.
 - **Relieves Higher Judiciary:** Diverts routine service and regulatory disputes away from High Courts/Supreme Court, allowing them to focus on constitutional matters.
 
-*The Tribunals Reforms Act, 2021 dissolved several existing tribunals and transferred their functions to High Courts and other bodies, aiming to streamline justice delivery but criticized for reducing tribunal independence and accessibility.***Positive Impact of 2021 Tribunal Reforms**
+The Tribunals Reforms Act, 2021 dissolved several existing tribunals and transferred their functions to High Courts and other bodies, aiming to streamline justice delivery but criticized for reducing tribunal independence and accessibility.***Positive Impact of 2021 Tribunal Reforms**
 - **Rationalisation:** Merged smaller tribunals into larger ones, reducing fragmentation and overlapping jurisdictions.
 - **Streamlined Appeals:** Transferred appeals to High Courts, creating uniformity and reducing forum-shopping.
 - **Efficiency:** Fewer tribunals means better resource allocation, staffing, and financial management.
@@ -15585,7 +15585,7 @@ The **Representation of the People Act, 1951 (RPA)** defines “corrupt practice
 - **Hiring of vehicle:** Hiring or using vehicles to freely convey voters (except the candidate, family, or agent) to or from polling stations is prohibited. ***(Section 123(5))
 - **Exceeding Expenditure Limits:** Spending beyond prescribed ceilings ***(Section 123(6))***
 
-*Highlighting the scenarios where a disproportionate increase in assets amounts to “undue influence” and consequently constitutes corrupt practice, and also examining it from the other perspective.***Yes, it can, when linked to voter interference**
+Highlighting the scenarios where a disproportionate increase in assets amounts to “undue influence” and consequently constitutes corrupt practice, and also examining it from the other perspective.***Yes, it can, when linked to voter interference**
 - **Bribery through cash-for-votes:** If unexplained assets are used to **fund bribes to voters (cash-for-votes)**, it **becomes bribery** and can also amount to undue influence.
 - **Threats or coercion:** If the wealth is **used to threaten, coerce, or buy off community leaders** to sway voters, it interferes with free choice.
 - **Gifts by agents:** If **associates deploy** the assets to **distribute inducements, gifts,** for the candidate, it is a corrupt practice.

@@ -6364,7 +6364,7 @@ Thus, while human welfare is important, deforestation in such a fragile zone can
 - **Balancing distributive justice:** , should the welfare of homeless outweigh the welfare of forest dwellers and biodiversity?
 - The **temptation of short-term populist gains** versus long-term ethical responsibility of stewardship.
 
-*Here, Gandhiji’s idea of Sarvodaya (welfare of all) provides guidance: no development should come at the cost of the weakest sections, including voiceless species and tribal communities.*
+Here, Gandhiji’s idea of Sarvodaya (welfare of all) provides guidance: no development should come at the cost of the weakest sections, including voiceless species and tribal communities.*
 
 **(c) Alternatives and Policy Interventions**
 - **Alternative Land Use:** Identify degraded or non-arable land for housing projects rather than ecologically sensitive zones. GIS mapping and land audits can help.
@@ -6440,12 +6440,12 @@ The mismanagement of MGNREGA is not just financial malpractice but a moral betra
 - **Propose alternative vendors/smaller essential purchase:** Buy only urgent items within limit, defer remaining till sanction.
 - **Refuse wrong practice firmly with courage:** Uphold rule of law at risk of career progression.
 
-*Like Nachiketa (in Kathopanishad) who rejected temptations of Yama for truth; or Emperor Ashoka who abandoned unjust conquests after Kalinga.*
+Like Nachiketa (in Kathopanishad) who rejected temptations of Yama for truth; or Emperor Ashoka who abandoned unjust conquests after Kalinga.*
 
 **(b) Ethical issues involved**
 - **Integrity vs Career Progression:** Whether to uphold probity in public spending or compromise rules for securing favourable ACR and promotion.
 
-*Like Harishchandra choosing truth over kingdom.*
+Like Harishchandra choosing truth over kingdom.*
 - **Obedience vs Rule of Law:** Choosing between blindly obeying superior’s instructions or adhering to legal provisions like GFR.
 - **Public Interest vs Personal Interest:** Safeguarding public funds and institutional credibility versus advancing personal career goals.
 - **Accountability & Transparency:** Following transparent procurement to ensure audit compliance versus hiding under informal practices like expenditure splitting.

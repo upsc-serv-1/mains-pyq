@@ -4132,7 +4132,7 @@ HDI shows a country’s average progress in **health, education,** and **income.
 | **Policy meaning** | Good for tracking national averages and long‑term trends. | Better for targeting lagging groups and regions within India. |
 | **Interpretation** | Potential human development if the distribution were even. | Actual level of human development after accounting for inequality. |
 
-*IHDI turns HDI’s potential into the actual picture by adjusting for unequal access to health, education, and income. This links the comparison to why IHDI better reflects inclusive growth in real life.***Why IHDI is a better indicator of inclusive growth**
+IHDI turns HDI’s potential into the actual picture by adjusting for unequal access to health, education, and income. This links the comparison to why IHDI better reflects inclusive growth in real life.***Why IHDI is a better indicator of inclusive growth**
 - **Wholistic coverage:** Looks beyond averages to who benefits, revealing whether growth reaches poorer states, rural areas, women, and marginalized groups.
 - **Measures inequality loss:** Quantifies the “loss” from inequality, helping set priorities where gaps are largest (health, schooling, or income).
 - **Suited to India’s diversity:** Fits India’s reality, where strong states can pull up the average while weaker states lag; IHDI corrects for this.
@@ -17214,7 +17214,7 @@ India’s food processing industry, contributing **~8% to GDP** and **13% to man
 - **Government support and incentives:** Schemes like **PMKSY** and **PLI** promote investment and growth in the food processing industry.
   - **Eg:** ***42 Mega Food Parks***: set up under PMKSY since 2012.
 
-*While the sector’s scope is vast and promising, its full potential is constrained by persistent structural and operational challenges.***Challenges of Food Processing Industry in India.**
+While the sector’s scope is vast and promising, its full potential is constrained by persistent structural and operational challenges.***Challenges of Food Processing Industry in India.**
 - **Inadequate Storage and Logistics:** An estimated **25–30% of fruits** and vegetables are lost annually due to gaps in cold logistics and infrastructure.
 - **Low Processing Levels:** Despite its agricultural output, a small quantity of products are processed in India, limiting value addition and market reach
 - **Infrastructure Gaps:** Although nearly **90%** of required cold storage capacity exists, only **15%** of refrigerated transport is available, creating bottlenecks in distribution.
@@ -28706,7 +28706,7 @@ India’s climate pledges **evolved** from the **2015 Paris INDC** to enhanced *
 - **Achievement:** By 2021, an additional carbon sink of **2.29 billion tonnes CO₂** equivalent had already been created.
 - **Equity and Climate Justice:** India highlighted **Common but Differentiated Responsibilities (CBDR)**, stressing low per-capita emissions and demanding climate finance and technology transfer from developed countries.
 
-*India’s NDC was among the most ambitious compared to similarly placed developing nations, but implementation gaps persisted in forestry and adaptation sectors.***Strengthening at COP26 (Glasgow, 2021)**
+India’s NDC was among the most ambitious compared to similarly placed developing nations, but implementation gaps persisted in forestry and adaptation sectors.***Strengthening at COP26 (Glasgow, 2021)**
 - **Panchamrit vision:** 500 GW non‑fossil capacity by 2030
   - 50% energy requirements from renewables by 2030
   - 1 billion tonnes cumulative emissions reduction by 2030
@@ -28716,7 +28716,7 @@ India’s climate pledges **evolved** from the **2015 Paris INDC** to enhanced *
 - **Early progress signal:** India had already crossed 40% non‑fossil installed capacity ahead of 2030, enabling upward revision.
 - **Global partnerships:** Launch of initiatives for resilience and clean energy collaboration, complementing domestic targets.
 
-*Following is the updated NDC which aligns domestic policy (RE expansion, EV, hydrogen mission) with global commitments, showing credibility and progression.***Update of India’s First NDC in 2022** | **Parameter** | **Original 2015 NDC** | **Updated 2022 NDC** |
+Following is the updated NDC which aligns domestic policy (RE expansion, EV, hydrogen mission) with global commitments, showing credibility and progression.***Update of India’s First NDC in 2022** | **Parameter** | **Original 2015 NDC** | **Updated 2022 NDC** |
 | --- | --- | --- |
 | **Emission Intensity of GDP** | Reduce by **33–35%** by 2030 (from 2005 levels) | Reduce by **~45% by 2030** (from 2005 levels) |
 | **Renewable Energy Capacity** | **40%** cumulative installed capacity from non-fossil sources | **~50%** cumulative installed capacity from non-fossil sources |
@@ -31060,7 +31060,7 @@ Mineral mining provides the raw materials for making electricity, steel, cement,
 - **Habitat loss:** Clearing forests and buffers for pits fragments green cover and pressures biodiversity when safeguards are weak.
 - **Community risks:** Poor controls cause water scarcity, noise, accidents, and conflict with nearby settlements and workers.
 
-*A clear link exists between problems and solutions. Hazards reveal controlling gaps but now lets discuss remedies to overcome them in the following manner.***Remedial Measures for Environmental Hazard Reduction**
+A clear link exists between problems and solutions. Hazards reveal controlling gaps but now lets discuss remedies to overcome them in the following manner.***Remedial Measures for Environmental Hazard Reduction**
 - **Sustainability ratings:** Star Rating promotes scientific mining:** , closure plans, and social safeguards to raise baseline performance.
 - **DMF welfare:** District Mineral Foundation funds:** water, health, pollution control, and livelihoods in affected areas.
 - **Planned closure:** Scientific closure restores landforms, waterflows, and enables reuse like eco‑parks or solar plants.
@@ -32102,7 +32102,7 @@ India has **18% of the world’s population** but only **4% of freshwater resour
 - **Erratic rainfall and climate change:** Less rainfall and changing weather patterns reduce natural groundwater replenishment.
 - **Poor water management practices:** Inefficient irrigation methods, leakages, and lack of rainwater harvesting lead to depletion.
 
-*Groundwater depletion in India leads to water scarcity, reduced agricultural productivity, land subsidence, and socio-economic stress. To combat this, the government has taken various steps.***Government Steps to Mitigate Groundwater Depletion**
+Groundwater depletion in India leads to water scarcity, reduced agricultural productivity, land subsidence, and socio-economic stress. To combat this, the government has taken various steps.***Government Steps to Mitigate Groundwater Depletion**
 
 **Policy-related steps**
 - **Atal Bhujal Yojana (ABHY):** A ₹6,000 crore national scheme (2020–25) targeting sustainable groundwater management in 8 states, focusing on overexploited areas with community participation.
