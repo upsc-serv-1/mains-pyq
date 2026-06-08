@@ -16030,7 +16030,9 @@ Auroras are the outcome of intricate space weather events, showcasing the dynami
 Source Question: What are aurora australis and aurora borealis? How are these triggered?
 
 | **Core Demand of the Question** <br>• Explain Aurora Australis (Southern Lights) and Aurora Borealis (Northern Lights). <br>• Discuss how the auroras are triggered. |
-| --- | **Aurora Australis** and **Aurora Borealis,** commonly referred to as the **Southern** and **Northern Lights,** are remarkable atmospheric phenomena that manifest as vibrant light displays in the polar regions. These auroras are generated through the **interaction** of **charged particles** from **solar winds** with the Earth’s magnetic field and atmosphere, resulting in a **dazzling array** of colours that illuminate the night sky.
+| --- |
+
+**Aurora Australis** and **Aurora Borealis,** commonly referred to as the **Southern** and **Northern Lights,** are remarkable atmospheric phenomena that manifest as vibrant light displays in the polar regions. These auroras are generated through the **interaction** of **charged particles** from **solar winds** with the Earth’s magnetic field and atmosphere, resulting in a **dazzling array** of colours that illuminate the night sky.
 
 **Aurora Borealis (Northern Lights):**
 - **Location:** The Aurora Borealis occurs predominantly in areas close to the **magnetic North Pole**, including regions like Alaska, Canada, Scandinavia, and parts of Russia.
@@ -16411,7 +16413,9 @@ To safeguard marine ecosystems from rising sea surface temperatures, it is essen
 Source Question: What is sea surface temperature rise? How does it affect the formation of tropical cyclones?
 
 | **Core Demand of the Question** <br>• Discuss the phenomenon of sea surface temperature rise. <br>• Highlight how does sea surface temperature rise affect the formation of tropical cyclones. |
-| --- | **Sea Surface Temperature rise** (SST) refers to the significant increase in the temperature of ocean surface waters, primarily driven by anthropogenic climate change. This trend has profound implications for the global climate system. For example, the average sea surface temperature (SST) over the **extrapolar ocean** has increased by about **0.6°C** over the last four decades and about **0.9°C** since the pre-industrial era. **,** influencing **cyclone formation** and **intensity**.
+| --- |
+
+**Sea Surface Temperature rise** (SST) refers to the significant increase in the temperature of ocean surface waters, primarily driven by anthropogenic climate change. This trend has profound implications for the global climate system. For example, the average sea surface temperature (SST) over the **extrapolar ocean** has increased by about **0.6°C** over the last four decades and about **0.9°C** since the pre-industrial era. **,** influencing **cyclone formation** and **intensity**.
 
 **The Phenomenon of Sea Surface Temperature Rise:**
 - **Greenhouse Gas Emissions and Ocean Heat Absorption:** Increased **greenhouse gas concentrations** trap heat in the atmosphere, causing oceans to absorb more heat. This absorption results in a rise in **sea surface temperatures (SST)**, contributing to global warming and altering **marine ecosystems.**
