@@ -557,7 +557,7 @@ Between 1950-1990, it was invoked over **90 times.** However, since the **mid-19
 **7. Integrity of Governors** - In 1990-91, **Governor Surjit Singh Barnala** refused Centre’s directive to recommend President’s Rule in **Tamil Nadu.
 Though the frequency of **Article 356** has reduced, instances like **Maharashtra (2019)** show it is still misused. Thus, the way forward is
 
-1. **Punchhi Commission**
+  - **Punchhi Commission**
 
 - **Localized use** of Article 356 - applicable to a **district or part of a district,** not the whole State.
 
@@ -3665,13 +3665,13 @@ Electoral reforms is considered as **‘Mother of all Reforms’.** Giving statu
 
 **5.** ONOE discourages reckless dissolution of assemblies due to high political cost.
 
-6. Check on **political populism** due to reduced frequency of elections. Eg- farm loan waivers
+  - Check on **political populism** due to reduced frequency of elections. Eg- farm loan waivers
 
-7. Reduction in **vote bank politics and communalism.** Promote **social cohesion Challenges**
+  - Reduction in **vote bank politics and communalism.** Promote **social cohesion Challenges**
 
 **1. Constitutional Amendments Needed -** Articles **83, 85, 172, 174, 356**
 
-2. **Weak Political Consensus** as regional parties fear loss of visibility.
+  - **Weak Political Consensus** as regional parties fear loss of visibility.
 
 **3. Synchronisation Issues -** Assemblies dissolved mid-term would require **caretaker governments,** raising constitutional questions.
 
@@ -4319,7 +4319,7 @@ NHRC is a **statutory body,** established under the **Protection of Human Rights
 
 **1. Protection of Life and Liberty- Eg-** NHRC intervention in **Manipur fake encounter cases (2013)** led to a Supreme Court-monitored CBI probe.
 
-2. **Ensuring Accountability of State Machinery- Eg-** NHRC recommended **Rs. 10 lakh compensation** to victims of the **Hashimpura massacre** (2015).
+  - **Ensuring Accountability of State Machinery- Eg-** NHRC recommended **Rs. 10 lakh compensation** to victims of the **Hashimpura massacre** (2015).
 
 **3. Protection of Vulnerable Groups- Eg-** NHRC’s recommendations against **bonded labour** led to several state-level rehabilitation programmes.
 
@@ -4336,7 +4336,7 @@ NHRC is a **statutory body,** established under the **Protection of Human Rights
 **In 2024,** the **GANHRI** deferred the **accreditation of the NHRC** for the second year in a row.
 
 **1. Statutory Limitations on Jurisdiction -** NHRC **cannot take up cases older than one year** or matters **pending before a court (sub judice).
-2. Cases involving military personnel often **fall outside the NHRC’s purview**
+  - Cases involving military personnel often **fall outside the NHRC’s purview**
 
 **3.** The NHRC lacks the authority to punish violators, **cannot directly impose** penalties or award relief to victims.
 
@@ -4770,7 +4770,7 @@ The **Competition Commission of India (CCI),** established under the **Competiti
 
 **3. Investigation and Monitoring of market practices.** It can ask the Director **General (DG)** for investigation into dominant firms. Eg- investigation against e-Commerce companies
 
-4. **Asian Paints Case (2024):** CCI ordered an investigation into **exclusionary practices** that restricted competition in the decorative paints market.
+  - **Asian Paints Case (2024):** CCI ordered an investigation into **exclusionary practices** that restricted competition in the decorative paints market.
 
 **5. Imposition of Penalties** on firms found guilty of abusing dominance. Eg- **Google was** fined **₹1,337 crore** for abusing dominance in the **Android mobile ecosystem**
 
@@ -5592,7 +5592,7 @@ As per **World Bank (2023),** India’s DBT architecture is the largest social p
 
 **1. Cost Savings -** DBT system helped India achieve **₹3.48 lakh crore in cumulative savings** by eliminating **ghost beneficiaries, duplication, and leakages. (BlueKraft Digital Foundation, 2025)**
 
-2. **Better targeting** - Subsidy allocations reduced from **16% (pre-DBT)** to **9%** of total government expenditure.
+  - **Better targeting** - Subsidy allocations reduced from **16% (pre-DBT)** to **9%** of total government expenditure.
 
 **3. Transparency and Reduction in Leakages -** DBT has significantly reduced **ghost beneficiaries and duplication. Eg-In PAHAL (LPG subsidy),** ₹1.2 lakh crore saved (MoPNG, 2023).
 
@@ -5682,25 +5682,25 @@ envisioned **"SMART Governance",** Simple, Moral, Accountable, Responsive, and T
 
 **4. Aspirational Districts Dashboard -** Real-time performance ranking of 112 districts on 49 indicators **Inadequacies hampering e-governance**
 
-1. **Digital Divide - Eg:** Rural internet penetration **59.06%** vs urban **131.45%** (TRAI Q1 2025).
+  - **Digital Divide - Eg:** Rural internet penetration **59.06%** vs urban **131.45%** (TRAI Q1 2025).
 
-2. **Cybersecurity Vulnerabilities- Eg: ₹22,845 crore** cybercrime losses in 2024 - 206% rise (I4C, MHA 2025).
+  - **Cybersecurity Vulnerabilities- Eg: ₹22,845 crore** cybercrime losses in 2024 - 206% rise (I4C, MHA 2025).
 
-3. **Data Privacy Concerns -** Weak enforcement of data protection exposes citizens to misuse risks.
+  - **Data Privacy Concerns -** Weak enforcement of data protection exposes citizens to misuse risks.
 
-4. **Poor Digital Literacy - Eg:** Only **38% women** have ever used internet (NFHS-5, MoHFW).
+  - **Poor Digital Literacy - Eg:** Only **38% women** have ever used internet (NFHS-5, MoHFW).
 
-5. **Inadequate Infrastructure -** Internet connectivity, electricity, devices remain insufficient in remote regions.
+  - **Inadequate Infrastructure -** Internet connectivity, electricity, devices remain insufficient in remote regions.
 
-6. **Capacity Constraints - lower level** government staff lack training in digital tools, data analytics, AI skills.
+  - **Capacity Constraints - lower level** government staff lack training in digital tools, data analytics, AI skills.
 
-7. **Targeting and verification errors** exclude genuine beneficiaries from welfare schemes. **Eg:** PM-Kisan validation errors stranded **2.18 crore families** (Dvara Research).
+  - **Targeting and verification errors** exclude genuine beneficiaries from welfare schemes. **Eg:** PM-Kisan validation errors stranded **2.18 crore families** (Dvara Research).
 
-8. **Departmental Silos -** Ministries operate in isolation; lack integrated digital data ecosystems for governance.
+  - **Departmental Silos -** Ministries operate in isolation; lack integrated digital data ecosystems for governance.
 
-9. **Faulty validation processes. Eg:** Aadhaar-PDS biometric failures linked to Simdega starvation death, Jharkhand (NHRC).
+  - **Faulty validation processes. Eg:** Aadhaar-PDS biometric failures linked to Simdega starvation death, Jharkhand (NHRC).
 
-10. **Linguistic Barriers -** English-dominant interfaces exclude regional language users from accessing services.
+  - **Linguistic Barriers -** English-dominant interfaces exclude regional language users from accessing services.
 
 **Measures for Effective Implementation**
 
@@ -5886,12 +5886,12 @@ Tech-centric Design → Low Usability → Exclusion → Inefficiency ↓ User-ce
 **2. Fragmentation** due to multiple bodies **(CII, FICCI, ASSOCHAM, NASSCOM)** lead to **overlapping agendas** and **diluted influence.
 **3. Regulatory Capture -** Eg- Corporate-Politicians-Bureaucracy nexus **(Vohra committee)**
 
-4. **Poor Regulation and Secrecy** lead to **corruption and crony capitalism.
+  - **Poor Regulation and Secrecy** lead to **corruption and crony capitalism.
 **Way Forward**
 
 **1. “Lobbying Regulation Act”** similar to the USA
 
-2. Financial Transparency in Functioning For **Viksit Bharat @2047** business associations must move from **protest-based mobilization** to **knowledge-based engagement** with the state.
+  - Financial Transparency in Functioning For **Viksit Bharat @2047** business associations must move from **protest-based mobilization** to **knowledge-based engagement** with the state.
 
 [Question ID: 2021-gs2-q91-civilsdaily]
 
@@ -5990,9 +5990,9 @@ This can strengthen Public charitable trusts act as **agents of equity and inclu
 **2. 2nd ARC:** enact a law to set up an independent **National Accreditation Council**
 
 **3.** Create formal **government-NGO platforms (as in Kerala’s Kudumbashree).
-4. **Encourage Social Accountability Tools** like Jan Sunwai, Community Scorecards, and Participatory Planning.
+  - **Encourage Social Accountability Tools** like Jan Sunwai, Community Scorecards, and Participatory Planning.
 
-5. **Shift from Confrontation to Collaboration** - seeing CSOs as governance partners, not adversaries NGOs are **“integral cogs in the wheel of good governance”.** A balanced partnership between genuine NGOs and the government is crucial for India's progress.
+  - **Shift from Confrontation to Collaboration** - seeing CSOs as governance partners, not adversaries NGOs are **“integral cogs in the wheel of good governance”.** A balanced partnership between genuine NGOs and the government is crucial for India's progress.
 
 [Question ID: 2025-gs2-q93-civilsdaily]
 
@@ -6279,7 +6279,7 @@ The **Indian Constitution envisions a Welfare State under the DPSP (Articles 36-
 
 **6. Trust Deficit between Stakeholders - Eg- CSO** perceived as **anti-development** or foreign influenced.
 
-7. **Funding and Regulatory Constraints:** Tightened **FCRA norms** and compliance burdens for NGOs.
+  - **Funding and Regulatory Constraints:** Tightened **FCRA norms** and compliance burdens for NGOs.
 
 **Way Forward for Collaborative Partnerships**
 
@@ -6378,9 +6378,9 @@ The **Indian Constitution envisions a Welfare State under the DPSP.** Donor agen
 **4. Dependency Syndrome -** Over-reliance on external funding discourages **domestic resource mobilization** and self-reliance. (A.G.Frank - “development of underdevelopment.”)
 
 **5. Marginalization of Traditional Knowledge -** Donor-driven modern approaches often ignore **indigenous practices and local innovation.
-6. **Transparency and Accountability Gaps -** lack of clear monitoring frameworks or open reporting mechanisms limits public scrutiny and impact evaluation.
+  - **Transparency and Accountability Gaps -** lack of clear monitoring frameworks or open reporting mechanisms limits public scrutiny and impact evaluation.
 
-7. **Foreign Influence -** Eg-Concerns were raised about **World Vision India** allegedly promoting religious conversion using foreign funds.
+  - **Foreign Influence -** Eg-Concerns were raised about **World Vision India** allegedly promoting religious conversion using foreign funds.
 
 **Positive Role of Donor Agencies in Development**
 
@@ -6577,19 +6577,19 @@ Human Resource Development refers to the strategic investment in education, heal
 
 **1. Capability Approach -** increase spending on Health (2.5%of GDP) and Education (6% of GDP)
 
-2. **Foundational Literacy Focus:** Prioritize the **NIPUN Bharat Mission** to ensure every child achieves grade-level competency
+  - **Foundational Literacy Focus:** Prioritize the **NIPUN Bharat Mission** to ensure every child achieves grade-level competency
 
-3. **Vocational-Academic Integration:** Mandate vocational training in secondary schools to bridge the gap between schooling and work. **(NEP, 2020)**
+  - **Vocational-Academic Integration:** Mandate vocational training in secondary schools to bridge the gap between schooling and work. **(NEP, 2020)**
 
-4. **Strengthening Primary Health:** Expand the **Ayushman Bharat Health and Wellness Centres** to ensure preventative care is a "right."
+  - **Strengthening Primary Health:** Expand the **Ayushman Bharat Health and Wellness Centres** to ensure preventative care is a "right."
 
-5. **Bridging the Digital Gap:** Use **BharatNet Phase-III** to provide high-speed fiber connectivity to every rural school.
+  - **Bridging the Digital Gap:** Use **BharatNet Phase-III** to provide high-speed fiber connectivity to every rural school.
 
-6. **Empowering Women Workers:** Provide safe transport, childcare, and flexible work to boost female participation. **Eg:** Karnataka’s **Shakti Yojan** and free higher education for girls.
+  - **Empowering Women Workers:** Provide safe transport, childcare, and flexible work to boost female participation. **Eg:** Karnataka’s **Shakti Yojan** and free higher education for girls.
 
-7. **Institutionalizing Mental Wellness:** Make Socio-Emotional Learning (SEL) a core part of the school and office curriculum.
+  - **Institutionalizing Mental Wellness:** Make Socio-Emotional Learning (SEL) a core part of the school and office curriculum.
 
-8. **R&D and Innovation Hubs:** Establish the **National Research Foundation (NRF)** to fund deep-tech innovation and retain high-end talent.
+  - **R&D and Innovation Hubs:** Establish the **National Research Foundation (NRF)** to fund deep-tech innovation and retain high-end talent.
 
 By integrating health, education, and skills into a holistic HRD framework, India can achieve inclusive growth and the vision of a developed nation by 2047.
 
@@ -6782,7 +6782,7 @@ NGOs are **“integral cogs in the wheel of good governance”.** A **balanced p
 
 **7. Grassroots-to-Legislature Leadership Pipeline -** Supported **Panchayat women leaders** to transition into state politics.
 
-8. Increased **political visibility** and **legitimacy of women’s issues** in policy spaces.
+  - Increased **political visibility** and **legitimacy of women’s issues** in policy spaces.
 
 **Challenges**
 
@@ -7024,7 +7024,7 @@ As **Dr. B.R. Ambedkar** said, “Political democracy cannot last unless there l
 
 **1. Capability Approach:** increase expenditure on Health (2.5% of GDP) and Education (6% of GDP)
 
-2. Bottom-up Planning - **Porto Alegre Brazil Model** Welfare schemes for the vulnerable may appear **discriminatory in form,** but they are **affirmative in purpose** to realise the vision of **“Sabka Saath, Sabka Vikas, Sabka Vishwas” Women Empowerment**
+  - Bottom-up Planning - **Porto Alegre Brazil Model** Welfare schemes for the vulnerable may appear **discriminatory in form,** but they are **affirmative in purpose** to realise the vision of **“Sabka Saath, Sabka Vikas, Sabka Vishwas” Women Empowerment**
 
 [Question ID: 2023-gs2-q108-civilsdaily]
 
@@ -7320,7 +7320,7 @@ The goal of **‘Health for All’,** as envisioned in the **Alma-Ata Declaratio
 **1. Accessibility and Inclusivity -** Brings **primary healthcare closer** to grassroot and reduces dependency on overburdened tertiary hospitals. Eg- **Ayushman Bharat - Health and Wellness Centres (HWCs)**
 
 **2. Preventive and Promotive Health -** Community health workers (e.g., **ASHA, Anganwadi, ANM)** enable **early detection, immunization, maternal and child care.
-3. Local interventions are more **trust-based,** improving adoption of health services. Eg- ASHA workers act as a bridge between local communities and formal healthcare systems
+  - Local interventions are more **trust-based,** improving adoption of health services. Eg- ASHA workers act as a bridge between local communities and formal healthcare systems
 
 **4. Cost-Effectiveness -** Community-based preventive healthcare reduces **out-of-pocket expenditure (OOPE).** (Presently at 40%)
 
@@ -7329,9 +7329,9 @@ The goal of **‘Health for All’,** as envisioned in the **Alma-Ata Declaratio
 
 **7. Empowering Women and Local Workforce -** ASHAs and Anganwadi workers-over **10 lakh women-act** as frontline caregivers.
 
-8. Community health networks enable **rapid disease surveillance** and emergency response. Eg- **ASHAs and PRIs** played a critical role in **contact tracing during COVID-19**
+  - Community health networks enable **rapid disease surveillance** and emergency response. Eg- **ASHAs and PRIs** played a critical role in **contact tracing during COVID-19**
 
-9. Continuous community engagement increases awareness of **disease prevention, hygiene, family planning,** and **nutrition.
+  - Continuous community engagement increases awareness of **disease prevention, hygiene, family planning,** and **nutrition.
 **Key Challenges**
 
 1. **Shortage of trained manpower** and high attrition among ASHA and ANM workers.
@@ -7777,17 +7777,17 @@ Enacted under **Article 21A,** the RTE Act (2009) aims to provide free and compu
 
 **3. Perverse Incentives:** Focus on attendance for meals/books rather than actual learning engagement or outcomes.
 
-5. **The "Class 9" Cliff:** Incentives stop at Class 8, leading to massive dropouts once fees are introduced.
+  - **The "Class 9" Cliff:** Incentives stop at Class 8, leading to massive dropouts once fees are introduced.
 
-6. **Learning Poverty Paradox:** ASER 2024 reports that only **~43%** of Class V students can read a Class II-level text.
+  - **Learning Poverty Paradox:** ASER 2024 reports that only **~43%** of Class V students can read a Class II-level text.
 
-7. **Geographical Exclusion:** Over **8.1 million** children from urban slums remained out of school in early 2026. **(NAC Implementation Report)**
+  - **Geographical Exclusion:** Over **8.1 million** children from urban slums remained out of school in early 2026. **(NAC Implementation Report)**
 
-8. **Stigmatization:** EWS children in elite schools face social alienation **Way Forward**
+  - **Stigmatization:** EWS children in elite schools face social alienation **Way Forward**
 
-1. **Awareness Campaigns:** Use "Nukkad Nataks" and local influencers to explain the "value" of education beyond meals. **Eg- "Vidyanjali 2.0"** community volunteer programs.
+  - **Awareness Campaigns:** Use "Nukkad Nataks" and local influencers to explain the "value" of education beyond meals. **Eg- "Vidyanjali 2.0"** community volunteer programs.
 
-2. **Extension of Mandate:** Extend free education up to **Class 12** to prevent the "Class 9 dropout" crisis.
+  - **Extension of Mandate:** Extend free education up to **Class 12** to prevent the "Class 9 dropout" crisis.
 
 **(NEP 2020)**
 
@@ -7898,11 +7898,11 @@ The **Directive Principles of State Policy (Articles 38, 39, 42, and 47)** manda
 **7. Weak Regulation and Accountability** leads to **price inflation, quackery, and malpractice.
 **8. Brain Drain from Public Sector** due to **better pay and infrastructure** in private sector **Role of the State**
 
-1. As per **Article 38 and 47,** the State must promote public health and ensure equitable access.
+  - As per **Article 38 and 47,** the State must promote public health and ensure equitable access.
 
-2. **Ensuring Universal Health Coverage (UHC):** State intervention is key to fulfilling **SDG-3 (Good Health and Well-being)** and ensuring healthcare equity.
+  - **Ensuring Universal Health Coverage (UHC):** State intervention is key to fulfilling **SDG-3 (Good Health and Well-being)** and ensuring healthcare equity.
 
-3. **Correcting Market Failures:** Government must act as a **regulator and service provider,** ensuring affordability, quality, and inclusivity.
+  - **Correcting Market Failures:** Government must act as a **regulator and service provider,** ensuring affordability, quality, and inclusivity.
 
 **Measures to Enhance Reach of Public Healthcare at the Grassroots Level**
 
@@ -7917,13 +7917,13 @@ The **Directive Principles of State Policy (Articles 38, 39, 42, and 47)** manda
 **5.** Expand **Pradhan Mantri Jan Aushadhi Kendras** for affordable drugs. Mandate prescription of **generic medicines.
 **6. Decentralised Health Governance -** Empower **Panchayati Raj Institutions** and **urban local bodies** for health planning, awareness, and monitoring. (Kerala Model)
 
-7. **Preventive Health -** Strengthen **immunisation, sanitation, and nutrition programmes** (e.g., POSHAN Abhiyaan, Swachh Bharat).
+  - **Preventive Health -** Strengthen **immunisation, sanitation, and nutrition programmes** (e.g., POSHAN Abhiyaan, Swachh Bharat).
 
-8. Promote **health literacy** through ASHA-led campaigns.
+  - Promote **health literacy** through ASHA-led campaigns.
 
-9. Expand **telemedicine (eSanjeevani)** to connect rural PHCs with urban specialists.
+  - Expand **telemedicine (eSanjeevani)** to connect rural PHCs with urban specialists.
 
-10. Integrate **AYUSH systems** with allopathic care at PHC level for holistic wellness.
+  - Integrate **AYUSH systems** with allopathic care at PHC level for holistic wellness.
 
 By strengthening primary care, the State can transform healthcare into a **rights-based, inclusive, and sustainable system,** achieving the goal of **“Swastha Bharat, Samriddh Bharat.”**
 
@@ -8068,18 +8068,18 @@ far below the WHO’s 6% recommendation.
 
 **4. Learning poverty -** Over **70% of Class 3 students** cannot read age-appropriate texts (ASER 2025)
 
-5. **Utilities and fuel:** Increasing electricity, rent, and LPG costs raise non-food spending.
+  - **Utilities and fuel:** Increasing electricity, rent, and LPG costs raise non-food spending.
 
-6. **Proliferation of slums** - 17% urban population living in slums **Way Forward**
+  - **Proliferation of slums** - 17% urban population living in slums **Way Forward**
 
-1. **Social Determinants Approach:** Integration of hunger and poverty with **nutrition, sanitation (Swachh Bharat), and clean energy (Ujjwala Yojana).
-2. **Nutrition-Sensitive Policies:** Diversify PDS with **millets, pulses, fortified foods,** and region-specific nutrition interventions.
+  - **Social Determinants Approach:** Integration of hunger and poverty with **nutrition, sanitation (Swachh Bharat), and clean energy (Ujjwala Yojana).
+  - **Nutrition-Sensitive Policies:** Diversify PDS with **millets, pulses, fortified foods,** and region-specific nutrition interventions.
 
-3. Adopt **data-driven local interventions** under **Aspirational Districts Programme** to target high-burden regions.
+  - Adopt **data-driven local interventions** under **Aspirational Districts Programme** to target high-burden regions.
 
-4. Adopt Brazil’s **Bolsa Família** conditional cash transfer scheme
+  - Adopt Brazil’s **Bolsa Família** conditional cash transfer scheme
 
-5. Scale State level best practices like TN’s inclusion of **Eggs in MDM** This can help achieve **SDG 1, 2** and realise **Atmanirbhar Bharat.
+  - Scale State level best practices like TN’s inclusion of **Eggs in MDM** This can help achieve **SDG 1, 2** and realise **Atmanirbhar Bharat.
 [Question ID: 2019-gs2-q125-civilsdaily]
 
 ---
@@ -8199,11 +8199,11 @@ create an intergenerational underdevelopment trap.
 **3. Impact on Cognitive Development -** Poverty forces children into **child labor** or causes **school dropouts.** Malnourished children suffer from **impaired brain development,** lower IQ, and **learning disabilities.
 **4.** High **disease burden (anaemia, diarrhoea, TB)** reduces life expectancy and working life span. Malnutrition contributes to **45% of child deaths** (UNICEF, 2024).
 
-5. The **International Labour Organization (ILO)** notes that productivity losses due to undernutrition can reach **up to 10% of lifetime earnings** per individual.
+  - The **International Labour Organization (ILO)** notes that productivity losses due to undernutrition can reach **up to 10% of lifetime earnings** per individual.
 
-6. **Women’s malnutrition** (57% anaemic, NFHS-5) leads to poor maternal health and undernourished children.
+  - **Women’s malnutrition** (57% anaemic, NFHS-5) leads to poor maternal health and undernourished children.
 
-7. Expand **NFSA** and **PMGKAY** to include pulses, millets, and fortified foods, not just cereals.
+  - Expand **NFSA** and **PMGKAY** to include pulses, millets, and fortified foods, not just cereals.
 
 **Steps to break the cycle**
 
@@ -8390,18 +8390,18 @@ Both India and the USA uphold **equality as a democratic ideal** and **Basic Fea
 
 **5. Polycrisis - multiple crises** of slow economic growth, increased fragility, climate risks, and heightened uncertainty have come together at the **same time. (WB) Way Forward**
 
-1. **Social Determinants Approach:** Integrate health with **nutrition, sanitation (Swachh Bharat), and clean energy (Ujjwala Yojana).** Eg- Gati Shakti Mission Model
+  - **Social Determinants Approach:** Integrate health with **nutrition, sanitation (Swachh Bharat), and clean energy (Ujjwala Yojana).** Eg- Gati Shakti Mission Model
 
-2. Expand **MGNREGA** and link with **climate-resilient livelihoods** (water conservation, afforestation).
+  - Expand **MGNREGA** and link with **climate-resilient livelihoods** (water conservation, afforestation).
 
-3. Women Empowerment by adopting best practices like **Kerala’s Kudumbshree Model**
+  - Women Empowerment by adopting best practices like **Kerala’s Kudumbshree Model**
 
-4. Adopt **data-driven local interventions** under **Aspirational Districts Programme** to target high-burden regions.
+  - Adopt **data-driven local interventions** under **Aspirational Districts Programme** to target high-burden regions.
 
-5. Adopt Brazil’s **Bolsa Família** conditional cash transfer scheme
+  - Adopt Brazil’s **Bolsa Família** conditional cash transfer scheme
 
-6. **Land and Asset Redistribution:** Promote **tenancy rights** and **women’s joint land ownership.
-7. **Inclusive Financial Access:** Strengthen **PM Jan Dhan-Aadhaar-Mobile (JAM)** and **MUDRA loans** for micro-entrepreneurs.
+  - **Land and Asset Redistribution:** Promote **tenancy rights** and **women’s joint land ownership.
+  - **Inclusive Financial Access:** Strengthen **PM Jan Dhan-Aadhaar-Mobile (JAM)** and **MUDRA loans** for micro-entrepreneurs.
 
 As **Amartya Sen** observed, poverty is not merely lack of income but lack of capabilities. Bridging resource inequality is key to achieving **inclusive growth and social justice (Article 39 (b) & (c)).
 **International Relations**
@@ -8744,21 +8744,21 @@ Former US president Barack Obama called India-US relationship as the **most defi
 
 **1. India’s Pursuit of Strategic Autonomy vs US Alliance Model -** India’s “strategic hedging” with **neutral stance on the Russia-Ukraine war (2022-24)** frustrated the US. Eg- 50% Tariff
 
-2. USA’s relationship with Pakistan (recent **mineral deal)** weakens India’s efforts against Terrorism.
+  - USA’s relationship with Pakistan (recent **mineral deal)** weakens India’s efforts against Terrorism.
 
-3. Fear of USA’s policy of **Bait and Bloodletting** in India-China relations
+  - Fear of USA’s policy of **Bait and Bloodletting** in India-China relations
 
 **4.** Gap between **expectation and recognition - Eg-** While the US promotes India as a “pillar of the Indo-Pacific strategy,” it **doesn’t** offer India the same status as treaty allies like Japan or Australia
 
 **5. Divergence in Regional Priorities - India’s immediate concerns** include China, Pakistan, and the Indian Ocean Region (IOR), whereas **US priorities** Pacific Ocean **in QUAD.
 **6. Geoeconomic Issues -** US tightening **H-1B visa policies** or reinstate **Generalized System of Preferences (GSP).
-7. U.S. withdrawal from **Afghanistan** (2021) and its aftermath posed regional security concerns for India
+  - U.S. withdrawal from **Afghanistan** (2021) and its aftermath posed regional security concerns for India
 
 **8. Multilateralism issues - Eg-** Disputes on **data localization, intellectual property, and agricultural access** under WTO
 
-9. US sanctions under **CAATSA** threatened **S-400 missile system deal** and Chabahar port in Iran
+  - US sanctions under **CAATSA** threatened **S-400 missile system deal** and Chabahar port in Iran
 
-10. **Human Rights -** US criticism of India’s **domestic policies** (e.g., on religious freedom, digital regulation, or Kashmir) is viewed by India as **interference in internal affairs.
+  - **Human Rights -** US criticism of India’s **domestic policies** (e.g., on religious freedom, digital regulation, or Kashmir) is viewed by India as **interference in internal affairs.
 **India’s National Self-Esteem and Strategic Ambitions**
 
 1. **Strategic Autonomy and issue based partnerships** based on **enlightened self interest**
@@ -8836,9 +8836,9 @@ India’s defence partnerships have evolved in response to shifting **geopolitic
 **2. Dependence on Russian Systems -** Over **60% of India’s defence inventory** still originates from Russia (Su-30s, MiGs, T-90s, submarines). Shifts to US-origin platforms face **interoperability and logistics challenges.
 **3. Technology Transfer and Cost Issues - US defence exports** involve limited **technology transfer** and high costs compared to Russia’s **Make-in-India-friendly models** (e.g., BrahMos).
 
-4. The **CAATSA sanctions threat** over India’s S-400 purchase exemplifies friction points that could impact future defence cooperation.
+  - The **CAATSA sanctions threat** over India’s S-400 purchase exemplifies friction points that could impact future defence cooperation.
 
-5. **Bureaucratic Constraints -** Differences in **procurement procedures, licensing regimes,** and **IPR frameworks** often delay joint projects and technology-sharing initiatives.
+  - **Bureaucratic Constraints -** Differences in **procurement procedures, licensing regimes,** and **IPR frameworks** often delay joint projects and technology-sharing initiatives.
 
 **Way Forward**
 
@@ -8901,7 +8901,7 @@ Africa is emerging as the **next frontier of global growth,** driven by its demo
 
 **2. Expand Diplomatic Footprint -** increase frequency of **high-level summits and ministerial dialogues**
 
-3. **Capacity Building 2.0-** Expand **ITEC 2for emerging fields like **AI, climate tech, and fintech.
+  - **Capacity Building 2.0-** Expand **ITEC 2for emerging fields like **AI, climate tech, and fintech.
 As **PM Modi** said at IAFS 2015, “Our partnership is beyond strategic - it is human-centric, empowering, and future-facing.”
 
 [Question ID: 2021-gs2-q140-civilsdaily]
@@ -9517,14 +9517,14 @@ The **QUAD,** comprising **India, the USA, Japan, and Australia,** was establish
 **1. Supply Chain Resilience Initiative (SCRI, 2021)** to reduce dependence on **China-centric supply chains. Eg-** Semiconductor collaboration and clean energy supply chains.
 
 **2. Critical and Emerging Technologies - EG-** QUAD working groups on **5G/6G, AI, quantum computing, biotechnology, and cybersecurity** seeks to ensure **secure and transparent digital trade.
-3. **Quad Critical Minerals Initiative** to collaborate on securing and diversifying critical mineral supply chains.
+  - **Quad Critical Minerals Initiative** to collaborate on securing and diversifying critical mineral supply chains.
 
 **4. Partnership for Infrastructure (PFI)** promotes **high-quality, sustainable, and transparent infrastructure** as an alternative to China’s **BRI.
 **5. Climate and Clean Energy Cooperation - QUAD Climate Working Group** focuses on **green shipping, renewable technologies, and disaster resilience.
 **6.** The **QUAD Vaccine Partnership (2021)** aimed to produce and distribute **1 billion COVID-19 vaccines** across the Indo-Pacific.
 
-7. The **Blue Dot Network (BDN),,** certifies infrastructure projects that meet **high standards of transparency, sustainability, and quality.** Seen as a **counterweight to China’s Belt and Road Initiative (BRI).
-8. **Free and Open Indo-Pacific (FOIP)** led by **Japan,** to ensure **freedom of navigation, connectivity, and economic prosperity.
+  - The **Blue Dot Network (BDN),,** certifies infrastructure projects that meet **high standards of transparency, sustainability, and quality.** Seen as a **counterweight to China’s Belt and Road Initiative (BRI).
+  - **Free and Open Indo-Pacific (FOIP)** led by **Japan,** to ensure **freedom of navigation, connectivity, and economic prosperity.
 **Strategic and Military cooperation**
 
 1. **Joint Naval Exercises** enhancing **maritime interoperability** and **situational awareness.** Eg- **Malabar Exercise**
@@ -9716,9 +9716,9 @@ Eg- **BIMSTEC Leaders’ Summit**
 **1. Regional Integration -** Provides a **Pakistan-free alternative** to pursue regional cooperation and development.
 
 **2. Bridge to Southeast Asia:** advances India’s **Act East Policy.** Eg- **IMT Trilateral Highway.
-3. **Neighbourhood First** and **Indo-Pacific** strategies - Increased connectivity, humanitarian cooperation, and development projects **project India as a responsible power.
-4. **SAGAR Vision:** Reinforces India’s role as a **“Net Security Provider”** in the Indian Ocean through cooperation in **maritime security, disaster management, and coastal resilience.
-5. **Tapping Trade Potential** in the Bay of Bengal through **blue economy initiatives** and **port-led development.
+  - **Neighbourhood First** and **Indo-Pacific** strategies - Increased connectivity, humanitarian cooperation, and development projects **project India as a responsible power.
+  - **SAGAR Vision:** Reinforces India’s role as a **“Net Security Provider”** in the Indian Ocean through cooperation in **maritime security, disaster management, and coastal resilience.
+  - **Tapping Trade Potential** in the Bay of Bengal through **blue economy initiatives** and **port-led development.
 Group’s **cohesion and sustainability** is key to realise **‘Vision 2030’** adopted in the recent **6th BIMSTEC summit.
 [Question ID: 2022-gs2-q154-civilsdaily]
 
@@ -9740,7 +9740,7 @@ Climate change has emerged as a **global security and geopolitical concern.** In
 **2. Social Benefits - women’s health.** (Ujjwala Scheme)
 
 **3. Economic Benefits -** lowering **Current Account Deficit (CAD).
-4. India’s role as a **“Vishwaguru of sustainability” Geopolitics of Climate Change**
+  - India’s role as a **“Vishwaguru of sustainability” Geopolitics of Climate Change**
 
 **1. Oil geopolitics (Middle East)**
 
@@ -9836,10 +9836,10 @@ While India is not a NATO member, this development **aligns with many of India�
 
 **6. Value-Based Convergence -** Reinforces **shared democratic values, human rights, and rule of law.
 Eg- India’s participation in the Summit **for Democracy.
-7. **Trade and investment flow** - Stability in Europe can facilitate greater cooperation in trade, connectivity and technology domains. Eg- Recent India-UK trade deal **Challenges**
+  - **Trade and investment flow** - Stability in Europe can facilitate greater cooperation in trade, connectivity and technology domains. Eg- Recent India-UK trade deal **Challenges**
 
 **1.** NATO’s expansion risks **reviving Cold War-style bipolarity,** which goes against India’s principle of **strategic autonomy** and **multi-alignment.
-2. USA’s policy of **Bait and Bloodletting** by prolonging Russia-Ukraine war undermines India’s policy of peaceful resolutions of disputes.
+  - USA’s policy of **Bait and Bloodletting** by prolonging Russia-Ukraine war undermines India’s policy of peaceful resolutions of disputes.
 
 **3.** NATO’s confrontation with Russia complicates India’s long-standing **defence and energy ties** with Moscow. Eg- US sanctions on Russian Oil
 
@@ -9911,8 +9911,8 @@ Multi-vector diplomacy and strategic autonomy is the way forward.
 2. **Capacity Building:** Support to developing states in **border management, cyber surveillance, and financial tracking.
 **3. Curbing Terror Financing:** Criminalization of fund-raising and cross-border money flows.
 
-4. **Information Sharing:** Enhanced coordination among **INTERPOL, UNODC, and regional organizations (ASEAN, AU, SAARC).
-5. **1267 Sanctions Regime:** Travel bans and arms embargoes on listed terrorist entities.
+  - **Information Sharing:** Enhanced coordination among **INTERPOL, UNODC, and regional organizations (ASEAN, AU, SAARC).
+  - **1267 Sanctions Regime:** Travel bans and arms embargoes on listed terrorist entities.
 
 **Limitations**
 
@@ -10062,32 +10062,32 @@ The **oceans** cover nearly **71% of the Earth’s surface** and are the **found
 
 **5. Engine of the Blue Economy:** fisheries, renewable ocean energy, tourism, and seabed resources **Role of IMO in Environmental Protection** Shipping accounts for **3%** of global greenhouse gas emissions.
 
-1. **Net-Zero Framework -** a global mechanism **to price carbon emissions** from ships and use the proceeds to help **developing countries transition to green shipping.
+  - **Net-Zero Framework -** a global mechanism **to price carbon emissions** from ships and use the proceeds to help **developing countries transition to green shipping.
 ## **2. Pollution Prevention through MARPOL convention**
 
   - Regulates oil, chemical, sewage, garbage, and air pollution.
 
   - Enforce low-sulphur fuel standards and Energy Efficiency Design for new ships
 
-3. IMO’s **Initial GHG Strategy** targets **50% reduction in ship emissions by 2050** (from 2008 levels).
+  - IMO’s **Initial GHG Strategy** targets **50% reduction in ship emissions by 2050** (from 2008 levels).
 
-4. Promotes **green shipping** and alternative fuels (LNG, methanol, hydrogen), and carbon intensity.
+  - Promotes **green shipping** and alternative fuels (LNG, methanol, hydrogen), and carbon intensity.
 
-5. Prevents transfer of invasive aquatic species through **Ballast Water Management Convention**
+  - Prevents transfer of invasive aquatic species through **Ballast Water Management Convention**
 
-6. **IMO’s Polar Code** addresses safety and environmental protection in polar waters **Role in Maritime Safety and Security**
+  - **IMO’s Polar Code** addresses safety and environmental protection in polar waters **Role in Maritime Safety and Security**
 
-1. **IMO provides a legal and technical framework** for cleaner and safer shipping.
+  - **IMO provides a legal and technical framework** for cleaner and safer shipping.
 
-2. **SOLAS (Safety of Life at Sea, 1974)** is IMO’s flagship convention, setting global ship design and emergency standards.
+  - **SOLAS (Safety of Life at Sea, 1974)** is IMO’s flagship convention, setting global ship design and emergency standards.
 
-3. **STCW Convention (1978):** Mandates uniform global training and certification for seafarers.
+  - **STCW Convention (1978):** Mandates uniform global training and certification for seafarers.
 
-4. **ISPS Code (2002):** Strengthens ship-port security against terrorism and piracy.
+  - **ISPS Code (2002):** Strengthens ship-port security against terrorism and piracy.
 
-5. IMO assists regional frameworks like **Djibouti Code of Conduct** (Somalia Basin) and **ReCAAP** (Asia) to combat piracy.
+  - IMO assists regional frameworks like **Djibouti Code of Conduct** (Somalia Basin) and **ReCAAP** (Asia) to combat piracy.
 
-6. Introduced **e-navigation** and **Global Maritime Distress and Safety System (GMDSS)** to improve real-time communication.
+  - Introduced **e-navigation** and **Global Maritime Distress and Safety System (GMDSS)** to improve real-time communication.
 
 **Challenges**
 

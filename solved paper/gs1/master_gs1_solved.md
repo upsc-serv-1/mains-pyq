@@ -743,11 +743,11 @@ India has emerged as a global leader in solar energy with over **140 GW of insta
 
 - **~300 sunny days annually** → ideal for large-scale generation.
 
-3. **Waste Land Availability-** States like Rajasthan and Ladakh possess vast tracts of high-albedo, non-arable land
+  - **Waste Land Availability-** States like Rajasthan and Ladakh possess vast tracts of high-albedo, non-arable land
 
-4. **Water Body Integration-** With thousands of reservoirs, India's **Floating Solar** potential is estimated at **280 GW Regional Variations in Development**
+  - **Water Body Integration-** With thousands of reservoirs, India's **Floating Solar** potential is estimated at **280 GW Regional Variations in Development**
 
-1. Western India has seen the highest development of solar power. Rajasthan accounts for around 27% of India's total capacity (~37 GW). Gujarat ranks second with ~20 GW.
+  - Western India has seen the highest development of solar power. Rajasthan accounts for around 27% of India's total capacity (~37 GW). Gujarat ranks second with ~20 GW.
 
   - High solar insolation
 
@@ -759,7 +759,7 @@ India has emerged as a global leader in solar energy with over **140 GW of insta
 
   - Eg- Bhadla (Rajasthan), Charanka Solar Park (Gujarat).
 
-2. Southern India has witnessed moderate to high growth
+  - Southern India has witnessed moderate to high growth
 
   - Progressive state policies
 
@@ -771,7 +771,7 @@ India has emerged as a global leader in solar energy with over **140 GW of insta
 
   - Eg- Pavagada Solar Park (Karnataka).
 
-3. Northern Plains - Moderate Potential but Slower Growth
+  - Northern Plains - Moderate Potential but Slower Growth
 
 - High population density → **land constraint.**
 
@@ -779,13 +779,13 @@ India has emerged as a global leader in solar energy with over **140 GW of insta
 
 - Majority of land is under Agriculture
 
-4. Eastern and Northeastern India - Low Development
+  - Eastern and Northeastern India - Low Development
 
 - High cloud cover, heavy rainfall, and forest cover.
 
 - Limited grid infrastructure and investment.
 
-5. Himalayan Region - Ladakh has very high insolation but faces-
+  - Himalayan Region - Ladakh has very high insolation but faces-
 
   - Harsh climate
 
@@ -793,7 +793,7 @@ India has emerged as a global leader in solar energy with over **140 GW of insta
 
   - Fragile ecology.
 
-6. Coastal and Urban Regions - Space constraints for large plants but high scope for distributed solar. EgKerala’s rooftop solar model.
+  - Coastal and Urban Regions - Space constraints for large plants but high scope for distributed solar. EgKerala’s rooftop solar model.
 
 **Steps Taken by Governments**
 
@@ -4327,7 +4327,7 @@ Source Question: Can the strategy of regional resource-based manufacturing help 
 
 **2.** Local Livelihood Creation reduces rural-to-urban migration. Eg- Agro-based industries in eastern Uttar Pradesh and Bihar.
 
-3. **Ancillary and small industries** grow around core manufacturing units. Eg- Textile clusters in Tamil Nadu.
+  - **Ancillary and small industries** grow around core manufacturing units. Eg- Textile clusters in Tamil Nadu.
 
 **4.** Value Addition at Source generates farm and non-farm employment and increases rural incomes.
 
@@ -12660,7 +12660,7 @@ Eg- Hawaiian Island chain formed over a Pacific plate hotspot.
 
 **6. Thermal Uplift of Lithosphere -** Hot plume material causes crustal doming before volcanic eruption.
 
-7. Recent **research** suggests that the intense thermal weakening caused by a plume can cause a tectonic plate to collapse under its own weight, potentially **initiating a new subduction zone.**
+  - Recent **research** suggests that the intense thermal weakening caused by a plume can cause a tectonic plate to collapse under its own weight, potentially **initiating a new subduction zone.**
 
 Plume activity and plate motion together form an integrated framework for understanding Earth's tectonic evolution.
 
@@ -22061,13 +22061,13 @@ Under British rule, India **experienced an unprecedented frequency of famines (3
 
 **4. Disruption of traditional famine-coping mechanisms like community grain banks** due to British policies.
 
-5. **Free trade ideology (laissez-faire attitude)** prioritised exports over local needs. Eg- Continued **grain exports during famines** like the **Great Famine of 1876-78.**
+  - **Free trade ideology (laissez-faire attitude)** prioritised exports over local needs. Eg- Continued **grain exports during famines** like the **Great Famine of 1876-78.**
 
 **6. Neglect of agricultural investment** heightened vulnerability to monsoon failure. Eg- Limited irrigation outside canal colonies.
 
-7. **Diversion of foodgrains** for British soldiers during world war II led to over 3 million deaths during Bengal famine of 1943
+  - **Diversion of foodgrains** for British soldiers during world war II led to over 3 million deaths during Bengal famine of 1943
 
-8. **Role of Viceroys - Lord Lytton** exported 320,000 tons of wheat to England during the **Great Famine of 1876-1878** Thus, spurt in famines was an **"administrative and man-made"** phenomenon. It underscores the critical role of the state **in ensuring food security at present.**
+  - **Role of Viceroys - Lord Lytton** exported 320,000 tons of wheat to England during the **Great Famine of 1876-1878** Thus, spurt in famines was an **"administrative and man-made"** phenomenon. It underscores the critical role of the state **in ensuring food security at present.**
 
 1. Explanation_Drishti IAS:
 Source Question: Why was there a sudden spurt in famines in colonial India since the mid-eighteenth century? Give reasons.
@@ -22729,15 +22729,15 @@ Mahatma Gandhi (Father of the nation) combined **ethics, politics, and social re
 
 **7. Nai Talim** stressed holistic education integrating ethics and skills. It is in line with **value-based and vocational education** suggested in NEP,2020.
 
-8. His emphasis on **self-discipline and moral courage** bridges gap between rights and duties and promotes responsible citizenry and builds social capital
+  - His emphasis on **self-discipline and moral courage** bridges gap between rights and duties and promotes responsible citizenry and builds social capital
 
-9. **Trusteeship principle**
+  - **Trusteeship principle**
 
   - Encourages **corporate social responsibility (CSR)** and **ethical capitalism.**
 
   - Reduces **wealth inequality (1% HOLDING 40% WEALTH)**
 
-10. Gandhi’s concept of **Sarvodaya (progress for all)** and **Antyodaya** (upliftment of the last person) are relevant for forming social welfare policies. Eg- MGNREGA Mahatma Gandhi’s thoughts represent a **living philosophy.** By prioritizing the planet over profit and humanity over hegemony, Gandhian principles provide a compass for navigating the complexities of the 21st century.
+  - Gandhi’s concept of **Sarvodaya (progress for all)** and **Antyodaya** (upliftment of the last person) are relevant for forming social welfare policies. Eg- MGNREGA Mahatma Gandhi’s thoughts represent a **living philosophy.** By prioritizing the planet over profit and humanity over hegemony, Gandhian principles provide a compass for navigating the complexities of the 21st century.
 
 1. Explanation_Drishti IAS:
 Source Question: Throw light on the significance of thoughts of Mahatma Gandhi in the present times. (2018)
@@ -31869,21 +31869,21 @@ Eg- 96% manual scavengers are Dalits
 
 **6. Regional disparity -** Eg- BIMARU states lag behind southern states in human development indicators
 
-7. **Minority Religious Communities** show **lower education and employment outcomes** as highlighted in the **Sachar Committee report.** Eg- higher % of muslim undertrails in Jail
+  - **Minority Religious Communities** show **lower education and employment outcomes** as highlighted in the **Sachar Committee report.** Eg- higher % of muslim undertrails in Jail
 
-8. **Linguistic Marginalization** - Proficiency in English (a cultural/class marker) creates a divide between the "globalized elite" and those restricted to regional languages.
+  - **Linguistic Marginalization** - Proficiency in English (a cultural/class marker) creates a divide between the "globalized elite" and those restricted to regional languages.
 
-9. **Marginalization of transgenders and LGBTQ** due to social discrimination and lack of access to basic amenities like health, education **Other factors for Socio-Economic marginalities**
+  - **Marginalization of transgenders and LGBTQ** due to social discrimination and lack of access to basic amenities like health, education **Other factors for Socio-Economic marginalities**
 
-1. **Economic Inequality** - richest 1% control more than 40% of total wealth, while the bottom 50% own merely 3% **(Oxfam Report)**
+  - **Economic Inequality** - richest 1% control more than 40% of total wealth, while the bottom 50% own merely 3% **(Oxfam Report)**
 
-2. **Rural-Urban Divide** - Consumption and wage gaps.
+  - **Rural-Urban Divide** - Consumption and wage gaps.
 
-3. **Infrastructure Deficits** - Poor connectivity, electricity, and sanitation in backward districts hinder productivity.
+  - **Infrastructure Deficits** - Poor connectivity, electricity, and sanitation in backward districts hinder productivity.
 
-4. **Gender Pay Gap** - Women continue to earn significantly less than men
+  - **Gender Pay Gap** - Women continue to earn significantly less than men
 
-5. **Policy Implementation Gaps** - affirmative policies sometimes fail to reach intended beneficiaries due to bureaucratic and governance bottlenecks. Eg- inclusion-exclusion errors in PDS However, **cultural diversity has also helped in addressing socio-economic marginalities**
+  - **Policy Implementation Gaps** - affirmative policies sometimes fail to reach intended beneficiaries due to bureaucratic and governance bottlenecks. Eg- inclusion-exclusion errors in PDS However, **cultural diversity has also helped in addressing socio-economic marginalities**
 
 **1. Affirmative action policies**
 
@@ -33175,13 +33175,13 @@ According to **Census 2011, Tribals constitute 8.6% of India’s population.** T
 
 **1. Tribal Health Care Research Programme (THCRP)** for collecting information on folk medicines / traditional practices
 
-2. **Traditional Knowledge Digital Library (TKDL)** - to create digital knowledge repository
+  - **Traditional Knowledge Digital Library (TKDL)** - to create digital knowledge repository
 
-3. **PM Janjatiya Vikas Mission (PM-JVM)** to promote "forest-based livelihoods."
+  - **PM Janjatiya Vikas Mission (PM-JVM)** to promote "forest-based livelihoods."
 
-4. **UNDPs North-East India Biocultural Initiative (NEBI)** for revitalizing traditional knowledge and promoting ecosystem-based solutions
+  - **UNDPs North-East India Biocultural Initiative (NEBI)** for revitalizing traditional knowledge and promoting ecosystem-based solutions
 
-5. **Adi Sanskriti** - “world’s first digital university to preserve and promote the culture and knowledge of tribal communities.” In an era of **climate change, biodiversity loss, and sustainability crises,** integrating tribal knowledge is essential for achieving **inclusive and sustainable development.**
+  - **Adi Sanskriti** - “world’s first digital university to preserve and promote the culture and knowledge of tribal communities.” In an era of **climate change, biodiversity loss, and sustainability crises,** integrating tribal knowledge is essential for achieving **inclusive and sustainable development.**
 
 1. Explanation_Drishti IAS:
 Source Question: Examine the uniqueness of tribal knowledge systems when compared with mainstream knowledge and cultural systems
@@ -34270,21 +34270,21 @@ According to **J.H. Fichter,** “a society can be defined as a network of inter
 
 **2. Changes in institution of marriage -** Eg- rise in inter-caste and inter-faith marriage
 
-3. **Changes in the family system.** Eg- rise in nuclear families and single parent families
+  - **Changes in the family system.** Eg- rise in nuclear families and single parent families
 
-4. **Democratization of Caste** - While caste identity persists, its "ritual" hierarchy is weakening in favor of political and economic identity. Eg- decline of **commensality restrictions** (eating together) in urban public spaces.
+  - **Democratization of Caste** - While caste identity persists, its "ritual" hierarchy is weakening in favor of political and economic identity. Eg- decline of **commensality restrictions** (eating together) in urban public spaces.
 
-5. **Sanskritization (M.N. Srinivas)** - Lower castes adopt the customs and rituals of upper castes to claim higher social status, leading to "cultural mobility."
+  - **Sanskritization (M.N. Srinivas)** - Lower castes adopt the customs and rituals of upper castes to claim higher social status, leading to "cultural mobility."
 
-6. **From Hierarchy to Stratification (André Béteille)** - The traditional link between caste, land, and power is breaking down into a more complex system of class
+  - **From Hierarchy to Stratification (André Béteille)** - The traditional link between caste, land, and power is breaking down into a more complex system of class
 
-7. **Economic independence of women** challenging traditional patriarchal values. Eg- rise in **“dual income”** households
+  - **Economic independence of women** challenging traditional patriarchal values. Eg- rise in **“dual income”** households
 
-8. **Secularization of Rituals** - Eg- transformation of **Durga Puja or Dandiya** into major commercial and tourist festivals where participation is not limited by faith.
+  - **Secularization of Rituals** - Eg- transformation of **Durga Puja or Dandiya** into major commercial and tourist festivals where participation is not limited by faith.
 
-9. **Impact of Globalization** - Eg- emergence of **"Hinglish"** and the celebration of events like Mother's Day or Valentine's Day.
+  - **Impact of Globalization** - Eg- emergence of **"Hinglish"** and the celebration of events like Mother's Day or Valentine's Day.
 
-10. Reforms under **constitutional provisions and laws** changing value system and behaviour. Egabolition of untouchability As **Yogendra Singh** noted, Indian society is undergoing a "structural" change while maintaining "cultural" continuity. The synthesis of traditional values with modern democratic ideals has created a unique **"Indian Modernity."**
+  - Reforms under **constitutional provisions and laws** changing value system and behaviour. Egabolition of untouchability As **Yogendra Singh** noted, Indian society is undergoing a "structural" change while maintaining "cultural" continuity. The synthesis of traditional values with modern democratic ideals has created a unique **"Indian Modernity."**
 
 1. Explanation_Drishti IAS:
 Source Question: How does Indian society maintain continuity in traditional social values? Enumerate the changes taking place in it.
@@ -35183,13 +35183,13 @@ Eg- Free contraceptives, institutional deliveries
 
 **1. Teacher Training and Capacity Building** through **DIETs (District Institute of Education and Training),** and digital modules via **DIKSHA portal**
 
-2. Reaching the out-of-school youth and illiterate adults under **"New India Literacy Programme" (NILP)**
+  - Reaching the out-of-school youth and illiterate adults under **"New India Literacy Programme" (NILP)**
 
-3. **Universal access** to contraception and maternal healthcare
+  - **Universal access** to contraception and maternal healthcare
 
-4. Involvement of **Community and Religious Leaders** for attitudinal change
+  - Involvement of **Community and Religious Leaders** for attitudinal change
 
-5. Promoting **women entrepreneurship** under Stand-up India Effective Population Education can transform the "demographic burden" into a **"demographic dividend"**
+  - Promoting **women entrepreneurship** under Stand-up India Effective Population Education can transform the "demographic burden" into a **"demographic dividend"**
 
 1. Explanation_Drishti IAS:
 Source Question: Discuss the main objectives of Population Education and point out the measures to achieve them in India in detail.
@@ -35617,21 +35617,21 @@ Source Question: Distinguish between gender equality, gender equity and women’
 
 **2. Correcting historical disadvantage -** Eg- **houses** registered in the name of women under **PM Awas Yojana**
 
-3. **Maximizing Economic Returns-** The IMF notes that closing the gender gap could boost India's GDP by **27%.**
+  - **Maximizing Economic Returns-** The IMF notes that closing the gender gap could boost India's GDP by **27%.**
 
-4. **Improving Efficiency-** Eg- involving women in water committees under **Jal Jeevan Mission** ensures better maintenance as they are the primary water managers.
+  - **Improving Efficiency-** Eg- involving women in water committees under **Jal Jeevan Mission** ensures better maintenance as they are the primary water managers.
 
-5. **Upholding Constitutional Mandates-** Article 15(3) allows for special provisions for women.
+  - **Upholding Constitutional Mandates-** Article 15(3) allows for special provisions for women.
 
 Gender-sensitive design fulfills this obligation.
 
-6. **Long term Social Change** happens when women are "agents" rather than "beneficiaries." Eg**Kudumbashree** in Kerala
+  - **Long term Social Change** happens when women are "agents" rather than "beneficiaries." Eg**Kudumbashree** in Kerala
 
-7. Achieving **SDG’s** like 1(ending poverty), 3 (health and wellbeing) and 5 (gender equality)
+  - Achieving **SDG’s** like 1(ending poverty), 3 (health and wellbeing) and 5 (gender equality)
 
-8. **Enhancing development outcomes** - Gender inclusion multiplies benefits. Eg- Educating girls improves health, nutrition, and intergenerational outcomes.
+  - **Enhancing development outcomes** - Gender inclusion multiplies benefits. Eg- Educating girls improves health, nutrition, and intergenerational outcomes.
 
-9. **Global best practices and commitments** - Eg- Gender budgeting advocated by **UN Women.**
+  - **Global best practices and commitments** - Eg- Gender budgeting advocated by **UN Women.**
 
 To awaken the people, it is the women who must be awakened. Once she is on the move, the family moves, the village moves, the nation moves.
 
@@ -36637,29 +36637,29 @@ Source Question: ‘Women’s movement in India has not addressed the issues of 
 
 **10. #MeToo Movement -** against sexual harassment at workplace **However, they failed to address the issues of women of lower strata**
 
-1. It failed to recognise the triple **burden of discrimination** (intersection of **Caste, Class, and Gender)** as it treated "Woman" as a monolithic category. Eg- Hatras rape case
+  - It failed to recognise the triple **burden of discrimination** (intersection of **Caste, Class, and Gender)** as it treated "Woman" as a monolithic category. Eg- Hatras rape case
 
-2. **Intersection of gender and religious marginalization was weakly addressed.** Eg- Muslim women’s socio-economic exclusion received less attention beyond advocacy of UCC and Triple Talaq
+  - **Intersection of gender and religious marginalization was weakly addressed.** Eg- Muslim women’s socio-economic exclusion received less attention beyond advocacy of UCC and Triple Talaq
 
-3. **Leadership and agenda dominated by elite women -** Early focus on legal reforms like dowry and workplace equality over survival issues like hunger and wage security.
+  - **Leadership and agenda dominated by elite women -** Early focus on legal reforms like dowry and workplace equality over survival issues like hunger and wage security.
 
-4. **Limited focus on informal and unpaid work -** Eg- more focuses on "glass ceilings" in corporate offices, neglecting agricultural laborers. (Over 90% of Dalit women work in the unorganized sector.)
+  - **Limited focus on informal and unpaid work -** Eg- more focuses on "glass ceilings" in corporate offices, neglecting agricultural laborers. (Over 90% of Dalit women work in the unorganized sector.)
 
-5. **Urban bias in issues and mobilization -** Eg- Rural women’s access to drinking water, fuelwood, and sanitation remained peripheral.
+  - **Urban bias in issues and mobilization -** Eg- Rural women’s access to drinking water, fuelwood, and sanitation remained peripheral.
 
-6. **Inadequate engagement with tribal women’s concerns -** Development-induced displacement received limited feminist mobilization.
+  - **Inadequate engagement with tribal women’s concerns -** Development-induced displacement received limited feminist mobilization.
 
-7. **Neglect of women issues in conflict zones -** Eg- Women in Kashmir and the Northeast did not become sustained focal points of mainstream movements.
+  - **Neglect of women issues in conflict zones -** Eg- Women in Kashmir and the Northeast did not become sustained focal points of mainstream movements.
 
-8. **Dependence on NGO-ization and donor agendas -** Project-driven advocacy replaced mass mobilization among poor women.
+  - **Dependence on NGO-ization and donor agendas -** Project-driven advocacy replaced mass mobilization among poor women.
 
-9. **Educational Exclusion-** Elite feminism focuses on "STEM representation," while lower-strata women struggle with basic **literacy and school dropouts.**
+  - **Educational Exclusion-** Elite feminism focuses on "STEM representation," while lower-strata women struggle with basic **literacy and school dropouts.**
 
-10. **Health Disparities-** feminist debates revolve around "reproductive choice" (abortion rights), while marginalized women face lack of basic maternal healthcare.
+  - **Health Disparities-** feminist debates revolve around "reproductive choice" (abortion rights), while marginalized women face lack of basic maternal healthcare.
 
-11. **Language Barrier-** Feminist discourse is largely in **English,** creating a "vocabulary of exclusion" for rural, non-English speaking women.
+  - **Language Barrier-** Feminist discourse is largely in **English,** creating a "vocabulary of exclusion" for rural, non-English speaking women.
 
-12. **Digital Divide-** "Hashtag Activism" (#MeToo) failed to reach rural women due to digital illiteracy.
+  - **Digital Divide-** "Hashtag Activism" (#MeToo) failed to reach rural women due to digital illiteracy.
 
 **Counter-Argument- Positive Impacts on the Lower Strata**
 
@@ -37244,19 +37244,19 @@ Source Question: Achieving sustainable growth with emphasis on environmental pro
 
 **4. Higher Cost of Green Alternatives -** Eg- high initial cost of Solar pumps makes it unaffordable for small farmers
 
-5. **Energy Transition Costs-** closure of mines in the "coal belt" (Jharkhand/Odisha) threatens the informal livelihoods of nearly **15-20 million people** linked to the coal economy.
+  - **Energy Transition Costs-** closure of mines in the "coal belt" (Jharkhand/Odisha) threatens the informal livelihoods of nearly **15-20 million people** linked to the coal economy.
 
-6. **Urban Environmental Regulations** Closure of polluting units affects migrant workers.
+  - **Urban Environmental Regulations** Closure of polluting units affects migrant workers.
 
-7. **Fishing communities** impacted by coastal regulation norms. Eg- Limitations under Coastal Regulation Zone (CRZ) rules.
+  - **Fishing communities** impacted by coastal regulation norms. Eg- Limitations under Coastal Regulation Zone (CRZ) rules.
 
 **8. Unequal Burden of Environmental Compliance -** Eg- Sand mining restrictions affecting daily-wage workers.
 
-9. **Agricultural Restrictions-** Policies discouraging water-intensive crops impact marginal farmers more as they lack capital to shift to high-value horticulture.
+  - **Agricultural Restrictions-** Policies discouraging water-intensive crops impact marginal farmers more as they lack capital to shift to high-value horticulture.
 
-10. **Eco-restoration projects,** such as clearing the **Yamuna floodplains** in Delhi, result in the demolition of informal settlements without adequate "Just Transition" housing.
+  - **Eco-restoration projects,** such as clearing the **Yamuna floodplains** in Delhi, result in the demolition of informal settlements without adequate "Just Transition" housing.
 
-11. Shift from biomass to LPG under the ujjwala **scheme** reduced indoor pollution, but high refill costs force rural households back to firewood.
+  - Shift from biomass to LPG under the ujjwala **scheme** reduced indoor pollution, but high refill costs force rural households back to firewood.
 
 **Counter argument - benefits sustainable growth with emphasis on environmental protection for poor**
 
@@ -37452,9 +37452,9 @@ Source Question: In dealing with socio-economic Issues of development, what kind
 
 **8. "Climate Inequality" -** women and poor are most vulnerable to climatic shocks like heatwaves or disasters. Eg- “climate induced migration” after floods in Assam
 
-9. **Urbanization issues** - Eg- 17% population living in slums **Collaboration between government, NGO and private sector**
+  - **Urbanization issues** - Eg- 17% population living in slums **Collaboration between government, NGO and private sector**
 
-1. **Public-Private-Community Partnerships (PPCP)** - Eg- collaboration between GoI, Akshay patra foundation and infosys foundation in implementing Mid-day meal scheme
+  - **Public-Private-Community Partnerships (PPCP)** - Eg- collaboration between GoI, Akshay patra foundation and infosys foundation in implementing Mid-day meal scheme
 
 **2. Complementary role**
 
@@ -37466,15 +37466,15 @@ Source Question: In dealing with socio-economic Issues of development, what kind
 
 **3. CSR-Driven Development Partnerships - Eg-** tata trust funding support for PRATHAM NGO for education
 
-4. **Data and Technology Collaboration** - Tech firms building dashboards, NGOs collecting field-level data, government monitoring outcomes. Eg- in **aspirational districts program**
+  - **Data and Technology Collaboration** - Tech firms building dashboards, NGOs collecting field-level data, government monitoring outcomes. Eg- in **aspirational districts program**
 
-5. **Capacity Building** - NGOs and private sector training frontline workers in healthcare.
+  - **Capacity Building** - NGOs and private sector training frontline workers in healthcare.
 
-6. **Technology Transfer for Agriculture-** Agri-tech firms develop precision tools, the government subsidizes them, while NGOs train farmers in "Climate-Smart Agriculture".
+  - **Technology Transfer for Agriculture-** Agri-tech firms develop precision tools, the government subsidizes them, while NGOs train farmers in "Climate-Smart Agriculture".
 
-7. **Saturation-Based urban Infrastructure-** The government provides land, the private sector builds , while NGOs handle the "soft infrastructure" like health and education.
+  - **Saturation-Based urban Infrastructure-** The government provides land, the private sector builds , while NGOs handle the "soft infrastructure" like health and education.
 
-8. NGO’s helping the government in ensuring **last mile service delivery.** Eg- acting as “Arogya Mitras” under Ayushman Bharat scheme Strengthening this triangular alliance can ensure **inclusive, resilient, and sustainable** growth.
+  - NGO’s helping the government in ensuring **last mile service delivery.** Eg- acting as “Arogya Mitras” under Ayushman Bharat scheme Strengthening this triangular alliance can ensure **inclusive, resilient, and sustainable** growth.
 
 1. Explanation_Drishti IAS:
 Source Question: In dealing with socio-economic issues of development, what kind of collaboration between government, NGOs and private sector would be most productive? (Answer in 150 words)
@@ -37816,23 +37816,23 @@ India’s education system has witnessed a major transformation through **digita
 
 **7. Enhancing Governance and Transparency - Eg- UDISE+ (Unified District Information System for Education)** provides real-time data on school infrastructure, teacher availability, and student enrollment
 
-8. **Self-Paced and Lifelong Learning** -Eg- Online certification and skill courses for working professionals
+  - **Self-Paced and Lifelong Learning** -Eg- Online certification and skill courses for working professionals
 
-9. **Cost Effectiveness and Scalability** - One-time digital content creation serves millions.
+  - **Cost Effectiveness and Scalability** - One-time digital content creation serves millions.
 
-10. **Virtual Labs** allow **STEM** students to perform complex science experiments digitally.
+  - **Virtual Labs** allow **STEM** students to perform complex science experiments digitally.
 
-11. Digital initiatives have also catered to **Children with Special Needs (CWSN)** through "Digitally Accessible Information System" (DAISY) and sign-language videos on the **e-Pathshala portal.**
+  - Digital initiatives have also catered to **Children with Special Needs (CWSN)** through "Digitally Accessible Information System" (DAISY) and sign-language videos on the **e-Pathshala portal.**
 
-12. **Automated Permanent Academic Account Registry (APAAR)** or "One Nation, One Student ID", provides a **12-digit digital ID** for every student to store all their academic achievements **Challenges**
+  - **Automated Permanent Academic Account Registry (APAAR)** or "One Nation, One Student ID", provides a **12-digit digital ID** for every student to store all their academic achievements **Challenges**
 
 **1. Rural-Urban divide-** only 18.47% of rural schools have internet access compared to 47.29% of urban schools.
 
-2. **Infrastructure gaps** - Only about 24% of rural children had access to digital devices for learning (ASER report).
+  - **Infrastructure gaps** - Only about 24% of rural children had access to digital devices for learning (ASER report).
 
-3. **Digital Illiteracy among Parents** leads to a "guidance gap" at home.
+  - **Digital Illiteracy among Parents** leads to a "guidance gap" at home.
 
-4. **Language Barriers-** the **"advanced technical content"** is still predominantly available in English
+  - **Language Barriers-** the **"advanced technical content"** is still predominantly available in English
 
 **5. Excessive screen time** leads to
 
@@ -37842,21 +37842,21 @@ India’s education system has witnessed a major transformation through **digita
 
   - Reduced physical activity - rising obesity and social isolation
 
-6. **Gender Digital Gap** - Girls have less access to devices and connectivity.
+  - **Gender Digital Gap** - Girls have less access to devices and connectivity.
 
-7. **Retention challenges** - Eg- less than 4% of SWAYAM students have completed their courses since its launch in 2017 **Way Forward**
+  - **Retention challenges** - Eg- less than 4% of SWAYAM students have completed their courses since its launch in 2017 **Way Forward**
 
-1. Replicating Kerala’s **Hi-Tech School Project** - every classroom equipped with a projector and high-speed LAN.
+  - Replicating Kerala’s **Hi-Tech School Project** - every classroom equipped with a projector and high-speed LAN.
 
-2. Leveraging **CSR funds** to provide solar-powered tablets to students in "Aspirational Districts" .
+  - Leveraging **CSR funds** to provide solar-powered tablets to students in "Aspirational Districts" .
 
-3. Using AI-based **real-time translation tools** to make high-end STEM content available in regional languages. Eg- "Bhashini" approach.
+  - Using AI-based **real-time translation tools** to make high-end STEM content available in regional languages. Eg- "Bhashini" approach.
 
-4. **Gamified Learning-** Integrating **Gamification** to increase student engagement.
+  - **Gamified Learning-** Integrating **Gamification** to increase student engagement.
 
-5. Introducing **"Digital Citizenship"** as a core subject to teach students about internet safety, misinformation, and ethical AI usage.
+  - Introducing **"Digital Citizenship"** as a core subject to teach students about internet safety, misinformation, and ethical AI usage.
 
-6. **Public-Private Partnerships** for leveraging EdTech innovation. Eg- Collaboration with start-ups for interactive content.
+  - **Public-Private Partnerships** for leveraging EdTech innovation. Eg- Collaboration with start-ups for interactive content.
 
 These measures can ensure that digital education becomes a powerful enabler of **inclusive, future-ready, and outcome-oriented learning** in India.
 
@@ -39153,17 +39153,17 @@ Source Question: Do you think that globalization results in only an aggressive c
 
 **4. Global Export of Culture - Eg- International Yoga Day** and the global **Ayurveda market** have moved Indian traditional knowledge to the center of global wellness.
 
-5. **Reassertion of Values** ("Returning to Roots") - urban youth increasingly participates in traditional festivals like Ganesh Chaturthi or Chhath Puja as a mark of identity.
+  - **Reassertion of Values** ("Returning to Roots") - urban youth increasingly participates in traditional festivals like Ganesh Chaturthi or Chhath Puja as a mark of identity.
 
-6. **Circular Economy Adoption-** focus on "Recycle and Upcycle" business models, countering the throwaway culture.
+  - **Circular Economy Adoption-** focus on "Recycle and Upcycle" business models, countering the throwaway culture.
 
-7. **Global Environmental Activism** to hold government and corporate accountable for unsustainable policies and practices. Eg- **Fridays for Future movement**
+  - **Global Environmental Activism** to hold government and corporate accountable for unsustainable policies and practices. Eg- **Fridays for Future movement**
 
-8. **Revival of Local Crafts through E-commerce -** Platforms like **Etsy or India’s Jaypore** promote traditional "Slow Fashion" (like Handloom) and ethical consumerism
+  - **Revival of Local Crafts through E-commerce -** Platforms like **Etsy or India’s Jaypore** promote traditional "Slow Fashion" (like Handloom) and ethical consumerism
 
-9. Globalization has also facilitated **Universal Human Rights Advocacy** - Eg- global **#BlackLivesMatter or #MeToo** movements
+  - Globalization has also facilitated **Universal Human Rights Advocacy** - Eg- global **#BlackLivesMatter or #MeToo** movements
 
-10. **Flow of Knowledge and Ideas** - Globalisation enables access to education, research, and innovation.
+  - **Flow of Knowledge and Ideas** - Globalisation enables access to education, research, and innovation.
 
 Eg- wikipedia Globalization is a **Janus-faced phenomenon (Anthony Giddens).** Improving **regulation, social consciousness, and value choices** is needed.
 
@@ -39715,13 +39715,13 @@ Source Question: Elucidate the relationship between globalization and new techno
 
 **6.** Resource constraints stimulate **technological innovation** for low-cost solutions for energy, healthcare, and mobility. Eg- telemedicine under eSanjeevani
 
-7. **The Circular Economy-** Globalization facilitates the trade of "waste-as-resource" across borders.
+  - **The Circular Economy-** Globalization facilitates the trade of "waste-as-resource" across borders.
 
 **8.** Exposure to global markets compels **efficiency and innovation.** Eg- Indian manufacturing adopting **automation and Industry 4.0** to remain competitive.
 
 **9. Technology for Resource Governance- GIS, remote sensing, and digital dashboards** used for water management and climate action in India.
 
-10. **Collaborative R&D-** globalization pools global intellect. Eg- ITER project for nuclear fusion involving the EU, US, India, and China.
+  - **Collaborative R&D-** globalization pools global intellect. Eg- ITER project for nuclear fusion involving the EU, US, India, and China.
 
 **Negative Impacts**
 
@@ -40177,7 +40177,7 @@ An era of **globalisation, digital connectivity, and transnational flows of capi
 
 **1. Glocalization (Think Global, Act Local) - Eg-** McDonald’s menu in India is beef-free, while Domino’s serves **Paneer Tikka Pizza.**
 
-2. **Revival of traditional cuisine.** Eg- Makhana as “superfood”
+  - **Revival of traditional cuisine.** Eg- Makhana as “superfood”
 
 **3. Revival of Regional Languages - Vernacular content** reached a **55% share** on OTT platforms. EgSacred games or Panchayat show that "hyper-local" stories now have global audiences.
 
@@ -40187,17 +40187,17 @@ An era of **globalisation, digital connectivity, and transnational flows of capi
 
 **6. Religious & Ritualistic Resurgence - Eg-** use of social media and drones to broadcast the **Kumbh Mela** or **Ganesh Chaturthi** has made these "specificities" more visible and zealously observed
 
-7. **Diaspora-Led Cultural Preservation** - Eg- celebration of Diwali in white house or dandiya in New York’s times square
+  - **Diaspora-Led Cultural Preservation** - Eg- celebration of Diwali in white house or dandiya in New York’s times square
 
-8. **"Ethnic" Fashion Boom-** Globalization created a market for high-end traditional wear. Eg- **FabIndia** and designers like Sabyasachi have revitalized handlooms.
+  - **"Ethnic" Fashion Boom-** Globalization created a market for high-end traditional wear. Eg- **FabIndia** and designers like Sabyasachi have revitalized handlooms.
 
-9. **Regional Media Growth** as seen in the rise of Tollywood, Mollywood. Eg- global success of RRR or Kantara
+  - **Regional Media Growth** as seen in the rise of Tollywood, Mollywood. Eg- global success of RRR or Kantara
 
-10. **Greater policy focus on conservation of traditional knowledge.** Eg- traditional knowledge Digital Library (TKDL)
+  - **Greater policy focus on conservation of traditional knowledge.** Eg- traditional knowledge Digital Library (TKDL)
 
-11. **Modern Traditionalism-** Technology is used to facilitate tradition. Eg- apps for Vedic chanting, QR codes at temples
+  - **Modern Traditionalism-** Technology is used to facilitate tradition. Eg- apps for Vedic chanting, QR codes at temples
 
-12. Instead of a "Melting Pot", the world is becoming a "Salad Bowl" where individuals maintain a **dual identity** - global in professional skills, but local in personal values.
+  - Instead of a "Melting Pot", the world is becoming a "Salad Bowl" where individuals maintain a **dual identity** - global in professional skills, but local in personal values.
 
 Deep-rooted pluralism, regional diversity, and civilisational depth ensure that globalisation in India produces **Cultural Hybridization** and enriches India’s cultural fabric.
 
@@ -40400,7 +40400,7 @@ Source Question: ‘Globalisation is generally said to promote cultural homogeni
 
 **1. Glocalization (Think Global, Act Local) - Eg-** McDonald’s menu in India is beef-free, while Domino’s serves **Paneer Tikka Pizza.**
 
-2. **Revival of traditional cuisine.** Eg- Makhana as “superfood”
+  - **Revival of traditional cuisine.** Eg- Makhana as “superfood”
 
 **3. Revival of Regional Languages - Vernacular content** reached a **55% share** on OTT platforms. EgSacred games or Panchayat show that "hyper-local" stories now have global audiences.
 
@@ -40410,13 +40410,13 @@ Source Question: ‘Globalisation is generally said to promote cultural homogeni
 
 **6. Religious & Ritualistic Resurgence - Eg-** use of social media and drones to broadcast the **Kumbh Mela** or **Ganesh Chaturthi** has made these "specificities" more visible and zealously observed
 
-7. **Diaspora-Led Cultural Preservation** - Eg- celebration of Diwali in white house or dandiya in New York’s times square
+  - **Diaspora-Led Cultural Preservation** - Eg- celebration of Diwali in white house or dandiya in New York’s times square
 
-8. **"Ethnic" Fashion Boom-** Globalization created a market for high-end traditional wear. Eg- **FabIndia** and designers like Sabyasachi have revitalized handlooms.
+  - **"Ethnic" Fashion Boom-** Globalization created a market for high-end traditional wear. Eg- **FabIndia** and designers like Sabyasachi have revitalized handlooms.
 
-9. **Regional Media Growth** as seen in the rise of Tollywood, Mollywood. Eg- global success of RRR or Kantara
+  - **Regional Media Growth** as seen in the rise of Tollywood, Mollywood. Eg- global success of RRR or Kantara
 
-10. **Greater policy focus on conservation of traditional knowledge.** Eg- traditional knowledge Digital Library (TKDL) Deep-rooted pluralism, regional diversity, and civilisational depth ensure that globalisation in India produces **Cultural Hybridization** and enriches India’s cultural fabric.
+  - **Greater policy focus on conservation of traditional knowledge.** Eg- traditional knowledge Digital Library (TKDL) Deep-rooted pluralism, regional diversity, and civilisational depth ensure that globalisation in India produces **Cultural Hybridization** and enriches India’s cultural fabric.
 
 1. Explanation_Drishti IAS:
 Source Question: ‘Globalization is generally said to promote cultural homogenization but due to this cultural specificities appear to be strengthened in the Indian Society.’ Elucidate. (2018)
@@ -41367,9 +41367,9 @@ Caste can be defined as a localized, hereditary, and endogamous group characteri
 
 **8. Sanskritisation (M.N. Srinivas) -** Lower castes adopting practices of upper castes to achieve upward mobility.
 
-9. **Institutionalisation through State Policies** - Eg- **Reservations for SCs, STs, and OBCs.**
+  - **Institutionalisation through State Policies** - Eg- **Reservations for SCs, STs, and OBCs.**
 
-10. **Digital and Social Media Mobilisation** - New platforms for caste assertion.
+  - **Digital and Social Media Mobilisation** - New platforms for caste assertion.
 
 **Possibility of eradication of caste**
 
@@ -44398,9 +44398,9 @@ Cities are the **engines of economic growth,** contributing nearly **two-thirds 
 
 **3. Investment in non-motorised transport.** Eg- walking and cycling
 
-4. Adopting **Transit Oriented Development approach** in urban planning.
+  - Adopting **Transit Oriented Development approach** in urban planning.
 
-5. Adopting best practices
+  - Adopting best practices
 
   - Singapore - area licensing system, vehicle quota system, congestion pricing
 
