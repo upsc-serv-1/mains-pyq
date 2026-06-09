@@ -92,7 +92,7 @@ The **Suryamitra program** aims to train over 50,000 solar technicians across ru
 1. Explanation_Drishti IAS:
 Source Question: Explain briefly the ecological and economic benefits of solar energy generation in India with suitable examples. (Answer in 150 words) 10
 
-| **Approach:** <br>• **Introduction:** Introduce solar energy as a key component of India's renewable energy strategy. <br>• **Body:** Discuss the ecological benefits, including reduced emissions, water conservation, and improved air quality, with relevant examples. <br>• Explain the economic benefits, such as job creation, cost-effectiveness, and income diversification, while connecting them to national energy security and sustainable growth. <br>• **Conclusion Conclude accordingly.** |
+| **Approach:** <br>• **Introduction** Introduce solar energy as a key component of India's renewable energy strategy. <br>• **Body:** Discuss the ecological benefits, including reduced emissions, water conservation, and improved air quality, with relevant examples. <br>• Explain the economic benefits, such as job creation, cost-effectiveness, and income diversification, while connecting them to national energy security and sustainable growth. <br>• **Conclusion Conclude accordingly.** |
 | --- |
 
 ### Introduction
@@ -2206,7 +2206,7 @@ According to the Ministry of External Affairs, India’s interests in Arctic Oce
 1. Explanation_PWOnlyIAS:
 Source Question: Why is India taking keen interest in the Arctic region?
 
-| **Approach:** <br> **Introduction:** <br>• Write about the Arctic region. **Body:** <br>• Discuss India’ s interest in the Arctic region. <br> **Conclusion** <br>• Conclude your answer with Importance of the Arctic region. |
+| **Approach:** <br> **Introduction** <br>• Write about the Arctic region. **Body:** <br>• Discuss India’ s interest in the Arctic region. <br> **Conclusion** <br>• Conclude your answer with Importance of the Arctic region. |
 | --- |
 
 ### Introduction
@@ -2733,7 +2733,7 @@ This reflects the intimate relationship between **natural resource endowment and
 1. Explanation_Drishti IAS:
 Source Question: What are non-farm primary activities? How are these activities related to physiographic features in India ? Discuss with suitable examples. (Answer in 150 words)
 
-| **Approach:** <br>• **Introduction:** Define non-farm primary activities and highlight their importance in the economy. <br>• **Body:** Discuss how these activities are influenced by India's diverse physiographic features, with specific examples from different regions. <br>• **Conclusion** Conclude by emphasizing the strong relationship between non-farm primary activities and India’s varied geographical landscape. |
+| **Approach:** <br>• **Introduction** Define non-farm primary activities and highlight their importance in the economy. <br>• **Body:** Discuss how these activities are influenced by India's diverse physiographic features, with specific examples from different regions. <br>• **Conclusion** Conclude by emphasizing the strong relationship between non-farm primary activities and India’s varied geographical landscape. |
 | --- |
 
 ### Introduction
@@ -3925,7 +3925,7 @@ Q22. Whereas the British planters had developed tea gardens all along the Shival
 1. Explanation_PWOnlyIAS:
 Source Question: Whereas the British planters had developed tea gardens all along the Shivaliks and lesser Himalayas from Assam to Himachal Pradesh, in effect they did not succeed beyond the Darjeeling area. Explain.
 
-| **Approach:** <br> **Introduction:** <br>• Start your answer with the history of tea cultivation. <br> **Body:** <br>• Discuss the planters had developed tea gardens all along the Shivaliks and lesser. <br> **Conclusion** <br>• Summary of the answer with futuristic approach. |
+| **Approach:** <br> **Introduction** <br>• Start your answer with the history of tea cultivation. <br> **Body:** <br>• Discuss the planters had developed tea gardens all along the Shivaliks and lesser. <br> **Conclusion** <br>• Summary of the answer with futuristic approach. |
 | --- |
 
 ### Introduction
@@ -4209,7 +4209,7 @@ Iron and Steel Industry, not located near the source of raw materials, are less 
 1. Explanation_PWOnlyIAS:
 Source Question: Account for the present location of iron and steel industries away from the raw material, by giving examples.
 
-| **Approach:** <br> **Introduction:** <br>• Start your answer with discussing major location factors for the iron and steel industries. <br> **Body:** <br>• Discuss the present location factor of iron and steel industries away from the source of raw material. <br> **Conclusion** <br>• Conclude your answer with Suitable factor for the iron and steel industries. |
+| **Approach:** <br> **Introduction** <br>• Start your answer with discussing major location factors for the iron and steel industries. <br> **Body:** <br>• Discuss the present location factor of iron and steel industries away from the source of raw material. <br> **Conclusion** <br>• Conclude your answer with Suitable factor for the iron and steel industries. |
 | --- |
 
 ### Introduction
@@ -6512,7 +6512,7 @@ Strengthening coastal resilience and climate mitigation is essential to safeguar
 1. Explanation_Drishti IAS:
 Source Question: How are climate change and the sea level rise affecting the very existence of many island nations ? Discuss with examples. (Answer in 150 words)
 
-| **Approach** <br>• **Introduction:** Provide an overview of how climate change and sea level rise are impacting island nations globally. <br>• **Body:** Discuss the specific consequences faced by island nations due to rising sea levels, including examples and the social, economic, and environmental impacts. <br>• **Conclusion** Conclude with the urgency of international cooperation and climate action to address the existential threat posed to island nations. |
+| **Approach** <br>• **Introduction** Provide an overview of how climate change and sea level rise are impacting island nations globally. <br>• **Body:** Discuss the specific consequences faced by island nations due to rising sea levels, including examples and the social, economic, and environmental impacts. <br>• **Conclusion** Conclude with the urgency of international cooperation and climate action to address the existential threat posed to island nations. |
 | --- |
 
 ### Introduction
@@ -6963,7 +6963,7 @@ As can be seen from the above arguments, desertification and its impacts are not
 1. Explanation_PWOnlyIAS:
 Source Question: The process of desertification does not have climate boundaries. Justify with examples.
 
-| **Approach:** <br> **Introduction:** <br>• Define briefly desertification. **Body:** <br>• Discuss restricted by climate boundaries and some reason. <br> **Conclusion** <br>• Conclude your answer with a futuristic approach. |
+| **Approach:** <br> **Introduction** <br>• Define briefly desertification. **Body:** <br>• Discuss restricted by climate boundaries and some reason. <br> **Conclusion** <br>• Conclude your answer with a futuristic approach. |
 | --- |
 
 ### Introduction
@@ -13076,7 +13076,7 @@ Q76. Explain the formation of thousands of islands in Indonesian and Philippines
 1. Explanation_PWOnlyIAS:
 Source Question: Explain the formation of thousand of islands in Indonesian and Philippines archipelagos.
 
-| **Approach:** <br> **Introduction:** <br>• Explain what archipelago is. **Body:** <br>• Explain the geography and physical processes in the formation of these islands of the region. <br> **Conclusion** <br>• Conclude your answer with a summary of the answer. |
+| **Approach:** <br> **Introduction** <br>• Explain what archipelago is. **Body:** <br>• Explain the geography and physical processes in the formation of these islands of the region. <br> **Conclusion** <br>• Conclude your answer with a summary of the answer. |
 | --- |
 
 ### Introduction
@@ -14257,7 +14257,7 @@ Q84. Critically evaluate the various resources of the oceans which can be harnes
 1. Explanation_PWOnlyIAS:
 Source Question: What were the major political, economic and social developments in the world which motivated the anti-colonial struggle in India?
 
-| **Approach:** <br> **Introduction:** <br>• Briefly introduce the anti-colonial struggle in India and its significance in the context of global political, economic, and social developments. <br> **Body:** <br>• Talk about the major political, economic and social developments in the world which motivated the anti-colonial struggle in India. <br> **Conclusion** <br>• Write a relevant conclusion. |
+| **Approach:** <br> **Introduction** <br>• Briefly introduce the anti-colonial struggle in India and its significance in the context of global political, economic, and social developments. <br> **Body:** <br>• Talk about the major political, economic and social developments in the world which motivated the anti-colonial struggle in India. <br> **Conclusion** <br>• Write a relevant conclusion. |
 | --- |
 
 ### Introduction
@@ -15961,7 +15961,7 @@ A **tsunami** is a series of large ocean waves generated by the **sudden displac
 1. Explanation_Drishti IAS:
 Source Question: What are Tsunamis? How and where are they formed? What are their consequences? Explain with examples. (Answer in 150 words) 10
 
-| **Approach:** <br>• **Introduction:** Introduce tsunamis with definition and defining term. <br>• **Body:** Explain the different causes of tsunamis (which form tsunamis) with relevant examples, and discuss its consequences. <br>• **Conclusion** Conclude suitably. |
+| **Approach:** <br>• **Introduction** Introduce tsunamis with definition and defining term. <br>• **Body:** Explain the different causes of tsunamis (which form tsunamis) with relevant examples, and discuss its consequences. <br>• **Conclusion** Conclude suitably. |
 | --- |
 
 ### Introduction
@@ -16572,7 +16572,7 @@ The ideas of Bhakti Movement continued to permeate the cultural ethos of the soc
 1. Explanation_PWOnlyIAS:
 Source Question: Evaluate the nature of the Bhakti Literature and its contribution to Indian culture.
 
-| **Approach:** <br> **Introduction:** <br>• Introduce the concept of Bhakti Literature in India and its significance. <br> **Body:** <br>• Discuss the nature of Bhakti Literature, including its focus on individual devotion, simple language, and emotional attachment to the divine. <br>• Highlight the contribution of Bhakti Literature to Indian culture, including its role in promoting religious harmony, social equality, and cultural diversity. <br>• Provide examples of how Bhakti Literature influenced various art forms and philosophical and spiritual traditions. <br> **Conclusion** <br>• Conclude by reiterating the significance of Bhakti Literature in Indian culture and its continuing legacy. |
+| **Approach:** <br> **Introduction** <br>• Introduce the concept of Bhakti Literature in India and its significance. <br> **Body:** <br>• Discuss the nature of Bhakti Literature, including its focus on individual devotion, simple language, and emotional attachment to the divine. <br>• Highlight the contribution of Bhakti Literature to Indian culture, including its role in promoting religious harmony, social equality, and cultural diversity. <br>• Provide examples of how Bhakti Literature influenced various art forms and philosophical and spiritual traditions. <br> **Conclusion** <br>• Conclude by reiterating the significance of Bhakti Literature in Indian culture and its continuing legacy. |
 | --- |
 
 ### Introduction
@@ -17131,7 +17131,7 @@ Q103. Gandhara sculpture owed as much to the Romans as to the Greeks. Explain.
 1. Explanation_PWOnlyIAS:
 Source Question: Explain the formation of thousand of islands in Indonesian and Philippines archipelagos.
 
-| **Approach:** <br> **Introduction:** <br>• Explain what archipelago is. **Body:** <br>• Explain the geography and physical processes in the formation of these islands of the region. <br> **Conclusion** <br>• Conclude your answer with a summary of the answer. |
+| **Approach:** <br> **Introduction** <br>• Explain what archipelago is. **Body:** <br>• Explain the geography and physical processes in the formation of these islands of the region. <br> **Conclusion** <br>• Conclude your answer with a summary of the answer. |
 | --- |
 
 ### Introduction
@@ -17262,7 +17262,7 @@ Harappan architecture reflects a remarkably egalitarian, planned, and civic-mind
 1. Explanation_Drishti IAS:
 Source Question: Discuss the salient features of the Harappan architecture. (Answer in 150 words)
 
-| **Approach:** <br>• **Introduction:** Introduce the Harappan Civilization and its significance in early urban architecture. <br>• **Body:** Discuss key features of Harappan architecture such as town planning, materials used, drainage systems, and important structures. <br>• **Conclusion** Summarize the architectural legacy and its reflection of an advanced urban society. |
+| **Approach:** <br>• **Introduction** Introduce the Harappan Civilization and its significance in early urban architecture. <br>• **Body:** Discuss key features of Harappan architecture such as town planning, materials used, drainage systems, and important structures. <br>• **Conclusion** Summarize the architectural legacy and its reflection of an advanced urban society. |
 | --- |
 
 ### Introduction
@@ -18574,7 +18574,7 @@ Chandella artists created a universe in stone, best described by Banabhatta’s 
 1. Explanation_Drishti IAS:
 Source Question: The sculptors filled the Chandella artform with resilient vigor and breadth of life. Elucidate. (Answer in 150 words)
 
-| **Approach** <br>• **Introduction:** Introduce the Chandella dynasty and the significance of their contribution to Indian art, particularly sculpture. <br>• **Body:** Elaborate on the key aspects of the sculptural art of the Chandellas, focusing on **dynamism**, **intricate detailing**, and the **breadth of life** as represented in their works. <br>• **Conclusion** Conclude by summarizing the lasting impact of their art, which celebrated both divine and earthly life. |
+| **Approach** <br>• **Introduction** Introduce the Chandella dynasty and the significance of their contribution to Indian art, particularly sculpture. <br>• **Body:** Elaborate on the key aspects of the sculptural art of the Chandellas, focusing on **dynamism**, **intricate detailing**, and the **breadth of life** as represented in their works. <br>• **Conclusion** Conclude by summarizing the lasting impact of their art, which celebrated both divine and earthly life. |
 | --- |
 
 ### Introduction
@@ -19154,7 +19154,7 @@ Major technological changes introduced during the sultanate period:
 1. Explanation_PWOnlyIAS:
 Source Question: What were the major technological changes introduced during the Sultanate period? How did those technological changes influence Indian society?
 
-| **Approach:** <br> **Introduction:** <br>• Write about the Sultanate period briefly <br> **Body:** <br>• Write the major technological changes introduced during the Sultanate period <br>• Write how these technological changes influence Indian society <br> **Conclusion** <br>• Give appropriate conclusion in this regard |
+| **Approach:** <br> **Introduction** <br>• Write about the Sultanate period briefly <br> **Body:** <br>• Write the major technological changes introduced during the Sultanate period <br>• Write how these technological changes influence Indian society <br> **Conclusion** <br>• Give appropriate conclusion in this regard |
 | --- |
 
 
@@ -19444,7 +19444,7 @@ The significant contribution by both of the dynasties have shaped India’s cult
 1. Explanation_PWOnlyIAS:
 Source Question: Discuss the main contributions of Gupta period and Chola period to Indian heritage and culture.
 
-| **Approach:** <br> **Introduction:** <br>• Introduce the Gupta and Chola periods as influential eras in Indian history. <br> **Body** <br>• Discuss contributions of each period in: <br>• Art and Architecture <br>• Sculpture <br>• Literature <br>• Science (Gupta)/Music and Dance (Chola) <br>• Education (Gupta)/Governance (Chola) <br> **Conclusion** <br>• Conclude with the lasting impact of Gupta and Chola periods on India’s cultural heritage. |
+| **Approach:** <br> **Introduction** <br>• Introduce the Gupta and Chola periods as influential eras in Indian history. <br> **Body** <br>• Discuss contributions of each period in: <br>• Art and Architecture <br>• Sculpture <br>• Literature <br>• Science (Gupta)/Music and Dance (Chola) <br>• Education (Gupta)/Governance (Chola) <br> **Conclusion** <br>• Conclude with the lasting impact of Gupta and Chola periods on India’s cultural heritage. |
 | --- |
 
 ### Introduction
@@ -20082,7 +20082,7 @@ As **Irfan Habib** notes, Akbar sought **“a moral basis for kingship beyond se
 1. Explanation_Drishti IAS:
 Source Question: Examine the main aspects of Akbar's religious syncretism. (Answer in 150 words)
 
-| **Approach:** <br>• **Introduction:** Briefly introduce Akbar's approach to religious syncretism and its significance in his reign. <br>• **Body:** Discuss the main aspects such as **Sulh-i-Kul**, **abolition of Jizya**, **religious dialogues**, and other policies. <br>• **Conclusion** Conclude by highlighting the long-term impact of his syncretic policies on Indian society and governance. |
+| **Approach:** <br>• **Introduction** Briefly introduce Akbar's approach to religious syncretism and its significance in his reign. <br>• **Body:** Discuss the main aspects such as **Sulh-i-Kul**, **abolition of Jizya**, **religious dialogues**, and other policies. <br>• **Conclusion** Conclude by highlighting the long-term impact of his syncretic policies on Indian society and governance. |
 | --- |
 
 ### Introduction
@@ -22531,7 +22531,7 @@ While Gandhi focused on practical education and non-violence, shaping his nation
 1. Explanation_PWOnlyIAS:
 Source Question: What was the difference between Mahatma Gandhi and Rabindranath Tagore in their approach towards education and nationalism?
 
-| **Approach** <br> **Introduction:** Write about Mahatma Gandhi and Rabindranath Tagore briefly <br> **Body:** Write the difference between Mahatma Gandhi and Rabindranath Tagore in their approach towards education <br> Write the difference between Mahatma Gandhi and Rabindranath Tagore in their approach towards nationalism <br> **Conclusion** Give appropriate conclusion in this regard |
+| **Approach** <br> **Introduction** Write about Mahatma Gandhi and Rabindranath Tagore briefly <br> **Body:** Write the difference between Mahatma Gandhi and Rabindranath Tagore in their approach towards education <br> Write the difference between Mahatma Gandhi and Rabindranath Tagore in their approach towards nationalism <br> **Conclusion** Give appropriate conclusion in this regard |
 | --- |
 
 ### Introduction
@@ -25167,7 +25167,7 @@ Q153. Several foreigners made India their homeland and participated in various m
 1. Explanation_PWOnlyIAS:
 Source Question: Several foreigners made India their homeland and participated in various movements. Analyze their role in the Indian struggle for freedom.
 
-| **Approach:** <br> **Introduction:** <br>• Introduce by mentioning that numerous foreign individuals made India their home. <br> **Body:** <br>• Mention their diverse roles and contributions to the struggle for freedom. <br> **Conclusion** <br>• Summarize the significance of the foreign individuals’ contributions to India’s struggle for freedom. |
+| **Approach:** <br> **Introduction** <br>• Introduce by mentioning that numerous foreign individuals made India their home. <br> **Body:** <br>• Mention their diverse roles and contributions to the struggle for freedom. <br> **Conclusion** <br>• Summarize the significance of the foreign individuals’ contributions to India’s struggle for freedom. |
 | --- |
 
 ### Introduction
@@ -27449,7 +27449,7 @@ Q165. Critically discuss the objectives of Bhoodan and Gramdan movements initiat
 1. Explanation_PWOnlyIAS:
 Source Question: Critically discuss the objectives of Bhoodan and Gramdan movements initiated by Acharya Vinoba Bhave and their success.
 
-| **Approach:** <br> **Introduction:** <br>• Introduce the Bhoodan and Gramdan movements, initiated by Acharya Vinoba Bhave, as efforts to address landlessness and promote equitable land distribution in rural India. <br> **Body** <br>• Write the objectives of Bhoodan and Gramdan movements. <br>• Also, do the critical assessment of its success. <br> **Conclusion** <br>• Conclude, emphasizing their role in raising awareness, inspiring land reforms, and leaving a lasting impact on India’s rural development discourse. |
+| **Approach:** <br> **Introduction** <br>• Introduce the Bhoodan and Gramdan movements, initiated by Acharya Vinoba Bhave, as efforts to address landlessness and promote equitable land distribution in rural India. <br> **Body** <br>• Write the objectives of Bhoodan and Gramdan movements. <br>• Also, do the critical assessment of its success. <br> **Conclusion** <br>• Conclude, emphasizing their role in raising awareness, inspiring land reforms, and leaving a lasting impact on India’s rural development discourse. |
 | --- |
 
 ### Introduction
@@ -29514,7 +29514,7 @@ Q178. What were the major political, economic and social developments in the wor
 1. Explanation_PWOnlyIAS:
 Source Question: What were the major political, economic and social developments in the world which motivated the anti-colonial struggle in India?
 
-| **Approach:** <br> **Introduction:** <br>• Briefly introduce the anti-colonial struggle in India and its significance in the context of global political, economic, and social developments. <br> **Body:** <br>• Talk about the major political, economic and social developments in the world which motivated the anti-colonial struggle in India. <br> **Conclusion** <br>• Write a relevant conclusion. |
+| **Approach:** <br> **Introduction** <br>• Briefly introduce the anti-colonial struggle in India and its significance in the context of global political, economic, and social developments. <br> **Body:** <br>• Talk about the major political, economic and social developments in the world which motivated the anti-colonial struggle in India. <br> **Conclusion** <br>• Write a relevant conclusion. |
 | --- |
 
 ### Introduction
@@ -30353,7 +30353,7 @@ Ancient India's geography shaped its civilization, culture, economy, and society
 1. Explanation_PWOnlyIAS:
 Source Question: Explain the role of geographical factors towards the development of Ancient India.
 
-| **Approach** <br>• **Introduction:** Define what is meant by “geographical factors” <br> **Body** <br>• Write about the Geographical Landscape of Ancient India <br>• Write about the role of Geographical Factors in Development of Ancient India <br> **Conclusion** <br>• Give appropriate conclusion in this regard |
+| **Approach** <br>• **Introduction** Define what is meant by “geographical factors” <br> **Body** <br>• Write about the Geographical Landscape of Ancient India <br>• Write about the role of Geographical Factors in Development of Ancient India <br> **Conclusion** <br>• Give appropriate conclusion in this regard |
 | --- |
 
 ### Introduction
@@ -30516,7 +30516,7 @@ Q185. Taxila university was one of the oldest universities of the world with whi
 1. Explanation_PWOnlyIAS:
 Source Question: What were the major political, economic and social developments in the world which motivated the anti-colonial struggle in India?
 
-| **Approach:** <br> **Introduction:** <br>• Briefly introduce the anti-colonial struggle in India and its significance in the context of global political, economic, and social developments. <br> **Body:** <br>• Talk about the major political, economic and social developments in the world which motivated the anti-colonial struggle in India. <br> **Conclusion** <br>• Write a relevant conclusion. |
+| **Approach:** <br> **Introduction** <br>• Briefly introduce the anti-colonial struggle in India and its significance in the context of global political, economic, and social developments. <br> **Body:** <br>• Talk about the major political, economic and social developments in the world which motivated the anti-colonial struggle in India. <br> **Conclusion** <br>• Write a relevant conclusion. |
 | --- |
 
 ### Introduction
@@ -33646,7 +33646,7 @@ In the fast-changing digital world, **child cuddling faces competition from ubiq
 1. Explanation_PWOnlyIAS:
 Source Question: Child cuddling is now being replaced by mobile phones. Discuss its impact on the socialization of children.
 
-| **Approach** <br>• **Introduction:** Write “child cuddling” and its traditional role in child socialisation briefly <br> **Body** <br>• Write why child cuddling is now being replaced by mobile phones <br>• Write its impact on the socialization of children <br> **Conclusion** <br>• Give appropriate conclusion in this regard |
+| **Approach** <br>• **Introduction** Write “child cuddling” and its traditional role in child socialisation briefly <br> **Body** <br>• Write why child cuddling is now being replaced by mobile phones <br>• Write its impact on the socialization of children <br> **Conclusion** <br>• Give appropriate conclusion in this regard |
 | --- |
 
 ### Introduction
@@ -39170,7 +39170,7 @@ Eg- wikipedia Globalization is a **Janus-faced phenomenon (Anthony Giddens).** I
 1. Explanation_Drishti IAS:
 Source Question: Do you think that globalization results in only an aggressive consumer culture? Justify your answer. (Answer in 150 words) 10
 
-| **Approach:** <br>• **Introduction:** Introduce globalization, emphasizing its impact on interconnectedness and societal transformation. <br>• **Body:** Discuss the relationship between globalization and aggressive consumer culture, with examples. Also highlighting the positive aspects of globalization. <br>• **Conclusion** Conclude suitably. |
+| **Approach:** <br>• **Introduction** Introduce globalization, emphasizing its impact on interconnectedness and societal transformation. <br>• **Body:** Discuss the relationship between globalization and aggressive consumer culture, with examples. Also highlighting the positive aspects of globalization. <br>• **Conclusion** Conclude suitably. |
 | --- |
 
 ### Introduction
@@ -41008,7 +41008,7 @@ The caste system in India is a system of **social stratification, social restric
 1. Explanation_PWOnlyIAS:
 Source Question: Why is caste identity in India both fluid and static?
 
-| **Approach:** <br> **Introduction:** <br>• Write about fluid and static nature of caste identity briefly <br> **Body** <br>• Write about the Fluid Nature of Caste Identity <br>• Write about the Static Nature of Caste Identity <br> **Conclusion** <br>• Give appropriate conclusion in this regard |
+| **Approach:** <br> **Introduction** <br>• Write about fluid and static nature of caste identity briefly <br> **Body** <br>• Write about the Fluid Nature of Caste Identity <br>• Write about the Static Nature of Caste Identity <br> **Conclusion** <br>• Give appropriate conclusion in this regard |
 | --- |
 
 ### Introduction
@@ -42162,7 +42162,7 @@ The Indian civil service, at its best, embodies what Jawaharlal Nehru envisioned
 1. Explanation_Drishti IAS:
 Source Question: The ethos of civil service in India stands for the combination of professionalism with nationalistic consciousness – Elucidate.
 
-| **Approach:** <br>• **Introduction:** Ethos of civil service <br>• **Body:** Highlight Professionalism → merit-based UPSC recruitment, and Nationalistic consciousness in Civil Service. <br>• **Conclusion** Conclude suitably. |
+| **Approach:** <br>• **Introduction** Ethos of civil service <br>• **Body:** Highlight Professionalism → merit-based UPSC recruitment, and Nationalistic consciousness in Civil Service. <br>• **Conclusion** Conclude suitably. |
 | --- |
 
 ### Introduction
@@ -43880,7 +43880,7 @@ India’s technology services industry can achieve USD 300-350 billion in annual
 1. Explanation_PWOnlyIAS:
 Source Question: What are the main socio-economic implications arising out of the development of IT industries in major cities of India?
 
-| **Approach:** <br> **Introduction:** <br>• Mention about the IT industry and the major locations in India which are the hubs for the IT industry. <br> **Body:** <br>• Mention both the positive and negative socio-economic implications of the IT industries being located in the major cities of India. <br> **Conclusion** <br>• Mention that IT industries are necessary for India’s growth story but it must not be concentrated in major cities. They must be spread across Tier-2 and 3 cities as well for growth to be inclusive. |
+| **Approach:** <br> **Introduction** <br>• Mention about the IT industry and the major locations in India which are the hubs for the IT industry. <br> **Body:** <br>• Mention both the positive and negative socio-economic implications of the IT industries being located in the major cities of India. <br> **Conclusion** <br>• Mention that IT industries are necessary for India’s growth story but it must not be concentrated in major cities. They must be spread across Tier-2 and 3 cities as well for growth to be inclusive. |
 | --- |
 
 ### Introduction
@@ -45011,7 +45011,7 @@ The **Smart Cities Mission** aims to improve **quality of life, economic opportu
 1. Explanation_Drishti IAS:
 Source Question: How does smart city in India, address the issues of urban poverty and distributive justice? (Answer in 150 words)
 
-| **Approach:** <br>• **Introduction:** Introduce the concept of Smart Cities in India and their primary objective. <br>• **Body:** Highlight key initiatives that address urban poverty and promote distributive justice in smart cities with adequate examples. <br>• **Conclusion** Conclude suitably. |
+| **Approach:** <br>• **Introduction** Introduce the concept of Smart Cities in India and their primary objective. <br>• **Body:** Highlight key initiatives that address urban poverty and promote distributive justice in smart cities with adequate examples. <br>• **Conclusion** Conclude suitably. |
 | --- |
 
 ### Introduction

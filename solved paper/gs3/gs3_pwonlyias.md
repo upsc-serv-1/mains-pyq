@@ -2729,7 +2729,7 @@ India has a favourable demographic dividend. But to really harness it, it must l
 
 ### Answer
 
-| **Approach:** <br> **Introduction:** <br>• Define PPP. **Body** <br>• Mention about the development of airports under PPP. <br>• Mention the challenges in such projects. <br> **Conclusion** <br>• Conclude stating that a certain degree of flexibility would solve many of the problems faced by such projects. |
+| **Approach:** <br> **Introduction** <br>• Define PPP. **Body** <br>• Mention about the development of airports under PPP. <br>• Mention the challenges in such projects. <br> **Conclusion** <br>• Conclude stating that a certain degree of flexibility would solve many of the problems faced by such projects. |
 | --- |
 
 ### Introduction
@@ -3710,7 +3710,7 @@ Although there are challenges, PPPs can help to address the challenges of financ
 
 ### Answer
 
-| **Approach:** <br>• **Introduction:** Give a brief about the way FDI entered the defence sector. <br>• **Body:** Mention the short and long term implications. <br>• **Conclusion** The FDI policy in defence sector would bring immense gains in both short and long term. |
+| **Approach:** <br>• **Introduction** Give a brief about the way FDI entered the defence sector. <br>• **Body:** Mention the short and long term implications. <br>• **Conclusion** The FDI policy in defence sector would bring immense gains in both short and long term. |
 | --- |
 
 ### Introduction
@@ -3908,7 +3908,7 @@ The LARR Act of 2013 was brought to give effect to the pre-existing fundamental 
 
 ### Answer
 
-| **Approach:** <br>• **Introduction:** Give a brief about APMC <br>• **Body:** Mention the criticisms of APMC with respect to its impact on growth of agriculture and food inflation. <br>• **Conclusion** Conclude saying that APMC is just one factor, there are other factors too that impacts agriculture and food inflation. But APMC reforms are still a must. |
+| **Approach:** <br>• **Introduction** Give a brief about APMC <br>• **Body:** Mention the criticisms of APMC with respect to its impact on growth of agriculture and food inflation. <br>• **Conclusion** Conclude saying that APMC is just one factor, there are other factors too that impacts agriculture and food inflation. But APMC reforms are still a must. |
 | --- |
 
 ### Introduction
@@ -4018,7 +4018,7 @@ Although there are challenges like delays in land acquisition, non-availability 
 
 ### Answer
 
-| **Approach:** <br> **Introduction:** <br>• Give a brief background of GST **Body** <br>• Mention the rationale behind GST <br>• Mention reasons for delay in its rollout <br> **Conclusion** <br>• Conclude saying that GST makes the Indian economy future ready. |
+| **Approach:** <br> **Introduction** <br>• Give a brief background of GST **Body** <br>• Mention the rationale behind GST <br>• Mention reasons for delay in its rollout <br> **Conclusion** <br>• Conclude saying that GST makes the Indian economy future ready. |
 | --- |
 
 ### Introduction
@@ -4380,7 +4380,7 @@ Due to a lack of strategic planning, proper experimentation, innovation, and eng
 
 ### Answer
 
-| **Approach:** <br>• **Introduction:** Give a brief idea about the green energy corridor <br>• **Body:** Mention how India’s Green Energy Corridor project could alleviate problems associated with conventional energy <br>• **Conclusion** India’s green energy corridor is a significant initiative to promote renewable energy and create a sustainable future. |
+| **Approach:** <br>• **Introduction** Give a brief idea about the green energy corridor <br>• **Body:** Mention how India’s Green Energy Corridor project could alleviate problems associated with conventional energy <br>• **Conclusion** India’s green energy corridor is a significant initiative to promote renewable energy and create a sustainable future. |
 | --- |
 
 ### Introduction
@@ -4953,7 +4953,7 @@ To safeguard its rich marine biodiversity and the health and livelihood of its c
 
 ### Answer
 
-| **Approach:** <br> **Introduction:** <br> • Define Global warming. **Body** <br> • Write about the Global Warming Impacts on Earth Climate. <br> • Write down the control measures to reduce the GHG emission in the light of Kyoto Protocol. <br> **Conclusion** <br> • Conclude your answer with key steps towards Global warming Mitigation and Sustainability. |
+| **Approach:** <br> **Introduction** <br> • Define Global warming. **Body** <br> • Write about the Global Warming Impacts on Earth Climate. <br> • Write down the control measures to reduce the GHG emission in the light of Kyoto Protocol. <br> **Conclusion** <br> • Conclude your answer with key steps towards Global warming Mitigation and Sustainability. |
 | --- |
 
 ### Introduction
@@ -5028,7 +5028,7 @@ Photochemical smog necessitates immediate action due to its complex formation an
 
 ### Answer
 
-| **Approach:** <br> **Introduction**: <br>• Start your answer by writing about coastal erosion in brief. <br> **Body** <br>• Discuss the Causes and Effects of Coastal Erosion. <br>• Then elaborate the Coastal Management Techniques. <br> **Conclusion** <br>• Summary of the answer with urgent measures needed. |
+| **Approach:** <br> **Introduction** <br>• Start your answer by writing about coastal erosion in brief. <br> **Body** <br>• Discuss the Causes and Effects of Coastal Erosion. <br>• Then elaborate the Coastal Management Techniques. <br> **Conclusion** <br>• Summary of the answer with urgent measures needed. |
 | --- |
 
 ### Introduction
@@ -5152,7 +5152,7 @@ India made commitments at COP26, including achieving net-zero emissions by 2070,
 
 ### Answer
 
-| **Approach:** <br>• **Introduction:** Start your answer with Uniting Global electricity Networks for Sustainability. <br>• **Body:** Explain the purpose of the Green Grid Initiative and its reference and connetion to ISA. <br>• **Conclusion** Conclude your answer with uniting Nations for renewable energy solution. |
+| **Approach:** <br>• **Introduction** Start your answer with Uniting Global electricity Networks for Sustainability. <br>• **Body:** Explain the purpose of the Green Grid Initiative and its reference and connetion to ISA. <br>• **Conclusion** Conclude your answer with uniting Nations for renewable energy solution. |
 | --- |
 
 ### Introduction
@@ -5187,7 +5187,7 @@ The idea of a global interconnected solar power grid, which formed the basis of 
 
 ### Answer
 
-| **Approach:** <br>• **Introduction:** Write about Draft EIA notification 2020 in brief. <br>• **Body:** State the differences between EIA Notification 2020 and 2006. <br>• **Conclusion** Conclude your answer with concerns over weakened safeguards and public engagement. |
+| **Approach:** <br>• **Introduction** Write about Draft EIA notification 2020 in brief. <br>• **Body:** State the differences between EIA Notification 2020 and 2006. <br>• **Conclusion** Conclude your answer with concerns over weakened safeguards and public engagement. |
 | --- |
 
 ### Introduction
@@ -5227,7 +5227,7 @@ The draft EIA Notification, 2020 diverges from the existing EIA Notification, 20
 
 ### Answer
 
-| **Approach:** <br>• **Introduction:** Brief about Jal Shakti Abhiyan. <br>• **Body:** Brief about the Salient features of the Jal Shakti Abhiyan. <br>• **Conclusion** Conclude your answer with a futuristic approach. |
+| **Approach:** <br>• **Introduction** Brief about Jal Shakti Abhiyan. <br>• **Body:** Brief about the Salient features of the Jal Shakti Abhiyan. <br>• **Conclusion** Conclude your answer with a futuristic approach. |
 | --- |
 
 ### Introduction
@@ -5261,7 +5261,7 @@ The salient features of the Jal Shakti Abhiyan include rainwater harvesting, rev
 
 ### Answer
 
-| **Approach:** <br>• **Introduction:** Brief about The National Clean Air Programme. <br>• **Body:** State the key features of the National Clean Air Programme [NCAP] <br>• **Conclusion** Conclude your answer with a futuristic approach. |
+| **Approach:** <br>• **Introduction** Brief about The National Clean Air Programme. <br>• **Body:** State the key features of the National Clean Air Programme [NCAP] <br>• **Conclusion** Conclude your answer with a futuristic approach. |
 | --- |
 
 ### Introduction
@@ -5294,7 +5294,7 @@ The key features of the National Clean Air Programme (NCAP) include setting up a
 
 ### Answer
 
-| **Approach:** <br>• **Introduction:** Brief about Indian coastal Mining. <br>• **Body:** Discuss about the Impact of Coastal Sand Mining along Indian Coasts. <br>• **Conclusion** Conclude your answer with a futuristic approach. |
+| **Approach:** <br>• **Introduction** Brief about Indian coastal Mining. <br>• **Body:** Discuss about the Impact of Coastal Sand Mining along Indian Coasts. <br>• **Conclusion** Conclude your answer with a futuristic approach. |
 | --- |
 
 ### Introduction
@@ -5330,7 +5330,7 @@ Sand mining along the Indian coasts has led to coastal erosion, saline-water int
 
 ### Answer
 
-| **Approach:** <br>• **Introduction:** Brief about carrying capacity, balancing needs and ecosystem resilience. <br>• **Body:** Discuss the importance in Sustainable Development Planning. <br>• **Conclusion** Conclude your answer with a futuristic approach. |
+| **Approach:** <br>• **Introduction** Brief about carrying capacity, balancing needs and ecosystem resilience. <br>• **Body:** Discuss the importance in Sustainable Development Planning. <br>• **Conclusion** Conclude your answer with a futuristic approach. |
 | --- |
 
 ### Introduction
@@ -5361,7 +5361,7 @@ By comprehending the carrying capacity of an ecosystem, policymakers and planner
 
 ### Answer
 
-| **Approach:** <br>• **Introduction:** Brief about India’s organic state set new environmental and economic standards. <br>• **Body:** Discuss about the Economic and environmental benefits of Organic State. <br>• **Conclusion** Conclude your answer with a futuristic Approach. |
+| **Approach:** <br>• **Introduction** Brief about India’s organic state set new environmental and economic standards. <br>• **Body:** Discuss about the Economic and environmental benefits of Organic State. <br>• **Conclusion** Conclude your answer with a futuristic Approach. |
 | --- |
 
 ### Introduction
@@ -5394,7 +5394,7 @@ The organic status of Sikkim has not only led to a healthier environment with re
 
 ### Answer
 
-| **Approach:** <br>• **Introduction:** Brief about India’s mega diversity nation. <br>• **Body:** Discuss about the Biodiversity variation in India and the importance of conservation. <br>• **Conclusion** Conclude your answer with a futuristic Approach. |
+| **Approach:** <br>• **Introduction** Brief about India’s mega diversity nation. <br>• **Body:** Discuss about the Biodiversity variation in India and the importance of conservation. <br>• **Conclusion** Conclude your answer with a futuristic Approach. |
 | --- |
 
 ### Introduction
@@ -5461,7 +5461,7 @@ Climate change is a pressing issue that requires immediate attention in India. T
 
 ### Answer
 
-| **Approach:** <br>• **Introduction:** Brief about River linking. <br>• **Body:** Discuss about the advantages of river linking and its possible impact on the environment. <br>• **Conclusion** Conclude your answer sustainable Approach to river linking. |
+| **Approach:** <br>• **Introduction** Brief about River linking. <br>• **Body:** Discuss about the advantages of river linking and its possible impact on the environment. <br>• **Conclusion** Conclude your answer sustainable Approach to river linking. |
 | --- |
 
 ### Introduction
@@ -5498,7 +5498,7 @@ The concept of river linking was once a distant dream, but it has now become a r
 
 ### Answer
 
-| **Approach:** <br>• **Introduction**: Brief about prioritizing rehabilitation. <br>• **Body**: Principles for responsible project development and community engagement. <br>• **Conclusion** Conclude your answer with a futuristic Approach. |
+| **Approach:** <br>• **Introduction** Brief about prioritizing rehabilitation. <br>• **Body**: Principles for responsible project development and community engagement. <br>• **Conclusion** Conclude your answer with a futuristic Approach. |
 | --- |
 
 ### Introduction
@@ -5571,7 +5571,7 @@ To preserve the river Ganga, a quantum leap is required, which involves a multi-
 
 ### Answer
 
-| **Approach:** <br>• **Introduction:** Brief about EIA. <br>• **Body:** Discuss crucial role of EIA studies in assessing coal plant impacts. <br>• **Conclusion** Conclude your answer significance of coal plant. |
+| **Approach:** <br>• **Introduction** Brief about EIA. <br>• **Body:** Discuss crucial role of EIA studies in assessing coal plant impacts. <br>• **Conclusion** Conclude your answer significance of coal plant. |
 | --- |
 
 ### Introduction
@@ -6371,7 +6371,7 @@ Biotechnology has broad applications, from healthcare to agriculture, and holds 
 
 ### Answer
 
-| **Approach:** <br>• **Introduction:** Begin by highlighting the unprecedented devastation caused by the COVID-19 pandemic worldwide. And then, Introduce the focus of the answer on how technology aided pandemic management, with a specific emphasis on India. <br>• **Body:** The body should be organized into several sections, each highlighting a different technological intervention in pandemic management. <br>• **Conclusion** Conclude, highlighting the resilience and adaptability of societies in leveraging technology to combat unprecedented challenges. |
+| **Approach:** <br>• **Introduction** Begin by highlighting the unprecedented devastation caused by the COVID-19 pandemic worldwide. And then, Introduce the focus of the answer on how technology aided pandemic management, with a specific emphasis on India. <br>• **Body:** The body should be organized into several sections, each highlighting a different technological intervention in pandemic management. <br>• **Conclusion** Conclude, highlighting the resilience and adaptability of societies in leveraging technology to combat unprecedented challenges. |
 | --- |
 
 ### Introduction
@@ -6610,7 +6610,7 @@ The deployment of biotechnology in agriculture, with its numerous advantages, ha
 
 ### Answer
 
-| **Approach:** <br> **Introduction:** <br>• Begin by acknowledging the profound impact of Prof. Satyendra Nath Bose’s work on quantum mechanics. <br> **Body** <br>• Discuss the work of ‘Bose-Einstein Statistics’. <br>• Also, show how it revolutionized the field of Physics. <br>• Substantiate with appropriate examples. <br> **Conclusion** <br>• Conclude, emphasizing the enduring resonance of his work in quantum mechanics, inspiring ongoing research and technological advancements. |
+| **Approach:** <br> **Introduction** <br>• Begin by acknowledging the profound impact of Prof. Satyendra Nath Bose’s work on quantum mechanics. <br> **Body** <br>• Discuss the work of ‘Bose-Einstein Statistics’. <br>• Also, show how it revolutionized the field of Physics. <br>• Substantiate with appropriate examples. <br> **Conclusion** <br>• Conclude, emphasizing the enduring resonance of his work in quantum mechanics, inspiring ongoing research and technological advancements. |
 | --- |
 
 ### Introduction
@@ -9066,7 +9066,7 @@ The National Cyber Security Policy, 2013, was an important step in fortifying In
 
 ### Answer
 
-| **Approach:** <br> **Introduction:** <br>• Introduce the context by highlighting the shift from in-house server hosting to cloud hosting in government and private sectors, and introduce the premise of discussing the advantages and security implications of both. <br> **Body:** <br>• Discuss the benefits of cloud hosting, such as scalability, cost-effectiveness, and accessibility. <br>• Highlight potential security concerns associated with cloud hosting. <br>• Discuss the benefits of traditional in-house server hosting. <br>• Discuss the challenges, like the responsibility for security and maintenance, and physical threats to servers. <br> **Conclusion** <br>• Conclude by summarizing the benefits and concerns of both cloud and in-house hosting and suggesting a balanced approach (like hybrid solutions) for government businesses, considering their specific needs and security requirements. |
+| **Approach:** <br> **Introduction** <br>• Introduce the context by highlighting the shift from in-house server hosting to cloud hosting in government and private sectors, and introduce the premise of discussing the advantages and security implications of both. <br> **Body:** <br>• Discuss the benefits of cloud hosting, such as scalability, cost-effectiveness, and accessibility. <br>• Highlight potential security concerns associated with cloud hosting. <br>• Discuss the benefits of traditional in-house server hosting. <br>• Discuss the challenges, like the responsibility for security and maintenance, and physical threats to servers. <br> **Conclusion** <br>• Conclude by summarizing the benefits and concerns of both cloud and in-house hosting and suggesting a balanced approach (like hybrid solutions) for government businesses, considering their specific needs and security requirements. |
 | --- |
 
 ### Introduction
@@ -9566,7 +9566,7 @@ Managing India’s porous borders is crucial to addressing its internal security
 
 ### Answer
 
-| **Approach:** <br> **Introduction:** <br>• Introduce with a brief explanation of what money laundering is and its implications for India’s economic sovereignty. <br> **Body** <br>• Discuss the different aspects impacted by money laundering. <br>• Identify and mention the measures needed to control money laundering. <br> **Conclusion** <br>• Conclude by summarizing the threat of money laundering to India’s economic sovereignty and the importance of the suggested measures in effectively countering this menace. |
+| **Approach:** <br> **Introduction** <br>• Introduce with a brief explanation of what money laundering is and its implications for India’s economic sovereignty. <br> **Body** <br>• Discuss the different aspects impacted by money laundering. <br>• Identify and mention the measures needed to control money laundering. <br> **Conclusion** <br>• Conclude by summarizing the threat of money laundering to India’s economic sovereignty and the importance of the suggested measures in effectively countering this menace. |
 | --- |
 
 ### Introduction

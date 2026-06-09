@@ -776,7 +776,7 @@ A **self-sustained growth strategy** is imperative for India’s long-term econo
 1. Explanation_Drishti IAS:
 Source Question: What are the challenges before the Indian economy when the world is moving away from free trade and multilateralism to protectionism and bilateralism? How can these challenges be met? (Answer in 150 words)
 
-| **Approach:** <br>• **Introduction:** Introduce with current scenario with the meaning of free trade and multilateralism to protectionism and bilateralism. <br>• **Body:** List down the Challenges faced by Indian Economy and measures to overcome these challenges. <br>• **Conclusion** Summarize how these measures help India navigate the challenges posed by protectionism and bilateralism, ensuring its sustained economic growth and competitiveness in global trade. |
+| **Approach:** <br>• **Introduction** Introduce with current scenario with the meaning of free trade and multilateralism to protectionism and bilateralism. <br>• **Body:** List down the Challenges faced by Indian Economy and measures to overcome these challenges. <br>• **Conclusion** Summarize how these measures help India navigate the challenges posed by protectionism and bilateralism, ensuring its sustained economic growth and competitiveness in global trade. |
 | --- |
 
 ### Introduction
@@ -1182,7 +1182,7 @@ By encouraging **disciplined, sustainable, and quality spending,** FHI can help 
 1. Explanation_Drishti IAS:
 Source Question: Explain how the Fiscal Health Index (FHI) can be used as a tool for assessing the fiscal performance of states in India. In what way would it encourage the states to adopt prudent and sustainable fiscal policies? (Answer in 250 words)
 
-| **Approach:** <br>• **Introduction:** Introduce the Fiscal Health Index, its key indicators. <br>• **Body:** Give FHI role in assessing Fiscal Performance of States and how it helps in adoption of prudent and sustainable fiscal policies. <br>• **Conclusion** Conclude with a way forward approach. |
+| **Approach:** <br>• **Introduction** Introduce the Fiscal Health Index, its key indicators. <br>• **Body:** Give FHI role in assessing Fiscal Performance of States and how it helps in adoption of prudent and sustainable fiscal policies. <br>• **Conclusion** Conclude with a way forward approach. |
 | --- |
 
 ### Introduction
@@ -4010,7 +4010,7 @@ As Amartya Sen observed, “Development is about expanding freedoms.” HDI show
 1. Explanation_Drishti IAS:
 Source Question: Distinguish between the Human Development Index (HDI) and the Inequality-adjusted Human Development Index (IHDI) with special reference to India. Why is the IHDI considered a better indicator of inclusive growth? (Answer in 150 words)
 
-| **Approach** <br>• **Introduction:** Define HDI and give recent India’s ranking. <br>• **Body:** Explain the differences between HDI and IHDI and discuss IHDI's role as a better indicator of inclusive growth. <br>• **Conclusion** Summarize the importance of IHDI in fostering inclusive growth, especially for countries like India. |
+| **Approach** <br>• **Introduction** Define HDI and give recent India’s ranking. <br>• **Body:** Explain the differences between HDI and IHDI and discuss IHDI's role as a better indicator of inclusive growth. <br>• **Conclusion** Summarize the importance of IHDI in fostering inclusive growth, especially for countries like India. |
 | --- |
 
 ### Introduction
@@ -5120,7 +5120,7 @@ Q37. Discuss the rationale for introducing the Goods and Services Tax (GST) in I
 1. Explanation_PWOnlyIAS:
 Source Question: Discuss the rationale for introducing Goods and Services Tax (GST) in India. Bring out critically the reasons for the delay in roll out for its regime.
 
-| **Approach:** <br> **Introduction:** <br>• Give a brief background of GST **Body** <br>• Mention the rationale behind GST <br>• Mention reasons for delay in its rollout <br> **Conclusion** <br>• Conclude saying that GST makes the Indian economy future ready. |
+| **Approach:** <br> **Introduction** <br>• Give a brief background of GST **Body** <br>• Mention the rationale behind GST <br>• Mention reasons for delay in its rollout <br> **Conclusion** <br>• Conclude saying that GST makes the Indian economy future ready. |
 | --- |
 
 ### Introduction
@@ -5695,7 +5695,7 @@ Q41. Foreign Direct Investment (FDI) in the defence sector is now set to be libe
 1. Explanation_PWOnlyIAS:
 Source Question: Foreign Direct Investment (FDI) in the defence sector is now set to be liberalized. What influence is this expected to have on Indian defence and economy in the short and long run? (200 words, 12.5 marks)
 
-| **Approach:** <br>• **Introduction:** Give a brief about the way FDI entered the defence sector. <br>• **Body:** Mention the short and long term implications. <br>• **Conclusion** The FDI policy in defence sector would bring immense gains in both short and long term. |
+| **Approach:** <br>• **Introduction** Give a brief about the way FDI entered the defence sector. <br>• **Body:** Mention the short and long term implications. <br>• **Conclusion** The FDI policy in defence sector would bring immense gains in both short and long term. |
 | --- |
 
 ### Introduction
@@ -6089,7 +6089,7 @@ Q44. There is also a point of view that Agricultural Produce Market Committees [
 1. Explanation_PWOnlyIAS:
 Source Question: There is also a point of view that Agricultural Produce Market Committees (APMCs) set up under the State Acts have not only impeded the development of agriculture but also have been the cause of food inflation in India. Critically examine. (200 words, 12.5 marks)
 
-| **Approach:** <br>• **Introduction:** Give a brief about APMC <br>• **Body:** Mention the criticisms of APMC with respect to its impact on growth of agriculture and food inflation. <br>• **Conclusion** Conclude saying that APMC is just one factor, there are other factors too that impacts agriculture and food inflation. But APMC reforms are still a must. |
+| **Approach:** <br>• **Introduction** Give a brief about APMC <br>• **Body:** Mention the criticisms of APMC with respect to its impact on growth of agriculture and food inflation. <br>• **Conclusion** Conclude saying that APMC is just one factor, there are other factors too that impacts agriculture and food inflation. But APMC reforms are still a must. |
 | --- |
 
 ### Introduction
@@ -6955,7 +6955,7 @@ The **PLI scheme,** launched in 2020, covers 14 key sectors and provides **direc
 1. Explanation_Drishti IAS:
 Source Question: Discuss the rationale of the Production Linked Incentive (PLI) scheme. What are its achievements? In what way can the functioning and outcomes of the scheme be improved? (250 words)
 
-| **Approach:** <br>• **Introduction**: Introduce the **Production Linked Incentive (PLI)** scheme, its purpose, and its objectives. <br>• **Body**: Discuss the rationale behind the scheme, its achievements in various sectors, and the improvements it has brought to India’s manufacturing ecosystem. <br>• **Conclusion** Highlight areas where the scheme can be enhanced and suggest ways to ensure its continued success and inclusivity. |
+| **Approach:** <br>• **Introduction** Introduce the **Production Linked Incentive (PLI)** scheme, its purpose, and its objectives. <br>• **Body**: Discuss the rationale behind the scheme, its achievements in various sectors, and the improvements it has brought to India’s manufacturing ecosystem. <br>• **Conclusion** Highlight areas where the scheme can be enhanced and suggest ways to ensure its continued success and inclusivity. |
 | --- |
 
 ### Introduction
@@ -8126,7 +8126,7 @@ All requisite steps are being taken to address the various challenges in this fi
 1. Explanation_PWOnlyIAS:
 Source Question: Examine the development of airports in India through joint ventures under Public – private Partnership (PPP) model. What are the challenges faced by the authorities in this regard?
 
-| **Approach:** <br> **Introduction:** <br>• Define PPP. **Body** <br>• Mention about the development of airports under PPP. <br>• Mention the challenges in such projects. <br> **Conclusion** <br>• Conclude stating that a certain degree of flexibility would solve many of the problems faced by such projects. |
+| **Approach:** <br> **Introduction** <br>• Define PPP. **Body** <br>• Mention about the development of airports under PPP. <br>• Mention the challenges in such projects. <br> **Conclusion** <br>• Conclude stating that a certain degree of flexibility would solve many of the problems faced by such projects. |
 | --- |
 
 ### Introduction
@@ -8677,7 +8677,7 @@ Q63. Write a note on India’s green energy corridor to alleviate the problem of
 1. Explanation_PWOnlyIAS:
 Source Question: Write a note on India’s green energy corridor to alleviate the problem of conventional energy.
 
-| **Approach:** <br>• **Introduction:** Give a brief idea about the green energy corridor <br>• **Body:** Mention how India’s Green Energy Corridor project could alleviate problems associated with conventional energy <br>• **Conclusion** India’s green energy corridor is a significant initiative to promote renewable energy and create a sustainable future. |
+| **Approach:** <br>• **Introduction** Give a brief idea about the green energy corridor <br>• **Body:** Mention how India’s Green Energy Corridor project could alleviate problems associated with conventional energy <br>• **Conclusion** India’s green energy corridor is a significant initiative to promote renewable energy and create a sustainable future. |
 | --- |
 
 ### Introduction
@@ -11852,7 +11852,7 @@ Shift to high-value crops can be a key driver of **doubling farmers’ income an
 1. Explanation_Drishti IAS:
 Source Question: Explain the factors influencing the decision of the farmers on the selection of high value crops in India. (Answer in 150 words)
 
-| **Approach** <br>• **Introduction:** Define high-value crops. <br>• **Body:** Discuss the factors influencing farmers' decisions highlighting government initiatives as key enablers for farmers to adopt high-value crops. <br>• **Conclusion** Emphasize the positive impact of these factors on farmers' incomes and sustainable agricultural growth in India. |
+| **Approach** <br>• **Introduction** Define high-value crops. <br>• **Body:** Discuss the factors influencing farmers' decisions highlighting government initiatives as key enablers for farmers to adopt high-value crops. <br>• **Conclusion** Emphasize the positive impact of these factors on farmers' incomes and sustainable agricultural growth in India. |
 | --- |
 
 ### Introduction
@@ -15060,7 +15060,7 @@ The **agricultural supply chain** refers to activities involved in moving agricu
 1. Explanation_Drishti IAS:
 Source Question: Elaborate the scope and significance of supply chain management of agricultural commodities in India. (Answer in 150 words)
 
-| **Approach** <br>• **Introduction:** Define Supply Chain Management (SCM) in agriculture. <br>• **Body:** Discuss the scope of SCM, highlighting government initiatives and give the significance of SCM. <br>• **Conclusion** Summarise by mentioning challenges in SCM and way forward. |
+| **Approach** <br>• **Introduction** Define Supply Chain Management (SCM) in agriculture. <br>• **Body:** Discuss the scope of SCM, highlighting government initiatives and give the significance of SCM. <br>• **Conclusion** Summarise by mentioning challenges in SCM and way forward. |
 | --- |
 
 ### Introduction
@@ -15996,7 +15996,7 @@ As India moves forward under the **Make in India** vision, the food processing i
 1. Explanation_Drishti IAS:
 Source Question: Examine the scope of the food processing industries in India. Elaborate the measures taken by the government in the food processing industries for generating employment opportunities. (Answer in 250 words)
 
-| **Approach** <br>• **Introduction:** Define the food processing industry and highlight its importance under the Make in India initiative. <br>• **Body:** Discuss the scope of the food processing industry and explain the measures taken by the government to generate employment opportunities. <br>• **Conclusion** Summarise by mentioning the growth potential of India’s food processing sector. |
+| **Approach** <br>• **Introduction** Define the food processing industry and highlight its importance under the Make in India initiative. <br>• **Body:** Discuss the scope of the food processing industry and explain the measures taken by the government to generate employment opportunities. <br>• **Conclusion** Summarise by mentioning the growth potential of India’s food processing sector. |
 | --- |
 
 ### Introduction
@@ -19405,7 +19405,7 @@ Thus, we notice that during the COVID-19 period technology innovations helped in
 1. Explanation_PWOnlyIAS:
 Source Question: COVID-19 pandemic has caused unprecedented devastation worldwide. However, technological advancements are being availed readily to win over the crisis. Give an account of how technology was sought to aid management of the pandemic.
 
-| **Approach:** <br>• **Introduction:** Begin by highlighting the unprecedented devastation caused by the COVID-19 pandemic worldwide. And then, Introduce the focus of the answer on how technology aided pandemic management, with a specific emphasis on India. <br>• **Body:** The body should be organized into several sections, each highlighting a different technological intervention in pandemic management. <br>• **Conclusion** Conclude, highlighting the resilience and adaptability of societies in leveraging technology to combat unprecedented challenges. |
+| **Approach:** <br>• **Introduction** Begin by highlighting the unprecedented devastation caused by the COVID-19 pandemic worldwide. And then, Introduce the focus of the answer on how technology aided pandemic management, with a specific emphasis on India. <br>• **Body:** The body should be organized into several sections, each highlighting a different technological intervention in pandemic management. <br>• **Conclusion** Conclude, highlighting the resilience and adaptability of societies in leveraging technology to combat unprecedented challenges. |
 | --- |
 
 ### Introduction
@@ -19739,7 +19739,7 @@ For India, CCUS provides a pathway to **decarbonization** without compromising e
 1. Explanation_Drishti IAS:
 Source Question: What is Carbon Capture, Utilization and Storage (CCUS)? What is the potential role of CCUS in tackling climate change? (150 words)
 
-| **Approach:** <br>• **Introduction**: Introduce the concept of **CCUS** and its significance in reducing CO **2** emissions and mitigating climate change. <br>• **Body**: Discuss the three core components of CCUS: **carbon capture**, **carbon utilization**, and **carbon storage**. Highlight the **potential role of CCUS** in tackling climate change. Identify the key **challenges** to the effectiveness of CCUS. <br>• **Conclusion** Summarize the need of CCUS in combating climate change. |
+| **Approach:** <br>• **Introduction** Introduce the concept of **CCUS** and its significance in reducing CO **2** emissions and mitigating climate change. <br>• **Body**: Discuss the three core components of CCUS: **carbon capture**, **carbon utilization**, and **carbon storage**. Highlight the **potential role of CCUS** in tackling climate change. Identify the key **challenges** to the effectiveness of CCUS. <br>• **Conclusion** Summarize the need of CCUS in combating climate change. |
 | --- |
 
 ### Introduction
@@ -20912,7 +20912,7 @@ Q139. Discuss the advantage and security implication of cloud hosting of servers
 1. Explanation_PWOnlyIAS:
 Source Question: Discuss the advantage and security implications of cloud hosting of server vis-a-vis in-house machine-based hosting for government businesses. (200 words, 12.5 Marks)
 
-| **Approach:** <br> **Introduction:** <br>• Introduce the context by highlighting the shift from in-house server hosting to cloud hosting in government and private sectors, and introduce the premise of discussing the advantages and security implications of both. <br> **Body:** <br>• Discuss the benefits of cloud hosting, such as scalability, cost-effectiveness, and accessibility. <br>• Highlight potential security concerns associated with cloud hosting. <br>• Discuss the benefits of traditional in-house server hosting. <br>• Discuss the challenges, like the responsibility for security and maintenance, and physical threats to servers. <br> **Conclusion** <br>• Conclude by summarizing the benefits and concerns of both cloud and in-house hosting and suggesting a balanced approach (like hybrid solutions) for government businesses, considering their specific needs and security requirements. |
+| **Approach:** <br> **Introduction** <br>• Introduce the context by highlighting the shift from in-house server hosting to cloud hosting in government and private sectors, and introduce the premise of discussing the advantages and security implications of both. <br> **Body:** <br>• Discuss the benefits of cloud hosting, such as scalability, cost-effectiveness, and accessibility. <br>• Highlight potential security concerns associated with cloud hosting. <br>• Discuss the benefits of traditional in-house server hosting. <br>• Discuss the challenges, like the responsibility for security and maintenance, and physical threats to servers. <br> **Conclusion** <br>• Conclude by summarizing the benefits and concerns of both cloud and in-house hosting and suggesting a balanced approach (like hybrid solutions) for government businesses, considering their specific needs and security requirements. |
 | --- |
 
 ### Introduction
@@ -22401,7 +22401,7 @@ Source Question: How can India achieve energy independence through clean technol
 1. Explanation_Drishti IAS:
 Source Question: How can India achieve energy independence through clean technology by 2047? How can biotechnology can play a crucial role in this endeavour? (Answer in 150 words)
 
-| **Approach:** <br>• **Introduction:** Explain what is energy independence and what approach is needed to achieve it including Biotechnology. <br>• **Body:** Give Pathways to energy independence through clean technology and role of biotechnology. <br>• **Conclusion** Mention the prospects of adoption of clean energy. |
+| **Approach:** <br>• **Introduction** Explain what is energy independence and what approach is needed to achieve it including Biotechnology. <br>• **Body:** Give Pathways to energy independence through clean technology and role of biotechnology. <br>• **Conclusion** Mention the prospects of adoption of clean energy. |
 | --- |
 
 ### Introduction
@@ -23706,7 +23706,7 @@ Nanotechnology refers to the **science and application of materials at the nanos
 1. Explanation_Drishti IAS:
 Source Question: How does nanotechnology offer significant advancements in the field of agriculture? How can this technology help to uplift the socio-economic status of farmers? (Answer in 250 words)
 
-| **Approach:** <br>• **Introduction:** Explain about Nanotechnology. <br>• **Body:** Write about its contribution in agriculture and it has provided socio- economic benefits to farmers. <br>• **Conclusion** Write its benefits in future. |
+| **Approach:** <br>• **Introduction** Explain about Nanotechnology. <br>• **Body:** Write about its contribution in agriculture and it has provided socio- economic benefits to farmers. <br>• **Conclusion** Write its benefits in future. |
 | --- |
 
 ### Introduction
@@ -24879,7 +24879,7 @@ One of the most dramatic effects of Bose-Einstein statistics is the prediction t
 1. Explanation_PWOnlyIAS:
 Source Question: Discuss the work of ‘Bose-Einstein Statistics’ done by Prof. Satyendra Nath Bose and show how it revolutionized the field of Physics.
 
-| **Approach:** <br> **Introduction:** <br>• Begin by acknowledging the profound impact of Prof. Satyendra Nath Bose’s work on quantum mechanics. <br> **Body** <br>• Discuss the work of ‘Bose-Einstein Statistics’. <br>• Also, show how it revolutionized the field of Physics. <br>• Substantiate with appropriate examples. <br> **Conclusion** <br>• Conclude, emphasizing the enduring resonance of his work in quantum mechanics, inspiring ongoing research and technological advancements. |
+| **Approach:** <br> **Introduction** <br>• Begin by acknowledging the profound impact of Prof. Satyendra Nath Bose’s work on quantum mechanics. <br> **Body** <br>• Discuss the work of ‘Bose-Einstein Statistics’. <br>• Also, show how it revolutionized the field of Physics. <br>• Substantiate with appropriate examples. <br> **Conclusion** <br>• Conclude, emphasizing the enduring resonance of his work in quantum mechanics, inspiring ongoing research and technological advancements. |
 | --- |
 
 ### Introduction
@@ -25108,7 +25108,7 @@ India was one of the first countries to announce a national fusion programme at 
 1. Explanation_Drishti IAS:
 Source Question: The fusion energy programme in India has steadily evolved over the past few decades. Mention India's contributions to the international fusion energy project International Thermonuclear Experimental Reactor (ITER). What will be the implications of the success of this project for the future of global energy? (Answer in 150 words)
 
-| **Approach:** <br>• **Introduction:** Introduce the ITER project, its significance in nuclear fusion research, and India’s involvement. <br>• **Body:** Discuss India’s major contributions to ITER and implications of the project on future global energy. <br>• **Conclusion** Include the impact of the project in future. |
+| **Approach:** <br>• **Introduction** Introduce the ITER project, its significance in nuclear fusion research, and India’s involvement. <br>• **Body:** Discuss India’s major contributions to ITER and implications of the project on future global energy. <br>• **Conclusion** Include the impact of the project in future. |
 | --- |
 
 The International Thermonuclear Experimental Reactor (ITER) is an international nuclear fusion research project aimed at demonstrating the feasibility of nuclear fusion as a large-scale and carbon-free source of energy. It’s being constructed in Saint-Paul-lez-Durance, France, and it involves the collaboration of seven member entities: the European Union, China, India, Japan, Russia, South Korea, and the United States.
@@ -26118,7 +26118,7 @@ The Kyoto Protocol is based on the principle of common but differentiated respon
 1. Explanation_PWOnlyIAS:
 Source Question: Discuss global warming and mention its effects on global climate. Explain the control measures to bring down the level of greenhouse gasses which cause global warming in the light of the Kyoto Protocol 1997.
 
-| **Approach:** <br> **Introduction:** <br> • Define Global warming. **Body** <br> • Write about the Global Warming Impacts on Earth Climate. <br> • Write down the control measures to reduce the GHG emission in the light of Kyoto Protocol. <br> **Conclusion** <br> • Conclude your answer with key steps towards Global warming Mitigation and Sustainability. |
+| **Approach:** <br> **Introduction** <br> • Define Global warming. **Body** <br> • Write about the Global Warming Impacts on Earth Climate. <br> • Write down the control measures to reduce the GHG emission in the light of Kyoto Protocol. <br> **Conclusion** <br> • Conclude your answer with key steps towards Global warming Mitigation and Sustainability. |
 | --- |
 
 ### Introduction
@@ -26518,7 +26518,7 @@ The Green Grid initiative is a transformational new programme, with the goal of 
 1. Explanation_PWOnlyIAS:
 Source Question: Explain the purpose of the Green Grid Initiative launched at the World Leader Summit of the COP26 UN Climate change conference in Glasgow in November, 2021. When was this idea first floated in the International Solar Alliance [ISA]?
 
-| **Approach:** <br>• **Introduction:** Start your answer with Uniting Global electricity Networks for Sustainability. <br>• **Body:** Explain the purpose of the Green Grid Initiative and its reference and connetion to ISA. <br>• **Conclusion** Conclude your answer with uniting Nations for renewable energy solution. |
+| **Approach:** <br>• **Introduction** Start your answer with Uniting Global electricity Networks for Sustainability. <br>• **Body:** Explain the purpose of the Green Grid Initiative and its reference and connetion to ISA. <br>• **Conclusion** Conclude your answer with uniting Nations for renewable energy solution. |
 | --- |
 
 ### Introduction
@@ -26679,7 +26679,7 @@ With climate risks threatening a staggering 24.7 % GDP loss by 2070, resilient d
 1. Explanation_Drishti IAS:
 Source Question: Write a review on India's climate commitments under the Paris Agreement (2015) and mention how these have been further strengthened in COP26 (2021). In this direction, how has the first Nationally Determined Contribution intended by India been updated in 2022? (Answer in 250 words)
 
-| **Approach** <br>• **Introduction:** Briefly explain India’s climate commitments and their alignment with its developmental priorities. <br>• **Body:** Discuss the Paris Agreement, COP26 (2021), and updates in India’s Nationally Determined Contributions (NDC) in 2022. <br>• **Conclusion** Highlight India's leadership in climate action and its progressive approach towards sustainable development. |
+| **Approach** <br>• **Introduction** Briefly explain India’s climate commitments and their alignment with its developmental priorities. <br>• **Body:** Discuss the Paris Agreement, COP26 (2021), and updates in India’s Nationally Determined Contributions (NDC) in 2022. <br>• **Conclusion** Highlight India's leadership in climate action and its progressive approach towards sustainable development. |
 | --- |
 
 ### Introduction
@@ -26997,7 +26997,7 @@ Sikkim became India’s first ‘organic state’ by implementing organic practi
 1. Explanation_PWOnlyIAS:
 Source Question: Sikkim is the first ‘Organic State’ in India. What are the ecological and economic benefits of Organic State?
 
-| **Approach:** <br>• **Introduction:** Brief about India’s organic state set new environmental and economic standards. <br>• **Body:** Discuss about the Economic and environmental benefits of Organic State. <br>• **Conclusion** Conclude your answer with a futuristic Approach. |
+| **Approach:** <br>• **Introduction** Brief about India’s organic state set new environmental and economic standards. <br>• **Body:** Discuss about the Economic and environmental benefits of Organic State. <br>• **Conclusion** Conclude your answer with a futuristic Approach. |
 | --- |
 
 ### Introduction
@@ -27167,7 +27167,7 @@ Biodiversity is defined as the variability among living organisms. Biogeographic
 1. Explanation_PWOnlyIAS:
 Source Question: How does biodiversity vary in India? How is the Biological Diversity Act,2002 helpful in conservation of flora and fauna?
 
-| **Approach:** <br>• **Introduction:** Brief about India’s mega diversity nation. <br>• **Body:** Discuss about the Biodiversity variation in India and the importance of conservation. <br>• **Conclusion** Conclude your answer with a futuristic Approach. |
+| **Approach:** <br>• **Introduction** Brief about India’s mega diversity nation. <br>• **Body:** Discuss about the Biodiversity variation in India and the importance of conservation. <br>• **Conclusion** Conclude your answer with a futuristic Approach. |
 | --- |
 
 ### Introduction
@@ -27465,7 +27465,7 @@ The new notification is being brought in order to make the process more transpar
 1. Explanation_PWOnlyIAS:
 Source Question: How does the draft Environment Impact Assessment [EIA] Notification,2020 Differ from the existing EIA Notification, 2006?
 
-| **Approach:** <br>• **Introduction:** Write about Draft EIA notification 2020 in brief. <br>• **Body:** State the differences between EIA Notification 2020 and 2006. <br>• **Conclusion** Conclude your answer with concerns over weakened safeguards and public engagement. |
+| **Approach:** <br>• **Introduction** Write about Draft EIA notification 2020 in brief. <br>• **Body:** State the differences between EIA Notification 2020 and 2006. <br>• **Conclusion** Conclude your answer with concerns over weakened safeguards and public engagement. |
 | --- |
 
 ### Introduction
@@ -27537,7 +27537,7 @@ Q182. Environmental Impact Assessment studies are increasingly undertaken before
 1. Explanation_PWOnlyIAS:
 Source Question: Environmental Impact Assessment studies are increasingly undertaken before a project is cleared by the Government. Discuss the environmental impact of coal-fired thermal plants located at coal pitheads.
 
-| **Approach:** <br>• **Introduction:** Brief about EIA. <br>• **Body:** Discuss crucial role of EIA studies in assessing coal plant impacts. <br>• **Conclusion** Conclude your answer significance of coal plant. |
+| **Approach:** <br>• **Introduction** Brief about EIA. <br>• **Body:** Discuss crucial role of EIA studies in assessing coal plant impacts. <br>• **Conclusion** Conclude your answer significance of coal plant. |
 | --- |
 
 ### Introduction
@@ -27701,7 +27701,7 @@ The current ethos of ‘sustainable development’ is slanted towards preservati
 1. Explanation_PWOnlyIAS:
 Source Question: Define the concept of carrying capacity of an ecosystem as relevant to an environment. Explain how understanding this concept is vital while planning for sustainable development of a region.
 
-| **Approach:** <br>• **Introduction:** Brief about carrying capacity, balancing needs and ecosystem resilience. <br>• **Body:** Discuss the importance in Sustainable Development Planning. <br>• **Conclusion** Conclude your answer with a futuristic approach. |
+| **Approach:** <br>• **Introduction** Brief about carrying capacity, balancing needs and ecosystem resilience. <br>• **Body:** Discuss the importance in Sustainable Development Planning. <br>• **Conclusion** Conclude your answer with a futuristic approach. |
 | --- |
 
 ### Introduction
@@ -27792,7 +27792,7 @@ Send To My Bookmarks
 1. Explanation_PWOnlyIAS:
 Source Question: Rehabilitation of human settlements is one of the important environmental impacts which always attracts controversy while planning major projects. Discuss the measures suggested from mitigation of this impact while proposing major developmental projects.[200 Words, 12.5 Marks]
 
-| **Approach:** <br>• **Introduction**: Brief about prioritizing rehabilitation. <br>• **Body**: Principles for responsible project development and community engagement. <br>• **Conclusion** Conclude your answer with a futuristic Approach. |
+| **Approach:** <br>• **Introduction** Brief about prioritizing rehabilitation. <br>• **Body**: Principles for responsible project development and community engagement. <br>• **Conclusion** Conclude your answer with a futuristic Approach. |
 | --- |
 
 ### Introduction
@@ -28142,7 +28142,7 @@ India has 26 Ramsar Sites which are the Wetlands of International importance. Th
 1. Explanation_PWOnlyIAS:
 Source Question: Sikkim is the first ‘Organic State’ in India. What are the ecological and economic benefits of Organic State?
 
-| **Approach:** <br>• **Introduction:** Brief about India’s organic state set new environmental and economic standards. <br>• **Body:** Discuss about the Economic and environmental benefits of Organic State. <br>• **Conclusion** Conclude your answer with a futuristic Approach. |
+| **Approach:** <br>• **Introduction** Brief about India’s organic state set new environmental and economic standards. <br>• **Body:** Discuss about the Economic and environmental benefits of Organic State. <br>• **Conclusion** Conclude your answer with a futuristic Approach. |
 | --- |
 
 ### Introduction
@@ -28674,7 +28674,7 @@ NCAP is envisaged to be dynamic although the targets appear less ambitious. Howe
 1. Explanation_PWOnlyIAS:
 Source Question: What are the key features of the National Clean Air Programme [NCAP] initiated by the Government of India.
 
-| **Approach:** <br>• **Introduction:** Brief about The National Clean Air Programme. <br>• **Body:** State the key features of the National Clean Air Programme [NCAP] <br>• **Conclusion** Conclude your answer with a futuristic approach. |
+| **Approach:** <br>• **Introduction** Brief about The National Clean Air Programme. <br>• **Body:** State the key features of the National Clean Air Programme [NCAP] <br>• **Conclusion** Conclude your answer with a futuristic approach. |
 | --- |
 
 ### Introduction
@@ -28827,7 +28827,7 @@ Eg- **Sukinda Chromite Mines (Odisha).**
 1. Explanation_Drishti IAS:
 Source Question: Mineral resources are fundamental to the country's economy and these are exploited by mining. Why is mining considered an environmental hazard? Explain the remedial measures required to reduce the environmental hazard due to mining. (Answer in 250 words)
 
-| **Approach:** <br>• **Introduction:** Give Indian Bureau of Mines data relating to mining and mining positive and negative impact. <br>• **Body:** Give reasons mining is considered as an environmental hazard and remedial measures of mining. <br>• **Conclusion** A way forward conclusion with adoption of sustainable practises. |
+| **Approach:** <br>• **Introduction** Give Indian Bureau of Mines data relating to mining and mining positive and negative impact. <br>• **Body:** Give reasons mining is considered as an environmental hazard and remedial measures of mining. <br>• **Conclusion** A way forward conclusion with adoption of sustainable practises. |
 | --- |
 
 ### Introduction
@@ -29056,7 +29056,7 @@ Better spatial planning and reducing unnecessary construction, using green infra
 1. Explanation_PWOnlyIAS:
 Source Question: Coastal sand mining, whether legal or illegal, poses one of the biggest threats to our environment. Analyze the Impact of Sand Mining along the Indians coasts, citing specific examples.
 
-| **Approach:** <br>• **Introduction:** Brief about Indian coastal Mining. <br>• **Body:** Discuss about the Impact of Coastal Sand Mining along Indian Coasts. <br>• **Conclusion** Conclude your answer with a futuristic approach. |
+| **Approach:** <br>• **Introduction** Brief about Indian coastal Mining. <br>• **Body:** Discuss about the Impact of Coastal Sand Mining along Indian Coasts. <br>• **Conclusion** Conclude your answer with a futuristic approach. |
 | --- |
 
 ### Introduction
@@ -29250,7 +29250,7 @@ The river link project is not without its disadvantages. The environmental angle
 1. Explanation_PWOnlyIAS:
 Source Question: Not many years ago, river linking was a concept but it is becoming reality in the country. Discuss the advantages of river linking and its possible impact on the environment [150 Word10 Marks]
 
-| **Approach:** <br>• **Introduction:** Brief about River linking. <br>• **Body:** Discuss about the advantages of river linking and its possible impact on the environment. <br>• **Conclusion** Conclude your answer sustainable Approach to river linking. |
+| **Approach:** <br>• **Introduction** Brief about River linking. <br>• **Body:** Discuss about the advantages of river linking and its possible impact on the environment. <br>• **Conclusion** Conclude your answer sustainable Approach to river linking. |
 | --- |
 
 ### Introduction
@@ -29632,7 +29632,7 @@ Mitigating seawater intrusion is essential to **safeguard coastal aquifers** and
 1. Explanation_Drishti IAS:
 Source Question: Seawater intrusion in the coastal aquifers is a major concern in India. What are the causes of seawater intrusion and the remedial measures to combat this hazard? (150 words)
 
-| **Approach:** <br>• **Introduction:** Introduce the issue of seawater intrusion in coastal aquifers and its significance in India, highlighting its impact on freshwater resources. <br>• **Body:** Discuss the causes of seawater intrusion, including human activities (like groundwater over-extraction and urbanization), and natural factors (like rising sea levels and geological characteristics). Provide Remedial Measures to combat seawater intrusion. <br>• **Conclusion** Emphasize the need for integrated approaches, including community awareness, monitoring, and policy enforcement, to prevent further damage and ensure sustainable use of groundwater. |
+| **Approach:** <br>• **Introduction** Introduce the issue of seawater intrusion in coastal aquifers and its significance in India, highlighting its impact on freshwater resources. <br>• **Body:** Discuss the causes of seawater intrusion, including human activities (like groundwater over-extraction and urbanization), and natural factors (like rising sea levels and geological characteristics). Provide Remedial Measures to combat seawater intrusion. <br>• **Conclusion** Emphasize the need for integrated approaches, including community awareness, monitoring, and policy enforcement, to prevent further damage and ensure sustainable use of groundwater. |
 | --- |
 
 Seawater intrusion into coastal aquifers is a significant environmental concern in many parts of the world, including India. This phenomenon occurs when saltwater from the sea infiltrates freshwater aquifers, rendering the groundwater unfit for human consumption, irrigation, and other uses. In India, the impact of seawater intrusion on coastal aquifers is exacerbated by over-extraction of groundwater, climate change, and improper land and water management practices.
@@ -29843,7 +29843,7 @@ According to a **CSIR-NGRI study,** north India has been experiencing rapid grou
 1. Explanation_Drishti IAS:
 Source Question: Examine the factors responsible for depleting groundwater in India. What are the steps taken by the government to mitigate such depletion of groundwater? (Answer in 250 words)
 
-| **Approach** <br>• **Introduction:** Highlight the extent of groundwater depletion in India. <br>• **Body:** Give Factors Contributing to Groundwater Depletion and mention Government Measures to mitigate Groundwater Depletion. <br>• **Conclusion** Summarise by giving suggestions and a way forward. |
+| **Approach** <br>• **Introduction** Highlight the extent of groundwater depletion in India. <br>• **Body:** Give Factors Contributing to Groundwater Depletion and mention Government Measures to mitigate Groundwater Depletion. <br>• **Conclusion** Summarise by giving suggestions and a way forward. |
 | --- |
 
 ### Introduction
@@ -30444,7 +30444,7 @@ Following the massive water crisis across India in the summer of 2019, the Centr
 1. Explanation_PWOnlyIAS:
 Source Question: What are salient features of the Jal Shakti Abhiyan launched by the Government of India for water conservation and water security?
 
-| **Approach:** <br>• **Introduction:** Brief about Jal Shakti Abhiyan. <br>• **Body:** Brief about the Salient features of the Jal Shakti Abhiyan. <br>• **Conclusion** Conclude your answer with a futuristic approach. |
+| **Approach:** <br>• **Introduction** Brief about Jal Shakti Abhiyan. <br>• **Body:** Brief about the Salient features of the Jal Shakti Abhiyan. <br>• **Conclusion** Conclude your answer with a futuristic approach. |
 | --- |
 
 ### Introduction
@@ -33004,7 +33004,7 @@ With the alarming rise in climate change threats, rising sea level is a certain 
 1. Explanation_PWOnlyIAS:
 Source Question: Explain the causes and effects of coastal erosion in India. What are the available coastal management techniques for combating the hazard?
 
-| **Approach:** <br> **Introduction**: <br>• Start your answer by writing about coastal erosion in brief. <br> **Body** <br>• Discuss the Causes and Effects of Coastal Erosion. <br>• Then elaborate the Coastal Management Techniques. <br> **Conclusion** <br>• Summary of the answer with urgent measures needed. |
+| **Approach:** <br> **Introduction** <br>• Start your answer by writing about coastal erosion in brief. <br> **Body** <br>• Discuss the Causes and Effects of Coastal Erosion. <br>• Then elaborate the Coastal Management Techniques. <br> **Conclusion** <br>• Summary of the answer with urgent measures needed. |
 | --- |
 
 ### Introduction
@@ -35503,7 +35503,7 @@ Maritime security is the **"silent guardian"** of India’s economic prosperity.
 1. Explanation_Drishti IAS:
 Source Question: Why is maritime security vital to protect India's sea trade? Discuss maritime and coastal security challenges and the way forward. (250 words)
 
-| **Approach:** <br>• **Introduction:** Define maritime security and its importance to India's sea trade and national interests. <br>• **Body:** Explain its importance for trade, energy, and regional influence; identify key challenges including geopolitical tensions, institutional gaps, and operational threats; suggest reforms in surveillance, coordination, and international cooperation. <br>• **Conclusion** Reaffirm the role of maritime security in protecting India’s trade and ensuring regional leadership. |
+| **Approach:** <br>• **Introduction** Define maritime security and its importance to India's sea trade and national interests. <br>• **Body:** Explain its importance for trade, energy, and regional influence; identify key challenges including geopolitical tensions, institutional gaps, and operational threats; suggest reforms in surveillance, coordination, and international cooperation. <br>• **Conclusion** Reaffirm the role of maritime security in protecting India’s trade and ensuring regional leadership. |
 | --- | **Answer:** Maritime security refers to the protection of a nation’s maritime interests, including sea trade routes, coastal regions, and port infrastructure, from threats like piracy, terrorism, and trafficking. For India, with a 7,500 km coastline and 90% of trade by volume via the sea, it is an economic and strategic lifeline. Ensuring maritime security is essential for energy access, regional leadership, and national resilience.
 
 ### Significance of Maritime Security for India’s Sea Trade
@@ -36252,7 +36252,7 @@ Some of the Important Strengths and Weakness of the Report:
 1. Explanation_PWOnlyIAS:
 Source Question: Sikkim is the first ‘Organic State’ in India. What are the ecological and economic benefits of Organic State?
 
-| **Approach:** <br>• **Introduction:** Brief about India’s organic state set new environmental and economic standards. <br>• **Body:** Discuss about the Economic and environmental benefits of Organic State. <br>• **Conclusion** Conclude your answer with a futuristic Approach. |
+| **Approach:** <br>• **Introduction** Brief about India’s organic state set new environmental and economic standards. <br>• **Body:** Discuss about the Economic and environmental benefits of Organic State. <br>• **Conclusion** Conclude your answer with a futuristic Approach. |
 | --- |
 
 ### Introduction
@@ -38527,7 +38527,7 @@ Q248. Money laundering poses a serious security threat to a country’s economic
 1. Explanation_PWOnlyIAS:
 Source Question: Money laundering poses a serious threat to country’s economic sovereignty. What is its significance for India and what steps are required to be taken to control this menace?
 
-| **Approach:** <br> **Introduction:** <br>• Introduce with a brief explanation of what money laundering is and its implications for India’s economic sovereignty. <br> **Body** <br>• Discuss the different aspects impacted by money laundering. <br>• Identify and mention the measures needed to control money laundering. <br> **Conclusion** <br>• Conclude by summarizing the threat of money laundering to India’s economic sovereignty and the importance of the suggested measures in effectively countering this menace. |
+| **Approach:** <br> **Introduction** <br>• Introduce with a brief explanation of what money laundering is and its implications for India’s economic sovereignty. <br> **Body** <br>• Discuss the different aspects impacted by money laundering. <br>• Identify and mention the measures needed to control money laundering. <br> **Conclusion** <br>• Conclude by summarizing the threat of money laundering to India’s economic sovereignty and the importance of the suggested measures in effectively countering this menace. |
 | --- |
 
 ### Introduction
@@ -38674,7 +38674,7 @@ LWE refers to violent insurgency driven by **Maoist or Naxalite ideologies,** wi
 1. Explanation_Drishti IAS:
 Source Question: The Government of India recently stated that Left Wing Extremism (LWE) will be eliminated by 2026. What do you understand by LWE and how are the people affected by it? What measures have been taken by the government to eliminate LWE? (Answer in 150 words)
 
-| **Approach** <br>• **Introduction:** Define Left-Wing Extremism (LWE) and mention briefly their origin. <br>• **Body:** Discuss the impact of LWE on people, explain the government measures to eliminate LWE and briefly mention the success and progress made. <br>• **Conclusion** Summarise by emphasising the effectiveness of India’s SAMADHAN doctrine, and the need for continued governance and inclusive development. |
+| **Approach** <br>• **Introduction** Define Left-Wing Extremism (LWE) and mention briefly their origin. <br>• **Body:** Discuss the impact of LWE on people, explain the government measures to eliminate LWE and briefly mention the success and progress made. <br>• **Conclusion** Summarise by emphasising the effectiveness of India’s SAMADHAN doctrine, and the need for continued governance and inclusive development. |
 | --- |
 
 ### Introduction
@@ -39523,7 +39523,7 @@ Eg- proximity to **Golden Traingle**
 1. Explanation_Drishti IAS:
 Source Question: What are the major challenges to internal security and peace process in the North-Eastern States? Map the various peace accords and agreements initiated by the government in the past decade. (Answer in 250 words)
 
-| **Approach:** <br>• **Introduction:** Write about the North-Eastern region state included in it. <br>• **Body:** Mention the major internal security challenges faced by the region and recent initiatives to maintain peace in the region. <br>• **Conclusion** Conclude with a way forward approach for everlasting peace in the region. |
+| **Approach:** <br>• **Introduction** Write about the North-Eastern region state included in it. <br>• **Body:** Mention the major internal security challenges faced by the region and recent initiatives to maintain peace in the region. <br>• **Conclusion** Conclude with a way forward approach for everlasting peace in the region. |
 | --- |
 
 ### Introduction
@@ -39868,7 +39868,7 @@ The **zero tolerance against terrorism** strategy needs 4-pronged approach
 1. Explanation_Drishti IAS:
 Source Question: Terrorism is a global scourge. How has it manifested in India? Elaborate with contemporary examples. What are the counter measures adopted by the State? Explain. (150 words)
 
-| **Approach:** <br>• **Introduction:** Define terrorism, its global significance, and its impact on international peace, stability, and human security. <br>• **Body:** Discuss Manifestation of Terrorism in India, Give Contemporary Examples of Terrorism in India, highlight the effectiveness of India’s countermeasures. <br>• **Conclusion** Emphasize the need for continuous adaptation to new threats. |
+| **Approach:** <br>• **Introduction** Define terrorism, its global significance, and its impact on international peace, stability, and human security. <br>• **Body:** Discuss Manifestation of Terrorism in India, Give Contemporary Examples of Terrorism in India, highlight the effectiveness of India’s countermeasures. <br>• **Conclusion** Emphasize the need for continuous adaptation to new threats. |
 | --- |
 
 Under the Bharatiya Nyaya Samhita, "terrorism" is defined as any act committed with the intention to threaten the unity, integrity, and security of India, intimidate the public or a segment thereof, or disturb public order. Globally, it threatens peace, development, and human security, with organizations like ISIS, Al-Qaeda, and Boko Haram spreading fear, destabilizing states, and disrupting international trade and governance.
@@ -41100,7 +41100,7 @@ However, it should also be noted that India’s concerns regarding sovereignty a
 1. Explanation_PWOnlyIAS:
 Source Question: Sikkim is the first ‘Organic State’ in India. What are the ecological and economic benefits of Organic State?
 
-| **Approach:** <br>• **Introduction:** Brief about India’s organic state set new environmental and economic standards. <br>• **Body:** Discuss about the Economic and environmental benefits of Organic State. <br>• **Conclusion** Conclude your answer with a futuristic Approach. |
+| **Approach:** <br>• **Introduction** Brief about India’s organic state set new environmental and economic standards. <br>• **Body:** Discuss about the Economic and environmental benefits of Organic State. <br>• **Conclusion** Conclude your answer with a futuristic Approach. |
 | --- |
 
 ### Introduction

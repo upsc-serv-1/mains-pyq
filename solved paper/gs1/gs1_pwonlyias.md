@@ -329,7 +329,7 @@ The shift from the Rig Vedic to the later Vedic period saw society evolve from a
 
 ### Answer
 
-| **Approach** <br>• **Introduction:** Define what is meant by “geographical factors” <br> **Body** <br>• Write about the Geographical Landscape of Ancient India <br>• Write about the role of Geographical Factors in Development of Ancient India <br> **Conclusion** <br>• Give appropriate conclusion in this regard |
+| **Approach** <br>• **Introduction** Define what is meant by “geographical factors” <br> **Body** <br>• Write about the Geographical Landscape of Ancient India <br>• Write about the role of Geographical Factors in Development of Ancient India <br> **Conclusion** <br>• Give appropriate conclusion in this regard |
 | --- |
 
 ### Introduction
@@ -387,7 +387,7 @@ Overall, it catalysed a rich tapestry of cultural developments, from profound ph
 
 ### Answer
 
-| **Approach:** <br> **Introduction:** <br>• Write about the Sultanate period briefly <br> **Body:** <br>• Write the major technological changes introduced during the Sultanate period <br>• Write how these technological changes influence Indian society <br> **Conclusion** <br>• Give appropriate conclusion in this regard |
+| **Approach:** <br> **Introduction** <br>• Write about the Sultanate period briefly <br> **Body:** <br>• Write the major technological changes introduced during the Sultanate period <br>• Write how these technological changes influence Indian society <br> **Conclusion** <br>• Give appropriate conclusion in this regard |
 | --- |
 
 
@@ -469,7 +469,7 @@ Thus, the Sultanate period marked a pivotal juncture in Indian history, steering
 
 ### Answer
 
-| **Approach:** <br> **Introduction:** <br>• Introduce the Gupta and Chola periods as influential eras in Indian history. <br> **Body** <br>• Discuss contributions of each period in: <br>• Art and Architecture <br>• Sculpture <br>• Literature <br>• Science (Gupta)/Music and Dance (Chola) <br>• Education (Gupta)/Governance (Chola) <br> **Conclusion** <br>• Conclude with the lasting impact of Gupta and Chola periods on India’s cultural heritage. |
+| **Approach:** <br> **Introduction** <br>• Introduce the Gupta and Chola periods as influential eras in Indian history. <br> **Body** <br>• Discuss contributions of each period in: <br>• Art and Architecture <br>• Sculpture <br>• Literature <br>• Science (Gupta)/Music and Dance (Chola) <br>• Education (Gupta)/Governance (Chola) <br> **Conclusion** <br>• Conclude with the lasting impact of Gupta and Chola periods on India’s cultural heritage. |
 | --- |
 
 ### Introduction
@@ -596,7 +596,7 @@ Medieval Indian temple sculptures offer a visual record of social life, reflecti
 
 ### Answer
 
-| **Approach:** <br> **Introduction:** <br>• Introduce the concept of Bhakti Literature in India and its significance. <br> **Body:** <br>• Discuss the nature of Bhakti Literature, including its focus on individual devotion, simple language, and emotional attachment to the divine. <br>• Highlight the contribution of Bhakti Literature to Indian culture, including its role in promoting religious harmony, social equality, and cultural diversity. <br>• Provide examples of how Bhakti Literature influenced various art forms and philosophical and spiritual traditions. <br> **Conclusion** <br>• Conclude by reiterating the significance of Bhakti Literature in Indian culture and its continuing legacy. |
+| **Approach:** <br> **Introduction** <br>• Introduce the concept of Bhakti Literature in India and its significance. <br> **Body:** <br>• Discuss the nature of Bhakti Literature, including its focus on individual devotion, simple language, and emotional attachment to the divine. <br>• Highlight the contribution of Bhakti Literature to Indian culture, including its role in promoting religious harmony, social equality, and cultural diversity. <br>• Provide examples of how Bhakti Literature influenced various art forms and philosophical and spiritual traditions. <br> **Conclusion** <br>• Conclude by reiterating the significance of Bhakti Literature in Indian culture and its continuing legacy. |
 | --- |
 
 ### Introduction
@@ -1394,7 +1394,7 @@ Despite the adversities, tribal communities mounted resistance, both violent and
 
 ### Answer
 
-| **Approach** <br> **Introduction:** Write about Mahatma Gandhi and Rabindranath Tagore briefly <br> **Body:** Write the difference between Mahatma Gandhi and Rabindranath Tagore in their approach towards education <br> Write the difference between Mahatma Gandhi and Rabindranath Tagore in their approach towards nationalism <br> **Conclusion** Give appropriate conclusion in this regard |
+| **Approach** <br> **Introduction** Write about Mahatma Gandhi and Rabindranath Tagore briefly <br> **Body:** Write the difference between Mahatma Gandhi and Rabindranath Tagore in their approach towards education <br> Write the difference between Mahatma Gandhi and Rabindranath Tagore in their approach towards nationalism <br> **Conclusion** Give appropriate conclusion in this regard |
 | --- |
 
 ### Introduction
@@ -2404,7 +2404,7 @@ The involvement of Indian women in the freedom struggle not only paved the way f
 
 ### Answer
 
-| **Approach:** <br> **Introduction:** <br>• Introduce by mentioning that numerous foreign individuals made India their home. <br> **Body:** <br>• Mention their diverse roles and contributions to the struggle for freedom. <br> **Conclusion** <br>• Summarize the significance of the foreign individuals’ contributions to India’s struggle for freedom. |
+| **Approach:** <br> **Introduction** <br>• Introduce by mentioning that numerous foreign individuals made India their home. <br> **Body:** <br>• Mention their diverse roles and contributions to the struggle for freedom. <br> **Conclusion** <br>• Summarize the significance of the foreign individuals’ contributions to India’s struggle for freedom. |
 | --- |
 
 ### Introduction
@@ -2687,7 +2687,7 @@ The Tashkent Agreement was a crucial diplomatic effort to restore peace and stab
 
 ### Answer
 
-| **Approach:** <br> **Introduction:** <br>• Introduce the Bhoodan and Gramdan movements, initiated by Acharya Vinoba Bhave, as efforts to address landlessness and promote equitable land distribution in rural India. <br> **Body** <br>• Write the objectives of Bhoodan and Gramdan movements. <br>• Also, do the critical assessment of its success. <br> **Conclusion** <br>• Conclude, emphasizing their role in raising awareness, inspiring land reforms, and leaving a lasting impact on India’s rural development discourse. |
+| **Approach:** <br> **Introduction** <br>• Introduce the Bhoodan and Gramdan movements, initiated by Acharya Vinoba Bhave, as efforts to address landlessness and promote equitable land distribution in rural India. <br> **Body** <br>• Write the objectives of Bhoodan and Gramdan movements. <br>• Also, do the critical assessment of its success. <br> **Conclusion** <br>• Conclude, emphasizing their role in raising awareness, inspiring land reforms, and leaving a lasting impact on India’s rural development discourse. |
 | --- |
 
 ### Introduction
@@ -3239,7 +3239,7 @@ The Suez Crisis of 1956 was a watershed moment in the decline of Britain’s sel
 
 ### Answer
 
-| **Approach:** <br> **Introduction:** <br>• Briefly introduce the anti-colonial struggle in India and its significance in the context of global political, economic, and social developments. <br> **Body:** <br>• Talk about the major political, economic and social developments in the world which motivated the anti-colonial struggle in India. <br> **Conclusion** <br>• Write a relevant conclusion. |
+| **Approach:** <br> **Introduction** <br>• Briefly introduce the anti-colonial struggle in India and its significance in the context of global political, economic, and social developments. <br> **Body:** <br>• Talk about the major political, economic and social developments in the world which motivated the anti-colonial struggle in India. <br> **Conclusion** <br>• Write a relevant conclusion. |
 | --- |
 
 ### Introduction
@@ -3975,7 +3975,7 @@ For example: Kerala’s **high literacy** contrasts with Uttar Pradesh’s **low
 
 ### Answer
 
-| **Approach** <br>• **Introduction:** Write “child cuddling” and its traditional role in child socialisation briefly <br> **Body** <br>• Write why child cuddling is now being replaced by mobile phones <br>• Write its impact on the socialization of children <br> **Conclusion** <br>• Give appropriate conclusion in this regard |
+| **Approach** <br>• **Introduction** Write “child cuddling” and its traditional role in child socialisation briefly <br> **Body** <br>• Write why child cuddling is now being replaced by mobile phones <br>• Write its impact on the socialization of children <br> **Conclusion** <br>• Give appropriate conclusion in this regard |
 | --- |
 
 ### Introduction
@@ -4278,7 +4278,7 @@ Synchronizing economic growth with human development is a pivotal necessity for 
 
 ### Answer
 
-| **Approach:** <br> **Introduction:** <br>• Write about fluid and static nature of caste identity briefly <br> **Body** <br>• Write about the Fluid Nature of Caste Identity <br>• Write about the Static Nature of Caste Identity <br> **Conclusion** <br>• Give appropriate conclusion in this regard |
+| **Approach:** <br> **Introduction** <br>• Write about fluid and static nature of caste identity briefly <br> **Body** <br>• Write about the Fluid Nature of Caste Identity <br>• Write about the Static Nature of Caste Identity <br> **Conclusion** <br>• Give appropriate conclusion in this regard |
 | --- |
 
 ### Introduction
@@ -4742,7 +4742,7 @@ Although, the forces of modernization have altered the balance of Indian traditi
 
 ### Answer
 
-| **Approach:** <br> **Introduction:** <br>• Mention about the IT industry and the major locations in India which are the hubs for the IT industry. <br> **Body:** <br>• Mention both the positive and negative socio-economic implications of the IT industries being located in the major cities of India. <br> **Conclusion** <br>• Mention that IT industries are necessary for India’s growth story but it must not be concentrated in major cities. They must be spread across Tier-2 and 3 cities as well for growth to be inclusive. |
+| **Approach:** <br> **Introduction** <br>• Mention about the IT industry and the major locations in India which are the hubs for the IT industry. <br> **Body:** <br>• Mention both the positive and negative socio-economic implications of the IT industries being located in the major cities of India. <br> **Conclusion** <br>• Mention that IT industries are necessary for India’s growth story but it must not be concentrated in major cities. They must be spread across Tier-2 and 3 cities as well for growth to be inclusive. |
 | --- |
 
 ### Introduction
@@ -7673,7 +7673,7 @@ Urban flooding requires a multi-faceted approach that involves improving infrast
 
 ### Answer
 
-| **Approach:** <br> **Introduction:** <br>• Start your answer with discussing major location factors for the iron and steel industries. <br> **Body:** <br>• Discuss the present location factor of iron and steel industries away from the source of raw material. <br> **Conclusion** <br>• Conclude your answer with Suitable factor for the iron and steel industries. |
+| **Approach:** <br> **Introduction** <br>• Start your answer with discussing major location factors for the iron and steel industries. <br> **Body:** <br>• Discuss the present location factor of iron and steel industries away from the source of raw material. <br> **Conclusion** <br>• Conclude your answer with Suitable factor for the iron and steel industries. |
 | --- |
 
 ### Introduction
@@ -7911,7 +7911,7 @@ Interlinking of rivers is a complex and contentious issue. It has the potential 
 
 ### Answer
 
-| **Approach:** <br> **Introduction:** <br>• Define briefly desertification. **Body:** <br>• Discuss restricted by climate boundaries and some reason. <br> **Conclusion** <br>• Conclude your answer with a futuristic approach. |
+| **Approach:** <br> **Introduction** <br>• Define briefly desertification. **Body:** <br>• Discuss restricted by climate boundaries and some reason. <br> **Conclusion** <br>• Conclude your answer with a futuristic approach. |
 | --- |
 
 ### Introduction
@@ -8216,7 +8216,7 @@ IRNSS is a critical technological development for India as it enhances the effic
 
 ### Answer
 
-| **Approach:** <br> **Introduction:** <br>• Write about the Arctic region. **Body:** <br>• Discuss India’ s interest in the Arctic region. <br> **Conclusion** <br>• Conclude your answer with Importance of the Arctic region. |
+| **Approach:** <br> **Introduction** <br>• Write about the Arctic region. **Body:** <br>• Discuss India’ s interest in the Arctic region. <br> **Conclusion** <br>• Conclude your answer with Importance of the Arctic region. |
 | --- |
 
 ### Introduction
@@ -9176,7 +9176,7 @@ The spatial pattern of the iron and steel industry in the world has changed due 
 
 ### Answer
 
-| **Approach:** <br> **Introduction:** <br>• Explain what archipelago is. **Body:** <br>• Explain the geography and physical processes in the formation of these islands of the region. <br> **Conclusion** <br>• Conclude your answer with a summary of the answer. |
+| **Approach:** <br> **Introduction** <br>• Explain what archipelago is. **Body:** <br>• Explain the geography and physical processes in the formation of these islands of the region. <br> **Conclusion** <br>• Conclude your answer with a summary of the answer. |
 | --- |
 
 ### Introduction
@@ -9300,7 +9300,7 @@ The geographic confinement of tropical cyclones to the South China Sea, Bay of B
 
 ### Answer
 
-| **Approach:** <br> **Introduction:** <br>• Start your answer with the history of tea cultivation. <br> **Body:** <br>• Discuss the planters had developed tea gardens all along the Shivaliks and lesser. <br> **Conclusion** <br>• Summary of the answer with futuristic approach. |
+| **Approach:** <br> **Introduction** <br>• Start your answer with the history of tea cultivation. <br> **Body:** <br>• Discuss the planters had developed tea gardens all along the Shivaliks and lesser. <br> **Conclusion** <br>• Summary of the answer with futuristic approach. |
 | --- |
 
 ### Introduction

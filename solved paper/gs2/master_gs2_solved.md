@@ -279,7 +279,7 @@ Thus, the **limited amending power** under **Article 368** makes the Indian Cons
 1. Explanation_Drishti IAS:
 Source Question: Indian Constitution has conferred the amending power on the ordinary legislative institutions with a few procedural hurdles. In view of this statement, examine the procedural and substantive limitations on the amending power of the Parliament to change the Constitution. (250 words)
 
-| **Approach:** <br>• **Introduction:** Begin by briefly explaining the amending power under Article 368 of the Constitution. <br>• **Body:** Discuss the procedural and substantive limitations on the amending power of the Parliament. <br>• Highlight the need for a balance between amendments and continuity in the constitution. <br>• **Conclusion** Conclude with a suitable scholarly remark. |
+| **Approach:** <br>• **Introduction** Begin by briefly explaining the amending power under Article 368 of the Constitution. <br>• **Body:** Discuss the procedural and substantive limitations on the amending power of the Parliament. <br>• Highlight the need for a balance between amendments and continuity in the constitution. <br>• **Conclusion** Conclude with a suitable scholarly remark. |
 | --- |
 
 ### Introduction
@@ -572,7 +572,7 @@ Any new reform is expected to experience a few teething problems. Since it is ex
 1. Explanation_PWOnlyIAS:
 Source Question: Explain the salient features of the constitution (One Hundred and First Amendment) Act, 2016. Do you think it is efficacious enough ‘to remove cascading effect of taxes and provide for common national market for goods and services’?
 
-| **Approach:** <br> **Introduction:** <br>• Introduce the Constitution (One Hundred and First Amendment) Act, 2016, which implemented the Goods and Services Tax (GST) in India, aiming to remove the cascading effect of taxes and create a common national market for goods and services. <br> **Body** <br>• Divide the body into three main sections. <br>• Salient features of the amendment. <br>• Efficacy of GST in achieving objectives. <br>• Concerns and challenges. **Conclusion** <br>• Conclude, emphasizing the need for continued improvement and simplification of the GST system to enhance its overall effectiveness. |
+| **Approach:** <br> **Introduction** <br>• Introduce the Constitution (One Hundred and First Amendment) Act, 2016, which implemented the Goods and Services Tax (GST) in India, aiming to remove the cascading effect of taxes and create a common national market for goods and services. <br> **Body** <br>• Divide the body into three main sections. <br>• Salient features of the amendment. <br>• Efficacy of GST in achieving objectives. <br>• Concerns and challenges. **Conclusion** <br>• Conclude, emphasizing the need for continued improvement and simplification of the GST system to enhance its overall effectiveness. |
 | --- |
 
 ### Introduction
@@ -1202,7 +1202,7 @@ As Justice D.Y. Chandrachud observed, **“Judicial independence is not a privil
 1. Explanation_Drishti IAS:
 Source Question: “Constitutional morality is the fulcrum which acts as an essential check upon the high functionaries and citizens alike…” In view of the above observation of the Supreme Court, explain the concept of constitutional morality and its application to ensure balance between judicial independence and judicial accountability in India. (250 words)
 
-| **Approach :** <br>• **Introduction:** Begin with the Supreme Court’s observation on constitutional morality. <br>• **Body:** Explain the concept of constitutional morality. <br>• Discuss its application to ensure a balance between judicial independence and judicial accountability in India. <br>• **Conclusion** Conclude with a scholarly remark. |
+| **Approach :** <br>• **Introduction** Begin with the Supreme Court’s observation on constitutional morality. <br>• **Body:** Explain the concept of constitutional morality. <br>• Discuss its application to ensure a balance between judicial independence and judicial accountability in India. <br>• **Conclusion** Conclude with a scholarly remark. |
 | --- |
 
 ### Introduction
@@ -2480,7 +2480,7 @@ While the power to pardon is vital as a **safety valve of justice,** it must be 
 1. Explanation_Drishti IAS:
 Source Question: Compare and contrast the President’s power to pardon in India and in the USA. Are there any limits to it in both the countries? What are ‘preemptive pardons’? (Answer in 150 words)
 
-| **Approach:** <br>• **Introduction:** Introduce the concept of presidential pardon powers in both India and the USA, emphasizing their constitutional basis. <br>• **Body:** Compare and contrast the powers of pardon in India and the USA, discussing constitutional provisions, scope, limits, and the concept of preemptive pardons. <br>• **Conclusion** Summarize the key similarities and differences between the two systems and discuss the implications of preemptive pardons. |
+| **Approach:** <br>• **Introduction** Introduce the concept of presidential pardon powers in both India and the USA, emphasizing their constitutional basis. <br>• **Body:** Compare and contrast the powers of pardon in India and the USA, discussing constitutional provisions, scope, limits, and the concept of preemptive pardons. <br>• **Conclusion** Summarize the key similarities and differences between the two systems and discuss the implications of preemptive pardons. |
 | --- |
 
 ### Introduction
@@ -2704,7 +2704,7 @@ India’s collegium ensures independence but **lacks transparency,** whereas the
 1. Explanation_Drishti IAS:
 Source Question: Discuss the evolution of the collegium system in India. Critically examine the advantages and disadvantages of the system of appointment of the Judges of the Supreme Court of India and that of the USA.(250 words)
 
-| **Approach:** <br>• **Introduction:** Provide a brief introduction to the collegium system in India. <br>• **Body:** Discuss the evolution of the collegium system in India. <br>• Critically examine the advantages and disadvantages of the system of appointment of the Judges of the Supreme Court of India and that of the USA. <br>• **Conclusion** Conclude with a suitable way forward. |
+| **Approach:** <br>• **Introduction** Provide a brief introduction to the collegium system in India. <br>• **Body:** Discuss the evolution of the collegium system in India. <br>• Critically examine the advantages and disadvantages of the system of appointment of the Judges of the Supreme Court of India and that of the USA. <br>• **Conclusion** Conclude with a suitable way forward. |
 | --- |
 
 ### Introduction
@@ -4548,7 +4548,7 @@ Source Question: Examine the evolving pattern of Centre-State financial relation
 1. Explanation_Drishti IAS:
 Source Question: Examine the evolving pattern of Centre-State financial relations in the context of planned development in India. How far have the recent reforms impacted the fiscal federalism in India? (250 words)
 
-| **Approach:** <br>• **Introduction:** Provide a brief introduction to the Centre-State financial relations in India. <br>• **Body:** Discuss the evolving pattern of Centre-State financial relations in the context of planned development in India. <br>• Highlight the impact of recent reforms on fiscal federalism in India. <br>• **Conclusion** Conclude with a suitable way forward. |
+| **Approach:** <br>• **Introduction** Provide a brief introduction to the Centre-State financial relations in India. <br>• **Body:** Discuss the evolving pattern of Centre-State financial relations in the context of planned development in India. <br>• Highlight the impact of recent reforms on fiscal federalism in India. <br>• **Conclusion** Conclude with a suitable way forward. |
 | --- |
 
 ### Introduction
@@ -6017,7 +6017,7 @@ The **J&K Legislative Assembly post-2019** is a **restricted legislature,** bala
 1. Explanation_Drishti IAS:
 Source Question: Discuss the nature of Jammu and Kashmir Legislative Assembly after the Jammu and Kashmir Reorganization Act, 2019. Briefly describe the powers and functions of the Assembly of the Union Territory of Jammu and Kashmir. (Answer in 150 words)
 
-| **Approach:** <br>• **Introduction:** Introduce the Jammu and Kashmir Reorganization Act, 2019, explaining its impact on the region by transforming Jammu and Kashmir into a Union Territory. <br>• **Body:** Discuss the nature of the Jammu and Kashmir Legislative Assembly before and after the Reorganization Act. Describe its powers and functions. <br>• **Conclusion** Conclude suitably. |
+| **Approach:** <br>• **Introduction** Introduce the Jammu and Kashmir Reorganization Act, 2019, explaining its impact on the region by transforming Jammu and Kashmir into a Union Territory. <br>• **Body:** Discuss the nature of the Jammu and Kashmir Legislative Assembly before and after the Reorganization Act. Describe its powers and functions. <br>• **Conclusion** Conclude suitably. |
 | --- |
 
 ### Introduction
@@ -6929,7 +6929,7 @@ Local institutions have been able to strengthen democracy at the root level. But
 1. Explanation_PWOnlyIAS:
 Source Question: The strength and sustenance of local institutions in India has shifted from their formative phase of ‘Functions, Functionaries and Funds’ to the contemporary stage of ‘Functionality’. Highlight the critical challenges faced by local institutions in terms of their functionality in recent times.
 
-| **Approach:** <br> **Introduction:** <br>• Begin by highlighting the shift in focus for local institutions in India from ‘Functions, Functionaries, and Funds’ to ‘Functionality’ and emphasize the importance of effective governance, service delivery, and responsiveness to local communities. <br> **Body** <br>• Briefly mention the critical challenges faced by local institutions in terms of functionality. <br> **Conclusion** <br>• Conclude, suggesting potential solutions or recommendations. |
+| **Approach:** <br> **Introduction** <br>• Begin by highlighting the shift in focus for local institutions in India from ‘Functions, Functionaries, and Funds’ to ‘Functionality’ and emphasize the importance of effective governance, service delivery, and responsiveness to local communities. <br> **Body** <br>• Briefly mention the critical challenges faced by local institutions in terms of functionality. <br> **Conclusion** <br>• Conclude, suggesting potential solutions or recommendations. |
 | --- |
 
 ### Introduction
@@ -11366,7 +11366,7 @@ The **Attorney General of India (AG)** is the **highest law officer** of the Uni
 1. Explanation_Drishti IAS:
 Source Question: The Attorney General of India plays a crucial role in guiding the legal framework of the Union Government and ensuring sound governance through legal counsel.” Discuss his responsibilities, rights and limitations in this regard. (Answer in 150 words)
 
-| **Approach:** <br>• **Introduction:** Introduce the role of the Attorney General (AG) of India and his significance within the legal framework of the Union Government. <br>• **Body:** Discuss in detail the responsibilities, rights, and limitations of the AG. <br>• **Conclusion** Conclude suitably. |
+| **Approach:** <br>• **Introduction** Introduce the role of the Attorney General (AG) of India and his significance within the legal framework of the Union Government. <br>• **Body:** Discuss in detail the responsibilities, rights, and limitations of the AG. <br>• **Conclusion** Conclude suitably. |
 | --- |
 
 ### Introduction
@@ -12160,7 +12160,7 @@ Q82. What are the major changes brought in the Arbitration and Conciliation Act,
 1. Explanation_PWOnlyIAS:
 Source Question: What are the major changes brought in the Arbitration and Conciliation Act, 1996 through the recent Ordinance promulgated by the President? How far will it improve India’s dispute resolution mechanism? Discuss. (200 words, 12.5 marks)
 
-| **Approach:** <br> **Introduction** <br>• Introduction: Briefly introduce the Arbitration and Conciliation Act, 1996, and mention the recent ordinance promulgated by the President. <br> **Body** <br>• Discuss the major changes brought in the Act through the ordinance and analyze how these changes would improve India’s dispute resolution mechanism. <br> **Conclusion** <br>• Sum up the potential impact of the changes on India’s dispute resolution mechanism. |
+| **Approach:** <br> **Introduction** <br>• Introduction Briefly introduce the Arbitration and Conciliation Act, 1996, and mention the recent ordinance promulgated by the President. <br> **Body** <br>• Discuss the major changes brought in the Act through the ordinance and analyze how these changes would improve India’s dispute resolution mechanism. <br> **Conclusion** <br>• Sum up the potential impact of the changes on India’s dispute resolution mechanism. |
 | --- |
 
 ### Introduction
@@ -12764,7 +12764,7 @@ Tribunal reforms must balance **judicial efficiency** with **specialized experti
 1. Explanation_Drishti IAS:
 Source Question: Comment on the need of administrative tribunals as compared to the court system. Assess the impact of the recent tribunal reforms through rationalization of tribunals made in 2021. (Answer in 150 words)
 
-| **Approach:** <br>• **Introduction:** Introduce the need for administrative tribunals and their role in providing an alternative to the traditional court system. <br>• **Body:** Discuss the need and advantages of administrative tribunals over the court system, and then assess the impact of the tribunal reforms of 2021, including the rationalization process. <br>• **Conclusion** Conclude by summarizing the impact of the tribunal reforms and their potential for improving the administrative justice system. |
+| **Approach:** <br>• **Introduction** Introduce the need for administrative tribunals and their role in providing an alternative to the traditional court system. <br>• **Body:** Discuss the need and advantages of administrative tribunals over the court system, and then assess the impact of the tribunal reforms of 2021, including the rationalization process. <br>• **Conclusion** Conclude by summarizing the impact of the tribunal reforms and their potential for improving the administrative justice system. |
 | --- |
 
 ### Introduction
@@ -13761,7 +13761,7 @@ Thus, the disqualification provisions ensure the **trinity of Ethics, Accountabi
 1. Explanation_Drishti IAS:
 Source Question: Discuss the ‘corrupt practices’ for the purpose of the Representation of the People Act, 1951. Analyze whether the increase in the assets of the legislators and/or their associates, disproportionate to their known sources of income, would constitute ‘undue influence’ and consequently a corrupt practice. (Answer in 150 words)
 
-| **Approach** <br>• **Introduction:** Define the term "corrupt practices" under the Representation of the People Act, 1951. <br>• **Body:** Elaborate on specific corrupt practices defined in the Act, focusing on undue influence and the interpretation of disproportionate asset increase as a potential corrupt practice. <br>• **Conclusion** Conclude suitably. |
+| **Approach** <br>• **Introduction** Define the term "corrupt practices" under the Representation of the People Act, 1951. <br>• **Body:** Elaborate on specific corrupt practices defined in the Act, focusing on undue influence and the interpretation of disproportionate asset increase as a potential corrupt practice. <br>• **Conclusion** Conclude suitably. |
 | --- |
 
 ### Introduction
@@ -17577,7 +17577,7 @@ The **NCPCR,** established under the **Commission for Protection of Child Rights
 1. Explanation_Drishti IAS:
 Source Question: The National Commission for Protection of Child Rights has to address the challenges faced by children in the digital era. Examine the existing policies and suggest measures the Commission can initiate to tackle the issue. (Answer in 250 words)
 
-| **Approach:** <br>• **Introduction:** Briefly introduce the NCPCR and its mandate to safeguard children's rights, especially in the context of the digital era. <br>• **Body: Mention Digital Era Challenges for Children, Examine Existing Policies and Gaps and Measures NCPCR Can Initiate.** <br>• **Conclusion** Highlight NCPCR’s role in legal reform and digital literacy to protect children's rights, in line with DPSPs such as Article 39(e) and (f). |
+| **Approach:** <br>• **Introduction** Briefly introduce the NCPCR and its mandate to safeguard children's rights, especially in the context of the digital era. <br>• **Body: Mention Digital Era Challenges for Children, Examine Existing Policies and Gaps and Measures NCPCR Can Initiate.** <br>• **Conclusion** Highlight NCPCR’s role in legal reform and digital literacy to protect children's rights, in line with DPSPs such as Article 39(e) and (f). |
 | --- |
 
 ### Introduction
@@ -18905,7 +18905,7 @@ The projects pertaining to these 7 engines in the “National Infrastructure Pip
 1. Explanation_PWOnlyIAS:
 Source Question: The Gati-Shakti Yojana needs meticulous co-ordination between the government and the private sector to achieve the goal of connectivity. Discuss.
 
-| **Approach:** <br>• **Introduction:** Introduce the Gati-Shakti Yojana and its objective of improving multi-modal connectivity across India. <br>• **Body** Discuss the need for meticulous coordination between the government and the private sector. <br>• **Conclusion** Conclude, highlighting its potential impact on India’s infrastructure development and economic growth. |
+| **Approach:** <br>• **Introduction** Introduce the Gati-Shakti Yojana and its objective of improving multi-modal connectivity across India. <br>• **Body** Discuss the need for meticulous coordination between the government and the private sector. <br>• **Conclusion** Conclude, highlighting its potential impact on India’s infrastructure development and economic growth. |
 | --- |
 
 ### Introduction
@@ -19245,7 +19245,7 @@ Development is most effective when **decisions are taken close to where problems
 1. Explanation_Drishti IAS:
 Source Question: “In contemporary development models, decision-making and problem-solving responsibilities are not located close to the source of information and execution, defeating the objectives of development.” Critically evaluate. (Answer in 250 words)
 
-| **Approach:** <br>• **Introduction:** Define the issue: Decision-making should be close to the people, but centralization creates a disconnect in many development models. <br>• **Body:** Mention Why Localized Decision-Making Matters, How Centralized Models Defeat Development Goals. <br>• Provide Critical Evaluation and establish the need for a balanced approach. Suggest a Way Forward. <br>• **Conclusion** Emphasize that development thrives with decentralized decision-making, supported by central expertise, for sustainable growth. |
+| **Approach:** <br>• **Introduction** Define the issue: Decision-making should be close to the people, but centralization creates a disconnect in many development models. <br>• **Body:** Mention Why Localized Decision-Making Matters, How Centralized Models Defeat Development Goals. <br>• Provide Critical Evaluation and establish the need for a balanced approach. Suggest a Way Forward. <br>• **Conclusion** Emphasize that development thrives with decentralized decision-making, supported by central expertise, for sustainable growth. |
 | --- |
 
 ### Introduction
@@ -20154,7 +20154,7 @@ Source Question: Civil Society Organizations are often perceived as being anti-S
 1. Explanation_Drishti IAS:
 Source Question: Civil Society Organizations are often perceived as being anti-State actors than non-State actors. Do you agree? Justify. (Answer in 150 words)
 
-| **Approach**: <br>• **introduction:** Define Civil Society Organizations (CSOs) and clarify their role in society, addressing their perception as anti-State actors. <br>• **Body**: Discuss the role of CSOs in policy-making, their interactions with the state, and instances where they are perceived as anti-State. <br>• **Conclusion** Conclude suitably. |
+| **Approach**: <br>• **introduction** Define Civil Society Organizations (CSOs) and clarify their role in society, addressing their perception as anti-State actors. <br>• **Body**: Discuss the role of CSOs in policy-making, their interactions with the state, and instances where they are perceived as anti-State. <br>• **Conclusion** Conclude suitably. |
 | --- |
 
 ### Introduction
@@ -21887,7 +21887,7 @@ Thus, Donor agencies are humanitarian but if we get over-dependent on them, then
 1. Explanation_PWOnlyIAS:
 Source Question: Do you agree with the view that increasing dependence on donor agencies for development reduces the importance of community participation in the development process? Justify your answer.
 
-| **Approach:** <br>• **Introduction:** Introduce the growing role of donor agencies in financing development projects in India and express the concern that their increasing involvement may affect community participation in the development process. <br>• **Body** Discuss the potential negative effects of increased dependence on donor agencies, such as reduced ownership, top-down approaches, and bureaucratic hurdles, while also highlighting the positive aspects, including capacity building, inclusive development strategies, and leveraging local knowledge. <br>• **Conclusion** Write a relevant conclusion, emphasizing on achieving sustainable and inclusive development outcomes that benefit India’s diverse population. |
+| **Approach:** <br>• **Introduction** Introduce the growing role of donor agencies in financing development projects in India and express the concern that their increasing involvement may affect community participation in the development process. <br>• **Body** Discuss the potential negative effects of increased dependence on donor agencies, such as reduced ownership, top-down approaches, and bureaucratic hurdles, while also highlighting the positive aspects, including capacity building, inclusive development strategies, and leveraging local knowledge. <br>• **Conclusion** Write a relevant conclusion, emphasizing on achieving sustainable and inclusive development outcomes that benefit India’s diverse population. |
 | --- |
 
 ### Introduction
@@ -24776,7 +24776,7 @@ Q167. Electronic cash transfer system for the welfare schemes is an ambitious pr
 1. Explanation_PWOnlyIAS:
 Source Question: Electronic cash transfer system for the welfare schemes is an ambitious project to minimize corruption, eliminate wastage and facilitate reforms. Comment.
 
-| **Approach:** <br>• **Introduction:** The introduction would present an overview of the Indian government’s electronic cash transfer system, Direct Benefit Transfer (DBT). <br>• **Body** <br>• Discuss how DBT reduces corruption by eliminating intermediaries and directly transferring benefits to recipients. <br>• How DBT can reduce wastage by ensuring accurate targeting of beneficiaries. <br>• Explain how DBT can lay the groundwork for more effective and efficient welfare schemes and promote financial inclusion. <br>• Discuss how DBT enhances transparency and accountability in welfare services, providing the example of the Mahatma Gandhi National Rural Employment Guarantee Act (MGNREGA) to substantiate the point. <br>• Substantiate writing suitable examples. <br>• **Conclusion** The conclusion would acknowledge the potential challenges in implementing DBT, such as digital literacy, inadequate banking infrastructure, and internet connectivity issues. It would then reiterate that despite these challenges, DBT holds significant potential to revolutionize the delivery of welfare services in India by minimizing corruption, eliminating wastage, and facilitating reforms. |
+| **Approach:** <br>• **Introduction** The introduction would present an overview of the Indian government’s electronic cash transfer system, Direct Benefit Transfer (DBT). <br>• **Body** <br>• Discuss how DBT reduces corruption by eliminating intermediaries and directly transferring benefits to recipients. <br>• How DBT can reduce wastage by ensuring accurate targeting of beneficiaries. <br>• Explain how DBT can lay the groundwork for more effective and efficient welfare schemes and promote financial inclusion. <br>• Discuss how DBT enhances transparency and accountability in welfare services, providing the example of the Mahatma Gandhi National Rural Employment Guarantee Act (MGNREGA) to substantiate the point. <br>• Substantiate writing suitable examples. <br>• **Conclusion** The conclusion would acknowledge the potential challenges in implementing DBT, such as digital literacy, inadequate banking infrastructure, and internet connectivity issues. It would then reiterate that despite these challenges, DBT holds significant potential to revolutionize the delivery of welfare services in India by minimizing corruption, eliminating wastage, and facilitating reforms. |
 | --- |
 
 ### Introduction
@@ -25678,7 +25678,7 @@ While the government and the judiciary have adopted a right based approach with 
 1. Explanation_PWOnlyIAS:
 Source Question: The Rights of Persons with Disabilities Act, 2016 remains only a legal document without intense sensitisation of government functionaries and citizens regarding disability. Comment.
 
-| **Approach:** <br>• **Introduction:** Introduce the Rights of Persons with Disabilities Act, 2016 and its objectives. <br>• **Body** Discuss the importance of sensitization in areas such as awareness and understanding, changing mindsets and attitudes, capacity building, accessibility, and collaborative efforts. <br>• **Conclusion** Summarize the significance of sensitization for the success of the RPWD Act and its potential impact on the lives of persons with disabilities. |
+| **Approach:** <br>• **Introduction** Introduce the Rights of Persons with Disabilities Act, 2016 and its objectives. <br>• **Body** Discuss the importance of sensitization in areas such as awareness and understanding, changing mindsets and attitudes, capacity building, accessibility, and collaborative efforts. <br>• **Conclusion** Summarize the significance of sensitization for the success of the RPWD Act and its potential impact on the lives of persons with disabilities. |
 | --- |
 
 ### Introduction
@@ -26411,7 +26411,7 @@ Adopting **ILO’s 5Rs** (recognition, reduction, redistribution, reward, repres
 1. Explanation_Drishti IAS:
 Source Question: Women’s social capital complements in advancing empowerment and gender equity. Explain. (Answer in 150 words)
 
-| **Approach:** <br>• **Introduction:** Define social capital and its relevance to women's empowerment and gender equity. <br>• **Body:** Address the role of women's social capital in fostering empowerment and equity, focusing on SHGs, Lakhpati Didi initiative, and their impact. <br>• **Conclusion** Conclude with the significance of women's social capital in socio-economic development. |
+| **Approach:** <br>• **Introduction** Define social capital and its relevance to women's empowerment and gender equity. <br>• **Body:** Address the role of women's social capital in fostering empowerment and equity, focusing on SHGs, Lakhpati Didi initiative, and their impact. <br>• **Conclusion** Conclude with the significance of women's social capital in socio-economic development. |
 | --- |
 
 ### Introduction
@@ -27821,7 +27821,7 @@ As recognized in the 2018 Astana Declaration, the Primary Health Care approach i
 1. Explanation_PWOnlyIAS:
 Source Question: “Besides being a moral imperative of a Welfare State, primary health structure is a necessary precondition for sustainable development.” Analyse.
 
-| **Approach:** <br>• **Introduction:** Briefly introduce the concept of primary health care as a moral imperative of a welfare state. <br>• **Body** <br>• Analyse its role as a necessary precondition for sustainable development. <br>• You can start by mentioning case studies of TN, Kerala , Delhi etc. <br>• **Conclusion** Write a relevant conclusion. |
+| **Approach:** <br>• **Introduction** Briefly introduce the concept of primary health care as a moral imperative of a welfare state. <br>• **Body** <br>• Analyse its role as a necessary precondition for sustainable development. <br>• You can start by mentioning case studies of TN, Kerala , Delhi etc. <br>• **Conclusion** Write a relevant conclusion. |
 | --- |
 
 ### Introduction
@@ -28333,7 +28333,7 @@ Q192. Public health system has limitations in providing universal health coverag
 1. Explanation_PWOnlyIAS:
 Source Question: Public health system has limitations in providing universal health coverage. Do you think that the private sector could help in bridging the gap? What other viable alternatives would you suggest? (200 words, 12.5 marks)
 
-| **Approach:** <br>• **Introduction:** Begin by acknowledging the limitations of the public health system in providing universal health coverage. <br>• **Body** <br>• Discuss how the private sector can contribute to expanding healthcare coverage. <br>• Outline additional solutions to supplement the role of the private sector. <br>• **Conclusion** Conclude by summarizing the potential of the private sector and the other alternatives in bridging the gap in universal health coverage. |
+| **Approach:** <br>• **Introduction** Begin by acknowledging the limitations of the public health system in providing universal health coverage. <br>• **Body** <br>• Discuss how the private sector can contribute to expanding healthcare coverage. <br>• Outline additional solutions to supplement the role of the private sector. <br>• **Conclusion** Conclude by summarizing the potential of the private sector and the other alternatives in bridging the gap in universal health coverage. |
 | --- |
 
 ### Introduction
@@ -29597,7 +29597,7 @@ Ending hunger and malnutrition will not be achieved by focusing on food security
 1. Explanation_PWOnlyIAS:
 Source Question: How far do you agree with the view that the focus on lack of availability of food as the main cause of hunger takes the attention away from ineffective human development policies in India?
 
-| **Approach:** <br> **Introduction:** <br>• Introduce the issue of hunger in India and the debate on whether focusing on the lack of food availability distracts from ineffective human development policies. <br> **Body** <br>• Discuss the impact of ineffective human development policies on hunger and malnutrition, focusing on aspects like education, health, and social protection, and providing relevant examples. <br>• Explain the interconnectedness of food availability and human development policies, with examples illustrating the importance of a comprehensive approach that includes agricultural policies and infrastructure development. <br> **Conclusion** <br>• Write a relevant conclusion. |
+| **Approach:** <br> **Introduction** <br>• Introduce the issue of hunger in India and the debate on whether focusing on the lack of food availability distracts from ineffective human development policies. <br> **Body** <br>• Discuss the impact of ineffective human development policies on hunger and malnutrition, focusing on aspects like education, health, and social protection, and providing relevant examples. <br>• Explain the interconnectedness of food availability and human development policies, with examples illustrating the importance of a comprehensive approach that includes agricultural policies and infrastructure development. <br> **Conclusion** <br>• Write a relevant conclusion. |
 | --- |
 
 ### Introduction
@@ -29921,7 +29921,7 @@ The **“paradox of poverty”** refers to the coexistence of **abundant resourc
 1. Explanation_Drishti IAS:
 Source Question: Inequality in the ownership pattern of resources is one of the major causes of poverty. Discuss in the context of 'paradox of poverty'. (Answer in 250 words)
 
-| **Approach:** <br>• **Introduction:** Define the "Paradox of Poverty" - coexistence of abundant resources and widespread poverty. <br>• You may use an arrow diagram or formula presentation for enhancing the introduction. <br>• **Body:** Mention Key Aspects of the Paradox, Inequality in Ownership of Resources and propose a Way forward <br>• Cite statistics and reports (e.g., Oxfam, NITI Aayog) to support your arguments. <br>• **Conclusion** End with a scholar's view (e.g., Mark Rank) that poverty is a systemic issue, not individual failings, and a forward-looking approach. |
+| **Approach:** <br>• **Introduction** Define the "Paradox of Poverty" - coexistence of abundant resources and widespread poverty. <br>• You may use an arrow diagram or formula presentation for enhancing the introduction. <br>• **Body:** Mention Key Aspects of the Paradox, Inequality in Ownership of Resources and propose a Way forward <br>• Cite statistics and reports (e.g., Oxfam, NITI Aayog) to support your arguments. <br>• **Conclusion** End with a scholar's view (e.g., Mark Rank) that poverty is a systemic issue, not individual failings, and a forward-looking approach. |
 | --- |
 
 ### Introduction
@@ -30607,7 +30607,7 @@ The MPI methodology shows aspects in which the poor are deprived and helps to re
 1. Explanation_PWOnlyIAS:
 Source Question: “The incidence and intensity of poverty are more important in determining poverty based on income alone”. In this context analyse the latest United Nations Multidimensional Poverty Index Report.
 
-| **Approach:** <br>• **Introduction:** Introduce the United Nations Multidimensional Poverty Index (MPI) as a more comprehensive measure of poverty, considering both incidence and intensity of deprivations across multiple dimensions. <br>• **Body** <br>• Explain how it offers a better understanding of poverty compared to income-based measures. <br>• Discuss the insights and analysis provided by the latest United Nations Multidimensional Poverty Index Report. <br>• **Conclusion** Emphasize how the insights from the report can inform policymakers in designing more effective interventions to alleviate multidimensional poverty and improve overall well-being. |
+| **Approach:** <br>• **Introduction** Introduce the United Nations Multidimensional Poverty Index (MPI) as a more comprehensive measure of poverty, considering both incidence and intensity of deprivations across multiple dimensions. <br>• **Body** <br>• Explain how it offers a better understanding of poverty compared to income-based measures. <br>• Discuss the insights and analysis provided by the latest United Nations Multidimensional Poverty Index Report. <br>• **Conclusion** Emphasize how the insights from the report can inform policymakers in designing more effective interventions to alleviate multidimensional poverty and improve overall well-being. |
 | --- |
 
 ### Introduction
@@ -31525,7 +31525,7 @@ The **digital partnership** reflects a **new model of South-South cooperation fo
 1. Explanation_Drishti IAS:
 Source Question: India-Africa digital partnership is achieving mutual respect, co-development and long-term institutional partnerships. Elaborate. (Answer in 150 words)
 
-| **Approach:** <br>• **Introduction:** Briefly introduce the India-Africa digital partnership, highlighting its shift towards mutual respect, co-development, and institutional partnerships. <br>• **Body:** Discuss the growth of digital collaboration between India and Africa, focusing on specific examples of mutual benefits, the digital strategies employed, and challenges faced. <br>• **Conclusion** Conclude by highlighting the partnership's long-term potential for inclusive development and digital transformation in Africa. |
+| **Approach:** <br>• **Introduction** Briefly introduce the India-Africa digital partnership, highlighting its shift towards mutual respect, co-development, and institutional partnerships. <br>• **Body:** Discuss the growth of digital collaboration between India and Africa, focusing on specific examples of mutual benefits, the digital strategies employed, and challenges faced. <br>• **Conclusion** Conclude by highlighting the partnership's long-term potential for inclusive development and digital transformation in Africa. |
 | --- |
 
 ### Introduction
@@ -34557,7 +34557,7 @@ India is the **world’s 3rd largest energy consumer,** importing **over 85% of 
 1. Explanation_Drishti IAS:
 Source Question: “Energy security constitutes the dominant kingpin of India’s foreign policy, and is linked with India’s overarching influence in Middle Eastern countries.” How would you integrate energy security with India’s foreign policy trajectories in the coming years? (Answer in 250 words)
 
-| **Approach:** <br>• **Introduction:** Highlight energy security as a key pillar of India's foreign policy, given its high dependence on crude oil and LPG imports from the Middle East, and its role in enhancing India’s geopolitical influence in the Gulf. <br>• **Body:** Mention Why Energy Security is the "Kingpin", Integrating Energy Security with Foreign Policy. <br>• Mention Risk Management and Hedging as Way forward. <br>• **Conclusion** Emphasize energy security's role in strengthening India’s foreign policy, securing supplies, and positioning India as a key energy hub, boosting its influence in the Middle East. |
+| **Approach:** <br>• **Introduction** Highlight energy security as a key pillar of India's foreign policy, given its high dependence on crude oil and LPG imports from the Middle East, and its role in enhancing India’s geopolitical influence in the Gulf. <br>• **Body:** Mention Why Energy Security is the "Kingpin", Integrating Energy Security with Foreign Policy. <br>• Mention Risk Management and Hedging as Way forward. <br>• **Conclusion** Emphasize energy security's role in strengthening India’s foreign policy, securing supplies, and positioning India as a key energy hub, boosting its influence in the Middle East. |
 | --- |
 
 ### Introduction
@@ -37323,7 +37323,7 @@ As UN Secretary General **Antonio Guterres** put it, we can’t create a future 
 1. Explanation_Drishti IAS:
 Source Question: “The reform process in the United Nations remains unresolved, because of the delicate imbalance of East and West and entanglement of the USA vs. Russo-Chinese alliance.” Examine and critically evaluate the East-West policy confrontations in this regard. (Answer in 250 words)
 
-| **Approach:** <br>• **Introduction:** Highlight that UN reform, especially of the Security Council, is stalled due to East-West confrontations, primarily between the US-led West and Russo-Chinese alliance. <br>• **Body:** Mention East-West Policy Confrontations and Why UN Reforms Stall. And provide critical evaluation. <br>• **Conclusion** Stress that UN reform is urgent for its relevance, and coalition-building among the Global South is key to maintaining momentum. |
+| **Approach:** <br>• **Introduction** Highlight that UN reform, especially of the Security Council, is stalled due to East-West confrontations, primarily between the US-led West and Russo-Chinese alliance. <br>• **Body:** Mention East-West Policy Confrontations and Why UN Reforms Stall. And provide critical evaluation. <br>• **Conclusion** Stress that UN reform is urgent for its relevance, and coalition-building among the Global South is key to maintaining momentum. |
 | --- |
 
 ### Introduction
