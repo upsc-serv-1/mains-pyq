@@ -888,34 +888,34 @@ Source Question: “The most significant achievement of modern law in India is t
 
 1. Industrial Pollution
 
-- **MC Mehta v. Union of India (Oleum Gas Leak, 1986)** - Established **Absolute Liability** for hazardous industries.
+  - **MC Mehta v. Union of India (Oleum Gas Leak, 1986)** - Established **Absolute Liability** for hazardous industries.
 
-- **Indian Council for Enviro-Legal Action v. UOI (1996)** - Applied **Polluter Pays Principle.
+  - **Indian Council for Enviro-Legal Action v. UOI (1996)** - Applied **Polluter Pays Principle.
 2. Water Pollution
 
-- **MC Mehta v. UOI (Ganga Pollution, 1988)** - Ordered closure of **polluting tanneries.
-- **Paryavaran Suraksha Samiti v. UOI (2017)** - Directed installation of **Sewage Treatment Plants (STPs).
+  - **MC Mehta v. UOI (Ganga Pollution, 1988)** - Ordered closure of **polluting tanneries.
+  - **Paryavaran Suraksha Samiti v. UOI (2017)** - Directed installation of **Sewage Treatment Plants (STPs).
 3. Air Pollution
 
-- **MC Mehta v. UOI (Delhi Pollution, 1998)** - Mandated conversion of public transport to **CNG.
-- **MC Mehta v. UOI (Firecrackers, 2024)** - Imposed ban to ensure **clean air.
+  - **MC Mehta v. UOI (Delhi Pollution, 1998)** - Mandated conversion of public transport to **CNG.
+  - **MC Mehta v. UOI (Firecrackers, 2024)** - Imposed ban to ensure **clean air.
 4. Deforestation & Forest Rights
 
-- **T.N. Godavarman v. UOI (1997-ongoing)** - Continuous mandamus for **forest conservation.
-- **Niyamgiri Case (2013)** - Empowered **Gram Sabha** to protect **tribal rights.
+  - **T.N. Godavarman v. UOI (1997-ongoing)** - Continuous mandamus for **forest conservation.
+  - **Niyamgiri Case (2013)** - Empowered **Gram Sabha** to protect **tribal rights.
 5. Climate Change
 
-- **M.K. Ranjitsinh v. UOI (2024)** - Recognised **Right against adverse climate impacts** under **Articles 14 and 21.
+  - **M.K. Ranjitsinh v. UOI (2024)** - Recognised **Right against adverse climate impacts** under **Articles 14 and 21.
 6. Natural Resources
 
-- **MC Mehta v. Kamal Nath (1997)** - Applied **Public Trust Doctrine** to rivers.
+  - **MC Mehta v. Kamal Nath (1997)** - Applied **Public Trust Doctrine** to rivers.
 
-- **Reliance Natural Resources v. RIL (2010)** - Declared **natural resources as public property.
+  - **Reliance Natural Resources v. RIL (2010)** - Declared **natural resources as public property.
 7. Development Projects
 
-- **Narmada Bachao Andolan v. UOI (2000)** - Integrated **sustainable development** into constitutional law.
+  - **Narmada Bachao Andolan v. UOI (2000)** - Integrated **sustainable development** into constitutional law.
 
-- **Vanashakti v. UOI (2024)** - Stressed need for **prior environmental clearance.
+  - **Vanashakti v. UOI (2024)** - Stressed need for **prior environmental clearance.
 As Justice P.N. Bhagwati observed, **“Right to life includes the right to live with human dignity”** - and dignity today is inseparable from a **clean and healthy environment.
 
 1. Explanation_Drishti IAS:
@@ -2670,13 +2670,13 @@ In India, this evolved through **judicial interpretation,** whereas in the **USA
 
 7. **Present Status**
 
-- **Collegium Composition-**
+  - **Collegium Composition-**
 
   - **Supreme Court-** CJI + 4 senior-most judges.
 
   - **High Court-** Chief Justice + 2 senior-most judges.
 
-- **Executive Role-** Can **seek reconsideration once,** but must **accept the collegium’s recommendation** thereafter.
+  - **Executive Role-** Can **seek reconsideration once,** but must **accept the collegium’s recommendation** thereafter.
 
 In the USA, Judges of the Supreme Court are **nominated by the President** and **confirmed by the Senate** after public hearings.
 
@@ -3963,15 +3963,15 @@ Between 1950-1990, it was invoked over **90 times.** However, since the **mid-19
 1. The **38th Amendment (1975)** made President’s Rule immune from judicial review, but the **44th Amendment (1978)** reversed this, restoring **judicial scrutiny.
 **2. S.R. Bommai v. Union of India (1994) Guidelines**
 
-- **Judicial Review** - Proclamation under Article 356 subject to court scrutiny.
+  - **Judicial Review** - Proclamation under Article 356 subject to court scrutiny.
 
-- **Floor Test Rule** - Majority to be tested on the floor of the House, not decided by Governor/President.
+  - **Floor Test Rule** - Majority to be tested on the floor of the House, not decided by Governor/President.
 
-- **Limits on Dissolution** - Assembly cannot be dissolved before Parliament approves President’s Rule.
+  - **Limits on Dissolution** - Assembly cannot be dissolved before Parliament approves President’s Rule.
 
-- **Non-Arbitrariness** - Political differences or administrative failures do not justify dismissal.
+  - **Non-Arbitrariness** - Political differences or administrative failures do not justify dismissal.
 
-- **Basic Structure Check** - Federalism held as part of the Basic Structure; arbitrary use of Article 356 violates it.
+  - **Basic Structure Check** - Federalism held as part of the Basic Structure; arbitrary use of Article 356 violates it.
 
   - **Subsequent Judicial Oversight** - SC interventions in **Uttarakhand (2016)** and **Arunachal Pradesh (2016)** reinstated governments, reinforcing judicial limits on Centre’s power.
 
@@ -3993,20 +3993,20 @@ Though the frequency of **Article 356** has reduced, instances like **Maharashtr
 
 1. **Punchhi Commission**
 
-- **Localized use** of Article 356 - applicable to a **district or part of a district,** not the whole State.
+  - **Localized use** of Article 356 - applicable to a **district or part of a district,** not the whole State.
 
-- Emergency duration should be **limited to 3 months** only.
+  - Emergency duration should be **limited to 3 months** only.
 
 **2. Sarkaria Commission**
 
-- **Last resort** - Invoke Article 356 only when all alternatives fail.
+  - **Last resort** - Invoke Article 356 only when all alternatives fail.
 
-- **Prior warning** to the State and exploration of alternate solutions required.
+  - **Prior warning** to the State and exploration of alternate solutions required.
 
-- **Proclamation must state material facts,** ensuring **Parliamentary control.
-- **Governor’s report** should be a **speaking document** with wide publicity.
+  - **Proclamation must state material facts,** ensuring **Parliamentary control.
+  - **Governor’s report** should be a **speaking document** with wide publicity.
 
-- Obtain **State’s explanation** before action.
+  - Obtain **State’s explanation** before action.
 
 **Federalism**
 
@@ -4488,30 +4488,30 @@ Source Question: Examine the evolving pattern of Centre-State financial relation
 
 1. 1950-1990- Centralised Planning Era
 
-- The **Planning Commission controlled transfers** through discretionary plan grants.
+  - The **Planning Commission controlled transfers** through discretionary plan grants.
 
-- The **Finance Commission played a limited role** in fiscal transfers.
+  - The **Finance Commission played a limited role** in fiscal transfers.
 
-- The **Centre shaped State priorities** through proliferation of CSS.
+  - The **Centre shaped State priorities** through proliferation of CSS.
 
 2. 1991-2014- Reform & Decentralisation Phase
 
-- **Economic liberalisation gave States more fiscal autonomy** in revenue and expenditure.
+  - **Economic liberalisation gave States more fiscal autonomy** in revenue and expenditure.
 
-- **Introduction of VAT (2005) boosted State revenues** through a buoyant tax base.
+  - **Introduction of VAT (2005) boosted State revenues** through a buoyant tax base.
 
-- **CSS were rationalised but tied funds still constrained State flexibility.
+  - **CSS were rationalised but tied funds still constrained State flexibility.
 3. 2015 onwards- New Federalism Phase
 
-- The **14th Finance Commission raised devolution to 42%,** enhancing fiscal space for States.
+  - The **14th Finance Commission raised devolution to 42%,** enhancing fiscal space for States.
 
-- **NITI Aayog replaced the Planning Commission** and adopted a consultative approach.
+  - **NITI Aayog replaced the Planning Commission** and adopted a consultative approach.
 
 <p align="center"><img src="civilsdaily/images/civilsdaily_p19_img59.png" alt="Diagram" /></p>
 
-- **GST (2017) introduced pooled sovereignty** and created a shared tax regime.
+  - **GST (2017) introduced pooled sovereignty** and created a shared tax regime.
 
-- The **15th Finance Commission continued 41% devolution** but increased performance-linked grants.
+  - The **15th Finance Commission continued 41% devolution** but increased performance-linked grants.
 
 **Impact of Recent Reforms on Fiscal Federalism**
 
@@ -4701,89 +4701,89 @@ As per **Granville Austin,** India is a **“cooperative federalism” model,** 
 
 1. Legislative
 
-- **Farm Acts, 2020** - Parliament legislated in agriculture (State subject) under Concurrent List.
+  - **Farm Acts, 2020** - Parliament legislated in agriculture (State subject) under Concurrent List.
 
-- **GNCTD (Amendment) Act, 2021** - Enhanced LG’s powers in Delhi.
+  - **GNCTD (Amendment) Act, 2021** - Enhanced LG’s powers in Delhi.
 
-- **All India Services rules amendment** - Greater Centre control over deputation/discipline.
+  - **All India Services rules amendment** - Greater Centre control over deputation/discipline.
 
 2. Executive / Institutional
 
-- **Governor-State tensions** - Delayed assent to bills (TN, Kerala, WB).
+  - **Governor-State tensions** - Delayed assent to bills (TN, Kerala, WB).
 
-- **Pandemic handling** - Centralised lockdown and restrictions.
+  - **Pandemic handling** - Centralised lockdown and restrictions.
 
-- **Revival of Inter-State Council**
+  - **Revival of Inter-State Council**
 
-- **NITI Aayog** - Replaced Planning Commission
+  - **NITI Aayog** - Replaced Planning Commission
 
 3. Financial
 
-- **15th Finance Commission** - New devolution formula using 2011 census and performance criteria.
+  - **15th Finance Commission** - New devolution formula using 2011 census and performance criteria.
 
-- **GST Council** - Extended GST compensation cess.
+  - **GST Council** - Extended GST compensation cess.
 
-- **Rise in cess & surcharges** - increased from 10.4% in 2011-12 to 20% in 2021-22.
+  - **Rise in cess & surcharges** - increased from 10.4% in 2011-12 to 20% in 2021-22.
 
-- **Conditional borrowing** - Linked to reforms under FRBM/Art. 293.
+  - **Conditional borrowing** - Linked to reforms under FRBM/Art. 293.
 
 **Issues in Centre-State Relations**
 
 1. Financial Issues
 
-- **Cesses & surcharges not shared** with States.
+  - **Cesses & surcharges not shared** with States.
 
-- **Special category status demand** - Bihar, Andhra Pradesh.
+  - **Special category status demand** - Bihar, Andhra Pradesh.
 
-- **Finance Commission TOR** - (e.g., use of 2011 Census penalising southern States).
+  - **Finance Commission TOR** - (e.g., use of 2011 Census penalising southern States).
 
-- **GST regime** - Delayed compensation, reduced fiscal autonomy.
+  - **GST regime** - Delayed compensation, reduced fiscal autonomy.
 
 2. Administrative Issues
 
-- **Governor’s appointment & dismissal (Art. 156)** - Often politically motivated
+  - **Governor’s appointment & dismissal (Art. 156)** - Often politically motivated
 
-- **Control over All India Services**
+  - **Control over All India Services**
 
-- **Central agencies’ overreach** - CBI, ED, NIA operating in States without consent.
+  - **Central agencies’ overreach** - CBI, ED, NIA operating in States without consent.
 
 3. Legislative Issues
 
-- **Encroachment on State List** - use of **Epidemic Diseases Act, 1897** and **Disaster Management Act, 2005** in public health (a State subject).
+  - **Encroachment on State List** - use of **Epidemic Diseases Act, 1897** and **Disaster Management Act, 2005** in public health (a State subject).
 
 **Measures to Build Trust & Strengthen Federalism**
 
 1. Sarkaria Commission (1983-88)
 
-- **Inter-State Council (Art. 263)** to be activated as a permanent forum for consultation.
+  - **Inter-State Council (Art. 263)** to be activated as a permanent forum for consultation.
 
-- **Governor’s role** - should be impartial; appointment in consultation with CM.
+  - **Governor’s role** - should be impartial; appointment in consultation with CM.
 
-- **Centre’s use of Art- to be a measure of last resort.
+  - **Centre’s use of Art- to be a measure of last resort.
 
-- **All India Services** - joint consultation in rules of recruitment, posting, and deputation.
+  - **All India Services** - joint consultation in rules of recruitment, posting, and deputation.
 
 2. Punchhi Commission (2007-10)
 
-- **Clear guidelines for Governor’s office** - fixed tenure, limited discretion, no arbitrary withholding of assent to bills.
+  - **Clear guidelines for Governor’s office** - fixed tenure, limited discretion, no arbitrary withholding of assent to bills.
 
-- **Concurrent List** - reduce overlap by greater consultation before Union laws are enacted.
+  - **Concurrent List** - reduce overlap by greater consultation before Union laws are enacted.
 
 3. National Commission to Review the Working of the Constitution (NCRWC, 2000)
 
-- **Decentralisation** - strengthen local bodies and fiscal devolution.
+  - **Decentralisation** - strengthen local bodies and fiscal devolution.
 
-- **Inter-Governmental Forums** - regular meetings between PM and CMs to resolve disputes.
+  - **Inter-Governmental Forums** - regular meetings between PM and CMs to resolve disputes.
 
 4. Second Administrative Reforms Commission (2nd ARC, 2005-09)
 
-- **Neutral federal institutions** - e.g., CBI under Lokpal for credibility, not political misuse.
+  - **Neutral federal institutions** - e.g., CBI under Lokpal for credibility, not political misuse.
 
-- **Fiscal federalism** - ensure predictability in devolution; reduce tied grants in Centrally Sponsored Schemes.
+  - **Fiscal federalism** - ensure predictability in devolution; reduce tied grants in Centrally Sponsored Schemes.
 
 5. Finance Commission Recommendations
 
-- Suggested **GST Council** as a true federal forum for resolving fiscal disputes.
+  - Suggested **GST Council** as a true federal forum for resolving fiscal disputes.
 
 “Federalism is not a monolith; it is a dialogue between self-rule and shared rule.” Thus, such Acts must be exercised with **consultation and cooperation.
 
@@ -5159,69 +5159,69 @@ According to **Paul Brass** “Indian federalism is highly centralized, designed
 
 1. Legal (Constitutional & Legislative)
 
-- **Residuary Powers (Art. 248, Entry 97 Union List)** - Vested in Parliament, not States.
+  - **Residuary Powers (Art. 248, Entry 97 Union List)** - Vested in Parliament, not States.
 
-- **Dominance of Union List (Art. 246)** - 100 subjects; State List is narrower.
+  - **Dominance of Union List (Art. 246)** - 100 subjects; State List is narrower.
 
-- **Concurrent List (Art. 254)** - Union law prevails in case of conflict.
+  - **Concurrent List (Art. 254)** - Union law prevails in case of conflict.
 
-- **Emergency Provisions (Arts. 352, 356, 360)** - Centre can override State powers.
+  - **Emergency Provisions (Arts. 352, 356, 360)** - Centre can override State powers.
 
-- Parliament can legislate on State subjects under **Art. 249.
-- **Governor’s Role (Art. 200, 201)**
+  - Parliament can legislate on State subjects under **Art. 249.
+  - **Governor’s Role (Art. 200, 201)**
 
 2. Administrative
 
-- **All-India Services (Art. 312)**
+  - **All-India Services (Art. 312)**
 
-- **Office of Governor** - Agent of Centre in States
+  - **Office of Governor** - Agent of Centre in States
 
-- **Union’s directions to States (Arts. 256-257)** - States bound to ensure compliance with Union laws.
+  - **Union’s directions to States (Arts. 256-257)** - States bound to ensure compliance with Union laws.
 
-- **Deployment of Armed Forces**
+  - **Deployment of Armed Forces**
 
 3. Financial
 
-- **Centralised Finance** - Major revenue sources (income tax, customs, excise, GST) with Union.
+  - **Centralised Finance** - Major revenue sources (income tax, customs, excise, GST) with Union.
 
-- **Borrowing restrictions (Art. 293)** - States require Centre’s consent to borrow.
+  - **Borrowing restrictions (Art. 293)** - States require Centre’s consent to borrow.
 
-- **Cess and surcharges (Art. 270)** not shared with States (Eg- Education Cess, Health Cess)
+  - **Cess and surcharges (Art. 270)** not shared with States (Eg- Education Cess, Health Cess)
 
-- **GST regime** - Erodes States’ fiscal autonomy.
+  - **GST regime** - Erodes States’ fiscal autonomy.
 
 **Centralising Tendencies in Indian Constitution**
 
 1. Epidemic Diseases Act, 1897
 
-- **Public Health** is a **State List subject (Entry 6, List II),** but the Centre can issue **uniform guidelines.
-- Empowers **Centre to declare any disease as epidemic.
-- Union can **issue regulations** for prevention and containment.
+  - **Public Health** is a **State List subject (Entry 6, List II),** but the Centre can issue **uniform guidelines.
+  - Empowers **Centre to declare any disease as epidemic.
+  - Union can **issue regulations** for prevention and containment.
 
-- Authority to **restrict movement and detain individuals** during epidemics.
+  - Authority to **restrict movement and detain individuals** during epidemics.
 
-- Centre can **override conflicting State laws.
+  - Centre can **override conflicting State laws.
 2. Disaster Management Act, 2005
 
-- **Law and order** and **public health** are primarily State subjects, but Act was used to declare nationwide lockdowns, interstate movement controls, and essential supply chains during COVID-19.
+  - **Law and order** and **public health** are primarily State subjects, but Act was used to declare nationwide lockdowns, interstate movement controls, and essential supply chains during COVID-19.
 
-- **State Disaster Management Authorities (SDMA)** include central representatives.
+  - **State Disaster Management Authorities (SDMA)** include central representatives.
 
-- Union controls **allocation and distribution of resources** across States.
+  - Union controls **allocation and distribution of resources** across States.
 
-- Centre can **override States’ decisions** in disaster response.
+  - Centre can **override States’ decisions** in disaster response.
 
-- **National Response Force** primarily drawn from central armed forces.
+  - **National Response Force** primarily drawn from central armed forces.
 
 3. Farm Acts, 2020 (repealed in 2021)
 
-- Though **Agriculture** is a **State List subject,** Parliament legislated under **Concurrent List (Entry 33).
-- Weakened **State APMC mandis** by allowing farmers to sell outside their jurisdiction.
+  - Though **Agriculture** is a **State List subject,** Parliament legislated under **Concurrent List (Entry 33).
+  - Weakened **State APMC mandis** by allowing farmers to sell outside their jurisdiction.
 
-- **Dispute resolution mechanisms** governed by Central laws → reduced States’ authority.
+  - **Dispute resolution mechanisms** governed by Central laws → reduced States’ authority.
 
-- Gave Centre greater control over **regulation of essential commodities.
-- Enhanced central role in **agri-marketing and e-marketing** of produce.
+  - Gave Centre greater control over **regulation of essential commodities.
+  - Enhanced central role in **agri-marketing and e-marketing** of produce.
 
 **Analysis of Centralising Tendencies**
 
@@ -6422,26 +6422,26 @@ However, they have remained **Half Baked Cake (Mani Shankar Iyer Committee)** du
 
 1. Funding Challenges
 
-- **High fiscal dependence-** ULBs’ own revenue was only 47% of their total revenue in 2022, with property tax accounting for 29%.
+  - **High fiscal dependence-** ULBs’ own revenue was only 47% of their total revenue in 2022, with property tax accounting for 29%.
 
-- **Post-GST revenue loss-** Subsumption of **Octroi, sales tax, and entertainment tax** reduced ULB income. Eg- **BMC lost ₹7,000 crore (~35%)** of revenue post-GST.
+  - **Post-GST revenue loss-** Subsumption of **Octroi, sales tax, and entertainment tax** reduced ULB income. Eg- **BMC lost ₹7,000 crore (~35%)** of revenue post-GST.
 
-- **Weak property tax collection-** Only **10-11% of revenue** from property tax vs **20-22% in China** (Peterson Institute).
+  - **Weak property tax collection-** Only **10-11% of revenue** from property tax vs **20-22% in China** (Peterson Institute).
 
-- **Limited taxation powers-** ULBs lack fiscal autonomy unlike China (land rights), Denmark (local income tax), or USA (broad local taxes).
+  - **Limited taxation powers-** ULBs lack fiscal autonomy unlike China (land rights), Denmark (local income tax), or USA (broad local taxes).
 
-- **Weak SFC implementation- 15% shortfall** in **15th FC grants** and delayed **State Finance Commissions** reduce fiscal predictability.
+  - **Weak SFC implementation- 15% shortfall** in **15th FC grants** and delayed **State Finance Commissions** reduce fiscal predictability.
 
 2. Functional Challenges
 
-- **Parastatal dominance-** Urban authorities and public corporations control key functions like **water, and transport,** limiting ULB autonomy. Eg- Delhi Jal Board
+  - **Parastatal dominance-** Urban authorities and public corporations control key functions like **water, and transport,** limiting ULB autonomy. Eg- Delhi Jal Board
 
-- **Rise of Special Purpose Vehicles (SPVs)-** Schemes like **JNNURM (2005)** and **Smart Cities Mission (2015)** implemented via SPVs, **bypassing elected bodies.** SPVs, led by bureaucrats, indicate **“procedural distrust”** of local democracy.
+  - **Rise of Special Purpose Vehicles (SPVs)-** Schemes like **JNNURM (2005)** and **Smart Cities Mission (2015)** implemented via SPVs, **bypassing elected bodies.** SPVs, led by bureaucrats, indicate **“procedural distrust”** of local democracy.
 
-- **Incomplete devolution-** Most States haven’t transferred all **18 functions under the 12th Schedule.
-- **Inactive District Planning Committees (DPCs)-** Non-functional in **9 States** and ineffective in **15 others,** hindering integrated planning.
+  - **Incomplete devolution-** Most States haven’t transferred all **18 functions under the 12th Schedule.
+  - **Inactive District Planning Committees (DPCs)-** Non-functional in **9 States** and ineffective in **15 others,** hindering integrated planning.
 
-- **Greater Bengaluru Governance Bill (2024)-** Empowers **Greater Bengaluru Authority (GBA)** to **alter ULB boundaries** and override elected councils.
+  - **Greater Bengaluru Governance Bill (2024)-** Empowers **Greater Bengaluru Authority (GBA)** to **alter ULB boundaries** and override elected councils.
 
 **Reasons for States’ Reluctance to Empower ULBs**
 
@@ -6822,21 +6822,21 @@ They are inspired by **Gandhiji’s concept** of **“Oceanic Circles of Power�
 
 1. Functions-
 
-- Incomplete devolution of 11th & 12th Schedule subjects
+  - Incomplete devolution of 11th & 12th Schedule subjects
 
-- Limited administrative authority
+  - Limited administrative authority
 
 2. Functionaries-
 
-- Lack of training & capacity
+  - Lack of training & capacity
 
-- Bureaucratic dominance over elected reps
+  - Bureaucratic dominance over elected reps
 
 3. Funds-
 
-- High fiscal dependence on states/centre
+  - High fiscal dependence on states/centre
 
-- Conditional and tied grants **Critical Challenges to Functionality of Local Institutions**
+  - Conditional and tied grants **Critical Challenges to Functionality of Local Institutions**
 
 A. Political Challenges
 
@@ -7069,9 +7069,9 @@ Source Question: “The reservation of seats for women in the institutions of lo
 3. **Capacity Building-** Establish State Institutes of Rural Development (SIRDs) as nodal agencies for PRI training.
 
 4. **Manishankar Aiyar Committee recommendations.
-- Create **Panchayat Ombudsman** for grievance redressal.
+  - Create **Panchayat Ombudsman** for grievance redressal.
 
-- Adopt **activity mapping** for clear delineation of **3Fs - Funds, Functions, Functionaries.
+  - Adopt **activity mapping** for clear delineation of **3Fs - Funds, Functions, Functionaries.
 “I measure the progress of a community by the degree of progress which women have achieved.” - **Ambedkar** True empowerment lies in **transforming participation into power,** ensuring women are **policy-shapers, not placeholders.
 **Elections**
 
@@ -7818,21 +7818,21 @@ Source Question: Discuss the essential conditions for exercise of the legislativ
 
 1. **D.C. Wadhwa v. State of Bihar (1987)** - Re-promulgation of ordinances **without legislative approval** was termed as a **“fraud on the Constitution”.** SC has held that, An **ordinance** can be challenged if it-
 
-- Constitutes **colorable legislation;**
+  - Constitutes **colorable legislation;**
 
-- **Violates Fundamental Rights;**
+  - **Violates Fundamental Rights;**
 
-- **Contravenes constitutional provisions** (e.g., **Article 301);** or
+  - **Contravenes constitutional provisions** (e.g., **Article 301);** or
 
-- Has **unconstitutional retrospective effect.
+  - Has **unconstitutional retrospective effect.
 2. **Krishna Kumar Singh v. State of Bihar (2017)** - **Placing an ordinance before the Legislature is mandatory.** Re-promulgation **without fresh justification** is invalid and violates **legislative supremacy.
 3. **R.C. Cooper case (1970)** - Judicial review permissible if there is **no genuine requirement of immediate action.
 4. **A.K. Roy v. Union of India (1982)-** The Supreme Court held that an **ordinance cannot substitute parliamentary legislation** and must be used **only in cases of extreme urgency or unforeseen emergency.
 2. Constitutional and Democratic Implications
 
-- Re-promulgation violates the **“3D principle” - Debate, Discussion, Deliberation.
-- It converts an **emergency power into a routine legislative tool,** eroding **separation of powers.
-- Failure to place an ordinance before the Legislature constitutes an **“abuse of power”** and **fraud on the Constitution.
+  - Re-promulgation violates the **“3D principle” - Debate, Discussion, Deliberation.
+  - It converts an **emergency power into a routine legislative tool,** eroding **separation of powers.
+  - Failure to place an ordinance before the Legislature constitutes an **“abuse of power”** and **fraud on the Constitution.
 **Way Forward**
 
 1. **Mandatory Legislative Review within a fixed timeframe.
@@ -8001,12 +8001,12 @@ The **Parliament of India** is the **supreme instrument of democratic accountabi
 
 **7. Parliamentary Committees**
 
-- **Public Accounts Committee (PAC)** - Examines CAG reports and ensures post-audit accountability (e.g., 2G and coal scam scrutiny).
+  - **Public Accounts Committee (PAC)** - Examines CAG reports and ensures post-audit accountability (e.g., 2G and coal scam scrutiny).
 
-- **Estimates Committee** - Evaluates government expenditure efficiency.
+  - **Estimates Committee** - Evaluates government expenditure efficiency.
 
-- **DRSCs) in-depth scrutiny of ministries.
-- **Joint Parliamentary Committees (JPCs)** - Eg- Waqf Amendment Bill
+  - **DRSCs) in-depth scrutiny of ministries.
+  - **Joint Parliamentary Committees (JPCs)** - Eg- Waqf Amendment Bill
 
 **8. Parliamentary Privileges** - Allow MPs to **speak freely and fearlessly,** enhancing deliberative accountability.
 
@@ -8419,9 +8419,9 @@ Doctrine of separation of powers is derived from **Montesquieu’s Spirit of Law
 
 **6. Judicial itself has warned against overreach in**
 
-- **Aravali Golf Club v. Chander Hass (2008)-** Court warned against **“judicial enthusiasm turning into judicial adventurism.”**
+  - **Aravali Golf Club v. Chander Hass (2008)-** Court warned against **“judicial enthusiasm turning into judicial adventurism.”**
 
-- **State of Tamil Nadu v. State of Kerala (2014)-** Reiterated that **courts should not enter the policy-making domain.
+  - **State of Tamil Nadu v. State of Kerala (2014)-** Reiterated that **courts should not enter the policy-making domain.
 **Justification for Filing Large Number of PILs**
 
 1. **Executive Inaction or Policy Vacuum Eg- Vishaka** guidelines on workplace sexual harassment.
@@ -10856,13 +10856,13 @@ Source Question: “Once a speaker, Always a speaker’! Do you think the practi
 
 6. **Impartial Decision-Making** - Promotes fairness in-
 
-- **Rulings on points of order,**
+  - **Rulings on points of order,**
 
-- **Interpretation of parliamentary rules,**
+  - **Interpretation of parliamentary rules,**
 
-- **Decisions on admissibility of bills and motions,** and
+  - **Decisions on admissibility of bills and motions,** and
 
-- **Protection of members’ rights and privileges.
+  - **Protection of members’ rights and privileges.
 7. **Upholding the Dignity of Office** - Acts as a symbol of **neutrality, integrity, and impartiality,** thereby strengthening the moral authority of Parliament.
 
 8. **Global Best Practice Alignment** - Similar to **UK model,** where Speaker contests as “Speaker seeking re-election,” maintaining impartiality.
@@ -13344,9 +13344,9 @@ Source Question: What are the methods used by the Farmers organizations to influ
 **2. Lobbying and Negotiation -** Engage directly with **ministries, parliamentary committees, and NITI Aayog** to submit **memoranda, draft proposals,** and **policy recommendations.
 **3. Electoral and Political Pressure**
 
-- Mobilize **vote banks in rural constituencies** and influence party manifestos.
+  - Mobilize **vote banks in rural constituencies** and influence party manifestos.
 
-- Forming **political parties** to contest elections. **Eg- Shetkari Sanghatana** in Maharashtra
+  - Forming **political parties** to contest elections. **Eg- Shetkari Sanghatana** in Maharashtra
 
 **4.** Use **mass media, social media, and civil society networks** to build public opinion. **Eg-**
 
@@ -14628,11 +14628,11 @@ D. Public Perception and Political Trust Deficit
 
   - **Social media misinformation-** Viral false claims about **EVM manipulation** erode voter trust. Eg“Black Box” Allegations (2024) **ECI’s Stand**
 
-- **EVMs are standalone, non-networked machines;** cannot be hacked remotely.
+  - **EVMs are standalone, non-networked machines;** cannot be hacked remotely.
 
-- Rigorous **mock polling, sealing, randomisation, and observer monitoring** prevent manipulation.
+  - Rigorous **mock polling, sealing, randomisation, and observer monitoring** prevent manipulation.
 
-- **Technical Expert Committee (TEC)** from IITs and DRDO regularly reviews EVM integrity.
+  - **Technical Expert Committee (TEC)** from IITs and DRDO regularly reviews EVM integrity.
 
 **Way Forward**
 
@@ -16081,27 +16081,27 @@ The **16th Finance Commission** was constituted in **December 2023,** chaired by
 Its recommendations will apply for the **period 2026-2031.
 1. Division of Tax Proceeds
 
-- Recommend the **distribution of net tax proceeds** between the **Union and the States** under **Chapter I, Part XII** of the Constitution.
+  - Recommend the **distribution of net tax proceeds** between the **Union and the States** under **Chapter I, Part XII** of the Constitution.
 
-- Determine the **allocation of shares among individual States** from the total divisible pool of central taxes.
+  - Determine the **allocation of shares among individual States** from the total divisible pool of central taxes.
 
 2. Principles for Grants-in-Aid
 
-- Lay down the **principles governing grants-in-aid** to States from the **Consolidated Fund of India.
-- Recommend the **amounts to be provided** to States as grants under **Article 275,** for purposes other than those specified in the provisos to clause (1).
+  - Lay down the **principles governing grants-in-aid** to States from the **Consolidated Fund of India.
+  - Recommend the **amounts to be provided** to States as grants under **Article 275,** for purposes other than those specified in the provisos to clause (1).
 
 3. Enhancing State Funds for Local Bodies
 
-- Suggest measures to **increase the Consolidated Fund of States** to supplement resources of **Panchayats and Municipalities.
-- Base these recommendations on the **inputs of respective State Finance Commissions,** ensuring fiscal strengthening of local governance.
+  - Suggest measures to **increase the Consolidated Fund of States** to supplement resources of **Panchayats and Municipalities.
+  - Base these recommendations on the **inputs of respective State Finance Commissions,** ensuring fiscal strengthening of local governance.
 
 4. Evaluation of Disaster Management Financing
 
-- Review existing **funding mechanisms for Disaster Management,** particularly those created under the **Disaster Management Act, 2005.
-- Recommend improvements in the structure, sharing pattern, and utilization of **National and State Disaster Response Funds.
+  - Review existing **funding mechanisms for Disaster Management,** particularly those created under the **Disaster Management Act, 2005.
+  - Recommend improvements in the structure, sharing pattern, and utilization of **National and State Disaster Response Funds.
 5. Any Other Matters Referred by the President
 
-- Examine and recommend on additional fiscal issues to ensure “sound finance,” including fiscal consolidation, resource augmentation, and expenditure efficiency.
+  - Examine and recommend on additional fiscal issues to ensure “sound finance,” including fiscal consolidation, resource augmentation, and expenditure efficiency.
 
 **Challenges Ahead**
 
@@ -16882,9 +16882,9 @@ The **CAT** was established under **Article 323A** and **Administrative Tribunal
 
 **1. Exclusive Jurisdiction-**
 
-- CAT adjudicates disputes on **recruitment, promotion, transfer, service conditions, and disciplinary actions** of Central employees.
+  - CAT adjudicates disputes on **recruitment, promotion, transfer, service conditions, and disciplinary actions** of Central employees.
 
-- Its jurisdiction **excludes ordinary civil courts** in service matters.
+  - Its jurisdiction **excludes ordinary civil courts** in service matters.
 
 **2. Powers of a Civil Court,** including summoning witnesses, receiving evidence, and delivering binding orders.
 
@@ -17733,21 +17733,21 @@ The **Competition Commission of India (CCI),** established under the **Competiti
 
 **6.** Conducts **awareness campaigns** to inform consumers about their rights **Challenges**
 
-- **Global Nature of MNCs:** Difficult to regulate cross-border conduct and global digital platforms.
+  - **Global Nature of MNCs:** Difficult to regulate cross-border conduct and global digital platforms.
 
-- **Proof Burden:** Difficult to establish anti-competitive “effects.”
+  - **Proof Burden:** Difficult to establish anti-competitive “effects.”
 
-- **Lengthy Litigation:** MNCs challenge orders in courts, delaying enforcement.
+  - **Lengthy Litigation:** MNCs challenge orders in courts, delaying enforcement.
 
-- **Jurisdictional Conflicts:** Overlaps with data and consumer protection authorities like TRAI **Way Forward**
+  - **Jurisdictional Conflicts:** Overlaps with data and consumer protection authorities like TRAI **Way Forward**
 
-- Build **economic and digital expertise** in CCI and DG offices.
+  - Build **economic and digital expertise** in CCI and DG offices.
 
-- Enhance **international cooperation** with global antitrust regulators.
+  - Enhance **international cooperation** with global antitrust regulators.
 
-- Ensure **faster adjudication** and reduce judicial delays.
+  - Ensure **faster adjudication** and reduce judicial delays.
 
-- Update the **Competition Act** to handle **AI and platform dominance.
+  - Update the **Competition Act** to handle **AI and platform dominance.
 The CCI has emerged as a **key pillar of India’s economic governance,** aligning with the vision of **Viksit Bharat**
 
 **2047.
@@ -20948,21 +20948,21 @@ Microfinance, channelled through **women-led SHGs,** offers a transformative pat
 
 **1. Economic Empowerment Reduces Poverty**
 
-- **Access to Collateral-Free Credit:** Enables women to invest in productive activities (livestock, handicrafts, food processing).
+  - **Access to Collateral-Free Credit:** Enables women to invest in productive activities (livestock, handicrafts, food processing).
 
-- **Eg-** Jeevika (Bihar) lifted over **1 crore women** from subsistence to sustainable livelihoods, raising family incomes by 30%.
+  - **Eg-** Jeevika (Bihar) lifted over **1 crore women** from subsistence to sustainable livelihoods, raising family incomes by 30%.
 
 **2. Financial Inclusion Strengthens Decision-Making**
 
-- SHGs enhance **financial literacy, savings, and bargaining power** in households. **Eg-** Kudumbashree (Kerala) - women’s collective income used for improved household nutrition and sanitation.
+  - SHGs enhance **financial literacy, savings, and bargaining power** in households. **Eg-** Kudumbashree (Kerala) - women’s collective income used for improved household nutrition and sanitation.
 
 **3. Social Capital -** SHGs build **trust, networks, and solidarity,** empowering women to demand better services (PDS, ICDS, health).
 
 **4. Women’s Role in Nutrition and Food Security**
 
-- Empowered women spend **up to 90% of income on family well-being** (UNDP).
+  - Empowered women spend **up to 90% of income on family well-being** (UNDP).
 
-- SHG-linked programs like **Poshan Sakhi (NRLM)** and **Livelihood Mission Nutrition Gardens** promote dietary diversity.
+  - SHG-linked programs like **Poshan Sakhi (NRLM)** and **Livelihood Mission Nutrition Gardens** promote dietary diversity.
 
 **5. Reducing Gender Inequality through Economic Agency -** Women gain **voice and mobility,** shifting from dependents to decision-makers. **Eg-** Lakhpati Didi initiative (2023) targets **2 crore women** to earn over ₹1 lakh annually, fostering gender-balanced households.
 
@@ -22565,7 +22565,7 @@ The **Public Examination (Prevention of Unfair Means) Act, 2024,** was enacted t
 
 **6. Strengthening Governance and Fair Recruitment Coverage under the Act**
 
-- The Act applies to **“Public Examinations”** conducted by authorities listed in its **Schedule** or **notified later by the Central Government.
+  - The Act applies to **“Public Examinations”** conducted by authorities listed in its **Schedule** or **notified later by the Central Government.
 ## **● The Schedule presently includes**
 
   - **Union Public Service Commission (UPSC)**
@@ -22577,7 +22577,7 @@ The **Public Examination (Prevention of Unfair Means) Act, 2024,** was enacted t
   - **Institute of Banking Personnel Selection (IBPS)**
 
   - **National Testing Agency (NTA)** and other **Central Government recruitment bodies.
-- **University and State Education Board examinations** are **not automatically covered** unless **specifically notified** by the **Central Government** under Section 2 of the Act.
+  - **University and State Education Board examinations** are **not automatically covered** unless **specifically notified** by the **Central Government** under Section 2 of the Act.
 
 **Limitations of the Act**
 
@@ -24137,20 +24137,20 @@ As per **UNDP (2022),** Digital access is now a core dimension of human developm
 
 **1. Education and Skill Development**
 
-- **Limited online learning:** Only 24% rural students could attend online classes during COVID-19 (ASER 2021).
+  - **Limited online learning:** Only 24% rural students could attend online classes during COVID-19 (ASER 2021).
 
-- **Digital exclusion** restricts access to e-learning platforms like SWAYAM, PMGDISHA, and DIKSHA.
+  - **Digital exclusion** restricts access to e-learning platforms like SWAYAM, PMGDISHA, and DIKSHA.
 
 **2. Employment and Livelihoods**
 
-- Rural youth miss digital job opportunities in gig economy and e-commerce.
+  - Rural youth miss digital job opportunities in gig economy and e-commerce.
 
-- Farmers lack access to digital market tools like **e-NAM** or **Kisan Suvidha App.
+  - Farmers lack access to digital market tools like **e-NAM** or **Kisan Suvidha App.
 **3. Financial Inclusion**
 
-- Inability to use **UPI, digital banking, and DBT systems** limits access to formal finance.
+  - Inability to use **UPI, digital banking, and DBT systems** limits access to formal finance.
 
-- Rural MSMEs struggle with e-payments and online compliance (GST, MCA21).
+  - Rural MSMEs struggle with e-payments and online compliance (GST, MCA21).
 
 **4. Governance and Welfare Access - Eg-** exclusion from **Aadhaar-based DBT** due to authentication errors and poor connectivity.
 
@@ -24160,28 +24160,28 @@ As per **UNDP (2022),** Digital access is now a core dimension of human developm
 
 1. Expanding Digital Infrastructure
 
-- **BharatNet:** Over **2.14 lakh Gram Panchayats** connected with optical fibre; 97.6% villages have mobile coverage.
+  - **BharatNet:** Over **2.14 lakh Gram Panchayats** connected with optical fibre; 97.6% villages have mobile coverage.
 
-- **5G rollout (2022-25):** 4.7 lakh towers covering 99.6% districts.
+  - **5G rollout (2022-25):** 4.7 lakh towers covering 99.6% districts.
 
 2. Massive Digital Empowerment
 
-- **PMGDISHA:** Trained over **6.3 crore citizens** in digital literacy.
+  - **PMGDISHA:** Trained over **6.3 crore citizens** in digital literacy.
 
-- **Common Service Centres (5.3 lakh)** serve as ICT hubs in 2.5 lakh Gram Panchayats.
+  - **Common Service Centres (5.3 lakh)** serve as ICT hubs in 2.5 lakh Gram Panchayats.
 
 3. Financial and Payment Revolution
 
-- **UPI:** Handles **85% of India’s digital payments,** processing **₹24 lakh crore/month** (June 2025).
+  - **UPI:** Handles **85% of India’s digital payments,** processing **₹24 lakh crore/month** (June 2025).
 
 Enabled **financial inclusion of 491 million individuals** and **65 million merchants.
 4. e-Governance and Inclusion
 
-- **UMANG:** 2,300+ services in 23 languages; 8.7 crore users.
+  - **UMANG:** 2,300+ services in 23 languages; 8.7 crore users.
 
-- **DigiLocker:** 56 crore users; promotes paperless governance.
+  - **DigiLocker:** 56 crore users; promotes paperless governance.
 
-- **Jan Soochna Portal (Rajasthan):** Promotes proactive transparency.
+  - **Jan Soochna Portal (Rajasthan):** Promotes proactive transparency.
 
 **Way Forward**
 
@@ -26566,40 +26566,40 @@ Source Question: “Though women in post-Independent India have excelled in vari
 
 **1. Legal and Institutional Reforms**
 
-- **Gender Sensitisation in Governance:** Mandatory training for bureaucrats and police.
+  - **Gender Sensitisation in Governance:** Mandatory training for bureaucrats and police.
 
-- **Implementation of Nari Shakti Vandan Adhiniyam (2023):** Ensure **33% reservation in legislatures.
-- **Strengthen POSH Act, 2013:** Extend coverage to informal, gig, and agricultural sectors.
+  - **Implementation of Nari Shakti Vandan Adhiniyam (2023):** Ensure **33% reservation in legislatures.
+  - **Strengthen POSH Act, 2013:** Extend coverage to informal, gig, and agricultural sectors.
 
-- **Gender Audit Mechanisms:** Periodic audits across ministries, corporates, and universities.
+  - **Gender Audit Mechanisms:** Periodic audits across ministries, corporates, and universities.
 
-- Establish **fast-track courts** for crimes against women as per **Nirbhaya Committee** recommendations.
+  - Establish **fast-track courts** for crimes against women as per **Nirbhaya Committee** recommendations.
 
 **2. Economic and Structural Interventions**
 
-- **Property and Inheritance Rights:** Enforce Hindu Succession (Amendment) Act, 2005 effectively at the ground level.
+  - **Property and Inheritance Rights:** Enforce Hindu Succession (Amendment) Act, 2005 effectively at the ground level.
 
-- **Labour Market Reforms:** Provide maternity benefits, crèche facilities, and flexible work arrangements.
+  - **Labour Market Reforms:** Provide maternity benefits, crèche facilities, and flexible work arrangements.
 
-- **Recognize and Monetize Unpaid Labour:** Integrate unpaid domestic work into GDP measurement and social protection systems.
+  - **Recognize and Monetize Unpaid Labour:** Integrate unpaid domestic work into GDP measurement and social protection systems.
 
 **3. Social and Cultural Interventions**
 
-- **Curriculum Reform:** Integrate gender-sensitivity and equality lessons from school level.
+  - **Curriculum Reform:** Integrate gender-sensitivity and equality lessons from school level.
 
-- **Media Accountability:** Enforce **SC’s 2024 guidelines** against gender stereotyping in films and advertisements.
+  - **Media Accountability:** Enforce **SC’s 2024 guidelines** against gender stereotyping in films and advertisements.
 
-- **Community Mobilisation:** Engage **SHGs, PRIs, and youth clubs** to challenge gender norms at local level.
+  - **Community Mobilisation:** Engage **SHGs, PRIs, and youth clubs** to challenge gender norms at local level.
 
-- **Faith-Based Dialogue:** Partner with religious leaders to reinterpret traditions supporting equality.
+  - **Faith-Based Dialogue:** Partner with religious leaders to reinterpret traditions supporting equality.
 
 **4. Behavioural and Psychological Change**
 
-- **Male Inclusion Campaigns:** Expand **“Men for Women”** and **“HeForShe”** initiatives to rural areas.
+  - **Male Inclusion Campaigns:** Expand **“Men for Women”** and **“HeForShe”** initiatives to rural areas.
 
-- **Positive Role Modelling:** Showcase success stories of women achievers in governance and innovation.
+  - **Positive Role Modelling:** Showcase success stories of women achievers in governance and innovation.
 
-- **Public Awareness Drives:** Use Beti Bachao Beti Padhao 2.0 to challenge gender bias in families and media.
+  - **Public Awareness Drives:** Use Beti Bachao Beti Padhao 2.0 to challenge gender bias in families and media.
 
 Adopting **ILO’s 5Rs** (recognition, reduction, redistribution, reward, representation) can help in realising **Nari**
 
@@ -27237,18 +27237,18 @@ The **National Education Policy (NEP) 2020,** introduced after 34 years, aims to
 
 **1. School Education Reforms**
 
-- **5+3+3+4 model** aligns learning outcomes with **cognitive development stages.
-- **National Mission on Foundational Literacy and Numeracy (NIPUN Bharat)** ensures universal literacy by Grade 3.
+  - **5+3+3+4 model** aligns learning outcomes with **cognitive development stages.
+  - **National Mission on Foundational Literacy and Numeracy (NIPUN Bharat)** ensures universal literacy by Grade 3.
 
-- Integration of **vocational training** from Class 6 bridges the gap between education and employability.
+  - Integration of **vocational training** from Class 6 bridges the gap between education and employability.
 
 **2. Higher Education Transformation**
 
-- Vision to create a **multidisciplinary and research-driven system** with **HECIs (Higher Education Commission of India)** as a single regulator.
+  - Vision to create a **multidisciplinary and research-driven system** with **HECIs (Higher Education Commission of India)** as a single regulator.
 
-- Establishment of **National Research Foundation (NRF)** to boost innovation.
+  - Establishment of **National Research Foundation (NRF)** to boost innovation.
 
-- **Gross Enrollment Ratio (GER)** target of **50% by** 2035-aligns with SDG-4’s focus on higher education accessibility.
+  - **Gross Enrollment Ratio (GER)** target of **50% by** 2035-aligns with SDG-4’s focus on higher education accessibility.
 
 **3. Technology Integration -** Creation of **National Educational Technology Forum (NETF)** and expansion of **DIKSHA platform** for digital content.
 
@@ -27963,9 +27963,9 @@ Source Question: In order to enhance the prospects of social development, sound 
 
 **5. Social and Cultural Barriers**
 
-- Patriarchal norms restrict women’s access to healthcare and nutrition.
+  - Patriarchal norms restrict women’s access to healthcare and nutrition.
 
-- Elderly often face **neglect, isolation, and financial insecurity.
+  - Elderly often face **neglect, isolation, and financial insecurity.
 **Way Forward**
 
 1. **Increase Public Health Expenditure** to 2.5% of GDP as per **National Health Policy 2017.
@@ -30230,49 +30230,49 @@ The **Indian Constitution envisions a Welfare State under the DPSP (Articles 36-
 
 **1. Financial Inclusion**
 
-- **PM Jan Dhan Yojana** -55 Cr accounts opened
+  - **PM Jan Dhan Yojana** -55 Cr accounts opened
 
-- **Aadhaar** -1.35 Billion generated
+  - **Aadhaar** -1.35 Billion generated
 
-- **Direct Benefit Transfer (DBT)** -minimizes leakages.
+  - **Direct Benefit Transfer (DBT)** -minimizes leakages.
 
 **2. Social Security Nets**
 
-- **Atal Pension Yojana** for unorganised sector workers.
+  - **Atal Pension Yojana** for unorganised sector workers.
 
-- **PM Maan Dhan Yojana** -old-age income security
+  - **PM Maan Dhan Yojana** -old-age income security
 
 **3. Food Security**
 
-- **Atal Kalyan Yojana / PMGKAY** - 67% population covered
+  - **Atal Kalyan Yojana / PMGKAY** - 67% population covered
 
-- **Mid-Day Meal (PM Poshan)**
+  - **Mid-Day Meal (PM Poshan)**
 
 **4. Support for Vulnerable Sections**
 
-- **PM Matru Vandana Yojana**
+  - **PM Matru Vandana Yojana**
 
-- **Ayushman Bharat**
+  - **Ayushman Bharat**
 
 **5. Skills and Training**
 
-- **PM Kaushal Vikas Yojana (PMKVY)**
+  - **PM Kaushal Vikas Yojana (PMKVY)**
 
-- **‘Earn While You Learn’ Scheme**
+  - **‘Earn While You Learn’ Scheme**
 
 **6. Social Infrastructure**
 
-- **Swachh Bharat Mission**
+  - **Swachh Bharat Mission**
 
-- **Ujjwala Yojana** -10 Cr LPG connections
+  - **Ujjwala Yojana** -10 Cr LPG connections
 
-- **Gram Sadak Yojana**
+  - **Gram Sadak Yojana**
 
 **7. Women and SC-ST empowerment**
 
-- **PM Mudra Yojana**
+  - **PM Mudra Yojana**
 
-- **Stand-Up India The Impact of Inflation on the Poor**
+  - **Stand-Up India The Impact of Inflation on the Poor**
 
   - **Erosion of Real Income:** Inflation disproportionately affects low-income households as **food and fuel** form over **50% of their consumption basket.
   - **Reduced Effectiveness of Welfare Schemes:** High prices diminish the **real value of cash transfers** under DBT or PM-Kisan.
@@ -30525,21 +30525,21 @@ As per **World Bank, Poverty** is a “pronounced deprivation in well-being” w
 
 **3. Multidimensional Poverty in India**
 
-- Poverty fell from **55.1% (2005-2006)** to **16.4% (2019-2021)**
+  - Poverty fell from **55.1% (2005-2006)** to **16.4% (2019-2021)**
 
-- About **415 million people** exited multidimensional poverty
+  - About **415 million people** exited multidimensional poverty
 
 **4. Poverty and Climate Interlinkages**
 
-- **32 million people displaced** by climate-related shocks in **2022**
+  - **32 million people displaced** by climate-related shocks in **2022**
 
-- **309 million poor people** live in regions with **three or four overlapping climate hazards**
+  - **309 million poor people** live in regions with **three or four overlapping climate hazards**
 
-- Without strong climate action, **extreme poverty could nearly double by 2050**
+  - Without strong climate action, **extreme poverty could nearly double by 2050**
 
 **5. MPI Across Income Levels**
 
-- **64.5% of global poor** live in **middle-income countries**
+  - **64.5% of global poor** live in **middle-income countries**
 
   - **55.5%** in **lower-middle-income** nations
 
@@ -30547,15 +30547,15 @@ As per **World Bank, Poverty** is a “pronounced deprivation in well-being” w
 
 **6. Common Global Deprivations**
 
-- **Clean cooking fuel:** 970 million deprived
+  - **Clean cooking fuel:** 970 million deprived
 
-- **Adequate housing:** 878 million deprived
+  - **Adequate housing:** 878 million deprived
 
-- **Sanitation:** 830 million deprived
+  - **Sanitation:** 830 million deprived
 
-- **Undernutrition:** 635 million deprived
+  - **Undernutrition:** 635 million deprived
 
-- **Children out of school:** 487 million deprived **Limitations of the Global MPI**
+  - **Children out of school:** 487 million deprived **Limitations of the Global MPI**
 
   - **Data Gaps:** Many countries rely on outdated or incomplete household surveys; MPI data lags actual conditions.
 
@@ -30884,23 +30884,23 @@ Source Question: India is an age-old friend of Sri Lanka.’ Discuss India’s r
 India and Sri Lanka share **civilizational, cultural, and economic linkages** dating back over **2,500 years,** rooted in **Buddhist ties, maritime trade, and shared colonial history.
 **1. Financial Assistance**
 
-- India extended **over USD 4 billion in assistance** through **credit lines, currency swaps, and grants**
+  - India extended **over USD 4 billion in assistance** through **credit lines, currency swaps, and grants**
 
-- Provided a **USD 1 billion credit line** for essentials such as **food, medicines, and fuel.
-- Supplied **over 400,000 MT of fuel,** life-saving drugs, and **rice consignments**
+  - Provided a **USD 1 billion credit line** for essentials such as **food, medicines, and fuel.
+  - Supplied **over 400,000 MT of fuel,** life-saving drugs, and **rice consignments**
 
-- **USD 400 million currency swap** under the **SAARC framework** and deferred **USD 515 million in ACU payments,** easing liquidity pressure.
+  - **USD 400 million currency swap** under the **SAARC framework** and deferred **USD 515 million in ACU payments,** easing liquidity pressure.
 
 **2. Support for Debt Restructuring and IMF Assistance**
 
-- India became the **first country** to provide **written assurance** to the **IMF** supporting Sri Lanka’s **debt restructuring plan,** crucial for securing the **USD 2.9 billion IMF bailout.
-- Advocated for **equitable debt treatment** among all creditors.
+  - India became the **first country** to provide **written assurance** to the **IMF** supporting Sri Lanka’s **debt restructuring plan,** crucial for securing the **USD 2.9 billion IMF bailout.
+  - Advocated for **equitable debt treatment** among all creditors.
 
 **3. Trade, Connectivity, and Energy Cooperation**
 
-- Advanced the **India-Sri Lanka Economic and Technology Cooperation Agreement (ETCA)** and **Bilateral Investment Treaty (BIT)** for economic revival.
+  - Advanced the **India-Sri Lanka Economic and Technology Cooperation Agreement (ETCA)** and **Bilateral Investment Treaty (BIT)** for economic revival.
 
-- Revived strategic projects such as the **Trincomalee Oil Tank Farm modernization** and proposed **India-Sri Lanka power grid interconnection.
+  - Revived strategic projects such as the **Trincomalee Oil Tank Farm modernization** and proposed **India-Sri Lanka power grid interconnection.
 **Symbol of Age-Old Friendship**
 
 1. **Non Reciprocity (Neighbourhood First Policy)** - India’s assistance came **without strategic strings.
@@ -31492,26 +31492,26 @@ In the words of PM **Modi,** "Africa will remain at the center of our attention.
 
 **1. Foundation of Mutual Respect-**
 
-- **South-South Cooperation-** based on **equality, non-conditionality, and mutual benefit.
-- Unlike the Chinese “Digital Silk Road”, India provides **low-cost and interoperable solutions.
-- Africa views India as a **partner in capacity building,** not a neo-colonial actor. **(Shashi Tharoor)**
+  - **South-South Cooperation-** based on **equality, non-conditionality, and mutual benefit.
+  - Unlike the Chinese “Digital Silk Road”, India provides **low-cost and interoperable solutions.
+  - Africa views India as a **partner in capacity building,** not a neo-colonial actor. **(Shashi Tharoor)**
 
 **2. Co-development through Technology and Capacity Building-**
 
-- **Pan-African e-Network (2009)-** Connects 48 African countries with India for **tele-education and telemedicine.
-- India’s **Aadhaar, UPI, CoWIN, and DigiLocker** systems serve as models for Africa’s **Digital Transformation Strategy (2020-2030).** Eg- **Namibia - NPCI** Pact for a UPI-like instant payment system
+  - **Pan-African e-Network (2009)-** Connects 48 African countries with India for **tele-education and telemedicine.
+  - India’s **Aadhaar, UPI, CoWIN, and DigiLocker** systems serve as models for Africa’s **Digital Transformation Strategy (2020-2030).** Eg- **Namibia - NPCI** Pact for a UPI-like instant payment system
 
-- **ITEC Program-** Trains African professionals in **e-governance, AI, fintech, and cybersecurity,** promoting shared digital growth.
+  - **ITEC Program-** Trains African professionals in **e-governance, AI, fintech, and cybersecurity,** promoting shared digital growth.
 
 **3. Long-term Institutional Partnerships-**
 
-- **India-Africa Forum Summit (IAFS) & Voice of Global South Summit (2023)-** Institutionalize digital cooperation as a core agenda.
+  - **India-Africa Forum Summit (IAFS) & Voice of Global South Summit (2023)-** Institutionalize digital cooperation as a core agenda.
 
-- **EXIM Bank LoCs & Tech Parks-** Fund **ICT hubs and innovation centers** (e.g., Ethiopia, Rwanda, Tanzania).
+  - **EXIM Bank LoCs & Tech Parks-** Fund **ICT hubs and innovation centers** (e.g., Ethiopia, Rwanda, Tanzania).
 
-- **Start-up collaboration** under **Digital India-Digital Africa initiative,** in **agri-tech, e-health, fintech, and education.
-- **Triangular cooperation** with Japan under **Asia-Africa Growth Corridor (AAGC)** supports **digital infrastructure.
-- **Education and Skilling** - Eg- **IIT Madras campus in Zanzibar** (first overseas IIT)
+  - **Start-up collaboration** under **Digital India-Digital Africa initiative,** in **agri-tech, e-health, fintech, and education.
+  - **Triangular cooperation** with Japan under **Asia-Africa Growth Corridor (AAGC)** supports **digital infrastructure.
+  - **Education and Skilling** - Eg- **IIT Madras campus in Zanzibar** (first overseas IIT)
 
 | Challenges | Way Forward |
 | --- | --- |
@@ -31865,25 +31865,25 @@ India’s defence partnerships have evolved in response to shifting **geopolitic
 
 **1. Alignment with the Indo-Pacific Vision -**
 
-- shared commitment to a **Free, Open, and Rules-Based Indo-Pacific (FOIP).
-- **Regional Presence-** The US is a **Pacific power** with a direct military presence, unlike Russia, whose focus remains **continental (Eurasian).
-- The **LEMOA (2016)** enables reciprocal access to military bases - giving India strategic reach from **Diego Garcia to Guam,** enhancing maritime stability.
+  - shared commitment to a **Free, Open, and Rules-Based Indo-Pacific (FOIP).
+  - **Regional Presence-** The US is a **Pacific power** with a direct military presence, unlike Russia, whose focus remains **continental (Eurasian).
+  - The **LEMOA (2016)** enables reciprocal access to military bases - giving India strategic reach from **Diego Garcia to Guam,** enhancing maritime stability.
 
 **2. Strengthening Maritime Security and Deterrence**
 
-- **Operational Interoperability-** Foundational agreements such as **COMCASA (2018)** and **BECA (2020)** enhance real-time intelligence and data sharing, critical for **tracking Chinese naval movements.
-- **Joint Naval Exercises-** India’s participation in the **Quad-led Malabar exercises** with the US, Japan, and Australia ensures **freedom of navigation in the Indo-Pacific sea lanes.
-- Indo-Russian defence engagements, like the **BrahMos missile project** and **S-400 systems** are less relevant to **Indo-Pacific maritime operations.
+  - **Operational Interoperability-** Foundational agreements such as **COMCASA (2018)** and **BECA (2020)** enhance real-time intelligence and data sharing, critical for **tracking Chinese naval movements.
+  - **Joint Naval Exercises-** India’s participation in the **Quad-led Malabar exercises** with the US, Japan, and Australia ensures **freedom of navigation in the Indo-Pacific sea lanes.
+  - Indo-Russian defence engagements, like the **BrahMos missile project** and **S-400 systems** are less relevant to **Indo-Pacific maritime operations.
 **3. Access to Advanced Defence Technologies**
 
-- **P-8I maritime patrol aircraft, Predator drones,** and **C-17 Globemasters** that enhance India’s maritime strike capability.
+  - **P-8I maritime patrol aircraft, Predator drones,** and **C-17 Globemasters** that enhance India’s maritime strike capability.
 
-- The **iCET (Initiative on Critical and Emerging Technologies)** deepens cooperation in **AI, space, cybersecurity, and jet engine co-development,** advancing India’s **defence self-reliance.
-- **In contrast,** Russian defence systems are based on **legacy technologies,** offering limited cooperation in next-generation warfare domains like **cyber, space, and AI.
+  - The **iCET (Initiative on Critical and Emerging Technologies)** deepens cooperation in **AI, space, cybersecurity, and jet engine co-development,** advancing India’s **defence self-reliance.
+  - **In contrast,** Russian defence systems are based on **legacy technologies,** offering limited cooperation in next-generation warfare domains like **cyber, space, and AI.
 **4. Strategic Balance and Regional Stability**
 
-- The Indo-US defence partnership enhances **collective deterrence** in the Indo-Pacific, particularly in the **South China Sea and the Indian Ocean Region (IOR).
-- Through coordination under the Quad, India and the US promote **capacity building, HADR (Humanitarian Assistance and Disaster Relief),** and **infrastructure resilience.
+  - The Indo-US defence partnership enhances **collective deterrence** in the Indo-Pacific, particularly in the **South China Sea and the Indian Ocean Region (IOR).
+  - Through coordination under the Quad, India and the US promote **capacity building, HADR (Humanitarian Assistance and Disaster Relief),** and **infrastructure resilience.
 **5.** Deepening defence ties with the US diversifies India’s procurement base, **reducing overdependence on Russian arms.
 **Challenges in Strengthening Indo-US Defence Cooperation**
 
@@ -32038,16 +32038,16 @@ Source Question: ‘The time has come for India and Japan to build a strong cont
 
 **1. Strengthen Strategic and Security Cooperation**
 
-- **Institutionalize Indo-Pacific Defence Cooperation-** Expand **2+2 ministerial dialogues,** enhance **joint military exercises** (Malabar, JIMEX) and intelligence sharing.
+  - **Institutionalize Indo-Pacific Defence Cooperation-** Expand **2+2 ministerial dialogues,** enhance **joint military exercises** (Malabar, JIMEX) and intelligence sharing.
 
-- **Maritime Security-** Establish a **Maritime Domain Awareness (MDA)** network in the Indian Ocean to ensure secure **Sea Lanes of Communication (SLOCs).
-- **Regional Architecture-** Coordinate policies within **Quad, ASEAN,** and **East Asia Summit** to promote regional security and crisis management.
+  - **Maritime Security-** Establish a **Maritime Domain Awareness (MDA)** network in the Indian Ocean to ensure secure **Sea Lanes of Communication (SLOCs).
+  - **Regional Architecture-** Coordinate policies within **Quad, ASEAN,** and **East Asia Summit** to promote regional security and crisis management.
 
 **2. Deepen Economic and Connectivity Linkages**
 
-- **Sustainable Infrastructure** under the **Asia-Africa Growth Corridor (AAGC)** as a transparent alternative to China’s BRI.
+  - **Sustainable Infrastructure** under the **Asia-Africa Growth Corridor (AAGC)** as a transparent alternative to China’s BRI.
 
-- Develop **joint critical mineral and semiconductor supply chains** under the **Japan-India Industrial Competitiveness Partnership (IJICP).
+  - Develop **joint critical mineral and semiconductor supply chains** under the **Japan-India Industrial Competitiveness Partnership (IJICP).
 **3. Energy and Technological Cooperation -** Partner in **hydrogen energy, solar manufacturing, and battery storage technologies** to drive Asia’s clean transition.
 
 **4. Soft Power and People-to-People Ties -** Encourage **joint humanitarian and disaster relief operations (HADR)** to reinforce India-Japan goodwill across Asia.
@@ -32056,21 +32056,21 @@ Source Question: ‘The time has come for India and Japan to build a strong cont
 
 **1. Promote a Rules-Based Global Order**
 
-- **UN Reforms-** Work jointly for **UN Security Council reform**
+  - **UN Reforms-** Work jointly for **UN Security Council reform**
 
-- **Global Governance-** Align efforts in **WTO, IMF, and World Bank** to make global institutions more representative and equitable.
+  - **Global Governance-** Align efforts in **WTO, IMF, and World Bank** to make global institutions more representative and equitable.
 
 **2. Global Economic Leadership**
 
-- Promote rule based economic order to counter **weaponisation by trade** by US and China
+  - Promote rule based economic order to counter **weaponisation by trade** by US and China
 
-- **Technology and Trade Norms-** Co-develop standards in **AI ethics, data protection, and digital economy governance.
-- **Climate Action-** Jointly lead **green finance mechanisms** and global partnerships on **carbon neutrality,** leveraging Japan’s technology and India’s markets.
+  - **Technology and Trade Norms-** Co-develop standards in **AI ethics, data protection, and digital economy governance.
+  - **Climate Action-** Jointly lead **green finance mechanisms** and global partnerships on **carbon neutrality,** leveraging Japan’s technology and India’s markets.
 
 **3. Collaboration in Global Commons**
 
-- **Maritime Freedom-** Cooperate to safeguard open seas in the **Western Pacific and Africa’s eastern coast.
-- **Space and Cyber Cooperation-** Develop joint frameworks for **space situational awareness and cybersecurity,** ensuring safe use of global commons.
+  - **Maritime Freedom-** Cooperate to safeguard open seas in the **Western Pacific and Africa’s eastern coast.
+  - **Space and Cyber Cooperation-** Develop joint frameworks for **space situational awareness and cybersecurity,** ensuring safe use of global commons.
 
 As Prof. C. Raja Mohan notes, India and Japan can be **“anchor democracies in the Indo-Pacific”,** balancing China’s rise
 
@@ -32355,30 +32355,30 @@ India and Israel relations, though formally established only in **1992,** have e
 
 **1. Geopolitical Convergence**
 
-- **2017 Modi visit to Israel** (first ever by an Indian PM) and reciprocal visits institutionalized the partnership through **Joint Working Groups** and **2+2 dialogues.
-- **Strategic autonomy-** India has successfully balanced ties with **Israel, Palestine, and Gulf states**
+  - **2017 Modi visit to Israel** (first ever by an Indian PM) and reciprocal visits institutionalized the partnership through **Joint Working Groups** and **2+2 dialogues.
+  - **Strategic autonomy-** India has successfully balanced ties with **Israel, Palestine, and Gulf states**
 
-- **Indo-Abrahamic Bloc:** India’s participation in **I2U2 (India, Israel, UAE, US),** reflect shared Indo-Pacific interests.
+  - **Indo-Abrahamic Bloc:** India’s participation in **I2U2 (India, Israel, UAE, US),** reflect shared Indo-Pacific interests.
 
 **2. Defense and Security Cooperation**
 
-- **Defense Procurement-** Israel is one of India’s **top three defense suppliers.** Eg- **Heron and Searcher UAVs, Barak missiles,** and **Spyder air defense systems.
-- **Counterterrorism Cooperation-** Intelligence-sharing and joint training have strengthened India’s **counterterrorism capabilities** post-26/11.
+  - **Defense Procurement-** Israel is one of India’s **top three defense suppliers.** Eg- **Heron and Searcher UAVs, Barak missiles,** and **Spyder air defense systems.
+  - **Counterterrorism Cooperation-** Intelligence-sharing and joint training have strengthened India’s **counterterrorism capabilities** post-26/11.
 
-- **Maritime Security-** Joint initiatives in the **Indian Ocean and Red Sea** strengthen India’s position in **West Asian maritime architecture.
+  - **Maritime Security-** Joint initiatives in the **Indian Ocean and Red Sea** strengthen India’s position in **West Asian maritime architecture.
 **3. Technology, Agriculture, and Water Cooperation**
 
-- The **India-Israel Agricultural Project (IIAP)** has established over **30 Centers of Excellence** across Indian states.
+  - The **India-Israel Agricultural Project (IIAP)** has established over **30 Centers of Excellence** across Indian states.
 
-- **Water Management-** Collaboration in **drip irrigation, desalination, and wastewater recycling.
-- The **India-Israel Industrial R&D and Technological Innovation Fund (I4F)** supports joint projects in **AI, quantum computing, water tech,** etc.
+  - **Water Management-** Collaboration in **drip irrigation, desalination, and wastewater recycling.
+  - The **India-Israel Industrial R&D and Technological Innovation Fund (I4F)** supports joint projects in **AI, quantum computing, water tech,** etc.
 
 **4. Economic and Trade Relations**
 
-- **Bilateral Trade-** Increased from **$200 million in 1992** to over **$10.7 billion in 2023,** with focus shifting from diamonds to **pharmaceuticals, defense electronics, and agri-tech.
-- Negotiations for a **Comprehensive Economic Partnership Agreement (CEPA)** to deepen commercial linkages.
+  - **Bilateral Trade-** Increased from **$200 million in 1992** to over **$10.7 billion in 2023,** with focus shifting from diamonds to **pharmaceuticals, defense electronics, and agri-tech.
+  - Negotiations for a **Comprehensive Economic Partnership Agreement (CEPA)** to deepen commercial linkages.
 
-- **India and Israel** have signed a **fresh bilateral investment treaty.( first OECD country** to adopt India’s new investment treaty model.)
+  - **India and Israel** have signed a **fresh bilateral investment treaty.( first OECD country** to adopt India’s new investment treaty model.)
 
 **5. People-to-People and Cultural Ties -** Shared **democratic values, historical goodwill,** and **academic and cultural exchanges Major Areas-of Friction**
 
@@ -32771,28 +32771,28 @@ The **I2U2 grouping** was formalized in **2022** as a **minilateral platform** t
 
 **1. Geopolitical Transformation**
 
-- Positions India as a **bridge between the Indo-Pacific and West Asia,** linking **Act East** and **Link West** policies.
+  - Positions India as a **bridge between the Indo-Pacific and West Asia,** linking **Act East** and **Link West** policies.
 
-- **Strategic autonomy** - cooperation with the US and Israel while maintaining relations with Iran and the Arab world.
+  - **Strategic autonomy** - cooperation with the US and Israel while maintaining relations with Iran and the Arab world.
 
-- Elevates India as a **regional stabilizer** in a volatile West Asian geopolitical landscape.
+  - Elevates India as a **regional stabilizer** in a volatile West Asian geopolitical landscape.
 
-- **Countering China’s influence** in West Asia
+  - **Countering China’s influence** in West Asia
 
 **2. Geoeconomic Dimension**
 
-- **Joint investments** in infrastructure, energy, and food security. Eg- **UAE funding a $2 billion food corridor in Gujarat.
-- Integrates India into emerging **West Asia–Indo-Pacific supply chains.
+  - **Joint investments** in infrastructure, energy, and food security. Eg- **UAE funding a $2 billion food corridor in Gujarat.
+  - Integrates India into emerging **West Asia–Indo-Pacific supply chains.
 **3. Defence and Security Cooperation**
 
-- Strengthens intelligence sharing and counterterrorism collaboration.
+  - Strengthens intelligence sharing and counterterrorism collaboration.
 
-- Supports **maritime security** and enhances India’s **strategic depth** in the Western Indian Ocean region.
+  - Supports **maritime security** and enhances India’s **strategic depth** in the Western Indian Ocean region.
 
 **4. Connectivity and Infrastructure**
 
-- Aligns with **India–Middle East–Europe Economic Corridor (IMEC).
-- Enhances security in chokepoints like the **Suez Canal.
+  - Aligns with **India–Middle East–Europe Economic Corridor (IMEC).
+  - Enhances security in chokepoints like the **Suez Canal.
 **5.** Enhances India’s credibility as a **reliable partner in minilateral frameworks** (Quad, BRICS, SCO, G20).
 
 **Challenges Associated with I2U2**
@@ -34102,18 +34102,18 @@ The **SCO,** evolved from the **Shanghai Five (1996), was** founded in **2001,**
 
 **1. Security Cooperation**
 
-- Combat **terrorism, separatism, and extremism** (the “Three Evils”).
+  - Combat **terrorism, separatism, and extremism** (the “Three Evils”).
 
-- Enhance **regional peace and border stability.
+  - Enhance **regional peace and border stability.
 **2. Economic Cooperation**
 
-- Promote **regional trade, connectivity, and energy integration.
-- Facilitate **economic development and mutual prosperity.
+  - Promote **regional trade, connectivity, and energy integration.
+  - Facilitate **economic development and mutual prosperity.
 **3. Political and Strategic Cooperation**
 
-- Strengthen **multipolarity and collective global governance.
-- Counterbalance **Western unilateralism.
-- Support **UN-based international order.
+  - Strengthen **multipolarity and collective global governance.
+  - Counterbalance **Western unilateralism.
+  - Support **UN-based international order.
   - **Cultural and People-to-People Ties -** Enhance **educational, tourism, and youth exchanges** through SCO University, Cultural Forums, and Youth Camps.
 
 **Critical Examination of SCO**
@@ -34743,38 +34743,38 @@ Climate change has emerged as a **global security and geopolitical concern.** In
 
 **1. Early Phase -Defensive Stance (Pre-2010)**
 
-- Advocated **equity and right to development** under **Kyoto Protocol (1997).
-- Opposed binding emission targets for developing countries.
+  - Advocated **equity and right to development** under **Kyoto Protocol (1997).
+  - Opposed binding emission targets for developing countries.
 
-- Supported the principle of **CBDR and respective capabilities.
+  - Supported the principle of **CBDR and respective capabilities.
 **2. Shift from defensive to constructive negotiation (2010-2015)**
 
-- **Copenhagen (2009)** & **Cancún (2010):** Voluntary emission intensity reduction (20-25% by 2020).
+  - **Copenhagen (2009)** & **Cancún (2010):** Voluntary emission intensity reduction (20-25% by 2020).
 
-- Formation of **BASIC bloc (Brazil, South Africa, India, China)** to represent emerging economies.
+  - Formation of **BASIC bloc (Brazil, South Africa, India, China)** to represent emerging economies.
 
   - **Leadership Phase (Post-2015 -Present)**
 
-- **Paris Agreement (2015):** India’s NDCs -
+  - **Paris Agreement (2015):** India’s NDCs -
 
   - Reduce emission intensity by **33-35% by 2030.
   - Achieve **40% non-fossil fuel-based power capacity.
   - Create **carbon sink of 2.5-3 billion tonnes CO₂** through afforestation.
 
-- **COP-26 (Glasgow, 2021):** Announced **“Panchamrit”** commitments -including **Net Zero by 2070** and 50% energy capacity from renewables.
+  - **COP-26 (Glasgow, 2021):** Announced **“Panchamrit”** commitments -including **Net Zero by 2070** and 50% energy capacity from renewables.
 
-- **UNFCCC (COP28):** Leading Global South demand for **loss and damage fund** and fair carbon markets.
+  - **UNFCCC (COP28):** Leading Global South demand for **loss and damage fund** and fair carbon markets.
 
-- **Global South Leadership** - Eg- FIPIC (Forum for India-Pacific Islands Cooperation)
+  - **Global South Leadership** - Eg- FIPIC (Forum for India-Pacific Islands Cooperation)
 
-- **International Solar Alliance (ISA, 2015):** Jointly launched with France to mobilize solar adoption across 100+ countries.
+  - **International Solar Alliance (ISA, 2015):** Jointly launched with France to mobilize solar adoption across 100+ countries.
 
-- **Coalition for Disaster Resilient Infrastructure (CDRI, 2019):** Focus on climate-resilient infrastructure in developing nations.
+  - **Coalition for Disaster Resilient Infrastructure (CDRI, 2019):** Focus on climate-resilient infrastructure in developing nations.
 
-- **G20 Presidency (2023):** Advocated **Green Development Pact** and **Just Energy Transition** for Global South.
+  - **G20 Presidency (2023):** Advocated **Green Development Pact** and **Just Energy Transition** for Global South.
 
-- **Quad Climate Group:** Promoting **clean hydrogen, green shipping, and resilient supply chains.
-- **BRICS & SCO:** Advocates **equitable climate finance, green technology transfer,** and **multipolar environmental governance.
+  - **Quad Climate Group:** Promoting **clean hydrogen, green shipping, and resilient supply chains.
+  - **BRICS & SCO:** Advocates **equitable climate finance, green technology transfer,** and **multipolar environmental governance.
 **India’s other efforts towards climate change and Clean energy**
 
 1. **National Action Plan on Climate Change (NAPCC)**
@@ -35874,20 +35874,20 @@ The US withdrawal from the **JCPOA (Joint Comprehensive Plan of Action)** in 201
 
 **A. Energy Security**
 
-- **Sanctions** have forced India to diversify at higher costs, raising the **import bill and inflation.
+  - **Sanctions** have forced India to diversify at higher costs, raising the **import bill and inflation.
 <p align="center"><img src="civilsdaily/images/civilsdaily_p141_img81.png" alt="Diagram" /></p>
 
-- **Regional instability** inflates global oil prices, aggravating India’s **current account deficit and rupee depreciation.
+  - **Regional instability** inflates global oil prices, aggravating India’s **current account deficit and rupee depreciation.
 **B. Connectivity Challenges**
 
-- US sanctions complicate financing and insurance for the **Chabahar Port** and **INSTC-** critical to India’s access to **Afghanistan, Central Asia, and Europe.
-- India’s exports to Iran (pharmaceuticals, rice, machinery) face banking restrictions.
+  - US sanctions complicate financing and insurance for the **Chabahar Port** and **INSTC-** critical to India’s access to **Afghanistan, Central Asia, and Europe.
+  - India’s exports to Iran (pharmaceuticals, rice, machinery) face banking restrictions.
 
 **C. Strategic and Diplomatic Dilemmas**
 
-- Challenge of maintaining **strategic partnerships with both Washington and Tehran,** while avoiding diplomatic friction.
+  - Challenge of maintaining **strategic partnerships with both Washington and Tehran,** while avoiding diplomatic friction.
 
-- **Security Concerns-** Escalation in the **Strait of Hormuz** threatens India’s **sea-borne energy supplies** and security of Indian diaspora in the Gulf. Eg- Red sea crisis in 2024 **How India Should Respond Short-term Measures**
+  - **Security Concerns-** Escalation in the **Strait of Hormuz** threatens India’s **sea-borne energy supplies** and security of Indian diaspora in the Gulf. Eg- Red sea crisis in 2024 **How India Should Respond Short-term Measures**
 
   - **Energy Diversification-** Strengthen long-term import contracts with **Saudi Arabia, UAE, Russia, and the US,** and expand **strategic oil reserves.
   - **Protect Maritime Routes-** Enhance **naval surveillance** in the Arabian Sea under **SAGAR** (Security and Growth for All in the Region).
@@ -37312,11 +37312,11 @@ Source Question: “The reform process in the United Nations remains unresolved,
 
 5. **Financial and Bureaucratic Reforms**
 
-- Diversify funding base to **reduce donor dominance.
-- Introduce **independent audit mechanisms** for UN agencies for transparency.
+  - Diversify funding base to **reduce donor dominance.
+  - Introduce **independent audit mechanisms** for UN agencies for transparency.
 
-- Rationalize overlapping agencies (UNDP, UNEP, WHO) to ensure **resource efficiency.
-- Establish a **UN Accountability Commission** to monitor performance and corruption within UN bodies.
+  - Rationalize overlapping agencies (UNDP, UNEP, WHO) to ensure **resource efficiency.
+  - Establish a **UN Accountability Commission** to monitor performance and corruption within UN bodies.
 
 As UN Secretary General **Antonio Guterres** put it, we can’t create a future fit for our grandchildren with systems built for our grandparents. Thus, **“reformed multilateralism”** with the UN at its core is essential.
 
@@ -38458,18 +38458,18 @@ The **WTO,** established in **1995** under **Uruguay Round** of the **GATT,** wa
 **1. Revival of the WTO Dispute Settlement System** to maintain WTO’s **credibility and rule-based order.
 **2. Institutional & Negotiation Reforms**
 
-- Move from **consensus-only decision-making** to **hybrid or majority-based models** for efficiency.
+  - Move from **consensus-only decision-making** to **hybrid or majority-based models** for efficiency.
 
-- Enhance voice of developing nations in agenda-setting and committee representation
+  - Enhance voice of developing nations in agenda-setting and committee representation
 
 **3. Reform of Special and Differential Treatment -** Retain S&DT as a **core principle** ensuring **policy space for developing countries.
 **4. Agricultural Trade Reform**
 
-- Rationalize **domestic support and export subsidies** in developed nations (EU, US).
+  - Rationalize **domestic support and export subsidies** in developed nations (EU, US).
 
-- Permanent solutions for **public food grain stockholding** programs
+  - Permanent solutions for **public food grain stockholding** programs
 
-- Ensure **food security exemptions** are protected under **Article 18.4 of AoA.
+  - Ensure **food security exemptions** are protected under **Article 18.4 of AoA.
 **5. Tackling Non-Tariff Barriers (NTBs)** by ensuring **transparency, science-based standards,** and **non-discriminatory application** of NTBs.
 
 **6. Addressing Distortions by Non-Market Economies - Eg- China’s export quotas on rare earths**
