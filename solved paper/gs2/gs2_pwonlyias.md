@@ -5274,7 +5274,7 @@ Their contributions have been significant in various sectors and continue to inf
 
 **India’s low ranking on this index is a result of various factors that are listed below:**
 
-***Legal Factors:**
+**Legal Factors:**
 - **Inadequate laws and regulations:** India lacks comprehensive anti-corruption laws, and existing laws have loopholes that are exploited by corrupt individuals.
 - **Weak enforcement:** Law enforcement agencies in India often suffer from inadequate resources, low capacity, and limited autonomy.
 - **Delays in the judicial process:** The slow and overburdened judicial system in India leads to **delays in delivering justice**, which enables corrupt individuals to evade punishment.
