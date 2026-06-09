@@ -2612,7 +2612,7 @@ Planning Commission Top Down Comparative Flowchart
 | **State Role** | Limited participation through NDC | Chief Ministers in Governing Council |
 | **Decision Authority** | Central government dominance | Shared responsibility model |
 | **Policy Formulation** | Uniform national policies | State-specific customized strategies |
-| **Institutional Nature** | Constitutional body with executive powers | Policy think tank and advisory body |
+| **Institutional Nature** | Constitutional <br> body with executive powers | Policy think tank and advisory <br> body |
 
 ## Resource Allocation and Financial Powers - Planning Commission Era: Direct control over plan expenditure and state allocations through Gadgil-Mukherjee formula - NITI Aayog Framework: No direct financial allocation powers; Finance Commission handles resource distribution
 - **Budgeting Approach**: Shifted from **plan vs non-plan** classification to **capital vs revenue expenditure** - **Funding Mechanism**: Emphasis on **public-private partnerships** and innovative financing models

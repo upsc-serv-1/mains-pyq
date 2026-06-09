@@ -44,7 +44,7 @@ However, the establishment of the all–India federation did not materialize bec
 1. Explanation_PWOnlyIAS:
 Source Question: Did the Government of India Act, 1935 lay down a federal constitution? Discuss. (200 words, 12.5 marks)
 
-| **Approach:** <br> **Introduction** <br>• Begin by introducing the Government of India Act, 1935 as an important piece of legislation that aimed to introduce a federal system of government in British India. **Body** <br>• Discuss the key features of the Act that attempted to lay down a federal constitution. <br>• Address the reasons why the federal provisions were not fully implemented. **Conclusion** <br>• Write a relevant conclusion. |
+| **Approach:** <br> **Introduction** <br>• Begin by introducing the Government of India Act, 1935 as an important piece of legislation that aimed to introduce a federal system of government in British India. <br> **Body** <br>• Discuss the key features of the Act that attempted to lay down a federal constitution. <br>• Address the reasons why the federal provisions were not fully implemented. <br> **Conclusion** <br>• Write a relevant conclusion. |
 | --- |
 
 ### Introduction
@@ -142,7 +142,7 @@ Increasing role of money and muscle power in elections, has resulted in parliame
 1. Explanation_PWOnlyIAS:
 Source Question: Discuss each adjective attached to the word ‘Republic’ in the ‘Preamble’. Are they defendable in the present circumstances? (200 words, 12.5 marks)
 
-| **Approach:** <br> **Introduction** <br>• Begin by introducing the Preamble of the Indian Constitution and its declaration of India as a “Sovereign Socialist Secular Democratic Republic. **Body** <br>• Discuss each adjective and its significance in the context of the Indian Constitution. <br>• Provide examples to substantiate their defendability in the present circumstances, while also addressing any challenges or concerns related to each principle. **Conclusion** <br>• Write a relevant conclusion. |
+| **Approach:** <br> **Introduction** <br>• Begin by introducing the Preamble of the Indian Constitution and its declaration of India as a “Sovereign Socialist Secular Democratic Republic. <br> **Body** <br>• Discuss each adjective and its significance in the context of the Indian Constitution. <br>• Provide examples to substantiate their defendability in the present circumstances, while also addressing any challenges or concerns related to each principle. <br> **Conclusion** <br>• Write a relevant conclusion. |
 | --- |
 
 ### Introduction
@@ -472,7 +472,7 @@ Thus, Parliament is restricted in its power to amend the Constitution so that th
 1. Explanation_PWOnlyIAS:
 Source Question: On what grounds a people’s representative can be disqualified under the Representation of Peoples Act, 1951? Also mention the remedies available to such person against his disqualification.
 
-| **Approach:** <br> **Introduction** <br>• Introduce the Representation of People’s Act, 1951 (RPA) and its purpose in governing the conduct of elections in India. **Body** <br>• Discuss the grounds for disqualification under the RPA (Sections 8, 8A, 9, 9A, 10, and 10A). <br>• Explain the remedies available to a person against disqualification, including appealing to a higher court, seeking judicial review, expunging the conviction, and obtaining a presidential pardon. **Conclusion** <br>• Conclude, emphasizing the importance of the RPA in maintaining the integrity of the electoral process in India. |
+| **Approach:** <br> **Introduction** <br>• Introduce the Representation of People’s Act, 1951 (RPA) and its purpose in governing the conduct of elections in India. <br> **Body** <br>• Discuss the grounds for disqualification under the RPA (Sections 8, 8A, 9, 9A, 10, and 10A). <br>• Explain the remedies available to a person against disqualification, including appealing to a higher court, seeking judicial review, expunging the conviction, and obtaining a presidential pardon. <br> **Conclusion** <br>• Conclude, emphasizing the importance of the RPA in maintaining the integrity of the electoral process in India. |
 | --- |
 
 ### Introduction
@@ -572,7 +572,7 @@ Any new reform is expected to experience a few teething problems. Since it is ex
 1. Explanation_PWOnlyIAS:
 Source Question: Explain the salient features of the constitution (One Hundred and First Amendment) Act, 2016. Do you think it is efficacious enough ‘to remove cascading effect of taxes and provide for common national market for goods and services’?
 
-| **Approach:** <br> **Introduction:** <br>• Introduce the Constitution (One Hundred and First Amendment) Act, 2016, which implemented the Goods and Services Tax (GST) in India, aiming to remove the cascading effect of taxes and create a common national market for goods and services. **Body** <br>• Divide the body into three main sections. <br>• Salient features of the amendment. <br>• Efficacy of GST in achieving objectives. <br>• Concerns and challenges. **Conclusion** <br>• Conclude, emphasizing the need for continued improvement and simplification of the GST system to enhance its overall effectiveness. |
+| **Approach:** <br> **Introduction:** <br>• Introduce the Constitution (One Hundred and First Amendment) Act, 2016, which implemented the Goods and Services Tax (GST) in India, aiming to remove the cascading effect of taxes and create a common national market for goods and services. <br> **Body** <br>• Divide the body into three main sections. <br>• Salient features of the amendment. <br>• Efficacy of GST in achieving objectives. <br>• Concerns and challenges. **Conclusion** <br>• Conclude, emphasizing the need for continued improvement and simplification of the GST system to enhance its overall effectiveness. |
 | --- |
 
 ### Introduction
@@ -751,7 +751,7 @@ The Indian legal and judicial perspective is one that places a lot of significan
 1. Explanation_PWOnlyIAS:
 Source Question: Explain the significance of the 101st Constitutional Amendment Act. To what extent does it reflect the accommodative spirit of federalism?
 
-| **Approach:** <br> **Introduction** <br>• Write about the 101st Constitutional Amendment Act briefly **Body** <br>• Write the significance of the 101st Constitutional Amendment Act <br>• Write how it reflects the accommodative spirit of federalism **Conclusion** <br>• Give appropriate conclusion in this regard |
+| **Approach:** <br> **Introduction** <br>• Write about the 101st Constitutional Amendment Act briefly <br> **Body** <br>• Write the significance of the 101st Constitutional Amendment Act <br>• Write how it reflects the accommodative spirit of federalism <br> **Conclusion** <br>• Give appropriate conclusion in this regard |
 | --- |
 
 ### Introduction
@@ -938,7 +938,7 @@ Thus, SC as guardian of fundamental rights has effectively employed the provisio
 1. Explanation_PWOnlyIAS:
 Source Question: “The most significant achievement of modern law in India is the constitutionalization of environmental problems by the Supreme Court.” Discuss this statement with the help of relevant case laws.
 
-| **Approach:** <br> **Introduction** <br>• Begin with a brief overview of the importance of environmental protection in India and the role of the Supreme Court in addressing environmental issues within the constitutional framework. **Body** <br>• Divide the main content into sub-sections discussing: <br>• The expansion of the right to life (Article 21) to include the right to a pollution-free environment, with case law examples (e.g., Oleum Gas Leak Case). <br>• The integration of international environmental principles into Indian law, such as the Precautionary Principle and Polluter Pays Principle, with case law examples (e.g., Vellore Citizens Welfare Forum v. Union of India). <br>• The application of the public trust doctrine and the recognition of state and citizen responsibilities in protecting the environment, with case law examples (e.g., T.N. Godavarman Thirumulpad v. Union of India) **Conclusion** <br>• Conclude, emphasizing the innovative interpretations of the Constitution and the establishment of a solid legal framework for addressing environmental challenges. |
+| **Approach:** <br> **Introduction** <br>• Begin with a brief overview of the importance of environmental protection in India and the role of the Supreme Court in addressing environmental issues within the constitutional framework. <br> **Body** <br>• Divide the main content into sub-sections discussing: <br>• The expansion of the right to life (Article 21) to include the right to a pollution-free environment, with case law examples (e.g., Oleum Gas Leak Case). <br>• The integration of international environmental principles into Indian law, such as the Precautionary Principle and Polluter Pays Principle, with case law examples (e.g., Vellore Citizens Welfare Forum v. Union of India). <br>• The application of the public trust doctrine and the recognition of state and citizen responsibilities in protecting the environment, with case law examples (e.g., T.N. Godavarman Thirumulpad v. Union of India) <br> **Conclusion** <br>• Conclude, emphasizing the innovative interpretations of the Constitution and the establishment of a solid legal framework for addressing environmental challenges. |
 | --- |
 
 ### Introduction
@@ -1070,7 +1070,7 @@ Therefore, judicial review is a crucial aspect and cornerstone to our constituti
 1. Explanation_PWOnlyIAS:
 Source Question: What was held in the Coelho case? In this context, can you say that judicial review is of key importance amongst the basic features of the Constitution? (200 words, 12.5 marks)
 
-| **Approach:** <br> **Introduction** <br>• Introduce the Coelho case as a landmark judgment by the Supreme Court of India, which reinforced the doctrine of the basic structure of the Constitution and the importance of judicial review. **Body** <br>• Explain the main holding of the Coelho case, emphasizing that laws placed in the Ninth Schedule are still subject to judicial review if they violate the basic structure of the Constitution. <br>• Discuss the significance of judicial review as a key component of the basic features of the Constitution, elaborating on its role in upholding the principles of separation of powers, rule of law, and protection of fundamental rights. **Conclusion** <br>• Conclude by emphasizing that the decision underscores the importance of judicial review as a key element of the basic features of the Constitution. |
+| **Approach:** <br> **Introduction** <br>• Introduce the Coelho case as a landmark judgment by the Supreme Court of India, which reinforced the doctrine of the basic structure of the Constitution and the importance of judicial review. <br> **Body** <br>• Explain the main holding of the Coelho case, emphasizing that laws placed in the Ninth Schedule are still subject to judicial review if they violate the basic structure of the Constitution. <br>• Discuss the significance of judicial review as a key component of the basic features of the Constitution, elaborating on its role in upholding the principles of separation of powers, rule of law, and protection of fundamental rights. <br> **Conclusion** <br>• Conclude by emphasizing that the decision underscores the importance of judicial review as a key element of the basic features of the Constitution. |
 | --- |
 
 ### Introduction
@@ -1389,7 +1389,7 @@ Constitutional morality is crucial for constitutional laws to be effective. With
 1. Explanation_PWOnlyIAS:
 Source Question: ‘Constitutional Morality’ is rooted in the Constitution itself and is founded on its essential facets. Explain the doctrine of ‘Constitutional Morality’ with the help of relevant judicial decisions.
 
-| **Approach:** <br> **Introduction** Introduce the concept of Constitutional Morality. **Body** <br>• Mention in brief, in which provisions, it’s present in the constitution. <br>• Elaborate on the concept with the help of relevant judicial decisions from India, highlighting how Indian courts have shaped the understanding of Constitutional Morality. **Conclusion** <br>• Write a relevant conclusion. |
+| **Approach:** <br> **Introduction** Introduce the concept of Constitutional Morality. <br> **Body** <br>• Mention in brief, in which provisions, it’s present in the constitution. <br>• Elaborate on the concept with the help of relevant judicial decisions from India, highlighting how Indian courts have shaped the understanding of Constitutional Morality. <br> **Conclusion** <br>• Write a relevant conclusion. |
 | --- |
 
 ### Introduction
@@ -1501,7 +1501,7 @@ Q11. Discuss the possible factors that inhibit India from enacting for its citiz
 1. Explanation_PWOnlyIAS:
 Source Question: Discuss the possible factors that inhibit India from enacting for its citizens a uniform civil code as provided for in the Directive Principles of State Policy. (200 words, 12.5 marks)
 
-| **Approach:** <br> **Introduction** <br>• Briefly introduce the concept of a Uniform Civil Code and its mention in the Directive Principles of State Policy. **Body** <br>• Discuss the various factors that inhibit the implementation of a UCC in India. **Conclusion** <br>• Sum up the challenges and emphasize the need for a balanced approach. |
+| **Approach:** <br> **Introduction** <br>• Briefly introduce the concept of a Uniform Civil Code and its mention in the Directive Principles of State Policy. <br> **Body** <br>• Discuss the various factors that inhibit the implementation of a UCC in India. <br> **Conclusion** <br>• Sum up the challenges and emphasize the need for a balanced approach. |
 | --- |
 
 ### Introduction
@@ -1859,7 +1859,7 @@ The Constitution has evolved through time via various amendments that have been 
 1. Explanation_PWOnlyIAS:
 Source Question: The Constitution of India is a living instrument with capabilities of enormous dynamism. It is a constitution made for a progressive society.&#8221; Illustrate with special reference to the expanding horizons of the right to life and personal liberty.
 
-| **Approach:** <br> **Introduction** <br>• Write what is meant by “a living instrument” in the context of the Constitution **Body** <br>• Write about the Constitution of India as a living instrument with capabilities of enormous dynamism <br>• Write how the Indian Constitution Adapts to the Evolving Needs of a Progressive Society <br>• Write about the expanding horizons of the right to life and personal liberty in India **Conclusion** <br>• Give appropriate conclusion in this regard |
+| **Approach:** <br> **Introduction** <br>• Write what is meant by “a living instrument” in the context of the Constitution <br> **Body** <br>• Write about the Constitution of India as a living instrument with capabilities of enormous dynamism <br>• Write how the Indian Constitution Adapts to the Evolving Needs of a Progressive Society <br>• Write about the expanding horizons of the right to life and personal liberty in India <br> **Conclusion** <br>• Give appropriate conclusion in this regard |
 | --- |
 
 ### Introduction
@@ -2039,7 +2039,7 @@ Thus, this right, while enhancing the mobility of the Indian citizens, is also s
 1. Explanation_PWOnlyIAS:
 Source Question: “Right of movement and residence throughout the territory of India are freely available to the Indian citizens, but these rights are not absolute. “ Comment.
 
-| **Approach:** <br> **Introduction** <br>• Begin with a brief overview of the rights to freedom of movement and residence under Article 19(1)(d) and (e) of the Indian Constitution, and mention that these rights are not absolute. **Body** <br>• Divide the main content into sub-sections discussing: <br>• The provisions of Article 19(1)(d) and (e) and the reasonable restrictions under Article 19(5) in the interests of the general public, national security, and the protection of Scheduled Tribes. <br>• Notable judgments from the Supreme Court of India that uphold the constitutionality of these restrictions. **Conclusion** <br>• Write a relevant conclusion. |
+| **Approach:** <br> **Introduction** <br>• Begin with a brief overview of the rights to freedom of movement and residence under Article 19(1)(d) and (e) of the Indian Constitution, and mention that these rights are not absolute. <br> **Body** <br>• Divide the main content into sub-sections discussing: <br>• The provisions of Article 19(1)(d) and (e) and the reasonable restrictions under Article 19(5) in the interests of the general public, national security, and the protection of Scheduled Tribes. <br>• Notable judgments from the Supreme Court of India that uphold the constitutionality of these restrictions. <br> **Conclusion** <br>• Write a relevant conclusion. |
 | --- |
 
 ### Introduction
@@ -2147,7 +2147,7 @@ However it should not be forgotten that no fundamental rights are absolute in In
 1. Explanation_PWOnlyIAS:
 Source Question: Examine the scope of Fundamental Rights in the light of the latest judgement of the Supreme Court on Right to Privacy.
 
-| **Approach:** <br> **Introduction** <br>• Introduce the Supreme Court’s Right to Privacy judgment (Justice K.S. Puttaswamy (Retd.) vs Union of India) and its significance in the context of Fundamental Rights in India. **Body** <br>• Discuss the implications of the judgment on the scope of Fundamental Rights. **Conclusion** <br>• Conclude, emphasizing the continued importance of privacy in the interpretation and enforcement of Fundamental Rights in India. |
+| **Approach:** <br> **Introduction** <br>• Introduce the Supreme Court’s Right to Privacy judgment (Justice K.S. Puttaswamy (Retd.) vs Union of India) and its significance in the context of Fundamental Rights in India. <br> **Body** <br>• Discuss the implications of the judgment on the scope of Fundamental Rights. <br> **Conclusion** <br>• Conclude, emphasizing the continued importance of privacy in the interpretation and enforcement of Fundamental Rights in India. |
 | --- |
 
 ### Introduction
@@ -2217,7 +2217,7 @@ Q16. Does the right to clean environment entail legal regulations on burning cra
 1. Explanation_PWOnlyIAS:
 Source Question: Does the right to clean environment entail legal regulations on burning crackers during Diwali? Discuss in the light of Article 21 of the Indian Constitution and Judgement(s) of the Apex Court in this regard. (200 words, 12.5 marks)
 
-| **Approach:** <br> **Introduction** <br>• Briefly introduce the right to a clean environment and its connection to Article 21 of the Indian Constitution. **Body** <br>• Discuss the legal regulations on burning crackers during Diwali in light of Article 21 and relevant Supreme Court judgments. **Conclusion** <br>• Sum up the role of legal regulations in balancing the right to a clean environment with cultural practices. |
+| **Approach:** <br> **Introduction** <br>• Briefly introduce the right to a clean environment and its connection to Article 21 of the Indian Constitution. <br> **Body** <br>• Discuss the legal regulations on burning crackers during Diwali in light of Article 21 and relevant Supreme Court judgments. <br> **Conclusion** <br>• Sum up the role of legal regulations in balancing the right to a clean environment with cultural practices. |
 | --- |
 
 ### Introduction
@@ -2285,7 +2285,7 @@ Q17. What do you understand by the concept “freedom of speech and expression�
 1. Explanation_PWOnlyIAS:
 Source Question: What do you understand by the concept “freedom of speech and expression”? Does it cover hate speech also? Why do the films in India stand on a slightly different plane from other forms of expression? Discuss. (200 words, 12.5 marks)
 
-| **Approach:** <br> **Introduction** <br>• Start by defining the concept of “freedom of speech and expression” in the context of the Indian Constitution. **Body** <br>• Discuss whether freedom of speech and expression covers hate speech. <br>• Discuss why films in India stand on a different plane from other forms of expression. <br>• Include a recent controversy like the one surrounding the film “Padmaavat”. **Conclusion** <br>• Write a suitable conclusion. |
+| **Approach:** <br> **Introduction** <br>• Start by defining the concept of “freedom of speech and expression” in the context of the Indian Constitution. <br> **Body** <br>• Discuss whether freedom of speech and expression covers hate speech. <br>• Discuss why films in India stand on a different plane from other forms of expression. <br>• Include a recent controversy like the one surrounding the film “Padmaavat”. <br> **Conclusion** <br>• Write a suitable conclusion. |
 | --- |
 
 ### Introduction
@@ -2366,7 +2366,7 @@ Q18. Discuss Section 66A of IT Act, with reference to its alleged violation of A
 1. Explanation_PWOnlyIAS:
 Source Question: Discuss Section 66A of IT Act, with reference to its alleged violation of Article 19 of the Constitution.
 
-| **Approach:** <br> **Introduction** <br>• Begin by briefly defining Section 66A of the IT Act and Article 19 of the Indian Constitution. **Body** <br>• Delve deeper into the specifics of Section 66A. <br>• Mention the reasonable restrictions placed on this right under Article 19(2). <br>• Discuss specific criticisms and instances of misuse that led to the questioning of this provision. <br>• Also, in the end, summarize the Supreme Court’s ruling in Shreya Singhal v. Union of India. **Conclusion** <br>• Write a suitable conclusion. |
+| **Approach:** <br> **Introduction** <br>• Begin by briefly defining Section 66A of the IT Act and Article 19 of the Indian Constitution. <br> **Body** <br>• Delve deeper into the specifics of Section 66A. <br>• Mention the reasonable restrictions placed on this right under Article 19(2). <br>• Discuss specific criticisms and instances of misuse that led to the questioning of this provision. <br>• Also, in the end, summarize the Supreme Court’s ruling in Shreya Singhal v. Union of India. <br> **Conclusion** <br>• Write a suitable conclusion. |
 | --- |
 
 ### Introduction
@@ -3098,7 +3098,7 @@ While India is often believed to have a system congruent to the Westminster mode
 1. Explanation_PWOnlyIAS:
 Source Question: Compare and contrast the British and Indian approaches to Parliamentary sovereignty.
 
-| **Approach:** <br> **Introduction** <br>• Write about Parliamentary sovereignty briefly **Body** <br>• Write differences between the British and Indian approaches to Parliamentary sovereignty <br>• Write similarities between the British and Indian approaches to Parliamentary sovereignty **Conclusion** <br>• Give appropriate conclusion in this regard |
+| **Approach:** <br> **Introduction** <br>• Write about Parliamentary sovereignty briefly <br> **Body** <br>• Write differences between the British and Indian approaches to Parliamentary sovereignty <br>• Write similarities between the British and Indian approaches to Parliamentary sovereignty <br> **Conclusion** <br>• Give appropriate conclusion in this regard |
 | --- |
 
 ### Introduction
@@ -3280,7 +3280,7 @@ Thus, we can say that there are some similarities as well as dissimilarities in 
 1. Explanation_PWOnlyIAS:
 Source Question: Critically examine the procedures through which the Presidents of India and France are elected.
 
-| **Approach:** <br> **Introduction** <br>• Briefly introduce the presidential electoral systems of both countries, highlighting their key differences. **Body** <br>• Explain the procedure for electing the President of India. <br>• Explain the procedure for electing the President of France. <br>• Critically examine the procedures. <br>• Discuss the advantages and disadvantages of each procedure. **Conclusion** <br>• Conclude, highlighting the main strengths and weaknesses of each electoral system. |
+| **Approach:** <br> **Introduction** <br>• Briefly introduce the presidential electoral systems of both countries, highlighting their key differences. <br> **Body** <br>• Explain the procedure for electing the President of India. <br>• Explain the procedure for electing the President of France. <br>• Critically examine the procedures. <br>• Discuss the advantages and disadvantages of each procedure. <br> **Conclusion** <br>• Conclude, highlighting the main strengths and weaknesses of each electoral system. |
 | --- |
 
 ### Introduction
@@ -3432,7 +3432,7 @@ The Right to Equality is considered a basic feature of both the Constitutions an
 1. Explanation_PWOnlyIAS:
 Source Question: Analyze the distinguishing features of the notion of Equality in the Constitutions of the USA and India.
 
-| **Approach:** <br> **Introduction** <br>• Introduce the importance of the principle of equality in both the US and Indian Constitutions and mention that there are distinct differences in their articulation and implementation. **Body** <br>• Discuss the constitutional provisions related to equality in both countries. <br>• Compare the scope of protection provided by each constitution. <br>• Analyze the differences in affirmative action policies between the two countries. <br>• Examine the role of the judiciary in interpreting and enforcing the principle of equality in both nations. **Conclusion** <br>• Conclude, highlighting the unique historical, social, and political contexts of each country. |
+| **Approach:** <br> **Introduction** <br>• Introduce the importance of the principle of equality in both the US and Indian Constitutions and mention that there are distinct differences in their articulation and implementation. <br> **Body** <br>• Discuss the constitutional provisions related to equality in both countries. <br>• Compare the scope of protection provided by each constitution. <br>• Analyze the differences in affirmative action policies between the two countries. <br>• Examine the role of the judiciary in interpreting and enforcing the principle of equality in both nations. <br> **Conclusion** <br>• Conclude, highlighting the unique historical, social, and political contexts of each country. |
 | --- |
 
 ### Introduction
@@ -3597,7 +3597,7 @@ The British judicial system provided the foundation on which its Indian counterp
 1. Explanation_PWOnlyIAS:
 Source Question: The judicial systems in India and the UK seem to be converging as well as diverging in recent times. Highlight the key points of convergence and divergence between the two nations in terms of their judicial practices.
 
-| **Approach:** <br> **Introduction** <br>• Introduce writing the historical linkages between the Indian and UK judicial systems. **Body:** <br>• Discuss the points of convergence between the Indian and UK judicial systems. <br>• Examine the points of divergence between the Indian and UK judicial systems. **Conclusion** <br>• Conclude, highlighting the potential for further adaptations and changes in both judicial systems as they continue to evolve and address contemporary challenges. |
+| **Approach:** <br> **Introduction** <br>• Introduce writing the historical linkages between the Indian and UK judicial systems. <br> **Body:** <br>• Discuss the points of convergence between the Indian and UK judicial systems. <br>• Examine the points of divergence between the Indian and UK judicial systems. <br> **Conclusion** <br>• Conclude, highlighting the potential for further adaptations and changes in both judicial systems as they continue to evolve and address contemporary challenges. |
 | --- |
 
 ### Introduction
@@ -3743,7 +3743,7 @@ We may observe this from the fact that very few people in India were radicalised
 1. Explanation_PWOnlyIAS:
 Source Question: What can France learn from the Indian Constitution’s approach to secularism?
 
-| **Approach:** <br> **Introduction** <br>• Introduce the concept of secularism and briefly mention the differences between French laïcité and Indian secularism. **Body** <br>• Discuss the aspects of the Indian Constitution’s approach to secularism that France could learn from: <br>• Recognition of multiple religions. <br>• Protection of religious rights. <br>• Encouraging interfaith dialogue and harmony. <br>• Balancing secularism with religious accommodation. **Conclusion** <br>• Write a relevant conclusion. |
+| **Approach:** <br> **Introduction** <br>• Introduce the concept of secularism and briefly mention the differences between French laïcité and Indian secularism. <br> **Body** <br>• Discuss the aspects of the Indian Constitution’s approach to secularism that France could learn from: <br>• Recognition of multiple religions. <br>• Protection of religious rights. <br>• Encouraging interfaith dialogue and harmony. <br>• Balancing secularism with religious accommodation. <br> **Conclusion** <br>• Write a relevant conclusion. |
 | --- |
 
 ### Introduction
@@ -3869,7 +3869,7 @@ Though the US and Indian political systems are similar in many respects, yet the
 1. Explanation_PWOnlyIAS:
 Source Question: Whether the Supreme Court Judgment (July 2018) can settle the political tussle between the Lt. Governor and elected government of Delhi? Examine.
 
-| **Approach:** <br> **Introduction** <br>• Briefly introduce the context of the political tussle between the Lt. Governor and the elected government of Delhi and the Supreme Court judgment of July 2018. **Body** <br>• Discuss the key points of the Supreme Court judgment and examine whether it can settle the political tussle between the Lt. Governor and the elected government of Delhi. **Conclusion** <br>• Summarize the possible implications of the judgment on the governance of Delhi and the need for cooperation between the Lt. Governor and the elected government. |
+| **Approach:** <br> **Introduction** <br>• Briefly introduce the context of the political tussle between the Lt. Governor and the elected government of Delhi and the Supreme Court judgment of July 2018. <br> **Body** <br>• Discuss the key points of the Supreme Court judgment and examine whether it can settle the political tussle between the Lt. Governor and the elected government of Delhi. <br> **Conclusion** <br>• Summarize the possible implications of the judgment on the governance of Delhi and the need for cooperation between the Lt. Governor and the elected government. |
 | --- |
 
 ### Introduction
@@ -4036,7 +4036,7 @@ The reduced usage of Article 356 by application of various political and legal m
 1. Explanation_PWOnlyIAS:
 Source Question: Account for the legal and political factors responsible for the reduced frequency of using Article 356 by the Union Governments since mid-1990s.
 
-| **Approach:** <br> **Introduction** Write about Article 356 of the Indian Constitution briefly **Body** <br>• Write legal factors responsible for the reduced frequency of using Article 356 by the Union Governments since mid-1990s <br>• Write political factors responsible for the reduced frequency of using Article 356 by the Union Governments since mid-1990s **Conclusion** <br>• Give appropriate conclusion in this regard |
+| **Approach:** <br> **Introduction** Write about Article 356 of the Indian Constitution briefly <br> **Body** <br>• Write legal factors responsible for the reduced frequency of using Article 356 by the Union Governments since mid-1990s <br>• Write political factors responsible for the reduced frequency of using Article 356 by the Union Governments since mid-1990s <br> **Conclusion** <br>• Give appropriate conclusion in this regard |
 | --- |
 
 ### Introduction
@@ -4225,7 +4225,7 @@ Till now, the Financial Emergency has never been invoked in India.
 1. Explanation_PWOnlyIAS:
 Source Question: Under what circumstances can the Financial Emergency be proclaimed by the President of India? What consequences follow when such a declaration remain in force?
 
-| **Approach:** <br> **Introduction** <br>• Briefly introduce the concept of Financial Emergency as per the Indian Constitution. **Body** <br>• Discuss the circumstances under which a Financial Emergency can be proclaimed by the President and the consequences that follow when such a declaration remains in force. **Conclusion** <br>• Summarize the importance of understanding Financial Emergency provisions and their implications on the functioning of the government and the economy. |
+| **Approach:** <br> **Introduction** <br>• Briefly introduce the concept of Financial Emergency as per the Indian Constitution. <br> **Body** <br>• Discuss the circumstances under which a Financial Emergency can be proclaimed by the President and the consequences that follow when such a declaration remains in force. <br> **Conclusion** <br>• Summarize the importance of understanding Financial Emergency provisions and their implications on the functioning of the government and the economy. |
 | --- |
 
 ### Introduction
@@ -4326,7 +4326,7 @@ For this, the state legislature of J&K would have to agree and since the ruling 
 1. Explanation_PWOnlyIAS:
 Source Question: What was held in the Coelho case? In this context, can you say that judicial review is of key importance amongst the basic features of the Constitution? (200 words, 12.5 marks)
 
-| **Approach:** <br> **Introduction** <br>• Introduce the Coelho case as a landmark judgment by the Supreme Court of India, which reinforced the doctrine of the basic structure of the Constitution and the importance of judicial review. **Body** <br>• Explain the main holding of the Coelho case, emphasizing that laws placed in the Ninth Schedule are still subject to judicial review if they violate the basic structure of the Constitution. <br>• Discuss the significance of judicial review as a key component of the basic features of the Constitution, elaborating on its role in upholding the principles of separation of powers, rule of law, and protection of fundamental rights. **Conclusion** <br>• Conclude by emphasizing that the decision underscores the importance of judicial review as a key element of the basic features of the Constitution. |
+| **Approach:** <br> **Introduction** <br>• Introduce the Coelho case as a landmark judgment by the Supreme Court of India, which reinforced the doctrine of the basic structure of the Constitution and the importance of judicial review. <br> **Body** <br>• Explain the main holding of the Coelho case, emphasizing that laws placed in the Ninth Schedule are still subject to judicial review if they violate the basic structure of the Constitution. <br>• Discuss the significance of judicial review as a key component of the basic features of the Constitution, elaborating on its role in upholding the principles of separation of powers, rule of law, and protection of fundamental rights. <br> **Conclusion** <br>• Conclude by emphasizing that the decision underscores the importance of judicial review as a key element of the basic features of the Constitution. |
 | --- |
 
 ### Introduction
@@ -4410,7 +4410,7 @@ Q31. Recent directives from Ministry of Petroleum and Natural Gas are perceived 
 1. Explanation_PWOnlyIAS:
 Source Question: Recent directives from Ministry of Petroleum and Natural Gas are perceived by the ‘Nagas’ as a threat to override the exceptional status enjoyed by the State. Discuss in light of Article 371A of the Indian Constitution.
 
-| **Approach:** <br> **Introduction** <br>• Introduce the context of the issue by mentioning the exceptional status of Nagaland under Article 371A of the Indian Constitution. **Body** <br>• Detail the specific provisions of Article 371A that grant special status to Nagaland. <br>• Discuss the recent directives from the Ministry of Petroleum and Natural Gas that are seen as a potential threat to Nagaland’s special status. <br>• Analyze the perceived conflict between these directives and the special status of Nagaland under Article 371A. **Conclusion** <br>• Conclude with the potential ways to address this conflict while respecting the constitutional provisions and the unique socio-political context of Nagaland. |
+| **Approach:** <br> **Introduction** <br>• Introduce the context of the issue by mentioning the exceptional status of Nagaland under Article 371A of the Indian Constitution. <br> **Body** <br>• Detail the specific provisions of Article 371A that grant special status to Nagaland. <br>• Discuss the recent directives from the Ministry of Petroleum and Natural Gas that are seen as a potential threat to Nagaland’s special status. <br>• Analyze the perceived conflict between these directives and the special status of Nagaland under Article 371A. <br> **Conclusion** <br>• Conclude with the potential ways to address this conflict while respecting the constitutional provisions and the unique socio-political context of Nagaland. |
 | --- |
 
 ### Introduction
@@ -5017,7 +5017,7 @@ The 101st Constitution Amendment Act, by implementing Goods and Services Tax has
 1. Explanation_PWOnlyIAS:
 Source Question: Explain the significance of the 101st Constitutional Amendment Act. To what extent does it reflect the accommodative spirit of federalism?
 
-| **Approach:** <br> **Introduction** <br>• Write about the 101st Constitutional Amendment Act briefly **Body** <br>• Write the significance of the 101st Constitutional Amendment Act <br>• Write how it reflects the accommodative spirit of federalism **Conclusion** <br>• Give appropriate conclusion in this regard |
+| **Approach:** <br> **Introduction** <br>• Write about the 101st Constitutional Amendment Act briefly <br> **Body** <br>• Write the significance of the 101st Constitutional Amendment Act <br>• Write how it reflects the accommodative spirit of federalism <br> **Conclusion** <br>• Give appropriate conclusion in this regard |
 | --- |
 
 ### Introduction
@@ -5279,7 +5279,7 @@ Thus, a strong Union seems essential for coordinating vital matters of common co
 1. Explanation_PWOnlyIAS:
 Source Question: Indian Constitution exhibits centralising tendencies to maintain unity and integrity of the nation. Elucidate in the perspective of the Epidemic Diseases Act, 1897; The Disaster Management Act, 2005 and recently passed Farm Acts.
 
-| **Approach:** <br> **Introduction** <br>• Briefly introduce the centralizing tendencies in the Indian Constitution and their significance in maintaining unity and integrity. **Body** <br>• Elucidate the centralizing aspects of the Epidemic Diseases Act, 1897; Disaster Management Act, 2005; and the recently passed Farm Acts, highlighting their objectives and implications on the federal structure. **Conclusion** <br>• Sum up the importance of centralizing tendencies while emphasizing the need to strike a balance between central control and preserving the federal nature of the Indian political system. |
+| **Approach:** <br> **Introduction** <br>• Briefly introduce the centralizing tendencies in the Indian Constitution and their significance in maintaining unity and integrity. <br> **Body** <br>• Elucidate the centralizing aspects of the Epidemic Diseases Act, 1897; Disaster Management Act, 2005; and the recently passed Farm Acts, highlighting their objectives and implications on the federal structure. <br> **Conclusion** <br>• Sum up the importance of centralizing tendencies while emphasizing the need to strike a balance between central control and preserving the federal nature of the Indian political system. |
 | --- |
 
 ### Introduction
@@ -5457,7 +5457,7 @@ Cooperative and competitive federalism are complementary ideas that will drive I
 1. Explanation_PWOnlyIAS:
 Source Question: How far do you think cooperation, competition and confrontation have shaped the nature of federation in India? Cite some recent examples to validate your answer.
 
-| **Approach:** <br> **Introduction** <br>• Introduce the complexity and dynamism of India’s federal system. And mention the significance of cooperation, competition, and confrontation in shaping India’s federal structure. **Body** <br>• Discuss the role of cooperation in the Indian federation. <br>• Examine the impact of competition on the Indian federation. <br>• Analyze the influence of confrontation on the Indian federation. **Conclusion** <br>• Conclude, emphasizing the need to maintain a balance between these elements for the smooth functioning of the federation and addressing the diverse needs of the Indian populace. |
+| **Approach:** <br> **Introduction** <br>• Introduce the complexity and dynamism of India’s federal system. And mention the significance of cooperation, competition, and confrontation in shaping India’s federal structure. <br> **Body** <br>• Discuss the role of cooperation in the Indian federation. <br>• Examine the impact of competition on the Indian federation. <br>• Analyze the influence of confrontation on the Indian federation. <br> **Conclusion** <br>• Conclude, emphasizing the need to maintain a balance between these elements for the smooth functioning of the federation and addressing the diverse needs of the Indian populace. |
 | --- |
 
 ### Introduction
@@ -5593,7 +5593,7 @@ When there is a conflict between the statue’s provisions between the union and
 1. Explanation_PWOnlyIAS:
 Source Question: What can France learn from the Indian Constitution’s approach to secularism?
 
-| **Approach:** <br> **Introduction** <br>• Introduce the concept of secularism and briefly mention the differences between French laïcité and Indian secularism. **Body** <br>• Discuss the aspects of the Indian Constitution’s approach to secularism that France could learn from: <br>• Recognition of multiple religions. <br>• Protection of religious rights. <br>• Encouraging interfaith dialogue and harmony. <br>• Balancing secularism with religious accommodation. **Conclusion** <br>• Write a relevant conclusion. |
+| **Approach:** <br> **Introduction** <br>• Introduce the concept of secularism and briefly mention the differences between French laïcité and Indian secularism. <br> **Body** <br>• Discuss the aspects of the Indian Constitution’s approach to secularism that France could learn from: <br>• Recognition of multiple religions. <br>• Protection of religious rights. <br>• Encouraging interfaith dialogue and harmony. <br>• Balancing secularism with religious accommodation. <br> **Conclusion** <br>• Write a relevant conclusion. |
 | --- |
 
 ### Introduction
@@ -5661,7 +5661,7 @@ Q38. The concept of cooperative federalism has been increasingly emphasized in r
 1. Explanation_PWOnlyIAS:
 Source Question: The concept of cooperative federalism has been increasingly emphasized in recent years. Highlight the drawbacks in the existing structure and the extent to which cooperative federalism would answer the shortcomings. (200 words, 12.5 marks)
 
-| **Approach:** <br> **Introduction** <br>• Briefly introduce the concept of cooperative federalism and its significance in recent years. **Body** <br>• Discuss the drawbacks in the existing structure, and explain how cooperative federalism can address these shortcomings. Provide examples to substantiate your views. **Conclusion** <br>• Sum up the importance of cooperative federalism in addressing the drawbacks of the existing structure and fostering national development. |
+| **Approach:** <br> **Introduction** <br>• Briefly introduce the concept of cooperative federalism and its significance in recent years. <br> **Body** <br>• Discuss the drawbacks in the existing structure, and explain how cooperative federalism can address these shortcomings. Provide examples to substantiate your views. <br> **Conclusion** <br>• Sum up the importance of cooperative federalism in addressing the drawbacks of the existing structure and fostering national development. |
 | --- |
 
 ### Introduction
@@ -5735,7 +5735,7 @@ Q39. Though the federal principle is dominant in our Constitution and that princ
 1. Explanation_PWOnlyIAS:
 Source Question: Though the federal principle is dominant in our Constitution and that principle is one of its basic features, but it is equally true that federalism under the Indian Constitution leans in favour of a strong Centre, a feature that militates against the concept of strong federalism. Discuss (200 words, 12.5 marks)
 
-| **Approach:** <br> **Introduction** <br>• Begin by explaining the federal structure of the Indian Constitution and how it combines elements of federalism and unitarism. **Body** <br>• Discuss the various features of the Indian Constitution that lean towards a strong Centre. <br>• Also, mention about cooperative federalism, provided by the Indian constitution. **Conclusion:** <br>• Conclude by summarizing the main points discussed in the body of your answer, acknowledging the federal nature of the Indian Constitution, while highlighting the features that lean towards a strong Centre. |
+| **Approach:** <br> **Introduction** <br>• Begin by explaining the federal structure of the Indian Constitution and how it combines elements of federalism and unitarism. <br> **Body** <br>• Discuss the various features of the Indian Constitution that lean towards a strong Centre. <br>• Also, mention about cooperative federalism, provided by the Indian constitution. <br> **Conclusion:** <br>• Conclude by summarizing the main points discussed in the <br> body of your answer, acknowledging the federal nature of the Indian Constitution, while highlighting the features that lean towards a strong Centre. |
 | --- |
 
 ### Introduction
@@ -5820,7 +5820,7 @@ Q40. Constitutional mechanisms to resolve the inter-state water disputes have fa
 1. Explanation_PWOnlyIAS:
 Source Question: Constitutional mechanisms to resolve the inter-state water disputes have failed to address and solve the problems. Is the failure due to structural or process inadequacy or both? Discuss.
 
-| **Approach:** <br> **Introduction** <br>• Begin by providing an overview of the recurring issue of inter-state water disputes in India, and the constitutional mechanisms provided to resolve these under Article 262 and the Inter-State Water Disputes Act, 1956. **Body** <br>• Discuss the inherent limitations within the system that restrict its capacity to effectively address and resolve disputes. <br>• Highlight issues related to the implementation and operation of the dispute resolution mechanisms, including the formation of Tribunals and their effectiveness. <br>• Discuss how these two types of inadequacies often interact, resulting in a failure to effectively resolve water disputes. **Conclusion** <br>• Conclude by emphasizing the need for comprehensive review and reform of the constitutional mechanisms for resolving inter-state water disputes, suggesting potential approaches such as a permanent inter-state river water disputes resolution tribunal. |
+| **Approach:** <br> **Introduction** <br>• Begin by providing an overview of the recurring issue of inter-state water disputes in India, and the constitutional mechanisms provided to resolve these under Article 262 and the Inter-State Water Disputes Act, 1956. <br> **Body** <br>• Discuss the inherent limitations within the system that restrict its capacity to effectively address and resolve disputes. <br>• Highlight issues related to the implementation and operation of the dispute resolution mechanisms, including the formation of Tribunals and their effectiveness. <br>• Discuss how these two types of inadequacies often interact, resulting in a failure to effectively resolve water disputes. <br> **Conclusion** <br>• Conclude by emphasizing the need for comprehensive review and reform of the constitutional mechanisms for resolving inter-state water disputes, suggesting potential approaches such as a permanent inter-state river water disputes resolution tribunal. |
 | --- |
 
 ### Introduction
@@ -5890,7 +5890,7 @@ Q41. Many State Governments further bifurcate geographical administrative areas 
 1. Explanation_PWOnlyIAS:
 Source Question: Many State Governments further bifurcate geographical administrative areas like Districts and Talukas for better governance. In light of the above, can it also be justified that more number of smaller States would bring in effective governance at State level? Discuss.
 
-| **Approach:** <br> **Introduction** <br>• Introduce the topic by briefly discussing the bifurcation of geographical administrative areas such as districts and talukas, and the broader question of whether the creation of smaller states can lead to effective governance. **Body** <br>• Discuss the potential advantages of creating smaller states. <br>• Discuss the potential disadvantages or challenges of creating smaller states. **Conclusion** <br>• Conclude, writing the key to effective governance lies in decentralization and devolution of powers to local bodies, irrespective of the size of the state. |
+| **Approach:** <br> **Introduction** <br>• Introduce the topic by briefly discussing the bifurcation of geographical administrative areas such as districts and talukas, and the broader question of whether the creation of smaller states can lead to effective governance. <br> **Body** <br>• Discuss the potential advantages of creating smaller states. <br>• Discuss the potential disadvantages or challenges of creating smaller states. <br> **Conclusion** <br>• Conclude, writing the key to effective governance lies in decentralization and devolution of powers to local bodies, irrespective of the size of the state. |
 | --- |
 
 ### Introduction
@@ -6147,7 +6147,7 @@ This impasse is not new altogether. Since 1967, when the parties ruling at centr
 1. Explanation_PWOnlyIAS:
 Source Question: Discuss the essentials of the 69th Constitutional Amendment Act and anomalies, if any, that have led to recent reported conflicts between the elected representatives and institution of Lieutenant Governor in the administration of Delhi. Do you think that this will give rise to a new trend in the functioning of the Indian Federal Politics?  (200 words, 12.5 marks)
 
-| **Approach:** <br> **Introduction** <br>• Briefly introduce the 69th Constitutional Amendment Act and its purpose in granting special status to the National Capital Territory of Delhi. **Body** <br>• Discuss the key points of the amendment, including the <br>• establishment of the Delhi Legislative Assembly, <br>• the role and powers of the Lieutenant Governor, and <br>• the division of responsibilities between the Union Government and the Government of NCT. **Conclusion** <br>• Write a relevant conclusion |
+| **Approach:** <br> **Introduction** <br>• Briefly introduce the 69th Constitutional Amendment Act and its purpose in granting special status to the National Capital Territory of Delhi. <br> **Body** <br>• Discuss the key points of the amendment, including the <br>• establishment of the Delhi Legislative Assembly, <br>• the role and powers of the Lieutenant Governor, and <br>• the division of responsibilities between the Union Government and the Government of NCT. <br> **Conclusion** <br>• Write a relevant conclusion |
 | --- |
 
 ### Introduction
@@ -6489,7 +6489,7 @@ Hence, there is a long way to go for liberalization of Urban Local Bodies and pr
 1. Explanation_PWOnlyIAS:
 Source Question: &#8220;The states in India seem reluctant to empower urban local bodies both functionally as well as financially.&#8221; Comment.
 
-| **Approach:** <br> **Introduction** <br>• Write about urban local bodies (ULBs) in India briefly **Body** <br>• Write how the states in India seem reluctant to empower urban local bodies functionally <br>• Write how the states in India seem reluctant to empower urban local bodies financially **Conclusion** <br>• Give appropriate conclusion in this regard |
+| **Approach:** <br> **Introduction** <br>• Write about urban local bodies (ULBs) in India briefly <br> **Body** <br>• Write how the states in India seem reluctant to empower urban local bodies functionally <br>• Write how the states in India seem reluctant to empower urban local bodies financially <br> **Conclusion** <br>• Give appropriate conclusion in this regard |
 | --- |
 
 ### Introduction
@@ -6696,7 +6696,7 @@ For Local bodies and Panchayats to play a bigger role in human capital intervent
 1. Explanation_PWOnlyIAS:
 Source Question: To what extent, in your opinion, has the decentralisation of power in India changed the governance landscape at the grassroots?
 
-| **Approach:** <br> **Introduction** <br>• Briefly discuss the concept of decentralization and its significance in India, mentioning the 73rd and 74th Constitutional Amendments. **Body** <br>• Analyze the impact of decentralization on grassroots governance in India. **Conclusion** <br>• Write a relevant conclusion focusing on the way forward. |
+| **Approach:** <br> **Introduction** <br>• Briefly discuss the concept of decentralization and its significance in India, mentioning the 73rd and 74th Constitutional Amendments. <br> **Body** <br>• Analyze the impact of decentralization on grassroots governance in India. <br> **Conclusion** <br>• Write a relevant conclusion focusing on the way forward. |
 | --- |
 
 ### Introduction
@@ -6929,7 +6929,7 @@ Local institutions have been able to strengthen democracy at the root level. But
 1. Explanation_PWOnlyIAS:
 Source Question: The strength and sustenance of local institutions in India has shifted from their formative phase of ‘Functions, Functionaries and Funds’ to the contemporary stage of ‘Functionality’. Highlight the critical challenges faced by local institutions in terms of their functionality in recent times.
 
-| **Approach:** <br> **Introduction:** <br>• Begin by highlighting the shift in focus for local institutions in India from ‘Functions, Functionaries, and Funds’ to ‘Functionality’ and emphasize the importance of effective governance, service delivery, and responsiveness to local communities. **Body:** <br>• Briefly mention the critical challenges faced by local institutions in terms of functionality. **Conclusion:** <br>• Conclude, suggesting potential solutions or recommendations. |
+| **Approach:** <br> **Introduction:** <br>• Begin by highlighting the shift in focus for local institutions in India from ‘Functions, Functionaries, and Funds’ to ‘Functionality’ and emphasize the importance of effective governance, service delivery, and responsiveness to local communities. <br> **Body:** <br>• Briefly mention the critical challenges faced by local institutions in terms of functionality. <br> **Conclusion:** <br>• Conclude, suggesting potential solutions or recommendations. |
 | --- |
 
 ### Introduction
@@ -7117,7 +7117,7 @@ The reservation of women at the local level has had various social and developme
 1. Explanation_PWOnlyIAS:
 Source Question: Individual Parliamentarian’s role as the national law maker is on a decline, which in turn, has adversely impacted the quality of debates and their outcome. Discuss.
 
-| **Approach:** <br> **Introduction** <br>• Introduce the role of individual parliamentarians as national lawmakers in a democratic setup and highlight the perceived decline in their role. **Body** <br>• Discuss factors contributing to the decline in the role of individual parliamentarians. <br>• Explain how the decline in individual parliamentarians’ role has impacted the quality of debates. <br>• Discuss the impact of the decline on the legislative outcome. **Conclusion** <br>• Summarize the main points and emphasize the importance of recognizing and addressing the decline in the role of individual parliamentarians to maintain the integrity and effectiveness of the democratic process. |
+| **Approach:** <br> **Introduction** <br>• Introduce the role of individual parliamentarians as national lawmakers in a democratic setup and highlight the perceived decline in their role. <br> **Body** <br>• Discuss factors contributing to the decline in the role of individual parliamentarians. <br>• Explain how the decline in individual parliamentarians’ role has impacted the quality of debates. <br>• Discuss the impact of the decline on the legislative outcome. <br> **Conclusion** <br>• Summarize the main points and emphasize the importance of recognizing and addressing the decline in the role of individual parliamentarians to maintain the integrity and effectiveness of the democratic process. |
 | --- |
 
 ### Introduction
@@ -7270,7 +7270,7 @@ However, the decisions as to which taxes, duties, tolls and fees should be assig
 1. Explanation_PWOnlyIAS:
 Source Question: Assess the importance of the Panchayat system in India as a part of local government. Apart from government grants, what sources the Panchayats can look out for financing development projects?
 
-| **Approach:** <br> **Introduction** <br>• Introduce the Panchayat system as an integral part of India’s local government, focusing on grassroots democracy, decentralization, and inclusive development. **Body** <br>• Discuss the importance of the Panchayat system in India, addressing aspects such as decentralization, grassroots democracy, socio-economic development, and social justice. <br>• Explore alternative financing sources for Panchayats apart from government grants, including local taxes, user charges, public-private partnerships, corporate social responsibility funds, and community contributions. Provide examples for each source. **Conclusion** <br>• Write a relevant conclusion. |
+| **Approach:** <br> **Introduction** <br>• Introduce the Panchayat system as an integral part of India’s local government, focusing on grassroots democracy, decentralization, and inclusive development. <br> **Body** <br>• Discuss the importance of the Panchayat system in India, addressing aspects such as decentralization, grassroots democracy, socio-economic development, and social justice. <br>• Explore alternative financing sources for Panchayats apart from government grants, including local taxes, user charges, public-private partnerships, corporate social responsibility funds, and community contributions. Provide examples for each source. <br> **Conclusion** <br>• Write a relevant conclusion. |
 | --- |
 
 ### Introduction
@@ -7383,7 +7383,7 @@ The LSGs are dependent on the states for **:** - **Functions:** The progress of 
 1. Explanation_PWOnlyIAS:
 Source Question: “The local self government system in India has not proved to be effective instrument of governance”. Critically examine the statement and give your views to improve the situation.
 
-| **Approach:** <br> **Introduction** <br>• Briefly introduce the concept of local self-government system in India, and mention the 73rd and 74th Constitutional Amendments. **Body** <br>• Talk about the positive aspects of the local self-government system. <br>• Identify and mention the challenges faced by the local self-government system. <br>• Also, mention the recommendations of the Second ARC. <br>• Provide suggestions to improve the situation. **Conclusion** <br>• Write a suitable conclusion. |
+| **Approach:** <br> **Introduction** <br>• Briefly introduce the concept of local self-government system in India, and mention the 73rd and 74th Constitutional Amendments. <br> **Body** <br>• Talk about the positive aspects of the local self-government system. <br>• Identify and mention the challenges faced by the local self-government system. <br>• Also, mention the recommendations of the Second ARC. <br>• Provide suggestions to improve the situation. <br> **Conclusion** <br>• Write a suitable conclusion. |
 | --- |
 
 ### Introduction
@@ -7456,7 +7456,7 @@ Q51. In absence of a well-educated and organized local level government system, 
 1. Explanation_PWOnlyIAS:
 Source Question: In absence of a well-educated and organized local level government system, ‘Panchayats’ and ‘Samitis’ have remained mainly political institutions and not effective instruments of governance. Critically discuss. (200 words, 12.5 marks)
 
-| **Approach:** <br> **Introduction** <br>• Briefly introduce the concept of local level government systems, Panchayats, and Samitis. **Body** <br>• Discuss the role of education and organization in local governance, analyze the effectiveness of Panchayats and Samitis as instruments of governance, and critically discuss their limitations. **Conclusion** <br>• Sum up the importance of strengthening local governance systems to ensure effective governance at the grassroots level. |
+| **Approach:** <br> **Introduction** <br>• Briefly introduce the concept of local level government systems, Panchayats, and Samitis. <br> **Body** <br>• Discuss the role of education and organization in local governance, analyze the effectiveness of Panchayats and Samitis as instruments of governance, and critically discuss their limitations. <br> **Conclusion** <br>• Sum up the importance of strengthening local governance systems to ensure effective governance at the grassroots level. |
 | --- |
 
 ### Introduction
@@ -7565,7 +7565,7 @@ The Constitution envisages and puts a system in place to ensure the balance of p
 1. Explanation_PWOnlyIAS:
 Source Question: Critically examine the Supreme Court’s judgement on ‘National Judicial Appointments Commission Act, 2014’ with reference to appointment of judges of higher judiciary in India.
 
-| **Approach:** <br> **Introduction** <br>• Provide a brief overview of the NJAC Act, 2014, and its significance in reforming the appointment of judges in the higher judiciary in India. **Body** <br>• Discuss, Analyze and Assess the arguments ‘for’ and ‘against’ the Supreme Court’s judgement on ‘National Judicial Appointments Commission Act, 2014’. **Conclusion** <br>• Write a relevant conclusion. |
+| **Approach:** <br> **Introduction** <br>• Provide a brief overview of the NJAC Act, 2014, and its significance in reforming the appointment of judges in the higher judiciary in India. <br> **Body** <br>• Discuss, Analyze and Assess the arguments ‘for’ and ‘against’ the Supreme Court’s judgement on ‘National Judicial Appointments Commission Act, 2014’. <br> **Conclusion** <br>• Write a relevant conclusion. |
 | --- |
 
 ### Introduction
@@ -7865,7 +7865,7 @@ Indian Constitution has provided for the separation of powers among the legislat
 1. Explanation_PWOnlyIAS:
 Source Question: Discuss the essential conditions for exercise of the legislative powers by the Governor. Discuss the legality of re-promulgation of ordinances by the Governor without placing them before the Legislature.
 
-| **Approach:** <br> **Introduction** <br>• Briefly introduce the Governor’s role and powers in the context of legislative functions. **Body** <br>• Divide the body into two main parts: <br>• Essential conditions for exercise of legislative powers by the Governor. <br>• Legality of re-promulgation of ordinances without placing them before the Legislature. **Conclusion:** <br>• Conclude, summarizing the importance of maintaining a balance between the Governor’s legislative powers and the need for legislative oversight, emphasizing the constitutional spirit and the principles of democratic governance. |
+| **Approach:** <br> **Introduction** <br>• Briefly introduce the Governor’s role and powers in the context of legislative functions. <br> **Body** <br>• Divide the body into two main parts: <br>• Essential conditions for exercise of legislative powers by the Governor. <br>• Legality of re-promulgation of ordinances without placing them before the Legislature. <br> **Conclusion:** <br>• Conclude, summarizing the importance of maintaining a balance between the Governor’s legislative powers and the need for legislative oversight, emphasizing the constitutional spirit and the principles of democratic governance. |
 | --- |
 
 ### Introduction
@@ -8073,7 +8073,7 @@ To ensure complete accountability of the Executive to the Parliament, some steps
 1. Explanation_PWOnlyIAS:
 Source Question: To what extent, in your view, the Parliament is able to ensure accountability of the executive in India?
 
-| **Approach:** <br> **Introduction** <br>• Provide a brief overview of the Indian parliamentary system and the importance of holding the executive accountable. **Body** <br>• Discuss the mechanisms for ensuring executive accountability in the Indian Parliament. <br>• Write examples to better substantiate your views. <br>• Analyze the factors that can limit the effectiveness of these mechanisms. **Conclusion** <br>• Write a relevant conclusion. |
+| **Approach:** <br> **Introduction** <br>• Provide a brief overview of the Indian parliamentary system and the importance of holding the executive accountable. <br> **Body** <br>• Discuss the mechanisms for ensuring executive accountability in the Indian Parliament. <br>• Write examples to better substantiate your views. <br>• Analyze the factors that can limit the effectiveness of these mechanisms. <br> **Conclusion** <br>• Write a relevant conclusion. |
 | --- |
 
 ### Introduction
@@ -8244,7 +8244,7 @@ The noble principles of democracy and deliberation have been worded by Supreme C
 1. Explanation_PWOnlyIAS:
 Source Question: Whether the Supreme Court Judgment (July 2018) can settle the political tussle between the Lt. Governor and elected government of Delhi? Examine.
 
-| **Approach:** <br> **Introduction** <br>• Briefly introduce the context of the political tussle between the Lt. Governor and the elected government of Delhi and the Supreme Court judgment of July 2018. **Body** <br>• Discuss the key points of the Supreme Court judgment and examine whether it can settle the political tussle between the Lt. Governor and the elected government of Delhi. **Conclusion** <br>• Summarize the possible implications of the judgment on the governance of Delhi and the need for cooperation between the Lt. Governor and the elected government. |
+| **Approach:** <br> **Introduction** <br>• Briefly introduce the context of the political tussle between the Lt. Governor and the elected government of Delhi and the Supreme Court judgment of July 2018. <br> **Body** <br>• Discuss the key points of the Supreme Court judgment and examine whether it can settle the political tussle between the Lt. Governor and the elected government of Delhi. <br> **Conclusion** <br>• Summarize the possible implications of the judgment on the governance of Delhi and the need for cooperation between the Lt. Governor and the elected government. |
 | --- |
 
 ### Introduction
@@ -8322,7 +8322,7 @@ Q57. Resorting to ordinances has always raised concern on violation of the spiri
 1. Explanation_PWOnlyIAS:
 Source Question: Resorting to ordinances has always raised concern on violation of the spirit of separation of powers doctrine. While noting the rationales justifying the power to promulgate ordinances, analyze whether the decisions of the Supreme Court on the issue have further facilitated resorting to this power. Should the power to promulgate ordinances be repealed? (200 words, 12.5 marks)
 
-| **Approach:** <br> **Introduction** <br>• Briefly introduce the concept of ordinances and their relation to the separation of powers doctrine. **Body** <br>• Discuss the rationale justifying the power to promulgate ordinances, analyze the Supreme Court’s decisions on the issue, and debate whether the power to promulgate ordinances should be repealed. **Conclusion** <br>• Sum up the importance of striking a balance between the need for ordinances and maintaining the spirit of separation of powers. |
+| **Approach:** <br> **Introduction** <br>• Briefly introduce the concept of ordinances and their relation to the separation of powers doctrine. <br> **Body** <br>• Discuss the rationale justifying the power to promulgate ordinances, analyze the Supreme Court’s decisions on the issue, and debate whether the power to promulgate ordinances should be repealed. <br> **Conclusion** <br>• Sum up the importance of striking a balance between the need for ordinances and maintaining the spirit of separation of powers. |
 | --- |
 
 ### Introduction
@@ -8508,7 +8508,7 @@ Thus, though Judicial Legislation is antithetical to the doctrine of separation 
 1. Explanation_PWOnlyIAS:
 Source Question: Judicial Legislation is antithetical to the doctrine of separation of powers as envisaged in the Indian Constitution. In this context justify the filing of large number of public interest petitions praying for issuing guidelines to executive authorities.
 
-| **Approach:** <br> **Introduction** <br>• Briefly explain the doctrine of separation of powers in the context of the Indian Constitution. **Body** <br>• Illustrate how public interest petitions can lead to the issuance of guidelines to executive authorities and the impact on the separation of powers. <br>• Give appropriate examples. **Conclusion** <br>• Reiterate the importance of public interest petitions in upholding the spirit of the Constitution and promoting social justice, while recognizing the need to maintain a balance of power among the branches of government. |
+| **Approach:** <br> **Introduction** <br>• Briefly explain the doctrine of separation of powers in the context of the Indian Constitution. <br> **Body** <br>• Illustrate how public interest petitions can lead to the issuance of guidelines to executive authorities and the impact on the separation of powers. <br>• Give appropriate examples. **Conclusion** <br>• Reiterate the importance of public interest petitions in upholding the spirit of the Constitution and promoting social justice, while recognizing the need to maintain a balance of power among the branches of government. |
 | --- |
 
 ### Introduction
@@ -8570,7 +8570,7 @@ Q59. The Supreme Court of India keeps a check on arbitrary power of the Parliame
 1. Explanation_PWOnlyIAS:
 Source Question: The Supreme Court of India keeps a check on arbitrary power of the Parliament in amending the Constitution. Discuss critically.
 
-| **Approach:** <br> **Introduction** <br>• Begin by briefly explaining the Indian Constitution’s supremacy, the Parliament’s power to amend it. **Body** <br>• Discuss the power of the Parliament to amend the Constitution and the limitations on this power, highlighting the principle that the basic structure of the Constitution cannot be altered. <br>• Discuss the role of the Supreme Court in maintaining the Constitution’s sanctity and ensuring that the Parliament’s power to amend the Constitution is not used arbitrarily. <br>• Provide examples of cases where the Supreme Court has struck down constitutional amendments that violated the Constitution’s basic structure, such as the Keshavananda Bharati case, the Minerva Mills case, and the Indira Nehru Gandhi vs Raj Narain case. **Conclusion** <br>• Conclude by emphasizing the importance of the balance between the Parliament’s power to amend the Constitution and the Supreme Court’s role in safeguarding the Constitution’s basic structure, and how this balance contributes to the functioning of India’s democracy. |
+| **Approach:** <br> **Introduction** <br>• Begin by briefly explaining the Indian Constitution’s supremacy, the Parliament’s power to amend it. <br> **Body** <br>• Discuss the power of the Parliament to amend the Constitution and the limitations on this power, highlighting the principle that the basic structure of the Constitution cannot be altered. <br>• Discuss the role of the Supreme Court in maintaining the Constitution’s sanctity and ensuring that the Parliament’s power to amend the Constitution is not used arbitrarily. <br>• Provide examples of cases where the Supreme Court has struck down constitutional amendments that violated the Constitution’s basic structure, such as the Keshavananda Bharati case, the Minerva Mills case, and the Indira Nehru Gandhi vs Raj Narain case. <br> **Conclusion** <br>• Conclude by emphasizing the importance of the balance between the Parliament’s power to amend the Constitution and the Supreme Court’s role in safeguarding the Constitution’s basic structure, and how this balance contributes to the functioning of India’s democracy. |
 | --- |
 
 ### Introduction
@@ -8615,7 +8615,7 @@ India's Supreme Court serves as a constitutional guardian, preventing Parliament
 
 | **Parliamentary Position** | **Judicial Position** |
 | --- | --- |
-| Elected body with democratic mandate | Constitutional guardian protecting basic structure |
+| Elected <br> body with democratic mandate | Constitutional guardian protecting basic structure |
 | Article 368 provides amendment power | Judicial review prevents arbitrary changes |
 | Represents people's will directly | Protects minority rights and constitutional values |
 | Can respond to changing societal needs | Ensures constitutional continuity and stability |
@@ -8729,7 +8729,7 @@ Through various provisions of the Constitution, India retains an unrestricted ye
 1. Explanation_PWOnlyIAS:
 Source Question: &#8220;Constitutionally guaranteed judicial independence is a prerequisite of democracy.&#8221; Comment.
 
-| **Approach:** <br> **Introduction** <br>• Write about Constitutionally guaranteed judicial independence briefly **Body** <br>• Write the different Constitutionally Guaranteed provisions Judicial Independence <br>• Write how constitutionally guaranteed judicial independence is a prerequisite of democracy **Conclusion** <br>• Give appropriate conclusion in this regard |
+| **Approach:** <br> **Introduction** <br>• Write about Constitutionally guaranteed judicial independence briefly <br> **Body** <br>• Write the different Constitutionally Guaranteed provisions Judicial Independence <br>• Write how constitutionally guaranteed judicial independence is a prerequisite of democracy <br> **Conclusion** <br>• Give appropriate conclusion in this regard |
 | --- |
 
 ### Introduction
@@ -8893,7 +8893,7 @@ Indian constitution have meticulously defined powers and functions of the differ
 1. Explanation_PWOnlyIAS:
 Source Question: “The Attorney-General is the chief legal adviser and lawyer of the Government of India.” Discuss.
 
-| **Approach:** <br> **Introduction** <br>• Briefly introduce the Attorney-General of India as a constitutional position under Article 76 and their role as the chief legal adviser and lawyer for the Government of India. **Body:** <br>• Discuss the appointment and qualifications of the Attorney-General. <br>• Outline the primary functions and responsibilities of the Attorney-General, emphasizing their role in providing legal advice, representing the government in courts, and drafting legal documents. <br>• Mention the additional roles, such as attending Parliament sessions and providing references to the Supreme Court. <br>• Explain the limitations and restrictions on the Attorney-General’s role, including independence, lack of executive powers, and professional limitations. **Conclusion** <br>• Conclude, emphasizing their importance in the country’s legal framework and ensuring the lawful functioning of the government. |
+| **Approach:** <br> **Introduction** <br>• Briefly introduce the Attorney-General of India as a constitutional position under Article 76 and their role as the chief legal adviser and lawyer for the Government of India. <br> **Body:** <br>• Discuss the appointment and qualifications of the Attorney-General. <br>• Outline the primary functions and responsibilities of the Attorney-General, emphasizing their role in providing legal advice, representing the government in courts, and drafting legal documents. <br>• Mention the additional roles, such as attending Parliament sessions and providing references to the Supreme Court. <br>• Explain the limitations and restrictions on the Attorney-General’s role, including independence, lack of executive powers, and professional limitations. <br> **Conclusion** <br>• Conclude, emphasizing their importance in the country’s legal framework and ensuring the lawful functioning of the government. |
 | --- |
 
 ### Introduction
@@ -9089,7 +9089,7 @@ Nevertheless, the Legislative Councils serve some useful purposes. They act as a
 1. Explanation_PWOnlyIAS:
 Source Question: Explain the constitutional provisions under which Legislative Councils are established. Review the working and current status of Legislative Councils with suitable illustrations.
 
-| **Approach:** <br> **Introduction** <br>• Introduce the concept of bicameral legislatures in India, with a focus on Legislative Councils, and provide examples of states with such Councils. **Body** <br>• Discuss the constitutional provisions related to the establishment of Legislative Councils. <br>• Examine the working and functions of Legislative Councils. <br>• Assess the current status of Legislative Councils, using relevant examples from states. **Conclusion** <br>• Conclude, acknowledge the ongoing debate surrounding their necessity and relevance. |
+| **Approach:** <br> **Introduction** <br>• Introduce the concept of bicameral legislatures in India, with a focus on Legislative Councils, and provide examples of states with such Councils. <br> **Body** <br>• Discuss the constitutional provisions related to the establishment of Legislative Councils. <br>• Examine the working and functions of Legislative Councils. <br>• Assess the current status of Legislative Councils, using relevant examples from states. <br> **Conclusion** <br>• Conclude, acknowledge the ongoing debate surrounding their necessity and relevance. |
 | --- |
 
 ### Introduction
@@ -9303,7 +9303,7 @@ Nevertheless, the Legislative Councils serve some useful purposes. They act as a
 1. Explanation_PWOnlyIAS:
 Source Question: Explain the constitutional provisions under which Legislative Councils are established. Review the working and current status of Legislative Councils with suitable illustrations.
 
-| **Approach:** <br> **Introduction** <br>• Introduce the concept of bicameral legislatures in India, with a focus on Legislative Councils, and provide examples of states with such Councils. **Body** <br>• Discuss the constitutional provisions related to the establishment of Legislative Councils. <br>• Examine the working and functions of Legislative Councils. <br>• Assess the current status of Legislative Councils, using relevant examples from states. **Conclusion** <br>• Conclude, acknowledge the ongoing debate surrounding their necessity and relevance. |
+| **Approach:** <br> **Introduction** <br>• Introduce the concept of bicameral legislatures in India, with a focus on Legislative Councils, and provide examples of states with such Councils. <br> **Body** <br>• Discuss the constitutional provisions related to the establishment of Legislative Councils. <br>• Examine the working and functions of Legislative Councils. <br>• Assess the current status of Legislative Councils, using relevant examples from states. <br> **Conclusion** <br>• Conclude, acknowledge the ongoing debate surrounding their necessity and relevance. |
 | --- |
 
 ### Introduction
@@ -9507,7 +9507,7 @@ Even though the ups and downs of Indian politics, the Rajya Sabha has remained a
 1. Explanation_PWOnlyIAS:
 Source Question: Rajya Sabha has been transformed from a ‘useless stepney tyre’ to the most useful supporting organ in past few decades. Highlight the factors as well as the areas in which this transformation could be visible.
 
-| **Approach:** <br> **Introduction** <br>• Introduce the Rajya Sabha as the upper house of the Indian Parliament and briefly mention its transformation from being perceived as a ‘useless stepney tyre’ to an essential supporting organ in the legislative process over the past few decades. **Body** <br>• Discuss the factors and areas in which the transformation of the Rajya Sabha is visible. <br>• Elaborate on each factor, explaining how it has contributed to the transformation of the Rajya Sabha into a more essential and effective institution within the Indian legislative process. **Conclusion** <br>• Write a relevant conclusion. |
+| **Approach:** <br> **Introduction** <br>• Introduce the Rajya Sabha as the upper house of the Indian Parliament and briefly mention its transformation from being perceived as a ‘useless stepney tyre’ to an essential supporting organ in the legislative process over the past few decades. <br> **Body** <br>• Discuss the factors and areas in which the transformation of the Rajya Sabha is visible. <br>• Elaborate on each factor, explaining how it has contributed to the transformation of the Rajya Sabha into a more essential and effective institution within the Indian legislative process. <br> **Conclusion** <br>• Write a relevant conclusion. |
 | --- |
 
 ### Introduction
@@ -9600,7 +9600,7 @@ Dowry Prohibition Act, 1960, Banking Service Commission Act, 1977 and POTA, 2002
 1. Explanation_PWOnlyIAS:
 Source Question: The Indian Constitution has provisions for holding a joint session of the two houses of the Parliament. Enumerate the occasions when this would normally happen and also the occasions when it cannot, with reasons thereof.
 
-| **Approach:** <br> **Introduction** <br>• Introduce the concept of joint sessions of Parliament under Article 108 of the Indian Constitution and its purpose in resolving legislative deadlocks between the Lok Sabha and Rajya Sabha. **Body** <br>• Divide the body into two main sections. <br>• Occasions when a joint session is normally held. <br>• Occasions when a joint session cannot be held. **Conclusion** <br>• Conclude, emphasizing the constitutional provisions that guide these processes. |
+| **Approach:** <br> **Introduction** <br>• Introduce the concept of joint sessions of Parliament under Article 108 of the Indian Constitution and its purpose in resolving legislative deadlocks between the Lok Sabha and Rajya Sabha. <br> **Body** <br>• Divide the body into two main sections. <br>• Occasions when a joint session is normally held. <br>• Occasions when a joint session cannot be held. <br> **Conclusion** <br>• Conclude, emphasizing the constitutional provisions that guide these processes. |
 | --- |
 
 ### Introduction
@@ -9777,7 +9777,7 @@ The financial committees have over the years proved to be of importance to the p
 1. Explanation_PWOnlyIAS:
 Source Question: Explain the structure of the Parliamentary Committee system. How far have the financial committees helped in the institutionalisation of Indian Parliament?
 
-| **Approach:** <br> **Introduction** <br>• Write about the Parliamentary Committee system briefly **Body** <br>• Write the structure of the Parliamentary Committee system <br>• Write how the financial committees helped in the institutionalization of Indian Parliament **Conclusion** <br>• Give appropriate conclusion in this regard |
+| **Approach:** <br> **Introduction** <br>• Write about the Parliamentary Committee system briefly <br> **Body** <br>• Write the structure of the Parliamentary Committee system <br>• Write how the financial committees helped in the institutionalization of Indian Parliament <br> **Conclusion** <br>• Give appropriate conclusion in this regard |
 | --- |
 
 ### Introduction
@@ -9997,7 +9997,7 @@ Thus, though it is comparatively less difficult to examine an issue in depth by 
 1. Explanation_PWOnlyIAS:
 Source Question: Do Department -related Parliamentary Standing Committees keep the administration on its toes and inspire reverence for parliamentary control? Evaluate the working of such committees with suitable examples.
 
-| **Approach:** <br> **Introduction** <br>• Introduce the concept of Department-related Parliamentary Standing Committees (DRPSCs) and their role in maintaining parliamentary control over the executive in India. **Body** <br>• Discuss the functions of DRPSCs. <br>• Assess the effectiveness of DRPSCs in keeping the administration on its toes. <br>• Analyze the challenges and limitations faced by DRPSCs. <br>• Provide examples showcasing the working of DRPSCs in practice. **Conclusion** <br>• Conclude, emphasizing the need to address these challenges for a more effective parliamentary control system. |
+| **Approach:** <br> **Introduction** <br>• Introduce the concept of Department-related Parliamentary Standing Committees (DRPSCs) and their role in maintaining parliamentary control over the executive in India. <br> **Body** <br>• Discuss the functions of DRPSCs. <br>• Assess the effectiveness of DRPSCs in keeping the administration on its toes. <br>• Analyze the challenges and limitations faced by DRPSCs. <br>• Provide examples showcasing the working of DRPSCs in practice. <br> **Conclusion** <br>• Conclude, emphasizing the need to address these challenges for a more effective parliamentary control system. |
 | --- |
 
 ### Introduction
@@ -10173,7 +10173,7 @@ However, the effectiveness of the role of the committee is limited by the follow
 1. Explanation_PWOnlyIAS:
 Source Question: Why do you think the committees are considered to be useful for parliamentary work? Discuss, in this context, the role of the Estimates Committee.
 
-| **Approach:** <br> **Introduction** <br>• Briefly introduce the concept of parliamentary committees and their importance in parliamentary work. **Body** <br>• In short, talk about the types of committees. <br>• Discuss the reasons why committees are considered useful for parliamentary work, and in this context, examine the role of the Estimates Committee. **Conclusion** <br>• Summarize the significance of parliamentary committees, including the Estimates Committee, in enhancing the effectiveness of the parliamentary system. |
+| **Approach:** <br> **Introduction** <br>• Briefly introduce the concept of parliamentary committees and their importance in parliamentary work. <br> **Body** <br>• In short, talk about the types of committees. <br>• Discuss the reasons why committees are considered useful for parliamentary work, and in this context, examine the role of the Estimates Committee. <br> **Conclusion** <br>• Summarize the significance of parliamentary committees, including the Estimates Committee, in enhancing the effectiveness of the parliamentary system. |
 | --- |
 
 ### Introduction
@@ -10294,7 +10294,7 @@ However PAC at times, through its criticism of the inefficient public expenditur
 1. Explanation_PWOnlyIAS:
 Source Question: Discuss the role of Public Accounts Committee in establishing accountability of the government to the people.
 
-| **Approach:** <br> **Introduction** <br>• Introduce the Public Accounts Committee (PAC) as a vital parliamentary committee in India. **Body** <br>• Discuss the role of PAC in establishing accountability. **Conclusion** <br>• Conclude, emphasizing the significance of transparency, efficiency, and good governance in public financial management. |
+| **Approach:** <br> **Introduction** <br>• Introduce the Public Accounts Committee (PAC) as a vital parliamentary committee in India. <br> **Body** <br>• Discuss the role of PAC in establishing accountability. <br> **Conclusion** <br>• Conclude, emphasizing the significance of transparency, efficiency, and good governance in public financial management. |
 | --- |
 
 ### Introduction
@@ -10358,7 +10358,7 @@ Q70. The ‘Powers, Privileges and Immunities of Parliament and its Members’ a
 1. Explanation_PWOnlyIAS:
 Source Question: The ‘Powers, Privileges and Immunities of Parliament and its Members’ as envisaged in Article 105 of the Constitution leave room for a large number of un-codified and un-enumerated privileges to continue. Assess the reasons for the absence of legal codification of the ‘parliamentary privileges’. How can this problem be addressed? (200 words, 12.5 marks)
 
-| **Approach:** <br> **Introduction** <br>• Briefly explain what parliamentary privileges are and their place in the constitution, specifically referring to Article 105. Mention the un-codified and un-enumerated nature of these privileges. **Body** <br>• Assess the reasons for the absence of legal codification of parliamentary privileges. <br>• Discuss how the problem of the un-codified nature of parliamentary privileges can be addressed. **Conclusion** <br>• Conclude by emphasizing that finding this balance is crucial for an effective and accountable parliamentary system. |
+| **Approach:** <br> **Introduction** <br>• Briefly explain what parliamentary privileges are and their place in the constitution, specifically referring to Article 105. Mention the un-codified and un-enumerated nature of these privileges. <br> **Body** <br>• Assess the reasons for the absence of legal codification of parliamentary privileges. <br>• Discuss how the problem of the un-codified nature of parliamentary privileges can be addressed. <br> **Conclusion** <br>• Conclude by emphasizing that finding this balance is crucial for an effective and accountable parliamentary system. |
 | --- |
 
 ### Introduction
@@ -10527,7 +10527,7 @@ By ensuring the fulfilment of their duties, the Presiding Officers of state legi
 1. Explanation_PWOnlyIAS:
 Source Question: Discuss the role of Presiding Officers of state legislatures in maintaining order and impartiality in conducting legislative work and in facilitating best democratic practices.
 
-| **Approach:** <br> **Introduction** <br>• Write about Presiding Officers of state legislatures briefly **Body** <br>• Write the role of Presiding Officers of state legislatures in maintaining order <br>• Write the role of Presiding Officers of state legislatures ensuring impartiality in conducting legislative work <br>• Write the role of Presiding Officers of state legislatures in facilitating best democratic practices **Conclusion** <br>• Give appropriate conclusion in this regard |
+| **Approach:** <br> **Introduction** <br>• Write about Presiding Officers of state legislatures briefly <br> **Body** <br>• Write the role of Presiding Officers of state legislatures in maintaining order <br>• Write the role of Presiding Officers of state legislatures ensuring impartiality in conducting legislative work <br>• Write the role of Presiding Officers of state legislatures in facilitating best democratic practices <br> **Conclusion** <br>• Give appropriate conclusion in this regard |
 | --- |
 
 ### Introduction
@@ -10724,7 +10724,7 @@ The Vice-President of India has been clothed with a dual capacity as the second 
 1. Explanation_PWOnlyIAS:
 Source Question: Discuss the role of the Vice –Presidents of India as the chairman of the Rajya Sabha.
 
-| **Approach:** <br> **Introduction** <br>• Begin with a brief overview of the Vice-President’s role as the ex-officio Chairman of the Rajya Sabha and its importance in the functioning of the Upper House of Parliament. **Body** <br>• Discuss the various aspects of the Vice-President’s role as the Chairman of the Rajya Sabha. **Conclusion** <br>• Write a relevant conclusion. |
+| **Approach:** <br> **Introduction** <br>• Begin with a brief overview of the Vice-President’s role as the ex-officio Chairman of the Rajya Sabha and its importance in the functioning of the Upper House of Parliament. <br> **Body** <br>• Discuss the various aspects of the Vice-President’s role as the Chairman of the Rajya Sabha. <br> **Conclusion** <br>• Write a relevant conclusion. |
 | --- |
 
 ### Introduction
@@ -10920,7 +10920,7 @@ It is time to ensure impartiality and transparency in the office of the Speaker 
 1. Explanation_PWOnlyIAS:
 Source Question: ‘Once a Speaker, Always a Speaker’! Do you think this practice should be adopted to impart objectivity to the office of the Speaker of Lok Sabha? What could be its implications for the robust functioning of parliamentary business in India?
 
-| **Approach:** <br> **Introduction** <br>• Explain the concept of “Once a Speaker, Always a Speaker” and its objective to impart objectivity to the office of the Speaker. **Body** <br>• Discuss the potential benefits of adopting this practice. <br>• Examine the potential implications for the robust functioning of parliamentary business in India. **Conclusion** <br>• Write a relevant conclusion. |
+| **Approach:** <br> **Introduction** <br>• Explain the concept of “Once a Speaker, Always a Speaker” and its objective to impart objectivity to the office of the Speaker. <br> **Body** <br>• Discuss the potential benefits of adopting this practice. <br>• Examine the potential implications for the robust functioning of parliamentary business in India. <br> **Conclusion** <br>• Write a relevant conclusion. |
 | --- |
 
 ### Introduction
@@ -11144,7 +11144,7 @@ In a mature parliamentary system, all ideas should be debated and decided upon. 
 1. Explanation_PWOnlyIAS:
 Source Question: Individual Parliamentarian’s role as the national law maker is on a decline, which in turn, has adversely impacted the quality of debates and their outcome. Discuss.
 
-| **Approach:** <br> **Introduction** <br>• Introduce the role of individual parliamentarians as national lawmakers in a democratic setup and highlight the perceived decline in their role. **Body** <br>• Discuss factors contributing to the decline in the role of individual parliamentarians. <br>• Explain how the decline in individual parliamentarians’ role has impacted the quality of debates. <br>• Discuss the impact of the decline on the legislative outcome. **Conclusion** <br>• Summarize the main points and emphasize the importance of recognizing and addressing the decline in the role of individual parliamentarians to maintain the integrity and effectiveness of the democratic process. |
+| **Approach:** <br> **Introduction** <br>• Introduce the role of individual parliamentarians as national lawmakers in a democratic setup and highlight the perceived decline in their role. <br> **Body** <br>• Discuss factors contributing to the decline in the role of individual parliamentarians. <br>• Explain how the decline in individual parliamentarians’ role has impacted the quality of debates. <br>• Discuss the impact of the decline on the legislative outcome. <br> **Conclusion** <br>• Summarize the main points and emphasize the importance of recognizing and addressing the decline in the role of individual parliamentarians to maintain the integrity and effectiveness of the democratic process. |
 | --- |
 
 ### Introduction
@@ -11227,7 +11227,7 @@ Q75. The role of individual MPs (Members of Parliament) has diminished over the 
 1. Explanation_PWOnlyIAS:
 Source Question: The role of individual MPs (Members of Parliament) has diminished over the years and as a result healthy constructive debates on policy issues are not usually witnessed. How far can this be attributed to the anti-defection law, which was legislated but with a different intention?
 
-| **Approach:** <br> **Introduction** <br>• Briefly explain what the Anti-Defection Law is and its original intention. **Body** <br>• Discuss the unintended consequences of the Anti-Defection Law on the role of individual MPs and parliamentary debates. **Conclusion** <br>• Conclude by discussing the need for reform in the Anti-Defection Law to balance political stability and vibrant, constructive parliamentary debates. |
+| **Approach:** <br> **Introduction** <br>• Briefly explain what the Anti-Defection Law is and its original intention. <br> **Body** <br>• Discuss the unintended consequences of the Anti-Defection Law on the role of individual MPs and parliamentary debates. <br> **Conclusion** <br>• Conclude by discussing the need for reform in the Anti-Defection Law to balance political stability and vibrant, constructive parliamentary debates. |
 | --- |
 
 ### Introduction
@@ -11535,7 +11535,7 @@ Thus, the duties and privileges of the AGI, combined with the limitations impose
 1. Explanation_PWOnlyIAS:
 Source Question: “The Attorney-General is the chief legal adviser and lawyer of the Government of India.” Discuss.
 
-| **Approach:** <br> **Introduction** <br>• Briefly introduce the Attorney-General of India as a constitutional position under Article 76 and their role as the chief legal adviser and lawyer for the Government of India. **Body:** <br>• Discuss the appointment and qualifications of the Attorney-General. <br>• Outline the primary functions and responsibilities of the Attorney-General, emphasizing their role in providing legal advice, representing the government in courts, and drafting legal documents. <br>• Mention the additional roles, such as attending Parliament sessions and providing references to the Supreme Court. <br>• Explain the limitations and restrictions on the Attorney-General’s role, including independence, lack of executive powers, and professional limitations. **Conclusion** <br>• Conclude, emphasizing their importance in the country’s legal framework and ensuring the lawful functioning of the government. |
+| **Approach:** <br> **Introduction** <br>• Briefly introduce the Attorney-General of India as a constitutional position under Article 76 and their role as the chief legal adviser and lawyer for the Government of India. <br> **Body:** <br>• Discuss the appointment and qualifications of the Attorney-General. <br>• Outline the primary functions and responsibilities of the Attorney-General, emphasizing their role in providing legal advice, representing the government in courts, and drafting legal documents. <br>• Mention the additional roles, such as attending Parliament sessions and providing references to the Supreme Court. <br>• Explain the limitations and restrictions on the Attorney-General’s role, including independence, lack of executive powers, and professional limitations. <br> **Conclusion** <br>• Conclude, emphasizing their importance in the country’s legal framework and ensuring the lawful functioning of the government. |
 | --- |
 
 ### Introduction
@@ -11618,7 +11618,7 @@ Q78. Instances of President’s delay in commuting death sentences has come unde
 1. Explanation_PWOnlyIAS:
 Source Question: Instances of President’s delay in commuting death sentences has come under public debate as denial of justice. Should there be a time specified for the President to accept/reject such petitions? Analyse (200 words, 12.5 marks)
 
-| **Approach:** <br> **Introduction** <br>• Begin with a brief explanation of the President’s power to grant pardons and commute sentences under Article 72 of the Indian Constitution. **Body** <br>• Discuss the arguments in favor of specifying a time limit for the President to decide on mercy petitions. <br>• Discussion of the complexity and seriousness of cases involving capital punishment, and the potential political implications of decisions on mercy petitions. <br>• Substantiate the arguments with real-world examples, such as the case of Devender Pal Singh Bhullar. **Conclusion** <br>• Conclude, suggesting a potential way forward, such as establishing guidelines or norms for deciding mercy petitions within a reasonable timeframe, without making it a rigid requirement. |
+| **Approach:** <br> **Introduction** <br>• Begin with a brief explanation of the President’s power to grant pardons and commute sentences under Article 72 of the Indian Constitution. <br> **Body** <br>• Discuss the arguments in favor of specifying a time limit for the President to decide on mercy petitions. <br>• Discussion of the complexity and seriousness of cases involving capital punishment, and the potential political implications of decisions on mercy petitions. <br>• Substantiate the arguments with real-world examples, such as the case of Devender Pal Singh Bhullar. <br> **Conclusion** <br>• Conclude, suggesting a potential way forward, such as establishing guidelines or norms for deciding mercy petitions within a reasonable timeframe, without making it a rigid requirement. |
 | --- |
 
 ### Introduction
@@ -11688,7 +11688,7 @@ Q79. The size of the cabinet should be as big as governmental work justifies and
 1. Explanation_PWOnlyIAS:
 Source Question: The size of the cabinet should be as big as governmental work justifies and as big as the Prime Minister can manage as a team. How far is the efficacy of a government then inversely related to the size of the cabinet? Discuss. (200 words, 12.5 marks)
 
-| **Approach:** <br> **Introduction** <br>• Begin with a brief explanation of the importance of the size of the cabinet in relation to the functioning of the government. **Body** <br>• Discuss the potential advantages of a larger cabinet. <br>• Discuss the potential disadvantages of a larger cabinet. **Conclusion** <br>• Conclude, highlighting that it’s crucial for the Prime Minister to be able to effectively manage the cabinet, regardless of its size. |
+| **Approach:** <br> **Introduction** <br>• Begin with a brief explanation of the importance of the size of the cabinet in relation to the functioning of the government. <br> **Body** <br>• Discuss the potential advantages of a larger cabinet. <br>• Discuss the potential disadvantages of a larger cabinet. <br> **Conclusion** <br>• Conclude, highlighting that it’s crucial for the Prime Minister to be able to effectively manage the cabinet, regardless of its size. |
 | --- |
 
 ### Introduction
@@ -12010,7 +12010,7 @@ NALSA has done a great job at making legal aid available to the most disadvantag
 1. Explanation_PWOnlyIAS:
 Source Question: Who are entitled to receive free legal aid? Assess the role of the National Legal Services Authority (NALSA) in rendering free legal aid in India.
 
-| **Approach:** <br> **Introduction** <br>• Write about free legal aid and NALSA briefly **Body** <br>• Write Entitlement to Free Legal Aid <br>• Write the role of the National Legal Services Authority (NALSA) in rendering free legal aid in India **Conclusion** Give appropriate conclusion in this regard |
+| **Approach:** <br> **Introduction** <br>• Write about free legal aid and NALSA briefly <br> **Body** <br>• Write Entitlement to Free Legal Aid <br>• Write the role of the National Legal Services Authority (NALSA) in rendering free legal aid in India <br> **Conclusion** Give appropriate <br> conclusion in this regard |
 | --- |
 
 ### Introduction
@@ -12160,7 +12160,7 @@ Q82. What are the major changes brought in the Arbitration and Conciliation Act,
 1. Explanation_PWOnlyIAS:
 Source Question: What are the major changes brought in the Arbitration and Conciliation Act, 1996 through the recent Ordinance promulgated by the President? How far will it improve India’s dispute resolution mechanism? Discuss. (200 words, 12.5 marks)
 
-| **Approach:** <br> **Introduction** <br>• Introduction: Briefly introduce the Arbitration and Conciliation Act, 1996, and mention the recent ordinance promulgated by the President. **Body** <br>• Discuss the major changes brought in the Act through the ordinance and analyze how these changes would improve India’s dispute resolution mechanism. **Conclusion** <br>• Sum up the potential impact of the changes on India’s dispute resolution mechanism. |
+| **Approach:** <br> **Introduction** <br>• Introduction: Briefly introduce the Arbitration and Conciliation Act, 1996, and mention the recent ordinance promulgated by the President. <br> **Body** <br>• Discuss the major changes brought in the Act through the ordinance and analyze how these changes would improve India’s dispute resolution mechanism. <br> **Conclusion** <br>• Sum up the potential impact of the changes on India’s dispute resolution mechanism. |
 | --- |
 
 ### Introduction
@@ -12509,7 +12509,7 @@ Improving the representation of women in the judiciary is of crucial importance 
 1. Explanation_PWOnlyIAS:
 Source Question: Discuss the desirability of greater representation to women in the higher judiciary to ensure diversity, equity and inclusiveness.
 
-| **Approach:** <br> **Introduction** <br>• Introduce the importance of women’s representation in higher judiciary for diversity, equity, and inclusiveness. <br>**Body** <br>• Discuss the benefits of greater representation of women in higher judiciary. <br>• Address the challenges to overcome. **Conclusion** <br>• Conclude, suggesting the need for concerted efforts from various stakeholders to promote gender diversity in the judiciary. |
+| **Approach:** <br> **Introduction** <br>• Introduce the importance of women’s representation in higher judiciary for diversity, equity, and inclusiveness. <br>**Body** <br>• Discuss the benefits of greater representation of women in higher judiciary. <br>• Address the challenges to overcome. <br> **Conclusion** <br>• Conclude, suggesting the need for concerted efforts from various stakeholders to promote gender diversity in the judiciary. |
 | --- |
 
 ### Introduction
@@ -12625,7 +12625,7 @@ Q85. Starting from inventing the ‘basic structure’ doctrine, the judiciary h
 1. Explanation_PWOnlyIAS:
 Source Question: Starting from inventing the ‘basic structure’ doctrine, the judiciary has played a highly proactive role in ensuring that India develops into a thriving democracy. In light of the statement, evaluate the role played by judicial activism in achieving the ideals of democracy. (200 words, 12.5 marks)
 
-| **Approach:** <br> **Introduction** <br>• Begin by briefly explaining the concept of judicial activism, its emergence in India, and its relationship with the ‘basic structure’ doctrine. **Body** <br>• Delve into specific ways in which judicial activism has contributed to the principles of democracy in India. <br>• Also, discuss the critique of judicial activism. **Conclusion** <br>• Conclude by summarizing the role of judicial activism in shaping Indian democracy, acknowledging its contributions while also highlighting the need for balance and restraint. |
+| **Approach:** <br> **Introduction** <br>• Begin by briefly explaining the concept of judicial activism, its emergence in India, and its relationship with the ‘basic structure’ doctrine. <br> **Body** <br>• Delve into specific ways in which judicial activism has contributed to the principles of democracy in India. <br>• Also, discuss the critique of judicial activism. <br> **Conclusion** <br>• Conclude by summarizing the role of judicial activism in shaping Indian democracy, acknowledging its contributions while also highlighting the need for balance and restraint. |
 | --- |
 
 ### Introduction
@@ -12886,7 +12886,7 @@ Q87. Khap Panchayats have been in the news for functioning as extra-constitution
 1. Explanation_PWOnlyIAS:
 Source Question: Khap Panchayats have been in the news for functioning as extra-constitutional authorities, often delivering pronouncements amounting to human rights violations. Discuss critically the actions taken by the legislative, executive and the judiciary to set the things right in this regard. (200 words, 12.5 marks)
 
-| **Approach:** <br> **Introduction** <br>• Briefly describe what Khap Panchayats are and the challenges associated with them. **Body** <br>• Divide the body into three main sections corresponding to the actions taken by the legislative, executive, and judiciary branches of the Indian government. **Conclusion** <br>• Conclude, suggesting ways to effectively address the issue. |
+| **Approach:** <br> **Introduction** <br>• Briefly describe what Khap Panchayats are and the challenges associated with them. <br> **Body** <br>• Divide the body into three main sections corresponding to the actions taken by the legislative, executive, and judiciary branches of the Indian government. <br> **Conclusion** <br>• Conclude, suggesting ways to effectively address the issue. |
 | --- |
 
 ### Introduction
@@ -13250,7 +13250,7 @@ Besides, in a system of representative democracy, the business groups influence 
 1. Explanation_PWOnlyIAS:
 Source Question: Pressure groups play a vital role in influencing public policy making in India.” Explain how the business associations contribute to public policies.
 
-| **Approach:** <br> **Introduction** <br>• Briefly introduce the concept of pressure groups and their significance in influencing public policy-making in India, with a specific focus on business associations. **Body** <br>• Mention how the business associations contribute to public policies. Also, give examples. **Conclusion** <br>• Write a relevant conclusion. |
+| **Approach:** <br> **Introduction** <br>• Briefly introduce the concept of pressure groups and their significance in influencing public policy-making in India, with a specific focus on business associations. <br> **Body** <br>• Mention how the business associations contribute to public policies. Also, give examples. <br> **Conclusion** <br>• Write a relevant conclusion. |
 | --- |
 
 ### Introduction
@@ -13413,7 +13413,7 @@ Thus, although organising the protest and mobilising support help in gaining the
 1. Explanation_PWOnlyIAS:
 Source Question: What are the methods used by the farmers’ organisation to influence the policy-makers in India and how effective are these methods?
 
-| **Approach:** <br> **Introduction** <br>• Introduce the importance of farmers’ organizations in representing the interests of the farming community in India. **Body:** <br>• Explain various methods used by farmers’ organizations, including lobbying, protests and demonstrations, policy advocacy, alliances and partnerships, and electoral politics. <br>• Discuss the effectiveness of each method, providing examples of successful cases where farmers’ organizations have influenced policy-makers and brought about change. **Conclusion** <br>• Summarize the key points and emphasize the importance of farmers’ organizations in shaping policies that impact the agricultural sector and the lives of farmers in India. |
+| **Approach:** <br> **Introduction** <br>• Introduce the importance of farmers’ organizations in representing the interests of the farming community in India. <br> **Body:** <br>• Explain various methods used by farmers’ organizations, including lobbying, protests and demonstrations, policy advocacy, alliances and partnerships, and electoral politics. <br>• Discuss the effectiveness of each method, providing examples of successful cases where farmers’ organizations have influenced policy-makers and brought about change. <br> **Conclusion** <br>• Summarize the key points and emphasize the importance of farmers’ organizations in shaping policies that impact the agricultural sector and the lives of farmers in India. |
 | --- |
 
 ### Introduction
@@ -13516,7 +13516,7 @@ Both of these movements were informal, not associated to any identities or entit
 1. Explanation_PWOnlyIAS:
 Source Question: How do pressure groups influence Indian political process? Do you agree with this view that informal pressure groups have emerged as powerful as formal pressure groups in recent years?
 
-| **Approach:** <br> **Introduction** <br>• Introduce the concept of pressure groups and their role in the Indian political process. **Body** <br>• Discuss the factors contributing to the growing influence of informal pressure groups. <br>• Mention examples of informal pressure groups gaining prominence. **Conclusion** <br>• Conclude, emphasizing the complementary roles both types of pressure groups play in ensuring a vibrant democracy and diverse representation in policy-making. |
+| **Approach:** <br> **Introduction** <br>• Introduce the concept of pressure groups and their role in the Indian political process. <br> **Body** <br>• Discuss the factors contributing to the growing influence of informal pressure groups. <br>• Mention examples of informal pressure groups gaining prominence. <br> **Conclusion** <br>• Conclude, emphasizing the complementary roles both types of pressure groups play in ensuring a vibrant democracy and diverse representation in policy-making. |
 | --- |
 
 ### Introduction
@@ -13638,7 +13638,7 @@ Q92. Pressure group politics is sometimes seen as the informal face of politics.
 1. Explanation_PWOnlyIAS:
 Source Question: Pressure group politics is sometimes seen as the informal face of politics. With regards to the above, assess the structure and functioning of pressure groups in India.
 
-| **Approach:** <br> **Introduction** <br>• Begin by defining what pressure groups are and their role as the informal face of politics. Briefly mention their function in influencing public policies and decisions without seeking formal political power. **Body** <br>• Discuss the different types of pressure groups based on interest, issues, and identity, providing examples for each. <br>• Discuss the various roles of pressure groups, such as policy advocacy, public education, and representation. **Conclusion** <br>• Conclude by summarizing the significant role of pressure groups in India’s democratic setup, highlighting their function as a bridge between the government and citizens. |
+| **Approach:** <br> **Introduction** <br>• Begin by defining what pressure groups are and their role as the informal face of politics. Briefly mention their function in influencing public policies and decisions without seeking formal political power. <br> **Body** <br>• Discuss the different types of pressure groups based on interest, issues, and identity, providing examples for each. <br>• Discuss the various roles of pressure groups, such as policy advocacy, public education, and representation. <br> **Conclusion** <br>• Conclude by summarizing the significant role of pressure groups in India’s democratic setup, highlighting their function as a bridge between the government and citizens. |
 | --- |
 
 ### Introduction
@@ -13989,7 +13989,7 @@ Thus, the Representation of the People Act, 1951 is crucial for the efficient fu
 1. Explanation_PWOnlyIAS:
 Source Question: Discuss the procedures to decide the disputes arising out of the election of a Member of the Parliament or State Legislature under The Representation of the People Act, 1951. What are the grounds on which the election of any returned candidate may be declared void? What remedy is available to the aggrieved party against the decision? Refer to the case laws.
 
-| **Approach:** <br> **Introduction** <br>• Briefly introduce the Representation of the People Act, 1951, and its significance in addressing disputes arising out of the election of a Member of Parliament or State Legislature. **Body** <br>• Divide the body into three main parts: <br>• Procedures to decide disputes arising out of elections. <br>• Grounds for declaring an election void. <br>• Remedies available to the aggrieved party. **Conclusion** <br>• Summarize the importance of the Representation of the People Act, 1951, in ensuring a transparent, accountable, and fair electoral process in India, and emphasize its role in strengthening the country’s democratic fabric. |
+| **Approach:** <br> **Introduction** <br>• Briefly introduce the Representation of the People Act, 1951, and its significance in addressing disputes arising out of the election of a Member of Parliament or State Legislature. <br> **Body** <br>• Divide the body into three main parts: <br>• Procedures to decide disputes arising out of elections. <br>• Grounds for declaring an election void. <br>• Remedies available to the aggrieved party. <br> **Conclusion** <br>• Summarize the importance of the Representation of the People Act, 1951, in ensuring a transparent, accountable, and fair electoral process in India, and emphasize its role in strengthening the country’s democratic fabric. |
 | --- |
 
 ### Introduction
@@ -14193,7 +14193,7 @@ The Representation of the Peoples Act (RPA), 1951 deals with the conduct of elec
 1. Explanation_PWOnlyIAS:
 Source Question: “There is a need for simplification of procedure for disqualification of persons found guilty of corrupt practices under the Representation of Peoples Act”. Comment.
 
-| **Approach:** <br> **Introduction** <br>• Briefly explain the Representation of Peoples Act (RPA) and its role in the electoral process. **Body** <br>• Discuss the reasons for the need for simplification: <br>• Timely resolution <br>• Legal clarity <br>• Deterrence effect <br>• Public trust <br>• Highlight the importance of balancing simplification with protection of candidates’ rights and principles of natural justice. **Conclusion** <br>• Conclude with the potential benefits of simplification for the integrity of the electoral system and public trust in democracy. |
+| **Approach:** <br> **Introduction** <br>• Briefly explain the Representation of Peoples Act (RPA) and its role in the electoral process. <br> **Body** <br>• Discuss the reasons for the need for simplification: <br>• Timely resolution <br>• Legal clarity <br>• Deterrence effect <br>• Public trust <br>• Highlight the importance of balancing simplification with protection of candidates’ rights and principles of natural justice. <br> **Conclusion** <br>• Conclude with the potential benefits of simplification for the integrity of the electoral system and public trust in democracy. |
 | --- |
 
 ### Introduction
@@ -14333,7 +14333,7 @@ The Act of 1951 has laid down certain **criteria for disqualifications**. Accord
 1. Explanation_PWOnlyIAS:
 Source Question: On what grounds a people’s representative can be disqualified under the Representation of Peoples Act, 1951? Also mention the remedies available to such person against his disqualification.
 
-| **Approach:** <br> **Introduction** <br>• Introduce the Representation of People’s Act, 1951 (RPA) and its purpose in governing the conduct of elections in India. **Body** <br>• Discuss the grounds for disqualification under the RPA (Sections 8, 8A, 9, 9A, 10, and 10A). <br>• Explain the remedies available to a person against disqualification, including appealing to a higher court, seeking judicial review, expunging the conviction, and obtaining a presidential pardon. **Conclusion** <br>• Conclude, emphasizing the importance of the RPA in maintaining the integrity of the electoral process in India. |
+| **Approach:** <br> **Introduction** <br>• Introduce the Representation of People’s Act, 1951 (RPA) and its purpose in governing the conduct of elections in India. <br> **Body** <br>• Discuss the grounds for disqualification under the RPA (Sections 8, 8A, 9, 9A, 10, and 10A). <br>• Explain the remedies available to a person against disqualification, including appealing to a higher court, seeking judicial review, expunging the conviction, and obtaining a presidential pardon. <br> **Conclusion** <br>• Conclude, emphasizing the importance of the RPA in maintaining the integrity of the electoral process in India. |
 | --- |
 
 ### Introduction
@@ -14672,7 +14672,7 @@ EVMs have brought a structure to the electoral process that did not exist during
 1. Explanation_PWOnlyIAS:
 Source Question: How is the Finance Commission of India constituted? What do you know about the terms of reference of the recently constituted Finance Commission? Discuss.
 
-| **Approach:** <br> **Introduction** <br>• Briefly introduce the Finance Commission and its role in the Indian fiscal system. **Body** <br>• Explain how the Finance Commission is constituted and discuss the terms of reference of the recently constituted Finance Commission. **Conclusion** <br>• Summarize the importance of the Finance Commission in ensuring fiscal federalism and equitable distribution of resources. |
+| **Approach:** <br> **Introduction** <br>• Briefly introduce the Finance Commission and its role in the Indian fiscal system. <br> **Body** <br>• Explain how the Finance Commission is constituted and discuss the terms of reference of the recently constituted Finance Commission. <br> **Conclusion** <br>• Summarize the importance of the Finance Commission in ensuring fiscal federalism and equitable distribution of resources. |
 | --- |
 
 ### Introduction
@@ -14775,7 +14775,7 @@ Electoral reform basically aims at introducing an electoral system of conducting
 1. Explanation_PWOnlyIAS:
 Source Question: To enhance the quality of democracy in India the Election Commission of India has proposed electoral reforms in 2016. What are the suggested reforms and how far are they significant to make democracy successful?
 
-| **Approach:** <br> **Introduction** <br>• Introduce by emphasizing the purpose of the electoral reforms proposed by the Election Commission of India in 2016. **Body** <br>• Divide the body into two main sections. <br>• Suggested electoral reforms. <br>• Significance of the suggested reforms in making democracy successful. **Conclusion** <br>• Highlight the need for political will, public awareness, and the continued vigilance of civil society and citizens to ensure the successful implementation of these reforms. |
+| **Approach:** <br> **Introduction** <br>• Introduce by emphasizing the purpose of the electoral reforms proposed by the Election Commission of India in 2016. <br> **Body** <br>• Divide the body into two main sections. <br>• Suggested electoral reforms. <br>• Significance of the suggested reforms in making democracy successful. <br> **Conclusion** <br>• Highlight the need for political will, public awareness, and the continued vigilance of civil society and citizens to ensure the successful implementation of these reforms. |
 | --- |
 
 ### Introduction
@@ -14900,7 +14900,7 @@ Simultaneous elections are desirable provided they are juxtaposed with certain r
 1. Explanation_PWOnlyIAS:
 Source Question: ‘Simultaneous election to the Lok Sabha and the State Assemblies will limit the amount of time and money spent in electioneering but it will reduce the government’s accountability to the people’ Discuss.
 
-| **Approach:** <br> **Introduction** <br>• Begin with a brief explanation of simultaneous elections and their significance in the context of India’s electoral system. **Body** <br>• Divide the body into two main sections: <br>• Advantages of simultaneous elections. <br>• Disadvantages of simultaneous elections. **Conclusion** <br>• Highlight the importance of public consultations and expert opinions in determining the best course of action for India’s democratic process. |
+| **Approach:** <br> **Introduction** <br>• Begin with a brief explanation of simultaneous elections and their significance in the context of India’s electoral system. <br> **Body** <br>• Divide the body into two main sections: <br>• Advantages of simultaneous elections. <br>• Disadvantages of simultaneous elections. <br> **Conclusion** <br>• Highlight the importance of public consultations and expert opinions in determining the best course of action for India’s democratic process. |
 | --- |
 
 ### Introduction
@@ -15084,7 +15084,7 @@ Model Code of Conduct does not have any statutory backing, it has come to acquir
 1. Explanation_PWOnlyIAS:
 Source Question: Discuss the role of the Election Commission of India in the light of the evolution of the Model Code of Conduct.
 
-| **Approach:** <br> **Introduction** <br> • Introduce the Election Commission of India (ECI) and the Model Code of Conduct (MCC), emphasizing the significance of the MCC in ensuring free and fair elections. **Body** <br> • Discuss the role of the Election Commission of India in the light of the evolution of the Model Code of Conduct. <br> • **Formulation and Evolution** <br> • **Implementation and Enforcement** <br> • **Awareness and Education** <br> • **Monitoring and Grievance Redressal** <br> • **Adaptation to Technological Advancements** <br> **Conclusion** <br> • Conclude, emphasizing its significance in maintaining the integrity of the electoral process in India. |
+| **Approach:** <br> **Introduction** <br> • Introduce the Election Commission of India (ECI) and the Model Code of Conduct (MCC), emphasizing the significance of the MCC in ensuring free and fair elections. <br> **Body** <br> • Discuss the role of the Election Commission of India in the light of the evolution of the Model Code of Conduct. <br> • **Formulation and Evolution** <br> • **Implementation and Enforcement** <br> • **Awareness and Education** <br> • **Monitoring and Grievance Redressal** <br> • **Adaptation to Technological Advancements** <br> **Conclusion** <br> • Conclude, emphasizing its significance in maintaining the integrity of the electoral process in India. |
 | --- |
 
 ### Introduction
@@ -15356,7 +15356,7 @@ Regional parties in India are of opinion that regional issues are different from
 1. Explanation_PWOnlyIAS:
 Source Question: While the national political parties in India favour centralisation, the regional parties are in favour of State autonomy.” Comment.
 
-| **Approach:** <br> **Introduction** <br>• Briefly introduce the federal structure of governance in India and the contrasting preferences of national and regional political parties regarding centralization and state autonomy. **Body** <br>• Divide the body into two main parts: <br>• National political parties and centralization. <br>• Regional parties and state autonomy. **Conclusion** <br>• Summarize the importance of striking a balance between centralization and state autonomy for effective governance and addressing the diverse needs of India’s population. |
+| **Approach:** <br> **Introduction** <br>• Briefly introduce the federal structure of governance in India and the contrasting preferences of national and regional political parties regarding centralization and state autonomy. <br> **Body** <br>• Divide the body into two main parts: <br>• National political parties and centralization. <br>• Regional parties and state autonomy. <br> **Conclusion** <br>• Summarize the importance of striking a balance between centralization and state autonomy for effective governance and addressing the diverse needs of India’s population. |
 | --- |
 
 ### Introduction
@@ -15485,7 +15485,7 @@ The party system can be said to be moving from social cohesion to fragmentation 
 1. Explanation_PWOnlyIAS:
 Source Question: The Indian party system is passing through a phase of transition which looks to be full of contradictions and paradoxes.” Discuss. (200 words, 12.5 marks)
 
-| **Approach:** <br> **Introduction** <br>• Briefly introduce the transitional phase of the Indian party system, highlighting the contradictions and paradoxes that have emerged due to the evolving nature of India’s democracy and political institutions. **Body** <br>• Discuss the key aspects of the transition, including: <br>• the rise of regional parties, <br>• the changing dynamics of national parties, <br>• the emergence of coalition politics, and <br>• the growing influence of social media on political discourse. <br>• Provide examples to illustrate these points. **Conclusion** <br>• Summarize the complexities of the Indian party system’s transitional phase and emphasize the importance of addressing these challenges to ensure political stability and embrace the diverse aspirations of India’s citizens. |
+| **Approach:** <br> **Introduction** <br>• Briefly introduce the transitional phase of the Indian party system, highlighting the contradictions and paradoxes that have emerged due to the evolving nature of India’s democracy and political institutions. <br> **Body** <br>• Discuss the key aspects of the transition, including: <br>• the rise of regional parties, <br>• the changing dynamics of national parties, <br>• the emergence of coalition politics, and <br>• the growing influence of social media on political discourse. <br>• Provide examples to illustrate these points. <br> **Conclusion** <br>• Summarize the complexities of the Indian party system’s transitional phase and emphasize the importance of addressing these challenges to ensure political stability and embrace the diverse aspirations of India’s citizens. |
 | --- |
 
 ### Introduction
@@ -15793,7 +15793,7 @@ Thus, NCBC is an important commission for social progress. It should be gender s
 1. Explanation_PWOnlyIAS:
 Source Question: Discuss the role of the National Commission for Backward Classes in the wake of its transformation from a statutory body to a constitutional body.
 
-| **Approach:** <br> **Introduction** <br>• Begin with a brief overview of the National Commission for Backward Classes (NCBC) and its transformation from a statutory body to a constitutional body through the 102nd Constitutional Amendment Act. **Body** <br>• Discuss the various aspects of the role of the NCBC in the wake of its transformation. **Conclusion** <br>• Write a relevant conclusion. |
+| **Approach:** <br> **Introduction** <br>• Begin with a brief overview of the National Commission for Backward Classes (NCBC) and its transformation from a statutory <br> body to a constitutional <br> body through the 102nd Constitutional Amendment Act. <br> **Body** <br>• Discuss the various aspects of the role of the NCBC in the wake of its transformation. <br> **Conclusion** <br>• Write a relevant conclusion. |
 | --- |
 
 ### Introduction
@@ -15949,7 +15949,7 @@ The Finance Commission recommendations will reform the State finances which will
 1. Explanation_PWOnlyIAS:
 Source Question: How have the recommendations of the 14th Finance Commission of India enabled the states to improve their fiscal position?
 
-| **Approach:** <br> **Introduction** <br>• Introduce the 14th Finance Commission of India and its role in fiscal federalism. **Body** <br>• Discuss how the recommendations of the 14th Finance Commission have enabled states to improve their fiscal position: <br>• Increased devolution of central taxes <br>• Revenue deficit grants <br>• Fiscal discipline incentives <br>• Greater autonomy and flexibility <br>• Strengthening local bodies **Conclusion** <br>• Conclude, emphasizing the role of these recommendations in strengthening fiscal federalism and encouraging prudent fiscal policies and efficient resource allocation. |
+| **Approach:** <br> **Introduction** <br>• Introduce the 14th Finance Commission of India and its role in fiscal federalism. <br> **Body** <br>• Discuss how the recommendations of the 14th Finance Commission have enabled states to improve their fiscal position: <br>• Increased devolution of central taxes <br>• Revenue deficit grants <br>• Fiscal discipline incentives <br>• Greater autonomy and flexibility <br>• Strengthening local bodies **Conclusion** <br>• Conclude, emphasizing the role of these recommendations in strengthening fiscal federalism and encouraging prudent fiscal policies and efficient resource allocation. |
 | --- |
 
 ### Introduction
@@ -16169,7 +16169,7 @@ The Constitution envisages the FC as the balancing wheel of the fiscal federalis
 1. Explanation_PWOnlyIAS:
 Source Question: How is the Finance Commission of India constituted? What do you know about the terms of reference of the recently constituted Finance Commission? Discuss.
 
-| **Approach:** <br> **Introduction** <br>• Briefly introduce the Finance Commission and its role in the Indian fiscal system. **Body** <br>• Explain how the Finance Commission is constituted and discuss the terms of reference of the recently constituted Finance Commission. **Conclusion** <br>• Summarize the importance of the Finance Commission in ensuring fiscal federalism and equitable distribution of resources. |
+| **Approach:** <br> **Introduction** <br>• Briefly introduce the Finance Commission and its role in the Indian fiscal system. <br> **Body** <br>• Explain how the Finance Commission is constituted and discuss the terms of reference of the recently constituted Finance Commission. <br> **Conclusion** <br>• Summarize the importance of the Finance Commission in ensuring fiscal federalism and equitable distribution of resources. |
 | --- |
 
 ### Introduction
@@ -16317,7 +16317,7 @@ Its role as the highest auditing authority is intrinsically linked to the effica
 1. Explanation_PWOnlyIAS:
 Source Question: Appropriate local community-level healthcare intervention is a prerequisite to achieve ‘Health for All’ in India. Explain.
 
-| **Approach:** <br> **Introduction** <br>• Introduce the concept of ‘Health for All’ and emphasize the importance of local community-level healthcare interventions in achieving this goal in the Indian context. **Body** <br>• Discuss various aspects of community-level healthcare interventions that contribute to achieving ‘Health for All’ in India. <br>• Provide examples for each aspect to illustrate the practical implementation of local community-level healthcare interventions and their impact on improving health outcomes. <br>• Provide case studies of the successful models. **Conclusion** <br>• Write a relevant conclusion. |
+| **Approach:** <br> **Introduction** <br>• Introduce the concept of ‘Health for All’ and emphasize the importance of local community-level healthcare interventions in achieving this goal in the Indian context. <br> **Body** <br>• Discuss various aspects of community-level healthcare interventions that contribute to achieving ‘Health for All’ in India. <br>• Provide examples for each aspect to illustrate the practical implementation of local community-level healthcare interventions and their impact on improving health outcomes. <br>• Provide case studies of the successful models. <br> **Conclusion** <br>• Write a relevant conclusion. |
 | --- |
 
 ### Introduction
@@ -16436,7 +16436,7 @@ Therefore, the according to the Constitution of India, minority institutions und
 1. Explanation_PWOnlyIAS:
 Source Question: Whether National Commission for Scheduled Castes (NCSC) can enforce the implementation of constitutional reservation for the Scheduled Castes in the religious minority institutions? Examine.
 
-| **Approach:** <br> **Introduction** <br>• Briefly introduce the National Commission for Scheduled Castes (NCSC) and its role in safeguarding the rights of Scheduled Castes (SCs). **Body** <br>• Discuss the constitutional provisions for reservation and the applicability of these provisions to religious minority institutions. Examine whether the NCSC can enforce the implementation of reservation in these institutions. **Conclusion** <br>• Sum up the limitations and challenges in enforcing reservation policies in religious minority institutions and the need for a balanced approach. |
+| **Approach:** <br> **Introduction** <br>• Briefly introduce the National Commission for Scheduled Castes (NCSC) and its role in safeguarding the rights of Scheduled Castes (SCs). <br> **Body** <br>• Discuss the constitutional provisions for reservation and the applicability of these provisions to religious minority institutions. Examine whether the NCSC can enforce the implementation of reservation in these institutions. <br> **Conclusion** <br>• Sum up the limitations and challenges in enforcing reservation policies in religious minority institutions and the need for a balanced approach. |
 | --- |
 
 ### Introduction
@@ -16519,7 +16519,7 @@ The institution of CAG is no longer that of only auditors as it was probably 50 
 1. Explanation_PWOnlyIAS:
 Source Question: Exercise of CAG’s powers in relation to the accounts of the Union and the States is derived from Article 149 of the Indian Constitution. Discuss whether audit of the Government’s policy implementation could amount to overstepping its own (CAG) jurisdiction. (200 words, 12.5 marks)
 
-| **Approach:** <br> **Introduction** <br>• Introduce the Comptroller and Auditor General (CAG) as a constitutional authority derived from Article 149 of the Indian Constitution. **Body** <br>• Discuss the different types of audits conducted by the CAG, focusing on the performance audit and its relevance to government policy implementation. <br>• Explain that the CAG’s audit does not interfere with the policy-making process but evaluates the effectiveness, efficiency, and economy of the government’s policies and operations. **Conclusion** <br>• Conclude, emphasizing the CAG’s vital role in enhancing the overall effectiveness and accountability of the government’s operations. |
+| **Approach:** <br> **Introduction** <br>• Introduce the Comptroller and Auditor General (CAG) as a constitutional authority derived from Article 149 of the Indian Constitution. <br> **Body** <br>• Discuss the different types of audits conducted by the CAG, focusing on the performance audit and its relevance to government policy implementation. <br>• Explain that the CAG’s audit does not interfere with the policy-making process but evaluates the effectiveness, efficiency, and economy of the government’s policies and operations. <br> **Conclusion** <br>• Conclude, emphasizing the CAG’s vital role in enhancing the overall effectiveness and accountability of the government’s operations. |
 | --- |
 
 ### Introduction
@@ -16593,7 +16593,7 @@ Q111. Discuss the recommendations of the 13th Finance Commission which have been
 1. Explanation_PWOnlyIAS:
 Source Question: Discuss the recommendations of the 13th Finance Commission which have been a departure from the previous commissions for strengthening the local government finances.
 
-| **Approach:** <br> **Introduction** <br>• Start by introducing the 13th Finance Commission, the period it covered, and its focus on strengthening the finances of local bodies (both rural and urban). **Body** <br>• Discuss the major recommendations of the 13th Finance Commission that marked a departure from previous commissions. <br>• Use specific examples, like Kerala and Rajasthan, to substantiate the impact of these recommendations. **Conclusion** <br>• Conclude by reflecting on the need for further measures to strengthen the financial autonomy of local bodies. |
+| **Approach:** <br> **Introduction** <br>• Start by introducing the 13th Finance Commission, the period it covered, and its focus on strengthening the finances of local bodies (both rural and urban). <br> **Body** <br>• Discuss the major recommendations of the 13th Finance Commission that marked a departure from previous commissions. <br>• Use specific examples, like Kerala and Rajasthan, to substantiate the impact of these recommendations. <br> **Conclusion** <br>• Conclude by reflecting on the need for further measures to strengthen the financial autonomy of local bodies. |
 | --- |
 
 ### Introduction
@@ -16749,7 +16749,7 @@ In context of federal structure, Police is exclusively a State subject. However,
 1. Explanation_PWOnlyIAS:
 Source Question: The jurisdiction of the Central Bureau of Investigation(CBI) regarding lodging an FIR and conducting probe within a particular state is being questioned by various States. However, the power of States to withhold consent to the CBI is not absolute. Explain with special reference to the federal character of India.
 
-| **Approach:** <br> **Introduction** <br>• Briefly explain the CBI’s role in India and its jurisdictional issues with the states. **Body** <br>• Discuss the federal structure of India and the division of powers between central and state governments. <br>• Explain why the CBI’s jurisdiction is a matter of debate due to the subject of ‘police’ falling under the State List. <br>• Enumerate the specific situations in which the CBI can exercise jurisdiction within a state despite the state government’s objections or lack of consent. **Conclusion** <br>• Write a relevant conclusion. |
+| **Approach:** <br> **Introduction** <br>• Briefly explain the CBI’s role in India and its jurisdictional issues with the states. <br> **Body** <br>• Discuss the federal structure of India and the division of powers between central and state governments. <br>• Explain why the CBI’s jurisdiction is a matter of debate due to the subject of ‘police’ falling under the State List. <br>• Enumerate the specific situations in which the CBI can exercise jurisdiction within a state despite the state government’s objections or lack of consent. <br> **Conclusion** <br>• Write a relevant conclusion. |
 | --- |
 
 ### Introduction
@@ -16937,7 +16937,7 @@ Thus, it can be fairly argued that the tribunal which was formed for grievance a
 1. Explanation_PWOnlyIAS:
 Source Question: “The Attorney-General is the chief legal adviser and lawyer of the Government of India.” Discuss.
 
-| **Approach:** <br> **Introduction** <br>• Briefly introduce the Attorney-General of India as a constitutional position under Article 76 and their role as the chief legal adviser and lawyer for the Government of India. **Body:** <br>• Discuss the appointment and qualifications of the Attorney-General. <br>• Outline the primary functions and responsibilities of the Attorney-General, emphasizing their role in providing legal advice, representing the government in courts, and drafting legal documents. <br>• Mention the additional roles, such as attending Parliament sessions and providing references to the Supreme Court. <br>• Explain the limitations and restrictions on the Attorney-General’s role, including independence, lack of executive powers, and professional limitations. **Conclusion** <br>• Conclude, emphasizing their importance in the country’s legal framework and ensuring the lawful functioning of the government. |
+| **Approach:** <br> **Introduction** <br>• Briefly introduce the Attorney-General of India as a constitutional position under Article 76 and their role as the chief legal adviser and lawyer for the Government of India. <br> **Body:** <br>• Discuss the appointment and qualifications of the Attorney-General. <br>• Outline the primary functions and responsibilities of the Attorney-General, emphasizing their role in providing legal advice, representing the government in courts, and drafting legal documents. <br>• Mention the additional roles, such as attending Parliament sessions and providing references to the Supreme Court. <br>• Explain the limitations and restrictions on the Attorney-General’s role, including independence, lack of executive powers, and professional limitations. <br> **Conclusion** <br>• Conclude, emphasizing their importance in the country’s legal framework and ensuring the lawful functioning of the government. |
 | --- |
 
 ### Introduction
@@ -17093,7 +17093,7 @@ A tribunal is a quasi-judicial body established by an Act of Parliament or State
 1. Explanation_PWOnlyIAS:
 Source Question: How far do you agree with the view that tribunals curtail the jurisdiction of ordinary courts? In view of the above, discuss the constitutional validity and competency of the tribunals in India?
 
-| **Approach:** <br> **Introduction** <br>• Introduce the concept of tribunals in India and their role in the judicial system. **Body** <br>• Discuss the extent to which tribunals curtail the jurisdiction of ordinary courts and examine the constitutional validity and competency of tribunals in India. **Conclusion** <br>• Summarize the importance of tribunals in the Indian judicial system and the need for maintaining a balance between the jurisdiction of tribunals and ordinary courts. |
+| **Approach:** <br> **Introduction** <br>• Introduce the concept of tribunals in India and their role in the judicial system. <br> **Body** <br>• Discuss the extent to which tribunals curtail the jurisdiction of ordinary courts and examine the constitutional validity and competency of tribunals in India. <br> **Conclusion** <br>• Summarize the importance of tribunals in the Indian judicial system and the need for maintaining a balance between the jurisdiction of tribunals and ordinary courts. |
 | --- |
 
 ### Introduction
@@ -17181,7 +17181,7 @@ Send To My Bookmarks
 1. Explanation_PWOnlyIAS:
 Source Question: What is a quasi judicial body? Explain with the help of concrete examples. (200 words, 12.5 marks)
 
-| **Approach:** <br> **Introduction** <br>• Introduce the concept of quasi-judicial bodies as administrative or non-judicial organizations that have the authority to make decisions, adjudicate disputes, or impose penalties in specific matters, functioning within specialized areas of law. **Body** <br>• You can also mention in brief, Articles 323A and 323B of the Constitution. <br>• Explain the characteristics of quasi-judicial bodies and their role in complementing the traditional judicial system. <br>• Provide concrete examples of quasi-judicial bodies in India, such as: <br>• Central Administrative Tribunal (CAT), <br>• National Green Tribunal (NGT), <br>• Competition Commission of India (CCI), and <br>• Telecom Disputes Settlement and Appellate Tribunal (TDSAT). <br>• Discuss their respective areas of expertise, functions, and powers, highlighting their importance in providing efficient and focused dispute resolution or decision-making mechanisms. **Conclusion** <br>• Write a relevant conclusion. |
+| **Approach:** <br> **Introduction** <br>• Introduce the concept of quasi-judicial bodies as administrative or non-judicial organizations that have the authority to make decisions, adjudicate disputes, or impose penalties in specific matters, functioning within specialized areas of law. <br> **Body** <br>• You can also mention in brief, Articles 323A and 323B of the Constitution. <br>• Explain the characteristics of quasi-judicial bodies and their role in complementing the traditional judicial system. <br>• Provide concrete examples of quasi-judicial bodies in India, such as: <br>• Central Administrative Tribunal (CAT), <br>• National Green Tribunal (NGT), <br>• Competition Commission of India (CCI), and <br>• Telecom Disputes Settlement and Appellate Tribunal (TDSAT). <br>• Discuss their respective areas of expertise, functions, and powers, highlighting their importance in providing efficient and focused dispute resolution or decision-making mechanisms. <br> **Conclusion** <br>• Write a relevant conclusion. |
 | --- |
 
 ### Introduction
@@ -17250,7 +17250,7 @@ Q116. For achieving the desired objectives, it is necessary to ensure that the r
 1. Explanation_PWOnlyIAS:
 Source Question: “For achieving the desired objectives, it is necessary to ensure that the regulatory institutions remain independent and autonomous.” Discuss in the light of the experiences in recent past. (200 words, 12.5 marks)
 
-| **Approach:** <br> **Introduction** <br>• Highlight the need for these institutions to be independent and autonomous to effectively achieve their objectives. **Body** <br>• Discuss the recent experiences regarding the independence and autonomy of these institutions: <br>• The Reserve Bank of India (RBI) <br>• The Central Bureau of Investigation (CBI) <br>• The Judiciary <br>• The Election Commission of India (ECI. <br>• In each case, analyze how the instances of potential interference with the institutions’ autonomy could affect their ability to fulfill their mandates effectively. **Conclusion** <br>• Write a relevant conclusion. |
+| **Approach:** <br> **Introduction** <br>• Highlight the need for these institutions to be independent and autonomous to effectively achieve their objectives. <br> **Body** <br>• Discuss the recent experiences regarding the independence and autonomy of these institutions: <br>• The Reserve Bank of India (RBI) <br>• The Central Bureau of Investigation (CBI) <br>• The Judiciary <br>• The Election Commission of India (ECI. <br>• In each case, analyze how the instances of potential interference with the institutions’ autonomy could affect their ability to fulfill their mandates effectively. <br> **Conclusion** <br>• Write a relevant conclusion. |
 | --- |
 
 ### Introduction
@@ -17327,7 +17327,7 @@ Q117. The setting up of a Rail Tariff Authority to regulate fares will subject t
 1. Explanation_PWOnlyIAS:
 Source Question: The setting up of a Rail Tariff Authority to regulate fares will subject the cash strapped Indian Railways to demand subsidy for obligation to operate non-profitable routes and services. Taking into account the experience in the power sector, discuss if the proposed reform is expected to benefit the consumers, the Indian Railways or the private container operators. (200 words, 12.5 marks)
 
-| **Approach:** <br> **Introduction** <br>• Begin with a brief introduction about the proposal of setting up a Rail Tariff Authority (RTA) to regulate fares in the Indian Railways. **Body** <br>• Discuss the potential impact of the RTA on consumers. <br>• Explore the possible implications of the RTA on the Indian Railways. <br>• Can also write about recommendations by the expert committees in this sector. <br>• Examine how the RTA might affect private container operators. **Conclusion** <br>• Conclude, emphasizing the need for a balanced approach that considers the interests of all stakeholders. |
+| **Approach:** <br> **Introduction** <br>• Begin with a brief introduction about the proposal of setting up a Rail Tariff Authority (RTA) to regulate fares in the Indian Railways. <br> **Body** <br>• Discuss the potential impact of the RTA on consumers. <br>• Explore the possible implications of the RTA on the Indian Railways. <br>• Can also write about recommendations by the expert committees in this sector. <br>• Examine how the RTA might affect private container operators. <br> **Conclusion** <br>• Conclude, emphasizing the need for a balanced approach that considers the interests of all stakeholders. |
 | --- |
 
 ### Introduction
@@ -17406,7 +17406,7 @@ Q118. The product diversification of financial institutions and insurance compan
 1. Explanation_PWOnlyIAS:
 Source Question: The product diversification of financial institutions and insurance companies, resulting in overlapping of products and services strengthens the case for the merger of the two regulatory agencies, namely SEBI and IRDA. Justify.
 
-| **Approach:** <br> **Introduction** <br>• Highlight the resulting overlap and the need for merging the regulatory bodies SEBI and IRDA. **Body** <br>• Discuss the emergence of hybrid products like ULIPs, which combine investment and insurance components, leading to jurisdictional conflicts between SEBI and IRDA. <br>• Explain the need for a unified regulatory framework to streamline regulations, reduce regulatory arbitrage, and ensure comprehensive oversight of financial products. <br>• Mention global trends towards unified regulation, such as the Financial Conduct Authority (FCA) in the UK, and how it has contributed to consistency and reduced regulatory gaps. <br>• Acknowledge the potential challenges of merging SEBI and IRDA, such as dilution of specialized expertise and the scale and complexity of combined regulatory responsibilities. **Conclusion** <br>• Conclude by highlighting the importance of adapting regulatory frameworks to the evolving financial sector. |
+| **Approach:** <br> **Introduction** <br>• Highlight the resulting overlap and the need for merging the regulatory bodies SEBI and IRDA. <br> **Body** <br>• Discuss the emergence of hybrid products like ULIPs, which combine investment and insurance components, leading to jurisdictional conflicts between SEBI and IRDA. <br>• Explain the need for a unified regulatory framework to streamline regulations, reduce regulatory arbitrage, and ensure comprehensive oversight of financial products. <br>• Mention global trends towards unified regulation, such as the Financial Conduct Authority (FCA) in the UK, and how it has contributed to consistency and reduced regulatory gaps. <br>• Acknowledge the potential challenges of merging SEBI and IRDA, such as dilution of specialized expertise and the scale and complexity of combined regulatory responsibilities. <br> **Conclusion** <br>• Conclude by highlighting the importance of adapting regulatory frameworks to the evolving financial sector. |
 | --- |
 
 ### Introduction
@@ -17776,7 +17776,7 @@ Adjudicating more than 1200 cases with 89% disposal rate and having overseen mor
 1. Explanation_PWOnlyIAS:
 Source Question: Discuss the role of the Competition Commission of India in containing the abuse of dominant position by the Multi-National Corporations in India. Refer to the recent decisions.
 
-| **Approach:** <br> **Introduction** <br>• Write about the Competition Commission of India briefly **Body** <br>• Write about the role of the CCI in containing the abuse of dominant position by the Multi-National Corporations in India <br>• Write the recent decisions illustrating CCI’s role **Conclusion** <br>• Give appropriate conclusion in this regard |
+| **Approach:** <br> **Introduction** <br>• Write about the Competition Commission of India briefly <br> **Body** <br>• Write about the role of the CCI in containing the abuse of dominant position by the Multi-National Corporations in India <br>• Write the recent decisions illustrating CCI’s role <br> **Conclusion** <br>• Give appropriate conclusion in this regard |
 | --- |
 
 ### Introduction
@@ -18017,7 +18017,7 @@ Manifold challenges are presented by the situation of persistent human rights vi
 1. Explanation_PWOnlyIAS:
 Source Question: Though the Human Rights Commissions have contributed immensely to the protection of human rights in India, yet they have failed to assert themselves against the mighty and powerful. Analyzing their structural and practical limitations, suggest remedial measures.
 
-| **Approach:** <br> **Introduction** Briefly introduce the role of Human Rights Commissions in India. **Body** <br>• Enumerate the structural and practical limitations of Human Rights Commissions. <br>• Suggest remedial measures to enhance the effectiveness of Human Rights Commissions. **Conclusion** <br>• Write a relevant conclusion. |
+| **Approach:** <br> **Introduction** Briefly introduce the role of Human Rights Commissions in India. <br> **Body** <br>• Enumerate the structural and practical limitations of Human Rights Commissions. <br>• Suggest remedial measures to enhance the effectiveness of Human Rights Commissions. <br> **Conclusion** <br>• Write a relevant conclusion. |
 | --- |
 
 ### Introduction
@@ -18238,7 +18238,7 @@ Granting constitutional status the NCW helps in ensuring greater gender justice 
 1. Explanation_PWOnlyIAS:
 Source Question: Which steps are required for constitutionalization of a Commission? Do you think imparting constitutionality to the National Commission for Women would ensure greater gender justice and empowerment in India? Give reasons.
 
-| **Approach:** <br> **Introduction** <br>• Begin by introducing the concept of constitutionalization of a Commission and its significance. **Body:** <br>• Identify and mention the steps for constitutionalization of a Commission. <br>• Discuss the potential benefits of constitutionalizing the NCW and the complementary measures required to ensure gender justice and empowerment in India. **Conclusion** <br>• Write a relevant conclusion. |
+| **Approach:** <br> **Introduction** <br>• Begin by introducing the concept of constitutionalization of a Commission and its significance. <br> **Body:** <br>• Identify and mention the steps for constitutionalization of a Commission. <br>• Discuss the potential benefits of constitutionalizing the NCW and the complementary measures required to ensure gender justice and empowerment in India. <br> **Conclusion** <br>• Write a relevant conclusion. |
 | --- |
 
 ### Introduction
@@ -18451,7 +18451,7 @@ The Human Rights Commission (unified)needs to be given more teeth in terms of in
 1. Explanation_PWOnlyIAS:
 Source Question: Appropriate local community-level healthcare intervention is a prerequisite to achieve ‘Health for All’ in India. Explain.
 
-| **Approach:** <br> **Introduction** <br>• Introduce the concept of ‘Health for All’ and emphasize the importance of local community-level healthcare interventions in achieving this goal in the Indian context. **Body** <br>• Discuss various aspects of community-level healthcare interventions that contribute to achieving ‘Health for All’ in India. <br>• Provide examples for each aspect to illustrate the practical implementation of local community-level healthcare interventions and their impact on improving health outcomes. <br>• Provide case studies of the successful models. **Conclusion** <br>• Write a relevant conclusion. |
+| **Approach:** <br> **Introduction** <br>• Introduce the concept of ‘Health for All’ and emphasize the importance of local community-level healthcare interventions in achieving this goal in the Indian context. <br> **Body** <br>• Discuss various aspects of community-level healthcare interventions that contribute to achieving ‘Health for All’ in India. <br>• Provide examples for each aspect to illustrate the practical implementation of local community-level healthcare interventions and their impact on improving health outcomes. <br>• Provide case studies of the successful models. <br> **Conclusion** <br>• Write a relevant conclusion. |
 | --- |
 
 ### Introduction
@@ -18562,7 +18562,7 @@ Thus there is a need to safeguard the political autonomy of NCW by replacing the
 1. Explanation_PWOnlyIAS:
 Source Question: Is the National Commission for Women able to strategise and tackle the problems that women face at both public and private spheres? Give reasons in support of your answer.
 
-| **Approach:** <br> **Introduction** <br>• Introduce the National Commission for Women (NCW) as a statutory body established in India to protect and promote the interests of women. **Body** <br>• Mention the strengths of the NCW. <br>• Discuss the challenges faced by the NCW. <br>• Do substantiate your views with examples. **Conclusion** <br>• Write a suitable conclusion. |
+| **Approach:** <br> **Introduction** <br>• Introduce the National Commission for Women (NCW) as a statutory <br> body established in India to protect and promote the interests of women. <br> **Body** <br>• Mention the strengths of the NCW. <br>• Discuss the challenges faced by the NCW. <br>• Do substantiate your views with examples. <br> **Conclusion** <br>• Write a suitable conclusion. |
 | --- |
 
 ### Introduction
@@ -18627,7 +18627,7 @@ Q125. National Human Rights Commission (NHRC) in India can be most effective whe
 1. Explanation_PWOnlyIAS:
 Source Question: National Human Rights Commission (NHRC) in India can be most effective when its tasks are adequately supported by other mechanisms that ensure the accountability of a government. In light of the above observation assess the role of NHRC as an effective complement to the judiciary and other institutions in promoting and protecting human rights standards. (200 words, 12.5 marks)
 
-| **Approach:** <br> **Introduction** <br>• Briefly explain what the National Human Rights Commission (NHRC) is and its role in India. **Body** <br>• Discuss how the NHRC investigates human rights violations, citing examples where it has stepped in when these violations may not have reached the courts. <br>• Explain how the NHRC reviews and recommends changes to laws and policies, and advocates for new laws that advance human rights, with relevant examples. <br>• Discuss the role of the NHRC in promoting awareness about human rights and creating a culture of respect for human rights. <br>• Explain how the NHRC advises the government on human rights issues, ensuring government accountability. <br>• Discuss how the NHRC cooperates with international human rights bodies to ensure that India’s human rights protection measures are in line with international standards. <br>• Towards the end of the body, discuss the need for the NHRC to be more supported by other mechanisms that ensure government accountability, explaining how it lacks the power to enforce its recommendations and how it needs more cooperation from the judiciary, the government, and civil society. **Conclusion** <br>• Highlight the need for more support from these other institutions and mechanisms that ensure government accountability for the NHRC to be more effective. |
+| **Approach:** <br> **Introduction** <br>• Briefly explain what the National Human Rights Commission (NHRC) is and its role in India. <br> **Body** <br>• Discuss how the NHRC investigates human rights violations, citing examples where it has stepped in when these violations may not have reached the courts. <br>• Explain how the NHRC reviews and recommends changes to laws and policies, and advocates for new laws that advance human rights, with relevant examples. <br>• Discuss the role of the NHRC in promoting awareness about human rights and creating a culture of respect for human rights. <br>• Explain how the NHRC advises the government on human rights issues, ensuring government accountability. <br>• Discuss how the NHRC cooperates with international human rights bodies to ensure that India’s human rights protection measures are in line with international standards. <br>• Towards the end of the body, discuss the need for the NHRC to be more supported by other mechanisms that ensure government accountability, explaining how it lacks the power to enforce its recommendations and how it needs more cooperation from the judiciary, the government, and civil society. <br> **Conclusion** <br>• Highlight the need for more support from these other institutions and mechanisms that ensure government accountability for the NHRC to be more effective. |
 | --- |
 
 ### Introduction
@@ -18714,7 +18714,7 @@ Q126. ‘A national Lokpal, however strong it may be, cannot resolve the problem
 1. Explanation_PWOnlyIAS:
 Source Question: A national Lokpal, however strong it may be, cannot resolve the problems of immorality in public affairs’. Discuss.
 
-| **Approach:** <br> **Introduction** <br>• Briefly explain the role of the Lokpal and introduce the premise that while the Lokpal is a significant institution in fighting corruption, it alone may not be able to tackle the broader issues of immorality in public affairs. **Body** <br>• The body of the answer will be divided into multiple sections, each discussing a particular aspect of why the Lokpal alone cannot resolve issues of immorality in public affairs. <br>• Substantiate each section with relevant examples. **Conclusion** <br>• Write a relevant conclusion. |
+| **Approach:** <br> **Introduction** <br>• Briefly explain the role of the Lokpal and introduce the premise that while the Lokpal is a significant institution in fighting corruption, it alone may not be able to tackle the broader issues of immorality in public affairs. <br> **Body** <br>• The body of the answer will be divided into multiple sections, each discussing a particular aspect of why the Lokpal alone cannot resolve issues of immorality in public affairs. <br>• Substantiate each section with relevant examples. <br> **Conclusion** <br>• Write a relevant conclusion. |
 | --- |
 
 ### Introduction
@@ -19008,7 +19008,7 @@ Q128. Two parallel run schemes of the Government viz. the Adhaar Card and NPR, o
 1. Explanation_PWOnlyIAS:
 Source Question: Two parallel run schemes of the Government, viz the Adhar card and NPR, one of voluntary and the other as compulsory, have led to debates at national levels and also litigations. On merits , discuss whether or not both schemes need run concurrently. Analyse the potential of the schemes to achieve development benefits and equitable growth. (200 words, 12.5 marks)
 
-| **Approach:** <br> **Introduction** <br>• Begin by briefly introducing the Aadhaar card and the National Population Register (NPR) schemes, highlighting their primary features and purposes. **Body** <br>• Discuss the merits and demerits of both Aadhaar and NPR running concurrently. <br>• Highlight the differences in their objectives and the potential for overlap and redundancy. <br>• Analyze the potential of both schemes to achieve development benefits and equitable growth. <br>• Provide examples of how these schemes have contributed or can contribute to these goals. **Conclusion** <br>• Conclude, highlighting the need for data protection and efficient use of resources. |
+| **Approach:** <br> **Introduction** <br>• Begin by briefly introducing the Aadhaar card and the National Population Register (NPR) schemes, highlighting their primary features and purposes. <br> **Body** <br>• Discuss the merits and demerits of both Aadhaar and NPR running concurrently. <br>• Highlight the differences in their objectives and the potential for overlap and redundancy. <br>• Analyze the potential of both schemes to achieve development benefits and equitable growth. <br>• Provide examples of how these schemes have contributed or can contribute to these goals. <br> **Conclusion** <br>• Conclude, highlighting the need for data protection and efficient use of resources. |
 | --- |
 
 ### Introduction
@@ -19109,7 +19109,7 @@ Q129. The basis of providing urban amenities in rural areas (PURA) is rooted in 
 1. Explanation_PWOnlyIAS:
 Source Question: The basis of providing urban amenities in rural areas (PURA) is rooted in establishing connectivity. Comment.
 
-| **Approach:** <br> **Introduction** <br>• Begin with a brief introduction to the Provision of Urban Amenities in Rural Areas (PURA) initiative. **Body** <br>• Discuss the role of physical connectivity in providing urban amenities in rural areas, including transportation and infrastructure development. <br>• Discuss the significance of electronic connectivity, including telecommunication and internet services, in rural development. <br>• Highlight the importance of knowledge connectivity in empowering rural residents and bridging the urban-rural divide. **Conclusion** <br>• Conclude, emphasizing that the approach of providing urban amenities in rural areas through connectivity can lead to balanced regional development and contribute to inclusive and sustainable growth in India. |
+| **Approach:** <br> **Introduction** <br>• Begin with a brief introduction to the Provision of Urban Amenities in Rural Areas (PURA) initiative. <br> **Body** <br>• Discuss the role of physical connectivity in providing urban amenities in rural areas, including transportation and infrastructure development. <br>• Discuss the significance of electronic connectivity, including telecommunication and internet services, in rural development. <br>• Highlight the importance of knowledge connectivity in empowering rural residents and bridging the urban-rural divide. <br> **Conclusion** <br>• Conclude, emphasizing that the approach of providing urban amenities in rural areas through connectivity can lead to balanced regional development and contribute to inclusive and sustainable growth in India. |
 | --- |
 
 ### Introduction
@@ -19498,7 +19498,7 @@ Niti Aayog has taken various initiatives to develop mechanisms to formulate cred
 1. Explanation_PWOnlyIAS:
 Source Question: “In the context of neo-liberal paradigm of development planning, multi-level planning is expected to make operations cost-effective and remove many implementation blockages.” Discuss.
 
-| **Approach:** <br> **Introduction** <br>• Introduce the concept of multi-level planning and its importance in the neo-liberal paradigm of development planning. **Body** <br>• Discuss the features of the neo-liberal paradigm of development planning. <br>• Explain how multi-level planning aligns with these features and helps address cost-effectiveness and implementation blockages. <br>• Provide examples of successful multi-level planning initiatives that have addressed these concerns. **Conclusion** <br>• Write a relevant conclusion. |
+| **Approach:** <br> **Introduction** <br>• Introduce the concept of multi-level planning and its importance in the neo-liberal paradigm of development planning. <br> **Body** <br>• Discuss the features of the neo-liberal paradigm of development planning. <br>• Explain how multi-level planning aligns with these features and helps address cost-effectiveness and implementation blockages. <br>• Provide examples of successful multi-level planning initiatives that have addressed these concerns. <br> **Conclusion** <br>• Write a relevant conclusion. |
 | --- |
 
 ### Introduction
@@ -19728,7 +19728,7 @@ Services sector not only promotes economic growth but also creates opportunity f
 1. Explanation_PWOnlyIAS:
 Source Question: Individual Parliamentarian’s role as the national law maker is on a decline, which in turn, has adversely impacted the quality of debates and their outcome. Discuss.
 
-| **Approach:** <br> **Introduction** <br>• Introduce the role of individual parliamentarians as national lawmakers in a democratic setup and highlight the perceived decline in their role. **Body** <br>• Discuss factors contributing to the decline in the role of individual parliamentarians. <br>• Explain how the decline in individual parliamentarians’ role has impacted the quality of debates. <br>• Discuss the impact of the decline on the legislative outcome. **Conclusion** <br>• Summarize the main points and emphasize the importance of recognizing and addressing the decline in the role of individual parliamentarians to maintain the integrity and effectiveness of the democratic process. |
+| **Approach:** <br> **Introduction** <br>• Introduce the role of individual parliamentarians as national lawmakers in a democratic setup and highlight the perceived decline in their role. <br> **Body** <br>• Discuss factors contributing to the decline in the role of individual parliamentarians. <br>• Explain how the decline in individual parliamentarians’ role has impacted the quality of debates. <br>• Discuss the impact of the decline on the legislative outcome. <br> **Conclusion** <br>• Summarize the main points and emphasize the importance of recognizing and addressing the decline in the role of individual parliamentarians to maintain the integrity and effectiveness of the democratic process. |
 | --- |
 
 ### Introduction
@@ -19854,7 +19854,7 @@ Given the above examples, various sectors and their stake holders need to work i
 1. Explanation_PWOnlyIAS:
 Source Question: “India’s relations with Israel have, of late, acquired a depth and diversity, which cannot be rolled back” Discuss
 
-| **Approach:** <br> **Introduction** <br>• Briefly introduce the status of Indo-Israel relations presently and in the past. **Body** <br>• Elaborate on traditional and new areas of cooperation. **Conclusion** <br>• Conclude your answer with a balanced approach. |
+| **Approach:** <br> **Introduction** <br>• Briefly introduce the status of Indo-Israel relations presently and in the past. <br> **Body** <br>• Elaborate on traditional and new areas of cooperation. <br> **Conclusion** <br>• Conclude your answer with a balanced approach. |
 | --- |
 
 ### Introduction
@@ -19942,7 +19942,7 @@ Hence, for the government to be responsive to this important change, it needs to
 1. Explanation_PWOnlyIAS:
 Source Question: Has the Indian governmental system responded adequately to the demands of Liberalization, Privatization and Globalization started in 1991? What can the government do to be responsive to this important change? (200 words, 12.5 marks)
 
-| **Approach:** <br> **Introduction** <br>• Provide a brief overview of the Liberalization, Privatization, and Globalization (LPG) policies initiated in India in 1991. **Body** <br>• Discuss the government’s response to the demands of LPG, including measures taken for liberalization, privatization, and globalization. <br>• Analyze the effectiveness of the government’s response to LPG, citing examples and data to support the argument. <br>• Examine the persisting challenges in implementing LPG policies, such as regulatory bottlenecks, infrastructure constraints, and income inequality. <br>• Suggest possible measures that the government can take to address these challenges and make the LPG policies more effective and inclusive. **Conclusion** <br>• Conclude with the importance of promoting inclusive and sustainable growth policies to ensure that the benefits of LPG reach all sections of society. |
+| **Approach:** <br> **Introduction** <br>• Provide a brief overview of the Liberalization, Privatization, and Globalization (LPG) policies initiated in India in 1991. <br> **Body** <br>• Discuss the government’s response to the demands of LPG, including measures taken for liberalization, privatization, and globalization. <br>• Analyze the effectiveness of the government’s response to LPG, citing examples and data to support the argument. <br>• Examine the persisting challenges in implementing LPG policies, such as regulatory bottlenecks, infrastructure constraints, and income inequality. <br>• Suggest possible measures that the government can take to address these challenges and make the LPG policies more effective and inclusive. <br> **Conclusion** <br>• Conclude with the importance of promoting inclusive and sustainable growth policies to ensure that the benefits of LPG reach all sections of society. |
 | --- |
 
 ### Introduction
@@ -20027,7 +20027,7 @@ Q135. Though 100 percent FDI is already allowed in non-news media like a trade p
 1. Explanation_PWOnlyIAS:
 Source Question: Though 100 percent FDI is already allowed in non-news media like a trade publication and general entertainment channel, the government is mulling over the proposal for increased FDI in news media for quite some time. What difference would an increase in FDI make? Critically evaluate the pros and cons. (200 words, 12.5 marks)
 
-| **Approach:** <br> **Introduction** <br>• Start with a brief introduction about the current FDI policy in India for news and non-news media. **Body** <br>• Discuss the potential benefits (pros) of increased FDI in news media. <br>• Discuss the potential drawbacks (cons) of increased FDI in news media. **Conclusion** <br>• Emphasize the need for a balanced approach that considers all these factors before making a decision. |
+| **Approach:** <br> **Introduction** <br>• Start with a brief introduction about the current FDI policy in India for news and non-news media. <br> **Body** <br>• Discuss the potential benefits (pros) of increased FDI in news media. <br>• Discuss the potential drawbacks (cons) of increased FDI in news media. <br> **Conclusion** <br>• Emphasize the need for a balanced approach that considers all these factors before making a decision. |
 | --- |
 
 ### Introduction
@@ -20355,7 +20355,7 @@ Therefore, the effects of civil society groups on the legislative process of Ind
 1. Explanation_PWOnlyIAS:
 Source Question: Discuss the contribution of civil society groups for women&#8217;s effective and meaningful participation and representation in state legislatures in India.
 
-| **Approach:** <br> **Introduction** <br>• Write about civil society groups and significance of women in state legislatures briefly **Body** <br>• Write about the contribution of these groups for women’s effective and meaningful participation and representation in state legislatures <br>• Write challenges faced in this regard <br>• Write suitable way forward **Conclusion** <br>• Give appropriate conclusion in this regard |
+| **Approach:** <br> **Introduction** <br>• Write about civil society groups and significance of women in state legislatures briefly <br> **Body** <br>• Write about the contribution of these groups for women’s effective and meaningful participation and representation in state legislatures <br>• Write challenges faced in this regard <br>• Write suitable way forward **Conclusion** <br>• Give appropriate conclusion in this regard |
 | --- |
 
 ### Introduction
@@ -20548,7 +20548,7 @@ Civil society and NGOs can be made an integral part of the development process b
 1. Explanation_PWOnlyIAS:
 Source Question: Can Civil Society and Non-Governmental Organisations present an alternative model of public service delivery to benefit the common citizen? Discuss the challenges of this alternative model.
 
-| **Approach:** <br> **Introduction** <br>• Introduce the potential role of Civil Society and NGOs in public service delivery as an alternative model, while acknowledging the challenges they face. **Body** <br>• Discuss the potential of NGOs and Civil Society in public service delivery. <br>• Challenges of the alternative model. **Conclusion** <br>• Write a relevant conclusion. |
+| **Approach:** <br> **Introduction** <br>• Introduce the potential role of Civil Society and NGOs in public service delivery as an alternative model, while acknowledging the challenges they face. <br> **Body** <br>• Discuss the potential of NGOs and Civil Society in public service delivery. <br>• Challenges of the alternative model. <br> **Conclusion** <br>• Write a relevant conclusion. |
 | --- |
 
 ### Introduction
@@ -20681,7 +20681,7 @@ At the same time, their contribution to the governance domain is limited by lack
 1. Explanation_PWOnlyIAS:
 Source Question: “In the Indian governance system, the role of non-state actors has been only marginal.” Critically examine this statement. (200 words, 12.5 marks)
 
-| **Approach:** <br> **Introduction** <br>• Introduce the statement and provide a brief overview of the role of non-state actors in the Indian governance system. **Body** <br>• Discuss the role and contributions of civil society organizations and NGOs. <br>• Analyze the role of private sector entities in India’s economic growth and development. <br>• Examine the media’s role in shaping public opinion. **Conclusion** <br>• Conclude by emphasizing the importance of fostering collaboration between state and non-state actors to improve governance and address pressing social and economic issues. |
+| **Approach:** <br> **Introduction** <br>• Introduce the statement and provide a brief overview of the role of non-state actors in the Indian governance system. <br> **Body** <br>• Discuss the role and contributions of civil society organizations and NGOs. <br>• Analyze the role of private sector entities in India’s economic growth and development. <br>• Examine the media’s role in shaping public opinion. <br> **Conclusion** <br>• Conclude by emphasizing the importance of fostering collaboration between state and non-state actors to improve governance and address pressing social and economic issues. |
 | --- |
 
 ### Introduction
@@ -20771,7 +20771,7 @@ Q140. Examine critically the recent changes in the rules governing foreign fundi
 1. Explanation_PWOnlyIAS:
 Source Question: Examine critically the recent changes in the rules governing foreign funding of NGOs under the Foreign Contribution (Regulation) Act (FCRA), 1976. (200 words, 12.5 marks)
 
-| **Approach:** <br> **Introduction** <br>• Start by briefly describing what the Foreign Contribution (Regulation) Act (FCRA), 1976, is and its purpose in regulating the acceptance and usage of foreign contributions by individuals and organizations. **Body** <br>• Mention the recent changes made to the Act. <br>• Discuss some of the critical amendments made to the FCRA and do a critical examination of their implications. **Conclusion** <br>• Conclude, highlighting the need to strike a balance between ensuring transparency and accountability in foreign funding. |
+| **Approach:** <br> **Introduction** <br>• Start by briefly describing what the Foreign Contribution (Regulation) Act (FCRA), 1976, is and its purpose in regulating the acceptance and usage of foreign contributions by individuals and organizations. <br> **Body** <br>• Mention the recent changes made to the Act. <br>• Discuss some of the critical amendments made to the FCRA and do a critical examination of their implications. <br> **Conclusion** <br>• Conclude, highlighting the need to strike a balance between ensuring transparency and accountability in foreign funding. |
 | --- |
 
 ### Introduction
@@ -20837,7 +20837,7 @@ Q141. How can the role of NGOs be strengthened in India for development works re
 1. Explanation_PWOnlyIAS:
 Source Question: How can the role of NGOs be strengthened in India for development works relating to protection of the environment? Discuss throwing light on the major constraints. (200 words, 12.5 marks)
 
-| **Approach:** <br> **Introduction** <br>• Start with a brief explanation about the role of NGOs in environmental protection, underlining their importance in this field in India. **Body** <br>• The body of your answer should be divided into two main parts: <br>• Strengthening the Role of NGOs. <br>• Major Constraints. <br>• Provide appropriate examples, such as the role of NGOs like the Centre for Science and Environment (CSE), WWF-India, and Vanashakti in environmental protection, and the impact of regulations like the FCRA on their operations. **Conclusion** <br>• Conclude, emphasizing the need for a collaborative approach involving NGOs, government agencies, and private entities for effective environmental conservation. |
+| **Approach:** <br> **Introduction** <br>• Start with a brief explanation about the role of NGOs in environmental protection, underlining their importance in this field in India. <br> **Body** <br>• The body of your answer should be divided into two main parts: <br>• Strengthening the Role of NGOs. <br>• Major Constraints. <br>• Provide appropriate examples, such as the role of NGOs like the Centre for Science and Environment (CSE), WWF-India, and Vanashakti in environmental protection, and the impact of regulations like the FCRA on their operations. <br> **Conclusion** <br>• Conclude, emphasizing the need for a collaborative approach involving NGOs, government agencies, and private entities for effective environmental conservation. |
 | --- |
 
 ### Introduction
@@ -21014,7 +21014,7 @@ Though microfinancing of women SHGs can help overcome challenges like malnutriti
 1. Explanation_PWOnlyIAS:
 Source Question: Can the vicious cycle of gender inequality, poverty and malnutrition be broken through microfinancing of women SHGs? Explain with examples.
 
-| **Approach:** <br> **Introduction** <br>• Briefly introduce the concept of microfinancing for women SHGs. **Body** <br>• Discuss its potential role in breaking the vicious cycle of gender inequality, poverty, and malnutrition. **Conclusion** <br>• Write a relevant conclusion. |
+| **Approach:** <br> **Introduction** <br>• Briefly introduce the concept of microfinancing for women SHGs. <br> **Body** <br>• Discuss its potential role in breaking the vicious cycle of gender inequality, poverty, and malnutrition. <br> **Conclusion** <br>• Write a relevant conclusion. |
 | --- |
 
 ### Introduction
@@ -21227,7 +21227,7 @@ For equitable and sustainable development in rural India, financial inclusion su
 1. Explanation_PWOnlyIAS:
 Source Question: “Micro-Finance as an anti-poverty vaccine, is aimed at asset creation and income security of the rural poor in India”. Evaluate the role of the Self Help Groups in achieving the twin objectives along with empowering women in rural India.
 
-| **Approach:** <br> **Introduction** <br>• Briefly mention the role of Self Help Groups (SHGs) in providing microfinance services in rural India, with a focus on empowering women. **Body** <br>• Discuss the role of SHGs in asset creation and income security for the rural poor in India, providing examples of successful initiatives. <br>• Explain how SHGs contribute to women empowerment, skill development, and social capital formation in rural India, giving examples of successful programs. <br>• Highlight the importance of linkages between SHGs and formal financial institutions, and provide examples of successful partnerships. **Conclusion** <br>• Write a relevant conclusion, mentioning the challenges and the probable way forward. |
+| **Approach:** <br> **Introduction** <br>• Briefly mention the role of Self Help Groups (SHGs) in providing microfinance services in rural India, with a focus on empowering women. <br> **Body** <br>• Discuss the role of SHGs in asset creation and income security for the rural poor in India, providing examples of successful initiatives. <br>• Explain how SHGs contribute to women empowerment, skill development, and social capital formation in rural India, giving examples of successful programs. <br>• Highlight the importance of linkages between SHGs and formal financial institutions, and provide examples of successful partnerships. <br> **Conclusion** <br>• Write a relevant conclusion, mentioning the challenges and the probable way forward. |
 | --- |
 
 ### Introduction
@@ -21330,7 +21330,7 @@ Given the important role SHGs play in development activities, the government sho
 1. Explanation_PWOnlyIAS:
 Source Question: ‘The emergence of Self Help Groups(SHGs) in contemporary times points to the slow but steady withdrawal of the state from developmental activities’. Examine the role of the SHGs in developmental activities and the measures taken by the Government of India to promote the SHGs.
 
-| **Approach:** <br> **Introduction** <br>• Introduce the concept of Self Help Groups (SHGs) and their emergence in contemporary times. **Body** <br>• Role of SHGs in developmental activities. <br>• Measures taken by the Government of India to promote SHGs. **Conclusion** <br>• Write a relevant conclusion. |
+| **Approach:** <br> **Introduction** <br>• Introduce the concept of Self Help Groups (SHGs) and their emergence in contemporary times. <br> **Body** <br>• Role of SHGs in developmental activities. <br>• Measures taken by the Government of India to promote SHGs. <br> **Conclusion** <br>• Write a relevant conclusion. |
 | --- |
 
 ### Introduction
@@ -21415,7 +21415,7 @@ Q145. The Self-Help Group (SHG) Bank Linkage Programme (SBLP), which is India’
 1. Explanation_PWOnlyIAS:
 Source Question: The Self-Help Group (SHG) Bank Linkage Programme (SBLP), which is India’s own innovation, has proved to be one of the most effective poverty alleviation and women empowerment programmes. Elucidate. (200 words, 12.5 marks)
 
-| **Approach:** <br> **Introduction** <br>• Begin with a brief explanation of what the Self-Help Group (SHG) Bank Linkage Programme (SBLP) is and its objectives. **Body** <br>• Discuss the effectiveness of the SBLP in achieving its objectives, providing examples. **Conclusion** <br>• Conclude, emphasizing its role as a powerful, inclusive, and community-led initiative in addressing socio-economic challenges. |
+| **Approach:** <br> **Introduction** <br>• Begin with a brief explanation of what the Self-Help Group (SHG) Bank Linkage Programme (SBLP) is and its objectives. <br> **Body** <br>• Discuss the effectiveness of the SBLP in achieving its objectives, providing examples. <br> **Conclusion** <br>• Conclude, emphasizing its role as a powerful, inclusive, and community-led initiative in addressing socio-economic challenges. |
 | --- |
 
 ### Introduction
@@ -21501,7 +21501,7 @@ Q146. The penetration of Self Help Groups (SHGs) in rural areas in promoting par
 1. Explanation_PWOnlyIAS:
 Source Question: The penetration of Self Help Groups (SHGs) in rural areas in promoting participation in development programmes is facing socio-cultural hurdles. Examine. (200 words, 12.5 marks)
 
-| **Approach:** <br> **Introduction** <br>• Begin with a brief yet comprehensive introduction elucidating the role of Self Help Groups (SHGs) in fostering rural development and the potential socio-cultural hurdles they face in the Indian context. **Body** <br>• Discuss in detail the socio-cultural barriers faced by SHGs in rural India. <br>• Provide specific examples of SHGs in India that have encountered these hurdles and how they navigated them. **Conclusion** <br>• Wrap up the answer by emphasizing the importance of addressing these socio-cultural barriers to enhance the effectiveness of SHGs in rural India. |
+| **Approach:** <br> **Introduction** <br>• Begin with a brief yet comprehensive introduction elucidating the role of Self Help Groups (SHGs) in fostering rural development and the potential socio-cultural hurdles they face in the Indian context. <br> **Body** <br>• Discuss in detail the socio-cultural barriers faced by SHGs in rural India. <br>• Provide specific examples of SHGs in India that have encountered these hurdles and how they navigated them. <br> **Conclusion** <br>• Wrap up the answer by emphasizing the importance of addressing these socio-cultural barriers to enhance the effectiveness of SHGs in rural India. |
 | --- |
 
 ### Introduction
@@ -21585,7 +21585,7 @@ Q147. The legitimacy and accountability of Self Help Groups (SHGs) and their pat
 1. Explanation_PWOnlyIAS:
 Source Question: The legitimacy and accountability of Self Help Groups (SHGs) and their patrons, the micro-finance outfits, need systematic assessment and scrutiny for the sustained success of the concept. Discuss.
 
-| **Approach:** <br> **Introduction** <br>• Start with the importance of SHGs and MFIs in India’s socio-economic landscape. **Body** <br>• Discuss the current regulatory framework for SHGs and MFIs in India (RBI and NABARD). <br>• Discuss the importance of accountability and transparency for the functioning of SHGs and MFIs. <br>• Discuss how technology can enhance legitimacy and accountability in these institutions. **Conclusion** <br>• Conclude by reiterating the vital role these entities play in India’s inclusive growth and development, and the significance of ensuring their legitimacy and accountability. |
+| **Approach:** <br> **Introduction** <br>• Start with the importance of SHGs and MFIs in India’s socio-economic landscape. <br> **Body** <br>• Discuss the current regulatory framework for SHGs and MFIs in India (RBI and NABARD). <br>• Discuss the importance of accountability and transparency for the functioning of SHGs and MFIs. <br>• Discuss how technology can enhance legitimacy and accountability in these institutions. <br> **Conclusion** <br>• Conclude by reiterating the vital role these entities play in India’s inclusive growth and development, and the significance of ensuring their legitimacy and accountability. |
 | --- |
 
 ### Introduction
@@ -22363,7 +22363,7 @@ Therefore, given the importance of Citizens’ Charters in ensuring good governa
 1. Explanation_PWOnlyIAS:
 Source Question: E-governance is not only about utilization of the power of new technology, but also much about critical importance of the ‘use value’ of information. Explain.
 
-| **Approach:** <br> **Introduction** <br>• Briefly introduce the concept of e-governance and its objectives, highlighting the importance of the ‘use value’ of information in addition to leveraging new technology. **Body** <br>• Discuss the various aspects of the ‘use value’ of information in e-governance initiatives, such as relevance, accessibility, applicability, transparency, and citizen participation. Provide examples to illustrate each aspect. **Conclusion** <br>• Sum up the importance of focusing on the ‘use value’ of information in e-governance and how it can contribute to better service delivery, enhanced transparency, and increased citizen engagement. |
+| **Approach:** <br> **Introduction** <br>• Briefly introduce the concept of e-governance and its objectives, highlighting the importance of the ‘use value’ of information in addition to leveraging new technology. <br> **Body** <br>• Discuss the various aspects of the ‘use value’ of information in e-governance initiatives, such as relevance, accessibility, applicability, transparency, and citizen participation. Provide examples to illustrate each aspect. <br> **Conclusion** <br>• Sum up the importance of focusing on the ‘use value’ of information in e-governance and how it can contribute to better service delivery, enhanced transparency, and increased citizen engagement. |
 | --- |
 
 ### Introduction
@@ -22436,7 +22436,7 @@ Q152. Though Citizen’s charters have been formulated by many public service de
 1. Explanation_PWOnlyIAS:
 Source Question: Though Citizen’s charters have been formulated by many public service delivery organizations, there is no corresponding improvement in the level of citizens’ satisfaction and quality of services being provided. Analyse.
 
-| **Approach:** <br> **Introduction** <br>• Begin with a brief explanation of what Citizen’s Charters are, their purpose, and their introduction in the Indian context. **Body** <br>• The body of the answer should be divided into two main parts. <br>• The first part should have an analysis of the current situation. <br>• Second, suggest improvements. <br>• Substantiate your views with appropriate examples. **Conclusion** <br>• Conclude, expressing optimism that with the right changes, Citizen’s Charters can play a significant role in promoting good governance in India. |
+| **Approach:** <br> **Introduction** <br>• Begin with a brief explanation of what Citizen’s Charters are, their purpose, and their introduction in the Indian context. <br> **Body** <br>• The body of the answer should be divided into two main parts. <br>• The first part should have an analysis of the current situation. <br>• Second, suggest improvements. <br>• Substantiate your views with appropriate examples. <br> **Conclusion** <br>• Conclude, expressing optimism that with the right changes, Citizen’s Charters can play a significant role in promoting good governance in India. |
 | --- |
 
 ### Introduction
@@ -22811,7 +22811,7 @@ There is no doubt that DBT is a positive milestone in the government delivery sy
 1. Explanation_PWOnlyIAS:
 Source Question: Reforming the government delivery system through the Direct Benefit Transfer Scheme is a progressive step, but it has its limitations too. Comment.
 
-| **Approach:** <br> **Introduction** <br>• Introduce the Direct Benefit Transfer Scheme and its objective of reforming the government delivery system by directly transferring subsidies and benefits to eligible beneficiaries. **Body** <br>• Discuss the advantages of the DBT Scheme while also highlighting its limitations. **Conclusion** <br>• Write a relevant conclusion. |
+| **Approach:** <br> **Introduction** <br>• Introduce the Direct Benefit Transfer Scheme and its objective of reforming the government delivery system by directly transferring subsidies and benefits to eligible beneficiaries. <br> **Body** <br>• Discuss the advantages of the DBT Scheme while also highlighting its limitations. <br> **Conclusion** <br>• Write a relevant conclusion. |
 | --- |
 
 ### Introduction
@@ -22971,7 +22971,7 @@ The 2nd ARC held that RTI is the master key to governance as it checks the misus
 1. Explanation_PWOnlyIAS:
 Source Question: “Recent amendments to the Right to Information Act will have a profound impact on the autonomy and independence of the Information Commission”. Discuss.
 
-| **Approach:** <br> **Introduction** <br>• Briefly explain the Right to Information (RTI) Act and the role of the Information Commission. **Body** <br>• Discuss the potential impacts of the amendments on the Information Commission’s autonomy and independence: **Conclusion** <br>• Write a suitable conclusion, emphasizing the need for fair and transparent implementation of the amendments to uphold the spirit of the RTI Act and ensure the continued effectiveness of the Information Commission. |
+| **Approach:** <br> **Introduction** <br>• Briefly explain the Right to Information (RTI) Act and the role of the Information Commission. <br> **Body** <br>• Discuss the potential impacts of the amendments on the Information Commission’s autonomy and independence: <br> **Conclusion** <br>• Write a suitable conclusion, emphasizing the need for fair and transparent implementation of the amendments to uphold the spirit of the RTI Act and ensure the continued effectiveness of the Information Commission. |
 | --- |
 
 ### Introduction
@@ -23064,7 +23064,7 @@ With the help of the above measures, there has been a significant improvement in
 1. Explanation_PWOnlyIAS:
 Source Question: “Effectiveness of the government system at various levels and people’s participation in the governance system are inter-dependent” Discuss their relationship in the context of India. (200 words, 12.5 marks)
 
-| **Approach:** <br> **Introduction** <br>• Introduce the concept of interdependence between the effectiveness of the government system and people’s participation in the governance system. **Body** <br>• You can give case studies of TN, Kerala wrt sectors of Health, Delhi model of Education etc. <br>• Discuss the role of decentralization and local governance in enhancing people’s participation. <br>• Examine the impact of social audit and transparency tools. <br>• Analyze the role of civil society organizations and citizen-led initiatives in bridging the gap between the government system and the people. <br>• Explore the use of technology in promoting citizen participation and improving service delivery through e-governance initiatives and digital platforms. **Conclusion** <br>• Conclude with the importance of fostering a robust and participatory governance system for inclusive development and the well-being of citizens. |
+| **Approach:** <br> **Introduction** <br>• Introduce the concept of interdependence between the effectiveness of the government system and people’s participation in the governance system. <br> **Body** <br>• You can give case studies of TN, Kerala wrt sectors of Health, Delhi model of Education etc. <br>• Discuss the role of decentralization and local governance in enhancing people’s participation. <br>• Examine the impact of social audit and transparency tools. <br>• Analyze the role of civil society organizations and citizen-led initiatives in bridging the gap between the government system and the people. <br>• Explore the use of technology in promoting citizen participation and improving service delivery through e-governance initiatives and digital platforms. <br> **Conclusion** <br>• Conclude with the importance of fostering a robust and participatory governance system for inclusive development and the well-being of citizens. |
 | --- |
 
 ### Introduction
@@ -23191,7 +23191,7 @@ Corruption is a global phenomenon and it is omnipotent. It has progressively inc
 1. Explanation_PWOnlyIAS:
 Source Question: In the integrity index of Transparency International, India stands very low. Discuss briefly the legal, political, social and cultural factors that have caused the decline of public morality in India. (200 words, 12.5 marks)
 
-| **Approach:** <br> **Introduction** <br>• Provide data on India’s ranking in Transparency International’s 2022 Corruption Perceptions Index (CPI) to establish the context of corruption and public morality in India. **Body** <br>• Discuss legal factors that have contributed to corruption. <br>• Analyze political factors which have led to the decline of public morality. <br>• Examine social factors which have exacerbated the problem. <br>• Explore cultural factors that contribute to corruption and the decline of public morality in India. **Conclusion** <br>• Write a suitable conclusion. |
+| **Approach:** <br> **Introduction** <br>• Provide data on India’s ranking in Transparency International’s 2022 Corruption Perceptions Index (CPI) to establish the context of corruption and public morality in India. <br> **Body** <br>• Discuss legal factors that have contributed to corruption. <br>• Analyze political factors which have led to the decline of public morality. <br>• Examine social factors which have exacerbated the problem. <br>• Explore cultural factors that contribute to corruption and the decline of public morality in India. <br> **Conclusion** <br>• Write a suitable conclusion. |
 | --- |
 
 ### Introduction
@@ -23279,7 +23279,7 @@ Q158. If amendment bill to the Whistleblowers Act, 2011 tabled in the Parliament
 1. Explanation_PWOnlyIAS:
 Source Question: “If amendment bill to the Whistleblowers Act, 2011 tabled in the Parliament is passed, there may be no one left to protect.” Critically evaluate. (200 words, 12.5 marks)
 
-| **Approach:** <br> **Introduction** <br>• Briefly introduce the Whistleblowers Protection Act, 2011, and the proposed amendment bill. **Body** <br>• Discuss the key provisions of the amendment bill and critically evaluate their potential impact on the protection of whistleblowers. **Conclusion** <br>• Write a relevant conclusion. |
+| **Approach:** <br> **Introduction** <br>• Briefly introduce the Whistleblowers Protection Act, 2011, and the proposed amendment bill. <br> **Body** <br>• Discuss the key provisions of the amendment bill and critically evaluate their potential impact on the protection of whistleblowers. <br> **Conclusion** <br>• Write a relevant conclusion. |
 | --- |
 
 ### Introduction
@@ -23351,7 +23351,7 @@ Q159. In the light of the Satyam Scandal (2009), discuss the changes brought in 
 1. Explanation_PWOnlyIAS:
 Source Question: In the light of the Satyam Scandal (2009), discuss the changes brought in corporate governance to ensure transparency, accountability. (200 words, 12.5 marks)
 
-| **Approach:** <br> **Introduction** <br>• Briefly describe the Satyam Scandal of 2009, emphasizing its impact on the corporate world and its role in highlighting the need for stricter corporate governance norms in India. **Body** <br>• Discuss the changes brought about in corporate governance post the Satyam Scandal. **Conclusion** <br>• Write a relevant conclusion. |
+| **Approach:** <br> **Introduction** <br>• Briefly describe the Satyam Scandal of 2009, emphasizing its impact on the corporate world and its role in highlighting the need for stricter corporate governance norms in India. <br> **Body** <br>• Discuss the changes brought about in corporate governance post the Satyam Scandal. <br> **Conclusion** <br>• Write a relevant conclusion. |
 | --- |
 
 ### Introduction
@@ -23972,7 +23972,7 @@ While e-governance is a boon to the society, its inadequacies must be kept in mi
 1. Explanation_PWOnlyIAS:
 Source Question: E-governance, as a critical tool of governance, has ushered in effectiveness, transparency and accountability in governments. What inadequacies hamper the enhancement of these features?
 
-| **Approach:** <br> **Introduction** <br>• Write about e-governance briefly **Body** <br>• Write how e-governance has ushered in effectiveness, transparency and accountability in governments <br>• Write inadequacies hampering the enhancement of these features **Conclusion** <br>• Give appropriate conclusion in this regard |
+| **Approach:** <br> **Introduction** <br>• Write about e-governance briefly **Body** <br>• Write how e-governance has ushered in effectiveness, transparency and accountability in governments <br>• Write inadequacies hampering the enhancement of these features <br> **Conclusion** <br>• Give appropriate conclusion in this regard |
 | --- |
 
 ### Introduction
@@ -24223,7 +24223,7 @@ The government needs to focus on information accessibility, information utilisat
 1. Explanation_PWOnlyIAS:
 Source Question: Has digital illiteracy, particularly in rural areas, coupled with lack of Information and Communication Technology(ICT) accessibility hindered socio-economic development? Examine with justification.
 
-| **Approach:** <br> **Introduction** <br>• Provide a brief overview of the importance of digital literacy and ICT accessibility in the context of socio-economic development. **Body** <br>• Emphasize the challenges faced by rural areas in achieving these objectives. **Conclusion** <br>• Write a relevant conclusion, focusing on the way forward. |
+| **Approach:** <br> **Introduction** <br>• Provide a brief overview of the importance of digital literacy and ICT accessibility in the context of socio-economic development. <br> **Body** <br>• Emphasize the challenges faced by rural areas in achieving these objectives. <br> **Conclusion** <br>• Write a relevant conclusion, focusing on the way forward. |
 | --- |
 
 ### Introduction
@@ -24392,7 +24392,7 @@ Industrial Revolution 4.0 brings with it immense potential to improve governance
 1. Explanation_PWOnlyIAS:
 Source Question: “The emergence of the Fourth Industrial Revolution (Digital Revolution) has initiated e-Governance as an integral part of government”. Discuss.
 
-| **Approach:** <br> **Introduction** <br>• Introduce the Fourth Industrial Revolution (Digital Revolution) and its impact on various sectors of society, including governance. **Body** <br>• Discuss the implications of e-Governance as an integral part of government. **Conclusion** <br>• Emphasize the importance of adapting to technological advancements and harnessing their potential to improve governance and better serve citizens in the digital age. |
+| **Approach:** <br> **Introduction** <br>• Introduce the Fourth Industrial Revolution (Digital Revolution) and its impact on various sectors of society, including governance. <br> **Body** <br>• Discuss the implications of e-Governance as an integral part of government. <br> **Conclusion** <br>• Emphasize the importance of adapting to technological advancements and harnessing their potential to improve governance and better serve citizens in the digital age. |
 | --- |
 
 ### Introduction
@@ -24580,7 +24580,7 @@ Hence, if the challenges and lacunae of ICT based programmes are effectively tac
 1. Explanation_PWOnlyIAS:
 Source Question: What are the methods used by the farmers’ organisation to influence the policy-makers in India and how effective are these methods?
 
-| **Approach:** <br> **Introduction** <br>• Introduce the importance of farmers’ organizations in representing the interests of the farming community in India. **Body:** <br>• Explain various methods used by farmers’ organizations, including lobbying, protests and demonstrations, policy advocacy, alliances and partnerships, and electoral politics. <br>• Discuss the effectiveness of each method, providing examples of successful cases where farmers’ organizations have influenced policy-makers and brought about change. **Conclusion** <br>• Summarize the key points and emphasize the importance of farmers’ organizations in shaping policies that impact the agricultural sector and the lives of farmers in India. |
+| **Approach:** <br> **Introduction** <br>• Introduce the importance of farmers’ organizations in representing the interests of the farming community in India. <br> **Body:** <br>• Explain various methods used by farmers’ organizations, including lobbying, protests and demonstrations, policy advocacy, alliances and partnerships, and electoral politics. <br>• Discuss the effectiveness of each method, providing examples of successful cases where farmers’ organizations have influenced policy-makers and brought about change. <br> **Conclusion** <br>• Summarize the key points and emphasize the importance of farmers’ organizations in shaping policies that impact the agricultural sector and the lives of farmers in India. |
 | --- |
 
 ### Introduction
@@ -24711,7 +24711,7 @@ Therefore, the focus of e- governance should not only be limited to efficiently 
 1. Explanation_PWOnlyIAS:
 Source Question: E-governance is not only about utilization of the power of new technology, but also much about critical importance of the ‘use value’ of information. Explain.
 
-| **Approach:** <br> **Introduction** <br>• Briefly introduce the concept of e-governance and its objectives, highlighting the importance of the ‘use value’ of information in addition to leveraging new technology. **Body** <br>• Discuss the various aspects of the ‘use value’ of information in e-governance initiatives, such as relevance, accessibility, applicability, transparency, and citizen participation. Provide examples to illustrate each aspect. **Conclusion** <br>• Sum up the importance of focusing on the ‘use value’ of information in e-governance and how it can contribute to better service delivery, enhanced transparency, and increased citizen engagement. |
+| **Approach:** <br> **Introduction** <br>• Briefly introduce the concept of e-governance and its objectives, highlighting the importance of the ‘use value’ of information in addition to leveraging new technology. <br> **Body** <br>• Discuss the various aspects of the ‘use value’ of information in e-governance initiatives, such as relevance, accessibility, applicability, transparency, and citizen participation. Provide examples to illustrate each aspect. <br> **Conclusion** <br>• Sum up the importance of focusing on the ‘use value’ of information in e-governance and how it can contribute to better service delivery, enhanced transparency, and increased citizen engagement. |
 | --- |
 
 ### Introduction
@@ -25108,7 +25108,7 @@ Sardar Patel considered the civil service “the steel frame of government machi
 1. Explanation_PWOnlyIAS:
 Source Question: “Institutional quality is a crucial driver of economic performance”. In this context suggest reforms in the Civil Service for strengthening democracy.
 
-| **Approach:** <br> **Introduction** <br>• Introduce the significance of institutional quality in driving economic performance and the role of the civil service in shaping and implementing policies while ensuring the smooth functioning of democracy. **Body** <br>• Discuss the suggested reforms for the civil service to strengthen democracy. **Conclusion** <br>• Write a relevant conclusion. |
+| **Approach:** <br> **Introduction** <br>• Introduce the significance of institutional quality in driving economic performance and the role of the civil service in shaping and implementing policies while ensuring the smooth functioning of democracy. <br> **Body** <br>• Discuss the suggested reforms for the civil service to strengthen democracy. <br> **Conclusion** <br>• Write a relevant conclusion. |
 | --- |
 
 ### Introduction
@@ -25216,7 +25216,7 @@ Therefore, the purpose of ‘reform’ is to reorient the civil services into a 
 1. Explanation_PWOnlyIAS:
 Source Question: Initially Civil Services in India were designed to achieve the goals of neutrality and effectiveness, which seems to be lacking in the present context. Do you agree with the view that drastic reforms are required in Civil Services. Comment.
 
-| **Approach:** <br> **Introduction** <br>• Introduce the initial goals of neutrality and effectiveness in the Indian Civil Services and mention the growing concerns in the present context. **Body** <br>• Divide the body into two main sections: <br>• Factors contributing to concerns about neutrality and effectiveness. <br>• Potential reforms to enhance civil services’ performance. **Conclusion** <br>• Conclude, emphasizing the importance of addressing the various challenges and implementing necessary reforms for better governance. |
+| **Approach:** <br> **Introduction** <br>• Introduce the initial goals of neutrality and effectiveness in the Indian Civil Services and mention the growing concerns in the present context. <br> **Body** <br>• Divide the body into two main sections: <br>• Factors contributing to concerns about neutrality and effectiveness. <br>• Potential reforms to enhance civil services’ performance. <br> **Conclusion** <br>• Conclude, emphasizing the importance of addressing the various challenges and implementing necessary reforms for better governance. |
 | --- |
 
 ### Introduction
@@ -25301,7 +25301,7 @@ With the opening up of the economy with the 1991 reforms, things have gradually 
 1. Explanation_PWOnlyIAS:
 Source Question: “Traditional bureaucratic structure and culture have hampered the process of socio-economic development in India.” Comment. (200 words, 12.5 marks)
 
-| **Approach:** <br> **Introduction** <br>• Begin with an overview of the traditional bureaucratic structure and its impact on socio-economic development in India. **Body** <br>• Divide the body into multiple subsections, each discussing a specific aspect of the bureaucratic system that has hampered socio-economic development in India. <br>• Provide relevant examples to support the argument in each subsection. **Conclusion** <br>• Conclude, emphasizing the need for further improvements to address the systemic challenges and facilitate the process of socio-economic development. |
+| **Approach:** <br> **Introduction** <br>• Begin with an overview of the traditional bureaucratic structure and its impact on socio-economic development in India. <br> **Body** <br>• Divide the body into multiple subsections, each discussing a specific aspect of the bureaucratic system that has hampered socio-economic development in India. <br>• Provide relevant examples to support the argument in each subsection. <br> **Conclusion** <br>• Conclude, emphasizing the need for further improvements to address the systemic challenges and facilitate the process of socio-economic development. |
 | --- |
 
 ### Introduction
@@ -25377,7 +25377,7 @@ Q172. Has the Cadre based Civil Services Organisation been the cause of slow cha
 1. Explanation_PWOnlyIAS:
 Source Question: Has the Cadre based Civil Services Organization been the cause of slow change in India? Critically examine. (200 words, 12.5 marks)
 
-| **Approach:** <br> **Introduction** <br>• Start by providing a brief overview of the cadre-based civil services organization in India and its role in governance and administration. **Body** <br>• Discuss the ways in which the cadre-based civil services organization might have contributed to slow change in India. <br>• Argue against the notion that the cadre-based civil services are solely responsible for slow change. <br>• Discuss the positive aspects of the cadre-based system, such as stability of tenure, diverse experience of officers, and their role in policy implementation. <br>• Provide examples for both sections to substantiate your points. **Conclusion** <br>• Conclude by summarizing the main points and emphasizing the need for administrative reforms to address the weaknesses while leveraging the strengths of the cadre-based civil services system. |
+| **Approach:** <br> **Introduction** <br>• Start by providing a brief overview of the cadre-based civil services organization in India and its role in governance and administration. <br> **Body** <br>• Discuss the ways in which the cadre-based civil services organization might have contributed to slow change in India. <br>• Argue against the notion that the cadre-based civil services are solely responsible for slow change. <br>• Discuss the positive aspects of the cadre-based system, such as stability of tenure, diverse experience of officers, and their role in policy implementation. <br>• Provide examples for both sections to substantiate your points. <br> **Conclusion** <br>• Conclude by summarizing the main points and emphasizing the need for administrative reforms to address the weaknesses while leveraging the strengths of the cadre-based civil services system. |
 | --- |
 
 ### Introduction
@@ -25487,7 +25487,7 @@ Send To My Bookmarks
 1. Explanation_PWOnlyIAS:
 Source Question: Examine the main provisions of the National Child Policy and throw light on the status of its implementation. (200 words, 12.5 marks)
 
-| **Approach:** <br> **Introduction** <br>• Begin with a brief overview of the National Child Policy (NCP) and its objective to provide a comprehensive framework for the protection, development, and well-being of children in India. **Body** <br>• Discuss: <br>• Write down the main Provisions of the NCP. <br>• Status of Implementation. **Conclusion** <br>• Conclude, Emphasizing the need for continuous efforts, effective monitoring, and resource allocation to ensure the policy’s successful implementation and secure the well-being of children in India. |
+| **Approach:** <br> **Introduction** <br>• Begin with a brief overview of the National Child Policy (NCP) and its objective to provide a comprehensive framework for the protection, development, and well-being of children in India. <br> **Body** <br>• Discuss: <br>• Write down the main Provisions of the NCP. <br>• Status of Implementation. **Conclusion** <br>• Conclude, Emphasizing the need for continuous efforts, effective monitoring, and resource allocation to ensure the policy’s successful implementation and secure the well-being of children in India. |
 | --- |
 
 ### Introduction
@@ -25802,7 +25802,7 @@ While the 2016 Act provides many reassurances, brings domestic law in consonance
 1. Explanation_PWOnlyIAS:
 Source Question: Does the Rights of Persons with Disabilities Act, 2016 ensure effective mechanism for empowerment and inclusion of the intended beneficiaries in the society? Discuss.
 
-| **Approach:** <br> **Introduction** <br>• Introduce the Rights of Persons with Disabilities Act, 2016 (RPWD Act) and its objectives to empower and include persons with disabilities in society. **Body** <br>• Talk about the provisions of the RPWD Act. <br>• Mention the challenges in its effective implementation. **Conclusion** <br>• Write a relevant conclusion. |
+| **Approach:** <br> **Introduction** <br>• Introduce the Rights of Persons with Disabilities Act, 2016 (RPWD Act) and its objectives to empower and include persons with disabilities in society. <br> **Body** <br>• Talk about the provisions of the RPWD Act. <br>• Mention the challenges in its effective implementation. <br> **Conclusion** <br>• Write a relevant conclusion. |
 | --- |
 
 ### Introduction
@@ -25958,7 +25958,7 @@ Therefore, while it is true that welfare schemes for the vulnerable are indeed d
 1. Explanation_PWOnlyIAS:
 Source Question: &#8220;Development and welfare schemes for the vulnerable, by its nature, are discriminatory in approach.&#8221; Do you agree? Give reasons for your answer.
 
-| **Approach:** <br> **Introduction** <br>• Write about the development and welfare schemes for the vulnerable briefly **Body** <br>• Write how development and welfare schemes for the vulnerable are discriminatory in approach <br>• Write various counter arguments given against this view **Conclusion** <br>• Give appropriate conclusion in this regard |
+| **Approach:** <br> **Introduction** <br>• Write about the development and welfare schemes for the vulnerable briefly <br> **Body** <br>• Write how development and welfare schemes for the vulnerable are discriminatory in approach <br>• Write various counter arguments given against this view <br> **Conclusion** <br>• Give appropriate conclusion in this regard |
 | --- |
 
 ### Introduction
@@ -26158,7 +26158,7 @@ The quality of policy framework and effectiveness of implementation of the polic
 1. Explanation_PWOnlyIAS:
 Source Question: Performance of welfare schemes that are implemented for vulnerable sections is not so effective due to absence of their awareness and active involvement at all stages of policy process. Discuss.
 
-| **Approach:** <br> **Introduction** <br>• Introduce the issue of ineffective performance of welfare schemes targeted at vulnerable sections. **Body** <br>• Discuss various welfare schemes implemented for vulnerable sections in India, such as schemes for the poor, women, children, and marginalized communities. <br>• Explain how the absence of awareness and active involvement at different stages of the policy process (design, implementation, monitoring, and evaluation) can lead to ineffective outcomes. <br>• Suggest measures to enhance awareness and active involvement of vulnerable sections in the policy process. **Conclusion** <br>• Conclude, emphasizing the importance of awareness and active involvement of vulnerable sections in the policy process for the effective performance of welfare schemes. |
+| **Approach:** <br> **Introduction** <br>• Introduce the issue of ineffective performance of welfare schemes targeted at vulnerable sections. <br> **Body** <br>• Discuss various welfare schemes implemented for vulnerable sections in India, such as schemes for the poor, women, children, and marginalized communities. <br>• Explain how the absence of awareness and active involvement at different stages of the policy process (design, implementation, monitoring, and evaluation) can lead to ineffective outcomes. <br>• Suggest measures to enhance awareness and active involvement of vulnerable sections in the policy process. <br> **Conclusion** <br>• Conclude, emphasizing the importance of awareness and active involvement of vulnerable sections in the policy process for the effective performance of welfare schemes. |
 | --- |
 
 ### Introduction
@@ -26225,7 +26225,7 @@ Q178. Do government’s schemes for up-lifting vulnerable and backward communiti
 1. Explanation_PWOnlyIAS:
 Source Question: Do government’s schemes for up-lifting vulnerable and backward communities by protecting required social resources for them, lead to their exclusion in establishing businesses in urban economies? (200 words, 12.5 marks)
 
-| **Approach:** <br> **Introduction** <br>• Provide an overview of government schemes aimed at uplifting vulnerable and backward communities. **Body** <br>• Discuss how many government schemes primarily focus on rural areas, with less emphasis on supporting these communities in urban economies. <br>• Discuss how some schemes might provide skill development for vocations that are not as relevant in urban economies, leading to difficulties in establishing urban businesses. <br>• Discuss how, despite certain government schemes, marginalized individuals may still struggle to access capital due to various challenges, such as the need for formal banking access, financial literacy, and collateral. <br>• Discuss how social discrimination continues to be a significant hurdle in urban settings, deterring individuals from backward communities from establishing businesses or limiting their customer base. **Conclusion** <br>• Conclude, suggesting that a more targeted approach might be necessary to ensure these schemes effectively support these communities in urban settings. |
+| **Approach:** <br> **Introduction** <br>• Provide an overview of government schemes aimed at uplifting vulnerable and backward communities. <br> **Body** <br>• Discuss how many government schemes primarily focus on rural areas, with less emphasis on supporting these communities in urban economies. <br>• Discuss how some schemes might provide skill development for vocations that are not as relevant in urban economies, leading to difficulties in establishing urban businesses. <br>• Discuss how, despite certain government schemes, marginalized individuals may still struggle to access capital due to various challenges, such as the need for formal banking access, financial literacy, and collateral. <br>• Discuss how social discrimination continues to be a significant hurdle in urban settings, deterring individuals from backward communities from establishing businesses or limiting their customer base. <br> **Conclusion** <br>• Conclude, suggesting that a more targeted approach might be necessary to ensure these schemes effectively support these communities in urban settings. |
 | --- |
 
 ### Introduction
@@ -26285,7 +26285,7 @@ Q179. The Central Government frequently complains on the poor performance of the
 1. Explanation_PWOnlyIAS:
 Source Question: The Central Government frequently complains on the poor performance of the State Governments in eradicating suffering of the vulnerable sections of the society. Restructuring of Centrally sponsored schemes across the sectors for ameliorating the cause of vulnerable sections of population aims at providing flexibility to the States in better implementation. Critically evaluate.
 
-| **Approach:** <br> **Introduction** <br>• The introduction would explain the distribution of power in India’s federal structure and introduce the problem of blame shifting between the Central and State governments. It would also briefly introduce the idea of restructuring centrally sponsored schemes (CSS) to provide more flexibility to the states. **Body:** <br>• The body would be divided into two main sections: <br>• Advantages of Restructuring CSS <br>• Challenges in Restructuring CSS <br>• Also, substantiate with appropriate examples. **Conclusion** <br>• Conclude, arguing that while restructuring can offer more flexibility to the states, it is not a complete solution to the problems of implementing social welfare schemes. |
+| **Approach:** <br> **Introduction** <br>• The introduction would explain the distribution of power in India’s federal structure and introduce the problem of blame shifting between the Central and State governments. It would also briefly introduce the idea of restructuring centrally sponsored schemes (CSS) to provide more flexibility to the states. <br> **Body:** <br>• The body would be divided into two main sections: <br>• Advantages of Restructuring CSS <br>• Challenges in Restructuring CSS <br>• Also, substantiate with appropriate examples. <br> **Conclusion** <br>• Conclude, arguing that while restructuring can offer more flexibility to the states, it is not a complete solution to the problems of implementing social welfare schemes. |
 | --- |
 
 ### Introduction
@@ -26631,7 +26631,7 @@ Thus, education and empowerment schemes are necessary to support the feminist mo
 1. Explanation_PWOnlyIAS:
 Source Question: “Though women in post-Independent India have excelled in various fields, the social attitude towards women and feminist movement has been patriarchal.” Apart from women education and women empowerment schemes, what interventions can help change this milieu?
 
-| **Approach:** <br> **Introduction** <br>• Briefly introduce the persistence of patriarchal attitudes in post-Independent India, despite women’s achievements, and the need for a comprehensive approach beyond education and empowerment schemes. **Body** <br>• Discuss about the interventions that can help change this milieu. **Conclusion** <br>• Write a relevant conclusion. |
+| **Approach:** <br> **Introduction** <br>• Briefly introduce the persistence of patriarchal attitudes in post-Independent India, despite women’s achievements, and the need for a comprehensive approach beyond education and empowerment schemes. <br> **Body** <br>• Discuss about the interventions that can help change this milieu. <br> **Conclusion** <br>• Write a relevant conclusion. |
 | --- |
 
 ### Introduction
@@ -26915,7 +26915,7 @@ It has been twelve years since the implementation of RTE Act, but it still has a
 1. Explanation_PWOnlyIAS:
 Source Question: The Right of Children to Free and Compulsory Education Act, 2009 remains inadequate in promoting an incentive-based system for children&#8217;s education without generating awareness about the importance of schooling. Analyse.
 
-| **Approach:** <br> **Introduction** <br>• Introduce the Right of Children to Free and Compulsory Education (RTE) Act, 2009, and its objectives. **Body** <br>• Discuss the achievements of the RTE Act in improving access to education and its limitations in incentivizing and promoting the importance of education, focusing on learning outcomes, awareness generation, incentives for disadvantaged groups, and implementation challenges. **Conclusion** <br>• Write a relevant conclusion. |
+| **Approach:** <br> **Introduction** <br>• Introduce the Right of Children to Free and Compulsory Education (RTE) Act, 2009, and its objectives. <br> **Body** <br>• Discuss the achievements of the RTE Act in improving access to education and its limitations in incentivizing and promoting the importance of education, focusing on learning outcomes, awareness generation, incentives for disadvantaged groups, and implementation challenges. <br> **Conclusion** <br>• Write a relevant conclusion. |
 | --- |
 
 ### Introduction
@@ -27123,7 +27123,7 @@ More awareness about this kind of initiatives by the government should be genera
 1. Explanation_PWOnlyIAS:
 Source Question: “Earn while you learn scheme needs to be strengthened to make vocational education and skill training meaningful.” Comment.
 
-| **Approach:** <br> **Introduction** <br>• Briefly introduce the “Earn while you Learn” scheme. **Body** <br>• Discuss its role in enhancing the effectiveness of vocational education and skill training. **Conclusion** <br>• Write a relevant conclusion. |
+| **Approach:** <br> **Introduction** <br>• Briefly introduce the “Earn while you Learn” scheme. <br> **Body** <br>• Discuss its role in enhancing the effectiveness of vocational education and skill training. <br> **Conclusion** <br>• Write a relevant conclusion. |
 | --- |
 
 ### Introduction
@@ -27298,7 +27298,7 @@ NEP 2020 has the potential to make an overwhelming impact on the socio-economic 
 1. Explanation_PWOnlyIAS:
 Source Question: National Education Policy 2020 is in conformity with the Sustainable Development Goal-4 (2030). It intends to restructure and reorient education system in India. Critically examine the statement.
 
-| **Approach:** <br> **Introduction** <br>• Introduce the National Education Policy (NEP) 2020 and its aim to transform India’s education system. **Body** <br>• Discuss the positive aspects of NEP 2020 in conformity with SDG-4. <br>• Address the challenges and concerns related to NEP 2020 in achieving SDG-4. **Conclusion** <br>• Suggest a way forward for the government, educational institutions, and stakeholders to ensure the policy’s success and contribute to a brighter and more equitable future for India. |
+| **Approach:** <br> **Introduction** <br>• Introduce the National Education Policy (NEP) 2020 and its aim to transform India’s education system. <br> **Body** <br>• Discuss the positive aspects of NEP 2020 in conformity with SDG-4. <br>• Address the challenges and concerns related to NEP 2020 in achieving SDG-4. <br> **Conclusion** <br>• Suggest a way forward for the government, educational institutions, and stakeholders to ensure the policy’s success and contribute to a brighter and more equitable future for India. |
 | --- |
 
 ### Introduction
@@ -27395,7 +27395,7 @@ Q185. The quality of higher education in India requires major improvements to ma
 1. Explanation_PWOnlyIAS:
 Source Question: The quality of higher education in India requires major improvements to make it internationally competitive. Do you think that the entry of foreign educational institutions would help improve the quality of higher and technical education in the country? Discuss. (200 words, 12.5 marks)
 
-| **Approach:** <br> **Introduction** <br>• Introduce the idea of the entry of foreign educational institutions as a potential solution. **Body** <br>• Discuss how the entry of foreign educational institutions could enhance the quality of higher education in India. <br>• Discuss the potential challenges associated with the entry of foreign educational institutions. **Conclusion** <br>• Conclude by summarizing the potential benefits and challenges associated with the entry of foreign educational institutions in India. |
+| **Approach:** <br> **Introduction** <br>• Introduce the idea of the entry of foreign educational institutions as a potential solution. <br> **Body** <br>• Discuss how the entry of foreign educational institutions could enhance the quality of higher education in India. <br>• Discuss the potential challenges associated with the entry of foreign educational institutions. <br> **Conclusion** <br>• Conclude by summarizing the potential benefits and challenges associated with the entry of foreign educational institutions in India. |
 | --- |
 
 ### Introduction
@@ -27466,7 +27466,7 @@ Q186. Should the premier institutes like IITs/IIMs be allowed to retain premier 
 1. Explanation_PWOnlyIAS:
 Source Question: Should the premier institutes like IITs/IIMs be allowed to retain premier status, allowed more academic independence in designing courses and also decide mode/criteria of selection of students. Discuss in light of the growing challenges. (200 words, 12.5 marks)
 
-| **Approach:** <br> **Introduction** <br>• Briefly introduce the topic of premier institutes like IITs/IIMs retaining their premier status, having academic independence in course design, and deciding the mode/criteria of student selection. **Body** <br>• Discuss various aspects of the topic in a balanced manner, each with its own merits and potential drawbacks. **Conclusion** <br>• Write a suitable conclusion. |
+| **Approach:** <br> **Introduction** <br>• Briefly introduce the topic of premier institutes like IITs/IIMs retaining their premier status, having academic independence in course design, and deciding the mode/criteria of student selection. <br> **Body** <br>• Discuss various aspects of the topic in a balanced manner, each with its own merits and potential drawbacks. <br> **Conclusion** <br>• Write a suitable conclusion. |
 | --- |
 
 ### Introduction
@@ -28041,7 +28041,7 @@ Healthcare has a major role to play in reducing social exclusion at the local le
 1. Explanation_PWOnlyIAS:
 Source Question: In order to enhance the prospects of social development, sound and adequate health care policies are needed particularly in the fields of geriatric and maternal health care. Discuss.
 
-| **Approach:** <br> **Introduction** <br>• Introduce the importance of geriatric and maternal health care in achieving social development and the need for well-designed policies to meet their unique needs. **Body** <br>• Discuss the significance of sound and adequate health care policies in the fields of geriatric and maternal health care. <br>• Give appropriate examples. **Conclusion** <br>• Emphasize the need for policymakers to focus on these areas to improve health outcomes, promote equity, and foster overall societal progress. |
+| **Approach:** <br> **Introduction** <br>• Introduce the importance of geriatric and maternal health care in achieving social development and the need for well-designed policies to meet their unique needs. <br> **Body** <br>• Discuss the significance of sound and adequate health care policies in the fields of geriatric and maternal health care. <br>• Give appropriate examples. **Conclusion** <br>• Emphasize the need for policymakers to focus on these areas to improve health outcomes, promote equity, and foster overall societal progress. |
 | --- |
 
 ### Introduction
@@ -28179,7 +28179,7 @@ Hence, it is important to address these issues at the community level to achieve
 1. Explanation_PWOnlyIAS:
 Source Question: Appropriate local community-level healthcare intervention is a prerequisite to achieve ‘Health for All’ in India. Explain.
 
-| **Approach:** <br> **Introduction** <br>• Introduce the concept of ‘Health for All’ and emphasize the importance of local community-level healthcare interventions in achieving this goal in the Indian context. **Body** <br>• Discuss various aspects of community-level healthcare interventions that contribute to achieving ‘Health for All’ in India. <br>• Provide examples for each aspect to illustrate the practical implementation of local community-level healthcare interventions and their impact on improving health outcomes. <br>• Provide case studies of the successful models. **Conclusion** <br>• Write a relevant conclusion. |
+| **Approach:** <br> **Introduction** <br>• Introduce the concept of ‘Health for All’ and emphasize the importance of local community-level healthcare interventions in achieving this goal in the Indian context. <br> **Body** <br>• Discuss various aspects of community-level healthcare interventions that contribute to achieving ‘Health for All’ in India. <br>• Provide examples for each aspect to illustrate the practical implementation of local community-level healthcare interventions and their impact on improving health outcomes. <br>• Provide case studies of the successful models. <br> **Conclusion** <br>• Write a relevant conclusion. |
 | --- |
 
 ### Introduction
@@ -28273,7 +28273,7 @@ A traditional approach has been to segment the beneficiaries on the basis of geo
 1. Explanation_PWOnlyIAS:
 Source Question: ‘To ensure effective implementation of policies addressing water, sanitation and hygiene needs, the identification of beneficiary segments is to be synchronized with the anticipated outcomes’. Examine the statement in the context of the WASH scheme.
 
-| **Approach:** <br> **Introduction** <br> • Introduce the WASH scheme and its objectives. <br> **Body** <br> **Divide the body into four main sections:** <br> • Identification of beneficiary segments: <br> • Focus on vulnerable and marginalized populations. <br> • Address the specific needs of these groups. <br> • Anticipated outcomes: <br> • Reducing waterborne diseases. <br> • Enhancing access to clean water and sanitation facilities. <br> • Promoting healthy hygiene practices. <br> • Synchronization of beneficiary identification and outcomes: <br> • Targeted interventions. <br> • Efficient resource allocation. <br> • Improved monitoring and evaluation. <br> • Collaboration with stakeholders: <br> • Involvement of local governments, NGOs, community-based organizations, and the private sector. <br> • Addressing needs and achieving anticipated outcomes. **Conclusion** <br> • Write a relevant conclusion. |
+| **Approach:** <br> **Introduction** <br> • Introduce the WASH scheme and its objectives. <br> **Body** <br> **Divide the body into four main sections:** <br> • Identification of beneficiary segments: <br> • Focus on vulnerable and marginalized populations. <br> • Address the specific needs of these groups. <br> • Anticipated outcomes: <br> • Reducing waterborne diseases. <br> • Enhancing access to clean water and sanitation facilities. <br> • Promoting healthy hygiene practices. <br> • Synchronization of beneficiary identification and outcomes: <br> • Targeted interventions. <br> • Efficient resource allocation. <br> • Improved monitoring and evaluation. <br> • Collaboration with stakeholders: <br> • Involvement of local governments, NGOs, community-based organizations, and the private sector. <br> • Addressing needs and achieving anticipated outcomes. <br> **Conclusion** <br> • Write a relevant conclusion. |
 | --- |
 
 ### Introduction
@@ -28422,7 +28422,7 @@ Q193. Identify the Millennium Development Goals (MDGs) that are related to healt
 1. Explanation_PWOnlyIAS:
 Source Question: Identify the Millennium Development Goals (MDGs) that are related to health.Discuss the success of the actions taken by the Government for achieving the same.
 
-| **Approach:** <br> **Introduction** <br>• The introduction would briefly explain the Millennium Development Goals (MDGs) and identify the three MDGs that are directly related to health: MDG 4 (Reduce Child Mortality), MDG 5 (Improve Maternal Health), and MDG 6 (Combat HIV/AIDS, Malaria, and Other Diseases). **Body** <br>• Detail the actions taken by the Indian government to achieve this goal, such as the Integrated Child Development Services (ICDS) scheme and the Universal Immunization Programme (UIP). <br>• Discuss the government’s initiatives to improve maternal health, such as the National Health Mission (NHM) and the Janani Suraksha Yojana (JSY). <br>• Discuss the actions taken by the Indian government to combat HIV/AIDS, malaria, and other diseases, such as the National AIDS Control Programme (NACP) and the National Vector Borne Disease Control Programme (NVBDCP). **Conclusion:** <br>• The conclusion would summarize the progress made by India in achieving the health-related MDGs, acknowledging the significant strides made while also highlighting the challenges that remained. |
+| **Approach:** <br> **Introduction** <br>• The introduction would briefly explain the Millennium Development Goals (MDGs) and identify the three MDGs that are directly related to health: MDG 4 (Reduce Child Mortality), MDG 5 (Improve Maternal Health), and MDG 6 (Combat HIV/AIDS, Malaria, and Other Diseases). <br> **Body** <br>• Detail the actions taken by the Indian government to achieve this goal, such as the Integrated Child Development Services (ICDS) scheme and the Universal Immunization Programme (UIP). <br>• Discuss the government’s initiatives to improve maternal health, such as the National Health Mission (NHM) and the Janani Suraksha Yojana (JSY). <br>• Discuss the actions taken by the Indian government to combat HIV/AIDS, malaria, and other diseases, such as the National AIDS Control Programme (NACP) and the National Vector Borne Disease Control Programme (NVBDCP). <br> **Conclusion:** <br>• The conclusion would summarize the progress made by India in achieving the health-related MDGs, acknowledging the significant strides made while also highlighting the challenges that remained. |
 | --- |
 
 ### Introduction
@@ -28594,7 +28594,7 @@ Various skill development programmes such as Pradhan Mantri Kaushal Vikas Yojana
 1. Explanation_PWOnlyIAS:
 Source Question: Skill development programmes have succeeded in increasing human resources supply to various sectors. In the context of the statement analyse the linkages between education, skill and employment.
 
-| **Approach:** <br> **Introduction** <br>• Write about linkages between education, skill and employment briefly **Body** <br>• Write about the success of Skill development programmes in increasing human resources supply <br>• Write about the linkages between education and skill development <br>• Write about the linkages between skill development and employment **Conclusion** <br>• Give appropriate conclusion in this regard |
+| **Approach:** <br> **Introduction** <br>• Write about linkages between education, skill and employment briefly <br> **Body** <br>• Write about the success of Skill development programmes in increasing human resources supply <br>• Write about the linkages between education and skill development <br>• Write about the linkages between skill development and employment <br> **Conclusion** <br>• Give appropriate conclusion in this regard |
 | --- |
 
 ### Introduction
@@ -28770,7 +28770,7 @@ Although India is a developing nation with a young, vibrant population, if adequ
 1. Explanation_PWOnlyIAS:
 Source Question: The crucial aspect of the development process has been the inadequate attention paid to Human Resource Development in India. Suggest measures that can address this inadequacy.
 
-| **Approach:** <br> **Introduction** <br>• Write about the importance of Human Resource Development briefly **Body** <br>• Write about the current scenario of Human Resource Development in India <br>• Write the measures that can address this inadequacy **Conclusion** <br>• Give appropriate conclusion in this regard |
+| **Approach:** <br> **Introduction** <br>• Write about the importance of Human Resource Development briefly <br> **Body** <br>• Write about the current scenario of Human Resource Development in India <br>• Write the measures that can address this inadequacy <br> **Conclusion** <br>• Give appropriate conclusion in this regard |
 | --- |
 
 ### Introduction
@@ -29030,7 +29030,7 @@ Human development and economic growth share a cause and effect to each other rel
 1. Explanation_PWOnlyIAS:
 Source Question: Despite the consistent experience of high growth, India still goes with the lowest indicators of human development. Examine the issues that make balanced and inclusive development elusive.
 
-| **Approach:** <br> **Introduction** <br>• Introduce by acknowledging India’s high growth rates in recent years. **Body** <br>• Discuss various issues that make balanced and inclusive development elusive, such as income inequality, regional disparities, social exclusion, gender inequality, and inadequate investments in social sectors. <br>• Provide examples and data to support each of the identified issues. **Conclusion** <br>• Conclude, emphasizing the need for addressing these issues to achieve balanced and inclusive development in India. |
+| **Approach:** <br> **Introduction** <br>• Introduce by acknowledging India’s high growth rates in recent years. <br> **Body** <br>• Discuss various issues that make balanced and inclusive development elusive, such as income inequality, regional disparities, social exclusion, gender inequality, and inadequate investments in social sectors. <br>• Provide examples and data to support each of the identified issues. <br> **Conclusion** <br>• Conclude, emphasizing the need for addressing these issues to achieve balanced and inclusive development in India. |
 | --- |
 
 ### Introduction
@@ -29117,7 +29117,7 @@ Send To My Bookmarks
 1. Explanation_PWOnlyIAS:
 Source Question: “Demographic Dividend in India will remain only theoretical unless our manpower becomes more educated, aware, skilled and creative.” What measures have been taken by the government to enhance the capacity of our population to be more productive and employable? (200 words, 12.5 marks)
 
-| **Approach:** <br> **Introduction** <br>• Introduce the concept of demographic dividend in India and emphasize the importance of an educated, skilled, and employable workforce for realizing its full potential. **Body** <br>• Divide the body into multiple subsections, each discussing a specific measure taken by the government to enhance the capacity of the population to be more productive and employable. **Conclusion** <br>• Acknowledge the need for continuous efforts, effective implementation, and close monitoring to ensure the demographic dividend is fully harnessed and not just a theoretical concept. |
+| **Approach:** <br> **Introduction** <br>• Introduce the concept of demographic dividend in India and emphasize the importance of an educated, skilled, and employable workforce for realizing its full potential. <br> **Body** <br>• Divide the body into multiple subsections, each discussing a specific measure taken by the government to enhance the capacity of the population to be more productive and employable. <br> **Conclusion** <br>• Acknowledge the need for continuous efforts, effective implementation, and close monitoring to ensure the demographic dividend is fully harnessed and not just a theoretical concept. |
 | --- |
 
 ### Introduction
@@ -29190,7 +29190,7 @@ Q198. An athlete participates in Olympics for personal triumph and nation’s gl
 1. Explanation_PWOnlyIAS:
 Source Question: An athlete participates in Olympics for personal triumph and nation’s glory; victors are showered with cash incentives by various agencies, on their return. Discuss the merit of state sponsored talent hunt and its cultivation as against the rationale of a reward mechanism as encouragement. (200 words, 12.5 marks)
 
-| **Approach:** <br> **Introduction** <br>• The introduction should briefly hint at their importance in encouraging athletes to participate in international competitions like the Olympics. **Body** <br>• Discuss the merits of State-Sponsored Talent Hunts and Cultivation Programs, with examples like the ‘Khelo India’ initiative. <br>• Explain what reward mechanisms are and discuss their merits, with examples from different countries, including India. **Conclusion** <br>• Conclude briefly discussing the need for a balanced approach that includes both state-sponsored talent hunts and cultivation programs, as well as reward mechanisms. |
+| **Approach:** <br> **Introduction** <br>• The introduction should briefly hint at their importance in encouraging athletes to participate in international competitions like the Olympics. <br> **Body** <br>• Discuss the merits of State-Sponsored Talent Hunts and Cultivation Programs, with examples like the ‘Khelo India’ initiative. <br>• Explain what reward mechanisms are and discuss their merits, with examples from different countries, including India. <br> **Conclusion** <br>• Conclude briefly discussing the need for a balanced approach that includes both state-sponsored talent hunts and cultivation programs, as well as reward mechanisms. |
 | --- |
 
 ### Introduction
@@ -29314,7 +29314,7 @@ India is the only country in the world which is aiming to become a global econom
 1. Explanation_PWOnlyIAS:
 Source Question: Professor Amartya Sen has advocated important reforms in the realms of primary education and primary health care. What are your suggestions to improve their status and performance? (200 words, 12.5 marks)
 
-| **Approach:** <br> **Introduction** <br>• Begin with the importance of primary education and primary health care as emphasized by Professor Amartya Sen, and highlight the need to address the challenges faced by these sectors in order to improve their status and performance. **Body** <br>• Discuss various suggestions to improve the status and performance of primary education and primary health care. **Conclusion** <br>• Conclude by summarizing the significance of improving primary education and primary health care sectors for overall human development and social progress. |
+| **Approach:** <br> **Introduction** <br>• Begin with the importance of primary education and primary health care as emphasized by Professor Amartya Sen, and highlight the need to address the challenges faced by these sectors in order to improve their status and performance. <br> **Body** <br>• Discuss various suggestions to improve the status and performance of primary education and primary health care. <br> **Conclusion** <br>• Conclude by summarizing the significance of improving primary education and primary health care sectors for overall human development and social progress. |
 | --- |
 
 ### Introduction
@@ -29459,7 +29459,7 @@ Economists Amartya Sen and Jean Dreze distinguish two aspects of social security
 1. Explanation_PWOnlyIAS:
 Source Question: “The Attorney-General is the chief legal adviser and lawyer of the Government of India.” Discuss.
 
-| **Approach:** <br> **Introduction** <br>• Briefly introduce the Attorney-General of India as a constitutional position under Article 76 and their role as the chief legal adviser and lawyer for the Government of India. **Body:** <br>• Discuss the appointment and qualifications of the Attorney-General. <br>• Outline the primary functions and responsibilities of the Attorney-General, emphasizing their role in providing legal advice, representing the government in courts, and drafting legal documents. <br>• Mention the additional roles, such as attending Parliament sessions and providing references to the Supreme Court. <br>• Explain the limitations and restrictions on the Attorney-General’s role, including independence, lack of executive powers, and professional limitations. **Conclusion** <br>• Conclude, emphasizing their importance in the country’s legal framework and ensuring the lawful functioning of the government. |
+| **Approach:** <br> **Introduction** <br>• Briefly introduce the Attorney-General of India as a constitutional position under Article 76 and their role as the chief legal adviser and lawyer for the Government of India. <br> **Body:** <br>• Discuss the appointment and qualifications of the Attorney-General. <br>• Outline the primary functions and responsibilities of the Attorney-General, emphasizing their role in providing legal advice, representing the government in courts, and drafting legal documents. <br>• Mention the additional roles, such as attending Parliament sessions and providing references to the Supreme Court. <br>• Explain the limitations and restrictions on the Attorney-General’s role, including independence, lack of executive powers, and professional limitations. <br> **Conclusion** <br>• Conclude, emphasizing their importance in the country’s legal framework and ensuring the lawful functioning of the government. |
 | --- |
 
 ### Introduction
@@ -29663,7 +29663,7 @@ Q202. The concept of Mid Day Meal (MDM) scheme is almost a century old in India 
 1. Explanation_PWOnlyIAS:
 Source Question: The concept of Mid Day Meal (MDM) scheme is almost a century old in India with early beginnings in Madras Presidency in pre-independent India. The scheme has again been given impetus in most states in the last two decades. Critically examine its twin objectives, latest mandates and success.
 
-| **Approach:** <br> **Introduction** <br>• The introduction would present a brief background of the Mid Day Meal Scheme (MDM), highlighting its origins in pre-independent India and its revitalization in the last two decades. **Body** <br>• Discuss the two primary objectives of the MDM – enhancing nutritional intake and boosting school enrollment and attendance. <br>• Focus on the recent mandates related to the MDM, including its extension to upper primary classes and the 2013 Supreme Court direction to provide mid-day meals during the summer vacation. <br>• Critically examine the success of the MDM in achieving its objectives, substantiated with relevant examples. <br>• Substantiate with appropriate examples. **Conclusion** <br>• Summarize the key points made in the body of the answer, acknowledging the significant strides made by the MDM in improving children’s nutritional status and school participation. |
+| **Approach:** <br> **Introduction** <br>• The introduction would present a brief background of the Mid Day Meal Scheme (MDM), highlighting its origins in pre-independent India and its revitalization in the last two decades. <br> **Body** <br>• Discuss the two primary objectives of the MDM – enhancing nutritional intake and boosting school enrollment and attendance. <br>• Focus on the recent mandates related to the MDM, including its extension to upper primary classes and the 2013 Supreme Court direction to provide mid-day meals during the summer vacation. <br>• Critically examine the success of the MDM in achieving its objectives, substantiated with relevant examples. <br>• Substantiate with appropriate examples. <br> **Conclusion** <br>• Summarize the key points made in the <br> body of the answer, acknowledging the significant strides made by the MDM in improving children’s nutritional status and school participation. |
 | --- |
 
 ### Introduction
@@ -29791,7 +29791,7 @@ But the challenges still remain. According to the latest Global Hunger Index (20
 1. Explanation_PWOnlyIAS:
 Source Question: Hunger and Poverty are the biggest challenges for good governance in India still today. Evaluate how far successive governments have progressed in dealing with these humongous problems. Suggest measures for improvement.
 
-| **Approach:** <br> **Introduction** <br>• Introduce the challenges of hunger and poverty in India and their significance in the context of good governance. **Body** <br>• Talk about the progress made by successive governments. <br>• Identify the challenges in addressing hunger and poverty. <br>• Highlight the measures for improvement. **Conclusion** <br>• Conclude, emphasizing the need for a combination of improved implementation, targeted interventions, and collaborative efforts to ensure good governance in addressing these critical issues. |
+| **Approach:** <br> **Introduction** <br>• Introduce the challenges of hunger and poverty in India and their significance in the context of good governance. <br> **Body** <br>• Talk about the progress made by successive governments. <br>• Identify the challenges in addressing hunger and poverty. <br>• Highlight the measures for improvement. <br> **Conclusion** <br>• Conclude, emphasizing the need for a combination of improved implementation, targeted interventions, and collaborative efforts to ensure good governance in addressing these critical issues. |
 | --- |
 
 ### Introduction
@@ -30368,7 +30368,7 @@ India has leading demographic dividend, **fifth largest** economy by nominal GDP
 1. Explanation_PWOnlyIAS:
 Source Question: Besides the welfare schemes, India needs deft management of inflation and unemployment to serve the poor and the underprivileged sections of the society. Discuss.
 
-| **Approach:** <br> **Introduction** <br> • Introduce the importance of welfare schemes in India and emphasize the need for addressing broader economic challenges, particularly inflation and unemployment, to serve the poor and underprivileged sections of society. **Body** <br> • Discuss the significance of managing inflation and unemployment, elaborating on the measures that can be taken to address these issues, and explain how doing so complements welfare schemes. <br> **Conclusion** <br> • Write a relevant conclusion. |
+| **Approach:** <br> **Introduction** <br> • Introduce the importance of welfare schemes in India and emphasize the need for addressing broader economic challenges, particularly inflation and unemployment, to serve the poor and underprivileged sections of society. <br> **Body** <br> • Discuss the significance of managing inflation and unemployment, elaborating on the measures that can be taken to address these issues, and explain how doing so complements welfare schemes. <br> **Conclusion** <br> • Write a relevant conclusion. |
 | --- |
 
 ### Introduction
@@ -30718,7 +30718,7 @@ As things stand, many of those living in poverty today will continue to remain p
 1. Explanation_PWOnlyIAS:
 Source Question: “Poverty Alleviation programs in India remain mere showpieces until and unless they are backed up by political will.” Discuss with reference to the performance of the major poverty alleviation program in India.
 
-| **Approach:** <br> **Introduction** <br>• Introduce the challenges of poverty in India and the importance of poverty alleviation programs. **Body** <br>• Divide the body into two main sections: <br>• Major poverty alleviation programs in India. <br>• Role of political will in the effectiveness of poverty alleviation programs. **Conclusion** <br>• Write a relevant conclusion. |
+| **Approach:** <br> **Introduction** <br>• Introduce the challenges of poverty in India and the importance of poverty alleviation programs. <br> **Body** <br>• Divide the body into two main sections: <br>• Major poverty alleviation programs in India. <br>• Role of political will in the effectiveness of poverty alleviation programs. <br> **Conclusion** <br>• Write a relevant conclusion. |
 | --- |
 
 ### Introduction
@@ -30794,7 +30794,7 @@ Q209. Though there have been several different estimates of poverty in India, al
 1. Explanation_PWOnlyIAS:
 Source Question: Though there have been several different estimates of poverty in India, all indicate reduction in poverty levels over time. Do you agree? Critically examine with reference to urban and rural poverty indicators. (200 words, 12.5 marks)
 
-| **Approach:** <br> **Introduction** <br>• Introduce the topic by acknowledging the different estimates of poverty in India while emphasizing the general consensus of a reduction in poverty levels over time. **Body** <br>• Discuss the overall reduction in poverty levels in India. <br>• Talk about the various indicators that reflect this reduction, such as rising income and consumption levels, shifts in employment patterns, increased access to education and healthcare, and the impact of government programs like the Public Distribution System. <br>• Critically examine the disparities in poverty reduction between urban and rural areas. **Conclusion** <br>• Conclude by summarizing the overall reduction in poverty levels in India and the disparities between urban and rural areas. |
+| **Approach:** <br> **Introduction** <br>• Introduce the topic by acknowledging the different estimates of poverty in India while emphasizing the general consensus of a reduction in poverty levels over time. <br> **Body** <br>• Discuss the overall reduction in poverty levels in India. <br>• Talk about the various indicators that reflect this reduction, such as rising income and consumption levels, shifts in employment patterns, increased access to education and healthcare, and the impact of government programs like the Public Distribution System. <br>• Critically examine the disparities in poverty reduction between urban and rural areas. <br> **Conclusion** <br>• Conclude by summarizing the overall reduction in poverty levels in India and the disparities between urban and rural areas. |
 | --- |
 
 ### Introduction
@@ -30954,7 +30954,7 @@ The Sri Lankan crisis is not just a domestic problem, but it has a spill-over ef
 1. Explanation_PWOnlyIAS:
 Source Question: Discuss the role of the Election Commission of India in the light of the evolution of the Model Code of Conduct.
 
-| **Approach:** <br> **Introduction** <br> • Introduce the Election Commission of India (ECI) and the Model Code of Conduct (MCC), emphasizing the significance of the MCC in ensuring free and fair elections. **Body** <br> • Discuss the role of the Election Commission of India in the light of the evolution of the Model Code of Conduct. <br> • **Formulation and Evolution** <br> • **Implementation and Enforcement** <br> • **Awareness and Education** <br> • **Monitoring and Grievance Redressal** <br> • **Adaptation to Technological Advancements** <br> **Conclusion** <br> • Conclude, emphasizing its significance in maintaining the integrity of the electoral process in India. |
+| **Approach:** <br> **Introduction** <br> • Introduce the Election Commission of India (ECI) and the Model Code of Conduct (MCC), emphasizing the significance of the MCC in ensuring free and fair elections. <br> **Body** <br> • Discuss the role of the Election Commission of India in the light of the evolution of the Model Code of Conduct. <br> • **Formulation and Evolution** <br> • **Implementation and Enforcement** <br> • **Awareness and Education** <br> • **Monitoring and Grievance Redressal** <br> • **Adaptation to Technological Advancements** <br> **Conclusion** <br> • Conclude, emphasizing its significance in maintaining the integrity of the electoral process in India. |
 | --- |
 
 ### Introduction
@@ -31065,7 +31065,7 @@ Q211. Project `Mausam’ is considered a unique foreign policy initiative of the
 1. Explanation_PWOnlyIAS:
 Source Question: Project “Mausam” is considered a unique foreign policy initiative of the Indian government to improve relationships with its neighbors. Does the project have a strategic dimension? Discuss. [200 word,12.5 Marks]
 
-| **Approach:** <br> **Introduction** <br>• Brief about Project Mausam. **Body** <br>• Discuss the project has a strategic dimension that can help India advance its strategic interests in the region. **Conclusion** <br>• Conclude your answer with the importance of Project Mausam. |
+| **Approach:** <br> **Introduction** <br>• Brief about Project Mausam. **Body** <br>• Discuss the project has a strategic dimension that can help India advance its strategic interests in the region. <br> **Conclusion** <br>• Conclude your answer with the importance of Project Mausam. |
 | --- |
 
 ### Introduction
@@ -31127,7 +31127,7 @@ Q212. Terrorist activities and mutual distrust have clouded India-Pakistan relat
 1. Explanation_PWOnlyIAS:
 Source Question: Terrorist activities and mutual distrust have clouded India &#8211; Pakistan relation. To what extent the use of soft power like sports and culture exchange could help generate goodwill between the two countries. Discuss with suitable examples. [200 Words,12.5 Marks]
 
-| **Approach:** <br> **Introduction** <br>• Brief about India- Pakistan Relations. **Body** <br>• Discuss significant role on overcoming distrust through soft power Initiatives and cultural exchange. **Conclusion** <br>• Conclude your answer with a futuristic approach. |
+| **Approach:** <br> **Introduction** <br>• Brief about India- Pakistan Relations. <br> **Body** <br>• Discuss significant role on overcoming distrust through soft power Initiatives and cultural exchange. <br> **Conclusion** <br>• Conclude your answer with a futuristic approach. |
 | --- |
 
 ### Introduction
@@ -31187,7 +31187,7 @@ Q213. Discuss the political developments in Maldives in the last two years. Shou
 1. Explanation_PWOnlyIAS:
 Source Question: Discuss the political developments in Maldives in the last two years. Should they be of cause of concern to India?
 
-| **Approach:** <br> **Introduction** <br>• Brief about political developments between India and Maldives. **Body** <br>• Discuss about the political developments, like Security Partnership, Economic Cooperation. <br>• Challenges in India-Maldives Relations and way forward. **Conclusion** <br>• Conclude your answer with a futuristic Approach. |
+| **Approach:** <br> **Introduction** <br>• Brief about political developments between India and Maldives. <br> **Body** <br>• Discuss about the political developments, like Security Partnership, Economic Cooperation. <br>• Challenges in India-Maldives Relations and way forward. <br> **Conclusion** <br>• Conclude your answer with a futuristic Approach. |
 | --- |
 
 ### Introduction
@@ -31273,7 +31273,7 @@ Q214. In respect of India-Sri Lanka relations, discuss how domestic factors infl
 1. Explanation_PWOnlyIAS:
 Source Question: Discuss Section 66A of IT Act, with reference to its alleged violation of Article 19 of the Constitution.
 
-| **Approach:** <br> **Introduction** <br>• Begin by briefly defining Section 66A of the IT Act and Article 19 of the Indian Constitution. **Body** <br>• Delve deeper into the specifics of Section 66A. <br>• Mention the reasonable restrictions placed on this right under Article 19(2). <br>• Discuss specific criticisms and instances of misuse that led to the questioning of this provision. <br>• Also, in the end, summarize the Supreme Court’s ruling in Shreya Singhal v. Union of India. **Conclusion** <br>• Write a suitable conclusion. |
+| **Approach:** <br> **Introduction** <br>• Begin by briefly defining Section 66A of the IT Act and Article 19 of the Indian Constitution. <br> **Body** <br>• Delve deeper into the specifics of Section 66A. <br>• Mention the reasonable restrictions placed on this right under Article 19(2). <br>• Discuss specific criticisms and instances of misuse that led to the questioning of this provision. <br>• Also, in the end, summarize the Supreme Court’s ruling in Shreya Singhal v. Union of India. <br> **Conclusion** <br>• Write a suitable conclusion. |
 | --- |
 
 ### Introduction
@@ -31339,7 +31339,7 @@ Q215. The protests in Shahbag Square in Dhaka in Bangladesh reveal a fundamental
 1. Explanation_PWOnlyIAS:
 Source Question: The protests in Shahbag Square in Dhaka in Bangladesh reveal a fundamental split in society between the nationalists and Islamic forces. What is its significance for India?
 
-| **Approach:** <br> **Introduction** <br>• Brief about Shahbag Square Protests. **Body** <br>• Discuss the significance of Shahbag square in Dhaka. **Conclusion** <br>• Conclude your answer with Implications for India’s Security and Bilateral Relations with Bangladesh. |
+| **Approach:** <br> **Introduction** <br>• Brief about Shahbag Square Protests. <br> **Body** <br>• Discuss the significance of Shahbag square in Dhaka. <br> **Conclusion** <br>• Conclude your answer with Implications for India’s Security and Bilateral Relations with Bangladesh. |
 | --- |
 
 ### Introduction
@@ -31411,7 +31411,7 @@ Q216. What is meant by Gujral doctrine? Does it have any relevance today? Discus
 1. Explanation_PWOnlyIAS:
 Source Question: What is meant by Gujral doctrine? Does it have any relevance today? Discuss.
 
-| **Approach:** <br> **Introduction** <br>• Brief about The Gujral Doctrine. **Body** <br>• Discuss about five principles of The Gujral Doctrine and relevance today. **Conclusion** <br>• Conclude your answer with a futuristics approach. |
+| **Approach:** <br> **Introduction** <br>• Brief about The Gujral Doctrine. **Body** <br>• Discuss about five principles of The Gujral Doctrine and relevance today. <br> **Conclusion** <br>• Conclude your answer with a futuristics approach. |
 | --- |
 
 ### Introduction
@@ -31935,7 +31935,7 @@ In the last two decades, the US and India defence relations have strengthened du
 1. Explanation_PWOnlyIAS:
 Source Question: What is the significance of Indo- US defence deals over Indo-Russian defence deals? Discuss with reference to stability in the Indo- Pacific region.
 
-| **Approach:** <br> **Introduction** <br>• Start your answer with Indo-US and Indo-Russian relations. **Body** <br>• Significance of Indo-US and Indo-Russian Defence Deals <br>• Indo-US Defence Deals Overcoming Indo-Russian Defence Deals: **Conclusion** <br>• Conclude your answer with a balanced approach. |
+| **Approach:** <br> **Introduction** <br>• Start your answer with Indo-US and Indo-Russian relations. <br> **Body** <br>• Significance of Indo-US and Indo-Russian Defence Deals <br>• Indo-US Defence Deals Overcoming Indo-Russian Defence Deals: <br> **Conclusion** <br>• Conclude your answer with a balanced approach. |
 | --- |
 
 ### Introduction
@@ -32118,7 +32118,7 @@ Japan can prove to be a development multiplier in India. Therefore, India should
 1. Explanation_PWOnlyIAS:
 Source Question: “The long-sustained image of India as a leader of the oppressed and marginalized Nations has disappeared on account of its new found role in the emerging global order” Elaborate
 
-| **Approach:** <br> **Introduction** <br>• Start your answer significant to India’s foreign policy. **Body** <br>• Discuss about the Leadership and idealistic credentials of India was sustained and can be seen. <br>• Shift in India’s Approach towards Strategic Foreign Policy Perspective. **Conclusion** <br>• Conclude your answer with a balanced approach. |
+| **Approach:** <br> **Introduction** <br>• Start your answer significant to India’s foreign policy. <br> **Body** <br>• Discuss about the Leadership and idealistic credentials of India was sustained and can be seen. <br>• Shift in India’s Approach towards Strategic Foreign Policy Perspective. <br> **Conclusion** <br>• Conclude your answer with a balanced approach. |
 | --- |
 
 ### Introduction
@@ -32266,7 +32266,7 @@ Moreover, the USA’s National Defense Strategy 2018 marked Russia and China as 
 1. Explanation_PWOnlyIAS:
 Source Question: “The long-sustained image of India as a leader of the oppressed and marginalized Nations has disappeared on account of its new found role in the emerging global order” Elaborate
 
-| **Approach:** <br> **Introduction** <br>• Start your answer significant to India’s foreign policy. **Body** <br>• Discuss about the Leadership and idealistic credentials of India was sustained and can be seen. <br>• Shift in India’s Approach towards Strategic Foreign Policy Perspective. **Conclusion** <br>• Conclude your answer with a balanced approach. |
+| **Approach:** <br> **Introduction** <br>• Start your answer significant to India’s foreign policy. <br> **Body** <br>• Discuss about the Leadership and idealistic credentials of India was sustained and can be seen. <br>• Shift in India’s Approach towards Strategic Foreign Policy Perspective. <br> **Conclusion** <br>• Conclude your answer with a balanced approach. |
 | --- |
 
 ### Introduction
@@ -32420,7 +32420,7 @@ India’s evolving ties with Israel are based on pragmatism and emerging global 
 1. Explanation_PWOnlyIAS:
 Source Question: “India’s relations with Israel have, of late, acquired a depth and diversity, which cannot be rolled back” Discuss
 
-| **Approach:** <br> **Introduction** <br>• Briefly introduce the status of Indo-Israel relations presently and in the past. **Body** <br>• Elaborate on traditional and new areas of cooperation. **Conclusion** <br>• Conclude your answer with a balanced approach. |
+| **Approach:** <br> **Introduction** <br>• Briefly introduce the status of Indo-Israel relations presently and in the past. <br> **Body** <br>• Elaborate on traditional and new areas of cooperation. <br> **Conclusion** <br>• Conclude your answer with a balanced approach. |
 | --- |
 
 ### Introduction
@@ -32497,7 +32497,7 @@ Q223. Increasing interest of India in Africa has its pros and cons. Critically e
 1. Explanation_PWOnlyIAS:
 Source Question: Increased interest of India in Africa has its pros and cons. Critically Examine.[200 Words, 12.5 Marks]
 
-| **Approach:** <br> **Introduction** <br>• Brief about India’s growing interest in Africa **Body** <br>• Discuss the Pros and Cons of India’s Increasing Interest in Africa. **Conclusion** <br>• Conclude your answer with a futuristic approach |
+| **Approach:** <br> **Introduction** <br>• Brief about India’s growing interest in Africa <br> **Body** <br>• Discuss the Pros and Cons of India’s Increasing Interest in Africa. <br> **Conclusion** <br>• Conclude your answer with a futuristic approach |
 | --- |
 
 ### Introduction
@@ -32583,7 +32583,7 @@ Q224. With respect to the South China sea, maritime territorial disputes and ris
 1. Explanation_PWOnlyIAS:
 Source Question: With respect to the South China sea, maritime territorial disputes and rising tension affairs the need for safeguarding maritime security to ensure freedom of navigation and ever flight throughout the region. In this context, discuss the bilateral issues between India and China. [200 Words, 12.5 Marks]
 
-| **Approach:** <br> **Introduction** <br>• Start your answer with maritime security in the South China Sea. **Body** <br>• Discuss the bilateral Issues between India and China. **Conclusion** <br>• Conclude your answer with a futuristic approach. |
+| **Approach:** <br> **Introduction** <br>• Start your answer with maritime security in the South China Sea. <br> **Body** <br>• Discuss the bilateral Issues between India and China. <br> **Conclusion** <br>• Conclude your answer with a futuristic approach. |
 | --- |
 
 ### Introduction
@@ -32665,7 +32665,7 @@ Q225. Economic ties between India and Japan, while growing in recent years, are 
 1. Explanation_PWOnlyIAS:
 Source Question: Economic ties between India and Japan, while growing in recent years, are still far below their potential. Elucidate the policy constraints which are inhibiting this growth.
 
-| **Approach:** <br> **Introduction** <br>• Brief about economic ties between India and Japan. **Body** <br>• Discuss about the trade impediments and investment challenges between India and Japan. **Conclusion** <br>• Conclude your answer with a futuristics approach. |
+| **Approach:** <br> **Introduction** <br>• Brief about economic ties between India and Japan. <br> **Body** <br>• Discuss about the trade impediments and investment challenges between India and Japan. <br> **Conclusion** <br>• Conclude your answer with a futuristics approach. |
 | --- |
 
 ### Introduction
@@ -32868,7 +32868,7 @@ The I2U2 group makes lot of sense in West Asia and South Asia geopolitics. For I
 1. Explanation_PWOnlyIAS:
 Source Question: How will I2U2(India, Israel, UAE and USA) grouping transform India’s position in global politics ?
 
-| **Approach:** <br> **Introduction** <br>• Start your answer with Significance of I2U2. **Body** <br>• Discuss India’s position in global politics in I2U2 transform. **Conclusion** <br>• Conclude your answer’s significance with a futuristic approach. |
+| **Approach:** <br> **Introduction** <br>• Start your answer with Significance of I2U2. <br> **Body** <br>• Discuss India’s position in global politics in I2U2 transform. <br> **Conclusion** <br>• Conclude your answer’s significance with a futuristic approach. |
 | --- |
 
 ### Introduction
@@ -33086,7 +33086,7 @@ India and Africa offer a lot of opportunities for each other in coming times lik
 1. Explanation_PWOnlyIAS:
 Source Question: “If the last few decades were of Asian’s.” In the light of this statement, examine India’s influence in Africa in recent years.
 
-| **Approach:** <br> **Introduction** <br>• Brief about growth of Asian countries. **Body** <br>• Discuss about India’s influence in Africa in recent years and its challenges. **Conclusion** <br>• Conclude your answer with the significance of Asian countries. |
+| **Approach:** <br> **Introduction** <br>• Brief about growth of Asian countries. <br> **Body** <br>• Discuss about India’s influence in Africa in recent years and its challenges. <br> **Conclusion** <br>• Conclude your answer with the significance of Asian countries. |
 | --- |
 
 ### Introduction
@@ -33260,7 +33260,7 @@ Thus, though AUKUS offers the advantage of balance of power, strategic autonomy,
 1. Explanation_PWOnlyIAS:
 Source Question: The newly tri-nation partnership AUKUS is aimed at countering China’s ambitions in the Indo-Pacific region. Is it going to supersede the existing partnership in the region? Discuss the strength and impact of AUKUS in the present scenario.
 
-| **Approach:** <br> **Introduction** <br>• Brief explaining the tri nation partnership AUKUS and its Aims. **Body** <br>• Discuss the strength and impact of AUKUS in the present scenario. **Conclusion** <br>• Conclude your answer with the significance of AUKUS. |
+| **Approach:** <br> **Introduction** <br>• Brief explaining the tri nation partnership AUKUS and its Aims. <br> **Body** <br>• Discuss the strength and impact of AUKUS in the present scenario. <br> **Conclusion** <br>• Conclude your answer with the significance of AUKUS. |
 | --- |
 
 ### Introduction
@@ -33449,7 +33449,7 @@ Quad member countries agreed that a free, open, prosperous, and inclusive Indo-P
 1. Explanation_PWOnlyIAS:
 Source Question: Quadrilateral Security Dialogue (QUAD) is transforming itself into a trade bloc from a military alliance, in present time &#8211; Discuss.
 
-| **Approach:** <br> **Introduction** <br>• Start your answer by briefly discussing what is a QUAD. **Body** <br>• Discuss the need for Quad from a geo- economic prism rather than as a military bloc. **Conclusion** <br>• Conclude your answer with a balanced approach. |
+| **Approach:** <br> **Introduction** <br>• Start your answer by briefly discussing what is a QUAD. <br> **Body** <br>• Discuss the need for Quad from a geo- economic prism rather than as a military bloc. <br> **Conclusion** <br>• Conclude your answer with a balanced approach. |
 | --- |
 
 ### Introduction
@@ -33765,7 +33765,7 @@ India’s role in mitigation of various SCO conflicts can be immense considering
 1. Explanation_PWOnlyIAS:
 Source Question: &#8216;Virus of Conflict is affecting the functioning of the SCO&#8217;. In the light of the above statement, point out the role of India in mitigating the problems.
 
-| **Approach:** <br> **Introduction** <br>• Write about the SCO’ briefly **Body** <br>• Write how Virus of Conflict is affecting the functioning of the SCO <br>• Write about the role of India in mitigating the problems **Conclusion** <br>• Give appropriate conclusion in this regard |
+| **Approach:** <br> **Introduction** <br>• Write about the SCO’ briefly **Body** <br>• Write how Virus of Conflict is affecting the functioning of the SCO <br>• Write about the role of India in mitigating the problems <br> **Conclusion** <br>• Give appropriate conclusion in this regard |
 | --- |
 
 ### Introduction
@@ -33978,7 +33978,7 @@ The two organisations focus on geographically overlapping regions. However, this
 1. Explanation_PWOnlyIAS:
 Source Question: Discuss the procedures to decide the disputes arising out of the election of a Member of the Parliament or State Legislature under The Representation of the People Act, 1951. What are the grounds on which the election of any returned candidate may be declared void? What remedy is available to the aggrieved party against the decision? Refer to the case laws.
 
-| **Approach:** <br> **Introduction** <br>• Briefly introduce the Representation of the People Act, 1951, and its significance in addressing disputes arising out of the election of a Member of Parliament or State Legislature. **Body** <br>• Divide the body into three main parts: <br>• Procedures to decide disputes arising out of elections. <br>• Grounds for declaring an election void. <br>• Remedies available to the aggrieved party. **Conclusion** <br>• Summarize the importance of the Representation of the People Act, 1951, in ensuring a transparent, accountable, and fair electoral process in India, and emphasize its role in strengthening the country’s democratic fabric. |
+| **Approach:** <br> **Introduction** <br>• Briefly introduce the Representation of the People Act, 1951, and its significance in addressing disputes arising out of the election of a Member of Parliament or State Legislature. <br> **Body** <br>• Divide the body into three main parts: <br>• Procedures to decide disputes arising out of elections. <br>• Grounds for declaring an election void. <br>• Remedies available to the aggrieved party. <br> **Conclusion** <br>• Summarize the importance of the Representation of the People Act, 1951, in ensuring a transparent, accountable, and fair electoral process in India, and emphasize its role in strengthening the country’s democratic fabric. |
 | --- |
 
 ### Introduction
@@ -34197,7 +34197,7 @@ India’s relations with countries in the region have enormous potential for enh
 1. Explanation_PWOnlyIAS:
 Source Question: Critically examine the aims and objectives of SCO. What Importance does it hold for India?
 
-| **Approach:** <br> **Introduction** <br>• Brief introduction about SCO. **Body** <br>• Explain the aim and goals of SCO and challenges and importance. **Conclusion** <br>• Conclude your answer with some challenges and developments of being a member of SCO. |
+| **Approach:** <br> **Introduction** <br>• Brief introduction about SCO. **Body** <br>• Explain the aim and goals of SCO and challenges and importance. <br> **Conclusion** <br>• Conclude your answer with some challenges and developments of being a member of SCO. |
 | --- |
 
 ### Introduction
@@ -34354,7 +34354,7 @@ All of the above limit the ability of SAARC to prosper as a regional organizatio
 1. Explanation_PWOnlyIAS:
 Source Question: “Increase cross- border terrorist attacks in India and growing interference in the internal affairs of member &#8211; states of SAARC ( South Asian Association for Regional Cooperation)” Explain with suitable examples.[200 Words, 12.5 Marks].
 
-| **Approach:** <br> **Introduction** <br>• Brief about South Asian Association for Regional Cooperation. **Body** <br>• Discuss challenge of cross border terrorism in South Asia and threats to regional peace and stability. **Conclusion** <br>• Conclude your answer with a futuristic approach. |
+| **Approach:** <br> **Introduction** <br>• Brief about South Asian Association for Regional Cooperation. <br> **Body** <br>• Discuss challenge of cross border terrorism in South Asia and threats to regional peace and stability. <br> **Conclusion** <br>• Conclude your answer with a futuristic approach. |
 | --- |
 
 ### Introduction
@@ -34425,7 +34425,7 @@ India further bolstered its Look East Policy with the announcement of the ‘Act
 1. Explanation_PWOnlyIAS:
 Source Question: Evaluate the economic and strategic dimension of India’s Look East Policy in the context of the post-cold war international scenario.[200 Words,12.5 Marks].
 
-| **Approach:** <br> **Introduction** <br>• Brief about India’s Look East Policy. **Body** <br>• Discuss India’s Look East Policy of the Post-Cold War International Scenario. **Conclusion** <br>• Conclude your answer with a futuristic approach. |
+| **Approach:** <br> **Introduction** <br>• Brief about India’s Look East Policy. <br> **Body** <br>• Discuss India’s Look East Policy of the Post-Cold War International Scenario. <br> **Conclusion** <br>• Conclude your answer with a futuristic approach. |
 | --- |
 
 ### Introduction
@@ -34812,7 +34812,7 @@ Thus, India has modified its climate change policy according to the developments
 1. Explanation_PWOnlyIAS:
 Source Question: Clean energy is the order of the day. Describe briefly India’s changing policy towards climate change in various international fora in the context of geopolitics.
 
-| **Approach:** <br> **Introduction** <br>• Brief about India’s evolving climate change policy. **Body** <br>• Discuss about key initiative and considerations for global leadership. **Conclusion** <br>• Conclude your answer with the significance role of India. |
+| **Approach:** <br> **Introduction** <br>• Brief about India’s evolving climate change policy. <br> **Body** <br>• Discuss about key initiative and considerations for global leadership. <br> **Conclusion** <br>• Conclude your answer with the significance role of India. |
 | --- |
 
 ### Introduction
@@ -34974,7 +34974,7 @@ India’s energy policy engagement with the West Asian region is also related to
 1. Explanation_PWOnlyIAS:
 Source Question: Indian Diaspora has an important role to play in South-East Asian countries&#8217; economy and society. Appraise the role of Indian Diaspora in South- East Asian in this context.
 
-| **Approach:** <br> **Introduction** <br>• Start your answer with impact in Southeast Asia by the Indian diaspora. **Body** <br>• Discuss significance role of Indian diaspora in South-East Asian countries. **Conclusion** <br>• Conclude your answer’s significance with a futuristic approach. |
+| **Approach:** <br> **Introduction** <br>• Start your answer with impact in Southeast Asia by the Indian diaspora. <br> **Body** <br>• Discuss significance role of Indian diaspora in South-East Asian countries. <br> **Conclusion** <br>• Conclude your answer’s significance with a futuristic approach. |
 | --- |
 
 ### Introduction
@@ -35431,7 +35431,7 @@ Overall, India would benefit immensely from a strengthened NATO and a stronger U
 1. Explanation_PWOnlyIAS:
 Source Question: The expansion and strengthening of NATO and a stronger US-Europe strategic partnership works well for India. What is your opinion about this statement? Give reasons and examples to support your answer.
 
-| **Approach:** <br> **Introduction** <br>• Write about strengthening of NATO and a stronger US-Europe strategic partnership briefly **Body** <br>• Write how it will benefit India · **Conclusion** <br>• Give appropriate conclusion in this regard |
+| **Approach:** <br> **Introduction** <br>• Write about strengthening of NATO and a stronger US-Europe strategic partnership briefly <br> **Body** <br>• Write how it will benefit India · **Conclusion** <br>• Give appropriate conclusion in this regard |
 | --- |
 
 ### Introduction
@@ -35638,7 +35638,7 @@ These inferences are pointing towards shift in India’s approach from the leade
 1. Explanation_PWOnlyIAS:
 Source Question: “The long-sustained image of India as a leader of the oppressed and marginalized Nations has disappeared on account of its new found role in the emerging global order” Elaborate
 
-| **Approach:** <br> **Introduction** <br>• Start your answer significant to India’s foreign policy. **Body** <br>• Discuss about the Leadership and idealistic credentials of India was sustained and can be seen. <br>• Shift in India’s Approach towards Strategic Foreign Policy Perspective. **Conclusion** <br>• Conclude your answer with a balanced approach. |
+| **Approach:** <br> **Introduction** <br>• Start your answer significant to India’s foreign policy. <br> **Body** <br>• Discuss about the Leadership and idealistic credentials of India was sustained and can be seen. <br>• Shift in India’s Approach towards Strategic Foreign Policy Perspective. <br> **Conclusion** <br>• Conclude your answer with a balanced approach. |
 | --- |
 
 ### Introduction
@@ -35789,7 +35789,7 @@ Therefore, Ashgabat Agreement acts as a India‘s doorway to Central Asia - ther
 1. Explanation_PWOnlyIAS:
 Source Question: “India’s relations with Israel have, of late, acquired a depth and diversity, which cannot be rolled back” Discuss
 
-| **Approach:** <br> **Introduction** <br>• Briefly introduce the status of Indo-Israel relations presently and in the past. **Body** <br>• Elaborate on traditional and new areas of cooperation. **Conclusion** <br>• Conclude your answer with a balanced approach. |
+| **Approach:** <br> **Introduction** <br>• Briefly introduce the status of Indo-Israel relations presently and in the past. <br> **Body** <br>• Elaborate on traditional and new areas of cooperation. <br> **Conclusion** <br>• Conclude your answer with a balanced approach. |
 | --- |
 
 ### Introduction
@@ -35928,7 +35928,7 @@ India has always maintained that the Iranian nuclear issue should be resolved pe
 1. Explanation_PWOnlyIAS:
 Source Question: In what ways would the ongoing US-Iran Nuclear Pact Controversy affect the national interest of India? How should India respond to its situation?
 
-| **Approach:** <br> **Introduction** <br>• Briefly introduction of US-Iran Nuclear Pact Controversy. **Body** <br>• Discuss about safeguard and interests of US-Iran Nuclear Pact and India Response. **Conclusion** <br>• Conclude your answer with a futuristic approach. |
+| **Approach:** <br> **Introduction** <br>• Briefly introduction of US-Iran Nuclear Pact Controversy. <br> **Body** <br>• Discuss about safeguard and interests of US-Iran Nuclear Pact and India Response. <br> **Conclusion** <br>• Conclude your answer with a futuristic approach. |
 | --- |
 
 ### Introduction
@@ -36035,7 +36035,7 @@ China’s rising economic influence in Asia will allow Beijing to spread its inf
 1. Explanation_PWOnlyIAS:
 Source Question: China is using its economic relation and positive trade surplus as tools to develop potential military power status in Asia; In the light of this statement, discuss its impact on India as her neighbour.
 
-| **Approach:** <br> **Introduction** <br>• Start your answer with China’s rapid rise as an economic and military superpower. **Body** <br>• Discuss about the impact of China’s rise on India **Conclusion** <br>• Conclude your answer with a futuristic approach. |
+| **Approach:** <br> **Introduction** <br>• Start your answer with China’s rapid rise as an economic and military superpower. <br> **Body** <br>• Discuss about the impact of China’s rise on India <br> **Conclusion** <br>• Conclude your answer with a futuristic approach. |
 | --- |
 
 ### Introduction
@@ -36103,7 +36103,7 @@ Q246. The proposed withdrawal of International Security Assistance Force (ISAF) 
 1. Explanation_PWOnlyIAS:
 Source Question: The proposed withdrawal of the International Security Assistance Force (ISAF) from Afghanistan in 2014 is fraught with major security implications for the counters of the region. Examine in light of the fact that India is faced with a plethora of challenges and needs to safeguard its own strategic interests.
 
-| **Approach:** <br> **Introduction** <br>• Brief about International Security Assistance Force. **Body** <br>• Discuss challenges and safeguarding India’s Strategic Interests of India to withdraw the International Security Assistance Force. **Conclusion** <br>• Conclude your answer with futuristic approach. |
+| **Approach:** <br> **Introduction** <br>• Brief about International Security Assistance Force. <br> **Body** <br>• Discuss challenges and safeguarding India’s Strategic Interests of India to withdraw the International Security Assistance Force. <br> **Conclusion** <br>• Conclude your answer with futuristic approach. |
 | --- |
 
 ### Introduction
@@ -36187,7 +36187,7 @@ Q247. What do you understand by ‘The String of Pearls’? How does it impact I
 1. Explanation_PWOnlyIAS:
 Source Question: What do you understand by ‘The String of Pearls’? How does it impact India? Briefly outline the steps taken by India to counter this.
 
-| **Approach:** <br> **Introduction** <br>• Start your answer with String of Pearls. **Body** <br>• Discuss the impact of String of Pearls on India’s Security and Countermeasures. **Conclusion** <br>• Conclude your answer with a futuristic approach. |
+| **Approach:** <br> **Introduction** <br>• Start your answer with String of Pearls. <br> **Body** <br>• Discuss the impact of String of Pearls on India’s Security and Countermeasures. <br> **Conclusion** <br>• Conclude your answer with a futuristic approach. |
 | --- |
 
 ### Introduction
@@ -36359,7 +36359,7 @@ Given the high degree of interdependence and the prevalence of globalisation, th
 1. Explanation_PWOnlyIAS:
 Source Question: “The USA is facing an existential threat in the form of China, that is much more challenging than the erstwhile Soviet Union.” Explain.
 
-| **Approach:** <br> **Introduction** <br>• Brief explaining the US, China and Russia relations since the Cold War. **Body** <br>• Discuss the US-Soviet during cold war-Explain why Soviet union did not pose existential threat to US. **Conclusion** <br>• Conclude your answer with a balanced approach. |
+| **Approach:** <br> **Introduction** <br>• Brief explaining the US, China and Russia relations since the Cold War. <br> **Body** <br>• Discuss the US-Soviet during cold war-Explain why Soviet union did not pose existential threat to US. <br> **Conclusion** <br>• Conclude your answer with a balanced approach. |
 | --- |
 
 ### Introduction
@@ -36556,7 +36556,7 @@ India enjoys a great advantage due to its extensive spread of a diaspora of 32 m
 1. Explanation_PWOnlyIAS:
 Source Question: The Indian diaspora has scaled new heights in the West. Describe its economic and political benefits for India.
 
-| **Approach:** <br> **Introduction** <br>• Write about Indian diaspora in the West briefly **Body** <br>• Write how the Indian diaspora has scaled new heights in the West <br>• Write its economic benefits for India <br>• Write its political benefits for India. **Conclusion** <br>• Give appropriate conclusion in this regard |
+| **Approach:** <br> **Introduction** <br>• Write about Indian diaspora in the West briefly <br> **Body** <br>• Write how the Indian diaspora has scaled new heights in the West <br>• Write its economic benefits for India <br>• Write its political benefits for India. <br> **Conclusion** <br>• Give appropriate conclusion in this regard |
 | --- |
 
 ### Introduction
@@ -36750,7 +36750,7 @@ The Indian diaspora has gained new visibility as their political and financial c
 1. Explanation_PWOnlyIAS:
 Source Question: ‘Indian diaspora has a decisive role to play in the politics and economy of America and European Countries’. Comment with examples.
 
-| **Approach:** <br> **Introduction** <br>• Start your answer by briefly discussing the significance of the Indian diaspora. **Body** <br>• Discuss in what ways the Indian diaspora affects the politics and economy of America and European Countries. **Conclusion** <br>• Conclude your answer with a balanced approach. |
+| **Approach:** <br> **Introduction** <br>• Start your answer by briefly discussing the significance of the Indian diaspora. <br> **Body** <br>• Discuss in what ways the Indian diaspora affects the politics and economy of America and European Countries. <br> **Conclusion** <br>• Conclude your answer with a balanced approach. |
 | --- |
 
 ### Introduction
@@ -36849,7 +36849,7 @@ Thus, the Indian Diaspora has been making significant contributions to the econo
 1. Explanation_PWOnlyIAS:
 Source Question: Indian Diaspora has an important role to play in South-East Asian countries&#8217; economy and society. Appraise the role of Indian Diaspora in South- East Asian in this context.
 
-| **Approach:** <br> **Introduction** <br>• Start your answer with impact in Southeast Asia by the Indian diaspora. **Body** <br>• Discuss significance role of Indian diaspora in South-East Asian countries. **Conclusion** <br>• Conclude your answer’s significance with a futuristic approach. |
+| **Approach:** <br> **Introduction** <br>• Start your answer with impact in Southeast Asia by the Indian diaspora. <br> **Body** <br>• Discuss significance role of Indian diaspora in South-East Asian countries. <br> **Conclusion** <br>• Conclude your answer’s significance with a futuristic approach. |
 | --- |
 
 ### Introduction
@@ -36919,7 +36919,7 @@ Q252. Some of the International funding agencies have special terms for economic
 1. Explanation_PWOnlyIAS:
 Source Question: Some of the international funding agencies have special terms for economic participation stipulating a substantial component of the aid used for sourcing equipment from leading countries. Discuss the merits of such terms and there exists a strong case not to accept such conditions in the Indian context. [200 Words, 12.5 Marks]
 
-| **Approach:** <br> **Introduction** <br>• Start your answer with the importance of International Funding Agencies. **Body** <br>• Discuss debate on Conditions for International Funding. **Conclusion** <br>• Conclude your answer with a futuristic approach. |
+| **Approach:** <br> **Introduction** <br>• Start your answer with the importance of International Funding Agencies. <br> **Body** <br>• Discuss debate on Conditions for International Funding. <br> **Conclusion** <br>• Conclude your answer with a futuristic approach. |
 | --- |
 
 ### Introduction
@@ -37000,7 +37000,7 @@ Q253. Some of the International funding agencies have special terms for economic
 1. Explanation_PWOnlyIAS:
 Source Question: Some of the international funding agencies have special terms for economic participation stipulating a substantial component of the aid used for sourcing equipment from leading countries. Discuss the merits of such terms and there exists a strong case not to accept such conditions in the Indian context. [200 Words, 12.5 Marks]
 
-| **Approach:** <br> **Introduction** <br>• Start your answer with the importance of International Funding Agencies. **Body** <br>• Discuss debate on Conditions for International Funding. **Conclusion** <br>• Conclude your answer with a futuristic approach. |
+| **Approach:** <br> **Introduction** <br>• Start your answer with the importance of International Funding Agencies. <br> **Body** <br>• Discuss debate on Conditions for International Funding. <br> **Conclusion** <br>• Conclude your answer with a futuristic approach. |
 | --- |
 
 ### Introduction
@@ -37081,7 +37081,7 @@ Q254. India has recently signed to become founding a New Development Bank (NDB) 
 1. Explanation_PWOnlyIAS:
 Source Question: India has recently signed to become a founding member of New Development Bank (NDB) and also the Asian Infrastructure Investment Bank (AIIB). How will the role of the two banks be different? Discuss the Strategic significance of these two Banks for India. [200 words, 12.5 Marks]
 
-| **Approach:** <br> **Introduction** <br>• Start your answer with India’s membership in NDB and AIIB. **Body** <br>• Discuss the understanding of the differences in their roles and the strategic significance for India. **Conclusion** <br>• Conclude your answer with a significant approach. |
+| **Approach:** <br> **Introduction** <br>• Start your answer with India’s membership in NDB and AIIB. <br> **Body** <br>• Discuss the understanding of the differences in their roles and the strategic significance for India. <br> **Conclusion** <br>• Conclude your answer with a significant approach. |
 | --- |
 
 ### Introduction
@@ -37167,7 +37167,7 @@ Q255. The World Bank and the IMF, collectively known as the Bretton Woods Instit
 1. Explanation_PWOnlyIAS:
 Source Question: The World Bank and the IMF, Collectively known as the Bretton wood Institutions are the two intergovernmental pillars supporting the structure of the world’s economic and financial order. Superficially, the world bank and the IMF exhibit many common characteristics, yet these roles, functions and mandates are distinctly different. Elucidate.
 
-| **Approach:** <br> **Introduction** <br>• Start your Answer with comparison between World Bank and IMF. **Body** <br>• Discuss about the difference between the World Bank and IMF. **Conclusion** <br>• Conclude your Answer with a futuristic Approach. |
+| **Approach:** <br> **Introduction** <br>• Start your Answer with comparison between World Bank and IMF. <br> **Body** <br>• Discuss about the difference between the World Bank and IMF. <br> **Conclusion** <br>• Conclude your Answer with a futuristic Approach. |
 | --- |
 
 ### Introduction
@@ -37812,7 +37812,7 @@ The International Maritime Organisation (IMO) plays a major role in protecting e
 1. Explanation_PWOnlyIAS:
 Source Question: &#8216;Sea is an important Component of the Cosmos&#8221;. Discuss in the light of the above statement the role of the IMO (International Maritime Organisation) in protecting the environment and enhancing maritime safety and security.
 
-| **Approach:** <br> **Introduction** <br>• Write pivotal role of sea and introduce about IMO briefly **Body** <br>• Write about the role of the IMO in protecting the environment <br>• Write about the role of the IMO in enhancing maritime safety and security **Conclusion** <br>• Give appropriate conclusion in this regard |
+| **Approach:** <br> **Introduction** <br>• Write pivotal role of sea and introduce about IMO briefly <br> **Body** <br>• Write about the role of the IMO in protecting the environment <br>• Write about the role of the IMO in enhancing maritime safety and security <br> **Conclusion** <br>• Give appropriate conclusion in this regard |
 | --- |
 
 ### Introduction
@@ -37985,7 +37985,7 @@ Today’s global institutions are extremely dependent on their contributors for 
 1. Explanation_PWOnlyIAS:
 Source Question: Critically Examine the role of WHO in providing global health security during the covid-19 pandemic. [150 wards, 10 Marks].
 
-| **Approach:** <br> **Introduction** <br>• Start your answer significance role of WHO during COVID-19. **Body** <br>• Discuss the Role of the WHO in providing global health security during the COVID-19 pandemic. <br>• Challenges/Drawbacks in the Role of WHO during the COVID-19 Pandemic **Conclusion** <br>• Conclude your answer with a balanced approach. |
+| **Approach:** <br> **Introduction** <br>• Start your answer significance role of WHO during COVID-19. <br> **Body** <br>• Discuss the Role of the WHO in providing global health security during the COVID-19 pandemic. <br>• Challenges/Drawbacks in the Role of WHO during the COVID-19 Pandemic <br> **Conclusion** <br>• Conclude your answer with a balanced approach. |
 | --- |
 
 ### Introduction
@@ -38111,7 +38111,7 @@ The fact is that UNESCO was all about solidarity and creating a climate for peac
 1. Explanation_PWOnlyIAS:
 Source Question: “The Attorney-General is the chief legal adviser and lawyer of the Government of India.” Discuss.
 
-| **Approach:** <br> **Introduction** <br>• Briefly introduce the Attorney-General of India as a constitutional position under Article 76 and their role as the chief legal adviser and lawyer for the Government of India. **Body:** <br>• Discuss the appointment and qualifications of the Attorney-General. <br>• Outline the primary functions and responsibilities of the Attorney-General, emphasizing their role in providing legal advice, representing the government in courts, and drafting legal documents. <br>• Mention the additional roles, such as attending Parliament sessions and providing references to the Supreme Court. <br>• Explain the limitations and restrictions on the Attorney-General’s role, including independence, lack of executive powers, and professional limitations. **Conclusion** <br>• Conclude, emphasizing their importance in the country’s legal framework and ensuring the lawful functioning of the government. |
+| **Approach:** <br> **Introduction** <br>• Briefly introduce the Attorney-General of India as a constitutional position under Article 76 and their role as the chief legal adviser and lawyer for the Government of India. <br> **Body:** <br>• Discuss the appointment and qualifications of the Attorney-General. <br>• Outline the primary functions and responsibilities of the Attorney-General, emphasizing their role in providing legal advice, representing the government in courts, and drafting legal documents. <br>• Mention the additional roles, such as attending Parliament sessions and providing references to the Supreme Court. <br>• Explain the limitations and restrictions on the Attorney-General’s role, including independence, lack of executive powers, and professional limitations. <br> **Conclusion** <br>• Conclude, emphasizing their importance in the country’s legal framework and ensuring the lawful functioning of the government. |
 | --- |
 
 ### Introduction
@@ -38199,7 +38199,7 @@ It is the central platform for fostering debate and innovative thinking, forging
 1. Explanation_PWOnlyIAS:
 Source Question: What are the main functions of the United Nations Economic and Social Council (ECOSOC)? Explain different functional commissions attached to it.
 
-| **Approach:** <br> **Introduction** <br>• Start your answer with ECOSOC. **Body** <br>• Discuss function and functional Commissions Attached to ECOSOC. **Conclusion** <br>• Conclude your answer with advancing global cooperation for sustainable development and social equality. |
+| **Approach:** <br> **Introduction** <br>• Start your answer with ECOSOC. **Body** <br>• Discuss function and functional Commissions Attached to ECOSOC. <br> **Conclusion** <br>• Conclude your answer with advancing global cooperation for sustainable development and social equality. |
 | --- |
 
 ### Introduction
@@ -38286,7 +38286,7 @@ Send To My Bookmarks
 1. Explanation_PWOnlyIAS:
 Source Question: What are the aims and objectives of the McBride Commission of UNESCO? What is India’s position on these? [200 Words, 12.5 Marks].
 
-| **Approach:** <br> **Introduction** <br>• Brief about The McBride Commission of UNESCO. **Body** <br>• Discuss Aim and Objectives and India position of the McBride Commission of the UNESCO. **Conclusion** <br>• Conclude your answer with a futuristic approach. |
+| **Approach:** <br> **Introduction** <br>• Brief about The McBride Commission of UNESCO. <br> **Body** <br>• Discuss Aim and Objectives and India position of the McBride Commission of the UNESCO. <br> **Conclusion** <br>• Conclude your answer with a futuristic approach. |
 | --- |
 
 ### Introduction
@@ -38362,7 +38362,7 @@ Q263. Discuss the impediments India is facing in its pursuit of a permanent seat
 1. Explanation_PWOnlyIAS:
 Source Question: Discuss the impediments India is facing in its pursuit of a permanent seat in UNSC. [200 Words, 12.5 Marks]
 
-| **Approach:** <br> **Introduction** <br>• Start your answer with Importance UNSC. **Body** <br>• Discuss the challenges to India’s UNSC permanent seat bid. **Conclusion** <br>• Conclude your answer with a futuristic approach. |
+| **Approach:** <br> **Introduction** <br>• Start your answer with Importance UNSC. <br> **Body** <br>• Discuss the challenges to India’s UNSC permanent seat bid. <br> **Conclusion** <br>• Conclude your answer with a futuristic approach. |
 | --- |
 
 ### Introduction
@@ -38497,7 +38497,7 @@ India is one of the prominent members of WTO and is largely seen as leader of de
 1. Explanation_PWOnlyIAS:
 Source Question: What are the Key areas of reform if the WTO has to survive in the present context of “Trade War” especially keeping in mind the interest of India?.
 
-| **Approach:** <br> **Introduction** <br>• Brief about problems in WTO structure. **Body** <br>• Current problems and reasons behind trade wars. **Conclusion** <br>• Conclude your answer with Reforms for sustainability of WTO. |
+| **Approach:** <br> **Introduction** <br>• Brief about problems in WTO structure. <br> **Body** <br>• Current problems and reasons behind trade wars. <br> **Conclusion** <br>• Conclude your answer with Reforms for sustainability of WTO. |
 | --- |
 
 ### Introduction
@@ -38565,7 +38565,7 @@ Key Areas of WTO Reform Framework
 
 | **Reform Area** | **Current Status** | **India's Position** | **Implementation Timeline** |
 | --- | --- | --- | --- |
-| Appellate Body | Non-functional since 2019 | Support restoration | By WTO MC13 (2024) |
+| Appellate <br> Body | Non-functional since 2019 | Support restoration | By WTO MC13 (2024) |
 | Agricultural PSH | Temporary solution only | Permanent solution needed | Immediate priority |
 | Digital Trade Rules | Under negotiation | Preserve policy space | Resist until consensus |
 
@@ -38604,7 +38604,7 @@ India can only be successful in this endeavour of putting an end to attempts to 
 1. Explanation_PWOnlyIAS:
 Source Question: “The broader aims and objectives of the WTO are to manage and promote international trade in the era of globalization. But the Doha round of negotiations seem doomed due to differences between the developed and the developing countries”. Discuss in the Indian perspective.[200 Words, 12.5 Marks]
 
-| **Approach:** <br> **Introduction** <br>• Brief about The World Trade Organization (WTO). **Body** <br>• Discuss equitable focus on developing countries and impact on India’s trade policy in Doha Round. **Conclusion** <br>• Conclude your answer with a futuristic approach. |
+| **Approach:** <br> **Introduction** <br>• Brief about The World Trade Organization (WTO). <br> **Body** <br>• Discuss equitable focus on developing countries and impact on India’s trade policy in Doha Round. <br> **Conclusion** <br>• Conclude your answer with a futuristic approach. |
 | --- |
 
 ### Introduction
@@ -38696,7 +38696,7 @@ Q266. The aim of Information Technology Agreements (ITAs) is to lower all taxes 
 1. Explanation_PWOnlyIAS:
 Source Question: The aim of information Technology Agreements (ITAs) is to lower all taxes and tariffs on Information technology products by signatories to zero. What impact would such agreements have on India’s interests? [200 Words,12.5 Marks]
 
-| **Approach:** <br> **Introduction** <br>• Start your answer with the impact of ITA on Global Trade. **Body** <br>• Discuss the Impact of Information Technology Agreement (ITA) on Global Trade and Concerns for India’s Interests. **Conclusion** <br>• Conclude your answer with a futuristic approach. |
+| **Approach:** <br> **Introduction** <br>• Start your answer with the impact of ITA on Global Trade. <br> **Body** <br>• Discuss the Impact of Information Technology Agreement (ITA) on Global Trade and Concerns for India’s Interests. <br> **Conclusion** <br>• Conclude your answer with a futuristic approach. |
 | --- |
 
 ### Introduction
@@ -38759,7 +38759,7 @@ Q267. WTO is an important international institution where decisions taken affect
 1. Explanation_PWOnlyIAS:
 Source Question: WTO is an important international institution where decisions taken affect countries in a profound manner. What is the mandate of the WTO and how binding are their decisions ? Critically analyze India’s stand on the latest round of talks on food security. [200 Words, 12.5 Marks]
 
-| **Approach:** <br> **Introduction** <br>• Brief about World Trade Organization (WTO). **Body** <br>• Discuss role implications of WTO Decisions. <br>• Benefits of WTO Participation. <br>• Challenges Faced by the WTO. <br>• India’s Perspective on Food Security. **Conclusion** <br>• Conclude your answer with WTO’s role in global trade regulation and India’s food security concerns. |
+| **Approach:** <br> **Introduction** <br>• Brief about World Trade Organization (WTO). <br> **Body** <br>• Discuss role implications of WTO Decisions. <br>• Benefits of WTO Participation. <br>• Challenges Faced by the WTO. <br>• India’s Perspective on Food Security. <br> **Conclusion** <br>• Conclude your answer with WTO’s role in global trade regulation and India’s food security concerns. |
 | --- |
 
 ### Introduction
@@ -38803,7 +38803,7 @@ WTO Agricultural Subsidy Boxes Comparative Chart
 | **Legal Status** | Decisions are internationally binding under **Vienna Convention on Law of Treaties** |
 | **Enforcement** | Non-compliance leads to authorized trade retaliation and economic sanctions |
 | **Domestic Implementation** | Members must align national laws with WTO rulings within specified timeframes |
-| **Appellate Process** | **Appellate Body crisis since 2019** has created enforcement gaps and legal uncertainties |
+| **Appellate Process** | **Appellate <br> Body crisis since 2019** has created enforcement gaps and legal uncertainties |
 
 ## India's Position on Food Security Negotiations
 

@@ -264,7 +264,7 @@ Smooth functioning of any system depends on the synergy between ethics (to defin
 | Immediate. Occurs in millisecond | Slow. Requires time for reflection. |
 | driven by "gut feelings." | Primarily cognitive |
 | The process is hidden | logic can be explained to others. |
-| Moves from "feeling" to "judgment." | Moves from "evidence" to "conclusion." |
+| Moves from "feeling" to "judgment." | Moves from "evidence" to " <br> conclusion." |
 | Based on emotions, empathy, social<br>conditioning. Eg- prejudice towards<br>Posititutes | Based on logic, ethical principles, critical thinking.<br>Eg- restricting movement of prostitutes due to Health<br>concerns |
 | --- | --- |
 | Largely unconscious | Conscious and intentional |

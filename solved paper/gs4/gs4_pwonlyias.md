@@ -1072,7 +1072,7 @@ The deterioration of core values within society creates an ideal environment for
 
 ### Answer
 
-| **Approach** **Introduction** <br>• Introduce briefly about Moral intuition & Moral reasoning **Body** <br>• Enumerate difference between ‘Moral Intuition’ and ‘Moral Reasoning’. **Conclusion** <br>• Give appropriate conclusion in this regard |
+| **Approach** **Introduction** <br>• Introduce briefly about Moral intuition & Moral reasoning <br> **Body** <br>• Enumerate difference between ‘Moral Intuition’ and ‘Moral Reasoning’. <br> **Conclusion** <br>• Give appropriate conclusion in this regard |
 | --- |
 
 ### Introduction
@@ -1084,7 +1084,7 @@ Moral intuition and moral reasoning are pivotal cognitive processes in shaping o
 | **Aspects** | **Moral Intuition** | **Moral Reasoning** |
 | --- | --- | --- |
 | **Definition** | Immediate and automatic judgement about the right or wrong of a situation, often driven by emotions and instinctive reactions. | The deliberate process of determining right or wrong through logical analysis, involving critical thinking and evaluation of ethical principles. |
-| **Characteristic** | Often instantaneous, arising from gut feelings without conscious reasoning. | Involves conscious thought, where one applies moral principles and ethical theories to reach a conclusion. |
+| **Characteristic** | Often instantaneous, arising from gut feelings without conscious reasoning. | Involves conscious thought, where one applies moral principles and ethical theories to reach a <br> conclusion. |
 | **Importance in Moral Judgements** | Plays a foundational role, forming the immediate judgement that can later be analyzed through reasoning. | Comes into play when one seeks to justify a moral judgement or when engaging in moral discussions and debates. |
 | **Psychological Basis** | Grounded in innate tendencies and shaped by evolutionary processes, cultural norms, and personal experiences. | Relies on cognitive processes and often involves employing moral philosophies such as utilitarianism or deontology. |
 | **Objectivity** | Can be biased and subject to personal prejudices and might not always lead to morally correct judgments. | Can sometimes be influenced by an individual’s moral intuition, and therefore not entirely objective. |
@@ -1185,7 +1185,7 @@ Social capital serves as a vital foundation for effective governance structures.
 
 ### Answer
 
-| **Approach** **Introduction** <br>• Write briefly about coercion and undue influence in context of work environment. **Body** <br>• Mention differences between ‘Coercion’ and ‘Undue Influence’ within a Work Environment **Conclusion** <br>• Give appropriate conclusion in this regard |
+| **Approach** **Introduction** <br>• Write briefly about coercion and undue influence in context of work environment. <br> **Body** <br>• Mention differences between ‘Coercion’ and ‘Undue Influence’ within a Work Environment <br> **Conclusion** <br>• Give appropriate conclusion in this regard |
 | --- |
 
 ### Introduction
