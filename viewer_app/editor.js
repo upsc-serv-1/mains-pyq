@@ -25,7 +25,28 @@ document.addEventListener("DOMContentLoaded", () => {
   initDropdowns();
   bindSelectors();
   initLayoutToggle();
+  initGlobalSaveShortcut();
 });
+
+function initGlobalSaveShortcut() {
+  document.addEventListener("keydown", (e) => {
+    if ((e.ctrlKey || e.metaKey) && e.key.toLowerCase() === "s") {
+      e.preventDefault();
+      // Find the active editing card in the layout
+      const activeCard = document.querySelector(".q-card.individual-edit-mode");
+      if (activeCard) {
+        const qNumMatch = activeCard.id.match(/editor-card-(\d+)/);
+        if (qNumMatch) {
+          const qNum = parseInt(qNumMatch[1]);
+          const saveBtn = document.getElementById(`save-btn-${qNum}`);
+          if (saveBtn && !saveBtn.disabled) {
+            saveAnswer(qNum);
+          }
+        }
+      }
+    }
+  });
+}
 
 window.toggleLayoutMode = function() {
   const grid = document.getElementById("editor-grid");
@@ -771,6 +792,15 @@ window.saveAnswer = async function(qNum) {
       
       updatePreview(qNum);
       autoResize(qNum);
+      
+      // If in two-column mode, automatically exit individual edit mode on successful save
+      const qCard = document.getElementById(`editor-card-${qNum}`);
+      const editCardBtn = document.getElementById(`edit-card-btn-${qNum}`);
+      const grid = document.getElementById("editor-grid");
+      if (qCard && grid && grid.classList.contains("two-column-mode")) {
+        qCard.classList.remove("individual-edit-mode");
+        if (editCardBtn) editCardBtn.innerHTML = "✏️ Edit";
+      }
       
       // Reset save button and status class back to clean after 3 seconds
       setTimeout(() => {
