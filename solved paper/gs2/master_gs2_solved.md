@@ -330,10 +330,10 @@ Thus, while the **Constitution** grants **Parliament** **wide powers** to **amen
 1. Explanation_PWOnlyIAS:
 Source Question: Indian Constitution has conferred the amending power on the ordinary legislative institutions with a few procedural hurdles. In view of this statement, examine the procedural and substantive limitations on the amending power of the Parliament to change the Constitution.
 
-**Core Demand of the Question:**
-- Discuss the amending power conferred by the Constitution on Legislative Institution.
-- Procedural limitations on the amending power of the Parliament.
-- Substantive limitations on the amending power of the Parliament.
+> **Core Demand of the Question:**
+> - Discuss the amending power conferred by the Constitution on Legislative Institution.
+> - Procedural limitations on the amending power of the Parliament.
+> - Substantive limitations on the amending power of the Parliament.
 
 ### Introduction
 
@@ -1266,9 +1266,9 @@ The Supreme Court in *Government of NCT of Delhi vs. Union of India (2018)* emph
 1. Explanation_PWOnlyIAS:
 Source Question: “Constitutional morality is the fulcrum which acts as an essential check upon the high functionaries and citizens alike…” In view of the above observation of the Supreme Court, explain the concept of constitutional morality and its application to ensure balance between judicial independence and judicial accountability in India.
 
-**Core Demand of the Question:**
-- Explain the concept of Constitutional Morality.
-- Application of Constitutional Morality in ensuring balance between judicial independence and judicial accountability in India.
+> **Core Demand of the Question:**
+> - Explain the concept of Constitutional Morality.
+> - Application of Constitutional Morality in ensuring balance between judicial independence and judicial accountability in India.
 
 ### Introduction
 
@@ -2572,11 +2572,11 @@ The **presidential pardon powers** in India and the USA serve similar purposes i
 1. Explanation_PWOnlyIAS:
 Source Question: Compare and contrast the President’s power to pardon in India and in the USA. Are there any limits to it in both countries? What are ‘preemptive pardons’?
 
-**Core demand of the Question:**
-- Key Similarities
-- Key difference
-- Limits to it in both countries
-- What are “Preemptive pardons”
+> **Core Demand of the Question:**
+> - Key Similarities
+> - Key difference
+> - Limits to it in both countries
+> - What are “Preemptive pardons”
 
 ### Introduction
 
@@ -2808,10 +2808,10 @@ As **Granville Austin** noted, the Indian Constitution is a “ **seamless web o
 1. Explanation_PWOnlyIAS:
 Source Question: Discuss the evolution of the collegium system in India. Critically examine the advantages and disadvantages of the system in the appointment of the Judges of the Supreme Court of India and that of the USA.
 
-**Core Demand of the Question:**
-- Evolution of the Collegium system in India.
-- Advantage and disadvantage of the system in the appointment of the Judges of the Supreme Court of India.
-- Advantage and disadvantage of the system in the appointment of the Judges of the Supreme Court of USA.
+> **Core Demand of the Question:**
+> - Evolution of the Collegium system in India.
+> - Advantage and disadvantage of the system in the appointment of the Judges of the Supreme Court of India.
+> - Advantage and disadvantage of the system in the appointment of the Judges of the Supreme Court of USA.
 
 ### Introduction
 
@@ -2991,10 +2991,10 @@ Both India and the US encounter challenges in managing the interplay between rel
 1. Explanation_PWOnlyIAS:
 Source Question: Discuss India as a secular state and compare it with the secular principles of the US constitution.
 
-**Core Demand of the Question:**
-- Discuss India as a secular state
-- Discuss similarities between Indian secularism and the secular principles of the US constitution
-- Discuss differences between Indian secularism and the secular principles of the US constitution
+> **Core Demand of the Question:**
+> - Discuss India as a secular state
+> - Discuss similarities between Indian secularism and the secular principles of the US constitution
+> - Discuss differences between Indian secularism and the secular principles of the US constitution
 
 **Secularism** is fundamental to modern democratic governance, guaranteeing the **separation of religion from the state**. This principle promotes equal treatment of all religions, safeguards individual rights, and nurtures social harmony. In India, secularism is constitutionally enshrined, ensuring that no religion is favoured by the state, as seen in the **42nd Amendment (1976),** which officially added the term **‘secular.’**
 
@@ -4682,10 +4682,10 @@ Balanced fiscal federalism is vital for **equity, efficiency, and autonomy**. Re
 1. Explanation_PWOnlyIAS:
 Source Question: Examine the evolving pattern of Centre-State financial relations in the context of planned development in India. How far have the recent reforms impacted the fiscal federalism in India?
 
-**Core Demand of the Question:**
-- Evolving Pattern of Centre-State Financial Relations.
-- Discuss the Challenge in Evolving Pattern.
-- Impact of Recent Reforms on Fiscal Federalism in India (Positive and Negative)
+> **Core Demand of the Question:**
+> - Evolving Pattern of Centre-State Financial Relations.
+> - Discuss the Challenge in Evolving Pattern.
+> - Impact of Recent Reforms on Fiscal Federalism in India (Positive and Negative)
 
 ### Introduction
 
@@ -4934,9 +4934,9 @@ Strengthening federalism needs better dialogue through the Inter-State Council, 
 1. Explanation_PWOnlyIAS:
 Source Question: What changes has the Union Government recently introduced in the domain of Centre-State relations? Suggest measures to be adopted to build the trust between the Centre and the States and for strengthening federalism.
 
-**Core Demand of the Question:**
-- Discuss recent changes introduced by the Union Government in the domain of Centre-State relations
-- Discuss measures to build the trust between the Centre and the States and for strengthening federalism
+> **Core Demand of the Question:**
+> - Discuss recent changes introduced by the Union Government in the domain of Centre-State relations
+> - Discuss measures to build the trust between the Centre and the States and for strengthening federalism
 
 **Answer** The **Centre-State relations** in India have undergone significant changes, in recent years, especially with the rise of debates around **cooperative federalism** and **fiscal devolution**. The **15th Finance Commission’s** recommendations on state allocations and the growing tension over issues like **GST compensation and farm laws** have brought attention to the need for reforms in this dynamic relationship.
 
@@ -6156,10 +6156,10 @@ The powers of the Jammu and Kashmir Legislative Assembly post-2019 are significa
 1. Explanation_PWOnlyIAS:
 Source Question: Discuss the nature of Jammu and Kashmir Legislative Assembly after the Jammu and Kashmir Reorganization Act, 2019. Briefly describe the powers and functions of the Assembly of the Union Territory of Jammu and Kashmir.
 
-**Core demand of the Question:**
-- Nature of the J&K Legislative Assembly after 2019
-- Powers of the J&K UT Assembly
-- Functions of the J&K UT Assembly
+> **Core Demand of the Question:**
+> - Nature of the J&K Legislative Assembly after 2019
+> - Powers of the J&K UT Assembly
+> - Functions of the J&K UT Assembly
 
 ### Introduction
 
@@ -6434,12 +6434,11 @@ While merging local bodies can improve efficiency, it risks diminishing local id
 1. Explanation_PWOnlyIAS:
 Source Question: Analyse the role of local bodies in providing good governance at local level and bring out the pros and cons of merging the rural local bodies with the urban local bodies.
 
-**Core Demand of the Question:**
-- Analyse role of local bodies in providing good governance at local level
-- Discuss the pros of merging the rural local bodies with the urban local bodies
-- Discuss the cons of merging the rural local bodies with the urban local bodies
-
-* ***Local bodies form the backbone of:** decentralised governance **in India, empowered by the** 73rd **and** 74th Constitutional Amendments **, which introduced** Articles 243 **to** 243Z **. These amendments have transformed local bodies into key drivers of development and governance. Recently, in 2022, the Supreme Court emphasised the importance of strengthening local bodies by mandating timely elections in states like Maharashtra.**
+> **Core Demand of the Question:**
+> - Analyse role of local bodies in providing good governance at local level
+> - Discuss the pros of merging the rural local bodies with the urban local bodies
+> - Discuss the cons of merging the rural local bodies with the urban local bodies
+> * ***Local bodies form the backbone of:** decentralised governance **in India, empowered by the** 73rd **and** 74th Constitutional Amendments **, which introduced** Articles 243 **to** 243Z **. These amendments have transformed local bodies into key drivers of development and governance. Recently, in 2022, the Supreme Court emphasised the importance of strengthening local bodies by mandating timely elections in states like Maharashtra.**
 
 **Role of Local Bodies in Providing Good Governance at the Local Level**
 - **Decentralised Decision-Making:** Local bodies enable **autonomous decision-making** that caters to the unique needs of their communities, in line with **Article 243G** of the Constitution, which empowers Panchayats to plan and implement economic development. **For example: Gram Panchayats** in Maharashtra managed **Jalyukt Shivar Abhiyan**, a water conservation initiative, improving water availability in drought-prone areas.
@@ -7841,9 +7840,9 @@ While the cabinet system has changed power dynamics, parliamentary supremacy is 
 1. Explanation_PWOnlyIAS:
 Source Question: &#8220;The growth of the cabinet system has practically resulted in the marginalisation of parliamentary supremacy&#8221; Elucidate.
 
-**Core Demand of the Question:**
-- Discuss how growth of the cabinet system has practically resulted in the marginalisation of parliamentary supremacy
-- Discuss how role of the Parliament remains significant
+> **Core Demand of the Question:**
+> - Discuss how growth of the cabinet system has practically resulted in the marginalisation of parliamentary supremacy
+> - Discuss how role of the Parliament remains significant
 
 **Answer:** The growth of the **cabinet system** in India has significantly shifted power from Parliament to the temporary executive, often raising concerns about the **erosion of parliamentary supremacy**. Recent instances, such as the passing of key bills without extensive debate, reflect the growing dominance of the executive. For example, the **2020 Farm Laws** were passed without thorough parliamentary scrutiny, raising questions about the weakening of Parliament’s role.
 
@@ -11623,10 +11622,10 @@ The Attorney General of India holds a pivotal role in ensuring the legal integri
 1. Explanation_PWOnlyIAS:
 Source Question: “The Attorney General of India plays a crucial role in guiding the legal framework of the Union Government and ensuring sound governance through legal counsel.” Discuss his responsibilities, rights, and limitations in this regard.
 
-**Core demand of the question:**
-- Responsibilities of Attorney General of India
-- Rights of Attorney General of India
-- Limitations of Attorney General of India
+> **Core Demand of the Question:**
+> - Responsibilities of Attorney General of India
+> - Rights of Attorney General of India
+> - Limitations of Attorney General of India
 
 ### Introduction
 
@@ -12625,10 +12624,10 @@ Though PILs have expanded the ambit of judicial review and have contributed in m
 1. Explanation_PWOnlyIAS:
 Source Question: Explain the reasons for the growth of public interest litigation in India. As a result of it, has the Indian Supreme Court emerged as the world&#8217;s most powerful judiciary?
 
-**Core Demand of the Question:**
-- Explain reasons for the growth of public interest litigation in India
-- Discuss the emergence of Supreme Court of India as the world’s most powerful judiciary as a result of PILs
-- Suggest suitable way ahead
+> **Core Demand of the Question:**
+> - Explain reasons for the growth of public interest litigation in India
+> - Discuss the emergence of Supreme Court of India as the world’s most powerful judiciary as a result of PILs
+> - Suggest suitable way ahead
 
 **Answer** Public Interest Litigation ( **PIL** ) has fundamentally reshaped the judicial system in India by empowering courts to champion the **rights of marginalised communities**. Rooted in **Articles 32** and **226** of the Indian Constitution, PIL enables individuals or groups to file petitions in the High Courts and Supreme Court on behalf of those whose rights are under threat, expanding judicial reach.
 
@@ -12756,7 +12755,7 @@ Improving the representation of women in the judiciary is of crucial importance 
 1. Explanation_PWOnlyIAS:
 Source Question: Discuss the desirability of greater representation to women in the higher judiciary to ensure diversity, equity and inclusiveness.
 
-| **Approach:** <br> **Introduction** <br>• Introduce the importance of women’s representation in higher judiciary for diversity, equity, and inclusiveness. **Body:** <br>• Discuss the benefits of greater representation of women in higher judiciary. <br>• Address the challenges to overcome. **Conclusion** <br>• Conclude, suggesting the need for concerted efforts from various stakeholders to promote gender diversity in the judiciary. |
+| **Approach:** <br> **Introduction** <br>• Introduce the importance of women’s representation in higher judiciary for diversity, equity, and inclusiveness. <br>**Body** <br>• Discuss the benefits of greater representation of women in higher judiciary. <br>• Address the challenges to overcome. **Conclusion** <br>• Conclude, suggesting the need for concerted efforts from various stakeholders to promote gender diversity in the judiciary. |
 | --- |
 
 ### Introduction
@@ -13069,10 +13068,10 @@ While the **Tribunal Reforms 2021** hold promise in making the tribunal system m
 1. Explanation_PWOnlyIAS:
 Source Question: Comment on the need of administrative tribunals as compared to the court system. Assess the impact of the recent tribunal reforms through rationalization of tribunals made in 2021.
 
-**Core demand of the Question:**
-- Need of Administrative Tribunals vs. Court System
-- Positive Impact of 2021 Tribunal Reforms
-- Negative impact (limitations) of 2021 Tribunal Reforms
+> **Core Demand of the Question:**
+> - Need of Administrative Tribunals vs. Court System
+> - Positive Impact of 2021 Tribunal Reforms
+> - Negative impact (limitations) of 2021 Tribunal Reforms
 
 ### Introduction
 
@@ -13364,11 +13363,11 @@ Environmental pressure groups are **critical actors in India’s environmental g
 1. Explanation_PWOnlyIAS:
 Source Question: What are environmental pressure groups? Discuss their role in raising awareness, influencing policies and advocating for environmental protection in India.
 
-**Core Demand of the Question:**
-- What are environmental pressure groups (Introduction)
-- Their role in raising awareness in India.
-- Their role in influencing policies in India.
-- Their role in advocating for environmental protection in India.
+> **Core Demand of the Question:**
+> - What are environmental pressure groups (Introduction)
+> - Their role in raising awareness in India.
+> - Their role in influencing policies in India.
+> - Their role in advocating for environmental protection in India.
 
 ### Introduction
 
@@ -14092,11 +14091,11 @@ Supreme Court judgments in * **Anugrah Narayan Singh v. Harsh Vardhan Bajpayee(2
 1. Explanation_PWOnlyIAS:
 Source Question: Discuss the ‘corrupt practices’ for the purpose of the Representation of the People Act, 1951. Analyze whether the increase in the assets of the legislators and/or their associates, disproportionate to their known sources of income, would constitute ‘undue influence’ and consequently a corrupt practice.
 
-**Core demand of the Question:**
-- Corrupt Practices under RPA, 1951
-- Analysing asset growth with corrupt practice:
-- Yes, it can, when linked to voter interference
-- No, not by itself
+> **Core Demand of the Question:**
+> - Corrupt Practices under RPA, 1951
+> - Analysing asset growth with corrupt practice:
+> - Yes, it can, when linked to voter interference
+> - No, not by itself
 
 ### Introduction
 
@@ -14797,10 +14796,10 @@ While “ONOE” offers several benefits, its implementation would require const
 1. Explanation_PWOnlyIAS:
 Source Question: Examine the need for electoral reforms as suggested by various committees with particular reference to &#8220;one nation-one election principle.
 
-**Core Demand of the Question:**
-- Examine the need for electoral reforms as suggested by various committees
-- Discuss issues with one nation-one election principle
-- Suggest suitable way ahead
+> **Core Demand of the Question:**
+> - Examine the need for electoral reforms as suggested by various committees
+> - Discuss issues with one nation-one election principle
+> - Suggest suitable way ahead
 
 **Answer:** Electoral reforms are crucial for improving the democratic integrity and efficiency of India’s electoral process. The “ **One Nation, One Election** ” concept, recently endorsed by the **Ram Nath Kovind Committee,** advocates **simultaneous elections** for the Lok Sabha and state assemblies. This reform aims to reduce election-related expenditure, streamline governance, and foster political stability by synchronising electoral cycles across the country.
 
@@ -15935,9 +15934,9 @@ The CAG improves transparency, accountability, and efficiency in managing public
 1. Explanation_PWOnlyIAS:
 Source Question: &#8220;The duty of the Comptroller and Auditor General is not merely to ensure the legality of expenditure but also its propriety.&#8221; Comment.
 
-**Core Demand of the Question:**
-- Discuss role of CAG in ensuring legality of expenditure
-- Discuss role of CAG in ensuring propriety of expenditure
+> **Core Demand of the Question:**
+> - Discuss role of CAG in ensuring legality of expenditure
+> - Discuss role of CAG in ensuring propriety of expenditure
 
 **The Comptroller and Auditor General (CAG)** of India’s mandate, under **Article 148** of the Constitution extends beyond merely ensuring the legality of government expenditure to also examining its propriety. It suggests that the CAG also has the responsibility of ensuring that public money is spent not just legally ( **Legality of Expenditure** ) but appropriately, prudently, and for the intended purpose ( **Propriety of Expenditure** ).
 
@@ -17945,10 +17944,10 @@ NCPCR plays a vital role in protecting children’s rights in the digital age. T
 1. Explanation_PWOnlyIAS:
 Source Question: The National Commission for Protection of Child Rights has to address the challenges faced by children in the digital era. Examine the existing policies and suggest measures the Commission can initiate to tackle the issue.
 
-**Core demand of the question:**
-- Mention existing policies
-- Challenges in existing policies
-- Suggested Measures for NCPCR
+> **Core Demand of the Question:**
+> - Mention existing policies
+> - Challenges in existing policies
+> - Suggested Measures for NCPCR
 
 ### Introduction
 
@@ -19643,10 +19642,10 @@ Development succeeds when **decisions travel downward** as much as resources do.
 1. Explanation_PWOnlyIAS:
 Source Question: “In contemporary development models, decision-making and problem-solving responsibilities are not located close to the source of information and execution defeating the objectives of development.” Critically evaluate.
 
-**Core demand of the question:**
-- Arguments supporting the statement.
-- Counter-arguments justifying why it is required.
-- Balanced way out.
+> **Core Demand of the Question:**
+> - Arguments supporting the statement.
+> - Counter-arguments justifying why it is required.
+> - Balanced way out.
 
 ### Introduction
 
@@ -20552,9 +20551,9 @@ CSOs may sometimes confront the State, but this does not make them **anti-State*
 1. Explanation_PWOnlyIAS:
 Source Question: Civil Society Organizations are often perceived as being anti-State actors than non-State actors. Do you agree? Justify.
 
-**Core Demand of the Question:**
-- Discuss in what instances Civil Society Organisations are perceived as Anti-state actors.
-- But this is not always true: Acting as Non state actors
+> **Core Demand of the Question:**
+> - Discuss in what instances Civil Society Organisations are perceived as Anti-state actors.
+> - But this is not always true: Acting as Non state actors
 
 ### Introduction
 
@@ -22134,9 +22133,9 @@ Limited funding, bureaucratic hurdles, and reliance on donors can hinder charita
 1. Explanation_PWOnlyIAS:
 Source Question: Public charitable trusts have the potential to make India&#8217;s development more inclusive as they relate to certain vital public issues. Comment.
 
-**Core Demand of the Question:**
-- Discuss role of public charitable trusts in making India’s development more inclusive
-- Examine various issues faced by public charitable trusts
+> **Core Demand of the Question:**
+> - Discuss role of public charitable trusts in making India’s development more inclusive
+> - Examine various issues faced by public charitable trusts
 
 **Public charitable trusts** operate under legal frameworks such as the **Indian Trusts Act, 1882**, focusing on philanthropic initiatives aimed at **education**, **healthcare**, and **social justice**. These trusts (for example, **SEWA Trust**, **Tata Trusts** etc.) play a crucial role in addressing public welfare needs and promoting inclusive development across underserved communities in India. **
 
@@ -22533,10 +22532,10 @@ The Citizen's Charter has the potential to revolutionize governance by enhancing
 1. Explanation_PWOnlyIAS:
 Source Question: The Citizens&#8217; charter has been a landmark initiative in ensuring citizen-centric administration. But it is yet to reach its full potential. Identify the factors hindering the realisation of its promise and suggest measures to overcome them.
 
-**Core Demand of the Question:**
-- Discuss how Citizens’ charter has been a landmark initiative in ensuring citizen-centric administration
-- Identify the factors hindering the realisation of its full potential
-- Suggest measures to overcome them
+> **Core Demand of the Question:**
+> - Discuss how Citizens’ charter has been a landmark initiative in ensuring citizen-centric administration
+> - Identify the factors hindering the realisation of its full potential
+> - Suggest measures to overcome them
 
 **The** Citizen’s Charter **is a** formal document **that delineates the** services **and** standards **an organisation pledges to provide to its citizens. Introduced to improve accountability and service quality in public administration, it represents a significant advancement in** citizen-centric governance **by promoting transparency, timeliness, and efficiency in public services.**
 
@@ -23047,9 +23046,9 @@ The Public Examinations Act, 2024, strengthens the integrity of public exams in 
 1. Explanation_PWOnlyIAS:
 Source Question: What are the aims and objectives of recently passed and enforced, The Public Examination (Prevention of Unfair Means) Act, 2024. Whether University/State Education Board examinations, too, are covered under the Act?
 
-**Core Demand of the Question:**
-- Discuss aims and objectives of recently passed and enforced, The Public Examination (Prevention of Unfair Means) Act, 2024
-- Discuss whether University/State Education Board examinations, too, are covered under the Act
+> **Core Demand of the Question:**
+> - Discuss aims and objectives of recently passed and enforced, The Public Examination (Prevention of Unfair Means) Act, 2024
+> - Discuss whether University/State Education Board examinations, too, are covered under the Act
 
 **Answer** The **Public Examination (Prevention of Unfair Means) Act, 2024,** was introduced to uphold the integrity of public examinations amids rising instances of cheating, with recent reports indicating that India registered **at least 4 paper leak cases** in **2024** alone.
 
@@ -23952,10 +23951,10 @@ While **technological integration** is essential for improving public administra
 1. Explanation_PWOnlyIAS:
 Source Question: e-governance projects have a built-in bias towards technology and back-end integration than user-centric designs. Examine.
 
-**Core Demand of the Question:**
-- Discuss how e-governance projects have a built-in bias towards technology.
-- Discuss how e-governance projects have a built-in bias towards back-end integration.
-- Mention how e-governance has promoted user -centric designs as well.
+> **Core Demand of the Question:**
+> - Discuss how e-governance projects have a built-in bias towards technology.
+> - Discuss how e-governance projects have a built-in bias towards back-end integration.
+> - Mention how e-governance has promoted user -centric designs as well.
 
 ### Introduction
 
@@ -24156,11 +24155,11 @@ To tackle the challenges of the Interactive Service Model of e-governance, the g
 1. Explanation_PWOnlyIAS:
 Source Question: e-governance is not just about the routine application of digital technology in the service delivery process. It is as much about multifarious interactions for ensuring transparency and accountability. In this context evaluate the role of the &#8216;Interactive Service Model’ of e-governance.
 
-**Core Demand of the Question:**
-- Discuss role e-governance for ensuring transparency and accountability, beyond the routine application of digital technology in service delivery.
-- Discuss the role of the ‘Interactive Service Model of e-governance’
-- Analyse issues associated with the ‘Interactive Service Model of e-governance’
-- Suggest suitable way ahead
+> **Core Demand of the Question:**
+> - Discuss role e-governance for ensuring transparency and accountability, beyond the routine application of digital technology in service delivery.
+> - Discuss the role of the ‘Interactive Service Model of e-governance’
+> - Analyse issues associated with the ‘Interactive Service Model of e-governance’
+> - Suggest suitable way ahead
 
 **E-governance** initiatives like **UPI & Digilocker** are revolutionising the relationship between the government and citizens, by going beyond basic conventional norms. On similar lines the **Interactive Service Model of e-governance** enables **two-way communication** between citizens and the government, using ICT to enhance access to services and promote active citizen participation in governance.**
 
@@ -25382,10 +25381,10 @@ Achieving a positive public perception of civil servants' integrity and commitme
 1. Explanation_PWOnlyIAS:
 Source Question: The Doctrine of Democratic Governance makes it necessary that the public perception of the integrity and commitment of civil servants becomes absolutely positive. Discuss.
 
-**Core Demand of the Question:**
-- Discuss why Doctrine of Democratic Governance requires positive public perception of civil servants
-- Analyse challenges in ensuring positive perception of civil servants
-- Suggest suitable way ahead
+> **Core Demand of the Question:**
+> - Discuss why Doctrine of Democratic Governance requires positive public perception of civil servants
+> - Analyse challenges in ensuring positive perception of civil servants
+> - Suggest suitable way ahead
 
 **The Doctrine of Democratic governance** relies heavily on the **integrity** and **commitment** of civil servants. **Article 311** of the Indian Constitution ensures their protection, underscoring the significance of their role in upholding the trust and accountability necessary for effective administration.
 
@@ -26925,9 +26924,9 @@ Women’s **social capital** plays a crucial role in advancing **empowerment** a
 1. Explanation_PWOnlyIAS:
 Source Question: Women’s social capital complements in advancing empowerment and gender equity. Explain.
 
-**Core Demand of the Question:**
-- Discuss how Women’s social capital complements in advancing empowerment.
-- Women’s social capital complements gender equity.
+> **Core Demand of the Question:**
+> - Discuss how Women’s social capital complements in advancing empowerment.
+> - Women’s social capital complements gender equity.
 
 ### Introduction
 
@@ -30464,9 +30463,9 @@ As scholars like Mark Rank argue, **poverty reflects systemic vulnerabilities ra
 1. Explanation_PWOnlyIAS:
 Source Question: Inequality in the ownership pattern of resources is one of the major causes of poverty. Discuss in the context of ‘paradox of poverty’.
 
-**Core demand of the question:**
-- Paradox of Poverty
-- How unequal ownership creates the poverty paradox
+> **Core Demand of the Question:**
+> - Paradox of Poverty
+> - How unequal ownership creates the poverty paradox
 
 ### Introduction
 
@@ -30655,9 +30654,9 @@ Breaking the vicious cycle of poverty and malnutrition is essential for achievin
 1. Explanation_PWOnlyIAS:
 Source Question: Poverty and malnutrition create a vicious cycle, adversely affecting human capital formation. What steps can be taken to break the cycle?
 
-**Core Demand of the Question:**
-- Analyse how poverty and malnutrition create a vicious cycle adversely affecting human capital formation
-- Suggest steps can be taken to break the cycle
+> **Core Demand of the Question:**
+> - Analyse how poverty and malnutrition create a vicious cycle adversely affecting human capital formation
+> - Suggest steps can be taken to break the cycle
 
 
 **Poverty** and **malnutrition** are interconnected in a vicious cycle where lack of access to nutritious food results in undernourishment, reducing productivity, and perpetuating deprivation. India is ranked **111th out of 125 countries** in the **2023 Global Hunger Index**, reflecting significant nutritional deficiencies due to economic disparities. **
@@ -32092,10 +32091,10 @@ The **India-Africa digital partnership** exemplifies a model of **mutual respect
 1. Explanation_PWOnlyIAS:
 Source Question: India-Africa digital partnership is achieving mutual respect, co-development, and long-term institutional partnerships. Elaborate.
 
-**Core Demand of the Question:**
-- India-Africa Digital Collaboration achieving mutual respect.
-- India-Africa Digital Collaboration achieving Co-Development Initiatives.
-- India-Africa Digital Collaboration achieving Long-Term Institutional Partnerships.
+> **Core Demand of the Question:**
+> - India-Africa Digital Collaboration achieving mutual respect.
+> - India-Africa Digital Collaboration achieving Co-Development Initiatives.
+> - India-Africa Digital Collaboration achieving Long-Term Institutional Partnerships.
 
 ### Introduction
 
@@ -32270,10 +32269,10 @@ Amid rising Chinese influence and anti-India sentiment, strengthening India-Mald
 1. Explanation_PWOnlyIAS:
 Source Question: Discuss the geopolitical and geostrategic importance of Maldives for India with a focus on global trade and energy flows. Further also discuss how this relationship affects India&#8217;s maritime security and regional stability amidst international competition?
 
-**Core Demand of the Question:**
-- Discuss geopolitical and geostrategic importance of Maldives for India with a focus on global trade and energy flows
-- Discuss how this relationship affects India’s maritime security and regional stability amidst international competition
-- Suggest suitable way ahead
+> **Core Demand of the Question:**
+> - Discuss geopolitical and geostrategic importance of Maldives for India with a focus on global trade and energy flows
+> - Discuss how this relationship affects India’s maritime security and regional stability amidst international competition
+> - Suggest suitable way ahead
 
 **The strategic location of the** Maldives **along** vital maritime routes **underscores its significance for India, particularly in securing global trade and energy flows. During current Indian** External Affairs Minister recent visit **, India and the Maldives signed an agreement on** Unified Payments Interface (UPI) **, strengthening financial ties and highlighting the growing importance of their** economic **and** strategic partnership **in the region.** Geopolitical and Geostrategic Importance of Maldives for India with a Focus on Global Trade and Energy Flows **
 
@@ -34208,9 +34207,9 @@ India should maintain **proactive diplomatic engagements** with Central Asian na
 1. Explanation_PWOnlyIAS:
 Source Question: Critically analyse India&#8217;s evolving diplomatic, economic and strategic relations with the Central Asian Republics (CARs) highlighting their increasing significance in regional and global geopolitics.
 
-**Core Demand of the Question:**
-- Analyse India’s evolving diplomatic, economic and strategic relations with the Central Asian Republics (CARs)
-- Discuss various challenges in India-CAR Relations
+> **Core Demand of the Question:**
+> - Analyse India’s evolving diplomatic, economic and strategic relations with the Central Asian Republics (CARs)
+> - Discuss various challenges in India-CAR Relations
 
 **Answer** India’s evolving relations with the **Central Asian Republics (CARs)** have gained prominence due to their strategic importance in regional security, energy resources, and connectivity projects. India, being a rising power, seeks to enhance its footprint in such regions. Like re-emerging views on **TAPI pipeline** and **INSTC** for regional integration. **India’s evolving diplomatic, economic and strategic relations with the Central Asian Republics (CARs)**
 
@@ -35253,10 +35252,10 @@ Keeping energy at the core of foreign policy—by securing Gulf hydrocarbons tod
 1. Explanation_PWOnlyIAS:
 Source Question: “Energy security constitutes the dominant kingpin of India’s foreign policy, and is linked with India’s overarching influence in Middle Eastern countries.” How would you integrate energy security with India’s foreign policy trajectories in the coming years?
 
-**Core demand of the question:**
-- How Energy Security Constitutes the Dominant Kingpin of India’s Foreign Policy
-- How Energy Security is Linked with India’s Overarching Influence in Middle Eastern Countries
-- Integrating Energy Security with India’s Foreign Policy Trajectories in the Coming Years
+> **Core Demand of the Question:**
+> - How Energy Security Constitutes the Dominant Kingpin of India’s Foreign Policy
+> - How Energy Security is Linked with India’s Overarching Influence in Middle Eastern Countries
+> - Integrating Energy Security with India’s Foreign Policy Trajectories in the Coming Years
 
 ### Introduction
 
@@ -35763,8 +35762,8 @@ The post-Cold War world has seen a significant shift from **global cooperation**
 1. Explanation_PWOnlyIAS:
 Source Question: “With the waning of globalization, post-Cold War world is becoming a site of sovereign nationalism.” Elucidate.
 
-**Core Demand of the Question:**
-- Mention how in Post Cold War, World is tilting toward sovereign nationalism with waning of globalization
+> **Core Demand of the Question:**
+> - Mention how in Post Cold War, World is tilting toward sovereign nationalism with waning of globalization
 
 ### Introduction
 
@@ -35927,9 +35926,9 @@ Looking forward, India has the potential to emerge as a key player in global sup
 1. Explanation_PWOnlyIAS:
 Source Question: The West is fostering India as an alternative to reduce dependence on China&#8217;s supply chain and as a strategic ally to counter China&#8217;s political and economic dominance. Explain this statement with examples.
 
-**Core Demand of the Question:**
-- Discuss how West is fostering India as an alternative to reduce dependence on China’s supply chain
-- Discuss how West is fostering India as a strategic ally to counter China’s political and economic dominance
+> **Core Demand of the Question:**
+> - Discuss how West is fostering India as an alternative to reduce dependence on China’s supply chain
+> - Discuss how West is fostering India as a strategic ally to counter China’s political and economic dominance
 
 **Answer** In an ongoing polarisation around the world and amidst **rising geopolitical tensions**, the West is increasingly seeking to reduce its dependence on China’s **supply chain.** India is emerging as a key alternative, supported by its economic potential, strategic location, efficient human resource power and growing global influence. Recent initiatives such as the **Indo-Pacific Economic Framework (IPEF)** underscore this shift. **
 
@@ -38084,12 +38083,12 @@ UN reform remains stuck between urgency and inertia. P5 privilege and North–So
 1. Explanation_PWOnlyIAS:
 Source Question: The reform process in the United Nations remains unaccomplished because of the delicate imbalance of East and West and entanglement of the USA vs. Russo-Chinese alliance.” Examine and critically evaluate the East-West policy confrontations in this regard.
 
-**Core demand of the question:**
-- How East–West Imbalance hindering reforms in UN
-- How entanglement in USA vs Russo–Chinese Alliance hinders reforms in UN
-- What East-West policy confrontations enables.
-- What East-West policy confrontations disable.
-- Way forward
+> **Core Demand of the Question:**
+> - How East–West Imbalance hindering reforms in UN
+> - How entanglement in USA vs Russo–Chinese Alliance hinders reforms in UN
+> - What East-West policy confrontations enables.
+> - What East-West policy confrontations disable.
+> - Way forward
 
 ### Introduction
 
@@ -38306,11 +38305,11 @@ While the CTC has advanced in countering terrorism, a proactive approach is vita
 1. Explanation_PWOnlyIAS:
 Source Question: &#8220;Terrorism has become a significant threat to global peace and security.&#8217; Evaluate the effectiveness of the United Nations Security Council&#8217;s Counter Terrorism Committee (CTC) and its associated bodies in addressing and mitigating this threat at the international level.
 
-**Core Demand of the Question:**
-- Discuss how terrorism has become a significant threat to global peace and security
-- Discuss effectiveness of the UN Security Council’s Counter Terrorism Committee (CTC) and associated bodies in addressing and mitigating this threat
-- Analyse the challenges faced in counter terrorism efforts
-- Suggest suitable way ahead
+> **Core Demand of the Question:**
+> - Discuss how terrorism has become a significant threat to global peace and security
+> - Discuss effectiveness of the UN Security Council’s Counter Terrorism Committee (CTC) and associated bodies in addressing and mitigating this threat
+> - Analyse the challenges faced in counter terrorism efforts
+> - Suggest suitable way ahead
 
 **Terrorism** is one of the most pressing challenges to international peace, destabilising nations and regions. It **destabilises economies**, **displaces populations**, and **erodes social cohesion**. Tackling this multifaceted issue demands **swift** and **coordinated global action** to build resilience, strengthen collaboration, and create effective counter-terrorism strategies for enduring stability.
 

@@ -547,10 +547,10 @@ The implementation of these codes is expected to bring significant changes to In
 1. Explanation_PWOnlyIAS:
 Source Question: Discuss the merits and demerits of the four &#8216;Labour Codes&#8217; in the context of labour market reforms in India. What has been the progress so far in this regard?
 
-**Core Demand of the Question:**
-- Discuss the merits of the Four Labour Codes in the context of labour market reforms.
-- Discuss the demerits of the Four Labour Codes in context of labour market reforms.
-- Highlight the progress made so far in implementing the Labour Codes.
+> **Core Demand of the Question:**
+> - Discuss the merits of the Four Labour Codes in the context of labour market reforms.
+> - Discuss the demerits of the Four Labour Codes in context of labour market reforms.
+> - Highlight the progress made so far in implementing the Labour Codes.
 
 To promote **ease of doing business** and streamline the complex web of labor regulations, the government took a significant step by consolidating **29** of the **44** existing **central labor laws** into **four comprehensive labor codes**. These include the **Code on Wages (2019),** the **Code on Social Security (2020),** the **Industrial Relations Code (2020),** and the **Occupational Safety, Health, and Working Conditions Code (2020),** collectively referred to as the **“Labour Codes.”** With **Article 43** of the Constitution advocating for **fair working conditions** and **wages**, the Labour Codes strive for a balanced approach between **worker rights** and **industrial flexibility**.
 
@@ -827,9 +827,9 @@ India must balance global integration with domestic resilience by promoting self
 1. Explanation_PWOnlyIAS:
 Source Question: What are the challenges before the Indian economy when the world is moving away from free trade and multilateralism to protectionism and bilateralism? How can these challenges be met?
 
-**Core demand of the Question:**
-- Challenges Before the Indian Economy
-- Measures to Meet These Challenges
+> **Core Demand of the Question:**
+> - Challenges Before the Indian Economy
+> - Measures to Meet These Challenges
 
 ### Introduction
 
@@ -1225,9 +1225,9 @@ The Fiscal Health Index (FHI) helps policymakers make informed decisions but als
 1. Explanation_PWOnlyIAS:
 Source Question: Explain how the Fiscal Health Index (FHI) can be used as a tool for assessing the fiscal performance of states in India. In what way would it encourage the states to adopt prudent and sustainable fiscal policies?
 
-**Core Demand of the Question:**
-- Explain how FHI can be used as a tool for assessing the fiscal performance of states in India.
-- How will it encourage the states to adopt prudent and sustainable fiscal policy.
+> **Core Demand of the Question:**
+> - Explain how FHI can be used as a tool for assessing the fiscal performance of states in India.
+> - How will it encourage the states to adopt prudent and sustainable fiscal policy.
 
 ### Introduction
 
@@ -2460,9 +2460,9 @@ Public expenditure on social services in post-reform India has risen to support 
 1. Explanation_PWOnlyIAS:
 Source Question: Examine the pattern and trend of public expenditure on social services in the post-reforms period in India. To what extent this has been in consonance with achieving the objective of inclusive growth?
 
-**Core Demand of the Question:**
-- Examine the pattern and trend of public expenditure on social services in the post-reforms period in India.
-- Highlight to what extent this has been in consonance with achieving the objective of inclusive growth.
+> **Core Demand of the Question:**
+> - Examine the pattern and trend of public expenditure on social services in the post-reforms period in India.
+> - Highlight to what extent this has been in consonance with achieving the objective of inclusive growth.
 
 **Article 41** of the Indian Constitution mandates the government to ensure **social welfare**. The **1991 economic reforms** catalysed rapid growth but also introduced a significant challenge of ensuring equitable distribution of economic benefits. Public expenditure on social services stands at **7.8%** in **2023-24**.
 
@@ -4050,9 +4050,9 @@ While HDI highlights human development, IHDI better reflects its equitable distr
 1. Explanation_PWOnlyIAS:
 Source Question: Distinguish between the Human Development Index (HDI) and the Inequality-adjusted Human Development Index (IHDI) with special reference to India. Why is the IHDI considered a better indicator of inclusive growth?
 
-**Core demand of the Question:**
-- Distinction between HDI and IHDI with respect to India.
-- Why IHDI is a better indicator of inclusive growth.
+> **Core Demand of the Question:**
+> - Distinction between HDI and IHDI with respect to India.
+> - Why IHDI is a better indicator of inclusive growth.
 
 ### Introduction
 
@@ -5878,10 +5878,10 @@ While the RBI's monetary policy is crucial for **managing inflation,** tackling 
 1. Explanation_PWOnlyIAS:
 Source Question: What are the causes of persistent high food inflation in India? Comment on the effectiveness of the monetary policy of the RBI to control this type of inflation.
 
-**Core Demand of the Question:**
-- Discuss the causes of persistent high food inflation in India
-- Highlight the effectiveness of the monetary policy of the RBI to control this type of inflation.
-- Highlight the shortcomings of the monetary policy of the RBI to control this type of inflation.
+> **Core Demand of the Question:**
+> - Discuss the causes of persistent high food inflation in India
+> - Highlight the effectiveness of the monetary policy of the RBI to control this type of inflation.
+> - Highlight the shortcomings of the monetary policy of the RBI to control this type of inflation.
 
 Addressing persistent high food inflation is essential for ensuring **economic stability** and maintaining **citizens’ standard of living**, as recognized under **Article 47** of the Indian Constitution. The phenomenon of food inflation in India is multifaceted, influenced by **domestic production**, **global market conditions**, and **government policies**.
 
@@ -6978,10 +6978,10 @@ The PLI scheme should further leverage transparent applications, widen the eligi
 1. Explanation_PWOnlyIAS:
 Source Question: Discuss the rationale of the Production Linked Incentive (PLI) scheme. What are its achievements? In what way can the functioning and outcomes of the scheme be improved?
 
-**Core Demand of the Question:**
-- Mention the rationale behind the PLI scheme.
-- Achievements of the PLI scheme
-- Ways in which Functioning and Outcomes can be improved.
+> **Core Demand of the Question:**
+> - Mention the rationale behind the PLI scheme.
+> - Achievements of the PLI scheme
+> - Ways in which Functioning and Outcomes can be improved.
 
 ### Introduction
 
@@ -7208,10 +7208,10 @@ India is strengthening its semiconductor ecosystem through the **ISM**, agreemen
 1. Explanation_PWOnlyIAS:
 Source Question: India aims to become a semiconductor manufacturing hub. What are the challenges faced by the semiconductor industry in India? Mention the salient features of the Indian Semiconductor Mission.
 
-**Core demand of the Question:**
-- Challenges Faced by the Semiconductor Industry
-- Way out in short, to deal with these challenges
-- India Semiconductor Mission: Salient Features
+> **Core Demand of the Question:**
+> - Challenges Faced by the Semiconductor Industry
+> - Way out in short, to deal with these challenges
+> - India Semiconductor Mission: Salient Features
 
 ### Introduction
 
@@ -8853,12 +8853,12 @@ While electronic toll collection technology offers numerous benefits, **careful 
 1. Explanation_PWOnlyIAS:
 Source Question: What is the technology being employed for electronic toll collection on highways? What are its advantages and limitations? What are the proposed changes that will make this process seamless? Would this transition carry any potential hazards?
 
-**Core Demand of the Question:**
-- Highlight the Technology Employed for Electronic Toll Collection on Highways.
-- Highlight its advantages.
-- Highlight its limitations.
-- List down the proposed changes for a seamless process.
-- Highlight the potential hazards of the transition.
+> **Core Demand of the Question:**
+> - Highlight the Technology Employed for Electronic Toll Collection on Highways.
+> - Highlight its advantages.
+> - Highlight its limitations.
+> - List down the proposed changes for a seamless process.
+> - Highlight the potential hazards of the transition.
 
 **Electronic Toll Collection** (ETC) on highways is reshaping toll payment systems by leveraging technologies such as **RFID** (Radio Frequency Identification) and **DSRC** (Dedicated Short-Range Communication). These technologies automate toll transactions, enhance **efficiency,** and reduce **congestion**, thereby significantly improving the **driving experience**.
 
@@ -9078,11 +9078,11 @@ Despite ongoing efforts, challenges remain due to incomplete functionality of op
 1. Explanation_PWOnlyIAS:
 Source Question: What is the need for expanding the regional air connectivity in India? In this context, discuss the government&#8217;s UDAN Scheme and its achievements.
 
-**Core Demand of the Question:**
-- Discuss the need for expanding the regional air connectivity in India.
-- Discuss the government’s UDAN Scheme.
-- Highlight the achievements of UDAN Scheme since its inception.
-- Suggest further steps needed to enhance regional air connectivity in India.
+> **Core Demand of the Question:**
+> - Discuss the need for expanding the regional air connectivity in India.
+> - Discuss the government’s UDAN Scheme.
+> - Highlight the achievements of UDAN Scheme since its inception.
+> - Suggest further steps needed to enhance regional air connectivity in India.
 
 India’s geographic diversity and economic potential demand better regional air connectivity to enhance inclusive growth. The **UDAN (Ude Desh ka Aam Nagrik)** scheme, launched in **2016**, aims to make air travel accessible and affordable for all, especially those in **remote** and **underserved regions**, by improving connectivity across **Tier-2** and **Tier-3** cities.
 
@@ -9877,10 +9877,10 @@ To tackle water depletion and outdated infrastructure, India must adopt sustaina
 1. Explanation_PWOnlyIAS:
 Source Question: What are the major challenges faced by the Indian irrigation system in recent times? State the measures taken by the government for efficient irrigation management.
 
-**Core Demand of the Question:**
-- Highlight the major challenges faced by the Indian irrigation system in recent times.
-- State the measures taken by the government for efficient irrigation management.
-- Suggest a suitable way ahead.
+> **Core Demand of the Question:**
+> - Highlight the major challenges faced by the Indian irrigation system in recent times.
+> - State the measures taken by the government for efficient irrigation management.
+> - Suggest a suitable way ahead.
 
 “ **Water is the driving force of all nature**,” said **Leonardo da Vinci**, yet India, with its vast agricultural sector, faces acute water management issues. Agriculture accounts for about **80%** of India’s available water use of **700 billion cubic metres** annually, but the irrigation system is strained by water scarcity, outdated infrastructure, and inefficient water usage, which warrants a deeper look.
 
@@ -11880,12 +11880,12 @@ With the help of such initiatives, farmers are better equipped to make informed 
 1. Explanation_PWOnlyIAS:
 Source Question: Explain the factors influencing the decision of the farmers on the selection of high value crops in India.
 
-**Core demand of the Question:**
-- Factors influencing the decision of the farmers on the selection of high-value crops in India
-- Economic factors
-- Environmental and resource factors
-- Socio‑cultural factors
-- Policy and institutional factors
+> **Core Demand of the Question:**
+> - Factors influencing the decision of the farmers on the selection of high-value crops in India
+> - Economic factors
+> - Environmental and resource factors
+> - Socio‑cultural factors
+> - Policy and institutional factors
 
 ### Introduction
 
@@ -13518,10 +13518,10 @@ Thus, initiatives for **Nutritional Security through Intensive Millets Promotion
 1. Explanation_PWOnlyIAS:
 Source Question: Explain the role of millets for ensuring health and nutritional security in India.
 
-**Core Demand of the Question:**
-- Explain the role of millets in ensuring health security in India
-- Explain the role of millets in ensuring nutritional security in India
-- Suggest measures to increase the adoption of millets
+> **Core Demand of the Question:**
+> - Explain the role of millets in ensuring health security in India
+> - Explain the role of millets in ensuring nutritional security in India
+> - Suggest measures to increase the adoption of millets
 
 “Millets are not just crops, they are the future of food security.” Recognized by the **United Nations** as the **International Year of Millets (2023)**, these ancient grains are nutritious, drought-resistant, and require minimal inputs. In India, millets can play a crucial role in addressing **malnutrition**, ensuring **nutritional security**, and enhancing **agricultural sustainability** in a changing climate.
 
@@ -13981,10 +13981,10 @@ Buffer stocks are vital for stabilizing prices and ensuring food security in Ind
 1. Explanation_PWOnlyIAS:
 Source Question: Elucidate the importance of buffer stocks for stabilizing agricultural prices in India. What are the challenges associated with the storage of buffer stock? Discuss.
 
-**Core Demand of the Question:**
-- Elucidate the importance of buffer stocks for stabilizing agricultural prices in India.
-- Discuss the challenges associated with the storage of buffer stocks.
-- Suggest measures to overcome these challenges and to ensure sustainable storage of buffer stocks
+> **Core Demand of the Question:**
+> - Elucidate the importance of buffer stocks for stabilizing agricultural prices in India.
+> - Discuss the challenges associated with the storage of buffer stocks.
+> - Suggest measures to overcome these challenges and to ensure sustainable storage of buffer stocks
 
 Buffer stocks play a crucial role in stabilizing food prices and ensuring **food security** during periods of crisis, such as crop failures or inflationary price surges. As per the **Press Information Bureau (PIB)**, India’s central pool had **113 LMT** of **wheat** and **236 LMT** of **rice** as of April 2023, surpassing the buffer norms of **75 LMT** and **136 LMT** respectively. Buffer stock management remains vital to protect both consumers and farmers from market volatility.
 
@@ -15109,9 +15109,9 @@ Challenges such as inefficiencies in government programs, lack of storage, and t
 1. Explanation_PWOnlyIAS:
 Source Question: Elaborate the scope and significance of supply chain management of agricultural commodities in India.
 
-**Core demand of the Question:**
-- Scope of supply chain management of agricultural commodities in India.
-- Significance of supply chain management of agricultural commodities in India.
+> **Core Demand of the Question:**
+> - Scope of supply chain management of agricultural commodities in India.
+> - Significance of supply chain management of agricultural commodities in India.
 
 ### Introduction
 
@@ -16034,10 +16034,10 @@ India's food processing sector holds significant growth potential. Cold chain ex
 1. Explanation_PWOnlyIAS:
 Source Question: Examine the scope of the food processing industries in India. Elaborate the measures taken by the government in the food processing industries for generating employment opportunities.
 
-**Core Demand of the Question:**
-- Discuss the scope of the Food Processing industry in India.
-- Challenges of Food Processing Industry in India.
-- Measures taken by the government in the food processing industries to generate employment opportunities.
+> **Core Demand of the Question:**
+> - Discuss the scope of the Food Processing industry in India.
+> - Challenges of Food Processing Industry in India.
+> - Measures taken by the government in the food processing industries to generate employment opportunities.
 
 ### Introduction
 
@@ -17321,10 +17321,10 @@ Factors responsible for the poor implementation of land reforms in other parts:
 1. Explanation_PWOnlyIAS:
 Source Question: What were the factors responsible for the successful implementation of land reforms in some parts of the country? Elaborate
 
-**Core Demand of the Question:**
-- Elaborate on the factors responsible for the successful implementation of land reforms in some parts of the country.
-- Mention the issues faced in other parts of India in land reforms
-- Suggest way forward to enhance the implementation of land reforms
+> **Core Demand of the Question:**
+> - Elaborate on the factors responsible for the successful implementation of land reforms in some parts of the country.
+> - Mention the issues faced in other parts of India in land reforms
+> - Suggest way forward to enhance the implementation of land reforms
 
 **‘Land belongs to the farmer’** was a powerful slogan that became popular during the early years of India’s efforts to reform agriculture. **Land reforms** have been a critical tool to **alleviate** **poverty**, reduce **inequality**, and ensure **equitable** land distribution. Though the success of these reforms has been uneven, states like **West Bengal** and **Kerala** have effectively implemented land redistribution, transforming the rural landscape.
 
@@ -18172,10 +18172,10 @@ India is strengthening its semiconductor ecosystem through the **ISM**, agreemen
 1. Explanation_PWOnlyIAS:
 Source Question: India aims to become a semiconductor manufacturing hub. What are the challenges faced by the semiconductor industry in India? Mention the salient features of the Indian Semiconductor Mission.
 
-**Core demand of the Question:**
-- Challenges Faced by the Semiconductor Industry
-- Way out in short, to deal with these challenges
-- India Semiconductor Mission: Salient Features
+> **Core Demand of the Question:**
+> - Challenges Faced by the Semiconductor Industry
+> - Way out in short, to deal with these challenges
+> - India Semiconductor Mission: Salient Features
 
 ### Introduction
 
@@ -19815,9 +19815,9 @@ Carbon Capture, Utilization, and Storage (CCUS) refers to a collection of techno
 1. Explanation_PWOnlyIAS:
 Source Question: What is Carbon Capture, Utilization and Storage (CCUS)? What is the potential role of CCUS in tackling climate change?
 
-**Core Demand of the Question:**
-- Explain Carbon Capture, Utilization and Storage (CCUS).
-- Highlight the Potential Role of CCUS in Tackling Climate Change.
+> **Core Demand of the Question:**
+> - Explain Carbon Capture, Utilization and Storage (CCUS).
+> - Highlight the Potential Role of CCUS in Tackling Climate Change.
 
 ### Introduction
 
@@ -20519,10 +20519,10 @@ Integrating advanced technologies like desalination, wastewater treatment, and A
 1. Explanation_PWOnlyIAS:
 Source Question: The world is facing an acute shortage of clean and safe freshwater. What are the alternative technologies which can solve this crisis? Briefly discuss any three such technologies citing their key merits and demerits. (Answer in 250 words)
 
-**Core Demand of the Question:**
-- Highlight the reasons why the world is facing an acute shortage of clean and safe freshwater.
-- Discuss the alternative technologies to solve the water crisis.
-- Discuss any three such technologies with their merits and demerits.
+> **Core Demand of the Question:**
+> - Highlight the reasons why the world is facing an acute shortage of clean and safe freshwater.
+> - Discuss the alternative technologies to solve the water crisis.
+> - Discuss any three such technologies with their merits and demerits.
 
 Freshwater scarcity is a significant global issue, driven by both natural factors and human activities. The **United Nations** recognizes access to **clean water and sanitation** as a fundamental necessity under **Sustainable Development Goal 6 (SDG-6)**. As populations grow and climate change worsens water shortages, innovative technologies are essential for securing sustainable freshwater sources.
 
@@ -20731,12 +20731,12 @@ While electronic toll collection technology offers numerous benefits, **careful 
 1. Explanation_PWOnlyIAS:
 Source Question: What is the technology being employed for electronic toll collection on highways? What are its advantages and limitations? What are the proposed changes that will make this process seamless? Would this transition carry any potential hazards?
 
-**Core Demand of the Question:**
-- Highlight the Technology Employed for Electronic Toll Collection on Highways.
-- Highlight its advantages.
-- Highlight its limitations.
-- List down the proposed changes for a seamless process.
-- Highlight the potential hazards of the transition.
+> **Core Demand of the Question:**
+> - Highlight the Technology Employed for Electronic Toll Collection on Highways.
+> - Highlight its advantages.
+> - Highlight its limitations.
+> - List down the proposed changes for a seamless process.
+> - Highlight the potential hazards of the transition.
 
 **Electronic Toll Collection** (ETC) on highways is reshaping toll payment systems by leveraging technologies such as **RFID** (Radio Frequency Identification) and **DSRC** (Dedicated Short-Range Communication). These technologies automate toll transactions, enhance **efficiency,** and reduce **congestion**, thereby significantly improving the **driving experience**.
 
@@ -21353,10 +21353,10 @@ While asteroids pose a threat, advancements in detection, deflection, and global
 1. Explanation_PWOnlyIAS:
 Source Question: What are asteroids? How real is the threat of them causing extinction of life? What strategies have been developed to prevent such a catastrophe?
 
-**Core Demand of the Question:**
-- Explain in brief about asteroids.
-- Discuss How Real is the Threat of Them Causing Extinction of Life.
-- Mention some Strategies Developed to Prevent Such a Catastrophe.
+> **Core Demand of the Question:**
+> - Explain in brief about asteroids.
+> - Discuss How Real is the Threat of Them Causing Extinction of Life.
+> - Mention some Strategies Developed to Prevent Such a Catastrophe.
 
 Asteroids are rocky, **airless remnants** from the early formation of our solar system, dating back approximately **4.6 billion years.** These celestial bodies orbit the Sun in the asteroid belt between Mars and Jupiter. While asteroids provide valuable insights into the early solar system, their potential to impact Earth poses a significant concern regarding global safety.
 
@@ -22446,9 +22446,9 @@ India’s pursuit of energy independence through clean technology is both urgent
 1. Explanation_PWOnlyIAS:
 Source Question: How can India achieve energy independence through clean technology by 2047? How can biotechnology can play a crucial role in this endeavour?
 
-**Core Demand of the Question:**
-- Pathways to Energy Independence through Clean Technology.
-- Role of Biotechnology in achieving energy dependency.
+> **Core Demand of the Question:**
+> - Pathways to Energy Independence through Clean Technology.
+> - Role of Biotechnology in achieving energy dependency.
 
 ### Introduction
  **India’s energy demand** is expected to **triple by 2047** due to population growth and industrialisation. Achieving energy independence through clean technology is critical to reducing fossil fuel imports, ensuring sustainability, and meeting climate commitments under the **Nationally Determined Contributions (NDCs)**.
@@ -23129,10 +23129,10 @@ India's growing number of patent filings shows the need to improve commercializa
 1. Explanation_PWOnlyIAS:
 Source Question: What is the present world scenario of intellectual property rights with respect to life materials? Although India is second in the world to file patents, still only a few have been commercialised. Explain the reasons behind this less commercialization.
 
-**Core Demand of the Question:**
-- Discuss the Present World Scenario of IPRs on Life Materials.
-- List down the Reasons for Low Commercialization of Patents in India.
-- Provide a way ahead to Improve Commercialization of Patents in India.
+> **Core Demand of the Question:**
+> - Discuss the Present World Scenario of IPRs on Life Materials.
+> - List down the Reasons for Low Commercialization of Patents in India.
+> - Provide a way ahead to Improve Commercialization of Patents in India.
 
 Intellectual Property Rights (IPRs) are vital for driving **innovation** and securing financial returns, particularly in fields like **biotechnology** and **pharmaceuticals.** By protecting unique ideas and technologies, IPRs encourage research and development. However, despite India’s position as the **world’s second-largest patent filer**, the commercialization of these patents remains a significant challenge.
 
@@ -23774,9 +23774,9 @@ Nanotechnology holds significant potential to revolutionize agriculture by enhan
 1. Explanation_PWOnlyIAS:
 Source Question: How does nanotechnology offer significant advancements in the field of agriculture? How can this technology help to uplift the socio-economic status of farmers?
 
-**Core Demand of the Question:**
-- Ways in which Nanotechnology offers advancement in the field of Agriculture.
-- How can Nanotechnology help in uplifting the socio-economic status of farmers.
+> **Core Demand of the Question:**
+> - Ways in which Nanotechnology offers advancement in the field of Agriculture.
+> - How can Nanotechnology help in uplifting the socio-economic status of farmers.
 
 ### Introduction
  **Nanotechnology**, by manipulating matter at the molecular level, is revolutionising agriculture through **precision inputs** and **smart delivery systems**. It enhances fertiliser and pesticide efficiency, improves water and soil management, and reduces wastage. These innovations extend beyond productivity, offering pathways to strengthen **farmers** ’ **livelihoods**.
@@ -25162,10 +25162,10 @@ The ITER project represents a groundbreaking step toward a clean, sustainable, a
 1. Explanation_PWOnlyIAS:
 Source Question: The fusion energy programme in India has steadily evolved over the past few decades. Mention India&#8217;s contribution to the international fusion energy project- International Thermonuclear Experimental Reactor (ITER). What will be the implications of the success of this project for the future of global energy?
 
-**Core demand of the Question:**
-- India’s Contribution to ITER
-- Implications (Positive) of ITER’s Success for Global Energy
-- Negative Side
+> **Core Demand of the Question:**
+> - India’s Contribution to ITER
+> - Implications (Positive) of ITER’s Success for Global Energy
+> - Negative Side
 
 ### Introduction
 
@@ -26741,10 +26741,10 @@ India has progressively scaled up ambitions w.r.t. climate change, while balanci
 1. Explanation_PWOnlyIAS:
 Source Question: Write a review on India’s climate commitments under the Paris Agreement (2015) and mention how these have been further strengthened in COP26 (2021). In this direction, how has the first Nationally Determined Contribution intended by India been updated in 2022?
 
-**Core Demand of the Question:**
-- Review of India’s Climate Commitments under the Paris Agreement (2015)
-- Strengthening at COP26 (Glasgow, 2021)
-- Update of India’s First NDC in 2022
+> **Core Demand of the Question:**
+> - Review of India’s Climate Commitments under the Paris Agreement (2015)
+> - Strengthening at COP26 (Glasgow, 2021)
+> - Update of India’s First NDC in 2022
 
 ### Introduction
 
@@ -27313,9 +27313,9 @@ ENGOs and activists hold authorities accountable, ensuring development projects 
 1. Explanation_PWOnlyIAS:
 Source Question: What role do environmental NGOs and activists play in influencing Environmental Impact Assessment (EIA) outcomes for major projects in India? Cite four examples with all important details. (Answer in 150 words)
 
-**Core Demand of the Question:**
-- Explain the Role of NGOs and Activists in influencing EIA outcomes for major projects in India.
-- Discuss four examples with important details in this regard.
+> **Core Demand of the Question:**
+> - Explain the Role of NGOs and Activists in influencing EIA outcomes for major projects in India.
+> - Discuss four examples with important details in this regard.
 
 Environmental Impact Assessment ( **EIA** ) is a vital process in India that assesses the **potential environmental effects** of major projects **prior to their approval**, ensuring that environmental considerations are integrated into decision-making and promoting **sustainable development**. The effectiveness of EIA hinges on the participation of stakeholders, especially environmental NGOs and activists.
 
@@ -28878,9 +28878,9 @@ Mining is often a double-edged sword-while it significantly contributes to econo
 1. Explanation_PWOnlyIAS:
 Source Question: Mineral resources are fundamental to the country’s economy and these are exploited by mining. Why is mining considered an environmental hazard? Explain the remedial measures required to reduce the environmental hazard due to mining.
 
-**Core Demand of the Question:**
-- Mining as an Environmental Hazard
-- Remedial Measures for Environmental Hazard Reduction
+> **Core Demand of the Question:**
+> - Mining as an Environmental Hazard
+> - Remedial Measures for Environmental Hazard Reduction
 
 ### Introduction
 
@@ -29678,9 +29678,9 @@ The coastal aquifers play a vital role in maintaining ecological balance by supp
 1. Explanation_PWOnlyIAS:
 Source Question: Seawater intrusion in the coastal aquifers is a major concern in India. What are the causes of seawater intrusion and the remedial measures to combat this hazard?
 
-**Core Demand of the Question:**
-- Causes of Seawater Intrusion in Coastal Aquifers.
-- Remedial measures to combat this hazard.
+> **Core Demand of the Question:**
+> - Causes of Seawater Intrusion in Coastal Aquifers.
+> - Remedial measures to combat this hazard.
 
 ### Introduction
 
@@ -29899,9 +29899,9 @@ Addressing groundwater depletion in India requires a multi-faceted approach comb
 1. Explanation_PWOnlyIAS:
 Source Question: Examine the factors responsible for depleting groundwater in India. What are the steps taken by the government to mitigate such depletion of groundwater?
 
-**Core Demand of the Question:**
-- Mention the factors responsible for depleting groundwater in India.
-- Steps taken by the Government to mitigate such depletion of groundwater.
+> **Core Demand of the Question:**
+> - Mention the factors responsible for depleting groundwater in India.
+> - Steps taken by the Government to mitigate such depletion of groundwater.
 
 ### Introduction
 
@@ -30101,10 +30101,10 @@ Addressing industrial pollution of river water in India requires a multi-faceted
 1. Explanation_PWOnlyIAS:
 Source Question: Industrial pollution of river water is a significant environmental issue in India. Discuss the various mitigation measures to deal with this problem and also the government’s initiatives in this regard. (Answer in 150 words)
 
-**Core Demand of the Question:**
-- Discuss how industrial pollution of river water is a significant environmental issue in India.
-- Discuss the various measures for the mitigation of Industrial pollution of river water.
-- Outline the key government initiatives for mitigation of industrial pollution of river water.
+> **Core Demand of the Question:**
+> - Discuss how industrial pollution of river water is a significant environmental issue in India.
+> - Discuss the various measures for the mitigation of Industrial pollution of river water.
+> - Outline the key government initiatives for mitigation of industrial pollution of river water.
 
 Industrial pollution **of** river water **poses a serious environmental challenge in India, severely impacting ecosystems, public health, and livelihoods. Rapid industrialization and inadequate waste management have resulted in hazardous effluents contaminating rivers, leading to declining water quality. A notable example is the** Periyar River **, particularly the** Eloor-Edayar belt **, home to over 285 industrial companies, with more than 100 classified as high-polluting.**
 
@@ -30767,11 +30767,11 @@ The **Government of India** has issued a set of priority actions based on the go
 1. Explanation_PWOnlyIAS:
 Source Question: What is disaster resilience? How is it determined? Describe various elements of a resilience framework. Also mention the global targets of Sendai Framework for Disaster Risk Reduction (2015-2030). (Answer in 250 words)
 
-**Core Demand of the Question:**
-- Discuss the Characteristics of Disaster Resilience.
-- Highlight the Ways in which Disaster Resilience is Determined.
-- List Key Elements of a Resilience Framework.
-- Mention the Global Targets of the Sendai Framework for Disaster Risk Reduction.
+> **Core Demand of the Question:**
+> - Discuss the Characteristics of Disaster Resilience.
+> - Highlight the Ways in which Disaster Resilience is Determined.
+> - List Key Elements of a Resilience Framework.
+> - Mention the Global Targets of the Sendai Framework for Disaster Risk Reduction.
 
 **Disaster resilience** refers to the **capacity** of communities, systems, and nations to effectively prepare for, respond to, and recover from disasters, thereby minimizing their impacts on lives, livelihoods, and infrastructure. The **Sendai Framework for Disaster Risk Reduction** (2015-2030) promotes global collaboration **to enhance resilience** through targeted actions and strategic planning.
 
@@ -33409,11 +33409,11 @@ Urban flooding driven by climate change poses significant risks to cities. Effec
 1. Explanation_PWOnlyIAS:
 Source Question: Flooding in urban areas is an emerging climate-induced disaster. Discuss the causes of this disaster. Mention the features of two such major floods in the last two decades in India. Describe the policies and frameworks in India that aim at tackling such floods. (Answer in 250 words)
 
-**Core Demand of the Question:**
-- Discuss How Urban Flooding is an Emerging Climate-Induced Disaster.
-- Discuss the Causes of Urban Flooding.
-- List the Major Floods in the Last Two Decades in India.
-- Highlight the Policies and Frameworks in India to Tackle Urban Flooding.
+> **Core Demand of the Question:**
+> - Discuss How Urban Flooding is an Emerging Climate-Induced Disaster.
+> - Discuss the Causes of Urban Flooding.
+> - List the Major Floods in the Last Two Decades in India.
+> - Highlight the Policies and Frameworks in India to Tackle Urban Flooding.
 
 Urban areas across India are becoming increasingly vulnerable to flooding, a situation worsened by climate change and challenges in **urban development**. These floods cost lives, damage infrastructure, and **disrupting regional economy**, ushering the urgent need for effective management and adaptation strategies.
 
@@ -34356,11 +34356,11 @@ Through initiatives like BADP and BIM, India is not only enhancing border securi
 1. Explanation_PWOnlyIAS:
 Source Question: India has a long and troubled border with China and Pakistan fraught with contentious issues. Examine the conflicting issues and security challenges along the border. Also give out the development being undertaken in these areas under the Border Area Development Programme (BADP) and Border Infrastructure and Management (BIM) Scheme. (Answer in 250 words)
 
-**Core Demand of the Question:**
-- Discuss the Conflicting Issues and Security Challenges Along the India-Pakistan Border.
-- Discuss the Conflicting Issues and Security Challenges Along the India-China Border.
-- Mention the Developments Undertaken Under the Border Area Development Programme (BADP).
-- Highlight the Developments Undertaken Under the Border Infrastructure and Management (BIM) Scheme.
+> **Core Demand of the Question:**
+> - Discuss the Conflicting Issues and Security Challenges Along the India-Pakistan Border.
+> - Discuss the Conflicting Issues and Security Challenges Along the India-China Border.
+> - Mention the Developments Undertaken Under the Border Area Development Programme (BADP).
+> - Highlight the Developments Undertaken Under the Border Infrastructure and Management (BIM) Scheme.
 
 India shares extensive and strategically significant borders with **China (3,488 km)** and **Pakistan (3,323 km)**, which have long been sources of geopolitical tensions and military confrontations. These borders are characterized by a complex array of conflicting issues and security challenges that significantly impact **national security** and **regional stability.**
 
@@ -35525,11 +35525,11 @@ India’s maritime security is central to its economic well-being, energy access
 1. Explanation_PWOnlyIAS:
 Source Question: Why is maritime security vital to protect India&#8217;s sea trade? Discuss maritime and coastal security challenges and the way forward.
 
-**Core demand of the Question:**
-- Why Maritime Security is Vital to Protect India’s Sea Trade
-- Maritime Security Challenges
-- Coastal Security Challenges
-- Way Forward
+> **Core Demand of the Question:**
+> - Why Maritime Security is Vital to Protect India’s Sea Trade
+> - Maritime Security Challenges
+> - Coastal Security Challenges
+> - Way Forward
 
 ### Introduction
 
@@ -36067,9 +36067,9 @@ Amidst the rapid growth of **digital technology** and the increasing reliance on
 1. Explanation_PWOnlyIAS:
 Source Question: Describe the context and salient features of the Digital Personal Data Protection Act, 2023. (Answer in 150 words)
 
-**Core Demand of the Question:**
-- Describe the context of the Digital Personal Data Protection Act, 2023.
-- Highlight the salient features of the Digital Personal Data Protection Act, 2023.
+> **Core Demand of the Question:**
+> - Describe the context of the Digital Personal Data Protection Act, 2023.
+> - Highlight the salient features of the Digital Personal Data Protection Act, 2023.
 
 The **Digital Personal Data Protection Act, 2023**, is a vital advancement in India’s data privacy framework. It establishes regulations to protect personal information amidst growing digital interactions, balancing individual rights with the needs of businesses and government, and cultivating **consumer trust** and **accountability** in data management.
 
@@ -37559,10 +37559,10 @@ By combining technological solutions, digital literacy initiatives, and collabor
 1. Explanation_PWOnlyIAS:
 Source Question: Social media and encrypting messaging services pose a serious security challenge. What measures have been adopted at various levels to address the security implications of social media? Also suggest any other remedies to address the problem.
 
-**Core Demand of the Question:**
-- Discuss the Ways in which Social Media and Encrypting Messaging Services Pose a Serious Security Challenge.
-- List the Measures Adopted to Address the Security Implications of Social Media.
-- Other remedies to address the problem.
+> **Core Demand of the Question:**
+> - Discuss the Ways in which Social Media and Encrypting Messaging Services Pose a Serious Security Challenge.
+> - List the Measures Adopted to Address the Security Implications of Social Media.
+> - Other remedies to address the problem.
 
 Social media **and** encrypted messaging services **have fundamentally transformed communication, enabling unprecedented levels of connectivity and privacy. However, these platforms also present significant security challenges that can undermine** national security **, raise** privacy concerns **, and facilitate the** spread of misinformation.
 
@@ -38714,9 +38714,9 @@ LWE is both a security and socio-economic challenge rooted in alienation. Its el
 1. Explanation_PWOnlyIAS:
 Source Question: The Government of India recently stated that Left Wing Extremism (LWE) will be eliminated by 2026. What do you understand by LWE and how are the people affected by it? What measures have been taken by the Government to eliminate LWE?
 
-**Core Demand of the Question:**
-- Impact of Left-Wing Extremism (LWE) on People.
-- Measures Taken by the Government to Eliminate LWE.
+> **Core Demand of the Question:**
+> - Impact of Left-Wing Extremism (LWE) on People.
+> - Measures Taken by the Government to Eliminate LWE.
 
 ### Introduction
 
@@ -39574,11 +39574,11 @@ While significant strides have been made in fostering peace through accords, cha
 1. Explanation_PWOnlyIAS:
 Source Question: What are the major challenges to internal security and peace process in the North-Eastern States? Map the various peace accords and agreements initiated by the government in the past decade.
 
-**Core Demand of the Question:**
-- Major Challenges to Internal Security in the North-East
-- Major Challenges to the Peace Process in the North-East
-- Major Peace Accords in the Past Decade
-- Major Agreement in the Past Decade
+> **Core Demand of the Question:**
+> - Major Challenges to Internal Security in the North-East
+> - Major Challenges to the Peace Process in the North-East
+> - Major Peace Accords in the Past Decade
+> - Major Agreement in the Past Decade
 
 ### Introduction
  **Historically,** insurgency in the North-East drew strength from **identity grievances, difficult terrain,** and **cross-border sanctuaries**. Recent years show a sharp fall in violence alongside a shift to **dialogue** and **development-centric stabilization.** Extremist incidents **fell 76%** from **2014** to **2022,** enabling focused reforms.
@@ -39889,9 +39889,9 @@ The state has developed a multi-faceted approach to combat terrorism. Yet, the e
 1. Explanation_PWOnlyIAS:
 Source Question: Terrorism is a global scourge. How has it manifested in India? Elaborate with contemporary examples. What are the countermeasures adopted by the State? Explain.
 
-**Core Demand of the Question:**
-- Discuss the Manifestations of Terrorism in India with contemporary examples.
-- Countermeasures Adopted by the State.
+> **Core Demand of the Question:**
+> - Discuss the Manifestations of Terrorism in India with contemporary examples.
+> - Countermeasures Adopted by the State.
 
 ### Introduction
 
@@ -40063,9 +40063,9 @@ A Multi-faceted approach is essential to counter narco-terrorism. Strengthening 
 1. Explanation_PWOnlyIAS:
 Source Question: Explain how narco-terrorism has emerged as a serious threat across the country. Suggest suitable measures to counter narco-terrorism. (Answer in 150 words)
 
-**Core Demand of the Question:**
-- Discuss how narco terrorism emerged as a serious threat in India.
-- Suggest suitable measures to combat the threat of narco-terrorism.
+> **Core Demand of the Question:**
+> - Discuss how narco terrorism emerged as a serious threat in India.
+> - Suggest suitable measures to combat the threat of narco-terrorism.
 
 Narco-terrorism **is an escalating threat in India, intertwining** drug trafficking **with the financing of** terrorist activities **. This issue presents significant challenges to** national security **and** public health, **exacerbated by India’s geographical vulnerability to narcotics smuggling. In response, the government established the** Narcotics Control Bureau (NCB) **, which plays a crucial role in combating drug-related crimes and coordinating anti-narcotics initiatives.**
 

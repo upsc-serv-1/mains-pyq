@@ -11,12 +11,13 @@ This file contains the combined solved papers for GS4 subjects in logical order.
 
 ### Answer
 
-> **Core Demand of the Question:**
-> - Arguments Supporting Clausewitz’s View
-> - Limitations in the Present Context
+| **Core Demand of the Question** <br>• Arguments Supporting Clausewitz’s View <br>• Limitations in the Present Context |
+| --- |
 
 ### Introduction
 **Clausewitz** saw war as an instrument to secure political aims when diplomacy fails. In the 21st century, however, the rise of h **ybrid wars, cyber conflicts,** and **economic** **coercion** challenges this classical understanding, raising questions about how states pursue power, peace, and ethics in modern conflict.
+
+
 
 ### Body
 
@@ -39,6 +40,8 @@ This file contains the combined solved papers for GS4 subjects in logical order.
 - **Changing nature of conflict:** Hybrid warfare, terrorism, and information wars blur war–peace boundaries, making Clausewitz’s linear view inadequate.
 - **Eg:** The 2020 Mumbai power grid cyber-attack.
 
+
+
 ### Conclusion
 
 Wars may still serve **political ends**, but in an age where humanity bears the heaviest costs, ethical statecraft calls for **dialogue**, **cooperation**, and **fairness** to guide decisions. War thus remains not only the last and costliest resort, but also the least moral path in the practice of politics.
@@ -54,9 +57,8 @@ Wars may still serve **political ends**, but in an age where humanity bears the 
 
 ### Answer
 
-> **Core Demand of the Question:**
-> - Significance of Constitutional Morality for Public Servants
-> - Role of Constitutional Morality in Promoting Good Governance and Accountability in Public Administration
+| **Core Demand of the Question** <br>• Significance of Constitutional Morality for Public Servants <br>• Role of Constitutional Morality in Promoting Good Governance and Accountability in Public Administration |
+| --- |
 
 ### Introduction
 
@@ -86,6 +88,8 @@ Wars may still serve **political ends**, but in an age where humanity bears the 
 - **Citizen-Centric Governance:** Embeds **seva bhava** (spirit of service), prioritising dignity and welfare over expediency.
 - **Eg:** Transparent implementation of DBT ensuring subsidies reach intended beneficiaries.
 
+
+
 ### Conclusion
 
 For public servants, constitutional morality is **the foundation of ethical administration**. By blending professionalism with constitutional values, it ensures **good governance** and **accountability**. As Ambedkar warned, democracy in India rests not only on institutions but also on the **constitutional morality of those who serve them**.
@@ -101,12 +105,14 @@ For public servants, constitutional morality is **the foundation of ethical admi
 
 ### Answer
 
-> **Core Demand of the Question:**
-> - Role of Reason and Critical Thinking in an Ethical Framework
+| **Core Demand of the Question** <br>• Role of Reason and Critical Thinking in an Ethical Framework |
+| --- |
 
 ### Introduction
 
 Social re-engineering **through welfare schemes demands** civil servants **act as** ethical decision-makers **.**Reason**and**critical thinking **within an ethical framework ensure initiatives reach intended beneficiaries, prevent misuse, and uphold human dignity. Philosophical insights from** Aristotle **and** Rawls **emphasize prudence, duty, and fairness in public administration.**
+
+
 
 ### Body
 
@@ -129,6 +135,8 @@ Social re-engineering **through welfare schemes demands** civil servants **act a
 - **Adopting a Participatory Approach:** Engaging **local stakeholders** fosters ownership and improves effectiveness.
 - **Eg:** ***Gram Sabha***: **monitoring of**MGNREGA **projects ensures accountability and community participation.**
 
+
+
 ### Conclusion
 
 Reasoned judgment and ethical deliberation are indispensable for civil servants implementing welfare schemes. Guided by **Aristotle’s prudence, Kantian duty, and Amartya Sen’s Capability Approach**, civil servants can ensure interventions are efficient, equitable, and transformative, translating policy into **meaningful social change**while safeguarding **human dignity.**
@@ -144,8 +152,8 @@ Reasoned judgment and ethical deliberation are indispensable for civil servants 
 
 ### Answer
 
-> **Core Demand of the Question:**
-> - Key Ethical Dilemmas in the Age of Social Media
+| **Core demand of the Question** <br>• Key Ethical Dilemmas in the Age of Social Media |
+| --- |
 
 ### Introduction
 
@@ -168,6 +176,8 @@ Social media, a powerful medium of communication and mobilisation, fosters expre
 - **Eg:** Social media’s role in influencing voter behaviour during the *2019 General Elections.*
 - **Accountability vs Anonymity:** While anonymity protects whistleblowers, it also enables cyberbullying and trolling, raising questions of **Kantian ethics** (duty and respect for persons).
 
+
+
 ### Conclusion
 
 Social media embodies both **opportunities** and **dilemmas**. It is not technology itself but its **use** and **regulation** that determine outcomes. As **Aristotle’s** idea of the **“golden mean”** suggests, the ethical path lies in balancing rights with responsibilities, ensuring that social media strengthens democracy, inclusivity, and human dignity in the digital age.
@@ -183,8 +193,8 @@ Social media embodies both **opportunities** and **dilemmas**. It is not technol
 
 ### Answer
 
-> **Core Demand of the Question:**
-> - Specific Measures for Ensuring Accountability and Proper Utilisation of Public Funds
+| **Core Demand of the Question** <br>• Specific Measures for Ensuring Accountability and Proper Utilisation of Public Funds |
+| --- |
 
 ### Introduction
 
@@ -210,6 +220,8 @@ India’s economic growth is a promising indicator of progress, but the **misuse
 - **Training Public Servants in Financial Integrity and Ethics:** Regular **training programs** for civil servants on **financial management**, **ethics**, and **compliance** to improve competence and reduce mismanagement of funds.
 - **Eg:** LBSNAA (Lal Bahadur Shastri National Academy of Administration)*: **includes modules on** ethics and financial responsibility **in its training for IAS officers.**
 
+
+
 ### Conclusion
 
 To ensure the **proper utilisation** of public funds, it is crucial to implement measures such as **digital monitoring**, **regular audits**, **transparent procurement**, and **citizen involvement**. These measures help **prevent misuse, reduce inefficiency**, and promote a culture of **accountability** in public administration, fostering **trust** in government systems.
@@ -225,8 +237,8 @@ To ensure the **proper utilisation** of public funds, it is crucial to implement
 
 ### Answer
 
-> **Core Demand of the Question:**
-> - Suitable Measures for Ensuring a Value-Based and Compliance-Based Work Culture
+| **Core Demand of the Question** <br>• Suitable Measures for Ensuring a Value-Based and Compliance-Based Work Culture |
+| --- |
 
 ### Introduction
 
@@ -251,6 +263,8 @@ An ethical work culture is the backbone of any successful organization. A **code
 - **Strong Legal and Ethical Compliance Framework:** Civil servants must follow **legal frameworks** to ensure compliance with statutory and ethical standards.
 - **Eg:** The **RTI Act** ensures **transparency** and accountability in government functioning.
 
+
+
 ### Conclusion
 
 Creating a **value-based**and **compliance-driven work culture** requires a**systematic approach,**including a well-defined code of ethics, leadership commitment, and accountability mechanisms. Ethical training, whistleblower protection, monitoring, and recognition systems must work in tandem to build a transparent, accountable, and inclusive organization.
@@ -266,12 +280,14 @@ Creating a **value-based**and **compliance-driven work culture** requires a**sys
 
 ### Answer
 
-> **Core Demand of the Question:**
-> - Ethical Dilemmas in Environmental Clearances for Border Development
+| **Core Demand of the Question** <br>• Ethical Dilemmas in Environmental Clearances for Border Development |
+| --- |
 
 ### Introduction
 
 *“Prithivi tvam amritasya putri – O Earth, you are the daughter of immortality”* (Rig Veda) reflects the sacredness of nature and our moral duty to safeguard it. In **fragile border regions**, this duty often collides with the imperative of national security. This intersection opens up complex **ethical dilemmas** that demand closer examination.
+
+
 
 ### Body
 
@@ -283,6 +299,8 @@ Creating a **value-based**and **compliance-driven work culture** requires a**sys
 - **National Security vs. Human Security:** Infrastructure may strengthen border defence but displace local communities, erode cultural rights, and undermine livelihoods. The ethical concern arises when **narrow state-centric security** undermines holistic human well-being.
 - **Short-term Expediency vs. Long-term Resilience:** Expedient clearances enhance present preparedness. Yet, neglecting **ecological safeguards** increases **vulnerability** to disasters, even jeopardizing defence infrastructure itself.
 - **Sovereign Responsibility vs. Global Commitments:** India must balance sovereign defence priorities with its ethical obligation under climate and biodiversity agreements. Ignoring ecological norms undermines **credibility** and **global moral responsibility**.
+
+
 
 ### Conclusion
 **Ethical dilemmas** in environmentally sensitive border areas demand balancing **national security**, **development**, and **ecological responsibility**. Policies must integrate justice, tribal rights, and sustainability. As the *Rig Veda* reminds us, protecting the Earth is a **sacred duty**, and **ethical governance** ensures that development strengthens the nation without eroding rights, culture, or the environment.
@@ -298,9 +316,8 @@ Creating a **value-based**and **compliance-driven work culture** requires a**sys
 
 ### Answer
 
-> **Core Demand of the Question:**
-> - Major Teachings of Mahavira
-> - Contemporary Relevance of Mahavir’s Teachings
+| **Core Demand of the Question** <br>• Major Teachings of Mahavira <br>• Contemporary Relevance of Mahavir’s Teachings |
+| --- |
 
 ### Introduction
 
@@ -325,6 +342,8 @@ This statement, based on **Kantian duty ethics**, highlights that the highest mo
 - **Contributing to Societal Development:** Civil servants achieve fulfilment by actively contributing to **societal progress** and seeing their policies lead to long-lasting positive change.
 - **Eg:** ***Aruna Roy,* through the***: **Mazdoor Kisan Shakti Sangathan (MKSS),* played a crucial role in making government actions transparent through** social audits **, contributing to** good governance **.**
 
+
+
 ### Conclusion
 
 The highest perfection in life, as a civil servant, comes not from personal accolades or material success but from a **devotion to duty** with **integrity, impartiality**, and a **focus on public welfare**. The true reward for a civil servant lies in the **ethical satisfaction** of contributing to the greater good while upholding constitutional values.
@@ -340,8 +359,8 @@ The highest perfection in life, as a civil servant, comes not from personal acco
 
 ### Answer
 
-> **Core Demand of the Question:**
-> - Power of Attitude in Shaping Personal and Social Change
+| **Core Demand of the Question** <br>• Power of Attitude in Shaping Personal and Social Change |
+| --- |
 
 ### Introduction
 
@@ -366,6 +385,8 @@ William James’ statement underscores the profound **power of personal attitude
 - **Inspiring Collective Transformation:** When an individual alters their attitude, it can influence the attitudes of others, leading to **collective transformation** in society.
 - **Eg:** ***The #MeToo Movement***: saw individual stories of courage transform global conversations about sexual harassment, leading to social change and policy reforms.
 
+
+
 ### Conclusion
 
 William James’ quote highlights the power of **individual agency** in transforming life by shifting attitudes. By moving from passive acceptance to **active ethical engagement**, we foster **personal growth**, **social justice**, and **ethical leadership**. This requires **self-awareness**, **ethical responsibility**, and a commitment to the **common good**, making James’ insight a timeless principle for creating a more **equitable world**.
@@ -381,8 +402,8 @@ William James’ quote highlights the power of **individual agency** in transfor
 
 ### Answer
 
-> **Core Demand of the Question:**
-> - Role of Morality in Societal Strength: Swami Vivekananda’s Perspective
+| **Core Demand of the Question** <br>• Role of Morality in Societal Strength: Swami Vivekananda’s Perspective |
+| --- |
 
 ### Introduction
 
@@ -406,6 +427,8 @@ Swami Vivekananda’s quote emphasizes that **moral values**, rather than legal 
 - **Building a Moral Society through Education:** Moral education:**shapes a society where laws are respected due to internal moral beliefs, not fear of punishment.**
 - **Eg:** ***Finland’s education system***: **embeds** ethical values **, contributing to the nation’s success in** healthcare **,** education **, and** governance **.**
 
+
+
 ### Conclusion
 
 Swami Vivekananda’s quote underscores that **society’s true strength** lies in **moral integrity** rather than the **mere presence of laws**. By fostering a **moral society**, we can ensure **justice, equality**, and **collective prosperity** where both individuals and leaders are committed to ethical values for the **common good**.
@@ -421,11 +444,13 @@ Swami Vivekananda’s quote underscores that **society’s true strength** lies 
 
 ### Answer
 
-> **Core Demand of the Question:**
-> - Ethical Essence of Composure in Adversity
+| **Core Demand of the Question** <br>• Ethical Essence of Composure in Adversity |
+| --- |
 
 ### Introduction
 **Thiruvalluvar**, through this couplet from the **Tirukkural*,** asserts that individuals who maintain **inner calm and composure** in adverse situations can overcome difficulties effectively. In other words, it is not the external problem (“trouble”) that determines the outcome, but the inner state of the person facing it. One who remains unshaken mentally can defeat and transform adversity itself.
+
+
 
 ### Body
 
@@ -447,6 +472,8 @@ Swami Vivekananda’s quote underscores that **society’s true strength** lies 
 - **Conflict Resolution and Mediation:** Remaining unruffled in disputes helps mediate with fairness and diffuse tension.
 - **Eg:** Kiran Bedi, IPS, used calm mediation in Tihar Jail reforms, transforming the atmosphere and relationships among inmates.
 
+
+
 ### Conclusion
 
 Thiruvalluvar’s wisdom is a reminder that our inner state molds how we address external adversity. By embodying fortitude, equanimity, and emotional intelligence, ethical leaders and civil servants do not just cope with problems; they often resolve or “trouble” the very nature of trouble itself. This timeless lesson in composure under stress is foundational for ethical governance and public service.
@@ -462,12 +489,14 @@ Thiruvalluvar’s wisdom is a reminder that our inner state molds how we address
 
 ### Answer
 
-> **Core Demand of the Question:**
-> - Specific Measures for Acting as an Enabler and Facilitator
+| **Core Demand of the Question** <br>• Specific Measures for Acting as an Enabler and Facilitator |
+| --- |
 
 ### Introduction
 
 *“A good government is the art of enabling the people, not controlling them.”* In today’s dynamic administrative framework, civil servants are expected to evolve beyond the traditional role of **regulation** and **enforcement**. They must become active **enablers of growth**, fostering an environment that promotes **entrepreneurship, innovation**, and **inclusive development**. This shift from being mere regulators to facilitators is key to achieving **holistic development** in society.
+
+
 
 ### Body
 
@@ -487,6 +516,8 @@ Thiruvalluvar’s wisdom is a reminder that our inner state molds how we address
 - **Practicing Emotional Intelligence and Empathy:** Civil servants should resolve grievances patiently and mediate community conflicts, building trust and goodwill.
 - **Eg:** A tehsildar personally intervening in family disputes to prevent escalation.
 
+
+
 ### Conclusion
 
 By acting as an enabler, a civil servant can transform governance into a growth-oriented, citizen-centric process. Holistic development is realized when economic growth, social welfare, environmental sustainability, and technological advancement proceed together. As Simon Sinek aptly says, *“Leadership is not about being in charge. It is about taking care of those in your charge.”*
@@ -498,12 +529,13 @@ By acting as an enabler, a civil servant can transform governance into a growth-
 
 ### Answer
 
-> **Core Demand of the Question:**
-> - Major Teachings of Mahavira
-> - Contemporary Relevance of Mahavir’s Teachings
+| **Core Demand of the Question** <br>• Major Teachings of Mahavira <br>• Contemporary Relevance of Mahavir’s Teachings |
+| --- |
 
 ### Introduction
 **Lord Mahavira**, the **24th Tirthankara of Jainism**, was a great spiritual teacher and reformer. He propagated an ethical philosophy rooted in ahimsa (non-violence), self-restraint, and spiritual liberation through **right faith, right knowledge,** and **right conduct** (the **Three Jewels* of Jainism** ).
+
+
 
 ### Body
 
@@ -533,6 +565,8 @@ By acting as an enabler, a civil servant can transform governance into a growth-
 - **Syadvada:** Promotes pluralism and dialogue
 - **Eg:** ***Conflict resolution***: **in multi-ethnic societies like** South Africa **under Mandela’s leadership.**
 
+
+
 ### Conclusion
 
 Mahavira’s ethics, grounded in **universal compassion, truth**, and **self-discipline**, offer a guiding light to navigate modern challenges from environmental crises to moral dilemmas, proving that ancient wisdom holds enduring relevance in shaping a **just, peaceful**, and **inclusive world**.
@@ -548,9 +582,8 @@ Mahavira’s ethics, grounded in **universal compassion, truth**, and **self-dis
 
 ### Answer
 
-> **Core Demand of the Question:**
-> - Examine that the application of Artificial Intelligence as a dependable source of input for administrative rational decision-making is a debatable issue.
-> - Discuss how AI can be used in a prudent manner.
+| **Core Demand of the Question** <br>• Examine that the application of Artificial Intelligence as a dependable source of input for administrative rational decision-making is a debatable issue. <br>• Discuss how AI can be used in a prudent manner. |
+| --- |
 
 ### Answer
 
@@ -587,10 +620,8 @@ The application of **Artificial Intelligence** in administrative decision-making
 
 ### Answer
 
-> **Core Demand of the Question:**
-> - Explain the essence of the statement “Ethics encompasses several key dimensions that are crucial in guiding individuals and organisations towards morally responsible behaviour.
-> - Explain the key dimensions of ethics that influence human actions.
-> - Discuss how these dimensions shape ethical decision-making in the professional context.
+| **Core Demand of the Question** <br>• Explain the essence of the statement “Ethics encompasses several key dimensions that are crucial in guiding individuals and organisations towards morally responsible behaviour. <br>• Explain the key dimensions of ethics that influence human actions. <br>• Discuss how these dimensions shape ethical decision-making in the professional context. |
+| --- |
 
 ### Answer
 
@@ -623,10 +654,8 @@ Ethics encompasses a range of **moral principles** that guide **human actions**,
 
 ### Answer
 
-> **Core Demand of the Question:**
-> - Explain the essence of the quote: “It is not enough to talk about peace, one must believe in it; and it is not enough to believe in it, one must act upon it”.
-> - Discuss that the “Major weapon industries of the developed nations are adversely influencing the continuation of a number of wars for their own self-interest, all around the world”.
-> - Highlight the ethical considerations of the powerful nations in today’s international arena to stop continuation of ongoing conflicts.
+| **Core Demand of the Question** <br>• Explain the essence of the quote: “It is not enough to talk about peace, one must believe in it; and it is not enough to believe in it, one must act upon it”. <br>• Discuss that the “Major weapon industries of the developed nations are adversely influencing the continuation of a number of wars for their own self-interest, all around the world”. <br>• Highlight the ethical considerations of the powerful nations in today’s international arena to stop continuation of ongoing conflicts. |
+| --- |
 
 ### Answer
 
@@ -663,10 +692,8 @@ To truly address global conflicts, powerful nations must balance their economic 
 
 ### Answer
 
-> **Core Demand of the Question:**
-> - Discuss how global warming and climate change are the outcomes of human greed in the name of development.
-> - Examine how global warming and climate change is indicating extinction of organisms and loss of life on Earth.
-> - Discuss strategies to protect life and bring equilibrium between society and the environment.
+| **Core Demand of the Question** <br>• Discuss how global warming and climate change are the outcomes of human greed in the name of development. <br>• Examine how global warming and climate change is indicating extinction of organisms and loss of life on Earth. <br>• Discuss strategies to protect life and bring equilibrium between society and the environment. |
+| --- |
 
 ### Answer
 
@@ -702,9 +729,8 @@ To truly address global conflicts, powerful nations must balance their economic 
 
 ### Answer
 
-> **Core Demand of the Question:**
-> - Explain the essence of the quote “Faith is of no avail in the absence of strength. Faith and strength, both are essential to accomplish any great work.”
-> - Examine the relevance of the quote in the present context.
+| **Core Demand of the Question** <br>• Explain the essence of the quote “Faith is of no avail in the absence of strength. Faith and strength, both are essential to accomplish any great work.” <br>• Examine the relevance of the quote in the present context. |
+| --- |
 
 ### Answer
 **Vallabhbhai Patel**, a towering figure in India’s struggle for independence, remarked **faith** and **strength** as essential elements for achieving **greatness**. **Faith** provides the **motivation**, **purpose**, and **perseverance** needed to overcome challenges. It’s the belief that something is possible, even when circumstances seem daunting. **Strength** is the physical, mental, and emotional capacity to act on that belief. It’s the ability to work hard, endure hardships, and make sacrifices.
@@ -743,9 +769,8 @@ Sardar Patel’s philosophy highlights the need for a **balanced approach**, whe
 
 ### Answer
 
-> **Core Demand of the Question:**
-> - Explain the quote “In Law, a Man is Guilty When he Violates the Rights of Others”.
-> - Explain the quote “In Ethics, he is Guilty if he Only Thinks of Doing So”
+| **Core Demand of the Question** <br>• Explain the quote “In Law, a Man is Guilty When he Violates the Rights of Others”. <br>• Explain the quote “In Ethics, he is Guilty if he Only Thinks of Doing So” |
+| --- |
 
 ### Answer
 
@@ -778,10 +803,8 @@ The distinction between **legal** and **ethical guilt** highlights the broader *
 
 ### Answer
 
-**Core Demand of Question:**
-- Discuss how the concept of Just and Unjust is contextual.
-- Explain the essence of the statement “What was just a year back, may turn out to be unjust in today’s context. Changing context should be constantly under scrutiny to prevent miscarriage of justice.”
-- Suggest ways in which changing context should be constantly under scrutiny to prevent miscarriage of justice.
+| **Core Demand of Question** <br>• Discuss how the concept of Just and Unjust is contextual. <br>• Explain the essence of the statement “What was just a year back, may turn out to be unjust in today’s context. Changing context should be constantly under scrutiny to prevent miscarriage of justice.” <br>• Suggest ways in which changing context should be constantly under scrutiny to prevent miscarriage of justice. |
+| --- |
 
 ### Answer
 **Justice is not static**; it evolves with societal values and norms. As **John Rawls** stated, “Justice is the first virtue of social institutions, as truth is of systems of thought.” What was considered just in the past may seem unjust today due to shifting societal contexts.
@@ -816,9 +839,8 @@ Justice must constantly evolve with societal, technological, and moral changes t
 
 ### Answer
 
-> **Core Demand of the Question:**
-> - Discuss how mindless addiction to Form, ignoring the Substance of the matter, results in rendering injustice.
-> - Discuss that a perceptive civil servant is one who ignores such literalness and carries out true intent.
+| **Core Demand of the Question** <br>• Discuss how mindless addiction to Form, ignoring the Substance of the matter, results in rendering injustice. <br>• Discuss that a perceptive civil servant is one who ignores such literalness and carries out true intent. |
+| --- |
 
 ### Answer
 
@@ -852,7 +874,8 @@ Governance should prioritise **substantive justice** over rigid formalism, ensur
 
 ### Answer
 
-**Core Demand of Question ● Discuss how ‘Code of Conduct’ and ‘Code of Ethics’ are the sources of guidance in public administration. ● Suggest a suitable model for code of ethics to maintain integrity, probity and transparency in governance:**
+| **Core Demand of Question:** ● Discuss how ‘Code of Conduct’ and ‘Code of Ethics’ are the sources of guidance in public administration. ● Suggest a suitable model for code of ethics to maintain integrity, probity and transparency in governance |
+| --- |
 
 ### Answer
 
@@ -890,11 +913,13 @@ A well-implemented **Code of Ethics**, supported by a strong **Code of Conduct**
 
 ### Answer
 
-**Core Demand of Question ● Discuss how soul of the new law, Bharatiya Nyaya Sanhita (BNS) is Justice, Equality and Impartiality based on Indian culture and ethos ● Discuss a major shift from a doctrine of punishment to justice in the present judicial system:**
+| **Core Demand of Question** ● Discuss how soul of the new law, Bharatiya Nyaya Sanhita (BNS) is Justice, Equality and Impartiality based on Indian culture and ethos ● Discuss a major shift from a doctrine of punishment to justice in the present judicial system |
+| --- |
 
 ### Answer
 
 **The** Bharatiya Nyaya Sanhita (BNS) **marks a monumental shift in India’s judicial penal system, aligning modern legal frameworks with** ancient Indian principles of justice **. As** Mahatma Gandhi **emphasised, “Justice that love gives is a surrender; justice that law gives is a punishment,” the BNS seeks to balance these ideals by embodying** Justice, Equality, **and** Impartiality **rooted in India’s ethical traditions.** Soul of the new law, Bharatiya Nyaya Sanhita (BNS), embodies Justice, Equality, and Impartiality based on Indian culture and ethos
+
 
 **Justice:**
 - **Incorporation of Restorative Justice:** Emphasising principles of restorative justice similar to traditional **Indian panchayat systems**, BNS focuses on reconciliation and healing for both victims and offenders rather than pure retribution. **For example:Section 4(f)** of BNS incorporates **community service** as a form of punishment, highlighting restorative justice principles.
@@ -923,10 +948,8 @@ The **Bharatiya Nyaya Sanhita** aspires to modernise India’s criminal justice 
 
 ### Answer
 
-**Core Demand of Question:**
-- Highlight how in Indian culture and value system, an equal opportunity has been provided irrespective of gender identity.
-- Examine the gender-specific challenges faced by female public servants.
-- Suggest suitable measures to increase their efficiency in discharging their duties and maintaining high standards of probity.
+| **Core Demand of Question:** <br>• Highlight how in Indian culture and value system, an equal opportunity has been provided irrespective of gender identity. <br>• Examine the gender-specific challenges faced by female public servants. <br>• Suggest suitable measures to increase their efficiency in discharging their duties and maintaining high standards of probity. |
+| --- |
 
 ### Answer
 
@@ -966,7 +989,8 @@ Achieving gender equality in public service is crucial for the holistic developm
 
 ### Answer
 
-**Core Demand of Question ● Discuss how Mission Karmayogi ensures high standard of conduct and behaviour to ensure efficiency for serving citizens and in turn developing oneself ● Discuss how this scheme will empower civil servants in enhancing productive efficiency and delivering the services at the grassroots level:**
+| **Core Demand of Question:** ● Discuss how Mission Karmayogi ensures high standard of conduct and behaviour to ensure efficiency for serving citizens and in turn developing oneself ● Discuss how this scheme will empower civil servants in enhancing productive efficiency and delivering the services at the grassroots level |
+| --- |
 
 ### Answer
 
@@ -1001,9 +1025,8 @@ Mission Karmayogi aims to instil **efficiency, integrity,** and **accountability
 
 ### Answer
 
-> **Core Demand of the Question:**
-> - Discuss the significance of adapting and applying lessons in a way that suits your own personality and beliefs, instead of copying others.
-> - Examine the relevance of the quote in the present context.
+| **Core Demand of the Question** <br>• Discuss the significance of adapting and applying lessons in a way that suits your own personality and beliefs, instead of copying others. <br>• Examine the relevance of the quote in the present context. |
+| --- |
 
 ### Answer
 **Swami Vivekananda’s** quote, “Learn everything that is good from others, but bring it in, and in your own way absorb it, do not become others,” advocates for embracing valuable knowledge while maintaining one’s individuality. This idea is central to **ethical living**, ensuring that while we learn from **diverse cultures and practices**, we adapt those lessons to align with our personal beliefs and identity.
@@ -1040,6 +1063,7 @@ Mission Karmayogi aims to instil **efficiency, integrity,** and **accountability
 
 Corruption involves the misuse of power, authority, or resources for personal gain, often violating ethical principles and values. In contrast, core values represent fundamental beliefs and guiding principles reflecting the central priorities and ethical standards. **For example, integrity is a core value directly opposing the corrupt practice of embezzlement.**
 
+
 ### Body
 
 **Corruption as the Manifestation of the Failure of Core Values in Society:**
@@ -1055,6 +1079,7 @@ Corruption involves the misuse of power, authority, or resources for personal ga
 - **Ethical Leadership:** Foster integrity in public and private sectors through ethical leadership, setting high moral standards. **Notable examples include Dr. Mariazeena Johnson, Chancellor of Sathyabama Institute of Science and Technology, as a beacon of ethical leadership in the Indian business world.**
 - **Civil Society Engagement:** Empower NGOs and watchdog groups to monitor government activities, advocate for transparency, and mobilize public opinion against corruption, **as exemplified by the Ghana Integrity Initiative, engaging citizens in monitoring public services and advocating for anti-corruption reforms.**
 - **Use of Technology:** Leverage technology to reduce opportunities for corruption, **such as implementing e-government initiatives and blockchain for transparency, to modernize and streamline processes while minimizing corrupt practices.**
+
 
 ### Conclusion
 
@@ -1079,8 +1104,10 @@ The deterioration of core values within society creates an ideal environment for
 
 Moral intuition and moral reasoning are pivotal cognitive processes in shaping our moral judgments. Moral intuition operates as an immediate, emotion-driven response, whereas moral reasoning involves a deliberate, rational analysis before reaching a moral decision. **For example, in a distressing situation, moral intuition prompts instinctive help, while moral reasoning assesses potential risks and benefits before deciding on the appropriate action.**
 
+
 ### Body
 **Difference between ‘Moral Intuition’ and ‘Moral Reasoning’:**
+
 | **Aspects** | **Moral Intuition** | **Moral Reasoning** |
 | --- | --- | --- |
 | **Definition** | Immediate and automatic judgement about the right or wrong of a situation, often driven by emotions and instinctive reactions. | The deliberate process of determining right or wrong through logical analysis, involving critical thinking and evaluation of ethical principles. |
@@ -1130,6 +1157,8 @@ Swami Vivekananda, a prominent Indian philosopher and spiritual leader, implores
 **Environmental Stewardship: Vivekananda’s philosophy of interconnectedness and responsibility extends to environmental concerns. For instance, organizations like Greenpeace exemplify this love for the planet through direct actions such as protesting against deforestation and advocating for responsible resource management.**
 - **Global Solidarity:** In times of crisis, such as the COVID-19 pandemic, Vivekananda’s message inspires global solidarity and acts of kindness. **Acts of support and humanitarian aid exemplify** the positive cycle of love and compassion that benefits not only individuals but entire communities.
 
+
+
 ### Conclusion
 
 In the convoluted tapestry of human emotions and choices, Swami Vivekananda’s profound message serves as a guiding light, urging individuals to choose love and compassion over hatred. By choosing love and compassion, we can perpetuate a virtuous cycle that not only enriches our lives but also contributes to the well-being of our communities, nations, and the world at large.\
@@ -1153,6 +1182,7 @@ In the convoluted tapestry of human emotions and choices, Swami Vivekananda’s 
 
 Social capital refers to the collective value of trust, cooperation, and mutual support within a social network or community, facilitating collaboration and shared resources, **such as neighbours helping each other during a crisis due to pre-existing bonds of trust and reciprocity.**
 
+
 ### Body
 
 **Understanding Social Capital:**
@@ -1168,6 +1198,7 @@ Social capital refers to the collective value of trust, cooperation, and mutual 
 - **Conflict Resolution:** High social capital promotes peaceful conflict resolution through negotiation and mediation, fostering stability and peace—vital for good governance. **For example, property disputes are often resolved through community mediation instead of lengthy legal procedures.**
 - **Reducing Corruption:** Social capital acts as a deterrent to corruption, as communities with strong social networks are less susceptible to corrupt practices. **For instance, self-help groups promote transparency and accountability in financial transactions, reducing corruption at the grassroots level.**
 - **Inclusivity:** Social capital promotes inclusivity by ensuring that marginalized and disadvantaged groups have a voice in governance. **For instance, cooperative societies have enabled marginalized farmers to collectively influence policies and gain better access to agricultural resources.**
+
 
 ### Conclusion
 
@@ -1192,8 +1223,10 @@ Social capital serves as a vital foundation for effective governance structures.
 
 In the workplace, coercion employs force or intimidation, while undue influence manipulates trust, both leading to unfair control over decision-making. These behaviours result in abusive management, eroding trust, hindering communication, and fostering an unhealthy work environment. **For example, a supervisor coercing employees into unpaid overtime or using undue influence for personal gain undermines a healthy work environment.**
 
+
 ### Body
 **Differences between ‘Coercion’ and ‘Undue Influence’ within a Work Environment:**
+
 | **Aspect** | **Coercion** | **Undue Influence** |
 | --- | --- | --- |
 | **Definition** | The act of forcing someone to act in an involuntary manner through the use of threats, intimidation, or some other form of pressure | The subtle act of manipulating someone, exploiting a position of power to sway decisions or behaviours |
@@ -1202,7 +1235,9 @@ In the workplace, coercion employs force or intimidation, while undue influence 
 | **Manifestation** | Can manifest as bullying, harassment, or violence in the workplace. | Generally manifests as manipulation, persuasion, and exploitation of power dynamics |
 | **Impact** | Creates a hostile work environment impacting the mental well-being of employees. | Can lead to a stressful work environment with employees feeling pressured and manipulated |
 | **Ethical Considerations** | Raises serious ethical concerns as it involves a violation of individual autonomy and consent | Ethically questionable as it undermines the autonomy of individuals through subtle manipulation |
-| **Examples** | <br>• **Forcing an employee to work overtime regularly under the threat of termination.** <br>• **Sexual harassment cases where individuals are forced into unwanted situations.** | <br>• **A manager subtly suggesting that helping them with personal errands might be favourable for the employee’s career.** <br>• **Using one’s influence to sway performance appraisals and promotions unduly.** | **Conclusion** The distinction between ‘coercion’ and ‘undue influence’ in the workplace is pivotal for nurturing a healthy and ethical work environment. By embracing comprehensive policies, ensuring whistleblower protection, setting up ethics hotlines, and investing in leadership development, we can lay the foundation for cultivating an atmosphere characterised by profound respect and unwavering integrity.
+| **Examples** | <br>• **Forcing an employee to work overtime regularly under the threat of termination.** <br>• **Sexual harassment cases where individuals are forced into unwanted situations.** | <br>• **A manager subtly suggesting that helping them with personal errands might be favourable for the employee’s career.** <br>• **Using one’s influence to sway performance appraisals and promotions unduly.** |
+
+**Conclusion** The distinction between ‘coercion’ and ‘undue influence’ in the workplace is pivotal for nurturing a healthy and ethical work environment. By embracing comprehensive policies, ensuring whistleblower protection, setting up ethics hotlines, and investing in leadership development, we can lay the foundation for cultivating an atmosphere characterised by profound respect and unwavering integrity.
 
 [Question ID: 2023-gs4-q28-pwonlyias]
 
@@ -1267,6 +1302,7 @@ Conscience, emphasised by **thinkers like Socrates,** serves as an intrinsic mor
 - **Vulnerability to Manipulation:** Conscience can be manipulated or misguided, particularly when individuals are under external pressure or influenced by group dynamics. **A relevant example is the phenomenon of groupthink, where individuals may suppress their personal moral judgments in favor of conforming to a group’s unethical actions.**
 - **Legal and Social Consequences:** Relying solely on conscience without considering legal or societal norms may lead to legal repercussions or social backlash in cases where individual judgment conflicts with established standards, **as exemplified by the alarming instances of mob lynching.**
 
+
 ### Conclusion
 
 To navigate the complexities of ethical decision-making, individuals should consider both their conscience and legal standards, adhering to democratic ethics rooted in both conscience and laws, as advocated by leaders like Jawaharlal Nehru. This balanced approach ensures that personal morality aligns with societal norms, fostering a just and responsible society.
@@ -1293,6 +1329,7 @@ To navigate the complexities of ethical decision-making, individuals should cons
 
 Probity refers to the quality of absolute honesty, integrity, and moral uprightness in one’s actions and behavior, encompassing adherence to high moral standards and ethical conduct. **A financial auditor refusing a bribe and reporting irregularities found during an audit demonstrates probity.**
 
+
 ### Body
 
 **Role of Probity in Governance:**
@@ -1305,6 +1342,8 @@ Probity refers to the quality of absolute honesty, integrity, and moral uprightn
 - **Promoting Fair Competition:** Probity prevents corrupt practices, thus fostering a level playing field and ensuring markets operate efficiently, ultimately leading to economic growth. **The United States’ strict enforcement of anti-monopoly laws** exemplifies this.
 - **Human Capital Development:** Through probity in education and employment practices, emphasis is placed on merit and skills, which are essential for sustained socio-economic progress. **Germany’s vocational training system is a prime example.**
 - **Community-harmony:** Probity in governance ensures that public resources are used for the collective good, fostering social stability and unity within a society. **Switzerland’s high levels of probity are reflected in its strong community cohesion and overall social stability.**
+
+
 
 ### Conclusion
 
@@ -1357,6 +1396,7 @@ Mahatma Gandhi, a towering figure in the history of India’s struggle for indep
 - **Moral Guidance:** Through prayer, individuals may seek guidance on how to navigate moral dilemmas,:**ultimately leading them to choose actions that reflect kindness and compassion.**
 - **Social Impact:** Prayer can inspire individuals and communities to engage in acts of charity, service, and social justice. **For instance, religious communities often organize outreach programs that provide food, shelter, and support to vulnerable populations, demonstrating the tangible impact of prayer on social well-being.**
 
+
 ### Conclusion
 
 Gandhi’s wisdom still resonates today, underscoring that profound change often commences with the simplest acts of kindness. In an era marked by intricate challenges, the timeless significance of this quote urges us to adopt kindness as a guiding principle in our interactions and pursuits, ultimately steering us towards a more compassionate and harmonious world.
@@ -1397,6 +1437,8 @@ Above statement emphasizes the crucial significance of women’s empowerment in 
 - **Economic Growth:** Women’s participation in the workforce boosts the national economy through increased productivity and innovation. **A study suggests that India’s GDP could increase by $770 billion by 2025 with gender equality measures in place.**
 - **Inspirational Icons:** Iconic individuals like **Arunima Sinha, the first female amputee to conquer Mount Everest,** serve as symbols of determination and empowerment. **Conference and the Women’s India Association exemplify this commitment.**
 
+
+
 ### Conclusion
 
 In conclusion, Jawaharlal Nehru’s profound insight underscores the pivotal role of women in catalyzing societal progress. By recognizing and nurturing the potential of women in various spheres, we not only awaken societies but also pave the way for a more equitable, compassionate, and prosperous nation.
@@ -1419,6 +1461,7 @@ In conclusion, Jawaharlal Nehru’s profound insight underscores the pivotal rol
 
 Corporate governance refers to the framework of principles, practices, and regulations that guide business management. In this context, ‘moral integrity’ represents an unwavering commitment to ethical conduct, honesty, and the preservation of moral values throughout an organization. Conversely, ‘professional efficiency’ pertains to the competence and effectiveness of an organization’s leadership in carrying out its responsibilities, making informed and efficient decisions to achieve organizational goals. **The Tata Group exemplifies these principles.**
 
+
 ### Body
 
 **Moral Integrity in the Context of Corporate Governance in India:**
@@ -1432,6 +1475,8 @@ Corporate governance refers to the framework of principles, practices, and regul
 - **Risk Management:** Professional efficiency also extends to an organization’s ability to identify, assess, and mitigate risks effectively. **HDFC Bank, for instance, maintains stability in India’s volatile financial sector through robust risk management practices.**
 - **Transparent Reporting:** Timely and accurate financial reporting is essential in corporate governance. **Reliance Industries’ transparent accounting practices serve as a model of professional efficiency in this context.**
 - **Ethical Conduct:** Upholding ethical standards is paramount for organizations in India’s corporate governance landscape. **The Aditya Birla Group’s strong ethical framework guides its operations, reinforcing its professional efficiency in corporate governance.**
+
+
 
 ### Conclusion
 
@@ -1458,6 +1503,7 @@ In conclusion, ‘moral integrity’ and ‘professional efficiency’ in the co
 
 Emotional Quotient (EQ) and Intelligence Quotient (IQ) represent two distinct facets of human abilities. EQ involves the ability to understand and manage one’s own emotions as well as the emotions of others, while IQ serves as a tool to measure a person’s cognitive abilities. **For instance, a person’s ability to remain focused and productive during a crisis at home reflects their EQ, whereas solving puzzles within a given time frame tests one’s IQ.**
 
+
 ### Body
 
 **Importance of EQ:**
@@ -1470,6 +1516,8 @@ Emotional Quotient (EQ) and Intelligence Quotient (IQ) represent two distinct fa
 - **Narrow Definition of Success:** Relying solely on IQ restricts the definition of success to academic or career achievements, disregarding broader aspects **like happiness, personal fulfillment, and ethical values** that emotional skills encompass.
 - **Unrealized Potential:** Depending only on IQ can result in untapped potential, as it doesn’t account for unique talents and strengths that individuals possess but may not align with traditional cognitive measures.
 - **Limited Scope:** IQ’s focus on academic and problem-solving abilities fails to capture qualities **like resilience, motivation, and integrity,** which play a substantial role in character development and overall well-being.
+
+
 
 ### Conclusion
 
@@ -1509,6 +1557,7 @@ Guru Nanak, the founder of Sikhism, lived in the late 15th and early 16th centur
 - **Altruism:** In today’s age of economic disparities, environmental challenges, and humanitarian crises, Guru Nanak’s teaching of **“Vaand Chhako”** encourages individuals to transcend self-centered perspectives. This fosters a sense of responsibility for fellow human beings and the planet as a whole.
 - **Social Equality:** Guru Nanak’s rejection of the caste system and emphasis on social equality inspire contemporary efforts for inclusive, equitable communities, **like inter-caste marriages and educational programs in India, promoting social justice and respect for all.**
 
+
 ### Conclusion
 
 Guru Nanak’s teachings, grounded in compassion, equality, and spirituality, provide an enduring and timeless guide for navigating the complexities of the contemporary world. His wisdom offers a universal message that inspires individuals and societies to pursue a more just, compassionate, and harmonious world, rendering his teachings highly relevant and indispensable in addressing the multifaceted challenges of our modern age.
@@ -1529,11 +1578,14 @@ Guru Nanak’s teachings, grounded in compassion, equality, and spirituality, pr
 
 ### Introduction
 
+
 **Empathy and compassion** are crucial attributes that can make civil servants more effective in their roles.
 
 These qualities help civil servants to understand the needs and concerns of the people they serve, and to develop policies and programs that are more responsive to those needs.
 
 <p align="center"><img src="images/pw_ethics_theoretical_questions_q636_img1.webp" alt="Empathy and compassion" /></p>
+
+
 
 ### Body
 
@@ -1549,6 +1601,8 @@ These qualities help civil servants to understand the needs and concerns of the 
 - **Eg:** ***Dr. Prakash Amte***: **an Indian civil servant and social worker, along with his wife** Dr. Mandakini Amte **, established Lok Biradari Prakalp, an organization focused on providing healthcare, education, and livelihood support to tribal communities in Maharashtra.**
 - **Conflict resolution and problem-solving:** Compassion allows civil servants to approach conflicts and challenges with understanding and a focus on finding equitable solutions that benefit all stakeholders.
 - **Eg:** ***Kamal Kishore***: a civil servant, played a significant role in the post-disaster management efforts during the 2013 Uttarakhand floods in India.
+
+
 
 ### Conclusion
 **Empathy and compassion** should be considered alongside intellectual competence and moral qualities as critical attributes for civil servants to possess. By emphasizing the importance of empathy and compassion in the civil service, we can help ensure that our policies and programs are designed to truly serve the needs of our communities.
@@ -1576,6 +1630,8 @@ These qualities help civil servants to understand the needs and concerns of the 
 
 ### Body
 
+
+
 **Here some of the examples to illustrate the quote:**
 - **Freedom of Speech vs. Hate Speech:** **Legal Right:** Individuals have the right to express their opinions freely.
 - **Ethical Responsibility:** It is not right to engage in hate speech or spread false information that incites violence or promotes discrimination.
@@ -1601,6 +1657,8 @@ These qualities help civil servants to understand the needs and concerns of the 
 - **Legal Right:** Citizens have the right to peaceful assembly and protest.
 - **Ethical Responsibility:** It is not right to engage in violent or disruptive protests that harm public order or put lives at risk.
 - **For instance,:** when activist **Medha Patkar** leads peaceful protests against unjust land acquisitions and displacement, she exercises her right to protest while adhering to ethical principles of non-violence and respect for public safety.
+
+
 
 ### Conclusion
 
@@ -1636,6 +1694,8 @@ In all of these examples, ethical considerations go beyond legal or personal rig
 - **Example ,:** Sarvepalli Radhakrishnan, a philosopher and teacher, became the second President of India. He was an advocate of education and believed that it was essential for developing ethical and moral values in young people.
 - **Example,:** Dr. APJ Abdul Kalam, the former President of India, was deeply influenced by his teacher, Sivasubramania Iyer. Iyer was a strict disciplinarian and instilled in Kalam a strong work ethic and a love for science and technology. These values inspired Kalam to pursue a career in aerospace engineering and later to become one of India’s most beloved and respected leaders.
 
+
+
 ### Conclusion
 
 In conclusion, fathers, mothers, and teachers play a vital role in shaping the moral and ethical values of individuals in Indian society. By instilling in young people a sense of responsibility, empathy, and compassion, they can help create a corruption-free and equitable society.
@@ -1663,10 +1723,11 @@ It is essential to recognize and appreciate the role that fathers, mothers, and 
 
 While CSR has gained momentum in recent years, the question remains whether it is efficient and sufficient enough to fulfill the social roles and responsibilities needed in the corporate world.
 
+
+
 ### Body
 
 **Significance of CSR initiatives**
-
 <p align="center"><img src="images/pw_ethics_theoretical_questions_q669_img1.webp" alt="corporate governance" /></p>
 
 - On the one hand, **CSR initiatives** have brought about positive changes in society, including environmental sustainability, education, healthcare, and poverty alleviation.
@@ -1675,6 +1736,8 @@ While CSR has gained momentum in recent years, the question remains whether it i
 - **Additionally,:** CSR initiatives can serve as a smokescreen for corporations to mask unethical and exploitative business practices, such as labor rights violations, environmental degradation, and tax evasion.
 - Therefore, it is important for corporations to adopt a more comprehensive approach to social responsibility, one that is integrated into their core business operations and values.
 - This could include incorporating sustainable business practices, ensuring fair and ethical treatment of employees and suppliers, and engaging in transparent and accountable corporate governance.
+
+
 
 ### Conclusion
 
@@ -1700,6 +1763,8 @@ While CSR initiatives have their place in corporate responsibility, they are not
 
 <p align="center"><img src="images/pw_ethics_theoretical_questions_q671_img1.webp" alt="ethics in human life" /></p>
 
+
+
 ### Body
 
 - **Ethical values assist in the resolution of conflicts faced by individuals in their day-to-day functioning.:** When ethical values are embraced and practiced, they provide a framework for individuals to make decisions that are fair and just. This helps to reduce the likelihood of conflicts arising in the first place.
@@ -1711,12 +1776,16 @@ While CSR initiatives have their place in corporate responsibility, they are not
 - **Personal conflicts:** In personal relationships, conflicts can arise due to differences in opinions or values. Ethical values such as empathy and respect can guide individuals towards resolving these conflicts in a way that is beneficial for all parties involved.
 - **For example,:** if two friends have a disagreement over a sensitive topic such as politics or religion, they can use their ethical values to engage in a respectful dialogue that allows both parties to express their opinions and understand each other’s perspectives. This can lead to a constructive resolution of the conflict, where both parties feel heard and respected.
 
+
+
 ### Conclusion
 
 Ethical values provide a framework for individuals to make decisions that are fair, just, and beneficial for all parties involved. They guide individuals towards resolving conflicts in a constructive manner, and foster a culture of trust and cooperation that is essential for the smooth functioning of organizations and systems.
 
 | **Value Addition:**
-- Ethics: **Ethics refers to the moral principles and values that guide individuals and societies in distinguishing right from wrong, influencing behavior and decision-making.** Examples: **<br>•** Ela Bhatt **: Founder of SEWA, dedicated to promoting the rights and welfare of marginalized women workers. <br>•** Ratan Tata: **Former chairman of Tata Sons, prioritized ethical business practices and corporate social responsibility. |**
+- Ethics: **Ethics refers to the moral principles and values that guide individuals and societies in distinguishing right from wrong, influencing behavior and decision-making.** Examples: **<br>•** Ela Bhatt **: Founder of SEWA, dedicated to promoting the rights and welfare of marginalized women workers. <br>•** Ratan Tata: **Former chairman of Tata Sons, prioritized ethical business practices and corporate social responsibility.
+
+|**
 | --- |
 
 [Question ID: 2022-gs4-q41-pwonlyias]
@@ -1740,12 +1809,16 @@ Ethical values provide a framework for individuals to make decisions that are fa
 
 ### Body
 
+
+
 **Here some of the examples to illustrate the quote:**
 **Entrepreneurship:**
 - Starting a business requires a lot of hard work, dedication, and sacrifice. Successful entrepreneurs often have to give up their free time, personal relationships, and sometimes even financial security to get their business off the ground.
 - They may have to work long hours, give up weekends and holidays, and invest their own money into the business. However, the reward for this sacrifice can be a successful and thriving business that provides financial stability and personal fulfillment. **Education** Achieving success in education often requires significant sacrifice. Students may have to give up their social life, hobbies, and sometimes even time with their family to study and complete assignments. **They may have to forego opportunities for part-time work or internships to focus on their studies, and sometimes they may even have to take out student loans to pay for tuition. However, the reward for this sacrifice can be a degree that opens up doors to higher-paying jobs and opportunities for personal and professional growth.** Athletes Professional athletes often have to make significant sacrifices to achieve success in their sport. They may have to give up time with their family and friends to train, travel extensively, and maintain a strict diet and exercise routine.
 - They may also have to endure injuries, setbacks, and disappointments to reach their goals. However, the reward for this sacrifice can be a successful and fulfilling career, financial security, and the opportunity to inspire and motivate others.
 - To achieve success, individuals may have to give up their free time, personal relationships, financial security, and more. However, the reward for this sacrifice can be significant, including financial stability, personal fulfillment, and the opportunity to inspire and motivate others.
+
+
 
 ### Conclusion
 
@@ -1772,6 +1845,8 @@ By judging success not just by what we achieve but also by what we are willing t
 
 ### Body
 
+
+
 **Ethical issues involved in digitisation**
 
 - **Inequitable Access:** Limited internet access and technological infrastructure disproportionately affect vulnerable sections, such as rural communities, tribal populations, and economically disadvantaged individuals, widening the digital divide.
@@ -1784,6 +1859,8 @@ By judging success not just by what we achieve but also by what we are willing t
 - **Eg:** Instances of online stalking and harassment of women on social media platforms highlight the need for robust safeguards and mechanisms to protect vulnerable individuals.
 - **Bias and Discrimination:** Online algorithms and automated decision-making systems may perpetuate biases and discrimination, affecting vulnerable populations, such as marginalized communities and ethnic minorities.
 - **Eg:** Biased facial recognition technology that disproportionately misidentifies individuals with darker skin tones can lead to discriminatory outcomes in law enforcement and public surveillance.
+
+
 
 ### Conclusion
 
@@ -1815,6 +1892,8 @@ It is also important to be aware of the potential biases and discrimination that
 - **For example,:** consider a negative-minded officer working in the field of public safety. This officer may interpret the rules and regulations in a way that restricts their ability to build relationships with the community they serve.
 - Instead of using their discretion to communicate with the community and establish trust, this officer may view the rules as a way to limit their interactions and maintain a distance from the community.
 
+
+
 ### Conclusion
 
 It is essential to encourage civil servants to adopt a positive mindset and approach towards their work, so that they can use their discretion in a way that benefits the community they serve. By doing so, we can ensure that civil servants are able to achieve positive outcomes and make a meaningful difference in the lives of the people they serve.
@@ -1840,6 +1919,8 @@ It is essential to encourage civil servants to adopt a positive mindset and appr
 
 ### Body
 
+
+
 **Ethical issues involved in Ukraine Russia War**
 
 - **One of the primary ethical issues:** is the **principle of non-intervention**, which prohibits states from using force or intervening in the affairs of other states. While some countries may argue that intervention is necessary to protect human rights and prevent further conflict, it can also be seen as a violation of sovereignty and the right to self-determination.
@@ -1847,6 +1928,8 @@ It is essential to encourage civil servants to adopt a positive mindset and appr
 - **Additionally:** , **the principle of discrimination**, which requires that the use of force be directed only at legitimate military targets and not harm civilians, has been called into question. There have been allegations of indiscriminate attacks on civilian areas, such as residential neighborhoods and hospitals, leading to the loss of innocent lives and damage to essential infrastructure.
 - The impact of the conflict on **human rights and the humanitarian situation** is also a significant ethical issue. The conflict has led to the displacement of hundreds of thousands of people, including refugees and internally displaced persons, as well as reports of human rights abuses and violations, such as arbitrary detention, torture, and extrajudicial killings.
 - Moreover, the **economic and environmental consequences** of the conflict are also ethical concerns. The conflict has disrupted trade, damaged infrastructure, and caused environmental damage, such as oil spills, leading to long-term economic and environmental consequences for both countries.
+
+
 
 ### Conclusion
 
@@ -1872,6 +1955,8 @@ Russia-Ukraine conflict raises numerous ethical issues related to the use of for
 
 <p align="center"><img src="images/pw_ethics_theoretical_questions_q301_img1.webp" alt="good governance" /></p>
 
+
+
 ### Body
 
 **Recent initiatives in terms of e-Governance steps taken by the State have greatly helped the beneficiaries**
@@ -1886,6 +1971,8 @@ Russia-Ukraine conflict raises numerous ethical issues related to the use of for
 - **Eg:** Centralized Public Grievance Redress and Monitoring System (CPGRAMS:**) has made it easier for beneficiaries to register complaints and seek resolution.**
 - **Efficient Service Delivery:** E-Governance has improved the efficiency and speed of service delivery.
 - **For example,:** initiatives like **Direct Benefit Transfer (DBT)** enable the direct transfer of government subsidies and benefits to beneficiaries’ bank accounts, eliminating intermediaries and reducing leakages.
+
+
 
 ### Conclusion
 
@@ -1912,6 +1999,8 @@ Russia-Ukraine conflict raises numerous ethical issues related to the use of for
 
 ### Body
 
+
+
 **To strengthen protection mechanisms for whistle-blowers, the following policy measures can be suggested:**
 - **Clear legal framework:** There should be a clear legal framework that ensures protection of whistle-blowers from retaliation, victimization, and discrimination along with proper implementation of **whistle-blowers protection act,2014.**
 - **Anonymity:** Whistle-blowers should be given the option to remain anonymous, as revealing their identity can put them in harm’s way.
@@ -1921,6 +2010,8 @@ Russia-Ukraine conflict raises numerous ethical issues related to the use of for
 - **Confidentiality:** The identity of whistle-blowers and the information provided by them should be kept confidential.
 - **Independent body:** An independent body should be established to investigate the complaints made by whistle-blowers and take appropriate action against the accused persons.
 - **Training:** Employees should be provided with regular training on how to identify and report wrongdoing, and how to protect themselves from retaliation if they do choose to blow the whistle.
+
+
 
 ### Conclusion
 
@@ -1952,6 +2043,8 @@ Strengthening protection mechanisms for whistle-blowers is essential to encourag
 - **In contrast,:** an officer who is able to distinguish between peripheral issues and core issues can make better decisions that lead to effective service delivery and good governance.
 - **For instance,:** if a police officer is faced with a situation where a minor traffic violation has led to a major conflict, the officer’s ability to distinguish between the peripheral issue of the traffic violation and the core issue of the conflict can help to resolve the situation effectively.
 
+
+
 ### Conclusion
 
 While it is important to pay attention to peripheral issues, it is crucial for an officer to **distinguish between peripheral issues and core issues.** Ignoring core issues can lead to a travesty of justice to the cause of effective service delivery and good governance, while a focus on peripheral issues can result in the misallocation of resources and a failure to achieve the desired outcomes.
@@ -1976,9 +2069,12 @@ While it is important to pay attention to peripheral issues, it is crucial for a
 
 ### Introduction
 
+
 **Social audit** is a process of assessing, monitoring and evaluating the performance of public services and programs by involving citizens and civil society organizations. It is an important tool for promoting transparency, accountability, and good governance.
 
 <p align="center"><img src="images/pw_ethics_theoretical_questions_q562_img1.webp" alt="Social audit cycle" /></p>
+
+
 
 ### Body
 
@@ -2001,6 +2097,8 @@ While it is important to pay attention to peripheral issues, it is crucial for a
 **Public Infrastructure Projects:**
 - **Eg:** For instance, the Swachh Bharat Mission (Clean India Mission) in India incorporates social audits to evaluate the progress and impact of sanitation initiatives at the grassroots level.
 - These audits involve community members inspecting the construction and usage of toilets, assessing the effectiveness of the program, and identifying any discrepancies or issues.
+
+
 
 ### Conclusion
 
@@ -2027,6 +2125,8 @@ An independent and empowered social audit mechanism is essential in every sphere
 
 <p align="center"><img src="images/pw_ethics_theoretical_questions_q483_img1.webp" alt="importance of good attiude" /></p>
 
+
+
 ### Body
 
 **Attitude building can be done in the following aspects**
@@ -2042,6 +2142,8 @@ An independent and empowered social audit mechanism is essential in every sphere
 - **For example,:** the Lal Bahadur Shastri National Academy of Administration (LBSNAA) provides training on various aspects such as leadership, ethics, and communication.
 - The Government of India has launched several initiatives to recognize and reward public servants who exhibit the right attitudes and behaviors. For example, the Prime Minister’s Awards for Excellence in Public Administration recognizes public servants who have made significant contributions to improving governance and public service delivery.
 - **The Delhi Metro Rail Corporation (DMRC):** is an excellent example of building suitable attitudes for public servants. The DMRC is known for its punctuality, efficiency, and customer service. This is achieved by emphasizing the need for its employees to be professional, accountable, and customer-focused.
+
+
 
 ### Conclusion
 
@@ -2071,6 +2173,8 @@ Building a suitable attitude for a public servant requires a multifaceted approa
 
 ### Body
 
+
+
 **Solving ethical dilemma by innovation and creativity**
 - **One such example of:** the need for innovativeness and creativity in public officials **can be seen in India’s** healthcare sector **.**
 - India is a country with a vast population and limited healthcare resources, which often leads to ethical dilemmas for public officials.
@@ -2083,6 +2187,8 @@ Building a suitable attitude for a public servant requires a multifaceted approa
 - To resolve these ethical dilemmas, public officials have to think innovatively and creatively.
 - **For example,:** some schools in India have implemented online education programs that allow students to access educational resources from anywhere, anytime.
 - In addition, some states in India have implemented innovative policies such as providing bicycles to girls to encourage them to attend school, and mid-day meal schemes to ensure that children from underprivileged backgrounds have access to nutritious food.
+
+
 
 ### Conclusion
 
@@ -2111,6 +2217,8 @@ Public officials who possess these traits can make a significant positive impact
 
 ### Body
 
+
+
 **Five ethical traits that can be used to evaluate the performance of a civil servant are:**
 - **Integrity:** – the ability to act honestly, fairly, and transparently, even in the face of pressure or temptation to do otherwise.
 - **Eg:** ***T. N. Seshan***: former Chief Election Commissioner of India, During his tenure, he introduced several reforms to ensure free and fair elections.
@@ -2122,6 +2230,8 @@ Public officials who possess these traits can make a significant positive impact
 - **Eg:** ***R. Subrahmanyam***: former Chief Secretary of Andhra Pradesh, is known for his work in promoting diversity and inclusion.
 - **Professionalism:** – the ability to maintain high standards of conduct, appearance, and communication, and to uphold the values and norms of the civil service.
 - **Eg:** ***K. Vijay Raghavan***: Principal Scientific Adviser to the Government of India, has played a key role in shaping India’s science and technology policies, and has worked to promote innovation and research across the country.
+
+
 
 ### Conclusion
 
@@ -2147,6 +2257,8 @@ Civil servants who possess these traits are more likely to earn the respect and 
 **Public servants hold a critical role in serving the interests of the public, promoting the common good, and upholding the principles of good governance. To be effective in their roles, public servants must possess a set of essential values that guide their actions and decisions.**
 
 <p align="center"><img src="images/pw_ethics_theoretical_questions_q602_img1.webp" alt="essential values of public servant " /></p>
+
+
 
 ### Body
 
@@ -2176,6 +2288,8 @@ Civil servants who possess these traits are more likely to earn the respect and 
 - **Whistle-blower protection:** The Whistle-blower Protection Act, 2014, provides protection to whistle-blowers who report corruption or malpractices in government agencies.
 - **Transparency and accountability:** The Right to Information Act, 2005, promotes transparency and accountability in government processes by allowing citizens to access government information.
 
+
+
 ### Conclusion
 
 To prevent unethical behavior in public servants, there is a need to promote a culture of integrity, transparency, and accountability in public organizations. This can be achieved through strong leadership, robust accountability mechanisms, regular training and education, and a focus on rewarding and recognizing ethical behavior.
@@ -2201,6 +2315,8 @@ To prevent unethical behavior in public servants, there is a need to promote a c
 
 ### Body
 
+
+
 **Role of digitalisation in rational decision making**
 On the one hand, digital technology has made it easier than ever before to collect and analyze large amounts of data quickly and efficiently. This has enabled businesses, governments, and individuals to make more informed decisions based on accurate, up-to-date information.
 
@@ -2211,6 +2327,8 @@ On the one hand, digital technology has made it easier than ever before to colle
 - **For example,:** Digital platforms such as Agri Bazaar, Cropin, and Ninjacart have emerged to address these challenges, providing farmers with access to real-time market information, weather forecasts, and input suppliers.
 - While these platforms have the potential to improve the efficiency and profitability of agriculture, there are concerns about their impact on traditional agricultural practices and the potential for data breaches and privacy violations.
 - **For example,:** there are concerns about the ownership of data generated by these platforms and the potential for third-party exploitation.
+
+
 
 ### Conclusion
 
@@ -2237,6 +2355,8 @@ The impact of digital technology on decision making is a complex and nuanced iss
 
 <p align="center"><img src="images/pw_ethics_theoretical_questions_q605_img1.webp" alt="Emotional intelligence" /></p>
 
+
+
 ### Body
 
 Emotional intelligence can be particularly helpful during a crisis of conscience, where individuals may experience conflicting emotions, such as guilt, fear, and anger.
@@ -2249,6 +2369,8 @@ Emotional intelligence can be particularly helpful during a crisis of conscience
 - **The Satyam Scandal:** In 2009, the chairman of Satyam Computers, Ramalinga Raju, admitted to falsifying the company’s accounts and inflating its profits. The crisis of conscience faced by Raju could have been avoided if he had practiced emotional intelligence. By recognizing and managing his emotions, Raju could have made a different decision and avoided compromising his ethical stand.
 - **The Nirbhaya Case:** In 2012, a young woman was brutally gang-raped in Delhi, which led to a widespread outrage across the country. The crisis of conscience faced by the public and the government officials could have been managed better if they had practiced emotional intelligence. By understanding and managing their emotions, the officials could have made decisions that were more empathetic towards the victim and the public.
 - **The Indian Army:** The Indian Army is known for its high level of emotional intelligence. The soldiers are trained to manage their emotions and communicate effectively with their colleagues and the public. This has helped them navigate challenging situations, such as natural disasters and border conflicts, without compromising their ethical or moral stand.
+
+
 
 ### Conclusion
 
@@ -2282,6 +2404,8 @@ Emotional intelligence can be a valuable asset for public servants to navigate a
 - **Law enforcement:** Julio Ribeiro, who served as the Director General of Police in several Indian states and was awarded the Padma Bhushan for his dedication to public service and his commitment to upholding the rule of law.
 - **Healthcare:** **Devi Shetty,** a cardiologist who founded the Narayana Health chain of hospitals and is committed to providing affordable healthcare to all.
 
+
+
 ### Conclusion
 
 Integrity empowers human beings in various fields and professions by enabling them to act in accordance with their moral principles. It inspires trust and confidence and helps to build strong relationships based on mutual respect and trust.
@@ -2307,11 +2431,15 @@ Integrity empowers human beings in various fields and professions by enabling th
 
 ### Body
 
+
+
 **Here are some examples:**
 - **Joint families:** In India, it is common for multiple generations of a family to live together in a joint family. This reflects the idea of interdependence and cooperation, as family members support and rely on each other for various needs, including emotional, financial, and practical support.
 - **Festivals and celebrations:** Indian festivals and celebrations are often community events that bring people together. For example, Diwali, the festival of lights, is celebrated by lighting lamps and sharing sweets with friends and neighbors. This reflects the idea of interdependence and cooperation, as people come together to celebrate and share their joy with each other.
 - **Social and political movements:** India has a long history of social and political movements that have aimed to promote social justice and equality. These movements have often been based on the principles of interdependence and cooperation, as people come together to fight for a common cause and support each other in the struggle.
 - **Traditional occupations:** In many parts of India, traditional occupations such as farming, fishing, and handicrafts are still prevalent. These occupations require cooperation and interdependence among members of the community, as they work together to achieve common goals and support each other in times of need
+
+
 
 ### Conclusion
 
@@ -2338,6 +2466,8 @@ The principle of interdependence and cooperation is deeply ingrained in Indian c
 
 ### Body
 
+
+
 **Examples for ethical dimension being violated by the nation claiming to be democratic with open society.**
 
 **Violation of Non-refoulement Principle:**
@@ -2352,6 +2482,8 @@ The principle of interdependence and cooperation is deeply ingrained in Indian c
 - **The US-Mexico border crisis:** In recent years, thousands of migrants from Central America have been fleeing violence and poverty in their home countries and seeking asylum in the United States. However, the US government has implemented several policies to restrict asylum seekers, including turning back asylum seekers to Mexico where they face violence and human rights abuses.
 
 In each of these examples, the countries violated the ethical obligation to protect the fundamental human rights of refugees. By turning back refugees to a place where they face persecution or human rights violations, these countries violated the principles of justice, compassion, and respect for human dignity.
+
+
 
 ### Conclusion
 
@@ -2378,6 +2510,8 @@ It is imperative that nations uphold their ethical obligation to protect the rig
 
 ### Body
 
+
+
 **Significance of impartiality and nonpartisan in civil service**
 Impartiality refers to the ability of a civil servant to make decisions based on merit and without any bias or prejudice. It means treating all individuals and groups equally, regardless of their personal characteristics, social status, or political affiliations.
 - Non-partisanship, on the other hand, refers to the ability of a civil servant to remain neutral and unbiased in political matters. It means that civil servants should not be aligned with any political party or ideology and should work for the benefit of the entire society, rather than a particular group or party. **Illustrations of the importance of impartiality and nonpartisanship can be seen in various countries.**
@@ -2385,6 +2519,8 @@ Impartiality refers to the ability of a civil servant to make decisions based on
 - Similarly, in the **United States, the Federal Reserve** is responsible for monetary policy. The Federal Reserve is known for its independence and impartiality, as it makes decisions based on economic data and analysis, without any political interference. This ensures that monetary policy decisions are made in the best interest of the economy, rather than any particular political agenda.
 - In both these examples, impartiality and non-partisanship are critical to ensuring the effective functioning of government institutions.
 - Civil servants who remain impartial and non-partisan in their work can earn the trust and respect of the public and make decisions that benefit society as a whole. This, in turn, can help to build a strong and stable democracy, where government institutions work for the common good, rather than any particular group or party.
+
+
 
 ### Conclusion
 
@@ -2421,6 +2557,8 @@ Furthermore, in Indian spirituality, the concept of ahimsa (non-violence) is dee
 - **The Dalai Lama:** The Dalai Lama, who is a revered spiritual leader, has been advocating for peace and compassion for decades. He believes that inner peace and compassion are the keys to achieving world peace and has been actively promoting these values through his teachings and public appearances.
 - **The Indian Constitution:** The Indian Constitution, which was adopted in 1950, is based on the principles of democracy, secularism, and social justice. These values are rooted in the Indian philosophy of inclusiveness, compassion, and non-violence, and they reflect the country’s commitment to promoting peace and harmony.
 
+
+
 ### Conclusion
 
 Indian culture and philosophy are deeply rooted in the principles of cultivating inner peace, compassion, and understanding towards others. This has been reflected in various aspects of Indian life, including spirituality, medicine, politics, and social movements. By following these principles, individuals and communities can create a more peaceful and harmonious world.
@@ -2451,6 +2589,8 @@ Indian culture and philosophy are deeply rooted in the principles of cultivating
 - The independence movement, which began in the early 20th century, faced numerous obstacles, including violent repression by the British authorities and divisions among the Indian political leadership.
 - However, despite these challenges, Indian leaders such as **Mahatma Gandhi and Jawaharlal Nehru** persisted in their struggle for independence, organizing mass movements and civil disobedience campaigns that eventually forced the British to grant India its freedom in 1947.
 
+
+
 ### Conclusion
 
 By following the teachings of Swami Vivekananda and continuing to persevere in the face of difficulties, individuals and societies can overcome obstacles and achieve great things.
@@ -2476,6 +2616,8 @@ By following the teachings of Swami Vivekananda and continuing to persevere in t
 
 ### Body
 
+
+
 **Here are some factors that contribute to a positive attitude:**
 - **Self-awareness and mindfulness:** Understanding one’s own emotions, values, and goals can help a person develop a positive outlook and cope with stress. Mindfulness practices, such as meditation and yoga, can also be helpful in promoting a positive attitude.
 - **Resilience and adaptability:** Having the ability to bounce back from setbacks and adapt to new situations can help a person maintain a positive attitude in the face of challenges.
@@ -2483,11 +2625,11 @@ By following the teachings of Swami Vivekananda and continuing to persevere in t
 - **Sense of purpose and fulfillment:** Having a clear sense of purpose and feeling fulfilled in one’s work can contribute to a positive attitude and motivation to succeed.
 
 <p align="center"><img src="images/pw_ethics_theoretical_questions_q483_img1.webp" alt="importance of good attiude" /></p> **Indian Examples:**
-
- **Indian Examples:**
 - **A.P.J. Abdul Kalam,:** the former President of India, was known for his positive attitude and resilience in the face of adversity. He overcame humble beginnings to become a leading scientist and later, the President of India. His inspiring story and positive outlook continue to inspire people across the country.
 - **Kiran Bedi,:** the first woman IPS officer in India, is known for her positive attitude and innovative approaches to policing. She has implemented various reforms and initiatives to improve policing and community engagement, earning her widespread respect and admiration.
 - **Swami Vivekananda,:** a spiritual leader and philosopher, emphasized the importance of a positive attitude in achieving one’s goals and living a fulfilling life. His teachings continue to inspire people across India and the world to cultivate a positive outlook and overcome obstacles with determination and perseverance.
+
+
 
 ### Conclusion
 
@@ -2513,12 +2655,16 @@ Positive attitude is essential for civil servants to effectively serve the publi
 
 ### Body
 
+
+
 **In India, there are several instances where a moral system based on emotional values has led to societal issues**
 - **Dowry System:** In India, the practice of giving and receiving dowry is based on emotional values and social pressure, rather than objective criteria. This has led to widespread exploitation of women and their families, and often results in harassment and violence against them.
 - **Communalism:** In certain parts of India, communalism is prevalent where people are identified based on their religious affiliation rather than their common humanity. This emotional value system has led to conflicts, riots, and communal tensions between different religious communities.
 - **Child Marriage:** In many parts of India, child marriage is still prevalent, where young girls are married off before reaching the age of 18. This is often based on emotional values such as family honor, protection, and social status, rather than objective criteria, and it results in a violation of the child’s rights and well-being.
 - **Discrimination based on gender and sexuality:** In India, there is still widespread discrimination against individuals based on their gender and sexual orientation. This emotional value system is based on societal prejudices rather than objective criteria and results in the denial of equal opportunities, rights, and dignity to individuals.
 - **Corruption:** Corruption in India is often based on emotional values such as greed, power, and entitlement, rather than objective morality and legality. This has resulted in a lack of transparency and accountability in the country’s governance systems, leading to widespread social and economic inequality.
+
+
 
 ### Conclusion
 
@@ -2545,6 +2691,8 @@ Socrates’ statement emphasizes the importance of having an objective moral sys
 
 Values are the individual principles or qualities that guide judgment and behavior of a person or a group. A person with strong values or character sticks to his principles and is not swept away, in crisis or under pressure.
 
+
+
 ### Body
 
 **Here are some examples from India that demonstrate the role of ethics and values in enhancing CNP:**
@@ -2553,6 +2701,8 @@ Values are the individual principles or qualities that guide judgment and behavi
 - **Soft Power (Culture and Policies):** Ethics and values are also critical in building a nation’s soft power. India is known for its rich cultural heritage, which includes diverse traditions, religions, and languages. **The principles of non-violence, tolerance, and respect for all religions** and cultures are deeply ingrained in Indian culture. These values have helped India establish itself as a global leader in the areas of spirituality, art, and literature. **Panchsheel doctrine of India.**
 - **Social Harmony:** Ethics and values play a crucial role in promoting social harmony. In India, the concept of “Ahimsa” (non-violence) is a core value that promotes peace and harmony among different communities. This value has been instrumental in maintaining social harmony in India despite its diversity.
 - **For example,:** the tradition of “Ganga-Jamuni Tehzeeb” in Lucknow, where people from different religions and cultures live together in peace and harmony, is a testament to the role of ethics and values in promoting social harmony.
+
+
 
 ### Conclusion
 
@@ -2579,6 +2729,8 @@ Ethics and values are essential in enhancing the components of CNP. By promoting
 
 ### Body
 
+
+
 **Distinguishing between Laws and Rules**
 Laws are legally binding and enforced by the state, whereas rules are typically informal and enforced by social norms and expectations.
 - Laws are usually codified in formal legal texts, whereas rules may be implicit or unwritten.
@@ -2591,6 +2743,8 @@ Laws are legally binding and enforced by the state, whereas rules are typically 
 - **The Juvenile Justice (Care and Protection of Children) Act, 2015:** Ethics guide this act by focusing on the welfare and protection of children, emphasizing compassion, rehabilitation, and ensuring their best interests.
 - **The Sexual Harassment of Women at Workplace (Prevention, Prohibition, and Redressal) Act, 2013:** Ethics are evident in this act through its emphasis on gender equality, dignity, and creating a safe and respectful work environment by preventing and addressing sexual harassment.
 - **The Scheduled Castes and Scheduled Tribes (Prevention of Atrocities) Act, 1989:** Ethics drive this act by promoting social justice, equality, and combating discrimination through prevention of atrocities against scheduled castes and tribes, protecting their rights and ensuring their welfare.
+
+
 
 ### Conclusion
 
@@ -2608,7 +2762,7 @@ Overall, the role of ethics in formulating laws and rules is crucial in ensuring
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br> • Contextual introduction or mention about education linking with NEP 2020. <br><br> **Body** <br> • Mention the role of education in promoting the holistic development of an individual and the transformation of society. <br> • Add a few points from NEP 2020 to substantiate your views. <br> • Analyze in a multi perspective. <br><br> **Conclusion** <br> • Conclude accordingly |
+| **Approach:** <br> **Introduction** <br> • Contextual introduction or mention about education linking with NEP<br>2020. <br><br> **Body** <br> • Mention the role of education in promoting the holistic development of an individual and the transformation of society. <br> • Add a few points from NEP 2020 to substantiate your views. <br> • Analyze in a multi perspective. <br><br> **Conclusion** <br> • Conclude accordingly |
 | --- |
 
 ### Introduction
@@ -2618,6 +2772,8 @@ Overall, the role of ethics in formulating laws and rules is crucial in ensuring
 The New Education Policy, 2020 (NEP, 2020) aims to address the gaps and challenges in the Indian education system and aligns with this statement.
 
 <p align="center"><img src="images/pw_ethics_theoretical_questions_q499_img1.webp" alt="role education in inculcating values" /></p>
+
+
 
 ### Body
 
@@ -2630,6 +2786,8 @@ NEP, 2020 proposes the establishment of a National Mission on Foundational Liter
 - PARAKH will be responsible for developing a comprehensive framework for student assessments that focus on learning outcomes, critical thinking, and problem-solving skills. **National Institute for Early Childhood Care and Education (NIECCE)** NEP, 2020 suggests the establishment of the National Institute for Early Childhood Care and Education (NIECCE).
 - NIECCE will focus on research, capacity building, and policy development related to early childhood care and education, promoting the importance of the early years in a child’s development. **National Academic Credit Bank (NAC-Bank)** NEP, 2020 envisions the establishment of the National Academic Credit Bank (NAC-Bank).
 - The NAC-Bank will serve as a repository of academic credits earned by students from different higher education institutions, enabling the seamless transfer of credits and encouraging interdisciplinary education.
+
+
 
 ### Conclusion
 
@@ -2656,6 +2814,8 @@ By focusing on these aspects, the NEP, 2020 can transform the Indian education s
 
 ### Body
 
+
+
 **Here are specific examples that illustrate the destructive nature of hatred at various levels:**
 
 **Individual Level:**
@@ -2666,6 +2826,8 @@ By focusing on these aspects, the NEP, 2020 can transform the Indian education s
 - **Ethnic Cleansing in the Balkans:** The Bosnian War in the 1990s witnessed ethnic cleansing fueled by deep-seated hatred. It resulted in the displacement, torture, and killing of thousands of Bosniaks, Croats, and Serbs. **Current Conflicts:**
 - **Israel-Palestine Conflict:** The ongoing Israel-Palestine conflict is fueled by deep-rooted hatred and animosity on both sides. This hatred perpetuates a cycle of violence, hindering the prospects of a peaceful resolution and causing immense suffering to civilians on both sides.
 - **Rohingya Crisis:** The persecution and violence against the Rohingya Muslim minority in Myanmar, driven by hatred and discrimination, has resulted in mass killings, sexual violence, and forced displacement of hundreds of thousands of Rohingya people.
+
+
 
 ### Conclusion
 
@@ -2692,6 +2854,8 @@ It is essential to recognize the destructive nature of hatred and to work toward
 
 ### Body
 
+
+
 **Here are some Indian examples that illustrate the power of this quote:**
 - **Mother Teresa:** Mother Teresa is one of the most well-known examples of a person who found herself through service to others. She dedicated her life to serving the poor and sick in India, and her selflessness and compassion inspired countless others to follow in her footsteps.
 - **Kailash Satyarthi:** Kailash Satyarthi is an Indian children’s rights activist who has spent his life fighting to end child labour and exploitation. His tireless work has helped to rescue thousands of children from slavery and give them a chance to lead better lives.
@@ -2701,6 +2865,8 @@ It is essential to recognize the destructive nature of hatred and to work toward
 - **Abdul Sattar Edhi:** Although Abdul Sattar Edhi was born in Pakistan, his work has had a significant impact in India as well. He was a philanthropist and social activist who founded the Edhi Foundation, which provides healthcare, education, and other services to the poor and needy. Edhi’s selfless work earned him the nickname “Angel of Mercy.”
 - **Prakash Amte:** Dr. Prakash Amte is a doctor and social worker who has dedicated his life to serving the tribal communities in the state of Maharashtra. He and his wife, Dr. Mandakini Amte, have founded a hospital and several other projects aimed at improving the lives of the tribal people in the region.
 - **Arunachalam Muruganantham:** Arunachalam Muruganantham is an inventor and social entrepreneur who developed a low-cost machine for producing sanitary pads. His invention has helped to improve menstrual hygiene and health for women in rural India, and has also created jobs for women in the manufacturing and distribution of the pads.
+
+
 
 ### Conclusion
 
@@ -2727,6 +2893,8 @@ These examples illustrate how individuals in India have found purpose and meanin
 
 ### Body
 
+
+
 **Here are some illustration to understand the meaning of quote:**
 - **Changing Social Interactions:** The rise of social media platforms has transformed the way people interact and communicate. Online platforms have provided a space for individuals to express their opinions and engage in discussions, sometimes challenging traditional norms and values.
 - **For instance,:** the #MeToo movement gained momentum in India through social media, bringing attention to issues of sexual harassment and challenging traditional power dynamics.
@@ -2737,6 +2905,8 @@ These examples illustrate how individuals in India have found purpose and meanin
 - **Rise of Online Activism:** Online platforms have given rise to a new form of activism, allowing individuals to mobilize and advocate for social causes that may be at odds with traditional values.
 - **For example,:** campaigns advocating for LGBTQ+ rights, environmental sustainability, and women’s empowerment have gained traction through online platforms, challenging traditional societal norms in India.
 - **Digital Divide and Cultural Disparities:** The internet expansion has also highlighted the digital divide and cultural disparities in India. While urban areas have better access to the internet and exposure to global cultural values, rural areas may still hold strong traditional values and face limited access to the online world.
+
+
 
 ### Conclusion
 
@@ -2763,11 +2933,15 @@ By striking a balance between traditional and emerging cultural values, we can h
 
 ### Body
 
+
+
 **The following points illustrate this viewpoint with Indian examples:**
 **Power and Diplomacy:**
 - India’s foreign policy approach is based on rationality and moral duty. It seeks to balance power dynamics and pursue diplomacy to address global challenges and conflicts. **India’s role as a mediator in international disputes, such as the peace process between Sri Lanka and Tamil separatists, showcases how the will to power can be tempered by rationality and a sense of moral duty.** Non-alignment Movement India’s founding participation in the Non-Aligned Movement (NAM) demonstrates its commitment to rationality and principles of moral duty in international relations.
 - NAM emphasized the importance of non-alignment with major power blocs, advocating for independent foreign policy based on peaceful coexistence, mutual respect, and respect for sovereignty. **Global Governance and Human Rights** India’s engagement in global governance institutions like the United Nations reflects its commitment to rationality and moral duty. **India has actively participated in initiatives promoting human rights, sustainable development, and peacekeeping operations, showcasing its efforts to guide power in accordance with moral principles.** Strategic Partnerships India’s strategic partnerships with various countries, including the United States, Japan, and Australia, illustrate the balancing of power with rationality and shared values. **These partnerships aim to foster economic cooperation, regional stability, and mutual security, demonstrating how power can be guided by rationality and principles of moral duty.** Conflict Resolution India’s efforts to resolve conflicts, such as its engagement in the peace process between the Taliban and the Afghan government, highlight the country’s commitment to taming power through rationality and moral duty.
 - India has facilitated dialogue and reconciliation to address conflicts, recognizing the importance of peaceful solutions and the responsible use of power.
+
+
 
 ### Conclusion
 
@@ -2796,6 +2970,8 @@ While the will to power may exist, it is ultimately the ability to tame and guid
 
 <p align="center"><img src="images/pw_ethics_theoretical_questions_q339_img1.webp" alt="components of EI" /></p>
 
+
+
 ### Body
 
 **The main components of EI are as follows:**
@@ -2808,10 +2984,7 @@ While the will to power may exist, it is ultimately the ability to tame and guid
 - **Empathy:** This is the ability to understand and appreciate the emotions of others. Empathetic individuals can connect with others on an emotional level, leading to stronger relationships.
 - **For example,:** a healthcare professional who shows empathy towards their patients can provide better care, leading to improved health outcomes.
 - **Social Skills:** This component involves the ability to communicate effectively, build and maintain positive relationships, and work collaboratively with others. Individuals with strong social skills can lead, influence, and negotiate effectively.
-
 - **For example,:** a manager who can communicate clearly and build positive relationships with their team can create a positive work environment, leading to higher productivity and job satisfaction. **Here are some ways in which emotional intelligence can be learned:** <p align="center"><img src="images/pw_ethics_theoretical_questions_q551_img1.webp" alt="developing EI" /></p>
-
-- **For example,:** a manager who can communicate clearly and build positive relationships with their team can create a positive work environment, leading to higher productivity and job satisfaction. **Here are some ways in which emotional intelligence can be learned:** 
 - Practice self-reflection and self-awareness exercises.
 - Seek feedback from others and be open to constructive criticism.
 - Learn and practice relaxation techniques, such as deep breathing or meditation, to help regulate emotions.
@@ -2819,6 +2992,8 @@ While the will to power may exist, it is ultimately the ability to tame and guid
 - Attend workshops or training sessions on emotional intelligence and related skills, such as communication and conflict resolution.
 - Observe and learn from others who demonstrate strong emotional intelligence.
 - Set goals and create a plan to work on developing emotional intelligence skills.
+
+
 
 ### Conclusion
 
@@ -2840,7 +3015,10 @@ Through consistent practice and application of these skills, individuals can bui
 
 ### Introduction
 
+
 **Gender inequality**, as per the **World Economic Forum (WEF)**, refers to the unequal treatment, opportunities, and outcomes between individuals based on their gender. It encompasses disparities in economic participation, access to education and healthcare, political representation, and social norms.
+
+
 
 ### Body
 
@@ -2855,6 +3033,8 @@ She established the first girls’ school in India in 1848 and worked tirelessly
 She also founded a shelter for women who were victims of domestic violence and established a women’s organization to provide support and advocacy for women.
 
 Today, there are many examples of women in India who are following in Savitribai Phule’s footsteps and working to promote gender equality. **For example, Malala Yousafzai, the Pakistani activist for girls’ education and the youngest Nobel Prize laureate, is a role model for many young girls in India who are fighting for their right to education.** The **#MeToo movement in India** has also brought greater attention to issues of sexual harassment and violence against women and sparked a national conversation about gender equality.
+
+
 
 ### Conclusion
 
@@ -2881,6 +3061,8 @@ Phule’s work laid the foundation for the women’s rights movement in India an
 
 ### Body
 
+
+
 **Here are some Indian examples that illustrate the essence of this quote:**
 - **Social Service Organizations:** Numerous social service organizations in India embody the principle of helping others without condemnation. They provide support and assistance to marginalized communities, such as orphanages, old age homes, and organizations working for the welfare of differently-abled individuals.
 - **For example,:** the **Akshaya Patra Foundation** serves mid-day meals to underprivileged children, irrespective of their background or circumstances, ensuring they receive proper nutrition and education.
@@ -2890,6 +3072,7 @@ Phule’s work laid the foundation for the women’s rights movement in India an
 - **The example of Azim Premji,:** an Indian business tycoon, who has committed a significant portion of his wealth to philanthropy, focusing on education and healthcare initiatives, reflects the spirit of Swami Vivekananda’s quote.
 - **Organ Donations:** Organ donation in India reflects the idea of blessing others and letting them go their own way. Individuals who pledge to donate their organs after death provide a helping hand to those in need, regardless of their background or circumstances.
 - Various organizations, like **MOHAN Foundation,** work towards promoting organ donation and raising awareness about its importance, highlighting the selfless act of blessing others **.**
+
 
 ### Conclusion
 
@@ -2915,6 +3098,8 @@ Swami Vivekananda’s quote encourages us to be compassionate and helpful toward
 
 ### Body
 
+
+
 **Here are some of Buddha’s teachings that are particularly relevant today:**
 - **The Four Noble Truths:** Buddha’s teaching of the Four Noble Truths – the truth of suffering, the truth of the cause of suffering, the truth of the end of suffering, and the truth of the path to the end of suffering – provides a framework for understanding the nature of suffering and the path to liberation from it.
 - **The Eightfold Path:** Buddha’s teaching of the Eightfold Path – right understanding, right intention, right speech, right action, right livelihood, right effort, right mindfulness, and right concentration – provides a practical guide for living a moral and ethical life.
@@ -2924,6 +3109,8 @@ Swami Vivekananda’s quote encourages us to be compassionate and helpful toward
 - The practice of mindfulness and meditation, which has gained popularity in recent years and is now widely taught in schools, workplaces, and communities.
 - The emphasis on non-violence and compassion towards all beings, which is reflected in India’s constitution and its promotion of peace and harmony among diverse communities.
 - The importance of social and environmental responsibility, which is reflected in various initiatives aimed at promoting sustainable development, conservation of natural resources, and social welfare.
+
+
 
 ### Conclusion
 
@@ -2949,6 +3136,8 @@ Overall, Buddha’s teachings continue to inspire and guide people towards a mor
 
 <p align="center"><img src="images/pw_ethics_theoretical_questions_q472_img1.webp" alt="Nolan committee" /></p>
 
+
+
 ### Body
 
 **Principles of Public life**
@@ -2962,6 +3151,8 @@ Overall, Buddha’s teachings continue to inspire and guide people towards a mor
 - **Accountability:** Public officials should be accountable for their actions and decisions, and should be subject to scrutiny by the public and other appropriate bodies.
 - **Eg:** A public official who is transparent about their actions and decisions, and responds to questions and concerns raised by the public, demonstrates accountability.
 - In India, the Right to Information Act (RTI) provides citizens with the right to request information from any public authority, and has been used to hold public officials accountable for their actions and decisions.
+
+
 
 ### Conclusion
 
@@ -2983,6 +3174,8 @@ Overall, adherence to these principles helps to promote trust in government and 
 | --- |
 
 ##
+
+
 
 ### Introduction
 
@@ -3007,20 +3200,9 @@ The term “public servant” typically refers to an individual who is employed 
 
 Also Read: Role Of Civil Services In A Democracy
 
-##**Conclusion** By fulfilling their expected roles, public servants can help build a strong and thriving society, where the needs and interests of the public are at the forefront of all government and public institutions’ decisions and actions. **Ready to boost your UPSC 2025 preparation?** **Join PW’s UPSC online courses** today!**
-|**UPSC Exam 2025 Related Articles* | |
-| --- | --- |
-| **UPSC Prelims 2025 Exam** | **UPSC Notification 2025** |
-| **UPSC Preparation 2025** | **UPSC Eligibility 2025** |
-| **UPSC Exam Pattern** | **UPSC Syllabus** |
+##**Conclusion** By fulfilling their expected roles, public servants can help build a strong and thriving society, where the needs and interests of the public are at the forefront of all government and public institutions’ decisions and actions. **Ready to boost your UPSC 2025 preparation?** **Join PW’s UPSC online courses** today!**|**UPSC Exam 2025 Related Articles* | |
 
-| **Must Read** | |
 | --- | --- |
-| UPSC Daily Editorials | UPSC Daily Current Affairs |
-| Check Out UPSC NCERT Textbooks From PW Store | Check Out UPSC Modules From PW Store |
-| Check Out Previous Years Papers From PW Store | UPSC Test Series 2024 |
-| Daily Current Affairs Quiz | Daily Main Answer Writing |
-| Check Out UPSC CSE Books From PW Store | |
 
 [Question ID: 2019-gs4-q76-pwonlyias]
 
@@ -3042,6 +3224,8 @@ Also Read: Role Of Civil Services In A Democracy
 **Public funds are a vital resource for governments to provide essential services and invest in development projects that benefit society as a whole. However, the effective utilization of public funds remains a significant challenge for many countries around the world.**
 
 Under-utilization and mis-utilization of public funds can lead to a waste of resources, missed development opportunities, and a loss of public trust in government institutions
+
+
 
 ### Body
 
@@ -3073,6 +3257,8 @@ Under-utilization and mis-utilization of public funds can lead to a waste of res
 - **Loss of trust:** Mis-utilization of public funds can erode the public’s trust in the government and public institutions.
 - **Adverse impact on social welfare:** Mis-utilization of funds in the social welfare sector can lead to a negative impact on the marginalized sections of society.
 
+
+
 ### Conclusion
 
 Efforts must be made to improve the bureaucratic processes, enhance transparency, and promote a culture of accountability and integrity in public institutions. Moreover, citizen engagement and active participation in monitoring public funds utilization can play a vital role in ensuring that public resources are efficiently utilized and effectively contribute to the country’s development.
@@ -3098,6 +3284,8 @@ Efforts must be made to improve the bureaucratic processes, enhance transparency
 
 <p align="center"><img src="images/pw_ethics_theoretical_questions_q475_img1.webp" alt="non-performance of duty" /></p>
 
+
+
 ### Body
 
 **Here are some points to consider when justifying this view:**
@@ -3111,6 +3299,8 @@ Efforts must be made to improve the bureaucratic processes, enhance transparency
 - **Eg:** ***Vyapam scam (2013)***: Government officials manipulated entrance exams, enabling corruption through bribery and irregular admissions.
 - **Violation of legal and ethical obligations:** Public servants are bound by laws and ethical standards that require them to fulfill their duties. Non-performance can be seen as a violation of these obligations.
 - **Eg:** ***2G spectrum scam (2008)***: Officials violated regulations in allocating telecom spectrum licenses, resulting in substantial financial losses.
+
+
 
 ### Conclusion
 
@@ -3137,6 +3327,8 @@ Non-performance of duty by civil servants is a form of corruption that has signi
 
 <p align="center"><img src="images/pw_ethics_theoretical_questions_q476_img1.webp" alt="Constitutional morality" /></p>
 
+
+
 ### Body
 
 Upholding constitutional morality is essential for the functioning of a democratic society, as it ensures that the rule of law is maintained, and the rights and freedoms of citizens are protected. **Here are some ways one can uphold constitutional morality**:
@@ -3150,6 +3342,8 @@ Upholding constitutional morality is essential for the functioning of a democrat
 - The United States Supreme Court’s decision to **legalize same-sex marriage,** which upheld the principles of equality and non-discrimination enshrined in the constitution.
 - The South African Truth and Reconciliation Commission, which was established to uphold constitutional morality by promoting accountability, reconciliation, and healing in a **post-apartheid society.**
 - The adoption of the Indian Constitution, which upholds the principles of democracy, secularism, and social justice, and reflects the country’s commitment to upholding constitutional morality.
+
+
 
 ### Conclusion
 
@@ -3176,6 +3370,8 @@ These examples illustrate how upholding constitutional morality is essential for
 
 A crisis of conscience can manifest itself in the public domain when an individual or a group of individuals is confronted with a decision or action that goes against their beliefs or values.
 
+
+
 ### Body
 
 **How does the crisis of conscience manifest itself in the public domain?**
@@ -3183,6 +3379,8 @@ A crisis of conscience can manifest itself in the public domain when an individu
 - A **civil servant** who is asked to carry out an order that goes against their conscience, such as implementing a policy that discriminates against a particular community.
 - A **journalist** who is asked to publish a news article that contains false or misleading information that goes against their journalistic principles of truth and accuracy.
 - A **whistle-blower** who is faced with the dilemma of revealing sensitive information that could harm their employer or organization but is necessary to expose wrongdoing and uphold the public interest.
+
+
 
 ### Conclusion
 
@@ -3211,6 +3409,8 @@ It is important to recognize the importance of personal and professional ethics 
 
 <p align="center"><img src="images/pw_ethics_theoretical_questions_q478_img1.webp" alt="citizen charter" /></p>
 
+
+
 ### Body
 
 **Basic principles of citizens charter movement:**
@@ -3227,6 +3427,8 @@ Improves the quality of public services by setting service standards and benchma
 - Promotes citizen engagement and participation in public service delivery, which leads to greater satisfaction and trust in public institutions.
 - Increases efficiency and effectiveness of public service delivery by encouraging innovation, best practices, and performance monitoring.
 - Provides a platform for citizens to voice their concerns, make suggestions, and hold public service providers accountable for their actions.
+
+
 
 ### Conclusion
 
@@ -3253,6 +3455,8 @@ The Citizens’ Charter movement has gained significant importance in recent yea
 
 On the other hand, the RTI was enacted in 2005 to promote transparency, accountability, and citizen participation in governance by providing citizens with the right to access government information. However, there is a view that the OSA is an obstacle to the implementation of the RTI Act.
 
+
+
 ### Body
 
 **Points supporting the purpose and provisions of the Official Secrets Act:**
@@ -3264,6 +3468,8 @@ On the other hand, the RTI was enacted in 2005 to promote transparency, accounta
 - **Abuse of secrecy provisions:** Critics argue that government authorities sometimes invoke the Official Secrets Act to withhold information that should be disclosed under the RTI Act.
 - **Chilling effect on information sharing:** The existence of the Official Secrets Act can create a culture of secrecy within government institutions, discouraging officials from sharing information even when it does not pose a legitimate threat to national security.
 - **Need for reform:** Some proponents of the view argue that the Official Secrets Act itself needs to be revised or reformed to strike a balance between the legitimate protection of sensitive information and the public’s right to access information of public interest.
+
+
 
 ### Conclusion
 
@@ -3290,6 +3496,8 @@ While the OSA can be seen as an obstacle to the implementation of the RTI Act, i
 
 <p align="center"><img src="images/pw_ethics_theoretical_questions_q159_img1.webp" alt="Probity in governance" /></p>
 
+
+
 ### Body
 
 **Measures for ensuring probity in government in India:**
@@ -3303,6 +3511,7 @@ While the OSA can be seen as an obstacle to the implementation of the RTI Act, i
 - This can be achieved through measures such as establishing clear criteria for the allocation of resources, conducting consultations with stakeholders, and ensuring that procurement processes are transparent and competitive.
 - **Implementing technology-enabled solutions:** The use of technology-enabled solutions, such as e-governance platforms, can help promote transparency, efficiency, and accountability in government processes.
 - **For example, the implementation of Aadhaar, a unique identification system, has helped eliminate leakages in the distribution of subsidies and benefits.:** 
+
 
 ### Conclusion
 
@@ -3329,6 +3538,8 @@ By continuing to strengthen measures to ensure probity in governance, India can 
 
 <p align="center"><img src="images/pw_ethics_theoretical_questions_q339_img1.webp" alt="components of EI" /></p>
 
+
+
 ### Body
 
 **Examples that illustrate the importance of emotional intelligence:**
@@ -3338,6 +3549,8 @@ By continuing to strengthen measures to ensure probity in governance, India can 
 - **Stress management:** In 2021, Indian athlete **Mirabai Chanu** won a silver medal in weightlifting at the **Tokyo Olympics**. After a disappointing performance at the Rio Olympics in 2016, Chanu worked on her mental toughness and emotional resilience, which helped her cope with the pressure of competing at the highest level. Her emotional intelligence enabled her to stay focused on her goals, manage her stress levels, and ultimately succeed in her endeavor.
 - **Teamwork:** In 2020, a group of **Indian engineering students** developed a low-cost ventilator to help address the shortage of ventilators during the COVID-19 pandemic.
 - The team consisted of students from various backgrounds, including mechanical engineering, electrical engineering, and medicine. Their emotional intelligence enabled them to collaborate effectively, communicate clearly, and work towards a common goal that had a significant impact on public health.
+
+
 
 ### Conclusion
 
@@ -3369,6 +3582,8 @@ Emotional intelligence is a vital skill that can help individuals and organizati
 - Similarly, **the Bhagavad Gita,** a Hindu scripture, emphasizes the importance of self-reflection as a means of achieving self-realization and enlightenment. The text teaches that one must look within oneself to understand one’s true nature and purpose in life.
 - In modern times, the idea of self-reflection has gained popularity in the field of psychology and personal development. Many experts advocate for practices such as meditation, journaling, and therapy as means of exploring one’s thoughts and emotions.
 
+
+
 ### Conclusion
 
 The quotation by Socrates emphasizes the importance of examining one’s life in order to lead a fulfilling and purposeful existence. It encourages individuals to question their assumptions, values, and actions in order to live in alignment with their true selves
@@ -3398,6 +3613,8 @@ The quotation by Socrates emphasizes the importance of examining one’s life in
 
 <p align="center"><img src="images/pw_ethics_theoretical_questions_q328_img1.webp" alt="fundamental value of public servant" /></p>
 
+
+
 ### Body
 **Importance of these values in the context of civil services:** These values are crucial for civil servants as they are responsible for providing various public services and are expected to maintain high levels of **integrity, objectivity, and professionalism**.
 
@@ -3408,6 +3625,8 @@ These values ensure that the civil servants are accountable, efficient, and resp
 - **Objectivity:** In 2015, the Indian government launched the **Pradhan Mantri Jan Dhan Yojana (PMJDY)**, aimed at providing financial inclusion to all citizens. The scheme was implemented objectively, without any biases, and resulted in over 42 crore bank accounts being opened. The scheme was successful due to the objectivity of the civil servants involved in its implementation.
 - **Professionalism:** During the COVID-19 pandemic, Indian civil servants displayed professionalism by working tirelessly to ensure the smooth functioning of essential services.
 - **For example,:** Indian Administrative Service (IAS) officer **Dr. K. Senthil Raj** played a crucial role in controlling the spread of the virus in his district, Krishnagiri, by implementing various measures such as setting up quarantine facilities, contact tracing, and testing. His efforts were widely appreciated, and he was awarded the Prime Minister’s Excellence Award for his work.
+
+
 
 ### Conclusion
 
@@ -3433,13 +3652,16 @@ Upholding these values promotes good governance, social justice, and economic gr
 **In professional settings, organizations often establish guidelines to govern the behavior and actions of their members.**
 
 Two commonly used terms in this context are **“code of ethics”** and **“code of conduct”** While these terms may appear similar, they differ in their scope and focus **Body:**
+
 | **<br> Items** | **<br> Code of Ethics** | **Code of Conduct** |
 | --- | --- | --- |
 | **Purpose** | Sets out fundamental principles and values | Provides specific rules and guidelines |
 | **Focus** | Moral values, integrity, and overall ethical responsibilities | Specific behaviors and compliance requirements |
 | **Scope** | Broader framework for ethical decision-making | Clear expectations and standards for behavior |
 | **Applicability** | Professionals within an organization or a profession | Employees within an organization or specific context |
-| **Example** | Bar Council of India’s Code of Ethics for lawyers | Tata Group’s Code of Conduct for employees | **Examples:**
+| **Example** | Bar Council of India’s Code of Ethics for lawyers | Tata Group’s Code of Conduct for employees |
+
+**Examples:**
 **Code of Ethics:**
 - Bar Council of India’s Code of Ethics for lawyers
 - Institute of Chartered Accountants of India’s Code of Ethics
@@ -3448,12 +3670,16 @@ Two commonly used terms in this context are **“code of ethics”** and **“co
 - Infosys’ Code of Conduct for employees
 - Securities and Exchange Board of India (SEBI) Code of Conduct for market intermediaries
 
+
+
 ### Conclusion
 
 Both codes are crucial in maintaining public trust and ensuring compliance with laws and regulations. By upholding these codes, individuals and organizations can demonstrate their commitment to ethical behavior and maintain the integrity of their profession or industry.
 
 | **Value Addition:**
-- Code of Ethics **: A Code of Ethics is a set of principles or guidelines that establish standards of behavior and conduct for individuals within a profession, organization, or group, guiding them in making ethical decisions and promoting integrity and responsible behavior.** Code of Conduct **: A Code of Conduct is a set of rules and guidelines that specify the expected behavior and actions of individuals within an organization or group, outlining the standards for professional conduct, interactions, and adherence to legal and ethical obligations. |**
+- Code of Ethics **: A Code of Ethics is a set of principles or guidelines that establish standards of behavior and conduct for individuals within a profession, organization, or group, guiding them in making ethical decisions and promoting integrity and responsible behavior.** Code of Conduct **: A Code of Conduct is a set of rules and guidelines that specify the expected behavior and actions of individuals within an organization or group, outlining the standards for professional conduct, interactions, and adherence to legal and ethical obligations.
+
+|**
 | --- |
 
 [Question ID: 2018-gs4-q87-pwonlyias]
@@ -3477,6 +3703,8 @@ Both codes are crucial in maintaining public trust and ensuring compliance with 
 
 In the context of civil service, public interest refers to the obligation of civil servants to act in the best interests of the public they serve, rather than for personal gain or the interests of a specific group.
 
+
+
 ### Body
 
 **To act in the public interest, civil servants must adhere to certain principles and procedures. These include:**
@@ -3486,6 +3714,8 @@ In the context of civil service, public interest refers to the obligation of civ
 - **Respect for Human Rights and Dignity:** Civil servants must respect and protect the human rights and dignity of all individuals, regardless of their background or circumstances. They must ensure that their actions do not discriminate against or harm any individual or group.
 - **For example,:** in India, civil servants are required to follow the principles and procedures outlined in the All India Services (Conduct) Rules, 1968. These rules require civil servants to act in the public interest, uphold the integrity and impartiality of the civil service, and avoid any action that could bring discredit to the service. The rules also prohibit civil servants from engaging in any activity that is prejudicial to the interests of the state or the public.
 - Another example is the Right to Information Act, 2005, which provides citizens with the right to access information held by public authorities. Civil servants are required to provide accurate and timely information to the public under this act, promoting transparency and accountability in decision-making.
+
+
 
 ### Conclusion
 
@@ -3512,6 +3742,8 @@ In conclusion, acting in the public interest is a fundamental principle of civil
 
 <p align="center"><img src="images/pw_ethics_theoretical_questions_q430_img1.webp" alt="RTI" /></p>
 
+
+
 ### Body
 
 **How the Right to Information Act (RTI) redefines the concept of accountability?**
@@ -3533,6 +3765,8 @@ In conclusion, acting in the public interest is a fundamental principle of civil
 - The exposure of corruption in the allocation of telecom licenses in 2008, following an RTI application by an activist.
 - The disclosure of information related to the quality of mid-day meals provided to school children, following an RTI application by a group of parents.
 - The disclosure of information related to the utilization of funds allocated for the development of a village, following an RTI application by a resident of the village.
+
+
 
 ### Conclusion
 
@@ -3563,14 +3797,13 @@ The act has been instrumental in exposing corruption, ensuring good governance, 
 - A judge who owns shares in a company that is involved in a case before them.
 - A police officer who receives gifts or favors from a suspect they are investigating.
 - An auditor who is hired by a company to audit their financial statements, but also provides consulting services to the same company.
-
 - **Potential Conflict of Interest:** A potential conflict of interest arises when an individual’s personal interests could potentially influence their professional duties. **<p align="center"><img src="images/pw_ethics_theoretical_questions_q431_img1.webp" alt="COI" /></p>** For example A financial advisor who receives a commission for recommending certain investment products to clients.
-
-- **Potential Conflict of Interest:** A potential conflict of interest arises when an individual’s personal interests could potentially influence their professional duties. **** For example A financial advisor who receives a commission for recommending certain investment products to clients.
 - A journalist who owns shares in a company they are reporting on.
 - A lawyer who represents a client whose interests conflict with their own personal beliefs.
 - An academic researcher who receives funding from a company that produces a product they are researching.
 - A public official who has close personal or financial ties to a company that is seeking a government contract.
+
+
 
 ### Conclusion
 
@@ -3597,15 +3830,14 @@ In each of these situations, the individual’s personal interests could potenti
 
 ### Body
 
+
+
 **Examples of ethical dilemmas in Public Administration**
 A public official must decide whether to disclose confidential information that could prevent a serious crime from occurring.
 - A public servant must choose between honoring a superior’s orders and upholding the law.
 - A public official must decide whether to award a contract to a friend or family member who is not the most qualified bidder.
 - A public servant must decide whether to follow the official protocol or bend the rules to accommodate a VIP.
-
 - A public servant must decide whether to accept a gift from a private company that is seeking to influence a decision. **The process of resolving ethical dilemmas in Public Administration involves the following steps:** <p align="center"><img src="images/pw_ethics_theoretical_questions_q432_img1.webp" alt="ethical dilemmas" /></p>
-
-- A public servant must decide whether to accept a gift from a private company that is seeking to influence a decision. **The process of resolving ethical dilemmas in Public Administration involves the following steps:** 
 - **Recognize the ethical dilemma:** The first step is to identify the ethical issue at hand and acknowledge that it needs to be addressed.
 - **Gather information:** Collect all relevant information about the dilemma, including any laws, policies, and guidelines that apply.
 - **Identify stakeholders:** Determine the individuals or groups that may be affected by the decision, including those who may be harmed or benefited.
@@ -3615,6 +3847,8 @@ A public official must decide whether to disclose confidential information that 
 - **Implement the decision:** Once the decision has been made, take action to implement it and monitor its impact.
 - **Evaluate the decision:** Evaluate the effectiveness of the decision and make any necessary adjustments.
 
+
+
 ### Conclusion
 
 By following this process, public servants can make decisions that are in the best interest of the public while upholding ethical principles. Ultimately, a transparent and accountable decision-making process is crucial to building trust and promoting ethical behavior in public administration.
@@ -3622,7 +3856,9 @@ By following this process, public servants can make decisions that are in the be
 | **Value Addition:**
 
 **Ethical Dilemma**: An ethical dilemma refers to a situation in which a person is faced with a difficult choice between two or more conflicting moral principles or courses of action, each with potential positive and negative consequences. **Example**
-- **<br>•:** Whistleblowing: **An employee discovers their supervisor engaging in fraudulent activities. They face an ethical dilemma of whether to report the wrongdoing, risking their job and personal safety, or to remain silent, compromising their integrity. |**
+- **<br>•:** Whistleblowing: **An employee discovers their supervisor engaging in fraudulent activities. They face an ethical dilemma of whether to report the wrongdoing, risking their job and personal safety, or to remain silent, compromising their integrity.
+
+|**
 | --- |
 
 [Question ID: 2018-gs4-q91-pwonlyias]
@@ -3650,6 +3886,8 @@ By following this process, public servants can make decisions that are in the be
 - During wartime, **a soldier** may lie to the enemy about their troop movements to prevent them from attacking and causing loss of life on both sides. This lie may result in a strategic advantage for their side, leading to an overall good outcome for their nation and society.
 - In certain legal cases, a **witness may lie** under oath to prevent harm to their loved ones or to avoid being prosecuted themselves. This lie may prevent further harm or suffering, leading to an overall good outcome for individuals and society.
 
+
+
 ### Conclusion
 
 Overall, the quote emphasizes the complexity of ethical decision-making and the need to carefully weigh the consequences of one’s actions in the pursuit of a greater good. It highlights the importance of context and the need to exercise judgment and discretion in making ethical decisions.
@@ -3675,6 +3913,8 @@ Overall, the quote emphasizes the complexity of ethical decision-making and the 
 
 ### Body
 
+
+
 **Ways to resolve conflict of interests**
 
 - **Independent Oversight:** Establishing an independent oversight body or committee that reviews and monitors potential conflicts of interest in the public sector.
@@ -3691,13 +3931,17 @@ Overall, the quote emphasizes the complexity of ethical decision-making and the 
 - **Ethical Guidelines:** 
 - **Eg:** The All India Services (Conduct) Rules, 1968, provide ethical guidelines for public servants in India. Rule 13 states that public servants must not engage in any work or conduct that is inconsistent with their official duties or may compromise their integrity.
 
+
+
 ### Conclusion
 
 Overall, the key to addressing conflict of interest in the public sector is to establish a strong legal and ethical framework that promotes transparency, accountability, and impartiality in decision-making processes. **Conflict of Interest:** A conflict of interest occurs when an individual or entity has competing personal, financial, or professional interests that could potentially compromise their objectivity, judgment, or decision-making in a situation where their responsibilities require impartiality.
 
 | **Value Addition:**
 - Examples:
-- **<br>•:** Babu Bajrangi: **Government official involved in the 2002 Gujarat riots, conflicting his role with personal biases. <br>•** P. J. Thomas: **P. J. Thomas, former Chief Vigilance Commissioner (CVC) of India, faced a conflict of interest when allegations of corruption were raised against him during his tenure. |**
+- **<br>•:** Babu Bajrangi: **Government official involved in the 2002 Gujarat riots, conflicting his role with personal biases. <br>•** P. J. Thomas: **P. J. Thomas, former Chief Vigilance Commissioner (CVC) of India, faced a conflict of interest when allegations of corruption were raised against him during his tenure.
+
+|**
 | --- |
 
 [Question ID: 2017-gs4-q93-pwonlyias]
@@ -3720,6 +3964,8 @@ Overall, the key to addressing conflict of interest in the public sector is to e
 
 <p align="center"><img src="images/pw_ethics_theoretical_questions_q319_img1.webp" alt="Corporate Social Responsibility " /></p>
 
+
+
 ### Body
 
 - One way in which CSR can make companies more profitable is by enhancing their reputation and brand image. By engaging in socially responsible activities, such as supporting community development projects, reducing their carbon footprint, or promoting gender equality, companies can build a positive reputation among their customers, employees, and stakeholders. This, in turn, can lead to increased brand loyalty, customer satisfaction, and improved financial performance. **In India, there are several examples of companies that have embraced CSR and reaped the benefits.**
@@ -3729,6 +3975,8 @@ Overall, the key to addressing conflict of interest in the public sector is to e
 - **Mahindra Group:** The conglomerate has a strong focus on sustainability and has implemented several initiatives to reduce its carbon footprint and promote social development. Mahindra Group’s CSR efforts have helped the company build a positive brand image and attract socially conscious customers, while also improving its financial performance.
 - **Godrej Group:** The consumer goods company has been a pioneer in CSR in India, focusing on areas such as health and hygiene, education, and environmental sustainability. Godrej’s CSR initiatives have helped the company build a strong reputation for being a socially responsible company and have contributed to its financial success.
 - **Infosys:** The IT giant has a strong focus on sustainability and has implemented several initiatives to reduce its carbon footprint and promote social development. Infosys’s CSR efforts have helped the company build a positive brand image and attract socially conscious customers, while also contributing to its financial performance.
+
+
 
 ### Conclusion
 
@@ -3754,11 +4002,15 @@ CSR can make companies more profitable and sustainable by enhancing their reputa
 
 ### Body
 
+
+
 **Here are some examples of how excessive discipline can be counter-productive in an Indian context:**
 - **Indian schools:** In many Indian schools, discipline is enforced through strict rules and regulations, including dress codes, attendance requirements, and punishments for minor infractions. While this may help maintain order in the classroom, it can also stifle creativity and individuality, leading to a lack of innovation and critical thinking.
 - **Indian bureaucracy:** The Indian bureaucracy is notorious for its rigid hierarchy and adherence to rules and regulations. This can often result in bureaucratic delays and inefficiencies, as officials focus more on following rules rather than finding creative solutions to problems.
 - **Indian military:** In the Indian military, discipline is of utmost importance, and soldiers are expected to follow orders without question. However, excessive discipline can sometimes lead to a lack of flexibility and adaptability in the face of changing circumstances.
 - **Indian manufacturing sector:** In many Indian manufacturing companies, strict adherence to rules and regulations is emphasized, often at the expense of creativity and innovation. This can result in a lack of competitiveness in the global market, as Indian companies fail to keep up with the latest technological advancements.
+
+
 
 ### Conclusion
 
@@ -3787,6 +4039,8 @@ Therefore, it is crucial for organizations to strike a balance between maintaini
 
 <p align="center"><img src="images/pw_ethics_theoretical_questions_q328_img1.webp" alt="fundamental value of public servant" /></p>
 
+
+
 ### Body
 
 - **Transparency:** is essential in the civil service as it ensures that the actions and decisions of public officials are open and visible to the public. Transparency promotes accountability and helps to prevent corruption and abuse of power.
@@ -3803,7 +4057,9 @@ Therefore, it is crucial for organizations to strike a balance between maintaini
 | **Value Addition:**
 
 **Transparency:** The principle of transparency emphasizes openness, honesty, and disclosure in decision-making processes and actions. It promotes accountability and allows for scrutiny, ensuring that information is accessible to the public and stakeholders. **Examples**
-- **S.R. Sankaran:** – IAS officer known for promoting transparency in welfare schemes. <br>• **Aruna Roy** – Social activist and former civil servant, instrumental in advocating for transparency through the Right to Information (RTI) Act. **Accountability:** Accountability refers to the obligation of individuals and organizations to take responsibility for their actions, decisions, and the consequences thereof. It involves answerability, enforcement of ethical standards, and mechanisms to address breaches of trust. <br>• **Vinod Rai** – Former CAG who exposed financial irregularities in high-profile cases such as the 2G spectrum scam and Commonwealth Games corruption. <br>• **E. Sreedharan** – Known as the “Metro Man,” he ensured accountability and timely execution of major infrastructure projects like the Delhi Metro. **Fairness and Justice:** Fairness and justice entail treating all individuals impartially and equitably, irrespective of personal biases, social status, or any other discriminatory factors. It emphasizes adherence to the rule of law and upholding the principles of equality and justice. <br>• **Kiran Bedi** – Former IPS officer known for her efforts in prison reforms, advocating for fairness and justice within the criminal justice system. <br>• **Julio Ribeiro** – Former IPS officer who played a significant role in maintaining law and order during challenging times and promoting fairness in policing. **Courage of Conviction:** Courage of conviction refers to the ability to stand firmly by one’s beliefs, principles, and values, even in the face of opposition or adversity. It involves taking ethical stands and making difficult decisions based on what one believes to be right. <br>• **Ashok Khemka** – IAS officer who faced frequent transfers and harassment for exposing irregularities in land deals, displaying unwavering conviction in upholding transparency. <br>• **D. Roopa** – Karnataka IPS officer who exposed corruption in the prison system, demonstrating courage in her fight against malpractices. **Spirit of Service:** The spirit of service involves a selfless commitment to serving the greater good and the welfare of others. It emphasizes putting the needs of the community or nation above personal interests and working towards the betterment of society. <br>• **K. VijayRaghavan** – Civil servant known for his dedicated work in the field of rural development, contributing to the empowerment of rural communities. <br>• **Bezwada Wilson** – Activist and Magsaysay Award recipient, dedicated to eradicating manual scavenging and ensuring dignity and equality for marginalized communities. |
+- **S.R. Sankaran:** – IAS officer known for promoting transparency in welfare schemes. <br>• **Aruna Roy** – Social activist and former civil servant, instrumental in advocating for transparency through the Right to Information (RTI) Act. **Accountability:** Accountability refers to the obligation of individuals and organizations to take responsibility for their actions, decisions, and the consequences thereof. It involves answerability, enforcement of ethical standards, and mechanisms to address breaches of trust. <br>• **Vinod Rai** – Former CAG who exposed financial irregularities in high-profile cases such as the 2G spectrum scam and Commonwealth Games corruption. <br>• **E. Sreedharan** – Known as the “Metro Man,” he ensured accountability and timely execution of major infrastructure projects like the Delhi Metro. **Fairness and Justice:** Fairness and justice entail treating all individuals impartially and equitably, irrespective of personal biases, social status, or any other discriminatory factors. It emphasizes adherence to the rule of law and upholding the principles of equality and justice. <br>• **Kiran Bedi** – Former IPS officer known for her efforts in prison reforms, advocating for fairness and justice within the criminal justice system. <br>• **Julio Ribeiro** – Former IPS officer who played a significant role in maintaining law and order during challenging times and promoting fairness in policing. **Courage of Conviction:** Courage of conviction refers to the ability to stand firmly by one’s beliefs, principles, and values, even in the face of opposition or adversity. It involves taking ethical stands and making difficult decisions based on what one believes to be right. <br>• **Ashok Khemka** – IAS officer who faced frequent transfers and harassment for exposing irregularities in land deals, displaying unwavering conviction in upholding transparency. <br>• **D. Roopa** – Karnataka IPS officer who exposed corruption in the prison system, demonstrating courage in her fight against malpractices. **Spirit of Service:** The spirit of service involves a selfless commitment to serving the greater good and the welfare of others. It emphasizes putting the needs of the community or nation above personal interests and working towards the betterment of society. <br>• **K. VijayRaghavan** – Civil servant known for his dedicated work in the field of rural development, contributing to the empowerment of rural communities. <br>• **Bezwada Wilson** – Activist and Magsaysay Award recipient, dedicated to eradicating manual scavenging and ensuring dignity and equality for marginalized communities.
+
+|
 | --- |
 
 [Question ID: 2017-gs4-q96-pwonlyias]
@@ -3827,6 +4083,8 @@ Therefore, it is crucial for organizations to strike a balance between maintaini
 
 Some leaders have worked tirelessly towards the development of their society and country, while others have caused immense harm. In this essay, we will examine examples of both types of leaders and the principles that guided them.
 
+
+
 ### Body
 
 -
@@ -3848,6 +4106,8 @@ Some leaders have worked tirelessly towards the development of their society and
 - **Akbar:** The Mughal emperor was known for his policies promoting religious tolerance, arts and culture, and infrastructure development, which helped to unify and develop the Indian subcontinent.
 - **Peter:** The Russian tsar is credited with modernizing and westernizing Russia through policies such as military reform, infrastructure development, and cultural exchange.
 - **Ataturk:** The founder of modern Turkey, Mustafa Kemal Ataturk, implemented wide-ranging social, political, and cultural reforms that modernized Turkey and transformed it into a secular, democratic nation.
+
+
 
 ### Conclusion
 
@@ -3873,6 +4133,8 @@ The principles that guide a leader are critical in determining the success or fa
 
 <p align="center"><img src="images/pw_ethics_theoretical_questions_q339_img1.webp" alt="components of EI" /></p>
 
+
+
 ### Body
 
 **Here are some ways in which emotional intelligence can be applied in administrative practices, with Indian examples:**
@@ -3880,6 +4142,8 @@ The principles that guide a leader are critical in determining the success or fa
 - **Managing conflict:** **Kiran Bedi**, the former Lieutenant Governor of Puducherry, is a well-known example of a civil servant who effectively managed conflicts in her administrative practices. She was known for her ability to listen to all sides of a conflict, understand the underlying emotions and issues, and work with all parties to find a resolution that fulfills everyone’s needs.
 - **Making decisions:** **Parasuraman**, a former Chief Secretary of Tamil Nadu, was known for his ability to make decisions that were sensitive to the emotional needs of stakeholders. **For example**, he implemented a program to provide financial assistance to families of deceased government employees, which helped to address the emotional needs of the families while also fulfilling the government’s responsibility towards its employees.
 - **Managing stress:** **C. Verma,** a retired IAS officer, is an example of a civil servant who effectively managed his own stress levels and supported the well-being of his employees. He was known for his calm demeanor and positive attitude, which helped to create a positive work environment. He also provided his employees with opportunities for stress management, such as yoga and meditation classes.
+
+
 
 ### Conclusion
 
@@ -3914,6 +4178,8 @@ By applying emotional intelligence in their administrative practices, civil serv
 - **Example ,:** Sarvepalli Radhakrishnan, a philosopher and teacher, became the second President of India. He was an advocate of education and believed that it was essential for developing ethical and moral values in young people.
 - **Example,:** Dr. APJ Abdul Kalam, the former President of India, was deeply influenced by his teacher, Sivasubramania Iyer. Iyer was a strict disciplinarian and instilled in Kalam a strong work ethic and a love for science and technology. These values inspired Kalam to pursue a career in aerospace engineering and later to become one of India’s most beloved and respected leaders.
 
+
+
 ### Conclusion
 
 In conclusion, fathers, mothers, and teachers play a vital role in shaping the moral and ethical values of individuals in Indian society. By instilling in young people a sense of responsibility, empathy, and compassion, they can help create a corruption-free and equitable society.
@@ -3941,6 +4207,8 @@ It is essential to recognize and appreciate the role that fathers, mothers, and 
 
 ### Body
 
+
+
 **Here are some reasons why this is the case:**
 - **Economic inequality:** Despite rapid economic growth, income and wealth inequality have increased in India. A small group of wealthy individuals and corporations have benefited greatly from economic growth, while the majority of the population remains poor and vulnerable.
 - **Regional disparities:** Economic growth has been concentrated in urban areas, particularly in a few select states such as Maharashtra and Karnataka. This has led to significant regional disparities in terms of income, education, and healthcare between urban and rural areas.
@@ -3949,6 +4217,8 @@ It is essential to recognize and appreciate the role that fathers, mothers, and 
 - The rapid growth of cities such as Mumbai and Bangalore, which have become hubs of economic growth and modernity. However, the benefits of this growth have been concentrated in the hands of a small group of wealthy individuals and corporations, while the majority of the population remains poor and marginalized.
 - The displacement of farmers and rural communities due to large-scale industrialization and the construction of infrastructure such as highways and dams. While these projects have brought economic growth and modernity to some areas, they have often come at the cost of the livelihoods and well-being of the local population.
 - The **richest 1 percent grabbed nearly two-thirds of all new wealth** worth $42 trillion created since 2020, almost twice as much money as the bottom 99 percent of the world’s population, reveals a new **Oxfam report.**
+
+
 
 ### Conclusion
 
@@ -3976,7 +4246,6 @@ Furthermore, it is crucial that these policies are implemented in a transparent 
 
 <p align="center"><img src="images/pw_ethics_theoretical_questions_q75_img1.webp" alt="Integrity" /></p> **One of the tests of integrity is the complete refusal to be compromised, which means that a person with integrity will not compromise their principles or values for personal gain or convenience, even if it means facing negative consequences.**
 
- **One of the tests of integrity is the complete refusal to be compromised, which means that a person with integrity will not compromise their principles or values for personal gain or convenience, even if it means facing negative consequences.**
 
 ### Body
 
@@ -3991,6 +4260,8 @@ Furthermore, it is crucial that these policies are implemented in a transparent 
 - **Rosa Parks,:** an American civil rights activist, who refused to give up her seat on a bus to a white person, despite the segregation laws of the time.
 - **Edward Snowden,:** an American computer programmer who leaked classified information from the National Security Agency (NSA) in 2013, exposing the extent of government surveillance programs.
 - **Anna Hazare,:** an Indian social activist, who went on a hunger strike in 2011 to protest against corruption in the Indian government and to demand the enactment of the Lokpal Bill, which aimed to create an independent ombudsman to investigate corruption.
+
+
 
 ### Conclusion
 
@@ -4016,6 +4287,8 @@ In all these cases, the individuals refused to compromise their principles or va
 
 <p align="center"><img src="images/pw_ethics_theoretical_questions_q360_img1.webp" alt=" pillar of IR" /></p>
 
+
+
 ### Body
 
 **Strength:** It refers to the ability of a nation to protect and advance its interests, maintain its sovereignty, and project its power on a global scale. Strength can be achieved through military, economic, and diplomatic means. **For example,**
@@ -4027,6 +4300,8 @@ In all these cases, the individuals refused to compromise their principles or va
 - **The Joint Comprehensive Plan of Action (JCPOA),:** also known as the Iran nuclear deal, aimed to prevent Iran from acquiring nuclear weapons and reduce tensions between Iran and other nations. **Security:** It refers to the protection of a nation’s people, territory, and interests from external and internal threats. Security can be achieved through military, intelligence, and law enforcement means. **For example,**
 - **The North Atlantic Treaty Organization (NATO):** was formed to provide collective security to its member nations against external threats.
 - **The United Nations:** Peacekeeping Forces work to maintain peace and security in conflict zones, such as in South Sudan and the Democratic Republic of the Congo. These three pillars are interrelated and essential for stable and constructive international relations. Nations that are strong can contribute to maintaining peace and security, while peaceful and secure nations can use their resources to promote strength and stability globally.
+
+
 
 ### Conclusion
 
@@ -4061,6 +4336,8 @@ As nations become more interconnected and interdependent, they will need to work
 - **Discrimination and prejudice:** The narrow perception of the good life that emphasizes individualism has also contributed to discrimination and prejudice against marginalized groups such as minorities, women, and the LGBTQ+ community. This narrow perception of the good life, which prioritizes one’s own self-interest and identity, has resulted in a lack of concern for the well-being and dignity of others.
 - **Corruption in politics:** The narrow perception of the good life that emphasizes personal gain over the common good has contributed to corruption in politics. Politicians who prioritize their own self-interest, rather than serving the public, engage in unethical behavior such as accepting bribes and engaging in nepotism.
 
+
+
 ### Conclusion
 
 The crisis of ethical values in modern times is a complex issue that requires a multi-faceted approach. By promoting a broader perception of the good life that emphasizes values such as social justice, environmental sustainability, and the common good, and taking proactive steps such as education, regulation, ethical consumerism, and community and social movements, we can address this crisis and create a more ethical and just society.
@@ -4094,6 +4371,8 @@ The crisis of ethical values in modern times is a complex issue that requires a 
 - **Social Cohesion:** Shared moral values and obligations foster social cohesion and a sense of collective responsibility. When individuals prioritize common values, societal well-being can be enhanced.
 - **Illustration:** During natural disasters, Indian communities and NGOs come together to provide relief, showcasing the moral value of compassion and empathy.
 
+
+
 ### Conclusion
 
 It is therefore crucial for individuals and institutions to promote and uphold ethical and moral values in their actions and decisions, in order to create a more just, equitable, and sustainable society. This requires a collective effort, including education, awareness-raising, and accountability mechanisms that ensure that individuals and institutions are held to high ethical standards.
@@ -4119,6 +4398,8 @@ It is therefore crucial for individuals and institutions to promote and uphold e
 
 ### Body
 
+
+
 **To motivate young people with ethical conduct to join active politics, the following steps could be taken:**
 - **Create a supportive environment:** Political parties and civil society organizations should create a supportive environment for young people to engage in politics. They should provide a platform for young people to voice their opinions, engage in debate, and contribute to policy-making.
 - **Increase transparency and accountability:** young people are more likely to engage in politics if there is transparency and accountability in the political system. Political parties and elected representatives should be more transparent in their decision-making and ensure accountability in their actions.
@@ -4131,6 +4412,8 @@ It is therefore crucial for individuals and institutions to promote and uphold e
 - **For instance,:** the All India Democratic Women’s Association (AIDWA) has launched the Young Women’s Leadership Program, which aims to empower young women from marginalized communities to engage in politics and become leaders in their communities.
 - **Increase participation in local governance:** Political parties and governments can encourage young people to participate in local governance by providing opportunities for them to engage in local decision-making bodies, such as panchayats and municipal councils.
 - **For example,:** the Government of Rajasthan has launched the Chief Minister’s Youth Advisory Council, which consists of young people from across the state who advise the Chief Minister on issues related to youth development and engage in local governance.
+
+
 
 ### Conclusion
 
@@ -4166,6 +4449,8 @@ Overall, motivating young people with ethical conduct to come forward and join a
 - **Human Rights and Social Justice:** Rawls emphasizes the protection of human rights and the elimination of discrimination to achieve social justice.
 - **Eg:** The legal recognition and protection of the rights of marginalized groups, such as the Scheduled Castes and Scheduled Tribes, through legislation like the Scheduled Castes and Scheduled Tribes (Prevention of Atrocities) Act, promotes social justice by addressing discrimination and ensuring equal treatment.
 
+
+
 ### Conclusion
 
 By emphasizing the fair distribution of social goods and resources, as well as economic and social equality, Rawls’ theory can contribute to creating a more just and equitable society in India.
@@ -4190,6 +4475,8 @@ By emphasizing the fair distribution of social goods and resources, as well as e
 **Anger is a natural emotion that we all experience at times. However, when it becomes excessive or uncontrolled, it can lead to negative emotions and undesirable behaviors that can harm both personal and work life.** 
 
 ### Body
+
+
 
 **Negative emotions associated with anger include:**
 - **Anxiety and stress:** Frequent and intense anger can cause anxiety and stress, leading to physical and mental health problems.
@@ -4219,6 +4506,8 @@ By emphasizing the fair distribution of social goods and resources, as well as e
 - **Seek help:** If anger is causing problems in personal or work life, seek professional help from a therapist or counselor.
 - A senior bureaucrat dealing with mounting work pressure and anger issues sought guidance from a professional counselor in 2015, obtaining support to manage their emotions effectively and maintain a healthy work-life balance.
 
+
+
 ### Conclusion
 
 By using these strategies, we can prevent anger from causing harm to our personal and work life and develop healthier and more positive ways of coping with difficult emotions.
@@ -4240,6 +4529,8 @@ By using these strategies, we can prevent anger from causing harm to our persona
 
 ### Introduction
 
+
+
 “ **Just as it is impossible not to taste honey or poison that one may find at the tip of one’s tongue, so it is impossible for a government servant not to eat up, at least, a bit of the king’s revenue.** ”
 
 This quote highlights Kautilya’s view that corruption is an inherent problem in public service, and that without proper checks and balances, officials will be tempted to misuse public resources for personal gain.
@@ -4247,6 +4538,8 @@ This quote highlights Kautilya’s view that corruption is an inherent problem i
 <p align="center"><img src="images/pw_ethics_theoretical_questions_q230_img1.webp" alt="monopoly" /></p>
 
 <p align="center"><img src="images/pw_ethics_theoretical_questions_q250_img1.webp" alt="corruption" /></p>
+
+
 
 ### Body
 
@@ -4257,6 +4550,8 @@ This quote highlights Kautilya’s view that corruption is an inherent problem i
 - **Example 1:** Misuse of government funds:**Corruption can lead to the misuse of government funds, as officials embezzle public resources for their own benefit. For example, in India, the 2G spectrum scam was a major corruption scandal that involved the misallocation of telecom licenses and spectrum by government officials. The scam caused significant losses to the government treasury and hindered the development of the telecom sector.**
 - **Example 2:** Administrative inefficiency:**Corruption can also lead to administrative inefficiency, as officials prioritize personal interests over the public good. For example, in Nigeria, corruption in the oil sector has led to poor service delivery, slow decision-making, and ineffective implementation of policies and programs. This has hindered the development of the country and eroded public trust in the government.**
 - **Example 3:** Obstruction in the path of national development:**Corruption can also obstruct national development by hindering the implementation of key projects and policies. For example, in Bangladesh, corruption in the construction sector has led to poor quality infrastructure, delays in project completion, and cost overruns. This has hindered the country’s economic development and contributed to public dissatisfaction with the government.**
+
+
 
 ### Conclusion
 
@@ -4283,6 +4578,8 @@ To address these challenges, Kautilya’s views on the importance of promoting e
 
 <p align="center"><img src="images/pw_ethics_theoretical_questions_q255_img1.webp" alt="gandhi's 7 sins" /></p>
 
+
+
 ### Body
 
 - **Wealth without work:** This sin refers to the accumulation of wealth without contributing to society through work. In today’s society, this can be seen in cases of corruption and fraud, where individuals or corporations amass wealth through illegal or unethical means.
@@ -4299,6 +4596,8 @@ To address these challenges, Kautilya’s views on the importance of promoting e
 - **For example,:** the 2019 Easter Sunday bombings in Sri Lanka, where over 250 people were killed and hundreds more injured in a series of coordinated suicide bombings targeting churches and hotels.
 - **Politics without principle:** This sin refers to the pursuit of political power without any regard for moral or ethical principles. This can be seen in cases of political corruption, where politicians use their power for personal gain or to further their own interests, rather than serving the needs of their constituents.
 - **For example,:** the Watergate scandal in the United States in the 1970s, where President Nixon and his administration were implicated in a series of illegal activities, including wiretapping and burglary, in an attempt to sabotage their political opponents.
+
+
 
 ### Conclusion
 
@@ -4325,6 +4624,7 @@ By recognizing and avoiding these seven sins, we can strive towards a more just 
 
 ### Body
 
+
 **The ten principles of the Public Services Code are as follows:** 1. **Integrity**: Public servants must maintain high levels of integrity and avoid any behavior that could be perceived as corrupt or unethical.
 2. **Impartiality**: Public servants must be impartial and treat all citizens equally, without any discrimination or favoritism.
 3. **Objectivity**: Public servants must make decisions based on objective criteria and avoid any personal biases or preferences.
@@ -4335,6 +4635,8 @@ By recognizing and avoiding these seven sins, we can strive towards a more just 
 8. **Respect for Human Rights:** Public servants must respect the human rights of all citizens, including the right to dignity, privacy, and freedom from discrimination.
 9. **Service Orientation:** Public servants must prioritize the interests of the public and work towards the betterment of society.
 10. **Ethical Governance:** Public servants must practice ethical governance and uphold the highest standards of ethical conduct in their work.
+
+
 
 ### Conclusion
 
@@ -4364,6 +4666,8 @@ By adhering to the principles outlined in the code, public servants can contribu
 - Non-maleficence, another ethical principle in medicine, requires medical professionals to avoid causing harm to their patients. This principle is particularly important in cases where medical treatment could have adverse effects, and doctors must weigh the potential benefits against the risks of harm.
 - Finally, **the principle of justice** requires that medical resources be distributed fairly, without discrimination or prejudice. This means that everyone, regardless of their social or economic status, should have access to quality medical care. By following these ethical principles, medical professionals can contribute to social and human well-being by promoting the health and well-being of their patients, and ensuring that medical resources are used in a fair and just manner.
 
+
+
 ### Conclusion
 
 By upholding ethical principles, we can create a more just and equitable society, where everyone has the opportunity to live a healthy and fulfilling life.
@@ -4385,7 +4689,10 @@ By upholding ethical principles, we can create a more just and equitable society
 
 ### Introduction
 
+
 **Swachh Bharat Abhiyan** (Clean India Mission) is a national campaign launched by the Indian government in 2014 to promote cleanliness, hygiene, and sanitation across the country. The success of this campaign relies on various factors, including social influence and persuasion.
+
+
 
 ### Body
 
@@ -4395,13 +4702,12 @@ By upholding ethical principles, we can create a more just and equitable society
 - **Normative influence:** People are influenced by what they perceive as the social norms of their community. Therefore, highlighting the social norm of cleanliness and hygiene can be an effective way to encourage people to participate in Swachh Bharat Abhiyan.
 - **For example,:** showcasing positive role models who follow good sanitation practices can motivate others to do the same. Celebrities and social media influencers can also be utilized to promote the campaign and encourage people to adopt clean and hygienic practices.
 - **Informational influence:** People are also influenced by information and facts related to a particular issue. Therefore, providing accurate information about the benefits of cleanliness and the health hazards of poor sanitation can persuade people to participate in Swachh Bharat Abhiyan.
-
 - **For example,:** public awareness campaigns can be conducted to educate people about the link between open defecation and diseases such as diarrhea and cholera **.** <p align="center"><img src="images/pw_ethics_theoretical_questions_q271_img2.webp" alt="agents of persuasion" /></p>
-
-- **For example,:** public awareness campaigns can be conducted to educate people about the link between open defecation and diseases such as diarrhea and cholera **.** 
 - **Foot-in-the-door technique:** This persuasion technique involves starting with a small request and gradually increasing the demands. In the context of Swachh Bharat Abhiyan, this could involve encouraging people to start with small steps such as disposing of waste properly and gradually increasing their commitment to the campaign.
 - **For example,:** local authorities can start by encouraging people to clean their own surroundings and gradually move towards cleaning up public spaces.
 - **Social proof:** People are more likely to adopt a behavior if they see others doing it. Therefore, showcasing successful **Swachh Bharat Abhiyan** initiatives and the positive impact they have had on communities can motivate others to participate in the campaign. This could involve sharing success stories and case studies of communities that have achieved significant improvements in cleanliness and hygiene.
+
+
 
 ### Conclusion
 
@@ -4434,6 +4740,8 @@ By leveraging social norms, accurate information, and persuasion techniques, the
 
 Law and ethics differ in their approaches in that law is typically reactive and enforced through punishment, while ethics are proactive and focus on promoting good behavior. For example, while laws against bribery punish individuals who engage in corrupt practices, ethical standards aim to prevent individuals from engaging in bribery in the first place by promoting transparency and honesty.
 
+
+
 ### Conclusion
 
 Law and ethics play complementary roles in controlling human conduct to make it conducive to civilized social existence. While law provides a framework for acceptable behavior and consequences for non-compliance, ethics guide individuals’ moral values and attitudes towards behavior. Although they may differ in their approaches, both are crucial for promoting social order and harmonious coexistence among individuals in society.
@@ -4462,6 +4770,8 @@ Law and ethics play complementary roles in controlling human conduct to make it 
 - In practice, it is important to **strike a balance** between the need for bureaucratic efficiency and the moral and ethical considerations of public administration. While the state bureaucracy may have its own independent bureaucratic morality, this morality should be in line with the broader social and ethical values of society.
 - **Public administrators:** should be held accountable for their decisions, and their actions should be guided by a strong ethical framework that is based on the principles of fairness, justice, and equality.
 
+
+
 ### Conclusion
 
 Weber’s argument that public administration should be judged by a different moral and ethical standard has some validity, but it must be tempered by a broader understanding of the social and ethical implications of bureaucratic decisions. The state bureaucracy should operate within an ethical framework that balances the need for bureaucratic efficiency with the wider social and ethical considerations of public administration.
@@ -4485,6 +4795,8 @@ Weber’s argument that public administration should be judged by a different mo
 **In the context of civil service, several key values are crucial for the efficient and ethical functioning of the administrative machinery. Transparency, accountability, fairness and justice, courage of conviction, and the spirit of service are all highly relevant in upholding the principles of good governance, public trust, and the delivery of quality services. These values guide civil servants in their daily responsibilities and shape their interactions with the public and fellow colleagues.** 
 
 ### Body
+
+
 
 **(a) Undesirable values prevalent in today’s educated Indians:**
 - **Corruption:** Instances of corruption can be observed in various sectors, such as government offices, public procurement processes, and tax evasion cases.
@@ -4537,6 +4849,8 @@ Weber’s argument that public administration should be judged by a different mo
 - **Long-term perspective:** 
 - **Eg:** The National Centre for Good Governance (NCGG) in India focuses on capacity building, research, and policy advocacy to promote good governance practices and ethical behavior in public services.
 
+
+
 ### Conclusion
 
 Cultivating socio-ethical values in civil servants requires a sustained effort from the government, civil society, and the public. It requires a change in mindset and a commitment to creating a just and equitable society.
@@ -4561,6 +4875,8 @@ Cultivating socio-ethical values in civil servants requires a sustained effort f
 
 <p align="center"><img src="images/pw_ethics_theoretical_questions_q301_img1.webp" alt="good governance" /></p>
 
+
+
 ### Body
 
 **Recent initiatives in terms of e-Governance steps taken by the State have greatly helped the beneficiaries**
@@ -4575,6 +4891,8 @@ Cultivating socio-ethical values in civil servants requires a sustained effort f
 - **Eg:** Centralized Public Grievance Redress and Monitoring System (CPGRAMS:**) has made it easier for beneficiaries to register complaints and seek resolution.**
 - **Efficient Service Delivery:** E-Governance has improved the efficiency and speed of service delivery.
 - **For example,:** initiatives like **Direct Benefit Transfer (DBT)** enable the direct transfer of government subsidies and benefits to beneficiaries’ bank accounts, eliminating intermediaries and reducing leakages.
+
+
 
 ### Conclusion
 
@@ -4601,6 +4919,8 @@ Cultivating socio-ethical values in civil servants requires a sustained effort f
 
 ### Body
 
+
+
 **There are few examples in this context**
 
 - **One example:** of the importance of impartiality and non-partisanship in public services is in the administration of elections. Electoral officials must remain neutral and unbiased in their duties to ensure that elections are conducted fairly and transparently. They must not favor any particular political party or candidate and must ensure that all voters have equal access to the voting process. The integrity of the electoral process relies on the impartiality of the officials responsible for administering it.
@@ -4610,6 +4930,8 @@ Cultivating socio-ethical values in civil servants requires a sustained effort f
 - **Another example:** of the importance of impartiality and non-partisanship in public services is in the selection and promotion of public servants. In order to ensure that the best and most qualified candidates are selected for positions, decisions must be made based on merit and objective criteria rather than political affiliations or personal relationships. Public servants who are selected based on their qualifications and abilities are more likely to be effective and efficient in their roles, leading to better service delivery and greater public trust in government institutions.
 - Impartiality and non-partisanship are also important in the **provision of public services**, where decisions must be made in the best interest of the public rather than political or personal gain.
 - For example, in the distribution of public resources such as **healthcare and education**, decisions must be made based on need and fairness rather than political favoritism. This ensures that all members of society have equal access to public services and resources, promoting social cohesion and reducing inequality.
+
+
 
 ### Conclusion
 
@@ -4637,6 +4959,8 @@ Upholding these values in the administration of elections, the selection and pro
 - Another example of an act that is legally right but not ethically is Discrimination is the act of treating someone differently based on their race, gender, religion, or other personal characteristics.
 - While discrimination may be legal in some cases, such as affirmative action policies, it is never ethically right. Discrimination can lead to unequal opportunities and create a sense of division within society, which can have negative consequences in the long run.
 
+
+
 ### Conclusion
 
 A public servant must possess a well-developed sensibility to ethical issues to effectively discharge their duties. While complying with the law is important, it is not always enough. Public servants must also consider the ethical implications of their actions and strive to act in the best interest of the public. The examples of whistleblowing and discrimination illustrate the importance of balancing legal compliance with ethical considerations.
@@ -4661,6 +4985,8 @@ A public servant must possess a well-developed sensibility to ethical issues to 
 **The policy of promoting one’s own national interest without regard for the interest of other nations can lead to conflicts and tensions between nations. Ethical considerations can help resolve such tensions by promoting mutual respect, fairness, and cooperation among nations. Ethical principles such as the golden rule of treating others as you would like to be treated can help foster a culture of respect for the interests of other nations.** 
 
 ### Body
+
+
 
 **Here are specific examples of international organizations and their ethical approaches:**
 - **United Nations (UN):** **Ethical consideration:** The UN promotes the values of peace, justice, and cooperation among nations through its Charter and Universal Declaration of Human Rights.
@@ -4689,6 +5015,8 @@ A public servant must possess a well-developed sensibility to ethical issues to 
 **United Nations Educational, Scientific and Cultural Organization (UNESCO):**
 - **Ethical consideration:** UNESCO fosters cultural diversity, dialogue, and cooperation among nations to promote understanding and peace.
 - **Eg:** UNESCO’s World Heritage Sites program encourages countries to preserve cultural and natural heritage, promoting respect and cooperation among nations while mitigating tensions related to cultural and historical differences.
+
+
 
 ### Conclusion
 
@@ -4729,6 +5057,7 @@ By adopting ethical principles such as fair trade and human rights, nations can 
 
 ### Body
 
+
 **Two important virtues** that public servants must possess are trustworthiness and fortitude.
 
 - **Trustworthiness:** is the foundation of any relationship, and it is especially important for public servants, who hold positions of authority and responsibility. Public servants who are trustworthy are honest, reliable, and dependable. They are transparent in their actions and decisions and prioritize the public good over personal gain. Trustworthy public servants are essential for maintaining public trust in government institutions and ensuring the integrity of the democratic process.
@@ -4738,6 +5067,8 @@ By adopting ethical principles such as fair trade and human rights, nations can 
 - **Eg:** a government official who discloses conflicts of interest and avoids situations where they might benefit personally demonstrates trustworthiness. Similarly, a police officer who reports misconduct by a fellow officer shows that they prioritize their duty to uphold the law over loyalty to their colleagues.
 - **Fortitude:** Public servants who possess fortitude are willing to take difficult or unpopular actions in the interest of the public good. They are not swayed by pressure from powerful interest groups or fear of retaliation.
 - **Eg:** a mayor who stands up to pressure from powerful interest groups to veto a harmful bill that would negatively impact the community shows fortitude. Similarly, a civil servant who speaks up against a corrupt superior or institution displays courage and fortitude in upholding their duty to serve the public.
+
+
 
 ### Conclusion
 
@@ -4764,6 +5095,8 @@ These virtues are critical for ensuring that public servants uphold their duty t
 
 ### Body
 
+
+
 **Conflict of interest can manifest in various ways in the decision-making process by public servants**
 For example, **a public servant might award a contract to a company in which they have a financial interest, or they might give preferential treatment to a family member or a friend in the recruitment process.**
 
@@ -4774,6 +5107,8 @@ For example, **a public servant might award a contract to a company in which the
 - **For example,:** public servants could be required to declare their financial interests, relationships, and affiliations before assuming office, and they could be prohibited from engaging in activities that could lead to a conflict of interest.
 
 <p align="center"><img src="images/pw_ethics_theoretical_questions_q210_img1.webp" alt="Ethical dilemma" /></p>
+
+
 
 ### Conclusion
 
@@ -4802,6 +5137,8 @@ Conflict of interest is a serious ethical issue that can compromise the integrit
 - The importance of forgiveness can be seen in many real-life examples. For instance, in the aftermath of the **Rwandan genocide,** the government implemented a process of reconciliation and forgiveness known as “gacaca courts.” The aim of these courts was not to punish individuals for their crimes, but rather to promote healing and unity within the country. By forgiving those who had committed atrocities, the Rwandan people were able to move forward from their tragic past and build a stronger future.
 - Another example of the **importance of forgiveness** can be seen in personal relationships. When a person is wronged by someone they care about, it can be difficult to move past the hurt and betrayal. However, forgiveness can be a way to repair the relationship and build a stronger bond based on trust and empathy.
 
+
+
 ### Conclusion
 
 The quote “The weak can never forgive; forgiveness is the attribute of strong” highlights the importance of forgiveness and the strength it requires. By letting go of negative emotions and seeking healing and reconciliation, we can build stronger relationships and move towards a more positive future.
@@ -4828,6 +5165,8 @@ However, in the context of inclusive growth of a nation, it is important to prio
 
 <p align="center"><img src="images/pw_ethics_theoretical_questions_q214_img1.webp" alt="elements of inclusive growth" /></p>
 
+
+
 ### Body
 
 **Here are some examples to illustrate this point:**
@@ -4837,6 +5176,8 @@ However, in the context of inclusive growth of a nation, it is important to prio
 - **For example,:** in countries like Cuba and Costa Rica, healthcare systems prioritize social values such as universal access, community participation, and preventive care, resulting in better health outcomes and social well-being.
 - **Infrastructure:** Investment in infrastructure such as roads, bridges, and public transport is essential for economic growth and development. However, infrastructure should not only focus on economic values such as cost-effectiveness and efficiency. It should also prioritize social values such as accessibility and inclusivity.
 - **For example,:** in cities like Copenhagen and Amsterdam, infrastructure is designed to prioritize social values such as cycling, pedestrianization, and public spaces, resulting in better social well-being and economic outcomes.
+
+
 
 ### Conclusion
 
@@ -4859,13 +5200,20 @@ Social values are essential for inclusive growth of a nation. While economic val
 
 ### Introduction
 
+
+
 **Analysis of the situation**
+
+
+
 
 ### Introduction
 
 of the Right to Information (RTI) Act, media activism, and judicial activism have played a crucial role in promoting transparency and accountability in the functioning of the government in India.
 - However, there have been instances where these mechanisms have been misused, leading to unintended negative consequences.
 - One such consequence is the fear among officers to make prompt decisions due to concerns about potential backlash or scrutiny.
+
+
 
 ### Body
 
@@ -4881,6 +5229,8 @@ of the Right to Information (RTI) Act, media activism, and judicial activism hav
 - **Encourage a culture of transparency, accountability, and timely decision-making through proactive disclosure of information and clear communication channels.:** Balanced media coverage:
 - **Encourage responsible and balanced journalism that highlights both positive and negative aspects of government functioning, fostering a more constructive and informed public discourse.:** Strengthening administrative support:
 - **Provide adequate administrative support to officers to manage the additional workload and challenges arising from increased transparency and accountability mechanisms.:** 
+
+
 
 ### Conclusion
 
@@ -4907,18 +5257,24 @@ While transparency and accountability mechanisms are essential for good governan
 
 <p align="center"><img src="images/pw_ethics_theoretical_questions_q230_img1.webp" alt="monopoly" /></p>
 
+
+
 ### Body
 
 **Effectiveness of the measures :**
 **(a) The measures of prescribing codes of conduct, setting up vigilance cells/commissions,** RTI, active media, and strengthening of legal mechanisms have been somewhat effective in curbing corrupt practices to some extent. The prescribed codes of conduct have provided guidelines to public officials to ensure transparency, accountability, and ethical behavior in public service.
 
 - The establishment of vigilance cells and commissions has helped to investigate and prosecute corrupt officials. RTI has given citizens the power to access information and hold public officials accountable. The media has played a vital role in exposing corruption and holding public officials accountable. Strengthening of legal mechanisms has also helped in prosecuting corrupt officials.
-- However, these measures have not been completely effective in eradicating corrupt practices. This is because corrupt officials find new and innovative ways to circumvent these measures. There is also a lack of political will to implement these measures effectively. Moreover, the legal process is often slow, and corrupt officials can exploit legal loopholes to delay justice. **(b) More effective strategies to tackle corruption include:**
+- However, these measures have not been completely effective in eradicating corrupt practices. This is because corrupt officials find new and innovative ways to circumvent these measures. There is also a lack of political will to implement these measures effectively. Moreover, the legal process is often slow, and corrupt officials can exploit legal loopholes to delay justice.
+
+**(b) More effective strategies to tackle corruption include:**
 - **Strengthening institutions:** There is a need to strengthen institutions responsible for preventing and combating corruption. This includes enhancing the capacity of anti-corruption agencies, making them more independent and accountable, and providing them with adequate resources.
 - **Creating a culture of integrity:** A culture of integrity needs to be fostered in the society, starting from schools and universities. This can be achieved by raising awareness about the costs of corruption, promoting ethical values, and encouraging citizens to take a stand against corruption.
 - **Use of technology:** Technology can be used to increase transparency and accountability in public service. For instance, e-governance initiatives can reduce corruption by providing a platform for citizens to access services without having to interact with officials.
 - **Encouraging citizen participation:** Citizen participation can help in preventing corruption by creating a system of checks and balances. This can be achieved by promoting civic education and creating avenues for citizen participation in decision-making processes.
 - **Strengthening legal framework:** The legal framework needs to be strengthened to make it more effective in prosecuting corrupt officials. This includes simplifying legal procedures, reducing delays, and imposing stricter penalties for corruption.
+
+
 
 ### Conclusion
 
@@ -4948,6 +5304,8 @@ Two contrasting attitudes commonly observed among public servants are the bureau
 
 <p align="center"><img src="images/pw_ethics_theoretical_questions_q231_img1.webp" alt="bureaucratic attitude" /></p>
 
+
+
 ### Body
 
 **Difference between two terms**
@@ -4958,6 +5316,8 @@ The bureaucratic attitude is characterized by strict adherence to rules and regu
 - The merits of the democratic attitude include innovation, responsiveness, and a focus on public service. This can help to ensure that policies and programs are responsive to citizens’ needs and aspirations. However, the demerits of this attitude include a lack of accountability and a tendency towards populism. **Balance for better administration** Yes, it is possible to balance the two attitudes to create a better administration for the faster development of our country. A balanced approach that combines the merits of both attitudes can help to ensure that public servants are responsive to citizens’ needs and aspirations, while also ensuring consistency, predictability, and impartiality in decision-making.
 - To achieve this balance, public servants need to be trained in both bureaucratic and democratic approaches to decision-making. They need to be able to recognize when to follow rules and procedures, and when to be innovative and responsive to citizens’ needs. They also need to be held accountable for their decisions and actions, and be open to feedback from citizens and other stakeholders.
 - In addition, the government needs to create an enabling environment that encourages a balanced approach to decision-making. This can include creating incentives for public servants to be innovative and responsive, while also ensuring that they follow rules and procedures. It can also include creating channels for citizen participation and feedback, to ensure that policies and programs are responsive to citizens’ needs and aspirations.
+
+
 
 ### Conclusion
 
@@ -4983,11 +5343,15 @@ A balanced approach that combines the merits of both bureaucratic and democratic
 
 ### Body
 
+
+
 **Here are some examples that illustrate this idea:**
 - **Ignorance of the truth:** Many people are afraid of facing the truth, whether it’s about themselves or the world around them. For example, some people may deny the existence of climate change because it challenges their worldview or requires them to make changes in their lifestyle. Similarly, some individuals may refuse to acknowledge their own flaws or mistakes, which prevents them from growing and improving as a person.
 - **Fear of change:** The fear of change is another factor that can prevent people from embracing the light of knowledge and progress. For instance, some people may cling to outdated traditions or beliefs that are no longer relevant or useful. This can limit their ability to adapt to new situations and make positive changes in their lives and communities.
 - **Avoiding uncomfortable conversations:** Some individuals may avoid discussing difficult topics, such as politics, religion, or social issues, out of fear of offending others or being criticized. However, avoiding these conversations can prevent people from gaining a deeper understanding of different perspectives and ideas, which is crucial for personal and societal growth.
 - **Refusal to learn:** Finally, some people may refuse to learn new things, whether it’s a new skill or a new idea. This can be due to a fear of failure, a lack of confidence, or a belief that they already know everything they need to know. However, this mindset can prevent individuals from expanding their knowledge and achieving their full potential in life.
+
+
 
 ### Conclusion
 
@@ -5016,6 +5380,8 @@ It involves examining the relationships between humans and nature, considering h
 
 <p align="center"><img src="images/pw_ethics_theoretical_questions_q237_img1.webp" alt="Environmental ethics " /></p>
 
+
+
 ### Body
 
 **Reasons why studying environmental ethics is important:**
@@ -5025,6 +5391,8 @@ It involves examining the relationships between humans and nature, considering h
 - From an environmental ethics perspective, climate change can be seen as a moral issue because it affects not only the natural world but also the lives and well-being of people, particularly those in vulnerable communities. It raises questions about our responsibilities to future generations, as well as our obligations to non-human species and ecosystems.
 - **For example,:** if we continue to emit greenhouse gasses at current levels, we will likely cause significant harm to future generations and to the natural world. This raises questions about our moral obligations to reduce our carbon footprint, to support policies that promote sustainability, and to take action to mitigate the effects of climate change.
 - In addition, climate change is likely to disproportionately affect those who are already marginalized or vulnerable, such as low-income communities, indigenous peoples, and those living in developing countries. This raises questions about how to allocate resources and responsibilities fairly and equitably, and how to ensure that those who are most affected by climate change are not left behind.
+
+
 
 ### Conclusion
 
@@ -5051,6 +5419,7 @@ Studying environmental ethics is important because it helps us to recognize the 
 
 ### Body
 
+
 **Meaning of happiness:**
 - **Happiness is a:** universal aspiration**that transcends culture, race, gender, and age. It is a positive emotion that brings a sense of well-being, contentment, and fulfillment.**
 - People generally strive to achieve happiness, and it is often seen as a measure of a good life.
@@ -5061,6 +5430,8 @@ Studying environmental ethics is important because it helps us to recognize the 
 - Psychologists and researchers have also identified different components of happiness, such as positive emotions, life satisfaction, and a sense of meaning and purpose.
 - Positive emotions refer to feelings of joy, contentment, and pleasure, while life satisfaction is a cognitive evaluation of one’s life based on achievements, goals, and aspirations.
 - A sense of meaning and purpose refers to the feeling that one’s life has a greater purpose beyond their personal interests and goals.
+
+
 
 ### Conclusion
 
@@ -5087,6 +5458,8 @@ Ultimately, happiness is subjective and can be influenced by a range of factors,
 
 ### Body
 
+
+
 **Significance In modern techno-economic society**
 In a modern techno-economic society, the importance of treating individuals as ends in themselves is paramount. The increasing use of technology and automation has led to a focus on efficiency and productivity, often at the expense of human well-being. Workers are sometimes treated as mere cogs in a machine, rather than as valuable human beings with their own unique needs and desires.
 - Furthermore, in the pursuit of profit and economic growth, individuals are often exploited or marginalized, with their basic human rights and dignity being disregarded. This can be seen in various forms of exploitation, such as sweatshop labour, child labour, and human trafficking.
@@ -5097,6 +5470,8 @@ In a modern techno-economic society, the importance of treating individuals as e
 - **Sustainable development:** In the pursuit of economic growth, natural resources are often exploited without regard for the long-term consequences. Treating individuals as ends in themselves means recognizing the importance of sustainable development, which takes into account the needs of future generations and the preservation of the environment.
 - **Education:** Education is essential for personal and societal development, but it can also be seen as a means to an end, such as increasing productivity or economic growth. Treating individuals as ends in themselves means recognizing the intrinsic value of education and ensuring that it is accessible to all, regardless of their economic or social background.
 - **Healthcare:** In the modern healthcare system, patients can be treated as means to an end, such as reducing healthcare costs or improving medical outcomes. Treating individuals as ends in themselves means recognizing their right to quality healthcare that meets their individual needs and preferences, rather than simply focusing on cost or efficiency.
+
+
 
 ### Conclusion
 
@@ -5130,6 +5505,8 @@ In conclusion, the principle of treating individuals as ends in themselves has s
 - Another **example** of patriotism in everyday civil life is the work of civil society organizations that work towards promoting human rights, social justice, and environmental sustainability.
 - These organizations are committed to promoting the common good and working towards a better future for all citizens, irrespective of their background or beliefs.
 
+
+
 ### Conclusion
 
 In conclusion, patriotism in everyday civil life involves a sense of love, loyalty, and commitment to one’s country and community, and manifests itself in various ways such as respecting the laws and institutions of the country, supporting marginalized communities, promoting social and economic justice, and advocating for the rights of all citizens. It is a crucial aspect of a healthy and vibrant society and helps to foster a sense of solidarity, compassion, and common purpose among citizens.
@@ -5155,6 +5532,8 @@ In conclusion, patriotism in everyday civil life involves a sense of love, loyal
 
 <p align="center"><img src="images/pw_ethics_theoretical_questions_q75_img1.webp" alt="Integrity" /></p>
 
+
+
 ### Body
 
 **Here’s an explanation of the statement with illustrations from a modern-day context, focusing on specific Indian examples:**
@@ -5172,6 +5551,8 @@ In conclusion, patriotism in everyday civil life involves a sense of love, loyal
 - **Subtopic:** Education and Research
 - **Explanation:** Emphasizing ethical values alongside the pursuit of knowledge equips individuals with the ability to make informed and responsible decisions.
 - **Illustration:** A professor of public administration in the 1980s consistently emphasized academic integrity and ethical conduct among their students.
+
+
 
 ### Conclusion
 
@@ -5197,6 +5578,8 @@ Thus, knowledge and integrity are balancing wheels of the same cart. One shows t
 
 ### Body
 
+
+
 **The basic causes of corruption among people can vary, but some common factors include:**
 - **Greed:** Many people engage in corrupt practices because of their greed for power, money, or other material benefits. They may be willing to engage in unethical or illegal activities to gain wealth or maintain their position of influence.
 - **Lack of accountability:** A lack of accountability and transparency in institutions or organizations can lead to corruption. When there are no consequences for corrupt behavior, people may be more likely to engage in it.
@@ -5205,6 +5588,8 @@ Thus, knowledge and integrity are balancing wheels of the same cart. One shows t
 - **Corporate corruption:** Many companies have been caught engaging in corrupt practices, such as bribery or insider trading. For example, in 2015, the Volkswagen Group was found to have cheated emissions tests, resulting in a massive scandal that damaged the company’s reputation.
 - **Political corruption:** Corruption is often associated with politics, and many politicians have been found guilty of engaging in corrupt practices. For instance, former **South Korean President Park Geun-hye** was impeached in 2017 and sentenced to prison for corruption.
 - **Sports corruption:** Corruption can also be found in the sports industry, where athletes and officials may engage in doping, match-fixing, or other corrupt practices. **In 2015, FIFA officials** were arrested and charged with corruption, leading to a major scandal in the football world.
+
+
 
 ### Conclusion
 
@@ -5231,6 +5616,7 @@ While poverty can be a contributing factor to corruption, corruption can be foun
 
 ### Body
 
+
 **Impact of trust deficit :**
 - **At the:** personal level**, a lack of trust can lead to feelings of isolation, anxiety, and stress. It can be challenging to form meaningful relationships or maintain them when trust is lacking.**
 - Additionally, trust is crucial in many aspects of our lives, such as our careers, where a lack of trust can impact job performance, promotions, and relationships with colleagues.
@@ -5241,6 +5627,8 @@ While poverty can be a contributing factor to corruption, corruption can be foun
 - **Respect:** Treating others with respect and kindness is vital for building trust. You should try to understand others’ perspectives and treat them with empathy and understanding.
 - **Competence:** Demonstrating competence in your field or area of expertise is also essential for building trust. You can establish yourself as a trustworthy person by demonstrating your skills and knowledge in your work.
 - **Listening:** Actively listening to others and showing interest in their opinions and concerns is also essential for building trust. You should try to understand others’ needs and concerns and work to address them.
+
+
 
 ### Conclusion
 
@@ -5267,6 +5655,7 @@ In conclusion, a lack of trust can have significant consequences for personal an
 
 ### Body
 
+
 - **Education and Training:** Public servants can attend workshops, seminars, and training sessions to learn about ethical principles and their applications in public service. They can also take courses in ethics, governance, and law to improve their knowledge and understanding.
 - **Code of Ethics:** Public servants should adhere to a code of ethics that outlines the ethical standards they are expected to follow. The code should be regularly reviewed and updated to ensure that it reflects current best practices.
 - **Personal Reflection:** Public servants can engage in regular self-reflection to assess their values, beliefs, and behaviors. This can help them identify areas where they need to improve and develop a stronger sense of ethical awareness.
@@ -5281,6 +5670,8 @@ Thus, a public servant has to remain ethical in his/her conduct, for this, I hav
 4. I try to remain conscious and empathetic about the problems of others.
 5. I try to avoid conflict of interest.
 6. I do not use public resources for personal gains.
+
+
 
 ### Conclusion
 
@@ -5307,12 +5698,15 @@ Overall, public servants have a great responsibility to serve the public interes
 
 ### Body
 
+
 **To tackle this menace, innovative measures can be adopted. Some of these measures are:** 1. **Community Mobilization:** Community mobilization can play a crucial role in tackling sexual violence against women. By promoting community awareness and education, it is possible to create a culture of zero tolerance towards sexual violence.
 2. **Use of Technology:** The use of technology can be a powerful tool in preventing and addressing sexual violence. The use of mobile apps, panic buttons, and GPS tracking systems can enable women to alert authorities and seek help in case of an emergency.
 3. **Empowerment Programs:** Empowerment programs can help women become more self-reliant and assertive, enabling them to resist and report incidents of sexual violence.
 4. **Gender-sensitive Training:** Gender-sensitive training programs can sensitize law enforcement officials, medical professionals, and other stakeholders to the nuances of gender-based violence.
 5. **Advocacy and Policy Reforms:** Advocacy and policy reforms can help ensure that laws and policies are implemented effectively, leading to better protection of women’s rights.
 6. **Strict implementation of Vishaka guidelines** by SC for countering sexual harassment in organizations – a govt mandated body must see to the implementation of the guidelines
+
+
 
 ### Conclusion
 
@@ -5339,6 +5733,8 @@ Such measures can help create a safe and secure environment for women in the cou
 
 <p align="center"><img src="images/pw_ethics_theoretical_questions_q159_img1.webp" alt="Probity in governance" /></p>
 
+
+
 ### Body
 **Practicing probity is becoming harder every day because of the following reasons:** 1. High headedness of public servants as noticed by the second ARC.
 2. Decreasing moral values among politicians.
@@ -5346,6 +5742,8 @@ Such measures can help create a safe and secure environment for women in the cou
 4. General decline in morality in public life makes it harder even for honest people to practice Probity. **To overcome these difficulties,** It is essential to strengthen the legal and regulatory frameworks that govern public affairs. This can involve measures such as enacting and enforcing anti-corruption laws, establishing independent oversight bodies, and strengthening the role of civil society and the media in monitoring and exposing wrongdoing.
 - Another way to promote Probity in public life is to invest in education and awareness-raising campaigns that emphasize the importance of ethical behavior and moral values. This can involve providing training and capacity-building programs for public officials and promoting a culture of transparency and accountability in all aspects of public affairs.
 - An example of the difficulties in practicing probity in public life can be seen in the recent scandals involving the misappropriation of public funds by government officials in various countries. These scandals have eroded public trust in government institutions and highlighted the need for stronger measures to promote transparency and accountability in public affairs.
+
+
 
 ### Conclusion
 
@@ -5372,6 +5770,8 @@ A person should always strive for probity on their own end. Moral education and 
 
 ### Body
 
+
+
 **To ensure individual and collective accountability of public servants, several measures can be adopted, including:**
 - **Code of Conduct:** Developing a code of conduct for public servants can help set standards for ethical behavior and promote accountability. The code of conduct should outline the responsibilities of public servants, the consequences of unethical behavior, and the reporting mechanisms for violations.
 - **Performance Metrics:** Establishing performance metrics can help assess the performance of public servants and hold them accountable for their actions. The metrics should be based on specific objectives and outcomes, and regularly evaluated to ensure that they are being met.
@@ -5379,6 +5779,8 @@ A person should always strive for probity on their own end. Moral education and 
 - **Whistle-blower Protection:** Providing protection for whistle-blowers who report unethical behavior or wrongdoing can help promote accountability and transparency. Whistle-blower protection should include safeguards against retaliation and confidentiality.
 - **Training and Development:** Providing regular training and development opportunities for public servants can help promote ethical behavior and accountability. This can include training on code of conduct, compliance, and ethics.
 - **Transparent communication:** Ensuring transparent communication between public servants and the public can help build trust and promote accountability. This can include regular reporting on the actions and decisions of public servants, and public access to information.
+
+
 
 ### Conclusion
 
@@ -5405,6 +5807,8 @@ The implementation of these measures can help to ensure that public servants are
 
 <p align="center"><img src="images/pw_ethics_theoretical_questions_q162_img1.webp" alt="Ethics in Public admin" /></p>
 
+
+
 ### Body
 
 **Importance of ethics in Public administration**
@@ -5419,6 +5823,8 @@ Ethics is all the more important in public administration because the actions an
 - Another example of the importance of ethics in public administration is the use of ethical frameworks to guide decision-making in the face of complex moral dilemmas.
 - For instance, public administrators may face ethical dilemmas in deciding how to allocate scarce resources, such as funding for education or healthcare.
 - Ethical frameworks, such as utilitarianism or deontology, can help guide decision-making and ensure that decisions are made based on moral principles rather than personal interests or biases.
+
+
 
 ### Conclusion
 
@@ -5447,6 +5853,8 @@ Ethical frameworks can also guide decision-making in the face of complex moral d
 
 <p align="center"><img src="images/pw_ethics_theoretical_questions_q163_img1.webp" alt=" formation of attitude" /></p>
 
+
+
 ### Body
 
 **Factors affecting the attitude of person**
@@ -5467,6 +5875,8 @@ Personal experiences with a social problem, such as poverty or discrimination, c
 - **Emphasis:** Acknowledging the existence of caste but advocating for reform.
 - **Explanation:** Some people acknowledge the historical significance and persistence of the caste system but argue for its reform rather than complete elimination. They may advocate for social reforms, reservation policies, and efforts to promote caste-based inclusivity and inter-caste interactions.
 - **Eg:** Prominent economist and Nobel laureate Amartya Sen argues for the need to address social inequality through policies that promote social justice while acknowledging the historical significance and complexity of the caste system in India.
+
+
 
 ### Conclusion
 
@@ -5493,6 +5903,8 @@ In conclusion, the formation of attitudes towards social problems is complex and
 
 ### Body
 
+
+
 **Teachings of Swami Vivekananda:**
 - **Rationality and Scientific temper:** He condemned blind superstitious beliefs and searched for rationality and scientific meaning to every aspect of religion. He says that if superstition enters into the brain, man becomes ignorant and path of degradation of life.
 - **Brotherhood:** Through speech at the World parliament of religions and later initiatives developed a sense of brotherhood among the people of India and people of the globe.
@@ -5506,6 +5918,8 @@ In conclusion, the formation of attitudes towards social problems is complex and
 - **Eg:** He asked all Indians to serve the poor, starving & oppressed millions as this was the only way to see God.
 
 Most importantly, as a civil service aspirant, Vivekananda helped me in understanding my duty towards the downtrodden, making me realize that we all are one i.e., Parmatan and until we all are not happy everyone remains miserable.
+
+
 
 ### Conclusion
 
@@ -5539,6 +5953,8 @@ His teachings center around the themes of Vedas and Upanishads, which are releva
 - **Mother Teresa:** Mother Teresa exemplified bravery by selflessly serving the poor and destitute, forsaking personal desires for comfort and security.
 - **Vinoba Bhave:** Bhave’s Bhoodan Movement encouraged landowners to voluntarily donate land to landless farmers, demonstrating bravery by overcoming desires for personal wealth and promoting social equality.
 
+
+
 ### Conclusion
 
 In all these cases, the common theme is that the person must overcome their own internal desires and impulses. This can be difficult, as it requires confronting one’s own weaknesses and vulnerabilities. However, as Aristotle suggests, it is ultimately more courageous to overcome these internal struggles than to conquer external enemies, as it requires facing oneself and one’s own limitations.
@@ -5564,6 +5980,7 @@ In all these cases, the common theme is that the person must overcome their own 
 
 ### Body
 
+
 **IMPARTIALITY**:
 
 - Impartiality implies that the behavior and treatment by a bureaucrat to any individual or entity has to be exclusively based on merit.
@@ -5576,7 +5993,9 @@ In all these cases, the common theme is that the person must overcome their own 
 4. **Help avoid self-interest:** It also helps in mending self-interest based political ideology towards holistic development.
 
 | **Value Addition:**
-- 10th ARC Report**ARC in its 10th report (Refurbishing Personnel administration, scaling new height) is of the view that in addition to commitment to the constitution values for civil services should include: <br>• Objectivity <br>• Commitment to the principles enshrined in the Constitution <br>• Empathy and compassion for the vulnerable and weaker section of society <br>• Adherence to the highest standards of probity, integrity and conduct <br>• Commitment to the citizens concerned and public good. |**
+- 10th ARC Report**ARC in its 10th report (Refurbishing Personnel administration, scaling new height) is of the view that in addition to commitment to the constitution values for civil services should include: <br>• Objectivity <br>• Commitment to the principles enshrined in the Constitution <br>• Empathy and compassion for the vulnerable and weaker section of society <br>• Adherence to the highest standards of probity, integrity and conduct <br>• Commitment to the citizens concerned and public good.
+
+|**
 | --- |
 
 ### Conclusion
@@ -5604,12 +6023,16 @@ In all these cases, the common theme is that the person must overcome their own 
 
 ### Body
 
+
+
 **Here are a few illustrations to support this argument:**
 - **A.P.J. Abdul Kalam:** Known as the “People’s President,” Kalam exemplified ethical leadership during his tenure as the President of India. He prioritized integrity, humility, and inclusivity, focusing on national development and inspiring youth through his vision and ethical conduct.
 - **Anna Hazare:** Hazare, an anti-corruption activist, led the India Against Corruption movement, demanding a strong anti-corruption law. He emphasized the need for ethical governance, transparency, and accountability in the political system, inspiring a nationwide discourse on ethical conduct in politics.
 - **Aruna Roy:** Roy, a social activist, played a crucial role in advocating for the Right to Information (RTI) Act in India. By promoting transparency and accountability in government functioning, she demonstrated the ethical dimensions of political activism.
 - **Manmohan Singh:** As Prime Minister of India, M. Singh prioritized economic reforms, but also emphasized ethical governance and integrity. He maintained a reputation for personal honesty and integrity, setting an example of ethical leadership.
 - **Sainath:** Sainath, a journalist and social activist, dedicated his work to highlighting rural poverty and social injustice in India. His reporting shed light on unethical practices in politics and bureaucracy, urging for systemic reforms and ethical governance.
+
+
 
 ### Conclusion
 
@@ -5635,11 +6058,15 @@ It is clear that ethics and politics are intimately connected. Political decisio
 
 ### Body
 
+
+
 **Examples:**
 - **Politicians:** When politicians are seeking power, they often make promises to their constituents, such as reducing poverty or increasing access to healthcare. However, once they are in power, some politicians may prioritize their own interests over those of their constituents. For example, they may accept bribes or engage in other forms of corruption to maintain their power.
 - **Managers:** In the workplace, managers are often given power over their employees. Some managers may use their power to manipulate their employees or abuse their authority. For instance, a manager may punish an employee who speaks out against their unfair treatment, or they may give preferential treatment to employees who are their friends or allies.
 - **Celebrities:** Celebrities often have a lot of power and influence over their fans. Some celebrities use their power to promote positive causes, such as environmental protection or human rights. However, others may use their power to spread harmful messages or engage in unethical behavior. For instance, a celebrity might use their platform to spread false information about vaccines, which can harm public health.
 - **Family members:** In some families, there may be a power dynamic where one family member has more control than others. For example, a parent may have power over their children. When this power is used responsibly, the parent can help their children grow and develop. However, if the parent abuses their power, they may harm their children, either through physical or emotional abuse.
+
+
 
 ### Conclusion
 
@@ -5666,6 +6093,7 @@ In all these cases, power can reveal a person’s true character. Some people ma
 
 ### Body
 
+
 **Yes, they change:** “ **The man who never alters his opinion is like standing water, and breeds reptiles of the mind.” – English poet William Blake** 1. Over time, repeated positive engagement of values is likely to strengthen them. Our lives provide continual opportunities for the growth of certain values. Our lives also sometimes put constraints on certain values.
 2. People’s values tend to change over time as well. Values that suited you as a child change as you become a young adult, which may further change as you become an old person.
 3. They change because we want them to; or sometimes they change even if we didn’t mean them to. We may have believed that something is wrong but now we might not be so sure that it’s true. We may have believed that we’d never do something; but then we do it and we decide that it’s okay to do it.
@@ -5675,6 +6103,8 @@ In all these cases, power can reveal a person’s true character. Some people ma
 3. We can find **values like peace, kindness, hard work, perseverance,** etc. still relevant to the same degree as from old times. They will still remain relevant even after we die.
 4. **Values are essential to build ourselves.** We build ourselves to survive in the world and create a society. Since values needed to build a good society are constant or similar, values can be said to be constant, similar or universal as each of us tries to build a good society.
 5. **“Open your arms to change but don’t let go of your values.”** – The 14th Dalai Lama. This tells us that good values are not supposed to change. They are eternal.
+
+
 
 ### Conclusion
 
@@ -5701,12 +6131,16 @@ The conclusion is that values can and do change, though certain core values may 
 
 ### Body
 
+
+
 **Here are a few ways that this principle can be implemented in public life**
 
 - **Prioritizing the common good:** When making policy decisions, governments should prioritize the common good over individual interests. This means taking into account the impact that a decision will have on the broader population, rather than just a select few.
 - **Providing social services:** Governments can implement programs that provide basic necessities such as healthcare, education, and housing to all members of society. This ensures that individuals have access to the resources they need to thrive, which in turn benefits the broader society.
 - **Promoting equity:** Policies should be designed to promote equity, ensuring that all individuals have equal access to opportunities and resources. This can include measures such as affirmative action programs, which aim to address historical inequalities and level the playing field for marginalized groups.
 - **Encouraging civic engagement:** Citizens should be encouraged to participate in the democratic process, and their voices should be heard in policy decision-making. This can include initiatives such as town hall meetings, public consultations, and online forums where citizens can share their thoughts and ideas.
+
+
 
 ### Conclusion
 
@@ -5732,6 +6166,8 @@ The principle of the good of an individual being contained in the good of all is
 
 ### Body
 
+
+
 **Here are some Indian specific examples that illustrate this concept:**
 **Sustainable Agriculture:**
 - Promotion of sustainable farming practices, such as organic farming and agroecology, that prioritize the needs of small-scale farmers and ensure food security while minimizing environmental degradation.
@@ -5752,6 +6188,8 @@ Embracing renewable energy sources, such as solar and wind power, to meet the en
 **Waste Management and Recycling:**
 - Implementing effective waste management practices, including segregation, recycling, and waste reduction, to minimize resource consumption, environmental pollution, and promote a circular economy.
 - **Eg:** The city of Alappuzha in Kerala has implemented a successful waste management system, emphasizing decentralized waste treatment plants, recycling, and composting, reducing the burden on landfills and promoting sustainable waste practices.
+
+
 
 ### Conclusion
 
@@ -5778,6 +6216,8 @@ By prioritizing the needs of all individuals and communities and avoiding excess
 
 It happens in the time of crisis when a person faces a dilemma. In such situations, his conscience does not allow him to go on the wrong path. He maintains his values and directs one’s behavior based on own conscience. It is a complex process that takes place at a time of emotional conflict.
 
+
+
 ### Body
 
 **How does the voice of conscience help in right decision making?**
@@ -5787,6 +6227,8 @@ Releasing oneself from external impacts and egocentric pursuits.
 - Voice of moral sense allows in avoiding Conflicts of interest for higher choice making. It is able to assist in identifying among personal profits and public welfare.
 - Voice of conscience is our capacity to make a practical selection in the milieu of moral values and standards.
 - Voice of moral sense is someone’s ethical compass of right and incorrect in addition to the consciousness of one’s moves. Expressions such as ‘gut feeling’ and ‘guilt’ are regularly implemented at the side of a sense of right and wrong.
+
+
 
 ### Conclusion
 
@@ -5813,22 +6255,18 @@ A voice of sense of right and wrong that is each nicely old-fashioned (formed by
 
 Integrity, perseverance, spirit of service, commitment, and courage of conviction are five key terms that hold particular significance in the context of public service
 
+
+
 ### Body
 
 - **INTEGRITY:** It is the quality of being honest and having strong moral principles and It is doing the right things even when nobody’s watching.
-
 - **Eg:** ***Sir M. Visvesvaraya***: used to use two separate candles each for personal work and office work during the official working hours.** <p align="center"><img src="images/pw_ethics_theoretical_questions_q75_img1.webp" alt="Integrity" /></p>
-
-- **Eg:** ***Sir M. Visvesvaraya***: used to use two separate candles each for personal work and office work during the official working hours.** 
 - **PERSEVERANCE:** It refers to the quality of the character to stay firm on the path of one’s duty. A civil servant often faces difficulties in the performance of his duties. In this regard, it is important to develop the attribute of perseverance.
 - **Eg:** ***Sardar Vallabhbhai Patel***: the first Deputy Prime Minister and Minister of Home Affairs of India, demonstrated perseverance in uniting the country after independence by integrating various princely states into the Indian Union.
 - **SPIRIT OF SERVICE:** it refers to the quality of the character that encourages one to pursue the goals of the organization with devotion. Every organization has some basic objectives, which are ethical in nature. In the Public services, it is particularly important that the officials abide by the ethical code and goals of the public organization. The goal of the public organization is to do good to the society.
 - **Eg:** With ‘Project 37’, **Arunachal Officers Raise Lakhs** to Repair Schools, Build Roads. They started by contributing 1500 every month via Electronic Clearance Service, collecting around 2 lakhs in funds. Every month a lottery is held and one school is picked for micro-infrastructure repairs.
 - **COMMITMENT:** It is the dedication and passion towards a particular task. It helps to achieve goals and not deviate from them.
-
 - **Eg:** ***Gandhiji***: committed his life to satya and ahimsa, and never wavered from his path despite numerous difficulties.** <p align="center"><img src="images/pw_ethics_theoretical_questions_q75_img2.webp" alt="COMMITMENT" /></p>
-
-- **Eg:** ***Gandhiji***: committed his life to satya and ahimsa, and never wavered from his path despite numerous difficulties.** 
 - **COURAGE OF CONVICTION:** The state or quality of mind or spirit that enables one to face danger or fear with self-possession, confidence and resolution.
 - **Eg:** ***Satyendra Dubey***: an IES officer who exposed corruption involved in the Golden Quadrilateral Highway Construction project.
 
@@ -5853,11 +6291,11 @@ Integrity, perseverance, spirit of service, commitment, and courage of convictio
 
 Values are the individual principles or qualities that guide judgment and behavior of a person or a group.
 
+
+
 ### Body
 
 **It is important to be ethical along with being professionally competent for several reasons, including:** <p align="center"><img src="images/pw_ethics_theoretical_questions_q78_img1.webp" alt="Significs of ethics" /></p> **Trust and Reputation**
-
-**It is important to be ethical along with being professionally competent for several reasons, including:**  **Trust and Reputation**
 Ethical behavior builds trust and fosters strong relationships with colleagues, clients, and the community.
 - **Eg:** The Tata Group, under the leadership of Ratan Tata, is known for upholding ethical values, such as integrity and social responsibility. This commitment to ethics has earned the group a strong reputation globally.
 
@@ -5874,6 +6312,8 @@ Ethical behavior builds trust and fosters strong relationships with colleagues, 
 **Personal Integrity:**
 - Being ethical aligns with personal values and integrity, fostering self-respect and a sense of moral purpose.
 - **Eg:** Kiran Bedi, a former police officer and social activist, is known for her ethical conduct, integrity, and commitment to social justice. She has been a role model for ethical leadership in India.
+
+
 
 ### Conclusion
 
@@ -5900,6 +6340,8 @@ It is very important to be ethical in the performance of one’s duty. An unethi
 
 ### Body
 
+
+
 **How Emotional intelligence be developed?**
 - **Effective Communication:** An effective communication can help people to develop better strategies and increase their efficiency by synchronizing their efforts. By motivating others to communicate how they feel, can help them to know themselves better.
 - **Training to adapt:** People should be able to adapt to changing circumstances. This can be achieved by training to manage different situations. Ability to understand and manage their emotions and of those around them help emotionally intelligent leaders to navigate through difficult circumstances.
@@ -5913,6 +6355,8 @@ It is very important to be ethical in the performance of one’s duty. An unethi
 - Many experts and empirical studies warn decision-makers about the perils of making decisions when one is emotionally aroused. The important thing here is not the presence of emotions, but the way in which the individuals interpret and deal with emotions.
 - When an individual appropriately deals with emotions, he/she is able to make better decisions. The more skilled a person is in dealing with his/her emotions, the more likely that person is to make more correct and ethical decisions. When emotions are elicited in any decision-making process, they are processed by abilities included under emotional intelligence. Decisions involve the use of cognitions and emotions in varying amounts.
 - **For example,:** when faced with a situation eliciting intense anger, a person could make an unethical decision prompted by that anger, rather than going through a rational, multi-step process. Take example of law enforcement agencies. When faced with a hostile environment, they may commit revengeful acts.
+
+
 
 ### Conclusion
 
@@ -5939,11 +6383,14 @@ In the civil services, therefore, emotional intelligence is beneficial to manage
 
 ### Body
 
+
 **Crisis of conscience:**
 - It is a case of ethical dilemma, but often in a stronger sense. When there is a crisis of conscience, the individual fears that his action may be against the voice of conscience and hence ethically wrong.
 - Sometimes, we are not able to act in the way that is in compliance with our values and principles. Either due to some external exigencies or material greed, we, sometimes, side-line our voice of conscience and act in a contrary way. **This, if done for material greed, degrades our human nature and suppresses our conscience. However, there are also circumstances when, due to some external reasons beyond our control, we are not able to act according to our beliefs. Such situations create a feeling of guilt and shame.** Incidence In a situation, I had Rs. 5000 stored for purchasing high-quality clothes on my birthday. When I went to a shopping center to buy clothes, my pal, known as me, informed me that his mother was unwell and they were speeding to the health center. I knew he became poor and might want a little spare money.
 - I had a crisis of sense of right and wrong whether to spend the money on my clothes or maintain them spare lest my buddy might need it. The choice became tough. If I spent the cash and he faced a problem, I felt guilty. Strong crisis of judgment of right and wrong came about between my private desire and my obligation toward a pal.
 - Finally, with quite a few convictions, I decided to maintain the money in my spare time and not buy garments on that birthday.
+
+
 
 ### Conclusion
 
@@ -5961,15 +6408,24 @@ Crisis of conscience occurs when personal values clash with a decision or action
 
 ### Answer
 
-The case highlights the ethical dilemma faced by **Ashok**, **Divisional Commissioner** of a border district, who must balance humanitarian responsibility towards fleeing civilians with national security concerns posed by armed soldiers seeking entry amidst a civil war across the border. **Key Stakeholders**
+The case highlights the ethical dilemma faced by **Ashok**, **Divisional Commissioner** of a border district, who must balance humanitarian responsibility towards fleeing civilians with national security concerns posed by armed soldiers seeking entry amidst a civil war across the border.
+
+**Key Stakeholders**
+
 | **Stakeholders** | <br>• Divisional Commissioner (Ashok) <br>• Civilians (women and children) <br>• Armed soldiers attempting entry <br>• Local Police / Border Guarding Force <br>• State Home Secretary / Higher Authorities <br>• Local Community / Host Population <br>• Medical Personnel / Health Services providing relief <br>• Media / Public |
-| --- | --- | **(a) Options Available – Merits and Demerits** | **Option** | **Merits** | **Demerits** |
+| --- | --- |
+
+**(a) Options Available – Merits and Demerits**
+
+| **Option** | **Merits** | **Demerits** |
 | --- | --- | --- |
 | **1. Allow immediate entry of all civilians and soldiers** | Upholds humanitarian duty ( **Kantian duty ethics** ); injured receive urgent care; builds trust | – Security risk due to armed soldiers – May violate protocol – Possible political backlash ( **conflict with consequentialist considerations** ) |
 | **2. Allow only civilians (women and children) and deny entry to armed soldiers** | Protects border security ( **utilitarian principle** ); addresses immediate humanitarian need | – Soldiers may resist – Could escalate tension – May complicate diplomatic relations |
 | **3. Set up temporary border containment (safe zone) until higher orders** | Balances humanitarian aid and security ( **Aristotle’s virtue ethics** ); allows time to coordinate | – Delays urgent medical care – Logistical/resource challenges – Risk of unrest among refugees |
 | **4. Seek immediate local police/army assistance for controlled entry and medical aid** | Ensures safety and law enforcement; immediate help for injured ( **Kautilya’s Arthashastra—prudent governance** ) | – Limited manpower – May require negotiation – May escalate if armed soldiers resist |
-| **5. Refuse entry until Home Secretary guidance** | Avoids breach of protocol; No immediate security risk | – Humanitarian crisis worsens – Possible loss of life – Ethical and public criticism ( **Gita—Karma Yoga** ) | **(b) Ethical And Legal Dilemmas Being Faced By Ashok**
+| **5. Refuse entry until Home Secretary guidance** | Avoids breach of protocol; No immediate security risk | – Humanitarian crisis worsens – Possible loss of life – Ethical and public criticism ( **Gita—Karma Yoga** ) |
+
+**(b) Ethical And Legal Dilemmas Being Faced By Ashok**
 
 **Ethical Dilemmas:**
 - **Humanitarian duty vs security concerns:** Protecting civilians versus the risk posed by armed soldiers ( **deontological vs consequentialist conflict** ).
@@ -5984,13 +6440,17 @@ The case highlights the ethical dilemma faced by **Ashok**, **Divisional Commiss
 - **Adheres to protocol:** Minimizing personal and administrative liability.
 - **Practical feasibility:** Uses available local resources effectively, without waiting for higher orders amid poor connectivity.
 - **Ethical responsibility:** Protects human dignity (reflecting **Rawlsian fairness** and **Kantian duty** ) while maintaining public order.
-- **Minimizes risk of escalation:** Armed personnel are handled safely, preventing potential conflict or law-and-order issues. **(d) Extra Precautionary Measures for Border Guarding Police:**
+- **Minimizes risk of escalation:** Armed personnel are handled safely, preventing potential conflict or law-and-order issues.
+
+**(d) Extra Precautionary Measures for Border Guarding Police:**
 - **Maintain controlled distance and vigilance:** Avoid sudden movements and keep armed personnel under observation.
 - **Verify identity carefully:** Cross-check uniforms, weapons, and documentation to distinguish between genuine defectors and potential threats.
 - **Segregate from civilians:** Keep armed soldiers separate from women and children to prevent panic or coercion.
 - **Establish clear communication channels:** Use calm, authoritative instructions and avoid provoking aggression.
 - **Deploy backup/security support:** Ensure additional trained forces are on standby to handle any escalation.
 - **Document and report:** Maintain detailed records for accountability and legal compliance.
+
+
 
 ### Conclusion
 
@@ -6038,6 +6498,8 @@ Here, Gandhiji’s idea of Sarvodaya (welfare of all) provides guidance: no deve
 - **Integrated Policy Approach:** A “Housing-with-Conservation” framework that combines PM Awas Yojana with afforestation drives, ensuring compensatory plantations and ecological restoration.
 - **Law and Order Concerns:** Rather than clearing forests, strengthen community policing and surveillance to address anti-social activities without ecological harm.
 
+
+
 ### Conclusion
 
 Human dignity and ecological integrity are inseparable. As **Amartya Sen’s Capability Approach stresses, development must expand freedoms without harming future prospects**. Hence, inclusive housing that respects both people and nature, guided by **Gandhian trusteeship,** is the ethical way forward.
@@ -6063,7 +6525,9 @@ The case highlights corruption and mismanagement in the **MGNREGA scheme**, whic
 - **Payments to fictitious persons:** Use Aadhaar-based authentication and direct benefit transfer (DBT) to eliminate ghost beneficiaries.
 - **Job cards issued without need assessment:** Conduct Gram Sabha verification to ensure only genuine needy households are registered.
 - **Siphoning of funds:** Involve vigilance committees and conduct regular audits by independent agencies.
-- **Non-existent approved works:** Physical verification and use of satellite imagery to confirm the existence of projects. **(c) How I Would Deal with the Situation**
+- **Non-existent approved works:** Physical verification and use of satellite imagery to confirm the existence of projects.
+
+**(c) How I Would Deal with the Situation**
 - **Balanced Approach:** Fix accountability of errant officials without discouraging genuine Panchayat functionaries.
 - **Disciplinary Action:** Take strict action against those responsible for fraud and misuse of funds.
 - **Capacity Building:** Train Gram Panchayat staff in record-keeping, transparency, and financial management.
@@ -6073,6 +6537,8 @@ The case highlights corruption and mismanagement in the **MGNREGA scheme**, whic
 - Organise grievance redressal camps to give workers a voice.
 - **Justice as Fairness (Rawls):** Ensure disadvantaged rural labourers receive their rightful benefits.
 - **Ethical Leadership:** Lead with integrity and openness, share audit results publicly, and engage civil society to restore trust.
+
+
 
 ### Conclusion
 
@@ -6111,9 +6577,15 @@ Like Harishchandra choosing truth over kingdom.*
 - **Obedience vs Rule of Law:** Choosing between blindly obeying superior’s instructions or adhering to legal provisions like GFR.
 - **Public Interest vs Personal Interest:** Safeguarding public funds and institutional credibility versus advancing personal career goals.
 - **Accountability & Transparency:** Following transparent procurement to ensure audit compliance versus hiding under informal practices like expenditure splitting.
-- **Conflict of Duty vs Emotion:** Balancing professional ethical duty with emotional desire for career security and recognition. **(c) Most appropriate option for Rajesh and why** The best option is **seek higher sanction as per GFR** in addition to it, **if pressured, ask for written orders** along with **partial procurement for urgent needs**.
+- **Conflict of Duty vs Emotion:** Balancing professional ethical duty with emotional desire for career security and recognition.
+
+**(c) Most appropriate option for Rajesh and why**
+
+The best option is **seek higher sanction as per GFR** in addition to it, **if pressured, ask for written orders** along with **partial procurement for urgent needs**.
 - This balances **rule of law, accountability, transparency**.
 - Protects Rajesh’s ethical credibility in long run.
+
+
 
 ### Conclusion
 
@@ -6131,7 +6603,10 @@ Rajesh must act with the spirit of Rama’s rajdharma, Nachiketa’s truthfulnes
 
 ### Answer
 
-Civil servants hold the office of **trust** and **stewardship**, expected to act with **integrity, impartiality** ( **Yudhishthira, Mahabharata**), and **public accountability**. Subash, Secretary PWD, faces a **moral dilemma** where personal, familial, and political pressures conflict with his duty. His decisions must balance **dharma (duty), fairness, transparency,** and **rule of law**, avoiding even the appearance of impropriety. **Key Stakeholders**
+Civil servants hold the office of **trust** and **stewardship**, expected to act with **integrity, impartiality** ( **Yudhishthira, Mahabharata**), and **public accountability**. Subash, Secretary PWD, faces a **moral dilemma** where personal, familial, and political pressures conflict with his duty. His decisions must balance **dharma (duty), fairness, transparency,** and **rule of law**, avoiding even the appearance of impropriety.
+
+**Key Stakeholders**
+
 | **Stakeholders** | <br>• Subash (Secretary, PWD) <br>• Vikas (Son of Subash) <br>• Minister (PWD) <br>• Minister’s Nephew (Infrastructure Business) <br>• Public / Citizens |
 | --- | --- |
 
@@ -6140,7 +6615,10 @@ Civil servants hold the office of **trust** and **stewardship**, expected to act
 - **Insider Trading/Corruption Risk:** Disclosure of sensitive project information violates legal and ethical norms.
 - **Nepotism Pressure:** The Minister’s influence to favour his nephew compromises meritocracy.
 - **Integrity vs Familial Pressure:** Persistent requests from son test personal virtue and self-control.
-- **Professional Accountability:** Upholding transparency and probity is crucial for institutional credibility. **(b) Options Available – Merits and Demerits**
+- **Professional Accountability:** Upholding transparency and probity is crucial for institutional credibility.
+
+**(b) Options Available – Merits and Demerits**
+
 | **Options** | **Merits** | **Demerits** |
 | --- | --- | --- |
 | **1. Share info with son** | -Short-term personal/familial gain ( **self-interest** ). – Meets filial expectations. – Immediate satisfaction. | -Violates **duty, transparency, and the rule of law**. – Corruption/insider trading risk. -Long-term erosion of **public trust and institutional integrity**. |
@@ -6153,6 +6631,8 @@ Civil servants hold the office of **trust** and **stewardship**, expected to act
 - **Recuse if necessary:** Delegate sensitive project decisions to a neutral officer to maintain **integrity and transparency**.
 - **Document all communications:** Create a clear audit trail for accountability and future reference.
 - **Communicate ethical constraints:** Politely explain to son and minister about **legal, ethical,** and **public service obligations**, citing **dharma, meritocracy,** and **rule of law** principles.
+
+
 
 ### Conclusion
 
@@ -6184,14 +6664,19 @@ The above case highlights an **ethical dilemma** faced by **Vijay**, a **Deputy 
 - **Public duty vs. filial (Parental) duty:** Saving lives now versus the moral-cultural obligation to perform last rites. (*Like Arjuna in Kurukshetra, torn between family bonds and duty.)*
 - **Integrity vs. compassion to family:** Unbroken commitment to office versus humane response to bereavement.
 - **Justice to citizens vs. fairness to self:** Fairness to disaster victims versus fair treatment of one’s own needs.
-- **Public trust vs. personal well-being:** Avoiding negative optics versus preventing burnout and impaired judgment. **(c) Critical evaluation of options available to Vijay**
+- **Public trust vs. personal well-being:** Avoiding negative optics versus preventing burnout and impaired judgment.
+
+**(c) Critical evaluation of options available to Vijay**
+
 | **Option** | **Merits** | **Demerits** |
 | --- | --- | --- |
 | **1. Leave immediately for hometown** | – Fulfils parental and cultural duty. – Provides emotional closure. – Social expectation of a son. | – Abandons district at crisis point. – Leadership vacuum in relief operations. – Breach of public trust & accountability. |
 | **2. Delegate the charge and go** | – Balances both duties partially. – Relief continues under senior subordinates. – Shows trust in team. | – Subordinate capacity may not match DC’s authority. – In disaster, coordination gaps may arise. – Perception of avoiding responsibility. |
 | **3. Stay back and lead operations** | – Demonstrates integrity, selflessness, commitment to public service. – Ensures effective relief; saves lives. – Builds public trust & morale. | – Severe personal/emotional loss. – Failure to perform traditional duties. – May cause personal regret later. |
 | **4. Virtual presence in last rites** | – Allows symbolic participation **via technology.** – Reduces personal regret while staying on duty. | – Family/community may feel absence strongly. – Cannot replace physical presence. |
-| **5. Seek higher authority’s guidance** | – Transparent, accountable decision-making. – Shows respect for institutional process. | – Bureaucratic delays in crisis. – May appear indecisive. | **(d) Best suitable course of action to opt:**
+| **5. Seek higher authority’s guidance** | – Transparent, accountable decision-making. – Shows respect for institutional process. | – Bureaucratic delays in crisis. – May appear indecisive. |
+
+**(d) Best suitable course of action to opt:**
 **Merging Option 3 (stay back) + Option 2 (delegate) + Option 4 (virtual presence):**(Similar to Lord Rama choosing rajdharma over his longing for the throne.)*
 
 Vijay should remain in the district and personally lead disaster relief operations, as his presence is critical to saving thousands of lives and maintaining public trust. At the same time, he can delegate routine tasks to senior subordinates to ensure administrative continuity and use virtual means such as video calling to participate in his mother’s last rites, while keeping higher authorities informed of his situation.
@@ -6207,15 +6692,15 @@ Vijay should remain in the district and personally lead disaster relief operatio
 
 ### Answer
 
-**Core Demand of Question:**
-- Discuss options available with Rohit to cope with the situation
-- Discuss ethical dilemmas being faced by Rohit
-- Suggest more appropriate options for Rohit to adopt and why
-- Explore extra precautionary measures to be taken by the police in dealing with women protesters
+| **Core Demand of Question** <br>• Discuss options available with Rohit to cope with the situation <br>• Discuss ethical dilemmas being faced by Rohit <br>• Suggest more appropriate options for Rohit to adopt and why <br>• Explore extra precautionary measures to be taken by the police in dealing with women protesters |
+| --- |
 
 ### Answer
 
+
+
 Sneha, the Senior Manager of a super-specialty centre within a reputable hospital chain, faces a critical ethical dilemma involving **nepotism, favouritism,** and **conflict of interest** in the procurement process. This scenario tests her commitment to integrity, transparency, and accountability, core principles of **medical** and **corporate ethics**. Her decision will influence not only her credibility but also the hospital’s reputation and operational effectiveness. **Key Stakeholders Involved and Their Interests**
+
 | **Key Stakeholders** | **Interests** |
 | --- | --- |
 | **Patients and Their Families** | Expecting **beneficence** and **non-maleficence** from the hospital, prioritising **high-quality care** and **patient safety** without conflicts of interest. |
@@ -6263,9 +6748,11 @@ In navigating this ethical dilemma, Sneha’s commitment to **integrity**, **tra
 
 ### Answer
 
-**Core Demand of Question ● Discuss all options available to the District Collector as a District Magistrate ● Suggest suitable actions which can be taken in view of mutually compatible interests of the stakeholders ● Explore potential administrative and ethical dilemmas for the District Collector:**
+| **Core Demand of Question:** ● Discuss all options available to the District Collector as a District Magistrate ● Suggest suitable actions which can be taken in view of mutually compatible interests of the stakeholders ● Explore potential administrative and ethical dilemmas for the District Collector |
+| --- |
 
 The severe water crisis in the district during an exceptionally hot summer presents a complex challenge for the **District Collector**, requiring equitable water distribution to mitigate conflicts between local farmers, industries, and the community. Guided by **Rawls’ Theory of Justice** and the **Public Trust Doctrine**, the District Collector must balance ethical obligations to ensure fairness, sustainability, and adherence to legal standards. **Key Stakeholders Involved and Their Interests**
+
 | **Key Stakeholders** | **Interests** |
 | --- | --- |
 | **District Collector** | Ensuring **equitable water distribution**, maintaining law and order, addressing the water crisis, and preventing a prolonged protest by farmers. |
@@ -6275,7 +6762,9 @@ The severe water crisis in the district during an exceptionally hot summer prese
 | **Local Government** | Apply **Rawlsian fairness** in managing resources efficiently, aiming to prevent conflicts and ensure overall societal welfare. |
 | **Local Communities and Residents** | Prioritise **basic human rights** for access to clean drinking water, emphasising **equity** and **sustainable resource management**. |
 | **Vigilance Teams** | **Monitoring** and **enforcing water conservation rules,** ensuring compliance by farmers and industries, and preventing illegal water extraction. |
-| **Environmental Groups** | Advocate for **ecological justice**, focusing on sustainable water usage and long-term protection of local ecosystems and biodiversity. | **Options Available to the District Collector as a District Magistrate** 1.
+| **Environmental Groups** | Advocate for **ecological justice**, focusing on sustainable water usage and long-term protection of local ecosystems and biodiversity. |
+
+**Options Available to the District Collector as a District Magistrate** 1.
 
 **Option 1:**
 - **Implement stricter penalties for industrial violations:** Introduce penalties for industries that are found to be over-extracting water, directly addressing farmers’ claims of unfair treatment.
@@ -6328,11 +6817,13 @@ To ensure long-term water sustainability, the **District Collector** must adopt 
 
 ### Answer
 
-**Core Demand of Question ● Discuss what one must do in such a situation ● Examine options and their consequences in the light of the ethical questions involved ● Analyse how data ethics and drug ethics save humanity at large in such a scenario:**
+| **Core Demand of Question** ● Discuss what one must do in such a situation ● Examine options and their consequences in the light of the ethical questions involved ● Analyse how data ethics and drug ethics save humanity at large in such a scenario |
+| --- |
 
 ### Answer
 
 **Dr. Srinivasan,** a senior scientist at a leading biotechnology firm, faces an ethical dilemma in the rush to develop a drug for a rapidly spreading viral disease. The scenario presents conflicts between **utilitarianism** (maximising benefits for the greatest number) and **deontological ethics** (strict adherence to ethical rules), highlighting the importance of balancing **beneficence**, **non-maleficence**, and **autonomy** in medical research. **Key Stakeholders Involved and Their Interests**
+
 | **Key Stakeholders** | **Interests** |
 | --- | --- |
 | **Dr. Srinivasan and Research Team** | Upholding **professional integrity** and adhering to **deontological ethics** is vital for career sustainability and maintaining trust in the **scientific community**. |
@@ -6380,13 +6871,11 @@ To ensure long-term water sustainability, the **District Collector** must adopt 
 
 ### Answer
 
-**Core Demand of Question:**
-- Discuss immediate response to the challenges posed in the above case.
-- Discuss the ethical issues involved in the above case
-- Explore logical and ethical arguments which you will put forth to convince about its necessity
-- Suggest measures which you would adopt to maintain balance between AI innovation and environmental footprint
+| **Core Demand of Question** <br>• Discuss immediate response to the challenges posed in the above case. <br>• Discuss the ethical issues involved in the above case <br>• Explore logical and ethical arguments which you will put forth to convince about its necessity <br>• Suggest measures which you would adopt to maintain balance between AI innovation and environmental footprint |
+| --- |
 
 As the **CEO** and **majority shareholder** of **ABC** Incorporated, headquartered in a developing nation, the company’s rapid advancements in **Artificial Intelligence (AI)** have raised ethical concerns related to **sustainability** and **corporate social responsibility (CSR)**. With a 48% rise in greenhouse gas emissions since 2019, the company must now address **utilitarian ethics** by balancing profitability with environmental stewardship and ethical business practices. **Key Stakeholders Involved and Their Interests**
+
 | **Key Stakeholders** | **Interests** |
 | --- | --- |
 | **CEO** | As the CEO and a majority shareholder, seeks to ethically **balance AI innovation** with **environmental stewardship** to maintain sustainability and profitability. |
@@ -6404,19 +6893,25 @@ As the **CEO** and **majority shareholder** of **ABC** Incorporated, headquarter
 - **Public Commitment to Environmental Goals:** A public commitment to corporate environmental responsibility reflects **virtue ethics,** demonstrating **moral integrity** through a pledge to net-zero emissions and accountability via transparency.
 - **Formation of a Sustainability Task Force:** Creating a **task force** grounded in systems thinking fosters a holistic sustainability approach, integrating diverse departments to address environmental impacts in line with **organisational ethics.**
 - **Acceleration of Renewable Energy Investments:** Increasing investments in **renewable energy** reflects **ecocentric ethics**, committing to environmental stewardship.
-- **Adherence and Leadership in Environmental Standards:** Exceeding regulatory standards aligns with **deontological ethics,** setting a moral example for **industry sustainability** while fulfilling ethical duties. **(b) Ethical Issues Involved**
+- **Adherence and Leadership in Environmental Standards:** Exceeding regulatory standards aligns with **deontological ethics,** setting a moral example for **industry sustainability** while fulfilling ethical duties.
+
+**(b) Ethical Issues Involved**
 - **Profit vs. Sustainability:** The clash between profit maximisation and sustainability underscores **corporate social responsibility,** balancing stakeholder interests with long-term sustainability.
 - **Environmental Degradation vs. Technological Progress:** Balancing technological advancements with environmental protection highlights **ecocentric ethics** and the **precautionary principle,** ensuring innovation avoids ecological harm.
 - **Transparency vs. Corporate Secrecy:** Ensuring operational transparency while maintaining competitive advantages invokes virtue ethics, as **openness** and **honesty** are essential for building stakeholder trust. The company must disclose its **environmental impact openly** while protecting **proprietary innovations**, balancing transparency and competition.
 - **Short-term Gains vs. Long-term Responsibility:** The tension between short-term profits and long-term environmental stewardship highlights the conflict between **deontological ethics** and **utilitarianism,** prioritising societal benefits.
 - **Energy Consumption vs. Efficiency:** The need for increased energy to power AI systems conflicts with the ethical principle of **sustainable resource use**, raising issues of **distributive justice** in energy consumption. **For instance:** The company must innovate to reduce **energy consumption** in AI operations to ensure **fair resource use** across communities.
-- **Stakeholder Demands vs. Ethical Leadership:** Balancing stakeholder demands for profit with the company’s duty to lead in **sustainability** reflects **moral pluralism**, where competing interests must be ethically balanced. **(c) Response to Penalization by Technological Giants**
+- **Stakeholder Demands vs. Ethical Leadership:** Balancing stakeholder demands for profit with the company’s duty to lead in **sustainability** reflects **moral pluralism**, where competing interests must be ethically balanced.
+
+**(c) Response to Penalization by Technological Giants**
 - **Rationale Behind Current Practices:** Defending the company’s operational methods through **ethical relativism**, comparing them with industry standards and emphasising **ongoing sustainability efforts** to highlight ethical parity with competitors.
 - **Arguments for Constructive Penalization:** Advocating for constructive penalties that promote industry improvements aligns with **utilitarian ethics,** maximising overall environmental benefits.
 - **Citing Legal and Regulatory Frameworks:** Leveraging legal compliance and environmental statutes demonstrates adherence to **deontological ethics** by following laws and exceeding regulatory requirements. **For instance:** The company can highlight its adherence to **ISO environmental standards** while showing efforts to surpass compliance requirements.
 - **Advocacy for Industry-wide Environmental Standards:** Proposing universal environmental standards through corporate environmentalism promotes ethical practices and aligns with **Rawlsian justice** for fair competition in the tech sector. **For instance:** The company should push for **universal sustainability standards**, setting an industry-wide benchmark for ethical and environmental performance.
 - **Commitment to Transparency and Dialogue:** Reaffirming the company’s commitment to transparent communication and open dialogue with stakeholders, fostering **moral accountability** and **mutual trust.** **For instance:** The company can demonstrate its **open communication** strategy by hosting **public forums** and engaging with competitors on sustainability issues.
-- **Showcasing Investments in Green Technology:** Highlighting the company’s significant investments in **green technology** reflects its commitment to **corporate social responsibility** and long-term sustainability goals. **(d) Balancing AI Innovation and Environmental Footprint**
+- **Showcasing Investments in Green Technology:** Highlighting the company’s significant investments in **green technology** reflects its commitment to **corporate social responsibility** and long-term sustainability goals.
+
+**(d) Balancing AI Innovation and Environmental Footprint**
 - **Innovation in Green AI Technologies:** Developing **Green AI** technologies reflects the company’s alignment with **Kantian ethics**, treating environmental sustainability as a moral duty.
 - **Alignment with Sustainable Development Goals:** Ensuring that AI development aligns with **SDGs** demonstrates the company’s commitment to global environmental ethics and **sustainable growth**. **For instance:** The company’s AI projects should be aligned with **SDG 7** (Affordable and Clean Energy) and **SDG 9** (Industry, Innovation, and Infrastructure).
 - **Enhancement of Research in Energy-efficient AI:** Expanding **R&D** in **energy-efficient AI** technologies supports the principle of **sustainable innovation**, ensuring that advancements in AI minimise environmental harm. **For example:** The company must invest heavily in **energy-efficient AI systems** to reduce operational **carbon footprints.**
@@ -6438,14 +6933,13 @@ Addressing the balance between technological advancement and environmental susta
 
 ### Answer
 
-**Core Demand of Question:**
-- Discuss options available to Raman to tackle the above situation
-- Discuss measures which you would suggest for strengthening the existing set-up to ensure that such groups do not succeed in penetrating and vitiating the atmosphere in the state
-- Suggest action plan which you would advise for enhancing the intelligence gathering mechanism of the police force
+| **Core Demand of Question** <br>• Discuss options available to Raman to tackle the above situation <br>• Discuss measures which you would suggest for strengthening the existing set-up to ensure that such groups do not succeed in penetrating and vitiating the atmosphere in the state <br>• Suggest action plan which you would advise for enhancing the intelligence gathering mechanism of the police force |
+| --- |
 
 ### Answer
 
 **Raman,** as a **senior IPS officer**, faces the critical challenge of balancing **utilitarian ethics** —ensuring the greatest good for public safety—while upholding **deontological ethics**, particularly the duty to protect individual rights. He is tasked with tackling youth unemployment and preventing radicalization. This requires addressing the root causes with **distributive justice**, ensuring fair opportunities while implementing **procedural justice** to maintain lawfulness. **Key Stakeholders Involved and Their Interests**
+
 | **Key Stakeholders** | **Interests** |
 | --- | --- |
 | **State Government** | Focused on **social contract theory**, maintaining **law and order** to ensure **public safety** and a stable environment for **economic development**. |
@@ -6454,7 +6948,9 @@ Addressing the balance between technological advancement and environmental susta
 | **Youth and Educational Institutions** | Focused on **strain theory** to prevent radical influences, promoting **moral development** and a psychologically **safe learning environment**. |
 | **Social Media Platforms** | Interested in adhering to **digital ethics** and **corporate social responsibility** by **regulating content**, preventing illegal activity on their platforms and maintaining **viewer engagement** and **profit generation**. |
 | **NGOs and Civil Society Organizations** | Apply **virtue ethics** and **human rights doctrines** to balance counter-terrorism with protecting **individual liberties** and **preventing radicalization**. |
-| **Judiciary** | Ensures counter-terrorism measures align with **constitutional morality**, **rule of law**, and the **Puttaswamy Judgment** on privacy rights and human dignity. | **** 1.
+| **Judiciary** | Ensures counter-terrorism measures align with **constitutional morality**, **rule of law**, and the **Puttaswamy Judgment** on privacy rights and human dignity. |
+
+**** 1.
 
 **Options Available to Raman to Tackle the Situation**
 - **Strengthening Cyber Surveillance:** Enhancing the capabilities of the **Cyber Cell** by incorporating **cyber-ethics principles** such as **ethical hacking** and **surveillance ethics** is critical for monitoring and intercepting communications between terrorist recruiters and potential recruits on social media. **For example:Targeted surveillance** on **Telegram** has been effective in identifying terror-linked conversations, preventing attacks in real-time.
@@ -6498,12 +6994,14 @@ Raman’s strategy must ensure a balance between **national security** and the p
 
 ### Answer
 
-**Core Demand of Question ● Discuss options available with Rohit to cope with the situation ● Discuss ethical dilemmas being faced by Rohit ● Suggest most appropriate option for Rohit to adopt and why ● Explore extra precautionary measures to be taken by the police in dealing with women protesters:**
+| **Core Demand of Question** ● Discuss options available with Rohit to cope with the situation ● Discuss ethical dilemmas being faced by Rohit ● Suggest most appropriate option for Rohit to adopt and why ● Explore extra precautionary measures to be taken by the police in dealing with women protesters |
+| --- |
 
 ### Answer
 
 In recent years, despite significant **collaborative efforts** by Central and State Governments to reduce the **Naxalite menace**, certain isolated regions still grapple with insurgency. The **ethical dilemma** faced by Rohit, a **Superintendent of Police** in charge of **Special Operations,** involves balancing utilitarian principles of maintaining law and order with deontological ethics of ensuring the **safety** and **rights of local** tribal communities **Key Stakeholders and Their Interests**
 **
+
 |:** Key Stakeholders **|** Interests **|**
 | --- | --- |
 | **Rohit (SP – Special Operations)** | Ensuring the **capture** and **prosecution** of **hardcore naxalites** while maintaining law and order, and preventing civilian casualties. |
@@ -6581,6 +7079,8 @@ The case presents a dilemma where a pregnant woman needs a blood transfusion to 
 - **Documenting the Decision-Making Process:** Thoroughly document the decision-making process, including consultations with medical professionals, communication with recognized blood banks, and the rationale behind the chosen course of action. This documentation serves as vital evidence to justify the decision and protect against potential legal repercussions.
 - **Crisis Management Strategy:** This situation underscores the need for an improved crisis management strategy that incorporates flexibility in protocols for emergency situations. Developing specific guidelines for exceptional cases, such as unavailability of blood from recognized blood banks, can help safeguard lives while maintaining ethical and legal standards.
 
+
+
 ### Conclusion
 
 In conclusion, the ethical complexity of this case highlights the imperative of prioritizing the greater good, with a strong emphasis on the humanitarian aspect. This entails ensuring maximum safety and meticulous documentation to validate the emergency action while also upholding the moral duty to save lives in extraordinary circumstances.
@@ -6630,6 +7130,8 @@ In conclusion, the ethical complexity of this case highlights the imperative of 
 - **Counseling and Support Measures:** Establish counseling services to assist employees with work-life balance challenges, promoting better mental health and job satisfaction. **For instance, companies like Microsoft offer counseling support through programs like “Microsoft Cares,” which encompasses personal and work-related issues, contributing to the well-being of employees and their families.**
 - **Responsible Leadership Promotion Measures:** Encourage responsible leadership to create a supportive work culture and provide leadership development programs emphasizing work-life balance. **IBM serves as an example of responsible leadership in organizations.**
 - **Emergency Leave Provisions:** Implement policies for emergency leaves to enable employees to address personal crises without compromising their professional duties, **using “The All India Services (Leave) Rules, 1955” as a foundation.**
+
+
 
 ### Conclusion
 
@@ -6694,6 +7196,8 @@ Pros:
 - **Prudent Decision-making:** Vinod should base his choices on ethical civil service principles, emphasizing transparency and accountability in governance.
 - **Strengthening Institutional Mechanisms:** Implement robust frameworks to safeguard civil servants from political interference and empower them to prioritize societal well-being, exploring effective strategies for this purpose.
 
+
+
 ### Conclusion
 
 In facing this complex ethical dilemma, Vinod must remain steadfast in his role as a civil servant, upholding his ethical principles while prioritizing the public’s welfare. This commitment can pave the way for greater transparency, accountability, and ethical leadership in the bureaucracy, ultimately benefiting society at large.
@@ -6745,6 +7249,8 @@ The presented case study sheds light on a critical ethical scenario intertwined 
 - **Non-Precedent Setting:** I would suggest that the bank manager and my colleague take steps to ensure that this situation does not set a precedent within the organization. Clear guidelines should be established to address similar requests in the future, ensuring fairness and impartiality.
 - **Monitoring and Follow-Up:** I would advise monitoring the situation closely to ensure that the funds are repaid as promised. This would uphold the principle of financial responsibility and accountability.
 
+
+
 ### Conclusion
 
 In navigating the ethical complexities of this situation, it is crucial to strike a balance between compassion and ethical integrity, emphasizing the significance of reflective decision-making that encompasses both ethical and legal dimensions.
@@ -6791,6 +7297,8 @@ In this scenario, a conflict has emerged between the Chief Architect, deeply com
 - **Mentorship Program:** Establish a mentorship initiative that encourages the exchange of knowledge and experience between senior and junior employees, fostering mutual respect and professional growth.
 - **Regular Feedback Mechanisms:** Institute routine feedback mechanisms, **similar to the “360-Degree Feedback” process** to maintain a healthy working environment, enabling the timely identification and resolution of issues before they escalate.
 
+
+
 ### Conclusion
 
 This case underscores the importance of upholding workplace values, necessitating a multi-pronged approach to effectively address Seema’s situation. By fostering a culture of respect and inclusivity, the team can be guided towards achieving successful project completion while maintaining a harmonious work atmosphere.
@@ -6832,6 +7340,8 @@ In a rapidly digitizing world, the potent influence of social media is undeniabl
 - **Encouraging Open Dialogue:** Promote open communication between parents, teachers, and students to create a supportive environment where children can discuss their concerns and experiences without fear of retribution.
 - **Personal Reflection and Self-Regulation:** Encourage the son to reflect on the situation, develop strategies for self-regulation in handling online interactions, and consider seeking professional help or counseling if needed.
 
+
+
 ### Conclusion
 
 This case vividly illustrates the ethical complexities of social media use in today’s interconnected world and the urgent need for responsible online behavior, digital literacy, and empathy. A proactive approach involving all stakeholders—parents, educators, and policymakers—is imperative to navigate these challenges, fostering awareness and promoting ethical online conduct for a safer digital environment, where individuals’ dignity and well-being are upheld.
@@ -6857,18 +7367,26 @@ This case vividly illustrates the ethical complexities of social media use in to
 
 <p align="center"><img src="images/pw_ethics_case_studies_q677_img1.webp" alt="stakeholders" /></p>
 
+
+
 ### Body
 **(a) Ethical issues involved in the case:** Unethical conduct: Subhash Verma’s actions of removing confidential bid documents from his current company and offering them to a rival company for personal gain demonstrate unethical behavior and breach of trust.
 
 - **Conflict of interest:** Prabhat faces a conflict of interest as he is considering accepting stolen bid documents that could potentially help his company secure a government contract. This creates a moral dilemma between personal gain and adhering to ethical principles.
 - **Bribery and corruption:** Subhash Verma’s offer to provide bid documents in exchange for employment can be seen as an attempt to engage in bribery or corruption, compromising the integrity of the bidding process.
-- **Breach of confidentiality:** Prabhat would be compromising the confidentiality of his current company if he accepts and utilizes the stolen bid documents, which is unethical and potentially illegal. **(b) Options available to Prabhat in the above situation:**
+- **Breach of confidentiality:** Prabhat would be compromising the confidentiality of his current company if he accepts and utilizes the stolen bid documents, which is unethical and potentially illegal.
+
+**(b) Options available to Prabhat in the above situation:**
 - **Reject the offer and report the incident:** Prabhat can refuse Subhash Verma’s offer, maintain his integrity, and report the incident to the appropriate authorities within his company to ensure disciplinary action is taken against Subhash Verma.
 - **Confront Subhash Verma and seek clarification:** Prabhat can meet with Subhash Verma to discuss his unethical offer, express his concerns, and emphasize the importance of ethical behavior. He can then decide whether to proceed with reporting the incident or not.
-- **Investigate the matter discreetly:** Prabhat can discreetly investigate the stolen bid documents and gather evidence. He can then report the incident to the relevant authorities, maintaining the confidentiality and integrity of the bidding process. **(c) The most appropriate course of action for Prabhat:**
+- **Investigate the matter discreetly:** Prabhat can discreetly investigate the stolen bid documents and gather evidence. He can then report the incident to the relevant authorities, maintaining the confidentiality and integrity of the bidding process.
+
+**(c) The most appropriate course of action for Prabhat:**
 - The most appropriate course of action for Prabhat would be to reject the offer and report the incident.
 - By doing so, he upholds ethical principles, maintains the integrity of the bidding process, and protects the interests of his current company.
 - Accepting stolen bid documents and engaging in bribery or corruption would not only be unethical but also expose Prabhat and his company to legal and reputational risks.
+
+
 
 ### Conclusion
 
@@ -6893,7 +7411,6 @@ Reporting the incident ensures that appropriate actions are taken against Subhas
 
 **The case presents a complex situation involving the death of a bus driver during an altercation, leading to a strike by the drivers’ union and a standoff between the union, the deceased driver’s family, and the City Transport Department management. Rakesh, as the Joint Commissioner, is faced with the task of resolving the situation. The analysis will focus on the stakeholders involved and their interests.** <p align="center"><img src="images/pw_ethics_case_studies_q678_img1.webp" alt="stakeholders " /></p>
 
-**The case presents a complex situation involving the death of a bus driver during an altercation, leading to a strike by the drivers’ union and a standoff between the union, the deceased driver’s family, and the City Transport Department management. Rakesh, as the Joint Commissioner, is faced with the task of resolving the situation. The analysis will focus on the stakeholders involved and their interests.** 
 
 ### Body
 
@@ -6918,12 +7435,22 @@ Reporting the incident ensures that appropriate actions are taken against Subhas
 - There is no guarantee of reaching a satisfactory resolution for all parties involved. **1.** Seek legal advice to determine the appropriate course of action in line with the law and department policies. **** Positives Ensures compliance with legal obligations and regulations.
 - Provides a clear framework for decision-making. **Reduces the risk of potential legal disputes in the future.** Negatives Legal advice may limit the flexibility of decision-making.
 - May not address the emotional and social aspects of the situation.
-- Could be perceived as an overly bureaucratic approach that lacks empathy. **(c) Ethical dilemmas faced by Rakesh** Balancing the financial constraints of the department with the needs and expectations of the deceased driver’s family.
+- Could be perceived as an overly bureaucratic approach that lacks empathy.
+
+**(c) Ethical dilemmas faced by Rakesh**
+
+Balancing the financial constraints of the department with the needs and expectations of the deceased driver’s family.
 - Addressing the potential discrimination concerns raised by the union and ensuring fairness in compensation policies.
-- Maintaining the integrity and reputation of the City Transport Department while making a decision that impacts the workers’ morale and public perception. **(d) Course of action Rakesh may adopt to diffuse the situation** Rakesh should initiate a dialogue with the union and the deceased driver’s family to understand their concerns and grievances.
+- Maintaining the integrity and reputation of the City Transport Department while making a decision that impacts the workers’ morale and public perception.
+
+**(d) Course of action Rakesh may adopt to diffuse the situation**
+
+Rakesh should initiate a dialogue with the union and the deceased driver’s family to understand their concerns and grievances.
 - He should demonstrate empathy and transparency, explaining the department’s financial limitations and legal obligations.
 - Rakesh can explore options for providing a reasonable compensation package within the available resources and consider offering support services to the family.
 - Open communication and a collaborative approach may help in diffusing the situation and finding a resolution that considers the interests of all stakeholders.
+
+
 
 ### Conclusion
 
@@ -6950,17 +7477,25 @@ Rakesh should adopt a comprehensive approach that includes reviewing the compens
 
 <p align="center"><img src="images/pw_ethics_case_studies_q679_img1.webp" alt="stakeholders" /></p>
 
+
+
 ### Body
 
 **(a) Department options available to Ramesh as the Director of the Home Department:**
 - **Withdraw the reportas instructed by the Additional Home Secretary:** Ramesh can comply with the directive and retract the comprehensive report on the infiltration of illegal migrants, thus avoiding potential consequences to his position and future promotion.
-- **Maintain the report and refuse to withdraw:** Ramesh can choose to stand by his findings and refuse to withdraw the report, asserting the importance of addressing the issue of illegal migration for the security and integrity of the state. **(b) Option Ramesh should adopt and why:**
+- **Maintain the report and refuse to withdraw:** Ramesh can choose to stand by his findings and refuse to withdraw the report, asserting the importance of addressing the issue of illegal migration for the security and integrity of the state.
+
+**(b) Option Ramesh should adopt and why:**
 - **Ramesh should maintain the report and refuse to withdraw it. By doing so, he upholds the principles of:** integrity, transparency, and accountability**in his role as the Director of the Home Department. It is essential to address the issue of illegal migration for the security and well-being of the state and its citizens.**(c) Critical evaluation of each option:
 - **Withdrawing the report:** This option may protect Ramesh’s position and potential promotion, but it compromises the integrity of his role and allows the issue of illegal migration to persist without proper action, potentially jeopardizing the security of the state.
-- **Maintaining the report:** This option aligns with ethical principles, demonstrates Ramesh’s commitment to his duty, and addresses the problem of illegal migration. However, it may come with personal and professional consequences, such as being transferred from the prestigious appointment and potential hindrance to future promotion. **(d) Ethical dilemmas faced by Ramesh:**
+- **Maintaining the report:** This option aligns with ethical principles, demonstrates Ramesh’s commitment to his duty, and addresses the problem of illegal migration. However, it may come with personal and professional consequences, such as being transferred from the prestigious appointment and potential hindrance to future promotion.
+
+**(d) Ethical dilemmas faced by Ramesh:**
 - **Balancing personal and professional responsibilities:** Ramesh faces the challenge of addressing the issue of illegal migration while dealing with his mother’s illness and his children’s education.
 - **Upholding integrity versus self-interest:** Ramesh must decide whether to prioritize the integrity of his role and the well-being of the state over potential personal repercussions.
-- **Navigating conflicting instructions:** Ramesh receives contradictory instructions from the Additional Home Secretary and is confronted with the ethical dilemma of choosing between complying with the directive or standing by his findings. **(e) Policy measures to combat the menace of infiltration of illegal migrants:**
+- **Navigating conflicting instructions:** Ramesh receives contradictory instructions from the Additional Home Secretary and is confronted with the ethical dilemma of choosing between complying with the directive or standing by his findings.
+
+**(e) Policy measures to combat the menace of infiltration of illegal migrants:**
 - **Strengthen border security:** Enhance surveillance, deploy advanced technologies, and increase the presence of security personnel at border posts to prevent illegal border crossings.
 - **Strict documentation and verification processes:** Implement robust mechanisms to ensure the authenticity of identity documents, such as Aadhaar Card, Ration Card, and Voter Card, through thorough verification procedures.
 - **Collaboration with intelligence agencies:** Foster cooperation and information sharing with intelligence agencies to gather accurate and timely information on potential infiltration activities.
@@ -6968,6 +7503,8 @@ Rakesh should adopt a comprehensive approach that includes reviewing the compens
 - **Streamlined legal procedures:** Simplify and expedite legal processes related to identifying and deporting illegal migrants, ensuring effective and efficient handling of cases.
 - **International cooperation:** Collaborate with the neighboring country to address the root causes of illegal migration and establish bilateral agreements to address the issue collectively.
 - **Rehabilitation and support:** Develop programs to assist and integrate genuine refugees while providing support to affected communities impacted by illegal migration.
+
+
 
 ### Conclusion
 
@@ -6993,23 +7530,35 @@ These measures should be implemented in a comprehensive and coordinated manner t
 
 <p align="center"><img src="images/pw_ethics_case_studies_q690_img1.webp" alt="stakeholder" /></p>
 
+
+
 ### Body
 
 **(a) Options available with Ashok to cope with the situation:**
 - **Publish the investigative story:** Ashok can choose to publish the investigative report through electronic media, exposing the nexus between the stone mining mafia, corrupt officials, and politicians.
 - **Stay silent and comply:** Ashok can choose to hand over the investigative report to the TV channel CMD, as advised, and drop the idea of making the story public. In return, he may receive personal benefits such as promotion, pay hike, and loan adjustments.
-- **Seek external support:** Ashok can reach out to external media outlets, regulatory authorities, or investigative agencies to expose the corruption and nexus, ensuring the story gets the attention it deserves. **(b) Evaluation of each option identified by Ashok:**
+- **Seek external support:** Ashok can reach out to external media outlets, regulatory authorities, or investigative agencies to expose the corruption and nexus, ensuring the story gets the attention it deserves.
+
+**(b) Evaluation of each option identified by Ashok:**
 - **Publish the investigative story:** This option allows for the truth to be exposed to the public, shedding light on the corruption and illicit activities. It upholds the principles of journalism and can contribute to accountability and justice.
 - **Stay silent and comply:** This option compromises journalistic integrity and enables the corrupt individuals to continue their illegal activities without facing consequences. It prioritizes personal benefits over the public interest and may perpetuate a culture of corruption.
-- **Seek external support:** This option provides an avenue for independent investigation and intervention, ensuring that the matter is addressed by external authorities. It may enhance the chances of justice and hold the responsible individuals accountable. **(c) Ethical dilemmas faced by Ashok:**
+- **Seek external support:** This option provides an avenue for independent investigation and intervention, ensuring that the matter is addressed by external authorities. It may enhance the chances of justice and hold the responsible individuals accountable.
+
+**(c) Ethical dilemmas faced by Ashok:**
 - **Upholding journalistic integrity:** Ashok faces the dilemma of maintaining his professional duty as an investigative journalist and exposing the truth, or compromising his integrity by suppressing the report for personal gain.
-- **Balancing personal interests and public interest:** Ashok must consider the potential benefits offered by the TV channel CMD against the ethical responsibility to serve the public interest and expose corruption. **(d) The most appropriate option for Ashok to adopt:**
-- **The most appropriate option for Ashok:** would be to publish the investigative story, exposing the complete nexus of corruption and illicit activities. By doing so, he upholds the principles of journalism, promotes transparency, and contributes to the public’s right to know. This option serves the broader interest of justice and accountability, despite potential personal risks or consequences. **(e) Training for police officers posted in districts with rampant illegal stone mining activities:**
+- **Balancing personal interests and public interest:** Ashok must consider the potential benefits offered by the TV channel CMD against the ethical responsibility to serve the public interest and expose corruption.
+
+**(d) The most appropriate option for Ashok to adopt:**
+- **The most appropriate option for Ashok:** would be to publish the investigative story, exposing the complete nexus of corruption and illicit activities. By doing so, he upholds the principles of journalism, promotes transparency, and contributes to the public’s right to know. This option serves the broader interest of justice and accountability, despite potential personal risks or consequences.
+
+**(e) Training for police officers posted in districts with rampant illegal stone mining activities:**
 - **Knowledge of laws and regulations:** Police officers should receive comprehensive training on relevant laws and regulations pertaining to illegal mining, environmental protection, and ecological balance.
 - **Investigation techniques:** Training should focus on effective investigation techniques, evidence collection, and intelligence gathering to uncover the networks involved in illegal mining activities.
 - **Ethical conduct and integrity:** Officers should be trained on ethical standards, emphasizing the importance of resisting corruption and the influence of powerful individuals or groups.
 - **Collaboration and coordination:** Training programs should promote interdepartmental collaboration, encouraging police officers to work closely with forest officials, intelligence agencies, and other relevant authorities to combat illegal mining.
 - **Awareness and sensitization:** Officers should be educated about the environmental impact of illegal mining and the need to protect natural resources. This includes raising awareness about the ecological balance and the Supreme Court’s directives regarding mining activities in sensitive areas like the Aravalli Hills.
+
+
 
 ### Conclusion
 
@@ -7036,6 +7585,8 @@ Ashok should seek legal counsel and protection to ensure the safety of the evide
 
 <p align="center"><img src="images/pw_ethics_case_studies_q706_img1.webp" alt="stakeholders" /></p>
 
+
+
 ### Body
 **(a) Options available to you under the given situation:** 1. Enforce strict action and penalties against the non-compliant industrial units.
 2. Engage in dialogue and negotiation with the industrial units to encourage them to adopt environmentally-friendly practices.
@@ -7055,7 +7606,11 @@ Ashok should seek legal counsel and protection to ensure the safety of the evide
 - Dependence on NGOs and community support may vary based on their availability and capacity. **Sustaining collaboration and engagement can be challenging in the long run.** Option 5: Implement a phased approach, giving industrial units a specific timeframe to improve their practices gradually. **** Positives Allows industrial units to make necessary changes without immediate economic disruptions.
 - Provides time for workers and owners to adjust and adapt to new practices. **Allows for monitoring and evaluation of progress during the phased implementation.** Negatives Progress may be slow, and compliance may not be achieved within the desired timeframe.
 - Requires continuous monitoring and enforcement to ensure progress.
-- Critics may argue that gradual improvements do not adequately address the immediate environmental concerns. **(c) Mechanism to ensure environmental compliance:** 1. Establish a robust monitoring system to regularly assess the industrial units’ compliance with environmental regulations.
+- Critics may argue that gradual improvements do not adequately address the immediate environmental concerns.
+
+**(c) Mechanism to ensure environmental compliance:**
+
+1. Establish a robust monitoring system to regularly assess the industrial units’ compliance with environmental regulations.
 2. Conduct regular inspections and audits to identify violations and non-compliant practices.
 3. Provide necessary training and awareness programs to industrial unit owners and workers regarding the importance of environmental compliance.
 4. Implement strict penalties and fines for non-compliance to create a deterrent effect.
@@ -7064,6 +7619,8 @@ Ashok should seek legal counsel and protection to ensure the safety of the evide
 2. Dealing with resistance, hostility, and threats from industrial units and vested interest groups.
 3. Ensuring fairness and equal treatment to all stakeholders while upholding environmental regulations.
 4. Striving for long-term environmental sustainability while addressing immediate concerns and pressures.
+
+
 
 ### Conclusion
 
@@ -7090,28 +7647,44 @@ The case study highlights the challenges of environmental compliance and involve
 
 <p align="center"><img src="images/pw_ethics_case_studies_q707_img1.webp" alt="stakeholders" /></p>
 
+
+
 ### Body
 
 **(a) Under the given conditions, the options available to you as a member of the Inspecting Team are:**
 - **Comply with the top management’s directive:** and clear the consignment for the domestic market, overlooking the poor quality.
 - **Refuse to sign off:** on the consignment and insist on maintaining quality standards, even if it means potential consequences such as termination.
 - **Seek guidance:** or advice from a higher authority within the company or an external regulatory body to address the ethical dilemma.
-- **Report the situation anonymously:** to relevant authorities or regulatory bodies to ensure that the company’s actions are brought to light. **(b) Evaluation of each option:**
+- **Report the situation anonymously:** to relevant authorities or regulatory bodies to ensure that the company’s actions are brought to light.
+
+**(b) Evaluation of each option:**
 - **Complying with the top management’s directive:** This option prioritizes job security but compromises ethical standards and risks long-term consequences for the company’s reputation and customer satisfaction.
 - **Refusing to sign off on the consignment:** This option upholds ethical principles but may result in job loss and financial implications for you and your dependents. It demonstrates integrity and a commitment to maintaining quality standards.
 - **Seeking guidance from a higher authority or external regulatory body:** This option involves reaching out for support and guidance to address the ethical dilemma and ensure proper actions are taken. It can provide a pathway to resolve the situation while minimizing personal risks.
-- **Reporting anonymously to relevant authorities:** This option aims to expose the company’s unethical practices and ensure accountability. It may have consequences for job security and personal well-being but can contribute to long-term industry improvements and protect consumer interests. **(c) Option to adopt**: -
+- **Reporting anonymously to relevant authorities:** This option aims to expose the company’s unethical practices and ensure accountability. It may have consequences for job security and personal well-being but can contribute to long-term industry improvements and protect consumer interests.
+
+**(c) Option to adopt**
+
+: -
 - The most appropriate option to adopt would depend on individual values, personal circumstances, and risk tolerance. However, upholding ethical standards and maintaining integrity should be a priority.
-- Refusing to sign off on the consignment, despite potential consequences, demonstrates a commitment to quality and professional ethics. **(d) The ethical dilemmas being faced include** Balancing personal and financial responsibilities with professional integrity.
+- Refusing to sign off on the consignment, despite potential consequences, demonstrates a commitment to quality and professional ethics.
+
+**(d) The ethical dilemmas being faced include**
+
+Balancing personal and financial responsibilities with professional integrity.
 - Navigating the pressure to compromise on quality for short-term gains.
 - Considering the potential impact on the company’s reputation and customer trust.
-- Evaluating the implications of job security and potential termination. **(e) Consequences of overlooking the observations raised by the inspecting team can include:**
+- Evaluating the implications of job security and potential termination.
+
+**(e) Consequences of overlooking the observations raised by the inspecting team can include:**
 - **Damage to reputation:** Allowing poor-quality products to enter the market can tarnish the company’s reputation, leading to customer dissatisfaction, negative reviews, and a decline in sales.
 - **Legal and regulatory issues:** If the poor quality of the consignment causes harm or safety concerns, the company may face legal liabilities, lawsuits, and penalties from regulatory bodies.
 - **Loss of customer trust:** Consumers may lose confidence in the brand, resulting in a loss of market share and decreased customer loyalty.
 - **Negative impact on future business opportunities:** Overseas markets may reject future consignments due to a tarnished reputation, hindering the company’s expansion plans and potential growth.
 - **Employee morale and ethics:** Overlooking quality issues can create a culture of unethical behavior within the organization, leading to demotivated employees and potential employee turnover.
 - **Long-term sustainability:** Compromising on quality standards can undermine the company’s long-term success and sustainability in a competitive market.
+
+
 
 ### Conclusion
 
@@ -7137,12 +7710,18 @@ It is crucial to consider these potential consequences and make decisions that a
 
 <p align="center"><img src="images/pw_ethics_case_studies_q560_img1.webp" alt="stakeholders" /></p>
 
+
+
 ### Body
 
 **(a) Actions by the competent authority against the food company**
 Imposing fines, penalties, or legal consequences for violating domestic food standards.
 - Conducting a thorough investigation to ensure consumer safety and prevent future incidents.
-- Potential product recall or suspension of the company’s license. **(b) Actions by the food company to resolve the crisis and regain reputation** Recall and replace non-compliant and rejected products from the market.
+- Potential product recall or suspension of the company’s license.
+
+**(b) Actions by the food company to resolve the crisis and regain reputation**
+
+Recall and replace non-compliant and rejected products from the market.
 - Apologize to consumers and stakeholders for the quality control lapse.
 - Conduct an internal review to identify and rectify quality control issues.
 - Improve communication and transparency with consumers. **Implement stricter quality control measures to comply with standards and regain trust.** (c) Ethical dilemma Compromising consumer safety and health by selling non-compliant and rejected products.
@@ -7150,6 +7729,8 @@ Imposing fines, penalties, or legal consequences for violating domestic food sta
 - Balancing profit motives with responsibility towards public health.
 - Upholding integrity and prioritizing consumer well-being.
 - Rebuilding trust and demonstrating accountability to regain reputation.
+
+
 
 ### Conclusion
 
@@ -7179,6 +7760,8 @@ Imposing fines, penalties, or legal consequences for violating domestic food sta
 
 <p align="center"><img src="images/pw_ethics_case_studies_q561_img1.webp" alt="stakeholders" /></p>
 
+
+
 ### Body
 
 **(a) Options available to the project manager**
@@ -7186,19 +7769,33 @@ Follow the chief engineer’s order and continue the work without addressing the
 - Insist on proper repair and reconstruction of the piers, even if it leads to project delays, ensuring the safety and durability of the elevated corridor.
 - Seek guidance from higher authorities or an external expert to make an informed decision on how to proceed.
 - Communicate the issue to the Chief Minister directly, highlighting the potential risks and seeking approval for the necessary repairs.
-- Consult with the inspecting team and other technical experts to explore alternative solutions that could address the crack while minimizing project delays. **(b) Ethical dilemmas faced by the project manager** Balancing the project manager’s professional responsibility for quality and safety against political pressures and personal career prospects.
+- Consult with the inspecting team and other technical experts to explore alternative solutions that could address the crack while minimizing project delays.
+
+**(b) Ethical dilemmas faced by the project manager**
+
+Balancing the project manager’s professional responsibility for quality and safety against political pressures and personal career prospects.
 - Maintaining transparency and integrity in decision-making, despite the influence of the minister and contractor who have personal interests in the project.
 - Upholding the public interest and the well-being of future users of the elevated corridor, even if it means challenging the authority of superiors.
 - Ensuring accountability and avoiding potential legal and moral consequences associated with compromising on safety standards.
-- Balancing the short-term objective of completing the project before the elections with the long-term consequences of overlooking a potential risk. **(c) Professional challenges likely to be faced by the project manager and their response to overcome such challenges** Communicating the importance of safety and durability to the chief engineer and higher authorities, emphasizing the potential risks associated with not addressing the crack.
+- Balancing the short-term objective of completing the project before the elections with the long-term consequences of overlooking a potential risk.
+
+**(c) Professional challenges likely to be faced by the project manager and their response to overcome such challenges**
+
+Communicating the importance of safety and durability to the chief engineer and higher authorities, emphasizing the potential risks associated with not addressing the crack.
 - Building a strong case by gathering technical evidence, conducting further inspections, and consulting with experts to support the need for reconstruction.
 - Negotiating with the minister and contractor by presenting alternatives that prioritize safety without significantly compromising the project timeline.
 - Seeking support from professional networks, industry associations, or regulatory bodies to advocate for adherence to quality standards.
-- Documenting all discussions, decisions, and actions taken to maintain a record of the project manager’s commitment to professional integrity and due diligence. **(d) Consequences of overlooking the observation raised by the inspecting team** Increased risk of structural failure or accidents, potentially endangering the lives of future users of the elevated corridor.
+- Documenting all discussions, decisions, and actions taken to maintain a record of the project manager’s commitment to professional integrity and due diligence.
+
+**(d) Consequences of overlooking the observation raised by the inspecting team**
+
+Increased risk of structural failure or accidents, potentially endangering the lives of future users of the elevated corridor.
 - Reputation damage to the project manager, the college, and the government for compromising on safety standards.
 - Potential legal repercussions and liabilities if any accidents or damages occur due to the neglected crack.
 - Loss of public trust and confidence in the project and the authorities responsible for its construction.
 - Long-term financial implications of retrofitting or repairing the piers after completion, which could be more costly and disruptive compared to addressing the issue during the construction phase.
+
+
 
 ### Conclusion
 
@@ -7225,6 +7822,8 @@ Project managers must choose between prioritizing safety and meeting political d
 
 <p align="center"><img src="images/pw_ethics_case_studies_q611_img1.webp" alt="stakeholders" /></p>
 
+
+
 ### Body
 **(a) Options available for Pawan to cope with the situation:** 1. **Confront the senior officer:** Pawan can have a direct conversation with the senior officer to address the issues and express how the behavior is affecting him.
 2. **Seek support from colleagues:** Pawan can discuss the situation with his colleagues and seek their support and guidance on how to deal with the senior officer’s behavior.
@@ -7248,6 +7847,8 @@ Project managers must choose between prioritizing safety and meeting political d
 4. **Stress management and well-being:** Training programs that address stress management techniques and promote overall well-being can help officers cope with work-related pressures and maintain a healthy work-life balance.
 5. **Diversity and inclusion:** Training on diversity and inclusion can promote understanding, respect, and inclusivity among officers, fostering a more harmonious and supportive work environment.
 6. **Ethical conduct and professionalism:** Training programs focusing on ethical conduct, professional standards, and ethical decision-making can help officers navigate challenging situations with integrity.
+
+
 
 ### Conclusion
 
@@ -7274,12 +7875,16 @@ By investing in these training programs, government offices can foster a healthi
 
 <p align="center"><img src="images/pw_ethics_case_studies_q615_img1.webp" alt="stakeholders" /></p>
 
+
+
 ### Body
 
 **(a) The different options available to Sunil in attending to this situation are**
 - **Continuing his efforts:**Sunil can choose to continue his raids and crackdown on the illegal sand mining operations despite the threats and challenges. This option demonstrates his determination to uphold the law and combat corruption.
 - **Seeking external support:** Sunil can reach out to higher authorities, such as senior officials, police, or anti-corruption agencies, for assistance and protection. This option can provide him with additional resources and security.
-- **Relocating or requesting a transfer:** Sunil can consider requesting a transfer to another location or department where his safety and that of his family can be ensured. This option prioritizes personal safety and well-being. **(b) Evaluation of options:**
+- **Relocating or requesting a transfer:** Sunil can consider requesting a transfer to another location or department where his safety and that of his family can be ensured. This option prioritizes personal safety and well-being.
+
+**(b) Evaluation of options:**
 - **Continuing his efforts:** **Positive:** Upholding the law, fighting corruption, and maintaining his reputation for competence and integrity.
 - **Negative:** Increased risk to his personal safety and the safety of his family due to threats from the mafia.
 - **Seeking external support:** 
@@ -7291,6 +7896,8 @@ By investing in these training programs, government offices can foster a healthi
 **Relocating or requesting a transfer:**
 - **Positive:** Ensuring the safety of himself and his family by moving away from the immediate threat.
 - **Negative:** Potential disruption to his career and the loss of an opportunity to combat corruption in the current district. **(c)** The most appropriate option for Sunil would be to seek external support while continuing his efforts.
+
+
 
 ### Conclusion
 
@@ -7316,6 +7923,8 @@ By reaching out to higher authorities and anti-corruption agencies, he can gain 
 
 <p align="center"><img src="images/pw_ethics_case_studies_q616_img1.webp" alt="stakeholders" /></p>
 
+
+
 ### Body
 
 **(a) In a public hospital facing the COVID-19 pandemic with limited resources and infrastructure, the criteria and justification for assigning clinical and non-clinical staff to attend to patients would be as follows:**
@@ -7323,12 +7932,16 @@ By reaching out to higher authorities and anti-corruption agencies, he can gain 
 - **Specialized training:** Provide comprehensive training to healthcare workers on infection prevention and control measures, including proper use of PPE, hand hygiene, and patient management protocols.
 - **Skill-based deployment:** Allocate staff based on their expertise and skills. Assign experienced healthcare professionals to handle critical cases, while utilizing other staff members for non-clinical tasks or less complex patient care
 - **Rotational shifts:** Implement rotational shifts to manage the workload and prevent staff burnout. Adequate rest periods and breaks should be provided to ensure the well-being of healthcare workers.
-- **Regular monitoring and support:** Maintain effective communication channels to address staff concerns and provide emotional support. Continuous monitoring of staff health and well-being is crucial to ensure their ability to provide quality care. **(b) In a private hospital, the justification and decision-making process may differ due to varying factors, such as financial considerations and differing patient expectations. While the priority of patient care and staff safety remains the same, additional considerations in a private hospital may include:**
+- **Regular monitoring and support:** Maintain effective communication channels to address staff concerns and provide emotional support. Continuous monitoring of staff health and well-being is crucial to ensure their ability to provide quality care.
+
+**(b) In a private hospital, the justification and decision-making process may differ due to varying factors, such as financial considerations and differing patient expectations. While the priority of patient care and staff safety remains the same, additional considerations in a private hospital may include:**
 - **Financial viability:** Private hospitals may face financial constraints and need to balance patient care with financial sustainability. The allocation of resources, including staff deployment, may need to consider revenue generation capabilities.
 - **Service quality and reputation:** Private hospitals often prioritize maintaining a high level of service quality and reputation. Ensuring appropriate staffing levels and efficient patient care is crucial to maintain patient satisfaction and preserve the hospital’s reputation.
 - **Cost implications:** Private hospitals may need to assess the cost implications of deploying staff to treat COVID-19 patients, including the availability of PPE and other necessary resources. Balancing patient care needs with cost considerations is essential.
 - **Adherence to regulations:** Private hospitals must comply with government regulations and guidelines related to infectious disease management. Justifications for staff deployment should align with legal and regulatory requirements.
 - **Collaboration with public healthcare:** Private hospitals can consider collaborating with public healthcare facilities during a public health crisis like the COVID-19 pandemic. Sharing resources and expertise can enhance the overall response to the outbreak while ensuring efficient utilization of resources.
+
+
 
 ### Conclusion
 
@@ -7355,13 +7968,19 @@ Ensure staff safety, allocate resources effectively, collaborate with stakeholde
 
 <p align="center"><img src="images/pw_ethics_case_studies_q634_img1.webp" alt="stakeholder" /></p>
 
+
+
 ### Body
 
 **(a) Ethical Issues:**
 - **Academic Integrity:** The involvement of students in unfair means and the senior lecturer aiding them raises concerns about academic integrity and the values of honesty and fairness.
 - **Nepotism and Favoritism:** The fact that one student is the son of a local politician and the other is the son of a prominent businessman suggests the possibility of favoritism and unfair treatment based on personal connections.
 - **Misuse of Power:** The management’s pressure to resolve the issue at any cost, considering the reputation of influential individuals, raises questions about the misuse of power and compromising ethical principles for personal gain.
-- **Conflict of Interest:** The close relationship between the senior lecturer and the management, as well as the potential impact on the promotion prospects of the Vice Principal, creates a conflict of interest in dealing with the situation objectively. **(b) Options Available:** **Option 1: Cover-up and Suppression** **Positives:**
+- **Conflict of Interest:** The close relationship between the senior lecturer and the management, as well as the potential impact on the promotion prospects of the Vice Principal, creates a conflict of interest in dealing with the situation objectively.
+
+**(b) Options Available:**
+
+**Option 1: Cover-up and Suppression** **Positives:**
 - Protects the reputation of the college in the short term.
 - May secure the Vice Principal’s promotion, as directed by the management. **Maintains a harmonious relationship with influential individuals involved.** Negatives Compromises academic integrity and ethical standards.
 - Creates a culture of dishonesty and unfairness.
@@ -7376,6 +7995,8 @@ Ensure staff safety, allocate resources effectively, collaborate with stakeholde
 - Could result in negative publicity or backlash from influential individuals. **Requires a thorough investigation, which may consume time and resources.** Preferred Option The Vice Principal should opt for a transparent investigation and take appropriate action based on the evidence.
 - Upholding academic integrity and fairness is crucial for the reputation of the college in the long run.
 - By demonstrating a commitment to ethical principles, the Vice Principal can establish trust among students, faculty, and the community.
+
+
 
 ### Conclusion
 
@@ -7402,6 +8023,8 @@ While this option may entail risks and potential conflicts, it aligns with profe
 
 <p align="center"><img src="images/pw_ethics_case_studies_q522_img1.webp" alt="stakeholders" /></p>
 
+
+
 ### Body
 
 **Ethical issues in the migrant crisis:**
@@ -7415,6 +8038,8 @@ While this option may entail risks and potential conflicts, it aligns with profe
 - **Legal Aid and Advocacy:** Assisting migrants with legal support, ensuring their rights are protected, and advocating for their fair treatment and inclusion in government policies and programs.
 - **Emotional Support:** Offering counseling services and emotional support to migrants, addressing their trauma and mental health concerns.
 - **Skill Development and Employment:** Assisting migrants in acquiring new skills, connecting them with employment opportunities, and facilitating their reintegration into the workforce.
+
+
 
 ### Conclusion
 
@@ -7441,6 +8066,8 @@ These efforts by civil society can help mitigate the sufferings of migrants, add
 
 <p align="center"><img src="images/pw_ethics_case_studies_q525_img1.webp" alt="stakeholder" /></p>
 
+
+
 ### Body
 **Ethical issues involved in the case:** 1. **Corruption:** The use of poor quality materials and violation of building regulations indicate corruption and disregard for public safety.
 2. **Negligence:** The failure of the building inspector and other officials to notice and address the violations shows negligence in their duties.
@@ -7460,6 +8087,8 @@ These efforts by civil society can help mitigate the sufferings of migrants, add
 5. Implement immediate corrective actions, such as halting the construction, sealing off unsafe areas, and ensuring proper remedial measures are taken.
 6. Collaborate with law enforcement agencies to address any threats or attempts of false accusations.
 7. Advocate for transparency, accountability, and the enforcement of strict building regulations to prevent similar incidents in the future.
+
+
 
 ### Conclusion
 
@@ -7490,6 +8119,8 @@ Despite challenges like the fire incident and the COVID-19 lockdown, APW demonst
 
 <p align="center"><img src="images/pw_ethics_case_studies_q527_img1.webp" alt="stakeholder" /></p>
 
+
+
 ### Body
 
 **Ethical issues involved in the story of APW:**
@@ -7509,6 +8140,8 @@ Despite challenges like the fire incident and the COVID-19 lockdown, APW demonst
 - **Economic empowerment:** Assessing the extent to which APW’s operations have contributed to the economic empowerment of the local community.
 - **Collaborative partnerships:** Evaluating the company’s efforts to collaborate with local stakeholders, NGOs, and government agencies to maximize the benefits for the community.
 - **Ethical business practices:** Examining the company’s commitment to fair trade practices, including labour rights, environmental sustainability, and ethical sourcing.
+
+
 
 ### Conclusion
 
@@ -7541,6 +8174,8 @@ Despite challenges like the fire incident and the COVID-19 lockdown, APW demonst
 
 <p align="center"><img src="images/pw_ethics_case_studies_q530_img1.webp" alt="stakeholders" /></p>
 
+
+
 ### Body
 **(a) Ethical issues involved in re-appropriation of funds from a welfare project to the developmental projects:** 1. **Misallocation of funds:** Re-appropriating funds from the National Housing Scheme (NHS), which is meant for the weaker sections of society, to other developmental projects raises ethical concerns as it diverts resources from a welfare project to projects with different objectives.
 2. **Prioritization of projects:** There is an ethical dilemma in deciding which projects should receive funding priority. Balancing the needs of social welfare projects and developmental projects requires careful consideration to ensure equitable allocation of resources.
@@ -7553,6 +8188,8 @@ Despite challenges like the fire incident and the COVID-19 lockdown, APW demonst
 4. **Seek legal or expert advice:** Rajesh Kumar can consult legal or financial experts to understand the implications of re-appropriation and explore possible legal avenues to address the issue. This can help him make informed decisions and navigate the ethical complexities involved.
 5. **Consider resignation:** Resigning may be a personal choice for Rajesh Kumar if he believes that his concerns are not being adequately addressed and if he feels that his ethical principles are being compromised. However, resignation should be a last resort and carefully considered, weighing the potential impact and effectiveness of other available options.
 6. **Whistleblowing:** If Rajesh Kumar discovers any wrongdoing or illegal activities related to the allocation of funds, he may consider whistleblowing to appropriate authorities or agencies responsible for overseeing public finance management. This can help expose any unethical practices and ensure accountability.
+
+
 
 ### Conclusion
 
@@ -7585,6 +8222,8 @@ The migration of youth and the exploitation of minor girls in cotton farms highl
 
 <p align="center"><img src="images/pw_ethics_case_studies_q532_img1.webp" alt="stakeholders" /></p>
 
+
+
 ### Body
 **Ethical issues involved in the case study:** 1. **Exploitation of minor girls:** The use of child labor in the cotton farms is a violation of their rights and exposes them to unsafe working conditions.
 2. **Lack of protection and support:** The failure of parents, labor contractors, and NGOs to provide adequate protection and support to the minor girls contributes to their vulnerability and compromised well-being.
@@ -7596,6 +8235,8 @@ The migration of youth and the exploitation of minor girls in cotton farms highl
 5. **Promote skill development and employment opportunities:** Introduce skill development programs and vocational training to equip the youth with employable skills, promoting income generation and reducing migration.
 6. **Strengthen NGOs and civil society engagement:** Collaborate with credible NGOs and civil society organizations to advocate for the rights of minor girls, address systemic issues, and promote sustainable development in Rampura.
 7. **Encourage local entrepreneurship and industry:** Facilitate the establishment of small-scale industries and promote entrepreneurship in sectors suitable for Rampura’s resources, creating employment opportunities and improving the economic condition of the district.
+
+
 
 ### Conclusion
 
@@ -7622,6 +8263,8 @@ By addressing the ethical issues involved and implementing these specific steps,
 
 <p align="center"><img src="images/pw_ethics_case_studies_q536_img1.webp" alt="stakeholder" /></p>
 
+
+
 ### Body
 **(a) Views of the Chairman of BML:** 1. The Chairman is likely to feel proud of BML’s progress and achievements in the field of missile production.
 2. The Chairman may view the possibility of exporting ATGMs as a great opportunity to showcase BML’s capabilities on the international stage.
@@ -7632,6 +8275,8 @@ By addressing the ethical issues involved and implementing these specific steps,
 3. **Supporting oppressive regimes:** Selling arms to governments with authoritarian or oppressive practices can be seen as indirectly endorsing or enabling such regimes.
 4. **Non-proliferation of weapons:** Ethical considerations arise when exporting weapons to countries that may use them to develop or enhance their own weapons of mass destruction, potentially fueling arms races.
 5. **Transparency and accountability:** The ethical aspect involves ensuring transparency in arms trade, preventing corruption, and ensuring responsible end-use of weapons to prevent diversion to unauthorized entities or illicit activities.
+
+
 
 ### Conclusion
 
@@ -7662,6 +8307,8 @@ By addressing the ethical issues involved and implementing these specific steps,
 
 <p align="center"><img src="images/pw_ethics_case_studies_q311_img1.webp" alt="stakeholder" /></p>
 
+
+
 ### Body
 **Reasons for such incidents taking place across the country:** 1. **Lack of Proper Oversight:** Insufficient monitoring and enforcement by regulatory authorities contribute to illegal construction activities. Corrupt practices and negligence in issuing permits and conducting inspections allow builders to violate building regulations.
 2. **Greed and Profit Motive:** Builders may illegally extend buildings to maximize their profits without considering the safety implications. Cutting corners in construction practices, using substandard materials, and ignoring structural integrity can lead to disastrous consequences.
@@ -7675,6 +8322,8 @@ By addressing the ethical issues involved and implementing these specific steps,
 6. **Streamlined Approval Processes:** Simplify and expedite the process of obtaining construction permits, while maintaining strict adherence to safety regulations. This can discourage builders from resorting to illegal practices due to lengthy and cumbersome procedures.
 7. **Strict Punishment and Deterrence:** Ensure swift and stringent legal action against builders involved in illegal constructions. This serves as a deterrent and sends a strong message that non-compliance with building regulations will not be tolerated.
 8. **Protection of Labor Rights:** Strengthen labor laws and enforcement mechanisms to protect the rights and safety of laborers. This includes regular inspections of construction sites, ensuring fair wages, and providing access to healthcare and social security.
+
+
 
 ### Conclusion
 
@@ -7701,6 +8350,8 @@ By implementing these measures, the government and relevant authorities can impr
 
 <p align="center"><img src="images/pw_ethics_case_studies_q380_img1.webp" alt="stakeholder" /></p>
 
+
+
 ### Body
 
 **To separate genuine and non-genuine RTI applications, the following measures can be considered:**
@@ -7719,6 +8370,8 @@ By implementing these measures, the government and relevant authorities can impr
 - **Whistleblower Protection:** Establish mechanisms to protect whistleblowers who expose corruption or misuse of the RTI Act. Encourage individuals to report instances of extortion or misuse without fear of reprisal.
 - **Merits:** Encourages genuine applications and discourages non-genuine ones by creating a safe environment for reporting fraudulent activities.
 - **Demerits:** Implementation and enforcement of whistleblower protection mechanisms can be challenging. It may not directly address the issue of distinguishing between genuine and non-genuine applications but can indirectly discourage non-genuine ones.
+
+
 
 ### Conclusion
 
@@ -7741,6 +8394,9 @@ It is important to note that striking a balance between transparency, accountabi
 
 ### Introduction
 
+
+
+
 ### Body
 
 **(a) There is a general perception that by adhering to ethical conduct one may face difficulties to oneself and cause problems for the family, whereas unfair practices may help to reach career goals.**
@@ -7756,6 +8412,8 @@ It is important to note that striking a balance between transparency, accountabi
 2. **Smoothing bureaucratic processes:** In certain contexts, small gifts may be seen as customary or cultural practices that facilitate smoother interactions and improve efficiency. **Demerits:** 1. **Slippery slope:** Accepting small gifts can lead to a gradual erosion of ethical boundaries, making individuals more susceptible to engaging in larger unethical practices over time.
 2. **Unfair advantage:** Accepting gifts can create an uneven playing field, where those with greater resources can gain preferential treatment, compromising fairness and meritocracy.
 3. **Perception of corruption:** The acceptance of gifts, regardless of their size, can create a perception of corruption, eroding public trust in the integrity of the civil service.
+
+
 
 ### Conclusion
 
@@ -7782,6 +8440,8 @@ While the above statements may present some perceived merits in certain situatio
 
 <p align="center"><img src="images/pw_ethics_case_studies_q382_img1.webp" alt="stakeholder" /></p>
 
+
+
 ### Body
 
 In a situation where I am aspiring to become an IAS officer and have been selected for a personal interview, but come across an accident involving my relatives who urgently need assistance, my actions would be as follows:
@@ -7792,6 +8452,8 @@ In a situation where I am aspiring to become an IAS officer and have been select
 2. **Upholding core values:** The civil services, including the role of an IAS officer, are founded on principles of public service, empathy, and commitment to the well-being of individuals and society. By actively engaging in assisting my injured relatives, I am demonstrating the very values that are sought in an aspiring civil servant.
 3. **Demonstrating crisis management skills:** Handling unexpected and critical situations effectively is a vital attribute for an IAS officer. By promptly responding to the accident, coordinating emergency services, and informing the interview panel, I am demonstrating my ability to handle crises and make informed decisions under pressure.
 4. **Transparency and integrity:** Communicating the situation to the interview panel with complete honesty and transparency is essential. It reflects integrity, ethical conduct, and a commitment to upholding the values expected in the civil services. This approach maintains trust and credibility, even in challenging circumstances.
+
+
 
 ### Conclusion
 
@@ -7817,6 +8479,8 @@ While there may be short-term implications, such as missing the scheduled interv
 
 <p align="center"><img src="images/pw_ethics_case_studies_q383_img1.webp" alt="stakeholder" /></p>
 
+
+
 ### Body
 
 **After careful consideration of the situation, I would recommend the following course of action to the management:** 1. **Conduct a comprehensive review:** Thoroughly investigate the incident to confirm the facts and circumstances surrounding the worker’s death. Ensure that all aspects, including the worker’s state of intoxication, are taken into account during the investigation. **Merits**
@@ -7828,6 +8492,8 @@ The investigation process may take time, causing delays in addressing the worker
 - Strict adherence to legal obligations without considering compassionate aspects could harm the company’s reputation and employee morale. **1.** Engage in dialogue with the workers’ representatives: Initiate discussions with the workers’ representatives to understand their concerns and demands. Provide a platform for open communication and express empathy towards the deceased worker’s family. **** Merits Engaging in dialogue shows a willingness to address the workers’ concerns and find a mutually beneficial solution. **It demonstrates the company’s commitment to maintaining positive employee relations and resolving conflicts through peaceful means.** Demerits Dialogues may not immediately resolve the demand for compensation, potentially prolonging the strike and negatively impacting productivity.
 - The workers’ representatives may remain firm in their demands, making it challenging to reach a satisfactory resolution. **1.** Explore alternative support measures: While denying formal compensation due to the worker’s intoxication, consider providing alternative support to the deceased worker’s family. This could include assistance with funeral expenses, counseling services, or facilitating access to relevant government benefits and resources. **** Merits Offering alternative support measures demonstrates the company’s compassion towards the deceased worker’s family, even if formal compensation is denied. **It helps address some of the immediate financial and emotional needs of the family.** Demerits Providing alternative support may not fully satisfy the workers’ demand for compensation, potentially prolonging the strike or creating ongoing dissatisfaction among employees.
 - Implementing support measures may have financial implications for the company, requiring budget adjustments in other areas.
+
+
 
 ### Conclusion
 
@@ -7855,6 +8521,8 @@ The manager faces dilemmas regarding whether to provide an honest account of the
 
 <p align="center"><img src="images/pw_ethics_case_studies_q384_img1.webp" alt="stakeholders" /></p>
 
+
+
 ### Body
 
 In the given scenario, the manager faces several dilemmas with significant consequences. Here is a more detailed view of the dilemmas faced and potential responses: **Dilemmas Faced:** 1. **Ethical Dilemma:** The manager is torn between the ethical obligation to tell the truth about the accident and the potential negative impact on their company’s critical deal. They must weigh the value of honesty and justice against the potential harm to their company and its employees.
@@ -7864,6 +8532,8 @@ In the given scenario, the manager faces several dilemmas with significant conse
 3. **Seek Legal Advice:** The manager can consult with legal experts to understand the potential legal ramifications and explore alternative solutions. This approach involves seeking guidance on how to navigate the situation while adhering to legal obligations and protecting their company’s interests.
 4. **Negotiate a Settlement:** The manager can consider negotiating a settlement with the injured motorcyclist, compensating them for the injuries and damages caused. This approach aims to address the immediate consequences of the accident while potentially mitigating the need for legal prosecution.
 5. **Maintain Open Communication:** The manager can maintain open communication with the manager of company B, discussing the situation and exploring mutually agreeable solutions. This approach involves transparently discussing the incident’s consequences and working towards a resolution that considers the interests of both parties.
+
+
 
 ### Conclusion
 
@@ -7887,7 +8557,6 @@ Ultimately, the manager must carefully evaluate the potential risks, legal oblig
 
 **The engineering graduate faces an ethical dilemma of whether to prioritize her job security or the well-being of downstream villagers affected by toxic waste discharge. She must weigh the potential consequences and make a decision that aligns with her moral values and responsibilities.** <p align="center"><img src="images/pw_ethics_case_studies_q243_img1.webp" alt="stakeholder" /></p>
 
-**The engineering graduate faces an ethical dilemma of whether to prioritize her job security or the well-being of downstream villagers affected by toxic waste discharge. She must weigh the potential consequences and make a decision that aligns with her moral values and responsibilities.** 
 
 ### Body
 
@@ -7899,6 +8568,8 @@ Ultimately, the manager must carefully evaluate the potential risks, legal oblig
 4. **Whistleblower protection:** Research if there are any laws or regulations in place that protect whistleblowers in her country. If such protections exist, she can use them to shield herself from unjust consequences for exposing the wrongdoing.
 5. **Raise awareness internally:** If she feels comfortable and safe doing so, she can try to raise awareness about the issue within the company by discussing it with trusted colleagues who may be sympathetic to the cause. This could potentially pressure the management to address the problem and rectify their practices.
 6. **Support from external organizations:** Contacting relevant environmental organizations or NGOs who work in the field of pollution control and community welfare can provide her with additional support, advice, and potential avenues for action.
+
+
 
 ### Conclusion
 
@@ -7924,6 +8595,8 @@ It is crucial for her to prioritize her safety and livelihood while taking steps
 
 <p align="center"><img src="images/pw_ethics_case_studies_q244_img1.webp" alt="stakeholder" /></p>
 
+
+
 ### Body
 **(a) The issues involved in the case are:** 1. **Economic Development vs. Social Impact:** The company’s expansion and establishment of a new plant in an underdeveloped area raise questions about the balance between economic development and the potential negative social impact on the residents of Vikaspuri.
 2. **Environmental Impact:** The establishment of the new plant may have environmental consequences, such as pollution, which can affect the overall well-being and quality of life of the residents.
@@ -7933,6 +8606,8 @@ It is crucial for her to prioritize her safety and livelihood while taking steps
 3. **Collaboration with Government and NGOs:** The company should collaborate with the government and relevant NGOs to ensure that the development in Vikaspuri is balanced and sustainable. This can involve joint efforts to provide necessary infrastructure, healthcare, and education facilities to the residents, as well as initiatives to preserve the environmental integrity of the area.
 4. **Compliance with Regulatory Requirements:** The company should strictly adhere to all regulatory requirements and environmental standards to ensure the well-being of the residents and minimize any potential harm.
 5. **Long-term Engagement:** The company should demonstrate its commitment to the well-being of the residents of Vikaspuri by establishing long-term CSR initiatives that go beyond the initial phase of plant establishment. This can include ongoing community development programs, support for education and healthcare, and partnerships with local organizations for sustainable development.
+
+
 
 ### Conclusion
 
@@ -7957,7 +8632,6 @@ By taking these suggestions into consideration, the company can balance its goal
 
 **The case study highlights the displacement of marginalized communities for large-scale projects, with inadequate and delayed compensation. The unjust distribution of costs and benefits favors industries and urban communities.** <p align="center"><img src="images/pw_ethics_case_studies_q279_img1.webp" alt="stakeholder" /></p>
 
-**The case study highlights the displacement of marginalized communities for large-scale projects, with inadequate and delayed compensation. The unjust distribution of costs and benefits favors industries and urban communities.** 
 
 ### Body
 
@@ -7970,6 +8644,8 @@ By taking these suggestions into consideration, the company can balance its goal
 5. **Participatory Decision-Making:** Involving the affected communities in the decision-making process related to compensation and rehabilitation. This includes conducting meaningful consultations, obtaining their consent, and addressing their concerns and aspirations to ensure that the policy reflects their needs and priorities.
 6. **Environmental Conservation:** Incorporating measures to mitigate the environmental impacts of large-scale projects and promote sustainable development. This can involve implementing eco-restoration programs, providing access to natural resources for the displaced communities, and supporting environmentally friendly initiatives that benefit both the communities and the ecosystem.
 7. **Monitoring and Evaluation:** Establishing a robust monitoring and evaluation mechanism to assess the effectiveness of the policy implementation and make necessary adjustments based on feedback and emerging needs. Regular assessments should be conducted to measure the well-being and progress of the displaced communities over time.
+
+
 
 ### Conclusion
 
@@ -7996,6 +8672,8 @@ By integrating these elements into the compensation-cum-rehabilitation policy, i
 
 <p align="center"><img src="images/pw_ethics_case_studies_q287_img1.webp" alt="stakeholder" /></p>
 
+
+
 ### Body
 
 To ensure that due control is exercised over voluntary social work without thwarting well-meaning and honest NGO efforts, the following measures can be suggested:
@@ -8007,6 +8685,8 @@ To ensure that due control is exercised over voluntary social work without thwar
 5. **Establishing a Single Window Clearance System:** Introduce a centralized system where NGOs can submit their applications and obtain clearances from multiple government agencies through a single point of contact. This can simplify the process and reduce the scope for corruption.
 6. **Regular Audits and Monitoring:** Conduct regular audits and monitoring of government agencies to ensure compliance with regulations and to identify and address instances of corruption or bureaucratic hurdles faced by NGOs.
 7. **Collaboration and Partnership:** Foster collaboration between government agencies and NGOs through public-private partnerships. This can facilitate better coordination, exchange of expertise, and joint efforts in addressing social issues.
+
+
 
 ### Conclusion
 
@@ -8033,12 +8713,16 @@ By implementing these measures, the government can strike a balance between nece
 
 <p align="center"><img src="images/pw_ethics_case_studies_q288_img1.webp" alt="stakeholder" /></p>
 
+
+
 ### Body
 **(a) A rational way to resolve this dilemma would be to adopt a compassionate and flexible approach** while adhering to the rules. It involves conducting a thorough assessment of the woman’s situation and exploring alternative methods to verify her eligibility for the scheme. **(b) The reasons for this approach are as follows:** 1. **Case-by-case Assessment:** Conduct a detailed assessment of the woman’s circumstances, including home visits and interviews, to gather information about her living conditions, financial situation, and support networks. This will help in understanding the extent of her destitution and the urgency of support needed.
 2. **Collaboration with Local Authorities:** Engage with local authorities, community leaders, and social workers who might have knowledge of the woman’s situation. Their insights and testimonies can provide additional evidence to support her eligibility.
 3. **Documentation Alternatives:** Explore alternative ways to establish her eligibility in the absence of formal documents. This could include gathering affidavits or testimonies from credible sources, such as neighbors, community members, or local authorities who can vouch for her situation.
 4. **Senior Citizen Associations or NGOs:** Consult with local senior citizen associations or non-governmental organizations (NGOs) that work with vulnerable populations. They may have established mechanisms to verify eligibility and can provide guidance on appropriate steps to take in exceptional cases.
 5. **Review and Oversight:** Establish a review process or committee that can evaluate exceptional cases like this one. This ensures transparency, accountability, and prevents misuse of the scheme while providing an avenue for deserving individuals to access support.
+
+
 
 ### Conclusion
 
@@ -8064,6 +8748,8 @@ By adopting a compassionate and flexible approach while maintaining a reasonable
 
 <p align="center"><img src="images/pw_ethics_case_studies_q310_img1.webp" alt="stakeholder" /></p>
 
+
+
 ### Body
 
 **(a) Just ignore thinking about it because it is their personal matter:**
@@ -8071,12 +8757,22 @@ By adopting a compassionate and flexible approach while maintaining a reasonable
 **Consequences**
 By choosing to ignore the situation, you allow the domestic violence to continue unchecked, perpetuating harm to the boss’s wife.
 - This option disregards the ethical responsibility to ensure the well-being and safety of individuals.
-- It also creates a hostile work environment if the behavior spills over into the workplace, impacting productivity and employee morale. **(b) Report the case to the appropriate authority:** **Consequences** Reporting the case to the appropriate authority, such as Human Resources or a higher-level supervisor, demonstrates a commitment to maintaining a safe and respectful work environment.
+- It also creates a hostile work environment if the behavior spills over into the workplace, impacting productivity and employee morale.
+
+**(b) Report the case to the appropriate authority:**
+
+**Consequences** Reporting the case to the appropriate authority, such as Human Resources or a higher-level supervisor, demonstrates a commitment to maintaining a safe and respectful work environment.
 - It may initiate an investigation into the matter, potentially leading to disciplinary action or support interventions for the boss. However, this option can strain your relationship with your boss and create a tense work environment.
-- There may also be legal and confidentiality considerations to navigate, as well as potential repercussions for the boss’s wife if she does not wish to take action. **(c) Your own innovative approach towards the situation:** **Consequences** Taking an innovative approach involves finding a way to address the issue sensitively and discreetly while prioritizing the safety and well-being of all parties involved.
+- There may also be legal and confidentiality considerations to navigate, as well as potential repercussions for the boss’s wife if she does not wish to take action.
+
+**(c) Your own innovative approach towards the situation:**
+
+**Consequences** Taking an innovative approach involves finding a way to address the issue sensitively and discreetly while prioritizing the safety and well-being of all parties involved.
 - This could include having a private conversation with the boss to express concern, recommend counseling or anger management programs, and provide information on resources available for support.
 - However, this approach requires careful judgment and professional guidance to ensure the safety of the boss’s wife and maintain a productive work environment.
 - It may also involve seeking advice from domestic violence support organizations or consulting with legal experts to understand the best course of action.
+
+
 
 ### Conclusion
 
@@ -8103,6 +8799,8 @@ In all cases, it is crucial to prioritize the safety and well-being of the boss�
 
 <p align="center"><img src="images/pw_ethics_case_studies_q176_img1.webp" alt="stakeholder" /></p>
 
+
+
 ### Body
 **(a) As the CEO of the company, in order to diffuse the volatile situation on the day of the gate crashing, I would take the following steps:** 1. **Prioritize Employee Safety:** Ensure the immediate safety of employees by evacuating them from the area where the violent mob is present. Coordinate with security personnel and local law enforcement to provide necessary protection.
 2. **Engage in Dialogue:** Initiate a dialogue with the leaders of the mob to understand their demands and concerns. Remain calm, respectful, and open to hearing their grievances.
@@ -8114,6 +8812,8 @@ In all cases, it is crucial to prioritize the safety and well-being of the boss�
 2. **Engaging in Dialogue:** Positive impact – Demonstrates willingness to listen and address concerns, may lead to a peaceful resolution. Negative impact – Risk of negotiation breakdown, potential demands that may not align with company policies.
 3. **Offering Mediation:** Positive impact – Promotes peaceful resolution and preserves the company’s reputation for fairness. Negative impact – Possible compromise on company principles, perception of capitulation to external pressures.
 4. **Seeking Legal Intervention:** Positive impact – Sends a strong message against violence and lawlessness, reinforces adherence to legal processes. Negative impact – Potential escalation of tensions, legal implications and proceedings.
+
+
 
 ### Conclusion
 
@@ -8141,6 +8841,8 @@ The CEO faces the dilemma of whether to invest Rs. 50 crores in developing the d
 
 <p align="center"><img src="images/pw_ethics_case_studies_q207_img1.webp" alt="stakeholder" /></p>
 
+
+
 ### Body
 **(a) As the CEO, various actions that could be taken in this scenario include:** 1. **Research Grants:** Seek external research grants or funding from governmental or non-profit organizations that focus on healthcare and medical research. This could help cover the substantial R&D costs and incentivize the development of the variant of the drug.
 2. **Collaboration or Partnership:** Explore potential collaborations or partnerships with organizations, universities, or research institutions that have an interest or expertise in liver diseases or tribal healthcare. This could allow for cost-sharing and knowledge exchange, reducing the financial burden on the company.
@@ -8163,6 +8865,8 @@ The CEO faces the dilemma of whether to invest Rs. 50 crores in developing the d
 **Philanthropic Initiatives:**
 - **Pros:** Partnering with philanthropic organizations showcases the company’s commitment to social impact and health equity. It can provide financial support and access to resources that might not be available through traditional funding channels.
 - **Cons:** Philanthropic initiatives may have their own agendas or areas of focus, which may not align perfectly with the company’s goals. There may be limited availability of funding or competition for support from other organizations.
+
+
 
 ### Conclusion
 
@@ -8189,6 +8893,8 @@ It is important for the CEO to carefully evaluate these actions, considering fac
 
 ### Body
 
+
+
 **As a civil services officer in a disaster-prone state, the order in which I would prioritize the rescue of people would be as follows:**
 - **Patients in hospitals:** Saving lives should be the top priority, and patients in hospitals are likely to be in critical condition and in need of immediate medical attention and care.
 - **Women, children, and senior citizens:** These vulnerable groups require special attention and assistance due to their physical limitations and higher risk during a disaster. Ensuring their safety and well-being is crucial.
@@ -8200,6 +8906,8 @@ It is important for the CEO to carefully evaluate these actions, considering fac
 - **Regional presidents and ruling party members:** While political leaders hold important positions, their rescue should be prioritized after ensuring the safety of the general population, as their lives are not inherently more valuable than others’.
 - **Additional chief secretary of the neighboring state:** Coordinating with officials from neighboring states is important for effective disaster management and resource allocation. However, their rescue should be prioritized after attending to the immediate needs of the affected population in the state.
 - **Prisoners in jail:** Ensuring the safety and security of prisoners is important, but it may be considered a lower priority compared to the rescue of individuals facing immediate life-threatening situations.
+
+
 
 ### Conclusion
 
@@ -8227,6 +8935,8 @@ It is important for the CEO to carefully evaluate these actions, considering fac
 
 <p align="center"><img src="images/pw_ethics_case_studies_q240_img1.webp" alt="stakeholder" /></p>
 
+
+
 ### Body
 
 **Options for Action:**
@@ -8244,6 +8954,8 @@ It is important for the CEO to carefully evaluate these actions, considering fac
 - Implementation of the investigation recommendations may face resistance or opposition.
 
 Overall, the recommended option would be to conduct an independent investigation (Option v).
+
+
 
 ### Conclusion
 
@@ -8270,6 +8982,8 @@ This approach ensures a thorough examination of the situation, promotes transpar
 
 <p align="center"><img src="images/pw_ethics_case_studies_q241_img1.webp" alt="stakeholder" /></p>
 
+
+
 ### Body
 **(a) Feasible strategies to overcome the conflict and create the right ambiance in the situation could include:** 1. **Sensitization and Awareness:** Organize awareness programs for parents, teachers, and community members to educate them about the importance of inclusivity, equality, and the harmful effects of discrimination. Highlight the benefits of the midday meal scheme and how it positively impacts children’s education.
 2. **Community Engagement:** Facilitate community dialogues and discussions to address concerns and misconceptions about caste-based discrimination. Encourage open and respectful communication to foster understanding and empathy among community members.
@@ -8279,6 +8993,8 @@ This approach ensures a thorough examination of the situation, promotes transpar
 3. **Civil Society Organizations:** NGOs and social organizations should work towards raising awareness about social issues, advocating for equality and inclusion, and providing support to marginalized communities. They can organize campaigns, workshops, and community programs to address social prejudices and promote acceptance.
 4. **Media:** Media plays a crucial role in shaping public opinion. Responsible media reporting should focus on highlighting success stories and positive aspects of inclusive practices. Media can contribute to changing societal attitudes by promoting inclusivity and challenging discriminatory practices.
 5. **Community Leaders:** Community leaders, including Sarpanch and local elected representatives, should actively promote social harmony and inclusion. They can play a vital role in addressing conflicts, facilitating dialogue, and promoting acceptance of diverse communities.
+
+
 
 ### Conclusion
 
@@ -8304,6 +9020,8 @@ By implementing these strategies and fulfilling their respective responsibilitie
 
 <p align="center"><img src="images/pw_ethics_case_studies_q242_img1.webp" alt="Picture50" /></p>
 
+
+
 ### Body
 **(a) Steps to ensure girls’ safety without disrupting their education:** 1. **Enhance security measures:** Increase police patrolling and presence in the areas where girls travel to and from school. Install CCTV cameras along the routes and at sensitive locations. This will deter potential offenders and help in identifying culprits in case of any incident.
 2. **Safety awareness programs:** Conduct workshops and awareness campaigns in collaboration with local NGOs and community leaders to educate girls and their families about personal safety measures. Teach them self-defense techniques and promote the importance of reporting any incidents immediately.
@@ -8312,6 +9030,8 @@ By implementing these strategies and fulfilling their respective responsibilitie
 2. **Empowerment through education:** Organize awareness programs specifically targeted at the elders to highlight the positive impact of education on society as a whole. Showcase successful examples of women who have achieved great heights through education, challenging traditional gender roles.
 3. **Sensitization campaigns:** Conduct sensitization campaigns and workshops to promote gender equality, women empowerment, and the importance of respecting women’s rights. Engage local leaders, including influential elders, to support and endorse these campaigns, reinforcing the message within the community.
 4. **Inclusive decision-making:** Encourage the participation of both younger and older generations in decision-making processes. Foster an environment where diverse perspectives are respected and valued. Promote intergenerational dialogue and collaboration to bridge the gap between traditional and modern ideologies.
+
+
 
 ### Conclusion
 
@@ -8342,6 +9062,8 @@ Additionally, emotional and attitudinal factors such as the perception of cities
 
 <p align="center"><img src="images/pw_ethics_case_studies_q117_img1.webp" alt="Picture56" /></p>
 
+
+
 ### Body
 
 (a) Educated youth are often driven to shift to urban areas due to better job prospects, access to higher education and professional development opportunities, and the desire for a modern lifestyle.
@@ -8355,6 +9077,8 @@ Additionally, emotional and attitudinal factors such as the perception of cities
 5. **Regional Development:** Promote balanced regional development by establishing industries and economic zones in rural areas to create employment opportunities and reduce the migration pressure on urban areas.
 6. **Social Welfare Programs:** Implement social safety nets and welfare schemes targeting vulnerable groups, providing them with support and opportunities for a better livelihood in their own communities.
 7. **Awareness and Counseling:** Conduct awareness campaigns highlighting the challenges and risks associated with unplanned migration, while also promoting the potential for development in rural areas.
+
+
 
 ### Conclusion
 
@@ -8381,6 +9105,8 @@ By addressing the socio-economic, emotional, and attitudinal factors driving rur
 
 <p align="center"><img src="images/pw_ethics_case_studies_q129_img1.webp" alt="Picture51" /></p>
 
+
+
 ### Body
 
 To eliminate the conflict between development and environmental degradation and achieve sustainable development, the following strategies can be adopted:
@@ -8392,6 +9118,8 @@ To eliminate the conflict between development and environmental degradation and 
 5. **Public Awareness and Education:** Create awareness among the public, policymakers, and businesses about the importance of sustainable development and environmental conservation. Promote education and training programs to build capacity and knowledge on sustainable practices.
 6. **Collaboration and Partnerships:** Foster collaboration between government, private sector, civil society organizations, and communities to work together towards sustainable development goals. Encourage public-private partnerships for sustainable infrastructure development.
 7. **Green Technologies and Innovation:** Encourage research and development in green technologies, renewable energy, and sustainable practices. Support innovation and entrepreneurship that focuses on environmental sustainability.
+
+
 
 ### Conclusion
 
@@ -8417,6 +9145,8 @@ By adopting these strategies, it is possible to achieve a balance between develo
 
 <p align="center"><img src="images/pw_ethics_case_studies_q130_img1.webp" alt="Picture55" /></p>
 
+
+
 ### Body
 
 **AVAILABLE OPTIONS:**
@@ -8438,6 +9168,8 @@ By adopting these strategies, it is possible to achieve a balance between develo
 - Additionally, mentors can offer valuable advice on how to navigate the bureaucratic structures and potential career implications.
 - However, it is important to note that this option may have limitations in addressing the systemic issues and may not guarantee immediate changes.
 - Rameshwar should also ensure that the chosen mentors are genuinely committed to ethics and not compromised by the prevailing malpractices.
+
+
 
 ### Conclusion
 
@@ -8467,6 +9199,8 @@ A small minority practicing ethics can still make a difference, and economic pro
 
 <p align="center"><img src="images/pw_ethics_case_studies_q138_img1.webp" alt="stakeholder" /></p>
 
+
+
 ### Body
 
 **Analysis and advice:**
@@ -8484,6 +9218,8 @@ A small minority practicing ethics can still make a difference, and economic pro
 - Be a role model and inspire others through your ethical conduct, even if you are part of a minority.
 - Recognize that ethical considerations are essential for sustainable development and economic progress.
 - Find ethical alternatives to motivate and incentivize individuals, focusing on fairness, transparency, and meritocracy rather than engaging in small unethical practices.
+
+
 
 ### Conclusion
 
@@ -8509,6 +9245,8 @@ It is crucial to remember that ethical conduct is not just a personal choice but
 
 <p align="center"><img src="images/pw_ethics_case_studies_q139_img1.webp" alt="Picture54" /></p>
 
+
+
 ### Body
 **Arguments for giving the bribe and getting the order:** 1. **Financial gain:** Giving the bribe may secure the order and ensure the financial stability and growth of the company. It can protect jobs and livelihoods of employees.
 2. **Competitive advantage:** Winning the order can strengthen the company’s position in the market and enhance its reputation, leading to future business opportunities. **Arguments for refusing to pay the bribe and risking the loss of the order:** 1. **Ethical integrity:** Upholding ethical values and refusing to participate in corrupt practices is crucial for personal and organizational integrity. It maintains trust with stakeholders and preserves a positive reputation.
@@ -8523,6 +9261,8 @@ It is crucial to remember that ethical conduct is not just a personal choice but
 - **Upholding principles:** The company maintains its ethical values and refuses to engage in corrupt practices, preserving its integrity and reputation.
 - **Promoting systemic change:** By reporting the bribery attempt and engaging higher authorities, the company contributes to exposing corruption and fostering a culture of transparency and accountability.
 - **Long-term benefits:** While there might be short-term challenges, taking a stand against bribery can attract like-minded partners, customers, and employees, leading to sustainable growth and success based on integrity.
+
+
 
 ### Conclusion
 
@@ -8549,6 +9289,8 @@ It is important to consider alternative solutions that prioritize integrity and 
 
 <p align="center"><img src="images/pw_ethics_case_studies_q174_img1.webp" alt="stakeholder" /></p>
 
+
+
 ### Body
 
 **Option (i) – Give explanation to the Commission and go soft on disciplinary action:**
@@ -8558,6 +9300,8 @@ It is important to consider alternative solutions that prioritize integrity and 
 - – Asserts authority and sends a message of zero tolerance for indiscipline. **– Upholds the principles of fairness and discipline in the department.** Cons – Could escalate the situation and create further conflicts. **– May result in legal complications and damage to reputation.** Option (iii) – Brief higher-ups, seek directions, and act accordingly: **** Pros Ensures decisions are aligned with organizational policies and legal requirements. **Seeks guidance and support from higher authorities.** Cons May result in delays in resolving the issue. **Creates dependency on higher authorities for decision-making.** Option (iv) – Initiate an impartial internal investigation: **** Pros Demonstrates commitment to addressing the complaint and larger issues.
 - Ensures a fair and transparent process. **Allows for appropriate action against troublemakers.** Cons Investigation process may take time and resources.
 - Requires unbiased committee members and expertise in handling such cases.
+
+
 
 ### Conclusion
 
@@ -8586,6 +9330,8 @@ It is important to consider alternative solutions that prioritize integrity and 
 
 <p align="center"><img src="images/pw_ethics_case_studies_q2_img1.webp" alt="Picture57" /></p>
 
+
+
 ### Body
 
 **Option (i): Referring the matter to the superior officer and acting strictly according to their advice:**
@@ -8597,6 +9343,8 @@ It is important to consider alternative solutions that prioritize integrity and 
 - **Demerits:** Compromising the contents of the information goes against the principles of transparency and may be seen as unethical. It could damage the credibility of the PIO and the organization. **Option (iv): Consulting colleagues who are party to the decision and taking action based on their advice:**
 - **Merits:** Seeking input from colleagues can provide different perspectives and insights. It promotes collaborative decision-making and shared responsibility.
 - **Demerits:** Depending solely on colleagues’ advice may lead to biased or self-serving recommendations. It does not guarantee an objective and ethical solution.
+
+
 
 ### Conclusion
 
@@ -8625,6 +9373,7 @@ It is important to consider alternative solutions that prioritize integrity and 
 
 ### Body
 
+
 **Option 1: Disclose the confidential information to the builder as instructed by your immediate superior.:**
 **Pros:**
 - Maintain a good relationship with your superior. **Avoid potential conflicts or negative consequences from disobeying the instruction.** Cons Unethical behavior that undermines fair competition.
@@ -8644,6 +9393,8 @@ It is important to consider alternative solutions that prioritize integrity and 
 - Maintaining confidentiality upholds ethical standards and protects the integrity of the policy decisions. However, it may strain your relationship with your superior.
 - Seeking guidance from a higher authority or ethics committee can provide you with a clear course of action and protect you from any potential repercussions.
 - Reporting the situation to the appropriate authorities or filing a complaint against your superior may be necessary if your immediate superior persists in their unethical request.
+
+
 
 ### Conclusion
 
@@ -8674,6 +9425,8 @@ If the situation persists, seeking guidance from a higher authority or ethics co
 
 <p align="center"><img src="images/pw_ethics_case_studies_q50_img1.webp" alt="Picture59" /></p>
 
+
+
 ### Body
 **(a) Ethical issues involved in the case:** 1. **Child exploitation:** The use of child labor in the firecracker industry is a clear violation of ethical principles. It exposes children to hazardous working conditions, deprives them of education and a normal childhood, and compromises their physical and mental well-being.
 2. **Deceptive practices:** The misrepresentation of non-registered units as household-based works to evade child labor norms is unethical. It shows a lack of integrity and honesty on the part of the owner, who is deliberately trying to deceive authorities and stakeholders.
@@ -8684,6 +9437,8 @@ If the situation persists, seeking guidance from a higher authority or ethics co
 4. **Strengthen enforcement:** Call for stricter enforcement of child labor laws and regulations in the firecracker industry, emphasizing the need for regular inspections, penalties for violators, and improved monitoring mechanisms.
 5. **Raise awareness and promote ethical practices:** Engage in awareness campaigns targeting both the local community and the industry stakeholders to highlight the ethical concerns of child labor and promote ethical practices. Encourage businesses to adopt responsible sourcing policies and discourage the demand for products made with child labor.
 6. **Collaborative efforts:** Collaborate with NGOs, community organizations, and other stakeholders to develop long-term solutions to address the root causes of child labor in the area. This may involve initiatives to improve access to education, vocational training, and alternative livelihood opportunities for families involved in the firecracker industry.
+
+
 
 ### Conclusion
 
@@ -8732,6 +9487,7 @@ By taking these actions, a comprehensive approach can be adopted to address the 
 - **Avoiding potential consequences:** Granting the request could lead to negative repercussions, such as a compromised reputation, loss of trust, and legal implications.
 - **By choosing option 2, the institute demonstrates its commitment to fairness, transparency, and academic excellence.:** 
 
+
 ### Conclusion
 
 It is essential to maintain a high standard of ethical conduct and avoid succumbing to external pressures that compromise the integrity of the selection process. By selecting candidates based on merit, the institute can continue to uphold its academic standards and ensure the best candidates are chosen for the professorship positions.
@@ -8757,6 +9513,8 @@ It is essential to maintain a high standard of ethical conduct and avoid succumb
 
 ### Body
 
+
+
 **(a) Options available:**
 
 **Take immediate disciplinary action against Mr. A:**
@@ -8772,9 +9530,15 @@ It is essential to maintain a high standard of ethical conduct and avoid succumb
 - X may still choose to leave the company despite the support provided. **Providing support without addressing the issue directly may send a mixed message about the seriousness of the situation.** Review company policies and procedures: **** Pros Helps identify gaps or weaknesses in existing policies related to harassment and misconduct.
 - Allows for necessary updates or improvements to prevent similar incidents in the future. **Provides an opportunity to educate employees and raise awareness about appropriate behavior.** Cons Policy changes may take time to implement, delaying immediate action.
 - Resistance or pushback from employees who are resistant to change.
-- Policies alone may not be sufficient if there is a lack of enforcement or accountability. **(b) Evaluation and chosen option:** **The most appropriate option is to conduct a thorough investigation.** This ensures fairness and allows for a proper assessment of the situation.
+- Policies alone may not be sufficient if there is a lack of enforcement or accountability.
+
+**(b) Evaluation and chosen option:**
+
+**The most appropriate option is to conduct a thorough investigation.** This ensures fairness and allows for a proper assessment of the situation.
 - It is important to take the allegations seriously and gather evidence before taking any disciplinary action against Mr. A. Supporting Mrs. X and providing a safe and supportive environment for her is crucial.
 - Additionally, reviewing company policies and procedures can help prevent similar incidents and promote a respectful work environment.
+
+
 
 ### Conclusion
 
@@ -8800,6 +9564,8 @@ Prompt action must be taken to address the complaint of harassment and inappropr
 
 <p align="center"><img src="images/pw_ethics_case_studies_q94_img1.webp" alt="Picture58 1" /></p>
 
+
+
 ### Body
 
 **Option (i) Follow the advice of the Chief Engineer and go ahead.**
@@ -8823,6 +9589,8 @@ Prompt action must be taken to address the complaint of harassment and inappropr
 2. It provides an opportunity to seek alternative assignments or roles where you can make a positive impact and work in a more supportive environment. **Demerits:** 1. It may be perceived as an escape or avoidance strategy rather than actively addressing the issue and advocating for public safety.
 2. It may hinder your career growth and reputation if seen as a lack of commitment or inability to handle challenging situations.
 3. It may not contribute to resolving the problem at hand and may leave the project without someone actively monitoring and addressing the deviations.
+
+
 
 ### Conclusion
 
