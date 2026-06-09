@@ -3930,7 +3930,11 @@ Source Question: Whereas the British planters had developed tea gardens all alon
 
 ### Introduction
 
-**Tea cultivation has a long history in India, with British planters introducing the crop in the mid-19th century. Tea gardens were established along the Shivaliks and lesser Himalayas from Assam to Himachal Pradesh; the planters did not succeed in replicating the success of Darjeeling elsewhere.** Body: **<p align="center"><img src="pwonlyias/images/pw_geography_q166_img1.webp" alt="British planters" /></p>**
+**Tea cultivation has a long history in India, with British planters introducing the crop in the mid-19th century. Tea gardens were established along the Shivaliks and lesser Himalayas from Assam to Himachal Pradesh; the planters did not succeed in replicating the success of Darjeeling elsewhere.**
+
+### Body
+
+**<p align="center"><img src="pwonlyias/images/pw_geography_q166_img1.webp" alt="British planters" /></p>**
 
 **Reasons for this disparity:**
 - **Geography:** The geography of the Darjeeling region plays a crucial role in the success of tea cultivation. The area is situated at an altitude of **2,000 to 7,000 feet** above sea level, which provides the perfect conditions for growing high-quality tea.
@@ -10405,7 +10409,11 @@ Source Question: Present an account of the Indus Water Treaty and examine its ec
 
 ### Introduction
 
-**The Indus Water Treaty is a bilateral water-sharing agreement signed between India and Pakistan in 1960 to share the waters of the Indus River and its tributaries. The treaty provides for the allocation of the river waters between the two countries and regulates the construction of dams and other water-related infrastructure on the river.** Body: **<p align="center"><img src="pwonlyias/images/pw_geography_q284_img1.webp" alt="Division of river" /></p>**
+**The Indus Water Treaty is a bilateral water-sharing agreement signed between India and Pakistan in 1960 to share the waters of the Indus River and its tributaries. The treaty provides for the allocation of the river waters between the two countries and regulates the construction of dams and other water-related infrastructure on the river.**
+
+### Body
+
+**<p align="center"><img src="pwonlyias/images/pw_geography_q284_img1.webp" alt="Division of river" /></p>**
 
 - **Ecological Implications:** The Indus Water Treaty has had significant ecological implications, particularly for the downstream areas in Pakistan. The construction of **dams and barrages** by India has resulted in reduced water flows downstream, leading to degradation of ecosystems, loss of biodiversity, and **reduced fish populations.**
 - **Economic Implications:** The treaty has also had significant economic implications for both India and Pakistan. The treaty’s provisions have enabled the development of **hydroelectric power projects**, which have provided India with significant electricity generation capacity. However, the treaty has also resulted in disputes over the sharing of the river waters, which has impacted economic growth and development in the region.
@@ -11327,7 +11335,11 @@ Source Question: Major hot deserts in the northern hemisphere are located betwee
 
 ### Introduction
 
-**Hot deserts are typically found in the subtropical regions of the world, with the majority located in the northern hemisphere. Interestingly, they are mostly located between the latitudes of 20-30 degrees north and on the western side of the Continents.** Body: **<p align="center"><img src="pwonlyias/images/pw_geography_q42_img1.webp" alt="hot deserts in the northern" /></p>**
+**Hot deserts are typically found in the subtropical regions of the world, with the majority located in the northern hemisphere. Interestingly, they are mostly located between the latitudes of 20-30 degrees north and on the western side of the Continents.**
+
+### Body
+
+**<p align="center"><img src="pwonlyias/images/pw_geography_q42_img1.webp" alt="hot deserts in the northern" /></p>**
 
 **Various factors of geographical location:**
 - **Global Wind Patterns:** The Earth’s atmospheric circulation pattern, also known as **the Hadley Cell**, plays a crucial role in the formation of deserts. The hot, moist air rises at the equator and travels towards the poles, then cools and descends around **20-30 degrees** north and south of the equator, creating arid conditions in those regions. E.g Azizia, Libya.
@@ -15286,7 +15298,11 @@ Source Question: Tropical cyclones are largely confined to the South China Sea, 
 
 ### Introduction
 
-**Tropical cyclones, also known as hurricanes or typhoons, are severe weather events that can cause devastating damage to coastal communities. These storms are largely confined to specific regions of the world, including the South China Sea, Bay of Bengal, and Gulf of Mexico.** Body: **<p align="center"><img src="pwonlyias/images/pw_geography_q156_img1.webp" alt="Tropical cyclones" /></p>**
+**Tropical cyclones, also known as hurricanes or typhoons, are severe weather events that can cause devastating damage to coastal communities. These storms are largely confined to specific regions of the world, including the South China Sea, Bay of Bengal, and Gulf of Mexico.**
+
+### Body
+
+**<p align="center"><img src="pwonlyias/images/pw_geography_q156_img1.webp" alt="Tropical cyclones" /></p>**
 
 **Important of geographic limitation:**
 - **Warm sea surface temperature [SST]:** Tropical cyclones require warm ocean waters of at least 26.5°C to develop and strengthen. **The South China Sea, Bay of Bengal, and Gulf of Mexico** have warm sea surface temperatures throughout the year, making them ideal regions for the formation and strengthening of tropical cyclones.
@@ -15694,7 +15710,11 @@ Source Question: “The Himalayas are highly prone to landslides.” Discuss the
 
 ### Introduction
 
-**The Himalayas is the highest mountain range in the world, and has 9 out of 10 of the world’s highest peaks. One of the most geologically active mountain ranges in the world, it is highly prone to landslides. Landslides occur due to various reasons and can cause significant damage to life, property, and infrastructure.** Body: **<p align="center"><img src="pwonlyias/images/pw_geography_q293_img1.webp" alt="geographical boundaries" /></p>**
+**The Himalayas is the highest mountain range in the world, and has 9 out of 10 of the world’s highest peaks. One of the most geologically active mountain ranges in the world, it is highly prone to landslides. Landslides occur due to various reasons and can cause significant damage to life, property, and infrastructure.**
+
+### Body
+
+**<p align="center"><img src="pwonlyias/images/pw_geography_q293_img1.webp" alt="geographical boundaries" /></p>**
 
 **Causes of Landslides in the Himalayas:**
 - **Geological Composition:** The Himalayas are geologically unstable due to tectonic plate movements, resulting in frequent earthquakes and landslides. E.g

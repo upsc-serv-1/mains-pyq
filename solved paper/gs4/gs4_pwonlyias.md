@@ -2274,7 +2274,11 @@ Emotional intelligence can be a valuable asset for public servants to navigate a
 
 ### Introduction
 
-**Integrity is a personal value that encompasses honesty, transparency, and adherence to ethical principles. It is a value that empowers the human being by enabling them to act in accordance with their moral compass and principles. Individuals who possess integrity are respected for their honesty and are trusted by others.** Body: **In India, one example of a politician who is widely respected for his integrity is the former president of India,** Dr. A.P.J. Abdul Kalam. **Dr. Kalam was known for his integrity, honesty, and commitment to serving the people of India. He was highly respected by the public and was seen as a role model for young people.**
+**Integrity is a personal value that encompasses honesty, transparency, and adherence to ethical principles. It is a value that empowers the human being by enabling them to act in accordance with their moral compass and principles. Individuals who possess integrity are respected for their honesty and are trusted by others.**
+
+### Body
+
+**In India, one example of a politician who is widely respected for his integrity is the former president of India,** Dr. A.P.J. Abdul Kalam. **Dr. Kalam was known for his integrity, honesty, and commitment to serving the people of India. He was highly respected by the public and was seen as a role model for young people.**
 
 **Few more examples of how integrity empowers human beings:**
 - **Education:** Vinita Jain, a mathematics teacher in Mumbai who was awarded the National Teacher Award for her dedication to her students and her commitment to teaching with integrity.
@@ -2407,7 +2411,11 @@ Civil servants who remain impartial and non-partisan in their work can earn the 
 
 ### Introduction
 
-**This statement by the Dalai Lama emphasizes the importance of cultivating inner peace as a prerequisite for achieving peace in the external world. In other words, if we want to create a peaceful and harmonious society, we first need to work on ourselves and develop inner peace, compassion, and understanding towards others.** Body: **In an Indian context, there are numerous examples of how individuals and communities have been able to achieve peace by first cultivating inner peace.**
+**This statement by the Dalai Lama emphasizes the importance of cultivating inner peace as a prerequisite for achieving peace in the external world. In other words, if we want to create a peaceful and harmonious society, we first need to work on ourselves and develop inner peace, compassion, and understanding towards others.**
+
+### Body
+
+**In an Indian context, there are numerous examples of how individuals and communities have been able to achieve peace by first cultivating inner peace.**
 
 For instance, the practice of yoga and meditation has been an integral part of Indian culture for thousands of years, and it is believed to help individuals attain inner peace, clarity of mind, and emotional stability.
 
@@ -3555,7 +3563,11 @@ The act has been instrumental in exposing corruption, ensuring good governance, 
 
 ### Introduction
 
-**Conflict of interest refers to a situation where an individual’s personal interests or financial interests may influence their ability to make impartial decisions in their professional capacity.** Body: **Here are some examples of actual and potential conflicts of interest:**
+**Conflict of interest refers to a situation where an individual’s personal interests or financial interests may influence their ability to make impartial decisions in their professional capacity.**
+
+### Body
+
+**Here are some examples of actual and potential conflicts of interest:**
 
 - **Actual Conflict of Interest:** An actual conflict of interest arises when an individual’s personal interests directly conflict with their professional duties.
 - **For example:** A government official who holds shares in a company that is bidding for a government contract.

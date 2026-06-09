@@ -6272,9 +6272,17 @@ Vaccines represent one of the most effective tools we have to control and preven
 
 ### Introduction
 
-**The S-400 Triumf, developed by Russia, is an advanced air defence system hailed globally for its superior technical capabilities. It is especially recognized for its extended range, versatility, advanced radar system, and ability to engage various targets.** Body: **<p align="center"><img src="images/pw_science__technology_q600_img1.webp" alt="S-400 " /></p>**
+**The S-400 Triumf, developed by Russia, is an advanced air defence system hailed globally for its superior technical capabilities. It is especially recognized for its extended range, versatility, advanced radar system, and ability to engage various targets.**
 
-**The S-400 Triumf, developed by Russia, is an advanced air defence system hailed globally for its superior technical capabilities. It is especially recognized for its extended range, versatility, advanced radar system, and ability to engage various targets.** Body: ****
+### Body
+
+**<p align="center"><img src="images/pw_science__technology_q600_img1.webp" alt="S-400 " /></p>**
+
+**The S-400 Triumf, developed by Russia, is an advanced air defence system hailed globally for its superior technical capabilities. It is especially recognized for its extended range, versatility, advanced radar system, and ability to engage various targets.**
+
+### Body
+
+****
 
 **S-400 is technically superior for the following reasons:**
 - **Extended Range:** The S-400 can destroy aerial targets at a range of up to 400 kilometers, far outpacing similar systems. For example, the American-made Patriot system has an operational range of only 160 kilometers.
@@ -6304,9 +6312,17 @@ The S-400 Triumf’s unique capabilities make it one of the most formidable air 
 
 ### Introduction
 
-**The 2014 Nobel Prize in Physics honoured Isamu Akasaki, Hiroshi Amano, and Shuji Nakamura for their pioneering invention of Blue Light Emitting Diodes (LEDs) in the 1990s. This technological breakthrough has had far-reaching implications, transforming various facets of human life globally and particularly in India.** Body: **<p align="center"><img src="images/pw_science__technology_q619_img1.webp" alt="Blue LEDs " /></p>**
+**The 2014 Nobel Prize in Physics honoured Isamu Akasaki, Hiroshi Amano, and Shuji Nakamura for their pioneering invention of Blue Light Emitting Diodes (LEDs) in the 1990s. This technological breakthrough has had far-reaching implications, transforming various facets of human life globally and particularly in India.**
 
-**The 2014 Nobel Prize in Physics honoured Isamu Akasaki, Hiroshi Amano, and Shuji Nakamura for their pioneering invention of Blue Light Emitting Diodes (LEDs) in the 1990s. This technological breakthrough has had far-reaching implications, transforming various facets of human life globally and particularly in India.** Body: ****
+### Body
+
+**<p align="center"><img src="images/pw_science__technology_q619_img1.webp" alt="Blue LEDs " /></p>**
+
+**The 2014 Nobel Prize in Physics honoured Isamu Akasaki, Hiroshi Amano, and Shuji Nakamura for their pioneering invention of Blue Light Emitting Diodes (LEDs) in the 1990s. This technological breakthrough has had far-reaching implications, transforming various facets of human life globally and particularly in India.**
+
+### Body
+
+****
 
 **Blue LEDs have made significant impacts in human life in following ways:**
 - **Energy Efficiency and Cost Savings:** Blue LEDs, vital for white LED lights, have revolutionized India’s approach to lighting.
@@ -6340,7 +6356,11 @@ The advent of Blue LEDs, a breakthrough invention, has permeated numerous sector
 
 ### Introduction
 
-**Biotechnology, the application of biological systems to develop or create products, is a burgeoning field in India. It has the potential to significantly uplift impoverished communities through breakthroughs in healthcare, agriculture, and environmental management.** Body: **
+**Biotechnology, the application of biological systems to develop or create products, is a burgeoning field in India. It has the potential to significantly uplift impoverished communities through breakthroughs in healthcare, agriculture, and environmental management.**
+
+### Body
+
+**
 
 **<p align="center"><img src="images/pw_science__technology_q630_img1.webp" alt="Biotechnology" /></p>** **“Transforming Lives through Biotechnological Advancements: A Focus on India’s Impoverished Communities”**
 
@@ -6458,7 +6478,11 @@ Science is deeply interwoven with our lives, empowering us with capabilities pre
 
 ### Introduction
 
-**Nanotechnology, a multidisciplinary field dealing with the manipulation and control of matter at the atomic or molecular scale (1 to 100 nanometers), has been heralded as a game-changer in multiple sectors. In India, this technology is opening new frontiers in healthcare, enabling more effective diagnosis, treatment, and prevention of diseases.** Body: **
+**Nanotechnology, a multidisciplinary field dealing with the manipulation and control of matter at the atomic or molecular scale (1 to 100 nanometers), has been heralded as a game-changer in multiple sectors. In India, this technology is opening new frontiers in healthcare, enabling more effective diagnosis, treatment, and prevention of diseases.**
+
+### Body
+
+**
 
 **“Revolutionizing India’s Healthcare: The Multifaceted Impact of Nanotechnology”:**
 - **Enhancing Disease Diagnosis:** Nanotechnology is transforming disease diagnostics.
@@ -6792,9 +6816,17 @@ The development of nuclear science and technology in India, marked by remarkable
 
 ### Introduction
 
-**India’s success in unmanned space missions, such as the Mars Orbiter Mission (MOM) and Chandrayaan, has been commendable. Yet, it has not embarked on a manned space mission so far. The primary challenges for launching a manned space mission are multi-faceted, ranging from technological to logistical.** Body: **<p align="center"><img src="images/pw_science__technology_q347_img1.webp" alt="Mars Orbiter Mission " /></p>** Technological Challenges: **
+**India’s success in unmanned space missions, such as the Mars Orbiter Mission (MOM) and Chandrayaan, has been commendable. Yet, it has not embarked on a manned space mission so far. The primary challenges for launching a manned space mission are multi-faceted, ranging from technological to logistical.**
 
-**India’s success in unmanned space missions, such as the Mars Orbiter Mission (MOM) and Chandrayaan, has been commendable. Yet, it has not embarked on a manned space mission so far. The primary challenges for launching a manned space mission are multi-faceted, ranging from technological to logistical.** Body: **** Technological Challenges: **
+### Body
+
+**<p align="center"><img src="images/pw_science__technology_q347_img1.webp" alt="Mars Orbiter Mission " /></p>** Technological Challenges: **
+
+**India’s success in unmanned space missions, such as the Mars Orbiter Mission (MOM) and Chandrayaan, has been commendable. Yet, it has not embarked on a manned space mission so far. The primary challenges for launching a manned space mission are multi-faceted, ranging from technological to logistical.**
+
+### Body
+
+**** Technological Challenges: **
 
 - **Advanced Technology:** Manned missions require more sophisticated technology than unmanned missions.
 - **For example, the development of a safe and reliable crew module:** to support human life in space is a complex task.
@@ -6871,9 +6903,17 @@ It’s important to note, however, that while stem cell therapy holds great pote
 
 ### Introduction
 
-**India’s accomplishments in space science and technology have been remarkable, starting with the establishment of ISRO in 1969 and the launch of India’s first satellite, Aryabhata, in 1975. ISRO has since propelled India into a league of nations with advanced space capabilities.** Body: **<p align="center"><img src="images/pw_science__technology_q254_img1.webp" alt="Space Tech" /></p>** Landmark Missions: **
+**India’s accomplishments in space science and technology have been remarkable, starting with the establishment of ISRO in 1969 and the launch of India’s first satellite, Aryabhata, in 1975. ISRO has since propelled India into a league of nations with advanced space capabilities.**
 
-**India’s accomplishments in space science and technology have been remarkable, starting with the establishment of ISRO in 1969 and the launch of India’s first satellite, Aryabhata, in 1975. ISRO has since propelled India into a league of nations with advanced space capabilities.** Body: **** Landmark Missions: **
+### Body
+
+**<p align="center"><img src="images/pw_science__technology_q254_img1.webp" alt="Space Tech" /></p>** Landmark Missions: **
+
+**India’s accomplishments in space science and technology have been remarkable, starting with the establishment of ISRO in 1969 and the launch of India’s first satellite, Aryabhata, in 1975. ISRO has since propelled India into a league of nations with advanced space capabilities.**
+
+### Body
+
+**** Landmark Missions: **
 
 - **Chandrayaan-1 (2008):** Marked India’s first successful lunar mission, which resulted in the groundbreaking discovery of water molecules on the moon, contributing to our understanding of the lunar environment.
 - **Mars Orbiter Mission (2013):** Known as ‘Mangalyaan’, it made India the first Asian nation to reach Mars, and the first globally to succeed on its initial attempt, improving our knowledge of the Martian atmosphere.
@@ -6963,9 +7003,17 @@ Nanotechnology, as a frontier technology, can play a crucial role in India’s d
 
 ### Introduction
 
-**India’s Traditional Knowledge Digital Library (TKDL) is a valuable repository of over 2 million medicinal formulations derived from traditional Indian systems of medicine. Making this database publicly available under open-source licensing could have both advantages and potential drawbacks.** Body: **<p align="center"><img src="images/pw_science__technology_q202_img1.webp" alt="Traditional Knowledge Digital Library " /></p>**
+**India’s Traditional Knowledge Digital Library (TKDL) is a valuable repository of over 2 million medicinal formulations derived from traditional Indian systems of medicine. Making this database publicly available under open-source licensing could have both advantages and potential drawbacks.**
 
-**India’s Traditional Knowledge Digital Library (TKDL) is a valuable repository of over 2 million medicinal formulations derived from traditional Indian systems of medicine. Making this database publicly available under open-source licensing could have both advantages and potential drawbacks.** Body: ****
+### Body
+
+**<p align="center"><img src="images/pw_science__technology_q202_img1.webp" alt="Traditional Knowledge Digital Library " /></p>**
+
+**India’s Traditional Knowledge Digital Library (TKDL) is a valuable repository of over 2 million medicinal formulations derived from traditional Indian systems of medicine. Making this database publicly available under open-source licensing could have both advantages and potential drawbacks.**
+
+### Body
+
+****
 
 **Pros of Open-Source Licensing:**
 - **Promotion of Traditional Knowledge:** Open-source licensing could increase global awareness of India’s rich traditional medicinal practices.
@@ -7124,9 +7172,17 @@ Overuse and free availability of antibiotics without a prescription are major co
 
 ### Introduction
 
-**In the era of globalization, Intellectual Property Rights (IPRs) are pivotal in fostering innovation and creativity. As key constituents of IPRs, Copyrights, Patents, and Trade Secrets protect creators’ and innovators’ rights, stimulate fair competition, and propel economic growth, while often being a source of intricate legal disputes.** Body: **<p align="center"><img src="images/pw_science__technology_q116_img1.webp" alt="Intellectual property's rights" /></p>** Copyrights:
+**In the era of globalization, Intellectual Property Rights (IPRs) are pivotal in fostering innovation and creativity. As key constituents of IPRs, Copyrights, Patents, and Trade Secrets protect creators’ and innovators’ rights, stimulate fair competition, and propel economic growth, while often being a source of intricate legal disputes.**
 
-**In the era of globalization, Intellectual Property Rights (IPRs) are pivotal in fostering innovation and creativity. As key constituents of IPRs, Copyrights, Patents, and Trade Secrets protect creators’ and innovators’ rights, stimulate fair competition, and propel economic growth, while often being a source of intricate legal disputes.** Body: **** Copyrights:
+### Body
+
+**<p align="center"><img src="images/pw_science__technology_q116_img1.webp" alt="Intellectual property's rights" /></p>** Copyrights:
+
+**In the era of globalization, Intellectual Property Rights (IPRs) are pivotal in fostering innovation and creativity. As key constituents of IPRs, Copyrights, Patents, and Trade Secrets protect creators’ and innovators’ rights, stimulate fair competition, and propel economic growth, while often being a source of intricate legal disputes.**
+
+### Body
+
+**** Copyrights:
 - **Copyrights pertain to artistic and literary works, including books, music, films, and software.:** 
 - Copyright grants the creator exclusive rights to reproduce, distribute, perform, and display the work publicly.
 - In India, the Copyright Act 1957 governs copyright protection.
