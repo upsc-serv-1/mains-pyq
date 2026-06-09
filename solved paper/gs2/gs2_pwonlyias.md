@@ -666,7 +666,7 @@ The Supreme Court of India, through the innovative use of PIL, has become a powe
 
 **Core Demand of Question ● Discuss how Right to privacy is intrinsic to life and personal liberty and is inherently protected under Article 21 ● Discuss law relating to D.N.A. testing of child in the womb to establish its paternity ● Analyse the conflict between the right to privacy and the need for DNA testing in paternity cases ● Suggest ways to balance the right to privacy with other interests, such as the child’s right to know their parentage:**
 
-**Answer** The **right to privacy** gained significant attention after the landmark **Puttaswamy judgement** in 2017, where the Supreme Court of India declared privacy as a **fundamental right** under **Article 21**. In the context of **DNA testing** for paternity determination, recent cases have sparked debates on balancing the **right to privacy** with the child’s right to know their **biological parentage**. **
+**Answer** The **right to privacy** gained significant attention after the landmark **Puttaswamy judgement** in 2017, where the Supreme Court of India declared privacy as a **fundamental right** under **Article 21**. In the context of **DNA testing** for paternity determination, recent cases have sparked debates on balancing the **right to privacy** with the child’s right to know their **biological parentage**.
 
 **Right to Privacy as Intrinsic to Life and Personal Liberty under Article 21:**
 - **Interconnected with Other Fundamental Rights:** The right to privacy is essential for the enjoyment of various other fundamental rights such as freedom of speech and expression **(Article 19)** and freedom of religion **(Article 25)**. Without privacy, individuals cannot exercise their choices regarding **personal beliefs, relationships,** and **preferences**
@@ -1378,7 +1378,8 @@ The Representation of the People Act, 1951, plays a vital role in upholding the 
 
 ### Body
 
-**Role of the Election Commission of India in the Evolution of the Model Code of Conduct:**<p align="center"><img src="images/pw_polity_q650_img1.webp" alt="Election Commission" /></p>**
+**Role of the Election Commission of India in the Evolution of the Model Code of Conduct:**
+<p align="center"><img src="images/pw_polity_q650_img1.webp" alt="Election Commission" /></p>
 
 **Role of the Election Commission of India in the Evolution of the Model Code of Conduct:**
 
@@ -6207,7 +6208,7 @@ Recognizing **healthcare as an essential fundamental right for every citizen** i
 - **Conducting Extensive Health Literacy Campaigns:** Raising public awareness about government-supported healthcare programs and services can help reduce dependency on expensive private care. **For example:** Health literacy campaigns focusing on the benefits of **Ayushman Bharat** could reduce reliance on private healthcare services.
 - **Generic Drug Supply:** Increasing the availability of generic drug for various disease may lessen the impact of marketization in public health sector, as it will cater to majority of population within a limited price range.
 
-**Going ahead,** the State must ensure **that its interventions in the healthcare sector align with** Sustainable Development Goal (SDG) 3 **—ensuring healthy lives and promoting well-being for all at all ages. This includes universal health coverage, reducing inequalities** (SDG 10) **, and building resilient healthcare infrastructure** (SDG 9). **
+**Going ahead,** the State must ensure **that its interventions in the healthcare sector align with** Sustainable Development Goal (SDG) 3 **—ensuring healthy lives and promoting well-being for all at all ages. This includes universal health coverage, reducing inequalities (SDG 10), and building resilient healthcare infrastructure (SDG 9).**
 
 ---
 
@@ -7528,7 +7529,6 @@ While the restructuring of Centrally Sponsored Schemes can provide more flexibil
 
 * **<p align="center"><img src="images/pw_social_justice_q54_img1.webp" alt="image 2023 12 29T153145.387" /></p>**:
 
-* ****:
 - **Enhancing Nutritional Intake:** The MDM aims to improve the nutritional status of children in government and government-aided schools across the country.
   - It does so by providing free, nutritious meals to children, thus ensuring at least one balanced meal a day.
 - **The meal typically consists of a combination of cereals, pulses, vegetables, and sometimes even fruit,:** aiming to provide a minimum amount of calories, proteins, and other essential nutrients.
