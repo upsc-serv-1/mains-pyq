@@ -26,7 +26,7 @@ Akbar (1556–1605) **, one of the most notable Mughal emperors, is remembered f
 - **Sulh-i-Kul (Peace with All):** Formulated as the core principle of governance, emphasizing universal tolerance and non-discrimination.
   - **Eg:** Abolition of the ***jizya tax*** on non-Muslims in 1564 and the pilgrimage tax in 1563.
 - **Religious Debates in the Ibadat Khana:** Established in 1575 at Fatehpur Sikri to hold inter-religious dialogues.
-  - **Eg:** Invited scholars of ***Islam*** (Abul Fazl, Abdul Qadir Badauni), ***Hinduism***, ***Jainism***(Hiravijaya Suri), ***Christianity*** (Jesuit fathers from Goa), and ***Zoroastrianism.**
+  - **Eg:** Invited scholars of ***Islam*** (Abul Fazl, Abdul Qadir Badauni), ***Hinduism***, ***Jainism***(Hiravijaya Suri), ***Christianity*** (Jesuit fathers from Goa), and **Zoroastrianism**.
 - **Din-i-Ilahi (Religion of God):** Founded in **1582** as a syncretic faith drawing from Islam, Hinduism, Zoroastrianism, and Jainism. It emphasized loyalty to the emperor, ethical conduct, vegetarianism, celibacy, and worship of the sun.
   - **Eg:** Leading nobles like ***Birbal*** joined, but overall adoption remained limited.
 - **Abolition of Discriminatory Practices:** Stopped forced conversions and discouraged child marriages and Sati (though not abolished).
@@ -173,7 +173,7 @@ The early years after independence were a testing phase for India, marked by the
 - **Land Reforms:** Abolition of the **zamindari system** and tenancy reforms in states like UP and Bihar aimed to redistribute land and reduce feudal oppression.
 - **Industrial Foundations:** Public sector undertakings established in steel, heavy industries, and energy.
   - **Eg:** ***Hindustan Machine Tools (HMT, 1953)***: **and the expansion of the** Bhilai steel plant **(with Soviet help).** Education: Laying Knowledge Foundations
-- **Education Commissions:** University Education Commission (1948–49) ***under S. Radhakrishnan, focused on quality higher education.*** Secondary Education Commission (1952–53) ***under Mudaliar, stressed modernization of school education.**
+- **Education Commissions:** University Education Commission (1948–49) ***under S. Radhakrishnan, focused on quality higher education.*** Secondary Education Commission (1952–53) ***under **Mudaliar, stressed modernization of school education.**
 - **Institution Building:** Establishment of **IIT Kharagpur (1951)** as India’s first IIT; expansion of agricultural universities.
 - **Promotion of Science:** Strengthening of **CSIR**, creation of **UGC (1953)** to regulate and expand higher education.
 
@@ -1950,7 +1950,7 @@ The British abolished slavery in their colonies in the 19th century, which creat
 - Most indentured laborers were from rural backgrounds, and they were familiar with agricultural practices. This made them suitable for working on plantations in the colonies.
 - The British colonial administration in India facilitated the recruitment and transportation of indentured laborers.
 
-As for the preservation of their cultural identity, the Indian indentured laborers made efforts to maintain their cultural heritage in the colonies. *
+As for the preservation of their cultural identity, the Indian indentured laborers made efforts to maintain their cultural heritage in the colonies.
 
 **However, the extent to which they were successful varied depending on the region and local circumstances.**
 - **Language:** Many indentured laborers continued to speak their native languages and passed them down to subsequent generations.
@@ -6149,7 +6149,9 @@ The Ganga River Basin, covering about **27% of India’s geographical area** acr
 - **Canal Irrigation Systems:** The Upper Ganga Canal (constructed 1854, still vital) irrigates ~9,000 km², boosting agriculture in western UP (UP Irrigation Dept).
 - **Deltaic Water Abundance:** Extensive groundwater and distributaries in lower basin sustain both agriculture and cities like Kolkata, further raising density.
 
-*While land, soil, and water resources form the core basis for high population density in the Ganga Basin, other factors also played a crucial role, such as ***Other Contributing Factors**
+**While land, soil, and water resources form the core basis for high population density in the Ganga Basin, other factors also played a crucial role, such as**
+
+### Other Contributing Factors
 - **Historical and Cultural Factors:** The Ganga valley has been a cradle of civilization since ancient times, hosting sacred cities like **Varanasi**, **Prayagraj**, and **Haridwar**, which continue to attract dense permanent and pilgrim populations.
 - **Economic and Industrial Development:** Industrial hubs such as **Kanpur** (textiles, leather), **Patna** (trade), and **Kolkata** (port-based industries) drive urbanisation and migration, reinforcing high population densities.
 - **Infrastructure and Connectivity:** Dense networks of railways, roads, and inland waterways in the basin enhance mobility and access to markets, encouraging **concentrated settlements** along major **transport corridors**.
