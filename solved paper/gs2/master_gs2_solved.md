@@ -33229,7 +33229,9 @@ Source Question: Economic ties between India and Japan, while growing in recent 
 
 ### Introduction
 
-**India and Japan have strengthened their economic ties in recent years, but the potential for growth in this area remains largely untapped. Several policy constraints have hampered the expansion of bilateral economic cooperation between the two countries.** Body **
+**India and Japan have strengthened their economic ties in recent years, but the potential for growth in this area remains largely untapped. Several policy constraints have hampered the expansion of bilateral economic cooperation between the two countries.**
+
+**Body**
 
 - **Economic ties between India and Japan have witnessed significant growth. The two nations have made considerable strides in enhancing:** bilateral trade and investment. **Several collaborative initiatives, including joint ventures and technology transfers, have been established, contributing to the strengthening of economic cooperation.**
 - High-level visits and dialogues have facilitated closer engagement, leading to increased business collaborations and exchange of expertise. Despite this progress, there remains substantial untapped potential for further expanding and deepening the economic ties between India and Japan.

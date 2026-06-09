@@ -2908,7 +2908,11 @@ The Supreme Court’s Right to Privacy judgment has implications on various doma
 
 ### Introduction
 
-**The Constitution (One Hundred and First Amendment) Act, 2016, introduced the Goods and Services Tax (GST) in India, a comprehensive indirect tax system aimed at streamlining the taxation process and creating a common national market for goods and services.** Body: **<p align="center"><img src="images/pw_polity_q330_img1.webp" alt="GST" /></p>**
+**The Constitution (One Hundred and First Amendment) Act, 2016, introduced the Goods and Services Tax (GST) in India, a comprehensive indirect tax system aimed at streamlining the taxation process and creating a common national market for goods and services.**
+
+### Body
+
+<p align="center"><img src="images/pw_polity_q330_img1.webp" alt="GST" /></p>
 
 **The amendment’s salient features include:**
 - **Dual GST structure:** This includes Central GST (CGST) and State GST (SGST) or Union Territory GST (UTGST) depending on the transaction type.
@@ -3029,7 +3033,11 @@ To enhance the effectiveness of the NCW, there is a need for greater political w
 
 ### Introduction
 
-**Simultaneous elections, also known as “One Nation, One Election,” refer to the proposal of conducting both Lok Sabha and State Assembly elections concurrently in India. This concept aims to streamline the electoral process, save resources, and reduce the disruptions caused by frequent elections.** Body: **<p align="center"><img src="images/pw_polity_q358_img1.webp" alt="simultaneous elections" /></p>**
+**Simultaneous elections, also known as “One Nation, One Election,” refer to the proposal of conducting both Lok Sabha and State Assembly elections concurrently in India. This concept aims to streamline the electoral process, save resources, and reduce the disruptions caused by frequent elections.**
+
+### Body
+
+<p align="center"><img src="images/pw_polity_q358_img1.webp" alt="simultaneous elections" /></p>
 
 **Advantages of simultaneous elections:**
 - **Saving resources:** Conducting simultaneous elections can save a significant amount of financial and administrative resources, as well as time spent in electioneering.
@@ -7304,7 +7312,9 @@ The RPWD Act, 2016 offers a robust framework for empowering and including person
 
 ### Introduction
 
-**Despite India’s economic progress, it grapples with severe hunger and poverty issues.** The 2022 Global Hunger Index places India at 107 out of 121 countries, with the world’s highest child wasting rate at 19.3%. **Concurrently,** although poverty rates have decreased over the years, the pandemic’s impact suggests a potential rise, **with a significant portion of the population still living in extreme poverty. These persistent challenges underscore the need for comprehensive and inclusive policies.** <p align="center"><img src="images/pw_social_justice_q340_img1.webp" alt="image 2023 12 29T170206.454" /></p> Body: **
+**Despite India’s economic progress, it grapples with severe hunger and poverty issues.** The 2022 Global Hunger Index places India at 107 out of 121 countries, with the world’s highest child wasting rate at 19.3%. **Concurrently,** although poverty rates have decreased over the years, the pandemic’s impact suggests a potential rise, **with a significant portion of the population still living in extreme poverty. These persistent challenges underscore the need for comprehensive and inclusive policies.** <p align="center"><img src="images/pw_social_justice_q340_img1.webp" alt="image 2023 12 29T170206.454" /></p>
+
+### Body
 
 ***Progress made by successive governments:**:
 
@@ -9749,7 +9759,9 @@ As India-Maldives relations evolve, India must navigate concerns over political 
 
 ### Introduction
 
-**India and Japan have strengthened their economic ties in recent years, but the potential for growth in this area remains largely untapped. Several policy constraints have hampered the expansion of bilateral economic cooperation between the two countries.** Body **
+**India and Japan have strengthened their economic ties in recent years, but the potential for growth in this area remains largely untapped. Several policy constraints have hampered the expansion of bilateral economic cooperation between the two countries.**
+
+### Body
 
 - **Economic ties between India and Japan have witnessed significant growth. The two nations have made considerable strides in enhancing:** bilateral trade and investment. **Several collaborative initiatives, including joint ventures and technology transfers, have been established, contributing to the strengthening of economic cooperation.**
 - High-level visits and dialogues have facilitated closer engagement, leading to increased business collaborations and exchange of expertise. Despite this progress, there remains substantial untapped potential for further expanding and deepening the economic ties between India and Japan.
@@ -9784,7 +9796,9 @@ These constraints and unlock the full potential of their economic ties, India an
 
 ### Introduction
 
-**The withdrawal of the International Security Assistance Force (ISAF) from Afghanistan in 2014 has significant implications for the region’s security** Body: **
+**The withdrawal of the International Security Assistance Force (ISAF) from Afghanistan in 2014 has significant implications for the region’s security**
+
+### Body
 
 - **Challenges for India:** The withdrawal of ISAF (International Security Assistance Force) from Afghanistan could potentially create a security vacuum, allowing militant groups like the **Taliban, Al-Qaeda, and the Haqqani Network** to increase their activities in the region.
   - Pakistan has had a complex relationship with the Taliban, with historical ties and influence over certain factions. The resurgence of the Taliban could have implications for Pakistan’s own security dynamics, as it may face an influx of refugees or an increase in cross-border terrorism.
