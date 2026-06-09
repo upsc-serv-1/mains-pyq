@@ -825,3 +825,75 @@ window.switchCoachingTab = async function(coachingKey, targetQNum) {
     await loadQuestions(targetQNum);
   }
 };
+
+window.exportAllFilteredToPrint = function() {
+  if (questionsList.length === 0) {
+    alert("No questions loaded in editor!");
+    return;
+  }
+  
+  const displayCoaching = COACHING_DISPLAY_NAMES[currentCoaching] || currentCoaching;
+  const printWindow = window.open('', '_blank');
+  let contentHtml = "";
+  
+  questionsList.forEach(q => {
+    let ansHtml = "";
+    if (q.answer) {
+      ansHtml = renderMarkdownToHtml(q.answer, currentCoaching);
+    } else {
+      ansHtml = `<p style="color: #ef4444; font-style: italic;">No answer compiled for this coaching institute.</p>`;
+    }
+    
+    // Find compiled taxonomy details to show subject/marks/etc.
+    const compiledQ = findCompiledQuestion(currentCoaching, currentSubject, q.q_num, q.statement);
+    const qId = compiledQ ? compiledQ.id : `Q${q.q_num}`;
+    const qMarks = compiledQ ? compiledQ.marks : "10";
+    const qYear = q.year || "Unknown";
+    
+    contentHtml += `
+      <div class="question-block" style="page-break-inside: avoid; border-bottom: 1px solid #e5e7eb; padding-bottom: 24px; margin-bottom: 24px;">
+        <div class="print-header" style="background: #f3f4f6; padding: 12px; border-left: 4px solid #4f46e5; margin-bottom: 16px; font-family: sans-serif;">
+          <div style="font-size: 12px; color: #4b5563;"><strong>${qId}</strong> | Year: ${qYear} | Subject: ${currentSubject.toUpperCase()} | Marks: ${qMarks}</div>
+          <div style="font-size: 15px; font-weight: bold; margin-top: 6px; color: #111827;">${cleanStatementDisplay(q.statement)}</div>
+        </div>
+        <div class="markdown-body" style="font-family: sans-serif; font-size: 14px; line-height: 1.6; color: #374151;">
+          ${ansHtml}
+        </div>
+      </div>
+    `;
+  });
+  
+  printWindow.document.write(`
+    <html>
+      <head>
+        <title>UPSC Solved Compilation - ${currentSubject.toUpperCase()} - ${displayCoaching}</title>
+        <link rel="stylesheet" href="styles.css">
+        <style>
+          body {
+            font-family: 'Inter', sans-serif;
+            padding: 40px;
+            color: #333;
+            background: white;
+          }
+          .markdown-body {
+            line-height: 1.6;
+            font-size: 14px;
+          }
+          @media print {
+            body { padding: 0; }
+          }
+        </style>
+      </head>
+      <body>
+        <h1 style="border-bottom: 2px solid #4f46e5; padding-bottom: 12px; margin-bottom: 30px; font-family: sans-serif; color: #111827;">UPSC Mains PYQs - ${currentSubject.toUpperCase()} (${displayCoaching})</h1>
+        ${contentHtml}
+        <script>
+          window.onload = function() {
+            window.print();
+          };
+        </script>
+      </body>
+    </html>
+  `);
+  printWindow.document.close();
+};
