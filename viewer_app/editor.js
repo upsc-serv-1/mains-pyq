@@ -32,16 +32,30 @@ function initGlobalSaveShortcut() {
   document.addEventListener("keydown", (e) => {
     if ((e.ctrlKey || e.metaKey) && e.key.toLowerCase() === "s") {
       e.preventDefault();
-      // Find the active editing card in the layout
-      const activeCard = document.querySelector(".q-card.individual-edit-mode");
-      if (activeCard) {
-        const qNumMatch = activeCard.id.match(/editor-card-(\d+)/);
-        if (qNumMatch) {
-          const qNum = parseInt(qNumMatch[1]);
-          const saveBtn = document.getElementById(`save-btn-${qNum}`);
-          if (saveBtn && !saveBtn.disabled) {
-            saveAnswer(qNum);
+      
+      let qNum = null;
+      
+      // 1. Check if focus is inside a textarea
+      const activeEl = document.activeElement;
+      if (activeEl && activeEl.tagName === "TEXTAREA" && activeEl.id.startsWith("textarea-")) {
+        qNum = parseInt(activeEl.id.replace("textarea-", ""));
+      }
+      
+      // 2. Fallback: Find the active editing card in 2-column mode
+      if (!qNum) {
+        const activeCard = document.querySelector(".q-card.individual-edit-mode");
+        if (activeCard) {
+          const qNumMatch = activeCard.id.match(/editor-card-(\d+)/);
+          if (qNumMatch) {
+            qNum = parseInt(qNumMatch[1]);
           }
+        }
+      }
+      
+      if (qNum) {
+        const saveBtn = document.getElementById(`save-btn-${qNum}`);
+        if (saveBtn && !saveBtn.disabled) {
+          saveAnswer(qNum);
         }
       }
     }
