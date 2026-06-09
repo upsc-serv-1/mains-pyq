@@ -9091,7 +9091,7 @@ India’s response reflected its **“humanitarian diplomacy”-guided** by empa
 
 ### Answer
 
-? (15 )** The **Maldives,** located southwest of India in the central **Indian Ocean,** sits astride critical **Sea Lines of**
+? (15 Marks) The **Maldives,** located southwest of India in the central **Indian Ocean,** sits astride critical **Sea Lines of**
 
 **Communication (SLOCs)** that carry **a major share of global oil and trade flows.**
 

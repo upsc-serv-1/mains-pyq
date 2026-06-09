@@ -2308,7 +2308,7 @@ But India’s experiences can perhaps shine a light to the rigid form of secular
 
 - Indian philosophy of secularism is related to “Sarva Dharma Sambhava” which means equal respect to all religions. The State maintains a “principled distance” from all religion and intervenes wherever necessary, for example -Sabarimala Temple and Triple talaq issue.
 
-- Like the French, Indians tend to consider secularism as part of their national identity. It is ingrained in both Constitutions but when it comes to treatment of minorities, * **French minorities feel targeted by “laicite”(secularism) while Indian minorities see secularism as their best protection,** * thus preventing them from differential treatments and phobias.
+- Like the French, Indians tend to consider secularism as part of their national identity. It is ingrained in both Constitutions but when it comes to treatment of minorities, **French minorities feel targeted by “laicite”(secularism) while Indian minorities see secularism as their best protection,** thus preventing them from differential treatments and phobias.
 
 - In India, both state and religion can, and often do, interact and intervene in each other’s affairs within the legally prescribed and judicially settled parameters.
 
