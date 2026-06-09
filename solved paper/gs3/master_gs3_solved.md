@@ -470,11 +470,11 @@ The Central Government consolidated **29 existing central labour laws** into fou
 
 **6. Rising Costs for Businesses**
 
-- Gratuity obligations**
+  - Gratuity obligations**
 
-- PF contributions**
+  - PF contributions**
 
-- Maternity benefits (26 weeks paid leave + crèche facilities) Progress So Far**
+  - Maternity benefits (26 weeks paid leave + crèche facilities) Progress So Far**
 
   - All four codes are **legally enacted** between 2019-20.
 
@@ -776,7 +776,7 @@ A **self-sustained growth strategy** is imperative for India’s long-term econo
 1. Explanation_Drishti IAS:
 Source Question: What are the challenges before the Indian economy when the world is moving away from free trade and multilateralism to protectionism and bilateralism? How can these challenges be met? (Answer in 150 words)
 
-| **Approach:** <br>• **Introduction:** Introduce with current scenario with the meaning of free trade and multilateralism to protectionism and bilateralism. <br>• **Body:** List down the Challenges faced by Indian Economy and measures to overcome these challenges. <br>• **Conclusion:** Summarize how these measures help India navigate the challenges posed by protectionism and bilateralism, ensuring its sustained economic growth and competitiveness in global trade. |
+| **Approach:** <br>• **Introduction:** Introduce with current scenario with the meaning of free trade and multilateralism to protectionism and bilateralism. <br>• **Body:** List down the Challenges faced by Indian Economy and measures to overcome these challenges. <br>• **Conclusion** Summarize how these measures help India navigate the challenges posed by protectionism and bilateralism, ensuring its sustained economic growth and competitiveness in global trade. |
 | --- |
 
 ### Introduction
@@ -1182,7 +1182,7 @@ By encouraging **disciplined, sustainable, and quality spending,** FHI can help 
 1. Explanation_Drishti IAS:
 Source Question: Explain how the Fiscal Health Index (FHI) can be used as a tool for assessing the fiscal performance of states in India. In what way would it encourage the states to adopt prudent and sustainable fiscal policies? (Answer in 250 words)
 
-| **Approach:** <br>• **Introduction:** Introduce the Fiscal Health Index, its key indicators. <br>• **Body:** Give FHI role in assessing Fiscal Performance of States and how it helps in adoption of prudent and sustainable fiscal policies. <br>• **Conclusion:** Conclude with a way forward approach. |
+| **Approach:** <br>• **Introduction:** Introduce the Fiscal Health Index, its key indicators. <br>• **Body:** Give FHI role in assessing Fiscal Performance of States and how it helps in adoption of prudent and sustainable fiscal policies. <br>• **Conclusion** Conclude with a way forward approach. |
 | --- |
 
 ### Introduction
@@ -2397,9 +2397,9 @@ Since the **1991 reforms,** India shifted to a market-oriented growth model. Pub
 
 **3. Poor Learning Outcomes**
 
-- **50% of Class 5 students** cannot read Class 2 text (ASER).
+  - **50% of Class 5 students** cannot read Class 2 text (ASER).
 
-- **50% of graduates are employable** only (India Skills Report).
+  - **50% of graduates are employable** only (India Skills Report).
 
 **4. Low Public Health Spending -** Still around **1.9% of GDP,** below the global average of 6%.
 
@@ -4010,7 +4010,7 @@ As Amartya Sen observed, “Development is about expanding freedoms.” HDI show
 1. Explanation_Drishti IAS:
 Source Question: Distinguish between the Human Development Index (HDI) and the Inequality-adjusted Human Development Index (IHDI) with special reference to India. Why is the IHDI considered a better indicator of inclusive growth? (Answer in 150 words)
 
-| **Approach** <br>• **Introduction:** Define HDI and give recent India’s ranking. <br>• **Body:** Explain the differences between HDI and IHDI and discuss IHDI's role as a better indicator of inclusive growth. <br>• **Conclusion:** Summarize the importance of IHDI in fostering inclusive growth, especially for countries like India. |
+| **Approach** <br>• **Introduction:** Define HDI and give recent India’s ranking. <br>• **Body:** Explain the differences between HDI and IHDI and discuss IHDI's role as a better indicator of inclusive growth. <br>• **Conclusion** Summarize the importance of IHDI in fostering inclusive growth, especially for countries like India. |
 | --- |
 
 ### Introduction
@@ -4151,17 +4151,17 @@ MSME sector contributes “nearly one-third to India’s GDP” and is a “key 
 
 **3. Infrastructure Deficiencies -**
 
-- Multimodal connectivity gaps.
+  - Multimodal connectivity gaps.
 
-- **Power outages,** weak water supply, and poor transport networks.
+  - **Power outages,** weak water supply, and poor transport networks.
 
 **4. Regulatory & Policy Bottlenecks**
 
-- **Land acquisition delays**
+  - **Land acquisition delays**
 
-- Manufacturing MSMEs face **1,450+ compliances** annually
+  - Manufacturing MSMEs face **1,450+ compliances** annually
 
-- High compliance cost **₹13-17 lakh/year** per MSME
+  - High compliance cost **₹13-17 lakh/year** per MSME
 
   - **Limited Access to Finance (only 14% out of 64 million)** Recommendations of **UK Sinha Committee** must be implemented to make India the global manufacturing hub
 
@@ -4815,9 +4815,9 @@ The GST, implemented on **1 July 2017,** unified India’s fragmented indirect t
 
 **3. Borrowing Controversy**
 
-- The Centre asked states to borrow via RBI under two options.**
+  - The Centre asked states to borrow via RBI under two options.**
 
-- Many states (Kerala, Punjab, Chhattisgarh) argued that the borrowing burden should lie with the Centre, not states.**
+  - Many states (Kerala, Punjab, Chhattisgarh) argued that the borrowing burden should lie with the Centre, not states.**
 
 **4. Breakdown of Consensus in GST Council -** For the first time since 2017, the Council saw **voting instead of consensus.** States alleged weakening of **cooperative federalism.**
 
@@ -5695,7 +5695,7 @@ Q41. Foreign Direct Investment (FDI) in the defence sector is now set to be libe
 1. Explanation_PWOnlyIAS:
 Source Question: Foreign Direct Investment (FDI) in the defence sector is now set to be liberalized. What influence is this expected to have on Indian defence and economy in the short and long run? (200 words, 12.5 marks)
 
-| **Approach:** <br>• **Introduction:** Give a brief about the way FDI entered the defence sector. <br>• **Body:** Mention the short and long term implications. <br>• **Conclusion:** The FDI policy in defence sector would bring immense gains in both short and long term. |
+| **Approach:** <br>• **Introduction:** Give a brief about the way FDI entered the defence sector. <br>• **Body:** Mention the short and long term implications. <br>• **Conclusion** The FDI policy in defence sector would bring immense gains in both short and long term. |
 | --- |
 
 ### Introduction
@@ -5821,9 +5821,9 @@ Since the **1991 reforms,** India shifted to a market-oriented growth model. Pub
 
 **3. Poor Learning Outcomes**
 
-- **50% of Class 5 students** cannot read Class 2 text (ASER).
+  - **50% of Class 5 students** cannot read Class 2 text (ASER).
 
-- **50% of graduates are employable** only (India Skills Report).
+  - **50% of graduates are employable** only (India Skills Report).
 
 **4. Low Public Health Spending -** Still around **1.9% of GDP,** below the global average of 6%.
 
@@ -6089,7 +6089,7 @@ Q44. There is also a point of view that Agricultural Produce Market Committees [
 1. Explanation_PWOnlyIAS:
 Source Question: There is also a point of view that Agricultural Produce Market Committees (APMCs) set up under the State Acts have not only impeded the development of agriculture but also have been the cause of food inflation in India. Critically examine. (200 words, 12.5 marks)
 
-| **Approach:** <br>• **Introduction:** Give a brief about APMC <br>• **Body:** Mention the criticisms of APMC with respect to its impact on growth of agriculture and food inflation. <br>• **Conclusion:** Conclude saying that APMC is just one factor, there are other factors too that impacts agriculture and food inflation. But APMC reforms are still a must. |
+| **Approach:** <br>• **Introduction:** Give a brief about APMC <br>• **Body:** Mention the criticisms of APMC with respect to its impact on growth of agriculture and food inflation. <br>• **Conclusion** Conclude saying that APMC is just one factor, there are other factors too that impacts agriculture and food inflation. But APMC reforms are still a must. |
 | --- |
 
 ### Introduction
@@ -6955,7 +6955,7 @@ The **PLI scheme,** launched in 2020, covers 14 key sectors and provides **direc
 1. Explanation_Drishti IAS:
 Source Question: Discuss the rationale of the Production Linked Incentive (PLI) scheme. What are its achievements? In what way can the functioning and outcomes of the scheme be improved? (250 words)
 
-| **Approach:** <br>• **Introduction**: Introduce the **Production Linked Incentive (PLI)** scheme, its purpose, and its objectives. <br>• **Body**: Discuss the rationale behind the scheme, its achievements in various sectors, and the improvements it has brought to India’s manufacturing ecosystem. <br>• **Conclusion**: Highlight areas where the scheme can be enhanced and suggest ways to ensure its continued success and inclusivity. |
+| **Approach:** <br>• **Introduction**: Introduce the **Production Linked Incentive (PLI)** scheme, its purpose, and its objectives. <br>• **Body**: Discuss the rationale behind the scheme, its achievements in various sectors, and the improvements it has brought to India’s manufacturing ecosystem. <br>• **Conclusion** Highlight areas where the scheme can be enhanced and suggest ways to ensure its continued success and inclusivity. |
 | --- |
 
 ### Introduction
@@ -7419,19 +7419,19 @@ Source Question: Most of the unemployment in India is structural in nature. Exam
 
 **2. Periodic Labour Force Survey (PLFS) - NSO** measures unemployment through three indicators:
 
-- **Usual Status (US/PS+SS)** - Based on activity over **365 days**
+  - **Usual Status (US/PS+SS)** - Based on activity over **365 days**
 
-- **Current Weekly Status (CWS)** - If not worked for **1 hour in the last 7 days.**
+  - **Current Weekly Status (CWS)** - If not worked for **1 hour in the last 7 days.**
 
-- **Current Daily Status (CDS)** - Records activity for each day of last week - best for informal/underemployment.
+  - **Current Daily Status (CDS)** - Records activity for each day of last week - best for informal/underemployment.
 
 **3. Household Surveys -** Annual (rural + urban) and quarterly (urban) surveys.
 
 **4. Establishment Surveys**
 
-- **QES** for formal sector
+  - **QES** for formal sector
 
-- **ASI** for organised manufacturing
+  - **ASI** for organised manufacturing
 
 **5. Administrative Data - EPFO, ESIC, NPS** payrolls used to estimate formal job creation.
 
@@ -7674,11 +7674,11 @@ With **7% growth in 2025-26,** India is one of the **fastest-growing major econo
 
 **1. Manufacturing-led, technology-enabled growth**
 
-- Expand **labour-intensive manufacturing** such as **textiles, toys, leather, electronics assembly. Eg:**
+  - Expand **labour-intensive manufacturing** such as **textiles, toys, leather, electronics assembly. Eg:**
 
 **PLI schemes** for electronics, textiles.
 
-- Use **AI, robotics, lean production** to improve productivity while expanding scale.
+  - Use **AI, robotics, lean production** to improve productivity while expanding scale.
 
 **2. MSME upgradation -** Enable **cluster-based development,** digitalisation, easier credit. **Eg: MSME Champions Scheme, ONDC for market linkages**
 
@@ -8225,27 +8225,27 @@ Eg- Solar pumps under **PM-KUSUM**
 
 **3. Renewable Energy Expansion**
 
-- India ranks **4th globally** in renewable capacity.
+  - India ranks **4th globally** in renewable capacity.
 
-- **244+ GW installed RE capacity** (50% of total demand)
+  - **244+ GW installed RE capacity** (50% of total demand)
 
 **4. Energy Efficiency Gains- PAT, BEE standards** saved significant electricity and reduced CO₂ emissions.
 
 **5. Global Leadership**
 
-- **International Solar Alliance (ISA)** promotes global solar cooperation.
+  - **International Solar Alliance (ISA)** promotes global solar cooperation.
 
-- **Coalition for Disaster Resilient Infrastructure (CDRI)** integrates climate-resilient energy systems.
+  - **Coalition for Disaster Resilient Infrastructure (CDRI)** integrates climate-resilient energy systems.
 
 **6. New Technologies - National Green Hydrogen Mission** to produce **5 MMT** of green hydrogen by 2030.
 
 **7. Updated NDC Commitments**
 
-- **45% reduction in emission intensity** of GDP by 2030.
+  - **45% reduction in emission intensity** of GDP by 2030.
 
-- **50% electricity from non-fossil sources.**
+  - **50% electricity from non-fossil sources.**
 
-- **Net Zero by 2070.**
+  - **Net Zero by 2070.**
 
 **Challenges**
 
@@ -8677,7 +8677,7 @@ Q63. Write a note on India’s green energy corridor to alleviate the problem of
 1. Explanation_PWOnlyIAS:
 Source Question: Write a note on India’s green energy corridor to alleviate the problem of conventional energy.
 
-| **Approach:** <br>• **Introduction:** Give a brief idea about the green energy corridor <br>• **Body:** Mention how India’s Green Energy Corridor project could alleviate problems associated with conventional energy <br>• **Conclusion:** India’s green energy corridor is a significant initiative to promote renewable energy and create a sustainable future. |
+| **Approach:** <br>• **Introduction:** Give a brief idea about the green energy corridor <br>• **Body:** Mention how India’s Green Energy Corridor project could alleviate problems associated with conventional energy <br>• **Conclusion** India’s green energy corridor is a significant initiative to promote renewable energy and create a sustainable future. |
 | --- |
 
 ### Introduction
@@ -9790,7 +9790,7 @@ The agriculture sector utilizes approximately **78% of India's total usable wate
 
 **1. PM Krishi Sinchayee Yojana (PMKSY) -** Promotes micro-irrigation (drip/sprinkler) through subsidies.
 
-- Components: **Har Khet Ko Pani, Per Drop More Crop, Watershed Development.**
+  - Components: **Har Khet Ko Pani, Per Drop More Crop, Watershed Development.**
 
 **2. Micro-Irrigation Fund (NABARD) -** Dedicated fund of **₹10,000 crore** to expand drip and sprinkler systems.
 
@@ -9804,15 +9804,15 @@ The agriculture sector utilizes approximately **78% of India's total usable wate
 
 **7. State level initiatives**
 
-- **Mission Kakatiya, Telangana** - Restoration of **46,531 minor irrigation tanks**
+  - **Mission Kakatiya, Telangana** - Restoration of **46,531 minor irrigation tanks**
 
-- Jalyukt Shivar Abhiyan, Maharashtra - watershed development, farm ponds, desilting of streams.**
+  - Jalyukt Shivar Abhiyan, Maharashtra - watershed development, farm ponds, desilting of streams.**
 
 **8. Crop Diversification Initiatives**
 
-- Mission for Integrated Development of Horticulture **(MIDH)**
+  - Mission for Integrated Development of Horticulture **(MIDH)**
 
-- Increase in **MSP for Pulses and Millets.** Eg- 60% for Ragi
+  - Increase in **MSP for Pulses and Millets.** Eg- 60% for Ragi
 
   - **PM KUSUM:** Promotes the use of solar-powered pumps for micro-irrigation **Case Study**
 
@@ -9976,9 +9976,9 @@ Micro irrigation is a **water-efficient irrigation technique** that delivers wat
 
 **2. Higher Water Use Efficiency (WUE)**
 
-- **Sprinkler Irrigation - 75%**
+  - **Sprinkler Irrigation - 75%**
 
-- Drip Irrigation - 90%**
+  - Drip Irrigation - 90%**
 
 **3. Higher Yields:** Eg- increases yields by **45% for wheat, 20% for gram,** and **40% for soybean.**
 
@@ -10496,9 +10496,9 @@ The NWP is a **World** Bank-assisted initiative that supports the **watershed de
 
 **2. Increase in Cropping Intensity**
 
-- by **35-60%** in many watershed districts (ICAR-NAAS study).
+  - by **35-60%** in many watershed districts (ICAR-NAAS study).
 
-- Shift from single → double cropping in semi-arid regions.
+  - Shift from single → double cropping in semi-arid regions.
 
 **3. Higher Crop Yields -** Yield increased by **25-40% in millets, 30-60% in pulses, 20-35% in oilseeds** (NRSC 2021).
 
@@ -11134,27 +11134,27 @@ Under panchamrit Targets at COP26, India committed to achieving **50 percent** o
 
 **5. Institutional mechanisms**
 
-- **International Solar Alliance (ISA)**
+  - **International Solar Alliance (ISA)**
 
-- **Green Grids Initiative** under **OSOWOG**
+  - **Green Grids Initiative** under **OSOWOG**
 
 <p align="center"><img src="civilsdaily/images/civilsdaily_p36_img93.png" alt="Diagram" /></p>
 
-- **BEE** and **PAT Scheme** - Promote energy efficiency.
+  - **BEE** and **PAT Scheme** - Promote energy efficiency.
 
 **6. Economic incentives**
 
-- **PLI Scheme for Solar PV Modules and Batteries**
+  - **PLI Scheme for Solar PV Modules and Batteries**
 
-- **Viability Gap Funding and Capital Subsidies**
+  - **Viability Gap Funding and Capital Subsidies**
 
-- **Green bonds** for clean energy projects.
+  - **Green bonds** for clean energy projects.
 
 **7. Global efforts and partnerships**
 
-- Technology transfer and funding through **ISA, IBSA, G20**
+  - Technology transfer and funding through **ISA, IBSA, G20**
 
-- Participation in **Just Energy Transition Partnerships (JETP)** and **multilateral climate funds.**
+  - Participation in **Just Energy Transition Partnerships (JETP)** and **multilateral climate funds.**
 
 **Challenges**
 
@@ -11577,7 +11577,7 @@ Q80. What are the different types of agriculture subsidies given to farmers at t
 1. Explanation_PWOnlyIAS:
 Source Question: What are the different types of agriculture subsidies given to farmers at the national and at state levels? Critically analyse the agricultural subsidy regime with reference to the distortions created by it.
 
-| **Approach:** <br> **Introduction** <br>• Define farm subsidy **Body** <br>• Enlist the different types of agriculture subsidies <br>• Analyse how agricultural subsidy regime creates distortions. <br> **Conclusion:** <br>• Conclude saying that not all subsidies create distortions, some are really necessary. |
+| **Approach:** <br> **Introduction** <br>• Define farm subsidy **Body** <br>• Enlist the different types of agriculture subsidies <br>• Analyse how agricultural subsidy regime creates distortions. <br> **Conclusion** <br>• Conclude saying that not all subsidies create distortions, some are really necessary. |
 | --- |
 
 ### Introduction
@@ -11852,7 +11852,7 @@ Shift to high-value crops can be a key driver of **doubling farmers’ income an
 1. Explanation_Drishti IAS:
 Source Question: Explain the factors influencing the decision of the farmers on the selection of high value crops in India. (Answer in 150 words)
 
-| **Approach** <br>• **Introduction:** Define high-value crops. <br>• **Body:** Discuss the factors influencing farmers' decisions highlighting government initiatives as key enablers for farmers to adopt high-value crops. <br>• **Conclusion:** Emphasize the positive impact of these factors on farmers' incomes and sustainable agricultural growth in India. |
+| **Approach** <br>• **Introduction:** Define high-value crops. <br>• **Body:** Discuss the factors influencing farmers' decisions highlighting government initiatives as key enablers for farmers to adopt high-value crops. <br>• **Conclusion** Emphasize the positive impact of these factors on farmers' incomes and sustainable agricultural growth in India. |
 | --- |
 
 ### Introduction
@@ -13414,23 +13414,23 @@ Millets **(Shree Anna)** are emerging as a critical pillar of India’s strategy
 
 **1. Food Security**
 
-- **Drought and heat resistant**
+  - **Drought and heat resistant**
 
-- Requires **less water and fertiliser -** Ideal for **tribal, arid and semi-arid regions**
+  - Requires **less water and fertiliser -** Ideal for **tribal, arid and semi-arid regions**
 
 **2. Rich Nutritional Profile**
 
-- High in **iron, calcium, zinc, magnesium and phosphorus**
+  - High in **iron, calcium, zinc, magnesium and phosphorus**
 
-- Higher **protein and dietary fibre** than rice and wheat
+  - Higher **protein and dietary fibre** than rice and wheat
 
-- **Low glycaemic index,** suitable for **diabetics and obese populations**
+  - **Low glycaemic index,** suitable for **diabetics and obese populations**
 
 **3. Tackling Malnutrition & Hidden Hunger**
 
-- Addresses **micronutrient deficiency** among **women and children (anaemia, stunting and wasting)**
+  - Addresses **micronutrient deficiency** among **women and children (anaemia, stunting and wasting)**
 
-- Can strengthen **ICDS, Mid-Day Meal and POSHAN Abhiyaan**
+  - Can strengthen **ICDS, Mid-Day Meal and POSHAN Abhiyaan**
 
 | <br>• | Versatile: Can be used in traditional and modern dishes. Eg- | in biscuits, noodles, bakery |
 | --- | --- | --- |
@@ -13439,15 +13439,15 @@ Millets **(Shree Anna)** are emerging as a critical pillar of India’s strategy
 
 **5. Supports Public Health**
 
-- Prevents **non-communicable diseases** like **diabetes, hypertension and heart disease**
+  - Prevents **non-communicable diseases** like **diabetes, hypertension and heart disease**
 
-- Strengthens **immunity** due to high antioxidant content
+  - Strengthens **immunity** due to high antioxidant content
 
 **6. Aligned with international commitments**
 
-- SDG-2 - Zero Hunger**
+  - SDG-2 - Zero Hunger**
 
-- International year of millets (2023) **Challenges**
+  - International year of millets (2023) **Challenges**
 
   - Perceived as **“poor person’s food”**
 
@@ -14434,7 +14434,7 @@ Q97. Food Security Bill is expected to eliminate hunger and malnutrition in Indi
 1. Explanation_PWOnlyIAS:
 Source Question: The Food Security Bill is expected to eliminate hunger and malnutrition in India. Critically discuss various apprehensions in its effective implementation along with the concerns it has generated in WTO.
 
-| **Approach:** <br> **Introduction** <br>• Give a brief about the NFSA, 2013 **Body** <br>• Mention the role of NFSA in eliminating hunger and malnutrition <br>• Mention concerns raised in WTO against the Food security Act <br> **Conclusion:** <br>• Conclude stating that NFSA has a major role for food security to India’s poor. |
+| **Approach:** <br> **Introduction** <br>• Give a brief about the NFSA, 2013 **Body** <br>• Mention the role of NFSA in eliminating hunger and malnutrition <br>• Mention concerns raised in WTO against the Food security Act <br> **Conclusion** <br>• Conclude stating that NFSA has a major role for food security to India’s poor. |
 | --- |
 
 ### Introduction
@@ -14806,13 +14806,13 @@ India’s Public Distribution System is the **world’s largest food transfer pr
 
 **2. End-to-End Digitalisation of PDS**
 
-- All 20.4 Cr household ration cards digitised
+  - All 20.4 Cr household ration cards digitised
 
-- **Aadhaar seeding** - **over 47 million bogus ration cards removed (2013-21).**
+  - **Aadhaar seeding** - **over 47 million bogus ration cards removed (2013-21).**
 
-- Implementation of Warehouse Inventory Network and Governing System (WINGS) application to automate tagging of mills
+  - Implementation of Warehouse Inventory Network and Governing System (WINGS) application to automate tagging of mills
 
-- 5.33 lakh **e-PoS devices installed in all Fair Price Shops.**
+  - 5.33 lakh **e-PoS devices installed in all Fair Price Shops.**
 
 **3. One Nation One Ration Card (ONORC) -** Ensures **nationwide portability of PDS benefits.**
 
@@ -14820,9 +14820,9 @@ India’s Public Distribution System is the **world’s largest food transfer pr
 
 **5. Strengthening Storage & Supply Chain**
 
-- GPS-based tracking of trucks. Eg- Chhatisgarh
+  - GPS-based tracking of trucks. Eg- Chhatisgarh
 
-- Expansion of warehouses under **PEG Scheme (Private Entrepreneurs Guarantee).**
+  - Expansion of warehouses under **PEG Scheme (Private Entrepreneurs Guarantee).**
 
 **6. Direct Benefit Transfer (DBT)** in **Chandigarh, Puducherry, Dadra & Nagar Haveli.**
 
@@ -14830,9 +14830,9 @@ India’s Public Distribution System is the **world’s largest food transfer pr
 
 **8. Nutritional Improvements in PDS**
 
-- Introduction of **fortified rice** under NFSA, ICDS and PM-POSHAN.
+  - Introduction of **fortified rice** under NFSA, ICDS and PM-POSHAN.
 
-- Some states (Tamil Nadu, Odisha) supply **pulses, millets, oil and eggs** through PDS.
+  - Some states (Tamil Nadu, Odisha) supply **pulses, millets, oil and eggs** through PDS.
 
 **However, despite these steps there are few challenges**
 
@@ -15060,7 +15060,7 @@ The **agricultural supply chain** refers to activities involved in moving agricu
 1. Explanation_Drishti IAS:
 Source Question: Elaborate the scope and significance of supply chain management of agricultural commodities in India. (Answer in 150 words)
 
-| **Approach** <br>• **Introduction:** Define Supply Chain Management (SCM) in agriculture. <br>• **Body:** Discuss the scope of SCM, highlighting government initiatives and give the significance of SCM. <br>• **Conclusion:** Summarise by mentioning challenges in SCM and way forward. |
+| **Approach** <br>• **Introduction:** Define Supply Chain Management (SCM) in agriculture. <br>• **Body:** Discuss the scope of SCM, highlighting government initiatives and give the significance of SCM. <br>• **Conclusion** Summarise by mentioning challenges in SCM and way forward. |
 | --- |
 
 ### Introduction
@@ -15996,7 +15996,7 @@ As India moves forward under the **Make in India** vision, the food processing i
 1. Explanation_Drishti IAS:
 Source Question: Examine the scope of the food processing industries in India. Elaborate the measures taken by the government in the food processing industries for generating employment opportunities. (Answer in 250 words)
 
-| **Approach** <br>• **Introduction:** Define the food processing industry and highlight its importance under the Make in India initiative. <br>• **Body:** Discuss the scope of the food processing industry and explain the measures taken by the government to generate employment opportunities. <br>• **Conclusion:** Summarise by mentioning the growth potential of India’s food processing sector. |
+| **Approach** <br>• **Introduction:** Define the food processing industry and highlight its importance under the Make in India initiative. <br>• **Body:** Discuss the scope of the food processing industry and explain the measures taken by the government to generate employment opportunities. <br>• **Conclusion** Summarise by mentioning the growth potential of India’s food processing sector. |
 | --- |
 
 ### Introduction
@@ -17436,45 +17436,45 @@ Land reform refers to the **systematic alteration of laws, regulations, and prac
 
 **1. Abolition of Intermediaries** through **Zamindari Abolition Acts**
 
-- Total land transferred: 173 lakh hectares**
+  - Total land transferred: 173 lakh hectares**
 
-- **2 crore tenants benefitted.**
+  - **2 crore tenants benefitted.**
 
 **2. Tenancy Reforms**
 
-- It led to fixation of fair rent (usually one-fourth to one-sixth of the produce).
+  - It led to fixation of fair rent (usually one-fourth to one-sixth of the produce).
 
-- Total tenants who got land rights: **12.5 million (Agricultural Census 1981).**
+  - Total tenants who got land rights: **12.5 million (Agricultural Census 1981).**
 
-- Eg- West Bengal’s Operation Barga (1978)
+  - Eg- West Bengal’s Operation Barga (1978)
 
 **3. Ceiling on Land Holdings**
 
-- Total surplus land declared: 75 lakh hectares
+  - Total surplus land declared: 75 lakh hectares
 
-- Total land actually distributed: 56 lakh hectares
+  - Total land actually distributed: 56 lakh hectares
 
 **4. Land Consolidation measures -** Punjab and Haryana enforced compulsory consolidation, while other states allowed voluntary consolidation if the majority of landowners agreed.
 
 **5. Bhoodan-Gramdan Movements -** "non-violent revolution" in India's land reform programme.
 
-- 16 lakh hectares of land donated under Gramdan
+  - 16 lakh hectares of land donated under Gramdan
 
-- More than 160,000 villages pledged Gramdan by 1970.
+  - More than 160,000 villages pledged Gramdan by 1970.
 
 **6. Phase 5: Land Records Modernization & Land Leasing Reforms (2000s-Present)**
 
-- Digitize land records to prevent disputes and ensure transparency.
+  - Digitize land records to prevent disputes and ensure transparency.
 
-- Land records fully digitized in **92% of villages (as of 2023).**
+  - Land records fully digitized in **92% of villages (as of 2023).**
 
-- States leading in digitization are **Karnataka, Maharashtra, Andhra Pradesh.**
+  - States leading in digitization are **Karnataka, Maharashtra, Andhra Pradesh.**
 
 **7. Modernisation of Land Records**
 
-- Digital India Land Records Modernization Programme - 96% digitization**
+  - Digital India Land Records Modernization Programme - 96% digitization**
 
-- SVAMITVA Scheme for geo-tagging and property cards in rural India.**
+  - SVAMITVA Scheme for geo-tagging and property cards in rural India.**
 
 **8. Model Land Leasing Act, 2016 (NITI Aayog) Land Ceiling Policy as an Effective Reform under Economic Criteria**
 
@@ -18671,17 +18671,17 @@ India’s life expectancy has increased to **72.4 years (2025)** due to better h
 
 **2. Geriatric Health Issues**
 
-- Increase in **frailty, vision/hearing loss,** arthritis.
+  - Increase in **frailty, vision/hearing loss,** arthritis.
 
-- Growing burden of **neurodegenerative disorders** like Alzheimer’s and Parkinson’s.
+  - Growing burden of **neurodegenerative disorders** like Alzheimer’s and Parkinson’s.
 
 **3. Multi-morbidity -** Elderly increasingly suffer from **multiple chronic conditions,** requiring continuous care.
 
 **4. Mental Health Challenges**
 
-- Rising cases of **depression, loneliness, anxiety.**
+  - Rising cases of **depression, loneliness, anxiety.**
 
-- Lack of community-based mental health services.
+  - Lack of community-based mental health services.
 
 **5.** Treatment of chronic and age-related conditions increases **out-of-pocket expenditure.**
 
@@ -18695,21 +18695,21 @@ India’s life expectancy has increased to **72.4 years (2025)** due to better h
 
 **2. Community-Based Care**
 
-- Promote **home healthcare** and caregiver support services.
+  - Promote **home healthcare** and caregiver support services.
 
-- Incentivise **care economy** (eldercare workers, physiotherapists).
+  - Incentivise **care economy** (eldercare workers, physiotherapists).
 
 **3. National NCD Prevention Strategy**
 
-- Screen population for **hypertension, diabetes, cancers** through HWCs.
+  - Screen population for **hypertension, diabetes, cancers** through HWCs.
 
-- Promote lifestyle interventions: yoga, diet counselling, tobacco control.
+  - Promote lifestyle interventions: yoga, diet counselling, tobacco control.
 
 **4. Strengthen Mental Health Services**
 
-- Expand **Tele-MANAS,** district mental health programmes.
+  - Expand **Tele-MANAS,** district mental health programmes.
 
-- Senior citizen counselling and social engagement platforms.
+  - Senior citizen counselling and social engagement platforms.
 
 **5. Social Protection -** Expand **pension coverage** by strengthening PM-SYM.
 
@@ -19405,7 +19405,7 @@ Thus, we notice that during the COVID-19 period technology innovations helped in
 1. Explanation_PWOnlyIAS:
 Source Question: COVID-19 pandemic has caused unprecedented devastation worldwide. However, technological advancements are being availed readily to win over the crisis. Give an account of how technology was sought to aid management of the pandemic.
 
-| **Approach:** <br>• **Introduction:** Begin by highlighting the unprecedented devastation caused by the COVID-19 pandemic worldwide. And then, Introduce the focus of the answer on how technology aided pandemic management, with a specific emphasis on India. <br>• **Body:** The body should be organized into several sections, each highlighting a different technological intervention in pandemic management. <br>• **Conclusion:** Conclude, highlighting the resilience and adaptability of societies in leveraging technology to combat unprecedented challenges. |
+| **Approach:** <br>• **Introduction:** Begin by highlighting the unprecedented devastation caused by the COVID-19 pandemic worldwide. And then, Introduce the focus of the answer on how technology aided pandemic management, with a specific emphasis on India. <br>• **Body:** The body should be organized into several sections, each highlighting a different technological intervention in pandemic management. <br>• **Conclusion** Conclude, highlighting the resilience and adaptability of societies in leveraging technology to combat unprecedented challenges. |
 | --- |
 
 ### Introduction
@@ -19739,7 +19739,7 @@ For India, CCUS provides a pathway to **decarbonization** without compromising e
 1. Explanation_Drishti IAS:
 Source Question: What is Carbon Capture, Utilization and Storage (CCUS)? What is the potential role of CCUS in tackling climate change? (150 words)
 
-| **Approach:** <br>• **Introduction**: Introduce the concept of **CCUS** and its significance in reducing CO **2** emissions and mitigating climate change. <br>• **Body**: Discuss the three core components of CCUS: **carbon capture**, **carbon utilization**, and **carbon storage**. Highlight the **potential role of CCUS** in tackling climate change. Identify the key **challenges** to the effectiveness of CCUS. <br>• **Conclusion**: Summarize the need of CCUS in combating climate change. |
+| **Approach:** <br>• **Introduction**: Introduce the concept of **CCUS** and its significance in reducing CO **2** emissions and mitigating climate change. <br>• **Body**: Discuss the three core components of CCUS: **carbon capture**, **carbon utilization**, and **carbon storage**. Highlight the **potential role of CCUS** in tackling climate change. Identify the key **challenges** to the effectiveness of CCUS. <br>• **Conclusion** Summarize the need of CCUS in combating climate change. |
 | --- |
 
 ### Introduction
@@ -20123,21 +20123,21 @@ The **Blue LEDs** invention triggered a fundamental shift in lighting technology
 
 **6. Advancements in Healthcare and Sanitation**
 
-- **Water Purification:** UV-light emitting diodes are used to sterilize drinking water by destroying the DNA of bacteria and viruses.
+  - **Water Purification:** UV-light emitting diodes are used to sterilize drinking water by destroying the DNA of bacteria and viruses.
 
-- **Medical Treatment:** Blue light is used in phototherapy to treat neonatal jaundice and certain skin conditions.
+  - **Medical Treatment:** Blue light is used in phototherapy to treat neonatal jaundice and certain skin conditions.
 
 **7. Sustainable Agriculture (Vertical Farming)**
 
-- Blue light is essential for photosynthesis.
+  - Blue light is essential for photosynthesis.
 
-- **Indoor Farming:** By fine-tuning light "recipes" using Blue and Red LEDs, farmers can grow food indoors in urban environments without pesticides, using 90% less water
+  - **Indoor Farming:** By fine-tuning light "recipes" using Blue and Red LEDs, farmers can grow food indoors in urban environments without pesticides, using 90% less water
 
 **8. Enhanced Communication and Connectivity**
 
-- **Optical Storage:** The development of the blue laser led to **Blu-ray** technology, allowing for much higher data storage densities than earlier red-laser CDs or DVDs.
+  - **Optical Storage:** The development of the blue laser led to **Blu-ray** technology, allowing for much higher data storage densities than earlier red-laser CDs or DVDs.
 
-- **Li-Fi:** Current research is using Blue LEDs for **Light Fidelity (Li-Fi),** a high-speed wireless communication technology that transmits data through light pulses.
+  - **Li-Fi:** Current research is using Blue LEDs for **Light Fidelity (Li-Fi),** a high-speed wireless communication technology that transmits data through light pulses.
 
 **Government initiatives promoting LEDs**
 
@@ -20167,7 +20167,7 @@ Researchers are exploring other applications of LEDs as well like in transmittin
 1. Explanation_PWOnlyIAS:
 Source Question: The Nobel Prize in Physics of 2014 was jointly awarded to Akasaki, Amano and Nakamura for the invention of Blue LEDs in 1990s. How has this invention impacted the everyday life of human beings?
 
-| **Approach:** <br> **Introduction** <br>• Start by acknowledging the 2014 Nobel Prize in Physics that was awarded to the inventors of Blue LEDs. <br> **Body** <br>• Discuss the specific areas where Blue LEDs have made significant impacts: <br>• Energy Efficiency and Cost Savings <br>• Catalyst for Digital Revolution <br>• Medical Applications and Healthcare <br>• Innovations in Agriculture <br>• Environmental Sustainability ● **Conclusion:** Conclude, emphasizing the transformative power of scientific advancements, as exemplified by the invention of Blue LEDs, on societal development. |
+| **Approach:** <br> **Introduction** <br>• Start by acknowledging the 2014 Nobel Prize in Physics that was awarded to the inventors of Blue LEDs. <br> **Body** <br>• Discuss the specific areas where Blue LEDs have made significant impacts: <br>• Energy Efficiency and Cost Savings <br>• Catalyst for Digital Revolution <br>• Medical Applications and Healthcare <br>• Innovations in Agriculture <br>• Environmental Sustainability ● **Conclusion** Conclude, emphasizing the transformative power of scientific advancements, as exemplified by the invention of Blue LEDs, on societal development. |
 | --- |
 
 ### Introduction
@@ -21268,15 +21268,15 @@ Source Question: What are asteroids? How real is the threat of them causing exti
 
 **2. Probability Assessment**
 
-- **Extinction-level asteroids (>10 km)** are **extremely rare**
+  - **Extinction-level asteroids (>10 km)** are **extremely rare**
 
-- **City or regional-scale impacts (50-300 m)** are **more frequent** and pose serious human and economic risks.
+  - **City or regional-scale impacts (50-300 m)** are **more frequent** and pose serious human and economic risks.
 
 **3. Current Scientific Consensus**
 
-- **Low probability, high impact risk.**
+  - **Low probability, high impact risk.**
 
-- No known large asteroid is on a **confirmed collision course** with Earth in the foreseeable future.
+  - No known large asteroid is on a **confirmed collision course** with Earth in the foreseeable future.
 
   - **No global policy framework or convention** to prevent asteroid impact **Strategies Developed to Prevent or Mitigate Asteroid Impact**
 
@@ -22356,27 +22356,27 @@ Source Question: How can India achieve energy independence through clean technol
 
 **3. Energy storage and grid modernisation**
 
-- Strengthen **Battery Energy Storage Systems (BESS)** and **pumped hydro storage.**
+  - Strengthen **Battery Energy Storage Systems (BESS)** and **pumped hydro storage.**
 
-- Create **smart grids, microgrids and AI-based demand management.**
+  - Create **smart grids, microgrids and AI-based demand management.**
 
 **4. Electric mobility transition**
 
-- Electrify **public transport, freight.** Eg- **PM e-Bus Sewa**
+  - Electrify **public transport, freight.** Eg- **PM e-Bus Sewa**
 
-- Promote **EV manufacturing + battery ecosystem** under **PLI and PM-eDrive.**
+  - Promote **EV manufacturing + battery ecosystem** under **PLI and PM-eDrive.**
 
 **5. Make in India and supply Chain resilience**
 
-- Strengthen **domestic solar, battery and electrolyser manufacturing.**
+  - Strengthen **domestic solar, battery and electrolyser manufacturing.**
 
-- Secure supply chains through **National Critical Mineral Mission.** Eg- **lithium supply from Argentina**
+  - Secure supply chains through **National Critical Mineral Mission.** Eg- **lithium supply from Argentina**
 
 **6. Energy efficiency & circular economy**
 
-- Expand **PAT scheme**
+  - Expand **PAT scheme**
 
-- Promote **circular economy** in energy storage, e-waste and batteries.
+  - Promote **circular economy** in energy storage, e-waste and batteries.
 
 **Role of Biotechnology**
 
@@ -22401,7 +22401,7 @@ Source Question: How can India achieve energy independence through clean technol
 1. Explanation_Drishti IAS:
 Source Question: How can India achieve energy independence through clean technology by 2047? How can biotechnology can play a crucial role in this endeavour? (Answer in 150 words)
 
-| **Approach:** <br>• **Introduction:** Explain what is energy independence and what approach is needed to achieve it including Biotechnology. <br>• **Body:** Give Pathways to energy independence through clean technology and role of biotechnology. <br>• **Conclusion:** Mention the prospects of adoption of clean energy. |
+| **Approach:** <br>• **Introduction:** Explain what is energy independence and what approach is needed to achieve it including Biotechnology. <br>• **Body:** Give Pathways to energy independence through clean technology and role of biotechnology. <br>• **Conclusion** Mention the prospects of adoption of clean energy. |
 | --- |
 
 ### Introduction
@@ -23453,7 +23453,7 @@ Q156. In a globalized world, Intellectual Property Rights assume significance an
 1. Explanation_PWOnlyIAS:
 Source Question: In a globalized world, Intellectual Property Rights assume significance and are a source of litigation. Broadly distinguish between the terms—Copyrights, Patents and Trade Secrets. (200 words, 12.5 marks)
 
-| **Approach:** <br> **Introduction** <br>• The introduction would provide a concise overview of the significance of Intellectual Property Rights (IPRs) in the context of globalization, innovation, and economic growth. <br> **Body** <br>• The body of the answer would be divided into three main sections: <br>• **Copyrights:** This section would provide a brief explanation of copyrights, emphasizing their role in protecting artistic and literary works. <br>• **Patents:** Focus on patents and their role in safeguarding inventions and innovative processes. <br>• **Trade Secrets:** Outline the concept of trade secrets, emphasizing their value as confidential and valuable information. ● <br> **Conclusion:** The <br> conclusion would recap the importance of Intellectual Property Rights (IPRs) in fostering innovation, creativity, and economic growth in the era of globalization. |
+| **Approach:** <br> **Introduction** <br>• The introduction would provide a concise overview of the significance of Intellectual Property Rights (IPRs) in the context of globalization, innovation, and economic growth. <br> **Body** <br>• The body of the answer would be divided into three main sections: <br>• **Copyrights:** This section would provide a brief explanation of copyrights, emphasizing their role in protecting artistic and literary works. <br>• **Patents:** Focus on patents and their role in safeguarding inventions and innovative processes. <br>• **Trade Secrets:** Outline the concept of trade secrets, emphasizing their value as confidential and valuable information. ● <br> **Conclusion** The <br> conclusion would recap the importance of Intellectual Property Rights (IPRs) in fostering innovation, creativity, and economic growth in the era of globalization. |
 | --- |
 
 ### Introduction
@@ -23529,7 +23529,7 @@ Q157. Bringing out the circumstances in 2005 which forced amendment to the secti
 1. Explanation_PWOnlyIAS:
 Source Question: Bring out the circumstances in 2005 which forced amendment to section 3(d) in the Indian Patent Law, 1970. Discuss how it has been utilized by Supreme court in its judgment rejecting Novartis patent application for “Glivec“. Discuss briefly the pros and cons of the decision.
 
-| **Approach:** <br> **Introduction** Begin with a brief description of the 2005 amendment to Section 3(d) of the Indian Patent Law, 1970. <br> **Body** <br>• Mention the two key factors leading to the amendment. <br>• Discuss the Supreme Court’s application of Section 3(d) in denying a patent to Novartis for its drug Glivec. <br>• Outline the main advantages and disadvantages of the decision. <br>• Provide real-life examples too. ● **Conclusion:** Conclude with a summary statement emphasizing the importance of the amendment to Section 3(d) in balancing innovation and public health, and its significance as a standard for developing nations. |
+| **Approach:** <br> **Introduction** Begin with a brief description of the 2005 amendment to Section 3(d) of the Indian Patent Law, 1970. <br> **Body** <br>• Mention the two key factors leading to the amendment. <br>• Discuss the Supreme Court’s application of Section 3(d) in denying a patent to Novartis for its drug Glivec. <br>• Outline the main advantages and disadvantages of the decision. <br>• Provide real-life examples too. ● **Conclusion** Conclude with a summary statement emphasizing the importance of the amendment to Section 3(d) in balancing innovation and public health, and its significance as a standard for developing nations. |
 | --- |
 
 ### Introduction
@@ -23706,7 +23706,7 @@ Nanotechnology refers to the **science and application of materials at the nanos
 1. Explanation_Drishti IAS:
 Source Question: How does nanotechnology offer significant advancements in the field of agriculture? How can this technology help to uplift the socio-economic status of farmers? (Answer in 250 words)
 
-| **Approach:** <br>• **Introduction:** Explain about Nanotechnology. <br>• **Body:** Write about its contribution in agriculture and it has provided socio- economic benefits to farmers. <br>• **Conclusion:** Write its benefits in future. |
+| **Approach:** <br>• **Introduction:** Explain about Nanotechnology. <br>• **Body:** Write about its contribution in agriculture and it has provided socio- economic benefits to farmers. <br>• **Conclusion** Write its benefits in future. |
 | --- |
 
 ### Introduction
@@ -23990,35 +23990,35 @@ EVs accounted for **7.5%** of India's total vehicle sales in 2024.
 
 **1. Environmental Benefits**
 
-- Reduction in **urban smog and air pollution**
+  - Reduction in **urban smog and air pollution**
 
-- Helps achieve **climate and SDG targets (SDG 13 & SDG 11)**
+  - Helps achieve **climate and SDG targets (SDG 13 & SDG 11)**
 
 **2. Economic Benefits**
 
-- **Lower running and maintenance costs**
+  - **Lower running and maintenance costs**
 
-- Reduces **oil import bill** and saves **foreign exchange**
+  - Reduces **oil import bill** and saves **foreign exchange**
 
-- Generates **green jobs** in **battery, EV, and charging sectors**
+  - Generates **green jobs** in **battery, EV, and charging sectors**
 
 **3. Energy Security Benefits**
 
-- Cuts dependence on **imported crude oil**
+  - Cuts dependence on **imported crude oil**
 
-- Promotes use of **domestic renewable energy**
+  - Promotes use of **domestic renewable energy**
 
 **4. Public Health Benefits**
 
-- Decline in **respiratory and cardiovascular diseases**
+  - Decline in **respiratory and cardiovascular diseases**
 
-- Improved **urban air quality**
+  - Improved **urban air quality**
 
 **5. Technological Benefits**
 
-- Boosts **battery innovation, smart grids and V2G technologies**
+  - Boosts **battery innovation, smart grids and V2G technologies**
 
-- Strengthens **Make in India and PLI manufacturing ecosystem**
+  - Strengthens **Make in India and PLI manufacturing ecosystem**
 
 **6. Urban & Social Benefits- Eg- Less noise pollution Challenges**
 
@@ -24734,11 +24734,11 @@ Eg- **Mysore Iron & Steel Works.**
 
 **6. Institutional Building**
 
-- **ICAR modernisation** - Director-General from 1972 to 1979.
+  - **ICAR modernisation** - Director-General from 1972 to 1979.
 
-- Setting up **MS Swaminathan Research Foundation (MSSRF)**
+  - Setting up **MS Swaminathan Research Foundation (MSSRF)**
 
-- Promoting **biotechnology.** Eg- research on cryogenetics in potato crops.
+  - Promoting **biotechnology.** Eg- research on cryogenetics in potato crops.
 
 Together, they shaped India’s progress in **water management, agriculture, and national development.**
 
@@ -25108,7 +25108,7 @@ India was one of the first countries to announce a national fusion programme at 
 1. Explanation_Drishti IAS:
 Source Question: The fusion energy programme in India has steadily evolved over the past few decades. Mention India's contributions to the international fusion energy project International Thermonuclear Experimental Reactor (ITER). What will be the implications of the success of this project for the future of global energy? (Answer in 150 words)
 
-| **Approach:** <br>• **Introduction:** Introduce the ITER project, its significance in nuclear fusion research, and India’s involvement. <br>• **Body:** Discuss India’s major contributions to ITER and implications of the project on future global energy. <br>• **Conclusion:** Include the impact of the project in future. |
+| **Approach:** <br>• **Introduction:** Introduce the ITER project, its significance in nuclear fusion research, and India’s involvement. <br>• **Body:** Discuss India’s major contributions to ITER and implications of the project on future global energy. <br>• **Conclusion** Include the impact of the project in future. |
 | --- |
 
 The International Thermonuclear Experimental Reactor (ITER) is an international nuclear fusion research project aimed at demonstrating the feasibility of nuclear fusion as a large-scale and carbon-free source of energy. It’s being constructed in Saint-Paul-lez-Durance, France, and it involves the collaboration of seven member entities: the European Union, China, India, Japan, Russia, South Korea, and the United States.
@@ -26249,9 +26249,9 @@ The **26th Conference of the Parties (COP-26)** to the UNFCCC, held in **Glasgow
 
 **2. Accelerating Climate Action**
 
-- Countries acknowledged this as a **critical decade,** requiring **45% CO₂ reduction by 2030** to reach net-zero by mid-century.
+  - Countries acknowledged this as a **critical decade,** requiring **45% CO₂ reduction by 2030** to reach net-zero by mid-century.
 
-- They agreed to **submit stronger NDCs by 2022,** and an **annual NDC synthesis report.**
+  - They agreed to **submit stronger NDCs by 2022,** and an **annual NDC synthesis report.**
 
 **3.** For the **first time,** parties agreed to **phase down unabated coal** and **phase out inefficient fossil-fuel subsidies,** though language was weakened from “phase-out” to “phase-down.”
 
@@ -26265,11 +26265,11 @@ The **26th Conference of the Parties (COP-26)** to the UNFCCC, held in **Glasgow
 
 **8. Major Side Deals & Announcements**
 
-- **Forests:** 137 countries committed to halt and reverse deforestation by 2030.
+  - **Forests:** 137 countries committed to halt and reverse deforestation by 2030.
 
-- 103 countries joined the **Global Methane Pledge** to cut emissions by **30% by 2030.**
+  - 103 countries joined the **Global Methane Pledge** to cut emissions by **30% by 2030.**
 
-- **Zero-Emission Vehicles:** Over 30 countries and major automakers committed to new zero-emission vehicle sales by **2035/2040.**
+  - **Zero-Emission Vehicles:** Over 30 countries and major automakers committed to new zero-emission vehicle sales by **2035/2040.**
 
 **India’s Commitments at COP-26**
 
@@ -26518,7 +26518,7 @@ The Green Grid initiative is a transformational new programme, with the goal of 
 1. Explanation_PWOnlyIAS:
 Source Question: Explain the purpose of the Green Grid Initiative launched at the World Leader Summit of the COP26 UN Climate change conference in Glasgow in November, 2021. When was this idea first floated in the International Solar Alliance [ISA]?
 
-| **Approach:** <br>• **Introduction:** Start your answer with Uniting Global electricity Networks for Sustainability. <br>• **Body:** Explain the purpose of the Green Grid Initiative and its reference and connetion to ISA. <br>• **Conclusion:** Conclude your answer with uniting Nations for renewable energy solution. |
+| **Approach:** <br>• **Introduction:** Start your answer with Uniting Global electricity Networks for Sustainability. <br>• **Body:** Explain the purpose of the Green Grid Initiative and its reference and connetion to ISA. <br>• **Conclusion** Conclude your answer with uniting Nations for renewable energy solution. |
 | --- |
 
 ### Introduction
@@ -26644,9 +26644,9 @@ The mantra of **LIFE- Lifestyle for Environment** as a mass movement for Environ
 
 **1. Overdependence on Fossil Fuels**
 
-- **Fossil fuels still account for ~73%** of electricity generation (CEA, 2023).
+  - **Fossil fuels still account for ~73%** of electricity generation (CEA, 2023).
 
-- Fossil fuel subsidies are **8x higher** than renewable subsidies
+  - Fossil fuel subsidies are **8x higher** than renewable subsidies
 
 **2. Shortfall in Carbon Sink -** Forest and tree cover 25.1% (SoFR 2023), short of the **33% goal**
 
@@ -26668,9 +26668,9 @@ The mantra of **LIFE- Lifestyle for Environment** as a mass movement for Environ
 
 **5. Climate-Resilient Agriculture**
 
-- Scale up **organic** through **Paramparagat Krishi Vikas Yojana (PKVY).**
+  - Scale up **organic** through **Paramparagat Krishi Vikas Yojana (PKVY).**
 
-- Develop **agroforestry** to improve soil health, reduce emissions.
+  - Develop **agroforestry** to improve soil health, reduce emissions.
 
 **6. Expanding Electric Mobility Ecosystem -** Strengthen **charging infrastructure** across highways and cities (EV-charging at petrol pumps/dhabas).
 
@@ -26679,7 +26679,7 @@ With climate risks threatening a staggering 24.7 % GDP loss by 2070, resilient d
 1. Explanation_Drishti IAS:
 Source Question: Write a review on India's climate commitments under the Paris Agreement (2015) and mention how these have been further strengthened in COP26 (2021). In this direction, how has the first Nationally Determined Contribution intended by India been updated in 2022? (Answer in 250 words)
 
-| **Approach** <br>• **Introduction:** Briefly explain India’s climate commitments and their alignment with its developmental priorities. <br>• **Body:** Discuss the Paris Agreement, COP26 (2021), and updates in India’s Nationally Determined Contributions (NDC) in 2022. <br>• **Conclusion:** Highlight India's leadership in climate action and its progressive approach towards sustainable development. |
+| **Approach** <br>• **Introduction:** Briefly explain India’s climate commitments and their alignment with its developmental priorities. <br>• **Body:** Discuss the Paris Agreement, COP26 (2021), and updates in India’s Nationally Determined Contributions (NDC) in 2022. <br>• **Conclusion** Highlight India's leadership in climate action and its progressive approach towards sustainable development. |
 | --- |
 
 ### Introduction
@@ -26997,7 +26997,7 @@ Sikkim became India’s first ‘organic state’ by implementing organic practi
 1. Explanation_PWOnlyIAS:
 Source Question: Sikkim is the first ‘Organic State’ in India. What are the ecological and economic benefits of Organic State?
 
-| **Approach:** <br>• **Introduction:** Brief about India’s organic state set new environmental and economic standards. <br>• **Body:** Discuss about the Economic and environmental benefits of Organic State. <br>• **Conclusion:** Conclude your answer with a futuristic Approach. |
+| **Approach:** <br>• **Introduction:** Brief about India’s organic state set new environmental and economic standards. <br>• **Body:** Discuss about the Economic and environmental benefits of Organic State. <br>• **Conclusion** Conclude your answer with a futuristic Approach. |
 | --- |
 
 ### Introduction
@@ -27167,7 +27167,7 @@ Biodiversity is defined as the variability among living organisms. Biogeographic
 1. Explanation_PWOnlyIAS:
 Source Question: How does biodiversity vary in India? How is the Biological Diversity Act,2002 helpful in conservation of flora and fauna?
 
-| **Approach:** <br>• **Introduction:** Brief about India’s mega diversity nation. <br>• **Body:** Discuss about the Biodiversity variation in India and the importance of conservation. <br>• **Conclusion:** Conclude your answer with a futuristic Approach. |
+| **Approach:** <br>• **Introduction:** Brief about India’s mega diversity nation. <br>• **Body:** Discuss about the Biodiversity variation in India and the importance of conservation. <br>• **Conclusion** Conclude your answer with a futuristic Approach. |
 | --- |
 
 ### Introduction
@@ -27465,7 +27465,7 @@ The new notification is being brought in order to make the process more transpar
 1. Explanation_PWOnlyIAS:
 Source Question: How does the draft Environment Impact Assessment [EIA] Notification,2020 Differ from the existing EIA Notification, 2006?
 
-| **Approach:** <br>• **Introduction:** Write about Draft EIA notification 2020 in brief. <br>• **Body:** State the differences between EIA Notification 2020 and 2006. <br>• **Conclusion:** Conclude your answer with concerns over weakened safeguards and public engagement. |
+| **Approach:** <br>• **Introduction:** Write about Draft EIA notification 2020 in brief. <br>• **Body:** State the differences between EIA Notification 2020 and 2006. <br>• **Conclusion** Conclude your answer with concerns over weakened safeguards and public engagement. |
 | --- |
 
 ### Introduction
@@ -27537,7 +27537,7 @@ Q182. Environmental Impact Assessment studies are increasingly undertaken before
 1. Explanation_PWOnlyIAS:
 Source Question: Environmental Impact Assessment studies are increasingly undertaken before a project is cleared by the Government. Discuss the environmental impact of coal-fired thermal plants located at coal pitheads.
 
-| **Approach:** <br>• **Introduction:** Brief about EIA. <br>• **Body:** Discuss crucial role of EIA studies in assessing coal plant impacts. <br>• **Conclusion:** Conclude your answer significance of coal plant. |
+| **Approach:** <br>• **Introduction:** Brief about EIA. <br>• **Body:** Discuss crucial role of EIA studies in assessing coal plant impacts. <br>• **Conclusion** Conclude your answer significance of coal plant. |
 | --- |
 
 ### Introduction
@@ -27701,7 +27701,7 @@ The current ethos of ‘sustainable development’ is slanted towards preservati
 1. Explanation_PWOnlyIAS:
 Source Question: Define the concept of carrying capacity of an ecosystem as relevant to an environment. Explain how understanding this concept is vital while planning for sustainable development of a region.
 
-| **Approach:** <br>• **Introduction:** Brief about carrying capacity, balancing needs and ecosystem resilience. <br>• **Body:** Discuss the importance in Sustainable Development Planning. <br>• **Conclusion:** Conclude your answer with a futuristic approach. |
+| **Approach:** <br>• **Introduction:** Brief about carrying capacity, balancing needs and ecosystem resilience. <br>• **Body:** Discuss the importance in Sustainable Development Planning. <br>• **Conclusion** Conclude your answer with a futuristic approach. |
 | --- |
 
 ### Introduction
@@ -27792,7 +27792,7 @@ Send To My Bookmarks
 1. Explanation_PWOnlyIAS:
 Source Question: Rehabilitation of human settlements is one of the important environmental impacts which always attracts controversy while planning major projects. Discuss the measures suggested from mitigation of this impact while proposing major developmental projects.[200 Words, 12.5 Marks]
 
-| **Approach:** <br>• **Introduction**: Brief about prioritizing rehabilitation. <br>• **Body**: Principles for responsible project development and community engagement. <br>• **Conclusion**: Conclude your answer with a futuristic Approach. |
+| **Approach:** <br>• **Introduction**: Brief about prioritizing rehabilitation. <br>• **Body**: Principles for responsible project development and community engagement. <br>• **Conclusion** Conclude your answer with a futuristic Approach. |
 | --- |
 
 ### Introduction
@@ -28142,7 +28142,7 @@ India has 26 Ramsar Sites which are the Wetlands of International importance. Th
 1. Explanation_PWOnlyIAS:
 Source Question: Sikkim is the first ‘Organic State’ in India. What are the ecological and economic benefits of Organic State?
 
-| **Approach:** <br>• **Introduction:** Brief about India’s organic state set new environmental and economic standards. <br>• **Body:** Discuss about the Economic and environmental benefits of Organic State. <br>• **Conclusion:** Conclude your answer with a futuristic Approach. |
+| **Approach:** <br>• **Introduction:** Brief about India’s organic state set new environmental and economic standards. <br>• **Body:** Discuss about the Economic and environmental benefits of Organic State. <br>• **Conclusion** Conclude your answer with a futuristic Approach. |
 | --- |
 
 ### Introduction
@@ -28674,7 +28674,7 @@ NCAP is envisaged to be dynamic although the targets appear less ambitious. Howe
 1. Explanation_PWOnlyIAS:
 Source Question: What are the key features of the National Clean Air Programme [NCAP] initiated by the Government of India.
 
-| **Approach:** <br>• **Introduction:** Brief about The National Clean Air Programme. <br>• **Body:** State the key features of the National Clean Air Programme [NCAP] <br>• **Conclusion:** Conclude your answer with a futuristic approach. |
+| **Approach:** <br>• **Introduction:** Brief about The National Clean Air Programme. <br>• **Body:** State the key features of the National Clean Air Programme [NCAP] <br>• **Conclusion** Conclude your answer with a futuristic approach. |
 | --- |
 
 ### Introduction
@@ -28827,7 +28827,7 @@ Eg- **Sukinda Chromite Mines (Odisha).**
 1. Explanation_Drishti IAS:
 Source Question: Mineral resources are fundamental to the country's economy and these are exploited by mining. Why is mining considered an environmental hazard? Explain the remedial measures required to reduce the environmental hazard due to mining. (Answer in 250 words)
 
-| **Approach:** <br>• **Introduction:** Give Indian Bureau of Mines data relating to mining and mining positive and negative impact. <br>• **Body:** Give reasons mining is considered as an environmental hazard and remedial measures of mining. <br>• **Conclusion:** A way forward conclusion with adoption of sustainable practises. |
+| **Approach:** <br>• **Introduction:** Give Indian Bureau of Mines data relating to mining and mining positive and negative impact. <br>• **Body:** Give reasons mining is considered as an environmental hazard and remedial measures of mining. <br>• **Conclusion** A way forward conclusion with adoption of sustainable practises. |
 | --- |
 
 ### Introduction
@@ -29056,7 +29056,7 @@ Better spatial planning and reducing unnecessary construction, using green infra
 1. Explanation_PWOnlyIAS:
 Source Question: Coastal sand mining, whether legal or illegal, poses one of the biggest threats to our environment. Analyze the Impact of Sand Mining along the Indians coasts, citing specific examples.
 
-| **Approach:** <br>• **Introduction:** Brief about Indian coastal Mining. <br>• **Body:** Discuss about the Impact of Coastal Sand Mining along Indian Coasts. <br>• **Conclusion:** Conclude your answer with a futuristic approach. |
+| **Approach:** <br>• **Introduction:** Brief about Indian coastal Mining. <br>• **Body:** Discuss about the Impact of Coastal Sand Mining along Indian Coasts. <br>• **Conclusion** Conclude your answer with a futuristic approach. |
 | --- |
 
 ### Introduction
@@ -29250,7 +29250,7 @@ The river link project is not without its disadvantages. The environmental angle
 1. Explanation_PWOnlyIAS:
 Source Question: Not many years ago, river linking was a concept but it is becoming reality in the country. Discuss the advantages of river linking and its possible impact on the environment [150 Word10 Marks]
 
-| **Approach:** <br>• **Introduction:** Brief about River linking. <br>• **Body:** Discuss about the advantages of river linking and its possible impact on the environment. <br>• **Conclusion:** Conclude your answer sustainable Approach to river linking. |
+| **Approach:** <br>• **Introduction:** Brief about River linking. <br>• **Body:** Discuss about the advantages of river linking and its possible impact on the environment. <br>• **Conclusion** Conclude your answer sustainable Approach to river linking. |
 | --- |
 
 ### Introduction
@@ -29632,7 +29632,7 @@ Mitigating seawater intrusion is essential to **safeguard coastal aquifers** and
 1. Explanation_Drishti IAS:
 Source Question: Seawater intrusion in the coastal aquifers is a major concern in India. What are the causes of seawater intrusion and the remedial measures to combat this hazard? (150 words)
 
-| **Approach:** <br>• **Introduction:** Introduce the issue of seawater intrusion in coastal aquifers and its significance in India, highlighting its impact on freshwater resources. <br>• **Body:** Discuss the causes of seawater intrusion, including human activities (like groundwater over-extraction and urbanization), and natural factors (like rising sea levels and geological characteristics). Provide Remedial Measures to combat seawater intrusion. <br>• **Conclusion:** Emphasize the need for integrated approaches, including community awareness, monitoring, and policy enforcement, to prevent further damage and ensure sustainable use of groundwater. |
+| **Approach:** <br>• **Introduction:** Introduce the issue of seawater intrusion in coastal aquifers and its significance in India, highlighting its impact on freshwater resources. <br>• **Body:** Discuss the causes of seawater intrusion, including human activities (like groundwater over-extraction and urbanization), and natural factors (like rising sea levels and geological characteristics). Provide Remedial Measures to combat seawater intrusion. <br>• **Conclusion** Emphasize the need for integrated approaches, including community awareness, monitoring, and policy enforcement, to prevent further damage and ensure sustainable use of groundwater. |
 | --- |
 
 Seawater intrusion into coastal aquifers is a significant environmental concern in many parts of the world, including India. This phenomenon occurs when saltwater from the sea infiltrates freshwater aquifers, rendering the groundwater unfit for human consumption, irrigation, and other uses. In India, the impact of seawater intrusion on coastal aquifers is exacerbated by over-extraction of groundwater, climate change, and improper land and water management practices.
@@ -29843,7 +29843,7 @@ According to a **CSIR-NGRI study,** north India has been experiencing rapid grou
 1. Explanation_Drishti IAS:
 Source Question: Examine the factors responsible for depleting groundwater in India. What are the steps taken by the government to mitigate such depletion of groundwater? (Answer in 250 words)
 
-| **Approach** <br>• **Introduction:** Highlight the extent of groundwater depletion in India. <br>• **Body:** Give Factors Contributing to Groundwater Depletion and mention Government Measures to mitigate Groundwater Depletion. <br>• **Conclusion:** Summarise by giving suggestions and a way forward. |
+| **Approach** <br>• **Introduction:** Highlight the extent of groundwater depletion in India. <br>• **Body:** Give Factors Contributing to Groundwater Depletion and mention Government Measures to mitigate Groundwater Depletion. <br>• **Conclusion** Summarise by giving suggestions and a way forward. |
 | --- |
 
 ### Introduction
@@ -30378,15 +30378,15 @@ Source Question: What are the salient features of the Jal Shakti Abhiyan launche
 
 **2. Five Key Intervention Areas**
 
-- **Water Conservation & Rainwater Harvesting**
+  - **Water Conservation & Rainwater Harvesting**
 
-- **Renovation of Traditional & Existing Water Bodies**
+  - **Renovation of Traditional & Existing Water Bodies**
 
-- **Reuse & Recharge of Borewells/Watershed Structures**
+  - **Reuse & Recharge of Borewells/Watershed Structures**
 
-- **Watershed Development**
+  - **Watershed Development**
 
-- **Intensive Afforestation**
+  - **Intensive Afforestation**
 
 **3. Convergence of Multiple Departments -** Brings together Rural Development, Water Resources, Agriculture, Forest, Urban Development, Panchayati Raj under a unified water conservation plan.
 
@@ -30400,11 +30400,11 @@ Source Question: What are the salient features of the Jal Shakti Abhiyan launche
 
 **8. Urban Water Conservation Measures (JSA - 2021 onwards)**
 
-- Ensuring **mandatory Rainwater Harvesting (RWH)** as per Model Building By-Law (MBBL) 2016.
+  - Ensuring **mandatory Rainwater Harvesting (RWH)** as per Model Building By-Law (MBBL) 2016.
 
-- reuse of treated wastewater,
+  - reuse of treated wastewater,
 
-- Setting Up RWH Cells in Urban Local Bodies
+  - Setting Up RWH Cells in Urban Local Bodies
 
   - **“Catch the Rain - Where it Falls, When it Falls”** campaign Its **integrated approach** has strengthened water conservation practices and laid the groundwork for long-term water security.
 
@@ -30444,7 +30444,7 @@ Following the massive water crisis across India in the summer of 2019, the Centr
 1. Explanation_PWOnlyIAS:
 Source Question: What are salient features of the Jal Shakti Abhiyan launched by the Government of India for water conservation and water security?
 
-| **Approach:** <br>• **Introduction:** Brief about Jal Shakti Abhiyan. <br>• **Body:** Brief about the Salient features of the Jal Shakti Abhiyan. <br>• **Conclusion:** Conclude your answer with a futuristic approach. |
+| **Approach:** <br>• **Introduction:** Brief about Jal Shakti Abhiyan. <br>• **Body:** Brief about the Salient features of the Jal Shakti Abhiyan. <br>• **Conclusion** Conclude your answer with a futuristic approach. |
 | --- |
 
 ### Introduction
@@ -31092,13 +31092,13 @@ As per **UNDRR,** Disaster risk reduction is aimed at **preventing new and reduc
 
 ## **Sendai Framework, covering**
 
-- **Multi-hazard risk assessment,**
+  - **Multi-hazard risk assessment,**
 
-- **Prevention-mitigation strategies,**
+  - **Prevention-mitigation strategies,**
 
-- **Sector-wise responsibilities** (health, housing, power, transport, education),
+  - **Sector-wise responsibilities** (health, housing, power, transport, education),
 
-- **Monitoring indicators aligned with Sendai’s seven global targets.**
+  - **Monitoring indicators aligned with Sendai’s seven global targets.**
 
 **2. Multi-Hazard Early Warning System (MHEWS) -** integrates satellite, radar, and IoT data via the IMD's Decision Support System (DSS). Improves accuracy by 20-40%. Apps used are
 
@@ -31324,7 +31324,7 @@ Vulnerability assessment needs to be based on a systematization and conceptualiz
 1. Explanation_PWOnlyIAS:
 Source Question: What is the Cyber Dome Project? Explain how it can be useful in controlling internet crimes in India.
 
-| **Approach:** <br> **Introduction** <br>• Begin by acknowledging the increasing importance of cybersecurity in the digital age and introduce the Cyber Dome Project as Kerala Police’s innovative initiative to ensure a safer cyberspace. <br> **Body** <br>• Explain the concept of the Cyber Dome Project as a public-private partnership aimed at tackling cyber threats. <br>• Discuss the application of advanced technologies by the Cyber Dome Project. <br>• Highlight the role of the Cyber Dome Project in conducting public awareness programs. <br>• Discuss the importance of Cyber Dome in cyber forensics and its collaboration with social media platforms. <br> **Conclusion:** <br>• Conclude by appreciating the role of the Cyber Dome Project in creating a secure digital environment in India and emphasizing its potential as a model for other states to follow. |
+| **Approach:** <br> **Introduction** <br>• Begin by acknowledging the increasing importance of cybersecurity in the digital age and introduce the Cyber Dome Project as Kerala Police’s innovative initiative to ensure a safer cyberspace. <br> **Body** <br>• Explain the concept of the Cyber Dome Project as a public-private partnership aimed at tackling cyber threats. <br>• Discuss the application of advanced technologies by the Cyber Dome Project. <br>• Highlight the role of the Cyber Dome Project in conducting public awareness programs. <br>• Discuss the importance of Cyber Dome in cyber forensics and its collaboration with social media platforms. <br> **Conclusion** <br>• Conclude by appreciating the role of the Cyber Dome Project in creating a secure digital environment in India and emphasizing its potential as a model for other states to follow. |
 | --- |
 
 ### Introduction
@@ -31513,9 +31513,9 @@ IMD defines cloudburst as an extreme weather event involving **very high-intensi
 
 <p align="center"><img src="civilsdaily/images/civilsdaily_p115_img127.png" alt="Diagram" /></p>
 
-- Moist air masses are **forced to rise abruptly** when they encounter **steep mountain slopes.**
+  - Moist air masses are **forced to rise abruptly** when they encounter **steep mountain slopes.**
 
-- Rapid ascent causes **condensation and release of latent heat,** intensifying convection.
+  - Rapid ascent causes **condensation and release of latent heat,** intensifying convection.
 
 **2. Strong Convective Clouds (Cumulonimbus)** up to **12-15 km.**
 
@@ -31835,11 +31835,11 @@ Source Question: Dam failures are always catastrophic, especially on the downstr
 
 **2. Banqiao Dam Failure, China (1975)**
 
-- **Extreme rainfall** from Typhoon Nina
+  - **Extreme rainfall** from Typhoon Nina
 
-- **Cascade failure** of multiple dams due to poor design
+  - **Cascade failure** of multiple dams due to poor design
 
-- Estimated **1,70,000 deaths** (direct and indirect) **Initiatives Taken for Dam Safety in India**
+  - Estimated **1,70,000 deaths** (direct and indirect) **Initiatives Taken for Dam Safety in India**
 
 **1. Dam Safety Act, 2021 - Statutory framework** for surveillance, inspection, operation, and maintenance of dams.
 
@@ -32098,9 +32098,9 @@ India is among the **most earthquake-prone countries in the world,** with nearly
 
 **2. Wide Seismic Zonation**
 
-- **Zone V (Very High Risk)** - Himalayan states, Kutch, Andaman & Nicobar.
+  - **Zone V (Very High Risk)** - Himalayan states, Kutch, Andaman & Nicobar.
 
-- **Zone IV** - Delhi, Bihar, parts of J&K and NE India.
+  - **Zone IV** - Delhi, Bihar, parts of J&K and NE India.
 
 **3.** Major cities such as **Delhi, Guwahati, Srinagar, Imphal** lie in high-risk zones.
 
@@ -32116,37 +32116,37 @@ India is among the **most earthquake-prone countries in the world,** with nearly
 
 **1. Latur Earthquake, Maharashtra (1993)**
 
-- **Magnitude** - ~6.3
+  - **Magnitude** - ~6.3
 
-- **Intraplate earthquake** caused by reactivation of **ancient fault lines** in the Deccan Plateau
+  - **Intraplate earthquake** caused by reactivation of **ancient fault lines** in the Deccan Plateau
 
-- Over **9,000 deaths.**
+  - Over **9,000 deaths.**
 
 **2. Bhuj Earthquake, Gujarat (2001)**
 
-- **Magnitude** - 7.7
+  - **Magnitude** - 7.7
 
-- **Intraplate fault movement** due to stress transmitted from the **Indian Plate-Eurasian Plate collision**
+  - **Intraplate fault movement** due to stress transmitted from the **Indian Plate-Eurasian Plate collision**
 
-- Around **13,800 deaths** and massive infrastructure loss.
+  - Around **13,800 deaths** and massive infrastructure loss.
 
 **3. Kashmir Earthquake (2005)**
 
-- **Magnitude** - 7.6
+  - **Magnitude** - 7.6
 
-- **Thrust faulting** due to ongoing **collision of the Indian Plate with the Eurasian Plate**
+  - **Thrust faulting** due to ongoing **collision of the Indian Plate with the Eurasian Plate**
 
-- Extensive **landslides** and isolation of remote villages.
+  - Extensive **landslides** and isolation of remote villages.
 
 **4. Sikkim Earthquake (2011)**
 
-- **Magnitude** - 6.9
+  - **Magnitude** - 6.9
 
-- Active tectonics of the Himalayan collision zone
+  - Active tectonics of the Himalayan collision zone
 
-- Triggered widespread **landslides.**
+  - Triggered widespread **landslides.**
 
-- Damage to **roads, bridges, and hydropower projects.**
+  - Damage to **roads, bridges, and hydropower projects.**
 
 Hazard zonation mapping, disaster resilient infrastructure and institutional strengthening for quick response and recovery is essential to achieve **Sendai targets** on disaster risk reduction.
 
@@ -33004,7 +33004,7 @@ With the alarming rise in climate change threats, rising sea level is a certain 
 1. Explanation_PWOnlyIAS:
 Source Question: Explain the causes and effects of coastal erosion in India. What are the available coastal management techniques for combating the hazard?
 
-| **Approach:** <br> **Introduction**: <br>• Start your answer by writing about coastal erosion in brief. <br> **Body** <br>• Discuss the Causes and Effects of Coastal Erosion. <br>• Then elaborate the Coastal Management Techniques. <br> **Conclusion**: <br>• Summary of the answer with urgent measures needed. |
+| **Approach:** <br> **Introduction**: <br>• Start your answer by writing about coastal erosion in brief. <br> **Body** <br>• Discuss the Causes and Effects of Coastal Erosion. <br>• Then elaborate the Coastal Management Techniques. <br> **Conclusion** <br>• Summary of the answer with urgent measures needed. |
 | --- |
 
 ### Introduction
@@ -33318,13 +33318,13 @@ Recently, heavy pre-monsoon thundershowers in Bengaluru led to severe Floods. Un
 
   - **Key Features**
 
-- Complete failure of **stormwater drainage system.**
+  - Complete failure of **stormwater drainage system.**
 
-- Severe flooding along the **Mithi River floodplain** due to encroachment.
+  - Severe flooding along the **Mithi River floodplain** due to encroachment.
 
-- Massive disruption of **transport, power supply, and economic activity.**
+  - Massive disruption of **transport, power supply, and economic activity.**
 
-- Exposed vulnerability of **coastal megacities** to extreme rainfall.
+  - Exposed vulnerability of **coastal megacities** to extreme rainfall.
 
 **2. Chennai Floods - 2015**
 
@@ -33332,11 +33332,11 @@ Recently, heavy pre-monsoon thundershowers in Bengaluru led to severe Floods. Un
 
   - **Key Features**
 
-- Encroachment of **wetlands like Pallikaranai marsh.**
+  - Encroachment of **wetlands like Pallikaranai marsh.**
 
-- Poor coordination in **reservoir water release** aggravated flooding.
+  - Poor coordination in **reservoir water release** aggravated flooding.
 
-- Prolonged waterlogging in residential and industrial zones.
+  - Prolonged waterlogging in residential and industrial zones.
 
 **Policies and Frameworks in India to Tackle Urban Flooding**
 
@@ -35503,7 +35503,7 @@ Maritime security is the **"silent guardian"** of India’s economic prosperity.
 1. Explanation_Drishti IAS:
 Source Question: Why is maritime security vital to protect India's sea trade? Discuss maritime and coastal security challenges and the way forward. (250 words)
 
-| **Approach:** <br>• **Introduction:** Define maritime security and its importance to India's sea trade and national interests. <br>• **Body:** Explain its importance for trade, energy, and regional influence; identify key challenges including geopolitical tensions, institutional gaps, and operational threats; suggest reforms in surveillance, coordination, and international cooperation. <br>• **Conclusion:** Reaffirm the role of maritime security in protecting India’s trade and ensuring regional leadership. |
+| **Approach:** <br>• **Introduction:** Define maritime security and its importance to India's sea trade and national interests. <br>• **Body:** Explain its importance for trade, energy, and regional influence; identify key challenges including geopolitical tensions, institutional gaps, and operational threats; suggest reforms in surveillance, coordination, and international cooperation. <br>• **Conclusion** Reaffirm the role of maritime security in protecting India’s trade and ensuring regional leadership. |
 | --- | **Answer:** Maritime security refers to the protection of a nation’s maritime interests, including sea trade routes, coastal regions, and port infrastructure, from threats like piracy, terrorism, and trafficking. For India, with a 7,500 km coastline and 90% of trade by volume via the sea, it is an economic and strategic lifeline. Ensuring maritime security is essential for energy access, regional leadership, and national resilience.
 
 ### Significance of Maritime Security for India’s Sea Trade
@@ -36252,7 +36252,7 @@ Some of the Important Strengths and Weakness of the Report:
 1. Explanation_PWOnlyIAS:
 Source Question: Sikkim is the first ‘Organic State’ in India. What are the ecological and economic benefits of Organic State?
 
-| **Approach:** <br>• **Introduction:** Brief about India’s organic state set new environmental and economic standards. <br>• **Body:** Discuss about the Economic and environmental benefits of Organic State. <br>• **Conclusion:** Conclude your answer with a futuristic Approach. |
+| **Approach:** <br>• **Introduction:** Brief about India’s organic state set new environmental and economic standards. <br>• **Body:** Discuss about the Economic and environmental benefits of Organic State. <br>• **Conclusion** Conclude your answer with a futuristic Approach. |
 | --- |
 
 ### Introduction
@@ -37125,7 +37125,7 @@ India has witnessed a 457% rise in cybercrime incidents under the Information Te
 1. Explanation_PWOnlyIAS:
 Source Question: What is the Cyber Dome Project? Explain how it can be useful in controlling internet crimes in India.
 
-| **Approach:** <br> **Introduction** <br>• Begin by acknowledging the increasing importance of cybersecurity in the digital age and introduce the Cyber Dome Project as Kerala Police’s innovative initiative to ensure a safer cyberspace. <br> **Body** <br>• Explain the concept of the Cyber Dome Project as a public-private partnership aimed at tackling cyber threats. <br>• Discuss the application of advanced technologies by the Cyber Dome Project. <br>• Highlight the role of the Cyber Dome Project in conducting public awareness programs. <br>• Discuss the importance of Cyber Dome in cyber forensics and its collaboration with social media platforms. <br> **Conclusion:** <br>• Conclude by appreciating the role of the Cyber Dome Project in creating a secure digital environment in India and emphasizing its potential as a model for other states to follow. |
+| **Approach:** <br> **Introduction** <br>• Begin by acknowledging the increasing importance of cybersecurity in the digital age and introduce the Cyber Dome Project as Kerala Police’s innovative initiative to ensure a safer cyberspace. <br> **Body** <br>• Explain the concept of the Cyber Dome Project as a public-private partnership aimed at tackling cyber threats. <br>• Discuss the application of advanced technologies by the Cyber Dome Project. <br>• Highlight the role of the Cyber Dome Project in conducting public awareness programs. <br>• Discuss the importance of Cyber Dome in cyber forensics and its collaboration with social media platforms. <br> **Conclusion** <br>• Conclude by appreciating the role of the Cyber Dome Project in creating a secure digital environment in India and emphasizing its potential as a model for other states to follow. |
 | --- |
 
 ### Introduction
@@ -38674,7 +38674,7 @@ LWE refers to violent insurgency driven by **Maoist or Naxalite ideologies,** wi
 1. Explanation_Drishti IAS:
 Source Question: The Government of India recently stated that Left Wing Extremism (LWE) will be eliminated by 2026. What do you understand by LWE and how are the people affected by it? What measures have been taken by the government to eliminate LWE? (Answer in 150 words)
 
-| **Approach** <br>• **Introduction:** Define Left-Wing Extremism (LWE) and mention briefly their origin. <br>• **Body:** Discuss the impact of LWE on people, explain the government measures to eliminate LWE and briefly mention the success and progress made. <br>• **Conclusion:** Summarise by emphasising the effectiveness of India’s SAMADHAN doctrine, and the need for continued governance and inclusive development. |
+| **Approach** <br>• **Introduction:** Define Left-Wing Extremism (LWE) and mention briefly their origin. <br>• **Body:** Discuss the impact of LWE on people, explain the government measures to eliminate LWE and briefly mention the success and progress made. <br>• **Conclusion** Summarise by emphasising the effectiveness of India’s SAMADHAN doctrine, and the need for continued governance and inclusive development. |
 | --- |
 
 ### Introduction
@@ -39523,7 +39523,7 @@ Eg- proximity to **Golden Traingle**
 1. Explanation_Drishti IAS:
 Source Question: What are the major challenges to internal security and peace process in the North-Eastern States? Map the various peace accords and agreements initiated by the government in the past decade. (Answer in 250 words)
 
-| **Approach:** <br>• **Introduction:** Write about the North-Eastern region state included in it. <br>• **Body:** Mention the major internal security challenges faced by the region and recent initiatives to maintain peace in the region. <br>• **Conclusion:** Conclude with a way forward approach for everlasting peace in the region. |
+| **Approach:** <br>• **Introduction:** Write about the North-Eastern region state included in it. <br>• **Body:** Mention the major internal security challenges faced by the region and recent initiatives to maintain peace in the region. <br>• **Conclusion** Conclude with a way forward approach for everlasting peace in the region. |
 | --- |
 
 ### Introduction
@@ -39817,43 +39817,43 @@ Source Question: Terrorism is a global scourge. How has it manifested in India? 
 
 **1. Legislative Measures**
 
-- **UAPA, 1967** - empowers State to designate individuals as terrorists.
+  - **UAPA, 1967** - empowers State to designate individuals as terrorists.
 
-- **NIA Act, 2008** - established National Investigation Agency with nationwide jurisdiction.
+  - **NIA Act, 2008** - established National Investigation Agency with nationwide jurisdiction.
 
-- **PMLA, 2002** - to curb money laundering and terror financing.
+  - **PMLA, 2002** - to curb money laundering and terror financing.
 
 **2. Institutional Mechanisms**
 
-- **National Security Council Secretariat** headed by the **NSA for inter-agency coordination**
+  - **National Security Council Secretariat** headed by the **NSA for inter-agency coordination**
 
-- **NATGRID** and **Multi-Agency Centre** for real-time intelligence sharing and coordination
+  - **NATGRID** and **Multi-Agency Centre** for real-time intelligence sharing and coordination
 
 **3. Operational Measures**
 
-- **Operation Sindoor, Surgical Strikes (2016)** and **Balakot airstrikes (2019)** as deterrence.
+  - **Operation Sindoor, Surgical Strikes (2016)** and **Balakot airstrikes (2019)** as deterrence.
 
-- **Operation All-Out** in J&K to neutralize militants.
+  - **Operation All-Out** in J&K to neutralize militants.
 
 **4. Border & Internal Security Measures**
 
-- **Fencing and electronic surveillance** along the Indo-Pak and Indo-Bangladesh borders.
+  - **Fencing and electronic surveillance** along the Indo-Pak and Indo-Bangladesh borders.
 
-- Use of **drones, radars, and thermal imaging** to detect infiltration.
+  - Use of **drones, radars, and thermal imaging** to detect infiltration.
 
 **5. Community Engagement**
 
-- **De-radicalisation programmes** in J&K.
+  - **De-radicalisation programmes** in J&K.
 
-- **Heart and mind strategy - Eg- Operation Sadbhavana** (Goodwill) of Indian Army
+  - **Heart and mind strategy - Eg- Operation Sadbhavana** (Goodwill) of Indian Army
 
-- **Employment and Skill Development to** mainstream youth. Eg- Udaan Scheme
+  - **Employment and Skill Development to** mainstream youth. Eg- Udaan Scheme
 
 **6. International Cooperation**
 
-- Active role in **FATF** to blacklist terror-financing states.
+  - Active role in **FATF** to blacklist terror-financing states.
 
-- **UN sanctions listing** of terrorists like Masood Azhar and Hafiz Saeed.
+  - **UN sanctions listing** of terrorists like Masood Azhar and Hafiz Saeed.
 
 The **zero tolerance against terrorism** strategy needs 4-pronged approach
 
@@ -39868,7 +39868,7 @@ The **zero tolerance against terrorism** strategy needs 4-pronged approach
 1. Explanation_Drishti IAS:
 Source Question: Terrorism is a global scourge. How has it manifested in India? Elaborate with contemporary examples. What are the counter measures adopted by the State? Explain. (150 words)
 
-| **Approach:** <br>• **Introduction:** Define terrorism, its global significance, and its impact on international peace, stability, and human security. <br>• **Body:** Discuss Manifestation of Terrorism in India, Give Contemporary Examples of Terrorism in India, highlight the effectiveness of India’s countermeasures. <br>• **Conclusion:** Emphasize the need for continuous adaptation to new threats. |
+| **Approach:** <br>• **Introduction:** Define terrorism, its global significance, and its impact on international peace, stability, and human security. <br>• **Body:** Discuss Manifestation of Terrorism in India, Give Contemporary Examples of Terrorism in India, highlight the effectiveness of India’s countermeasures. <br>• **Conclusion** Emphasize the need for continuous adaptation to new threats. |
 | --- |
 
 Under the Bharatiya Nyaya Samhita, "terrorism" is defined as any act committed with the intention to threaten the unity, integrity, and security of India, intimidate the public or a segment thereof, or disturb public order. Globally, it threatens peace, development, and human security, with organizations like ISIS, Al-Qaeda, and Boko Haram spreading fear, destabilizing states, and disrupting international trade and governance.
@@ -41100,7 +41100,7 @@ However, it should also be noted that India’s concerns regarding sovereignty a
 1. Explanation_PWOnlyIAS:
 Source Question: Sikkim is the first ‘Organic State’ in India. What are the ecological and economic benefits of Organic State?
 
-| **Approach:** <br>• **Introduction:** Brief about India’s organic state set new environmental and economic standards. <br>• **Body:** Discuss about the Economic and environmental benefits of Organic State. <br>• **Conclusion:** Conclude your answer with a futuristic Approach. |
+| **Approach:** <br>• **Introduction:** Brief about India’s organic state set new environmental and economic standards. <br>• **Body:** Discuss about the Economic and environmental benefits of Organic State. <br>• **Conclusion** Conclude your answer with a futuristic Approach. |
 | --- |
 
 ### Introduction

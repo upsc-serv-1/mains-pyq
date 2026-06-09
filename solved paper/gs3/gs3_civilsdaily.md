@@ -164,19 +164,19 @@ The post-2015 GDP methodology aims to provide a **more accurate, data-rich, and 
 
 **2. Periodic Labour Force Survey (PLFS) - NSO** measures unemployment through three indicators:
 
-- **Usual Status (US/PS+SS)** - Based on activity over **365 days**
+  - **Usual Status (US/PS+SS)** - Based on activity over **365 days**
 
-- **Current Weekly Status (CWS)** - If not worked for **1 hour in the last 7 days.**
+  - **Current Weekly Status (CWS)** - If not worked for **1 hour in the last 7 days.**
 
-- **Current Daily Status (CDS)** - Records activity for each day of last week - best for informal/underemployment.
+  - **Current Daily Status (CDS)** - Records activity for each day of last week - best for informal/underemployment.
 
 **3. Household Surveys -** Annual (rural + urban) and quarterly (urban) surveys.
 
 **4. Establishment Surveys**
 
-- **QES** for formal sector
+  - **QES** for formal sector
 
-- **ASI** for organised manufacturing
+  - **ASI** for organised manufacturing
 
 **5. Administrative Data - EPFO, ESIC, NPS** payrolls used to estimate formal job creation.
 
@@ -463,11 +463,11 @@ With **7% growth in 2025-26,** India is one of the **fastest-growing major econo
 
 **1. Manufacturing-led, technology-enabled growth**
 
-- Expand **labour-intensive manufacturing** such as **textiles, toys, leather, electronics assembly. Eg:**
+  - Expand **labour-intensive manufacturing** such as **textiles, toys, leather, electronics assembly. Eg:**
 
 **PLI schemes** for electronics, textiles.
 
-- Use **AI, robotics, lean production** to improve productivity while expanding scale.
+  - Use **AI, robotics, lean production** to improve productivity while expanding scale.
 
 **2. MSME upgradation -** Enable **cluster-based development,** digitalisation, easier credit. **Eg: MSME Champions Scheme, ONDC for market linkages**
 
@@ -754,17 +754,17 @@ India’s life expectancy has increased to **72.4 years (2025)** due to better h
 
 **2. Geriatric Health Issues**
 
-- Increase in **frailty, vision/hearing loss,** arthritis.
+  - Increase in **frailty, vision/hearing loss,** arthritis.
 
-- Growing burden of **neurodegenerative disorders** like Alzheimer’s and Parkinson’s.
+  - Growing burden of **neurodegenerative disorders** like Alzheimer’s and Parkinson’s.
 
 **3. Multi-morbidity -** Elderly increasingly suffer from **multiple chronic conditions,** requiring continuous care.
 
 **4. Mental Health Challenges**
 
-- Rising cases of **depression, loneliness, anxiety.**
+  - Rising cases of **depression, loneliness, anxiety.**
 
-- Lack of community-based mental health services.
+  - Lack of community-based mental health services.
 
 **5.** Treatment of chronic and age-related conditions increases **out-of-pocket expenditure.**
 
@@ -778,21 +778,21 @@ India’s life expectancy has increased to **72.4 years (2025)** due to better h
 
 **2. Community-Based Care**
 
-- Promote **home healthcare** and caregiver support services.
+  - Promote **home healthcare** and caregiver support services.
 
-- Incentivise **care economy** (eldercare workers, physiotherapists).
+  - Incentivise **care economy** (eldercare workers, physiotherapists).
 
 **3. National NCD Prevention Strategy**
 
-- Screen population for **hypertension, diabetes, cancers** through HWCs.
+  - Screen population for **hypertension, diabetes, cancers** through HWCs.
 
-- Promote lifestyle interventions: yoga, diet counselling, tobacco control.
+  - Promote lifestyle interventions: yoga, diet counselling, tobacco control.
 
 **4. Strengthen Mental Health Services**
 
-- Expand **Tele-MANAS,** district mental health programmes.
+  - Expand **Tele-MANAS,** district mental health programmes.
 
-- Senior citizen counselling and social engagement platforms.
+  - Senior citizen counselling and social engagement platforms.
 
 **5. Social Protection -** Expand **pension coverage** by strengthening PM-SYM.
 
@@ -863,9 +863,9 @@ Since the **1991 reforms,** India shifted to a market-oriented growth model. Pub
 
 **3. Poor Learning Outcomes**
 
-- **50% of Class 5 students** cannot read Class 2 text (ASER).
+  - **50% of Class 5 students** cannot read Class 2 text (ASER).
 
-- **50% of graduates are employable** only (India Skills Report).
+  - **50% of graduates are employable** only (India Skills Report).
 
 **4. Low Public Health Spending -** Still around **1.9% of GDP,** below the global average of 6%.
 
@@ -1150,9 +1150,9 @@ The GST, implemented on **1 July 2017,** unified India’s fragmented indirect t
 
 **3. Borrowing Controversy**
 
-- The Centre asked states to borrow via RBI under two options.**
+  - The Centre asked states to borrow via RBI under two options.**
 
-- Many states (Kerala, Punjab, Chhattisgarh) argued that the borrowing burden should lie with the Centre, not states.**
+  - Many states (Kerala, Punjab, Chhattisgarh) argued that the borrowing burden should lie with the Centre, not states.**
 
 **4. Breakdown of Consensus in GST Council -** For the first time since 2017, the Council saw **voting instead of consensus.** States alleged weakening of **cooperative federalism.**
 
@@ -1350,17 +1350,17 @@ MSME sector contributes “nearly one-third to India’s GDP” and is a “key 
 
 **3. Infrastructure Deficiencies -**
 
-- Multimodal connectivity gaps.
+  - Multimodal connectivity gaps.
 
-- **Power outages,** weak water supply, and poor transport networks.
+  - **Power outages,** weak water supply, and poor transport networks.
 
 **4. Regulatory & Policy Bottlenecks**
 
-- **Land acquisition delays**
+  - **Land acquisition delays**
 
-- Manufacturing MSMEs face **1,450+ compliances** annually
+  - Manufacturing MSMEs face **1,450+ compliances** annually
 
-- High compliance cost **₹13-17 lakh/year** per MSME
+  - High compliance cost **₹13-17 lakh/year** per MSME
 
   - **Limited Access to Finance (only 14% out of 64 million)** Recommendations of **UK Sinha Committee** must be implemented to make India the global manufacturing hub
 
@@ -1484,11 +1484,11 @@ The Central Government consolidated **29 existing central labour laws** into fou
 
 **6. Rising Costs for Businesses**
 
-- Gratuity obligations**
+  - Gratuity obligations**
 
-- PF contributions**
+  - PF contributions**
 
-- Maternity benefits (26 weeks paid leave + crèche facilities) Progress So Far**
+  - Maternity benefits (26 weeks paid leave + crèche facilities) Progress So Far**
 
   - All four codes are **legally enacted** between 2019-20.
 
@@ -2154,13 +2154,13 @@ India’s Public Distribution System is the **world’s largest food transfer pr
 
 **2. End-to-End Digitalisation of PDS**
 
-- All 20.4 Cr household ration cards digitised
+  - All 20.4 Cr household ration cards digitised
 
-- **Aadhaar seeding** - **over 47 million bogus ration cards removed (2013-21).**
+  - **Aadhaar seeding** - **over 47 million bogus ration cards removed (2013-21).**
 
-- Implementation of Warehouse Inventory Network and Governing System (WINGS) application to automate tagging of mills
+  - Implementation of Warehouse Inventory Network and Governing System (WINGS) application to automate tagging of mills
 
-- 5.33 lakh **e-PoS devices installed in all Fair Price Shops.**
+  - 5.33 lakh **e-PoS devices installed in all Fair Price Shops.**
 
 **3. One Nation One Ration Card (ONORC) -** Ensures **nationwide portability of PDS benefits.**
 
@@ -2168,9 +2168,9 @@ India’s Public Distribution System is the **world’s largest food transfer pr
 
 **5. Strengthening Storage & Supply Chain**
 
-- GPS-based tracking of trucks. Eg- Chhatisgarh
+  - GPS-based tracking of trucks. Eg- Chhatisgarh
 
-- Expansion of warehouses under **PEG Scheme (Private Entrepreneurs Guarantee).**
+  - Expansion of warehouses under **PEG Scheme (Private Entrepreneurs Guarantee).**
 
 **6. Direct Benefit Transfer (DBT)** in **Chandigarh, Puducherry, Dadra & Nagar Haveli.**
 
@@ -2178,9 +2178,9 @@ India’s Public Distribution System is the **world’s largest food transfer pr
 
 **8. Nutritional Improvements in PDS**
 
-- Introduction of **fortified rice** under NFSA, ICDS and PM-POSHAN.
+  - Introduction of **fortified rice** under NFSA, ICDS and PM-POSHAN.
 
-- Some states (Tamil Nadu, Odisha) supply **pulses, millets, oil and eggs** through PDS.
+  - Some states (Tamil Nadu, Odisha) supply **pulses, millets, oil and eggs** through PDS.
 
 **However, despite these steps there are few challenges**
 
@@ -2354,9 +2354,9 @@ Micro irrigation is a **water-efficient irrigation technique** that delivers wat
 
 **2. Higher Water Use Efficiency (WUE)**
 
-- **Sprinkler Irrigation - 75%**
+  - **Sprinkler Irrigation - 75%**
 
-- Drip Irrigation - 90%**
+  - Drip Irrigation - 90%**
 
 **3. Higher Yields:** Eg- increases yields by **45% for wheat, 20% for gram,** and **40% for soybean.**
 
@@ -2423,9 +2423,9 @@ The NWP is a **World** Bank-assisted initiative that supports the **watershed de
 
 **2. Increase in Cropping Intensity**
 
-- by **35-60%** in many watershed districts (ICAR-NAAS study).
+  - by **35-60%** in many watershed districts (ICAR-NAAS study).
 
-- Shift from single → double cropping in semi-arid regions.
+  - Shift from single → double cropping in semi-arid regions.
 
 **3. Higher Crop Yields -** Yield increased by **25-40% in millets, 30-60% in pulses, 20-35% in oilseeds** (NRSC 2021).
 
@@ -2699,45 +2699,45 @@ Land reform refers to the **systematic alteration of laws, regulations, and prac
 
 **1. Abolition of Intermediaries** through **Zamindari Abolition Acts**
 
-- Total land transferred: 173 lakh hectares**
+  - Total land transferred: 173 lakh hectares**
 
-- **2 crore tenants benefitted.**
+  - **2 crore tenants benefitted.**
 
 **2. Tenancy Reforms**
 
-- It led to fixation of fair rent (usually one-fourth to one-sixth of the produce).
+  - It led to fixation of fair rent (usually one-fourth to one-sixth of the produce).
 
-- Total tenants who got land rights: **12.5 million (Agricultural Census 1981).**
+  - Total tenants who got land rights: **12.5 million (Agricultural Census 1981).**
 
-- Eg- West Bengal’s Operation Barga (1978)
+  - Eg- West Bengal’s Operation Barga (1978)
 
 **3. Ceiling on Land Holdings**
 
-- Total surplus land declared: 75 lakh hectares
+  - Total surplus land declared: 75 lakh hectares
 
-- Total land actually distributed: 56 lakh hectares
+  - Total land actually distributed: 56 lakh hectares
 
 **4. Land Consolidation measures -** Punjab and Haryana enforced compulsory consolidation, while other states allowed voluntary consolidation if the majority of landowners agreed.
 
 **5. Bhoodan-Gramdan Movements -** "non-violent revolution" in India's land reform programme.
 
-- 16 lakh hectares of land donated under Gramdan
+  - 16 lakh hectares of land donated under Gramdan
 
-- More than 160,000 villages pledged Gramdan by 1970.
+  - More than 160,000 villages pledged Gramdan by 1970.
 
 **6. Phase 5: Land Records Modernization & Land Leasing Reforms (2000s-Present)**
 
-- Digitize land records to prevent disputes and ensure transparency.
+  - Digitize land records to prevent disputes and ensure transparency.
 
-- Land records fully digitized in **92% of villages (as of 2023).**
+  - Land records fully digitized in **92% of villages (as of 2023).**
 
-- States leading in digitization are **Karnataka, Maharashtra, Andhra Pradesh.**
+  - States leading in digitization are **Karnataka, Maharashtra, Andhra Pradesh.**
 
 **7. Modernisation of Land Records**
 
-- Digital India Land Records Modernization Programme - 96% digitization**
+  - Digital India Land Records Modernization Programme - 96% digitization**
 
-- SVAMITVA Scheme for geo-tagging and property cards in rural India.**
+  - SVAMITVA Scheme for geo-tagging and property cards in rural India.**
 
 **8. Model Land Leasing Act, 2016 (NITI Aayog) Land Ceiling Policy as an Effective Reform under Economic Criteria**
 
@@ -3095,23 +3095,23 @@ Millets **(Shree Anna)** are emerging as a critical pillar of India’s strategy
 
 **1. Food Security**
 
-- **Drought and heat resistant**
+  - **Drought and heat resistant**
 
-- Requires **less water and fertiliser -** Ideal for **tribal, arid and semi-arid regions**
+  - Requires **less water and fertiliser -** Ideal for **tribal, arid and semi-arid regions**
 
 **2. Rich Nutritional Profile**
 
-- High in **iron, calcium, zinc, magnesium and phosphorus**
+  - High in **iron, calcium, zinc, magnesium and phosphorus**
 
-- Higher **protein and dietary fibre** than rice and wheat
+  - Higher **protein and dietary fibre** than rice and wheat
 
-- **Low glycaemic index,** suitable for **diabetics and obese populations**
+  - **Low glycaemic index,** suitable for **diabetics and obese populations**
 
 **3. Tackling Malnutrition & Hidden Hunger**
 
-- Addresses **micronutrient deficiency** among **women and children (anaemia, stunting and wasting)**
+  - Addresses **micronutrient deficiency** among **women and children (anaemia, stunting and wasting)**
 
-- Can strengthen **ICDS, Mid-Day Meal and POSHAN Abhiyaan**
+  - Can strengthen **ICDS, Mid-Day Meal and POSHAN Abhiyaan**
 
 | <br>• | Versatile: Can be used in traditional and modern dishes. Eg- | in biscuits, noodles, bakery |
 | --- | --- | --- |
@@ -3120,15 +3120,15 @@ Millets **(Shree Anna)** are emerging as a critical pillar of India’s strategy
 
 **5. Supports Public Health**
 
-- Prevents **non-communicable diseases** like **diabetes, hypertension and heart disease**
+  - Prevents **non-communicable diseases** like **diabetes, hypertension and heart disease**
 
-- Strengthens **immunity** due to high antioxidant content
+  - Strengthens **immunity** due to high antioxidant content
 
 **6. Aligned with international commitments**
 
-- SDG-2 - Zero Hunger**
+  - SDG-2 - Zero Hunger**
 
-- International year of millets (2023) **Challenges**
+  - International year of millets (2023) **Challenges**
 
   - Perceived as **“poor person’s food”**
 
@@ -3626,7 +3626,7 @@ The agriculture sector utilizes approximately **78% of India's total usable wate
 
 **1. PM Krishi Sinchayee Yojana (PMKSY) -** Promotes micro-irrigation (drip/sprinkler) through subsidies.
 
-- Components: **Har Khet Ko Pani, Per Drop More Crop, Watershed Development.**
+  - Components: **Har Khet Ko Pani, Per Drop More Crop, Watershed Development.**
 
 **2. Micro-Irrigation Fund (NABARD) -** Dedicated fund of **₹10,000 crore** to expand drip and sprinkler systems.
 
@@ -3640,15 +3640,15 @@ The agriculture sector utilizes approximately **78% of India's total usable wate
 
 **7. State level initiatives**
 
-- **Mission Kakatiya, Telangana** - Restoration of **46,531 minor irrigation tanks**
+  - **Mission Kakatiya, Telangana** - Restoration of **46,531 minor irrigation tanks**
 
-- Jalyukt Shivar Abhiyan, Maharashtra - watershed development, farm ponds, desilting of streams.**
+  - Jalyukt Shivar Abhiyan, Maharashtra - watershed development, farm ponds, desilting of streams.**
 
 **8. Crop Diversification Initiatives**
 
-- Mission for Integrated Development of Horticulture **(MIDH)**
+  - Mission for Integrated Development of Horticulture **(MIDH)**
 
-- Increase in **MSP for Pulses and Millets.** Eg- 60% for Ragi
+  - Increase in **MSP for Pulses and Millets.** Eg- 60% for Ragi
 
   - **PM KUSUM:** Promotes the use of solar-powered pumps for micro-irrigation **Case Study**
 
@@ -3996,27 +3996,27 @@ Eg- Solar pumps under **PM-KUSUM**
 
 **3. Renewable Energy Expansion**
 
-- India ranks **4th globally** in renewable capacity.
+  - India ranks **4th globally** in renewable capacity.
 
-- **244+ GW installed RE capacity** (50% of total demand)
+  - **244+ GW installed RE capacity** (50% of total demand)
 
 **4. Energy Efficiency Gains- PAT, BEE standards** saved significant electricity and reduced CO₂ emissions.
 
 **5. Global Leadership**
 
-- **International Solar Alliance (ISA)** promotes global solar cooperation.
+  - **International Solar Alliance (ISA)** promotes global solar cooperation.
 
-- **Coalition for Disaster Resilient Infrastructure (CDRI)** integrates climate-resilient energy systems.
+  - **Coalition for Disaster Resilient Infrastructure (CDRI)** integrates climate-resilient energy systems.
 
 **6. New Technologies - National Green Hydrogen Mission** to produce **5 MMT** of green hydrogen by 2030.
 
 **7. Updated NDC Commitments**
 
-- **45% reduction in emission intensity** of GDP by 2030.
+  - **45% reduction in emission intensity** of GDP by 2030.
 
-- **50% electricity from non-fossil sources.**
+  - **50% electricity from non-fossil sources.**
 
-- **Net Zero by 2070.**
+  - **Net Zero by 2070.**
 
 **Challenges**
 
@@ -4122,27 +4122,27 @@ Under panchamrit Targets at COP26, India committed to achieving **50 percent** o
 
 **5. Institutional mechanisms**
 
-- **International Solar Alliance (ISA)**
+  - **International Solar Alliance (ISA)**
 
-- **Green Grids Initiative** under **OSOWOG**
+  - **Green Grids Initiative** under **OSOWOG**
 
 <p align="center"><img src="images/civilsdaily_p36_img93.png" alt="Diagram" /></p>
 
-- **BEE** and **PAT Scheme** - Promote energy efficiency.
+  - **BEE** and **PAT Scheme** - Promote energy efficiency.
 
 **6. Economic incentives**
 
-- **PLI Scheme for Solar PV Modules and Batteries**
+  - **PLI Scheme for Solar PV Modules and Batteries**
 
-- **Viability Gap Funding and Capital Subsidies**
+  - **Viability Gap Funding and Capital Subsidies**
 
-- **Green bonds** for clean energy projects.
+  - **Green bonds** for clean energy projects.
 
 **7. Global efforts and partnerships**
 
-- Technology transfer and funding through **ISA, IBSA, G20**
+  - Technology transfer and funding through **ISA, IBSA, G20**
 
-- Participation in **Just Energy Transition Partnerships (JETP)** and **multilateral climate funds.**
+  - Participation in **Just Energy Transition Partnerships (JETP)** and **multilateral climate funds.**
 
 **Challenges**
 
@@ -4245,35 +4245,35 @@ EVs accounted for **7.5%** of India's total vehicle sales in 2024.
 
 **1. Environmental Benefits**
 
-- Reduction in **urban smog and air pollution**
+  - Reduction in **urban smog and air pollution**
 
-- Helps achieve **climate and SDG targets (SDG 13 & SDG 11)**
+  - Helps achieve **climate and SDG targets (SDG 13 & SDG 11)**
 
 **2. Economic Benefits**
 
-- **Lower running and maintenance costs**
+  - **Lower running and maintenance costs**
 
-- Reduces **oil import bill** and saves **foreign exchange**
+  - Reduces **oil import bill** and saves **foreign exchange**
 
-- Generates **green jobs** in **battery, EV, and charging sectors**
+  - Generates **green jobs** in **battery, EV, and charging sectors**
 
 **3. Energy Security Benefits**
 
-- Cuts dependence on **imported crude oil**
+  - Cuts dependence on **imported crude oil**
 
-- Promotes use of **domestic renewable energy**
+  - Promotes use of **domestic renewable energy**
 
 **4. Public Health Benefits**
 
-- Decline in **respiratory and cardiovascular diseases**
+  - Decline in **respiratory and cardiovascular diseases**
 
-- Improved **urban air quality**
+  - Improved **urban air quality**
 
 **5. Technological Benefits**
 
-- Boosts **battery innovation, smart grids and V2G technologies**
+  - Boosts **battery innovation, smart grids and V2G technologies**
 
-- Strengthens **Make in India and PLI manufacturing ecosystem**
+  - Strengthens **Make in India and PLI manufacturing ecosystem**
 
 **6. Urban & Social Benefits- Eg- Less noise pollution Challenges**
 
@@ -4699,15 +4699,15 @@ India has **18%** of the world’s population but only **4%** of the freshwater 
 
 **2. Five Key Intervention Areas**
 
-- **Water Conservation & Rainwater Harvesting**
+  - **Water Conservation & Rainwater Harvesting**
 
-- **Renovation of Traditional & Existing Water Bodies**
+  - **Renovation of Traditional & Existing Water Bodies**
 
-- **Reuse & Recharge of Borewells/Watershed Structures**
+  - **Reuse & Recharge of Borewells/Watershed Structures**
 
-- **Watershed Development**
+  - **Watershed Development**
 
-- **Intensive Afforestation**
+  - **Intensive Afforestation**
 
 **3. Convergence of Multiple Departments -** Brings together Rural Development, Water Resources, Agriculture, Forest, Urban Development, Panchayati Raj under a unified water conservation plan.
 
@@ -4721,11 +4721,11 @@ India has **18%** of the world’s population but only **4%** of the freshwater 
 
 **8. Urban Water Conservation Measures (JSA - 2021 onwards)**
 
-- Ensuring **mandatory Rainwater Harvesting (RWH)** as per Model Building By-Law (MBBL) 2016.
+  - Ensuring **mandatory Rainwater Harvesting (RWH)** as per Model Building By-Law (MBBL) 2016.
 
-- reuse of treated wastewater,
+  - reuse of treated wastewater,
 
-- Setting Up RWH Cells in Urban Local Bodies
+  - Setting Up RWH Cells in Urban Local Bodies
 
   - **“Catch the Rain - Where it Falls, When it Falls”** campaign Its **integrated approach** has strengthened water conservation practices and laid the groundwork for long-term water security.
 
@@ -5817,9 +5817,9 @@ The **26th Conference of the Parties (COP-26)** to the UNFCCC, held in **Glasgow
 
 **2. Accelerating Climate Action**
 
-- Countries acknowledged this as a **critical decade,** requiring **45% CO₂ reduction by 2030** to reach net-zero by mid-century.
+  - Countries acknowledged this as a **critical decade,** requiring **45% CO₂ reduction by 2030** to reach net-zero by mid-century.
 
-- They agreed to **submit stronger NDCs by 2022,** and an **annual NDC synthesis report.**
+  - They agreed to **submit stronger NDCs by 2022,** and an **annual NDC synthesis report.**
 
 **3.** For the **first time,** parties agreed to **phase down unabated coal** and **phase out inefficient fossil-fuel subsidies,** though language was weakened from “phase-out” to “phase-down.”
 
@@ -5833,11 +5833,11 @@ The **26th Conference of the Parties (COP-26)** to the UNFCCC, held in **Glasgow
 
 **8. Major Side Deals & Announcements**
 
-- **Forests:** 137 countries committed to halt and reverse deforestation by 2030.
+  - **Forests:** 137 countries committed to halt and reverse deforestation by 2030.
 
-- 103 countries joined the **Global Methane Pledge** to cut emissions by **30% by 2030.**
+  - 103 countries joined the **Global Methane Pledge** to cut emissions by **30% by 2030.**
 
-- **Zero-Emission Vehicles:** Over 30 countries and major automakers committed to new zero-emission vehicle sales by **2035/2040.**
+  - **Zero-Emission Vehicles:** Over 30 countries and major automakers committed to new zero-emission vehicle sales by **2035/2040.**
 
 **India’s Commitments at COP-26**
 
@@ -5919,9 +5919,9 @@ The mantra of **LIFE- Lifestyle for Environment** as a mass movement for Environ
 
 **1. Overdependence on Fossil Fuels**
 
-- **Fossil fuels still account for ~73%** of electricity generation (CEA, 2023).
+  - **Fossil fuels still account for ~73%** of electricity generation (CEA, 2023).
 
-- Fossil fuel subsidies are **8x higher** than renewable subsidies
+  - Fossil fuel subsidies are **8x higher** than renewable subsidies
 
 **2. Shortfall in Carbon Sink -** Forest and tree cover 25.1% (SoFR 2023), short of the **33% goal**
 
@@ -5943,9 +5943,9 @@ The mantra of **LIFE- Lifestyle for Environment** as a mass movement for Environ
 
 **5. Climate-Resilient Agriculture**
 
-- Scale up **organic** through **Paramparagat Krishi Vikas Yojana (PKVY).**
+  - Scale up **organic** through **Paramparagat Krishi Vikas Yojana (PKVY).**
 
-- Develop **agroforestry** to improve soil health, reduce emissions.
+  - Develop **agroforestry** to improve soil health, reduce emissions.
 
 **6. Expanding Electric Mobility Ecosystem -** Strengthen **charging infrastructure** across highways and cities (EV-charging at petrol pumps/dhabas).
 
@@ -6321,27 +6321,27 @@ Addressing these concerns can ensure **efficient, seamless, congestion-free** hi
 
 **3. Energy storage and grid modernisation**
 
-- Strengthen **Battery Energy Storage Systems (BESS)** and **pumped hydro storage.**
+  - Strengthen **Battery Energy Storage Systems (BESS)** and **pumped hydro storage.**
 
-- Create **smart grids, microgrids and AI-based demand management.**
+  - Create **smart grids, microgrids and AI-based demand management.**
 
 **4. Electric mobility transition**
 
-- Electrify **public transport, freight.** Eg- **PM e-Bus Sewa**
+  - Electrify **public transport, freight.** Eg- **PM e-Bus Sewa**
 
-- Promote **EV manufacturing + battery ecosystem** under **PLI and PM-eDrive.**
+  - Promote **EV manufacturing + battery ecosystem** under **PLI and PM-eDrive.**
 
 **5. Make in India and supply Chain resilience**
 
-- Strengthen **domestic solar, battery and electrolyser manufacturing.**
+  - Strengthen **domestic solar, battery and electrolyser manufacturing.**
 
-- Secure supply chains through **National Critical Mineral Mission.** Eg- **lithium supply from Argentina**
+  - Secure supply chains through **National Critical Mineral Mission.** Eg- **lithium supply from Argentina**
 
 **6. Energy efficiency & circular economy**
 
-- Expand **PAT scheme**
+  - Expand **PAT scheme**
 
-- Promote **circular economy** in energy storage, e-waste and batteries.
+  - Promote **circular economy** in energy storage, e-waste and batteries.
 
 **Role of Biotechnology**
 
@@ -6408,11 +6408,11 @@ Eg- **Mysore Iron & Steel Works.**
 
 **6. Institutional Building**
 
-- **ICAR modernisation** - Director-General from 1972 to 1979.
+  - **ICAR modernisation** - Director-General from 1972 to 1979.
 
-- Setting up **MS Swaminathan Research Foundation (MSSRF)**
+  - Setting up **MS Swaminathan Research Foundation (MSSRF)**
 
-- Promoting **biotechnology.** Eg- research on cryogenetics in potato crops.
+  - Promoting **biotechnology.** Eg- research on cryogenetics in potato crops.
 
 Together, they shaped India’s progress in **water management, agriculture, and national development.**
 
@@ -6783,15 +6783,15 @@ A **portfolio approach,** not a single technology, will determine long-term wate
 
 **2. Probability Assessment**
 
-- **Extinction-level asteroids (>10 km)** are **extremely rare**
+  - **Extinction-level asteroids (>10 km)** are **extremely rare**
 
-- **City or regional-scale impacts (50-300 m)** are **more frequent** and pose serious human and economic risks.
+  - **City or regional-scale impacts (50-300 m)** are **more frequent** and pose serious human and economic risks.
 
 **3. Current Scientific Consensus**
 
-- **Low probability, high impact risk.**
+  - **Low probability, high impact risk.**
 
-- No known large asteroid is on a **confirmed collision course** with Earth in the foreseeable future.
+  - No known large asteroid is on a **confirmed collision course** with Earth in the foreseeable future.
 
   - **No global policy framework or convention** to prevent asteroid impact **Strategies Developed to Prevent or Mitigate Asteroid Impact**
 
@@ -6976,21 +6976,21 @@ The **Blue LEDs** invention triggered a fundamental shift in lighting technology
 
 **6. Advancements in Healthcare and Sanitation**
 
-- **Water Purification:** UV-light emitting diodes are used to sterilize drinking water by destroying the DNA of bacteria and viruses.
+  - **Water Purification:** UV-light emitting diodes are used to sterilize drinking water by destroying the DNA of bacteria and viruses.
 
-- **Medical Treatment:** Blue light is used in phototherapy to treat neonatal jaundice and certain skin conditions.
+  - **Medical Treatment:** Blue light is used in phototherapy to treat neonatal jaundice and certain skin conditions.
 
 **7. Sustainable Agriculture (Vertical Farming)**
 
-- Blue light is essential for photosynthesis.
+  - Blue light is essential for photosynthesis.
 
-- **Indoor Farming:** By fine-tuning light "recipes" using Blue and Red LEDs, farmers can grow food indoors in urban environments without pesticides, using 90% less water
+  - **Indoor Farming:** By fine-tuning light "recipes" using Blue and Red LEDs, farmers can grow food indoors in urban environments without pesticides, using 90% less water
 
 **8. Enhanced Communication and Connectivity**
 
-- **Optical Storage:** The development of the blue laser led to **Blu-ray** technology, allowing for much higher data storage densities than earlier red-laser CDs or DVDs.
+  - **Optical Storage:** The development of the blue laser led to **Blu-ray** technology, allowing for much higher data storage densities than earlier red-laser CDs or DVDs.
 
-- **Li-Fi:** Current research is using Blue LEDs for **Light Fidelity (Li-Fi),** a high-speed wireless communication technology that transmits data through light pulses.
+  - **Li-Fi:** Current research is using Blue LEDs for **Light Fidelity (Li-Fi),** a high-speed wireless communication technology that transmits data through light pulses.
 
 **Government initiatives promoting LEDs**
 
@@ -8485,43 +8485,43 @@ For **long-term** peace and stability in the region 4-pronged stategy is needed
 
 **1. Legislative Measures**
 
-- **UAPA, 1967** - empowers State to designate individuals as terrorists.
+  - **UAPA, 1967** - empowers State to designate individuals as terrorists.
 
-- **NIA Act, 2008** - established National Investigation Agency with nationwide jurisdiction.
+  - **NIA Act, 2008** - established National Investigation Agency with nationwide jurisdiction.
 
-- **PMLA, 2002** - to curb money laundering and terror financing.
+  - **PMLA, 2002** - to curb money laundering and terror financing.
 
 **2. Institutional Mechanisms**
 
-- **National Security Council Secretariat** headed by the **NSA for inter-agency coordination**
+  - **National Security Council Secretariat** headed by the **NSA for inter-agency coordination**
 
-- **NATGRID** and **Multi-Agency Centre** for real-time intelligence sharing and coordination
+  - **NATGRID** and **Multi-Agency Centre** for real-time intelligence sharing and coordination
 
 **3. Operational Measures**
 
-- **Operation Sindoor, Surgical Strikes (2016)** and **Balakot airstrikes (2019)** as deterrence.
+  - **Operation Sindoor, Surgical Strikes (2016)** and **Balakot airstrikes (2019)** as deterrence.
 
-- **Operation All-Out** in J&K to neutralize militants.
+  - **Operation All-Out** in J&K to neutralize militants.
 
 **4. Border & Internal Security Measures**
 
-- **Fencing and electronic surveillance** along the Indo-Pak and Indo-Bangladesh borders.
+  - **Fencing and electronic surveillance** along the Indo-Pak and Indo-Bangladesh borders.
 
-- Use of **drones, radars, and thermal imaging** to detect infiltration.
+  - Use of **drones, radars, and thermal imaging** to detect infiltration.
 
 **5. Community Engagement**
 
-- **De-radicalisation programmes** in J&K.
+  - **De-radicalisation programmes** in J&K.
 
-- **Heart and mind strategy - Eg- Operation Sadbhavana** (Goodwill) of Indian Army
+  - **Heart and mind strategy - Eg- Operation Sadbhavana** (Goodwill) of Indian Army
 
-- **Employment and Skill Development to** mainstream youth. Eg- Udaan Scheme
+  - **Employment and Skill Development to** mainstream youth. Eg- Udaan Scheme
 
 **6. International Cooperation**
 
-- Active role in **FATF** to blacklist terror-financing states.
+  - Active role in **FATF** to blacklist terror-financing states.
 
-- **UN sanctions listing** of terrorists like Masood Azhar and Hafiz Saeed.
+  - **UN sanctions listing** of terrorists like Masood Azhar and Hafiz Saeed.
 
 The **zero tolerance against terrorism** strategy needs 4-pronged approach
 
@@ -10715,13 +10715,13 @@ As per **UNDRR,** Disaster risk reduction is aimed at **preventing new and reduc
 
 ## **Sendai Framework, covering**
 
-- **Multi-hazard risk assessment,**
+  - **Multi-hazard risk assessment,**
 
-- **Prevention-mitigation strategies,**
+  - **Prevention-mitigation strategies,**
 
-- **Sector-wise responsibilities** (health, housing, power, transport, education),
+  - **Sector-wise responsibilities** (health, housing, power, transport, education),
 
-- **Monitoring indicators aligned with Sendai’s seven global targets.**
+  - **Monitoring indicators aligned with Sendai’s seven global targets.**
 
 **2. Multi-Hazard Early Warning System (MHEWS) -** integrates satellite, radar, and IoT data via the IMD's Decision Support System (DSS). Improves accuracy by 20-40%. Apps used are
 
@@ -10961,9 +10961,9 @@ India is among the **most earthquake-prone countries in the world,** with nearly
 
 **2. Wide Seismic Zonation**
 
-- **Zone V (Very High Risk)** - Himalayan states, Kutch, Andaman & Nicobar.
+  - **Zone V (Very High Risk)** - Himalayan states, Kutch, Andaman & Nicobar.
 
-- **Zone IV** - Delhi, Bihar, parts of J&K and NE India.
+  - **Zone IV** - Delhi, Bihar, parts of J&K and NE India.
 
 **3.** Major cities such as **Delhi, Guwahati, Srinagar, Imphal** lie in high-risk zones.
 
@@ -10979,37 +10979,37 @@ India is among the **most earthquake-prone countries in the world,** with nearly
 
 **1. Latur Earthquake, Maharashtra (1993)**
 
-- **Magnitude** - ~6.3
+  - **Magnitude** - ~6.3
 
-- **Intraplate earthquake** caused by reactivation of **ancient fault lines** in the Deccan Plateau
+  - **Intraplate earthquake** caused by reactivation of **ancient fault lines** in the Deccan Plateau
 
-- Over **9,000 deaths.**
+  - Over **9,000 deaths.**
 
 **2. Bhuj Earthquake, Gujarat (2001)**
 
-- **Magnitude** - 7.7
+  - **Magnitude** - 7.7
 
-- **Intraplate fault movement** due to stress transmitted from the **Indian Plate-Eurasian Plate collision**
+  - **Intraplate fault movement** due to stress transmitted from the **Indian Plate-Eurasian Plate collision**
 
-- Around **13,800 deaths** and massive infrastructure loss.
+  - Around **13,800 deaths** and massive infrastructure loss.
 
 **3. Kashmir Earthquake (2005)**
 
-- **Magnitude** - 7.6
+  - **Magnitude** - 7.6
 
-- **Thrust faulting** due to ongoing **collision of the Indian Plate with the Eurasian Plate**
+  - **Thrust faulting** due to ongoing **collision of the Indian Plate with the Eurasian Plate**
 
-- Extensive **landslides** and isolation of remote villages.
+  - Extensive **landslides** and isolation of remote villages.
 
 **4. Sikkim Earthquake (2011)**
 
-- **Magnitude** - 6.9
+  - **Magnitude** - 6.9
 
-- Active tectonics of the Himalayan collision zone
+  - Active tectonics of the Himalayan collision zone
 
-- Triggered widespread **landslides.**
+  - Triggered widespread **landslides.**
 
-- Damage to **roads, bridges, and hydropower projects.**
+  - Damage to **roads, bridges, and hydropower projects.**
 
 Hazard zonation mapping, disaster resilient infrastructure and institutional strengthening for quick response and recovery is essential to achieve **Sendai targets** on disaster risk reduction.
 
@@ -11032,9 +11032,9 @@ IMD defines cloudburst as an extreme weather event involving **very high-intensi
 
 <p align="center"><img src="images/civilsdaily_p115_img127.png" alt="Diagram" /></p>
 
-- Moist air masses are **forced to rise abruptly** when they encounter **steep mountain slopes.**
+  - Moist air masses are **forced to rise abruptly** when they encounter **steep mountain slopes.**
 
-- Rapid ascent causes **condensation and release of latent heat,** intensifying convection.
+  - Rapid ascent causes **condensation and release of latent heat,** intensifying convection.
 
 **2. Strong Convective Clouds (Cumulonimbus)** up to **12-15 km.**
 
@@ -11123,11 +11123,11 @@ IMD defines cloudburst as an extreme weather event involving **very high-intensi
 
 **2. Banqiao Dam Failure, China (1975)**
 
-- **Extreme rainfall** from Typhoon Nina
+  - **Extreme rainfall** from Typhoon Nina
 
-- **Cascade failure** of multiple dams due to poor design
+  - **Cascade failure** of multiple dams due to poor design
 
-- Estimated **1,70,000 deaths** (direct and indirect) **Initiatives Taken for Dam Safety in India**
+  - Estimated **1,70,000 deaths** (direct and indirect) **Initiatives Taken for Dam Safety in India**
 
 **1. Dam Safety Act, 2021 - Statutory framework** for surveillance, inspection, operation, and maintenance of dams.
 
@@ -11196,13 +11196,13 @@ Recently, heavy pre-monsoon thundershowers in Bengaluru led to severe Floods. Un
 
   - **Key Features**
 
-- Complete failure of **stormwater drainage system.**
+  - Complete failure of **stormwater drainage system.**
 
-- Severe flooding along the **Mithi River floodplain** due to encroachment.
+  - Severe flooding along the **Mithi River floodplain** due to encroachment.
 
-- Massive disruption of **transport, power supply, and economic activity.**
+  - Massive disruption of **transport, power supply, and economic activity.**
 
-- Exposed vulnerability of **coastal megacities** to extreme rainfall.
+  - Exposed vulnerability of **coastal megacities** to extreme rainfall.
 
 **2. Chennai Floods - 2015**
 
@@ -11210,11 +11210,11 @@ Recently, heavy pre-monsoon thundershowers in Bengaluru led to severe Floods. Un
 
   - **Key Features**
 
-- Encroachment of **wetlands like Pallikaranai marsh.**
+  - Encroachment of **wetlands like Pallikaranai marsh.**
 
-- Poor coordination in **reservoir water release** aggravated flooding.
+  - Poor coordination in **reservoir water release** aggravated flooding.
 
-- Prolonged waterlogging in residential and industrial zones.
+  - Prolonged waterlogging in residential and industrial zones.
 
 **Policies and Frameworks in India to Tackle Urban Flooding**
 

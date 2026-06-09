@@ -92,7 +92,7 @@ The **Suryamitra program** aims to train over 50,000 solar technicians across ru
 1. Explanation_Drishti IAS:
 Source Question: Explain briefly the ecological and economic benefits of solar energy generation in India with suitable examples. (Answer in 150 words) 10
 
-| **Approach:** <br>• **Introduction:** Introduce solar energy as a key component of India's renewable energy strategy. <br>• **Body:** Discuss the ecological benefits, including reduced emissions, water conservation, and improved air quality, with relevant examples. <br>• Explain the economic benefits, such as job creation, cost-effectiveness, and income diversification, while connecting them to national energy security and sustainable growth. <br>• **Conclusion: Conclude accordingly.** |
+| **Approach:** <br>• **Introduction:** Introduce solar energy as a key component of India's renewable energy strategy. <br>• **Body:** Discuss the ecological benefits, including reduced emissions, water conservation, and improved air quality, with relevant examples. <br>• Explain the economic benefits, such as job creation, cost-effectiveness, and income diversification, while connecting them to national energy security and sustainable growth. <br>• **Conclusion Conclude accordingly.** |
 | --- |
 
 ### Introduction
@@ -408,9 +408,9 @@ India is the 4th **largest wind power producer** in the world. Wind energy const
 
 **7. Infrastructure and Logistical Challenges**
 
-- Wind farms are often located in **remote areas.** Building high-voltage **transmission lines** is a slow and expensive process.
+  - Wind farms are often located in **remote areas.** Building high-voltage **transmission lines** is a slow and expensive process.
 
-- **Transportation Logistics challenges-** Modern wind blades can exceed 80 meters in length.
+  - **Transportation Logistics challenges-** Modern wind blades can exceed 80 meters in length.
 
 **Steps Taken**
 
@@ -581,9 +581,9 @@ Mineral oil (petroleum) is a **strategic, exhaustible, and unevenly distributed 
 
 **d)** Strategic Alliances - Oil trade shapes foreign policy and defence partnerships.
 
-- US-Saudi strategic relations.
+  - US-Saudi strategic relations.
 
-- India’s look west policy **e)** Chokepoint Vulnerability due to dependence on narrow sea routes. Eg- Strait of Hormuz, Malacca Strait.
+  - India’s look west policy **e)** Chokepoint Vulnerability due to dependence on narrow sea routes. Eg- Strait of Hormuz, Malacca Strait.
 
 **3. Developmental and Regional Inequality a)** Infrastructure and Urbanisation - Oil wealth funds modern cities and mega-projects. Eg- Dubai and Doha.
 
@@ -739,9 +739,9 @@ India has emerged as a global leader in solar energy with over **140 GW of insta
 
 **2. High Solar Radiation** due to tropical location
 
-- Receives **4-7 kWh/m²/day** across most regions.
+  - Receives **4-7 kWh/m²/day** across most regions.
 
-- **~300 sunny days annually** → ideal for large-scale generation.
+  - **~300 sunny days annually** → ideal for large-scale generation.
 
   - **Waste Land Availability-** States like Rajasthan and Ladakh possess vast tracts of high-albedo, non-arable land
 
@@ -773,17 +773,17 @@ India has emerged as a global leader in solar energy with over **140 GW of insta
 
   - Northern Plains - Moderate Potential but Slower Growth
 
-- High population density → **land constraint.**
+  - High population density → **land constraint.**
 
-- Pollution and fog reduce efficiency.
+  - Pollution and fog reduce efficiency.
 
-- Majority of land is under Agriculture
+  - Majority of land is under Agriculture
 
   - Eastern and Northeastern India - Low Development
 
-- High cloud cover, heavy rainfall, and forest cover.
+  - High cloud cover, heavy rainfall, and forest cover.
 
-- Limited grid infrastructure and investment.
+  - Limited grid infrastructure and investment.
 
   - Himalayan Region - Ladakh has very high insolation but faces-
 
@@ -2206,7 +2206,7 @@ According to the Ministry of External Affairs, India’s interests in Arctic Oce
 1. Explanation_PWOnlyIAS:
 Source Question: Why is India taking keen interest in the Arctic region?
 
-| **Approach:** <br> **Introduction:** <br>• Write about the Arctic region. **Body:** <br>• Discuss India’ s interest in the Arctic region. <br> **Conclusion:** <br>• Conclude your answer with Importance of the Arctic region. |
+| **Approach:** <br> **Introduction:** <br>• Write about the Arctic region. **Body:** <br>• Discuss India’ s interest in the Arctic region. <br> **Conclusion** <br>• Conclude your answer with Importance of the Arctic region. |
 | --- |
 
 ### Introduction
@@ -2733,7 +2733,7 @@ This reflects the intimate relationship between **natural resource endowment and
 1. Explanation_Drishti IAS:
 Source Question: What are non-farm primary activities? How are these activities related to physiographic features in India ? Discuss with suitable examples. (Answer in 150 words)
 
-| **Approach:** <br>• **Introduction:** Define non-farm primary activities and highlight their importance in the economy. <br>• **Body:** Discuss how these activities are influenced by India's diverse physiographic features, with specific examples from different regions. <br>• **Conclusion:** Conclude by emphasizing the strong relationship between non-farm primary activities and India’s varied geographical landscape. |
+| **Approach:** <br>• **Introduction:** Define non-farm primary activities and highlight their importance in the economy. <br>• **Body:** Discuss how these activities are influenced by India's diverse physiographic features, with specific examples from different regions. <br>• **Conclusion** Conclude by emphasizing the strong relationship between non-farm primary activities and India’s varied geographical landscape. |
 | --- |
 
 ### Introduction
@@ -3088,17 +3088,17 @@ Natural rubber is a **tropical plantation crop** that requires **high temperatur
 
 **3. West Africa**
 
-- **Ivory Coast-** 4th largest global producer (over **1.3 million tonnes)**
+  - **Ivory Coast-** 4th largest global producer (over **1.3 million tonnes)**
 
-- **Others-** Nigeria, Ghana, and Liberia etc
+  - **Others-** Nigeria, Ghana, and Liberia etc
 
   - **India-** production is centered in Kerala and the North-East.
 
   - Other Producers
 
-- **China** - Yunnan and Hainan Island.
+  - **China** - Yunnan and Hainan Island.
 
-- **Latin America** - Brazil (original home of Hevea brasiliensis).
+  - **Latin America** - Brazil (original home of Hevea brasiliensis).
 
 **Major Environmental Issues**
 
@@ -3925,7 +3925,7 @@ Q22. Whereas the British planters had developed tea gardens all along the Shival
 1. Explanation_PWOnlyIAS:
 Source Question: Whereas the British planters had developed tea gardens all along the Shivaliks and lesser Himalayas from Assam to Himachal Pradesh, in effect they did not succeed beyond the Darjeeling area. Explain.
 
-| **Approach:** <br> **Introduction:** <br>• Start your answer with the history of tea cultivation. <br> **Body:** <br>• Discuss the planters had developed tea gardens all along the Shivaliks and lesser. <br> **Conclusion:** <br>• Summary of the answer with futuristic approach. |
+| **Approach:** <br> **Introduction:** <br>• Start your answer with the history of tea cultivation. <br> **Body:** <br>• Discuss the planters had developed tea gardens all along the Shivaliks and lesser. <br> **Conclusion** <br>• Summary of the answer with futuristic approach. |
 | --- |
 
 ### Introduction
@@ -4209,7 +4209,7 @@ Iron and Steel Industry, not located near the source of raw materials, are less 
 1. Explanation_PWOnlyIAS:
 Source Question: Account for the present location of iron and steel industries away from the raw material, by giving examples.
 
-| **Approach:** <br> **Introduction:** <br>• Start your answer with discussing major location factors for the iron and steel industries. <br> **Body:** <br>• Discuss the present location factor of iron and steel industries away from the source of raw material. <br> **Conclusion:** <br>• Conclude your answer with Suitable factor for the iron and steel industries. |
+| **Approach:** <br> **Introduction:** <br>• Start your answer with discussing major location factors for the iron and steel industries. <br> **Body:** <br>• Discuss the present location factor of iron and steel industries away from the source of raw material. <br> **Conclusion** <br>• Conclude your answer with Suitable factor for the iron and steel industries. |
 | --- |
 
 ### Introduction
@@ -4538,39 +4538,39 @@ Source Question: Discuss the factors for localisation of agro-based food process
 
 **1. Raw Material Abundance ("Granary of India")**
 
-- Punjab and Haryana produce roughly **19% of India’s wheat** and **70% of its basmati rice,** leading to a concentration of rice mills and flour-based industries.
+  - Punjab and Haryana produce roughly **19% of India’s wheat** and **70% of its basmati rice,** leading to a concentration of rice mills and flour-based industries.
 
-- **Dairy-** high density of milch animals in Haryana and Punjab supports massive value-added dairy units. Eg- Nestlé in Moga, Punjab.
+  - **Dairy-** high density of milch animals in Haryana and Punjab supports massive value-added dairy units. Eg- Nestlé in Moga, Punjab.
 
-- **Oilseeds-** Rajasthan contributes about **14% of India’s oilseed output** (especially mustard), driving the localization of edible oil refineries.
+  - **Oilseeds-** Rajasthan contributes about **14% of India’s oilseed output** (especially mustard), driving the localization of edible oil refineries.
 
   - Strategic Infrastructure and Logistics
 
-- **Connectivity-** major corridors like the **Delhi-Mumbai Industrial Corridor (DMIC)** and the **Western/Eastern Dedicated Freight Corridors (DFCs)** reduce transit times to ports.
+  - **Connectivity-** major corridors like the **Delhi-Mumbai Industrial Corridor (DMIC)** and the **Western/Eastern Dedicated Freight Corridors (DFCs)** reduce transit times to ports.
 
-- **Storage Ecosystem-** mature cold-chain network and "Plug-and-Play" facilities for small entrepreneurs.. Eg- **Mega Food Parks** in Fazilka in Punjab and Ajmer in Rajasthan
+  - **Storage Ecosystem-** mature cold-chain network and "Plug-and-Play" facilities for small entrepreneurs.. Eg- **Mega Food Parks** in Fazilka in Punjab and Ajmer in Rajasthan
 
-- **Irrigation Reliability-** The extensive canal networks (Indira Gandhi Canal, Bhakra-Nangal system) ensure stable year-round crop cycles.
+  - **Irrigation Reliability-** The extensive canal networks (Indira Gandhi Canal, Bhakra-Nangal system) ensure stable year-round crop cycles.
 
   - Proximity to High-Value Markets
 
-- **Urban Demand-** Proximity to Delhi-NCR, Chandigarh, and Jaipur creates a massive local market for **Ready-to-Eat (RTE)** and **Ready-to-Cook (RTC)** products.
+  - **Urban Demand-** Proximity to Delhi-NCR, Chandigarh, and Jaipur creates a massive local market for **Ready-to-Eat (RTE)** and **Ready-to-Cook (RTC)** products.
 
-- **Export Gateways-** air connectivity via Delhi’s IGI Airport and rail links to Gujarat’s ports (Mundra/Kandla) allow for export of high-value items like organic ghee, basmati rice etc.
+  - **Export Gateways-** air connectivity via Delhi’s IGI Airport and rail links to Gujarat’s ports (Mundra/Kandla) allow for export of high-value items like organic ghee, basmati rice etc.
 
   - Government Policy and Institutional Support
 
-- **State-Specific Incentives-** Agencies like **RIICO (Rajasthan)** and **PAIC (Punjab)** offer capital subsidies (up to 35-50%), interest subvention for food processing units.
+  - **State-Specific Incentives-** Agencies like **RIICO (Rajasthan)** and **PAIC (Punjab)** offer capital subsidies (up to 35-50%), interest subvention for food processing units.
 
-- **ODOP (One District One Product)-** Targeted development of local specialties. Eg- **citrus (Kinnow) in Fazilka** or **mustard in Bharatpur**
+  - **ODOP (One District One Product)-** Targeted development of local specialties. Eg- **citrus (Kinnow) in Fazilka** or **mustard in Bharatpur**
 
   - Socio-Economic and Climatic Factors
 
-- **Entrepreneurial Culture-** high density of progressive farmers and an enterprising diaspora.
+  - **Entrepreneurial Culture-** high density of progressive farmers and an enterprising diaspora.
 
-- **Favorable Climate-** The relatively cooler winters in the North-West are conducive for the storage and processing of temperate fruits and vegetables
+  - **Favorable Climate-** The relatively cooler winters in the North-West are conducive for the storage and processing of temperate fruits and vegetables
 
-- **Availability of labour** from states like Bihar and UP By bridging the gap between the "farm gate" and the "factory floor," the region has minimized post-harvest losses and maximized value addition.
+  - **Availability of labour** from states like Bihar and UP By bridging the gap between the "farm gate" and the "factory floor," the region has minimized post-harvest losses and maximized value addition.
 
 1. Explanation_Drishti IAS:
 Source Question: Discuss the factors for localisation of agro-based food processing industries of North-West India.
@@ -6512,7 +6512,7 @@ Strengthening coastal resilience and climate mitigation is essential to safeguar
 1. Explanation_Drishti IAS:
 Source Question: How are climate change and the sea level rise affecting the very existence of many island nations ? Discuss with examples. (Answer in 150 words)
 
-| **Approach** <br>• **Introduction:** Provide an overview of how climate change and sea level rise are impacting island nations globally. <br>• **Body:** Discuss the specific consequences faced by island nations due to rising sea levels, including examples and the social, economic, and environmental impacts. <br>• **Conclusion:** Conclude with the urgency of international cooperation and climate action to address the existential threat posed to island nations. |
+| **Approach** <br>• **Introduction:** Provide an overview of how climate change and sea level rise are impacting island nations globally. <br>• **Body:** Discuss the specific consequences faced by island nations due to rising sea levels, including examples and the social, economic, and environmental impacts. <br>• **Conclusion** Conclude with the urgency of international cooperation and climate action to address the existential threat posed to island nations. |
 | --- |
 
 ### Introduction
@@ -6963,7 +6963,7 @@ As can be seen from the above arguments, desertification and its impacts are not
 1. Explanation_PWOnlyIAS:
 Source Question: The process of desertification does not have climate boundaries. Justify with examples.
 
-| **Approach:** <br> **Introduction:** <br>• Define briefly desertification. **Body:** <br>• Discuss restricted by climate boundaries and some reason. <br> **Conclusion:** <br>• Conclude your answer with a futuristic approach. |
+| **Approach:** <br> **Introduction:** <br>• Define briefly desertification. **Body:** <br>• Discuss restricted by climate boundaries and some reason. <br> **Conclusion** <br>• Conclude your answer with a futuristic approach. |
 | --- |
 
 ### Introduction
@@ -11656,7 +11656,7 @@ Therefore, fjords are remarkable examples of how nature and culture can create s
 1. Explanation_PWOnlyIAS:
 Source Question: How are the Fjords formed? Why do they constitute some of the most picturesque areas of the world?
 
-| **Approach:** <br> **Introduction** <br>• Start with basic introduction of Fjord. <br> **Body** <br>• Mention Formation of Fjords <br>• Mention reasons why Fjords constitute some of the Most Picturesque Areas in the World <br> **Conclusion:** <br>• Give appropriate conclusion in this regard |
+| **Approach:** <br> **Introduction** <br>• Start with basic introduction of Fjord. <br> **Body** <br>• Mention Formation of Fjords <br>• Mention reasons why Fjords constitute some of the Most Picturesque Areas in the World <br> **Conclusion** <br>• Give appropriate conclusion in this regard |
 | --- |
 
 ### Introduction
@@ -11823,19 +11823,19 @@ Source Question: Describe the characteristics and types of primary rocks. [Year:
 
 **1. Intrusive (Plutonic) Rocks**
 
-- Formed by **slow cooling of magma below the Earth’s surface.**
+  - Formed by **slow cooling of magma below the Earth’s surface.**
 
-- **Coarse-grained** due to large crystal formation.
+  - **Coarse-grained** due to large crystal formation.
 
-- Eg- **Diorite, Gabbro.**
+  - Eg- **Diorite, Gabbro.**
 
 **2. Extrusive (Volcanic) Rocks**
 
-- Formed by **rapid cooling of lava on the Earth’s surface.**
+  - Formed by **rapid cooling of lava on the Earth’s surface.**
 
-- **Fine-grained or glassy texture.**
+  - **Fine-grained or glassy texture.**
 
-- Eg- **Basalt, Obsidian, Pumice.**
+  - Eg- **Basalt, Obsidian, Pumice.**
 
 **Based on Silica Content**
 
@@ -13076,7 +13076,7 @@ Q76. Explain the formation of thousands of islands in Indonesian and Philippines
 1. Explanation_PWOnlyIAS:
 Source Question: Explain the formation of thousand of islands in Indonesian and Philippines archipelagos.
 
-| **Approach:** <br> **Introduction:** <br>• Explain what archipelago is. **Body:** <br>• Explain the geography and physical processes in the formation of these islands of the region. <br> **Conclusion:** <br>• Conclude your answer with a summary of the answer. |
+| **Approach:** <br> **Introduction:** <br>• Explain what archipelago is. **Body:** <br>• Explain the geography and physical processes in the formation of these islands of the region. <br> **Conclusion** <br>• Conclude your answer with a summary of the answer. |
 | --- |
 
 ### Introduction
@@ -14257,7 +14257,7 @@ Q84. Critically evaluate the various resources of the oceans which can be harnes
 1. Explanation_PWOnlyIAS:
 Source Question: What were the major political, economic and social developments in the world which motivated the anti-colonial struggle in India?
 
-| **Approach:** <br> **Introduction:** <br>• Briefly introduce the anti-colonial struggle in India and its significance in the context of global political, economic, and social developments. <br> **Body:** <br>• Talk about the major political, economic and social developments in the world which motivated the anti-colonial struggle in India. <br> **Conclusion:** <br>• Write a relevant conclusion. |
+| **Approach:** <br> **Introduction:** <br>• Briefly introduce the anti-colonial struggle in India and its significance in the context of global political, economic, and social developments. <br> **Body:** <br>• Talk about the major political, economic and social developments in the world which motivated the anti-colonial struggle in India. <br> **Conclusion** <br>• Write a relevant conclusion. |
 | --- |
 
 ### Introduction
@@ -15961,7 +15961,7 @@ A **tsunami** is a series of large ocean waves generated by the **sudden displac
 1. Explanation_Drishti IAS:
 Source Question: What are Tsunamis? How and where are they formed? What are their consequences? Explain with examples. (Answer in 150 words) 10
 
-| **Approach:** <br>• **Introduction:** Introduce tsunamis with definition and defining term. <br>• **Body:** Explain the different causes of tsunamis (which form tsunamis) with relevant examples, and discuss its consequences. <br>• **Conclusion:** Conclude suitably. |
+| **Approach:** <br>• **Introduction:** Introduce tsunamis with definition and defining term. <br>• **Body:** Explain the different causes of tsunamis (which form tsunamis) with relevant examples, and discuss its consequences. <br>• **Conclusion** Conclude suitably. |
 | --- |
 
 ### Introduction
@@ -16504,9 +16504,9 @@ The Bhakti movement originated in South India in the 7th century and from the 13
 
 **4. Saguna and Nirguna Traditions**
 
-- **Saguna bhakti** focused on personal deities with attributes. Eg- **Rama and Krishna** in Tulsidas and Surdas.
+  - **Saguna bhakti** focused on personal deities with attributes. Eg- **Rama and Krishna** in Tulsidas and Surdas.
 
-- **Nirguna bhakti** stressed formless divine reality. EgKabir and Nanak.
+  - **Nirguna bhakti** stressed formless divine reality. EgKabir and Nanak.
 
 **5. Simplicity of Form and Style -** Use of **songs, couplets, and oral traditions.** Eg- Dohas, abhangas, vachanas.
 
@@ -16516,9 +16516,9 @@ The Bhakti movement originated in South India in the 7th century and from the 13
 
 **1. Democratization of Religion**
 
-- Made spirituality **accessible beyond elite circles.**
+  - Made spirituality **accessible beyond elite circles.**
 
-- Reduced dependence on priests and rituals.
+  - Reduced dependence on priests and rituals.
 
 **2. Development of Regional Languages - Eg-** Growth of **Tamil, Marathi, Hindi, Bengali** literature.
 
@@ -16710,9 +16710,9 @@ While the Bhakti movement originated in South India in the 7th century, the adve
 
 **1. Popularisation of Nama-sankirtana**
 
-- Chaitanya emphasised **collective chanting of the divine name** as the highest form of devotion. Eg**“Hare Rama Hare Krishna”** chant.
+  - Chaitanya emphasised **collective chanting of the divine name** as the highest form of devotion. Eg**“Hare Rama Hare Krishna”** chant.
 
-- Bhakti shifted from **individual contemplation to mass congregational worship.**
+  - Bhakti shifted from **individual contemplation to mass congregational worship.**
 
 **2.** He elevated **Radha-Krishna worship** as the supreme spiritual ideal. **Radha-bhava** symbolised the deepest emotional bond between devotee and God.
 
@@ -16724,11 +16724,11 @@ While the Bhakti movement originated in South India in the 7th century, the adve
 
 **6. Social Inclusiveness and Anti-Caste Orientation**
 
-- Chaitanya **condemned caste discrimination** in spiritual life.
+  - Chaitanya **condemned caste discrimination** in spiritual life.
 
-- Devotion, not birth, became the criterion for salvation. Eg- Association with **Haridas Thakur,** a Muslim-born devotee.
+  - Devotion, not birth, became the criterion for salvation. Eg- Association with **Haridas Thakur,** a Muslim-born devotee.
 
-- Open participation of **lower castes and women** in Bhakti practices.
+  - Open participation of **lower castes and women** in Bhakti practices.
 
 **7. Emphasis** on **personal emotional experience,** not blind ritualism. It encouraged an **intimate, personal relationship with God.**
 
@@ -17131,7 +17131,7 @@ Q103. Gandhara sculpture owed as much to the Romans as to the Greeks. Explain.
 1. Explanation_PWOnlyIAS:
 Source Question: Explain the formation of thousand of islands in Indonesian and Philippines archipelagos.
 
-| **Approach:** <br> **Introduction:** <br>• Explain what archipelago is. **Body:** <br>• Explain the geography and physical processes in the formation of these islands of the region. <br> **Conclusion:** <br>• Conclude your answer with a summary of the answer. |
+| **Approach:** <br> **Introduction:** <br>• Explain what archipelago is. **Body:** <br>• Explain the geography and physical processes in the formation of these islands of the region. <br> **Conclusion** <br>• Conclude your answer with a summary of the answer. |
 | --- |
 
 ### Introduction
@@ -17219,15 +17219,15 @@ The architecture of the Indus Valley Civilization (Harappan Culture) represents 
 
 **1. Grid-Based Town Planning**
 
-- **The Layout:** rectangular **grid system,** where streets and lanes intersected at right angles, cutting the settlement into neat blocks.
+  - **The Layout:** rectangular **grid system,** where streets and lanes intersected at right angles, cutting the settlement into neat blocks.
 
 <p align="center"><img src="civilsdaily/images/civilsdaily_p25_img12.png" alt="Diagram" /></p>
 
-- **The Arteries:** Main avenues were exceptionally wide, running systematically from north-to-south and east-to-west to maximize natural ventilation.
+  - **The Arteries:** Main avenues were exceptionally wide, running systematically from north-to-south and east-to-west to maximize natural ventilation.
 
 **2. Dual Layout: Citadel and Lower Town**
 
-- **The Citadel:** Built on a massive mud-brick platform to protect against seasonal flooding. It housed elite administrative or public structures. Eg- Great Bath at Mohenjo-daro and large-scale public Granaries.
+  - **The Citadel:** Built on a massive mud-brick platform to protect against seasonal flooding. It housed elite administrative or public structures. Eg- Great Bath at Mohenjo-daro and large-scale public Granaries.
 
 ## **● The Lower Town (Residential Zone)**
 
@@ -17235,34 +17235,34 @@ Located to the east, this larger, non-elevated expanse housed the common citizen
 
 **3. Uniform and Durable Building Materials**
 
-- **Standardized Bricks:** the Harappans pioneered the use of kiln-burnt mud bricks.
+  - **Standardized Bricks:** the Harappans pioneered the use of kiln-burnt mud bricks.
 
-- **Proportional Consistency:** dimensions of the bricks followed a strict mathematical ratio of **4:2:1.**
+  - **Proportional Consistency:** dimensions of the bricks followed a strict mathematical ratio of **4:2:1.**
 
 **4. Residential Architecture and Privacy**
 
-- **Courtyard-Centric Homes:** Private houses varied from small two-room units to multi-story mansions, all constructed around an open central courtyard.
+  - **Courtyard-Centric Homes:** Private houses varied from small two-room units to multi-story mansions, all constructed around an open central courtyard.
 
-- **Privacy Norms:** No windows opened directly onto the main thoroughfares. Main entrance doors were strategically placed in side alleys to maintain privacy.
+  - **Privacy Norms:** No windows opened directly onto the main thoroughfares. Main entrance doors were strategically placed in side alleys to maintain privacy.
 
 **5. Advanced Hydraulic and Sanitary Engineering**
 
-- **The Drainage Grid:** Every residential unit was connected to a highly sophisticated, gravity-assisted street drainage network.
+  - **The Drainage Grid:** Every residential unit was connected to a highly sophisticated, gravity-assisted street drainage network.
 
-- **Maintenance Infrastructure:** Channels were covered by loose, removable limestone slabs or bricks to facilitate routine desilting and cleaning operations.
+  - **Maintenance Infrastructure:** Channels were covered by loose, removable limestone slabs or bricks to facilitate routine desilting and cleaning operations.
 
 **6. Public Infrastructure Elements**
 
-- **The Great Bath (Mohenjo-daro):** It featured changing rooms, multi-tiered steps, and an incoming clean water well system.
+  - **The Great Bath (Mohenjo-daro):** It featured changing rooms, multi-tiered steps, and an incoming clean water well system.
 
-- **Dockyard Architecture (Lothal):** It features thick, reinforced baked-brick retaining embankments designed to withstand water pressure.
+  - **Dockyard Architecture (Lothal):** It features thick, reinforced baked-brick retaining embankments designed to withstand water pressure.
 
 Harappan architecture reflects a remarkably egalitarian, planned, and civic-minded urban civilisation, whose principles of urban planning remain relevant even today.
 
 1. Explanation_Drishti IAS:
 Source Question: Discuss the salient features of the Harappan architecture. (Answer in 150 words)
 
-| **Approach:** <br>• **Introduction:** Introduce the Harappan Civilization and its significance in early urban architecture. <br>• **Body:** Discuss key features of Harappan architecture such as town planning, materials used, drainage systems, and important structures. <br>• **Conclusion:** Summarize the architectural legacy and its reflection of an advanced urban society. |
+| **Approach:** <br>• **Introduction:** Introduce the Harappan Civilization and its significance in early urban architecture. <br>• **Body:** Discuss key features of Harappan architecture such as town planning, materials used, drainage systems, and important structures. <br>• **Conclusion** Summarize the architectural legacy and its reflection of an advanced urban society. |
 | --- |
 
 ### Introduction
@@ -17516,39 +17516,39 @@ The **Vedic period (1500-600 BC)** laid the foundational framework of Indian civ
 
 **1. Social Organisation**
 
-- **Varna system** formed the basic social framework. Eg- **Brahmana, Kshatriya, Vaishya, Shudra** mentioned in later Vedic texts.
+  - **Varna system** formed the basic social framework. Eg- **Brahmana, Kshatriya, Vaishya, Shudra** mentioned in later Vedic texts.
 
-- Society was initially **flexible and occupation-based,** becoming rigid over time.
+  - Society was initially **flexible and occupation-based,** becoming rigid over time.
 
 **2. Family and Kinship**
 
-- **Patriarchal family structure** dominated social life. Eg- Father as head of household.
+  - **Patriarchal family structure** dominated social life. Eg- Father as head of household.
 
-- Importance of **joint family system** and lineage.
+  - Importance of **joint family system** and lineage.
 
 **3. Position of Women**
 
-- Women enjoyed **relatively higher status in early Vedic period.** Eg- **Gargi and Maitreyi** participating in philosophical debates.
+  - Women enjoyed **relatively higher status in early Vedic period.** Eg- **Gargi and Maitreyi** participating in philosophical debates.
 
-- Gradual decline in status during later Vedic phase.
+  - Gradual decline in status during later Vedic phase.
 
 **4. Economic Life**
 
-- **Pastoralism gradually shifted to agriculture.** Eg- Use of iron ploughs in later Vedic period.
+  - **Pastoralism gradually shifted to agriculture.** Eg- Use of iron ploughs in later Vedic period.
 
-- Wealth measured in **cattle, land, and grains.**
+  - Wealth measured in **cattle, land, and grains.**
 
 **5. Political Organisation - Assemblies** like **Sabha and Samiti** played a significant role.
 
 **6. Religious Beliefs**
 
-- **Nature worship** dominated early Vedic religion. Eg- Indra, Agni, Varuna, Soma.
+  - **Nature worship** dominated early Vedic religion. Eg- Indra, Agni, Varuna, Soma.
 
 **7. Rituals and Sacrifices**
 
-- **Yajnas and sacrifices** were central religious practices. Eg- Ashvamedha and Rajasuya in later Vedic period.
+  - **Yajnas and sacrifices** were central religious practices. Eg- Ashvamedha and Rajasuya in later Vedic period.
 
-- Role of **priests (Brahmanas)** became increasingly prominent.
+  - Role of **priests (Brahmanas)** became increasingly prominent.
 
 **8. Philosophical Thought -** Emergence of **Upanishadic ideas** in later Vedic period. Eg- Concepts of **Brahman, Atman, karma, and moksha.**
 
@@ -17556,25 +17556,25 @@ The **Vedic period (1500-600 BC)** laid the foundational framework of Indian civ
 
 **1. Persistence of Varna-Based Identities**
 
-- **Caste identities continue socially.** Eg- Endogamy
+  - **Caste identities continue socially.** Eg- Endogamy
 
 **2. Religious Rituals and Festivals**
 
-- **Yajnas, havans, and fire rituals** remain integral to Hindu practices. Eg- Fire rituals during marriages and festivals.
+  - **Yajnas, havans, and fire rituals** remain integral to Hindu practices. Eg- Fire rituals during marriages and festivals.
 
 **3. Family Structure**
 
-- **Joint family ideals** still influence social life, especially in rural India.
+  - **Joint family ideals** still influence social life, especially in rural India.
 
 **4. Reverence for Vedic Deities and Concepts**
 
-- Continued worship of **Agni, Indra, and Surya** in rituals.
+  - Continued worship of **Agni, Indra, and Surya** in rituals.
 
-- Enduring belief in **karma and dharma.**
+  - Enduring belief in **karma and dharma.**
 
 **5. Philosophical Continuity**
 
-- **Upanishadic ideas** influence modern spiritual thought. Eg- Popularity of yoga, meditation, and Vedanta.
+  - **Upanishadic ideas** influence modern spiritual thought. Eg- Popularity of yoga, meditation, and Vedanta.
 
   - **Gram sabha** at present play similar role to Sabha and Samities While **constitutional values of equality and secularism** challenge hierarchical aspects of Vedic society, its **ethical principles, ritual practices, and philosophical ideas** have continued.
 
@@ -17620,7 +17620,7 @@ The interplay between **ancient traditions and contemporary influences** shows I
 1. Explanation_PWOnlyIAS:
 Source Question: What are the main features of Vedic society and religion? Do you think some of the features are still prevailing in Indian society?
 
-| **Approach:** <br> **Introduction** <br>• Write about the Vedic period to provide historical context briefly <br> **Body** <br>• Write about the Main Features of Vedic Society <br>• Write about the Main Features of Vedic Religion <br>• Write the features of the Vedic period which are still prevailing in Modern Indian society <br> **Conclusion:** <br>• Give appropriate conclusion in this regard |
+| **Approach:** <br> **Introduction** <br>• Write about the Vedic period to provide historical context briefly <br> **Body** <br>• Write about the Main Features of Vedic Society <br>• Write about the Main Features of Vedic Religion <br>• Write the features of the Vedic period which are still prevailing in Modern Indian society <br> **Conclusion** <br>• Give appropriate conclusion in this regard |
 | --- |
 
 ### Introduction
@@ -18574,7 +18574,7 @@ Chandella artists created a universe in stone, best described by Banabhatta’s 
 1. Explanation_Drishti IAS:
 Source Question: The sculptors filled the Chandella artform with resilient vigor and breadth of life. Elucidate. (Answer in 150 words)
 
-| **Approach** <br>• **Introduction:** Introduce the Chandella dynasty and the significance of their contribution to Indian art, particularly sculpture. <br>• **Body:** Elaborate on the key aspects of the sculptural art of the Chandellas, focusing on **dynamism**, **intricate detailing**, and the **breadth of life** as represented in their works. <br>• **Conclusion:** Conclude by summarizing the lasting impact of their art, which celebrated both divine and earthly life. |
+| **Approach** <br>• **Introduction:** Introduce the Chandella dynasty and the significance of their contribution to Indian art, particularly sculpture. <br>• **Body:** Elaborate on the key aspects of the sculptural art of the Chandellas, focusing on **dynamism**, **intricate detailing**, and the **breadth of life** as represented in their works. <br>• **Conclusion** Conclude by summarizing the lasting impact of their art, which celebrated both divine and earthly life. |
 | --- |
 
 ### Introduction
@@ -18688,11 +18688,11 @@ The **Pallavas of Kanchi (275-897 CE)** laid the foundations of **Dravidian temp
 
 **1. Evolution of Dravidian Temple Architecture**
 
-- Pallavas pioneered the transition from **rock-cut to structural temples.** Eg- **Shore Temple, Mahabalipuram.**
+  - Pallavas pioneered the transition from **rock-cut to structural temples.** Eg- **Shore Temple, Mahabalipuram.**
 
 <p align="center"><img src="civilsdaily/images/civilsdaily_p23_img9.png" alt="Diagram" /></p>
 
-- Established key architectural elements like **vimana, mandapa, and gopura.**
+  - Established key architectural elements like **vimana, mandapa, and gopura.**
 
 **2. Rock-Cut Architecture -** Development of **monolithic rathas and cave temples.** Eg- **Pancha Rathas** and **Varaha Cave Temple** at Mahabalipuram.
 
@@ -19048,47 +19048,47 @@ The **Delhi Sultanate (1206-1526 CE)** was established by **Qutbuddin Aibak** af
 
 **1. Agriculture**
 
-- **Persian wheel (saqiya)** improved irrigation efficiency and water lifting. Led to expansion of cultivation in **Punjab and Doab regions.**
+  - **Persian wheel (saqiya)** improved irrigation efficiency and water lifting. Led to expansion of cultivation in **Punjab and Doab regions.**
 
 <p align="center"><img src="civilsdaily/images/civilsdaily_p22_img7.png" alt="Diagram" /></p>
 
-- **Improved iron tools and ploughs** enhanced productivity.
+  - **Improved iron tools and ploughs** enhanced productivity.
 
-- Introduction of **new crops** from West and Central Asia. Eg**Spinach, carrot, watermelon, pomegranate.**
+  - Introduction of **new crops** from West and Central Asia. Eg**Spinach, carrot, watermelon, pomegranate.**
 
 **2. Coinage**
 
-- Introduction of **standardised metallic currency.** Eg- **Silver tanka** and **copper jital** under Iltutmish.
+  - Introduction of **standardised metallic currency.** Eg- **Silver tanka** and **copper jital** under Iltutmish.
 
-- Experimentation with **token currency.** Eg- **Muhammad bin Tughlaq’s copper token coins.**
+  - Experimentation with **token currency.** Eg- **Muhammad bin Tughlaq’s copper token coins.**
 
 **3. Architecture**
 
-- Development of **Indo-Islamic architectural style** blending Indian and Persian elements.
+  - Development of **Indo-Islamic architectural style** blending Indian and Persian elements.
 
-- Introduction of **true arch, dome, and vault** using lime mortar. Eg- **Alai Darwaza, Qutub Minar complex.**
+  - Introduction of **true arch, dome, and vault** using lime mortar. Eg- **Alai Darwaza, Qutub Minar complex.**
 
 **4. Infrastructure**
 
-- Construction of **roads, bridges, sarais, and canals.** EgRoad networks and **sarais under Alauddin Khalji.**
+  - Construction of **roads, bridges, sarais, and canals.** EgRoad networks and **sarais under Alauddin Khalji.**
 
 **5. Textiles**
 
-- Introduction of **spinning wheel (charkha)** led to expansion of cotton weaving in northern India.
+  - Introduction of **spinning wheel (charkha)** led to expansion of cotton weaving in northern India.
 
-- Use of **new dyeing and weaving techniques** from Central Asia.
+  - Use of **new dyeing and weaving techniques** from Central Asia.
 
 **6. Military Technology**
 
-- Use of **composite bow, iron stirrup,** and **horse-based cavalry warfare.**
+  - Use of **composite bow, iron stirrup,** and **horse-based cavalry warfare.**
 
-- Introduction of **standing armies** and **branding of horses (dagh system).**
+  - Introduction of **standing armies** and **branding of horses (dagh system).**
 
 **7. Paper Technology**
 
-- Introduction of **paper manufacturing** by replacing palm-leaf manuscripts.
+  - Introduction of **paper manufacturing** by replacing palm-leaf manuscripts.
 
-- Expansion of **record-keeping, education, and administration.**
+  - Expansion of **record-keeping, education, and administration.**
 
 **Influence of These Technological Changes on Indian Society**
 
@@ -19154,7 +19154,7 @@ Major technological changes introduced during the sultanate period:
 1. Explanation_PWOnlyIAS:
 Source Question: What were the major technological changes introduced during the Sultanate period? How did those technological changes influence Indian society?
 
-| **Approach:** <br> **Introduction:** <br>• Write about the Sultanate period briefly <br> **Body:** <br>• Write the major technological changes introduced during the Sultanate period <br>• Write how these technological changes influence Indian society <br> **Conclusion:** <br>• Give appropriate conclusion in this regard |
+| **Approach:** <br> **Introduction:** <br>• Write about the Sultanate period briefly <br> **Body:** <br>• Write the major technological changes introduced during the Sultanate period <br>• Write how these technological changes influence Indian society <br> **Conclusion** <br>• Give appropriate conclusion in this regard |
 | --- |
 
 
@@ -19351,43 +19351,43 @@ The Gupta period **(320-550 CE)** is referred to as the **Golden Age of India.**
 
 <p align="center"><img src="civilsdaily/images/civilsdaily_p19_img5.png" alt="Diagram" /></p>
 
-- **Compilation and codification of Puranas and epics** strengthened Brahmanical traditions. Eg- Vishnu Purana, Bhagavata Purana.
+  - **Compilation and codification of Puranas and epics** strengthened Brahmanical traditions. Eg- Vishnu Purana, Bhagavata Purana.
 
-- **Vaishnavism and Shaivism** received royal patronage, while Buddhism and Jainism continued to flourish.
+  - **Vaishnavism and Shaivism** received royal patronage, while Buddhism and Jainism continued to flourish.
 
 **2. Literature**
 
-- **Classical Sanskrit literature reached its zenith.** Eg**Kalidasa’s Abhijnanashakuntalam, Meghaduta, Raghuvamsha.**
+  - **Classical Sanskrit literature reached its zenith.** Eg**Kalidasa’s Abhijnanashakuntalam, Meghaduta, Raghuvamsha.**
 
-- **Secular works** like **Panini’s grammar (Ashtadhyayi)** and **Vishnu Sharma’s Panchatantra** gained prominence.
+  - **Secular works** like **Panini’s grammar (Ashtadhyayi)** and **Vishnu Sharma’s Panchatantra** gained prominence.
 
 **3. Science and Medicine**
 
-- Significant advances in **Ayurveda.** Eg- **Charaka Samhita** and **Sushruta Samhita** were compiled and systematised.
+  - Significant advances in **Ayurveda.** Eg- **Charaka Samhita** and **Sushruta Samhita** were compiled and systematised.
 
-- Progress in **astronomy.** Eg- **Aryabhata’s Aryabhatiya** explaining earth’s rotation.
+  - Progress in **astronomy.** Eg- **Aryabhata’s Aryabhatiya** explaining earth’s rotation.
 
 **4. Mathematics**
 
-- **The concept of zero and decimal systems** was developed. Eg- Works of **Aryabhata and Varahamihira.**
+  - **The concept of zero and decimal systems** was developed. Eg- Works of **Aryabhata and Varahamihira.**
 
 **5. Architecture**
 
-- **Cave architecture** reached artistic maturity. Eg- **Ajanta, Bagh, and Udayagiri caves.**
+  - **Cave architecture** reached artistic maturity. Eg- **Ajanta, Bagh, and Udayagiri caves.**
 
-- Development of **Nagaram style of temple architecture.** Eg- **Dashavatara Temple, Deogarh.**
+  - Development of **Nagaram style of temple architecture.** Eg- **Dashavatara Temple, Deogarh.**
 
-- Early use of **brick temples.**
+  - Early use of **brick temples.**
 
 **6. Sculpture**
 
-- Emergence of **Sarnath School of Sculpture,** noted for cream-coloured sandstone and spiritual expression. Eg- **Sarnath Buddha image.**
+  - Emergence of **Sarnath School of Sculpture,** noted for cream-coloured sandstone and spiritual expression. Eg- **Sarnath Buddha image.**
 
 **7. Painting - Ajanta paintings** depicting Jataka tales using **fresco-tempera technique.**
 
 **8. Pillars and Inscriptions**
 
-- **Pillar inscriptions** reflected political ideals and administrative practices. Eg- **Allahabad Pillar inscription of Samudragupta.**
+  - **Pillar inscriptions** reflected political ideals and administrative practices. Eg- **Allahabad Pillar inscription of Samudragupta.**
 
 **9.** Continued development of **Buddhist stupas.** Eg- **Chaukhandi Stupa, Sarnath.**
 
@@ -19395,9 +19395,9 @@ The Gupta period **(320-550 CE)** is referred to as the **Golden Age of India.**
 
 **1. Temple Architecture**
 
-- Zenith of **Dravidian temple architecture** with monumental vimanas. Eg- **Brihadeeswara Temple, Thanjavur** and **Gangaikonda Cholapuram.**
+  - Zenith of **Dravidian temple architecture** with monumental vimanas. Eg- **Brihadeeswara Temple, Thanjavur** and **Gangaikonda Cholapuram.**
 
-- Temples served as **religious, economic, and cultural centres.**
+  - Temples served as **religious, economic, and cultural centres.**
 
 <p align="center"><img src="civilsdaily/images/civilsdaily_p20_img6.png" alt="Diagram" /></p>
 
@@ -19405,21 +19405,21 @@ The Gupta period **(320-550 CE)** is referred to as the **Golden Age of India.**
 
 **3. Religion and Bhakti Tradition**
 
-- Consolidation of **Shaivism and Vaishnavism.** Eg- Patronage to **Nayanars and Alvars.**
+  - Consolidation of **Shaivism and Vaishnavism.** Eg- Patronage to **Nayanars and Alvars.**
 
-- Bhakti became an instrument of **social integration.** Eg- Saints like **Appar, Sundarar.**
+  - Bhakti became an instrument of **social integration.** Eg- Saints like **Appar, Sundarar.**
 
 **4. Administration and Local Self-Government**
 
-- Highly developed **village self-government.** Eg- **Kudavolai system** recorded in Uttaramerur inscriptions.
+  - Highly developed **village self-government.** Eg- **Kudavolai system** recorded in Uttaramerur inscriptions.
 
 **5. Social and Cultural Life**
 
-- Society organised around **occupational and regional identities.** Eg- **Kurinji (hunting communities)** associated with **Murugan worship.**
+  - Society organised around **occupational and regional identities.** Eg- **Kurinji (hunting communities)** associated with **Murugan worship.**
 
 **6. Maritime Trade and Cultural Expansion**
 
-- Strong **naval power and overseas trade.** Eg- Cultural influence in **Sri Lanka and Southeast Asia.**
+  - Strong **naval power and overseas trade.** Eg- Cultural influence in **Sri Lanka and Southeast Asia.**
 
 Together, they enriched India’s heritage with **unity, diversity, and continuity,** whose influence continues to shape Indian culture even today.
 
@@ -20055,11 +20055,11 @@ Akbar’s religious policy marked a **departure from orthodox Islamic statecraft
 
 **4. Din-i-Ilahi (1582) -** Emphasis on **ethical conduct, loyalty, tolerance,** not mass religion. It combined elements from various faiths
 
-- **Islam-** Monotheism and the concept of a spiritual guide (Pir).
+  - **Islam-** Monotheism and the concept of a spiritual guide (Pir).
 
-- **Hinduism/Jainism-** Vegetarianism and the prohibition of animal slaughter on certain days
+  - **Hinduism/Jainism-** Vegetarianism and the prohibition of animal slaughter on certain days
 
-- **Zoroastrianism-** Veneration of light and the Sun (Surya Namaskar).
+  - **Zoroastrianism-** Veneration of light and the Sun (Surya Namaskar).
 
 **5. Respect for Non-Islamic Practices**
 
@@ -20071,9 +20071,9 @@ Akbar’s religious policy marked a **departure from orthodox Islamic statecraft
 
   - **Adoption of Socio-Religious Traditions**
 
-- He began appearing at the **Jharokha Darshan** and applied the Tika on his forehead.
+  - He began appearing at the **Jharokha Darshan** and applied the Tika on his forehead.
 
-- Celebrated festivals like Diwali, Rakshabandhan, and Nauroz at the court.
+  - Celebrated festivals like Diwali, Rakshabandhan, and Nauroz at the court.
 
 As **Irfan Habib** notes, Akbar sought **“a moral basis for kingship beyond sectarian boundaries,”** laying foundations for India’s **composite culture.**
 
@@ -20082,7 +20082,7 @@ As **Irfan Habib** notes, Akbar sought **“a moral basis for kingship beyond se
 1. Explanation_Drishti IAS:
 Source Question: Examine the main aspects of Akbar's religious syncretism. (Answer in 150 words)
 
-| **Approach:** <br>• **Introduction:** Briefly introduce Akbar's approach to religious syncretism and its significance in his reign. <br>• **Body:** Discuss the main aspects such as **Sulh-i-Kul**, **abolition of Jizya**, **religious dialogues**, and other policies. <br>• **Conclusion:** Conclude by highlighting the long-term impact of his syncretic policies on Indian society and governance. |
+| **Approach:** <br>• **Introduction:** Briefly introduce Akbar's approach to religious syncretism and its significance in his reign. <br>• **Body:** Discuss the main aspects such as **Sulh-i-Kul**, **abolition of Jizya**, **religious dialogues**, and other policies. <br>• **Conclusion** Conclude by highlighting the long-term impact of his syncretic policies on Indian society and governance. |
 | --- |
 
 ### Introduction
@@ -20328,63 +20328,63 @@ The Persian language arrived in India with the **Ghaznavid and Ghurid invasions,
 
 **1. Political Spirit**
 
-- **Genealogy and Chronology of Kings** - Eg- **Amir Khusrau’s Khazain-ul-Futuh** traces Sultanate rulers and their conquests.
+  - **Genealogy and Chronology of Kings** - Eg- **Amir Khusrau’s Khazain-ul-Futuh** traces Sultanate rulers and their conquests.
 
-- **Divine Authority** - Rulers portrayed as God’s chosen representatives. Eg- **Zia-ud-din Barani** portrayed the Sultan as a divinely guided ruler.
+  - **Divine Authority** - Rulers portrayed as God’s chosen representatives. Eg- **Zia-ud-din Barani** portrayed the Sultan as a divinely guided ruler.
 
-- Chronicling conquests and campaigns. Eg- **Baburnama** details Babur’s battles and state-building efforts.
+  - Chronicling conquests and campaigns. Eg- **Baburnama** details Babur’s battles and state-building efforts.
 
 **2. Economic Conditions**
 
-- **Agrarian Revenue System** - Eg- **Ain-i-Akbari** documents crop rates, measurement systems, and revenue shares.
+  - **Agrarian Revenue System** - Eg- **Ain-i-Akbari** documents crop rates, measurement systems, and revenue shares.
 
-- **Urban Markets and Trade** - Eg- **Ibn Battuta’s Rehla** on Delhi’s markets and Alauddin Khalji’s price controls.
+  - **Urban Markets and Trade** - Eg- **Ibn Battuta’s Rehla** on Delhi’s markets and Alauddin Khalji’s price controls.
 
 **3. Religious Climate**
 
-- **Orthodoxy and Islamic Law** - Eg- Barani’s account of **Islamic orthodoxy** under Firoz Shah Tughlaq.
+  - **Orthodoxy and Islamic Law** - Eg- Barani’s account of **Islamic orthodoxy** under Firoz Shah Tughlaq.
 
-- **Religious Pluralism and Tolerance** - Eg- **Abul Fazl’s Ain-i-Akbari** on **Sulh-i-Kul.**
+  - **Religious Pluralism and Tolerance** - Eg- **Abul Fazl’s Ain-i-Akbari** on **Sulh-i-Kul.**
 
-- **Sufi Influence** - Eg- Persian **malfuzat literature** on Chishti saints.
+  - **Sufi Influence** - Eg- Persian **malfuzat literature** on Chishti saints.
 
-- Indian epics translated into Persian. Eg- **Mahabharata translated as Razmnama** under Akbar by **Badauni.**
+  - Indian epics translated into Persian. Eg- **Mahabharata translated as Razmnama** under Akbar by **Badauni.**
 
 **4. Cultural Ethos**
 
-- **Indo-Persian Cultural Synthesis** - Eg- **Amir Khusrau’s poetry** blending Persian style with Indian imagery.
+  - **Indo-Persian Cultural Synthesis** - Eg- **Amir Khusrau’s poetry** blending Persian style with Indian imagery.
 
-- **Courtly Culture and Aesthetics** - Eg- Akbar’s court ceremonies described in **Akbarnama.**
+  - **Courtly Culture and Aesthetics** - Eg- Akbar’s court ceremonies described in **Akbarnama.**
 
-- **Growth of Regional Languages** - Eg- **Punjabi, Sindhi, Kashmiri, and Urdu** absorbed Persian vocabulary.
+  - **Growth of Regional Languages** - Eg- **Punjabi, Sindhi, Kashmiri, and Urdu** absorbed Persian vocabulary.
 
-- **Inter-faith Dialogue-** Eg- Dara Shikoh’s **Majma-ul-Bahrayn** (The Mingling of the Two Oceans) argues that the Upanishads and the Quran share the same spiritual truth.
+  - **Inter-faith Dialogue-** Eg- Dara Shikoh’s **Majma-ul-Bahrayn** (The Mingling of the Two Oceans) argues that the Upanishads and the Quran share the same spiritual truth.
 
 **5. Social Structure**
 
-- **Hierarchical Society** - Eg- Barani’s classification of **ashraf and ajlaf.**
+  - **Hierarchical Society** - Eg- Barani’s classification of **ashraf and ajlaf.**
 
-- Accounts of **nobility and officials.** Eg- Chroniclers detailing lives of **mansabdars.**
+  - Accounts of **nobility and officials.** Eg- Chroniclers detailing lives of **mansabdars.**
 
-- Reflection of **urban society** - Eg- Descriptions of **Delhi, Agra, Fatehpur Sikri.**
+  - Reflection of **urban society** - Eg- Descriptions of **Delhi, Agra, Fatehpur Sikri.**
 
-- **State-led Reforms** - Eg- **Abul Fazl’s Akbarnama** highlights Akbar’s abolition of **Jizya.**
+  - **State-led Reforms** - Eg- **Abul Fazl’s Akbarnama** highlights Akbar’s abolition of **Jizya.**
 
-- **Status of Women** - Eg- References to **purdah system** in court narratives.
+  - **Status of Women** - Eg- References to **purdah system** in court narratives.
 
 **6. Technological and Scientific Awareness**
 
-- **Military Technology** - References to arms and fortifications. Eg- **Baburnama** on use of **gunpowder artillery.**
+  - **Military Technology** - References to arms and fortifications. Eg- **Baburnama** on use of **gunpowder artillery.**
 
-- **Architectural Techniques** - Documentation of construction methods.
+  - **Architectural Techniques** - Documentation of construction methods.
 
-- Expansion of **documentation culture.** Eg- Administrative manuals under the Mughals.
+  - Expansion of **documentation culture.** Eg- Administrative manuals under the Mughals.
 
 **7. Legal and Administrative Order**
 
-- **Centralised Bureaucracy** - Eg- **Ain-i-Akbari** on mansabdari and judicial administration.
+  - **Centralised Bureaucracy** - Eg- **Ain-i-Akbari** on mansabdari and judicial administration.
 
-- **Ethical Governance Ideals** - Advice literature for rulers. Eg- **Abul Fazl’s Akbarnama** glorifies Akbar’s reign as ideal governance.
+  - **Ethical Governance Ideals** - Advice literature for rulers. Eg- **Abul Fazl’s Akbarnama** glorifies Akbar’s reign as ideal governance.
 
 Thus, Persian literary sources are not merely historical records but **mirrors of medieval Indian society**
 
@@ -21861,39 +21861,39 @@ The expansion of the British East India Company was a triumph of institutional o
 
 **1. Political Factors**
 
-- **Fragmented Indian polity** - Eg- Marathas, Nizam, and Awadh failed to form a sustained anti-British alliance.
+  - **Fragmented Indian polity** - Eg- Marathas, Nizam, and Awadh failed to form a sustained anti-British alliance.
 
-- **Diplomacy** - Company isolated enemies before military confrontation. Eg- Wellesley’s Subsidiary Alliance system neutralised Indian rulers politically.
+  - **Diplomacy** - Company isolated enemies before military confrontation. Eg- Wellesley’s Subsidiary Alliance system neutralised Indian rulers politically.
 
 **2. Economic Factors**
 
-- **Superior financial resources** - Eg- Diwani rights (1765) funded continuous military expansion.
+  - **Superior financial resources** - Eg- Diwani rights (1765) funded continuous military expansion.
 
-- **Commercial-military synergy** - Trade profits sustained long wars without fiscal collapse.
+  - **Commercial-military synergy** - Trade profits sustained long wars without fiscal collapse.
 
 **3. Technological Factors**
 
-- **Standardised firearms and artillery** - Eg- Effective use of field artillery at Buxar overwhelmed numerically superior forces of Awadh, Mughal, and Bengal Nawab.
+  - **Standardised firearms and artillery** - Eg- Effective use of field artillery at Buxar overwhelmed numerically superior forces of Awadh, Mughal, and Bengal Nawab.
 
-- **Military innovations** - Better logistics, military engineering, and disciplined infantry formations.
+  - **Military innovations** - Better logistics, military engineering, and disciplined infantry formations.
 
 **4. Leadership and Organisation**
 
-- **Professional military leadership** - Officers trained in European warfare doctrines. Eg- Clive and Eyre Coote employed coordinated infantry-artillery tactics.
+  - **Professional military leadership** - Officers trained in European warfare doctrines. Eg- Clive and Eyre Coote employed coordinated infantry-artillery tactics.
 
-- **Unified command structure** - Clear hierarchy ensured swift decision-making unlike feudal Indian armies.
+  - **Unified command structure** - Clear hierarchy ensured swift decision-making unlike feudal Indian armies.
 
 **5. Social Divisions within Indian Armies**
 
-- **Feudal composition of Indian forces** - Loyalty based on personal allegiance, not the state. EgDefection of Mir Jafar at Plassey.
+  - **Feudal composition of Indian forces** - Loyalty based on personal allegiance, not the state. EgDefection of Mir Jafar at Plassey.
 
-- **Caste and regional divisions** - Eg- Mahar regiment fighting against Peshwa army in Anglo-Maratha wars
+  - **Caste and regional divisions** - Eg- Mahar regiment fighting against Peshwa army in Anglo-Maratha wars
 
 **6. Ideological and Psychological Factors**
 
-- **Absence of nationalism** - Indian soldiers fought for rulers, not a national cause.
+  - **Absence of nationalism** - Indian soldiers fought for rulers, not a national cause.
 
-- **Company’s corporate discipline** - Soldiers motivated by regular pay, promotion, and military professionalism.
+  - **Company’s corporate discipline** - Soldiers motivated by regular pay, promotion, and military professionalism.
 
 The European conquest of India was not just a conquest of territory but a conquest of the Indian soul, changing the very ethos of Indian society." - **Rabindranath Tagore**
 
@@ -22531,7 +22531,7 @@ While Gandhi focused on practical education and non-violence, shaping his nation
 1. Explanation_PWOnlyIAS:
 Source Question: What was the difference between Mahatma Gandhi and Rabindranath Tagore in their approach towards education and nationalism?
 
-| **Approach** <br> **Introduction:** Write about Mahatma Gandhi and Rabindranath Tagore briefly <br> **Body:** Write the difference between Mahatma Gandhi and Rabindranath Tagore in their approach towards education <br> Write the difference between Mahatma Gandhi and Rabindranath Tagore in their approach towards nationalism <br> **Conclusion:** Give appropriate conclusion in this regard |
+| **Approach** <br> **Introduction:** Write about Mahatma Gandhi and Rabindranath Tagore briefly <br> **Body:** Write the difference between Mahatma Gandhi and Rabindranath Tagore in their approach towards education <br> Write the difference between Mahatma Gandhi and Rabindranath Tagore in their approach towards nationalism <br> **Conclusion** Give appropriate conclusion in this regard |
 | --- |
 
 ### Introduction
@@ -25167,7 +25167,7 @@ Q153. Several foreigners made India their homeland and participated in various m
 1. Explanation_PWOnlyIAS:
 Source Question: Several foreigners made India their homeland and participated in various movements. Analyze their role in the Indian struggle for freedom.
 
-| **Approach:** <br> **Introduction:** <br>• Introduce by mentioning that numerous foreign individuals made India their home. <br> **Body:** <br>• Mention their diverse roles and contributions to the struggle for freedom. <br> **Conclusion:** <br>• Summarize the significance of the foreign individuals’ contributions to India’s struggle for freedom. |
+| **Approach:** <br> **Introduction:** <br>• Introduce by mentioning that numerous foreign individuals made India their home. <br> **Body:** <br>• Mention their diverse roles and contributions to the struggle for freedom. <br> **Conclusion** <br>• Summarize the significance of the foreign individuals’ contributions to India’s struggle for freedom. |
 | --- |
 
 ### Introduction
@@ -25335,9 +25335,9 @@ The **Quit India Movement, launched on August 8, 1942,** emerged from the failur
 
 **2. Failure of Constitutional Negotiations**
 
-- **Collapse of the August Offer (1940)** due to no commitment to **immediate transfer of power disappointed** nationalists.
+  - **Collapse of the August Offer (1940)** due to no commitment to **immediate transfer of power disappointed** nationalists.
 
-- **Cripps Mission (1942)** failed to satisfy Indian demands - Offer of dominion status **after the war,** with right of provinces to secede. Gandhiji called it “post dated cheque”
+  - **Cripps Mission (1942)** failed to satisfy Indian demands - Offer of dominion status **after the war,** with right of provinces to secede. Gandhiji called it “post dated cheque”
 
 **3. Growing Economic Hardship - War-time inflation, shortages, and taxation** aggravated public suffering.
 
@@ -25509,51 +25509,51 @@ Mahatma Gandhi viewed the Indian national movement not merely as a political str
 
 **1. Communal Unity**
 
-- During the NCM, he actively linked mainstream national grievances with the **Khilafat Movement** to forge Hindu - Muslim unity.
+  - During the NCM, he actively linked mainstream national grievances with the **Khilafat Movement** to forge Hindu - Muslim unity.
 
-- He emphasized an **"unbreakable unity of hearts,"** demanding that Congress workers exhibit genuine respect for all religious faiths.
+  - He emphasized an **"unbreakable unity of hearts,"** demanding that Congress workers exhibit genuine respect for all religious faiths.
 
-- **Joint participation** in hartals and protests. Eg- Ali Brothers working alongside Congress.
+  - **Joint participation** in hartals and protests. Eg- Ali Brothers working alongside Congress.
 
 **2. Removal of Untouchability**
 
-- Gandhi urged upper-caste Hindus to abandon untouchability as a sin against humanity.
+  - Gandhi urged upper-caste Hindus to abandon untouchability as a sin against humanity.
 
-- Opening of wells, temples, and public roads to Dalits was encouraged.
+  - Opening of wells, temples, and public roads to Dalits was encouraged.
 
-- **Mass Awareness via** weekly nationalist newspaper **‘Harijan’** (Children of God).
+  - **Mass Awareness via** weekly nationalist newspaper **‘Harijan’** (Children of God).
 
-- He undertook a 20,000-km nationwide tour to raise welfare funds and founded the **Harijan Sevak Sangh** in 1932 for upliftment of depressed classes.
+  - He undertook a 20,000-km nationwide tour to raise welfare funds and founded the **Harijan Sevak Sangh** in 1932 for upliftment of depressed classes.
 
 **3. Promotion of Khadi and Village Industries**
 
-- Spinning wheel (charkha) became the symbol of self-reliance and economic independence.
+  - Spinning wheel (charkha) became the symbol of self-reliance and economic independence.
 
-- Boycott of foreign cloth and promotion of hand-spun, hand-woven Khadi. Eg- Public bonfires of foreign cloth in Bombay.
+  - Boycott of foreign cloth and promotion of hand-spun, hand-woven Khadi. Eg- Public bonfires of foreign cloth in Bombay.
 
 **4. Prohibition of Alcohol and Opium**
 
-- Intensified anti-liquor campaigns. Eg- Women's groups in Gujarat and Maharashtra actively picketed liquor shops.
+  - Intensified anti-liquor campaigns. Eg- Women's groups in Gujarat and Maharashtra actively picketed liquor shops.
 
 **5. Basic Education (Nai Talim)**
 
-- **Holistic Pedagogy:** learning was directly connected with practical life, aiming to harmoniously develop the "mind, body, and soul."
+  - **Holistic Pedagogy:** learning was directly connected with practical life, aiming to harmoniously develop the "mind, body, and soul."
 
-- **Vocational Roots:** centering primary education around a productive local handicraft (like spinning or woodwork)
+  - **Vocational Roots:** centering primary education around a productive local handicraft (like spinning or woodwork)
 
-- Tilak Maharashtra Vidyapeeth and Gujarat Vidyapith were founded to provide education rooted in Indian values.
+  - Tilak Maharashtra Vidyapeeth and Gujarat Vidyapith were founded to provide education rooted in Indian values.
 
 **6. Upliftment and Empowerment of Women**
 
-- Mass participation of women in picketing, salt-making, and boycotts.
+  - Mass participation of women in picketing, salt-making, and boycotts.
 
-- Women like Sarojini Naidu, Kamaladevi Chattopadhyay, and Kasturba Gandhi emerged as leaders.
+  - Women like Sarojini Naidu, Kamaladevi Chattopadhyay, and Kasturba Gandhi emerged as leaders.
 
-- **Economic Independence** by actively involving women in decentralized Khadi production.
+  - **Economic Independence** by actively involving women in decentralized Khadi production.
 
 **7. Improving the Plight of Labourers and Kisans**
 
-- **Organizing Agrarian Resistance:** Eg: The **Bardoli Satyagraha (1928)** under Sardar Patel.
+  - **Organizing Agrarian Resistance:** Eg: The **Bardoli Satyagraha (1928)** under Sardar Patel.
 
 **Significance of Constructive Programmes**
 
@@ -25978,11 +25978,11 @@ The transfer of power in 1940s was not a smooth constitutional transition but a 
 
 **4. Encouragement of Communal Politics**
 
-- Recognition of Muslim League as sole Muslim representative and granting it a **"Veto"** in the August Offer of 1940
+  - Recognition of Muslim League as sole Muslim representative and granting it a **"Veto"** in the August Offer of 1940
 
-- British dealings reinforced **two-nation logic** rather than national unity.
+  - British dealings reinforced **two-nation logic** rather than national unity.
 
-- The **wavell plan and shimla conference** further emboldened the Muslim league
+  - The **wavell plan and shimla conference** further emboldened the Muslim league
 
   - **The arrest of Congress leadership** during Quit India created a political vacuum.
 
@@ -26530,75 +26530,75 @@ The decade of the 1920s marked a watershed moment in the Indian national movemen
 
 **1. Gandhian Ideology (Satyagraha and Non-Violence)**
 
-- Integrated truth, non-violence (Ahimsa), and civil disobedience to convert a middle-class movement into a mass struggle.
+  - Integrated truth, non-violence (Ahimsa), and civil disobedience to convert a middle-class movement into a mass struggle.
 
-- Brought rural masses, artisans, and the illiterate population into active political agitation.
+  - Brought rural masses, artisans, and the illiterate population into active political agitation.
 
-- **Constructive Programme Focus:** Emphasized Khadi, village industries, and the eradication of untouchability to build social self-reliance.
+  - **Constructive Programme Focus:** Emphasized Khadi, village industries, and the eradication of untouchability to build social self-reliance.
 
-- Eg: Non-Cooperation Movement (1920-22) and Civil Disobedience Movement (1930).
+  - Eg: Non-Cooperation Movement (1920-22) and Civil Disobedience Movement (1930).
 
 **2. Revolutionary Nationalism**
 
-- Advocated for the **violent overthrow** of British imperialism, capturing the imagination of radicalized urban youth.
+  - Advocated for the **violent overthrow** of British imperialism, capturing the imagination of radicalized urban youth.
 
-- **Secular and Socialist Evolution:** Transitioned from religious-patriotic undertones to explicit anti-imperialist, socialist-republican goals.
+  - **Secular and Socialist Evolution:** Transitioned from religious-patriotic undertones to explicit anti-imperialist, socialist-republican goals.
 
-- **Dramatized Protests:** Created powerful symbolic actions that inspired nationwide defiance against British authorities. Eg- Kakori Train attack
+  - **Dramatized Protests:** Created powerful symbolic actions that inspired nationwide defiance against British authorities. Eg- Kakori Train attack
 
-- Eg: Bhagat Singh, Chandrashekhar Azad, and the Hindustan Socialist Republican Association (HSRA).
+  - Eg: Bhagat Singh, Chandrashekhar Azad, and the Hindustan Socialist Republican Association (HSRA).
 
 **3. Peasant and Agrarian Ideology**
 
-- Linked the national anti-British struggle with immediate agrarian grievances like high rents and forced evictions.
+  - Linked the national anti-British struggle with immediate agrarian grievances like high rents and forced evictions.
 
-- Organized localized peasant unions (Kisan Sabha) to demand structural land reforms.
+  - Organized localized peasant unions (Kisan Sabha) to demand structural land reforms.
 
-- Eg: Swami Sahajanand Saraswati founded the All India Kisan Sabha (1936) and the Bardoli Satyagraha (1928) led by Patel.
+  - Eg: Swami Sahajanand Saraswati founded the All India Kisan Sabha (1936) and the Bardoli Satyagraha (1928) led by Patel.
 
 **4. Communist Ideology**
 
-- **Working-Class Radicalization** through trade unionism and collective strikes.
+  - **Working-Class Radicalization** through trade unionism and collective strikes.
 
-- **Anti-Imperialist-Anti-Capitalist Nexus**
+  - **Anti-Imperialist-Anti-Capitalist Nexus**
 
-- Eg: M.N. Roy founded the Communist Party of India (1920) and the growth of the Girni Kamgar Union.
+  - Eg: M.N. Roy founded the Communist Party of India (1920) and the growth of the Girni Kamgar Union.
 
 **5. Socialist Ideology (Within the Congress)**
 
-- **Radical Internal Reform:** Worked within mainstream political platforms to tilt economic policies toward state-led industrial planning and social equality.
+  - **Radical Internal Reform:** Worked within mainstream political platforms to tilt economic policies toward state-led industrial planning and social equality.
 
-- Attracted the younger generation of educated leaders who were dissatisfied with conservative compromise politics.
+  - Attracted the younger generation of educated leaders who were dissatisfied with conservative compromise politics.
 
-- Eg: Jawaharlal Nehru and Subhas Chandra Bose leading the Congress Socialist Party (CSP) formed in 1934.
+  - Eg: Jawaharlal Nehru and Subhas Chandra Bose leading the Congress Socialist Party (CSP) formed in 1934.
 
 **6. Feminist and Women’s Ideology**
 
-- Transitioned women from traditional domestic roles into active political agitators and picketers on city streets.
+  - Transitioned women from traditional domestic roles into active political agitators and picketers on city streets.
 
-- **Demanding Equal Legal Rights:** Linked the fight against foreign colonial rule with domestic struggles for female suffrage, labor laws, and education.
+  - **Demanding Equal Legal Rights:** Linked the fight against foreign colonial rule with domestic struggles for female suffrage, labor laws, and education.
 
-- **Armed and Subversive Participation:** Participated actively in underground revolutionary missions, breaking the stereotype of passive resistance.
+  - **Armed and Subversive Participation:** Participated actively in underground revolutionary missions, breaking the stereotype of passive resistance.
 
-- Eg: Sarojini Naidu leading the Salt Satyagraha at Dharsana, and Pritilata Wadedar participating in the Chittagong Armoury Raid.
+  - Eg: Sarojini Naidu leading the Salt Satyagraha at Dharsana, and Pritilata Wadedar participating in the Chittagong Armoury Raid.
 
 **7. Dalit and Depressed Classes Ideology**
 
-- **Substantive Social Democracy:** Argued that political freedom from the British was meaningless without social freedom from the oppressive caste hierarchy.
+  - **Substantive Social Democracy:** Argued that political freedom from the British was meaningless without social freedom from the oppressive caste hierarchy.
 
-- **Institutional Legal Guarantees:** Fought for separate electorates, reservation of seats, and constitutional safeguards for marginalized communities.
+  - **Institutional Legal Guarantees:** Fought for separate electorates, reservation of seats, and constitutional safeguards for marginalized communities.
 
-- **Assertion of Basic Human Dignity:** Organized mass civil rights movements to secure access to public water bodies and temples.
+  - **Assertion of Basic Human Dignity:** Organized mass civil rights movements to secure access to public water bodies and temples.
 
-- Eg: Dr. B.R. Ambedkar established the Depressed Classes Institute (1924) and led the Mahad Satyagraha (1927).
+  - Eg: Dr. B.R. Ambedkar established the Depressed Classes Institute (1924) and led the Mahad Satyagraha (1927).
 
 **8. Tribal and Indigenous Ideology**
 
-- **Defending Forest Sovereignty:** Fought passionately against British colonial forest laws that disrupted traditional tribal community economies.
+  - **Defending Forest Sovereignty:** Fought passionately against British colonial forest laws that disrupted traditional tribal community economies.
 
-- **Guerrilla Warfare Tactics:** Used traditional archery and terrain knowledge to stage highly effective ambush operations against British police forces.
+  - **Guerrilla Warfare Tactics:** Used traditional archery and terrain knowledge to stage highly effective ambush operations against British police forces.
 
-- Eg: Alluri Sitarama Raju leading the Rampa Rebellion (1922-24) in the Andhra hills.
+  - Eg: Alluri Sitarama Raju leading the Rampa Rebellion (1922-24) in the Andhra hills.
 
 **Ideological Strands Weakening the National Movement**
 
@@ -27449,7 +27449,7 @@ Q165. Critically discuss the objectives of Bhoodan and Gramdan movements initiat
 1. Explanation_PWOnlyIAS:
 Source Question: Critically discuss the objectives of Bhoodan and Gramdan movements initiated by Acharya Vinoba Bhave and their success.
 
-| **Approach:** <br> **Introduction:** <br>• Introduce the Bhoodan and Gramdan movements, initiated by Acharya Vinoba Bhave, as efforts to address landlessness and promote equitable land distribution in rural India. <br> **Body** <br>• Write the objectives of Bhoodan and Gramdan movements. <br>• Also, do the critical assessment of its success. <br> **Conclusion:** <br>• Conclude, emphasizing their role in raising awareness, inspiring land reforms, and leaving a lasting impact on India’s rural development discourse. |
+| **Approach:** <br> **Introduction:** <br>• Introduce the Bhoodan and Gramdan movements, initiated by Acharya Vinoba Bhave, as efforts to address landlessness and promote equitable land distribution in rural India. <br> **Body** <br>• Write the objectives of Bhoodan and Gramdan movements. <br>• Also, do the critical assessment of its success. <br> **Conclusion** <br>• Conclude, emphasizing their role in raising awareness, inspiring land reforms, and leaving a lasting impact on India’s rural development discourse. |
 | --- |
 
 ### Introduction
@@ -29514,7 +29514,7 @@ Q178. What were the major political, economic and social developments in the wor
 1. Explanation_PWOnlyIAS:
 Source Question: What were the major political, economic and social developments in the world which motivated the anti-colonial struggle in India?
 
-| **Approach:** <br> **Introduction:** <br>• Briefly introduce the anti-colonial struggle in India and its significance in the context of global political, economic, and social developments. <br> **Body:** <br>• Talk about the major political, economic and social developments in the world which motivated the anti-colonial struggle in India. <br> **Conclusion:** <br>• Write a relevant conclusion. |
+| **Approach:** <br> **Introduction:** <br>• Briefly introduce the anti-colonial struggle in India and its significance in the context of global political, economic, and social developments. <br> **Body:** <br>• Talk about the major political, economic and social developments in the world which motivated the anti-colonial struggle in India. <br> **Conclusion** <br>• Write a relevant conclusion. |
 | --- |
 
 ### Introduction
@@ -30516,7 +30516,7 @@ Q185. Taxila university was one of the oldest universities of the world with whi
 1. Explanation_PWOnlyIAS:
 Source Question: What were the major political, economic and social developments in the world which motivated the anti-colonial struggle in India?
 
-| **Approach:** <br> **Introduction:** <br>• Briefly introduce the anti-colonial struggle in India and its significance in the context of global political, economic, and social developments. <br> **Body:** <br>• Talk about the major political, economic and social developments in the world which motivated the anti-colonial struggle in India. <br> **Conclusion:** <br>• Write a relevant conclusion. |
+| **Approach:** <br> **Introduction:** <br>• Briefly introduce the anti-colonial struggle in India and its significance in the context of global political, economic, and social developments. <br> **Body:** <br>• Talk about the major political, economic and social developments in the world which motivated the anti-colonial struggle in India. <br> **Conclusion** <br>• Write a relevant conclusion. |
 | --- |
 
 ### Introduction
@@ -30658,23 +30658,23 @@ The introduction of **railways** from the early 19th century onwards was one of 
 
 **1. Industrial Growth and Market Integration**
 
-- **Britain:** Railways fuelled the **Industrial Revolution** by transporting raw materials and finished goods efficiently. Eg- **Manchester-Liverpool Railway (1830).**
+  - **Britain:** Railways fuelled the **Industrial Revolution** by transporting raw materials and finished goods efficiently. Eg- **Manchester-Liverpool Railway (1830).**
 
-- **USA: Transcontinental Railroad (1869)** integrated the East and West coasts, enabling continental-scale trade and settlement.
+  - **USA: Transcontinental Railroad (1869)** integrated the East and West coasts, enabling continental-scale trade and settlement.
 
-- **India:** Railways linked raw material hinterlands to port cities. Eg- **Cotton from Deccan to Bombay port** for export to Manchester.
+  - **India:** Railways linked raw material hinterlands to port cities. Eg- **Cotton from Deccan to Bombay port** for export to Manchester.
 
 **2. Urbanisation and New Towns**
 
-- Railway junctions grew into major cities. Eg- **Chicago (USA), Jamalpur (India), Crewe (Britain).**
+  - Railway junctions grew into major cities. Eg- **Chicago (USA), Jamalpur (India), Crewe (Britain).**
 
-- Migration of labour to industrial centres accelerated **urbanisation.**
+  - Migration of labour to industrial centres accelerated **urbanisation.**
 
 **3. Agricultural Commercialisation**
 
-- In **India,** railways enabled shift from **subsistence agriculture** to **commercial agriculture.** EgExport of **wheat, cotton, jute.**
+  - In **India,** railways enabled shift from **subsistence agriculture** to **commercial agriculture.** EgExport of **wheat, cotton, jute.**
 
-- In the **USA,** grain from the Midwest reached eastern markets and global ports.
+  - In the **USA,** grain from the Midwest reached eastern markets and global ports.
 
 **4. Employment Generation -** Eg- **Indian Railways** became one of the world's largest employers.
 
@@ -30684,19 +30684,19 @@ The introduction of **railways** from the early 19th century onwards was one of 
 
 **2. Spread of Ideas and Nationalism**
 
-- In **India,** railways facilitated the spread of **nationalist ideas** and enabled Congress leaders to travel across provinces.
+  - In **India,** railways facilitated the spread of **nationalist ideas** and enabled Congress leaders to travel across provinces.
 
-- In **Europe,** railways aided national unification. Eg- **German Zollverein (customs union)** was strengthened by rail connectivity.
+  - In **Europe,** railways aided national unification. Eg- **German Zollverein (customs union)** was strengthened by rail connectivity.
 
 **3. Social Mobility and Migration -** Railways eased **pilgrimage,** migration, and social interactions across regions.
 
 **4. Negative Social Effects**
 
-- In **India:** Commercialisation of agriculture led to **famines.** Eg- Grain exported while locals starved.
+  - In **India:** Commercialisation of agriculture led to **famines.** Eg- Grain exported while locals starved.
 
-- In **USA:** Displacement of **Native Americans** from their lands for railroad construction.
+  - In **USA:** Displacement of **Native Americans** from their lands for railroad construction.
 
-- In **Africa:** Railways built primarily for **colonial extraction.** Eg- **Congo-Ocean Railway** caused thousands of deaths among forced African labourers.
+  - In **Africa:** Railways built primarily for **colonial extraction.** Eg- **Congo-Ocean Railway** caused thousands of deaths among forced African labourers.
 
 Railways were a **double-edged sword** - engines of **progress** in sovereign nations, but instruments of **exploitation** in colonial contexts.
 
@@ -31162,15 +31162,15 @@ While the preservation of the **balance of power** was a significant factor for 
 
 **1. Alliance System**
 
-- Europe was divided into two rival alliance blocs - **Triple Alliance (Germany, Austria-Hungary, Italy)** and **Triple Entente (France, Russia, Britain).**
+  - Europe was divided into two rival alliance blocs - **Triple Alliance (Germany, Austria-Hungary, Italy)** and **Triple Entente (France, Russia, Britain).**
 
-- These alliances were designed to maintain equilibrium, but ultimately drew all major powers into a local conflict.
+  - These alliances were designed to maintain equilibrium, but ultimately drew all major powers into a local conflict.
 
 **2. German Challenge to British Hegemony**
 
-- Germany's rapid **industrialisation** and naval expansion **(Tirpitz Plan)** directly challenged British naval supremacy.
+  - Germany's rapid **industrialisation** and naval expansion **(Tirpitz Plan)** directly challenged British naval supremacy.
 
-- **The Anglo-German naval race (Dreadnought competition)** was a classic balance of power struggle.
+  - **The Anglo-German naval race (Dreadnought competition)** was a classic balance of power struggle.
 
   - **British Shift from Splendid Isolation** - Britain abandoned isolation to prevent German continental dominance. Eg- **Entente Cordiale (1904).**
 
@@ -31178,9 +31178,9 @@ While the preservation of the **balance of power** was a significant factor for 
 
 **5. Austrian-Russian Rivalry in the Balkans**
 
-- Both powers sought to fill the vacuum left by the declining **Ottoman Empire.**
+  - Both powers sought to fill the vacuum left by the declining **Ottoman Empire.**
 
-- **Austria-Hungary's annexation of Bosnia (1908)** and Russia's **Pan-Slavist** support for Serbia threatened the balance in Southeast Europe.
+  - **Austria-Hungary's annexation of Bosnia (1908)** and Russia's **Pan-Slavist** support for Serbia threatened the balance in Southeast Europe.
 
 **6. French Revanchism -** France sought to recover **Alsace-Lorraine** lost to Germany in 1871 and restore European balance by containing German power.
 
@@ -31190,15 +31190,15 @@ While the preservation of the **balance of power** was a significant factor for 
 
 **2. Nationalism**
 
-- **Pan-Slavism, Pan-Germanism,** and irredentist movements created explosive pressures.
+  - **Pan-Slavism, Pan-Germanism,** and irredentist movements created explosive pressures.
 
-- Eg- Assassination of **Archduke Franz Ferdinand** by a Serbian nationalist triggered the war
+  - Eg- Assassination of **Archduke Franz Ferdinand** by a Serbian nationalist triggered the war
 
 **3. Militarism**
 
-- **Arms race and glorification of military power** created a culture of war readiness.
+  - **Arms race and glorification of military power** created a culture of war readiness.
 
-- **Schlieffen Plan (Germany)** and **Plan XVII (France)** assumed war was inevitable and planned for quick victory.
+  - **Schlieffen Plan (Germany)** and **Plan XVII (France)** assumed war was inevitable and planned for quick victory.
 
 **4. Economic Rivalries -** Competition for markets, raw materials, and trade routes between industrial powers. Eg- **Berlin-Baghdad Railway** threatened British interests in the Middle East.
 
@@ -32240,33 +32240,33 @@ India’s internal migration, and cultural pluralism have created **distinct cul
 
 **1. Linguistic Enclaves -** Migrants often cluster in specific urban neighborhoods, creating a "home away from home."
 
-- **Chittaranjan Park (CR Park), Delhi-** Known as the **"Mini-Bengal"** of North India.
+  - **Chittaranjan Park (CR Park), Delhi-** Known as the **"Mini-Bengal"** of North India.
 
-- **Matunga, Mumbai-** called **"Mini-South India"** due to the dominance of Tamil and Kannada speakers.
+  - **Matunga, Mumbai-** called **"Mini-South India"** due to the dominance of Tamil and Kannada speakers.
 
 **2. Religious Pluralism -** Certain areas serve as the spiritual or cultural headquarters for communities that are minorities elsewhere.
 
-- **Majnu-ka-Tilla, Delhi** is called **"Mini-Tibet."** - Buddhist monasteries, Tibetan handicrafts, and authentic Himalayan cuisine.
+  - **Majnu-ka-Tilla, Delhi** is called **"Mini-Tibet."** - Buddhist monasteries, Tibetan handicrafts, and authentic Himalayan cuisine.
 
-- **The Parsi Colonies (Baugs) in Mumbai**
+  - **The Parsi Colonies (Baugs) in Mumbai**
 
 **3. Economic Pockets** due to labor migration
 
-- **Surat’s Textile Hubs-** influx of workers from **Ganjam, Odisha.** Odia is the primary language in these labor colonies, and festivals like Ratha Yatra are celebrated.
+  - **Surat’s Textile Hubs-** influx of workers from **Ganjam, Odisha.** Odia is the primary language in these labor colonies, and festivals like Ratha Yatra are celebrated.
 
-- **Similarly, Chhath Puja by Bihari migrants** on the Yamuna and Mithi rivers.
+  - **Similarly, Chhath Puja by Bihari migrants** on the Yamuna and Mithi rivers.
 
-- **Bengaluru’s IT Corridors-** Hindi and English dominate over Kannada.
+  - **Bengaluru’s IT Corridors-** Hindi and English dominate over Kannada.
 
-- **Gujarati pockets** in Ghatkopar, Borivali in Mumbai
+  - **Gujarati pockets** in Ghatkopar, Borivali in Mumbai
 
-- **Marwari and Jain communities** maintain cultural continuity through business networks
+  - **Marwari and Jain communities** maintain cultural continuity through business networks
 
 **4. Historical "Settler" Pockets**
 
-- **Mini-Punjab in Terai (Uttarakhand/UP)-** After the partition, many Punjabi farmers settled here
+  - **Mini-Punjab in Terai (Uttarakhand/UP)-** After the partition, many Punjabi farmers settled here
 
-- **Fort Kochi, Kerala- Jew Town** and Portuguese-influenced neighborhoods. European architecture and Jewish history blend with Malayali traditions.
+  - **Fort Kochi, Kerala- Jew Town** and Portuguese-influenced neighborhoods. European architecture and Jewish history blend with Malayali traditions.
 
 **5. Tribal Pockets in Urban Jungles** - **Eg - in Ranchi and Jamshedpur,** specific neighborhoods function as **Adivasi pockets** where traditional Sarna rituals and tribal dialects are preserved.
 
@@ -33836,7 +33836,7 @@ In sum, while marriage adapts to modern needs, it **remains significant in conte
 1. Explanation_PWOnlyIAS:
 Source Question: Do you think marriage as a sacrament is loosing its value in Modern India?
 
-| **Approach:** <br> **Introduction** <br>• Write about “marriage as a sacrament” briefly <br> **Body** <br>• Write how marriage as a sacrament is loosing its value in Modern India <br>• Write various counter arguments given against this view <br> **Conclusion**: Give appropriate <br> conclusion in this regard |
+| **Approach:** <br> **Introduction** <br>• Write about “marriage as a sacrament” briefly <br> **Body** <br>• Write how marriage as a sacrament is loosing its value in Modern India <br>• Write various counter arguments given against this view <br> **Conclusion** Give appropriate <br> conclusion in this regard |
 | --- |
 
 ### Introduction
@@ -34923,29 +34923,29 @@ Eg- service sector contributes 55% of GDP but employs only 30% of workforce
 
 **1. Healthcare and Nutrition**
 
-- **Ayushman Bharat (PM-JAY)-** over **40 crore Ayushman Cards** have been issued.
+  - **Ayushman Bharat (PM-JAY)-** over **40 crore Ayushman Cards** have been issued.
 
-- Over **1.82 lakh** primary health centers have been upgraded to "Arogya Mandirs".
+  - Over **1.82 lakh** primary health centers have been upgraded to "Arogya Mandirs".
 
-- **POSHAN Abhiyaan-** targets stunting, wasting, and anemia.
+  - **POSHAN Abhiyaan-** targets stunting, wasting, and anemia.
 
 **2. Education and Skill Development**
 
-- **NEP 2020- 5+3+3+4 structure** and the **Academic Bank of Credits (ABC)**
+  - **NEP 2020- 5+3+3+4 structure** and the **Academic Bank of Credits (ABC)**
 
-- **Skill India Mission-** trained over **1.63 crore candidates.**
+  - **Skill India Mission-** trained over **1.63 crore candidates.**
 
 **3. Poverty and Living Standards**
 
-- Over **40 crore people** were lifted out of multidimensional poverty between 2005 and 2021
+  - Over **40 crore people** were lifted out of multidimensional poverty between 2005 and 2021
 
-- **Kerala** has been declared officially free from "extreme poverty" in 2025
+  - **Kerala** has been declared officially free from "extreme poverty" in 2025
 
-- **Jal Jeevan Mission-** Provided tap water to over **14.5 crore** rural households
+  - **Jal Jeevan Mission-** Provided tap water to over **14.5 crore** rural households
 
-- **PM Awas Yojana (PMAY)-** Over **4 crore pucca houses** have been built
+  - **PM Awas Yojana (PMAY)-** Over **4 crore pucca houses** have been built
 
-- **PM Ujjwala Yojana-** Over **10.3 crore** LPG connections have been provided
+  - **PM Ujjwala Yojana-** Over **10.3 crore** LPG connections have been provided
 
 **4. Financial Inclusion -** Over **52 crore** bank accounts have been opened **Way Forward**
 
@@ -34985,7 +34985,7 @@ However, India has **achieved significant growth** over the years in social, eco
 1. Explanation_PWOnlyIAS:
 Source Question: Why did human development fail to keep pace with economic development in India?
 
-| **Approach:** <br> **Introduction** <br>• Write about the economic trajectory of India briefly <br> **Body** <br>• Write about the economic development in India <br>• Write why human development fail to keep pace with economic development in India <br>• Write suitable way forward in this regard <br> **Conclusion:** <br>• Give appropriate conclusion in this regard |
+| **Approach:** <br> **Introduction** <br>• Write about the economic trajectory of India briefly <br> **Body** <br>• Write about the economic development in India <br>• Write why human development fail to keep pace with economic development in India <br>• Write suitable way forward in this regard <br> **Conclusion** <br>• Give appropriate conclusion in this regard |
 | --- |
 
 ### Introduction
@@ -37878,7 +37878,7 @@ Source Question: How have digital initiativesin India contributed to the functio
 1. Explanation_PWOnlyIAS:
 Source Question: How have digital initiatives in India contributed to the functioning of the education system in the country? Elaborate your answer.
 
-| **Approach:** <br> **Introduction** <br>• Mention about the status of education in India and how the pandemic has accelerated the process of digital education. <br> **Body** <br>• List down and give details about the digital initiatives taken up for education in India. <br>• Add a few lines on how each initiative aids to some aspect of the functioning of the education system in India. <br> **Conclusion:** <br>• Conclude stating that digital initiatives are necessary in today’s world, but it must not be seen as a replacement of the traditional system. <br>• Rather there must be a collaborative element between both the ways of teaching. |
+| **Approach:** <br> **Introduction** <br>• Mention about the status of education in India and how the pandemic has accelerated the process of digital education. <br> **Body** <br>• List down and give details about the digital initiatives taken up for education in India. <br>• Add a few lines on how each initiative aids to some aspect of the functioning of the education system in India. <br> **Conclusion** <br>• Conclude stating that digital initiatives are necessary in today’s world, but it must not be seen as a replacement of the traditional system. <br>• Rather there must be a collaborative element between both the ways of teaching. |
 | --- |
 
 ### Introduction
@@ -39170,7 +39170,7 @@ Eg- wikipedia Globalization is a **Janus-faced phenomenon (Anthony Giddens).** I
 1. Explanation_Drishti IAS:
 Source Question: Do you think that globalization results in only an aggressive consumer culture? Justify your answer. (Answer in 150 words) 10
 
-| **Approach:** <br>• **Introduction:** Introduce globalization, emphasizing its impact on interconnectedness and societal transformation. <br>• **Body:** Discuss the relationship between globalization and aggressive consumer culture, with examples. Also highlighting the positive aspects of globalization. <br>• **Conclusion:** Conclude suitably. |
+| **Approach:** <br>• **Introduction:** Introduce globalization, emphasizing its impact on interconnectedness and societal transformation. <br>• **Body:** Discuss the relationship between globalization and aggressive consumer culture, with examples. Also highlighting the positive aspects of globalization. <br>• **Conclusion** Conclude suitably. |
 | --- |
 
 ### Introduction
@@ -41008,7 +41008,7 @@ The caste system in India is a system of **social stratification, social restric
 1. Explanation_PWOnlyIAS:
 Source Question: Why is caste identity in India both fluid and static?
 
-| **Approach:** <br> **Introduction:** <br>• Write about fluid and static nature of caste identity briefly <br> **Body** <br>• Write about the Fluid Nature of Caste Identity <br>• Write about the Static Nature of Caste Identity <br> **Conclusion:** <br>• Give appropriate conclusion in this regard |
+| **Approach:** <br> **Introduction:** <br>• Write about fluid and static nature of caste identity briefly <br> **Body** <br>• Write about the Fluid Nature of Caste Identity <br>• Write about the Static Nature of Caste Identity <br> **Conclusion** <br>• Give appropriate conclusion in this regard |
 | --- |
 
 ### Introduction
@@ -41655,7 +41655,7 @@ Therefore if on one hand post liberal economy has ushered the country into the e
 1. Explanation_PWOnlyIAS:
 Source Question: Discuss the impact of post-liberal economy on ethnic identity and communalism.
 
-| **Approach:** <br> **Introduction** <br>• Write about the ethnic identity and communalism briefly <br> **Body** <br>• Write the impact of post-liberal economy on ethnic identity <br>• Write the impact of post-liberal economy on communalism <br> **Conclusion:** <br>• Give appropriate conclusion in this regard |
+| **Approach:** <br> **Introduction** <br>• Write about the ethnic identity and communalism briefly <br> **Body** <br>• Write the impact of post-liberal economy on ethnic identity <br>• Write the impact of post-liberal economy on communalism <br> **Conclusion** <br>• Give appropriate conclusion in this regard |
 | --- |
 
 ### Introduction
@@ -42162,7 +42162,7 @@ The Indian civil service, at its best, embodies what Jawaharlal Nehru envisioned
 1. Explanation_Drishti IAS:
 Source Question: The ethos of civil service in India stands for the combination of professionalism with nationalistic consciousness – Elucidate.
 
-| **Approach:** <br>• **Introduction:** Ethos of civil service <br>• **Body:** Highlight Professionalism → merit-based UPSC recruitment, and Nationalistic consciousness in Civil Service. <br>• **Conclusion:** Conclude suitably. |
+| **Approach:** <br>• **Introduction:** Ethos of civil service <br>• **Body:** Highlight Professionalism → merit-based UPSC recruitment, and Nationalistic consciousness in Civil Service. <br>• **Conclusion** Conclude suitably. |
 | --- |
 
 ### Introduction
@@ -43880,7 +43880,7 @@ India’s technology services industry can achieve USD 300-350 billion in annual
 1. Explanation_PWOnlyIAS:
 Source Question: What are the main socio-economic implications arising out of the development of IT industries in major cities of India?
 
-| **Approach:** <br> **Introduction:** <br>• Mention about the IT industry and the major locations in India which are the hubs for the IT industry. <br> **Body:** <br>• Mention both the positive and negative socio-economic implications of the IT industries being located in the major cities of India. <br> **Conclusion:** <br>• Mention that IT industries are necessary for India’s growth story but it must not be concentrated in major cities. They must be spread across Tier-2 and 3 cities as well for growth to be inclusive. |
+| **Approach:** <br> **Introduction:** <br>• Mention about the IT industry and the major locations in India which are the hubs for the IT industry. <br> **Body:** <br>• Mention both the positive and negative socio-economic implications of the IT industries being located in the major cities of India. <br> **Conclusion** <br>• Mention that IT industries are necessary for India’s growth story but it must not be concentrated in major cities. They must be spread across Tier-2 and 3 cities as well for growth to be inclusive. |
 | --- |
 
 ### Introduction
@@ -45011,7 +45011,7 @@ The **Smart Cities Mission** aims to improve **quality of life, economic opportu
 1. Explanation_Drishti IAS:
 Source Question: How does smart city in India, address the issues of urban poverty and distributive justice? (Answer in 150 words)
 
-| **Approach:** <br>• **Introduction:** Introduce the concept of Smart Cities in India and their primary objective. <br>• **Body:** Highlight key initiatives that address urban poverty and promote distributive justice in smart cities with adequate examples. <br>• **Conclusion:** Conclude suitably. |
+| **Approach:** <br>• **Introduction:** Introduce the concept of Smart Cities in India and their primary objective. <br>• **Body:** Highlight key initiatives that address urban poverty and promote distributive justice in smart cities with adequate examples. <br>• **Conclusion** Conclude suitably. |
 | --- |
 
 ### Introduction

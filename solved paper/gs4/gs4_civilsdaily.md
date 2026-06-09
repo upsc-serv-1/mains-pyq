@@ -110,9 +110,9 @@ Ethics is a branch of philosophy that involves systematizing, defending, and rec
 
 **1. The Justice Dimension** ensures fairness in both outcomes and processes.
 
-- **Distributive Justice-** Focuses on the fair allocation of rewards and burdens. Eg- Equal Remuneration Act
+  - **Distributive Justice-** Focuses on the fair allocation of rewards and burdens. Eg- Equal Remuneration Act
 
-- **Procedural Justice-** Ensures transparency and fairness in decision making.
+  - **Procedural Justice-** Ensures transparency and fairness in decision making.
 
 <p align="center"><img src="images/civilsdaily_p4_img156.png" alt="Diagram" /></p>
 
@@ -498,43 +498,43 @@ involving
 
 **1. By Judiciary**
 
-- **Prioritizing Constitutional over Social Morality-** Eg- Navtej Singh Johar case
+  - **Prioritizing Constitutional over Social Morality-** Eg- Navtej Singh Johar case
 
-- **Protecting Dissent and Liberty-** Eg- upholding "Bail is the rule, Jail is the exception."
+  - **Protecting Dissent and Liberty-** Eg- upholding "Bail is the rule, Jail is the exception."
 
-- **Ensuring procedural fairness** - Following due process and natural justice.
+  - **Ensuring procedural fairness** - Following due process and natural justice.
 
 **2. By Legislature**
 
-- **Debate and Deliberation-** Eg- mandatory referral of bill to Parliamentary committee (UK Model)
+  - **Debate and Deliberation-** Eg- mandatory referral of bill to Parliamentary committee (UK Model)
 
-- **Inclusive Law-making** to protect the interests of the marginalized. Eg- **Rights of Persons with Disabilities Act, 2016**
+  - **Inclusive Law-making** to protect the interests of the marginalized. Eg- **Rights of Persons with Disabilities Act, 2016**
 
-- Ensuring representation -** Eg- Nari Shakti Vandan Adhiniyam, 2023
+  - Ensuring representation -** Eg- Nari Shakti Vandan Adhiniyam, 2023
 
-- **Social Reform through Legislation** to rectify historical injustices. Eg- Triple Talaq Act
+  - **Social Reform through Legislation** to rectify historical injustices. Eg- Triple Talaq Act
 
 **3. The Executive**
 
-- **Self-Restraint in Power-** Eg- Following the **S.R. Bommai guidelines** to avoid the unnecessary imposition of President’s Rule (Article 356).
+  - **Self-Restraint in Power-** Eg- Following the **S.R. Bommai guidelines** to avoid the unnecessary imposition of President’s Rule (Article 356).
 
-- **Adherence to the "Rule of Law"-** Eg- Strictly following the **D.K. Basu guidelines** to prevent custodial torture.
+  - **Adherence to the "Rule of Law"-** Eg- Strictly following the **D.K. Basu guidelines** to prevent custodial torture.
 
 **4. Public Administration**
 
-- **Anonymity and Neutrality-** Providing "fair and fearless" advice to ministers
+  - **Anonymity and Neutrality-** Providing "fair and fearless" advice to ministers
 
-- **Practicing Compassion-** Using "administrative discretion" to help the last person in the queue (Antyodaya). Eg- **S. Shankaran** in implementing the **Bonded Labour Abolition Act**
+  - **Practicing Compassion-** Using "administrative discretion" to help the last person in the queue (Antyodaya). Eg- **S. Shankaran** in implementing the **Bonded Labour Abolition Act**
 
-- **Transparency and Honesty-** Proactive disclosure under the **RTI Act.**
+  - **Transparency and Honesty-** Proactive disclosure under the **RTI Act.**
 
 **5. By Citizens (The Sovereign)**
 
-- **Tolerance of Dissent-** Respecting the right of others to have a different opinion, religion, or lifestyle.
+  - **Tolerance of Dissent-** Respecting the right of others to have a different opinion, religion, or lifestyle.
 
-- **Performing Fundamental Duties-** Recognizing that rights come with responsibilities (Article 51A).
+  - **Performing Fundamental Duties-** Recognizing that rights come with responsibilities (Article 51A).
 
-- **Active Participation-** Eg- Participating in **Gram Sabhas** or city ward committee meetings Constitutional morality serves as the **"North Star,"** ensuring that the ship of the state remains anchored in the values of human dignity and social justice.
+  - **Active Participation-** Eg- Participating in **Gram Sabhas** or city ward committee meetings Constitutional morality serves as the **"North Star,"** ensuring that the ship of the state remains anchored in the values of human dignity and social justice.
 
 [Question ID: 2019-gs4-q9-civilsdaily]
 
@@ -2147,7 +2147,7 @@ In the modern world, **IQ** provides the technical "entry ticket" to a professio
 
 **1. Integrity (Consistency and Honesty) -** It implies that the officer's actions are consistently aligned with their stated moral values, regardless of external pressure.
 
-- **Justification**
+  - **Justification**
 
   - Builds **public trust** on reliability and honesty of administration.
 
@@ -2159,7 +2159,7 @@ In the modern world, **IQ** provides the technical "entry ticket" to a professio
 
 **2. Objectivity (Rationality and Merit) -** ensures that decisions are based on evidence, logic, and the rule of law, rather than personal bias, nepotism, or political leanings.
 
-- **Justification**
+  - **Justification**
 
   - **Fairness-** It ensures equal treatment of every citizen
 
@@ -2171,7 +2171,7 @@ In the modern world, **IQ** provides the technical "entry ticket" to a professio
 
 **3. Compassion and Empathy (Human-Centric Service) -** involves understanding the pain of the citizens and acting to alleviate it.
 
-- **Justification-**
+  - **Justification-**
 
   - Ensures that the "spirit of the law" is used to achieve **Social Justice**
 
@@ -2181,11 +2181,11 @@ In the modern world, **IQ** provides the technical "entry ticket" to a professio
 
   - Improves welfare delivery effectiveness.**
 
-- **Eg- Armstrong Pame (IAS)-** build a 100km road via crowdfunding
+  - **Eg- Armstrong Pame (IAS)-** build a 100km road via crowdfunding
 
 **4. Accountability (Responsibility and Transparency) - It** is the obligation of an official to be answerable for their decisions and the consequences thereof.
 
-- **Justification-**
+  - **Justification-**
 
   - Prevents the arbitrary use of discretionary powers.
 
@@ -2195,11 +2195,11 @@ In the modern world, **IQ** provides the technical "entry ticket" to a professio
 
   - **Builds democratic credibility.**
 
-- **Eg- Vinod Rai** exposed "presumptive losses" in the 2G Spectrum and Coal block allocations.
+  - **Eg- Vinod Rai** exposed "presumptive losses" in the 2G Spectrum and Coal block allocations.
 
 **5. Emotional Intelligence**
 
-- Justification**
+  - Justification**
 
   - Enables calm decision-making under pressure.
 
@@ -2595,45 +2595,45 @@ Ethical governance today requires not just knowledge of rules but **moral imagin
 
   - **Integrity (Honesty and probity in conduct) -** Acting truthfully, transparently and consistently with moral and legal standards.
 
-- Importance-**
+  - Importance-**
 
-- Prevents corruption and misuse of public office.
+  - Prevents corruption and misuse of public office.
 
-- Builds citizens’ trust in institutions.
+  - Builds citizens’ trust in institutions.
 
-- Protects fairness in decision-making.
+  - Protects fairness in decision-making.
 
-- Strengthens legitimacy of the state.
+  - Strengthens legitimacy of the state.
 
-- Illustration-** Sanjiv Chaturvedi (IFS) exposed corruption in AIIMS despite facing harassment.
+  - Illustration-** Sanjiv Chaturvedi (IFS) exposed corruption in AIIMS despite facing harassment.
 
   - **Impartiality (Fairness and non-discrimination) -** Treating all individuals and groups equally, without bias based on identity, status or political affiliation.
 
-- **Importance-**
+  - **Importance-**
 
-- Upholds equality before law.
+  - Upholds equality before law.
 
-- Prevents favouritism and discrimination.
+  - Prevents favouritism and discrimination.
 
-- Stability during Political Transitions
+  - Stability during Political Transitions
 
-- Impartial officer acts as a trusted mediator in conflict resolution
+  - Impartial officer acts as a trusted mediator in conflict resolution
 
-- **Illustration-** T.N. Seshan, as CEC, enforcing MCC in fair manner.
+  - **Illustration-** T.N. Seshan, as CEC, enforcing MCC in fair manner.
 
   - **Accountability -** Being answerable for decisions and taking responsibility for consequences.
 
-- Importance-**
+  - Importance-**
 
-- **Feedback Loop-** facilitates a two-way communication between state and citizens
+  - **Feedback Loop-** facilitates a two-way communication between state and citizens
 
-- Improves transparency and performance.
+  - Improves transparency and performance.
 
-- Enables democratic control over bureaucracy.
+  - Enables democratic control over bureaucracy.
 
-- Promotes ethical and careful decision-making.
+  - Promotes ethical and careful decision-making.
 
-- Illustration -** Ashwini Vaishnaw took moral responsibility after the Odisha train accident by personally overseeing relief and restoration.
+  - Illustration -** Ashwini Vaishnaw took moral responsibility after the Odisha train accident by personally overseeing relief and restoration.
 
 These values ensure that **"Steel Frame"** does not **rust or bend** under the weight of corruption and bias.
 
@@ -2816,13 +2816,13 @@ An **ethical dilemma** in public administration occurs when a public official is
 
 **4. Applying Ethical Frameworks for evaluating options**
 
-- **Utilitarianism-** Which choice brings the "greatest good for the greatest number"?
+  - **Utilitarianism-** Which choice brings the "greatest good for the greatest number"?
 
-- **Deontology-** What is my absolute "Duty" as a public servant?
+  - **Deontology-** What is my absolute "Duty" as a public servant?
 
-- **Social Justice (Rawls)-** Does this decision benefit the "least advantaged" member of society?
+  - **Social Justice (Rawls)-** Does this decision benefit the "least advantaged" member of society?
 
-- The **“middle path”** to balance the extremes.
+  - The **“middle path”** to balance the extremes.
 
   - **Assess the impact** of various options on different stakeholders.
 
@@ -3062,7 +3062,7 @@ Devotion to duty is the **"alchemy"** that turns a bureaucrat into a public serv
 
   - Dedicated modules on **"Soft Skills"** empower officials to move from being "authorities" to "facilitators"
 
-- improves quality of citizen interaction at local offices.
+  - improves quality of citizen interaction at local offices.
 
   - **Common training modules** foster a **"Whole-of-Government"** approach - **breaks departmental silos**
 
@@ -3183,35 +3183,35 @@ In public administration, a **Conflict of Interest (COI)** is a situation where 
 
 **1. Institutional and Legal Reforms**
 
-- Ensuring the independence and resource-sufficiency of bodies like **Lokpal, Lokayukta** and **CVC**
+  - Ensuring the independence and resource-sufficiency of bodies like **Lokpal, Lokayukta** and **CVC**
 
-- Rigorous implementation of the **Whistleblowers Protection Act.**
+  - Rigorous implementation of the **Whistleblowers Protection Act.**
 
-- Empowering the **CAG** to conduct social audits and performance audits
+  - Empowering the **CAG** to conduct social audits and performance audits
 
-- **Adoption of the "Hong Kong Model" (ICAC)** to tackle corruption - three-pronged strategy of Investigation, Prevention, and Community Education
+  - **Adoption of the "Hong Kong Model" (ICAC)** to tackle corruption - three-pronged strategy of Investigation, Prevention, and Community Education
 
 **2. Procedural and Technological Measures**
 
-- **E-Governance** to reduce human discretion and the "gatekeeper" effect. Eg- **GeM**
+  - **E-Governance** to reduce human discretion and the "gatekeeper" effect. Eg- **GeM**
 
-- **Citizens’ Charters-** Mandating clear timelines for service delivery. Eg- SAKALA (Karnataka Guarantee of Services Act)
+  - **Citizens’ Charters-** Mandating clear timelines for service delivery. Eg- SAKALA (Karnataka Guarantee of Services Act)
 
-- Proactive disclosure under **Section 4 of the RTI Act** for transparency
+  - Proactive disclosure under **Section 4 of the RTI Act** for transparency
 
-- Mandatory and periodic declaration of **assets and liabilities by civil servants**
+  - Mandatory and periodic declaration of **assets and liabilities by civil servants**
 
 **3. Human Resource and Ethical Reforms**
 
-- Moving beyond a "Rule-based" conduct code (what not to do) to a **"Value-based" code of ethics** (what to strive for) **(2nd ARC).**
+  - Moving beyond a "Rule-based" conduct code (what not to do) to a **"Value-based" code of ethics** (what to strive for) **(2nd ARC).**
 
-- **Competency-linked training** under **Mission Karmayogi** to ensure civil servants are not only skilled but also ethically grounded.
+  - **Competency-linked training** under **Mission Karmayogi** to ensure civil servants are not only skilled but also ethically grounded.
 
 **4. Social and Political Measures**
 
-- **Legal backing to Social Audits. (Meghalaya Act)**
+  - **Legal backing to Social Audits. (Meghalaya Act)**
 
-- Ensuring **transparency in electoral funding** to prevent the "quid-pro-quo" culture at top.
+  - Ensuring **transparency in electoral funding** to prevent the "quid-pro-quo" culture at top.
 
 As pointed out by **PM Modi** in Independence Day speech, promoting **‘suchita, pardarshita and nishpakshata’ (probity, transparency and impartiality)** is essential for ‘Amrit Kaal’
 
@@ -5072,29 +5072,29 @@ argues that, ethical judgement does not lie in seeking moral purity, but in **we
 
 **1. Government policy level**
 
-- **Climate policies** trade economic growth for environmental protection. Eg- restrictions in eco sensitive zones hamer mining
+  - **Climate policies** trade economic growth for environmental protection. Eg- restrictions in eco sensitive zones hamer mining
 
-- **Welfare schemes** involve fiscal costs but social benefits. Eg- NFSA costs around 2% of GDP but ensures “food security”
+  - **Welfare schemes** involve fiscal costs but social benefits. Eg- NFSA costs around 2% of GDP but ensures “food security”
 
-- **Security laws** trade liberty for safety. Eg- internet shutdowns in J&K hamer Right to internet (Article 21) to ensure security
+  - **Security laws** trade liberty for safety. Eg- internet shutdowns in J&K hamer Right to internet (Article 21) to ensure security
 
 **2. Societal level**
 
-- **Social reforms** disturb traditions but advance justice. Eg- Sabrimala judgment
+  - **Social reforms** disturb traditions but advance justice. Eg- Sabrimala judgment
 
-- **Urbanisation** displaces communities but creates opportunity. Eg- breaking of caste barrier for dalits
+  - **Urbanisation** displaces communities but creates opportunity. Eg- breaking of caste barrier for dalits
 
 **3. Global level**
 
-- **Sanctions** punish regimes but harm civilians. Eg- sanctions on Iran crippling economy
+  - **Sanctions** punish regimes but harm civilians. Eg- sanctions on Iran crippling economy
 
-- **Military interventions** against rogue states can lead to regional intability. Eg- instability in Middle East
+  - **Military interventions** against rogue states can lead to regional intability. Eg- instability in Middle East
 
 **4. Individual level**
 
-- **Whistleblowing** causes personal harm but exposes injustice. Eg- Satyendra Dubey
+  - **Whistleblowing** causes personal harm but exposes injustice. Eg- Satyendra Dubey
 
-- **Commitment to duty** may hamper **work-life balance Ethical framework for decision making**
+  - **Commitment to duty** may hamper **work-life balance Ethical framework for decision making**
 
   - **Utilitarianism** - Judging actions by net consequences (greatest good for greatest number).
 
@@ -7892,27 +7892,27 @@ The above case study highlights the conflict between **resource scarcity, liveli
 
 **1. Strict enforcement against farmers** while allowing industries to operate as earlier.
 
-- **Pros-** Immediate conservation, protects jobs
+  - **Pros-** Immediate conservation, protects jobs
 
-- **Cons-** perception of bias, social unrest.
+  - **Cons-** perception of bias, social unrest.
 
 **2. Blanket restriction on all users (farmers + industries)**
 
-- **Pros-** Appears fair and legally defensible.
+  - **Pros-** Appears fair and legally defensible.
 
-- **Cons-** Could disrupt industrial production and employment.
+  - **Cons-** Could disrupt industrial production and employment.
 
 **3. Tight cap on industrial extraction and crop-based allowance to farmers.**
 
-- **Pros-** Addresses equity concerns; protects livelihoods.
+  - **Pros-** Addresses equity concerns; protects livelihoods.
 
-- **Cons-** Administrative complexity.
+  - **Cons-** Administrative complexity.
 
 **4. Call tripartite talks with farmers, industry, and water experts to arrive at a consensus based decision.**
 
-- **Pros-** Builds trust and reduces protest.
+  - **Pros-** Builds trust and reduces protest.
 
-- **Cons-** Delays action during crisis.
+  - **Cons-** Delays action during crisis.
 
   - **Technological Intervention-** Mandate that industries switch to treated sewage water or recycled water for their processes, freeing up groundwater/river water for rural needs.
 
@@ -8043,11 +8043,11 @@ Dr. Srinivasan is at the center of the **"Efficiency-Ethics Paradox."** The rush
 
 **5. Propose lawful fast-track alternatives**
 
-- **Adaptive clinical trials**
+  - **Adaptive clinical trials**
 
-- **Emergency Use Authorisation (EUA)** if evidence is strong
+  - **Emergency Use Authorisation (EUA)** if evidence is strong
 
-- Parallel Phase II-III designs
+  - Parallel Phase II-III designs
 
 **6. Engage senior management transparently -** Explain legal, reputational, and patient risks of shortcuts.
 
@@ -8073,9 +8073,9 @@ Dr. Srinivasan is at the center of the **"Efficiency-Ethics Paradox."** The rush
 
 **1. Accept shortcuts Merit**
 
-- Speedy approval
+  - Speedy approval
 
-- Profit for company **Consequences**
+  - Profit for company **Consequences**
 
 | Dimension | Impact |
 | --- | --- |
@@ -8087,15 +8087,15 @@ Dr. Srinivasan is at the center of the **"Efficiency-Ethics Paradox."** The rush
 
 **2. Slow but fully compliant trials Merits**
 
-- Protects patients
+  - Protects patients
 
-- Legally safe
+  - Legally safe
 
-- Maintains scientific integrity **Demerits**
+  - Maintains scientific integrity **Demerits**
 
-- Delayed drug availability
+  - Delayed drug availability
 
-- Loss of first-mover advantage
+  - Loss of first-mover advantage
 
 **3. Compliant fast-track pathway Consequences**
 
@@ -8282,15 +8282,15 @@ Dr. Srinivasan is at the center of the **"Efficiency-Ethics Paradox."** The rush
 
   - Adopting **"Swedish Model"** of Shared Parental Leave **Case study- Google’s Work-Life Balance Model**
 
-- Flexible work hours and remote work.
+  - Flexible work hours and remote work.
 
-- On-site childcare facilities.
+  - On-site childcare facilities.
 
-- Mental health counselling and wellness programmes.
+  - Mental health counselling and wellness programmes.
 
-- Parental leave policies for both men and women.
+  - Parental leave policies for both men and women.
 
-- Generous vacation policy of three paid weeks.
+  - Generous vacation policy of three paid weeks.
 
 **“You cannot pour from an empty cup.”**
 
@@ -8413,25 +8413,25 @@ Thus, ethical institutions must value **care, equity, and well-being** alongside
 
 **1. Private meeting with Seema**
 
-- Assure her that **harassment will not be tolerated** in the organisation.
+  - Assure her that **harassment will not be tolerated** in the organisation.
 
-- Reaffirm that her contributions to the project are **valuable and needed.**
+  - Reaffirm that her contributions to the project are **valuable and needed.**
 
-- Promise **protection against retaliation** from the Chief Architect.
+  - Promise **protection against retaliation** from the Chief Architect.
 
 **2. Joint meeting with both officers**
 
-- Emphasise that the project is a **team effort in public interest,** not an individual legacy.
+  - Emphasise that the project is a **team effort in public interest,** not an individual legacy.
 
-- Set clear expectations of **respectful communication and zero tolerance for humiliation.**
+  - Set clear expectations of **respectful communication and zero tolerance for humiliation.**
 
 **3.** If both agree to work constructively-
 
-- I would call a **team meeting.**
+  - I would call a **team meeting.**
 
-- Publicly appreciate the **experience and leadership** of the Chief Architect.
+  - Publicly appreciate the **experience and leadership** of the Chief Architect.
 
-- Simultaneously acknowledge **Seema’s technical talent and innovative inputs.**
+  - Simultaneously acknowledge **Seema’s technical talent and innovative inputs.**
 
 **4. If the issue is NOT resolved**
 
@@ -8864,21 +8864,21 @@ The above case study highlights the **Ethical Dilemma** for DM where the **Deont
 
 **2. If they don't, then report the incident to higher authorities with a detailed note on**
 
-- The **circumstances of the medical emergency,**
+  - The **circumstances of the medical emergency,**
 
-- The **method through which funds were released,**
+  - The **method through which funds were released,**
 
-- The **manager’s intention to help,**
+  - The **manager’s intention to help,**
 
-- The fact that the amount is being **repaid in instalments,** and
+  - The fact that the amount is being **repaid in instalments,** and
 
 **3. Express empathy but explain the ethical problem to colleague**
 
 **4. Explore lawful alternatives and regularize the transaction**
 
-- Converting it into a **formal personal/medical loan.**
+  - Converting it into a **formal personal/medical loan.**
 
-- Arranging support from-
+  - Arranging support from-
 
   - Bank’s **employee welfare fund,**
 
@@ -9687,31 +9687,31 @@ According to the **MoRTH 2024 report,** India witnesses over **4.6 lakh accident
 
 **2. Order independent fact-finding inquiry**
 
-- Include legal, transport, labour and police representatives.
+  - Include legal, transport, labour and police representatives.
 
-- Examine CCTV, witnesses, duty conditions, and driver’s record.
+  - Examine CCTV, witnesses, duty conditions, and driver’s record.
 
 **3. Structured dialogue with union**
 
-- Clarify that violence cannot be rewarded.
+  - Clarify that violence cannot be rewarded.
 
-- Assure that family hardship will be addressed.
+  - Assure that family hardship will be addressed.
 
 **4.** Based on inquiry
 
-- Grant or reject **compensation** and communicate the same to family and union with detailed facts
+  - Grant or reject **compensation** and communicate the same to family and union with detailed facts
 
-- Make the report public
+  - Make the report public
 
   - Offer **conditional compassionate employment** after training in a suitable role.
 
   - Recommend **systemic reforms**
 
-- Anger Management and Stress Relief Workshops for drivers
+  - Anger Management and Stress Relief Workshops for drivers
 
-- Panic buttons and CCTV in buses.
+  - Panic buttons and CCTV in buses.
 
-- Grievance helpline for drivers.
+  - Grievance helpline for drivers.
 
 **Justice must be firm, but governance must be humane.**
 
@@ -10053,9 +10053,9 @@ This case highlights the risks faced by honest officers due to **criminals-polit
 
   - **Balances ethics with legality**
 
-- **Media exposure** protects the **right of the public to know.**
+  - **Media exposure** protects the **right of the public to know.**
 
-- **Legal submission** respects **rule of law and due process.**
+  - **Legal submission** respects **rule of law and due process.**
 
   - Strengthens environmental enforcement.
 
@@ -10977,77 +10977,77 @@ Illegal sand mining has emerged as one of the **most violent forms of environmen
 
 **1. Suspend raids to protect personal and family safety Merits**
 
-- Immediate reduction in personal and family risk
+  - Immediate reduction in personal and family risk
 
-- Mental peace and security
+  - Mental peace and security
 
-- Ensures a "peaceful" tenure **Demerits**
+  - Ensures a "peaceful" tenure **Demerits**
 
-- Strengthens mafia confidence
+  - Strengthens mafia confidence
 
-- Betrayal of public trust
+  - Betrayal of public trust
 
-- Environmental degradation continues
+  - Environmental degradation continues
 
-- Sets a precedent of fear-driven governance
+  - Sets a precedent of fear-driven governance
 
-- Violates **integrity, courage, and duty to public service**
+  - Violates **integrity, courage, and duty to public service**
 
 **2. Seek transfer citing threat perception Merits**
 
-- Protects life of officer and family
+  - Protects life of officer and family
 
-- Reduces immediate stress **Demerits**
+  - Reduces immediate stress **Demerits**
 
-- Avoids responsibility
+  - Avoids responsibility
 
-- Demoralises honest officers
+  - Demoralises honest officers
 
-- Allows mafia to regroup and flourish
+  - Allows mafia to regroup and flourish
 
-- Fails **leadership responsibility**
+  - Fails **leadership responsibility**
 
 **3. Escalate the matter institutionally and strengthen enforcement Actions**
 
-- Inform District Magistrate, SP, and State Government
+  - Inform District Magistrate, SP, and State Government
 
-- Seek armed security for self and family
+  - Seek armed security for self and family
 
-- Conduct joint operations with police and forest authorities
+  - Conduct joint operations with police and forest authorities
 
-- Take disciplinary action against colluding staff
+  - Take disciplinary action against colluding staff
 
-- Use technology (GPS tracking, drones, CCTV, check posts) **Merits**
+  - Use technology (GPS tracking, drones, CCTV, check posts) **Merits**
 
-- Ensures safety through **institutional backing**
+  - Ensures safety through **institutional backing**
 
-- Sustains crackdown legally and systematically
+  - Sustains crackdown legally and systematically
 
-- Reduces personal targeting
+  - Reduces personal targeting
 
-- Protects environment and tribal livelihoods
+  - Protects environment and tribal livelihoods
 
-- Strongly upholds **rule of law, justice, courage, and accountability Demerits**
+  - Strongly upholds **rule of law, justice, courage, and accountability Demerits**
 
-- Initial escalation of conflict
+  - Initial escalation of conflict
 
-- Requires political will and coordination
+  - Requires political will and coordination
 
-- Tribals may face increasing violence and intimidation
+  - Tribals may face increasing violence and intimidation
 
 **4. Public exposure through media or whistleblowing Merits**
 
-- Creates public and political pressure
+  - Creates public and political pressure
 
-- Brings visibility to issue
+  - Brings visibility to issue
 
-- Can expose nexus **Demerits**
+  - Can expose nexus **Demerits**
 
-- May compromise operations
+  - May compromise operations
 
-- Heightens personal risk
+  - Heightens personal risk
 
-- Can be seen as breach of service discipline **Most appropriate option and justification Adopt Option 3 - Institutional escalation with reinforced enforcement Justification**
+  - Can be seen as breach of service discipline **Most appropriate option and justification Adopt Option 3 - Institutional escalation with reinforced enforcement Justification**
 
   - **Deontological duty to** maintain law and order
 
@@ -12040,33 +12040,33 @@ Workplace sexual harassment violates dignity, equality, and safety, undermining 
 
 **1. Accept the Settlement and Withdraw the Complaint**
 
-- **Pros** - immediate financial security; avoids prolonged legal battle and possible victimisation.
+  - **Pros** - immediate financial security; avoids prolonged legal battle and possible victimisation.
 
-- **Cons** - enables a serial offender; legally questionable since criminal proceedings under BNS for sexual offences cannot be compounded by private settlement.
+  - **Cons** - enables a serial offender; legally questionable since criminal proceedings under BNS for sexual offences cannot be compounded by private settlement.
 
 **2. Reject the Offer and Pursue the Complaint to its Logical Conclusion**
 
-- **Pros -** upholds rule of law; protects future victims; sets an institutional precedent.
+  - **Pros -** upholds rule of law; protects future victims; sets an institutional precedent.
 
-- **Cons -** possible workplace retaliation, social stigma, prolonged litigation, emotional toll.
+  - **Cons -** possible workplace retaliation, social stigma, prolonged litigation, emotional toll.
 
 **3. File a Formal Complaint with the Internal Committee under POSH Act, 2013**
 
-- **Pros -** confidential, time-bound (90 days for inquiry), lower threshold of proof than criminal trial.
+  - **Pros -** confidential, time-bound (90 days for inquiry), lower threshold of proof than criminal trial.
 
-- **Cons -** limited remedy (transfer, suspension, compensation); does not replace criminal prosecution.
+  - **Cons -** limited remedy (transfer, suspension, compensation); does not replace criminal prosecution.
 
 **4. Approach the Local Committee (if no ICC) or She-Box Portal of the Ministry of Women and Child Development**
 
-- Pros - independent of employer pressure.
+  - Pros - independent of employer pressure.
 
-- Cons - may be slower; awareness limited.
+  - Cons - may be slower; awareness limited.
 
 **5. Seek Legal Counsel and NGO Support (e.g., Majlis, Lawyers Collective, NCW)**
 
-- Pros - informed decision-making; emotional and procedural support; protection from intimidation.
+  - Pros - informed decision-making; emotional and procedural support; protection from intimidation.
 
-- Cons - none significant; this is a complementary step.
+  - Cons - none significant; this is a complementary step.
 
 **Most Appropriate Course**
 
@@ -12438,67 +12438,67 @@ Politicization of bureaucracy refers to a situation where civil servants act bas
 
 **1. Administrative Consequences**
 
-- **Distorted Policy Priorities** - schemes driven by electoral calculus (loan waivers, sub-quotas) over developmental rationality.
+  - **Distorted Policy Priorities** - schemes driven by electoral calculus (loan waivers, sub-quotas) over developmental rationality.
 
 <p align="center"><img src="images/civilsdaily_p188_img190.png" alt="Diagram" /></p>
 
-- **Decision Paralysis** - officers hesitate to take bold decisions, fearing punitive transfers.
+  - **Decision Paralysis** - officers hesitate to take bold decisions, fearing punitive transfers.
 
-- **Frequent Transfers** - undermining institutional memory and continuity of programmes; average tenure of an IAS officer in some states is under a year.
+  - **Frequent Transfers** - undermining institutional memory and continuity of programmes; average tenure of an IAS officer in some states is under a year.
 
-- **Erosion of Hierarchy** - junior officers bypass seniors using political channels.
+  - **Erosion of Hierarchy** - junior officers bypass seniors using political channels.
 
-- **Reduced Quality of Service Delivery** particularly to weaker sections without political patronage.
+  - **Reduced Quality of Service Delivery** particularly to weaker sections without political patronage.
 
-- **Substitution of Merit with Loyalty** postings driven by allegiance, not competence.
+  - **Substitution of Merit with Loyalty** postings driven by allegiance, not competence.
 
-- **Demoralisation of Honest Officers** - talented officers seek deputation, foreign assignments, or premature retirement.
+  - **Demoralisation of Honest Officers** - talented officers seek deputation, foreign assignments, or premature retirement.
 
-- **Risk Aversion** - preference for status quo over reform; the 'safe file' culture.
+  - **Risk Aversion** - preference for status quo over reform; the 'safe file' culture.
 
 **2. Ethical & Moral Consequences**
 
-- **Loss of Anonymity & Neutrality**
+  - **Loss of Anonymity & Neutrality**
 
-- **Compromise of Integrity** - officers willing to bend reward themselves; honest ones marginalised.
+  - **Compromise of Integrity** - officers willing to bend reward themselves; honest ones marginalised.
 
-- **Normalisation of Corruption** - quid pro quo postings monetise public office.
+  - **Normalisation of Corruption** - quid pro quo postings monetise public office.
 
-- **Crisis of Conscience for Young Entrants** - IAS/IPS probationers learn early that integrity has institutional costs.
+  - **Crisis of Conscience for Young Entrants** - IAS/IPS probationers learn early that integrity has institutional costs.
 
-- **Erosion of Professional Pride** - civil service identity gives way to political identity.
+  - **Erosion of Professional Pride** - civil service identity gives way to political identity.
 
 **3. Institutional Consequences**
 
-- **Politicised Investigation Agencies** - when CBI, ED, IT or police are perceived as partisan, public trust collapses (the 'caged parrot' observation by the Supreme Court).
+  - **Politicised Investigation Agencies** - when CBI, ED, IT or police are perceived as partisan, public trust collapses (the 'caged parrot' observation by the Supreme Court).
 
-- **Federalism Strain** - All-India Services officers caught between Centre–State conflicts.
+  - **Federalism Strain** - All-India Services officers caught between Centre–State conflicts.
 
-- **Decline in Public Trust** - citizens see civil servants as agents of ruling parties, not of the Constitution.
+  - **Decline in Public Trust** - citizens see civil servants as agents of ruling parties, not of the Constitution.
 
-- **Crony Capitalism Risk** - politicised regulators favour connected firms.
+  - **Crony Capitalism Risk** - politicised regulators favour connected firms.
 
 **4. Constitutional & Legal Consequences**
 
-- **Breach of All-India Services (Conduct) Rules** - political activity by civil servants prohibited but often blurred.
+  - **Breach of All-India Services (Conduct) Rules** - political activity by civil servants prohibited but often blurred.
 
-- **Negation of T.S.R. Subramanian directions** - minimum tenure, Civil Services Boards, written instructions seldom honoured.
+  - **Negation of T.S.R. Subramanian directions** - minimum tenure, Civil Services Boards, written instructions seldom honoured.
 
 **5. Internal Civil Service Culture**
 
-- **Factionalism** - officers cluster around political camps.
+  - **Factionalism** - officers cluster around political camps.
 
-- **Erosion of Esprit de Corps** - solidarity replaced by individual survival strategies.
+  - **Erosion of Esprit de Corps** - solidarity replaced by individual survival strategies.
 
-- **Brain Drain** - best minds choose international organisations or private sector.
+  - **Brain Drain** - best minds choose international organisations or private sector.
 
-- **Ashok Khemka, IAS** - over 50 transfers in 30 years for resisting irregular land transactions.
+  - **Ashok Khemka, IAS** - over 50 transfers in 30 years for resisting irregular land transactions.
 
-- **Durga Shakti Nagpal** - suspended for cracking down on sand mafia.
+  - **Durga Shakti Nagpal** - suspended for cracking down on sand mafia.
 
-- **Sanjiv Chaturvedi** - fought corruption at AIIMS despite repeated punitive transfers; awarded Magsaysay.
+  - **Sanjiv Chaturvedi** - fought corruption at AIIMS despite repeated punitive transfers; awarded Magsaysay.
 
-- **U. Sagayam, IAS** - punitive transfers for exposing granite mafia in Tamil Nadu.
+  - **U. Sagayam, IAS** - punitive transfers for exposing granite mafia in Tamil Nadu.
 
 **Way Forward**
 

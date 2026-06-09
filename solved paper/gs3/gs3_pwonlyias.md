@@ -3710,7 +3710,7 @@ Although there are challenges, PPPs can help to address the challenges of financ
 
 ### Answer
 
-| **Approach:** <br>• **Introduction:** Give a brief about the way FDI entered the defence sector. <br>• **Body:** Mention the short and long term implications. <br>• **Conclusion:** The FDI policy in defence sector would bring immense gains in both short and long term. |
+| **Approach:** <br>• **Introduction:** Give a brief about the way FDI entered the defence sector. <br>• **Body:** Mention the short and long term implications. <br>• **Conclusion** The FDI policy in defence sector would bring immense gains in both short and long term. |
 | --- |
 
 ### Introduction
@@ -3908,7 +3908,7 @@ The LARR Act of 2013 was brought to give effect to the pre-existing fundamental 
 
 ### Answer
 
-| **Approach:** <br>• **Introduction:** Give a brief about APMC <br>• **Body:** Mention the criticisms of APMC with respect to its impact on growth of agriculture and food inflation. <br>• **Conclusion:** Conclude saying that APMC is just one factor, there are other factors too that impacts agriculture and food inflation. But APMC reforms are still a must. |
+| **Approach:** <br>• **Introduction:** Give a brief about APMC <br>• **Body:** Mention the criticisms of APMC with respect to its impact on growth of agriculture and food inflation. <br>• **Conclusion** Conclude saying that APMC is just one factor, there are other factors too that impacts agriculture and food inflation. But APMC reforms are still a must. |
 | --- |
 
 ### Introduction
@@ -4176,7 +4176,7 @@ The Pink Revolution in India has the potential to improve nutrition and health o
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br>• Give a brief about the NFSA, 2013 **Body** <br>• Mention the role of NFSA in eliminating hunger and malnutrition <br>• Mention concerns raised in WTO against the Food security Act <br> **Conclusion:** <br>• Conclude stating that NFSA has a major role for food security to India’s poor. |
+| **Approach:** <br> **Introduction** <br>• Give a brief about the NFSA, 2013 **Body** <br>• Mention the role of NFSA in eliminating hunger and malnutrition <br>• Mention concerns raised in WTO against the Food security Act <br> **Conclusion** <br>• Conclude stating that NFSA has a major role for food security to India’s poor. |
 | --- |
 
 ### Introduction
@@ -4212,7 +4212,7 @@ It is to be understood that the rules of WTO were not geared to help agrarian ec
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br>• Define farm subsidy **Body** <br>• Enlist the different types of agriculture subsidies <br>• Analyse how agricultural subsidy regime creates distortions. <br> **Conclusion:** <br>• Conclude saying that not all subsidies create distortions, some are really necessary. |
+| **Approach:** <br> **Introduction** <br>• Define farm subsidy **Body** <br>• Enlist the different types of agriculture subsidies <br>• Analyse how agricultural subsidy regime creates distortions. <br> **Conclusion** <br>• Conclude saying that not all subsidies create distortions, some are really necessary. |
 | --- |
 
 ### Introduction
@@ -4380,7 +4380,7 @@ Due to a lack of strategic planning, proper experimentation, innovation, and eng
 
 ### Answer
 
-| **Approach:** <br>• **Introduction:** Give a brief idea about the green energy corridor <br>• **Body:** Mention how India’s Green Energy Corridor project could alleviate problems associated with conventional energy <br>• **Conclusion:** India’s green energy corridor is a significant initiative to promote renewable energy and create a sustainable future. |
+| **Approach:** <br>• **Introduction:** Give a brief idea about the green energy corridor <br>• **Body:** Mention how India’s Green Energy Corridor project could alleviate problems associated with conventional energy <br>• **Conclusion** India’s green energy corridor is a significant initiative to promote renewable energy and create a sustainable future. |
 | --- |
 
 ### Introduction
@@ -5028,7 +5028,7 @@ Photochemical smog necessitates immediate action due to its complex formation an
 
 ### Answer
 
-| **Approach:** <br> **Introduction**: <br>• Start your answer by writing about coastal erosion in brief. <br> **Body** <br>• Discuss the Causes and Effects of Coastal Erosion. <br>• Then elaborate the Coastal Management Techniques. <br> **Conclusion**: <br>• Summary of the answer with urgent measures needed. |
+| **Approach:** <br> **Introduction**: <br>• Start your answer by writing about coastal erosion in brief. <br> **Body** <br>• Discuss the Causes and Effects of Coastal Erosion. <br>• Then elaborate the Coastal Management Techniques. <br> **Conclusion** <br>• Summary of the answer with urgent measures needed. |
 | --- |
 
 ### Introduction
@@ -5152,7 +5152,7 @@ India made commitments at COP26, including achieving net-zero emissions by 2070,
 
 ### Answer
 
-| **Approach:** <br>• **Introduction:** Start your answer with Uniting Global electricity Networks for Sustainability. <br>• **Body:** Explain the purpose of the Green Grid Initiative and its reference and connetion to ISA. <br>• **Conclusion:** Conclude your answer with uniting Nations for renewable energy solution. |
+| **Approach:** <br>• **Introduction:** Start your answer with Uniting Global electricity Networks for Sustainability. <br>• **Body:** Explain the purpose of the Green Grid Initiative and its reference and connetion to ISA. <br>• **Conclusion** Conclude your answer with uniting Nations for renewable energy solution. |
 | --- |
 
 ### Introduction
@@ -5187,7 +5187,7 @@ The idea of a global interconnected solar power grid, which formed the basis of 
 
 ### Answer
 
-| **Approach:** <br>• **Introduction:** Write about Draft EIA notification 2020 in brief. <br>• **Body:** State the differences between EIA Notification 2020 and 2006. <br>• **Conclusion:** Conclude your answer with concerns over weakened safeguards and public engagement. |
+| **Approach:** <br>• **Introduction:** Write about Draft EIA notification 2020 in brief. <br>• **Body:** State the differences between EIA Notification 2020 and 2006. <br>• **Conclusion** Conclude your answer with concerns over weakened safeguards and public engagement. |
 | --- |
 
 ### Introduction
@@ -5227,7 +5227,7 @@ The draft EIA Notification, 2020 diverges from the existing EIA Notification, 20
 
 ### Answer
 
-| **Approach:** <br>• **Introduction:** Brief about Jal Shakti Abhiyan. <br>• **Body:** Brief about the Salient features of the Jal Shakti Abhiyan. <br>• **Conclusion:** Conclude your answer with a futuristic approach. |
+| **Approach:** <br>• **Introduction:** Brief about Jal Shakti Abhiyan. <br>• **Body:** Brief about the Salient features of the Jal Shakti Abhiyan. <br>• **Conclusion** Conclude your answer with a futuristic approach. |
 | --- |
 
 ### Introduction
@@ -5261,7 +5261,7 @@ The salient features of the Jal Shakti Abhiyan include rainwater harvesting, rev
 
 ### Answer
 
-| **Approach:** <br>• **Introduction:** Brief about The National Clean Air Programme. <br>• **Body:** State the key features of the National Clean Air Programme [NCAP] <br>• **Conclusion:** Conclude your answer with a futuristic approach. |
+| **Approach:** <br>• **Introduction:** Brief about The National Clean Air Programme. <br>• **Body:** State the key features of the National Clean Air Programme [NCAP] <br>• **Conclusion** Conclude your answer with a futuristic approach. |
 | --- |
 
 ### Introduction
@@ -5294,7 +5294,7 @@ The key features of the National Clean Air Programme (NCAP) include setting up a
 
 ### Answer
 
-| **Approach:** <br>• **Introduction:** Brief about Indian coastal Mining. <br>• **Body:** Discuss about the Impact of Coastal Sand Mining along Indian Coasts. <br>• **Conclusion:** Conclude your answer with a futuristic approach. |
+| **Approach:** <br>• **Introduction:** Brief about Indian coastal Mining. <br>• **Body:** Discuss about the Impact of Coastal Sand Mining along Indian Coasts. <br>• **Conclusion** Conclude your answer with a futuristic approach. |
 | --- |
 
 ### Introduction
@@ -5330,7 +5330,7 @@ Sand mining along the Indian coasts has led to coastal erosion, saline-water int
 
 ### Answer
 
-| **Approach:** <br>• **Introduction:** Brief about carrying capacity, balancing needs and ecosystem resilience. <br>• **Body:** Discuss the importance in Sustainable Development Planning. <br>• **Conclusion:** Conclude your answer with a futuristic approach. |
+| **Approach:** <br>• **Introduction:** Brief about carrying capacity, balancing needs and ecosystem resilience. <br>• **Body:** Discuss the importance in Sustainable Development Planning. <br>• **Conclusion** Conclude your answer with a futuristic approach. |
 | --- |
 
 ### Introduction
@@ -5361,7 +5361,7 @@ By comprehending the carrying capacity of an ecosystem, policymakers and planner
 
 ### Answer
 
-| **Approach:** <br>• **Introduction:** Brief about India’s organic state set new environmental and economic standards. <br>• **Body:** Discuss about the Economic and environmental benefits of Organic State. <br>• **Conclusion:** Conclude your answer with a futuristic Approach. |
+| **Approach:** <br>• **Introduction:** Brief about India’s organic state set new environmental and economic standards. <br>• **Body:** Discuss about the Economic and environmental benefits of Organic State. <br>• **Conclusion** Conclude your answer with a futuristic Approach. |
 | --- |
 
 ### Introduction
@@ -5394,7 +5394,7 @@ The organic status of Sikkim has not only led to a healthier environment with re
 
 ### Answer
 
-| **Approach:** <br>• **Introduction:** Brief about India’s mega diversity nation. <br>• **Body:** Discuss about the Biodiversity variation in India and the importance of conservation. <br>• **Conclusion:** Conclude your answer with a futuristic Approach. |
+| **Approach:** <br>• **Introduction:** Brief about India’s mega diversity nation. <br>• **Body:** Discuss about the Biodiversity variation in India and the importance of conservation. <br>• **Conclusion** Conclude your answer with a futuristic Approach. |
 | --- |
 
 ### Introduction
@@ -5461,7 +5461,7 @@ Climate change is a pressing issue that requires immediate attention in India. T
 
 ### Answer
 
-| **Approach:** <br>• **Introduction:** Brief about River linking. <br>• **Body:** Discuss about the advantages of river linking and its possible impact on the environment. <br>• **Conclusion:** Conclude your answer sustainable Approach to river linking. |
+| **Approach:** <br>• **Introduction:** Brief about River linking. <br>• **Body:** Discuss about the advantages of river linking and its possible impact on the environment. <br>• **Conclusion** Conclude your answer sustainable Approach to river linking. |
 | --- |
 
 ### Introduction
@@ -5498,7 +5498,7 @@ The concept of river linking was once a distant dream, but it has now become a r
 
 ### Answer
 
-| **Approach:** <br>• **Introduction**: Brief about prioritizing rehabilitation. <br>• **Body**: Principles for responsible project development and community engagement. <br>• **Conclusion**: Conclude your answer with a futuristic Approach. |
+| **Approach:** <br>• **Introduction**: Brief about prioritizing rehabilitation. <br>• **Body**: Principles for responsible project development and community engagement. <br>• **Conclusion** Conclude your answer with a futuristic Approach. |
 | --- |
 
 ### Introduction
@@ -5571,7 +5571,7 @@ To preserve the river Ganga, a quantum leap is required, which involves a multi-
 
 ### Answer
 
-| **Approach:** <br>• **Introduction:** Brief about EIA. <br>• **Body:** Discuss crucial role of EIA studies in assessing coal plant impacts. <br>• **Conclusion:** Conclude your answer significance of coal plant. |
+| **Approach:** <br>• **Introduction:** Brief about EIA. <br>• **Body:** Discuss crucial role of EIA studies in assessing coal plant impacts. <br>• **Conclusion** Conclude your answer significance of coal plant. |
 | --- |
 
 ### Introduction
@@ -6299,7 +6299,7 @@ The S-400 Triumf’s unique capabilities make it one of the most formidable air 
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br>• Start by acknowledging the 2014 Nobel Prize in Physics that was awarded to the inventors of Blue LEDs. <br> **Body** <br>• Discuss the specific areas where Blue LEDs have made significant impacts: <br>• Energy Efficiency and Cost Savings <br>• Catalyst for Digital Revolution <br>• Medical Applications and Healthcare <br>• Innovations in Agriculture <br>• Environmental Sustainability ● **Conclusion:** Conclude, emphasizing the transformative power of scientific advancements, as exemplified by the invention of Blue LEDs, on societal development. |
+| **Approach:** <br> **Introduction** <br>• Start by acknowledging the 2014 Nobel Prize in Physics that was awarded to the inventors of Blue LEDs. <br> **Body** <br>• Discuss the specific areas where Blue LEDs have made significant impacts: <br>• Energy Efficiency and Cost Savings <br>• Catalyst for Digital Revolution <br>• Medical Applications and Healthcare <br>• Innovations in Agriculture <br>• Environmental Sustainability ● **Conclusion** Conclude, emphasizing the transformative power of scientific advancements, as exemplified by the invention of Blue LEDs, on societal development. |
 | --- |
 
 ### Introduction
@@ -6371,7 +6371,7 @@ Biotechnology has broad applications, from healthcare to agriculture, and holds 
 
 ### Answer
 
-| **Approach:** <br>• **Introduction:** Begin by highlighting the unprecedented devastation caused by the COVID-19 pandemic worldwide. And then, Introduce the focus of the answer on how technology aided pandemic management, with a specific emphasis on India. <br>• **Body:** The body should be organized into several sections, each highlighting a different technological intervention in pandemic management. <br>• **Conclusion:** Conclude, highlighting the resilience and adaptability of societies in leveraging technology to combat unprecedented challenges. |
+| **Approach:** <br>• **Introduction:** Begin by highlighting the unprecedented devastation caused by the COVID-19 pandemic worldwide. And then, Introduce the focus of the answer on how technology aided pandemic management, with a specific emphasis on India. <br>• **Body:** The body should be organized into several sections, each highlighting a different technological intervention in pandemic management. <br>• **Conclusion** Conclude, highlighting the resilience and adaptability of societies in leveraging technology to combat unprecedented challenges. |
 | --- |
 
 ### Introduction
@@ -7119,7 +7119,7 @@ Overuse and free availability of antibiotics without a prescription are major co
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br>• The introduction would provide a concise overview of the significance of Intellectual Property Rights (IPRs) in the context of globalization, innovation, and economic growth. <br> **Body** <br>• The body of the answer would be divided into three main sections: <br>• **Copyrights:** This section would provide a brief explanation of copyrights, emphasizing their role in protecting artistic and literary works. <br>• **Patents:** Focus on patents and their role in safeguarding inventions and innovative processes. <br>• **Trade Secrets:** Outline the concept of trade secrets, emphasizing their value as confidential and valuable information. ● <br> **Conclusion:** The <br> conclusion would recap the importance of Intellectual Property Rights (IPRs) in fostering innovation, creativity, and economic growth in the era of globalization. |
+| **Approach:** <br> **Introduction** <br>• The introduction would provide a concise overview of the significance of Intellectual Property Rights (IPRs) in the context of globalization, innovation, and economic growth. <br> **Body** <br>• The body of the answer would be divided into three main sections: <br>• **Copyrights:** This section would provide a brief explanation of copyrights, emphasizing their role in protecting artistic and literary works. <br>• **Patents:** Focus on patents and their role in safeguarding inventions and innovative processes. <br>• **Trade Secrets:** Outline the concept of trade secrets, emphasizing their value as confidential and valuable information. ● <br> **Conclusion** The <br> conclusion would recap the importance of Intellectual Property Rights (IPRs) in fostering innovation, creativity, and economic growth in the era of globalization. |
 | --- |
 
 ### Introduction
@@ -7198,7 +7198,7 @@ While the attractiveness of alternative career paths plays a part in the decline
 
 ### Answer
 
-| **Approach:** <br> **Introduction** Begin with a brief description of the 2005 amendment to Section 3(d) of the Indian Patent Law, 1970. <br> **Body** <br>• Mention the two key factors leading to the amendment. <br>• Discuss the Supreme Court’s application of Section 3(d) in denying a patent to Novartis for its drug Glivec. <br>• Outline the main advantages and disadvantages of the decision. <br>• Provide real-life examples too. ● **Conclusion:** Conclude with a summary statement emphasizing the importance of the amendment to Section 3(d) in balancing innovation and public health, and its significance as a standard for developing nations. |
+| **Approach:** <br> **Introduction** Begin with a brief description of the 2005 amendment to Section 3(d) of the Indian Patent Law, 1970. <br> **Body** <br>• Mention the two key factors leading to the amendment. <br>• Discuss the Supreme Court’s application of Section 3(d) in denying a patent to Novartis for its drug Glivec. <br>• Outline the main advantages and disadvantages of the decision. <br>• Provide real-life examples too. ● **Conclusion** Conclude with a summary statement emphasizing the importance of the amendment to Section 3(d) in balancing innovation and public health, and its significance as a standard for developing nations. |
 | --- |
 
 ### Introduction
@@ -8643,7 +8643,7 @@ An amalgamation of proactive intelligence, developmental initiatives, cultural s
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br>• Begin by acknowledging the increasing importance of cybersecurity in the digital age and introduce the Cyber Dome Project as Kerala Police’s innovative initiative to ensure a safer cyberspace. <br> **Body** <br>• Explain the concept of the Cyber Dome Project as a public-private partnership aimed at tackling cyber threats. <br>• Discuss the application of advanced technologies by the Cyber Dome Project. <br>• Highlight the role of the Cyber Dome Project in conducting public awareness programs. <br>• Discuss the importance of Cyber Dome in cyber forensics and its collaboration with social media platforms. <br> **Conclusion:** <br>• Conclude by appreciating the role of the Cyber Dome Project in creating a secure digital environment in India and emphasizing its potential as a model for other states to follow. |
+| **Approach:** <br> **Introduction** <br>• Begin by acknowledging the increasing importance of cybersecurity in the digital age and introduce the Cyber Dome Project as Kerala Police’s innovative initiative to ensure a safer cyberspace. <br> **Body** <br>• Explain the concept of the Cyber Dome Project as a public-private partnership aimed at tackling cyber threats. <br>• Discuss the application of advanced technologies by the Cyber Dome Project. <br>• Highlight the role of the Cyber Dome Project in conducting public awareness programs. <br>• Discuss the importance of Cyber Dome in cyber forensics and its collaboration with social media platforms. <br> **Conclusion** <br>• Conclude by appreciating the role of the Cyber Dome Project in creating a secure digital environment in India and emphasizing its potential as a model for other states to follow. |
 | --- |
 
 ### Introduction

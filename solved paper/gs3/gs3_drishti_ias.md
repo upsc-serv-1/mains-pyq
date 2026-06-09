@@ -11,7 +11,7 @@ This file contains the combined solved papers for GS3 subjects in logical order.
 
 ### Answer
 
-| **Approach** <br>• **Introduction:** Define HDI and give recent India’s ranking. <br>• **Body:** Explain the differences between HDI and IHDI and discuss IHDI's role as a better indicator of inclusive growth. <br>• **Conclusion:** Summarize the importance of IHDI in fostering inclusive growth, especially for countries like India. |
+| **Approach** <br>• **Introduction:** Define HDI and give recent India’s ranking. <br>• **Body:** Explain the differences between HDI and IHDI and discuss IHDI's role as a better indicator of inclusive growth. <br>• **Conclusion** Summarize the importance of IHDI in fostering inclusive growth, especially for countries like India. |
 | --- |
 
 ### Introduction
@@ -57,7 +57,7 @@ While HDI highlights human development, IHDI better reflects its equitable distr
 ### Answer
 **Question ID: 2025-gs3-q2-drishti_ias**
 
-| **Approach:** <br>• **Introduction:** Introduce with current scenario with the meaning of free trade and multilateralism to protectionism and bilateralism. <br>• **Body:** List down the Challenges faced by Indian Economy and measures to overcome these challenges. <br>• **Conclusion:** Summarize how these measures help India navigate the challenges posed by protectionism and bilateralism, ensuring its sustained economic growth and competitiveness in global trade. |
+| **Approach:** <br>• **Introduction:** Introduce with current scenario with the meaning of free trade and multilateralism to protectionism and bilateralism. <br>• **Body:** List down the Challenges faced by Indian Economy and measures to overcome these challenges. <br>• **Conclusion** Summarize how these measures help India navigate the challenges posed by protectionism and bilateralism, ensuring its sustained economic growth and competitiveness in global trade. |
 | --- |
 
 ### Introduction
@@ -114,7 +114,7 @@ India must balance global integration with domestic resilience by promoting self
 ### Answer
 **Question ID: 2025-gs3-q3-drishti_ias**
 
-| **Approach:** <br>• **Introduction:** Introduce the Fiscal Health Index, its key indicators. <br>• **Body:** Give FHI role in assessing Fiscal Performance of States and how it helps in adoption of prudent and sustainable fiscal policies. <br>• **Conclusion:** Conclude with a way forward approach. |
+| **Approach:** <br>• **Introduction:** Introduce the Fiscal Health Index, its key indicators. <br>• **Body:** Give FHI role in assessing Fiscal Performance of States and how it helps in adoption of prudent and sustainable fiscal policies. <br>• **Conclusion** Conclude with a way forward approach. |
 | --- |
 
 ### Introduction
@@ -163,7 +163,7 @@ The Fiscal Health Index (FHI) helps policymakers make informed decisions but als
 ### Answer
 **Question ID: 2025-gs3-q4-drishti_ias**
 
-| **Approach:** <br>• **Introduction**: Introduce the **Production Linked Incentive (PLI)** scheme, its purpose, and its objectives. <br>• **Body**: Discuss the rationale behind the scheme, its achievements in various sectors, and the improvements it has brought to India’s manufacturing ecosystem. <br>• **Conclusion**: Highlight areas where the scheme can be enhanced and suggest ways to ensure its continued success and inclusivity. |
+| **Approach:** <br>• **Introduction**: Introduce the **Production Linked Incentive (PLI)** scheme, its purpose, and its objectives. <br>• **Body**: Discuss the rationale behind the scheme, its achievements in various sectors, and the improvements it has brought to India’s manufacturing ecosystem. <br>• **Conclusion** Highlight areas where the scheme can be enhanced and suggest ways to ensure its continued success and inclusivity. |
 | --- |
 
 ### Introduction
@@ -2067,7 +2067,7 @@ Send To My Bookmarks
 
 ### Answer
 
-| **Approach** <br>• **Introduction:** Define high-value crops. <br>• **Body:** Discuss the factors influencing farmers' decisions highlighting government initiatives as key enablers for farmers to adopt high-value crops. <br>• **Conclusion:** Emphasize the positive impact of these factors on farmers' incomes and sustainable agricultural growth in India. |
+| **Approach** <br>• **Introduction:** Define high-value crops. <br>• **Body:** Discuss the factors influencing farmers' decisions highlighting government initiatives as key enablers for farmers to adopt high-value crops. <br>• **Conclusion** Emphasize the positive impact of these factors on farmers' incomes and sustainable agricultural growth in India. |
 | --- |
 
 ### Introduction
@@ -2101,7 +2101,7 @@ With the help of such initiatives, farmers are better equipped to make informed 
 ### Answer
 **Question ID: 2025-gs3-q57-drishti_ias**
 
-| **Approach** <br>• **Introduction:** Define Supply Chain Management (SCM) in agriculture. <br>• **Body:** Discuss the scope of SCM, highlighting government initiatives and give the significance of SCM. <br>• **Conclusion:** Summarise by mentioning challenges in SCM and way forward. |
+| **Approach** <br>• **Introduction:** Define Supply Chain Management (SCM) in agriculture. <br>• **Body:** Discuss the scope of SCM, highlighting government initiatives and give the significance of SCM. <br>• **Conclusion** Summarise by mentioning challenges in SCM and way forward. |
 | --- |
 
 ### Introduction
@@ -2156,7 +2156,7 @@ Challenges such as inefficiencies in government programs, lack of storage, and t
 ### Answer
 **Question ID: 2025-gs3-q58-drishti_ias**
 
-| **Approach** <br>• **Introduction:** Define the food processing industry and highlight its importance under the Make in India initiative. <br>• **Body:** Discuss the scope of the food processing industry and explain the measures taken by the government to generate employment opportunities. <br>• **Conclusion:** Summarise by mentioning the growth potential of India’s food processing sector. |
+| **Approach** <br>• **Introduction:** Define the food processing industry and highlight its importance under the Make in India initiative. <br>• **Body:** Discuss the scope of the food processing industry and explain the measures taken by the government to generate employment opportunities. <br>• **Conclusion** Summarise by mentioning the growth potential of India’s food processing sector. |
 | --- |
 
 ### Introduction
@@ -3128,7 +3128,7 @@ Send To My Bookmarks
 
 ### Answer
 
-| **Approach:** <br>• **Introduction**: Introduce the concept of **CCUS** and its significance in reducing CO **2** emissions and mitigating climate change. <br>• **Body**: Discuss the three core components of CCUS: **carbon capture**, **carbon utilization**, and **carbon storage**. Highlight the **potential role of CCUS** in tackling climate change. Identify the key **challenges** to the effectiveness of CCUS. <br>• **Conclusion**: Summarize the need of CCUS in combating climate change. |
+| **Approach:** <br>• **Introduction**: Introduce the concept of **CCUS** and its significance in reducing CO **2** emissions and mitigating climate change. <br>• **Body**: Discuss the three core components of CCUS: **carbon capture**, **carbon utilization**, and **carbon storage**. Highlight the **potential role of CCUS** in tackling climate change. Identify the key **challenges** to the effectiveness of CCUS. <br>• **Conclusion** Summarize the need of CCUS in combating climate change. |
 | --- |
 
 ### Introduction
@@ -3210,7 +3210,7 @@ Carbon Capture, Utilization, and Storage (CCUS) refers to a collection of techno
 ### Answer
 **Question ID: 2025-gs3-q87-drishti_ias**
 
-| **Approach:** <br>• **Introduction:** Introduce the issue of seawater intrusion in coastal aquifers and its significance in India, highlighting its impact on freshwater resources. <br>• **Body:** Discuss the causes of seawater intrusion, including human activities (like groundwater over-extraction and urbanization), and natural factors (like rising sea levels and geological characteristics). Provide Remedial Measures to combat seawater intrusion. <br>• **Conclusion:** Emphasize the need for integrated approaches, including community awareness, monitoring, and policy enforcement, to prevent further damage and ensure sustainable use of groundwater. |
+| **Approach:** <br>• **Introduction:** Introduce the issue of seawater intrusion in coastal aquifers and its significance in India, highlighting its impact on freshwater resources. <br>• **Body:** Discuss the causes of seawater intrusion, including human activities (like groundwater over-extraction and urbanization), and natural factors (like rising sea levels and geological characteristics). Provide Remedial Measures to combat seawater intrusion. <br>• **Conclusion** Emphasize the need for integrated approaches, including community awareness, monitoring, and policy enforcement, to prevent further damage and ensure sustainable use of groundwater. |
 | --- |
 
 Seawater intrusion into coastal aquifers is a significant environmental concern in many parts of the world, including India. This phenomenon occurs when saltwater from the sea infiltrates freshwater aquifers, rendering the groundwater unfit for human consumption, irrigation, and other uses. In India, the impact of seawater intrusion on coastal aquifers is exacerbated by over-extraction of groundwater, climate change, and improper land and water management practices.
@@ -3262,7 +3262,7 @@ The coastal aquifers play a vital role in maintaining ecological balance by supp
 ### Answer
 **Question ID: 2025-gs3-q88-drishti_ias**
 
-| **Approach** <br>• **Introduction:** Highlight the extent of groundwater depletion in India. <br>• **Body:** Give Factors Contributing to Groundwater Depletion and mention Government Measures to mitigate Groundwater Depletion. <br>• **Conclusion:** Summarise by giving suggestions and a way forward. |
+| **Approach** <br>• **Introduction:** Highlight the extent of groundwater depletion in India. <br>• **Body:** Give Factors Contributing to Groundwater Depletion and mention Government Measures to mitigate Groundwater Depletion. <br>• **Conclusion** Summarise by giving suggestions and a way forward. |
 | --- |
 
 ### Introduction
@@ -3324,7 +3324,7 @@ Addressing groundwater depletion in India requires a multi-faceted approach comb
 ### Answer
 **Question ID: 2025-gs3-q89-drishti_ias**
 
-| **Approach:** <br>• **Introduction:** Give Indian Bureau of Mines data relating to mining and mining positive and negative impact. <br>• **Body:** Give reasons mining is considered as an environmental hazard and remedial measures of mining. <br>• **Conclusion:** A way forward conclusion with adoption of sustainable practises. |
+| **Approach:** <br>• **Introduction:** Give Indian Bureau of Mines data relating to mining and mining positive and negative impact. <br>• **Body:** Give reasons mining is considered as an environmental hazard and remedial measures of mining. <br>• **Conclusion** A way forward conclusion with adoption of sustainable practises. |
 | --- |
 
 ### Introduction
@@ -3381,7 +3381,7 @@ Mining is often a double-edged sword-while it significantly contributes to econo
 ### Answer
 **Question ID: 2025-gs3-q90-drishti_ias**
 
-| **Approach** <br>• **Introduction:** Briefly explain India’s climate commitments and their alignment with its developmental priorities. <br>• **Body:** Discuss the Paris Agreement, COP26 (2021), and updates in India’s Nationally Determined Contributions (NDC) in 2022. <br>• **Conclusion:** Highlight India's leadership in climate action and its progressive approach towards sustainable development. |
+| **Approach** <br>• **Introduction:** Briefly explain India’s climate commitments and their alignment with its developmental priorities. <br>• **Body:** Discuss the Paris Agreement, COP26 (2021), and updates in India’s Nationally Determined Contributions (NDC) in 2022. <br>• **Conclusion** Highlight India's leadership in climate action and its progressive approach towards sustainable development. |
 | --- |
 
 ### Introduction
@@ -4396,7 +4396,7 @@ Send To My Bookmarks
 
 ### Answer
 
-| **Approach:** <br>• **Introduction:** Introduce the ITER project, its significance in nuclear fusion research, and India’s involvement. <br>• **Body:** Discuss India’s major contributions to ITER and implications of the project on future global energy. <br>• **Conclusion:** Include the impact of the project in future. |
+| **Approach:** <br>• **Introduction:** Introduce the ITER project, its significance in nuclear fusion research, and India’s involvement. <br>• **Body:** Discuss India’s major contributions to ITER and implications of the project on future global energy. <br>• **Conclusion** Include the impact of the project in future. |
 | --- |
 
 The International Thermonuclear Experimental Reactor (ITER) is an international nuclear fusion research project aimed at demonstrating the feasibility of nuclear fusion as a large-scale and carbon-free source of energy. It’s being constructed in Saint-Paul-lez-Durance, France, and it involves the collaboration of seven member entities: the European Union, China, India, Japan, Russia, South Korea, and the United States.
@@ -4456,7 +4456,7 @@ The ITER project represents a groundbreaking step toward a clean, sustainable, a
 ### Answer
 **Question ID: 2025-gs3-q116-drishti_ias**
 
-| **Approach:** <br>• **Introduction:** Explain what is energy independence and what approach is needed to achieve it including Biotechnology. <br>• **Body:** Give Pathways to energy independence through clean technology and role of biotechnology. <br>• **Conclusion:** Mention the prospects of adoption of clean energy. |
+| **Approach:** <br>• **Introduction:** Explain what is energy independence and what approach is needed to achieve it including Biotechnology. <br>• **Body:** Give Pathways to energy independence through clean technology and role of biotechnology. <br>• **Conclusion** Mention the prospects of adoption of clean energy. |
 | --- |
 
 ### Introduction
@@ -4507,7 +4507,7 @@ India’s pursuit of energy independence through clean technology is both urgent
 ### Answer
 **Question ID: 2025-gs3-q117-drishti_ias**
 
-| **Approach:** <br>• **Introduction:** Explain about Nanotechnology. <br>• **Body:** Write about its contribution in agriculture and it has provided socio- economic benefits to farmers. <br>• **Conclusion:** Write its benefits in future. |
+| **Approach:** <br>• **Introduction:** Explain about Nanotechnology. <br>• **Body:** Write about its contribution in agriculture and it has provided socio- economic benefits to farmers. <br>• **Conclusion** Write its benefits in future. |
 | --- |
 
 ### Introduction
@@ -5686,7 +5686,7 @@ Send To My Bookmarks
 
 ### Answer
 
-| **Approach:** <br>• **Introduction:** Define terrorism, its global significance, and its impact on international peace, stability, and human security. <br>• **Body:** Discuss Manifestation of Terrorism in India, Give Contemporary Examples of Terrorism in India, highlight the effectiveness of India’s countermeasures. <br>• **Conclusion:** Emphasize the need for continuous adaptation to new threats. |
+| **Approach:** <br>• **Introduction:** Define terrorism, its global significance, and its impact on international peace, stability, and human security. <br>• **Body:** Discuss Manifestation of Terrorism in India, Give Contemporary Examples of Terrorism in India, highlight the effectiveness of India’s countermeasures. <br>• **Conclusion** Emphasize the need for continuous adaptation to new threats. |
 | --- |
 
 Under the Bharatiya Nyaya Samhita, "terrorism" is defined as any act committed with the intention to threaten the unity, integrity, and security of India, intimidate the public or a segment thereof, or disturb public order. Globally, it threatens peace, development, and human security, with organizations like ISIS, Al-Qaeda, and Boko Haram spreading fear, destabilizing states, and disrupting international trade and governance.
@@ -5713,7 +5713,7 @@ The state has developed a multi-faceted approach to combat terrorism. Yet, the e
 ### Answer
 **Question ID: 2025-gs3-q146-drishti_ias**
 
-| **Approach** <br>• **Introduction:** Define Left-Wing Extremism (LWE) and mention briefly their origin. <br>• **Body:** Discuss the impact of LWE on people, explain the government measures to eliminate LWE and briefly mention the success and progress made. <br>• **Conclusion:** Summarise by emphasising the effectiveness of India’s SAMADHAN doctrine, and the need for continued governance and inclusive development. |
+| **Approach** <br>• **Introduction:** Define Left-Wing Extremism (LWE) and mention briefly their origin. <br>• **Body:** Discuss the impact of LWE on people, explain the government measures to eliminate LWE and briefly mention the success and progress made. <br>• **Conclusion** Summarise by emphasising the effectiveness of India’s SAMADHAN doctrine, and the need for continued governance and inclusive development. |
 | --- |
 
 ### Introduction
@@ -5759,7 +5759,7 @@ LWE is both a security and socio-economic challenge rooted in alienation. Its el
 ### Answer
 **Question ID: 2025-gs3-q147-drishti_ias**
 
-| **Approach:** <br>• **Introduction:** Write about the North-Eastern region state included in it. <br>• **Body:** Mention the major internal security challenges faced by the region and recent initiatives to maintain peace in the region. <br>• **Conclusion:** Conclude with a way forward approach for everlasting peace in the region. |
+| **Approach:** <br>• **Introduction:** Write about the North-Eastern region state included in it. <br>• **Body:** Mention the major internal security challenges faced by the region and recent initiatives to maintain peace in the region. <br>• **Conclusion** Conclude with a way forward approach for everlasting peace in the region. |
 | --- |
 
 ### Introduction
@@ -5816,7 +5816,7 @@ While significant strides have been made in fostering peace through accords, cha
 ### Answer
 **Question ID: 2025-gs3-q148-drishti_ias**
 
-| **Approach:** <br>• **Introduction:** Define maritime security and its importance to India's sea trade and national interests. <br>• **Body:** Explain its importance for trade, energy, and regional influence; identify key challenges including geopolitical tensions, institutional gaps, and operational threats; suggest reforms in surveillance, coordination, and international cooperation. <br>• **Conclusion:** Reaffirm the role of maritime security in protecting India’s trade and ensuring regional leadership. |
+| **Approach:** <br>• **Introduction:** Define maritime security and its importance to India's sea trade and national interests. <br>• **Body:** Explain its importance for trade, energy, and regional influence; identify key challenges including geopolitical tensions, institutional gaps, and operational threats; suggest reforms in surveillance, coordination, and international cooperation. <br>• **Conclusion** Reaffirm the role of maritime security in protecting India’s trade and ensuring regional leadership. |
 | --- | **Answer:** Maritime security refers to the protection of a nation’s maritime interests, including sea trade routes, coastal regions, and port infrastructure, from threats like piracy, terrorism, and trafficking. For India, with a 7,500 km coastline and 90% of trade by volume via the sea, it is an economic and strategic lifeline. Ensuring maritime security is essential for energy access, regional leadership, and national resilience.
 
 ### Significance of Maritime Security for India’s Sea Trade

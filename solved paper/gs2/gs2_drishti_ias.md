@@ -11,7 +11,7 @@ This file contains the combined solved papers for GS2 subjects in logical order.
 
 ### Answer
 
-| **Approach** <br>• **Introduction:** Define the term "corrupt practices" under the Representation of the People Act, 1951. <br>• **Body:** Elaborate on specific corrupt practices defined in the Act, focusing on undue influence and the interpretation of disproportionate asset increase as a potential corrupt practice. <br>• **Conclusion:** Conclude suitably. |
+| **Approach** <br>• **Introduction:** Define the term "corrupt practices" under the Representation of the People Act, 1951. <br>• **Body:** Elaborate on specific corrupt practices defined in the Act, focusing on undue influence and the interpretation of disproportionate asset increase as a potential corrupt practice. <br>• **Conclusion** Conclude suitably. |
 | --- |
 
 ### Introduction
@@ -80,7 +80,7 @@ Supreme Court judgments in * **Anugrah Narayan Singh v. Harsh Vardhan Bajpayee(2
 ### Answer
 **Question ID: 2025-gs2-q2-drishti_ias**
 
-| **Approach:** <br>• **Introduction:** Introduce the need for administrative tribunals and their role in providing an alternative to the traditional court system. <br>• **Body:** Discuss the need and advantages of administrative tribunals over the court system, and then assess the impact of the tribunal reforms of 2021, including the rationalization process. <br>• **Conclusion:** Conclude by summarizing the impact of the tribunal reforms and their potential for improving the administrative justice system. |
+| **Approach:** <br>• **Introduction:** Introduce the need for administrative tribunals and their role in providing an alternative to the traditional court system. <br>• **Body:** Discuss the need and advantages of administrative tribunals over the court system, and then assess the impact of the tribunal reforms of 2021, including the rationalization process. <br>• **Conclusion** Conclude by summarizing the impact of the tribunal reforms and their potential for improving the administrative justice system. |
 | --- |
 
 ### Introduction
@@ -135,7 +135,7 @@ While the **Tribunal Reforms 2021** hold promise in making the tribunal system m
 ### Answer
 **Question ID: 2025-gs2-q3-drishti_ias**
 
-| **Approach:** <br>• **Introduction:** Introduce the concept of presidential pardon powers in both India and the USA, emphasizing their constitutional basis. <br>• **Body:** Compare and contrast the powers of pardon in India and the USA, discussing constitutional provisions, scope, limits, and the concept of preemptive pardons. <br>• **Conclusion:** Summarize the key similarities and differences between the two systems and discuss the implications of preemptive pardons. |
+| **Approach:** <br>• **Introduction:** Introduce the concept of presidential pardon powers in both India and the USA, emphasizing their constitutional basis. <br>• **Body:** Compare and contrast the powers of pardon in India and the USA, discussing constitutional provisions, scope, limits, and the concept of preemptive pardons. <br>• **Conclusion** Summarize the key similarities and differences between the two systems and discuss the implications of preemptive pardons. |
 | --- |
 
 ### Introduction
@@ -202,7 +202,7 @@ The **presidential pardon powers** in India and the USA serve similar purposes i
 ### Answer
 **Question ID: 2025-gs2-q4-drishti_ias**
 
-| **Approach:** <br>• **Introduction:** Introduce the Jammu and Kashmir Reorganization Act, 2019, explaining its impact on the region by transforming Jammu and Kashmir into a Union Territory. <br>• **Body:** Discuss the nature of the Jammu and Kashmir Legislative Assembly before and after the Reorganization Act. Describe its powers and functions. <br>• **Conclusion:** Conclude suitably. |
+| **Approach:** <br>• **Introduction:** Introduce the Jammu and Kashmir Reorganization Act, 2019, explaining its impact on the region by transforming Jammu and Kashmir into a Union Territory. <br>• **Body:** Discuss the nature of the Jammu and Kashmir Legislative Assembly before and after the Reorganization Act. Describe its powers and functions. <br>• **Conclusion** Conclude suitably. |
 | --- |
 
 ### Introduction
@@ -247,7 +247,7 @@ The powers of the Jammu and Kashmir Legislative Assembly post-2019 are significa
 
 ### Answer
 
-| **Approach:** <br>• **Introduction:** Introduce the role of the Attorney General (AG) of India and his significance within the legal framework of the Union Government. <br>• **Body:** Discuss in detail the responsibilities, rights, and limitations of the AG. <br>• **Conclusion:** Conclude suitably. |
+| **Approach:** <br>• **Introduction:** Introduce the role of the Attorney General (AG) of India and his significance within the legal framework of the Union Government. <br>• **Body:** Discuss in detail the responsibilities, rights, and limitations of the AG. <br>• **Conclusion** Conclude suitably. |
 | --- |
 
 ### Introduction
@@ -284,7 +284,7 @@ The Attorney General of India holds a pivotal role in ensuring the legal integri
 ### Answer
 **Question ID: 2025-gs2-q5-drishti_ias**
 
-| **Approach :** <br>• **Introduction:** Begin with the Supreme Court’s observation on constitutional morality. <br>• **Body:** Explain the concept of constitutional morality. <br>• Discuss its application to ensure a balance between judicial independence and judicial accountability in India. <br>• **Conclusion:** Conclude with a scholarly remark. |
+| **Approach :** <br>• **Introduction:** Begin with the Supreme Court’s observation on constitutional morality. <br>• **Body:** Explain the concept of constitutional morality. <br>• Discuss its application to ensure a balance between judicial independence and judicial accountability in India. <br>• **Conclusion** Conclude with a scholarly remark. |
 | --- |
 
 ### Introduction
@@ -330,7 +330,7 @@ The Supreme Court in *Government of NCT of Delhi vs. Union of India (2018)* emph
 
 ### Answer
 
-| **Approach:** <br>• **Introduction:** Begin by briefly explaining the amending power under Article 368 of the Constitution. <br>• **Body:** Discuss the procedural and substantive limitations on the amending power of the Parliament. <br>• Highlight the need for a balance between amendments and continuity in the constitution. <br>• **Conclusion:** Conclude with a suitable scholarly remark. |
+| **Approach:** <br>• **Introduction:** Begin by briefly explaining the amending power under Article 368 of the Constitution. <br>• **Body:** Discuss the procedural and substantive limitations on the amending power of the Parliament. <br>• Highlight the need for a balance between amendments and continuity in the constitution. <br>• **Conclusion** Conclude with a suitable scholarly remark. |
 | --- |
 
 ### Introduction
@@ -381,7 +381,7 @@ Thus, while the **Constitution** grants **Parliament** **wide powers** to **amen
 ### Answer
 **Question ID: 2025-gs2-q6-drishti_ias**
 
-| **Approach:** <br>• **Introduction:** Provide a brief introduction to the collegium system in India. <br>• **Body:** Discuss the evolution of the collegium system in India. <br>• Critically examine the advantages and disadvantages of the system of appointment of the Judges of the Supreme Court of India and that of the USA. <br>• **Conclusion:** Conclude with a suitable way forward. |
+| **Approach:** <br>• **Introduction:** Provide a brief introduction to the collegium system in India. <br>• **Body:** Discuss the evolution of the collegium system in India. <br>• Critically examine the advantages and disadvantages of the system of appointment of the Judges of the Supreme Court of India and that of the USA. <br>• **Conclusion** Conclude with a suitable way forward. |
 | --- |
 
 ### Introduction
@@ -457,7 +457,7 @@ As **Granville Austin** noted, the Indian Constitution is a “ **seamless web o
 ### Answer
 **Question ID: 2025-gs2-q7-drishti_ias**
 
-| **Approach:** <br>• **Introduction:** Provide a brief introduction to the Centre-State financial relations in India. <br>• **Body:** Discuss the evolving pattern of Centre-State financial relations in the context of planned development in India. <br>• Highlight the impact of recent reforms on fiscal federalism in India. <br>• **Conclusion:** Conclude with a suitable way forward. |
+| **Approach:** <br>• **Introduction:** Provide a brief introduction to the Centre-State financial relations in India. <br>• **Body:** Discuss the evolving pattern of Centre-State financial relations in the context of planned development in India. <br>• Highlight the impact of recent reforms on fiscal federalism in India. <br>• **Conclusion** Conclude with a suitable way forward. |
 | --- |
 
 ### Introduction
@@ -3212,7 +3212,7 @@ While **technological integration** is essential for improving public administra
 ### Answer
 **Question ID: 2025-gs2-q88-drishti_ias**
 
-| **Approach**: <br>• **introduction:** Define Civil Society Organizations (CSOs) and clarify their role in society, addressing their perception as anti-State actors. <br>• **Body**: Discuss the role of CSOs in policy-making, their interactions with the state, and instances where they are perceived as anti-State. <br>• **Conclusion:** Conclude suitably. |
+| **Approach**: <br>• **introduction:** Define Civil Society Organizations (CSOs) and clarify their role in society, addressing their perception as anti-State actors. <br>• **Body**: Discuss the role of CSOs in policy-making, their interactions with the state, and instances where they are perceived as anti-State. <br>• **Conclusion** Conclude suitably. |
 | --- |
 
 ### Introduction
@@ -3327,7 +3327,7 @@ Environmental pressure groups are **critical actors in India’s environmental g
 ### Answer
 **Question ID: 2025-gs2-q90-drishti_ias**
 
-| **Approach:** <br>• **Introduction:** Define the issue: Decision-making should be close to the people, but centralization creates a disconnect in many development models. <br>• **Body:** Mention Why Localized Decision-Making Matters, How Centralized Models Defeat Development Goals. <br>• Provide Critical Evaluation and establish the need for a balanced approach. Suggest a Way Forward. <br>• **Conclusion:** Emphasize that development thrives with decentralized decision-making, supported by central expertise, for sustainable growth. |
+| **Approach:** <br>• **Introduction:** Define the issue: Decision-making should be close to the people, but centralization creates a disconnect in many development models. <br>• **Body:** Mention Why Localized Decision-Making Matters, How Centralized Models Defeat Development Goals. <br>• Provide Critical Evaluation and establish the need for a balanced approach. Suggest a Way Forward. <br>• **Conclusion** Emphasize that development thrives with decentralized decision-making, supported by central expertise, for sustainable growth. |
 | --- |
 
 ### Introduction
@@ -4640,7 +4640,7 @@ Send To My Bookmarks
 
 ### Answer
 
-| **Approach:** <br>• **Introduction:** Define social capital and its relevance to women's empowerment and gender equity. <br>• **Body:** Address the role of women's social capital in fostering empowerment and equity, focusing on SHGs, Lakhpati Didi initiative, and their impact. <br>• **Conclusion:** Conclude with the significance of women's social capital in socio-economic development. |
+| **Approach:** <br>• **Introduction:** Define social capital and its relevance to women's empowerment and gender equity. <br>• **Body:** Address the role of women's social capital in fostering empowerment and equity, focusing on SHGs, Lakhpati Didi initiative, and their impact. <br>• **Conclusion** Conclude with the significance of women's social capital in socio-economic development. |
 | --- |
 
 ### Introduction
@@ -4712,7 +4712,7 @@ Women’s **social capital** plays a crucial role in advancing **empowerment** a
 ### Answer
 **Question ID: 2025-gs2-q125-drishti_ias**
 
-| **Approach:** <br>• **Introduction:** Define the "Paradox of Poverty" - coexistence of abundant resources and widespread poverty. <br>• You may use an arrow diagram or formula presentation for enhancing the introduction. <br>• **Body:** Mention Key Aspects of the Paradox, Inequality in Ownership of Resources and propose a Way forward <br>• Cite statistics and reports (e.g., Oxfam, NITI Aayog) to support your arguments. <br>• **Conclusion:** End with a scholar's view (e.g., Mark Rank) that poverty is a systemic issue, not individual failings, and a forward-looking approach. |
+| **Approach:** <br>• **Introduction:** Define the "Paradox of Poverty" - coexistence of abundant resources and widespread poverty. <br>• You may use an arrow diagram or formula presentation for enhancing the introduction. <br>• **Body:** Mention Key Aspects of the Paradox, Inequality in Ownership of Resources and propose a Way forward <br>• Cite statistics and reports (e.g., Oxfam, NITI Aayog) to support your arguments. <br>• **Conclusion** End with a scholar's view (e.g., Mark Rank) that poverty is a systemic issue, not individual failings, and a forward-looking approach. |
 | --- |
 
 ### Introduction
@@ -4765,7 +4765,7 @@ As scholars like Mark Rank argue, **poverty reflects systemic vulnerabilities ra
 ### Answer
 **Question ID: 2025-gs2-q126-drishti_ias**
 
-| **Approach:** <br>• **Introduction:** Briefly introduce the NCPCR and its mandate to safeguard children's rights, especially in the context of the digital era. <br>• **Body: Mention Digital Era Challenges for Children, Examine Existing Policies and Gaps and Measures NCPCR Can Initiate.** <br>• **Conclusion:** Highlight NCPCR’s role in legal reform and digital literacy to protect children's rights, in line with DPSPs such as Article 39(e) and (f). |
+| **Approach:** <br>• **Introduction:** Briefly introduce the NCPCR and its mandate to safeguard children's rights, especially in the context of the digital era. <br>• **Body: Mention Digital Era Challenges for Children, Examine Existing Policies and Gaps and Measures NCPCR Can Initiate.** <br>• **Conclusion** Highlight NCPCR’s role in legal reform and digital literacy to protect children's rights, in line with DPSPs such as Article 39(e) and (f). |
 | --- |
 
 ### Introduction
@@ -5919,7 +5919,7 @@ Send To My Bookmarks
 
 ### Answer
 
-| **Approach:** <br>• **Introduction:** Briefly introduce the India-Africa digital partnership, highlighting its shift towards mutual respect, co-development, and institutional partnerships. <br>• **Body:** Discuss the growth of digital collaboration between India and Africa, focusing on specific examples of mutual benefits, the digital strategies employed, and challenges faced. <br>• **Conclusion:** Conclude by highlighting the partnership's long-term potential for inclusive development and digital transformation in Africa. |
+| **Approach:** <br>• **Introduction:** Briefly introduce the India-Africa digital partnership, highlighting its shift towards mutual respect, co-development, and institutional partnerships. <br>• **Body:** Discuss the growth of digital collaboration between India and Africa, focusing on specific examples of mutual benefits, the digital strategies employed, and challenges faced. <br>• **Conclusion** Conclude by highlighting the partnership's long-term potential for inclusive development and digital transformation in Africa. |
 | --- |
 
 ### Introduction
@@ -6027,7 +6027,7 @@ The post-Cold War world has seen a significant shift from **global cooperation**
 ### Answer
 **Question ID: 2025-gs2-q159-drishti_ias**
 
-| **Approach:** <br>• **Introduction:** Highlight energy security as a key pillar of India's foreign policy, given its high dependence on crude oil and LPG imports from the Middle East, and its role in enhancing India’s geopolitical influence in the Gulf. <br>• **Body:** Mention Why Energy Security is the "Kingpin", Integrating Energy Security with Foreign Policy. <br>• Mention Risk Management and Hedging as Way forward. <br>• **Conclusion:** Emphasize energy security's role in strengthening India’s foreign policy, securing supplies, and positioning India as a key energy hub, boosting its influence in the Middle East. |
+| **Approach:** <br>• **Introduction:** Highlight energy security as a key pillar of India's foreign policy, given its high dependence on crude oil and LPG imports from the Middle East, and its role in enhancing India’s geopolitical influence in the Gulf. <br>• **Body:** Mention Why Energy Security is the "Kingpin", Integrating Energy Security with Foreign Policy. <br>• Mention Risk Management and Hedging as Way forward. <br>• **Conclusion** Emphasize energy security's role in strengthening India’s foreign policy, securing supplies, and positioning India as a key energy hub, boosting its influence in the Middle East. |
 | --- |
 
 ### Introduction
@@ -6103,7 +6103,7 @@ Keeping energy at the core of foreign policy—by securing Gulf hydrocarbons tod
 ### Answer
 **Question ID: 2025-gs2-q160-drishti_ias**
 
-| **Approach:** <br>• **Introduction:** Highlight that UN reform, especially of the Security Council, is stalled due to East-West confrontations, primarily between the US-led West and Russo-Chinese alliance. <br>• **Body:** Mention East-West Policy Confrontations and Why UN Reforms Stall. And provide critical evaluation. <br>• **Conclusion:** Stress that UN reform is urgent for its relevance, and coalition-building among the Global South is key to maintaining momentum. |
+| **Approach:** <br>• **Introduction:** Highlight that UN reform, especially of the Security Council, is stalled due to East-West confrontations, primarily between the US-led West and Russo-Chinese alliance. <br>• **Body:** Mention East-West Policy Confrontations and Why UN Reforms Stall. And provide critical evaluation. <br>• **Conclusion** Stress that UN reform is urgent for its relevance, and coalition-building among the Global South is key to maintaining momentum. |
 | --- |
 
 ### Introduction

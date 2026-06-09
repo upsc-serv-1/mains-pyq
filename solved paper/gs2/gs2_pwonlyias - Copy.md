@@ -1289,7 +1289,7 @@ While the President of India is elected through an indirect electoral process, e
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br>• Briefly introduce the Governor’s role and powers in the context of legislative functions. <br> **Body** <br>• Divide the body into two main parts: <br>• Essential conditions for exercise of legislative powers by the Governor. <br>• Legality of re-promulgation of ordinances without placing them before the Legislature. <br> **Conclusion:** <br>• Conclude, summarizing the importance of maintaining a balance between the Governor’s legislative powers and the need for legislative oversight, emphasizing the constitutional spirit and the principles of democratic governance. |
+| **Approach:** <br> **Introduction** <br>• Briefly introduce the Governor’s role and powers in the context of legislative functions. <br> **Body** <br>• Divide the body into two main parts: <br>• Essential conditions for exercise of legislative powers by the Governor. <br>• Legality of re-promulgation of ordinances without placing them before the Legislature. <br> **Conclusion** <br>• Conclude, summarizing the importance of maintaining a balance between the Governor’s legislative powers and the need for legislative oversight, emphasizing the constitutional spirit and the principles of democratic governance. |
 | --- |
 
 ### Introduction
@@ -2200,7 +2200,7 @@ As both nations continue to evolve and address contemporary challenges, their ju
 
 ### Answer
 
-| **Approach:** <br> **Introduction:** <br>• Begin by highlighting the shift in focus for local institutions in India from ‘Functions, Functionaries, and Funds’ to ‘Functionality’ and emphasize the importance of effective governance, service delivery, and responsiveness to local communities. <br> **Body:** <br>• Briefly mention the critical challenges faced by local institutions in terms of functionality. <br> **Conclusion:** <br>• Conclude, suggesting potential solutions or recommendations. |
+| **Approach:** <br> **Introduction:** <br>• Begin by highlighting the shift in focus for local institutions in India from ‘Functions, Functionaries, and Funds’ to ‘Functionality’ and emphasize the importance of effective governance, service delivery, and responsiveness to local communities. <br> **Body:** <br>• Briefly mention the critical challenges faced by local institutions in terms of functionality. <br> **Conclusion** <br>• Conclude, suggesting potential solutions or recommendations. |
 | --- |
 
 ### Introduction
@@ -3671,7 +3671,7 @@ The ideal cabinet size balances representation and efficiency. This was evident 
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br>• Begin by explaining the federal structure of the Indian Constitution and how it combines elements of federalism and unitarism. <br> **Body** <br>• Discuss the various features of the Indian Constitution that lean towards a strong Centre. <br>• Also, mention about cooperative federalism, provided by the Indian constitution. <br> **Conclusion:** <br>• Conclude by summarizing the main points discussed in the <br> body of your answer, acknowledging the federal nature of the Indian Constitution, while highlighting the features that lean towards a strong Centre. |
+| **Approach:** <br> **Introduction** <br>• Begin by explaining the federal structure of the Indian Constitution and how it combines elements of federalism and unitarism. <br> **Body** <br>• Discuss the various features of the Indian Constitution that lean towards a strong Centre. <br>• Also, mention about cooperative federalism, provided by the Indian constitution. <br> **Conclusion** <br>• Conclude by summarizing the main points discussed in the <br> body of your answer, acknowledging the federal nature of the Indian Constitution, while highlighting the features that lean towards a strong Centre. |
 | --- |
 
 ### Introduction
@@ -4565,7 +4565,7 @@ To maximize the benefits of the DBT scheme, it is essential to address these lim
 
 ### Answer
 
-| **Approach:** <br>• **Introduction:** Introduce the Gati-Shakti Yojana and its objective of improving multi-modal connectivity across India. <br>• **Body:** Discuss the need for meticulous coordination between the government and the private sector. <br>• **Conclusion:** Conclude, highlighting its potential impact on India’s infrastructure development and economic growth. |
+| **Approach:** <br>• **Introduction:** Introduce the Gati-Shakti Yojana and its objective of improving multi-modal connectivity across India. <br>• **Body:** Discuss the need for meticulous coordination between the government and the private sector. <br>• **Conclusion** Conclude, highlighting its potential impact on India’s infrastructure development and economic growth. |
 | --- |
 
 ### Introduction
@@ -4599,7 +4599,7 @@ The Gati-Shakti Yojana has the potential to transform India’s infrastructure l
 
 ### Answer
 
-| **Approach:** <br>• **Introduction:** Introduce the Rights of Persons with Disabilities Act, 2016 and its objectives. <br>• **Body:** Discuss the importance of sensitization in areas such as awareness and understanding, changing mindsets and attitudes, capacity building, accessibility, and collaborative efforts. <br>• **Conclusion:** Summarize the significance of sensitization for the success of the RPWD Act and its potential impact on the lives of persons with disabilities. |
+| **Approach:** <br>• **Introduction:** Introduce the Rights of Persons with Disabilities Act, 2016 and its objectives. <br>• **Body:** Discuss the importance of sensitization in areas such as awareness and understanding, changing mindsets and attitudes, capacity building, accessibility, and collaborative efforts. <br>• **Conclusion** Summarize the significance of sensitization for the success of the RPWD Act and its potential impact on the lives of persons with disabilities. |
 | --- |
 
 ### Introduction
@@ -5714,7 +5714,7 @@ To effectively resolve the problem of immorality in public affairs, a comprehens
 
 ### Answer
 
-| **Approach:** <br>• **Introduction:** The introduction would present an overview of the Indian government’s electronic cash transfer system, Direct Benefit Transfer (DBT). <br>• **Body:** <br>• Discuss how DBT reduces corruption by eliminating intermediaries and directly transferring benefits to recipients. <br>• How DBT can reduce wastage by ensuring accurate targeting of beneficiaries. <br>• Explain how DBT can lay the groundwork for more effective and efficient welfare schemes and promote financial inclusion. <br>• Discuss how DBT enhances transparency and accountability in welfare services, providing the example of the Mahatma Gandhi National Rural Employment Guarantee Act (MGNREGA) to substantiate the point. <br>• Substantiate writing suitable examples. <br>• **Conclusion:** The conclusion would acknowledge the potential challenges in implementing DBT, such as digital literacy, inadequate banking infrastructure, and internet connectivity issues. It would then reiterate that despite these challenges, DBT holds significant potential to revolutionize the delivery of welfare services in India by minimizing corruption, eliminating wastage, and facilitating reforms. |
+| **Approach:** <br>• **Introduction:** The introduction would present an overview of the Indian government’s electronic cash transfer system, Direct Benefit Transfer (DBT). <br>• **Body:** <br>• Discuss how DBT reduces corruption by eliminating intermediaries and directly transferring benefits to recipients. <br>• How DBT can reduce wastage by ensuring accurate targeting of beneficiaries. <br>• Explain how DBT can lay the groundwork for more effective and efficient welfare schemes and promote financial inclusion. <br>• Discuss how DBT enhances transparency and accountability in welfare services, providing the example of the Mahatma Gandhi National Rural Employment Guarantee Act (MGNREGA) to substantiate the point. <br>• Substantiate writing suitable examples. <br>• **Conclusion** The conclusion would acknowledge the potential challenges in implementing DBT, such as digital literacy, inadequate banking infrastructure, and internet connectivity issues. It would then reiterate that despite these challenges, DBT holds significant potential to revolutionize the delivery of welfare services in India by minimizing corruption, eliminating wastage, and facilitating reforms. |
 | --- |
 
 ### Introduction
@@ -6285,7 +6285,7 @@ Addressing inflation and unemployment alongside implementing welfare schemes ens
 
 ### Answer
 
-| **Approach:** <br>• **Introduction:** Introduce the growing role of donor agencies in financing development projects in India and express the concern that their increasing involvement may affect community participation in the development process. <br>• **Body:** Discuss the potential negative effects of increased dependence on donor agencies, such as reduced ownership, top-down approaches, and bureaucratic hurdles, while also highlighting the positive aspects, including capacity building, inclusive development strategies, and leveraging local knowledge. <br>• **Conclusion:** Write a relevant <br> conclusion, emphasizing on achieving sustainable and inclusive development outcomes that benefit India’s diverse population. |
+| **Approach:** <br>• **Introduction:** Introduce the growing role of donor agencies in financing development projects in India and express the concern that their increasing involvement may affect community participation in the development process. <br>• **Body:** Discuss the potential negative effects of increased dependence on donor agencies, such as reduced ownership, top-down approaches, and bureaucratic hurdles, while also highlighting the positive aspects, including capacity building, inclusive development strategies, and leveraging local knowledge. <br>• **Conclusion** Write a relevant <br> conclusion, emphasizing on achieving sustainable and inclusive development outcomes that benefit India’s diverse population. |
 | --- |
 
 ### Introduction
@@ -6358,7 +6358,7 @@ By adopting a comprehensive approach that addresses the aforementioned limitatio
 
 ### Answer
 
-| **Approach:** <br>• **Introduction:** Briefly introduce the concept of primary health care as a moral imperative of a welfare state. <br>• **Body:** <br>• Analyse its role as a necessary precondition for sustainable development. <br>• You can start by mentioning case studies of TN, Kerala , Delhi etc. <br>• **Conclusion:** Write a relevant <br> conclusion. |
+| **Approach:** <br>• **Introduction:** Briefly introduce the concept of primary health care as a moral imperative of a welfare state. <br>• **Body:** <br>• Analyse its role as a necessary precondition for sustainable development. <br>• You can start by mentioning case studies of TN, Kerala , Delhi etc. <br>• **Conclusion** Write a relevant <br> conclusion. |
 | --- |
 
 ### Introduction
@@ -6656,7 +6656,7 @@ The success of the National Education Policy 2020 in transforming India’s educ
 
 ### Answer
 
-| **Approach:** <br>• **Introduction:** Introduce the United Nations Multidimensional Poverty Index (MPI) as a more comprehensive measure of poverty, considering both incidence and intensity of deprivations across multiple dimensions. <br>• **Body:** <br>• Explain how it offers a better understanding of poverty compared to income-based measures. <br>• Discuss the insights and analysis provided by the latest United Nations Multidimensional Poverty Index Report. <br>• **Conclusion:** Emphasize how the insights from the report can inform policymakers in designing more effective interventions to alleviate multidimensional poverty and improve overall well-being. |
+| **Approach:** <br>• **Introduction:** Introduce the United Nations Multidimensional Poverty Index (MPI) as a more comprehensive measure of poverty, considering both incidence and intensity of deprivations across multiple dimensions. <br>• **Body:** <br>• Explain how it offers a better understanding of poverty compared to income-based measures. <br>• Discuss the insights and analysis provided by the latest United Nations Multidimensional Poverty Index Report. <br>• **Conclusion** Emphasize how the insights from the report can inform policymakers in designing more effective interventions to alleviate multidimensional poverty and improve overall well-being. |
 | --- |
 
 ### Introduction
@@ -7111,7 +7111,7 @@ While NGOs play a critical role in environmental protection, their potential can
 
 ### Answer
 
-| **Approach:** <br>• **Introduction:** Begin by acknowledging the limitations of the public health system in providing universal health coverage. <br>• **Body:** <br>• Discuss how the private sector can contribute to expanding healthcare coverage. <br>• Outline additional solutions to supplement the role of the private sector. <br>• **Conclusion:** Conclude by summarizing the potential of the private sector and the other alternatives in bridging the gap in universal health coverage. |
+| **Approach:** <br>• **Introduction:** Begin by acknowledging the limitations of the public health system in providing universal health coverage. <br>• **Body:** <br>• Discuss how the private sector can contribute to expanding healthcare coverage. <br>• Outline additional solutions to supplement the role of the private sector. <br>• **Conclusion** Conclude by summarizing the potential of the private sector and the other alternatives in bridging the gap in universal health coverage. |
 | --- |
 
 ### Introduction
@@ -7374,7 +7374,7 @@ While there are certainly potential benefits to granting more autonomy to premie
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br>• The introduction would briefly explain the Millennium Development Goals (MDGs) and identify the three MDGs that are directly related to health: MDG 4 (Reduce Child Mortality), MDG 5 (Improve Maternal Health), and MDG 6 (Combat HIV/AIDS, Malaria, and Other Diseases). <br> **Body** <br>• Detail the actions taken by the Indian government to achieve this goal, such as the Integrated Child Development Services (ICDS) scheme and the Universal Immunization Programme (UIP). <br>• Discuss the government’s initiatives to improve maternal health, such as the National Health Mission (NHM) and the Janani Suraksha Yojana (JSY). <br>• Discuss the actions taken by the Indian government to combat HIV/AIDS, malaria, and other diseases, such as the National AIDS Control Programme (NACP) and the National Vector Borne Disease Control Programme (NVBDCP). <br> **Conclusion:** <br>• The conclusion would summarize the progress made by India in achieving the health-related MDGs, acknowledging the significant strides made while also highlighting the challenges that remained. |
+| **Approach:** <br> **Introduction** <br>• The introduction would briefly explain the Millennium Development Goals (MDGs) and identify the three MDGs that are directly related to health: MDG 4 (Reduce Child Mortality), MDG 5 (Improve Maternal Health), and MDG 6 (Combat HIV/AIDS, Malaria, and Other Diseases). <br> **Body** <br>• Detail the actions taken by the Indian government to achieve this goal, such as the Integrated Child Development Services (ICDS) scheme and the Universal Immunization Programme (UIP). <br>• Discuss the government’s initiatives to improve maternal health, such as the National Health Mission (NHM) and the Janani Suraksha Yojana (JSY). <br>• Discuss the actions taken by the Indian government to combat HIV/AIDS, malaria, and other diseases, such as the National AIDS Control Programme (NACP) and the National Vector Borne Disease Control Programme (NVBDCP). <br> **Conclusion** <br>• The conclusion would summarize the progress made by India in achieving the health-related MDGs, acknowledging the significant strides made while also highlighting the challenges that remained. |
 | --- |
 
 ### Introduction
