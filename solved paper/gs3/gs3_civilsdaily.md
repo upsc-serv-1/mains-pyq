@@ -38,13 +38,13 @@ NITI Aayog, established in **2015,** replaced the Planning Commission to reflect
 
 5. **Multisectoral Engagement Importance of of NITI Aayog**
 
-**1. Reflects shift from state-led to market-led development model**
+1. **Reflects shift from state-led to market-led development model**
 
-**2. Improves Centre-State cooperation for faster execution**
+2. **Improves Centre-State cooperation for faster execution**
 
-**3. Enhances accountability and outcome-based governance**
+3. **Enhances accountability and outcome-based governance**
 
-**4. Encourages policy experimentation and innovation** NITI Aayog reflects India’s evolving needs as a **21st-century, globally integrated economy.**
+4. **Encourages policy experimentation and innovation** NITI Aayog reflects India’s evolving needs as a **21st-century, globally integrated economy.**
 
 [Question ID: 2018-gs3-q1-civilsdaily]
 
@@ -160,25 +160,25 @@ The post-2015 GDP methodology aims to provide a **more accurate, data-rich, and 
 
 **Methodology to Compute Unemployment in India**
 
-**1. NSSO (under MOSPI)** is the principal body responsible for estimating unemployment.
+1. **NSSO (under MOSPI)** is the principal body responsible for estimating unemployment.
 
-**2. Periodic Labour Force Survey (PLFS) - NSO** measures unemployment through three indicators:
+2. **Periodic Labour Force Survey (PLFS) - NSO** measures unemployment through three indicators:
 
-  - **Usual Status (US/PS+SS)** - Based on activity over **365 days**
+    - **Usual Status (US/PS+SS)** - Based on activity over **365 days**
 
-  - **Current Weekly Status (CWS)** - If not worked for **1 hour in the last 7 days.**
+    - **Current Weekly Status (CWS)** - If not worked for **1 hour in the last 7 days.**
 
-  - **Current Daily Status (CDS)** - Records activity for each day of last week - best for informal/underemployment.
+    - **Current Daily Status (CDS)** - Records activity for each day of last week - best for informal/underemployment.
 
-**3. Household Surveys -** Annual (rural + urban) and quarterly (urban) surveys.
+3. **Household Surveys -** Annual (rural + urban) and quarterly (urban) surveys.
 
-**4. Establishment Surveys**
+4. **Establishment Surveys**
 
-  - **QES** for formal sector
+    - **QES** for formal sector
 
-  - **ASI** for organised manufacturing
+    - **ASI** for organised manufacturing
 
-**5. Administrative Data - EPFO, ESIC, NPS** payrolls used to estimate formal job creation.
+5. **Administrative Data - EPFO, ESIC, NPS** payrolls used to estimate formal job creation.
 
 **6.** Unemployment rate = No. of unemployed persons / Total labour force **Issues with Current Methodology**
 
@@ -227,11 +227,11 @@ Improving methodology is essential to generate accurate employment estimates and
 
 - Majorly Informal Sector **Fact File**
 
-**1. The contribution of care work to India’s GDP is around 15-17%**
+1. **The contribution of care work to India’s GDP is around 15-17%**
 
-**2. Women contribute 84% of unpaid care work.**
+2. **Women contribute 84% of unpaid care work.**
 
-**3. Global care investments can create 475 million jobs by 2030.**
+3. **Global care investments can create 475 million jobs by 2030.**
 
 | Care Economy | Monetized Economy |
 | --- | --- |
@@ -294,15 +294,15 @@ The rising **protectionism** and **currency manipulations** have disrupted globa
 
 6. **Industrial Subsidies Impact of Protectionism on Macroeconomic Stability of India**
 
-**1. Export Slowdown** due to **high tariffs. Eg:** US protectionism under Section 232 hurt India’s steel exports.
+1. **Export Slowdown** due to **high tariffs. Eg:** US protectionism under Section 232 hurt India’s steel exports.
 
-**2. Supply Chain Disruptions** lead to **higher Production Costs. Eg-** higher oil prices after Israel-Palestine conflict
+2. **Supply Chain Disruptions** lead to **higher Production Costs. Eg-** higher oil prices after Israel-Palestine conflict
 
-**3. Imported Inflation** due to barriers on food, energy and intermediate goods. **Eg:** Indonesia palm oil ban.
+3. **Imported Inflation** due to barriers on food, energy and intermediate goods. **Eg:** Indonesia palm oil ban.
 
-**4. Weak Employment in Export-oriented Sectors - Eg:** Fall in European demand hit India’s **textile and leather clusters.**
+4. **Weak Employment in Export-oriented Sectors - Eg:** Fall in European demand hit India’s **textile and leather clusters.**
 
-**5. Lower FDI Inflows -** Uncertain trade regimes discourage long-term investments. Eg- Apple cancelling plant in India after Trump threat.
+5. **Lower FDI Inflows -** Uncertain trade regimes discourage long-term investments. Eg- Apple cancelling plant in India after Trump threat.
 
 **Impact of Currency Manipulations on Macroeconomic Stability**
 
@@ -310,15 +310,15 @@ The rising **protectionism** and **currency manipulations** have disrupted globa
 
 2. **Rupee Volatility** creates **monetary Policy Challenges. Eg:** Yen depreciation in 2023-24 triggered pressure on Asian currencies including INR.
 
-**3. Higher Inflation and BoP Pressure - Eg: INR touching 83-84 per USD** raised petroleum import bills.
+3. **Higher Inflation and BoP Pressure - Eg: INR touching 83-84 per USD** raised petroleum import bills.
 
-**4. Capital Outflows** due to dollar strengthening. **Eg:** 2022-24 saw **FPI outflows** during phases of aggressive US Fed tightening.
+4. **Capital Outflows** due to dollar strengthening. **Eg:** 2022-24 saw **FPI outflows** during phases of aggressive US Fed tightening.
 
-**5. Pressure on Forex Reserves - Eg:** RBI sold USD in 2022-23 to stabilise INR, reducing reserves temporarily.
+5. **Pressure on Forex Reserves - Eg:** RBI sold USD in 2022-23 to stabilise INR, reducing reserves temporarily.
 
 **Opportunities for India Amid Protectionism & Currency Politics**
 
-**1. China+1 Advantage** in electronics, chemicals, renewables. **Eg-** Mobile exports crossed USD 11 bn in
+1. **China+1 Advantage** in electronics, chemicals, renewables. **Eg-** Mobile exports crossed USD 11 bn in
 
 [Question ID: 2018-gs3-q6-civilsdaily]
 
@@ -327,19 +327,19 @@ The rising **protectionism** and **currency manipulations** have disrupted globa
 ## Question 7 (Year: 2023 | Paper: GS III)
 **Question ID: 2023-gs3-q7-civilsdaily**
 
-**24. [Year: 2023]**
+24. **[Year: 2023]**
 
 ### Answer
 
-**2. Boost Make in India** to build self-reliant supply chains. **Eg: PLI schemes** in semiconductors, textiles, solar modules.
+2. **Boost Make in India** to build self-reliant supply chains. **Eg: PLI schemes** in semiconductors, textiles, solar modules.
 
-  - Diversification of Trade Partners - Eg- Recent FTA with UK
+    - Diversification of Trade Partners - Eg- Recent FTA with UK
 
-**4. Strategic Attractiveness as a Stable Market -** Amid volatile currencies and geo-economic blocs, India is seen as a stable investment destination.
+4. **Strategic Attractiveness as a Stable Market -** Amid volatile currencies and geo-economic blocs, India is seen as a stable investment destination.
 
-**5. Promoting Rupee Trade Mechanisms - Eg- INR invoicing and Vostro accounts.**
+5. **Promoting Rupee Trade Mechanisms - Eg- INR invoicing and Vostro accounts.**
 
-**6. Opportunity to Lead on Fair Trade Norms** in WTO, G20 on currency transparency and non-tariff barriers.
+6. **Opportunity to Lead on Fair Trade Norms** in WTO, G20 on currency transparency and non-tariff barriers.
 
 **Way Forward**
 
@@ -461,23 +461,23 @@ With **7% growth in 2025-26,** India is one of the **fastest-growing major econo
 
 **Suggested Growth Pattern to Create More Jobs Without Compromising Productivity**
 
-**1. Manufacturing-led, technology-enabled growth**
+1. **Manufacturing-led, technology-enabled growth**
 
-  - Expand **labour-intensive manufacturing** such as **textiles, toys, leather, electronics assembly. Eg:**
+    - Expand **labour-intensive manufacturing** such as **textiles, toys, leather, electronics assembly. Eg:**
 
 **PLI schemes** for electronics, textiles.
 
-  - Use **AI, robotics, lean production** to improve productivity while expanding scale.
+    - Use **AI, robotics, lean production** to improve productivity while expanding scale.
 
-**2. MSME upgradation -** Enable **cluster-based development,** digitalisation, easier credit. **Eg: MSME Champions Scheme, ONDC for market linkages**
+2. **MSME upgradation -** Enable **cluster-based development,** digitalisation, easier credit. **Eg: MSME Champions Scheme, ONDC for market linkages**
 
-**3. Skill-based job creation** through programs like **Skill India, PMKVY 4.0.**
+3. **Skill-based job creation** through programs like **Skill India, PMKVY 4.0.**
 
 **4.** Boost **food processing, millets, horticulture,** and **FPO-based value chains.**
 
 **5.** Employment in **solar manufacturing, EV ecosystem, recycling, energy efficiency** can raise both **jobs** and **productivity.**
 
-**6. Strengthen urban employment ecosystems -** Invest in **urban infrastructure,** housing, logistics, and city industrial clusters.
+6. **Strengthen urban employment ecosystems -** Invest in **urban infrastructure,** housing, logistics, and city industrial clusters.
 
 **7.** Improve **FLFPR** through childcare support, flexible work, safety, and skilling.
 
@@ -536,7 +536,7 @@ India’s recent growth has been driven more by **labour mobilisation** than by 
 
 2. Raising the **investment rate** to around **35% of GDP** from the current level of ~ 31%.
 
-**3. Boost domestic demand** through **high public capex**
+3. **Boost domestic demand** through **high public capex**
 
 **4.** Build resilience in **semiconductors, defence, and critical minerals** under Atmanirbhar Bharat.
 
@@ -577,9 +577,9 @@ As per **OECD,** inclusive growth is economic growth distributed fairly across s
 
 4. **Strengthens financial inclusion -** Eg- **PM Jan Dhan Yojana** opened **500 million+ bank accounts**
 
-**5. Equality of Opportunity -** Eg- the **Rights of Persons with Disabilities (RPwD) Act, 2016**
+5. **Equality of Opportunity -** Eg- the **Rights of Persons with Disabilities (RPwD) Act, 2016**
 
-  - **Ayushman Bharat:** Provided **free healthcare to 23 crore people.**
+    - **Ayushman Bharat:** Provided **free healthcare to 23 crore people.**
 
 **Inclusive Growth Ensuring Sustainability**
 
@@ -591,7 +591,7 @@ As per **OECD,** inclusive growth is economic growth distributed fairly across s
 
 4. **Sustainable Livelihoods -** Promotes climate-resilient agriculture, water conservation, and diversified livelihoods.
 
-**5. Institutional Sustainability (SDG 16, SDG 17)** through decentralisation, cooperative federalism and data-driven governance. Eg- Aspirational Districts Programme.
+5. **Institutional Sustainability (SDG 16, SDG 17)** through decentralisation, cooperative federalism and data-driven governance. Eg- Aspirational Districts Programme.
 
 **Interlinking between Inclusiveness and Sustainability**
 
@@ -615,11 +615,11 @@ As per **OECD,** inclusive growth is economic growth distributed fairly across s
 
 5. **Market failures in public goods.** Eg- **Digital Apartheid** in Education **Way Forward**
 
-**1. Capability Approach (Amartya Sen) -** increase Education and health spending to 6% and 2.5% of GDP respectively
+1. **Capability Approach (Amartya Sen) -** increase Education and health spending to 6% and 2.5% of GDP respectively
 
 **2.** Strengthen **progressive taxes,** wealth taxes and targeted subsidies to reduce income inequality and expand welfare spending.
 
-**3. Align national policies with Paris Agreement targets**
+3. **Align national policies with Paris Agreement targets**
 
 **4.** Universalise **social security,** pensions, maternity benefits, and unemployment allowance **A nexus approach towards sustainability and inclusiveness is needed for ‘Sabka Saath, Sabka Vikas.’**
 
@@ -668,11 +668,11 @@ Eg- Glass Ceiling for Women
 
 **Way Forward**
 
-**5. Capability Approach (Amartya Sen) -** increase Education and health spending to 6% and 2.5% of GDP respectively
+5. **Capability Approach (Amartya Sen) -** increase Education and health spending to 6% and 2.5% of GDP respectively
 
 **6.** Strengthen **progressive taxes,** wealth taxes and targeted subsidies to reduce income inequality and expand welfare spending.
 
-**7. Align national policies with Paris Agreement targets**
+7. **Align national policies with Paris Agreement targets**
 
 **8.** Universalise **social security,** pensions, maternity benefits, and unemployment allowance **A nexus approach** towards sustainability and inclusiveness is needed for **‘Sabka Saath, Sabka Vikas.’**
 
@@ -752,53 +752,53 @@ India’s life expectancy has increased to **72.4 years (2025)** due to better h
 
 1. **Rise in Non-Communicable Diseases (NCDs) -** Higher prevalence of **diabetes, hypertension, heart disease, cancer,** dementia cause **over 65% of total deaths in India.**
 
-**2. Geriatric Health Issues**
+2. **Geriatric Health Issues**
 
-  - Increase in **frailty, vision/hearing loss,** arthritis.
+    - Increase in **frailty, vision/hearing loss,** arthritis.
 
-  - Growing burden of **neurodegenerative disorders** like Alzheimer’s and Parkinson’s.
+    - Growing burden of **neurodegenerative disorders** like Alzheimer’s and Parkinson’s.
 
-**3. Multi-morbidity -** Elderly increasingly suffer from **multiple chronic conditions,** requiring continuous care.
+3. **Multi-morbidity -** Elderly increasingly suffer from **multiple chronic conditions,** requiring continuous care.
 
-**4. Mental Health Challenges**
+4. **Mental Health Challenges**
 
-  - Rising cases of **depression, loneliness, anxiety.**
+    - Rising cases of **depression, loneliness, anxiety.**
 
-  - Lack of community-based mental health services.
+    - Lack of community-based mental health services.
 
 **5.** Treatment of chronic and age-related conditions increases **out-of-pocket expenditure.**
 
-**6. Weak Elderly Care Infrastructure -** Limited **geriatric wards,** rehabilitation centres, home-care services and trained geriatric nurses.
+6. **Weak Elderly Care Infrastructure -** Limited **geriatric wards,** rehabilitation centres, home-care services and trained geriatric nurses.
 
-**7. Feminization of aging -** women face greater **economic insecurity,** inadequate pensions, elder abuse, and social isolation.
+7. **Feminization of aging -** women face greater **economic insecurity,** inadequate pensions, elder abuse, and social isolation.
 
 **Steps Needed to Address These Challenges**
 
-**1. Strengthen Geriatric Healthcare -** Establish **geriatric wards** in district hospitals and train geriatric specialists
+1. **Strengthen Geriatric Healthcare -** Establish **geriatric wards** in district hospitals and train geriatric specialists
 
-**2. Community-Based Care**
+2. **Community-Based Care**
 
-  - Promote **home healthcare** and caregiver support services.
+    - Promote **home healthcare** and caregiver support services.
 
-  - Incentivise **care economy** (eldercare workers, physiotherapists).
+    - Incentivise **care economy** (eldercare workers, physiotherapists).
 
-**3. National NCD Prevention Strategy**
+3. **National NCD Prevention Strategy**
 
-  - Screen population for **hypertension, diabetes, cancers** through HWCs.
+    - Screen population for **hypertension, diabetes, cancers** through HWCs.
 
-  - Promote lifestyle interventions: yoga, diet counselling, tobacco control.
+    - Promote lifestyle interventions: yoga, diet counselling, tobacco control.
 
-**4. Strengthen Mental Health Services**
+4. **Strengthen Mental Health Services**
 
-  - Expand **Tele-MANAS,** district mental health programmes.
+    - Expand **Tele-MANAS,** district mental health programmes.
 
-  - Senior citizen counselling and social engagement platforms.
+    - Senior citizen counselling and social engagement platforms.
 
-**5. Social Protection -** Expand **pension coverage** by strengthening PM-SYM.
+5. **Social Protection -** Expand **pension coverage** by strengthening PM-SYM.
 
-**6. Promote Active and Healthy Ageing** through **Fit India Movement.**
+6. **Promote Active and Healthy Ageing** through **Fit India Movement.**
 
-**7. Data and Technology Integration -** Use **telemedicine,** remote monitoring, and AI-based early diagnosis.
+7. **Data and Technology Integration -** Use **telemedicine,** remote monitoring, and AI-based early diagnosis.
 
 A forward-looking strategy that integrates healthcare, community support, and the silver economy will ensure that longer lives translate into **healthier, dignified, and economically meaningful lives.**
 
@@ -857,21 +857,21 @@ Since the **1991 reforms,** India shifted to a market-oriented growth model. Pub
 
 5. **Women Empowerment** - Eg- 45% women representation in PRIs **Limitations and Challenges**
 
-**1. Rural-Urban Divide Persists -** Urban per capita income is **2x rural.**
+1. **Rural-Urban Divide Persists -** Urban per capita income is **2x rural.**
 
 **2.** Only **24-25%** of the population has any formal social protection.
 
-**3. Poor Learning Outcomes**
+3. **Poor Learning Outcomes**
 
-  - **50% of Class 5 students** cannot read Class 2 text (ASER).
+    - **50% of Class 5 students** cannot read Class 2 text (ASER).
 
-  - **50% of graduates are employable** only (India Skills Report).
+    - **50% of graduates are employable** only (India Skills Report).
 
-**4. Low Public Health Spending -** Still around **1.9% of GDP,** below the global average of 6%.
+4. **Low Public Health Spending -** Still around **1.9% of GDP,** below the global average of 6%.
 
-**5. Inclusion-Exclusion errors and** Leakages in PDS.
+5. **Inclusion-Exclusion errors and** Leakages in PDS.
 
-**6. High Inequality -** Top **10% hold 77% of national wealth** (Oxfam).
+6. **High Inequality -** Top **10% hold 77% of national wealth** (Oxfam).
 
 **Capability Approach (Amartya Sen) by** increasing Education and health spending to 6% and 2.5% of GDP respectively is needed for **‘Sabka Saath, Sabka Vikas.’**
 
@@ -971,33 +971,33 @@ The Goods and Services Tax (GST), implemented on **1 July 2017,** unified India�
 
 **Revenue Implications of GST Since July 2017**
 
-**1. Expansion of Tax Base-** Eg - **over 1.51 crore** active GST registrations. **(65 lakh in 2017)**
+1. **Expansion of Tax Base-** Eg - **over 1.51 crore** active GST registrations. **(65 lakh in 2017)**
 
-**2. Rising Revenue Collections -** Eg - Average monthly collections rose from **₹90,000 crore (2017-18)** to **₹1.92 lakh crore+ (2025).**
+2. **Rising Revenue Collections -** Eg - Average monthly collections rose from **₹90,000 crore (2017-18)** to **₹1.92 lakh crore+ (2025).**
 
 <p align="center"><img src="images/civilsdaily_p18_img85.png" alt="Diagram" /></p>
 
-**3. Formalisation -** E-invoicing, ITC matching and GSTN integration improved compliance, pushing MSMEs into the **formal economy**
+3. **Formalisation -** E-invoicing, ITC matching and GSTN integration improved compliance, pushing MSMEs into the **formal economy**
 
-**4. Reduction in Cascading -** Unified tax with **seamless input credit** reduced the tax-on-tax effect, improving supply-chain efficiency and indirectly boosting revenues.
+4. **Reduction in Cascading -** Unified tax with **seamless input credit** reduced the tax-on-tax effect, improving supply-chain efficiency and indirectly boosting revenues.
 
-**5. Support for Manufacturing:** Correcting **inverted duty structures** enhances **domestic value addition,** strengthens **export competitiveness,** and boosts revenue.
+5. **Support for Manufacturing:** Correcting **inverted duty structures** enhances **domestic value addition,** strengthens **export competitiveness,** and boosts revenue.
 
 **6.** Ease of Compliance - **lower rates under GST 2.0 combined with better compliance** can **increase GST collections** in the medium term.
 
 **Challenges**
 
-**1. Post GST 2.0** revenue shortfall of **₹48,000 crore annually is predicted.** Due to **reduced rates** and **zero-rating** of many goods.
+1. **Post GST 2.0** revenue shortfall of **₹48,000 crore annually is predicted.** Due to **reduced rates** and **zero-rating** of many goods.
 
-  - **PRS Report-** the **aggregate revenue** under GST has **declined from 6.5% of GDP in 2015-16** to **5.5% of GDP in 2023-24. (below the 7% GST-to-GDP ratio** projected by the **15th FC)**
+    - **PRS Report-** the **aggregate revenue** under GST has **declined from 6.5% of GDP in 2015-16** to **5.5% of GDP in 2023-24. (below the 7% GST-to-GDP ratio** projected by the **15th FC)**
 
-**3. Initial Revenue Volatility -** States faced shortfalls despite compensation, indicating
+3. **Initial Revenue Volatility -** States faced shortfalls despite compensation, indicating
 
-**4. High Compliance Burden -** Multiple monthly, quarterly, and annual returns, **e-invoicing,** and **ITC reconciliation** increase administrative load, especially for SMEs.
+4. **High Compliance Burden -** Multiple monthly, quarterly, and annual returns, **e-invoicing,** and **ITC reconciliation** increase administrative load, especially for SMEs.
 
-**5. State Revenue Concerns -** Dependence on **compensation cess** and delays in payments strain state finances
+5. **State Revenue Concerns -** Dependence on **compensation cess** and delays in payments strain state finances
 
-**6. Evasion and fraud** through fraudulent activities like fake invoices persist.
+6. **Evasion and fraud** through fraudulent activities like fake invoices persist.
 
 **7.** Nearly **half of the economy remains outside** the GST framework. Eg- **petroleum products, real estate, and electricity duties are excluded from GST.**
 
@@ -1026,29 +1026,29 @@ This expanded public **spending needs** while simultaneously demanding **fiscal 
 
 **Need for Public Expenditure**
 
-**1. Provision of Public Goods - Eg-** spending on health, education
+1. **Provision of Public Goods - Eg-** spending on health, education
 
-**2. Social Welfare & Equity -** Eg - Poshan 2.0, PM-Jan Arogya Yojana.
+2. **Social Welfare & Equity -** Eg - Poshan 2.0, PM-Jan Arogya Yojana.
 
-**3. Infrastructure Development -** Eg - National Infrastructure Pipeline.
+3. **Infrastructure Development -** Eg - National Infrastructure Pipeline.
 
-**4. Poverty Alleviation & Employment -** Eg - MGNREGA wage payments.
+4. **Poverty Alleviation & Employment -** Eg - MGNREGA wage payments.
 
-**5. Reducing Regional Imbalances -** Eg - Aspirational Districts Programme.
+5. **Reducing Regional Imbalances -** Eg - Aspirational Districts Programme.
 
-**6. Counter-cyclical spending** during downturns. - Eg - Pandemic stimulus packages.
+6. **Counter-cyclical spending** during downturns. - Eg - Pandemic stimulus packages.
 
-**7. Human Capital Development -** Eg - PM Kaushal Vikas Yojana.
+7. **Human Capital Development -** Eg - PM Kaushal Vikas Yojana.
 
-**8. Technological & R&D Support -** Eg - Funding for ISRO, Digital India.
+8. **Technological & R&D Support -** Eg - Funding for ISRO, Digital India.
 
 **Major challenges in Public Expenditure management**
 
-**1. High Subsidies and Social Welfare Programs:** The subsidy **bill for FY 2025-26 was estimated at ₹4.26 lakh crores.** (3% of GDP)
+1. **High Subsidies and Social Welfare Programs:** The subsidy **bill for FY 2025-26 was estimated at ₹4.26 lakh crores.** (3% of GDP)
 
 <p align="center"><img src="images/civilsdaily_p19_img86.png" alt="Diagram" /></p>
 
-**2. Interest Payment obligations -** The budgetary estimate for
+2. **Interest Payment obligations -** The budgetary estimate for
 
 [Question ID: 2019-gs3-q18-civilsdaily]
 
@@ -1063,23 +1063,23 @@ This expanded public **spending needs** while simultaneously demanding **fiscal 
 
 25 % of the government's total expenditure.
 
-**3. Low Tax Buoyancy:** The **tax-to-GDP ratio** in India is around **10-12%, lower,** while for OECD its 33%.
+3. **Low Tax Buoyancy:** The **tax-to-GDP ratio** in India is around **10-12%, lower,** while for OECD its 33%.
 
-  - **Expanding Welfare Commitments -** Growth in **health, education, pensions, MGNREGA** raises recurring liabilities.
+    - **Expanding Welfare Commitments -** Growth in **health, education, pensions, MGNREGA** raises recurring liabilities.
 
-  - **FRBM Constraints -** FRBM mandates **FD of 4.4%** of GDP, limiting fiscal space.
+    - **FRBM Constraints -** FRBM mandates **FD of 4.4%** of GDP, limiting fiscal space.
 
-**6. Poor Budgetary Forecasting** : Budgets often overstate revenue projections (15 out of 20 years since fiscal 1998) and understate expenditures (12 out of 20 years since fiscal 1998).
+6. **Poor Budgetary Forecasting** : Budgets often overstate revenue projections (15 out of 20 years since fiscal 1998) and understate expenditures (12 out of 20 years since fiscal 1998).
 
-**7. Fiscal Populism** - **eg** loan waivers to farmers
+7. **Fiscal Populism** - **eg** loan waivers to farmers
 
-  - **Rise in Off-Budget Expenditure -** Eg: **Food subsidy via FCI, UDAY bonds by states.**
+    - **Rise in Off-Budget Expenditure -** Eg: **Food subsidy via FCI, UDAY bonds by states.**
 
-  - **Rise in Public Administration Costs -** Eg: **8th Pay Commission** can increase salary & pension burden.
+    - **Rise in Public Administration Costs -** Eg: **8th Pay Commission** can increase salary & pension burden.
 
-  - **Need for Infrastructure Investment** in transport, energy, and urbanisation, but fiscal space remained limited. Eg- As per WB, $2.2 trillion by 2030 is needed
+    - **Need for Infrastructure Investment** in transport, energy, and urbanisation, but fiscal space remained limited. Eg- As per WB, $2.2 trillion by 2030 is needed
 
-  - **Public Sector Inefficiencies -** Persistent losses in **PSUs** require budgetary support, reducing room for developmental expenditure.
+    - **Public Sector Inefficiencies -** Persistent losses in **PSUs** require budgetary support, reducing room for developmental expenditure.
 
 **External Challenges**
 
@@ -1097,19 +1097,19 @@ This expanded public **spending needs** while simultaneously demanding **fiscal 
 
 **1.** Establish an **independent fiscal council** to provide unbiased analysis of fiscal policy and enhance transparency and accountability. (15th FC Report)
 
-**2. Scrutiny of Populist Policies and Outcome-Oriented Budgeting (NITI Aayog)**
+2. **Scrutiny of Populist Policies and Outcome-Oriented Budgeting (NITI Aayog)**
 
-**3. Leveraging PPP** for **mobilizing private sector investment** for infrastructure projects. **(Economic Survey)**
+3. **Leveraging PPP** for **mobilizing private sector investment** for infrastructure projects. **(Economic Survey)**
 
-**4. Reforming Social Welfare Programs:** Eg- **Shanta Kumar Committee** estimated that **reforms in PDS** could **save ₹10,000 crores.**
+4. **Reforming Social Welfare Programs:** Eg- **Shanta Kumar Committee** estimated that **reforms in PDS** could **save ₹10,000 crores.**
 
 **5.** Cut **down administrative costs by 10-15% through e-governance. (2nd ARC)**
 
-**6. Enhance Tax Buoyancy -** to achieve a **medium-term growth** trajectory of **6.5-7.0%** and realize **Viksit Bharat vision,** tax buoyancy needs to be in the **1.2-1.5 range. (EY Report)**
+6. **Enhance Tax Buoyancy -** to achieve a **medium-term growth** trajectory of **6.5-7.0%** and realize **Viksit Bharat vision,** tax buoyancy needs to be in the **1.2-1.5 range. (EY Report)**
 
-**7. Improve Centre-State Fiscal Coordination -** Encourage states through **capex-linked incentives,** as in Union Budget 2023-24’s 50-year interest-free loans.
+7. **Improve Centre-State Fiscal Coordination -** Encourage states through **capex-linked incentives,** as in Union Budget 2023-24’s 50-year interest-free loans.
 
-**8. Strategic Disinvestment -** Use proceeds to fund **infrastructure, logistics, transport,** not for recurring expenditure. (NITI Aayog) Efficient expenditure is critical for sustainable budgeting and **Viksit Bharat 2047.**
+8. **Strategic Disinvestment -** Use proceeds to fund **infrastructure, logistics, transport,** not for recurring expenditure. (NITI Aayog) Efficient expenditure is critical for sustainable budgeting and **Viksit Bharat 2047.**
 
 [Question ID: 2025-gs3-q19-civilsdaily]
 
@@ -1128,15 +1128,15 @@ The GST, implemented on **1 July 2017,** unified India’s fragmented indirect t
 
 **Rationale behind the GST (Compensation to States) Act, 2017**
 
-**1. GST subsumed major state taxes (VAT, entry tax, octroi). To prevent short-term revenue loss, the Act assured 14% annual revenue growth for 5 years (2017-22).**
+1. **GST subsumed major state taxes (VAT, entry tax, octroi). To prevent short-term revenue loss, the Act assured 14% annual revenue growth for 5 years (2017-22).**
 
-**2. Addressing Loss of Fiscal Autonomy - Compensation ensured states’ fiscal stability during structural shifts.**
+2. **Addressing Loss of Fiscal Autonomy - Compensation ensured states’ fiscal stability during structural shifts.**
 
-**3. Cooperative Federalism- States agreed to adopt GST in exchange for legal assurance of compensation from the Centre.**
+3. **Cooperative Federalism- States agreed to adopt GST in exchange for legal assurance of compensation from the Centre.**
 
-**4. Creating Predictability in Budgeting - Guaranteed revenue helped states plan welfare schemes, salaries, and capital projects without fear of instability.**
+4. **Creating Predictability in Budgeting - Guaranteed revenue helped states plan welfare schemes, salaries, and capital projects without fear of instability.**
 
-**5. Compensation Fund Mechanism- A dedicated GST Compensation Cess (on luxury/sin goods like tobacco, coal, automobiles) was created to finance the compensation pool.**
+5. **Compensation Fund Mechanism- A dedicated GST Compensation Cess (on luxury/sin goods like tobacco, coal, automobiles) was created to finance the compensation pool.**
 
 **Impact of COVID-19 on the GST Compensation Fund**
 
@@ -1146,19 +1146,19 @@ The GST, implemented on **1 July 2017,** unified India’s fragmented indirect t
 
 - **₹1.38 lakh crore** was attributed to the **COVID-19-induced economic shock**
 
-**2. The Centre admitted an unprecedented shortfall, stating it could not fully compensate states from the fund.**
+2. **The Centre admitted an unprecedented shortfall, stating it could not fully compensate states from the fund.**
 
-**3. Borrowing Controversy**
+3. **Borrowing Controversy**
 
-  - The Centre asked states to borrow via RBI under two options.**
+    - The Centre asked states to borrow via RBI under two options.**
 
-  - Many states (Kerala, Punjab, Chhattisgarh) argued that the borrowing burden should lie with the Centre, not states.**
+    - Many states (Kerala, Punjab, Chhattisgarh) argued that the borrowing burden should lie with the Centre, not states.**
 
-**4. Breakdown of Consensus in GST Council -** For the first time since 2017, the Council saw **voting instead of consensus.** States alleged weakening of **cooperative federalism.**
+4. **Breakdown of Consensus in GST Council -** For the first time since 2017, the Council saw **voting instead of consensus.** States alleged weakening of **cooperative federalism.**
 
-**5. Increased Fiscal Stress on States -** Shortfalls forced states to cut **capital expenditure,** delay welfare payments, and increase **market borrowing.**
+5. **Increased Fiscal Stress on States -** Shortfalls forced states to cut **capital expenditure,** delay welfare payments, and increase **market borrowing.**
 
-**6. States demanded extending the compensation period beyond June 2022 due to pandemic losses** Strengthening the fiscal framework, improving tax buoyancy, and enhancing transparency in compensation mechanisms are essential to restore trust in India’s **cooperative federalism.**
+6. **States demanded extending the compensation period beyond June 2022 due to pandemic losses** Strengthening the fiscal framework, improving tax buoyancy, and enhancing transparency in compensation mechanisms are essential to restore trust in India’s **cooperative federalism.**
 
 [Question ID: 2020-gs3-q20-civilsdaily]
 
@@ -1188,43 +1188,43 @@ Under Article 112, the Budget comprises the **Revenue Budget,** which covers rou
 
 A. Revenue Receipts
 
-  - **Tax Revenue** - Income tax, corporate tax, GST, customs, excise, etc.
+    - **Tax Revenue** - Income tax, corporate tax, GST, customs, excise, etc.
 
-  - **Non-Tax Revenue** - Dividends & profits from PSUs/RBI, fees, fines, interest receipts.
+    - **Non-Tax Revenue** - Dividends & profits from PSUs/RBI, fees, fines, interest receipts.
 
-  - **Grants-in-Aid** - External grants from other countries/institutions.
+    - **Grants-in-Aid** - External grants from other countries/institutions.
 
 B. Revenue Expenditure
 
-  - **Salaries, Pensions & Administrative Costs**
+    - **Salaries, Pensions & Administrative Costs**
 
-  - **Subsidies** - food, fertiliser, petroleum.
+    - **Subsidies** - food, fertiliser, petroleum.
 
-  - **Interest Payments** on past borrowings.
+    - **Interest Payments** on past borrowings.
 
-  - **Grants to States & UTs,** grants for social services.
+    - **Grants to States & UTs,** grants for social services.
 
-  - **Expenditure on Routine Government Operations** - police, defence services (revenue), judiciary.
+    - **Expenditure on Routine Government Operations** - police, defence services (revenue), judiciary.
 
 **Components of the Capital Budget**
 
 A. Capital Receipts
 
-  - **Borrowings** - Market loans, external loans, treasury bills.
+    - **Borrowings** - Market loans, external loans, treasury bills.
 
-  - **Disinvestment Proceeds** - Sale of government equity in PSUs.
+    - **Disinvestment Proceeds** - Sale of government equity in PSUs.
 
-  - **Recovery of Loans** - Repayment from states, PSUs, and others.
+    - **Recovery of Loans** - Repayment from states, PSUs, and others.
 
-  - **Small Savings & Provident Fund Collections**
+    - **Small Savings & Provident Fund Collections**
 
 B. Capital Expenditure
 
-  - **Creation of Assets** - Roads, railways, bridges, irrigation, defence capital.
+    - **Creation of Assets** - Roads, railways, bridges, irrigation, defence capital.
 
-  - **Loans and Advances** - To states, UTs, PSUs, and financial institutions.
+    - **Loans and Advances** - To states, UTs, PSUs, and financial institutions.
 
-  - **Investment in PSUs and Infrastructure Projects** A healthy fiscal structure requires **containing revenue expenditure** and prioritising **capital expenditure** to strengthen productivity and economic growth.
+    - **Investment in PSUs and Infrastructure Projects** A healthy fiscal structure requires **containing revenue expenditure** and prioritising **capital expenditure** to strengthen productivity and economic growth.
 
 [Question ID: 2021-gs3-q21-civilsdaily]
 
@@ -1245,39 +1245,39 @@ The **Fiscal Health Index (FHI)** initiative by **NITI Aayog** evaluates the fis
 
 1. FHI uses uniform metrics-Tax **Buoyancy, Debt-to-GSDP, Fiscal Deficit, Capex** Share-allowing objective comparison across states.
 
-**2. Multi-dimensional Evaluation -** Covers **five pillars** and reveal structural strengths and weakness
+2. **Multi-dimensional Evaluation -** Covers **five pillars** and reveal structural strengths and weakness
 
-  - Measures states’ ability to mobilise resources through **Own Tax Revenue (OTR)** and **Own Non-tax Revenue (ONTR).** Eg - Higher **OTR-to-GSDP** ratio reflects stronger fiscal autonomy.
+    - Measures states’ ability to mobilise resources through **Own Tax Revenue (OTR)** and **Own Non-tax Revenue (ONTR).** Eg - Higher **OTR-to-GSDP** ratio reflects stronger fiscal autonomy.
 
-  - **Measures Quality of Expenditure -** FHI differentiates between **capital expenditure** and **revenue expenditure.** Eg - States like **Gujarat and Karnataka** show higher **capex** ratios.
+    - **Measures Quality of Expenditure -** FHI differentiates between **capital expenditure** and **revenue expenditure.** Eg - States like **Gujarat and Karnataka** show higher **capex** ratios.
 
-  - **Tracks Debt Sustainability -** Assesses **Debt-GSDP ratio, interest payment burden,** and **future liabilities.** Eg - FHI flags high-debt states such as **Punjab, Kerala, Rajasthan,** and **West Bengal.**
+    - **Tracks Debt Sustainability -** Assesses **Debt-GSDP ratio, interest payment burden,** and **future liabilities.** Eg - FHI flags high-debt states such as **Punjab, Kerala, Rajasthan,** and **West Bengal.**
 
-  - **Monitors Fiscal Deficit and Compliance with FRBM Limits -** Shows whether states adhere to **3% fiscal deficit** glide path.
+    - **Monitors Fiscal Deficit and Compliance with FRBM Limits -** Shows whether states adhere to **3% fiscal deficit** glide path.
 
-  - **Identifies Risk from Off-Budget Borrowings -** Captures liabilities from **power sector guarantees, state PSUs,** and **special purpose vehicles.**
+    - **Identifies Risk from Off-Budget Borrowings -** Captures liabilities from **power sector guarantees, state PSUs,** and **special purpose vehicles.**
 
-  - **Highlights Best Practices - Eg-** Top states-Odisha **(67.8 score), Chhattisgarh,** Goa-show strong **non-tax revenue, low fiscal deficits,** and **high capital outlays Role of FHI in Encouraging prudent and sustainable fiscal policies**
+    - **Highlights Best Practices - Eg-** Top states-Odisha **(67.8 score), Chhattisgarh,** Goa-show strong **non-tax revenue, low fiscal deficits,** and **high capital outlays Role of FHI in Encouraging prudent and sustainable fiscal policies**
 
-  - **Promotes Fiscal Discipline** - Poor rankings push states to reduce **deficits and unsustainable borrowing.**
+    - **Promotes Fiscal Discipline** - Poor rankings push states to reduce **deficits and unsustainable borrowing.**
 
-  - **Incentivises Capital Spending** - Encourages a shift from **populist revenue expenditure** towards **productive capital outlay.**
+    - **Incentivises Capital Spending** - Encourages a shift from **populist revenue expenditure** towards **productive capital outlay.**
 
-  - **Supports Long-Term Planning** - Aligns state finances with **sustainable development goals** and resilience-building.
+    - **Supports Long-Term Planning** - Aligns state finances with **sustainable development goals** and resilience-building.
 
-  - **Revenue** Reforms-Stimulates states to improve **tax buoyancy, and non-tax revenue mobilisation**
+    - **Revenue** Reforms-Stimulates states to improve **tax buoyancy, and non-tax revenue mobilisation**
 
-  - **Drives Structural Reforms** like subsidy rationalization, **reduction in revenue leakages etc.**
+    - **Drives Structural Reforms** like subsidy rationalization, **reduction in revenue leakages etc.**
 
-  - **Transparency & Accountability** - Public scrutiny builds **pressure on governments** for fiscal prudence
+    - **Transparency & Accountability** - Public scrutiny builds **pressure on governments** for fiscal prudence
 
-  - **Encourages Inter-State Competition** - Rankings foster a **competitive spirit** to achieve stronger fiscal performance.
+    - **Encourages Inter-State Competition** - Rankings foster a **competitive spirit** to achieve stronger fiscal performance.
 
-  - **Strengthens Cooperative Federalism** - Helps in **Centre-State dialogue** on shared fiscal risks and sustainability.
+    - **Strengthens Cooperative Federalism** - Helps in **Centre-State dialogue** on shared fiscal risks and sustainability.
 
-  - **Boosts Investor Confidence** - Strong fiscal performance signals creditworthiness, attracting investment.
+    - **Boosts Investor Confidence** - Strong fiscal performance signals creditworthiness, attracting investment.
 
-  - Promotes **Sustainable Borrowing** Practices and **enhances creditworthiness** as better FHI improves a state's credit rating.
+    - Promotes **Sustainable Borrowing** Practices and **enhances creditworthiness** as better FHI improves a state's credit rating.
 
 **Challenges**
 
@@ -1332,15 +1332,15 @@ MSME sector contributes “nearly one-third to India’s GDP” and is a “key 
 
 <p align="center"><img src="images/civilsdaily_p23_img87.png" alt="Diagram" /></p>
 
-**3. Production Linked Incentive (PLI) Scheme** to attract investment and boost domestic manufacturing.
+3. **Production Linked Incentive (PLI) Scheme** to attract investment and boost domestic manufacturing.
 
-  - **Ease of doing business** through labour reforms. Eg- 4 labour courts
+    - **Ease of doing business** through labour reforms. Eg- 4 labour courts
 
 **5.** Over **2.5 lakh MSMEs onboarded on GeM** for direct government procurement.
 
-**6. MSME SAMADHAAN portal** for grievance redressal related to delayed payments.
+6. **MSME SAMADHAAN portal** for grievance redressal related to delayed payments.
 
-**7. Udyam Registration** system to access **government benefits and schemes.**
+7. **Udyam Registration** system to access **government benefits and schemes.**
 
 **Issues**
 
@@ -1348,21 +1348,21 @@ MSME sector contributes “nearly one-third to India’s GDP” and is a “key 
 
 2. **Slow to transition to advanced technology. (Ficci-Mckinsey Report)**
 
-**3. Infrastructure Deficiencies -**
+3. **Infrastructure Deficiencies -**
 
-  - Multimodal connectivity gaps.
+    - Multimodal connectivity gaps.
 
-  - **Power outages,** weak water supply, and poor transport networks.
+    - **Power outages,** weak water supply, and poor transport networks.
 
-**4. Regulatory & Policy Bottlenecks**
+4. **Regulatory & Policy Bottlenecks**
 
-  - **Land acquisition delays**
+    - **Land acquisition delays**
 
-  - Manufacturing MSMEs face **1,450+ compliances** annually
+    - Manufacturing MSMEs face **1,450+ compliances** annually
 
-  - High compliance cost **₹13-17 lakh/year** per MSME
+    - High compliance cost **₹13-17 lakh/year** per MSME
 
-  - **Limited Access to Finance (only 14% out of 64 million)** Recommendations of **UK Sinha Committee** must be implemented to make India the global manufacturing hub
+    - **Limited Access to Finance (only 14% out of 64 million)** Recommendations of **UK Sinha Committee** must be implemented to make India the global manufacturing hub
 
 [Question ID: 2023-gs3-q23-civilsdaily]
 
@@ -1482,23 +1482,23 @@ The Central Government consolidated **29 existing central labour laws** into fou
 
 5. **Inconsistent Application Across Sectors -** agriculture (60% of informal workforce) and construction (~50 million workers) face **seasonal work, casual labour, and absence of contracts**
 
-**6. Rising Costs for Businesses**
+6. **Rising Costs for Businesses**
 
-  - Gratuity obligations**
+    - Gratuity obligations**
 
-  - PF contributions**
+    - PF contributions**
 
-  - Maternity benefits (26 weeks paid leave + crèche facilities) Progress So Far**
+    - Maternity benefits (26 weeks paid leave + crèche facilities) Progress So Far**
 
-  - All four codes are **legally enacted** between 2019-20.
+    - All four codes are **legally enacted** between 2019-20.
 
-  - 34 States and UTs have **notified draft rules but** full implementation is pending.
+    - 34 States and UTs have **notified draft rules but** full implementation is pending.
 
-  - The Centre has initiated **digital portals** (e-Shram, unified labour compliance) to support implementation.
+    - The Centre has initiated **digital portals** (e-Shram, unified labour compliance) to support implementation.
 
-  - Resistance from trade unions and worker groups continues. Eg- strikes by AITUC and CPI
+    - Resistance from trade unions and worker groups continues. Eg- strikes by AITUC and CPI
 
-  - Labour is a **concurrent subject** - state-level variation persists.
+    - Labour is a **concurrent subject** - state-level variation persists.
 
 Enforcing labour codes can bring in **transparency, simplification & digitization** in compliance. This can help India to become a manufacturing hub as companies adopt the **"China+1" strategy.**
 
@@ -1837,7 +1837,7 @@ Implementation of **VIjay Kelkar Committee** recommendations on PPP can transfor
 
 5. **Focus on Remote Areas** in the **Northeast, hill states, islands, tribal districts** to ensure **last-mile connectivity.**
 
-**6. Encourages Public-Private Partnership (PPP)** in regional airport infrastructure.
+6. **Encourages Public-Private Partnership (PPP)** in regional airport infrastructure.
 
 **Achievements of the UDAN Scheme**
 
@@ -1900,17 +1900,17 @@ India ranks **3rd globally** in Solar Power capacity, (IRENA 2025) with **1.16 G
 
 <p align="center"><img src="images/civilsdaily_p34_img92.png" alt="Diagram" /></p>
 
-**3. Enhances Energy Security -** Reduces dependence on **imported coal, oil, and gas.** (India imports over **85% of crude oil)**
+3. **Enhances Energy Security -** Reduces dependence on **imported coal, oil, and gas.** (India imports over **85% of crude oil)**
 
 **4.** Once installed, solar projects have **minimal maintenance and no fuel cost,** unlike thermal plants dependent on continuous coal supply.
 
-**5. Decentralised and Inclusive -** Solar energy supports **off-grid** and **rooftop** systems. Eg- Solar Pumps under PM Kusum
+5. **Decentralised and Inclusive -** Solar energy supports **off-grid** and **rooftop** systems. Eg- Solar Pumps under PM Kusum
 
-**6. Promotes Improved Public Health -** Solar reduces air pollution-related diseases linked with thermal power. Eg**asthma, cardiovascular illnesses.**
+6. **Promotes Improved Public Health -** Solar reduces air pollution-related diseases linked with thermal power. Eg**asthma, cardiovascular illnesses.**
 
 **7.** Solar energy is critical for achieving India’s **NDC targets** of **50% non-fossil electricity by 2030** and **Net Zero by 2070.**
 
-**8. Generates Green Jobs** in solar manufacturing, installation, maintenance. India’s RE sector employs **3.7 lakh+ workers** (IRENA 2024).
+8. **Generates Green Jobs** in solar manufacturing, installation, maintenance. India’s RE sector employs **3.7 lakh+ workers** (IRENA 2024).
 
 **Government Initiatives to Promote Solar Energy in India**
 
@@ -1975,41 +1975,41 @@ The **rice-wheat system** emerged as the backbone of Indian agriculture after th
 
 **However, this system has become bane for India**
 
-**1. Excess Use of Fertilizers** leads to nutrient imbalances and soil degradation. Eg-Punjab uses **244 kg/ha** of fertilizers vs the national average of **140 kg/ha.**
+1. **Excess Use of Fertilizers** leads to nutrient imbalances and soil degradation. Eg-Punjab uses **244 kg/ha** of fertilizers vs the national average of **140 kg/ha.**
 
-**2. Deteriorating Soil Health**
+2. **Deteriorating Soil Health**
 
-  - N:P:K imbalance 7.7:3.1:1.
+    - N:P:K imbalance 7.7:3.1:1.
 
-  - **Over 30% of Indian soils is degraded**
+    - **Over 30% of Indian soils is degraded**
 
-**3. Groundwater Depletion: Eg-** Punjab’s water table dropping **50 cm annually** (Central Ground Water Board).
+3. **Groundwater Depletion: Eg-** Punjab’s water table dropping **50 cm annually** (Central Ground Water Board).
 
-**4. Decreasing Productivity:** Wheat yields have stagnated at **3.5-4 tonnes/ha** due to resource depletion and climate change (ICAR, 2023).
+4. **Decreasing Productivity:** Wheat yields have stagnated at **3.5-4 tonnes/ha** due to resource depletion and climate change (ICAR, 2023).
 
-**5. Pollution from Residue Burning:** over **20 million tonnes** of paddy straw burned annually (SAFAR).
+5. **Pollution from Residue Burning:** over **20 million tonnes** of paddy straw burned annually (SAFAR).
 
-**6. Increased Fiscal Burden due to** high MSP and fertilizer subsidies. Eg- fertilizer subsidies exceeding **₹1.91 lakh crore** in **2024-25.**
+6. **Increased Fiscal Burden due to** high MSP and fertilizer subsidies. Eg- fertilizer subsidies exceeding **₹1.91 lakh crore** in **2024-25.**
 
-  - Reducing **agro-biodiversity** - focus on only **two crops** has displaced **millets, pulses and oilseeds.**
+    - Reducing **agro-biodiversity** - focus on only **two crops** has displaced **millets, pulses and oilseeds.**
 
-  - Neglect of **nutri-cereals and pulses** has contributed to **hidden hunger and malnutrition.**
+    - Neglect of **nutri-cereals and pulses** has contributed to **hidden hunger and malnutrition.**
 
-  - **Climate Vulnerability -** Rice-wheat system is highly sensitive to **heatwaves, erratic rainfall and declining water availability.**
+    - **Climate Vulnerability -** Rice-wheat system is highly sensitive to **heatwaves, erratic rainfall and declining water availability.**
 
 **Way Forward**
 
-**1. Diversification to Millets, Pulses & Oilseeds**
+1. **Diversification to Millets, Pulses & Oilseeds**
 
-**2. Efficient Water Management** - **Drip irrigation, System of Rice Intensification (SRI)**
+2. **Efficient Water Management** - **Drip irrigation, System of Rice Intensification (SRI)**
 
-**3. Soil Health Restoration** - **organic fertilizers, bio-compost, and crop rotation**
+3. **Soil Health Restoration** - **organic fertilizers, bio-compost, and crop rotation**
 
-**4. Stubble Management Alternatives** - **Happy Seeder, bio-decomposers, and straw recycling**
+4. **Stubble Management Alternatives** - **Happy Seeder, bio-decomposers, and straw recycling**
 
-**5. Climate-Resilient Varieties**
+5. **Climate-Resilient Varieties**
 
-**6. Rationalise MSP** to break the monoculture cycle.
+6. **Rationalise MSP** to break the monoculture cycle.
 
 Crop diversification is key for **doubling farmers’ income and nutritional security.**
 
@@ -2038,17 +2038,17 @@ Crop diversification is key for **doubling farmers’ income and nutritional sec
 
 <p align="center"><img src="images/civilsdaily_p49_img98.png" alt="Diagram" /></p>
 
-**2. Predictability - Assured pricing** helps farmers **plan crop investments,** buy better inputs and adopt new technologies.
+2. **Predictability - Assured pricing** helps farmers **plan crop investments,** buy better inputs and adopt new technologies.
 
-**3. Crop diversification** through higher MSPs for **nutri-cereals and oilseeds.** Eg- higher MSP hikes for millets in recent years
+3. **Crop diversification** through higher MSPs for **nutri-cereals and oilseeds.** Eg- higher MSP hikes for millets in recent years
 
-**4. Improved creditworthiness** of farmers due to MSP-backed income - Reduce dependence on **moneylenders.**
+4. **Improved creditworthiness** of farmers due to MSP-backed income - Reduce dependence on **moneylenders.**
 
-**5. Enhances Food Security** through the **Public Distribution System (PDS)**
+5. **Enhances Food Security** through the **Public Distribution System (PDS)**
 
-**6. Strengthens Rural Economy -** Higher farm income → **higher rural demand** for goods and services → **multiplier effect on rural economy**
+6. **Strengthens Rural Economy -** Higher farm income → **higher rural demand** for goods and services → **multiplier effect on rural economy**
 
-  - **Benchmark for private buyers:** If traders offer prices **below MSP,** farmers can opt to **sell to government agencies instead.**
+    - **Benchmark for private buyers:** If traders offer prices **below MSP,** farmers can opt to **sell to government agencies instead.**
 
 **Limitations of MSP**
 
@@ -2150,37 +2150,37 @@ India’s Public Distribution System is the **world’s largest food transfer pr
 
 4. **Safety net** during emergencies **Reformative Steps to Strengthen India’s Food-Grain Distribution System**
 
-**1. National Food Security Act, 2013 -** Expanded the PDS coverage to **67%** of population
+1. **National Food Security Act, 2013 -** Expanded the PDS coverage to **67%** of population
 
-**2. End-to-End Digitalisation of PDS**
+2. **End-to-End Digitalisation of PDS**
 
-  - All 20.4 Cr household ration cards digitised
+    - All 20.4 Cr household ration cards digitised
 
-  - **Aadhaar seeding** - **over 47 million bogus ration cards removed (2013-21).**
+    - **Aadhaar seeding** - **over 47 million bogus ration cards removed (2013-21).**
 
-  - Implementation of Warehouse Inventory Network and Governing System (WINGS) application to automate tagging of mills
+    - Implementation of Warehouse Inventory Network and Governing System (WINGS) application to automate tagging of mills
 
-  - 5.33 lakh **e-PoS devices installed in all Fair Price Shops.**
+    - 5.33 lakh **e-PoS devices installed in all Fair Price Shops.**
 
-**3. One Nation One Ration Card (ONORC) -** Ensures **nationwide portability of PDS benefits.**
+3. **One Nation One Ration Card (ONORC) -** Ensures **nationwide portability of PDS benefits.**
 
-**4. Doorstep Delivery of Foodgrains** in **Punjab, Haryana, Delhi etc.**
+4. **Doorstep Delivery of Foodgrains** in **Punjab, Haryana, Delhi etc.**
 
-**5. Strengthening Storage & Supply Chain**
+5. **Strengthening Storage & Supply Chain**
 
-  - GPS-based tracking of trucks. Eg- Chhatisgarh
+    - GPS-based tracking of trucks. Eg- Chhatisgarh
 
-  - Expansion of warehouses under **PEG Scheme (Private Entrepreneurs Guarantee).**
+    - Expansion of warehouses under **PEG Scheme (Private Entrepreneurs Guarantee).**
 
-**6. Direct Benefit Transfer (DBT)** in **Chandigarh, Puducherry, Dadra & Nagar Haveli.**
+6. **Direct Benefit Transfer (DBT)** in **Chandigarh, Puducherry, Dadra & Nagar Haveli.**
 
-**7. Decentralised Procurement in** states like **Punjab, Haryana, MP, Chhattisgarh, Telangana.**
+7. **Decentralised Procurement in** states like **Punjab, Haryana, MP, Chhattisgarh, Telangana.**
 
-**8. Nutritional Improvements in PDS**
+8. **Nutritional Improvements in PDS**
 
-  - Introduction of **fortified rice** under NFSA, ICDS and PM-POSHAN.
+    - Introduction of **fortified rice** under NFSA, ICDS and PM-POSHAN.
 
-  - Some states (Tamil Nadu, Odisha) supply **pulses, millets, oil and eggs** through PDS.
+    - Some states (Tamil Nadu, Odisha) supply **pulses, millets, oil and eggs** through PDS.
 
 **However, despite these steps there are few challenges**
 
@@ -2202,21 +2202,21 @@ India’s Public Distribution System is the **world’s largest food transfer pr
 
 9. **Fiscal Burden -** Food subsidy budget @ **2.1 lakh cr** in 2025-26 **Way Forward**
 
-**1. Shanta Kumar Committee Recommendations on Revamping of PDS**
+1. **Shanta Kumar Committee Recommendations on Revamping of PDS**
 
 **a. Direct Procurement by States**
 
 **b. Private Sector Involvement in procurement, storage, and distribution**
 
-**2. Diversify the food basket -** Include **millets, pulses, edible oil and iodised salt** for **nutritional security.**
+2. **Diversify the food basket -** Include **millets, pulses, edible oil and iodised salt** for **nutritional security.**
 
-**3. Strengthen grievance redressal -** Set up **toll-free helplines, social audits and citizen charters** at FPS level.
+3. **Strengthen grievance redressal -** Set up **toll-free helplines, social audits and citizen charters** at FPS level.
 
-**4. Community monitoring -** Involve **self-help groups, local bodies and civil society** in supervision.
+4. **Community monitoring -** Involve **self-help groups, local bodies and civil society** in supervision.
 
-**5. Universal PDS** similar to Tamil Nadu’s model.
+5. **Universal PDS** similar to Tamil Nadu’s model.
 
-**6. Optimise buffer stock norms** to reduce food grain wastage.
+6. **Optimise buffer stock norms** to reduce food grain wastage.
 
 The **PDS remains a vital tool for India’s food security** and realise SDG 1,2,3,and 12
 
@@ -2271,47 +2271,47 @@ NFSA marks a **paradigm shift** in the approach to food security from **welfare 
 
 2. **Fortified rice** under NFSA covers **291 districts (Phase II)** and over **65% of NFSA households**
 
-**3. Malnourishment** in children under 5 years has reduced **(NHFS-5)**
+3. **Malnourishment** in children under 5 years has reduced **(NHFS-5)**
 
-  - Stunting - from 38.4% to 35.5%,
+    - Stunting - from 38.4% to 35.5%,
 
-  - Wasting - 21.0% to 19.3% and
+    - Wasting - 21.0% to 19.3% and
 
-  - Underweight - 35.8% to 32.1% .
+    - Underweight - 35.8% to 32.1% .
 
-**4. Malnutrition among women** aged 15-49 years has also reduced from 22.9% to 18.7%.
+4. **Malnutrition among women** aged 15-49 years has also reduced from 22.9% to 18.7%.
 
-**5. Food Security** during COVID under **Pradhan Mantri Garib Kalyan Anna Yojana**
+5. **Food Security** during COVID under **Pradhan Mantri Garib Kalyan Anna Yojana**
 
 **6.** Regular PDS supply has reduced **seasonal hunger** in tribal belts of **Jharkhand, Odisha, Chhattisgarh**
 
-**7. ICDS** covers an 90 million children, 11 million pregnant women, and 2 million adolescent girls **However, despite these steps there are few challenges**
+7. **ICDS** covers an 90 million children, 11 million pregnant women, and 2 million adolescent girls **However, despite these steps there are few challenges**
 
-  - As per study by **Crisil** using a **‘thali index’,** up to **50% of rural and 20% of urban Indians cannot afford two balanced meals a day**
+    - As per study by **Crisil** using a **‘thali index’,** up to **50% of rural and 20% of urban Indians cannot afford two balanced meals a day**
 
-**2. Fiscal Burden -** Food subsidy budget @ **2.1 lakh cr** in 2025-26
+2. **Fiscal Burden -** Food subsidy budget @ **2.1 lakh cr** in 2025-26
 
-  - Even with **PDS** support, food deprivation remained **40% in rural and 10% in urban areas**
+    - Even with **PDS** support, food deprivation remained **40% in rural and 10% in urban areas**
 
-  - **Diversion** - Eg- **28% of allocated foodgrains** fail to reach beneficiaries as per **HCES 2022-23.**
+    - **Diversion** - Eg- **28% of allocated foodgrains** fail to reach beneficiaries as per **HCES 2022-23.**
 
-  - **Inclusion and exclusion errors** due to faulty beneficiary identification.
+    - **Inclusion and exclusion errors** due to faulty beneficiary identification.
 
-  - **Corruption at Fair Price Shops (FPS) -** Issues of **under-weighing, overcharging etc**
+    - **Corruption at Fair Price Shops (FPS) -** Issues of **under-weighing, overcharging etc**
 
 **7.** Persistent **triple burden of malnutrition Way Forward**
 
-**1. Shanta Kumar Committee Recommendations on Revamping of PDS**
+1. **Shanta Kumar Committee Recommendations on Revamping of PDS**
 
 **c. Direct Procurement by States**
 
 **d. Private Sector Involvement in procurement, storage, and distribution**
 
-**2. Diversify the food basket -** Include **millets, pulses, edible oil and iodised salt**
+2. **Diversify the food basket -** Include **millets, pulses, edible oil and iodised salt**
 
-**3. Nutrition Education and Behavior Change** through nudge theory. Eg- **POSHAN Abhiyaan's Jan Andolan people's movement** approach
+3. **Nutrition Education and Behavior Change** through nudge theory. Eg- **POSHAN Abhiyaan's Jan Andolan people's movement** approach
 
-**4. Involvement of Civil Society** - Eg- **Akshaya Patra Foundation's centralized kitchens model**
+4. **Involvement of Civil Society** - Eg- **Akshaya Patra Foundation's centralized kitchens model**
 
 **5.** Strengthening **Life-cycle Approach to Nutrition-** Eg- **Karnataka's "Mathrupoorna"** scheme provides **one full meal to pregnant women.**
 
@@ -2350,47 +2350,47 @@ Micro irrigation is a **water-efficient irrigation technique** that delivers wat
 
 **Crisis**
 
-**1. Significant Water Saving - saves around 30-50% water** compared to flood irrigation.
+1. **Significant Water Saving - saves around 30-50% water** compared to flood irrigation.
 
-**2. Higher Water Use Efficiency (WUE)**
+2. **Higher Water Use Efficiency (WUE)**
 
-  - **Sprinkler Irrigation - 75%**
+    - **Sprinkler Irrigation - 75%**
 
-  - Drip Irrigation - 90%**
+    - Drip Irrigation - 90%**
 
-**3. Higher Yields:** Eg- increases yields by **45% for wheat, 20% for gram,** and **40% for soybean.**
+3. **Higher Yields:** Eg- increases yields by **45% for wheat, 20% for gram,** and **40% for soybean.**
 
-**4. Reduced Water Loss** through **evaporation, runoff, and deep percolation**
+4. **Reduced Water Loss** through **evaporation, runoff, and deep percolation**
 
-**5. Lower Fertilizer Use:** Through **fertigation,** fertilizers are applied directly to the plant roots along with water
+5. **Lower Fertilizer Use:** Through **fertigation,** fertilizers are applied directly to the plant roots along with water
 
-**6. Reduced Groundwater Extraction - Eg-** Drip in sugarcane in Maharashtra reduced water use by **22-25%.**
+6. **Reduced Groundwater Extraction - Eg-** Drip in sugarcane in Maharashtra reduced water use by **22-25%.**
 
-**7. Improves Climate Resilience -** Provides controlled irrigation during dry spells.
+7. **Improves Climate Resilience -** Provides controlled irrigation during dry spells.
 
-  - Micro-irrigation can **double irrigation coverage** using existing water resources (NITI Aayog).
+    - Micro-irrigation can **double irrigation coverage** using existing water resources (NITI Aayog).
 
 **Limitations of micro-irrigation**
 
-**1. Low Adoption - micro-irrigation** covers only **7.6%** of the net sown area
+1. **Low Adoption - micro-irrigation** covers only **7.6%** of the net sown area
 
-**2. High Initial Cost** - **Eg-** Drip irrigation costs **₹50k-₹70k per hectare.**
+2. **High Initial Cost** - **Eg-** Drip irrigation costs **₹50k-₹70k per hectare.**
 
-**3. Regular maintenance needs** to avoid clogging, leakage, and damage is technically difficult for farmers.
+3. **Regular maintenance needs** to avoid clogging, leakage, and damage is technically difficult for farmers.
 
-**4. Technical Knowledge Gap:** lack of know-how to correctly install, operate, and maintain micro-irrigation systems.
+4. **Technical Knowledge Gap:** lack of know-how to correctly install, operate, and maintain micro-irrigation systems.
 
-**5. Social and Cultural Barriers:** Traditional farming practices and resistance to change.
+5. **Social and Cultural Barriers:** Traditional farming practices and resistance to change.
 
-**6. Regional imbalance -** Eastern and northern states lag.
+6. **Regional imbalance -** Eastern and northern states lag.
 
-  - **Not Suitable for all crops- Eg-Flood irrigation is preferred** for water-intensive crops like **paddy Government Initiatives**
+    - **Not Suitable for all crops- Eg-Flood irrigation is preferred** for water-intensive crops like **paddy Government Initiatives**
 
-**1. PMKSY** - **"Per Drop More Crop"** - subsidies up to **55%.**
+1. **PMKSY** - **"Per Drop More Crop"** - subsidies up to **55%.**
 
-**2. Micro-Irrigation Fund under** NABARD - 10000 Cr
+2. **Micro-Irrigation Fund under** NABARD - 10000 Cr
 
-**3. Andhra Pradesh Micro-Irrigation Project (APMIP)** Micro-irrigation is critical for achieving **equitable, efficient and sustainable irrigation management. (“Vision for Sujalam Bharat”)**
+3. **Andhra Pradesh Micro-Irrigation Project (APMIP)** Micro-irrigation is critical for achieving **equitable, efficient and sustainable irrigation management. (“Vision for Sujalam Bharat”)**
 
 [Question ID: 2021-gs3-q37-civilsdaily]
 
@@ -2411,47 +2411,47 @@ The NWP is a **World** Bank-assisted initiative that supports the **watershed de
 
 **Project Objectives**
 
-**1. Strengthen Institutions** - for better planning, implementation, and monitoring
+1. **Strengthen Institutions** - for better planning, implementation, and monitoring
 
-**2. Use Technology for Efficiency** - using scientific tools like GIS, remote sensing etc
+2. **Use Technology for Efficiency** - using scientific tools like GIS, remote sensing etc
 
-**3. Improve Water & Soil Management**
+3. **Improve Water & Soil Management**
 
-**4. Support Rural Livelihoods Positive Impact on Agricultural Production in Water-Stressed Areas**
+4. **Support Rural Livelihoods Positive Impact on Agricultural Production in Water-Stressed Areas**
 
-**1. Improved Water Availability -** Groundwater levels increased by **0.5-1.2 metres** on average in treated watersheds (CWC evaluation).
+1. **Improved Water Availability -** Groundwater levels increased by **0.5-1.2 metres** on average in treated watersheds (CWC evaluation).
 
-**2. Increase in Cropping Intensity**
+2. **Increase in Cropping Intensity**
 
-  - by **35-60%** in many watershed districts (ICAR-NAAS study).
+    - by **35-60%** in many watershed districts (ICAR-NAAS study).
 
-  - Shift from single → double cropping in semi-arid regions.
+    - Shift from single → double cropping in semi-arid regions.
 
-**3. Higher Crop Yields -** Yield increased by **25-40% in millets, 30-60% in pulses, 20-35% in oilseeds** (NRSC 2021).
+3. **Higher Crop Yields -** Yield increased by **25-40% in millets, 30-60% in pulses, 20-35% in oilseeds** (NRSC 2021).
 
-**4. Diversification to High-Value Crops** due to reliable water.
+4. **Diversification to High-Value Crops** due to reliable water.
 
-**5. Reduced Soil Erosion** by **40-60%** - enhancing long-term soil productivity.
+5. **Reduced Soil Erosion** by **40-60%** - enhancing long-term soil productivity.
 
-**6. Growth in Livestock Productivity -** Fodder production increased **3-5 times,** boosting dairy income in dryland regions.
+6. **Growth in Livestock Productivity -** Fodder production increased **3-5 times,** boosting dairy income in dryland regions.
 
-**7. Improved Household Income by 27-45%,** poverty reduced **12-20%** in watershed villages. (World Bank)
+7. **Improved Household Income by 27-45%,** poverty reduced **12-20%** in watershed villages. (World Bank)
 
-**8. Climate Resilience Strengthened -** Enhanced capacity to withstand dry spells, delayed rainfall, and drought cycles.
+8. **Climate Resilience Strengthened -** Enhanced capacity to withstand dry spells, delayed rainfall, and drought cycles.
 
 **Limitations**
 
-**1. Uneven Implementation Across States**
+1. **Uneven Implementation Across States**
 
-**2. Delays in Planning & Fund Release**
+2. **Delays in Planning & Fund Release**
 
-**3. Weak Community Participation**
+3. **Weak Community Participation**
 
-**4. Poor Post-Project Maintenance**
+4. **Poor Post-Project Maintenance**
 
-**5. Limited Integration With Micro-Irrigation**
+5. **Limited Integration With Micro-Irrigation**
 
-**6. Fragmented Convergence With Schemes** like MGNREGA, PMKSY To scale its impact nationally, watershed programmes must be linked with **micro-irrigation, FPOs, and market access.**
+6. **Fragmented Convergence With Schemes** like MGNREGA, PMKSY To scale its impact nationally, watershed programmes must be linked with **micro-irrigation, FPOs, and market access.**
 
 [Question ID: 2019-gs3-q38-civilsdaily]
 
@@ -2478,57 +2478,57 @@ The NWP is a **World** Bank-assisted initiative that supports the **watershed de
 
 3. 6% of total industrial investment **Challenges of the Food Processing Sector in India**
 
-**1. Low Level of Processing -** Only **~10%** of total agricultural produce is processed (vs 60-70% in developed countries).
+1. **Low Level of Processing -** Only **~10%** of total agricultural produce is processed (vs 60-70% in developed countries).
 
-**2. Post-harvest losses** of **15-20%** due to shortage of cold-storage, and transport infrastructure.
+2. **Post-harvest losses** of **15-20%** due to shortage of cold-storage, and transport infrastructure.
 
-**3. Fragmented Supply Chain - 86%** of farmers are small/marginal - limits aggregation
+3. **Fragmented Supply Chain - 86%** of farmers are small/marginal - limits aggregation
 
-**4. High Logistics Cost** of **13-14% of GDP** (vs 8-9% in developed countries).
+4. **High Logistics Cost** of **13-14% of GDP** (vs 8-9% in developed countries).
 
-  - **Delay in project implementation** - Eg- only 25 out of 42 approved **Mega Food Parks** operational
+    - **Delay in project implementation** - Eg- only 25 out of 42 approved **Mega Food Parks** operational
 
-  - **Regulatory & Compliance Issues -** Complex FSSAI norms and licensing delays discourage small processors.
+    - **Regulatory & Compliance Issues -** Complex FSSAI norms and licensing delays discourage small processors.
 
 **7.** Micro and small units struggle to access **formal credit, collateral, and working capital.**
 
-**8. Skill gap -** Only **3%** of the food processing workforce is formally trained
+8. **Skill gap -** Only **3%** of the food processing workforce is formally trained
 
-**9. Quality & Safety Gaps -** Inconsistent adherence to **food safety standards,** and limited testing infrastructure. Eg- Rejection of Indian exports by EU.
+9. **Quality & Safety Gaps -** Inconsistent adherence to **food safety standards,** and limited testing infrastructure. Eg- Rejection of Indian exports by EU.
 
-  - **Negligible R&D (<0.5% of sectoral GVA)** - stall innovation in packaging and product design.
+    - **Negligible R&D (<0.5% of sectoral GVA)** - stall innovation in packaging and product design.
 
 **Policy Measures Taken by the Government of India**
 
 1. The food processing sector has been recognized as a ‘sunrise sector‘ and a key priority industry under the ‘Make in India’ initiative.
 
-**2. PM-Kisan SAMPADA (2016) -** Central Sector Scheme to build a modern processing ecosystem from farm-gate to retail.
+2. **PM-Kisan SAMPADA (2016) -** Central Sector Scheme to build a modern processing ecosystem from farm-gate to retail.
 
-**3. Mega Food Parks Scheme -** Provides land, utilities, common facilities, effluent plants, R&D labs.
+3. **Mega Food Parks Scheme -** Provides land, utilities, common facilities, effluent plants, R&D labs.
 
-**4. PM Formalisation of Micro Food Processing Enterprises (PM-FME) -** Provides 40% credit-linked subsidy, branding support, and training for 2 lakh micro units under the One District One Product (ODOP) approach.
+4. **PM Formalisation of Micro Food Processing Enterprises (PM-FME) -** Provides 40% credit-linked subsidy, branding support, and training for 2 lakh micro units under the One District One Product (ODOP) approach.
 
-**5. Production Linked Incentive Scheme (PLISFPI) to boost domestic manufacturing.**
+5. **Production Linked Incentive Scheme (PLISFPI) to boost domestic manufacturing.**
 
-  - **Agriculture Infrastructure Fund (AIF) -** A **₹1 lakh crore** fund for financing **warehouses, cold storage, packhouses,** and primary processing units.
+    - **Agriculture Infrastructure Fund (AIF) -** A **₹1 lakh crore** fund for financing **warehouses, cold storage, packhouses,** and primary processing units.
 
-**7. Operation Greens (TOP to TOTAL) -** Price stabilization fund for tomato, onion, potato, now expanded to all perishable crops
+7. **Operation Greens (TOP to TOTAL) -** Price stabilization fund for tomato, onion, potato, now expanded to all perishable crops
 
-  - **100% FDI** in food processing and **100% FDI under Government route** for retail of food produced in India.
+    - **100% FDI** in food processing and **100% FDI under Government route** for retail of food produced in India.
 
-**9. e-NAM Integration -** Linking mandis for better price discovery, quality grading, and seamless movement of produce.
+9. **e-NAM Integration -** Linking mandis for better price discovery, quality grading, and seamless movement of produce.
 
-  - **Krishi Udan and Krishi Rail** schemes - to ease out freight rates enabling smooth movement of perishables.
+    - **Krishi Udan and Krishi Rail** schemes - to ease out freight rates enabling smooth movement of perishables.
 
-  - Food processing included under **PSL** to improve access to affordable credit.
+    - Food processing included under **PSL** to improve access to affordable credit.
 
-  - **National Makhana Board** to globally position Indian superfoods like makhana.
+    - **National Makhana Board** to globally position Indian superfoods like makhana.
 
-**13. Infrastructure Status (HLIS) -** Food parks are included in Harmonized List of Infrastructure - enables concessional loans.
+13. **Infrastructure Status (HLIS) -** Food parks are included in Harmonized List of Infrastructure - enables concessional loans.
 
-**14. Collaboration with Invest India for FDI facilitation, market access, regulatory assistance.**
+14. **Collaboration with Invest India for FDI facilitation, market access, regulatory assistance.**
 
-**15. Budgetary Push -** MoFPI budget 2024-25 increased by 30.19%, reflecting policy priority.
+15. **Budgetary Push -** MoFPI budget 2024-25 increased by 30.19%, reflecting policy priority.
 
 **Way Forward**
 
@@ -2563,23 +2563,23 @@ India’s food processing sector is projected to grow from **$307 billion (2023)
 
 3. 6% of total industrial investment **Scope of the Food Processing Industry in India**
 
-**1. Large agricultural base**
+1. **Large agricultural base**
 
-  - India is the world’s largest producer of milk, spices, pulses, millets,
+    - India is the world’s largest producer of milk, spices, pulses, millets,
 
 <p align="center"><img src="images/civilsdaily_p72_img105.png" alt="Diagram" /></p>
 
-  - Second-largest producer of fruits and vegetables.
+    - Second-largest producer of fruits and vegetables.
 
-  - **Wide product spectrum -** Includes dairy, fruits & vegetables, meat, fisheries, beverages, ready-to-eat (RTE), and organic foods.
+    - **Wide product spectrum -** Includes dairy, fruits & vegetables, meat, fisheries, beverages, ready-to-eat (RTE), and organic foods.
 
-  - **Lifestyle Shift -** 65% of Indians under 35, rising incomes, urbanization & busy lifestyles have boosted demand for ready-to-eat & processed foods.
+    - **Lifestyle Shift -** 65% of Indians under 35, rising incomes, urbanization & busy lifestyles have boosted demand for ready-to-eat & processed foods.
 
-  - **Rapid growth in Organised retail** and **“shopping mall culture”-** better supply chain management. **Eg- D-mart**
+    - **Rapid growth in Organised retail** and **“shopping mall culture”-** better supply chain management. **Eg- D-mart**
 
-**5. Export potential -** India exports processed foods to 200+ countries
+5. **Export potential -** India exports processed foods to 200+ countries
 
-**6. Nearly 70% of food processing units operate in the unorganised MSME sector**
+6. **Nearly 70% of food processing units operate in the unorganised MSME sector**
 
 **- generate rural employment and entrepreneurship.**
 
@@ -2593,13 +2593,13 @@ India’s food processing sector is projected to grow from **$307 billion (2023)
 
 4. **Doubling farmer’s income -** Value addition ensures better price realisation. **Eg- tomatoes → puree, milk → cheese**
 
-**5. Investment** - Eg- Recent,World **Food India** attracted **₹1.02 lakh crore** investment by global, domestic giants like **Coca-Cola**
+5. **Investment** - Eg- Recent,World **Food India** attracted **₹1.02 lakh crore** investment by global, domestic giants like **Coca-Cola**
 
-  - **Boosts employment generation -** Food processing creates one of the highest employment multipliers, across harvesting, sorting, packaging, and logistics.
+    - **Boosts employment generation -** Food processing creates one of the highest employment multipliers, across harvesting, sorting, packaging, and logistics.
 
-  - **Drives industrialisation of rural economy -** Mega Food Parks, agro-processing clusters, and cold chains stimulate local industry and logistics networks.
+    - **Drives industrialisation of rural economy -** Mega Food Parks, agro-processing clusters, and cold chains stimulate local industry and logistics networks.
 
-**8. Foreign exchange earnings** through exports improve India's trade balance and economic growth.
+8. **Foreign exchange earnings** through exports improve India's trade balance and economic growth.
 
 As India moves forward under the **Make in India** vision, the food processing industry will continue to be a key driver of economic growth, ensuring food security, quality, and global competitiveness.
 
@@ -2618,19 +2618,19 @@ Land reform refers to the **systematic alteration of laws, regulations, and prac
 
 **Impact of land reforms on socio-economic conditions of Farmers**
 
-**1. Abolition of Zamindari**
+1. **Abolition of Zamindari**
 
-  - States like **Kerala, West Bengal, Karnataka** eliminated intermediary rights, transferring ownership to actual cultivators.
+    - States like **Kerala, West Bengal, Karnataka** eliminated intermediary rights, transferring ownership to actual cultivators.
 
-  - Increased **security,** reduced exploitation, and improved bargaining power.
+    - Increased **security,** reduced exploitation, and improved bargaining power.
 
-**2. Tenancy reforms → Protection from eviction**
+2. **Tenancy reforms → Protection from eviction**
 
-  - West Bengal’s **Operation Barga (1978)** registered sharecroppers and guaranteed them **75% share** in output when they used their own inputs.
+    - West Bengal’s **Operation Barga (1978)** registered sharecroppers and guaranteed them **75% share** in output when they used their own inputs.
 
-  - Raised incomes of more than **1.5 million** tenant farmers.
+    - Raised incomes of more than **1.5 million** tenant farmers.
 
-**3. Land ceiling laws and redistribution of surplus land** in states such as **Kerala and West Bengal** improved access to land for landless labourers and marginal farmers.
+3. **Land ceiling laws and redistribution of surplus land** in states such as **Kerala and West Bengal** improved access to land for landless labourers and marginal farmers.
 
 **4.** Punjab and Haryana undertook extensive **land consolidation** → Enabled the use of **modern machinery,** improved cropping intensity, and raised productivity.
 
@@ -2638,13 +2638,13 @@ Land reform refers to the **systematic alteration of laws, regulations, and prac
 
 → Reduced dependence on moneylenders
 
-**6. Reduction in rural poverty and inequality**
+6. **Reduction in rural poverty and inequality**
 
-  - Rural poverty fell sharply in **Kerala and West Bengal** post-tenancy reforms.
+    - Rural poverty fell sharply in **Kerala and West Bengal** post-tenancy reforms.
 
-  - States with stronger reforms saw better **literacy, nutrition,** and **health outcomes.**
+    - States with stronger reforms saw better **literacy, nutrition,** and **health outcomes.**
 
-**7. Empowerment of women -** States like **Kerala** recognized women’s rights in land inheritance.
+7. **Empowerment of women -** States like **Kerala** recognized women’s rights in land inheritance.
 
 **Major Challenges**
 
@@ -2689,69 +2689,69 @@ Land reform refers to the **systematic alteration of laws, regulations, and prac
 
 7. To consolidate land holdings and **mitigate Land Fragmentation**
 
-**8. Prevention of Land Alienation -** Eg- **Forest Rights Act, 2006.**
+8. **Prevention of Land Alienation -** Eg- **Forest Rights Act, 2006.**
 
-**9. Poverty Alleviation and** improving rural standard of living.
+9. **Poverty Alleviation and** improving rural standard of living.
 
-**10. Promote investment in agriculture by removing absentee landlordism.**
+10. **Promote investment in agriculture by removing absentee landlordism.**
 
 **Measures of land reforms in India**
 
-**1. Abolition of Intermediaries** through **Zamindari Abolition Acts**
+1. **Abolition of Intermediaries** through **Zamindari Abolition Acts**
 
-  - Total land transferred: 173 lakh hectares**
+    - Total land transferred: 173 lakh hectares**
 
-  - **2 crore tenants benefitted.**
+    - **2 crore tenants benefitted.**
 
-**2. Tenancy Reforms**
+2. **Tenancy Reforms**
 
-  - It led to fixation of fair rent (usually one-fourth to one-sixth of the produce).
+    - It led to fixation of fair rent (usually one-fourth to one-sixth of the produce).
 
-  - Total tenants who got land rights: **12.5 million (Agricultural Census 1981).**
+    - Total tenants who got land rights: **12.5 million (Agricultural Census 1981).**
 
-  - Eg- West Bengal’s Operation Barga (1978)
+    - Eg- West Bengal’s Operation Barga (1978)
 
-**3. Ceiling on Land Holdings**
+3. **Ceiling on Land Holdings**
 
-  - Total surplus land declared: 75 lakh hectares
+    - Total surplus land declared: 75 lakh hectares
 
-  - Total land actually distributed: 56 lakh hectares
+    - Total land actually distributed: 56 lakh hectares
 
-**4. Land Consolidation measures -** Punjab and Haryana enforced compulsory consolidation, while other states allowed voluntary consolidation if the majority of landowners agreed.
+4. **Land Consolidation measures -** Punjab and Haryana enforced compulsory consolidation, while other states allowed voluntary consolidation if the majority of landowners agreed.
 
-**5. Bhoodan-Gramdan Movements -** "non-violent revolution" in India's land reform programme.
+5. **Bhoodan-Gramdan Movements -** "non-violent revolution" in India's land reform programme.
 
-  - 16 lakh hectares of land donated under Gramdan
+    - 16 lakh hectares of land donated under Gramdan
 
-  - More than 160,000 villages pledged Gramdan by 1970.
+    - More than 160,000 villages pledged Gramdan by 1970.
 
-**6. Phase 5: Land Records Modernization & Land Leasing Reforms (2000s-Present)**
+6. **Phase 5: Land Records Modernization & Land Leasing Reforms (2000s-Present)**
 
-  - Digitize land records to prevent disputes and ensure transparency.
+    - Digitize land records to prevent disputes and ensure transparency.
 
-  - Land records fully digitized in **92% of villages (as of 2023).**
+    - Land records fully digitized in **92% of villages (as of 2023).**
 
-  - States leading in digitization are **Karnataka, Maharashtra, Andhra Pradesh.**
+    - States leading in digitization are **Karnataka, Maharashtra, Andhra Pradesh.**
 
-**7. Modernisation of Land Records**
+7. **Modernisation of Land Records**
 
-  - Digital India Land Records Modernization Programme - 96% digitization**
+    - Digital India Land Records Modernization Programme - 96% digitization**
 
-  - SVAMITVA Scheme for geo-tagging and property cards in rural India.**
+    - SVAMITVA Scheme for geo-tagging and property cards in rural India.**
 
-**8. Model Land Leasing Act, 2016 (NITI Aayog) Land Ceiling Policy as an Effective Reform under Economic Criteria**
+8. **Model Land Leasing Act, 2016 (NITI Aayog) Land Ceiling Policy as an Effective Reform under Economic Criteria**
 
 **1.** Land redistributed to **actual tillers-** higher incentives to cultivate efficiently. Smallholder farmers in India achieve **higher cropping intensity** than large farms.
 
-**2. Multiplier effect -** Distribution of land to the poor increases **purchasing power,** strengthening the rural economy .
+2. **Multiplier effect -** Distribution of land to the poor increases **purchasing power,** strengthening the rural economy .
 
-**3. Encourages Investment & Sustainable Use -** Secure ownership motivates farmers to invest in **irrigation, soil health, and technology.**
+3. **Encourages Investment & Sustainable Use -** Secure ownership motivates farmers to invest in **irrigation, soil health, and technology.**
 
-**4. Employment -** Smaller farms use **labour-intensive** methods, creating rural employment.
+4. **Employment -** Smaller farms use **labour-intensive** methods, creating rural employment.
 
-  - Ceilings prevent **re-concentration of land,** supporting long-term agrarian stability.
+    - Ceilings prevent **re-concentration of land,** supporting long-term agrarian stability.
 
-  - **Increases women land ownership** - **women** hold **only 11-13%** of operational holdings due to inheritance barriers.
+    - **Increases women land ownership** - **women** hold **only 11-13%** of operational holdings due to inheritance barriers.
 
 **Land reform 2.0** based on modernisation of records (DILRMP), redistribution of land and land leasing reforms is essential to realise the objective of **‘Doubling Farmers Income’.**
 
@@ -2770,33 +2770,33 @@ Land reforms in India aimed to **eliminate feudal structures,** secure **tenancy
 
 Components of land reforms
 
-**1. Abolition of Intermediaries**
+1. **Abolition of Intermediaries**
 
-**2. Tenancy Reforms**
+2. **Tenancy Reforms**
 
-**3. Ceiling on Land Holdings**
+3. **Ceiling on Land Holdings**
 
-**4. Land Consolidation Factors behind successful implementation of land reforms in some parts of the country**
+4. **Land Consolidation Factors behind successful implementation of land reforms in some parts of the country**
 
-**1. Strong Political Will and Ideological Commitment** to land redistribution and tenancy reforms
+1. **Strong Political Will and Ideological Commitment** to land redistribution and tenancy reforms
 
-  - **Kerala - Communist government**
+    - **Kerala - Communist government**
 
-  - **West Bengal - Left Front**
+    - **West Bengal - Left Front**
 
 **2.** Decentralised and proactive bureaucracy, especially in **West Bengal,** where Block Development Offices played a central role in implementing **Operation Barga.**
 
-**3. Robust Panchayati Raj Institutions** ensured **identification of beneficiaries,** resolution of disputes, and monitoring of redistribution.
+3. **Robust Panchayati Raj Institutions** ensured **identification of beneficiaries,** resolution of disputes, and monitoring of redistribution.
 
-**4. Social Movements and Mass Mobilisation** led by **Kisan Sabhas, Bhoodan–Gramdan,** and left-oriented peasant unions created strong grassroots pressure.
+4. **Social Movements and Mass Mobilisation** led by **Kisan Sabhas, Bhoodan–Gramdan,** and left-oriented peasant unions created strong grassroots pressure.
 
-**5. Clear and Unambiguous Land Legislation** such as **J&K’s Big Landed Estates Abolition Act, 1950** faced fewer legal loopholes
+5. **Clear and Unambiguous Land Legislation** such as **J&K’s Big Landed Estates Abolition Act, 1950** faced fewer legal loopholes
 
 **6.** States where **landlord dominance in Governance was weaker** (Kerala, West Bengal) had less resistance and fewer litigations compared to states like Bihar or UP.
 
-**7. Kerala’s high literacy** enabled better awareness of legal rights and reduced manipulation by landlords.
+7. **Kerala’s high literacy** enabled better awareness of legal rights and reduced manipulation by landlords.
 
-**8. Strong Monitoring -** Periodic reviews, political oversight, and public reporting in TN ensured **transparency** and discouraged corruption or collusion with landowners.
+8. **Strong Monitoring -** Periodic reviews, political oversight, and public reporting in TN ensured **transparency** and discouraged corruption or collusion with landowners.
 
 **Major Challenges**
 
@@ -2847,23 +2847,23 @@ The **CPEC** is a flagship connectivity and infrastructure project linking **Chi
 
 **Reasons behind India distanced itself from CPEC**
 
-**1. Violation of Sovereignty -** CPEC passes through **Pakistan-occupied Kashmir (PoK).** Eg- Infrastructure projects in **Gilgit-Baltistan.**
+1. **Violation of Sovereignty -** CPEC passes through **Pakistan-occupied Kashmir (PoK).** Eg- Infrastructure projects in **Gilgit-Baltistan.**
 
 <p align="center"><img src="images/civilsdaily_p134_img141.png" alt="Diagram" /></p>
 
-**2. Strategic Encirclement Concerns (String of Pearls)** - EgChinese control and presence at **Gwadar port.**
+2. **Strategic Encirclement Concerns (String of Pearls)** - EgChinese control and presence at **Gwadar port.**
 
-**3. Military and Security Implications -** Dual-use infrastructure can support Chinese naval and military operations.
+3. **Military and Security Implications -** Dual-use infrastructure can support Chinese naval and military operations.
 
-**4. Economic Non-Viability - India has concerns regarding the "debt trap" nature of BRI projects.** Eg- Sri Lanka’s Hambantota port experience.
+4. **Economic Non-Viability - India has concerns regarding the "debt trap" nature of BRI projects.** Eg- Sri Lanka’s Hambantota port experience.
 
-**5. Lack of Transparency and Consultation -** CPEC and BRI lack open, multilateral consultation and standardised norms.
+5. **Lack of Transparency and Consultation -** CPEC and BRI lack open, multilateral consultation and standardised norms.
 
-**6. Undermines Rules-Based International Order -** Projects ignore environmental, social and legal standards.
+6. **Undermines Rules-Based International Order -** Projects ignore environmental, social and legal standards.
 
-  - **Geo-Strategic Marginalisation -** Expansion of CPEC into Afghanistan could **undermine India’s alternative connectivity initiatives** like **Chabahar Port** and the **INSTC.**
+    - **Geo-Strategic Marginalisation -** Expansion of CPEC into Afghanistan could **undermine India’s alternative connectivity initiatives** like **Chabahar Port** and the **INSTC.**
 
-  - Due to CPEC, China may emerge as a **‘direct party’ in the Kashmir** dispute in future.
+    - Due to CPEC, China may emerge as a **‘direct party’ in the Kashmir** dispute in future.
 
 As **Robert Kaplan** observes, **“Geography is the canvas on which history is painted.”** By opposing CPEC, India seeks to uphold a **rules-based approach** to regional integration.
 
@@ -3052,19 +3052,19 @@ A cropping pattern is the **distribution** of various crops within a specific ar
 
 7. **Expansion in dryland states -** Increased area in **Rajasthan, Karnataka, Telangana, MP, Maharashtra Emphasis on millet consumption**
 
-**1. Rising health consciousness**
+1. **Rising health consciousness**
 
-  - High in iron, calcium, fibre and protein**
+    - High in iron, calcium, fibre and protein**
 
-  - Helpful against diabetes & malnutrition**
+    - Helpful against diabetes & malnutrition**
 
-**2. Improvement in nutrition security - Reduces hidden hunger and micronutrient deficiency**
+2. **Improvement in nutrition security - Reduces hidden hunger and micronutrient deficiency**
 
-**3. Inclusion in government schemes - PDS, Mid-Day Meal, ICDS, Anganwadi**
+3. **Inclusion in government schemes - PDS, Mid-Day Meal, ICDS, Anganwadi**
 
-**4. Urban & processed food demand - Used in biscuits, noodles, bakery & breakfast foods**
+4. **Urban & processed food demand - Used in biscuits, noodles, bakery & breakfast foods**
 
-**5. MSME & startup growth -** Eg- “Millet Challenge” for startups,, with a seed grant of Rs 1 crore each to three winners.
+5. **MSME & startup growth -** Eg- “Millet Challenge” for startups,, with a seed grant of Rs 1 crore each to three winners.
 
 **Policy and market-driven emphasis** on selected crops is transforming India’s cropping pattern, with millets emerging as a sustainable pillar of **nutrition and livelihood security.**
 
@@ -3093,68 +3093,68 @@ Millets **(Shree Anna)** are emerging as a critical pillar of India’s strategy
 
 5. Malnutrition among women aged 15-49 years is 18.7% **Role of millets**
 
-**1. Food Security**
+1. **Food Security**
 
-  - **Drought and heat resistant**
+    - **Drought and heat resistant**
 
-  - Requires **less water and fertiliser -** Ideal for **tribal, arid and semi-arid regions**
+    - Requires **less water and fertiliser -** Ideal for **tribal, arid and semi-arid regions**
 
-**2. Rich Nutritional Profile**
+2. **Rich Nutritional Profile**
 
-  - High in **iron, calcium, zinc, magnesium and phosphorus**
+    - High in **iron, calcium, zinc, magnesium and phosphorus**
 
-  - Higher **protein and dietary fibre** than rice and wheat
+    - Higher **protein and dietary fibre** than rice and wheat
 
-  - **Low glycaemic index,** suitable for **diabetics and obese populations**
+    - **Low glycaemic index,** suitable for **diabetics and obese populations**
 
-**3. Tackling Malnutrition & Hidden Hunger**
+3. **Tackling Malnutrition & Hidden Hunger**
 
-  - Addresses **micronutrient deficiency** among **women and children (anaemia, stunting and wasting)**
+    - Addresses **micronutrient deficiency** among **women and children (anaemia, stunting and wasting)**
 
-  - Can strengthen **ICDS, Mid-Day Meal and POSHAN Abhiyaan**
+    - Can strengthen **ICDS, Mid-Day Meal and POSHAN Abhiyaan**
 
 | <br>• | Versatile: Can be used in traditional and modern dishes. Eg- | in biscuits, noodles, bakery |
 | --- | --- | --- |
 
-**4. Promotes Dietary Diversity -** Reduces over-dependence on **rice-wheat centric diets**
+4. **Promotes Dietary Diversity -** Reduces over-dependence on **rice-wheat centric diets**
 
-**5. Supports Public Health**
+5. **Supports Public Health**
 
-  - Prevents **non-communicable diseases** like **diabetes, hypertension and heart disease**
+    - Prevents **non-communicable diseases** like **diabetes, hypertension and heart disease**
 
-  - Strengthens **immunity** due to high antioxidant content
+    - Strengthens **immunity** due to high antioxidant content
 
-**6. Aligned with international commitments**
+6. **Aligned with international commitments**
 
-  - SDG-2 - Zero Hunger**
+    - SDG-2 - Zero Hunger**
 
-  - International year of millets (2023) **Challenges**
+    - International year of millets (2023) **Challenges**
 
-  - Perceived as **“poor person’s food”**
+    - Perceived as **“poor person’s food”**
 
-**2. Lack of Awareness** of health benefits.
+2. **Lack of Awareness** of health benefits.
 
-**3. High Cost** than rice/wheat - less accessible to low-income groups.
+3. **High Cost** than rice/wheat - less accessible to low-income groups.
 
-  - **Decline in Cultivation** Area:Reduced from 35 to 15 million hectares
+    - **Decline in Cultivation** Area:Reduced from 35 to 15 million hectares
 
-  - **PDS Challenge:Replacing** 20% rice/wheat requires 10.8 million tonnes of millets.
+    - **PDS Challenge:Replacing** 20% rice/wheat requires 10.8 million tonnes of millets.
 
 **Way Forward**
 
 **Demand-Side Strategies**
 
-**1. Consumer Awareness Campaigns:** Eg- Eat Right India
+1. **Consumer Awareness Campaigns:** Eg- Eat Right India
 
-**2. Gluten-Free Exports:** Eg- millet products like pasta and flour.
+2. **Gluten-Free Exports:** Eg- millet products like pasta and flour.
 
 **Supply-Side Strategies**
 
-**1. Revive Traditional Practices:** Eg-Barahnaja in Uttarakhand.
+1. **Revive Traditional Practices:** Eg-Barahnaja in Uttarakhand.
 
-**2. Strengthen Market Linkages** through FPOs and cooperatives
+2. **Strengthen Market Linkages** through FPOs and cooperatives
 
-**3. Special Agribusiness Zones (SABZ)** Enhancing millet production and consumption is key for **Swasth Bharat, Samruddh Bharat**
+3. **Special Agribusiness Zones (SABZ)** Enhancing millet production and consumption is key for **Swasth Bharat, Samruddh Bharat**
 
 [Question ID: 2024-gs3-q48-civilsdaily]
 
@@ -3193,27 +3193,27 @@ Integrated farming system refers to the integration of **multiple components** o
 
 9. **Enhanced Biodiversity** by offering homes for a variety of plant and animal species. Eg- Agroforestry **Challenges in IFS**
 
-**1. Small and Marginal Land Holdings (86%) restricts integration** of enterprises like ponds or livestock.
+1. **Small and Marginal Land Holdings (86%) restricts integration** of enterprises like ponds or livestock.
 
-**2. High Initial Investment** requirement in **biogas units, sheds and fish ponds require capital.**
+2. **High Initial Investment** requirement in **biogas units, sheds and fish ponds require capital.**
 
-**3. Limited Knowledge & Skills** at village level - **IFS demands multi-disciplinary expertise.**
+3. **Limited Knowledge & Skills** at village level - **IFS demands multi-disciplinary expertise.**
 
-**4. Lack of Market Linkages and assured procurement channels** for **surplus milk, fish, vegetables → low value addition and high wastage**
+4. **Lack of Market Linkages and assured procurement channels** for **surplus milk, fish, vegetables → low value addition and high wastage**
 
-**5. Policy Gaps - Schemes operate in silos** rather than **landscape-based integrated planning.**
+5. **Policy Gaps - Schemes operate in silos** rather than **landscape-based integrated planning.**
 
 **Way Forward**
 
 **1.** Promote **climate and region-wise IFS models** (dryland, coastal, hill).
 
-**2. Financial Support - low-interest loans + integrated crop-livestock insurance.**
+2. **Financial Support - low-interest loans + integrated crop-livestock insurance.**
 
-**3. Rural Agri-Logistics Nodes under Gati Shakti Framework** to develop cold chains, aggregation centers
+3. **Rural Agri-Logistics Nodes under Gati Shakti Framework** to develop cold chains, aggregation centers
 
-**4. Extension Support** through **Krishi Sakhis, FPOs and Agri-Startups** for training and backward-forward linkages.
+4. **Extension Support** through **Krishi Sakhis, FPOs and Agri-Startups** for training and backward-forward linkages.
 
-**5. Raising R&D Investment to 1% of GDP Jaivagriham Project of Kerala** - providing financial assistance for integrated farming Budget 2025-26 emphasised Agriculture as the ‘first engine’ for India’s development journey. IFS can be the backbone of this journey.
+5. **Raising R&D Investment to 1% of GDP Jaivagriham Project of Kerala** - providing financial assistance for integrated farming Budget 2025-26 emphasised Agriculture as the ‘first engine’ for India’s development journey. IFS can be the backbone of this journey.
 
 [Question ID: 2019-gs3-q49-civilsdaily]
 
@@ -3308,13 +3308,13 @@ The NHM was a **centrally sponsored scheme** launched in 2005-06 to promote the 
 
 1. **Agro-ecological approach - District-Level Climate-Contingent Crop Planning Cells**
 
-**2. Rural Agri-Logistics Nodes under Gati Shakti Framework** to develop cold chains, aggregation centers
+2. **Rural Agri-Logistics Nodes under Gati Shakti Framework** to develop cold chains, aggregation centers
 
-  - **Strengthening FPOs** to enhance collective bargaining and direct market access for farmers. Eg- **Sahyadri FPO in Maharashtra** - increased incomes by 30%
+    - **Strengthening FPOs** to enhance collective bargaining and direct market access for farmers. Eg- **Sahyadri FPO in Maharashtra** - increased incomes by 30%
 
-  - **Raising R&D Investment to 1% of GDP**
+    - **Raising R&D Investment to 1% of GDP**
 
-**5. Legal Reforms - Simplify land leasing laws, Adopt model contract farming Act Budget 2025-26** emphasised Agriculture **as the ‘first engine’** for India’s development journey. Horticulture can be the **key pillar** of this journey.
+5. **Legal Reforms - Simplify land leasing laws, Adopt model contract farming Act Budget 2025-26** emphasised Agriculture **as the ‘first engine’** for India’s development journey. Horticulture can be the **key pillar** of this journey.
 
 **Farm Subsidy and Minimum Support Prices**
 
@@ -3339,41 +3339,41 @@ PDS is the **world’s largest food transfer programme** and **social safety net
 
 2. Fixed by **cabinet committee on Economic Affairs** on **quarterly basis**
 
-**3. In 2025,** rice and wheat **stocks in Central Pool** stands at 736 Lakh MT against buffer stock norm of 411 Lakh MT **Importance of Buffer Stocks for Stabilising Agricultural Prices in India**
+3. **In 2025,** rice and wheat **stocks in Central Pool** stands at 736 Lakh MT against buffer stock norm of 411 Lakh MT **Importance of Buffer Stocks for Stabilising Agricultural Prices in India**
 
-  - **Supports farmers through MSP procurement:** Prevents distress sales during bumper harvests.
+    - **Supports farmers through MSP procurement:** Prevents distress sales during bumper harvests.
 
-  - **Controls consumer prices** through **Open Market Sale Scheme.** Eg- In 2022-23, **FCI** released 34.82 lakh tonnes of wheat.
+    - **Controls consumer prices** through **Open Market Sale Scheme.** Eg- In 2022-23, **FCI** released 34.82 lakh tonnes of wheat.
 
-  - **Ensures food security:** ensures uninterrupted supply for **NFSA, ICDS, PM-POSHAN** (Cover **81 crore people)**
+    - **Ensures food security:** ensures uninterrupted supply for **NFSA, ICDS, PM-POSHAN** (Cover **81 crore people)**
 
-  - **Checks hoarding:** Strategic release of stocks curbs artificial scarcity and black-marketing. Eg- Release of **Pulses by NAFED**
+    - **Checks hoarding:** Strategic release of stocks curbs artificial scarcity and black-marketing. Eg- Release of **Pulses by NAFED**
 
-  - Acts as a **safety net** during **supply disruptions** and emergencies. Eg- **during COVID.**
+    - Acts as a **safety net** during **supply disruptions** and emergencies. Eg- **during COVID.**
 
-  - **Inter-state distribution stability:** Ensures consistent supply to **deficit states.**
+    - **Inter-state distribution stability:** Ensures consistent supply to **deficit states.**
 
-  - **Market confidence:** Adequate stocks signal stability and prevent panic buying
+    - **Market confidence:** Adequate stocks signal stability and prevent panic buying
 
-  - **Export of extra produce:** Eg- Surplus wheat from buffer stocks was exported to Africa in 2021 **Challenges Associated with the Storage of Buffer Stock**
+    - **Export of extra produce:** Eg- Surplus wheat from buffer stocks was exported to Africa in 2021 **Challenges Associated with the Storage of Buffer Stock**
 
-  - **Excessive stocking by** FCI increases **carrying costs.** Eg- **Central pool rice stocks 4 times the buffer**
+    - **Excessive stocking by** FCI increases **carrying costs.** Eg- **Central pool rice stocks 4 times the buffer**
 
-  - Heavy reliance on **CAP (cover-and-plinth) storage** leads to high wastage. **(40% of total food)**
+    - Heavy reliance on **CAP (cover-and-plinth) storage** leads to high wastage. **(40% of total food)**
 
-  - **High transport costs** due to concentration of procurement in **limited states.** Eg- 60% godowns in 5 states.
+    - **High transport costs** due to concentration of procurement in **limited states.** Eg- 60% godowns in 5 states.
 
-  - **Overstocking** results in rotting and quality deterioration. Over **6 lakh tonnes** of foodgrains rotted in FCI godowns
+    - **Overstocking** results in rotting and quality deterioration. Over **6 lakh tonnes** of foodgrains rotted in FCI godowns
 
-  - **High Storage Cost** - Eg- FCI’s **annual storage cost** for buffer stocks reached **₹40,000 crore in 2023**
+    - **High Storage Cost** - Eg- FCI’s **annual storage cost** for buffer stocks reached **₹40,000 crore in 2023**
 
-  - **Pilferage and Theft** due to poor security measures and leakages in the distribution network.
+    - **Pilferage and Theft** due to poor security measures and leakages in the distribution network.
 
-  - **Regional procurement imbalances:** Eg- Eastern and NE states remain under-procured
+    - **Regional procurement imbalances:** Eg- Eastern and NE states remain under-procured
 
-  - **Lack of Modern Technology -** lack silos, temperature control, and humidity monitoring. Only **20%** of buffer stock stored in modern silos
+    - **Lack of Modern Technology -** lack silos, temperature control, and humidity monitoring. Only **20%** of buffer stock stored in modern silos
 
-  - **Environmental concerns:** Excess procurement of rice strains groundwater, fertiliser use, and **stubble burning.**
+    - **Environmental concerns:** Excess procurement of rice strains groundwater, fertiliser use, and **stubble burning.**
 
 **Way Forward**
 
@@ -3471,45 +3471,45 @@ Efficient transport and marketing are critical components of the agriculture **v
 
 **Main Constraints in Transport of Agricultural Produce**
 
-**1. FCI** transit loss stands at Rs 300 crore/annum
+1. **FCI** transit loss stands at Rs 300 crore/annum
 
-**2. Poor Rural Road Connectivity-** About **25% rural habitations** lack pucca road connectivity .
+2. **Poor Rural Road Connectivity-** About **25% rural habitations** lack pucca road connectivity .
 
-**3. Lack of Multi-Model connectivity** - heavy dependence on roads for transport
+3. **Lack of Multi-Model connectivity** - heavy dependence on roads for transport
 
-**4. Inadequate First-Mile Logistics -** Scarcity of tractors, mini-trucks, and affordable transport
+4. **Inadequate First-Mile Logistics -** Scarcity of tractors, mini-trucks, and affordable transport
 
-**5. High Post-Harvest Losses in Transit** due to improper packaging, rough handling, and delays. **6-18%** losses in fruits & vegetables (NABARD/FAO).
+5. **High Post-Harvest Losses in Transit** due to improper packaging, rough handling, and delays. **6-18%** losses in fruits & vegetables (NABARD/FAO).
 
-**6. Cold storage capacity** in India can only accommodate about 11% of the country's total produce.
+6. **Cold storage capacity** in India can only accommodate about 11% of the country's total produce.
 
-**7. Fragmented Landholdings - 86%** farmers are small/marginal - increase per-unit transport cost
+7. **Fragmented Landholdings - 86%** farmers are small/marginal - increase per-unit transport cost
 
-**8. High Logistics Cost** of **14% of GDP -** raise farm-to-market cost.
+8. **High Logistics Cost** of **14% of GDP -** raise farm-to-market cost.
 
 **Main Constraints in Marketing of Agricultural Produce**
 
-**1. 63%** of agricultural households sold their crops to local markets and only **7.2% sold to APMCs.**
+1. **63%** of agricultural households sold their crops to local markets and only **7.2% sold to APMCs.**
 
-**2. Dominance of Intermediaries** leads to low price realisation. Eg- Farmers get only **25-30%** of final price in perishables.
+2. **Dominance of Intermediaries** leads to low price realisation. Eg- Farmers get only **25-30%** of final price in perishables.
 
-**3. Inadequate Market Infrastructure -** Mandis lack grading, sorting, storage, and drying yards. Only **10% of mandis** meet required norms (Dalwai Committee).
+3. **Inadequate Market Infrastructure -** Mandis lack grading, sorting, storage, and drying yards. Only **10% of mandis** meet required norms (Dalwai Committee).
 
-**4. APMC operating in monopolised silos** limit free inter-state movement and competition.
+4. **APMC operating in monopolised silos** limit free inter-state movement and competition.
 
-**5. Poor Access to** real-time price and demand **Information -** weakens bargaining power of farmers
+5. **Poor Access to** real-time price and demand **Information -** weakens bargaining power of farmers
 
-**6. Low Digital Integration -** Only **about 1500 mandis** integrated with e-NAM (2024).
+6. **Low Digital Integration -** Only **about 1500 mandis** integrated with e-NAM (2024).
 
-**7. Quality & SPS Compliance Gaps -** Inadequate testing infrastructure impacts domestic sales and exports. Eg- EU rejecting Mango consignment **Way Forward**
+7. **Quality & SPS Compliance Gaps -** Inadequate testing infrastructure impacts domestic sales and exports. Eg- EU rejecting Mango consignment **Way Forward**
 
-  - **Strengthening FPOs** to enhance collective bargaining and direct market access for farmers. Eg- **Sahyadri FPO in Maharashtra** - increased incomes by 30%
+    - **Strengthening FPOs** to enhance collective bargaining and direct market access for farmers. Eg- **Sahyadri FPO in Maharashtra** - increased incomes by 30%
 
-  - **Cold-Chain-as-a-Service (CCaaS) - IoT-based cold storage + logistics integration reduces post-harvest losses**
+    - **Cold-Chain-as-a-Service (CCaaS) - IoT-based cold storage + logistics integration reduces post-harvest losses**
 
-  - **MSP 2.0 based on 3 D’s -** Decentralisation, Diversification and Digital Procurement. Eg- **instant payments** through e-RUPI.
+    - **MSP 2.0 based on 3 D’s -** Decentralisation, Diversification and Digital Procurement. Eg- **instant payments** through e-RUPI.
 
-  - **Rural Agri-Logistics Nodes under Gati Shakti Framework** to develop cold chains, aggregation centers, and packhouses near farm gates.
+    - **Rural Agri-Logistics Nodes under Gati Shakti Framework** to develop cold chains, aggregation centers, and packhouses near farm gates.
 
 Strengthening supply chain management is key to **‘Doubling Farmers Income’.**
 
@@ -3528,33 +3528,33 @@ Supermarkets are **organised retail chains** that procure, store and distribute 
 
 **Role of Supermarkets in supply chain management**
 
-**1. Direct Procurement from Farmers - Eg-** Big Basket & Reliance Retail procure directly from FPOs.
+1. **Direct Procurement from Farmers - Eg-** Big Basket & Reliance Retail procure directly from FPOs.
 
-**2. Standardisation, Grading & Sorting** improves quality consistency. **Eg-** Walmart trains farmers on GAP (Good Agricultural Practices).
+2. **Standardisation, Grading & Sorting** improves quality consistency. **Eg-** Walmart trains farmers on GAP (Good Agricultural Practices).
 
-  - **Efficient Logistics & Inventory Management - Eg-** use **of real-time inventory tracking, forecasting tools, barcoding/RFID**
+    - **Efficient Logistics & Inventory Management - Eg-** use **of real-time inventory tracking, forecasting tools, barcoding/RFID**
 
-**4. Cold Chain infrastructure** reduces losses of perishable goods like fruits
+4. **Cold Chain infrastructure** reduces losses of perishable goods like fruits
 
-**5. Contract Farming, buy-back arrangements** ensure stable demand and price security for farmers. EgPepsiCo in Punjab (Potato farming)
+5. **Contract Farming, buy-back arrangements** ensure stable demand and price security for farmers. EgPepsiCo in Punjab (Potato farming)
 
-**6. Value Addition -** Supermarkets invest in **cut vegetables, ready-to-cook items etc** - increases shelf-life of products.
+6. **Value Addition -** Supermarkets invest in **cut vegetables, ready-to-cook items etc** - increases shelf-life of products.
 
-  - **Diverse products-** Gives greater choice for consumers and promotes crop diversification.
+    - **Diverse products-** Gives greater choice for consumers and promotes crop diversification.
 
 **Challenges faced by supermarkets**
 
-**1. Lack of infrastructure -** Eg- cold storage can only accommodate about 11% of the country's total produce.
+1. **Lack of infrastructure -** Eg- cold storage can only accommodate about 11% of the country's total produce.
 
-  - **Poor forward and backward linkages** - Eg- Only 13% mandis digital.
+    - **Poor forward and backward linkages** - Eg- Only 13% mandis digital.
 
-  - **Fragmented landholdings** - 86% farmers are small and marginal - prevents economy of scale
+    - **Fragmented landholdings** - 86% farmers are small and marginal - prevents economy of scale
 
-  - **Regulatory Hurdles -** APMC monopoly and interstate movement regulations **complicate direct buying** from farmers.
+    - **Regulatory Hurdles -** APMC monopoly and interstate movement regulations **complicate direct buying** from farmers.
 
-  - Organised retail remains concentrated in **metro and Tier-1 cities,** with limited rural coverage
+    - Organised retail remains concentrated in **metro and Tier-1 cities,** with limited rural coverage
 
-  - **Low investment** - Private investment <1% Agri-GDP.
+    - **Low investment** - Private investment <1% Agri-GDP.
 
 **Supermarkets eliminating intermediaries**
 
@@ -3624,37 +3624,37 @@ The agriculture sector utilizes approximately **78% of India's total usable wate
 
 **Government Measures for Efficient Irrigation Management**
 
-**1. PM Krishi Sinchayee Yojana (PMKSY) -** Promotes micro-irrigation (drip/sprinkler) through subsidies.
+1. **PM Krishi Sinchayee Yojana (PMKSY) -** Promotes micro-irrigation (drip/sprinkler) through subsidies.
 
-  - Components: **Har Khet Ko Pani, Per Drop More Crop, Watershed Development.**
+    - Components: **Har Khet Ko Pani, Per Drop More Crop, Watershed Development.**
 
-**2. Micro-Irrigation Fund (NABARD) -** Dedicated fund of **₹10,000 crore** to expand drip and sprinkler systems.
+2. **Micro-Irrigation Fund (NABARD) -** Dedicated fund of **₹10,000 crore** to expand drip and sprinkler systems.
 
-**3. Atal Bhujal Yojana (Atal Jal) -** Focus on **groundwater management** in water-stressed districts through community participation.
+3. **Atal Bhujal Yojana (Atal Jal) -** Focus on **groundwater management** in water-stressed districts through community participation.
 
-**4. Accelerated Irrigation Benefits Programme (AIBP) -** Financial assistance for completion of long-pending major and medium irrigation projects.
+4. **Accelerated Irrigation Benefits Programme (AIBP) -** Financial assistance for completion of long-pending major and medium irrigation projects.
 
-**5. Participatory Irrigation Management (PIM)** by strengthening **Water Users Associations (WUAs).**
+5. **Participatory Irrigation Management (PIM)** by strengthening **Water Users Associations (WUAs).**
 
-  - **Bureau of Water Use Efficiency** under Ministry of Jal Shakti - To improve water use efficiency by 20%
+    - **Bureau of Water Use Efficiency** under Ministry of Jal Shakti - To improve water use efficiency by 20%
 
-**7. State level initiatives**
+7. **State level initiatives**
 
-  - **Mission Kakatiya, Telangana** - Restoration of **46,531 minor irrigation tanks**
+    - **Mission Kakatiya, Telangana** - Restoration of **46,531 minor irrigation tanks**
 
-  - Jalyukt Shivar Abhiyan, Maharashtra - watershed development, farm ponds, desilting of streams.**
+    - Jalyukt Shivar Abhiyan, Maharashtra - watershed development, farm ponds, desilting of streams.**
 
-**8. Crop Diversification Initiatives**
+8. **Crop Diversification Initiatives**
 
-  - Mission for Integrated Development of Horticulture **(MIDH)**
+    - Mission for Integrated Development of Horticulture **(MIDH)**
 
-  - Increase in **MSP for Pulses and Millets.** Eg- 60% for Ragi
+    - Increase in **MSP for Pulses and Millets.** Eg- 60% for Ragi
 
-  - **PM KUSUM:** Promotes the use of solar-powered pumps for micro-irrigation **Case Study**
+    - **PM KUSUM:** Promotes the use of solar-powered pumps for micro-irrigation **Case Study**
 
-**1. Tarun Bharat Sangh (Rajasthan) - Revived johads, and check-dams.**
+1. **Tarun Bharat Sangh (Rajasthan) - Revived johads, and check-dams.**
 
-**2. Pani Foundation (Maharashtra)- Satyamev Jayate Water Cup.**
+2. **Pani Foundation (Maharashtra)- Satyamev Jayate Water Cup.**
 
 Timely and efficient implementations of government programmes is essential for achieving **equitable, efficient and sustainable irrigation management. (“Vision for Sujalam Bharat”)**
 
@@ -3673,31 +3673,31 @@ A cropping pattern is the **distribution** of various crops within a specific ar
 
 **Challenges Before Crop Diversification**
 
-**1. Green Revolution lock-in - Shift toward mono-cropping of wheat and rice due to MSP-procurement.**
+1. **Green Revolution lock-in - Shift toward mono-cropping of wheat and rice due to MSP-procurement.**
 
-  - **94%** of the total agri and allied sector output is **outside MSP support.**
+    - **94%** of the total agri and allied sector output is **outside MSP support.**
 
 <p align="center"><img src="images/civilsdaily_p67_img104.png" alt="Diagram" /></p>
 
-  - **Input constraints - Limited HYV seeds, overdependence on chemical fertilizers. Eg-** Seed replacement rate is 35-45% (over 90% in USA)
+    - **Input constraints - Limited HYV seeds, overdependence on chemical fertilizers. Eg-** Seed replacement rate is 35-45% (over 90% in USA)
 
-  - **Input Subsidy Bias -** Subsidies for **power, urea, canal water** favour water-intensive crops, making alternatives less attractive.
+    - **Input Subsidy Bias -** Subsidies for **power, urea, canal water** favour water-intensive crops, making alternatives less attractive.
 
-  - **Low income trap** limits farmers ability to invest in High Value crops and Technology.
+    - **Low income trap** limits farmers ability to invest in High Value crops and Technology.
 
-**6. High monsoon dependence -** About **55%** of cultivable land is **rainfed -** increasing risk and limiting diversification.
+6. **High monsoon dependence -** About **55%** of cultivable land is **rainfed -** increasing risk and limiting diversification.
 
-**7. Fragmented landholdings - 86%** Small and marginal farmers - **restrict mechanisation.**
+7. **Fragmented landholdings - 86%** Small and marginal farmers - **restrict mechanisation.**
 
-**8. Shift to commercial crops -** Expansion of cotton (Deccan belt) and sugarcane (Punjab-Haryana, Krishna-Godavari basin) crowds out food crops.
+8. **Shift to commercial crops -** Expansion of cotton (Deccan belt) and sugarcane (Punjab-Haryana, Krishna-Godavari basin) crowds out food crops.
 
-**9. Human factors -** Population pressure, subsistence farming, and low risk appetite hinder diversification.
+9. **Human factors -** Population pressure, subsistence farming, and low risk appetite hinder diversification.
 
-**10. Institutional weaknesses -** Defective land tenure, and poor processing for perishables. Eg- Only 13% mandis digital.
+10. **Institutional weaknesses -** Defective land tenure, and poor processing for perishables. Eg- Only 13% mandis digital.
 
-  - **Market Uncertainty -** Lack of assured markets for pulses, oilseeds, millets, fruits, and vegetables limits farmers’ ability to shift.
+    - **Market Uncertainty -** Lack of assured markets for pulses, oilseeds, millets, fruits, and vegetables limits farmers’ ability to shift.
 
-**12. Infrastructural gaps -** Eg- cold storage can accommodate only 11% of total produce.
+12. **Infrastructural gaps -** Eg- cold storage can accommodate only 11% of total produce.
 
 **Role of Emerging Technologies in promoting Crop Diversification**
 
@@ -3743,31 +3743,31 @@ e-Technology in agriculture refers to the use of **digital tools, ICT platforms,
 
 **Role of e-Technology in Agricultural Production**
 
-**1. Access to real-time information -** Provides timely **weather forecasts,** pest alerts, and irrigation advisories. Eg- **Kisan Suvidha app.**
+1. **Access to real-time information -** Provides timely **weather forecasts,** pest alerts, and irrigation advisories. Eg- **Kisan Suvidha app.**
 
-**2. Digital nutrient management -** Soil Health Card and digital soil maps guide **fertilizer application** reduce input costs and improve productivity.
+2. **Digital nutrient management -** Soil Health Card and digital soil maps guide **fertilizer application** reduce input costs and improve productivity.
 
-**3. Precision farming -** Drones, IoT sensors, and mobile-linked devices help farmers optimise **water, fertilizers, and pesticides**
+3. **Precision farming -** Drones, IoT sensors, and mobile-linked devices help farmers optimise **water, fertilizers, and pesticides**
 
-**4. Information on scientific practices like** seed treatment methods, crop-specific guidance etc. EgFarming Leader channel on Youtube
+4. **Information on scientific practices like** seed treatment methods, crop-specific guidance etc. EgFarming Leader channel on Youtube
 
-**5. ICT tools, KVK portals, and helplines** provide **remote crop advisory,** enabling timely decisions. Egm-Kisan app
+5. **ICT tools, KVK portals, and helplines** provide **remote crop advisory,** enabling timely decisions. Egm-Kisan app
 
-  - **Facilitates crop monitoring** through remote sensing technologies, drones etc. Eg- Drone Didi initiative
+    - **Facilitates crop monitoring** through remote sensing technologies, drones etc. Eg- Drone Didi initiative
 
-  - **Financial inclusion** under **JAM and DBT under PM KISAN** increases capital investment and promotes diversification to high value crops **Role of e-Technology in Agricultural Marketing**
+    - **Financial inclusion** under **JAM and DBT under PM KISAN** increases capital investment and promotes diversification to high value crops **Role of e-Technology in Agricultural Marketing**
 
-**1. Access to transparent price information - e-NAM,** Agmarknet display mandi prices - help farmers avoid distress sales.
+1. **Access to transparent price information - e-NAM,** Agmarknet display mandi prices - help farmers avoid distress sales.
 
-**2. Direct linkages with buyers** through online bidding reduces dependence on middlemen.
+2. **Direct linkages with buyers** through online bidding reduces dependence on middlemen.
 
-**3. Wider market reach - Eg-** e-NAM integrates **1,500+ mandis** - allows inter-state trade and better price realization.
+3. **Wider market reach - Eg-** e-NAM integrates **1,500+ mandis** - allows inter-state trade and better price realization.
 
-**4. Digital payments -** UPI-linked systems ensure **quick, direct payments.**
+4. **Digital payments -** UPI-linked systems ensure **quick, direct payments.**
 
-**5. Improved post-harvest logistics -** Apps provide information on **transport availability, storage, cold-chain,** and warehouse booking. Eg- e-NWR
+5. **Improved post-harvest logistics -** Apps provide information on **transport availability, storage, cold-chain,** and warehouse booking. Eg- e-NWR
 
-**6. Branding -** Social media and e-commerce platforms help farmers directly sell **processed or organic produce** to consumers. Eg- BigBasket
+6. **Branding -** Social media and e-commerce platforms help farmers directly sell **processed or organic produce** to consumers. Eg- BigBasket
 
 | Issues | Way Forward |
 | --- | --- |
@@ -3804,43 +3804,43 @@ When science meets scale, when innovation becomes inclusive, when technology dri
 
 1. **Low Level of Processing -** Only ~10% of total agricultural produce is processed (vs **60-70% in developed countries).**
 
-**2. Post-harvest losses of 15-20% due to shortage of cold-storage, and transport infrastructure.**
+2. **Post-harvest losses of 15-20% due to shortage of cold-storage, and transport infrastructure.**
 
-  - **Fragmented Supply Chain -** 86% of farmers are small/marginal - limits aggregation
+    - **Fragmented Supply Chain -** 86% of farmers are small/marginal - limits aggregation
 
-**4. High Logistics Cost of 13-14% of GDP (vs 8-9% in developed countries).**
+4. **High Logistics Cost of 13-14% of GDP (vs 8-9% in developed countries).**
 
-  - **Delay in project implementation - Eg-** only 25 out of 42 approved Mega Food Parks operational
+    - **Delay in project implementation - Eg-** only 25 out of 42 approved Mega Food Parks operational
 
-  - **Regulatory & Compliance Issues -** Complex FSSAI norms and licensing delays discourage small processors.
+    - **Regulatory & Compliance Issues -** Complex FSSAI norms and licensing delays discourage small processors.
 
-  - **Low Exports - 16%** of India’s agri-exports are processed products, compared to **25% in the US and 49% in China.**
+    - **Low Exports - 16%** of India’s agri-exports are processed products, compared to **25% in the US and 49% in China.**
 
-**8. Micro and small units struggle to access formal credit, collateral, and working capital.**
+8. **Micro and small units struggle to access formal credit, collateral, and working capital.**
 
-**9. Skill gap - Only 3% of the food processing workforce is formally trained**
+9. **Skill gap - Only 3% of the food processing workforce is formally trained**
 
-**10. Quality & Safety Gaps - Inconsistent adherence to food safety standards, and limited testing infrastructure. Eg- Rejection of Indian exports by EU.**
+10. **Quality & Safety Gaps - Inconsistent adherence to food safety standards, and limited testing infrastructure. Eg- Rejection of Indian exports by EU.**
 
-**11. Negligible R&D (<0.5% of sectoral GVA) - stall innovation in packaging and product design Opportunities of Food Processing Industry in India**
+11. **Negligible R&D (<0.5% of sectoral GVA) - stall innovation in packaging and product design Opportunities of Food Processing Industry in India**
 
 <p align="center"><img src="images/civilsdaily_p74_img106.png" alt="Diagram" /></p>
 
-**1. Large agricultural base**
+1. **Large agricultural base**
 
-  - India is the world’s largest producer of milk, spices, pulses, millets,
+    - India is the world’s largest producer of milk, spices, pulses, millets,
 
-  - Second-largest producer of fruits and vegetables.
+    - Second-largest producer of fruits and vegetables.
 
-  - **Wide product spectrum -** Includes dairy, fruits & vegetables, meat, fisheries, beverages, ready-to-eat (RTE), and organic foods.
+    - **Wide product spectrum -** Includes dairy, fruits & vegetables, meat, fisheries, beverages, ready-to-eat (RTE), and organic foods.
 
-  - **Lifestyle Shift -** 65% of Indians under 35, rising incomes, urbanization & busy lifestyles have boosted demand for ready-to-eat & processed foods.
+    - **Lifestyle Shift -** 65% of Indians under 35, rising incomes, urbanization & busy lifestyles have boosted demand for ready-to-eat & processed foods.
 
-  - **Rapid growth in Organised retail and “shopping mall culture”-** better supply chain management. **Eg-** D-mart
+    - **Rapid growth in Organised retail and “shopping mall culture”-** better supply chain management. **Eg-** D-mart
 
-  - **Export potential -** India exports processed foods to 200+ countries
+    - **Export potential -** India exports processed foods to 200+ countries
 
-  - **Nearly 70% of food processing units operate in the unorganised MSME sector -** generate rural employment and entrepreneurship.
+    - **Nearly 70% of food processing units operate in the unorganised MSME sector -** generate rural employment and entrepreneurship.
 
 **Increasing Farmers’ Income through Food Processing**
 
@@ -3881,71 +3881,71 @@ India’s food processing sector is projected to grow from **$307 billion (2023)
 
 <p align="center"><img src="images/civilsdaily_p75_img107.png" alt="Diagram" /></p>
 
-**1. Large agricultural base**
+1. **Large agricultural base**
 
-  - India is the world’s largest producer of milk, spices, pulses, millets,
+    - India is the world’s largest producer of milk, spices, pulses, millets,
 
-  - Second-largest producer of fruits and vegetables.
+    - Second-largest producer of fruits and vegetables.
 
-  - **Wide product spectrum -** Includes dairy, fruits & vegetables, meat, fisheries, beverages, ready-to-eat (RTE), and organic foods.
+    - **Wide product spectrum -** Includes dairy, fruits & vegetables, meat, fisheries, beverages, ready-to-eat (RTE), and organic foods.
 
-  - **Lifestyle Shift -** 65% of Indians under 35, rising incomes, urbanization & busy lifestyles have boosted demand for ready-to-eat & processed foods.
+    - **Lifestyle Shift -** 65% of Indians under 35, rising incomes, urbanization & busy lifestyles have boosted demand for ready-to-eat & processed foods.
 
-  - **Rapid growth in Organised retail and “shopping mall culture”-** better supply chain management. Eg- D-mart
+    - **Rapid growth in Organised retail and “shopping mall culture”-** better supply chain management. Eg- D-mart
 
-  - **Export potential -** India exports processed foods to 200+ countries
+    - **Export potential -** India exports processed foods to 200+ countries
 
-  - **Nearly 70% of food processing units operate in the unorganised MSME sector -** generate rural employment and entrepreneurship.
+    - **Nearly 70% of food processing units operate in the unorganised MSME sector -** generate rural employment and entrepreneurship.
 
 **Challenges of the Food Processing Sector in India**
 
 1. **Low Level of Processing -** Only ~10% of total agricultural produce is processed (vs 60-70% in developed countries).
 
-**2. Post-harvest losses of 15-20% due to shortage of cold-storage, and transport infrastructure.**
+2. **Post-harvest losses of 15-20% due to shortage of cold-storage, and transport infrastructure.**
 
-**3. Fragmented Supply Chain - 86% of farmers are small/marginal - limits aggregation**
+3. **Fragmented Supply Chain - 86% of farmers are small/marginal - limits aggregation**
 
-  - High Logistics Cost of 13-14% of GDP (vs 8-9% in developed countries).
+    - High Logistics Cost of 13-14% of GDP (vs 8-9% in developed countries).
 
-  - **Delay in project implementation - Eg-** only 25 out of 42 approved Mega Food Parks operational
+    - **Delay in project implementation - Eg-** only 25 out of 42 approved Mega Food Parks operational
 
-  - **Regulatory & Compliance Issues -** Complex FSSAI norms and licensing delays discourage small processors.
+    - **Regulatory & Compliance Issues -** Complex FSSAI norms and licensing delays discourage small processors.
 
-  - **Low Exports -** 16% of India’s agri-exports are processed products, compared to 25% in the US and 49% in China.
+    - **Low Exports -** 16% of India’s agri-exports are processed products, compared to 25% in the US and 49% in China.
 
-**8. Micro and small units struggle to access formal credit, collateral, and working capital.**
+8. **Micro and small units struggle to access formal credit, collateral, and working capital.**
 
-**9. Skill gap - Only 3% of the food processing workforce is formally trained**
+9. **Skill gap - Only 3% of the food processing workforce is formally trained**
 
-  - **Quality & Safety Gaps -** Inconsistent adherence to food safety standards, and limited testing infrastructure.
+    - **Quality & Safety Gaps -** Inconsistent adherence to food safety standards, and limited testing infrastructure.
 
 **Eg-** Rejection of Indian exports by EU.
 
-  - **Negligible R&D (<0.5% of sectoral GVA) -** stall innovation in packaging and product design **Measures taken by government**
+    - **Negligible R&D (<0.5% of sectoral GVA) -** stall innovation in packaging and product design **Measures taken by government**
 
-  - The food processing sector has been recognized as a ‘sunrise sector‘ and a key priority industry under the ‘Make in India’ initiative.
+    - The food processing sector has been recognized as a ‘sunrise sector‘ and a key priority industry under the ‘Make in India’ initiative.
 
-  - **PM-Kisan SAMPADA (2016) - Central Sector Scheme to build a modern processing ecosystem from farm-gate to retail.**
+    - **PM-Kisan SAMPADA (2016) - Central Sector Scheme to build a modern processing ecosystem from farm-gate to retail.**
 
-  - **Mega Food Parks Scheme -** Provides land, utilities, common facilities, effluent plants, R&D labs.
+    - **Mega Food Parks Scheme -** Provides land, utilities, common facilities, effluent plants, R&D labs.
 
-  - **PM Formalisation of Micro Food Processing Enterprises (PM-FME) -** Provides **40% credit-linked subsidy,** branding support, and training for **2 lakh micro units** under the One District One Product (ODOP) approach.
+    - **PM Formalisation of Micro Food Processing Enterprises (PM-FME) -** Provides **40% credit-linked subsidy,** branding support, and training for **2 lakh micro units** under the One District One Product (ODOP) approach.
 
-  - **Production Linked Incentive Scheme (PLISFPI)** to boost domestic manufacturing.
+    - **Production Linked Incentive Scheme (PLISFPI)** to boost domestic manufacturing.
 
-  - **Operation Greens (TOP to TOTAL) -** Price stabilization fund for **tomato, onion, potato,** now expanded to all perishable crops
+    - **Operation Greens (TOP to TOTAL) -** Price stabilization fund for **tomato, onion, potato,** now expanded to all perishable crops
 
-  - **100% FDI** in food processing and **100% FDI under Government route** for retail of food produced in India.
+    - **100% FDI** in food processing and **100% FDI under Government route** for retail of food produced in India.
 
-  - **e-NAM Integration -** Linking mandis for better **price discovery,** quality grading, and seamless movement of produce.
+    - **e-NAM Integration -** Linking mandis for better **price discovery,** quality grading, and seamless movement of produce.
 
-  - Food processing included under **PSL** to improve access to affordable credit.
+    - Food processing included under **PSL** to improve access to affordable credit.
 
-  - **National Makhana Board** to globally position Indian superfoods like makhana.
+    - **National Makhana Board** to globally position Indian superfoods like makhana.
 
-  - **Infrastructure Status (HLIS) -** Food parks are included in **Harmonized List of Infrastructure** - enables concessional loans.
+    - **Infrastructure Status (HLIS) -** Food parks are included in **Harmonized List of Infrastructure** - enables concessional loans.
 
-  - **Collaboration with Invest India** for FDI facilitation, market access, regulatory assistance.
+    - **Collaboration with Invest India** for FDI facilitation, market access, regulatory assistance.
 
 As India moves forward under the **Make in India** vision, the food processing industry will continue to be a key driver of economic growth, ensuring food security, quality, and global competitiveness.
 
@@ -3988,35 +3988,35 @@ Eg- Solar pumps under **PM-KUSUM**
 
 **Progress Made by India in Energy**
 
-**1. Universal Electricity Access - 99.9% household electrification** achieved under **Saubhagya.**
+1. **Universal Electricity Access - 99.9% household electrification** achieved under **Saubhagya.**
 
 <p align="center"><img src="images/civilsdaily_p33_img91.png" alt="Diagram" /></p>
 
-**2. Clean Cooking Energy - PM-Ujjwala** raised LPG coverage to **99% of households.**
+2. **Clean Cooking Energy - PM-Ujjwala** raised LPG coverage to **99% of households.**
 
-**3. Renewable Energy Expansion**
+3. **Renewable Energy Expansion**
 
-  - India ranks **4th globally** in renewable capacity.
+    - India ranks **4th globally** in renewable capacity.
 
-  - **244+ GW installed RE capacity** (50% of total demand)
+    - **244+ GW installed RE capacity** (50% of total demand)
 
-**4. Energy Efficiency Gains- PAT, BEE standards** saved significant electricity and reduced CO₂ emissions.
+4. **Energy Efficiency Gains- PAT, BEE standards** saved significant electricity and reduced CO₂ emissions.
 
-**5. Global Leadership**
+5. **Global Leadership**
 
-  - **International Solar Alliance (ISA)** promotes global solar cooperation.
+    - **International Solar Alliance (ISA)** promotes global solar cooperation.
 
-  - **Coalition for Disaster Resilient Infrastructure (CDRI)** integrates climate-resilient energy systems.
+    - **Coalition for Disaster Resilient Infrastructure (CDRI)** integrates climate-resilient energy systems.
 
-**6. New Technologies - National Green Hydrogen Mission** to produce **5 MMT** of green hydrogen by 2030.
+6. **New Technologies - National Green Hydrogen Mission** to produce **5 MMT** of green hydrogen by 2030.
 
-**7. Updated NDC Commitments**
+7. **Updated NDC Commitments**
 
-  - **45% reduction in emission intensity** of GDP by 2030.
+    - **45% reduction in emission intensity** of GDP by 2030.
 
-  - **50% electricity from non-fossil sources.**
+    - **50% electricity from non-fossil sources.**
 
-  - **Net Zero by 2070.**
+    - **Net Zero by 2070.**
 
 **Challenges**
 
@@ -4120,29 +4120,29 @@ Under panchamrit Targets at COP26, India committed to achieving **50 percent** o
 
 - **PM Surya Ghar Muft Bijli Yojana** - Accelerates residential rooftop solar.
 
-**5. Institutional mechanisms**
+5. **Institutional mechanisms**
 
-  - **International Solar Alliance (ISA)**
+    - **International Solar Alliance (ISA)**
 
-  - **Green Grids Initiative** under **OSOWOG**
+    - **Green Grids Initiative** under **OSOWOG**
 
 <p align="center"><img src="images/civilsdaily_p36_img93.png" alt="Diagram" /></p>
 
-  - **BEE** and **PAT Scheme** - Promote energy efficiency.
+    - **BEE** and **PAT Scheme** - Promote energy efficiency.
 
-**6. Economic incentives**
+6. **Economic incentives**
 
-  - **PLI Scheme for Solar PV Modules and Batteries**
+    - **PLI Scheme for Solar PV Modules and Batteries**
 
-  - **Viability Gap Funding and Capital Subsidies**
+    - **Viability Gap Funding and Capital Subsidies**
 
-  - **Green bonds** for clean energy projects.
+    - **Green bonds** for clean energy projects.
 
-**7. Global efforts and partnerships**
+7. **Global efforts and partnerships**
 
-  - Technology transfer and funding through **ISA, IBSA, G20**
+    - Technology transfer and funding through **ISA, IBSA, G20**
 
-  - Participation in **Just Energy Transition Partnerships (JETP)** and **multilateral climate funds.**
+    - Participation in **Just Energy Transition Partnerships (JETP)** and **multilateral climate funds.**
 
 **Challenges**
 
@@ -4184,15 +4184,15 @@ Under panchamrit Targets at COP26, India committed to achieving **50 percent** o
 
 **Way Forward**
 
-**1. Optimize Land and Water Resources - Eg- Omkareshwar Floating Solar Park.**
+1. **Optimize Land and Water Resources - Eg- Omkareshwar Floating Solar Park.**
 
-**2. Develop Renewable Energy Clusters** with **single-window clearances and fiscal incentives.**
+2. **Develop Renewable Energy Clusters** with **single-window clearances and fiscal incentives.**
 
-**3. Leverage Emerging Technologies - Eg- blockchain-based P2P renewable energy trading**
+3. **Leverage Emerging Technologies - Eg- blockchain-based P2P renewable energy trading**
 
-**4. Expand Renewable Infrastructure** - Scale **rooftop solar, microgrids and solar pumps** for **rural electrification and off-grid solutions.**
+4. **Expand Renewable Infrastructure** - Scale **rooftop solar, microgrids and solar pumps** for **rural electrification and off-grid solutions.**
 
-**5. Circular Waste-to-Energy Parks** using **anaerobic digestion, gasification and pyrolysis.** Eg**Jamnagar** India’s energy transition can help realise **SDG 7 (Affordable and Clean Energy), SDG 13 (Climate Action),** and **SDG 9 (Industry, Innovation, and Infrastructure).**
+5. **Circular Waste-to-Energy Parks** using **anaerobic digestion, gasification and pyrolysis.** Eg**Jamnagar** India’s energy transition can help realise **SDG 7 (Affordable and Clean Energy), SDG 13 (Climate Action),** and **SDG 9 (Industry, Innovation, and Infrastructure).**
 
 [Question ID: 2022-gs3-q62-civilsdaily]
 
@@ -4243,51 +4243,51 @@ EVs accounted for **7.5%** of India's total vehicle sales in 2024.
 
 **Key Benefits of EVs Compared to Traditional Combustion Engine Vehicles**
 
-**1. Environmental Benefits**
+1. **Environmental Benefits**
 
-  - Reduction in **urban smog and air pollution**
+    - Reduction in **urban smog and air pollution**
 
-  - Helps achieve **climate and SDG targets (SDG 13 & SDG 11)**
+    - Helps achieve **climate and SDG targets (SDG 13 & SDG 11)**
 
-**2. Economic Benefits**
+2. **Economic Benefits**
 
-  - **Lower running and maintenance costs**
+    - **Lower running and maintenance costs**
 
-  - Reduces **oil import bill** and saves **foreign exchange**
+    - Reduces **oil import bill** and saves **foreign exchange**
 
-  - Generates **green jobs** in **battery, EV, and charging sectors**
+    - Generates **green jobs** in **battery, EV, and charging sectors**
 
-**3. Energy Security Benefits**
+3. **Energy Security Benefits**
 
-  - Cuts dependence on **imported crude oil**
+    - Cuts dependence on **imported crude oil**
 
-  - Promotes use of **domestic renewable energy**
+    - Promotes use of **domestic renewable energy**
 
-**4. Public Health Benefits**
+4. **Public Health Benefits**
 
-  - Decline in **respiratory and cardiovascular diseases**
+    - Decline in **respiratory and cardiovascular diseases**
 
-  - Improved **urban air quality**
+    - Improved **urban air quality**
 
-**5. Technological Benefits**
+5. **Technological Benefits**
 
-  - Boosts **battery innovation, smart grids and V2G technologies**
+    - Boosts **battery innovation, smart grids and V2G technologies**
 
-  - Strengthens **Make in India and PLI manufacturing ecosystem**
+    - Strengthens **Make in India and PLI manufacturing ecosystem**
 
-**6. Urban & Social Benefits- Eg- Less noise pollution Challenges**
+6. **Urban & Social Benefits- Eg- Less noise pollution Challenges**
 
-**1. High Initial Cost (20–30% costlier), limiting affordability for middle and lower-income groups.**
+1. **High Initial Cost (20–30% costlier), limiting affordability for middle and lower-income groups.**
 
-**2. Insufficient Charging Infrastructure - India has 1 public charging station per 135 EVs**
+2. **Insufficient Charging Infrastructure - India has 1 public charging station per 135 EVs**
 
-**3. India imports over 90% of its lithium-ion batteries, mainly from China.**
+3. **India imports over 90% of its lithium-ion batteries, mainly from China.**
 
-**4. Regulatory Uncertainty - Frequent policy shifts create confusion. Eg- Changes in import duties and tax regimes**
+4. **Regulatory Uncertainty - Frequent policy shifts create confusion. Eg- Changes in import duties and tax regimes**
 
 **5.** Limited driving range leads to **“range anxiety”** among consumers.
 
-**6. Limited awareness** of **EV benefits and technology** slows adoption.
+6. **Limited awareness** of **EV benefits and technology** slows adoption.
 
 **Government Initiatives for EVs**
 
@@ -4512,23 +4512,23 @@ The total government subsidy for food and fertilizers for the fiscal year 2025-2
 
 5. **Research & Extension services -** Funding to ICAR, Krishi Vigyan Kendras (KVKs) **Issues raised by WTO regarding India’s agricultural subsidies**
 
-**1. Subsidy Classification by WTO**
+1. **Subsidy Classification by WTO**
 
-  - **Green Box** - **Allowed** (non-trade distorting). Eg- **extension, infrastructure**
+    - **Green Box** - **Allowed** (non-trade distorting). Eg- **extension, infrastructure**
 
-  - **Blue Box** - Production-limiting subsidies
+    - **Blue Box** - Production-limiting subsidies
 
-  - **Amber Box** - **Trade-distorting subsidies. (10% of output) Eg- MSP, input subsidies**
+    - **Amber Box** - **Trade-distorting subsidies. (10% of output) Eg- MSP, input subsidies**
 
-**2. Trade-distorting support - MSP, fertiliser, power & irrigation subsidies** classified as **Amber Box.**
+2. **Trade-distorting support - MSP, fertiliser, power & irrigation subsidies** classified as **Amber Box.**
 
 May **exceed 10% de-minimis limit** for developing countries
 
 **3.** WTO decision (Nairobi, 2015) prohibits **export subsidies.** India’s **sugar export incentives** were challenged & ruled **WTO-inconsistent**
 
-**4. Transparency issues -** Allegations of **under-reporting or delayed reporting** of subsidies
+4. **Transparency issues -** Allegations of **under-reporting or delayed reporting** of subsidies
 
-**5. Environmental concerns - overuse of fertilisers and groundwater,** causing Soil degradation, Groundwater depletion and Ecological stress The sustainable path for ensuring **farmer welfare remains protected** includes gradual shift towards **Green-Box-compliant support** such as **direct income transfers, infrastructure creation, R&D, crop insurance and climate-resilient agriculture.**
+5. **Environmental concerns - overuse of fertilisers and groundwater,** causing Soil degradation, Groundwater depletion and Ecological stress The sustainable path for ensuring **farmer welfare remains protected** includes gradual shift towards **Green-Box-compliant support** such as **direct income transfers, infrastructure creation, R&D, crop insurance and climate-resilient agriculture.**
 
 [Question ID: 2023-gs3-q66-civilsdaily]
 
@@ -4551,39 +4551,39 @@ May **exceed 10% de-minimis limit** for developing countries
 
 **Upstream Bottlenecks (Farm → Aggregation Stage)**
 
-**1. Fragmented Landholdings -** 86% small and marginal farmers with low production volumes make aggregation difficult.
+1. **Fragmented Landholdings -** 86% small and marginal farmers with low production volumes make aggregation difficult.
 
-**2. Poor First-Mile Connectivity -** About **25% rural habitations** lack pucca road connectivity - increases spoilage of perishables.
+2. **Poor First-Mile Connectivity -** About **25% rural habitations** lack pucca road connectivity - increases spoilage of perishables.
 
-**3. Lack of On-Farm Storage** leads to distress sales. Eg- 166 MMT storage capacity gap (FAO)
+3. **Lack of On-Farm Storage** leads to distress sales. Eg- 166 MMT storage capacity gap (FAO)
 
-**4. Inadequate Primary Processing -** Minimal grading, sorting, cleaning, and drying at the farm level
+4. **Inadequate Primary Processing -** Minimal grading, sorting, cleaning, and drying at the farm level
 
-**5. High Post-Harvest Losses -** Losses of **6-18%** in fruits & vegetables due to poor handling.
+5. **High Post-Harvest Losses -** Losses of **6-18%** in fruits & vegetables due to poor handling.
 
-**6. Weak Farmer Institutions -** FPO/cooperatives have limited capacity for aggregation and marketing
+6. **Weak Farmer Institutions -** FPO/cooperatives have limited capacity for aggregation and marketing
 
-**7. Limited Access to Information -** Farmers lack real-time data on prices, demand and arrivals.
+7. **Limited Access to Information -** Farmers lack real-time data on prices, demand and arrivals.
 
-**8. High Input & Transport Costs** makes farm-to-mandi movement expensive. Eg- logistics cost is **14% of GDP Downstream Bottlenecks (Aggregation → Wholesale → Retail → Consumer)**
+8. **High Input & Transport Costs** makes farm-to-mandi movement expensive. Eg- logistics cost is **14% of GDP Downstream Bottlenecks (Aggregation → Wholesale → Retail → Consumer)**
 
-**1. Demand and supply gap** due to **Cobweb Phenomenon (Economic Survey) -** Crop production depends on prices in previous periods rather than present demand
+1. **Demand and supply gap** due to **Cobweb Phenomenon (Economic Survey) -** Crop production depends on prices in previous periods rather than present demand
 
-**2. 63%** of agricultural households sold their crops to local markets and only **7.2% sold to APMCs.**
+2. **63%** of agricultural households sold their crops to local markets and only **7.2% sold to APMCs.**
 
-**3. APMC operating in monopolised silos** limit free inter-state movement and competition. Eg- Licensing barriers and cartelisation
+3. **APMC operating in monopolised silos** limit free inter-state movement and competition. Eg- Licensing barriers and cartelisation
 
-**4. Dominance of Intermediaries** leads to low price realisation. Eg- Farmers get only **25-30%** of final price in perishables.
+4. **Dominance of Intermediaries** leads to low price realisation. Eg- Farmers get only **25-30%** of final price in perishables.
 
-**5. Inadequate Market Infrastructure -** Mandis lack grading, sorting, storage, and drying yards. Only **10% of mandis** meet required norms (Dalwai Committee).
+5. **Inadequate Market Infrastructure -** Mandis lack grading, sorting, storage, and drying yards. Only **10% of mandis** meet required norms (Dalwai Committee).
 
-**6. Low Digital Integration -** Only **about 1500 mandis** integrated with e-NAM (2024).
+6. **Low Digital Integration -** Only **about 1500 mandis** integrated with e-NAM (2024).
 
-**7. Quality & SPS Compliance Gaps -** Inadequate testing infrastructure impacts domestic sales and exports. Eg- EU rejecting Mango consignment
+7. **Quality & SPS Compliance Gaps -** Inadequate testing infrastructure impacts domestic sales and exports. Eg- EU rejecting Mango consignment
 
-  - **Organised retail** remains concentrated in **metro and Tier-1 cities,** with limited rural coverage
+    - **Organised retail** remains concentrated in **metro and Tier-1 cities,** with limited rural coverage
 
-  - **Low investment** - Private investment <1% Agri-GDP.
+    - **Low investment** - Private investment <1% Agri-GDP.
 
 **Way Forward**
 
@@ -4638,41 +4638,41 @@ India has **18%** of the world’s population but only **4%** of the freshwater 
 
 9. **World Bank** projects that climate-induced water scarcity could reduce India’s GDP by up to 12% by 2050 **Measures to improve water management Enhancing Water Storage Infrastructure**
 
-**1. Renovation Traditional Water Bodies - Example:** Mission Kakatiya (Telangana) and Kudimaramath (Tamil Nadu).
+1. **Renovation Traditional Water Bodies - Example:** Mission Kakatiya (Telangana) and Kudimaramath (Tamil Nadu).
 
-**2. Farm-Level Storage -** Promote **farm ponds, percolation tanks, check dams, and contour bunds** through MGNREGA. Eg- jalyukta Shivar of Maharashtra
+2. **Farm-Level Storage -** Promote **farm ponds, percolation tanks, check dams, and contour bunds** through MGNREGA. Eg- jalyukta Shivar of Maharashtra
 
-**3. Rainwater Harvesting -** Mandatory rooftop harvesting in water-stressed cities. Eg- Chennai Model
+3. **Rainwater Harvesting -** Mandatory rooftop harvesting in water-stressed cities. Eg- Chennai Model
 
-**4. Interlinking of Rivers -** Eg- Projects like **Ken-Betwa Link** can ease water shortages in Bundelkhand.
+4. **Interlinking of Rivers -** Eg- Projects like **Ken-Betwa Link** can ease water shortages in Bundelkhand.
 
-  - Use **recharge wells** to replenish aquifers through **Atal Bhujal Yojana**
+    - Use **recharge wells** to replenish aquifers through **Atal Bhujal Yojana**
 
-  - **Dam Modernisation** to enhance water storage capacity **Improving Irrigation Efficiency**
+    - **Dam Modernisation** to enhance water storage capacity **Improving Irrigation Efficiency**
 
-**1. Micro-Irrigation Expansion** through PMKSY-PDMC. Eg- Drip saves **30-50%** water; sprinkler saves **25-35%.**
+1. **Micro-Irrigation Expansion** through PMKSY-PDMC. Eg- Drip saves **30-50%** water; sprinkler saves **25-35%.**
 
-**2. Canal Modernisation-** Improves efficiency from **35-40% → 60%.**
+2. **Canal Modernisation-** Improves efficiency from **35-40% → 60%.**
 
-  - **Precision Farming -** Use of sensors, fertigation, controlled irrigation for sustainable agriculture and optimal water use.
+    - **Precision Farming -** Use of sensors, fertigation, controlled irrigation for sustainable agriculture and optimal water use.
 
-  - **Remote Sensing & GIS for Water Accounting -** Monitor aquifers, rainfall-runoff, and canal leakages.
+    - **Remote Sensing & GIS for Water Accounting -** Monitor aquifers, rainfall-runoff, and canal leakages.
 
-  - **Increase Capital Investment in Irrigation Systems** and Fast-track AIBP projects
+    - **Increase Capital Investment in Irrigation Systems** and Fast-track AIBP projects
 
-  - Strengthening **Community-Led Measures - Eg- Pani Panchayats** in Odisha.
+    - Strengthening **Community-Led Measures - Eg- Pani Panchayats** in Odisha.
 
 **Demand-Side Management**
 
-**1. Crop Diversification -** Shift from water-intensive crops (paddy, sugarcane) to **millets, pulses, oilseeds, horticulture. Example:** Haryana’s Mera Pani Meri Virasat.
+1. **Crop Diversification -** Shift from water-intensive crops (paddy, sugarcane) to **millets, pulses, oilseeds, horticulture. Example:** Haryana’s Mera Pani Meri Virasat.
 
-**2. Water Budgeting at Village Level** through Gram Sabhas. Eg- Pani Foundation villages in Maharashtra.
+2. **Water Budgeting at Village Level** through Gram Sabhas. Eg- Pani Foundation villages in Maharashtra.
 
-**3. Water Pricing -** Rational, volumetric pricing to reduce wastage.
+3. **Water Pricing -** Rational, volumetric pricing to reduce wastage.
 
-  - **Water Users Associations (WUAs) -** Participatory Irrigation Management for equitable distribution and canal maintenance.
+    - **Water Users Associations (WUAs) -** Participatory Irrigation Management for equitable distribution and canal maintenance.
 
-  - **Incentivise Water Saving - Eg-** Punjab’s Pani Bachao Paise Kamao for reducing groundwater usage.
+    - **Incentivise Water Saving - Eg-** Punjab’s Pani Bachao Paise Kamao for reducing groundwater usage.
 
 **Implementing Mihir Shah Committee recommendations of One Water Approach by merging CGWB and CWC**
 
@@ -4697,37 +4697,37 @@ India has **18%** of the world’s population but only **4%** of the freshwater 
 
 1. Targets **blocks with critical or over-exploited groundwater** across India, prioritising arid and semi-arid regions.
 
-**2. Five Key Intervention Areas**
+2. **Five Key Intervention Areas**
 
-  - **Water Conservation & Rainwater Harvesting**
+    - **Water Conservation & Rainwater Harvesting**
 
-  - **Renovation of Traditional & Existing Water Bodies**
+    - **Renovation of Traditional & Existing Water Bodies**
 
-  - **Reuse & Recharge of Borewells/Watershed Structures**
+    - **Reuse & Recharge of Borewells/Watershed Structures**
 
-  - **Watershed Development**
+    - **Watershed Development**
 
-  - **Intensive Afforestation**
+    - **Intensive Afforestation**
 
-**3. Convergence of Multiple Departments -** Brings together Rural Development, Water Resources, Agriculture, Forest, Urban Development, Panchayati Raj under a unified water conservation plan.
+3. **Convergence of Multiple Departments -** Brings together Rural Development, Water Resources, Agriculture, Forest, Urban Development, Panchayati Raj under a unified water conservation plan.
 
-**4. Block-Level Water Conservation Plans and a scientific water budget for area-specific interventions.**
+4. **Block-Level Water Conservation Plans and a scientific water budget for area-specific interventions.**
 
-**5. Central nodal officers monitor implementation through field visits and performance reviews.**
+5. **Central nodal officers monitor implementation through field visits and performance reviews.**
 
-**6. Jan Andolan -** Engages panchayats, SHGs, NGOs, youth groups, schools, and citizens for mass awareness and behavioural change.
+6. **Jan Andolan -** Engages panchayats, SHGs, NGOs, youth groups, schools, and citizens for mass awareness and behavioural change.
 
-**7. Integration With MGNREGA & PMKSY for creation of check-dams, percolation tanks, ponds, trenches, recharge pits etc.**
+7. **Integration With MGNREGA & PMKSY for creation of check-dams, percolation tanks, ponds, trenches, recharge pits etc.**
 
-**8. Urban Water Conservation Measures (JSA - 2021 onwards)**
+8. **Urban Water Conservation Measures (JSA - 2021 onwards)**
 
-  - Ensuring **mandatory Rainwater Harvesting (RWH)** as per Model Building By-Law (MBBL) 2016.
+    - Ensuring **mandatory Rainwater Harvesting (RWH)** as per Model Building By-Law (MBBL) 2016.
 
-  - reuse of treated wastewater,
+    - reuse of treated wastewater,
 
-  - Setting Up RWH Cells in Urban Local Bodies
+    - Setting Up RWH Cells in Urban Local Bodies
 
-  - **“Catch the Rain - Where it Falls, When it Falls”** campaign Its **integrated approach** has strengthened water conservation practices and laid the groundwork for long-term water security.
+    - **“Catch the Rain - Where it Falls, When it Falls”** campaign Its **integrated approach** has strengthened water conservation practices and laid the groundwork for long-term water security.
 
 [Question ID: 2020-gs3-q69-civilsdaily]
 
@@ -4756,25 +4756,25 @@ Recently, India’s resolution on the **‘‘Promoting Sustainable Lifestyles f
 
 **Key Elements of Wise Use**
 
-**1. Maintaining Ecological Character - Conservation of hydrology, biodiversity, water quality, and ecosystem services.** Eg - Preventing encroachment and regulating land-use.
+1. **Maintaining Ecological Character - Conservation of hydrology, biodiversity, water quality, and ecosystem services.** Eg - Preventing encroachment and regulating land-use.
 
-**2. Integrated Management Approach -** Eg - Wetland Management Committees under **Wetlands (Conservation and Management) Rules, 2017.**
+2. **Integrated Management Approach -** Eg - Wetland Management Committees under **Wetlands (Conservation and Management) Rules, 2017.**
 
-**3. Avoiding Degradation - Ensuring human activities do not cause pollution, over-extraction, or habitat loss.** Eg - Restricting construction and waste discharge around wetlands.
+3. **Avoiding Degradation - Ensuring human activities do not cause pollution, over-extraction, or habitat loss.** Eg - Restricting construction and waste discharge around wetlands.
 
-**4. Sustainable Livelihoods - Supporting communities dependent on wetlands while ensuring ecological health.** Eg - regulated fisheries in Ramsar sites.
+4. **Sustainable Livelihoods - Supporting communities dependent on wetlands while ensuring ecological health.** Eg - regulated fisheries in Ramsar sites.
 
 **Examples of Ramsar Sites in India**
 
 **India has 94 Ramsar Sites (highest in Tamil Nadu)**
 
-**1. Keoladeo National Park (Rajasthan)**
+1. **Keoladeo National Park (Rajasthan)**
 
 **a. A UNESCO World Heritage Site**
 
 **b. Important for migratory birds like Siberian cranes; supports floodwater-based wetland ecology.**
 
-**2. Chilika Lake (Odisha)**
+2. **Chilika Lake (Odisha)**
 
 **a. Asia’s largest brackish water lagoon**
 
@@ -4797,19 +4797,19 @@ Wetlands are **critical natural infrastructure** and the Ramsar principle of **w
 
 **Biodiversity in India**
 
-**1. Biogeographic Diversity - Presence of 10 distinct biogeographic zones based on climate, relief and ecology.**
+1. **Biogeographic Diversity - Presence of 10 distinct biogeographic zones based on climate, relief and ecology.**
 
-**2. Climatic Gradient - Biodiversity increases from arid → tropical → alpine climates.**
+2. **Climatic Gradient - Biodiversity increases from arid → tropical → alpine climates.**
 
 <p align="center"><img src="images/civilsdaily_p81_img108.png" alt="Diagram" /></p>
 
-**3. Ecosystem Diversity -** Eg- **Mangroves of Sundarbans, coral reefs of Lakshadweep, alpine meadows of Himalaya.**
+3. **Ecosystem Diversity -** Eg- **Mangroves of Sundarbans, coral reefs of Lakshadweep, alpine meadows of Himalaya.**
 
-**4. Species Richness - Over 47,000 plant species and 1,00,000+ animal species** (ZSI & BSI estimates).
+4. **Species Richness - Over 47,000 plant species and 1,00,000+ animal species** (ZSI & BSI estimates).
 
-**5. Endemism -** India ranks fifth in reptiles and seventh in amphibians. Eg**Lion-tailed macaque in Western Ghats, Nilgiri tahr in Nilgiris.**
+5. **Endemism -** India ranks fifth in reptiles and seventh in amphibians. Eg**Lion-tailed macaque in Western Ghats, Nilgiri tahr in Nilgiris.**
 
-**6. Biodiversity Hotspots - Four global hotspots lie partly in India due to high endemism and threat levels.**
+6. **Biodiversity Hotspots - Four global hotspots lie partly in India due to high endemism and threat levels.**
 
 **Himalaya, Indo-Burma, Western**
 
@@ -4817,29 +4817,29 @@ Wetlands are **critical natural infrastructure** and the Ramsar principle of **w
 
 **(Nicobar).**
 
-**7. Altitudinal Variation -** Eg- **Tropical sal forests in foothills vs alpine rhododendrons in upper Himalaya.**
+7. **Altitudinal Variation -** Eg- **Tropical sal forests in foothills vs alpine rhododendrons in upper Himalaya.**
 
-  - **Agricultural Diversity:** India’s share of global crop diversity is 44%, compared to the world average of 11% **Biological Diversity Act, 2002 Objectives**
+    - **Agricultural Diversity:** India’s share of global crop diversity is 44%, compared to the world average of 11% **Biological Diversity Act, 2002 Objectives**
 
-  - **Conservation of Biological Diversity**
+    - **Conservation of Biological Diversity**
 
-  - **Sustainable Use of Biological Resources**
+    - **Sustainable Use of Biological Resources**
 
-  - **Benefit Sharing with Local Communities Role of Biological Diversity Act, 2002 in Conservation of Flora and Fauna**
+    - **Benefit Sharing with Local Communities Role of Biological Diversity Act, 2002 in Conservation of Flora and Fauna**
 
-**1. Provides legal Backing to implement Convention on Biological Diversity (CBD).**
+1. **Provides legal Backing to implement Convention on Biological Diversity (CBD).**
 
-**2. Three-Tier Institutional Mechanism - Establishes NBA, SBBs, and BMCs for decentralised biodiversity governance.**
+2. **Three-Tier Institutional Mechanism - Establishes NBA, SBBs, and BMCs for decentralised biodiversity governance.**
 
-**3. Access Regulation to prevent bio-piracy.** Eg- **Foreign companies need NBA approval for bio-resource use.**
+3. **Access Regulation to prevent bio-piracy.** Eg- **Foreign companies need NBA approval for bio-resource use.**
 
-**4. Access and Benefit Sharing (ABS) - Ensures fair and equitable sharing of benefits with local communities.**
+4. **Access and Benefit Sharing (ABS) - Ensures fair and equitable sharing of benefits with local communities.**
 
-**5. Protection of Traditional Knowledge -** Eg- **Kani tribe benefit-sharing from Jeevani drug in Kerala.**
+5. **Protection of Traditional Knowledge -** Eg- **Kani tribe benefit-sharing from Jeevani drug in Kerala.**
 
-**6. People’s Biodiversity Registers (PBRs) by Biodiversity Management Committees - Legal documentation of local flora, fauna and traditional practices.**
+6. **People’s Biodiversity Registers (PBRs) by Biodiversity Management Committees - Legal documentation of local flora, fauna and traditional practices.**
 
-**7. Creation of National, State and Local Biodiversity Funds for conservation activities.**
+7. **Creation of National, State and Local Biodiversity Funds for conservation activities.**
 
 **Challenges in Implementation**
 
@@ -4880,49 +4880,49 @@ Wetlands are **critical natural infrastructure** and the Ramsar principle of **w
 
 1. **Resource availability (food, water, shelter, space)**
 
-**2. Regeneration rate**
+2. **Regeneration rate**
 
-  - **Limiting factors (predators, disease, competition, waste)**
+    - **Limiting factors (predators, disease, competition, waste)**
 
-  - **Crucial abiotic elements (climate, soil, sunlight) Importance of Carrying Capacity for Sustainable Development Planning**
+    - **Crucial abiotic elements (climate, soil, sunlight) Importance of Carrying Capacity for Sustainable Development Planning**
 
-  - **Livelihood Security (SDG-1)** - Maintains sustainable **fisheries, forestry and pastoral systems** without ecological collapse.
+    - **Livelihood Security (SDG-1)** - Maintains sustainable **fisheries, forestry and pastoral systems** without ecological collapse.
 
-  - **Intergenerational Equity** - Safeguards **future resource availability** by preventing current over-extraction.
+    - **Intergenerational Equity** - Safeguards **future resource availability** by preventing current over-extraction.
 
-**3. Preventing Resource Depletion -** Ensures development does not exceed **natural limits,** avoiding overuse of land, water and energy.
+3. **Preventing Resource Depletion -** Ensures development does not exceed **natural limits,** avoiding overuse of land, water and energy.
 
-**4. Guiding Land-Use and Urban Planning -** Eg- Eco-sensitive zones in Western Ghats restrict high-impact activities.
+4. **Guiding Land-Use and Urban Planning -** Eg- Eco-sensitive zones in Western Ghats restrict high-impact activities.
 
-**5. Controlling Pollution Load -** Determines the capacity of **air and water bodies to handle waste -** Helps in deciding pollution limits
+5. **Controlling Pollution Load -** Determines the capacity of **air and water bodies to handle waste -** Helps in deciding pollution limits
 
-**6. Conserving Biodiversity - Prevents ecosystem stress** that threatens species survival and habitat stability. Eg- Limiting visitor numbers in **Kaziranga and Ladakh**
+6. **Conserving Biodiversity - Prevents ecosystem stress** that threatens species survival and habitat stability. Eg- Limiting visitor numbers in **Kaziranga and Ladakh**
 
-**7. Enhancing long-term resilience to climate shocks.** Eg- Strengthening Mangrove carrying capacity helps prevent coastal erosion and storm surge impacts.
+7. **Enhancing long-term resilience to climate shocks.** Eg- Strengthening Mangrove carrying capacity helps prevent coastal erosion and storm surge impacts.
 
-**8. Encourages balanced regional growth without overburdening ecologically fragile regions.** Eglimits on construction and tourism in himalayan states
+8. **Encourages balanced regional growth without overburdening ecologically fragile regions.** Eglimits on construction and tourism in himalayan states
 
-**9. Basis for Sustainable Agriculture -** Helps determine cropping patterns, irrigation intensity, and livestock numbers suitable for the region.
+9. **Basis for Sustainable Agriculture -** Helps determine cropping patterns, irrigation intensity, and livestock numbers suitable for the region.
 
-  - **Policy and Environmental Governance** - Provides a **scientific base for EIAs, zoning and regulatory decisions.**
+    - **Policy and Environmental Governance** - Provides a **scientific base for EIAs, zoning and regulatory decisions.**
 
-  - **Disaster Risk Reduction** - Reduces exposure to **floods, landslides and urban heat islands** caused by ecological overload. Eg- **Joshimath crisis** in Uttarakhand
+    - **Disaster Risk Reduction** - Reduces exposure to **floods, landslides and urban heat islands** caused by ecological overload. Eg- **Joshimath crisis** in Uttarakhand
 
-  - **Population Regulation** - Provides a scientific basis for **setting population targets** aligned with resource limits.
+    - **Population Regulation** - Provides a scientific basis for **setting population targets** aligned with resource limits.
 
 **Way Forward**
 
-**1. Natural Capital Accounting** in Economic Policy to recognise ecosystem services as economic assets.
+1. **Natural Capital Accounting** in Economic Policy to recognise ecosystem services as economic assets.
 
-**2. Nature-Based Infrastructure Development - Eg-** Wetland restoration for flood control and mangrove buffers for coastal protection.
+2. **Nature-Based Infrastructure Development - Eg-** Wetland restoration for flood control and mangrove buffers for coastal protection.
 
-**3. Urban Green Infrastructure Expansion - Eg- Urban forests and restored lakes for flood moderation and heat mitigation. (Miyawaki Method)**
+3. **Urban Green Infrastructure Expansion - Eg- Urban forests and restored lakes for flood moderation and heat mitigation. (Miyawaki Method)**
 
-**4. Payment for Ecosystem Services (PES) -** Direct financial rewards to farmers and communities conserving ecological services.
+4. **Payment for Ecosystem Services (PES) -** Direct financial rewards to farmers and communities conserving ecological services.
 
-**5. Channelising corporate funds into habitat restoration and sustainable supply chains.**
+5. **Channelising corporate funds into habitat restoration and sustainable supply chains.**
 
-**6. Circular Economy Anchored in Biodiversity Regeneration - Eg-** Organic textiles, biodegradable packaging and nature-based construction materials.
+6. **Circular Economy Anchored in Biodiversity Regeneration - Eg-** Organic textiles, biodegradable packaging and nature-based construction materials.
 
 **Carrying capacity acts as the ecological boundary for growth,** ensuring **sustainable and**
 
@@ -4991,57 +4991,57 @@ As per **Ramsar Convention,** wetlands are defined as “areas of marsh, fen, pe
 
 4. In **India,** the area under Ramsar sites cover around 8% of 15.98 million ha wetlands **National Wetland Conservation Programme (NWCP)**
 
-**1. Initiated in 1985-86** for **Conservation, restoration and sustainable management** of wetlands to maintain ecological character and ecosystem services.
+1. **Initiated in 1985-86** for **Conservation, restoration and sustainable management** of wetlands to maintain ecological character and ecosystem services.
 
-**2. Implemented through MoEFCC** and **State Wetland Authorities,**
+2. **Implemented through MoEFCC** and **State Wetland Authorities,**
 
 **3.** It is **merged with the National Lake conservation program under NPCA (2013).**
 
 **Achievements of NWCA**
 
-**1. Ramsar Site Expansion -** India increased Ramsar sites to 94 wetlands (2025) with NWCP support.
+1. **Ramsar Site Expansion -** India increased Ramsar sites to 94 wetlands (2025) with NWCP support.
 
-**2. Restoration Initiatives - Supported desiltation, sewage diversion and habitat improvement in degraded wetlands.** Eg- Ecological restoration of **Chilika Lake.**
+2. **Restoration Initiatives - Supported desiltation, sewage diversion and habitat improvement in degraded wetlands.** Eg- Ecological restoration of **Chilika Lake.**
 
-  - **Financial Support: Central funding** to states for priority wetlands has led to tangible improvements.
+    - **Financial Support: Central funding** to states for priority wetlands has led to tangible improvements.
 
 **Eg: Loktak Lake (Manipur)** saw reduced weed infestation
 
 **4.** Led to creation of **Wetlands Rules, 2017 for legal protection.**
 
-**5. Enabled formation of State Wetland Authorities and Management Plans.**
+5. **Enabled formation of State Wetland Authorities and Management Plans.**
 
-**6. Awareness Generation** and **Community Engagement -** Eg- Initiatives like **Wetland Mitras.**
+6. **Awareness Generation** and **Community Engagement -** Eg- Initiatives like **Wetland Mitras.**
 
-**7. Integrated Management - Promoted catchment and water management approaches for ecological restoration.**
+7. **Integrated Management - Promoted catchment and water management approaches for ecological restoration.**
 
 **Limitations of National Wetland Conservation Programme**
 
-**1. Inadequate Funding restricted large-scale wetland rejuvenation.**
+1. **Inadequate Funding restricted large-scale wetland rejuvenation.**
 
-**2. Encroachment and pollution continue. Eg-** Chennai has lost 85% of its wetlands. (WWF)
+2. **Encroachment and pollution continue. Eg-** Chennai has lost 85% of its wetlands. (WWF)
 
-**3. Poor Inter-Agency Coordination -** Multiplicity of urban, irrigation and forest agencies.
+3. **Poor Inter-Agency Coordination -** Multiplicity of urban, irrigation and forest agencies.
 
-  - **Private Ownership Barrier** - Eg- **55% of India’s 24.24 lakh water bodies** are privately owned as per the **2022-23 Water Body Census.**
+    - **Private Ownership Barrier** - Eg- **55% of India’s 24.24 lakh water bodies** are privately owned as per the **2022-23 Water Body Census.**
 
-  - **Land Use Conversion** for **housing, infrastructure and agriculture.** Eg- India has lost nearly **30% of its wetlands in 3 decades** due to urbanisation, pollution and farming.
+    - **Land Use Conversion** for **housing, infrastructure and agriculture.** Eg- India has lost nearly **30% of its wetlands in 3 decades** due to urbanisation, pollution and farming.
 
-  - **Invasive Species Proliferation** disrupts **native biodiversity and oxygen balance.** Eg- **Water hyacinth (Eichhornia crassipes)** chokes lakes and ponds across India.
+    - **Invasive Species Proliferation** disrupts **native biodiversity and oxygen balance.** Eg- **Water hyacinth (Eichhornia crassipes)** chokes lakes and ponds across India.
 
-  - **Climate Change-Induced Hydrological Stress** - Changing rainfall and sea-level rise disturb **wetland hydrology.** Eg- **Sundarbans** faces salinity intrusion
+    - **Climate Change-Induced Hydrological Stress** - Changing rainfall and sea-level rise disturb **wetland hydrology.** Eg- **Sundarbans** faces salinity intrusion
 
-  - **Policy Blind Spots** - Wetlands excluded from **urban master plans and infrastructure planning.**
+    - **Policy Blind Spots** - Wetlands excluded from **urban master plans and infrastructure planning.**
 
 **India’s Wetlands of International Importance (Ramsar Sites)**
 
-**1. Chilika Lake (Odisha) - Asia’s largest brackish water lagoon and Irrawaddy dolphin habitat.**
+1. **Chilika Lake (Odisha) - Asia’s largest brackish water lagoon and Irrawaddy dolphin habitat.**
 
-**2. Keoladeo National Park (Rajasthan) - Globally important migratory bird wetland.**
+2. **Keoladeo National Park (Rajasthan) - Globally important migratory bird wetland.**
 
-**3. Loktak Lake (Manipur) - World’s only lake with floating phumdis.**
+3. **Loktak Lake (Manipur) - World’s only lake with floating phumdis.**
 
-**4. Wular Lake (Jammu & Kashmir) - One of India’s largest freshwater lakes.**
+4. **Wular Lake (Jammu & Kashmir) - One of India’s largest freshwater lakes.**
 
 Wetlands are **critical natural infrastructure** and key in realising **SDG 6 (Clean Water and Sanitation), SDG 13**
 
@@ -5072,15 +5072,15 @@ Wetlands are **critical natural infrastructure** and key in realising **SDG 6 (C
 
 **Role of Environmental NGOs and Activists in Influencing EIA Outcomes in India**
 
-**1. Public Awareness & Mobilisation -** Eg- Mobilising affected communities against environmentally destructive projects.
+1. **Public Awareness & Mobilisation -** Eg- Mobilising affected communities against environmentally destructive projects.
 
-**2. Scientific Scrutiny of EIAs** through Independent environmental audits and counter-environment reports. Eg- **Greenpeace India** exposed **false forest and coastal data** in the **POSCO Odisha steel project**
+2. **Scientific Scrutiny of EIAs** through Independent environmental audits and counter-environment reports. Eg- **Greenpeace India** exposed **false forest and coastal data** in the **POSCO Odisha steel project**
 
-**3. Legal Intervention** through PILs, NGT. Eg- Eg- **Vellore Citizens’ Welfare Forum** led to judicial incorporation of **Precautionary Principle and Polluter Pays Principle**
+3. **Legal Intervention** through PILs, NGT. Eg- Eg- **Vellore Citizens’ Welfare Forum** led to judicial incorporation of **Precautionary Principle and Polluter Pays Principle**
 
-**4. Strengthening Public Consultation -** Ensure genuine Gram Sabha consent.
+4. **Strengthening Public Consultation -** Ensure genuine Gram Sabha consent.
 
-**5. Policy-Level Influence -** Shape national **environmental jurisprudence and regulatory reforms.**
+5. **Policy-Level Influence -** Shape national **environmental jurisprudence and regulatory reforms.**
 
 **Negative Role**
 
@@ -5094,13 +5094,13 @@ Wetlands are **critical natural infrastructure** and key in realising **SDG 6 (C
 
 **Four Major Examples with Important Details**
 
-**1. Save Western Ghats Movement (Across six states) -** Influenced **Western Ghats Ecology Expert Panel (WGEEP)** recommendations restricting industries in **eco-sensitive zones.**
+1. **Save Western Ghats Movement (Across six states) -** Influenced **Western Ghats Ecology Expert Panel (WGEEP)** recommendations restricting industries in **eco-sensitive zones.**
 
-**2. Vedanta-Niyamgiri Bauxite Mining Case (Odisha) - SC (2013)** ordered **Gram Sabha consultations,** all Gram Sabhas rejected mining → project cancelled.
+2. **Vedanta-Niyamgiri Bauxite Mining Case (Odisha) - SC (2013)** ordered **Gram Sabha consultations,** all Gram Sabhas rejected mining → project cancelled.
 
-**3. Sterlite Copper Plant - Thoothukudi, Tamil Nadu - Tamil Nadu Government closed the plant (2018);** NGT upheld closure citing environmental non-compliance.
+3. **Sterlite Copper Plant - Thoothukudi, Tamil Nadu - Tamil Nadu Government closed the plant (2018);** NGT upheld closure citing environmental non-compliance.
 
-**4. POSCO Steel Project, Odisha - Forest clearance withdrawn,** project **cancelled in 2017** NGOs and activists remain **India’s ecological watchdogs,** ensuring that EIAs evolve from clearance tools into genuine **instruments of environmental justice and sustainability.**
+4. **POSCO Steel Project, Odisha - Forest clearance withdrawn,** project **cancelled in 2017** NGOs and activists remain **India’s ecological watchdogs,** ensuring that EIAs evolve from clearance tools into genuine **instruments of environmental justice and sustainability.**
 
 [Question ID: 2024-gs3-q75-civilsdaily]
 
@@ -5119,29 +5119,29 @@ According to a **CSIR-NGRI study,** north India has been experiencing rapid grou
 
 **Factors Responsible for Depleting Groundwater in India**
 
-**1. Agriculture** consumes **87%** of groundwater extraction. **-** Eg - **Punjab and Haryana** show groundwater extraction rates above **150% of recharge.**
+1. **Agriculture** consumes **87%** of groundwater extraction. **-** Eg - **Punjab and Haryana** show groundwater extraction rates above **150% of recharge.**
 
 <p align="center"><img src="images/civilsdaily_p87_img113.png" alt="Diagram" /></p>
 
-  - **Fertilizer and Pesticide Runoff** from agriculture - **56% of India's districts have nitrates beyond the safe limit of 45 mg/L** in their groundwater.
+    - **Fertilizer and Pesticide Runoff** from agriculture - **56% of India's districts have nitrates beyond the safe limit of 45 mg/L** in their groundwater.
 
-**3. Energy Subsidies encouraging excess pumping and inefficient irrigation.** Eg- in Punjab and Haryana
+3. **Energy Subsidies encouraging excess pumping and inefficient irrigation.** Eg- in Punjab and Haryana
 
-**4. Unplanned urbanisation - Concrete surfaces prevent percolation and increase run-off.** Eg - **Chennai** has lost 85% **of its wetlands (WWF)**
+4. **Unplanned urbanisation - Concrete surfaces prevent percolation and increase run-off.** Eg - **Chennai** has lost 85% **of its wetlands (WWF)**
 
-  - **Population Growth -** Between 2016 and 2023, India’s population increased from **1.29 billion to 1.45 billion - increase demand**
+    - **Population Growth -** Between 2016 and 2023, India’s population increased from **1.29 billion to 1.45 billion - increase demand**
 
-**6. Climate change and erratic monsoons** reduce natural recharge of aquifers. **IMD** data shows a 10% long-term decline in monsoon rainfall in northwest India.
+6. **Climate change and erratic monsoons** reduce natural recharge of aquifers. **IMD** data shows a 10% long-term decline in monsoon rainfall in northwest India.
 
-**7. Poor water governance (Mihir Shah Committee report) -** Eg - **CGWB reports** show over-exploited blocks increasing from 802 (2004) to >1,000 (2023).
+7. **Poor water governance (Mihir Shah Committee report) -** Eg - **CGWB reports** show over-exploited blocks increasing from 802 (2004) to >1,000 (2023).
 
-  - **Outdated legal framework** - Eg- colonial-era Indian **Easements Act of 1882** grants landowners the **natural right** to extract unlimited groundwater beneath their property.
+    - **Outdated legal framework** - Eg- colonial-era Indian **Easements Act of 1882** grants landowners the **natural right** to extract unlimited groundwater beneath their property.
 
-  - **Unregulated industrial discharges** and untreated urban **wastewater - Eg- chromium and mercury** contamination in **Kanpur's industrial areas**
+    - **Unregulated industrial discharges** and untreated urban **wastewater - Eg- chromium and mercury** contamination in **Kanpur's industrial areas**
 
-  - **Unsustainable Mining Activities** lead to heavy metal contamination and aquifer depletion. EgUranium and fluoride seepage in Rajasthan and Karnataka
+    - **Unsustainable Mining Activities** lead to heavy metal contamination and aquifer depletion. EgUranium and fluoride seepage in Rajasthan and Karnataka
 
-  - **Saline water intrusion** into coastal aquifers due to over-pumping and rising sea levels.
+    - **Saline water intrusion** into coastal aquifers due to over-pumping and rising sea levels.
 
 **Steps taken by the**
 
@@ -5167,23 +5167,23 @@ According to a **CSIR-NGRI study,** north India has been experiencing rapid grou
 
 **Way Forward**
 
-**1. Demand-Side Management - Use financial incentives to promote efficient water use.** Eg **Punjab’s Paani Bachao, Paisa Kamao**
+1. **Demand-Side Management - Use financial incentives to promote efficient water use.** Eg **Punjab’s Paani Bachao, Paisa Kamao**
 
-**2. Supply-Side Augmentation by combining traditional and modern methods.**
+2. **Supply-Side Augmentation by combining traditional and modern methods.**
 
-  - **RWH mandatory** under Model Building Bye Laws 2016
+    - **RWH mandatory** under Model Building Bye Laws 2016
 
-  - **Khadins, check dams, percolation tanks, injection wells.**
+    - **Khadins, check dams, percolation tanks, injection wells.**
 
-**3. Integrated Water Management - Strengthen community-led, data-driven groundwater governance.**
+3. **Integrated Water Management - Strengthen community-led, data-driven groundwater governance.**
 
-  - Use of **technology** - Eg- **Biochar for Aquifer Recharge**
+    - Use of **technology** - Eg- **Biochar for Aquifer Recharge**
 
-**5. Adopting global best practices**
+5. **Adopting global best practices**
 
-  - Tokyo's Industrial Water Law and Building Water Law
+    - Tokyo's Industrial Water Law and Building Water Law
 
-  - China's irrigation quotas Adopting **One Water Approach** through **National Water Commission (NWC)** is essential to achieve a **water-secure economy.**
+    - China's irrigation quotas Adopting **One Water Approach** through **National Water Commission (NWC)** is essential to achieve a **water-secure economy.**
 
 **Pollution**
 
@@ -5204,45 +5204,45 @@ According to a report by **TERI,** India generates **62 million tonnes (MT) of w
 
 **Impediments in Disposing Huge Quantities of Solid Waste**
 
-**1. Rapid Urbanisation - Cities generate waste faster than civic bodies can manage.** Eg - Cities produce **160,000+ tonnes/day** of solid waste.
+1. **Rapid Urbanisation - Cities generate waste faster than civic bodies can manage.** Eg - Cities produce **160,000+ tonnes/day** of solid waste.
 
-**2. Inadequate Segregation at Source - makes recycling and composting inefficient.**
+2. **Inadequate Segregation at Source - makes recycling and composting inefficient.**
 
-**3. Limited Treatment & Processing Capacity -** Only 50% of the waste produced is actually processed in India. (CPCB)
+3. **Limited Treatment & Processing Capacity -** Only 50% of the waste produced is actually processed in India. (CPCB)
 
-**4. Dumping in Landfills -** Eg - Ghazipur and Deonar operate beyond capacity.
+4. **Dumping in Landfills -** Eg - Ghazipur and Deonar operate beyond capacity.
 
-**5. Dominance of Informal Sector -** Eg- 80% of plastic collection relies on the informal sector - lack safety mechanisms
+5. **Dominance of Informal Sector -** Eg- 80% of plastic collection relies on the informal sector - lack safety mechanisms
 
-**6. Poor compliance with Solid Waste Management Rules, 2016.** Eg - Many ULBs still rely on open dumping.
+6. **Poor compliance with Solid Waste Management Rules, 2016.** Eg - Many ULBs still rely on open dumping.
 
-**7. Lack of data transparency -** Eg- according to the official estimates, plastic waste generation rate in India is 0.12 kg/capita/day, while as per ‘Nature’ , it is 0.54 kg/capita/day.
+7. **Lack of data transparency -** Eg- according to the official estimates, plastic waste generation rate in India is 0.12 kg/capita/day, while as per ‘Nature’ , it is 0.54 kg/capita/day.
 
-  - **Limited capacity of ULB’s** - Lack 3Fs and functional overlap with parastatal bodies
+    - **Limited capacity of ULB’s** - Lack 3Fs and functional overlap with parastatal bodies
 
-  - **Inadequate Infrastructure** for waste collection, segregation, transportation, processing, and disposal.
+    - **Inadequate Infrastructure** for waste collection, segregation, transportation, processing, and disposal.
 
-  - **Lack of Interagency co-ordination** - Eg- MoEFCC develop rules and guidelines while the Ministry of Housing and Urban Affairs oversees ground-level enforcement **Safe Removal of Toxic Wastes from the Environment**
+    - **Lack of Interagency co-ordination** - Eg- MoEFCC develop rules and guidelines while the Ministry of Housing and Urban Affairs oversees ground-level enforcement **Safe Removal of Toxic Wastes from the Environment**
 
-  - Strengthening **Solid Waste Management Rules**
+    - Strengthening **Solid Waste Management Rules**
 
-  - **Technology adoption** - Eg - Biomedical waste treated using controlled incinerators.
+    - **Technology adoption** - Eg - Biomedical waste treated using controlled incinerators.
 
 <p align="center"><img src="images/civilsdaily_p89_img115.png" alt="Diagram" /></p>
 
-  - **Smart Waste Management System** using AI, IoT. Eg- RFID-enabled door-to-door waste collection monitoring
+    - **Smart Waste Management System** using AI, IoT. Eg- RFID-enabled door-to-door waste collection monitoring
 
-  - Promoting **circular economy** based on **6R** principle - Refuse, Rethink, Reduce, Reuse, Repair, and Recycle
+    - Promoting **circular economy** based on **6R** principle - Refuse, Rethink, Reduce, Reuse, Repair, and Recycle
 
-  - Promoting **Composting, vermicomposting and bio-methanation** for treating organic waste.
+    - Promoting **Composting, vermicomposting and bio-methanation** for treating organic waste.
 
-  - **Enhanced Public-Private Partnerships** - Eg- contractual arrangement with the private sector for setting up compost plants.
+    - **Enhanced Public-Private Partnerships** - Eg- contractual arrangement with the private sector for setting up compost plants.
 
-  - **Decentralised Waste Processing -** Eg- Micro-Composting Centres (MCC) with 5 TPD capacity for wet waste.
+    - **Decentralised Waste Processing -** Eg- Micro-Composting Centres (MCC) with 5 TPD capacity for wet waste.
 
-  - Adopting **Waste Hierarchy principle**
+    - Adopting **Waste Hierarchy principle**
 
-  - Strict implementation of **‘Polluter Pays Principle‘,** to penalize non-compliance and shift towards **‘Government Pays Principle’** Efficient waste management is not just a regulatory obligation but a constitutional imperative to safeguard the fundamental rights of citizens.
+    - Strict implementation of **‘Polluter Pays Principle‘,** to penalize non-compliance and shift towards **‘Government Pays Principle’** Efficient waste management is not just a regulatory obligation but a constitutional imperative to safeguard the fundamental rights of citizens.
 
 [Question ID: 2018-gs3-q77-civilsdaily]
 
@@ -5265,53 +5265,53 @@ According to a report by **TERI,** India generates **62 million tonnes (MT) of w
 
 **Environmental Impacts**
 
-**1. Accelerated Coastal Erosion - Removal of sand weakens natural barriers, causing shoreline retreat.** Eg - **Alappuzha (Kerala).**
+1. **Accelerated Coastal Erosion - Removal of sand weakens natural barriers, causing shoreline retreat.** Eg - **Alappuzha (Kerala).**
 
-**2. Habitat Destruction - Disturbs nesting sites and coastal biodiversity.** Eg - Degradation of **Olive Ridley turtle** nesting beaches in Odisha.
+2. **Habitat Destruction - Disturbs nesting sites and coastal biodiversity.** Eg - Degradation of **Olive Ridley turtle** nesting beaches in Odisha.
 
-**3. Saline Intrusion & Groundwater Contamination -** Eg - **Tuticorin (Tamil Nadu)** recorded rising salinity in wells.
+3. **Saline Intrusion & Groundwater Contamination -** Eg - **Tuticorin (Tamil Nadu)** recorded rising salinity in wells.
 
-**4. Loss of Mangroves - Destabilised soil and altered hydrology harm protective ecosystems.** Eg Vegetation thinning in parts of the **Sunderbans.**
+4. **Loss of Mangroves - Destabilised soil and altered hydrology harm protective ecosystems.** Eg Vegetation thinning in parts of the **Sunderbans.**
 
 **Economic Impacts**
 
-**1. Damage to Infrastructure - Roads, bridges and coastal installations become unstable due to subsidence.** Eg - Road collapse incidents in **Uttar Kannada (Karnataka).**
+1. **Damage to Infrastructure - Roads, bridges and coastal installations become unstable due to subsidence.** Eg - Road collapse incidents in **Uttar Kannada (Karnataka).**
 
-**2. Decline in Tourism Revenue - Eroded and degraded beaches reduce tourist inflow.**
+2. **Decline in Tourism Revenue - Eroded and degraded beaches reduce tourist inflow.**
 
-**3. Livelihood Loss for Fishing Communities - Altered seabed and turbidity reduce fish catch and destroy spawning grounds.**
+3. **Livelihood Loss for Fishing Communities - Altered seabed and turbidity reduce fish catch and destroy spawning grounds.**
 
 **Social Impacts**
 
-**1. Disaster induced displacement of coastal communities** due to increased vulnerability
+1. **Disaster induced displacement of coastal communities** due to increased vulnerability
 
-**2. Health Risks from Contaminated Water - Saline intrusion affects drinking water quality.**
+2. **Health Risks from Contaminated Water - Saline intrusion affects drinking water quality.**
 
-  - Increased **flooding and sedimentation in rivers** and coastal areas due to depletion of sand from river beds **Political & Governance Impacts**
+    - Increased **flooding and sedimentation in rivers** and coastal areas due to depletion of sand from river beds **Political & Governance Impacts**
 
-**1. Rise of Illegal Sand Mining Networks - Criminalisation of mining fuels corruption.** Eg - Sand mafias in **Tamil Nadu, Andhra Pradesh.**
+1. **Rise of Illegal Sand Mining Networks - Criminalisation of mining fuels corruption.** Eg - Sand mafias in **Tamil Nadu, Andhra Pradesh.**
 
-**2. Threats to Officials - Violent attacks on officers during enforcement drives.**
+2. **Threats to Officials - Violent attacks on officers during enforcement drives.**
 
 **Way Forward**
 
-**1. Strengthen Regulatory Enforcement**
+1. **Strengthen Regulatory Enforcement**
 
-  - Tighten monitoring of CRZ norms
+    - Tighten monitoring of CRZ norms
 
-  - GPS-tracked transport permits
+    - GPS-tracked transport permits
 
-  - Eg - Kerala’s drone-based monitoring model.
+    - Eg - Kerala’s drone-based monitoring model.
 
-**2. Promote Sustainable Alternatives - Eg- M-sand**
+2. **Promote Sustainable Alternatives - Eg- M-sand**
 
-**3. Community-Based Coastal Stewardship-** Eg - Odisha’s community patrolling linked to turtle conservation.
+3. **Community-Based Coastal Stewardship-** Eg - Odisha’s community patrolling linked to turtle conservation.
 
-**4. Ecological Restoration of Mined Coasts-** Eg - Puducherry’s **beach nourishment project.**
+4. **Ecological Restoration of Mined Coasts-** Eg - Puducherry’s **beach nourishment project.**
 
-**5. Improve Inter-State Coordination -** joint task forces to curb cross-border sand smuggling.
+5. **Improve Inter-State Coordination -** joint task forces to curb cross-border sand smuggling.
 
-**6. Integrate Sediment Budgeting in Coastal Planning** to ensure river-to-coast sediment flow is maintained.
+6. **Integrate Sediment Budgeting in Coastal Planning** to ensure river-to-coast sediment flow is maintained.
 
 Ensuring **sustainable extraction** is essential to balance developmental needs with long-term coastal resilience
 
@@ -5330,31 +5330,31 @@ Ensuring **sustainable extraction** is essential to balance developmental needs 
 
 **Concerns Associated with Seawater Intrusion**
 
-**1. Loss of Potable Water -** Eg - **Chennai, Digha and Saurashtra** face declining freshwater availability.
+1. **Loss of Potable Water -** Eg - **Chennai, Digha and Saurashtra** face declining freshwater availability.
 
-**2. Saline irrigation water damages soils and reduces crop yields.**
+2. **Saline irrigation water damages soils and reduces crop yields.**
 
-**3. Alters wetland hydrology and harms mangroves and estuaries.** Eg - in **Sundarbans.**
+3. **Alters wetland hydrology and harms mangroves and estuaries.** Eg - in **Sundarbans.**
 
-**4. Raises economic burden on households and municipalities.** Eg - **Chennai’s tanker dependence** during summer months.
+4. **Raises economic burden on households and municipalities.** Eg - **Chennai’s tanker dependence** during summer months.
 
 **Causes of Seawater Intrusion**
 
-**1. Excessive Groundwater Extraction - Over-pumping** near coasts lowers freshwater pressure, drawing seawater inland.
+1. **Excessive Groundwater Extraction - Over-pumping** near coasts lowers freshwater pressure, drawing seawater inland.
 
-**2. Urbanisation -** Concretisation and wetland loss **reduce aquifer replenishment. Eg-** Chennai has lost 85% of its wetlands. (WWF)
+2. **Urbanisation -** Concretisation and wetland loss **reduce aquifer replenishment. Eg-** Chennai has lost 85% of its wetlands. (WWF)
 
-**3. Sea-Level Rise due to Climate Change -** Eg- global mean sea level rose by 0.20 m between 1901 and 2018. (IPCC)
+3. **Sea-Level Rise due to Climate Change -** Eg- global mean sea level rose by 0.20 m between 1901 and 2018. (IPCC)
 
-**4. Sand Mining & Shoreline Alteration - weakens natural coastal barriers.**
+4. **Sand Mining & Shoreline Alteration - weakens natural coastal barriers.**
 
-**5. Cyclones, and storm surges** lead to seawater infiltration in shallow aquifers.
+5. **Cyclones, and storm surges** lead to seawater infiltration in shallow aquifers.
 
-  - Coastal areas with **sandy soils, porous rocks, or low-lying physiographic depressions** allow rapid seawater percolation.
+    - Coastal areas with **sandy soils, porous rocks, or low-lying physiographic depressions** allow rapid seawater percolation.
 
 **7.** Absence of systematic **groundwater management and poor infrastructure** regarding artificial recharge
 
-  - **Dams and upstream diversions** reduce the freshwater outflow that naturally counters seawater intrusion. Eg - **Narmada estuary** showing increased salinity.
+    - **Dams and upstream diversions** reduce the freshwater outflow that naturally counters seawater intrusion. Eg - **Narmada estuary** showing increased salinity.
 
 **Extent of Seawater Intrusion in Key Indian States**
 
@@ -5611,27 +5611,27 @@ As per **CPCB report on "Polluted River Stretches for Restoration of Water Quali
 
 3. **Faecal coliform in Ganga exceeds safe limits by up to 150 times**
 
-**4. Marine Ecology -** Eg- Eutrophication, algal blooms, and dead zones
+4. **Marine Ecology -** Eg- Eutrophication, algal blooms, and dead zones
 
-  - **Marine Biodiversity -** Eg- Bioaccumulation in Fish
+    - **Marine Biodiversity -** Eg- Bioaccumulation in Fish
 
-  - **Water crisis** - Eg- **600 million Indians experience water scarcity. (NITI Aayog) Mitigation Measures**
+    - **Water crisis** - Eg- **600 million Indians experience water scarcity. (NITI Aayog) Mitigation Measures**
 
-  - **On-site Effluent Treatment plants** for **textile and tannery clusters** to treat wastewater before discharge
+    - **On-site Effluent Treatment plants** for **textile and tannery clusters** to treat wastewater before discharge
 
-  - **Zero Liquid Discharge (ZLD) technologies.** EgMandatory in **Tamil Nadu textile units.**
+    - **Zero Liquid Discharge (ZLD) technologies.** EgMandatory in **Tamil Nadu textile units.**
 
-  - Install **real-time effluent monitoring sensors** in industries for instant alerts to CPCB/SPCBs.
+    - Install **real-time effluent monitoring sensors** in industries for instant alerts to CPCB/SPCBs.
 
-  - **Cleaner Production Technologies** - Eg- Green dyeing technologies in Surat textile units.
+    - **Cleaner Production Technologies** - Eg- Green dyeing technologies in Surat textile units.
 
-  - **Polluter-Pays principles** - Eg- NGT orders on **Yamuna and Musi** industries.
+    - **Polluter-Pays principles** - Eg- NGT orders on **Yamuna and Musi** industries.
 
-  - **Industrial Zoning** to restrict polluting industries near rivers. Eg- Ganga floodplain conservation zones.
+    - **Industrial Zoning** to restrict polluting industries near rivers. Eg- Ganga floodplain conservation zones.
 
-  - Create **riparian vegetative buffers** to filter runoff. Eg- Ganga floodplain conservation zones.
+    - Create **riparian vegetative buffers** to filter runoff. Eg- Ganga floodplain conservation zones.
 
-  - **Strengthen Monitoring & Surveillance** - Use **drones, GIS, river basin audits** and citizen reporting tools.
+    - **Strengthen Monitoring & Surveillance** - Use **drones, GIS, river basin audits** and citizen reporting tools.
 
 **Government Initiatives**
 
@@ -5715,11 +5715,11 @@ The **MoEFCC** launched NCAP in 2019 with the objective of **improving air quali
 
 **Key Features of NCAP**
 
-**1. Multi-sectoral initiative** involving the coordinated efforts of the Central and State Governments, Urban Local Bodies (ULBs)
+1. **Multi-sectoral initiative** involving the coordinated efforts of the Central and State Governments, Urban Local Bodies (ULBs)
 
-**2. Objectives**
+2. **Objectives**
 
-  - Achieve up to a 40% reduction in PM10 levels or to meet national standards (60 µg/m³) by
+    - Achieve up to a 40% reduction in PM10 levels or to meet national standards (60 µg/m³) by
 
 [Question ID: 2020-gs3-q85-civilsdaily]
 
@@ -5728,7 +5728,7 @@ The **MoEFCC** launched NCAP in 2019 with the objective of **improving air quali
 ## Question 86 (Year: 2025 | Paper: GS III)
 **Question ID: 2025-gs3-q86-civilsdaily**
 
-**26. [Year: 2025]**
+26. **[Year: 2025]**
 
 ### Answer
 
@@ -5736,17 +5736,17 @@ The **MoEFCC** launched NCAP in 2019 with the objective of **improving air quali
 
   - An annual target of 15% improvement in Good Days (Air Quality Index <200) has been prescribed for 49 Million Plus cities/Urban Agglomerations.
 
-**3. Funding Convergence** - Mobilises resources from **Central schemes (SBM-Urban, AMRUT), State/UT budgets and municipal bodies** to finance City Action Plans
+3. **Funding Convergence** - Mobilises resources from **Central schemes (SBM-Urban, AMRUT), State/UT budgets and municipal bodies** to finance City Action Plans
 
-  - **City-Specific Clean Air Action Plans (CAAPs)** targeting **transport, industries, road dust, waste burning, and construction** sources.
+    - **City-Specific Clean Air Action Plans (CAAPs)** targeting **transport, industries, road dust, waste burning, and construction** sources.
 
-  - Expansion of **CAAQMS, manual stations, and low-cost sensors** for strengthening Air Quality Monitoring
+    - Expansion of **CAAQMS, manual stations, and low-cost sensors** for strengthening Air Quality Monitoring
 
-  - **Source Apportionment studies** to list and quantify the significant sources of pollution in a city
+    - **Source Apportionment studies** to list and quantify the significant sources of pollution in a city
 
-  - **Performance-Based Funding** - Annual city rankings under **Swachh Vayu Survekshan Significance of NCAP**
+    - **Performance-Based Funding** - Annual city rankings under **Swachh Vayu Survekshan Significance of NCAP**
 
-**1. First-ever** effort in the country to **frame a national framework** for air quality management with a **time-bound reduction target.**
+1. **First-ever** effort in the country to **frame a national framework** for air quality management with a **time-bound reduction target.**
 
 **2.** Focus on Non-attainment cities **that have fallen short of the National Ambient Air Quality Standards (NAAQS)**
 
@@ -5813,51 +5813,51 @@ The **26th Conference of the Parties (COP-26)** to the UNFCCC, held in **Glasgow
 
 **Major Outcomes of COP-26**
 
-**1. Recognition of Climate Emergency -** Countries reaffirmed the goal of limiting warming to **1.5°C.**
+1. **Recognition of Climate Emergency -** Countries reaffirmed the goal of limiting warming to **1.5°C.**
 
-**2. Accelerating Climate Action**
+2. **Accelerating Climate Action**
 
-  - Countries acknowledged this as a **critical decade,** requiring **45% CO₂ reduction by 2030** to reach net-zero by mid-century.
+    - Countries acknowledged this as a **critical decade,** requiring **45% CO₂ reduction by 2030** to reach net-zero by mid-century.
 
-  - They agreed to **submit stronger NDCs by 2022,** and an **annual NDC synthesis report.**
+    - They agreed to **submit stronger NDCs by 2022,** and an **annual NDC synthesis report.**
 
 **3.** For the **first time,** parties agreed to **phase down unabated coal** and **phase out inefficient fossil-fuel subsidies,** though language was weakened from “phase-out” to “phase-down.”
 
-**4. Urged immediate fulfilment** of **Climate Finance Commitments** by Developed countries
+4. **Urged immediate fulfilment** of **Climate Finance Commitments** by Developed countries
 
 **5.** Countries agreed to **double adaptation finance** for developing nations and launched a **Global Goal on Adaptation** work programme.
 
-**6. Completing the Paris Rulebook -** Consensus achieved on **Article 6 (carbon markets), Enhanced Transparency Framework,** and **common reporting formats.**
+6. **Completing the Paris Rulebook -** Consensus achieved on **Article 6 (carbon markets), Enhanced Transparency Framework,** and **common reporting formats.**
 
 **7.** Strengthening of the **Santiago Network** for technical assistance and launch of the **Glasgow Dialogue** on funding arrangements for loss and damage.
 
-**8. Major Side Deals & Announcements**
+8. **Major Side Deals & Announcements**
 
-  - **Forests:** 137 countries committed to halt and reverse deforestation by 2030.
+    - **Forests:** 137 countries committed to halt and reverse deforestation by 2030.
 
-  - 103 countries joined the **Global Methane Pledge** to cut emissions by **30% by 2030.**
+    - 103 countries joined the **Global Methane Pledge** to cut emissions by **30% by 2030.**
 
-  - **Zero-Emission Vehicles:** Over 30 countries and major automakers committed to new zero-emission vehicle sales by **2035/2040.**
+    - **Zero-Emission Vehicles:** Over 30 countries and major automakers committed to new zero-emission vehicle sales by **2035/2040.**
 
 **India’s Commitments at COP-26**
 
-**1. Panchamrit - Five Key Climate Targets**
+1. **Panchamrit - Five Key Climate Targets**
 
-  - **500 GW** of non-fossil electricity capacity by **2030**
+    - **500 GW** of non-fossil electricity capacity by **2030**
 
-  - **50%** of energy requirements from renewables by **2030**
+    - **50%** of energy requirements from renewables by **2030**
 
-  - **Reduction of emissions intensity** of GDP by **45%** (from 2005 levels) by **2030**
+    - **Reduction of emissions intensity** of GDP by **45%** (from 2005 levels) by **2030**
 
-  - **1 billion tonnes** reduction in projected carbon emissions by 2030
+    - **1 billion tonnes** reduction in projected carbon emissions by 2030
 
-  - **Net-zero by 2070**
+    - **Net-zero by 2070**
 
 **2.** India, along with the UK, launched the **Green Grids Initiative - One Sun, One World and One Grid mission to connect grids**
 
-**3. Call for Climate Justice & Equity -** India emphasised **Common but Differentiated Responsibilities (CBDR-RC)** and demanded enhanced finance and technology transfer from developed countries.
+3. **Call for Climate Justice & Equity -** India emphasised **Common but Differentiated Responsibilities (CBDR-RC)** and demanded enhanced finance and technology transfer from developed countries.
 
-  - The mantra of **LIFE- Lifestyle for Environment** as a mass movement for Environment Conscious Lifestyles.
+    - The mantra of **LIFE- Lifestyle for Environment** as a mass movement for Environment Conscious Lifestyles.
 
 The summit produced new **“building blocks”** to advance implementation of the Paris Agreement for sustainable, low-carbon pathway forward.
 
@@ -5917,37 +5917,37 @@ The mantra of **LIFE- Lifestyle for Environment** as a mass movement for Environ
 
 **Gap Between Climate Ambition and Implementation**
 
-**1. Overdependence on Fossil Fuels**
+1. **Overdependence on Fossil Fuels**
 
-  - **Fossil fuels still account for ~73%** of electricity generation (CEA, 2023).
+    - **Fossil fuels still account for ~73%** of electricity generation (CEA, 2023).
 
-  - Fossil fuel subsidies are **8x higher** than renewable subsidies
+    - Fossil fuel subsidies are **8x higher** than renewable subsidies
 
-**2. Shortfall in Carbon Sink -** Forest and tree cover 25.1% (SoFR 2023), short of the **33% goal**
+2. **Shortfall in Carbon Sink -** Forest and tree cover 25.1% (SoFR 2023), short of the **33% goal**
 
 **3.** India's emissions intensity target is rated **"Insufficient"** by **Climate Action Tracker** report
 
-**4. Delayed Data Reporting -** India's latest Biennial Update Report (BUR-4) covered **data only up to 2020** and was submitted in **late 2024.**
+4. **Delayed Data Reporting -** India's latest Biennial Update Report (BUR-4) covered **data only up to 2020** and was submitted in **late 2024.**
 
-**5. Delayed Implementation of Net-Zero Roadmap - sector-wise decarbonization** targets are **not clearly defined or enforced.**
+5. **Delayed Implementation of Net-Zero Roadmap - sector-wise decarbonization** targets are **not clearly defined or enforced.**
 
 **Way Forward**
 
 1. **Localized Climate Risk Mapping and Micro-Zonation** using GIS, satellite data, and AI.
 
-**2. Nature-Based Solutions - Eg- mangrove restoration** under **MISHTI**
+2. **Nature-Based Solutions - Eg- mangrove restoration** under **MISHTI**
 
-  - Strengthen the **Green Energy Corridor** for better grid integration of renewables.
+    - Strengthen the **Green Energy Corridor** for better grid integration of renewables.
 
-**4. Promoting Circular Economy Eg-** Enforce mandatory use of **30% recycled material** in construction projects.
+4. **Promoting Circular Economy Eg-** Enforce mandatory use of **30% recycled material** in construction projects.
 
-**5. Climate-Resilient Agriculture**
+5. **Climate-Resilient Agriculture**
 
-  - Scale up **organic** through **Paramparagat Krishi Vikas Yojana (PKVY).**
+    - Scale up **organic** through **Paramparagat Krishi Vikas Yojana (PKVY).**
 
-  - Develop **agroforestry** to improve soil health, reduce emissions.
+    - Develop **agroforestry** to improve soil health, reduce emissions.
 
-**6. Expanding Electric Mobility Ecosystem -** Strengthen **charging infrastructure** across highways and cities (EV-charging at petrol pumps/dhabas).
+6. **Expanding Electric Mobility Ecosystem -** Strengthen **charging infrastructure** across highways and cities (EV-charging at petrol pumps/dhabas).
 
 With climate risks threatening a staggering 24.7 % GDP loss by 2070, resilient development is no longer just an option-it is an economic imperative to achieve the goal of **‘Viksit Bharat’**
 
@@ -5970,47 +5970,47 @@ With climate risks threatening a staggering 24.7 % GDP loss by 2070, resilient d
 
 <p align="center"><img src="images/civilsdaily_p102_img120.png" alt="Diagram" /></p>
 
-**1. Rising Global Temperatures** (1.55°C above pre-industrial levels in 2024) - Increased frequency of **heatwaves, warmer oceans and altered weather patterns.**
+1. **Rising Global Temperatures** (1.55°C above pre-industrial levels in 2024) - Increased frequency of **heatwaves, warmer oceans and altered weather patterns.**
 
-**2. Melting Glaciers & Polar Ice -** Eg Greenland and Antarctic ice sheets losing mass at record rates.
+2. **Melting Glaciers & Polar Ice -** Eg Greenland and Antarctic ice sheets losing mass at record rates.
 
-**3. Sea-Level Rise -** IPCC projects **1.3-1.6 m SLR** by 2100 under high-emission scenarios **Submergence of low-lying coasts, salinity intrusion and displacement.**
+3. **Sea-Level Rise -** IPCC projects **1.3-1.6 m SLR** by 2100 under high-emission scenarios **Submergence of low-lying coasts, salinity intrusion and displacement.**
 
-**4. Extreme Weather Events -** Eg Increasing frequency of Category 4-5 cyclones in the Indian Ocean.
+4. **Extreme Weather Events -** Eg Increasing frequency of Category 4-5 cyclones in the Indian Ocean.
 
-**5. Disruption of Monsoons - Erratic and unpredictable rainfall.**
+5. **Disruption of Monsoons - Erratic and unpredictable rainfall.**
 
-**6. Ocean Acidification - Elevated CO₂ lowers pH, affecting coral reefs and fisheries.** Eg - Mass bleaching events on the **Great Barrier Reef.**
+6. **Ocean Acidification - Elevated CO₂ lowers pH, affecting coral reefs and fisheries.** Eg - Mass bleaching events on the **Great Barrier Reef.**
 
-**7. Biodiversity Decline - Species migration and extinction risks rise.**
+7. **Biodiversity Decline - Species migration and extinction risks rise.**
 
-  - **Intensification of feedback loops** - Eg- Permafrost thaw releases **methane, warming oceans release less CO₂, and forest dieback reduces carbon sinks**
+    - **Intensification of feedback loops** - Eg- Permafrost thaw releases **methane, warming oceans release less CO₂, and forest dieback reduces carbon sinks**
 
-  - **Expansion of arid zones -** Higher temperatures increase evapotranspiration and reduce soil moisture.
+    - **Expansion of arid zones -** Higher temperatures increase evapotranspiration and reduce soil moisture.
 
 Eg - Prolonged droughts in **Horn of Africa**
 
-  - **Disruption of Global Thermohaline Circulation - Eg-** weakening of **Atlantic Meridional Overturning Circulation (AMOC)**
+    - **Disruption of Global Thermohaline Circulation - Eg-** weakening of **Atlantic Meridional Overturning Circulation (AMOC)**
 
-  - Hotter, drier conditions raise **wildfire risks** - Eg - **Australian bushfires (2019-20)** and **California wildfires Control Measures to Reduce GHGs (under Kyoto Protocol, 1997)** The **Kyoto Protocol** was the first legally binding global framework mandating GHG reduction by industrialised nations.
+    - Hotter, drier conditions raise **wildfire risks** - Eg - **Australian bushfires (2019-20)** and **California wildfires Control Measures to Reduce GHGs (under Kyoto Protocol, 1997)** The **Kyoto Protocol** was the first legally binding global framework mandating GHG reduction by industrialised nations.
 
-**1. Binding Emission Reduction Targets -** Annex-I countries committed to reducing emissions by **5% below 1990 levels** during 2008-2012.
+1. **Binding Emission Reduction Targets -** Annex-I countries committed to reducing emissions by **5% below 1990 levels** during 2008-2012.
 
-**2. Clean Development Mechanism (CDM) -** Allows developed countries to invest in emission-reduction projects in developing nations and earn carbon credits.
+2. **Clean Development Mechanism (CDM) -** Allows developed countries to invest in emission-reduction projects in developing nations and earn carbon credits.
 
-**3. Joint Implementation (JI) -** Developed nations can meet their Kyoto targets via emission-reduction projects in other Annex-I countries.
+3. **Joint Implementation (JI) -** Developed nations can meet their Kyoto targets via emission-reduction projects in other Annex-I countries.
 
-**4. International Emissions Trading (IET) -** countries with surplus emission units trade them with those exceeding their limits.
+4. **International Emissions Trading (IET) -** countries with surplus emission units trade them with those exceeding their limits.
 
 **Other Measures**
 
-**1. Enhancing Carbon Sinks** through afforestation, reforestation and improved land management. EgMiyawaki method of Urban Forestry
+1. **Enhancing Carbon Sinks** through afforestation, reforestation and improved land management. EgMiyawaki method of Urban Forestry
 
-**2. Low-Carbon Technologies** to reduce fossil-fuel use. Eg- EVs
+2. **Low-Carbon Technologies** to reduce fossil-fuel use. Eg- EVs
 
-**3. Energy Efficiency -** Efficiency standards, industrial retrofits, transport reforms and building codes reduce GHG intensity.
+3. **Energy Efficiency -** Efficiency standards, industrial retrofits, transport reforms and building codes reduce GHG intensity.
 
-  - **Policy Support for Green Finance - Eg-** tax breaks, green bonds, climate insurance etc Implementing these through enhanced national commitments, equitable climate finance and rapid decarbonization remains essential for achieving **SDG 13 (Climate Action)**
+    - **Policy Support for Green Finance - Eg-** tax breaks, green bonds, climate insurance etc Implementing these through enhanced national commitments, equitable climate finance and rapid decarbonization remains essential for achieving **SDG 13 (Climate Action)**
 
 [Question ID: 2022-gs3-q89-civilsdaily]
 
@@ -6031,39 +6031,39 @@ As per the IPCC, the **global mean sea level rose by 0.20 m (0.15-0.25 m) betwee
 
 **Impact of 1-metre Sea-Level Rise in India**
 
-**1. Submergence of Low-Lying Coastal Areas - Eg-** Large parts of the **Kolkata, Mumbai, Kochi, Chennai**
+1. **Submergence of Low-Lying Coastal Areas - Eg-** Large parts of the **Kolkata, Mumbai, Kochi, Chennai**
 
-**2. Enhanced Coastal Erosion** - Eg- as per National Centre for Coastal Research (NCCR) report around 34% of India's coastline is eroded
+2. **Enhanced Coastal Erosion** - Eg- as per National Centre for Coastal Research (NCCR) report around 34% of India's coastline is eroded
 
-**3. Salinity Intrusion into Aquifers & Rivers** impacting drinking water and agriculture.
+3. **Salinity Intrusion into Aquifers & Rivers** impacting drinking water and agriculture.
 
-**4. Mangroves & Wetlands** like **Sundarbans, Mahanadi delta wetlands, Gulf of Kachchh mangroves** risk drowning and biodiversity loss.
+4. **Mangroves & Wetlands** like **Sundarbans, Mahanadi delta wetlands, Gulf of Kachchh mangroves** risk drowning and biodiversity loss.
 
-  - **Intensification of cyclones** due to **more moisture and heat from ocean warming.**
+    - **Intensification of cyclones** due to **more moisture and heat from ocean warming.**
 
-**6. Intensification of Flooding** as cyclones will push storm surges much further inland
+6. **Intensification of Flooding** as cyclones will push storm surges much further inland
 
 <p align="center"><img src="images/civilsdaily_p104_img122.png" alt="Diagram" /></p>
 
 **7.** Millions from deltaic regions may face **climate-induced migration. Around 3.6 million people have been displaced in South Asia over the past decade. (Internal Displacement Monitoring Centre)**
 
-**8. Ports & Coastal Infrastructure** face higher flooding risk, economic losses, and costly adaptation needs.
+8. **Ports & Coastal Infrastructure** face higher flooding risk, economic losses, and costly adaptation needs.
 
-  - **Island Submergence** - Eg- Sundarbans (Ghoramara, Sagar) and Lakshadweep (Chetlat, Amini, Kavaratti) **Impact on Other Indian Ocean Region Countries**
+    - **Island Submergence** - Eg- Sundarbans (Ghoramara, Sagar) and Lakshadweep (Chetlat, Amini, Kavaratti) **Impact on Other Indian Ocean Region Countries**
 
-  - **Maldives - Existential Threat as 80% of land below 1 metre**
+    - **Maldives - Existential Threat as 80% of land below 1 metre**
 
-**2. Bangladesh - Massive Displacement in Ganga-Brahmaputra-Meghna delta**
+2. **Bangladesh - Massive Displacement in Ganga-Brahmaputra-Meghna delta**
 
-**3. Sri Lanka -** damage to fisheries and tourism economy.
+3. **Sri Lanka -** damage to fisheries and tourism economy.
 
-**4. Myanmar -** The **Irrawaddy delta—a** food-producing zone—faces salinity, crop losses and intensified cyclone impact.
+4. **Myanmar -** The **Irrawaddy delta—a** food-producing zone—faces salinity, crop losses and intensified cyclone impact.
 
-**5. Indonesia - Severe Impacts on Islands & Cities. Eg-** Jakarta already sinking
+5. **Indonesia - Severe Impacts on Islands & Cities. Eg-** Jakarta already sinking
 
-**6. East African Coast -** Countries like **Kenya, Tanzania, Mozambique** would face mangrove loss, storm surges, and fishery declines.
+6. **East African Coast -** Countries like **Kenya, Tanzania, Mozambique** would face mangrove loss, storm surges, and fishery declines.
 
-**7. Increased Maritime Instability -** Changes in ocean temperature and circulation will affect monsoons, fisheries, and regional climate systems across the Indian Ocean basin.
+7. **Increased Maritime Instability -** Changes in ocean temperature and circulation will affect monsoons, fisheries, and regional climate systems across the Indian Ocean basin.
 
 **Way Forward**
 
@@ -6219,15 +6219,15 @@ Semiconductors are the **“oil of the 21st century.”** With global chip short
 
 **Way Forward**
 
-**1. Establish specialised training programs to address projected 350,000 talent shortfall by 2027.**
+1. **Establish specialised training programs to address projected 350,000 talent shortfall by 2027.**
 
-**2. Boost R&D and Indigenous IP Creation - increase spending to 2.5% of GDP**
+2. **Boost R&D and Indigenous IP Creation - increase spending to 2.5% of GDP**
 
-**3. Ensure timely incentive disbursal, ease of land acquisition, and high-quality utility infrastructure (power, water, logistics).**
+3. **Ensure timely incentive disbursal, ease of land acquisition, and high-quality utility infrastructure (power, water, logistics).**
 
-**4. “chip diplomacy”—with partners like the US, Japan, Taiwan, EU, and South Korea.**
+4. **“chip diplomacy”—with partners like the US, Japan, Taiwan, EU, and South Korea.**
 
-**5. Leverage global supply-chain realignments and US-China strategic tensions to attract firms seeking “China+1” diversification.**
+5. **Leverage global supply-chain realignments and US-China strategic tensions to attract firms seeking “China+1” diversification.**
 
 India’s ambition to become a semiconductor manufacturing hub is strategically significant for **economic resilience, technology sovereignty** and **future readiness.**
 
@@ -6274,27 +6274,27 @@ The total length of National Highways in India is around **1.5 Lakh km.** India 
 
 5. **Inadequate adaption - Eg-** non availability in rural areas **Proposed Changes to Make Tolling Seamless**
 
-**1. Expansion of ETC lanes -** 100% coverage by 2025
+1. **Expansion of ETC lanes -** 100% coverage by 2025
 
-**2. ANPR (Automatic Number Plate Recognition)-Based Tolling**
+2. **ANPR (Automatic Number Plate Recognition)-Based Tolling**
 
-**3. GPS-based -** Vehicles fitted with **GPS devices and** toll are charged based on the **distance travelled** on a highway.
+3. **GPS-based -** Vehicles fitted with **GPS devices and** toll are charged based on the **distance travelled** on a highway.
 
-**4. Free-Flow Tolling (FFT) Corridors - open road tolling** for uninterrupted movement.
+4. **Free-Flow Tolling (FFT) Corridors - open road tolling** for uninterrupted movement.
 
-**5. Integration with NHAI’s ‘One Vehicle One FASTag’ Drive Potential Hazards in Transition to New Tolling Systems**
+5. **Integration with NHAI’s ‘One Vehicle One FASTag’ Drive Potential Hazards in Transition to New Tolling Systems**
 
-  - **Privacy & Surveillance Concerns - Eg-** Continuous GPS tracking and ANPR imaging
+    - **Privacy & Surveillance Concerns - Eg-** Continuous GPS tracking and ANPR imaging
 
-  - **Cybersecurity Risks-** vulnerability to hacking, spoofing, or data breaches.
+    - **Cybersecurity Risks-** vulnerability to hacking, spoofing, or data breaches.
 
-  - ANPR systems may misread plates due to dirt, or damaged plates.
+    - ANPR systems may misread plates due to dirt, or damaged plates.
 
-  - **Digital Divide - Eg- 33%** rural population is digitally literate (NFHS-5)
+    - **Digital Divide - Eg- 33%** rural population is digitally literate (NFHS-5)
 
-  - **Technical Failures-** Weather, fog, rain etc can affect ANPR accuracy and system reliability.
+    - **Technical Failures-** Weather, fog, rain etc can affect ANPR accuracy and system reliability.
 
-  - Replacing toll plazas with nationwide FFT infrastructure requires **massive investment.**
+    - Replacing toll plazas with nationwide FFT infrastructure requires **massive investment.**
 
 Addressing these concerns can ensure **efficient, seamless, congestion-free** highways.
 
@@ -6315,53 +6315,53 @@ Addressing these concerns can ensure **efficient, seamless, congestion-free** hi
 
 **Energy independence through clean technology by 2047**
 
-**1. Expansion of renewable energy -** Scale up **solar, wind, hydro and offshore wind** to meet **1000+ GW by 2047.**
+1. **Expansion of renewable energy -** Scale up **solar, wind, hydro and offshore wind** to meet **1000+ GW by 2047.**
 
-**2. Green hydrogen as a fuel of the future -** Expand **National Green Hydrogen Mission** for use in **steel, fertilisers, transport and power storage.**
+2. **Green hydrogen as a fuel of the future -** Expand **National Green Hydrogen Mission** for use in **steel, fertilisers, transport and power storage.**
 
-**3. Energy storage and grid modernisation**
+3. **Energy storage and grid modernisation**
 
-  - Strengthen **Battery Energy Storage Systems (BESS)** and **pumped hydro storage.**
+    - Strengthen **Battery Energy Storage Systems (BESS)** and **pumped hydro storage.**
 
-  - Create **smart grids, microgrids and AI-based demand management.**
+    - Create **smart grids, microgrids and AI-based demand management.**
 
-**4. Electric mobility transition**
+4. **Electric mobility transition**
 
-  - Electrify **public transport, freight.** Eg- **PM e-Bus Sewa**
+    - Electrify **public transport, freight.** Eg- **PM e-Bus Sewa**
 
-  - Promote **EV manufacturing + battery ecosystem** under **PLI and PM-eDrive.**
+    - Promote **EV manufacturing + battery ecosystem** under **PLI and PM-eDrive.**
 
-**5. Make in India and supply Chain resilience**
+5. **Make in India and supply Chain resilience**
 
-  - Strengthen **domestic solar, battery and electrolyser manufacturing.**
+    - Strengthen **domestic solar, battery and electrolyser manufacturing.**
 
-  - Secure supply chains through **National Critical Mineral Mission.** Eg- **lithium supply from Argentina**
+    - Secure supply chains through **National Critical Mineral Mission.** Eg- **lithium supply from Argentina**
 
-**6. Energy efficiency & circular economy**
+6. **Energy efficiency & circular economy**
 
-  - Expand **PAT scheme**
+    - Expand **PAT scheme**
 
-  - Promote **circular economy** in energy storage, e-waste and batteries.
+    - Promote **circular economy** in energy storage, e-waste and batteries.
 
 **Role of Biotechnology**
 
-**1. Ethanol Blending under the National Bio-Energy Mission can reduce petrol imports and stubble burning.**
+1. **Ethanol Blending under the National Bio-Energy Mission can reduce petrol imports and stubble burning.**
 
-**2. Biogas and Compressed Biogas (CBG) under SATAT scheme and Gobardhan Mission can ensure rural energy self-sufficiency.**
+2. **Biogas and Compressed Biogas (CBG) under SATAT scheme and Gobardhan Mission can ensure rural energy self-sufficiency.**
 
-**3. Algal biofuel technology - High yield per hectare and non-competitive with food crops.**
+3. **Algal biofuel technology - High yield per hectare and non-competitive with food crops.**
 
-**4. Waste-to-Energy using anaerobic digestion, enzymatic conversion and microbial fuel cells. (Swachh Bharat + Energy security)**
+4. **Waste-to-Energy using anaerobic digestion, enzymatic conversion and microbial fuel cells. (Swachh Bharat + Energy security)**
 
-**5. Bio-hydrogen and bio-electricity enables low-cost, decentralised green energy.**
+5. **Bio-hydrogen and bio-electricity enables low-cost, decentralised green energy.**
 
 **Steps Taken**
 
-**1. BioE3 Policy - innovation-driven research & high-performance biomanufacturing.**
+1. **BioE3 Policy - innovation-driven research & high-performance biomanufacturing.**
 
-**2. Bio-RIDE - To bridge academia–industry gap and ensure lab-to-market transition**
+2. **Bio-RIDE - To bridge academia–industry gap and ensure lab-to-market transition**
 
-**3. Emerging Frontiers in Biotechnology Programme for cutting-edge biotechnology research** As **PM Modi** stated, “India’s energy independence will be the foundation of its economic independence.” Clean technology is core pillar of this vision **Agriculture Cropping Pattern**
+3. **Emerging Frontiers in Biotechnology Programme for cutting-edge biotechnology research** As **PM Modi** stated, “India’s energy independence will be the foundation of its economic independence.” Clean technology is core pillar of this vision **Agriculture Cropping Pattern**
 
 [Question ID: 2025-gs3-q94-civilsdaily]
 
@@ -6380,9 +6380,9 @@ India's foodgrains production has surged from 50.8 million tons in 1950-51 to ov
 
 **Contribution of Sir M. Visvesvaraya in Water Engineering**
 
-**1. Modernisation of Irrigation Systems -** Eg- Invented the **automatic weir water floodgates,** first installed at **KRS Dam**
+1. **Modernisation of Irrigation Systems -** Eg- Invented the **automatic weir water floodgates,** first installed at **KRS Dam**
 
-**2. Major Dams and Multipurpose Projects -** Designed the **Krishna Raja Sagara (KRS) Dam,** which irrigated **1.2 lakh+ hectares** in Mandya region
+2. **Major Dams and Multipurpose Projects -** Designed the **Krishna Raja Sagara (KRS) Dam,** which irrigated **1.2 lakh+ hectares** in Mandya region
 
 **3.** Developed water supply and drainage systems for **Hyderabad, Pune, Nagpur, Belagavi**
 
@@ -6398,21 +6398,21 @@ Eg- **Mysore Iron & Steel Works.**
 
 **1.** Chaired the **National Commission on Farmers** and recommended policies like the **MSP formula (C2 + 50%).**
 
-**2. Father of the Green Revolution -** Introduced **high-yielding varieties** of wheat and rice. Eg- **“Swarna”** rice variety
+2. **Father of the Green Revolution -** Introduced **high-yielding varieties** of wheat and rice. Eg- **“Swarna”** rice variety
 
-**3. Achieving Food Self-Sufficiency -** foodgrain production rose from **~72 million tonnes (1965)** to over **130 million tonnes (1980s),** ending “ship-to-mouth” dependence.
+3. **Achieving Food Self-Sufficiency -** foodgrain production rose from **~72 million tonnes (1965)** to over **130 million tonnes (1980s),** ending “ship-to-mouth” dependence.
 
-**4. Promotion of Sustainable and Climate-Resilient Agriculture -** Advocated **genetic conservation, bio-fortification,** and **evergreen revolution** principles
+4. **Promotion of Sustainable and Climate-Resilient Agriculture -** Advocated **genetic conservation, bio-fortification,** and **evergreen revolution** principles
 
-  - He played an instrumental role in developing the **Protection of Plant Varieties and Farmers' Rights Act of 2001.**
+    - He played an instrumental role in developing the **Protection of Plant Varieties and Farmers' Rights Act of 2001.**
 
-**6. Institutional Building**
+6. **Institutional Building**
 
-  - **ICAR modernisation** - Director-General from 1972 to 1979.
+    - **ICAR modernisation** - Director-General from 1972 to 1979.
 
-  - Setting up **MS Swaminathan Research Foundation (MSSRF)**
+    - Setting up **MS Swaminathan Research Foundation (MSSRF)**
 
-  - Promoting **biotechnology.** Eg- research on cryogenetics in potato crops.
+    - Promoting **biotechnology.** Eg- research on cryogenetics in potato crops.
 
 Together, they shaped India’s progress in **water management, agriculture, and national development.**
 
@@ -6435,29 +6435,29 @@ Together, they shaped India’s progress in **water management, agriculture, and
 
 **1.** Provides **disease-free planting** material through **tissue culture. Eg- Tissue culture banana (G-9 cultivar)** increases **yields by 30-40%.**
 
-**2. Enhances crop yields** through high-yielding and hybrid varieties. **Eg- “Swarna Sub-1”** flood-tolerant rice **and “DRR Dhan 42”** drought-tolerant rice.
+2. **Enhances crop yields** through high-yielding and hybrid varieties. **Eg- “Swarna Sub-1”** flood-tolerant rice **and “DRR Dhan 42”** drought-tolerant rice.
 
-**3. Reduces pesticide cost** through pest-resistant GM crops. **Eg- Bt cotton** reduced pesticide use by **40-60%.**
+3. **Reduces pesticide cost** through pest-resistant GM crops. **Eg- Bt cotton** reduced pesticide use by **40-60%.**
 
 **4.** Lowers fertilizer expenses using **biofertilisers. Eg- Rhizobium and Azotobacter** cuts nitrogen fertilizer requirement in pulses/oilseeds.
 
 **5.** Increases **resilience to climate shocks** with **stress-tolerant seeds. Eg- Drought Tolerant High-Yielding Chickpea** Variety **“SAATVIK (NC 9)”**
 
-**6. Reduces post-harvest losses** using improved shelf-life varieties. **Eg- Delayed-ripening tomato (Arka Rakshak)** reduces spoilage.
+6. **Reduces post-harvest losses** using improved shelf-life varieties. **Eg- Delayed-ripening tomato (Arka Rakshak)** reduces spoilage.
 
-**7. Nutritional security** through biofortified crops. **Eg- Iron-rich pearl millet (ICMH 1202).**
+7. **Nutritional security** through biofortified crops. **Eg- Iron-rich pearl millet (ICMH 1202).**
 
-  - **Kisan-Kavach:** An anti-pesticide suit designed to combat the threat of pesticide-induced toxicity in agricultural settings.
+    - **Kisan-Kavach:** An anti-pesticide suit designed to combat the threat of pesticide-induced toxicity in agricultural settings.
 
-**9. Enables diversification** into high-value crops. **Eg- Tissue-culture strawberries (“Chandler”)** in Himachal Pradesh.
+9. **Enables diversification** into high-value crops. **Eg- Tissue-culture strawberries (“Chandler”)** in Himachal Pradesh.
 
-**10. Boosts dairy income** through microbial feed supplements. **Eg- Yeast-based probiotics** increase **milk yield by 8-12%.**
+10. **Boosts dairy income** through microbial feed supplements. **Eg- Yeast-based probiotics** increase **milk yield by 8-12%.**
 
-**11. Enhances fishery productivity** using improved seed varieties. **Eg- Jayanti Rohu** shows 17-20% higher growth rates.
+11. **Enhances fishery productivity** using improved seed varieties. **Eg- Jayanti Rohu** shows 17-20% higher growth rates.
 
-**12. Generates rural employment - Eg- Tissue culture labs and biofertiliser** units run through FPOs in Telangana.
+12. **Generates rural employment - Eg- Tissue culture labs and biofertiliser** units run through FPOs in Telangana.
 
-**13. Supports women-led microenterprises - Eg- SHGs** in Tamil Nadu producing **vermicompost.**
+13. **Supports women-led microenterprises - Eg- SHGs** in Tamil Nadu producing **vermicompost.**
 
 **Challenges**
 
@@ -6479,19 +6479,19 @@ Together, they shaped India’s progress in **water management, agriculture, and
 
 7. **Illegal Cultivation and biosafety risks** - Eg- **HT-Bt cotton** is **illegally cultivated** on up to **25% of cotton acreage** in India
 
-**8. Declining Cotton Productivity -** Yields have fallen from **566 kg/ha (2013-14) to 436 kg/ha (2023-24),** far below **China and Brazil’s 1,800-1,900 kg/ha.**
+8. **Declining Cotton Productivity -** Yields have fallen from **566 kg/ha (2013-14) to 436 kg/ha (2023-24),** far below **China and Brazil’s 1,800-1,900 kg/ha.**
 
-**9. Rising Import Dependence -** India has shifted from net exporter to **net importer,** with **cotton imports reaching $0.4 billion in 2024-25.**
+9. **Rising Import Dependence -** India has shifted from net exporter to **net importer,** with **cotton imports reaching $0.4 billion in 2024-25.**
 
-  - **Undermining seed sovereignty** due to intellectual property rights. Eg - **Monsanto-Mahyco Bt cotton disputes Way Forward**
+    - **Undermining seed sovereignty** due to intellectual property rights. Eg - **Monsanto-Mahyco Bt cotton disputes Way Forward**
 
-  - **Science-Based Regulation-** Ensure **transparent field trials,** publicly accessible data and independent monitoring,
+    - **Science-Based Regulation-** Ensure **transparent field trials,** publicly accessible data and independent monitoring,
 
-  - Promote **public-private partnerships** in biotech research and support **region-specific GM crops**
+    - Promote **public-private partnerships** in biotech research and support **region-specific GM crops**
 
-  - Implement **robust GM labeling** and enforce strict action against **illegal cultivation** and counterfeit seeds.
+    - Implement **robust GM labeling** and enforce strict action against **illegal cultivation** and counterfeit seeds.
 
-  - Prioritise **biofortified GM crops** such as Golden Rice, iron-rich pulses, and zinc-rich wheat to combat micronutrient deficiencies Effective implementation of **BioE3 mission** can help realise Vajpayee’s vision of **Biotech for Bharat** - **“What IT is for India, BT is for Bharat”**
+    - Prioritise **biofortified GM crops** such as Golden Rice, iron-rich pulses, and zinc-rich wheat to combat micronutrient deficiencies Effective implementation of **BioE3 mission** can help realise Vajpayee’s vision of **Biotech for Bharat** - **“What IT is for India, BT is for Bharat”**
 
 [Question ID: 2019-gs3-q96-civilsdaily]
 
@@ -6510,37 +6510,37 @@ Science has played an important role in this **transformation.**
 
 **Science Interwoven Deeply With Our Lives**
 
-**1. Healthcare - Vaccines, antibiotics, diagnostics (RT-PCR)** have improved life expectancy from 62 in 1990 to 73 in 2025.
+1. **Healthcare - Vaccines, antibiotics, diagnostics (RT-PCR)** have improved life expectancy from 62 in 1990 to 73 in 2025.
 
-**2. Communication & Connectivity - Internet, smartphones, satellites** have transformed education, governance, and commerce. **Eg- PM e-Vidya**
+2. **Communication & Connectivity - Internet, smartphones, satellites** have transformed education, governance, and commerce. **Eg- PM e-Vidya**
 
-**3. Transport - Electric vehicles, GPS, high-speed transport** have increased **mobility. Eg- Vande Bharat**
+3. **Transport - Electric vehicles, GPS, high-speed transport** have increased **mobility. Eg- Vande Bharat**
 
-**4. Energy Infrastructure - Renewables, smart grids** etc shape modern living standards.
+4. **Energy Infrastructure - Renewables, smart grids** etc shape modern living standards.
 
-**5. Daily Convenience - Refrigeration, water purification, digital payments, and sensor-based** devices ease everyday life.
+5. **Daily Convenience - Refrigeration, water purification, digital payments, and sensor-based** devices ease everyday life.
 
-**6. Disaster Management - Weather forecasting, early-warning systems** save lives during cyclones and floods.
+6. **Disaster Management - Weather forecasting, early-warning systems** save lives during cyclones and floods.
 
-  - **e-Governance** has improved ease of access for citizens. Eg- **m-Passport Seva Striking Changes in Agriculture Triggered by Science-Based Technologies**
+    - **e-Governance** has improved ease of access for citizens. Eg- **m-Passport Seva Striking Changes in Agriculture Triggered by Science-Based Technologies**
 
-**1. Green Revolution HYVs** increased **wheat yields from 12 MT (1960s) to 55 MT (1980s).**
+1. **Green Revolution HYVs** increased **wheat yields from 12 MT (1960s) to 55 MT (1980s).**
 
-**2. Biotechnology & Genetics - Bt cotton** reduced pesticide use by 40-60%.
+2. **Biotechnology & Genetics - Bt cotton** reduced pesticide use by 40-60%.
 
-**3. Precision Farming & Sensors - Use of drones, IoT soil sensors, GIS mapping** improves fertilizer and water efficiency.
+3. **Precision Farming & Sensors - Use of drones, IoT soil sensors, GIS mapping** improves fertilizer and water efficiency.
 
-**4. Micro-Irrigation -** Drip & sprinkler systems increase **water-use efficiency by 40-70%.**
+4. **Micro-Irrigation -** Drip & sprinkler systems increase **water-use efficiency by 40-70%.**
 
-**5. Mechanization - Harvesters, seed drills, transplanters** reduce labour cost and increase timeliness of operations.
+5. **Mechanization - Harvesters, seed drills, transplanters** reduce labour cost and increase timeliness of operations.
 
-**6. Climate-Smart Agriculture -** Drought-/flood-tolerant seeds reduce climate risk. **Eg- Swarna Sub-1 rice**
+6. **Climate-Smart Agriculture -** Drought-/flood-tolerant seeds reduce climate risk. **Eg- Swarna Sub-1 rice**
 
-**7. Post-Harvest & Storage Technologies - Cold chains, ripening chambers, packhouses** reduce losses and enable access to distant markets.
+7. **Post-Harvest & Storage Technologies - Cold chains, ripening chambers, packhouses** reduce losses and enable access to distant markets.
 
-**8. Digital Agriculture - e-NAM, agritech platforms, Kisan drones** improve market access and real-time advisory.
+8. **Digital Agriculture - e-NAM, agritech platforms, Kisan drones** improve market access and real-time advisory.
 
-**9. Soil & Water Management Tools - Soil health cards, nano-urea, and microbial biofertilisers** improve **soil fertility.**
+9. **Soil & Water Management Tools - Soil health cards, nano-urea, and microbial biofertilisers** improve **soil fertility.**
 
 | Challenges | Way Forward |
 | --- | --- |
@@ -6567,69 +6567,69 @@ Nanotechnology refers to the **science and application of materials at the nanos
 
 **Nanotechnology offering significant advancements in agriculture**
 
-**1. Nano-fertilisers** improve nutrient-use **efficiency to 90-100% - boosts yields. Eg- Nano-urea and nano-DAP introduced by IFFCO.**
+1. **Nano-fertilisers** improve nutrient-use **efficiency to 90-100% - boosts yields. Eg- Nano-urea and nano-DAP introduced by IFFCO.**
 
 **2.** Controlled-release nano-pesticides reduce **chemical load,** minimise residue on crops, and improve efficacy against pests. Eg- nano-Silver
 
-  - Bridging **micronutrient deficiency** - Eg- Nano Zinc and Nano Copper liquids.
+    - Bridging **micronutrient deficiency** - Eg- Nano Zinc and Nano Copper liquids.
 
-  - **Enables nanoscale gene delivery** - quickly and safely transport DNA into plant cells - Improves **crop breeding**
+    - **Enables nanoscale gene delivery** - quickly and safely transport DNA into plant cells - Improves **crop breeding**
 
-**5. Soil health improvement -** Nano-clays and nano-zeolites enhance **soil moisture retention** and restore degraded soils in dry regions.
+5. **Soil health improvement -** Nano-clays and nano-zeolites enhance **soil moisture retention** and restore degraded soils in dry regions.
 
-  - **Crop Protection** - Applying **silica nanoparticles** to leaves shield plants from high temperatures.
+    - **Crop Protection** - Applying **silica nanoparticles** to leaves shield plants from high temperatures.
 
-**7. Precision agriculture -** Nanosensors monitor **soil moisture, nutrient levels, and plant health.**
+7. **Precision agriculture -** Nanosensors monitor **soil moisture, nutrient levels, and plant health.**
 
-**8. Post-harvest protection -** Nano-coatings on fruits and vegetables extend **shelf life by 2-3 times.**
+8. **Post-harvest protection -** Nano-coatings on fruits and vegetables extend **shelf life by 2-3 times.**
 
-**9. Irrigation efficiency -** Nanomaterials remove contaminants and improve water quality for irrigation.
+9. **Irrigation efficiency -** Nanomaterials remove contaminants and improve water quality for irrigation.
 
-**10. Seed quality enhancement -** Nanopriming improves **seed vigour** and early germination.
+10. **Seed quality enhancement -** Nanopriming improves **seed vigour** and early germination.
 
-  - **Nano-Biosensors** can identify plant diseases at an early stage through **biomarker detection**
+    - **Nano-Biosensors** can identify plant diseases at an early stage through **biomarker detection**
 
-  - **Food Packaging** - Eg- use of **nanocomposites** in making **antimicrobial and oxygen-barrier coatings** reduce spoilage and food waste.
+    - **Food Packaging** - Eg- use of **nanocomposites** in making **antimicrobial and oxygen-barrier coatings** reduce spoilage and food waste.
 
 **Role of nanotechnology in uplifting the socio-economic status of farmers**
 
-**1. Reduced input costs -** Nano-fertilisers cut fertilizer usage by **50%**
+1. **Reduced input costs -** Nano-fertilisers cut fertilizer usage by **50%**
 
-**2. Higher yields and productivity** due to improved nutrient uptake by crops
+2. **Higher yields and productivity** due to improved nutrient uptake by crops
 
-**3. Nano-coatings and nanosensors** reduce post-harvest losses (currently **15-20%).**
+3. **Nano-coatings and nanosensors** reduce post-harvest losses (currently **15-20%).**
 
-**4. Improved climate resilience -** nano-enabled seed treatments help stabilise production during **droughts, heatwaves, and soil degradation**
+4. **Improved climate resilience -** nano-enabled seed treatments help stabilise production during **droughts, heatwaves, and soil degradation**
 
-**5. Access to premium markets -** Residue-free nano-pesticides help farmers sell to **export markets** with strict safety standards.
+5. **Access to premium markets -** Residue-free nano-pesticides help farmers sell to **export markets** with strict safety standards.
 
 **6.** Local production of **nano-inputs, nano-coatings, and sensor devices** can generate rural micro-enterprises and FPO-led businesses.
 
-**7. Health and environmental benefits -** Reduced chemical use lowers **health expenditures,** improves soil fertility, and supports sustainable long-term income.
+7. **Health and environmental benefits -** Reduced chemical use lowers **health expenditures,** improves soil fertility, and supports sustainable long-term income.
 
 **Challenges of Nanotechnology in Agriculture**
 
-**1. High cost** and **limited awareness** of nano-inputs limit large scale adoption.
+1. **High cost** and **limited awareness** of nano-inputs limit large scale adoption.
 
-**2. Nanophytotoxicity** can hinder plant growth, reduce photosynthesis, and affect seed germination.
+2. **Nanophytotoxicity** can hinder plant growth, reduce photosynthesis, and affect seed germination.
 
-**3. Bioaccumulation concerns -** Nanoparticles may accumulate in vital organs through food chains, with unclear long-term health effects.
+3. **Bioaccumulation concerns -** Nanoparticles may accumulate in vital organs through food chains, with unclear long-term health effects.
 
-**4. Groundwater contamination risk** due to leaving of **Mobile nanoparticles into aquifers.**
+4. **Groundwater contamination risk** due to leaving of **Mobile nanoparticles into aquifers.**
 
-**5. Toxicity to pollinators - Continuous exposure to nanoparticles through pollen can harm bees.**
+5. **Toxicity to pollinators - Continuous exposure to nanoparticles through pollen can harm bees.**
 
-**6. Lack of regulatory standards -** India lacks clear biosafety guidelines and permissible limits
+6. **Lack of regulatory standards -** India lacks clear biosafety guidelines and permissible limits
 
-**7. Pollution risks** as Non-biodegradable nanoparticles may remain in ecosystems.
+7. **Pollution risks** as Non-biodegradable nanoparticles may remain in ecosystems.
 
 **Government Initiatives**
 
-**1. Mission on Nano Science and Technology**
+1. **Mission on Nano Science and Technology**
 
-**2. DBT Guidelines for Nano-Agri Inputs**
+2. **DBT Guidelines for Nano-Agri Inputs**
 
-**3. IFFCO Nano Fertilizer Plant (Phulpur, Prayagraj)** When science meets scale, when innovation becomes inclusive, when technology drives transformation, the foundation for great achievements is laid - **PM Modi Food Processing**
+3. **IFFCO Nano Fertilizer Plant (Phulpur, Prayagraj)** When science meets scale, when innovation becomes inclusive, when technology drives transformation, the foundation for great achievements is laid - **PM Modi Food Processing**
 
 [Question ID: 2025-gs3-q98-civilsdaily]
 
@@ -6660,9 +6660,9 @@ As per the report of the Global **Commission on the Economics of Water,** the wo
 
 4. **Agriculture consumes 70%** of the world’s freshwater
 
-**5. India**
+5. **India**
 
-  - **4% of the world's freshwater resources**
+    - **4% of the world's freshwater resources**
 
 **b. 600 million Indians experience water scarcity. (NITI Aayog)**
 
@@ -6692,59 +6692,59 @@ As per the report of the Global **Commission on the Economics of Water,** the wo
 
 **Three Technologies With Key Merits and Demerits**
 
-**1. Atmospheric Water Harvesting (AWH) - Eg - Source Hydropanels deployed in Ladakh schools.**
+1. **Atmospheric Water Harvesting (AWH) - Eg - Source Hydropanels deployed in Ladakh schools.**
 
 ## **Merits**
 
-  - **Decentralized, off-grid water access** for remote areas.
+    - **Decentralized, off-grid water access** for remote areas.
 
-  - **No reliance on groundwater** or rainfall.
+    - **No reliance on groundwater** or rainfall.
 
-  - **Scalable** from household to community systems.
+    - **Scalable** from household to community systems.
 
 ## **Demerits**
 
-  - **Low yield** in low-humidity climates.
+    - **Low yield** in low-humidity climates.
 
-  - **High per-litre cost** for advanced AWH systems.
+    - **High per-litre cost** for advanced AWH systems.
 
-  - **Requires maintenance** of filters/desiccants.
+    - **Requires maintenance** of filters/desiccants.
 
-**2. Wastewater Recycling & Reuse** - **Eg - Singapore’s NEWater, Nagpur’s Bhandewadi recycling plant.**
+2. **Wastewater Recycling & Reuse** - **Eg - Singapore’s NEWater, Nagpur’s Bhandewadi recycling plant.**
 
 ## **Merits**
 
-  - **Reduces pressure on freshwater sources** by closing the loop.
+    - **Reduces pressure on freshwater sources** by closing the loop.
 
-  - **Low energy requirement** compared to desalination.
+    - **Low energy requirement** compared to desalination.
 
-  - **Ensures year-round supply,** even in dry regions.
+    - **Ensures year-round supply,** even in dry regions.
 
 ## **Demerits**
 
-  - **Public resistance** to potable reuse (“yuck factor”).
+    - **Public resistance** to potable reuse (“yuck factor”).
 
-  - **Risk of contamination** if systems are poorly maintained.
+    - **Risk of contamination** if systems are poorly maintained.
 
-  - **High initial investment** for advanced tertiary treatment.
+    - **High initial investment** for advanced tertiary treatment.
 
-**3. Desalination** using **Reverse Osmosis & Thermal Distillation- Eg - Israel’s Sorek RO plant, India’s Minjur RO plant (Chennai).**
+3. **Desalination** using **Reverse Osmosis & Thermal Distillation- Eg - Israel’s Sorek RO plant, India’s Minjur RO plant (Chennai).**
 
 ## **Merits**
 
-  - **Large and climate-independent supply** from oceans.
+    - **Large and climate-independent supply** from oceans.
 
-  - **Useful for coastal megacities** facing groundwater depletion. Eg- Mumbai
+    - **Useful for coastal megacities** facing groundwater depletion. Eg- Mumbai
 
-  - **Continuous and reliable output** even in droughts.
+    - **Continuous and reliable output** even in droughts.
 
 ## **Demerits**
 
-  - **High energy consumption,** increasing carbon footprint.
+    - **High energy consumption,** increasing carbon footprint.
 
-  - **Brine discharge** harms marine ecosystems.
+    - **Brine discharge** harms marine ecosystems.
 
-  - **High capital and operating cost** for poorer regions.
+    - **High capital and operating cost** for poorer regions.
 
 A **portfolio approach,** not a single technology, will determine long-term water security.
 
@@ -6779,37 +6779,37 @@ A **portfolio approach,** not a single technology, will determine long-term wate
 
 **Threat from asteroids**
 
-**1. Historical Evidence -** The **Chicxulub asteroid impact (~66 million years ago)** led to the extinction of **dinosaurs.**
+1. **Historical Evidence -** The **Chicxulub asteroid impact (~66 million years ago)** led to the extinction of **dinosaurs.**
 
-**2. Probability Assessment**
+2. **Probability Assessment**
 
-  - **Extinction-level asteroids (>10 km)** are **extremely rare**
+    - **Extinction-level asteroids (>10 km)** are **extremely rare**
 
-  - **City or regional-scale impacts (50-300 m)** are **more frequent** and pose serious human and economic risks.
+    - **City or regional-scale impacts (50-300 m)** are **more frequent** and pose serious human and economic risks.
 
-**3. Current Scientific Consensus**
+3. **Current Scientific Consensus**
 
-  - **Low probability, high impact risk.**
+    - **Low probability, high impact risk.**
 
-  - No known large asteroid is on a **confirmed collision course** with Earth in the foreseeable future.
+    - No known large asteroid is on a **confirmed collision course** with Earth in the foreseeable future.
 
-  - **No global policy framework or convention** to prevent asteroid impact **Strategies Developed to Prevent or Mitigate Asteroid Impact**
+    - **No global policy framework or convention** to prevent asteroid impact **Strategies Developed to Prevent or Mitigate Asteroid Impact**
 
-**1. Detection and Tracking - Ground- and space-based surveys** continuously monitor NEOs.
+1. **Detection and Tracking - Ground- and space-based surveys** continuously monitor NEOs.
 
-**2. Kinetic Impact Deflection -** A spacecraft **collides with the asteroid** to slightly alter its trajectory.
+2. **Kinetic Impact Deflection -** A spacecraft **collides with the asteroid** to slightly alter its trajectory.
 
 Demonstrated successfully by **NASA’s DART mission (2022).**
 
-**3. Gravity Tractor -** A spacecraft hovers near the asteroid, using **mutual gravitational attraction** to gradually change its path.
+3. **Gravity Tractor -** A spacecraft hovers near the asteroid, using **mutual gravitational attraction** to gradually change its path.
 
-**4. Nuclear Deflection (Last Resort) -** Use of a **nuclear device** near (not on) the asteroid to **vaporise surface material.**
+4. **Nuclear Deflection (Last Resort) -** Use of a **nuclear device** near (not on) the asteroid to **vaporise surface material.**
 
 **5.** NASA’s **Jet Propulsion Laboratory,** accurately characterizes the orbits of all known near-Earth objects, predicts their close approaches with Earth
 
-**6. The International Asteroid Warning Network (IAWN)** - UN-endorsed, global collaboration of over 60 scientific institutions that detects, tracks, and characterizes Near-Earth Objects (NEOs).
+6. **The International Asteroid Warning Network (IAWN)** - UN-endorsed, global collaboration of over 60 scientific institutions that detects, tracks, and characterizes Near-Earth Objects (NEOs).
 
-**7. United Nations Committee on the Peaceful Uses of Outer Space (COPUOS)** has recognised **asteroid impact hazards as a global risk transcending national boundaries.**
+7. **United Nations Committee on the Peaceful Uses of Outer Space (COPUOS)** has recognised **asteroid impact hazards as a global risk transcending national boundaries.**
 
 While **extinction-level impacts are extremely rare,** the consequences would be catastrophic, justifying sustained vigilance.
 
@@ -6964,33 +6964,33 @@ The **Blue LEDs** invention triggered a fundamental shift in lighting technology
 
 **Impact on Everyday Life**
 
-**1. Energy Efficiency:** LEDs convert 50% of energy to light, compared to just 4% for incandescent bulbs lasting 100,000 hours. This efficiency slashes global CO2 emissions.
+1. **Energy Efficiency:** LEDs convert 50% of energy to light, compared to just 4% for incandescent bulbs lasting 100,000 hours. This efficiency slashes global CO2 emissions.
 
-  - **Electronics & Mobility:** Provided the essential backlighting for **LCD screens** in smartphones and laptops, allowing for thinner designs and significantly longer battery life.
+    - **Electronics & Mobility:** Provided the essential backlighting for **LCD screens** in smartphones and laptops, allowing for thinner designs and significantly longer battery life.
 
-  - **Cost-saving:** Eg- 50000 hours of white LEDs cost $86 compared to $350 in incandescent light.
+    - **Cost-saving:** Eg- 50000 hours of white LEDs cost $86 compared to $350 in incandescent light.
 
-**4. Democratization of Light:** Enabled low-power, solar-powered LED lamps, providing safe and affordable light to over a billion people in off-grid rural areas.
+4. **Democratization of Light:** Enabled low-power, solar-powered LED lamps, providing safe and affordable light to over a billion people in off-grid rural areas.
 
-  - **New innovations:** Eg- New screens of mobiles & TV which are more efficient & sustainable.
+    - **New innovations:** Eg- New screens of mobiles & TV which are more efficient & sustainable.
 
-**6. Advancements in Healthcare and Sanitation**
+6. **Advancements in Healthcare and Sanitation**
 
-  - **Water Purification:** UV-light emitting diodes are used to sterilize drinking water by destroying the DNA of bacteria and viruses.
+    - **Water Purification:** UV-light emitting diodes are used to sterilize drinking water by destroying the DNA of bacteria and viruses.
 
-  - **Medical Treatment:** Blue light is used in phototherapy to treat neonatal jaundice and certain skin conditions.
+    - **Medical Treatment:** Blue light is used in phototherapy to treat neonatal jaundice and certain skin conditions.
 
-**7. Sustainable Agriculture (Vertical Farming)**
+7. **Sustainable Agriculture (Vertical Farming)**
 
-  - Blue light is essential for photosynthesis.
+    - Blue light is essential for photosynthesis.
 
-  - **Indoor Farming:** By fine-tuning light "recipes" using Blue and Red LEDs, farmers can grow food indoors in urban environments without pesticides, using 90% less water
+    - **Indoor Farming:** By fine-tuning light "recipes" using Blue and Red LEDs, farmers can grow food indoors in urban environments without pesticides, using 90% less water
 
-**8. Enhanced Communication and Connectivity**
+8. **Enhanced Communication and Connectivity**
 
-  - **Optical Storage:** The development of the blue laser led to **Blu-ray** technology, allowing for much higher data storage densities than earlier red-laser CDs or DVDs.
+    - **Optical Storage:** The development of the blue laser led to **Blu-ray** technology, allowing for much higher data storage densities than earlier red-laser CDs or DVDs.
 
-  - **Li-Fi:** Current research is using Blue LEDs for **Light Fidelity (Li-Fi),** a high-speed wireless communication technology that transmits data through light pulses.
+    - **Li-Fi:** Current research is using Blue LEDs for **Light Fidelity (Li-Fi),** a high-speed wireless communication technology that transmits data through light pulses.
 
 **Government initiatives promoting LEDs**
 
@@ -7341,7 +7341,7 @@ India’s traditional medicinal knowledge includes thousands of formulations and
 
 3. **National Biodiversity Authority:** NBA is a statutory body implementing the Biological Diversity Act, 2002 to protect India’s biological resources and traditional knowledge.
 
-**4. People’s Biodiversity Register (PBR):** Administered by the NBA, PBR serves as a formal tool for recording and maintaining comprehensive localized data on biological resources and their medicinal uses.
+4. **People’s Biodiversity Register (PBR):** Administered by the NBA, PBR serves as a formal tool for recording and maintaining comprehensive localized data on biological resources and their medicinal uses.
 
 ## **5. Access and Benefit Sharing (ABS) agreements**
 
@@ -7355,7 +7355,7 @@ India’s traditional medicinal knowledge includes thousands of formulations and
 
 **b.** Mandates disclosure of the source and geographical origin of biological materials used in patents, with details shared with the NBA.
 
-**7. Protection of Plant Varieties and Farmers' Rights (PPV&FR) Act, 2001:** Protects the rights of local communities and farmers over their traditional crop and medicinal plant varieties.
+7. **Protection of Plant Varieties and Farmers' Rights (PPV&FR) Act, 2001:** Protects the rights of local communities and farmers over their traditional crop and medicinal plant varieties.
 
 | Challenges | Way Forward |
 | --- | --- |
@@ -7930,13 +7930,13 @@ LWE refers to violent insurgency driven by **Maoist or Naxalite ideologies,** wi
 
 **LWE showing downward trend**
 
-**1. Naxal-affected districts slashed from 126 (2014) to only 11 (2025), with most-affected districts down from 36 to just 3**
+1. **Naxal-affected districts slashed from 126 (2014) to only 11 (2025), with most-affected districts down from 36 to just 3**
 
 <p align="center"><img src="images/civilsdaily_p120_img130.png" alt="Diagram" /></p>
 
-**2. In 2025 alone, 317 Naxals neutralised (including top leadership), 800+ arrested, and nearly 2,000 surrendered**
+2. **In 2025 alone, 317 Naxals neutralised (including top leadership), 800+ arrested, and nearly 2,000 surrendered**
 
-**3. From 2004-14 to 2014-24**
+3. **From 2004-14 to 2014-24**
 
 **a. Violent incidents declined 53%**
 
@@ -7944,45 +7944,45 @@ LWE refers to violent insurgency driven by **Maoist or Naxalite ideologies,** wi
 
 **c. Civilian deaths dropped 70% However, it still affects some part of country**
 
-**1. Red corridor in 11 districts** in Maharashtra, Chhattisgarh, MP and Andhra pradesh
+1. **Red corridor in 11 districts** in Maharashtra, Chhattisgarh, MP and Andhra pradesh
 
-**2. Urban Front Strategy -** Urban Naxals aim to gain legal and logistical support from cities-referred to as the "."
+2. **Urban Front Strategy -** Urban Naxals aim to gain legal and logistical support from cities-referred to as the "."
 
-**3. Tactical Asymmetry and "Contactless" Warfare - Eg-** use of **Improvised Explosive Devices (IEDs)** and drones
+3. **Tactical Asymmetry and "Contactless" Warfare - Eg-** use of **Improvised Explosive Devices (IEDs)** and drones
 
-**4. Dandakaranya region** along **Chhattisgarh-Maharashtra-Odisha** remains a key guerrilla base due to its difficult terrain.
+4. **Dandakaranya region** along **Chhattisgarh-Maharashtra-Odisha** remains a key guerrilla base due to its difficult terrain.
 
 **Government of India’s approach to counter the challenges posed by LWE**
 
 **Security Measures**
 
-**1. Operation Black Forest** - killing 27 Naxals, including the **top Maoist leader Nambala Keshav Rao**
+1. **Operation Black Forest** - killing 27 Naxals, including the **top Maoist leader Nambala Keshav Rao**
 
-**2. Specialised Forces- Eg- Greyhounds in Andhra Pradesh and the Bastariya Battalion in Chhattisgarh**
+2. **Specialised Forces- Eg- Greyhounds in Andhra Pradesh and the Bastariya Battalion in Chhattisgarh**
 
 <p align="center"><img src="images/civilsdaily_p120_img131.png" alt="Diagram" /></p>
 
-**3. Naxal’s Financial chocking** - Eg- NIA that seized assets worth over ₹40 crore, and the Enforcement Directorate attached ₹12 crore
+3. **Naxal’s Financial chocking** - Eg- NIA that seized assets worth over ₹40 crore, and the Enforcement Directorate attached ₹12 crore
 
-**4. Security Related Expenditure** and **Special Infrastructure Scheme** for strengthening State Special Forces and Special Intelligence Branches
+4. **Security Related Expenditure** and **Special Infrastructure Scheme** for strengthening State Special Forces and Special Intelligence Branches
 
-**5. Technology Use -** Use of **UAVs/drones,** AI-based tracking, GPS, satellite imagery, and modern communication systems to locate hideouts and camps.
+5. **Technology Use -** Use of **UAVs/drones,** AI-based tracking, GPS, satellite imagery, and modern communication systems to locate hideouts and camps.
 
-  - **Civic Action Programme (CAP) under ‘Modernization of Police Forces’ scheme** to **bridge** the **gaps** between **Security Forces** and **local people. Eg- community policing like “Jan Maitri” Developmental measures**
+    - **Civic Action Programme (CAP) under ‘Modernization of Police Forces’ scheme** to **bridge** the **gaps** between **Security Forces** and **local people. Eg- community policing like “Jan Maitri” Developmental measures**
 
-  - **Building Critical Infrastructure in LWE Areas -** Eg- **Road Requirement Plan (RRP-I)** constructing **14000 km of roads**
+    - **Building Critical Infrastructure in LWE Areas -** Eg- **Road Requirement Plan (RRP-I)** constructing **14000 km of roads**
 
-**2. Socio-economic development**
+2. **Socio-economic development**
 
-  - **Financial Inclusion-** over **1,00 bank branches** have been opened in LWE affected districts since April 2015.
+    - **Financial Inclusion-** over **1,00 bank branches** have been opened in LWE affected districts since April 2015.
 
-  - Aspirational districts program
+    - Aspirational districts program
 
-  - **ROSHNI Scheme for** skill development and employment-linked training for youth
+    - **ROSHNI Scheme for** skill development and employment-linked training for youth
 
-  - Surrender and rehabilitation policy - attractive incentives and assured livelihood. Eg- **₹10,000 monthly** stipend for professional training
+    - Surrender and rehabilitation policy - attractive incentives and assured livelihood. Eg- **₹10,000 monthly** stipend for professional training
 
-  - **Panchayat Extension To Scheduled Areas Act (PESA) and Forest Rights Act 2006** for strengthening tribal self-governance To realise the goal of achieving a **“Naxal-free Bharat” by March 2026,** security measures need to go hand in hand with participatory and tribal led governance.
+    - **Panchayat Extension To Scheduled Areas Act (PESA) and Forest Rights Act 2006** for strengthening tribal self-governance To realise the goal of achieving a **“Naxal-free Bharat” by March 2026,** security measures need to go hand in hand with participatory and tribal led governance.
 
 [Question ID: 2018-gs3-q120-civilsdaily]
 
@@ -8001,47 +8001,47 @@ LWE refers to violent insurgency driven by **Maoist or Naxalite ideologies,** wi
 
 **Determinants of Left-Wing Extremism in Eastern India**
 
-**1. Jal, Jungle, Jameen** - Forced labour, expropriation of resources by outsiders, evasion of land ceiling laws, denial of land claims
+1. **Jal, Jungle, Jameen** - Forced labour, expropriation of resources by outsiders, evasion of land ceiling laws, denial of land claims
 
-  - **Maoist ideology** of **armed class struggle, anti-state revolution, and redistribution of resources** appeals to sections alienated by inequality and exclusion. Eg- narrative of a **“people’s war.”**
+    - **Maoist ideology** of **armed class struggle, anti-state revolution, and redistribution of resources** appeals to sections alienated by inequality and exclusion. Eg- narrative of a **“people’s war.”**
 
 <p align="center"><img src="images/civilsdaily_p121_img132.png" alt="Diagram" /></p>
 
-  - **Land Displacement** - Eg- Mining-induced displacement in **Jharkhand’s coal belt (Ramgarh, Hazaribagh).**
+    - **Land Displacement** - Eg- Mining-induced displacement in **Jharkhand’s coal belt (Ramgarh, Hazaribagh).**
 
-  - Poor implementation of **FRA, 2006,** and PESA. Eg- Nearly 15% of forest and community land claims under the FRA are pending.
+    - Poor implementation of **FRA, 2006,** and PESA. Eg- Nearly 15% of forest and community land claims under the FRA are pending.
 
-**5. Historical Socio-Economic Deprivation-** Eg- LWE districts like **Malkangiri, Sukma** have some of the lowest HDI indicators.
+5. **Historical Socio-Economic Deprivation-** Eg- LWE districts like **Malkangiri, Sukma** have some of the lowest HDI indicators.
 
-  - **Unemployment & Lack of Livelihood Options-** Eg- Jharkhand's rural districts have among the highest youth unemployment in Eastern India.
+    - **Unemployment & Lack of Livelihood Options-** Eg- Jharkhand's rural districts have among the highest youth unemployment in Eastern India.
 
-**7. Governance Deficit -** Eg- Large parts of **Southern Bastar** lacked road connectivity until recent years.
+7. **Governance Deficit -** Eg- Large parts of **Southern Bastar** lacked road connectivity until recent years.
 
-**8. Favourable Terrain - Eg-** Dandakaranya region offers natural hideouts and logistical advantages for guerrilla warfare.
+8. **Favourable Terrain - Eg-** Dandakaranya region offers natural hideouts and logistical advantages for guerrilla warfare.
 
-  - **Porous and forested borders** between **Chhattisgarh-Jharkhand-Odisha-Maharashtra** allow safe movement and sanctuary for cadres.
+    - **Porous and forested borders** between **Chhattisgarh-Jharkhand-Odisha-Maharashtra** allow safe movement and sanctuary for cadres.
 
-**10. Ineffective Policing & Security Gaps -** Poor training, lack of mobility, and limited intelligence in forest interiors.
+10. **Ineffective Policing & Security Gaps -** Poor training, lack of mobility, and limited intelligence in forest interiors.
 
-**11. Parallel Governance -** Maoists run jan adalats, levy taxes, provide quick dispute resolution-gaining perceived legitimacy in ungoverned spaces.
+11. **Parallel Governance -** Maoists run jan adalats, levy taxes, provide quick dispute resolution-gaining perceived legitimacy in ungoverned spaces.
 
 **Strategy to Counter LWE in Affected Regions**
 
 **Government of India**
 
-**1. Implement the “National Policy and Action Plan (2015)”** in timely manner
+1. **Implement the “National Policy and Action Plan (2015)”** in timely manner
 
-**2. Accelerate Development -** Road Requirement Plan (RRP-I), mobile towers, banking, health centres, PDS reforms in LWE belts.
+2. **Accelerate Development -** Road Requirement Plan (RRP-I), mobile towers, banking, health centres, PDS reforms in LWE belts.
 
-**3. Strengthening PESA -**
+3. **Strengthening PESA -**
 
-  - **real-time digital dashboards for fund utilization to Gram Sabhas**
+    - **real-time digital dashboards for fund utilization to Gram Sabhas**
 
-  - **"Bottom-Up" planning model - from "state imposition" to "participatory development”**
+    - **"Bottom-Up" planning model - from "state imposition" to "participatory development”**
 
-**4. Economic development**
+4. **Economic development**
 
-  - **"Forest-to-Market" Value Chain development through Van Dhan Vikas Kendras (VDVKs)**
+    - **"Forest-to-Market" Value Chain development through Van Dhan Vikas Kendras (VDVKs)**
 
 **b. Promotion of Tribal-Start-up Ecosystem in food processing - Eg- export of products like Mahua and wild honey Civil Administration strategy**
 
@@ -8057,13 +8057,13 @@ LWE refers to violent insurgency driven by **Maoist or Naxalite ideologies,** wi
 
 <p align="center"><img src="images/civilsdaily_p122_img133.png" alt="Diagram" /></p>
 
-**1. Strengthen Intelligence & Tech-Enabled Policing -** Use of drones, satellite mapping, GPS-based tracking, communication intercept tools.
+1. **Strengthen Intelligence & Tech-Enabled Policing -** Use of drones, satellite mapping, GPS-based tracking, communication intercept tools.
 
-**2. Capacity building - Eg-** fortified police stations, all-terrain vehicles for deep forest movement.
+2. **Capacity building - Eg-** fortified police stations, all-terrain vehicles for deep forest movement.
 
-**3. Inter-State Coordination -** Coordination between **Chhattisgarh-Odisha-Jharkhand-Maharashtra** in tri-junction zones.
+3. **Inter-State Coordination -** Coordination between **Chhattisgarh-Odisha-Jharkhand-Maharashtra** in tri-junction zones.
 
-  - **Community Policing -** Initiatives like **Jan Maitri,** sports outreach, and anti-propaganda programmes.
+    - **Community Policing -** Initiatives like **Jan Maitri,** sports outreach, and anti-propaganda programmes.
 
 **Progress anchored in justice and inclusion is the best antidote to extremism.**
 
@@ -8086,49 +8086,49 @@ LWE refers to violent insurgency driven by **Maoist or Naxalite ideologies,** wi
 
 **Social Issues Driving Naxalism**
 
-**1. Jal, Jungle, Jameen** - Forced labour, expropriation of resources by outsiders, evasion of land ceiling laws, denial of land claims
+1. **Jal, Jungle, Jameen** - Forced labour, expropriation of resources by outsiders, evasion of land ceiling laws, denial of land claims
 
-  - **Maoist ideology** of **armed class struggle, anti-state revolution, and redistribution of resources** appeals to sections alienated by inequality and exclusion. Eg- narrative of a **“people’s war.”**
+    - **Maoist ideology** of **armed class struggle, anti-state revolution, and redistribution of resources** appeals to sections alienated by inequality and exclusion. Eg- narrative of a **“people’s war.”**
 
-  - **Land Displacement** - Eg- Mining-induced displacement in **Jharkhand’s coal belt (Ramgarh, Hazaribagh).**
+    - **Land Displacement** - Eg- Mining-induced displacement in **Jharkhand’s coal belt (Ramgarh, Hazaribagh).**
 
-**4. Historical Socio-Economic Deprivation-** Eg- LWE districts like **Malkangiri, Sukma** have some of the lowest HDI indicators.
+4. **Historical Socio-Economic Deprivation-** Eg- LWE districts like **Malkangiri, Sukma** have some of the lowest HDI indicators.
 
 **Economic Issues Driving Naxalism**
 
 1. **Unemployment & Lack of Livelihood Options-** Eg- Jharkhand's rural districts have among the highest youth unemployment in Eastern India.
 
-**2. Resource Extraction without benefit sharing-** Mining projects with low local hiring.
+2. **Resource Extraction without benefit sharing-** Mining projects with low local hiring.
 
-**3. Absence of Market Linkages -** Eg- Bamboo and lac sold at low prices.
+3. **Absence of Market Linkages -** Eg- Bamboo and lac sold at low prices.
 
 **Developmental Issues Driving Naxalism**
 
-**1. Governance Vacuum -** poor service delivery and law enforcement.
+1. **Governance Vacuum -** poor service delivery and law enforcement.
 
-**2. Poor Infrastructure -** Lack of roads, telecom, electricity, and markets leaves communities isolated.
+2. **Poor Infrastructure -** Lack of roads, telecom, electricity, and markets leaves communities isolated.
 
-**3. Low Human Development Indicators -** High malnutrition, low literacy, and inadequate health facilities.
+3. **Low Human Development Indicators -** High malnutrition, low literacy, and inadequate health facilities.
 
-**4. Poor implementation of welfare schemes -** Leakages, corruption, and absence of monitoring. EgNearly 15% of forest and community land claims under the FRA are pending.
+4. **Poor implementation of welfare schemes -** Leakages, corruption, and absence of monitoring. EgNearly 15% of forest and community land claims under the FRA are pending.
 
 **Emerging issues**
 
-**1. Red corridor in 11 districts** in Maharashtra, Chhattisgarh, MP and Andhra pradesh
+1. **Red corridor in 11 districts** in Maharashtra, Chhattisgarh, MP and Andhra pradesh
 
 <p align="center"><img src="images/civilsdaily_p123_img134.png" alt="Diagram" /></p>
 
-**2. Urban Front Strategy -** Urban Naxals aim to gain legal and logistical support from cities-referred to as the "."
+2. **Urban Front Strategy -** Urban Naxals aim to gain legal and logistical support from cities-referred to as the "."
 
-**3. Tactical Asymmetry and "Contactless" Warfare - Eg-** use of **Improvised Explosive Devices (IEDs)** and drones
+3. **Tactical Asymmetry and "Contactless" Warfare - Eg-** use of **Improvised Explosive Devices (IEDs)** and drones
 
-**4. Dandakaranya region** along **Chhattisgarh-Maharashtra-Odisha** remains a key guerrilla base due to its difficult terrain.
+4. **Dandakaranya region** along **Chhattisgarh-Maharashtra-Odisha** remains a key guerrilla base due to its difficult terrain.
 
-  - **Recruitment of Minors and Vulnerable Youth** - Eg- Reports of child soldiers in southern Bastar.
+    - **Recruitment of Minors and Vulnerable Youth** - Eg- Reports of child soldiers in southern Bastar.
 
-  - **Inter-State Coordination Challenges** in **intelligence sharing and joint operations.**
+    - **Inter-State Coordination Challenges** in **intelligence sharing and joint operations.**
 
-  - Over 78,000 hectares of forest land was approved for diversion across India for non-forest usage in the last four years.
+    - Over 78,000 hectares of forest land was approved for diversion across India for non-forest usage in the last four years.
 
 **Multilayered strategy**
 
@@ -8189,37 +8189,37 @@ LWE refers to violent insurgency driven by **Maoist or Naxalite ideologies,** wi
 
 **Determinants of Left-Wing Extremism in Eastern India**
 
-**1. Jal, Jungle, Jameen**
+1. **Jal, Jungle, Jameen**
 
-**2. Maoist ideology of armed class struggle**
+2. **Maoist ideology of armed class struggle**
 
-**3. Land Displacement due to Mining**
+3. **Land Displacement due to Mining**
 
 <p align="center"><img src="images/civilsdaily_p124_img136.png" alt="Diagram" /></p>
 
-**4. Poor implementation of FRA, 2006, and PESA.**
+4. **Poor implementation of FRA, 2006, and PESA.**
 
-**5. Historical Socio-Economic Deprivation**
+5. **Historical Socio-Economic Deprivation**
 
-**6. Unemployment & Lack of Livelihood Options**
+6. **Unemployment & Lack of Livelihood Options**
 
-**7. Governance Deficit**
+7. **Governance Deficit**
 
-**8. Geographical challenges Impact on people**
+8. **Geographical challenges Impact on people**
 
-  - Over **14,000 lives were lost** to Naxal violence in the last 20 years
+    - Over **14,000 lives were lost** to Naxal violence in the last 20 years
 
-  - **Infrastructure Destruction-** targeting road networks, railways, and telecom towers in the "Red Corridor".
+    - **Infrastructure Destruction-** targeting road networks, railways, and telecom towers in the "Red Corridor".
 
-  - **Extortion and "Levy"** on contractors and industries, (7-10% on road construction, 2%-3%\ on school/college construction), and approximately ₹5 million from factories or mines.
+    - **Extortion and "Levy"** on contractors and industries, (7-10% on road construction, 2%-3%\ on school/college construction), and approximately ₹5 million from factories or mines.
 
-  - **Human Rights Violations** - Eg- abduction and killing of local leaders
+    - **Human Rights Violations** - Eg- abduction and killing of local leaders
 
-  - **Low-growth trap** increases inequality and poverty. Eg- The HDI for Malkangiri district (Odisha) - a LWE stronghold - is only 0.37, compared to the state’s average of 0.579.
+    - **Low-growth trap** increases inequality and poverty. Eg- The HDI for Malkangiri district (Odisha) - a LWE stronghold - is only 0.37, compared to the state’s average of 0.579.
 
-  - **Socio-economic impact** - Eg- As per MHA report, 70% population of naxal affected areas lives under BPL.
+    - **Socio-economic impact** - Eg- As per MHA report, 70% population of naxal affected areas lives under BPL.
 
-  - **Recruitment of Minors and Vulnerable Youth** - Eg- Reports of child soldiers in southern Bastar.
+    - **Recruitment of Minors and Vulnerable Youth** - Eg- Reports of child soldiers in southern Bastar.
 
 **Measures taken by government**
 
@@ -8294,7 +8294,7 @@ Eg- proximity to **Golden Traingle**
 
 10. **High Violence-** In 2024, NE India experienced 266 insurgency-related incidents, causing 258 deaths and displacing 60,000 people.
 
-**11. External factors**
+11. **External factors**
 
 **a. China -** Territorial claims in Arunachal Pradesh and support to insurgent groups
 
@@ -8363,25 +8363,25 @@ Recently, MHA has declared ‘Jamaat-e-Islami Jammu Kashmir (JeI)’ as an **'Un
 
 7. **Maintaining Militant-Local Community Linkages-** create public sympathy for militants, and organise funerals or protests to build support. Eg- funeral of Burhan Wani **Measures to Neutralise the Influence of OGWs Intelligence and Policing Measures**
 
-**1. Integrated Intelligence Grid (IIG) -** Real-time coordination between police, IB, NIA and security forces to identify OGW networks.
+1. **Integrated Intelligence Grid (IIG) -** Real-time coordination between police, IB, NIA and security forces to identify OGW networks.
 
-**2. Use of Technology for Profiling -** AI-based monitoring of suspicious financial transactions, travel patterns and digital communication.
+2. **Use of Technology for Profiling -** AI-based monitoring of suspicious financial transactions, travel patterns and digital communication.
 
-**3. Strengthening Local Police and Community Intelligence -** Eg- Village Defence Groups in Rajouri-Poonch.
+3. **Strengthening Local Police and Community Intelligence -** Eg- Village Defence Groups in Rajouri-Poonch.
 
-  - **Tightening Border Surveillance -** Use of drones, sensors, and night-vision to check infiltration and OGW courier routes.
+    - **Tightening Border Surveillance -** Use of drones, sensors, and night-vision to check infiltration and OGW courier routes.
 
 **Legal and Institutional Measures**
 
-**1. Action through UAPA & NIA Act -** Freezing bank accounts and shutting down front organisations.
+1. **Action through UAPA & NIA Act -** Freezing bank accounts and shutting down front organisations.
 
-**2. Regulating NGOs, Religious Networks - Eg-** FCRA audits of charity organisations **Community and Preventive Measures**
+2. **Regulating NGOs, Religious Networks - Eg-** FCRA audits of charity organisations **Community and Preventive Measures**
 
-**1. De-radicalisation and Counselling of** youth
+1. **De-radicalisation and Counselling of** youth
 
-  - **Heart and mind strategy - Eg- Operation Sadbhavana** (Goodwill) of Indian Army
+    - **Heart and mind strategy - Eg- Operation Sadbhavana** (Goodwill) of Indian Army
 
-  - **Employment and Skill Development to** mainstream youth. Eg- Udaan Scheme OGWs are the **backbone of insurgency.** A **multi-layered approach** is needed to break the support ecosystem of terrorism.
+    - **Employment and Skill Development to** mainstream youth. Eg- Udaan Scheme OGWs are the **backbone of insurgency.** A **multi-layered approach** is needed to break the support ecosystem of terrorism.
 
 [Question ID: 2019-gs3-q125-civilsdaily]
 
@@ -8400,45 +8400,45 @@ The “Hearts and Minds” approach in counter-terrorism is a **strategic doctri
 
 **Importance of Hearts and Minds**
 
-**1. Prevention of Radicalization** by deligitimising terrorism
+1. **Prevention of Radicalization** by deligitimising terrorism
 
-**2. Community Intelligence Gathering**
+2. **Community Intelligence Gathering**
 
-**3. Reducing Support for Terrorist Activities**
+3. **Reducing Support for Terrorist Activities**
 
-**4. Enhanced Legitimacy of the State -** state as ‘development partner’ rather than ‘occupying force’
+4. **Enhanced Legitimacy of the State -** state as ‘development partner’ rather than ‘occupying force’
 
-**5. Long-Term Stability and Peace** as ‘residual anger’ is addressed **Measures adopted by the Government**
+5. **Long-Term Stability and Peace** as ‘residual anger’ is addressed **Measures adopted by the Government**
 
-**1. National integration** through **abrogation of Article 370**
+1. **National integration** through **abrogation of Article 370**
 
-**2. Operation Sadbhavana -** Army-led goodwill initiatives focusing on education, healthcare and youth engagement.
+2. **Operation Sadbhavana -** Army-led goodwill initiatives focusing on education, healthcare and youth engagement.
 
-**3. Civic Action Programme (CAP) -** Police and CAPFs hold public meetings, sports events and grievance redress camps. Eg- Jan Sampark melas
+3. **Civic Action Programme (CAP) -** Police and CAPFs hold public meetings, sports events and grievance redress camps. Eg- Jan Sampark melas
 
-  - **Skill development, entrepreneurship** push - Eg- **Mission Youth and Himayat**
+    - **Skill development, entrepreneurship** push - Eg- **Mission Youth and Himayat**
 
-  - **Social infrastructure development -** Eg- IIT and AIIMS in jammu
+    - **Social infrastructure development -** Eg- IIT and AIIMS in jammu
 
-  - **Connectivity initiatives** for tourism promotion. **Eg- Chenab Bridge, and running Vande Bharat trains**
+    - **Connectivity initiatives** for tourism promotion. **Eg- Chenab Bridge, and running Vande Bharat trains**
 
-  - **De-radicalisation Centres -** Counselling sessions for first-time offenders.
+    - **De-radicalisation Centres -** Counselling sessions for first-time offenders.
 
-  - **Surrender and Rehabilitation policy for former militants** through financial assistance, education and job support.
+    - **Surrender and Rehabilitation policy for former militants** through financial assistance, education and job support.
 
-  - **Targeted Security Approach -** Eg- Focus on OGWs and hybrid militants without mass crackdowns.
+    - **Targeted Security Approach -** Eg- Focus on OGWs and hybrid militants without mass crackdowns.
 
-  - **Community Policing -** Eg- Village Defence Groups in Rajouri-Poonch.
+    - **Community Policing -** Eg- Village Defence Groups in Rajouri-Poonch.
 
 For **long-term** peace and stability in the region 4-pronged stategy is needed
 
-  - Strengthening **HUMINT (Human Intelligence) and TECHINT (Technological Intelligence).**
+    - Strengthening **HUMINT (Human Intelligence) and TECHINT (Technological Intelligence).**
 
-**2. SMART Boders (Madhukar Gupta Committee)**
+2. **SMART Boders (Madhukar Gupta Committee)**
 
-**3. Raising cost of terrorism for Pakistan. Eg- Operation Sindoor**
+3. **Raising cost of terrorism for Pakistan. Eg- Operation Sindoor**
 
-**4. Human-centric Counterinsurgency**
+4. **Human-centric Counterinsurgency**
 
 [Question ID: 2023-gs3-q126-civilsdaily]
 
@@ -8483,55 +8483,55 @@ For **long-term** peace and stability in the region 4-pronged stategy is needed
 
 **Counter-Measures Adopted by the State**
 
-**1. Legislative Measures**
+1. **Legislative Measures**
 
-  - **UAPA, 1967** - empowers State to designate individuals as terrorists.
+    - **UAPA, 1967** - empowers State to designate individuals as terrorists.
 
-  - **NIA Act, 2008** - established National Investigation Agency with nationwide jurisdiction.
+    - **NIA Act, 2008** - established National Investigation Agency with nationwide jurisdiction.
 
-  - **PMLA, 2002** - to curb money laundering and terror financing.
+    - **PMLA, 2002** - to curb money laundering and terror financing.
 
-**2. Institutional Mechanisms**
+2. **Institutional Mechanisms**
 
-  - **National Security Council Secretariat** headed by the **NSA for inter-agency coordination**
+    - **National Security Council Secretariat** headed by the **NSA for inter-agency coordination**
 
-  - **NATGRID** and **Multi-Agency Centre** for real-time intelligence sharing and coordination
+    - **NATGRID** and **Multi-Agency Centre** for real-time intelligence sharing and coordination
 
-**3. Operational Measures**
+3. **Operational Measures**
 
-  - **Operation Sindoor, Surgical Strikes (2016)** and **Balakot airstrikes (2019)** as deterrence.
+    - **Operation Sindoor, Surgical Strikes (2016)** and **Balakot airstrikes (2019)** as deterrence.
 
-  - **Operation All-Out** in J&K to neutralize militants.
+    - **Operation All-Out** in J&K to neutralize militants.
 
-**4. Border & Internal Security Measures**
+4. **Border & Internal Security Measures**
 
-  - **Fencing and electronic surveillance** along the Indo-Pak and Indo-Bangladesh borders.
+    - **Fencing and electronic surveillance** along the Indo-Pak and Indo-Bangladesh borders.
 
-  - Use of **drones, radars, and thermal imaging** to detect infiltration.
+    - Use of **drones, radars, and thermal imaging** to detect infiltration.
 
-**5. Community Engagement**
+5. **Community Engagement**
 
-  - **De-radicalisation programmes** in J&K.
+    - **De-radicalisation programmes** in J&K.
 
-  - **Heart and mind strategy - Eg- Operation Sadbhavana** (Goodwill) of Indian Army
+    - **Heart and mind strategy - Eg- Operation Sadbhavana** (Goodwill) of Indian Army
 
-  - **Employment and Skill Development to** mainstream youth. Eg- Udaan Scheme
+    - **Employment and Skill Development to** mainstream youth. Eg- Udaan Scheme
 
-**6. International Cooperation**
+6. **International Cooperation**
 
-  - Active role in **FATF** to blacklist terror-financing states.
+    - Active role in **FATF** to blacklist terror-financing states.
 
-  - **UN sanctions listing** of terrorists like Masood Azhar and Hafiz Saeed.
+    - **UN sanctions listing** of terrorists like Masood Azhar and Hafiz Saeed.
 
 The **zero tolerance against terrorism** strategy needs 4-pronged approach
 
-  - Strengthening **HUMINT (Human Intelligence) and TECHINT (Technological Intelligence).**
+    - Strengthening **HUMINT (Human Intelligence) and TECHINT (Technological Intelligence).**
 
-  - **SMART Borders (Madhukar Gupta Committee)**
+    - **SMART Borders (Madhukar Gupta Committee)**
 
-  - **Raising cost of terrorism for Pakistan. Eg- Operation Sindoor**
+    - **Raising cost of terrorism for Pakistan. Eg- Operation Sindoor**
 
-  - **Human-centric Counterinsurgency**
+    - **Human-centric Counterinsurgency**
 
 [Question ID: 2025-gs3-q127-civilsdaily]
 
@@ -8588,29 +8588,29 @@ In response to the evolving internal security threat posed by **terrorism,** GoI
 
 9. Ensures **timely and speedy prosecution** of terrorists through special courts **Criticism and Opposition by Human Rights Organisations**
 
-**1. Violation of Personal Liberty -** Stringent bail provisions and prolonged detention (180 days) affect **Article 21.**
+1. **Violation of Personal Liberty -** Stringent bail provisions and prolonged detention (180 days) affect **Article 21.**
 
-**2. Risk of Misuse -** Broad definitions allow targeting of **activists, journalists and dissenters.**
+2. **Risk of Misuse -** Broad definitions allow targeting of **activists, journalists and dissenters.**
 
-**3. Absence of Prior Judicial Oversight -** Individual can be designated as terrorist **without conviction or trial.**
+3. **Absence of Prior Judicial Oversight -** Individual can be designated as terrorist **without conviction or trial.**
 
 **4.** Departure from criminal jurisprudence norm of **innocent until proven guilty -** Burden of proof shifts to accused.
 
-**5. Low conviction rate** for UAPA cases between 2019 and 2023 **(only 3.1%)**
+5. **Low conviction rate** for UAPA cases between 2019 and 2023 **(only 3.1%)**
 
-  - **Vague Definitions** - Terms like “unlawful activity” and “terrorist act” are broadly defined
+    - **Vague Definitions** - Terms like “unlawful activity” and “terrorist act” are broadly defined
 
-  - **Lack of procedural safeguards** - The government is not required to provide grounds for arrest or detention.
+    - **Lack of procedural safeguards** - The government is not required to provide grounds for arrest or detention.
 
-  - Against the **federal structure** - amendment has made the NIA “a **parallel police structure” Way Forward**
+    - Against the **federal structure** - amendment has made the NIA “a **parallel police structure” Way Forward**
 
-  - **Strengthen Procedural Safeguards**
+    - **Strengthen Procedural Safeguards**
 
-  - **Clear Legal Definitions**
+    - **Clear Legal Definitions**
 
-  - **Periodic review**
+    - **Periodic review**
 
-  - **Time-Bound Investigations and Trials** A law and institution as powerful as UAPA and NIA respectively, must be wielded with **precision, accountability, and a deep commitment to constitutional values.**
+    - **Time-Bound Investigations and Trials** A law and institution as powerful as UAPA and NIA respectively, must be wielded with **precision, accountability, and a deep commitment to constitutional values.**
 
 [Question ID: 2019-gs3-q128-civilsdaily]
 
@@ -8679,19 +8679,19 @@ In response to the evolving internal security threat posed by **terrorism,** GoI
 
 **7.** Monitoring of NGOs for FCRA compliance. Eg- Ban on NGOs linked to Zakir Naik
 
-**8. Promotion and Regulation of Online Gaming Act (PROGA) 2025** - bans all real-money online gaming (RMG), including games of skill
+8. **Promotion and Regulation of Online Gaming Act (PROGA) 2025** - bans all real-money online gaming (RMG), including games of skill
 
-  - **National Intelligence Grid (NATGRID),** has been created as an IT platform to assist the intelligence and law enforcement agencies.
+    - **National Intelligence Grid (NATGRID),** has been created as an IT platform to assist the intelligence and law enforcement agencies.
 
 **Aim and Objective of the ‘No Money for Terror (NMFT)’ Conference**
 
-**1. Global Cooperation on Terror Financing**
+1. **Global Cooperation on Terror Financing**
 
-**2. Focus on Trends in Terror Funding -** Deliberations focused on **formal and informal channels,** and the evolving methods of terror finance.
+2. **Focus on Trends in Terror Funding -** Deliberations focused on **formal and informal channels,** and the evolving methods of terror finance.
 
-**3. Regulating and countering use of Emerging Technologies like cryptocurrencies and digital platforms** for terror financing
+3. **Regulating and countering use of Emerging Technologies like cryptocurrencies and digital platforms** for terror financing
 
-  - **Mobilise resources** to enable LDCs and developing countries to counter terror financing
+    - **Mobilise resources** to enable LDCs and developing countries to counter terror financing
 
 **5.** Enhance **information sharing, harmonise legal measures, and bolster mutual assistance** between countries to intercept and prosecute terror financing.
 
@@ -8722,41 +8722,41 @@ In response to the evolving internal security threat posed by **terrorism,** GoI
 
 **Narco-Terrorism as a Serious Threat in India**
 
-**1. Financing of Terror-** Eg- **Heroin smuggling from Afghanistan-Pakistan route** funding terrorism in **Jammu & Kashmir** and **Punjab.**
+1. **Financing of Terror-** Eg- **Heroin smuggling from Afghanistan-Pakistan route** funding terrorism in **Jammu & Kashmir** and **Punjab.**
 
 <p align="center"><img src="images/civilsdaily_p131_img139.png" alt="Diagram" /></p>
 
 **2.** India lies between the **Golden Crescent** and **Golden Triangle,** making it vulnerable as a transit and destination country.
 
-**3. Nexus between Terror Groups and Organised Crime** to move drugs and launder money.
+3. **Nexus between Terror Groups and Organised Crime** to move drugs and launder money.
 
-**4. Destabilisation of Border States-** Eg- Rising drug addiction and arms recovery in **Punjab.**
+4. **Destabilisation of Border States-** Eg- Rising drug addiction and arms recovery in **Punjab.**
 
-**5. Use of Advanced Technology-** Eg- **Drone-based drug and arms drops across the Punjab border.**
+5. **Use of Advanced Technology-** Eg- **Drone-based drug and arms drops across the Punjab border.**
 
-**6. Threat to Youth and Social Fabric -** Eg- as per AIIMS report, 15.4% of Punjab's population was engaged in some form of substance use (over 3 million people)
+6. **Threat to Youth and Social Fabric -** Eg- as per AIIMS report, 15.4% of Punjab's population was engaged in some form of substance use (over 3 million people)
 
-  - **Crisis Multiplier Effect - Instability + insurgency + trafficking → weakened national security.**
+    - **Crisis Multiplier Effect - Instability + insurgency + trafficking → weakened national security.**
 
-  - **Maritime security concerns** - drugs worth over ₹11000 crore were seized from seaports in last 5 years.
+    - **Maritime security concerns** - drugs worth over ₹11000 crore were seized from seaports in last 5 years.
 
 **Measures to Counter Narco-Terrorism**
 
-**1. Strengthening Border Management -** Enhance surveillance, fencing, anti-drone systems and coastal security.
+1. **Strengthening Border Management -** Enhance surveillance, fencing, anti-drone systems and coastal security.
 
-**2. Integrated Intelligence -** Seamless coordination among **NIA, NCIB, ED, DRI, state police and intelligence agencies.**
+2. **Integrated Intelligence -** Seamless coordination among **NIA, NCIB, ED, DRI, state police and intelligence agencies.**
 
-**3. Targeting Financial Networks -** Crackdown on money laundering, hawala and benami assets linked to drug trade.
+3. **Targeting Financial Networks -** Crackdown on money laundering, hawala and benami assets linked to drug trade.
 
-**4. International Cooperation -** Cooperation under **FATF framework** and bilateral mechanisms.
+4. **International Cooperation -** Cooperation under **FATF framework** and bilateral mechanisms.
 
-**5. Legal and Institutional Strengthening -** Swift prosecution under **Narcotic Drugs and Psychotropic Substances (NDPS) Act, 1985**
+5. **Legal and Institutional Strengthening -** Swift prosecution under **Narcotic Drugs and Psychotropic Substances (NDPS) Act, 1985**
 
-**6. Technological Solutions -** Use of AI, data analytics and drone monitoring to track trafficking routes.
+6. **Technological Solutions -** Use of AI, data analytics and drone monitoring to track trafficking routes.
 
-  - Fast track implementation of **National Action Plan for Drug Demand Reduction (NAPDDR) and Nasha Mukt Bharat Abhiyaan (NMBA)**
+    - Fast track implementation of **National Action Plan for Drug Demand Reduction (NAPDDR) and Nasha Mukt Bharat Abhiyaan (NMBA)**
 
-  - **Community Policing -** Involve border communities in intelligence gathering.
+    - **Community Policing -** Involve border communities in intelligence gathering.
 
 A **multi-pronged strategy** under **zero tolerance for narcotics** is essential to dismantle the narco-terror ecosystem and **‘Nasha Mukt Bharat’.**
 
@@ -8894,19 +8894,19 @@ opium-growing states has enhanced her internal security concerns. Explain the li
 
 **Linkages between Drug Trafficking and Other Illicit Activities**
 
-**1. Drug Trafficking-Gunrunning Nexus -** Eg- **Heroin smuggling via Punjab border** linked with **arms drops using drones** from across the border.
+1. **Drug Trafficking-Gunrunning Nexus -** Eg- **Heroin smuggling via Punjab border** linked with **arms drops using drones** from across the border.
 
-**2. Drug Trafficking-Money Laundering Nexus -** Drug proceeds are laundered through **hawala networks, shell companies and benami assets.**
+2. **Drug Trafficking-Money Laundering Nexus -** Drug proceeds are laundered through **hawala networks, shell companies and benami assets.**
 
-**3. Drug Trafficking-Terrorism Nexus (Narco-terrorism)-** Eg- **Heroin trade from Afghanistan** funding terrorism in **Jammu & Kashmir.**
+3. **Drug Trafficking-Terrorism Nexus (Narco-terrorism)-** Eg- **Heroin trade from Afghanistan** funding terrorism in **Jammu & Kashmir.**
 
-**4. Drug Trafficking-Human Trafficking Nexus-** Eg- **Rohingya and migrant trafficking routes in Northeast India** overlapping with narcotics corridors.
+4. **Drug Trafficking-Human Trafficking Nexus-** Eg- **Rohingya and migrant trafficking routes in Northeast India** overlapping with narcotics corridors.
 
-**5. Drug Trafficking-Organised Crime Nexus-** Eg- **Mafia networks in border states** controlling drug distribution and extortion.
+5. **Drug Trafficking-Organised Crime Nexus-** Eg- **Mafia networks in border states** controlling drug distribution and extortion.
 
-**6. Drug Trafficking-Counterfeit Currency Nexus -** Fake currency used to settle drug deals and destabilise economy.
+6. **Drug Trafficking-Counterfeit Currency Nexus -** Fake currency used to settle drug deals and destabilise economy.
 
-**7. Drug Trafficking-Cybercrime Nexus-** Eg- Use of **encrypted messaging apps and crypto wallets** for narcotics trade.
+7. **Drug Trafficking-Cybercrime Nexus-** Eg- Use of **encrypted messaging apps and crypto wallets** for narcotics trade.
 
 **Measures to Counter Narco-Terrorism**
 
@@ -8977,37 +8977,37 @@ Measures taken
 
 **At national Level**
 
-**1. PMLA, 2002 and Amendments**
+1. **PMLA, 2002 and Amendments**
 
-  - Definition of **"proceeds of crime" expanded** to include assets held **abroad.**
+    - Definition of **"proceeds of crime" expanded** to include assets held **abroad.**
 
-  - **Virtual digital assets (VDAs)** like cryptocurrencies, **online gaming and betting platforms** brought under PMLA.
+    - **Virtual digital assets (VDAs)** like cryptocurrencies, **online gaming and betting platforms** brought under PMLA.
 
-  - PMLA linked with **National Financial Information Registry** (RBI) to improve **real-time data monitoring.**
+    - PMLA linked with **National Financial Information Registry** (RBI) to improve **real-time data monitoring.**
 
-  - **ED-** Investigates offences under PMLA, including **attachment and confiscation of properties.** Egover 6000 cases filed
+    - **ED-** Investigates offences under PMLA, including **attachment and confiscation of properties.** Egover 6000 cases filed
 
-  - **Financial Intelligence Unit - India (FIU-IND)-** Receives and analyses **suspicious transaction reports** from banks and financial institutions.
+    - **Financial Intelligence Unit - India (FIU-IND)-** Receives and analyses **suspicious transaction reports** from banks and financial institutions.
 
-  - Regulatory Measures by Financial Regulators **(KYC norms)**
+    - Regulatory Measures by Financial Regulators **(KYC norms)**
 
-  - RBI for banking
+    - RBI for banking
 
-  - SEBI for capital markets
+    - SEBI for capital markets
 
-  - IRDAI for insurance **At international level**
+    - IRDAI for insurance **At international level**
 
-**1. Vienna convention on** money laundering 1988.
+1. **Vienna convention on** money laundering 1988.
 
-**2. FATF -** Intergovernmental body setting global AML standards. (India in “regular follow-up” category highest rating by FATF)
+2. **FATF -** Intergovernmental body setting global AML standards. (India in “regular follow-up” category highest rating by FATF)
 
-  - **Egmont Group -** International network of FIUs for sharing of financial intelligence across borders.
+    - **Egmont Group -** International network of FIUs for sharing of financial intelligence across borders.
 
-  - **Basel AML Index -** Ranks countries on AML risk.
+    - **Basel AML Index -** Ranks countries on AML risk.
 
-  - **OECD Common Reporting Standard (CRS) -** Information exchange among countries to detect offshore tax evasion and illicit financial flows.
+    - **OECD Common Reporting Standard (CRS) -** Information exchange among countries to detect offshore tax evasion and illicit financial flows.
 
-  - India has signed **DTAA with 85 countries** to prevent illegal activities like tax evasion & money laundering.
+    - India has signed **DTAA with 85 countries** to prevent illegal activities like tax evasion & money laundering.
 
 These measures India’s commitment to **zero tolerance for money laundering and terror funding.**
 
@@ -9030,33 +9030,33 @@ Internal security can be defined as the **management of security** within the bo
 
 **Challenges from External State Actors**
 
-**1. Proxy Warfare** by Pakistan to **‘Bleed India by thousand cuts’.** Eg- **Pakistan-backed LeT and JeM** in Jammu & Kashmir.
+1. **Proxy Warfare** by Pakistan to **‘Bleed India by thousand cuts’.** Eg- **Pakistan-backed LeT and JeM** in Jammu & Kashmir.
 
-**2. Border incursions** by china. Eg- **Galwan clash**
+2. **Border incursions** by china. Eg- **Galwan clash**
 
-**3. Cyber spionage** targeting digital and critical systems. Eg- **APT41** (China), targeted Indian telecom, power grids
+3. **Cyber spionage** targeting digital and critical systems. Eg- **APT41** (China), targeted Indian telecom, power grids
 
-**4. Strategic Encirclement** under ‘string of pearls’. Eg- Chinese presence at **Gwadar, Hambantota and Maldives.**
+4. **Strategic Encirclement** under ‘string of pearls’. Eg- Chinese presence at **Gwadar, Hambantota and Maldives.**
 
-**5. Disinformation Operations -** Use of **social media and digital platforms** to spread **fake news,** incite communal unrest, and **delegitimize democratic institutions.**
+5. **Disinformation Operations -** Use of **social media and digital platforms** to spread **fake news,** incite communal unrest, and **delegitimize democratic institutions.**
 
-  - **Hybrid Warfare -** Eg- use of drones by Pakistan to challenge India's air defenses during 2025 Operation Sindoor
+    - **Hybrid Warfare -** Eg- use of drones by Pakistan to challenge India's air defenses during 2025 Operation Sindoor
 
-  - **Illegal migration** along porus border impacting demography in border states and leading to social unrest. Eg- Rohingya infiltration via Bangladesh **Challenges from External Non-State Actors**
+    - **Illegal migration** along porus border impacting demography in border states and leading to social unrest. Eg- Rohingya infiltration via Bangladesh **Challenges from External Non-State Actors**
 
-**1. Terrorist Organisations -** Violence to create fear and instability. Eg- Red Fort Bombings
+1. **Terrorist Organisations -** Violence to create fear and instability. Eg- Red Fort Bombings
 
-  - **Organized Crime Syndicates -** Terror-financing, arms & drug smuggling, extortion, money laundering etc. Eg- D-Company
+    - **Organized Crime Syndicates -** Terror-financing, arms & drug smuggling, extortion, money laundering etc. Eg- D-Company
 
-  - **Left-Wing Extremists (Naxalites) -** Guerrilla attacks on police and destruction of infrastructure. Egdantewada attack
+    - **Left-Wing Extremists (Naxalites) -** Guerrilla attacks on police and destruction of infrastructure. Egdantewada attack
 
-  - **North-East Insurgent Groups -** Ethnic militancy, drug and human trafficking along India-Myanmar border. Eg- NSCN (IM), ULFA
+    - **North-East Insurgent Groups -** Ethnic militancy, drug and human trafficking along India-Myanmar border. Eg- NSCN (IM), ULFA
 
-  - **Cyber Criminals -** Data breaches, espionage, financial frauds, infrastructure sabotage etc. EgRedEcho group (China-linked)
+    - **Cyber Criminals -** Data breaches, espionage, financial frauds, infrastructure sabotage etc. EgRedEcho group (China-linked)
 
-  - **Foreign-Funded NGOs -** Anti-development protests, exploitation of tribal/ethnic fault lines (loss of 2% of GDP - **IB Report).**
+    - **Foreign-Funded NGOs -** Anti-development protests, exploitation of tribal/ethnic fault lines (loss of 2% of GDP - **IB Report).**
 
-  - **Narco-Terrorism - Drug trade funding violence and terrorism.** Eg- **Heroin and arms smuggling via Punjab border.**
+    - **Narco-Terrorism - Drug trade funding violence and terrorism.** Eg- **Heroin and arms smuggling via Punjab border.**
 
 **Measures required**
 
@@ -9408,7 +9408,7 @@ As per **IT Act, 2000,** "cyber security" means protecting information, equipmen
 
 8. **Compliance Burden -** The stringent requirements of the **DPDP Act** impose a heavy financial burden on small businesses.
 
-**9. Data Colonization -** India generates **20% of global data,** yet most of it is processed in offshore data centers Addressing these challenges requires viewing cybersecurity not as a technical IT issue but as a **National Security Priority** that demands a "Whole-of-Society" response.
+9. **Data Colonization -** India generates **20% of global data,** yet most of it is processed in offshore data centers Addressing these challenges requires viewing cybersecurity not as a technical IT issue but as a **National Security Priority** that demands a "Whole-of-Society" response.
 
 [Question ID: 2022-gs3-q138-civilsdaily]
 
@@ -9911,33 +9911,33 @@ India follows the **"One Border, One Force"** principle to ensure specialized gu
 
 5. **Role of OGW -** generate pro-terror content, circulate videos and organise protests to delegitimise the state.
 
-**6. Sir Creek Issue** remains unresolved **Development Initiatives- BADP and BIM Schemes ("Development-as-Defense" strategy) Border Area Development Programme (BADP)**
+6. **Sir Creek Issue** remains unresolved **Development Initiatives- BADP and BIM Schemes ("Development-as-Defense" strategy) Border Area Development Programme (BADP)**
 
-  - **Centrally Sponsored Scheme** to meet the special developmental needs of people living within **0–50 km** of the International Border.
+    - **Centrally Sponsored Scheme** to meet the special developmental needs of people living within **0–50 km** of the International Border.
 
-  - **"Model Villages"** with socio-economic infrastructure
+    - **"Model Villages"** with socio-economic infrastructure
 
-  - **Infrastructure Development-** Eg- Construction of link roads, bridges, and PHCs
+    - **Infrastructure Development-** Eg- Construction of link roads, bridges, and PHCs
 
-  - **Livelihood & Skill Development-** vocational training in hospitality, agriculture, and handicrafts
+    - **Livelihood & Skill Development-** vocational training in hospitality, agriculture, and handicrafts
 
-  - Convergence with the **Vibrant Villages Programme (VVP).**
+    - Convergence with the **Vibrant Villages Programme (VVP).**
 
-  - **Promotion of Border Tourism-** Develops "Border Haats" and tourism circuits
+    - **Promotion of Border Tourism-** Develops "Border Haats" and tourism circuits
 
-  - **Digital Connectivity-** Implementation of **e-Chaupals** and Wi-Fi hotspots **Border Infrastructure and Management (BIM) Scheme**
+    - **Digital Connectivity-** Implementation of **e-Chaupals** and Wi-Fi hotspots **Border Infrastructure and Management (BIM) Scheme**
 
-  - For the period **2021-22 to 2025-26** with an outlay of **₹13,020 crore.**
+    - For the period **2021-22 to 2025-26** with an outlay of **₹13,020 crore.**
 
-  - Central Sector Scheme (100% funding by MHA) focused on "Hard Security Infrastructure" and technological modernization.
+    - Central Sector Scheme (100% funding by MHA) focused on "Hard Security Infrastructure" and technological modernization.
 
-  - **Smart Fencing (CIBMS)-** uses laser walls, thermal imagers, and unattended ground sensors to detect intrusions.
+    - **Smart Fencing (CIBMS)-** uses laser walls, thermal imagers, and unattended ground sensors to detect intrusions.
 
-  - **All-weather Connectivity-** Construction of strategic roads and tunnels by the **Border Roads Organization (BRO).** Eg- Sela Tunnel and Shinku La Tunnel.
+    - **All-weather Connectivity-** Construction of strategic roads and tunnels by the **Border Roads Organization (BRO).** Eg- Sela Tunnel and Shinku La Tunnel.
 
-  - **Frontier Highways-** Eg- **1,800 km Highway** in Arunachal Pradesh
+    - **Frontier Highways-** Eg- **1,800 km Highway** in Arunachal Pradesh
 
-  - Creation of new **Border Outposts (BOPs)** and **Company Operating Bases (COBs)** with advanced "hard-kill" anti-drone systems.
+    - Creation of new **Border Outposts (BOPs)** and **Company Operating Bases (COBs)** with advanced "hard-kill" anti-drone systems.
 
 The integration of **modern technology** with **civil-military cooperation** is essential to create **"Multi-layered**
 
@@ -10474,37 +10474,37 @@ As per **UNDRR,** vulnerability refers to the conditions determined by physical,
 
 4. **68%** of its cultivable area is vulnerable to **droughts Vulnerability can be characterized as follow**
 
-**1. Exposure to Hazard -** Settlements on riverbanks or seismic zones are more vulnerable. Eg- Joshimath (Uttarakhand)
+1. **Exposure to Hazard -** Settlements on riverbanks or seismic zones are more vulnerable. Eg- Joshimath (Uttarakhand)
 
-**2. Adaptive or Coping Capacity -** Ability to **anticipate, respond, absorb and recover** from a disaster.
+2. **Adaptive or Coping Capacity -** Ability to **anticipate, respond, absorb and recover** from a disaster.
 
 Eg- Access to savings, insurance, early warning systems.
 
-**3. Socio-economic Conditions -** Poverty, marginalisation and inequity increase susceptibility to harm.
+3. **Socio-economic Conditions -** Poverty, marginalisation and inequity increase susceptibility to harm.
 
 Eg- Disaster induced migration
 
-**4. Governance and Institutional Readiness-** Eg- Weak building regulation increases earthquake vulnerability.
+4. **Governance and Institutional Readiness-** Eg- Weak building regulation increases earthquake vulnerability.
 
-**5. Environmental Degradation** increases hazard impact. Eg- **‘Day Zero’ in** Chennai due to wetland encroachment.
+5. **Environmental Degradation** increases hazard impact. Eg- **‘Day Zero’ in** Chennai due to wetland encroachment.
 
-  - **Social Networks and Support Systems: -** Communities with strong social cohesion, community organizations, and support networks are more resilient to respond to and recover from disasters.
+    - **Social Networks and Support Systems: -** Communities with strong social cohesion, community organizations, and support networks are more resilient to respond to and recover from disasters.
 
-  - **Health status and access to healthcare services** influence vulnerability - Eg- Elderly and Children are more vulnerable to post disaster illness **Types of Vulnerability with Reference to Disasters**
+    - **Health status and access to healthcare services** influence vulnerability - Eg- Elderly and Children are more vulnerable to post disaster illness **Types of Vulnerability with Reference to Disasters**
 
-**1. Physical Vulnerability -** Related to **infrastructure, buildings, land use,** and physical exposure. Eghouses in **Zone V** are highly earthquake-vulnerable.
+1. **Physical Vulnerability -** Related to **infrastructure, buildings, land use,** and physical exposure. Eghouses in **Zone V** are highly earthquake-vulnerable.
 
-**2. Social Vulnerability -** Eg- Women in rehabilitation camps face violence and trafficking
+2. **Social Vulnerability -** Eg- Women in rehabilitation camps face violence and trafficking
 
-**3. Economic Vulnerability -** Lack of income stability, livelihood diversity, and financial buffers. EgFisherfolk losing boats in cyclones.
+3. **Economic Vulnerability -** Lack of income stability, livelihood diversity, and financial buffers. EgFisherfolk losing boats in cyclones.
 
-**4. Environmental Vulnerability-** Eg- Loss of **mangroves in Sundarbans** increases storm-surge impacts.
+4. **Environmental Vulnerability-** Eg- Loss of **mangroves in Sundarbans** increases storm-surge impacts.
 
-**5. Institutional Vulnerability -** Weak governance, poor enforcement of safety norms, lack of coordination.
+5. **Institutional Vulnerability -** Weak governance, poor enforcement of safety norms, lack of coordination.
 
-**6. Technological Vulnerability -** Risks arising from industrial, nuclear, or infrastructural failures. Eg**Bhopal gas tragedy.**
+6. **Technological Vulnerability -** Risks arising from industrial, nuclear, or infrastructural failures. Eg**Bhopal gas tragedy.**
 
-**7. Geographic Vulnerability -** Eg- Himalayan towns exposed to landslides and GLOFs.
+7. **Geographic Vulnerability -** Eg- Himalayan towns exposed to landslides and GLOFs.
 
 **Mapping vulnerabilities,** enforcing inclusive governance, and **capacity building** at grassroot are essential for disaster resilience.
 
@@ -10541,59 +10541,59 @@ As per **UNDRR,** disaster management refers to the organization, planning and a
 
 8. **Limited Community Preparedness** - Citizens were passive recipients of relief; evacuation plans rudimentary. Eg- high fatalities after Uttarakhand Floods **Recent Measures Highlighting the Shift from Reactive to Proactive Approach**
 
-**1. Legal & Institutional Strengthening - DM Act 2005, NDMA, NDRF, SDMAs,** and **DDMAs** ensure permanent, structured disaster governance.
+1. **Legal & Institutional Strengthening - DM Act 2005, NDMA, NDRF, SDMAs,** and **DDMAs** ensure permanent, structured disaster governance.
 
-**2. Strengthened Early Warning** through **IMD + ISRO + IITs.** Eg- Zero human casualties during **Cyclone Biparjoy (2023)**
+2. **Strengthened Early Warning** through **IMD + ISRO + IITs.** Eg- Zero human casualties during **Cyclone Biparjoy (2023)**
 
-**3. Integrated Alert System (SACHET)** is operationalised in all 36 States and UTs to send disaster alerts through SMS. Over 6,899 crore SMS alerts in more than 19 Indian languages were sent.
+3. **Integrated Alert System (SACHET)** is operationalised in all 36 States and UTs to send disaster alerts through SMS. Over 6,899 crore SMS alerts in more than 19 Indian languages were sent.
 
-**4. Multi-Hazard Early Warning System (MHEWS) -** integrates satellite, radar, and IoT data via the IMD's Decision Support System (DSS). Improves accuracy by 20-40%. Apps used are
+4. **Multi-Hazard Early Warning System (MHEWS) -** integrates satellite, radar, and IoT data via the IMD's Decision Support System (DSS). Improves accuracy by 20-40%. Apps used are
 
-  - **MAUSAM:** General weather forecasts.
+    - **MAUSAM:** General weather forecasts.
 
-  - **DAMINI:** Lightning alerts.
+    - **DAMINI:** Lightning alerts.
 
-  - **MEGHDOOT:** Agromet advisories for farmers.
+    - **MEGHDOOT:** Agromet advisories for farmers.
 
-**5. Nature-Based Solutions -** Mangrove restoration **(MISHTI),** wetland protection **(Amrit Dharohar)** to reduce cyclone/flood vulnerability.
+5. **Nature-Based Solutions -** Mangrove restoration **(MISHTI),** wetland protection **(Amrit Dharohar)** to reduce cyclone/flood vulnerability.
 
-  - **Shift in disaster-financing architecture -** from **earlier response-only funds** to **separate mitigation funds** at national and state level as per recommendations of 15th FC
+    - **Shift in disaster-financing architecture -** from **earlier response-only funds** to **separate mitigation funds** at national and state level as per recommendations of 15th FC
 
-**7. Community-Based Disaster Management** under **Aapda Mitra/Aapda Sakhi.**
+7. **Community-Based Disaster Management** under **Aapda Mitra/Aapda Sakhi.**
 
 **8.** City/state-specific **Heat Action Plans (HAPs)** for **heatwave prediction + response + healthcare preparedness.** Eg- **Ahmedabad HAP** cut mortality by **30-40%** since 2013.
 
-**9. Cyclone Preparedness (Odisha Model) -** Mass evacuations, cyclone shelters, and resilient infrastructure. Eg- Only **64 deaths in Cyclone Fani (2019).**
+9. **Cyclone Preparedness (Odisha Model) -** Mass evacuations, cyclone shelters, and resilient infrastructure. Eg- Only **64 deaths in Cyclone Fani (2019).**
 
-**10. GIS-Based Hazard Mapping-** Eg- **National Landslide Susceptibility Mapping (NLSM 2023)** covers all Himalayan states.
+10. **GIS-Based Hazard Mapping-** Eg- **National Landslide Susceptibility Mapping (NLSM 2023)** covers all Himalayan states.
 
-**11. Global Efforts**
+11. **Global Efforts**
 
-  - Signatory to Sendai Framework for disaster risk reduction
+    - Signatory to Sendai Framework for disaster risk reduction
 
-  - Launched coalition of disaster disaster resilient infrastructure **Way Forward**
+    - Launched coalition of disaster disaster resilient infrastructure **Way Forward**
 
-**1. Strengthening disaster health management** through coordination between **NDMA and the Health Ministry**
+1. **Strengthening disaster health management** through coordination between **NDMA and the Health Ministry**
 
-**2. Transparency in Fund Allocation - formula-based, impact-driven** NDRF allocation
+2. **Transparency in Fund Allocation - formula-based, impact-driven** NDRF allocation
 
-**3. Decentralized Disaster Governance**
+3. **Decentralized Disaster Governance**
 
-  - **Autonomy in fund utilization** for SDMA and DDMA.
+    - **Autonomy in fund utilization** for SDMA and DDMA.
 
-  - Integrating disaster risk reduction (DRR) into **development plans**
+    - Integrating disaster risk reduction (DRR) into **development plans**
 
-**4. Climate-Resilient Infrastructure -**
+4. **Climate-Resilient Infrastructure -**
 
-  - strict enforcement of the **National Building Code (NBC), 2016**
+    - strict enforcement of the **National Building Code (NBC), 2016**
 
 **b. disaster-resilient retrofitting** of old buildings, bridges, and dams in seismic zones.
 
 **5.** Enhance coordination between **IMD, ISRO, NDMA, and NDRF** through a unified **National Emergency Coordination Hub (NECH).**
 
-**6. Strengthening Financial Resilience** via **parametric insurance models**
+6. **Strengthening Financial Resilience** via **parametric insurance models**
 
-**7. Adopting global best practices**
+7. **Adopting global best practices**
 
 **a. Singapore -Whole-of-Government (WOG) Approach**
 
@@ -10618,53 +10618,53 @@ As per **Hyogo Framework of Action, Disaster resilience** refers to the ability 
 
 **Determination of disaster resilience**
 
-**1. Exposure to Hazard -** Settlements on riverbanks or seismic zones are more vulnerable. Eg- Joshimath (Uttarakhand)
+1. **Exposure to Hazard -** Settlements on riverbanks or seismic zones are more vulnerable. Eg- Joshimath (Uttarakhand)
 
-**2. Adaptive or Coping Capacity -** Ability to **anticipate, respond, absorb and recover** from a disaster.
+2. **Adaptive or Coping Capacity -** Ability to **anticipate, respond, absorb and recover** from a disaster.
 
 Eg- Japan’s high adaptive capacity to earthquakes
 
-**3. Socio-economic Conditions -** Poverty, marginalisation and inequity increase susceptibility to harm.
+3. **Socio-economic Conditions -** Poverty, marginalisation and inequity increase susceptibility to harm.
 
 Eg- Disaster induced migration
 
-**4. Governance and Institutional Readiness-** Eg- **Singapore’s** Integrated crisis management agency (SCDF)
+4. **Governance and Institutional Readiness-** Eg- **Singapore’s** Integrated crisis management agency (SCDF)
 
-**5. Environmental resilience** increases or reduces hazard impact. Eg- **‘Day Zero’ in** Chennai due to wetland encroachment.
+5. **Environmental resilience** increases or reduces hazard impact. Eg- **‘Day Zero’ in** Chennai due to wetland encroachment.
 
-  - **Social Networks and Support Systems: -** Communities with strong social cohesion, community organizations, and support networks are more resilient to respond to and recover from disasters.
+    - **Social Networks and Support Systems: -** Communities with strong social cohesion, community organizations, and support networks are more resilient to respond to and recover from disasters.
 
-  - **Health status and access to healthcare services** - Eg- Elderly and Children are less resilient to post disaster illness **Elements of a Disaster Resilience Framework**
+    - **Health status and access to healthcare services** - Eg- Elderly and Children are less resilient to post disaster illness **Elements of a Disaster Resilience Framework**
 
-**1. Risk Knowledge -** Hazard mapping, vulnerability analysis, and risk assessments to understand who is at risk and why. Eg-GIS-based flood and landslide susceptibility maps.
+1. **Risk Knowledge -** Hazard mapping, vulnerability analysis, and risk assessments to understand who is at risk and why. Eg-GIS-based flood and landslide susceptibility maps.
 
-**2. Early Warning Systems-** Eg-IMD’s cyclone early-warning system reduces mortality drastically.
+2. **Early Warning Systems-** Eg-IMD’s cyclone early-warning system reduces mortality drastically.
 
-**3. Preventive Measures -** Nature-based solutions, resilient infrastructure, land-use planning, seismic codes, floodplain zoning. Eg-Mangrove restoration under MISHTI.
+3. **Preventive Measures -** Nature-based solutions, resilient infrastructure, land-use planning, seismic codes, floodplain zoning. Eg-Mangrove restoration under MISHTI.
 
-**4. Preparedness & Response Capacity -** Training volunteers, conducting mock drills, strengthening NDRF/SDRF capacities. Eg-Aapda Mitra programme in 350+ districts.
+4. **Preparedness & Response Capacity -** Training volunteers, conducting mock drills, strengthening NDRF/SDRF capacities. Eg-Aapda Mitra programme in 350+ districts.
 
-**5. Institutional ‘capacity building’ -** Strong governance, coordination between NDMA, SDMA, district authorities, and urban bodies.
+5. **Institutional ‘capacity building’ -** Strong governance, coordination between NDMA, SDMA, district authorities, and urban bodies.
 
-**6. Recovery, Rehabilitation & “Build Back Better” -** stronger housing, better planning, safer infrastructure. Eg- Japan’s Post-2011 Tōhoku Earthquake & Tsunami Reconstruction
+6. **Recovery, Rehabilitation & “Build Back Better” -** stronger housing, better planning, safer infrastructure. Eg- Japan’s Post-2011 Tōhoku Earthquake & Tsunami Reconstruction
 
-**7. Social & Community Resilience -** Inclusive decision-making, empowering women, local groups, and indigenous knowledge systems.
+7. **Social & Community Resilience -** Inclusive decision-making, empowering women, local groups, and indigenous knowledge systems.
 
-**8. Financial Resilience -** Insurance, disaster funds (NDRF/SDRF), parametric insurance, contingency financing.
+8. **Financial Resilience -** Insurance, disaster funds (NDRF/SDRF), parametric insurance, contingency financing.
 
 **Global Targets of the Sendai Framework (2015-2030)**
 
-**1. Reduce Global Disaster Mortality -** Substantial reduction by 2030 compared to 2005-2015 baseline.
+1. **Reduce Global Disaster Mortality -** Substantial reduction by 2030 compared to 2005-2015 baseline.
 
-**2. Reduce Number of Affected People -** Significant decrease in people injured, displaced, or needing basic services during disasters.
+2. **Reduce Number of Affected People -** Significant decrease in people injured, displaced, or needing basic services during disasters.
 
-**3. Reduce Economic Losses -** Lower global disaster-related economic losses relative to global GDP.
+3. **Reduce Economic Losses -** Lower global disaster-related economic losses relative to global GDP.
 
-**4. Reduce Damage to Critical Infrastructure -** Protect health facilities, water systems, schools, and public infrastructure.
+4. **Reduce Damage to Critical Infrastructure -** Protect health facilities, water systems, schools, and public infrastructure.
 
-**5. Increase Number of Countries with DRR Strategies -** All nations to develop **national and local disaster risk reduction strategies.**
+5. **Increase Number of Countries with DRR Strategies -** All nations to develop **national and local disaster risk reduction strategies.**
 
-**6. Enhance International Cooperation -** Increase support from developed to developing countries for capacity-building, technology, and finance.
+6. **Enhance International Cooperation -** Increase support from developed to developing countries for capacity-building, technology, and finance.
 
 **7.** Ensure **multi-hazard early warning systems** and **accessible risk information** for everyone.
 
@@ -10695,57 +10695,57 @@ As per **UNDRR,** Disaster risk reduction is aimed at **preventing new and reduc
 
 **Measures Taken in India Before Sendai Framework (Pre-2015)**
 
-**1. Disaster Management Act, 2005** established **NDMA, SDMA, DDMAs** - India’s first legal-institutional framework for DRR.
+1. **Disaster Management Act, 2005** established **NDMA, SDMA, DDMAs** - India’s first legal-institutional framework for DRR.
 
-**2. Formation of NDRF (2006) -** a **specialised, trained, and equipped** response force for multi-hazard operations. Played a major role in Uttarakhand floods (2013).
+2. **Formation of NDRF (2006) -** a **specialised, trained, and equipped** response force for multi-hazard operations. Played a major role in Uttarakhand floods (2013).
 
-**3. National Policy on Disaster Management (2009) -** Shifted policy from relief to **prevention, preparedness, and mitigation.**
+3. **National Policy on Disaster Management (2009) -** Shifted policy from relief to **prevention, preparedness, and mitigation.**
 
-**4. National Cyclone Risk Mitigation Project (2011) - World Bank** assisted programme for mitigating risks of cyclones in 8 cyclone prone coastal States
+4. **National Cyclone Risk Mitigation Project (2011) - World Bank** assisted programme for mitigating risks of cyclones in 8 cyclone prone coastal States
 
-  - Early Warning Dissemination System (EWDS)
+    - Early Warning Dissemination System (EWDS)
 
-  - Cyclone Risk Mitigation Infrastructure (CRMI)
+    - Cyclone Risk Mitigation Infrastructure (CRMI)
 
-  - Technical Assistance for Capacity Building on Disaster Risk Management
+    - Technical Assistance for Capacity Building on Disaster Risk Management
 
-  - Project Management and Monitoring **Measures Taken After Adoption of Sendai Framework (Post-2015)** (Aligned with Sendai’s **four priorities:** risk knowledge, governance, investment, preparedness & BBB.)
+    - Project Management and Monitoring **Measures Taken After Adoption of Sendai Framework (Post-2015)** (Aligned with Sendai’s **four priorities:** risk knowledge, governance, investment, preparedness & BBB.)
 
-**1. National Disaster Management Plan (NDMP), 2016 -** India’s **first national plan fully aligned with**
+1. **National Disaster Management Plan (NDMP), 2016 -** India’s **first national plan fully aligned with**
 
 ## **Sendai Framework, covering**
 
-  - **Multi-hazard risk assessment,**
+    - **Multi-hazard risk assessment,**
 
-  - **Prevention-mitigation strategies,**
+    - **Prevention-mitigation strategies,**
 
-  - **Sector-wise responsibilities** (health, housing, power, transport, education),
+    - **Sector-wise responsibilities** (health, housing, power, transport, education),
 
-  - **Monitoring indicators aligned with Sendai’s seven global targets.**
+    - **Monitoring indicators aligned with Sendai’s seven global targets.**
 
-**2. Multi-Hazard Early Warning System (MHEWS) -** integrates satellite, radar, and IoT data via the IMD's Decision Support System (DSS). Improves accuracy by 20-40%. Apps used are
+2. **Multi-Hazard Early Warning System (MHEWS) -** integrates satellite, radar, and IoT data via the IMD's Decision Support System (DSS). Improves accuracy by 20-40%. Apps used are
 
-  - **MAUSAM:** General weather forecasts.
+    - **MAUSAM:** General weather forecasts.
 
-  - **DAMINI:** Lightning alerts.
+    - **DAMINI:** Lightning alerts.
 
-  - **MEGHDOOT:** Agromet advisories for farmers.
+    - **MEGHDOOT:** Agromet advisories for farmers.
 
-**3. Nature-Based Solutions -** Mangrove restoration **(MISHTI),** wetland protection **(Amrit Dharohar)** to reduce cyclone/flood vulnerability.
+3. **Nature-Based Solutions -** Mangrove restoration **(MISHTI),** wetland protection **(Amrit Dharohar)** to reduce cyclone/flood vulnerability.
 
-  - **Shift in disaster-financing architecture -** from **earlier response-only funds** to **separate mitigation funds** at national and state level as per recommendations of 15th FC
+    - **Shift in disaster-financing architecture -** from **earlier response-only funds** to **separate mitigation funds** at national and state level as per recommendations of 15th FC
 
-**5. Community-Based Disaster Management** under **Aapda Mitra/Aapda Sakhi.**
+5. **Community-Based Disaster Management** under **Aapda Mitra/Aapda Sakhi.**
 
-**6. GIS-Based Hazard Mapping-** Eg- **National Landslide Susceptibility Mapping (NLSM 2023)** covers all Himalayan states.
+6. **GIS-Based Hazard Mapping-** Eg- **National Landslide Susceptibility Mapping (NLSM 2023)** covers all Himalayan states.
 
-**7. Global Efforts -** Launched coalition of disaster disaster resilient infrastructure
+7. **Global Efforts -** Launched coalition of disaster disaster resilient infrastructure
 
-  - **National Landslide Risk Mitigation Programme (NLRMP) -** ₹1000 crore programme covering 15 states for landslide mapping, slope stabilisation and EWS.
+    - **National Landslide Risk Mitigation Programme (NLRMP) -** ₹1000 crore programme covering 15 states for landslide mapping, slope stabilisation and EWS.
 
-  - **Cyclone Preparedness (Odisha Model) -** Mass evacuations, cyclone shelters, and resilient infrastructure. Eg- Only **64 deaths in Cyclone Fani (2019).**
+    - **Cyclone Preparedness (Odisha Model) -** Mass evacuations, cyclone shelters, and resilient infrastructure. Eg- Only **64 deaths in Cyclone Fani (2019).**
 
-  - City/state-specific **Heat Action Plans (HAPs)** for **heatwave prediction + response + healthcare preparedness.** Eg- **Ahmedabad HAP** cut mortality by **30-40%** since 2013.
+    - City/state-specific **Heat Action Plans (HAPs)** for **heatwave prediction + response + healthcare preparedness.** Eg- **Ahmedabad HAP** cut mortality by **30-40%** since 2013.
 
 **Difference between Hyogo and Sendai Frameworks**
 
@@ -10864,75 +10864,75 @@ Landslides are the **downhill movement of rock, debris or earth** due to **slope
 
 **Natural Causes**
 
-**1. Intense or Prolonged Rainfall** leads to liquefaction - Eg- **2018 Kerala floods** triggered major landslides in Idukki and Wayanad.
+1. **Intense or Prolonged Rainfall** leads to liquefaction - Eg- **2018 Kerala floods** triggered major landslides in Idukki and Wayanad.
 
-  - **Hydrological Factors: Water seepage** through porous materials raises pore pressure and weakens the slope.
+    - **Hydrological Factors: Water seepage** through porous materials raises pore pressure and weakens the slope.
 
-**3. Earthquakes -** Seismic shaking destabilises slopes.
+3. **Earthquakes -** Seismic shaking destabilises slopes.
 
-**4. Weathering & Erosion**
+4. **Weathering & Erosion**
 
-  - Physical and chemical weathering reduce slope strength
+    - Physical and chemical weathering reduce slope strength
 
-  - River undercutting erodes base material.
+    - River undercutting erodes base material.
 
-**5. Snowmelt** - Eg- Landslides linked to glacial retreat in **Chamoli (Uttarakhand).**
+5. **Snowmelt** - Eg- Landslides linked to glacial retreat in **Chamoli (Uttarakhand).**
 
-**6. Volcanic Activity -** Though rare in India, globally volcanic regions face debris flows and lahars.
+6. **Volcanic Activity -** Though rare in India, globally volcanic regions face debris flows and lahars.
 
 **Anthropogenic Causes**
 
-**1. Unregulated Construction-** Eg- Frequent landslides along **Char Dham highway** in Uttarakhand.
+1. **Unregulated Construction-** Eg- Frequent landslides along **Char Dham highway** in Uttarakhand.
 
-**2. Deforestation -** Reduces root binding capacity and slope cohesion. Eg- Western Ghats tea and cardamom plantations.
+2. **Deforestation -** Reduces root binding capacity and slope cohesion. Eg- Western Ghats tea and cardamom plantations.
 
-**3. Mining & Quarrying Activities-** Eg- Quarry-linked landslides in **Kerala’s Idukki district.**
+3. **Mining & Quarrying Activities-** Eg- Quarry-linked landslides in **Kerala’s Idukki district.**
 
-**4. Poor Drainage** -Blocked drains, leaking pipelines, and slope saturation trigger failures.
+4. **Poor Drainage** -Blocked drains, leaking pipelines, and slope saturation trigger failures.
 
-**5. Unplanned Urbanisation -** Unscientific hill-cutting and unsustainable tourist influx. Eg- Joshimath Crisis in Uttarakhand **Effects of Landslides**
+5. **Unplanned Urbanisation -** Unscientific hill-cutting and unsustainable tourist influx. Eg- Joshimath Crisis in Uttarakhand **Effects of Landslides**
 
-**1. Loss of Life and Injury** - Eg- **2024 Wayanad landslide** killed 250+ people and injured 400
+1. **Loss of Life and Injury** - Eg- **2024 Wayanad landslide** killed 250+ people and injured 400
 
-**2. Damage to critical Infrastructure-** Eg- Frequent closure of **NH-44** in J&K and HP.
+2. **Damage to critical Infrastructure-** Eg- Frequent closure of **NH-44** in J&K and HP.
 
-**3. Economic Losses -** 1% to 2% of the Gross National Product (GSI)
+3. **Economic Losses -** 1% to 2% of the Gross National Product (GSI)
 
-**4. River Blockage** due to debris creates temporary dams and flash floods. Eg- **2021 Rishiganga disaster.**
+4. **River Blockage** due to debris creates temporary dams and flash floods. Eg- **2021 Rishiganga disaster.**
 
-**5. Environmental Degradation -** Loss of forests, soil fertility, biodiversity, and increased erosion.
+5. **Environmental Degradation -** Loss of forests, soil fertility, biodiversity, and increased erosion.
 
-**6. Disaster induced displacement** - as per Internal Displacement Monitoring Centre (IDMC), India recorded 5.4 million displacements in 2024 due to disasters Eg- **Joshimath crisis (2023).**
+6. **Disaster induced displacement** - as per Internal Displacement Monitoring Centre (IDMC), India recorded 5.4 million displacements in 2024 due to disasters Eg- **Joshimath crisis (2023).**
 
 **Components of the National Landslide Risk Management Strategy (NLRMS)**
 
-**1. Landslide Hazard Zonation Mapping** using GIS, remote sensing, LiDAR.
+1. **Landslide Hazard Zonation Mapping** using GIS, remote sensing, LiDAR.
 
-  - At macro scale (1:50,000 / 25,000)
+    - At macro scale (1:50,000 / 25,000)
 
-  - At meso level (1:10,000)
+    - At meso level (1:10,000)
 
-**2. Developing landslide monitoring & early warning systems -** Eg- use of Rainfall thresholds, automated sensors, Doppler radar support etc
+2. **Developing landslide monitoring & early warning systems -** Eg- use of Rainfall thresholds, automated sensors, Doppler radar support etc
 
-**3. Awareness generation and capacity building** of local communities in landslide safety and mitigation.
+3. **Awareness generation and capacity building** of local communities in landslide safety and mitigation.
 
-**4. Land use regulation - Eg-** Restricting construction in high-risk slopes.
+4. **Land use regulation - Eg-** Restricting construction in high-risk slopes.
 
-  - Creation of Special Purpose Vehicle (SPV) for Landslide Management
+    - Creation of Special Purpose Vehicle (SPV) for Landslide Management
 
-**6. Mitigation Measures -**
+6. **Mitigation Measures -**
 
-  - Engineering solutions - Retaining walls, slope drainage, rock bolting, geo-textiles,
+    - Engineering solutions - Retaining walls, slope drainage, rock bolting, geo-textiles,
 
-  - Nature based solutions - Afforestation in himalaya
+    - Nature based solutions - Afforestation in himalaya
 
-**7. Establishment of a National Landslide Inventory** for modelling and planning.
+7. **Establishment of a National Landslide Inventory** for modelling and planning.
 
-**8. Response & Relief -** SOPs for search and rescue, emergency shelters.
+8. **Response & Relief -** SOPs for search and rescue, emergency shelters.
 
-**9. Institutional Mechanism & Coordination -** Defining roles of NDMA, GSI, MoRTH, state DMAs and local bodies.
+9. **Institutional Mechanism & Coordination -** Defining roles of NDMA, GSI, MoRTH, state DMAs and local bodies.
 
-  - **Research & Development** - Geotechnical studies, rainfall-landslide correlations.
+    - **Research & Development** - Geotechnical studies, rainfall-landslide correlations.
 
 To prevent a catastrophe like the Wayanad **Landslide of 2024, engineering** as well as **nature-based solutions** along with **early warning systems, and effective land use practices** are essential.
 
@@ -10957,59 +10957,59 @@ India is among the **most earthquake-prone countries in the world,** with nearly
 
 **Hazards**
 
-**1. Active Plate Tectonics -** High seismicity in the **Himalayan belt, North-East India, Kutch region,** and **Andaman-Nicobar Islands.**
+1. **Active Plate Tectonics -** High seismicity in the **Himalayan belt, North-East India, Kutch region,** and **Andaman-Nicobar Islands.**
 
-**2. Wide Seismic Zonation**
+2. **Wide Seismic Zonation**
 
-  - **Zone V (Very High Risk)** - Himalayan states, Kutch, Andaman & Nicobar.
+    - **Zone V (Very High Risk)** - Himalayan states, Kutch, Andaman & Nicobar.
 
-  - **Zone IV** - Delhi, Bihar, parts of J&K and NE India.
+    - **Zone IV** - Delhi, Bihar, parts of J&K and NE India.
 
 **3.** Major cities such as **Delhi, Guwahati, Srinagar, Imphal** lie in high-risk zones.
 
 **4.** Weak enforcement of **earthquake-resistant building codes (BIS).**
 
-**5. Rapid and Unplanned Urbanisation** without seismic safety.
+5. **Rapid and Unplanned Urbanisation** without seismic safety.
 
-**6. Secondary and Cascading Hazards - Landslides, liquefaction, fires, dam failure,** and **infrastructure collapse.**
+6. **Secondary and Cascading Hazards - Landslides, liquefaction, fires, dam failure,** and **infrastructure collapse.**
 
 **7.** Vulnerability of **critical infrastructure -** Disruption of **transport, power, water, and communication networks.**
 
 **Examples of Major Earthquake Disasters in India (Last Three Decades)**
 
-**1. Latur Earthquake, Maharashtra (1993)**
+1. **Latur Earthquake, Maharashtra (1993)**
 
-  - **Magnitude** - ~6.3
+    - **Magnitude** - ~6.3
 
-  - **Intraplate earthquake** caused by reactivation of **ancient fault lines** in the Deccan Plateau
+    - **Intraplate earthquake** caused by reactivation of **ancient fault lines** in the Deccan Plateau
 
-  - Over **9,000 deaths.**
+    - Over **9,000 deaths.**
 
-**2. Bhuj Earthquake, Gujarat (2001)**
+2. **Bhuj Earthquake, Gujarat (2001)**
 
-  - **Magnitude** - 7.7
+    - **Magnitude** - 7.7
 
-  - **Intraplate fault movement** due to stress transmitted from the **Indian Plate-Eurasian Plate collision**
+    - **Intraplate fault movement** due to stress transmitted from the **Indian Plate-Eurasian Plate collision**
 
-  - Around **13,800 deaths** and massive infrastructure loss.
+    - Around **13,800 deaths** and massive infrastructure loss.
 
-**3. Kashmir Earthquake (2005)**
+3. **Kashmir Earthquake (2005)**
 
-  - **Magnitude** - 7.6
+    - **Magnitude** - 7.6
 
-  - **Thrust faulting** due to ongoing **collision of the Indian Plate with the Eurasian Plate**
+    - **Thrust faulting** due to ongoing **collision of the Indian Plate with the Eurasian Plate**
 
-  - Extensive **landslides** and isolation of remote villages.
+    - Extensive **landslides** and isolation of remote villages.
 
-**4. Sikkim Earthquake (2011)**
+4. **Sikkim Earthquake (2011)**
 
-  - **Magnitude** - 6.9
+    - **Magnitude** - 6.9
 
-  - Active tectonics of the Himalayan collision zone
+    - Active tectonics of the Himalayan collision zone
 
-  - Triggered widespread **landslides.**
+    - Triggered widespread **landslides.**
 
-  - Damage to **roads, bridges, and hydropower projects.**
+    - Damage to **roads, bridges, and hydropower projects.**
 
 Hazard zonation mapping, disaster resilient infrastructure and institutional strengthening for quick response and recovery is essential to achieve **Sendai targets** on disaster risk reduction.
 
@@ -11028,17 +11028,17 @@ IMD defines cloudburst as an extreme weather event involving **very high-intensi
 
 **Mechanism of Cloudburst**
 
-**1. Orographic Uplift**
+1. **Orographic Uplift**
 
 <p align="center"><img src="images/civilsdaily_p115_img127.png" alt="Diagram" /></p>
 
-  - Moist air masses are **forced to rise abruptly** when they encounter **steep mountain slopes.**
+    - Moist air masses are **forced to rise abruptly** when they encounter **steep mountain slopes.**
 
-  - Rapid ascent causes **condensation and release of latent heat,** intensifying convection.
+    - Rapid ascent causes **condensation and release of latent heat,** intensifying convection.
 
-**2. Strong Convective Clouds (Cumulonimbus)** up to **12-15 km.**
+2. **Strong Convective Clouds (Cumulonimbus)** up to **12-15 km.**
 
-**3. Moisture Supply from Monsoon Systems** enhances instability.
+3. **Moisture Supply from Monsoon Systems** enhances instability.
 
 **4.** When updrafts weaken, **large volumes of accumulated rainwater are released at once,** causing cloudburst-like rainfall.
 
@@ -11046,13 +11046,13 @@ IMD defines cloudburst as an extreme weather event involving **very high-intensi
 
 **Indian Subcontinent**
 
-**1. Himalayan and Western Ghat Topography -** Steep slopes promote **rapid vertical uplift.**
+1. **Himalayan and Western Ghat Topography -** Steep slopes promote **rapid vertical uplift.**
 
-**2. Monsoon Dynamics -** High atmospheric moisture during **June-September.**
+2. **Monsoon Dynamics -** High atmospheric moisture during **June-September.**
 
-**3. Climate Change -** Rising temperatures increase **atmospheric moisture-holding capacity.** Eg- every 1°C rise lets air hold ~7% more moisture.
+3. **Climate Change -** Rising temperatures increase **atmospheric moisture-holding capacity.** Eg- every 1°C rise lets air hold ~7% more moisture.
 
-**4. Land-Use Changes - Deforestation, slope cutting, and urbanisation** increase runoff and disaster impact.
+4. **Land-Use Changes - Deforestation, slope cutting, and urbanisation** increase runoff and disaster impact.
 
 **2 recent examples**
 
@@ -11060,13 +11060,13 @@ IMD defines cloudburst as an extreme weather event involving **very high-intensi
 
 2. **Himachal Pradesh Cloudbursts in 2025 -** affectedKullu, Mandi, Shimla districts. Triggered **flash floods and massive landslides.** Losses at about Rs 4,300 crore and nearly 380 deaths **Mitigation measures**
 
-**1. Structural**
+1. **Structural**
 
-  - **Engineering solutions** - Retaining walls, slope drainage, rock bolting, geo-textiles,
+    - **Engineering solutions** - Retaining walls, slope drainage, rock bolting, geo-textiles,
 
-  - **Nature based solutions** - Afforestation in himalaya
+    - **Nature based solutions** - Afforestation in himalaya
 
-**2. Non-Structural**
+2. **Non-Structural**
 
 **a. Expansion of multi-hazard insurance**
 
@@ -11119,23 +11119,23 @@ IMD defines cloudburst as an extreme weather event involving **very high-intensi
 
 **Examples of dam failures**
 
-**1. Machhu dam disaster, 1979, in Morbi, Gujarat -** 2,000 people died and 12,000 houses were destroyed.
+1. **Machhu dam disaster, 1979, in Morbi, Gujarat -** 2,000 people died and 12,000 houses were destroyed.
 
-**2. Banqiao Dam Failure, China (1975)**
+2. **Banqiao Dam Failure, China (1975)**
 
-  - **Extreme rainfall** from Typhoon Nina
+    - **Extreme rainfall** from Typhoon Nina
 
-  - **Cascade failure** of multiple dams due to poor design
+    - **Cascade failure** of multiple dams due to poor design
 
-  - Estimated **1,70,000 deaths** (direct and indirect) **Initiatives Taken for Dam Safety in India**
+    - Estimated **1,70,000 deaths** (direct and indirect) **Initiatives Taken for Dam Safety in India**
 
-**1. Dam Safety Act, 2021 - Statutory framework** for surveillance, inspection, operation, and maintenance of dams.
+1. **Dam Safety Act, 2021 - Statutory framework** for surveillance, inspection, operation, and maintenance of dams.
 
-**2. National Register of Large Dams (NRLD)** complied and maintained by CWC.
+2. **National Register of Large Dams (NRLD)** complied and maintained by CWC.
 
-**3. Dam Rehabilitation and Improvement Project (DRIP)** for rehabilitation of 736 dams across 19 States.
+3. **Dam Rehabilitation and Improvement Project (DRIP)** for rehabilitation of 736 dams across 19 States.
 
-**4. Dam Health and Rehabilitation Monitoring Application (DHARMA)-** application of Artificial Intelligence (AI) in dam safety.
+4. **Dam Health and Rehabilitation Monitoring Application (DHARMA)-** application of Artificial Intelligence (AI) in dam safety.
 
 Rigorous dam safety audits, climate-resilient design and real-time monitoring is essential to protect the **‘temples of modern India’**
 
@@ -11190,49 +11190,49 @@ Recently, heavy pre-monsoon thundershowers in Bengaluru led to severe Floods. Un
 
 **Two major urban floods in the last two decades in India**
 
-**1. Mumbai Floods - 2005**
+1. **Mumbai Floods - 2005**
 
-  - **Trigger** - Extremely heavy rainfall (~944 mm in 24 hours)
+    - **Trigger** - Extremely heavy rainfall (~944 mm in 24 hours)
 
-  - **Key Features**
+    - **Key Features**
 
-  - Complete failure of **stormwater drainage system.**
+    - Complete failure of **stormwater drainage system.**
 
-  - Severe flooding along the **Mithi River floodplain** due to encroachment.
+    - Severe flooding along the **Mithi River floodplain** due to encroachment.
 
-  - Massive disruption of **transport, power supply, and economic activity.**
+    - Massive disruption of **transport, power supply, and economic activity.**
 
-  - Exposed vulnerability of **coastal megacities** to extreme rainfall.
+    - Exposed vulnerability of **coastal megacities** to extreme rainfall.
 
-**2. Chennai Floods - 2015**
+2. **Chennai Floods - 2015**
 
-  - **Trigger** - Intense northeast monsoon rainfall
+    - **Trigger** - Intense northeast monsoon rainfall
 
-  - **Key Features**
+    - **Key Features**
 
-  - Encroachment of **wetlands like Pallikaranai marsh.**
+    - Encroachment of **wetlands like Pallikaranai marsh.**
 
-  - Poor coordination in **reservoir water release** aggravated flooding.
+    - Poor coordination in **reservoir water release** aggravated flooding.
 
-  - Prolonged waterlogging in residential and industrial zones.
+    - Prolonged waterlogging in residential and industrial zones.
 
 **Policies and Frameworks in India to Tackle Urban Flooding**
 
-**1. NDMA Guidelines on Urban Flooding (2010) -** Recommend **city-specific urban flood management plans.**
+1. **NDMA Guidelines on Urban Flooding (2010) -** Recommend **city-specific urban flood management plans.**
 
-**2. National Disaster Management Plan (NDMP), 2016 -** Integrates **urban flood risk reduction** within disaster preparedness and mitigation.
+2. **National Disaster Management Plan (NDMP), 2016 -** Integrates **urban flood risk reduction** within disaster preparedness and mitigation.
 
-**3. Atal Mission for Rejuvenation and Urban Transformation (AMRUT) -** Investment in **stormwater drainage,** sewerage, and water infrastructure.
+3. **Atal Mission for Rejuvenation and Urban Transformation (AMRUT) -** Investment in **stormwater drainage,** sewerage, and water infrastructure.
 
-**4. Smart Cities Mission -** Use of **GIS mapping, real-time sensors, and flood monitoring systems.**
+4. **Smart Cities Mission -** Use of **GIS mapping, real-time sensors, and flood monitoring systems.**
 
-**5. Early Warning Systems - IMD and CWC** providing **impact-based rainfall forecasts.**
+5. **Early Warning Systems - IMD and CWC** providing **impact-based rainfall forecasts.**
 
-  - Protection of wetlands under **Wetlands (Conservation and Management) Rules.**
+    - Protection of wetlands under **Wetlands (Conservation and Management) Rules.**
 
-  - **Model Building Bye Laws** by MoHUA - all buildings having a plot size of 100 sq.m. or, more shall mandatorily include the complete proposal of rainwater harvesting.
+    - **Model Building Bye Laws** by MoHUA - all buildings having a plot size of 100 sq.m. or, more shall mandatorily include the complete proposal of rainwater harvesting.
 
-  - **MoHUA** has issued **Standard Operating Procedures** (SoPs) on Urban Flooding in 2017 and published **manual on Storm Water Drainage Systems** in 2019 As per NITI aayog, over 40% of India's population will reside in urban areas by 2030. Thus, **flood resilient urban future** is essential for **Viksit Bharat @2047 Internal Security LWE and N-E insurgency**
+    - **MoHUA** has issued **Standard Operating Procedures** (SoPs) on Urban Flooding in 2017 and published **manual on Storm Water Drainage Systems** in 2019 As per NITI aayog, over 40% of India's population will reside in urban areas by 2030. Thus, **flood resilient urban future** is essential for **Viksit Bharat @2047 Internal Security LWE and N-E insurgency**
 
 [Question ID: 2024-gs3-q161-civilsdaily]
 

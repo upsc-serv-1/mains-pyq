@@ -164,7 +164,7 @@ Thiruvalluvar’s wisdom is timeless. In today’s fast-changing world which is 
 
 William James’s insight remains timeless: life is not merely determined by external conditions but by the **attitudes with which we face them.** Academic research in psychology and real-world social movements confirm that altering mindsets is the first step toward altering destiny—both individually and collectively. **(c):**
 | Approach: <br>• Begin by explaining Swami Vivekananda’s idea <br>• Analyse dimensions like citizen integrity, ethical leadership, and civic responsibility with examples. <br>• Conclude by emphasising that while ideals inspire, morality in action sustains social strength and resilience. |
-| --- | **Answer:** Swami Vivekananda emphasised that lofty principles alone cannot sustain a society unless they are **translated into lived morality by its people.** Ideals provide direction, but their strength depends on how honestly and ethically citizens, leaders, and institutions em <br> body them in practice.
+| --- | **Answer:** Swami Vivekananda emphasised that lofty principles alone cannot sustain a society unless they are **translated into lived morality by its people.** Ideals provide direction, but their strength depends on how honestly and ethically citizens, leaders, and institutions em <br> <br> body them in practice.
 
 - **Morality as the Foundation of Social Strength:** A society may profess equality and justice, but unless citizens act with integrity, these remain empty slogans.
 

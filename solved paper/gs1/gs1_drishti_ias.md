@@ -11,7 +11,7 @@ This file contains the combined solved papers for GS1 subjects in logical order.
 
 ### Answer
 
-| **Approach:** <br>• **Introduction** Introduce the Harappan Civilization and its significance in early urban architecture. <br>• **Body:** Discuss key features of Harappan architecture such as town planning, materials used, drainage systems, and important structures. <br>• **Conclusion** Summarize the architectural legacy and its reflection of an advanced urban society. |
+| **Approach:** <br>• **Introduction** Introduce the Harappan Civilization and its significance in early urban architecture. <br> <br> • **Body:** Discuss key features of Harappan architecture such as town planning, materials used, drainage systems, and important structures. <br> <br> • **Conclusion** Summarize the architectural legacy and its reflection of an advanced urban society. |
 | --- |
 
 ### Introduction
@@ -62,7 +62,7 @@ The architecture of the Harappan Civilization reveals a **highly evolved urban c
 ### Answer
 **Question ID: 2025-gs1-q2-drishti_ias**
 
-| **Approach:** <br>• **Introduction** Briefly introduce Akbar's approach to religious syncretism and its significance in his reign. <br>• **Body:** Discuss the main aspects such as **Sulh-i-Kul**, **abolition of Jizya**, **religious dialogues**, and other policies. <br>• **Conclusion** Conclude by highlighting the long-term impact of his syncretic policies on Indian society and governance. |
+| **Approach:** <br>• **Introduction** Briefly introduce Akbar's approach to religious syncretism and its significance in his reign. <br> <br> • **Body:** Discuss the main aspects such as **Sulh-i-Kul**, **abolition of Jizya**, **religious dialogues**, and other policies. <br> <br> • **Conclusion** Conclude by highlighting the long-term impact of his syncretic policies on Indian society and governance. |
 | --- |
 
 ### Introduction
@@ -97,7 +97,7 @@ Although Akbar’s experiment with religious syncretism, such as **Din-i-Ilahi**
 ### Answer
 **Question ID: 2025-gs1-q3-drishti_ias**
 
-| **Approach** <br>• **Introduction** Introduce the Chandella dynasty and the significance of their contribution to Indian art, particularly sculpture. <br>• **Body:** Elaborate on the key aspects of the sculptural art of the Chandellas, focusing on **dynamism**, **intricate detailing**, and the **breadth of life** as represented in their works. <br>• **Conclusion** Conclude by summarizing the lasting impact of their art, which celebrated both divine and earthly life. |
+| **Approach** <br>• **Introduction** Introduce the Chandella dynasty and the significance of their contribution to Indian art, particularly sculpture. <br> <br> • **Body:** Elaborate on the key aspects of the sculptural art of the Chandellas, focusing on **dynamism**, **intricate detailing**, and the **breadth of life** as represented in their works. <br> <br> • **Conclusion** Conclude by summarizing the lasting impact of their art, which celebrated both divine and earthly life. |
 | --- |
 
 ### Introduction
@@ -2200,7 +2200,7 @@ Send To My Bookmarks
 
 ### Answer
 
-| **Approach:** <br>• **Introduction** Introduce the concept of Smart Cities in India and their primary objective. <br>• **Body:** Highlight key initiatives that address urban poverty and promote distributive justice in smart cities with adequate examples. <br>• **Conclusion** Conclude suitably. |
+| **Approach:** <br>• **Introduction** Introduce the concept of Smart Cities in India and their primary objective. <br> <br> • **Body:** Highlight key initiatives that address urban poverty and promote distributive justice in smart cities with adequate examples. <br> <br> • **Conclusion** Conclude suitably. |
 | --- |
 
 ### Introduction
@@ -2241,7 +2241,7 @@ Through these initiatives, smart cities in India aim to ensure that development 
 ### Answer
 **Question ID: 2025-gs1-q61-drishti_ias**
 
-| **Approach:** <br>• **Introduction** Ethos of civil service <br>• **Body:** Highlight Professionalism → merit-based UPSC recruitment, and Nationalistic consciousness in Civil Service. <br>• **Conclusion** Conclude suitably. |
+| **Approach:** <br>• **Introduction** Ethos of civil service <br> <br> • **Body:** Highlight Professionalism → merit-based UPSC recruitment, and Nationalistic consciousness in Civil Service. <br> <br> • **Conclusion** Conclude suitably. |
 | --- |
 
 ### Introduction
@@ -2291,7 +2291,7 @@ The ethos of the Indian civil service blends professionalism with nationalistic 
 ### Answer
 **Question ID: 2025-gs1-q62-drishti_ias**
 
-| **Approach:** <br>• **Introduction** Introduce globalization, emphasizing its impact on interconnectedness and societal transformation. <br>• **Body:** Discuss the relationship between globalization and aggressive consumer culture, with examples. Also highlighting the positive aspects of globalization. <br>• **Conclusion** Conclude suitably. |
+| **Approach:** <br>• **Introduction** Introduce globalization, emphasizing its impact on interconnectedness and societal transformation. <br> <br> • **Body:** Discuss the relationship between globalization and aggressive consumer culture, with examples. Also highlighting the positive aspects of globalization. <br> <br> • **Conclusion** Conclude suitably. |
 | --- |
 
 ### Introduction
@@ -4237,7 +4237,7 @@ Send To My Bookmarks
 
 ### Answer
 
-| **Approach** <br>• **Introduction** Provide an overview of how climate change and sea level rise are impacting island nations globally. <br>• **Body:** Discuss the specific consequences faced by island nations due to rising sea levels, including examples and the social, economic, and environmental impacts. <br>• **Conclusion** Conclude with the urgency of international cooperation and climate action to address the existential threat posed to island nations. |
+| **Approach** <br>• **Introduction** Provide an overview of how climate change and sea level rise are impacting island nations globally. <br> <br> • **Body:** Discuss the specific consequences faced by island nations due to rising sea levels, including examples and the social, economic, and environmental impacts. <br> <br> • **Conclusion** Conclude with the urgency of international cooperation and climate action to address the existential threat posed to island nations. |
 | --- |
 
 ### Introduction
@@ -4300,7 +4300,7 @@ Global cooperation is crucial to protect these nations and ensure their resilien
 ### Answer
 **Question ID: 2025-gs1-q115-drishti_ias**
 
-| **Approach:** <br>• **Introduction** Define non-farm primary activities and highlight their importance in the economy. <br>• **Body:** Discuss how these activities are influenced by India's diverse physiographic features, with specific examples from different regions. <br>• **Conclusion** Conclude by emphasizing the strong relationship between non-farm primary activities and India’s varied geographical landscape. |
+| **Approach:** <br>• **Introduction** Define non-farm primary activities and highlight their importance in the economy. <br> <br> • **Body:** Discuss how these activities are influenced by India's diverse physiographic features, with specific examples from different regions. <br> <br> • **Conclusion** Conclude by emphasizing the strong relationship between non-farm primary activities and India’s varied geographical landscape. |
 | --- |
 
 ### Introduction
@@ -4343,7 +4343,7 @@ From **fishing** along coastal regions to **mining** in plateau areas, and **ani
 
 ### Answer
 
-| **Approach:** <br>• **Introduction** Introduce solar energy as a key component of India's renewable energy strategy. <br>• **Body:** Discuss the ecological benefits, including reduced emissions, water conservation, and improved air quality, with relevant examples. <br>• Explain the economic benefits, such as job creation, cost-effectiveness, and income diversification, while connecting them to national energy security and sustainable growth. <br>• **Conclusion Conclude accordingly.** |
+| **Approach:** <br>• **Introduction** Introduce solar energy as a key component of India's renewable energy strategy. <br> <br> • **Body:** Discuss the ecological benefits, including reduced emissions, water conservation, and improved air quality, with relevant examples. <br>• Explain the economic benefits, such as job creation, cost-effectiveness, and income diversification, while connecting them to national energy security and sustainable growth. <br> <br> • **Conclusion Conclude accordingly.** |
 | --- |
 
 ### Introduction
@@ -4393,7 +4393,7 @@ Solar energy in India exemplifies the synergy of environmental sustainability an
 ### Answer
 **Question ID: 2025-gs1-q116-drishti_ias**
 
-| **Approach:** <br>• **Introduction** Introduce tsunamis with definition and defining term. <br>• **Body:** Explain the different causes of tsunamis (which form tsunamis) with relevant examples, and discuss its consequences. <br>• **Conclusion** Conclude suitably. |
+| **Approach:** <br>• **Introduction** Introduce tsunamis with definition and defining term. <br> <br> • **Body:** Explain the different causes of tsunamis (which form tsunamis) with relevant examples, and discuss its consequences. <br> <br> • **Conclusion** Conclude suitably. |
 | --- |
 
 ### Introduction

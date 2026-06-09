@@ -7503,7 +7503,7 @@ India's extraordinary cultural diversity forms the backbone of its national iden
 | Religious Plurality | Highest (9/10) | Foundation of secular democracy |
 | Language Diversity | High (8/10) | Enables regional representation |
 | Art & Architecture | High (7/10) | Global cultural recognition |
-| Festival Traditions | Medium-High (7/10) | Social cohesion builder | **Religious plurality** emerges as most significant, forming India's secular foundation, while **language diversity** enables democratic participation. These elements collectively em <br> body **"Vasudhaiva Kutumbakam"**, making India's cultural diversity its greatest strength in building an inclusive national identity.
+| Festival Traditions | Medium-High (7/10) | Social cohesion builder | **Religious plurality** emerges as most significant, forming India's secular foundation, while **language diversity** enables democratic participation. These elements collectively em <br> <br> body **"Vasudhaiva Kutumbakam"**, making India's cultural diversity its greatest strength in building an inclusive national identity.
 
 [Question ID: 2015-gs1-q160-superkalam]
 

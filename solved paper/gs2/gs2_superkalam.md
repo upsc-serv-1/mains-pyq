@@ -5739,7 +5739,7 @@ India's Supreme Court serves as a constitutional guardian, preventing Parliament
 
 | **Parliamentary Position** | **Judicial Position** |
 | --- | --- |
-| Elected <br> body with democratic mandate | Constitutional guardian protecting basic structure |
+| Elected <br> <br> body with democratic mandate | Constitutional guardian protecting basic structure |
 | Article 368 provides amendment power | Judicial review prevents arbitrary changes |
 | Represents people's will directly | Protects minority rights and constitutional values |
 | Can respond to changing societal needs | Ensures constitutional continuity and stability |
@@ -11316,7 +11316,7 @@ Key Areas of WTO Reform Framework
 
 | **Reform Area** | **Current Status** | **India's Position** | **Implementation Timeline** |
 | --- | --- | --- | --- |
-| Appellate <br> Body | Non-functional since 2019 | Support restoration | By WTO MC13 (2024) |
+| Appellate <br> <br> Body | Non-functional since 2019 | Support restoration | By WTO MC13 (2024) |
 | Agricultural PSH | Temporary solution only | Permanent solution needed | Immediate priority |
 | Digital Trade Rules | Under negotiation | Preserve policy space | Resist until consensus |
 
@@ -12103,7 +12103,7 @@ WTO Agricultural Subsidy Boxes Comparative Chart
 | **Legal Status** | Decisions are internationally binding under **Vienna Convention on Law of Treaties** |
 | **Enforcement** | Non-compliance leads to authorized trade retaliation and economic sanctions |
 | **Domestic Implementation** | Members must align national laws with WTO rulings within specified timeframes |
-| **Appellate Process** | **Appellate <br> Body crisis since 2019** has created enforcement gaps and legal uncertainties |
+| **Appellate Process** | **Appellate <br> <br> Body crisis since 2019** has created enforcement gaps and legal uncertainties |
 
 ## India's Position on Food Security Negotiations
 

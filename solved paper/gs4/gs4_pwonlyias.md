@@ -1033,7 +1033,7 @@ Mission Karmayogi aims to instil **efficiency, integrity,** and **accountability
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br> • Write briefly about corruption & core values… <br><br> **Body** <br> • Mention Corruption as the Manifestation of the Failure of Core Values in Society <br> • Write Measures to Uplift Core Values in Society <br><br> **Conclusion** <br> • Give appropriate conclusion in this regard |
+| **Approach:** <br> **Introduction** <br> • Write briefly about corruption & core values… <br><br> <br> **Body** <br> • Mention Corruption as the Manifestation of the Failure of Core Values in Society <br> • Write Measures to Uplift Core Values in Society <br><br> <br> **Conclusion** <br> • Give appropriate <br> conclusion in this regard |
 | --- |
 
 ### Introduction
@@ -1072,7 +1072,7 @@ The deterioration of core values within society creates an ideal environment for
 
 ### Answer
 
-| **Approach** **Introduction** <br>• Introduce briefly about Moral intuition & Moral reasoning <br> **Body** <br>• Enumerate difference between ‘Moral Intuition’ and ‘Moral Reasoning’. <br> **Conclusion** <br>• Give appropriate conclusion in this regard |
+| **Approach** **Introduction** <br>• Introduce briefly about Moral intuition & Moral reasoning <br> <br> **Body** <br>• Enumerate difference between ‘Moral Intuition’ and ‘Moral Reasoning’. <br> <br> **Conclusion** <br>• Give appropriate <br> conclusion in this regard |
 | --- |
 
 ### Introduction
@@ -1084,7 +1084,7 @@ Moral intuition and moral reasoning are pivotal cognitive processes in shaping o
 | **Aspects** | **Moral Intuition** | **Moral Reasoning** |
 | --- | --- | --- |
 | **Definition** | Immediate and automatic judgement about the right or wrong of a situation, often driven by emotions and instinctive reactions. | The deliberate process of determining right or wrong through logical analysis, involving critical thinking and evaluation of ethical principles. |
-| **Characteristic** | Often instantaneous, arising from gut feelings without conscious reasoning. | Involves conscious thought, where one applies moral principles and ethical theories to reach a <br> conclusion. |
+| **Characteristic** | Often instantaneous, arising from gut feelings without conscious reasoning. | Involves conscious thought, where one applies moral principles and ethical theories to reach a <br> <br> conclusion. |
 | **Importance in Moral Judgements** | Plays a foundational role, forming the immediate judgement that can later be analyzed through reasoning. | Comes into play when one seeks to justify a moral judgement or when engaging in moral discussions and debates. |
 | **Psychological Basis** | Grounded in innate tendencies and shaped by evolutionary processes, cultural norms, and personal experiences. | Relies on cognitive processes and often involves employing moral philosophies such as utilitarianism or deontology. |
 | **Objectivity** | Can be biased and subject to personal prejudices and might not always lead to morally correct judgments. | Can sometimes be influenced by an individual’s moral intuition, and therefore not entirely objective. |
@@ -1102,7 +1102,7 @@ Moral intuition and moral reasoning are pivotal cognitive processes in shaping o
 
 ### Answer **Answer:**
 
-| **Approach:** <br> **Introduction** <br> • Introduce briefly about essence of the quote. <br><br> **Body** <br> • Explain about The Circle of Hatred and Its Implications. <br> • Explain about The Circle of Love and Its Implications. <br> • Describe relevance in Contemporary Times <br><br> **Conclusion** <br> • Give appropriate conclusion in this regard |
+| **Approach:** <br> **Introduction** <br> • Introduce briefly about essence of the quote. <br><br> <br> **Body** <br> • Explain about The Circle of Hatred and Its Implications. <br> • Explain about The Circle of Love and Its Implications. <br> • Describe relevance in Contemporary Times <br><br> <br> **Conclusion** <br> • Give appropriate <br> conclusion in this regard |
 | --- |
 
 ### Introduction
@@ -1146,7 +1146,7 @@ In the convoluted tapestry of human emotions and choices, Swami Vivekananda’s 
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br> • Introduce briefly about Social Capital. <br><br> **Body** <br> • Understanding Social Capital. <br> • Role of Social Capital in Enhancing Good Governance: <br><br> **Conclusion** <br> • Give appropriate conclusion in this regard |
+| **Approach:** <br> **Introduction** <br> • Introduce briefly about Social Capital. <br><br> <br> **Body** <br> • Understanding Social Capital. <br> • Role of Social Capital in Enhancing Good Governance: <br><br> <br> **Conclusion** <br> • Give appropriate <br> conclusion in this regard |
 | --- |
 
 ### Introduction
@@ -1185,7 +1185,7 @@ Social capital serves as a vital foundation for effective governance structures.
 
 ### Answer
 
-| **Approach** **Introduction** <br>• Write briefly about coercion and undue influence in context of work environment. <br> **Body** <br>• Mention differences between ‘Coercion’ and ‘Undue Influence’ within a Work Environment <br> **Conclusion** <br>• Give appropriate conclusion in this regard |
+| **Approach** **Introduction** <br>• Write briefly about coercion and undue influence in context of work environment. <br> <br> **Body** <br>• Mention differences between ‘Coercion’ and ‘Undue Influence’ within a Work Environment <br> <br> **Conclusion** <br>• Give appropriate <br> conclusion in this regard |
 | --- |
 
 ### Introduction
@@ -1215,7 +1215,7 @@ In the workplace, coercion employs force or intimidation, while undue influence 
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br> • Write briefly about International aid with some fact.. <br><br> **Body** <br> • Mention about Ethical Foundations of International Aid <br> • Write about Ethical Issues and Criticisms <br><br> **Conclusion** <br> • Give appropriate conclusion in this regard |
+| **Approach:** <br> **Introduction** <br> • Write briefly about International aid with some fact.. <br><br> <br> **Body** <br> • Mention about Ethical Foundations of International Aid <br> • Write about Ethical Issues and Criticisms <br><br> <br> **Conclusion** <br> • Give appropriate <br> conclusion in this regard |
 | --- |
 
 ### Introduction
@@ -1246,7 +1246,7 @@ International aid can be **exemplified by India’s contribution of INR nearly 9
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br> • Introduce briefly about Conscience & rules-regulations <br><br> **Body** <br> • Enumerate Reliability of Conscience as compared to laws, rules and regulations. <br> • Limitations of Relying Solely on Conscience <br><br> **Conclusion** <br> • Give appropriate conclusion in this regard |
+| **Approach:** <br> **Introduction** <br> • Introduce briefly about Conscience & rules-regulations <br><br> <br> **Body** <br> • Enumerate Reliability of Conscience as compared to laws, rules and regulations. <br> • Limitations of Relying Solely on Conscience <br><br> <br> **Conclusion** <br> • Give appropriate <br> conclusion in this regard |
 | --- |
 
 ### Introduction
@@ -1286,7 +1286,7 @@ To navigate the complexities of ethical decision-making, individuals should cons
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br> • Introduce briefly about Probity <br><br> **Body** <br> • Explain Role of Probity in Governance. <br> • Role of Probity on Socio-economic Development <br><br> **Conclusion** <br> • Give appropriate conclusion in this regard |
+| **Approach:** <br> **Introduction** <br> • Introduce briefly about Probity <br><br> <br> **Body** <br> • Explain Role of Probity in Governance. <br> • Role of Probity on Socio-economic Development <br><br> <br> **Conclusion** <br> • Give appropriate <br> conclusion in this regard |
 | --- |
 
 ### Introduction
@@ -1322,7 +1322,7 @@ As nations strive for growth and stability, prioritizing probity remains pivotal
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br> • Introduce briefly about essence of the quote….. <br><br> **Body** <br> • Mention about The Power of Simple Acts of Kindness & its impact <br> • Mention about “A Thousand Heads Bowing in Prayer” as a Manifestation of Kindness <br><br> **Conclusion** <br> • Give appropriate conclusion in this regard |
+| **Approach:** <br> **Introduction** <br> • Introduce briefly about essence of the quote….. <br><br> <br> **Body** <br> • Mention about The Power of Simple Acts of Kindness & its impact <br> • Mention about “A Thousand Heads Bowing in Prayer” as a Manifestation of Kindness <br><br> <br> **Conclusion** <br> • Give appropriate <br> conclusion in this regard |
 | --- |
 
 ### Introduction
@@ -1373,7 +1373,7 @@ Gandhi’s wisdom still resonates today, underscoring that profound change often
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br> • Introduce briefly about essence of the quote. <br><br> **Body** <br> • Explain about The Centrality of Women in Societal Awakening <br> • Explain Empowering Women as Catalysts for Family, Village, and National Advancement. <br><br> **Conclusion** <br> • Give appropriate conclusion in this regard |
+| **Approach:** <br> **Introduction** <br> • Introduce briefly about essence of the quote. <br><br> <br> **Body** <br> • Explain about The Centrality of Women in Societal Awakening <br> • Explain Empowering Women as Catalysts for Family, Village, and National Advancement. <br><br> <br> **Conclusion** <br> • Give appropriate <br> conclusion in this regard |
 | --- |
 
 ### Introduction
@@ -1412,7 +1412,7 @@ In conclusion, Jawaharlal Nehru’s profound insight underscores the pivotal rol
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br> • Write briefly about corporate governance along with moral integrity & professional efficiency. <br><br> **Body** <br> • Write Moral Integrity in the Context of Corporate Governance in India with suitable examples <br> • Write Professional Efficiency in the Context of Corporate Governance in India with suitable examples <br><br> **Conclusion** <br> • Give appropriate conclusion in this regard |
+| **Approach:** <br> **Introduction** <br> • Write briefly about corporate governance along with moral integrity & professional efficiency. <br><br> <br> **Body** <br> • Write Moral Integrity in the Context of Corporate Governance in India with suitable examples <br> • Write Professional Efficiency in the Context of Corporate Governance in India with suitable examples <br><br> <br> **Conclusion** <br> • Give appropriate <br> conclusion in this regard |
 | --- |
 
 ### Introduction
@@ -1451,7 +1451,7 @@ In conclusion, ‘moral integrity’ and ‘professional efficiency’ in the co
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br> • Introduce briefly about EQ & IQ. <br><br> **Body** <br> • Explain about Importance of EQ. <br> • Explain about Limitations of Relying Solely on IQ. <br><br> **Conclusion** <br> • Give appropriate conclusion in this regard |
+| **Approach:** <br> **Introduction** <br> • Introduce briefly about EQ & IQ. <br><br> <br> **Body** <br> • Explain about Importance of EQ. <br> • Explain about Limitations of Relying Solely on IQ. <br><br> <br> **Conclusion** <br> • Give appropriate <br> conclusion in this regard |
 | --- |
 
 ### Introduction
@@ -1486,7 +1486,7 @@ In today’s era, as emotional challenges continue to mount, the importance of E
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br> • Introduce briefly about traits of Guru Nank’s teaching. <br><br> **Body** <br> • Explain Major Teachings of Guru Nanak. <br> • Relevance in the Contemporary World <br><br> **Conclusion** <br> • Give appropriate conclusion in this regard |
+| **Approach:** <br> **Introduction** <br> • Introduce briefly about traits of Guru Nank’s teaching. <br><br> <br> **Body** <br> • Explain Major Teachings of Guru Nanak. <br> • Relevance in the Contemporary World <br><br> <br> **Conclusion** <br> • Give appropriate <br> conclusion in this regard |
 | --- |
 
 ### Introduction
@@ -1524,7 +1524,7 @@ Guru Nanak’s teachings, grounded in compassion, equality, and spirituality, pr
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br> • Briefly write about the importance of empathy and compassion or definition. <br><br> **Body** <br> • Mention the importance of those values to civil servants. <br> • Add examples to substantiate your points. <br><br> **Conclusion** <br> • You can conclude by writing about significance of empathy and compassion. |
+| **Approach:** <br> **Introduction** <br> • Briefly write about the importance of empathy and compassion or definition. <br><br> <br> **Body** <br> • Mention the importance of those values to civil servants. <br> • Add examples to substantiate your points. <br><br> <br> **Conclusion** <br> • You can conclude by writing about significance of empathy and compassion. |
 | --- |
 
 ### Introduction
@@ -1567,7 +1567,7 @@ These qualities help civil servants to understand the needs and concerns of the 
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br> • Explain the quotation or write the definition of ethics. <br><br> **Body** <br> • Analyze your points in different perspectives along with appropriate examples. <br> • Add different dimensions from various fields. <br><br> **Conclusion** <br> • Conclude with the significance in public service or life. |
+| **Approach:** <br> **Introduction** <br> • Explain the quotation or write the definition of ethics. <br><br> <br> **Body** <br> • Analyze your points in different perspectives along with appropriate examples. <br> • Add different dimensions from various fields. <br><br> <br> **Conclusion** <br> • Conclude with the significance in public service or life. |
 | --- |
 
 ### Introduction
@@ -1618,7 +1618,7 @@ In all of these examples, ethical considerations go beyond legal or personal rig
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br> • Write about corruption or briefly explain the statement. <br><br> **Body** <br> • Role of father, Mother and teacher in making a country corruption-free <br> • Substantiate with examples. <br><br> **Conclusion** <br> • Conclude by relevant statements |
+| **Approach:** <br> **Introduction** <br> • Write about corruption or briefly explain the statement. <br><br> <br> **Body** <br> • Role of father, Mother and teacher in making a country corruption-free <br> • Substantiate with examples. <br><br> <br> **Conclusion** <br> • Conclude by relevant statements |
 | --- |
 
 ### Introduction
@@ -1654,7 +1654,7 @@ It is essential to recognize and appreciate the role that fathers, mothers, and 
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br> • Explain about corporate social responsibility <br><br> **Body** <br> • Give both sides of arguments to critically examine the statement. <br> • Add examples to substantiate your arguments. <br><br> **Conclusion** <br> • Give prospective way ahead |
+| **Approach:** <br> **Introduction** <br> • Explain about corporate social responsibility <br><br> <br> **Body** <br> • Give both sides of arguments to critically examine the statement. <br> • Add examples to substantiate your arguments. <br><br> <br> **Conclusion** <br> • Give prospective way ahead |
 | --- |
 
 ### Introduction
@@ -1691,7 +1691,7 @@ While CSR initiatives have their place in corporate responsibility, they are not
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br> • Write about ethics and its role in human actions. <br><br> **Body** <br> • Adherence to ethics ensures smooth functioning of an organization. <br> • Substantiate with examples. <br> • How ethical values resolve conflicts. <br><br> **Conclusion** <br> • Significance of ethical values. |
+| **Approach:** <br> **Introduction** <br> • Write about ethics and its role in human actions. <br><br> <br> **Body** <br> • Adherence to ethics ensures smooth functioning of an organization. <br> • Substantiate with examples. <br> • How ethical values resolve conflicts. <br><br> <br> **Conclusion** <br> • Significance of ethical values. |
 | --- |
 
 ### Introduction
@@ -1731,7 +1731,7 @@ Ethical values provide a framework for individuals to make decisions that are fa
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br> • Write the meaning of the quote in relevant context. <br><br> **Body** <br> • Illustrate the quote with proper examples. <br> • Try to add various dimensions. <br><br> **Conclusion** <br> • Conclude by relevant statements or learning experience. |
+| **Approach:** <br> **Introduction** <br> • Write the meaning of the quote in relevant context. <br><br> <br> **Body** <br> • Illustrate the quote with proper examples. <br> • Try to add various dimensions. <br><br> <br> **Conclusion** <br> • Conclude by relevant statements or learning experience. |
 | --- |
 
 ### Introduction
@@ -1763,7 +1763,7 @@ By judging success not just by what we achieve but also by what we are willing t
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br> • Contextual introduction or write about digitalisation. <br><br> **Body** <br> • Mention the ethical issues involved in it along with proper substantiation. <br> • Advantages and disadvantages of online methodology. <br><br> **Conclusion** <br> • Give prospective way ahead |
+| **Approach:** <br> **Introduction** <br> • Contextual introduction or write about digitalisation. <br><br> <br> **Body** <br> • Mention the ethical issues involved in it along with proper substantiation. <br> • Advantages and disadvantages of online methodology. <br><br> <br> **Conclusion** <br> • Give prospective way ahead |
 | --- |
 
 ### Introduction
@@ -1800,7 +1800,7 @@ It is also important to be aware of the potential biases and discrimination that
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br> • Write your views on the above statement, relate it with the civil services. <br><br> **Body** <br> • Mention the approach of positive as well as negative officers with respect to rules and regulations <br> • Add examples to substantiation <br><br> **Conclusion** <br> • Give prospective way ahead. |
+| **Approach:** <br> **Introduction** <br> • Write your views on the above statement, relate it with the civil services. <br><br> <br> **Body** <br> • Mention the approach of positive as well as negative officers with respect to rules and regulations <br> • Add examples to substantiation <br><br> <br> **Conclusion** <br> • Give prospective way ahead. |
 | --- |
 
 ### Introduction
@@ -1831,7 +1831,7 @@ It is essential to encourage civil servants to adopt a positive mindset and appr
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br> • Brief introduction in accordance to the context of the question. <br><br> **Body** <br> • Mention the ethical issue involved in the given state of affairs. <br> • Add impacts for further substantiation. <br><br> **Conclusion** <br> • Conclude by relevant statements or present context and implications. |
+| **Approach:** <br> **Introduction** <br> • Brief introduction in accordance to the context of the question. <br><br> <br> **Body** <br> • Mention the ethical issue involved in the given state of affairs. <br> • Add impacts for further substantiation. <br><br> <br> **Conclusion** <br> • Conclude by relevant statements or present context and implications. |
 | --- |
 
 ### Introduction
@@ -1863,7 +1863,7 @@ Russia-Ukraine conflict raises numerous ethical issues related to the use of for
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br> • Define good governance. <br><br> **Body** <br> • Mention the examples for substantiating good governance. <br> • Various government initiatives in this regard. <br><br> **Conclusion** <br> • Conclude with the way forward and what more needs to be done. |
+| **Approach:** <br> **Introduction** <br> • Define good governance. <br><br> <br> **Body** <br> • Mention the examples for substantiating good governance. <br> • Various government initiatives in this regard. <br><br> <br> **Conclusion** <br> • Conclude with the way forward and what more needs to be done. |
 | --- |
 
 ### Introduction
@@ -1903,7 +1903,7 @@ Russia-Ukraine conflict raises numerous ethical issues related to the use of for
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br> • Write about the meaning of whistle-blowers <br><br> **Body** <br> • Write about issues with whistleblowers. <br> • Mention the policy measures to strengthen protection mechanisms for whistle-blowers. <br><br> **Conclusion** <br> • Conclude with the way forward or suggestions. |
+| **Approach:** <br> **Introduction** <br> • Write about the meaning of whistle-blowers <br><br> <br> **Body** <br> • Write about issues with whistleblowers. <br> • Mention the policy measures to strengthen protection mechanisms for whistle-blowers. <br><br> <br> **Conclusion** <br> • Conclude with the way forward or suggestions. |
 | --- |
 
 ### Introduction
@@ -1937,7 +1937,7 @@ Strengthening protection mechanisms for whistle-blowers is essential to encourag
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br> • Write about the meaning of wisdom, relate it with the civil services. <br><br> **Body** <br> • Substantiate your points with proper examples. <br> • How ignoring core issues can impact the bureaucracy ? <br> • Impact on good governance. <br><br> **Conclusion** <br> • You can conclude by mentioning the significance of focusing on core issues. |
+| **Approach:** <br> **Introduction** <br> • Write about the meaning of wisdom, relate it with the civil services. <br><br> <br> **Body** <br> • Substantiate your points with proper examples. <br> • How ignoring core issues can impact the bureaucracy ? <br> • Impact on good governance. <br><br> <br> **Conclusion** <br> • You can conclude by mentioning the significance of focusing on core issues. |
 | --- |
 
 ### Introduction
@@ -1971,7 +1971,7 @@ While it is important to pay attention to peripheral issues, it is crucial for a
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br> • Define social audit. <br><br> **Body** <br> • Explain how independent and empowered social audit mechanism is an absolute must in every sphere of public service <br> • Add examples for clarity. <br><br> **Conclusion** <br> • Give prospective way ahead |
+| **Approach:** <br> **Introduction** <br> • Define social audit. <br><br> <br> **Body** <br> • Explain how independent and empowered social audit mechanism is an absolute must in every sphere of public service <br> • Add examples for clarity. <br><br> <br> **Conclusion** <br> • Give prospective way ahead |
 | --- |
 
 ### Introduction
@@ -2018,7 +2018,7 @@ An independent and empowered social audit mechanism is essential in every sphere
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br> • Explain about the cruciality of attitude. <br><br> **Body** <br> • Write about various aspects for Attitude building. <br> • Add examples to substantiate your points. <br><br> **Conclusion** <br> • Conclude accordingly. |
+| **Approach:** <br> **Introduction** <br> • Explain about the cruciality of attitude. <br><br> <br> **Body** <br> • Write about various aspects for Attitude building. <br> • Add examples to substantiate your points. <br><br> <br> **Conclusion** <br> • Conclude accordingly. |
 | --- |
 
 ### Introduction
@@ -2062,7 +2062,7 @@ Building a suitable attitude for a public servant requires a multifaceted approa
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br> • Write about innovation and creativity in public service. <br><br> **Body** <br> • Mention the ethical dilemma in each sector <br> • Add points on how to resolve those ethical dilemmas. <br><br> **Conclusion** <br> • Conclude by showing the significance of innovation. |
+| **Approach:** <br> **Introduction** <br> • Write about innovation and creativity in public service. <br><br> <br> **Body** <br> • Mention the ethical dilemma in each sector <br> • Add points on how to resolve those ethical dilemmas. <br><br> <br> **Conclusion** <br> • Conclude by showing the significance of innovation. |
 | --- |
 
 ### Introduction
@@ -2102,7 +2102,7 @@ Public officials who possess these traits can make a significant positive impact
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br> • Write about the cruciality of effective functioning of government institutions. <br><br> **Body** <br> • Mention the Five ethical traits that can be used to evaluate the performance of a civil servant <br> • Add examples to substantiate your points <br><br> **Conclusion** <br> • Conclude by relevant statements. |
+| **Approach:** <br> **Introduction** <br> • Write about the cruciality of effective functioning of government institutions. <br><br> <br> **Body** <br> • Mention the Five ethical traits that can be used to evaluate the performance of a civil servant <br> • Add examples to substantiate your points <br><br> <br> **Conclusion** <br> • Conclude by relevant statements. |
 | --- |
 
 ### Introduction
@@ -2139,7 +2139,7 @@ Civil servants who possess these traits are more likely to earn the respect and 
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br> • Write about the civil service and importance of values. <br><br> **Body** <br> • Mention the Ten essential values that are needed to be an effective public servant. <br> • Add examples to substantiate your points. <br><br> **Conclusion** <br> • Conclude with the way forward. |
+| **Approach:** <br> **Introduction** <br> • Write about the civil service and importance of values. <br><br> <br> **Body** <br> • Mention the Ten essential values that are needed to be an effective public servant. <br> • Add examples to substantiate your points. <br><br> <br> **Conclusion** <br> • Conclude with the way forward. |
 | --- |
 
 ### Introduction
@@ -2192,7 +2192,7 @@ To prevent unethical behavior in public servants, there is a need to promote a c
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br> • Write about the digitalisation or data related to it. <br><br> **Body** <br> • Analyze the statement from both perspectives (Pros and Cons) <br> • Add examples to substantiate your arguments. <br><br> **Conclusion** <br> • Give prospective way ahead |
+| **Approach:** <br> **Introduction** <br> • Write about the digitalisation or data related to it. <br><br> <br> **Body** <br> • Analyze the statement from both perspectives (Pros and Cons) <br> • Add examples to substantiate your arguments. <br><br> <br> **Conclusion** <br> • Give prospective way ahead |
 | --- |
 
 ### Introduction
@@ -2228,7 +2228,7 @@ The impact of digital technology on decision making is a complex and nuanced iss
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br> • Define emotional intelligence. <br><br> **Body** <br> • Mention some points how emotional intelligence can help individuals <br> • Add examples to substantiate your arguments. <br><br> **Conclusion** <br> • Give prospective way ahead. |
+| **Approach:** <br> **Introduction** <br> • Define emotional intelligence. <br><br> <br> **Body** <br> • Mention some points how emotional intelligence can help individuals <br> • Add examples to substantiate your arguments. <br><br> <br> **Conclusion** <br> • Give prospective way ahead. |
 | --- |
 
 ### Introduction
@@ -2269,7 +2269,7 @@ Emotional intelligence can be a valuable asset for public servants to navigate a
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br> • Definition of integrity. <br><br> **Body** <br> • Mention how integrity empowers human beings. <br> • Add examples for substantiation of your views. <br><br> **Conclusion** <br> • Write a relevant conclusion mentioning the significance of integrity. |
+| **Approach:** <br> **Introduction** <br> • Definition of integrity. <br><br> <br> **Body** <br> • Mention how integrity empowers human beings. <br> • Add examples for substantiation of your views. <br><br> <br> **Conclusion** <br> • Write a relevant <br> conclusion mentioning the significance of integrity. |
 | --- |
 
 ### Introduction
@@ -2298,7 +2298,7 @@ Integrity empowers human beings in various fields and professions by enabling th
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br> • Contextual introduction or explain about the interdependence. <br><br> **Body** <br> • Examples to substantiate the quote. <br> • Add examples from various dimensions or fields. <br><br> **Conclusion** <br> • Conclude by relevant statements by showing the significance. |
+| **Approach:** <br> **Introduction** <br> • Contextual introduction or explain about the interdependence. <br><br> <br> **Body** <br> • Examples to substantiate the quote. <br> • Add examples from various dimensions or fields. <br><br> <br> **Conclusion** <br> • Conclude by relevant statements by showing the significance. |
 | --- |
 
 ### Introduction
@@ -2329,7 +2329,7 @@ The principle of interdependence and cooperation is deeply ingrained in Indian c
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br> • Contextual introduction or add the current event linked to the issue. <br><br> **Body** <br> • Mention the several instances where countries have violated this ethical obligation. <br> • Add examples to substantiate your points. <br><br> **Conclusion** <br> • Conclude by relevant statements or way forward. |
+| **Approach:** <br> **Introduction** <br> • Contextual introduction or add the current event linked to the issue. <br><br> <br> **Body** <br> • Mention the several instances where countries have violated this ethical obligation. <br> • Add examples to substantiate your points. <br><br> <br> **Conclusion** <br> • Conclude by relevant statements or way forward. |
 | --- |
 
 ### Introduction
@@ -2369,7 +2369,7 @@ It is imperative that nations uphold their ethical obligation to protect the rig
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br> • Write about the civil services and values linked. <br><br> **Body** <br> • Mention the importance of impartiality and nonpartisanship <br> • Illustrate your points with relevant examples. <br><br> **Conclusion** <br> • Conclude accordingly with some suggestion or importance. |
+| **Approach:** <br> **Introduction** <br> • Write about the civil services and values linked. <br><br> <br> **Body** <br> • Mention the importance of impartiality and nonpartisanship <br> • Illustrate your points with relevant examples. <br><br> <br> **Conclusion** <br> • Conclude accordingly with some suggestion or importance. |
 | --- |
 
 ### Introduction
@@ -2402,7 +2402,7 @@ Civil servants who remain impartial and non-partisan in their work can earn the 
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br> • Write about peace or explain the quotation. <br><br> **Body** <br> • Mention how individuals and communities have been able to achieve peace by first cultivating inner peace. <br> • Add examples to substantiate your points. <br><br> **Conclusion** <br> • Conclude suitably in present context. |
+| **Approach:** <br> **Introduction** <br> • Write about peace or explain the quotation. <br><br> <br> **Body** <br> • Mention how individuals and communities have been able to achieve peace by first cultivating inner peace. <br> • Add examples to substantiate your points. <br><br> <br> **Conclusion** <br> • Conclude suitably in present context. |
 | --- |
 
 ### Introduction
@@ -2437,7 +2437,7 @@ Indian culture and philosophy are deeply rooted in the principles of cultivating
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br> • Give the emphasis on the quote or can explain the perseverance. <br><br> **Body** <br> • Mention the importance of perseverance in different areas with proper substantiation. <br> • Provide relevant examples in the given context. <br><br> **Conclusion** <br> • Conclude accordingly with a positive approach. |
+| **Approach:** <br> **Introduction** <br> • Give the emphasis on the quote or can explain the perseverance. <br><br> <br> **Body** <br> • Mention the importance of perseverance in different areas with proper substantiation. <br> • Provide relevant examples in the given context. <br><br> <br> **Conclusion** <br> • Conclude accordingly with a positive approach. |
 | --- |
 
 ### Introduction
@@ -2467,7 +2467,7 @@ By following the teachings of Swami Vivekananda and continuing to persevere in t
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br> • Define attitude or positive attitude. <br><br> **Body** <br> • Mention some factors that contribute to a positive attitude <br> • Add examples for substantiation. <br><br> **Conclusion** <br> • Conclude accordingly with significance. |
+| **Approach:** <br> **Introduction** <br> • Define attitude or positive attitude. <br><br> <br> **Body** <br> • Mention some factors that contribute to a positive attitude <br> • Add examples for substantiation. <br><br> <br> **Conclusion** <br> • Conclude accordingly with significance. |
 | --- |
 
 ### Introduction
@@ -2504,7 +2504,7 @@ Positive attitude is essential for civil servants to effectively serve the publi
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br> • Highlight the importance of this quote. <br><br> **Body** <br> • Mention the several instances where a moral system based on emotional values has led to societal issues. <br> • How can it be resolved ? <br><br> **Conclusion** <br> • Conclude suitably with the way ahead. |
+| **Approach:** <br> **Introduction** <br> • Highlight the importance of this quote. <br><br> <br> **Body** <br> • Mention the several instances where a moral system based on emotional values has led to societal issues. <br> • How can it be resolved ? <br><br> <br> **Conclusion** <br> • Conclude suitably with the way ahead. |
 | --- |
 
 ### Introduction
@@ -2536,7 +2536,7 @@ Socrates’ statement emphasizes the importance of having an objective moral sys
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br> • Definition of ethics and values. <br><br> **Body** <br> • Mention some points that demonstrate the role of ethics and values in enhancing CNP <br> • Add examples to substantiate your points. <br><br> **Conclusion** <br> • Conclude by relevant statements. |
+| **Approach:** <br> **Introduction** <br> • Definition of ethics and values. <br><br> <br> **Body** <br> • Mention some points that demonstrate the role of ethics and values in enhancing CNP <br> • Add examples to substantiate your points. <br><br> <br> **Conclusion** <br> • Conclude by relevant statements. |
 | --- |
 
 ### Introduction
@@ -2570,7 +2570,7 @@ Ethics and values are essential in enhancing the components of CNP. By promoting
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br> • Brief introduction about law and rules. <br><br> **Body** <br> • Mention some points on the difference between laws and rules. <br> • Add some points on the role of ethics in formulating laws and rules. <br><br> **Conclusion** <br> • Conclude by relevant statements. |
+| **Approach:** <br> **Introduction** <br> • Brief introduction about law and rules. <br><br> <br> **Body** <br> • Mention some points on the difference between laws and rules. <br> • Add some points on the role of ethics in formulating laws and rules. <br><br> <br> **Conclusion** <br> • Conclude by relevant statements. |
 | --- |
 
 ### Introduction
@@ -2608,7 +2608,7 @@ Overall, the role of ethics in formulating laws and rules is crucial in ensuring
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br> • Contextual introduction or mention about education linking with NEP 2020. <br><br> **Body** <br> • Mention the role of education in promoting the holistic development of an individual and the transformation of society. <br> • Add a few points from NEP 2020 to substantiate your views. <br> • Analyze in a multi perspective. <br><br> **Conclusion** <br> • Conclude accordingly |
+| **Approach:** <br> **Introduction** <br> • Contextual introduction or mention about education linking with NEP 2020. <br><br> <br> **Body** <br> • Mention the role of education in promoting the holistic development of an individual and the transformation of society. <br> • Add a few points from NEP 2020 to substantiate your views. <br> • Analyze in a multi perspective. <br><br> <br> **Conclusion** <br> • Conclude accordingly |
 | --- |
 
 ### Introduction
@@ -2647,7 +2647,7 @@ By focusing on these aspects, the NEP, 2020 can transform the Indian education s
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br> • Explain about the hatredness. <br><br> **Body** <br> • Mention the examples of how hatred has affected individuals and the country as a whole from different domains. <br> • Link with current events around the world or in India. <br><br> **Conclusion** <br> • Give prospective way ahead |
+| **Approach:** <br> **Introduction** <br> • Explain about the hatredness. <br><br> <br> **Body** <br> • Mention the examples of how hatred has affected individuals and the country as a whole from different domains. <br> • Link with current events around the world or in India. <br><br> <br> **Conclusion** <br> • Give prospective way ahead |
 | --- |
 
 ### Introduction
@@ -2683,7 +2683,7 @@ It is essential to recognize the destructive nature of hatred and to work toward
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br> • Contextual introduction by explaining the statement. <br><br> **Body** <br> • Mention the relevance of quotes in present day context. <br> • Add examples that illustrate the power of this quote. <br><br> **Conclusion** <br> • Give prospective way ahead. |
+| **Approach:** <br> **Introduction** <br> • Contextual introduction by explaining the statement. <br><br> <br> **Body** <br> • Mention the relevance of quotes in present day context. <br> • Add examples that illustrate the power of this quote. <br><br> <br> **Conclusion** <br> • Give prospective way ahead. |
 | --- |
 
 ### Introduction
@@ -2718,7 +2718,7 @@ These examples illustrate how individuals in India have found purpose and meanin
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br> • Briefly write about the essentiality of this statement. <br><br> **Body** <br> • Explain the relevance and meaning of the statement with proper examples. <br> • Pros and Cons of the internet on values. <br><br> **Conclusion** <br> • Conclude by relevant statements or way ahead. |
+| **Approach:** <br> **Introduction** <br> • Briefly write about the essentiality of this statement. <br><br> <br> **Body** <br> • Explain the relevance and meaning of the statement with proper examples. <br> • Pros and Cons of the internet on values. <br><br> <br> **Conclusion** <br> • Conclude by relevant statements or way ahead. |
 | --- |
 
 ### Introduction
@@ -2754,7 +2754,7 @@ By striking a balance between traditional and emerging cultural values, we can h
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br> • Contextual introduction by substantiating the lines. <br><br> **Body** <br> • Analyze the statements in various perspectives wrt International relations. <br> • Add examples to substantiate your arguments. <br><br> **Conclusion** <br> • Conclude suitably with the way ahead. |
+| **Approach:** <br> **Introduction** <br> • Contextual introduction by substantiating the lines. <br><br> <br> **Body** <br> • Analyze the statements in various perspectives wrt International relations. <br> • Add examples to substantiate your arguments. <br><br> <br> **Conclusion** <br> • Conclude suitably with the way ahead. |
 | --- |
 
 ### Introduction
@@ -2787,7 +2787,7 @@ While the will to power may exist, it is ultimately the ability to tame and guid
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br> • Define emotional intelligence. <br><br> **Body** <br> • Mention the main components of EI. <br> • Add examples to substantiate the components <br> • How can it be learnt ? <br><br> **Conclusion** <br> • Conclude by relevant statements showing the significance. |
+| **Approach:** <br> **Introduction** <br> • Define emotional intelligence. <br><br> <br> **Body** <br> • Mention the main components of EI. <br> • Add examples to substantiate the components <br> • How can it be learnt ? <br><br> <br> **Conclusion** <br> • Conclude by relevant statements showing the significance. |
 | --- |
 
 ### Introduction
@@ -2835,7 +2835,7 @@ Through consistent practice and application of these skills, individuals can bui
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br> • **** Explain the concept of Gender Equality or add some report. <br><br> **Body** <br> • Mention the main factors responsible for gender inequality in India <br> • Add some points on contribution of Savitribai Phule. <br><br> **Conclusion** <br> • Conclude with summary of S. Phule’s contribution or way ahead. |
+| **Approach:** <br> **Introduction** <br> • **** Explain the concept of Gender Equality or add some report. <br><br> <br> **Body** <br> • Mention the main factors responsible for gender inequality in India <br> • Add some points on contribution of Savitribai Phule. <br><br> <br> **Conclusion** <br> • Conclude with summary of S. Phule’s contribution or way ahead. |
 | --- |
 
 ### Introduction
@@ -2872,7 +2872,7 @@ Phule’s work laid the foundation for the women’s rights movement in India an
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br> • Give the emphasis of this quote by explaining the context. <br><br> **Body** <br> • Explain the relevance of quotes in present day context. <br> • Add examples for substantiation. <br><br> **Conclusion** <br> • Conclude accordingly with the way forward. |
+| **Approach:** <br> **Introduction** <br> • Give the emphasis of this quote by explaining the context. <br><br> <br> **Body** <br> • Explain the relevance of quotes in present day context. <br> • Add examples for substantiation. <br><br> <br> **Conclusion** <br> • Conclude accordingly with the way forward. |
 | --- |
 
 ### Introduction
@@ -2906,7 +2906,7 @@ Swami Vivekananda’s quote encourages us to be compassionate and helpful toward
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br> • Contextual introduction or add some points about Buddha. <br><br> **Body** <br> • Mention the Buddha’s teachings that are particularly relevant today. <br> • Explain how the relevance of Buddha’s teachings can be seen in various aspects of society. <br><br> **Conclusion** <br> • Conclude with the way ahead. |
+| **Approach:** <br> **Introduction** <br> • Contextual introduction or add some points about Buddha. <br><br> <br> **Body** <br> • Mention the Buddha’s teachings that are particularly relevant today. <br> • Explain how the relevance of Buddha’s teachings can be seen in various aspects of society. <br><br> <br> **Conclusion** <br> • Conclude with the way ahead. |
 | --- |
 
 ### Introduction
@@ -2940,7 +2940,7 @@ Overall, Buddha’s teachings continue to inspire and guide people towards a mor
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br> • Brief introduction on seven principles of public life. <br><br> **Body** <br> • Illustrate any three values important in public life. <br> • Add suitable examples from different fields. <br><br> **Conclusion** <br> • Conclude by relevant statements. |
+| **Approach:** <br> **Introduction** <br> • Brief introduction on seven principles of public life. <br><br> <br> **Body** <br> • Illustrate any three values important in public life. <br> • Add suitable examples from different fields. <br><br> <br> **Conclusion** <br> • Conclude by relevant statements. |
 | --- |
 
 ### Introduction
@@ -2979,7 +2979,7 @@ Overall, adherence to these principles helps to promote trust in government and 
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br> • Definition of public servant. <br><br> **Body** <br> • Mention the expected role of public servant with values attached. <br> • Add examples for substantiation. <br><br> **Conclusion** <br> • Conclude accordingly. |
+| **Approach:** <br> **Introduction** <br> • Definition of public servant. <br><br> <br> **Body** <br> • Mention the expected role of public servant with values attached. <br> • Add examples for substantiation. <br><br> <br> **Conclusion** <br> • Conclude accordingly. |
 | --- |
 
 ##
@@ -3034,7 +3034,7 @@ Also Read: Role Of Civil Services In A Democracy
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br> • Contextual introduction wrt Public service or funds. <br><br> **Body** <br> • Mention the Reasons for under-utilization and mis-utilization of public funds and their implications in India. <br> • Add examples for substantiation. <br><br> **Conclusion** <br> • Give prospective way ahead. |
+| **Approach:** <br> **Introduction** <br> • Contextual introduction wrt Public service or funds. <br><br> <br> **Body** <br> • Mention the Reasons for under-utilization and mis-utilization of public funds and their implications in India. <br> • Add examples for substantiation. <br><br> <br> **Conclusion** <br> • Give prospective way ahead. |
 | --- |
 
 ### Introduction
@@ -3089,7 +3089,7 @@ Efforts must be made to improve the bureaucratic processes, enhance transparency
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br> • Explain about the statement in relevant context or explain the concept of corruption. <br><br> **Body** <br> • Mention some instances of non-performance of duty by civil servants, which have resulted in significant harm to the public interest. <br> • Add examples to substantiate your views. <br><br> **Conclusion** <br> • Conclude by prospective way ahead |
+| **Approach:** <br> **Introduction** <br> • Explain about the statement in relevant context or explain the concept of corruption. <br><br> <br> **Body** <br> • Mention some instances of non-performance of duty by civil servants, which have resulted in significant harm to the public interest. <br> • Add examples to substantiate your views. <br><br> <br> **Conclusion** <br> • Conclude by prospective way ahead |
 | --- |
 
 ### Introduction
@@ -3128,7 +3128,7 @@ Non-performance of duty by civil servants is a form of corruption that has signi
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br> • Definition of constitutional morality. <br><br> **Body** <br> • Mention some ways one can uphold constitutional morality: <br> • Add examples of upholding constitutional morality. <br> • SC judgements wrt constitutional morality. <br><br> **Conclusion** <br> • Conclude accordingly with the way ahead. |
+| **Approach:** <br> **Introduction** <br> • Definition of constitutional morality. <br><br> <br> **Body** <br> • Mention some ways one can uphold constitutional morality: <br> • Add examples of upholding constitutional morality. <br> • SC judgements wrt constitutional morality. <br><br> <br> **Conclusion** <br> • Conclude accordingly with the way ahead. |
 | --- |
 
 ### Introduction
@@ -3167,7 +3167,7 @@ These examples illustrate how upholding constitutional morality is essential for
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br> • Definition of crisis of conscience. <br><br> **Body** <br> • Explain How the crisis of conscience manifests itself in the public domain? <br> • How to overcome it ? <br><br> **Conclusion** <br> • Give prospective way ahead. |
+| **Approach:** <br> **Introduction** <br> • Definition of crisis of conscience. <br><br> <br> **Body** <br> • Explain How the crisis of conscience manifests itself in the public domain? <br> • How to overcome it ? <br><br> <br> **Conclusion** <br> • Give prospective way ahead. |
 | --- |
 
 ### Introduction
@@ -3202,7 +3202,7 @@ It is important to recognize the importance of personal and professional ethics 
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br> • Explain about citizen charter. <br><br> **Body** <br> • Mention the Basic principles of citizens charter movement. <br> • Add some key benefits of the Citizens’ Charter movement. <br> • Issues involved in Citizen’s charter. <br><br> **Conclusion** <br> • Conclude by relevant statements. |
+| **Approach:** <br> **Introduction** <br> • Explain about citizen charter. <br><br> <br> **Body** <br> • Mention the Basic principles of citizens charter movement. <br> • Add some key benefits of the Citizens’ Charter movement. <br> • Issues involved in Citizen’s charter. <br><br> <br> **Conclusion** <br> • Conclude by relevant statements. |
 | --- |
 
 ### Introduction
@@ -3244,7 +3244,7 @@ The Citizens’ Charter movement has gained significant importance in recent yea
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br> • Write about the official secret act. <br><br> **Body** <br> • Analyze your view from various perspectives. <br> • How OSA impacts the RTI. <br><br> **Conclusion** <br> • Conclude accordingly with the way ahead. |
+| **Approach:** <br> **Introduction** <br> • Write about the official secret act. <br><br> <br> **Body** <br> • Analyze your view from various perspectives. <br> • How OSA impacts the RTI. <br><br> <br> **Conclusion** <br> • Conclude accordingly with the way ahead. |
 | --- |
 
 ### Introduction
@@ -3281,7 +3281,7 @@ While the OSA can be seen as an obstacle to the implementation of the RTI Act, i
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br> • Definition of probity in governance. <br><br> **Body** <br> • Mention the measures for ensuring probity in government in India. <br> • Add examples or suggestions with proper substantiation. <br><br> **Conclusion** <br> • Conclude suitably with the significance of probity. |
+| **Approach:** <br> **Introduction** <br> • Definition of probity in governance. <br><br> <br> **Body** <br> • Mention the measures for ensuring probity in government in India. <br> • Add examples or suggestions with proper substantiation. <br><br> <br> **Conclusion** <br> • Conclude suitably with the significance of probity. |
 | --- |
 
 ### Introduction
@@ -3320,7 +3320,7 @@ By continuing to strengthen measures to ensure probity in governance, India can 
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br> • Definition of emotional intelligence. <br><br> **Body** <br> • Add components of EI. <br> • Mention the examples that illustrate the importance of emotional intelligence. <br><br> **Conclusion** <br> • Conclude by relevant statements |
+| **Approach:** <br> **Introduction** <br> • Definition of emotional intelligence. <br><br> <br> **Body** <br> • Add components of EI. <br> • Mention the examples that illustrate the importance of emotional intelligence. <br><br> <br> **Conclusion** <br> • Conclude by relevant statements |
 | --- |
 
 ### Introduction
@@ -3354,7 +3354,7 @@ Emotional intelligence is a vital skill that can help individuals and organizati
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br> • Give the meaning of the quote by briefly explaining it. <br><br> **Body** <br> • Mention the relevance of quotes in present day context with proper substantiation of examples. <br><br> **Conclusion** <br> • Conclude accordingly with the way forward. |
+| **Approach:** <br> **Introduction** <br> • Give the meaning of the quote by briefly explaining it. <br><br> <br> **Body** <br> • Mention the relevance of quotes in present day context with proper substantiation of examples. <br><br> <br> **Conclusion** <br> • Conclude accordingly with the way forward. |
 | --- |
 
 ### Introduction
@@ -3385,7 +3385,7 @@ The quotation by Socrates emphasizes the importance of examining one’s life in
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br> • Definition of values. <br><br> **Body** <br> • Mention the Importance of these values in the context of civil services. <br> • How are these values universal ? <br> • Add examples for substantiation. <br><br> **Conclusion** <br> • Conclude by relevant statements. |
+| **Approach:** <br> **Introduction** <br> • Definition of values. <br><br> <br> **Body** <br> • Mention the Importance of these values in the context of civil services. <br> • How are these values universal ? <br> • Add examples for substantiation. <br><br> <br> **Conclusion** <br> • Conclude by relevant statements. |
 | --- |
 
 ### Introduction
@@ -3425,7 +3425,7 @@ Upholding these values promotes good governance, social justice, and economic gr
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br> • Contextual introduction explaining the question. <br><br> **Body** <br> • Mention the difference between code of ethics and code of conduct. <br> • Add examples for substantiation. <br><br> **Conclusion** <br> • Conclude accordingly with the significance. |
+| **Approach:** <br> **Introduction** <br> • Contextual introduction explaining the question. <br><br> <br> **Body** <br> • Mention the difference between code of ethics and code of conduct. <br> • Add examples for substantiation. <br><br> <br> **Conclusion** <br> • Conclude accordingly with the significance. |
 | --- |
 
 ### Introduction
@@ -3468,7 +3468,7 @@ Both codes are crucial in maintaining public trust and ensuring compliance with 
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br> • Definition of public interest. <br><br> **Body** <br> • Mention the principles and procedures to be followed by the civil servants in public interest <br> • Add examples for substantiation. <br><br> **Conclusion** <br> • Give prospective way ahead and importance in public service. |
+| **Approach:** <br> **Introduction** <br> • Definition of public interest. <br><br> <br> **Body** <br> • Mention the principles and procedures to be followed by the civil servants in public interest <br> • Add examples for substantiation. <br><br> <br> **Conclusion** <br> • Give prospective way ahead and importance in public service. |
 | --- |
 
 ### Introduction
@@ -3503,7 +3503,7 @@ In conclusion, acting in the public interest is a fundamental principle of civil
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br> • Contextual introduction, briefly write about the RTI. <br><br> **Body** <br> • Mention how the Right to Information Act (RTI) redefines the concept of accountability and empowers the citizens. <br> • Add examples for substantiation. <br><br> **Conclusion** <br> • Conclude by relevant statements or way ahead. |
+| **Approach:** <br> **Introduction** <br> • Contextual introduction, briefly write about the RTI. <br><br> <br> **Body** <br> • Mention how the Right to Information Act (RTI) redefines the concept of accountability and empowers the citizens. <br> • Add examples for substantiation. <br><br> <br> **Conclusion** <br> • Conclude by relevant statements or way ahead. |
 | --- |
 
 ### Introduction
@@ -3550,7 +3550,7 @@ The act has been instrumental in exposing corruption, ensuring good governance, 
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br> • Definition of conflict of interest. <br><br> **Body** <br> • Mention actual and potential conflicts of interest. <br> • Add examples to substantiate your views. <br><br> **Conclusion** <br> • Conclude accordingly. |
+| **Approach:** <br> **Introduction** <br> • Definition of conflict of interest. <br><br> <br> **Body** <br> • Mention actual and potential conflicts of interest. <br> • Add examples to substantiate your views. <br><br> <br> **Conclusion** <br> • Conclude accordingly. |
 | --- |
 
 ### Introduction
@@ -3588,7 +3588,7 @@ In each of these situations, the individual’s personal interests could potenti
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br> • Write about ethical dilemmas. <br><br> **Body** <br> • Mention the examples of ethical dilemmas in Public Administration. <br> • Steps to resolve ethical dilemmas in Public Administration. <br><br> **Conclusion** <br> • Conclude accordingly with the way forward. |
+| **Approach:** <br> **Introduction** <br> • Write about ethical dilemmas. <br><br> <br> **Body** <br> • Mention the examples of ethical dilemmas in Public Administration. <br> • Steps to resolve ethical dilemmas in Public Administration. <br><br> <br> **Conclusion** <br> • Conclude accordingly with the way forward. |
 | --- |
 
 ### Introduction
@@ -3637,7 +3637,7 @@ By following this process, public servants can make decisions that are in the be
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br> • Contextual introduction or briefly explain the statement. <br><br> **Body** <br> • Mention the relevance of quotes in present day context. <br> • How does falsehood impact the truth ? <br> • Add examples for substantiation. <br><br> **Conclusion** <br> • Conclude suitably with the way forward. |
+| **Approach:** <br> **Introduction** <br> • Contextual introduction or briefly explain the statement. <br><br> <br> **Body** <br> • Mention the relevance of quotes in present day context. <br> • How does falsehood impact the truth ? <br> • Add examples for substantiation. <br><br> <br> **Conclusion** <br> • Conclude suitably with the way forward. |
 | --- |
 
 ### Introduction
@@ -3666,7 +3666,7 @@ Overall, the quote emphasizes the complexity of ethical decision-making and the 
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br> • About conflict of interest in public life. <br><br> **Body** <br> • Mention how this conflict in administration be resolved. <br> • Explain all the statements in the questions. <br> • Add examples for substantiation. <br><br> **Conclusion** <br> • Conclude with the significance. |
+| **Approach:** <br> **Introduction** <br> • About conflict of interest in public life. <br><br> <br> **Body** <br> • Mention how this conflict in administration be resolved. <br> • Explain all the statements in the questions. <br> • Add examples for substantiation. <br><br> <br> **Conclusion** <br> • Conclude with the significance. |
 | --- |
 
 ### Introduction
@@ -3711,7 +3711,7 @@ Overall, the key to addressing conflict of interest in the public sector is to e
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br> • Definition of corporate social responsibility. <br><br> **Body** <br> • Analyze the statement in various perspectives. <br> • Add the efforts done under CSR with examples for substantiation. <br><br> **Conclusion** <br> • Conclude accordingly with the way forward. |
+| **Approach:** <br> **Introduction** <br> • Definition of corporate social responsibility. <br><br> <br> **Body** <br> • Analyze the statement in various perspectives. <br> • Add the efforts done under CSR with examples for substantiation. <br><br> <br> **Conclusion** <br> • Conclude accordingly with the way forward. |
 | --- |
 
 ### Introduction
@@ -3745,7 +3745,7 @@ CSR can make companies more profitable and sustainable by enhancing their reputa
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br> • Explain about discipline <br><br> **Body** <br> • Mention how excessive discipline can be counter-productive in an Indian context with proper substantiation of examples. <br> • What can be done to overcome it? <br><br> **Conclusion** <br> • Conclude suitably with the way forward. |
+| **Approach:** <br> **Introduction** <br> • Explain about discipline <br><br> <br> **Body** <br> • Mention how excessive discipline can be counter-productive in an Indian context with proper substantiation of examples. <br> • What can be done to overcome it? <br><br> <br> **Conclusion** <br> • Conclude suitably with the way forward. |
 | --- |
 
 ### Introduction
@@ -3778,7 +3778,7 @@ Therefore, it is crucial for organizations to strike a balance between maintaini
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br> • Write something in the context of civil service. <br><br> **Body** <br> • Examine the relevance of all values in the context of civil service. <br> • Add examples for substantiation. <br><br> **Conclusion** <br> • Conclude accordingly with significance of these attributes in civil service. |
+| **Approach:** <br> **Introduction** <br> • Write something in the context of civil service. <br><br> <br> **Body** <br> • Examine the relevance of all values in the context of civil service. <br> • Add examples for substantiation. <br><br> <br> **Conclusion** <br> • Conclude accordingly with significance of these attributes in civil service. |
 | --- |
 
 ### Introduction
@@ -3818,7 +3818,7 @@ Therefore, it is crucial for organizations to strike a balance between maintaini
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br> • Write the highlights of the quote. <br><br> **Body** <br> • Mention Rulers who have harmed society and country <br> • And those who have worked for the development of society and country. <br> • Add examples for substantiation. <br><br> **Conclusion** <br> • Give prospective way ahead |
+| **Approach:** <br> **Introduction** <br> • Write the highlights of the quote. <br><br> <br> **Body** <br> • Mention Rulers who have harmed society and country <br> • And those who have worked for the development of society and country. <br> • Add examples for substantiation. <br><br> <br> **Conclusion** <br> • Give prospective way ahead |
 | --- |
 
 ### Introduction
@@ -3864,7 +3864,7 @@ The principles that guide a leader are critical in determining the success or fa
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br> • Define emotional intelligence. <br><br> **Body** <br> • Components of EI briefly. <br> • Mention how emotional intelligence can be applied in administrative practices along with proper substantiation. <br><br> **Conclusion** <br> • Conclude accordingly with significance of EI. |
+| **Approach:** <br> **Introduction** <br> • Define emotional intelligence. <br><br> <br> **Body** <br> • Components of EI briefly. <br> • Mention how emotional intelligence can be applied in administrative practices along with proper substantiation. <br><br> <br> **Conclusion** <br> • Conclude accordingly with significance of EI. |
 | --- |
 
 ### Introduction
@@ -3896,7 +3896,7 @@ By applying emotional intelligence in their administrative practices, civil serv
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br> • Write about corruption or briefly explain the statement. <br><br> **Body** <br> • Role of father, Mother and teacher in making a country corruption-free <br> • Substantiate with examples. <br><br> **Conclusion** <br> • Conclude by relevant statements |
+| **Approach:** <br> **Introduction** <br> • Write about corruption or briefly explain the statement. <br><br> <br> **Body** <br> • Role of father, Mother and teacher in making a country corruption-free <br> • Substantiate with examples. <br><br> <br> **Conclusion** <br> • Conclude by relevant statements |
 | --- |
 
 ### Introduction
@@ -3932,7 +3932,7 @@ It is essential to recognize and appreciate the role that fathers, mothers, and 
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br> • Contextual introduction or rising inequalities in the country. <br><br> **Body** <br> • Mention the reasons behind the statement. <br> • Add examples of enclaves of modernity and prosperity for a small minority at the cost of the majority. <br> • Impact of inequality and how it can be resolved. ● <br><br> **Conclusion** <br> • Conclude accordingly with the way forward. |
+| **Approach:** <br> **Introduction** <br> • Contextual introduction or rising inequalities in the country. <br><br> <br> **Body** <br> • Mention the reasons behind the statement. <br> • Add examples of enclaves of modernity and prosperity for a small minority at the cost of the majority. <br> • Impact of inequality and how it can be resolved. ● <br><br> <br> **Conclusion** <br> • Conclude accordingly with the way forward. |
 | --- |
 
 ### Introduction
@@ -3967,7 +3967,7 @@ Furthermore, it is crucial that these policies are implemented in a transparent 
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br> • Definition of integrity. <br><br> **Body** <br> • Mention the lifetime example to substantiate the statement. <br> • Add some more examples for substantiation. <br><br> **Conclusion** <br> • Conclude with the importance or significance of integrity. |
+| **Approach:** <br> **Introduction** <br> • Definition of integrity. <br><br> <br> **Body** <br> • Mention the lifetime example to substantiate the statement. <br> • Add some more examples for substantiation. <br><br> <br> **Conclusion** <br> • Conclude with the importance or significance of integrity. |
 | --- |
 
 ### Introduction
@@ -4007,7 +4007,7 @@ In all these cases, the individuals refused to compromise their principles or va
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br> • Definition of international relations. <br><br> **Body** <br> • Mention Three fundamental pillars of international relations with proper substantiation. <br> • Explain the significance of peace, security in IR and various efforts in that direction. <br><br> **Conclusion** <br> • Give prospective way ahead |
+| **Approach:** <br> **Introduction** <br> • Definition of international relations. <br><br> <br> **Body** <br> • Mention Three fundamental pillars of international relations with proper substantiation. <br> • Explain the significance of peace, security in IR and various efforts in that direction. <br><br> <br> **Conclusion** <br> • Give prospective way ahead |
 | --- |
 
 ### Introduction
@@ -4044,7 +4044,7 @@ As nations become more interconnected and interdependent, they will need to work
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br> • Give the emphasis of the statement or briefly write about the ethics. <br><br> **Body** <br> • Mention the relevance of quotes in present day context. <br> • Write the crises that ethics have been facing in modern times. <br> • Add examples for proper substantiation. <br><br> **Conclusion** <br> • Give prospective way ahead |
+| **Approach:** <br> **Introduction** <br> • Give the emphasis of the statement or briefly write about the ethics. <br><br> <br> **Body** <br> • Mention the relevance of quotes in present day context. <br> • Write the crises that ethics have been facing in modern times. <br> • Add examples for proper substantiation. <br><br> <br> **Conclusion** <br> • Give prospective way ahead |
 | --- |
 
 ### Introduction
@@ -4077,7 +4077,7 @@ The crisis of ethical values in modern times is a complex issue that requires a 
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br> • Write about morality or explain the statement. <br><br> **Body** <br> • Mention the relevance of statements in contemporary times. <br> • Add various dimensions, how morality impacts various fields. <br> • Add examples for substantiation. <br><br> **Conclusion** <br> • Give prospective way ahead. |
+| **Approach:** <br> **Introduction** <br> • Write about morality or explain the statement. <br><br> <br> **Body** <br> • Mention the relevance of statements in contemporary times. <br> • Add various dimensions, how morality impacts various fields. <br> • Add examples for substantiation. <br><br> <br> **Conclusion** <br> • Give prospective way ahead. |
 | --- |
 
 ### Introduction
@@ -4110,7 +4110,7 @@ It is therefore crucial for individuals and institutions to promote and uphold e
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br> • Contextual introduction wrt youth in politics. <br><br> **Body** <br> • Write why youth is not coming forward. <br> • Mention the steps to be taken to motivate young people with ethical conduct to join active politics in India. <br> • Substantiate with examples. <br><br> **Conclusion** <br> • Give prospective way ahead |
+| **Approach:** <br> **Introduction** <br> • Contextual introduction wrt youth in politics. <br><br> <br> **Body** <br> • Write why youth is not coming forward. <br> • Mention the steps to be taken to motivate young people with ethical conduct to join active politics in India. <br> • Substantiate with examples. <br><br> <br> **Conclusion** <br> • Give prospective way ahead |
 | --- |
 
 ### Introduction
@@ -4147,7 +4147,7 @@ Overall, motivating young people with ethical conduct to come forward and join a
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br> • Mention about the Rawls’s concept of social justice. <br><br> **Body** <br> • Mention the relevance of John Rawl’s concept of social justice in the present day context. <br> • Add examples for substantiation. <br><br> **Conclusion** <br> • Conclude with the way forward. |
+| **Approach:** <br> **Introduction** <br> • Mention about the Rawls’s concept of social justice. <br><br> <br> **Body** <br> • Mention the relevance of John Rawl’s concept of social justice in the present day context. <br> • Add examples for substantiation. <br><br> <br> **Conclusion** <br> • Conclude with the way forward. |
 | --- |
 
 ### Introduction
@@ -4182,7 +4182,7 @@ By emphasizing the fair distribution of social goods and resources, as well as e
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br> • Write about the negative effect of anger. <br><br> **Body** <br> • Mention the Negative emotions and undesirable behaviors associated with anger <br> • Mention the strategies to manage and control anger. <br><br> **Conclusion** <br> • Give prospective way ahead |
+| **Approach:** <br> **Introduction** <br> • Write about the negative effect of anger. <br><br> <br> **Body** <br> • Mention the Negative emotions and undesirable behaviors associated with anger <br> • Mention the strategies to manage and control anger. <br><br> <br> **Conclusion** <br> • Give prospective way ahead |
 | --- |
 
 ### Introduction
@@ -4235,7 +4235,7 @@ By using these strategies, we can prevent anger from causing harm to our persona
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br> • Write definition of corruption. <br><br> **Body** <br> • Mention the relevance of quotes in present day context. <br> • Add views of Kautilya on corruption. <br> • Add examples for substantiation. <br><br> **Conclusion** <br> • Conclude by relevant statements |
+| **Approach:** <br> **Introduction** <br> • Write definition of corruption. <br><br> <br> **Body** <br> • Mention the relevance of quotes in present day context. <br> • Add views of Kautilya on corruption. <br> • Add examples for substantiation. <br><br> <br> **Conclusion** <br> • Conclude by relevant statements |
 | --- |
 
 ### Introduction
@@ -4274,7 +4274,7 @@ To address these challenges, Kautilya’s views on the importance of promoting e
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br> • Contextual introduction with few lines on M.K Gandhi. <br><br> **Body** <br> • Explain all those sins <br> • Substantiate with examples from current issues for clarity of explanation. <br><br> **Conclusion** <br> • Conclude with the way forward. |
+| **Approach:** <br> **Introduction** <br> • Contextual introduction with few lines on M.K Gandhi. <br><br> <br> **Body** <br> • Explain all those sins <br> • Substantiate with examples from current issues for clarity of explanation. <br><br> <br> **Conclusion** <br> • Conclude with the way forward. |
 | --- |
 
 ### Introduction
@@ -4316,7 +4316,7 @@ By recognizing and avoiding these seven sins, we can strive towards a more just 
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br> • Write about the public services code. <br><br> **Body** <br> • Mention the ten principles of the Public Services Code. <br> • Add recommendations of 2nd ARC. <br><br> **Conclusion** <br> • Give prospective way ahead. |
+| **Approach:** <br> **Introduction** <br> • Write about the public services code. <br><br> <br> **Body** <br> • Mention the ten principles of the Public Services Code. <br> • Add recommendations of 2nd ARC. <br><br> <br> **Conclusion** <br> • Give prospective way ahead. |
 | --- |
 
 ### Introduction
@@ -4351,7 +4351,7 @@ By adhering to the principles outlined in the code, public servants can contribu
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br> • Write about the important aspect of ethics. <br><br> **Body** <br> • Mention how ethics contribute to social and human well-being. <br> • Add examples for substantiation. <br><br> **Conclusion** <br> • Conclude with the significance and way forward. |
+| **Approach:** <br> **Introduction** <br> • Write about the important aspect of ethics. <br><br> <br> **Body** <br> • Mention how ethics contribute to social and human well-being. <br> • Add examples for substantiation. <br><br> <br> **Conclusion** <br> • Conclude with the significance and way forward. |
 | --- |
 
 ### Introduction
@@ -4380,7 +4380,7 @@ By upholding ethical principles, we can create a more just and equitable society
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br> • Write about the Swachh Bharat Abhiyan. <br><br> **Body** <br> • Mention how social influence and persuasion can contribute to the success of Swachh Bharat Abhiyan <br> • Add examples for substantiation. <br><br> **Conclusion** <br> • Conclude accordingly with the way forward. |
+| **Approach:** <br> **Introduction** <br> • Write about the Swachh Bharat Abhiyan. <br><br> <br> **Body** <br> • Mention how social influence and persuasion can contribute to the success of Swachh Bharat Abhiyan <br> • Add examples for substantiation. <br><br> <br> **Conclusion** <br> • Conclude accordingly with the way forward. |
 | --- |
 
 ### Introduction
@@ -4419,7 +4419,7 @@ By leveraging social norms, accurate information, and persuasion techniques, the
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br> • Write about laws and ethics. <br><br> **Body** <br> • Discuss how laws and ethics achieve this objective of controlling human conduct. <br> • Add some examples to further illustrate the difference between law and ethics. <br><br> **Conclusion** <br> • Give prospective way ahead |
+| **Approach:** <br> **Introduction** <br> • Write about laws and ethics. <br><br> <br> **Body** <br> • Discuss how laws and ethics achieve this objective of controlling human conduct. <br> • Add some examples to further illustrate the difference between law and ethics. <br><br> <br> **Conclusion** <br> • Give prospective way ahead |
 | --- |
 
 ### Introduction
@@ -4449,7 +4449,7 @@ Law and ethics play complementary roles in controlling human conduct to make it 
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br> • Write about the public administration. <br><br> **Body** <br> • Analyze the statement in multi perspective along with proper substantiation. <br> • Mention the independent bureaucratic morality. <br> • Add points from both sides. <br><br> **Conclusion** <br> • Conclude suitably with the way forward. |
+| **Approach:** <br> **Introduction** <br> • Write about the public administration. <br><br> <br> **Body** <br> • Analyze the statement in multi perspective along with proper substantiation. <br> • Mention the independent bureaucratic morality. <br> • Add points from both sides. <br><br> <br> **Conclusion** <br> • Conclude suitably with the way forward. |
 | --- |
 
 ### Introduction
@@ -4477,7 +4477,7 @@ Weber’s argument that public administration should be judged by a different mo
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br> • Write about the values that are crucial for civil services. <br><br> **Body** <br> • Mention the undesirable values prevalent in today’s educated Indians. <br> • Mention measures to cultivate socio-ethical values in civil servants <br><br> **Conclusion** <br> • Write the way forward which is suitable in present day context. |
+| **Approach:** <br> **Introduction** <br> • Write about the values that are crucial for civil services. <br><br> <br> **Body** <br> • Mention the undesirable values prevalent in today’s educated Indians. <br> • Mention measures to cultivate socio-ethical values in civil servants <br><br> <br> **Conclusion** <br> • Write the way forward which is suitable in present day context. |
 | --- |
 
 ### Introduction
@@ -4552,7 +4552,7 @@ Cultivating socio-ethical values in civil servants requires a sustained effort f
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br> • Define good governance. <br><br> **Body** <br> • Mention the examples for substantiating good governance. <br> • Various government initiatives in this regard. <br><br> **Conclusion** <br> • Conclude with the way forward and what more needs to be done. |
+| **Approach:** <br> **Introduction** <br> • Define good governance. <br><br> <br> **Body** <br> • Mention the examples for substantiating good governance. <br> • Various government initiatives in this regard. <br><br> <br> **Conclusion** <br> • Conclude with the way forward and what more needs to be done. |
 | --- |
 
 ### Introduction
@@ -4592,7 +4592,7 @@ Cultivating socio-ethical values in civil servants requires a sustained effort f
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br> • Write about the relevance of impartiality and non-partiality in public service. <br><br> **Body** <br> • Mention the current examples to illustrate the importance of impartiality and non-partisanship in public services. <br> • How these are foundational values in public services. <br><br> **Conclusion** <br> • Conclude accordingly with significance. |
+| **Approach:** <br> **Introduction** <br> • Write about the relevance of impartiality and non-partiality in public service. <br><br> <br> **Body** <br> • Mention the current examples to illustrate the importance of impartiality and non-partisanship in public services. <br> • How these are foundational values in public services. <br><br> <br> **Conclusion** <br> • Conclude accordingly with significance. |
 | --- |
 
 ### Introduction
@@ -4626,7 +4626,7 @@ Upholding these values in the administration of elections, the selection and pro
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br> • Write about the relation between ethics and laws. <br><br> **Body** <br> • Explain how an act is ethically right, but not legally and another act is legally right, but not ethically. <br> • Substantiate with examples. <br><br> **Conclusion** <br> • Conclude with suggestion or way forward. |
+| **Approach:** <br> **Introduction** <br> • Write about the relation between ethics and laws. <br><br> <br> **Body** <br> • Explain how an act is ethically right, but not legally and another act is legally right, but not ethically. <br> • Substantiate with examples. <br><br> <br> **Conclusion** <br> • Conclude with suggestion or way forward. |
 | --- |
 
 ### Introduction
@@ -4653,7 +4653,7 @@ A public servant must possess a well-developed sensibility to ethical issues to 
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br> • Write about national interest in International relations. <br><br> **Body** <br> • Issues in the International arena. <br> • Mention how ethical considerations help resolve such tensions. <br> • Add examples for substantiation. <br><br> **Conclusion** <br> • Conclude with the way forward in present context. |
+| **Approach:** <br> **Introduction** <br> • Write about national interest in International relations. <br><br> <br> **Body** <br> • Issues in the International arena. <br> • Mention how ethical considerations help resolve such tensions. <br> • Add examples for substantiation. <br><br> <br> **Conclusion** <br> • Conclude with the way forward in present context. |
 | --- |
 
 ### Introduction
@@ -4720,7 +4720,7 @@ By adopting ethical principles such as fair trade and human rights, nations can 
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br> • Explain about public service. <br><br> **Body** <br> • Mention the two important virtues that public servants must possess are trustworthiness and fortitude <br> • Add examples of how trustworthiness and fortitude get manifested in public service. <br><br> **Conclusion** <br> • Give prospective way ahead |
+| **Approach:** <br> **Introduction** <br> • Explain about public service. <br><br> <br> **Body** <br> • Mention the two important virtues that public servants must possess are trustworthiness and fortitude <br> • Add examples of how trustworthiness and fortitude get manifested in public service. <br><br> <br> **Conclusion** <br> • Give prospective way ahead |
 | --- |
 
 ### Introduction
@@ -4755,7 +4755,7 @@ These virtues are critical for ensuring that public servants uphold their duty t
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br> • Define conflict of interest. <br><br> **Body** <br> • Mention how conflict of interest manifests in decision making by public servants. <br> • Add examples for substantiation. <br><br> **Conclusion** <br> • Give prospective way ahead |
+| **Approach:** <br> **Introduction** <br> • Define conflict of interest. <br><br> <br> **Body** <br> • Mention how conflict of interest manifests in decision making by public servants. <br> • Add examples for substantiation. <br><br> <br> **Conclusion** <br> • Give prospective way ahead |
 | --- |
 
 ### Introduction
@@ -4791,7 +4791,7 @@ Conflict of interest is a serious ethical issue that can compromise the integrit
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br> • Briefly explain the context of the statement. <br><br> **Body** <br> • Mention the relevance of quotes in present day context. <br> • How forgiveness is an attribute of the strong ? <br> • Add examples for substantiation. <br><br> **Conclusion** <br> • Conclude with the way forward. |
+| **Approach:** <br> **Introduction** <br> • Briefly explain the context of the statement. <br><br> <br> **Body** <br> • Mention the relevance of quotes in present day context. <br> • How forgiveness is an attribute of the strong ? <br> • Add examples for substantiation. <br><br> <br> **Conclusion** <br> • Conclude with the way forward. |
 | --- |
 
 ### Introduction
@@ -4817,7 +4817,7 @@ The quote “The weak can never forgive; forgiveness is the attribute of strong�
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br> • Write about the values. <br><br> **Body** <br> • Mention about the importance of social values over economic values. <br> • Illustrate the relevance of quotes in inclusive growth of the nation with proper examples. <br><br> **Conclusion** <br> • Conclude with a way forward in the present context. |
+| **Approach:** <br> **Introduction** <br> • Write about the values. <br><br> <br> **Body** <br> • Mention about the importance of social values over economic values. <br> • Illustrate the relevance of quotes in inclusive growth of the nation with proper examples. <br><br> <br> **Conclusion** <br> • Conclude with a way forward in the present context. |
 | --- |
 
 ### Introduction
@@ -4854,7 +4854,7 @@ Social values are essential for inclusive growth of a nation. While economic val
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br> • Write about transparency and its link with RTI. <br><br> **Body** <br> • Write about the issues wrt transparency and accountability in government. <br> • Suggest some measures to resolve the dichotomy with proper substantiation. <br><br> **Conclusion** <br> • Conclude with a way forward. |
+| **Approach:** <br> **Introduction** <br> • Write about transparency and its link with RTI. <br><br> <br> **Body** <br> • Write about the issues wrt transparency and accountability in government. <br> • Suggest some measures to resolve the dichotomy with proper substantiation. <br><br> <br> **Conclusion** <br> • Conclude with a way forward. |
 | --- |
 
 ### Introduction
@@ -4898,7 +4898,7 @@ While transparency and accountability mechanisms are essential for good governan
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br> • Mention about the menace of corruption. <br><br> **Body** <br> • Evaluate the effectiveness of these measures with justifications. <br> • Give effective strategies to tackle corruption. <br> • Steps taken so far by the government. <br><br> **Conclusion** <br> • Conclude with the suggestions or way forward. |
+| **Approach:** <br> **Introduction** <br> • Mention about the menace of corruption. <br><br> <br> **Body** <br> • Evaluate the effectiveness of these measures with justifications. <br> • Give effective strategies to tackle corruption. <br> • Steps taken so far by the government. <br><br> <br> **Conclusion** <br> • Conclude with the suggestions or way forward. |
 | --- |
 
 ### Introduction
@@ -4935,7 +4935,7 @@ These measures require political will, adequate resources, and a sustained effor
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br> • Write about attitude in public service. <br><br> **Body** <br> • Distinguish between two terms and write their merits and demerits. <br> • Explain how it is possible to balance the two attitudes to create better administration for the faster development of our country. <br><br> **Conclusion** <br> • Conclude with the way forward. |
+| **Approach:** <br> **Introduction** <br> • Write about attitude in public service. <br><br> <br> **Body** <br> • Distinguish between two terms and write their merits and demerits. <br> • Explain how it is possible to balance the two attitudes to create better administration for the faster development of our country. <br><br> <br> **Conclusion** <br> • Conclude with the way forward. |
 | --- |
 
 ### Introduction
@@ -4974,7 +4974,7 @@ A balanced approach that combines the merits of both bureaucratic and democratic
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br> • Explain the context of the statement or your understanding. <br><br> **Body** <br> • Illustrate the quote with proper substantiation. <br> • Afraid of darkness and its implication. <br><br> **Conclusion** <br> • Conclude with a way forward. |
+| **Approach:** <br> **Introduction** <br> • Explain the context of the statement or your understanding. <br><br> <br> **Body** <br> • Illustrate the quote with proper substantiation. <br> • Afraid of darkness and its implication. <br><br> <br> **Conclusion** <br> • Conclude with a way forward. |
 | --- |
 
 ### Introduction
@@ -5005,7 +5005,7 @@ While it is natural to be afraid of the unknown or unfamiliar, it is important t
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br> • Definition of environmental ethics. <br><br> **Body** <br> • Mention the reasons why studying environmental ethics is important <br> • Add examples from present context like climate change for substantiation. <br><br> **Conclusion** <br> • Conclude with the way forward. |
+| **Approach:** <br> **Introduction** <br> • Definition of environmental ethics. <br><br> <br> **Body** <br> • Mention the reasons why studying environmental ethics is important <br> • Add examples from present context like climate change for substantiation. <br><br> <br> **Conclusion** <br> • Conclude with the way forward. |
 | --- |
 
 ### Introduction
@@ -5042,7 +5042,7 @@ Studying environmental ethics is important because it helps us to recognize the 
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br> • Write the meaning of happiness. <br><br> **Body** <br> • Mention the relevance of quotes in your own context. <br> • Meaning of happiness in your life. <br> • Add examples for substantiation. <br><br> **Conclusion** <br> • Add the way forward and its significance. |
+| **Approach:** <br> **Introduction** <br> • Write the meaning of happiness. <br><br> <br> **Body** <br> • Mention the relevance of quotes in your own context. <br> • Meaning of happiness in your life. <br> • Add examples for substantiation. <br><br> <br> **Conclusion** <br> • Add the way forward and its significance. |
 | --- |
 
 ### Introduction
@@ -5078,7 +5078,7 @@ Ultimately, happiness is subjective and can be influenced by a range of factors,
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br> • Explain the statement in brief. <br><br> **Body** <br> • Explain the meaning and significance of this statement. <br> • Why humans should be treated as an end. <br> • Add examples to substantiate your points in different domains. <br><br> **Conclusion** <br> • Give prospective way ahead |
+| **Approach:** <br> **Introduction** <br> • Explain the statement in brief. <br><br> <br> **Body** <br> • Explain the meaning and significance of this statement. <br> • Why humans should be treated as an end. <br> • Add examples to substantiate your points in different domains. <br><br> <br> **Conclusion** <br> • Give prospective way ahead |
 | --- |
 
 ### Introduction
@@ -5114,7 +5114,7 @@ In conclusion, the principle of treating individuals as ends in themselves has s
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br> • Explain about patriotism. <br><br> **Body** <br> • Mention what does patriotism imply in everyday civil life. <br> • Illustrate with examples from the present context. <br><br> **Conclusion** <br> • Give prospective way ahead |
+| **Approach:** <br> **Introduction** <br> • Explain about patriotism. <br><br> <br> **Body** <br> • Mention what does patriotism imply in everyday civil life. <br> • Illustrate with examples from the present context. <br><br> <br> **Conclusion** <br> • Give prospective way ahead |
 | --- |
 
 ### Introduction
@@ -5146,7 +5146,7 @@ In conclusion, patriotism in everyday civil life involves a sense of love, loyal
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br> • Write about integrity. <br><br> **Body** <br> • Mention the relevance of statements in contemporary times. <br> • Relation between integrity and knowledge. <br> • Add examples for substantiation. <br><br> **Conclusion** <br> • Conclude with the significance in present context. |
+| **Approach:** <br> **Introduction** <br> • Write about integrity. <br><br> <br> **Body** <br> • Mention the relevance of statements in contemporary times. <br> • Relation between integrity and knowledge. <br> • Add examples for substantiation. <br><br> <br> **Conclusion** <br> • Conclude with the significance in present context. |
 | --- |
 
 ### Introduction
@@ -5188,7 +5188,7 @@ Thus, knowledge and integrity are balancing wheels of the same cart. One shows t
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br> • Write about the interlink between poverty and corruption. <br><br> **Body** <br> • Mention some common factors causing corruption. <br> • Add Examples of corruption among affluent and powerful people . <br><br> **Conclusion** <br> • Conclude with suggestions or way forward. |
+| **Approach:** <br> **Introduction** <br> • Write about the interlink between poverty and corruption. <br><br> <br> **Body** <br> • Mention some common factors causing corruption. <br> • Add Examples of corruption among affluent and powerful people . <br><br> <br> **Conclusion** <br> • Conclude with suggestions or way forward. |
 | --- |
 
 ### Introduction
@@ -5222,7 +5222,7 @@ While poverty can be a contributing factor to corruption, corruption can be foun
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br> • Write about trust with a context in your life. <br><br> **Body** <br> • Mention the consequences of this situation at personal and social level <br> • Explain what can you do at the personal level to make yourself trustworthy <br><br> **Conclusion** <br> • Give prospective way ahead |
+| **Approach:** <br> **Introduction** <br> • Write about trust with a context in your life. <br><br> <br> **Body** <br> • Mention the consequences of this situation at personal and social level <br> • Explain what can you do at the personal level to make yourself trustworthy <br><br> <br> **Conclusion** <br> • Give prospective way ahead |
 | --- |
 
 ### Introduction
@@ -5258,7 +5258,7 @@ In conclusion, a lack of trust can have significant consequences for personal an
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br> • Write about public service. <br><br> **Body** <br> • Write about challenges that public servants face. <br> • Mention the steps to improve ethical competence and handle such responsibility with proper substantiation. <br><br> **Conclusion** <br> • Conclude with the way forward. |
+| **Approach:** <br> **Introduction** <br> • Write about public service. <br><br> <br> **Body** <br> • Write about challenges that public servants face. <br> • Mention the steps to improve ethical competence and handle such responsibility with proper substantiation. <br><br> <br> **Conclusion** <br> • Conclude with the way forward. |
 | --- |
 
 ### Introduction
@@ -5298,7 +5298,7 @@ Overall, public servants have a great responsibility to serve the public interes
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br> • Write about sexual violence and data related to it. <br><br> **Body** <br> • Suggest some innovative measures to tackle this menace with proper substantiation. <br> • Briefly mention the existing legal provisions. <br> • Initiatives taken by the government in this regard. <br><br> **Conclusion** <br> • Give prospective way ahead. |
+| **Approach:** <br> **Introduction** <br> • Write about sexual violence and data related to it. <br><br> <br> **Body** <br> • Suggest some innovative measures to tackle this menace with proper substantiation. <br> • Briefly mention the existing legal provisions. <br> • Initiatives taken by the government in this regard. <br><br> <br> **Conclusion** <br> • Give prospective way ahead. |
 | --- |
 
 ### Introduction
@@ -5330,7 +5330,7 @@ Such measures can help create a safe and secure environment for women in the cou
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br> • Definition of probity in public life. <br><br> **Body** <br> • Mention why practicing probity is becoming harder every day. <br> • Explain how to overcome these difficulties. <br><br> **Conclusion** <br> • Conclude with the significance in present context. |
+| **Approach:** <br> **Introduction** <br> • Definition of probity in public life. <br><br> <br> **Body** <br> • Mention why practicing probity is becoming harder every day. <br> • Explain how to overcome these difficulties. <br><br> <br> **Conclusion** <br> • Conclude with the significance in present context. |
 | --- |
 
 ### Introduction
@@ -5363,7 +5363,7 @@ A person should always strive for probity on their own end. Moral education and 
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br> • Definition of accountability. <br><br> **Body** <br> • Write the importance of accountability in the public service. <br> • Explain the steps to be taken to ensure individual and collective accountability of public servants along with proper substantiation. <br><br> **Conclusion** <br> • Significance of accountability. |
+| **Approach:** <br> **Introduction** <br> • Definition of accountability. <br><br> <br> **Body** <br> • Write the importance of accountability in the public service. <br> • Explain the steps to be taken to ensure individual and collective accountability of public servants along with proper substantiation. <br><br> <br> **Conclusion** <br> • Significance of accountability. |
 | --- |
 
 ### Introduction
@@ -5396,7 +5396,7 @@ The implementation of these measures can help to ensure that public servants are
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br> • Write about the importance of ethics. <br><br> **Body** <br> • Mention how ethics seek to be promoted in human life. <br> • Importance in public administration. <br> • Add examples to substantiate your points. <br><br> **Conclusion** <br> • Write a way forward with suggestions. |
+| **Approach:** <br> **Introduction** <br> • Write about the importance of ethics. <br><br> <br> **Body** <br> • Mention how ethics seek to be promoted in human life. <br> • Importance in public administration. <br> • Add examples to substantiate your points. <br><br> <br> **Conclusion** <br> • Write a way forward with suggestions. |
 | --- |
 
 ### Introduction
@@ -5438,7 +5438,7 @@ Ethical frameworks can also guide decision-making in the face of complex moral d
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br> • Write about the attitude. <br><br> **Body** <br> • Mention the factors affect the formation of a person’s attitude towards social problems <br> • Explain contrasting views of the caste system in our society. <br><br> **Conclusion** <br> • Write the suggestion and way forward. |
+| **Approach:** <br> **Introduction** <br> • Write about the attitude. <br><br> <br> **Body** <br> • Mention the factors affect the formation of a person’s attitude towards social problems <br> • Explain contrasting views of the caste system in our society. <br><br> <br> **Conclusion** <br> • Write the suggestion and way forward. |
 | --- |
 
 ### Introduction
@@ -5484,7 +5484,7 @@ In conclusion, the formation of attitudes towards social problems is complex and
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br> • Write about the statement or ethics. <br><br> **Body** <br> • Mention the teachings of Swami Vivekananda or any other leader who inspires you. <br> • Add examples to substantiate teachings of Vivekananda. <br><br> **Conclusion** <br> • Show the significance of teaching in life or present context. |
+| **Approach:** <br> **Introduction** <br> • Write about the statement or ethics. <br><br> <br> **Body** <br> • Mention the teachings of Swami Vivekananda or any other leader who inspires you. <br> • Add examples to substantiate teachings of Vivekananda. <br><br> <br> **Conclusion** <br> • Show the significance of teaching in life or present context. |
 | --- |
 
 ### Introduction
@@ -5523,7 +5523,7 @@ His teachings center around the themes of Vedas and Upanishads, which are releva
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br> • Highlight the meaning of the quote. <br><br> **Body** <br> • Illustrate to explain the meaning of the quote. <br> • Importance of overcoming the desires. <br> • Add examples to substantiate your views. <br><br> **Conclusion** <br> • Conclude by relevant statements in the life of public servant. |
+| **Approach:** <br> **Introduction** <br> • Highlight the meaning of the quote. <br><br> <br> **Body** <br> • Illustrate to explain the meaning of the quote. <br> • Importance of overcoming the desires. <br> • Add examples to substantiate your views. <br><br> <br> **Conclusion** <br> • Conclude by relevant statements in the life of public servant. |
 | --- |
 
 ### Introduction
@@ -5555,7 +5555,7 @@ In all these cases, the common theme is that the person must overcome their own 
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br> • Write about public service. <br><br> **Body** <br> • Mention the importance of impartiality and non-partisanship in civil service OR any two values you find important. <br> • Illustrate with substantiation. <br><br> **Conclusion** <br> • Conclude suit ably with the way forward. |
+| **Approach:** <br> **Introduction** <br> • Write about public service. <br><br> <br> **Body** <br> • Mention the importance of impartiality and non-partisanship in civil service OR any two values you find important. <br> • Illustrate with substantiation. <br><br> <br> **Conclusion** <br> • Conclude suit ably with the way forward. |
 | --- |
 
 ### Introduction
@@ -5595,7 +5595,7 @@ In all these cases, the common theme is that the person must overcome their own 
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br> • Write about relation between ethics and politics. <br><br> **Body** <br> • Write your views whether in support or against. <br> • Illustrations to support ethics should be an integral part of politics. <br> • Add examples from the life of leaders. <br><br> **Conclusion** <br> • Give prospective way ahead |
+| **Approach:** <br> **Introduction** <br> • Write about relation between ethics and politics. <br><br> <br> **Body** <br> • Write your views whether in support or against. <br> • Illustrations to support ethics should be an integral part of politics. <br> • Add examples from the life of leaders. <br><br> <br> **Conclusion** <br> • Give prospective way ahead |
 | --- |
 
 ### Introduction
@@ -5626,7 +5626,7 @@ It is clear that ethics and politics are intimately connected. Political decisio
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br> • Write about the meaning of power. <br><br> **Body** <br> • Illustrate the relevance of quotes from various examples. <br> • How power impacts the decisions of men. <br> • Add examples of various leaders from history. <br><br> **Conclusion** <br> • Give prospective way ahead |
+| **Approach:** <br> **Introduction** <br> • Write about the meaning of power. <br><br> <br> **Body** <br> • Illustrate the relevance of quotes from various examples. <br> • How power impacts the decisions of men. <br> • Add examples of various leaders from history. <br><br> <br> **Conclusion** <br> • Give prospective way ahead |
 | --- |
 
 ### Introduction
@@ -5657,7 +5657,7 @@ In all these cases, power can reveal a person’s true character. Some people ma
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br> • Write about values. <br><br> **Body** <br> • Analyze the statement in various perspectives. <br> • Mention about dynamic and universal values. <br> • Proper substantiation to validate the analysis. <br><br> **Conclusion** <br> • Conclude with significance of values. |
+| **Approach:** <br> **Introduction** <br> • Write about values. <br><br> <br> **Body** <br> • Analyze the statement in various perspectives. <br> • Mention about dynamic and universal values. <br> • Proper substantiation to validate the analysis. <br><br> <br> **Conclusion** <br> • Conclude with significance of values. |
 | --- |
 
 ### Introduction
@@ -5692,7 +5692,7 @@ The conclusion is that values can and do change, though certain core values may 
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br> • Give the meaning of the quote in your own understanding. <br><br> **Body** <br> • Mention ways that this principle can be implemented in public life. <br> • How good an individual is contained in the good of all. <br><br> **Conclusion** <br> • Conclude with suggestions and way forward. |
+| **Approach:** <br> **Introduction** <br> • Give the meaning of the quote in your own understanding. <br><br> <br> **Body** <br> • Mention ways that this principle can be implemented in public life. <br> • How good an individual is contained in the good of all. <br><br> <br> **Conclusion** <br> • Conclude with suggestions and way forward. |
 | --- |
 
 ### Introduction
@@ -5723,7 +5723,7 @@ The principle of the good of an individual being contained in the good of all is
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br> • Explain the meaning of the quote briefly. <br><br> **Body** <br> • Mention the relevance of quotes in present day context. <br> • Link it with the SDGs or environment. <br> • Add examples for substantiation. <br><br> **Conclusion** <br> • Conclude with suggestions and way forward. |
+| **Approach:** <br> **Introduction** <br> • Explain the meaning of the quote briefly. <br><br> <br> **Body** <br> • Mention the relevance of quotes in present day context. <br> • Link it with the SDGs or environment. <br> • Add examples for substantiation. <br><br> <br> **Conclusion** <br> • Conclude with suggestions and way forward. |
 | --- |
 
 ### Introduction
@@ -5769,7 +5769,7 @@ By prioritizing the needs of all individuals and communities and avoiding excess
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br> • Definition of voice of conscience. <br><br> **Body** <br> • Explain how a voice of conscience can help in right decision making. <br> • How can one be prepared to heed to the voice of conscience ? <br><br> **Conclusion** <br> • Give prospective way ahead |
+| **Approach:** <br> **Introduction** <br> • Definition of voice of conscience. <br><br> <br> **Body** <br> • Explain how a voice of conscience can help in right decision making. <br> • How can one be prepared to heed to the voice of conscience ? <br><br> <br> **Conclusion** <br> • Give prospective way ahead |
 | --- |
 
 ### Introduction
@@ -5804,7 +5804,7 @@ A voice of sense of right and wrong that is each nicely old-fashioned (formed by
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br> • Write about public service. <br><br> **Body** <br> • Mention the terms that hold particular significance in the context of public service. <br> • Add examples for substantiation <br><br> **Conclusion** <br> • Conclude with some line about public service and the relation of these values. |
+| **Approach:** <br> **Introduction** <br> • Write about public service. <br><br> <br> **Body** <br> • Mention the terms that hold particular significance in the context of public service. <br> • Add examples for substantiation <br><br> <br> **Conclusion** <br> • Conclude with some line about public service and the relation of these values. |
 | --- |
 
 ### Introduction
@@ -5844,7 +5844,7 @@ Integrity, perseverance, spirit of service, commitment, and courage of convictio
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br> • Definition of ethics and values. <br><br> **Body** <br> • Explain in what way is it important to be ethical along with being professionally competent <br> • Illustrate with proper substantiation. <br><br> **Conclusion** <br> • Conclude by relevant statements. |
+| **Approach:** <br> **Introduction** <br> • Definition of ethics and values. <br><br> <br> **Body** <br> • Explain in what way is it important to be ethical along with being professionally competent <br> • Illustrate with proper substantiation. <br><br> <br> **Conclusion** <br> • Conclude by relevant statements. |
 | --- |
 
 ### Introduction
@@ -5891,7 +5891,7 @@ It is very important to be ethical in the performance of one’s duty. An unethi
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br> • Define emotional intelligence <br><br> **Body** <br> • Mention how Emotional intelligence can be developed. <br> • Explain how it helps an individual in making ethical decisions. <br><br> **Conclusion** <br> • Conclude with the way forward and relevance in life of Public servant. |
+| **Approach:** <br> **Introduction** <br> • Define emotional intelligence <br><br> <br> **Body** <br> • Mention how Emotional intelligence can be developed. <br> • Explain how it helps an individual in making ethical decisions. <br><br> <br> **Conclusion** <br> • Conclude with the way forward and relevance in life of Public servant. |
 | --- |
 
 ### Introduction
@@ -5930,7 +5930,7 @@ In the civil services, therefore, emotional intelligence is beneficial to manage
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br> • Definition of crisis of conscience. <br><br> **Body** <br> • Explain the relevance of the question with the incident for substantiation. <br> • Add points to show how you resolved that particular situation. <br><br> **Conclusion** <br> • Conclude with the way forward and suggestion. |
+| **Approach:** <br> **Introduction** <br> • Definition of crisis of conscience. <br><br> <br> **Body** <br> • Explain the relevance of the question with the incident for substantiation. <br> • Add points to show how you resolved that particular situation. <br><br> <br> **Conclusion** <br> • Conclude with the way forward and suggestion. |
 | --- |
 
 ### Introduction
@@ -6848,7 +6848,7 @@ This case vividly illustrates the ethical complexities of social media use in to
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br> • Contextual Introduction <br><br> **Body** <br> • Ethical issues involved in the case <br> • Options available to Prabhat in the above situation <br> • The most appropriate course of action for Prabhat <br><br> **Conclusion** <br> • Prospective way forward |
+| **Approach:** <br> **Introduction** <br> • Contextual Introduction <br><br> <br> **Body** <br> • Ethical issues involved in the case <br> • Options available to Prabhat in the above situation <br> • The most appropriate course of action for Prabhat <br><br> <br> **Conclusion** <br> • Prospective way forward |
 | --- |
 
 ### Introduction
@@ -6886,7 +6886,7 @@ Reporting the incident ensures that appropriate actions are taken against Subhas
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br> • Contextual Introduction <br><br> **Body** <br> • Options available to Rakesh to meet the situation <br> • Critical examination of each option <br> • Ethical dilemmas faced by Rakesh <br> • Course of action Rakesh may adopt to diffuse the situation <br><br> **Conclusion** <br> • Prospective way forward. |
+| **Approach:** <br> **Introduction** <br> • Contextual Introduction <br><br> <br> **Body** <br> • Options available to Rakesh to meet the situation <br> • Critical examination of each option <br> • Ethical dilemmas faced by Rakesh <br> • Course of action Rakesh may adopt to diffuse the situation <br><br> <br> **Conclusion** <br> • Prospective way forward. |
 | --- |
 
 ### Introduction
@@ -6941,7 +6941,7 @@ Rakesh should adopt a comprehensive approach that includes reviewing the compens
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br> • Shortly analyze the case study. <br><br> **Body** <br> • Option Ramesh should adopt and why <br> • Critical evaluation of each option <br> • Ethical dilemmas faced by Ramesh <br> • Policy measures to combat the menace of infiltration of illegal migrants <br><br> **Conclusion** <br> • Conclude suitably |
+| **Approach:** <br> **Introduction** <br> • Shortly analyze the case study. <br><br> <br> **Body** <br> • Option Ramesh should adopt and why <br> • Critical evaluation of each option <br> • Ethical dilemmas faced by Ramesh <br> • Policy measures to combat the menace of infiltration of illegal migrants <br><br> <br> **Conclusion** <br> • Conclude suitably |
 | --- |
 
 ### Introduction
@@ -6984,7 +6984,7 @@ These measures should be implemented in a comprehensive and coordinated manner t
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br> • Contextual Introduction <br><br> **Body** <br> • Options available with Ashok to cope with the situation <br> • Evaluation of each option identified by Ashok <br> • Ethical dilemmas faced by Ashok <br> • The most appropriate option for Ashok to adopt <br> • Training for police officers posted in districts with rampant illegal stone mining activities <br><br> **Conclusion** <br> • Prospective way forward. |
+| **Approach:** <br> **Introduction** <br> • Contextual Introduction <br><br> <br> **Body** <br> • Options available with Ashok to cope with the situation <br> • Evaluation of each option identified by Ashok <br> • Ethical dilemmas faced by Ashok <br> • The most appropriate option for Ashok to adopt <br> • Training for police officers posted in districts with rampant illegal stone mining activities <br><br> <br> **Conclusion** <br> • Prospective way forward. |
 | --- |
 
 ### Introduction
@@ -7027,7 +7027,7 @@ Ashok should seek legal counsel and protection to ensure the safety of the evide
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br> • Shortly analyse the case study. <br><br> **Body** <br> • Options available to you under the given situation <br> • Critical examination of the options <br> • Mechanism to ensure environmental compliance <br> • Ethical dilemmas faced in exercising your options <br><br> **Conclusion** <br> • Conclude suitably |
+| **Approach:** <br> **Introduction** <br> • Shortly analyse the case study. <br><br> <br> **Body** <br> • Options available to you under the given situation <br> • Critical examination of the options <br> • Mechanism to ensure environmental compliance <br> • Ethical dilemmas faced in exercising your options <br><br> <br> **Conclusion** <br> • Conclude suitably |
 | --- |
 
 ### Introduction
@@ -7081,7 +7081,7 @@ The case study highlights the challenges of environmental compliance and involve
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br> • Shortly analyse the case study <br><br> **Body** <br> • options available to you as a member of the Inspecting Team <br> • Evaluation of each option <br> • Option to adopt <br> • ethical dilemmas being faced include <br> • Consequences of overlooking the observations raised by the inspecting team <br><br> **Conclusion** <br> • Conclude suitably |
+| **Approach:** <br> **Introduction** <br> • Shortly analyse the case study <br><br> <br> **Body** <br> • options available to you as a member of the Inspecting Team <br> • Evaluation of each option <br> • Option to adopt <br> • ethical dilemmas being faced include <br> • Consequences of overlooking the observations raised by the inspecting team <br><br> <br> **Conclusion** <br> • Conclude suitably |
 | --- |
 
 ### Introduction
@@ -7128,7 +7128,7 @@ It is crucial to consider these potential consequences and make decisions that a
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br> • Contextual Introduction. <br><br> **Body** <br> • Actions by the competent authority against the food company <br> • Actions by the food company to resolve the crisis and regain reputation <br> • Ethical dilemma <br><br> **Conclusion** <br> • Conclude arguably |
+| **Approach:** <br> **Introduction** <br> • Contextual Introduction. <br><br> <br> **Body** <br> • Actions by the competent authority against the food company <br> • Actions by the food company to resolve the crisis and regain reputation <br> • Ethical dilemma <br><br> <br> **Conclusion** <br> • Conclude arguably |
 | --- |
 
 ### Introduction
@@ -7170,7 +7170,7 @@ Imposing fines, penalties, or legal consequences for violating domestic food sta
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br> • Contextual Introduction. <br><br> **Body** <br> • Options available to the project manager <br> • Ethical dilemmas faced by the project manager <br> • Professional challenges likely to be faced by the project manager and their response to overcome such challenges <br> • Consequences of overlooking the observation raised by the inspecting team <br><br> **Conclusion** <br> • Prospective way forward. |
+| **Approach:** <br> **Introduction** <br> • Contextual Introduction. <br><br> <br> **Body** <br> • Options available to the project manager <br> • Ethical dilemmas faced by the project manager <br> • Professional challenges likely to be faced by the project manager and their response to overcome such challenges <br> • Consequences of overlooking the observation raised by the inspecting team <br><br> <br> **Conclusion** <br> • Prospective way forward. |
 | --- |
 
 ### Introduction
@@ -7216,7 +7216,7 @@ Project managers must choose between prioritizing safety and meeting political d
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br> • Shortly analyze the case study. <br><br> **Body** <br> • Options available for Pawan to cope with the situation <br> • Approach for peace, tranquility, and congenial environment <br> • Suggestions for boss and subordinate <br><br> **Conclusion** <br> • Conclude suitably |
+| **Approach:** <br> **Introduction** <br> • Shortly analyze the case study. <br><br> <br> **Body** <br> • Options available for Pawan to cope with the situation <br> • Approach for peace, tranquility, and congenial environment <br> • Suggestions for boss and subordinate <br><br> <br> **Conclusion** <br> • Conclude suitably |
 | --- |
 
 ### Introduction
@@ -7265,7 +7265,7 @@ By investing in these training programs, government offices can foster a healthi
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br> • Contextual Introduction <br><br> **Body** <br> • Different options available to Sunil in attending to this situation <br> • Evaluation of options <br> • The most appropriate option <br><br> **Conclusion** <br> • Prospective way forward |
+| **Approach:** <br> **Introduction** <br> • Contextual Introduction <br><br> <br> **Body** <br> • Different options available to Sunil in attending to this situation <br> • Evaluation of options <br> • The most appropriate option <br><br> <br> **Conclusion** <br> • Prospective way forward |
 | --- |
 
 ### Introduction
@@ -7307,7 +7307,7 @@ By reaching out to higher authorities and anti-corruption agencies, he can gain 
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br> • Shortly analyze the case study. <br><br> **Body** <br> • criteria and justification for assigning clinical and non-clinical staff to attend to patients <br> • additional considerations in a private hospital <br><br> **Conclusion** <br> • Conclude suitably |
+| **Approach:** <br> **Introduction** <br> • Shortly analyze the case study. <br><br> <br> **Body** <br> • criteria and justification for assigning clinical and non-clinical staff to attend to patients <br> • additional considerations in a private hospital <br><br> <br> **Conclusion** <br> • Conclude suitably |
 | --- |
 
 ### Introduction
@@ -7346,7 +7346,7 @@ Ensure staff safety, allocate resources effectively, collaborate with stakeholde
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br> • Shortly analyse the case study. <br><br> **Body** <br> • Ethical Issues <br> • Options Available <br> • Preferred Option <br><br> **Conclusion** <br> • Conclude suitably |
+| **Approach:** <br> **Introduction** <br> • Shortly analyse the case study. <br><br> <br> **Body** <br> • Ethical Issues <br> • Options Available <br> • Preferred Option <br><br> <br> **Conclusion** <br> • Conclude suitably |
 | --- |
 
 ### Introduction
@@ -7393,7 +7393,7 @@ While this option may entail risks and potential conflicts, it aligns with profe
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br> • Shortly analyse the case study. <br><br> **Body** <br> • Ethical issues in the migrant crisis <br> • Ethical caregiving state <br> • Assistance from civil society <br><br> **Conclusion** <br> • Conclude suitably |
+| **Approach:** <br> **Introduction** <br> • Shortly analyse the case study. <br><br> <br> **Body** <br> • Ethical issues in the migrant crisis <br> • Ethical caregiving state <br> • Assistance from civil society <br><br> <br> **Conclusion** <br> • Conclude suitably |
 | --- |
 
 ### Introduction
@@ -7432,7 +7432,7 @@ These efforts by civil society can help mitigate the sufferings of migrants, add
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br> • Contextual Introduction. <br><br> **Body** <br> • Ethical issues involved in the case <br> • Options available to the municipal commissioner <br> • Selected course of action <br><br> **Conclusion** <br> • Conclude suitably |
+| **Approach:** <br> **Introduction** <br> • Contextual Introduction. <br><br> <br> **Body** <br> • Ethical issues involved in the case <br> • Options available to the municipal commissioner <br> • Selected course of action <br><br> <br> **Conclusion** <br> • Conclude suitably |
 | --- |
 
 ### Introduction
@@ -7477,7 +7477,7 @@ By choosing the path of integrity and conducting a fair investigation, the Munic
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br> • Shortly analyse the case study. <br><br> **Body** <br> • Ethical issues involved in the story of APW <br> • APW as a role model for development of backward areas <br><br> **Conclusion** <br> • Prospective way forward. |
+| **Approach:** <br> **Introduction** <br> • Shortly analyse the case study. <br><br> <br> **Body** <br> • Ethical issues involved in the story of APW <br> • APW as a role model for development of backward areas <br><br> <br> **Conclusion** <br> • Prospective way forward. |
 | --- |
 
 ### Introduction
@@ -7532,7 +7532,7 @@ Despite challenges like the fire incident and the COVID-19 lockdown, APW demonst
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br> • Contextual Introduction <br><br> **Body** <br> • Ethical issues involved in re-appropriation of funds from a welfare project to the developmental projects <br> • Options available to Rajesh Kumar and the worthiness of resigning <br><br> **Conclusion** <br> • Prospective way forward |
+| **Approach:** <br> **Introduction** <br> • Contextual Introduction <br><br> <br> **Body** <br> • Ethical issues involved in re-appropriation of funds from a welfare project to the developmental projects <br> • Options available to Rajesh Kumar and the worthiness of resigning <br><br> <br> **Conclusion** <br> • Prospective way forward |
 | --- |
 
 ### Introduction
@@ -7574,7 +7574,7 @@ Despite challenges like the fire incident and the COVID-19 lockdown, APW demonst
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br> • Contextual Introduction related to case. <br><br> **Body** <br> • Ethical issues involved in the case study. <br> • Specific steps to ameliorate the conditions of minor girls and improve the overall economic scenario in the district. <br><br> **Conclusion** <br> • Prospective way forward. |
+| **Approach:** <br> **Introduction** <br> • Contextual Introduction related to case. <br><br> <br> **Body** <br> • Ethical issues involved in the case study. <br> • Specific steps to ameliorate the conditions of minor girls and improve the overall economic scenario in the district. <br><br> <br> **Conclusion** <br> • Prospective way forward. |
 | --- |
 
 ### Introduction
@@ -7613,7 +7613,7 @@ By addressing the ethical issues involved and implementing these specific steps,
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br> • Shortly analyze the case study. <br><br> **Body** <br> • Views of the Chairman of BML <br> • Ethical issues in arms trade <br><br> **Conclusion** <br> • Conclude suitably |
+| **Approach:** <br> **Introduction** <br> • Shortly analyze the case study. <br><br> <br> **Body** <br> • Views of the Chairman of BML <br> • Ethical issues in arms trade <br><br> <br> **Conclusion** <br> • Conclude suitably |
 | --- |
 
 ### Introduction
@@ -7653,7 +7653,7 @@ By addressing the ethical issues involved and implementing these specific steps,
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br> • Contextual Introduction <br><br> **Body** <br> • Reasons for such incidents taking place across the country <br> • Measures to prevent such incidents <br><br> **Conclusion** <br> • Prospective way forward |
+| **Approach:** <br> **Introduction** <br> • Contextual Introduction <br><br> <br> **Body** <br> • Reasons for such incidents taking place across the country <br> • Measures to prevent such incidents <br><br> <br> **Conclusion** <br> • Prospective way forward |
 | --- |
 
 ### Introduction
@@ -7692,7 +7692,7 @@ By implementing these measures, the government and relevant authorities can impr
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br> • Shortly analyze the case study. <br><br> **Body** <br> • Measures you would suggest to separate genuine and non-genuine applications along with merits and demerits. <br><br> **Conclusion** <br> • Conclude suitably |
+| **Approach:** <br> **Introduction** <br> • Shortly analyze the case study. <br><br> <br> **Body** <br> • Measures you would suggest to separate genuine and non-genuine applications along with merits and demerits. <br><br> <br> **Conclusion** <br> • Conclude suitably |
 | --- |
 
 ### Introduction
@@ -7736,7 +7736,7 @@ It is important to note that striking a balance between transparency, accountabi
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br> • Contextual Introduction <br><br> **Body** <br> • Examine each statements with their merits and demerits <br><br> **Conclusion** <br> • Prospective way forward |
+| **Approach:** <br> **Introduction** <br> • Contextual Introduction <br><br> <br> **Body** <br> • Examine each statements with their merits and demerits <br><br> <br> **Conclusion** <br> • Prospective way forward |
 | --- |
 
 ### Introduction
@@ -7773,7 +7773,7 @@ While the above statements may present some perceived merits in certain situatio
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br> • Shortly analyze the case study. <br><br> **Body** <br> • Mention the action you would take with proper justification. <br><br> **Conclusion** <br> • Conclude suitably |
+| **Approach:** <br> **Introduction** <br> • Shortly analyze the case study. <br><br> <br> **Body** <br> • Mention the action you would take with proper justification. <br><br> <br> **Conclusion** <br> • Conclude suitably |
 | --- |
 
 ### Introduction
@@ -7808,7 +7808,7 @@ While there may be short-term implications, such as missing the scheduled interv
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br> • Contextual Introduction <br><br> **Body** <br> • Mention the recommendation you would provide to the management with merits and demerits of each of the recommendations. <br><br> **Conclusion** <br> • Prospective way forward. |
+| **Approach:** <br> **Introduction** <br> • Contextual Introduction <br><br> <br> **Body** <br> • Mention the recommendation you would provide to the management with merits and demerits of each of the recommendations. <br><br> <br> **Conclusion** <br> • Prospective way forward. |
 | --- |
 
 ### Introduction
@@ -7844,7 +7844,7 @@ It is important for the management to carefully weigh the merits and demerits of
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br> • Shortly analyze the case study. <br><br> **Body** <br> • Dilemmas Faced <br> • Potential Responses <br><br> **Conclusion** <br> • Conclude suitably |
+| **Approach:** <br> **Introduction** <br> • Shortly analyze the case study. <br><br> <br> **Body** <br> • Dilemmas Faced <br> • Potential Responses <br><br> <br> **Conclusion** <br> • Conclude suitably |
 | --- |
 
 ### Introduction
@@ -7880,7 +7880,7 @@ Ultimately, the manager must carefully evaluate the potential risks, legal oblig
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br> • Contextual Introduction. <br><br> **Body** <br> • Arguments to show her that keeping quiet is not morally right <br> • Course of action she should consider taking. <br><br> **Conclusion** <br> • Prospective way forward. |
+| **Approach:** <br> **Introduction** <br> • Contextual Introduction. <br><br> <br> **Body** <br> • Arguments to show her that keeping quiet is not morally right <br> • Course of action she should consider taking. <br><br> <br> **Conclusion** <br> • Prospective way forward. |
 | --- |
 
 ### Introduction
@@ -7915,7 +7915,7 @@ It is crucial for her to prioritize her safety and livelihood while taking steps
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br> • Contextual Introduction. <br><br> **Body** <br> • The issues involved in the case <br> • Suggestions to satisfy the company’s goal and address the residents’ concerns <br><br> **Conclusion** <br> • Prospective way forward. |
+| **Approach:** <br> **Introduction** <br> • Contextual Introduction. <br><br> <br> **Body** <br> • The issues involved in the case <br> • Suggestions to satisfy the company’s goal and address the residents’ concerns <br><br> <br> **Conclusion** <br> • Prospective way forward. |
 | --- |
 
 ### Introduction
@@ -7950,7 +7950,7 @@ By taking these suggestions into consideration, the company can balance its goal
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br> • Shortly analyze the case study. <br><br> **Body** <br> • Mention the main elements that could be considered for a better compensation-cum-rehabilitation policy: <br><br> **Conclusion** <br> • Conclude suitably |
+| **Approach:** <br> **Introduction** <br> • Shortly analyze the case study. <br><br> <br> **Body** <br> • Mention the main elements that could be considered for a better compensation-cum-rehabilitation policy: <br><br> <br> **Conclusion** <br> • Conclude suitably |
 | --- |
 
 ### Introduction
@@ -7987,7 +7987,7 @@ By integrating these elements into the compensation-cum-rehabilitation policy, i
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br> • Shortly analyze the case study. <br><br> **Body** <br> • Mention the measures that you would suggest. <br><br> **Conclusion** <br> • Conclude suitably |
+| **Approach:** <br> **Introduction** <br> • Shortly analyze the case study. <br><br> <br> **Body** <br> • Mention the measures that you would suggest. <br><br> <br> **Conclusion** <br> • Conclude suitably |
 | --- |
 
 ### Introduction
@@ -8024,7 +8024,7 @@ By implementing these measures, the government can strike a balance between nece
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br> • Contextual Introduction. <br><br> **Body** <br> • A rational way to resolve this dilemma would be to adopt a compassionate and flexible approach. <br> • Reasons for your approach. <br><br> **Conclusion** <br> • Prospective way forward. |
+| **Approach:** <br> **Introduction** <br> • Contextual Introduction. <br><br> <br> **Body** <br> • A rational way to resolve this dilemma would be to adopt a compassionate and flexible approach. <br> • Reasons for your approach. <br><br> <br> **Conclusion** <br> • Prospective way forward. |
 | --- |
 
 ### Introduction
@@ -8055,7 +8055,7 @@ By adopting a compassionate and flexible approach while maintaining a reasonable
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br> • Shortly analyze the case study. <br><br> **Body** <br> • Analyze each option with its consequences. <br><br> **Conclusion** <br> • Conclude suitably |
+| **Approach:** <br> **Introduction** <br> • Shortly analyze the case study. <br><br> <br> **Body** <br> • Analyze each option with its consequences. <br><br> <br> **Conclusion** <br> • Conclude suitably |
 | --- |
 
 ### Introduction
@@ -8094,7 +8094,7 @@ In all cases, it is crucial to prioritize the safety and well-being of the boss�
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br> • Contextual Introduction. <br><br> **Body** <br> • Mention the steps that you would take <br> • Long term solution to the issue <br> • Analyze the consequences of each of suggested actions <br><br> **Conclusion** <br> • Prospective way forward. |
+| **Approach:** <br> **Introduction** <br> • Contextual Introduction. <br><br> <br> **Body** <br> • Mention the steps that you would take <br> • Long term solution to the issue <br> • Analyze the consequences of each of suggested actions <br><br> <br> **Conclusion** <br> • Prospective way forward. |
 | --- |
 
 ### Introduction
@@ -8130,7 +8130,7 @@ Each suggested action carries both positive and negative consequences, and the C
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br> • Contextual Introduction <br><br> **Body** <br> • As the CEO, various actions that could be taken in this scenario <br> • Evaluation of pros and cons for each action <br><br> **Conclusion** <br> • Prospective way forward. |
+| **Approach:** <br> **Introduction** <br> • Contextual Introduction <br><br> <br> **Body** <br> • As the CEO, various actions that could be taken in this scenario <br> • Evaluation of pros and cons for each action <br><br> <br> **Conclusion** <br> • Prospective way forward. |
 | --- |
 
 ### Introduction
@@ -8180,7 +8180,7 @@ It is important for the CEO to carefully evaluate these actions, considering fac
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br> • Contextual Introduction. <br><br> **Body** <br> • As a civil services officer in a disaster-prone state, the order in which you would prioritize the rescue of people. <br><br> **Conclusion** <br> • Prospective way forward. |
+| **Approach:** <br> **Introduction** <br> • Contextual Introduction. <br><br> <br> **Body** <br> • As a civil services officer in a disaster-prone state, the order in which you would prioritize the rescue of people. <br><br> <br> **Conclusion** <br> • Prospective way forward. |
 | --- |
 
 ### Introduction
@@ -8218,7 +8218,7 @@ It is important for the CEO to carefully evaluate these actions, considering fac
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br> • Contextual Introduction <br><br> **Body** <br> • Mention the Options for Action. <br> • Critically analyze each of its options. <br><br> **Conclusion** <br> • Prospective way forward |
+| **Approach:** <br> **Introduction** <br> • Contextual Introduction <br><br> <br> **Body** <br> • Mention the Options for Action. <br> • Critically analyze each of its options. <br><br> <br> **Conclusion** <br> • Prospective way forward |
 | --- |
 
 ### Introduction
@@ -8261,7 +8261,7 @@ This approach ensures a thorough examination of the situation, promotes transpar
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br> • Shortly analyze the case study. <br><br> **Body** <br> • Feasible strategies to overcome the conflict and create the right ambiance in the situation <br> • Responsibilities of different social segments and agencies to create a positive social ambiance for accepting such changes <br><br> **Conclusion** <br> • Conclude suitably |
+| **Approach:** <br> **Introduction** <br> • Shortly analyze the case study. <br><br> <br> **Body** <br> • Feasible strategies to overcome the conflict and create the right ambiance in the situation <br> • Responsibilities of different social segments and agencies to create a positive social ambiance for accepting such changes <br><br> <br> **Conclusion** <br> • Conclude suitably |
 | --- |
 
 ### Introduction
@@ -8295,7 +8295,7 @@ By implementing these strategies and fulfilling their respective responsibilitie
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br> • Shortly analyze the case study. <br><br> **Body** <br> • Steps to ensure girls’ safety without disrupting their education <br> • Managing and molding patriarchal attitude of village elders for intergenerational harmony <br><br> **Conclusion** <br> • Conclude suitably |
+| **Approach:** <br> **Introduction** <br> • Shortly analyze the case study. <br><br> <br> **Body** <br> • Steps to ensure girls’ safety without disrupting their education <br> • Managing and molding patriarchal attitude of village elders for intergenerational harmony <br><br> <br> **Conclusion** <br> • Conclude suitably |
 | --- |
 
 ### Introduction
@@ -8329,7 +8329,7 @@ By implementing these steps, it is possible to ensure girls’ safety and create
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br> • Contextual Introduction. <br><br> **Body** <br> • Mention the feasible steps that you can suggest which will be effective in controlling this serious problem of our country <br><br> **Conclusion** <br> • conclude suitably. |
+| **Approach:** <br> **Introduction** <br> • Contextual Introduction. <br><br> <br> **Body** <br> • Mention the feasible steps that you can suggest which will be effective in controlling this serious problem of our country <br><br> <br> **Conclusion** <br> • conclude suitably. |
 | --- |
 
 ### Introduction
@@ -8372,7 +8372,7 @@ By addressing the socio-economic, emotional, and attitudinal factors driving rur
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br> • Shortly analyze the case study. <br><br> **Body** <br> • Mention the strategies that can be followed with proper analysis. <br><br> **Conclusion** <br> • Prospective way forward. |
+| **Approach:** <br> **Introduction** <br> • Shortly analyze the case study. <br><br> <br> **Body** <br> • Mention the strategies that can be followed with proper analysis. <br><br> <br> **Conclusion** <br> • Prospective way forward. |
 | --- |
 
 ### Introduction
@@ -8408,7 +8408,7 @@ By adopting these strategies, it is possible to achieve a balance between develo
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br> • Shortly analyze the case study. <br><br> **Body** <br> • Mention the available options with critical analysis <br> • Your preferred option <br><br> **Conclusion** <br> • Prospective way forward. |
+| **Approach:** <br> **Introduction** <br> • Shortly analyze the case study. <br><br> <br> **Body** <br> • Mention the available options with critical analysis <br> • Your preferred option <br><br> <br> **Conclusion** <br> • Prospective way forward. |
 | --- |
 
 ### Introduction
@@ -8456,7 +8456,7 @@ By adopting these strategies, it is possible to achieve a balance between develo
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br> • Contextual Introduction. <br><br> **Body** <br> • Analysis and advice <br> • Advice to the friend in prospective manner <br><br> **Conclusion** <br> • Conclude suitably |
+| **Approach:** <br> **Introduction** <br> • Contextual Introduction. <br><br> <br> **Body** <br> • Analysis and advice <br> • Advice to the friend in prospective manner <br><br> <br> **Conclusion** <br> • Conclude suitably |
 | --- |
 
 ### Introduction
@@ -8500,7 +8500,7 @@ It is crucial to remember that ethical conduct is not just a personal choice but
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br> • Contextual Introduction. <br><br> **Body** <br> • Arguments for giving the bribe and getting the order <br> • Arguments for refusing to pay the bribe and risking the loss of the order <br> • A better way to get out of this dilemma <br><br> **Conclusion** <br> • Conclude suitably |
+| **Approach:** <br> **Introduction** <br> • Contextual Introduction. <br><br> <br> **Body** <br> • Arguments for giving the bribe and getting the order <br> • Arguments for refusing to pay the bribe and risking the loss of the order <br> • A better way to get out of this dilemma <br><br> <br> **Conclusion** <br> • Conclude suitably |
 | --- |
 
 ### Introduction
@@ -8540,7 +8540,7 @@ It is important to consider alternative solutions that prioritize integrity and 
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br> • Shortly analyze the case study. <br><br> **Body** <br> • Critically Analyze each of the options with pros and cons and choose options with common goodness. <br><br> **Conclusion** <br> • Prospective way forward. |
+| **Approach:** <br> **Introduction** <br> • Shortly analyze the case study. <br><br> <br> **Body** <br> • Critically Analyze each of the options with pros and cons and choose options with common goodness. <br><br> <br> **Conclusion** <br> • Prospective way forward. |
 | --- |
 
 ### Introduction
@@ -8577,7 +8577,7 @@ It is important to consider alternative solutions that prioritize integrity and 
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br> • Shortly analyze the case study. <br><br> **Body** <br> • Analyze each options with merits and demerits. <br><br> **Conclusion** <br> • Prospective way forward. |
+| **Approach:** <br> **Introduction** <br> • Shortly analyze the case study. <br><br> <br> **Body** <br> • Analyze each options with merits and demerits. <br><br> <br> **Conclusion** <br> • Prospective way forward. |
 | --- |
 
 ### Introduction
@@ -8616,7 +8616,7 @@ It is important to consider alternative solutions that prioritize integrity and 
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br> • Shortly analyze the case study. <br><br> **Body** <br> • Analyze each of the options with merits and demerits <br><br> **Conclusion** <br> • Prospective way forward. |
+| **Approach:** <br> **Introduction** <br> • Shortly analyze the case study. <br><br> <br> **Body** <br> • Analyze each of the options with merits and demerits <br><br> <br> **Conclusion** <br> • Prospective way forward. |
 | --- |
 
 ### Introduction
@@ -8665,7 +8665,7 @@ If the situation persists, seeking guidance from a higher authority or ethics co
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br> • Shortly analyze the case study. <br><br> **Body** <br> • Ethical issues involved in the case <br> • Reaction after the visit <br><br> **Conclusion** <br> • Prospective way forward. |
+| **Approach:** <br> **Introduction** <br> • Shortly analyze the case study. <br><br> <br> **Body** <br> • Ethical issues involved in the case <br> • Reaction after the visit <br><br> <br> **Conclusion** <br> • Prospective way forward. |
 | --- |
 
 ### Introduction
@@ -8701,7 +8701,7 @@ By taking these actions, a comprehensive approach can be adopted to address the 
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br> • Contextual Introduction. <br><br> **Body** <br> • options available <br> • Preferred option <br> • Reasons for choosing that option <br><br> **Conclusion** <br> • Conclude suitably |
+| **Approach:** <br> **Introduction** <br> • Contextual Introduction. <br><br> <br> **Body** <br> • options available <br> • Preferred option <br> • Reasons for choosing that option <br><br> <br> **Conclusion** <br> • Conclude suitably |
 | --- |
 
 ### Introduction
@@ -8748,7 +8748,7 @@ It is essential to maintain a high standard of ethical conduct and avoid succumb
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br> • Shortly analyze the case study. <br><br> **Body** <br> • Options available <br> • Evaluate each of these options and choose the option you would adopt giving reasons <br><br> **Conclusion** <br> • Conclude suitably |
+| **Approach:** <br> **Introduction** <br> • Shortly analyze the case study. <br><br> <br> **Body** <br> • Options available <br> • Evaluate each of these options and choose the option you would adopt giving reasons <br><br> <br> **Conclusion** <br> • Conclude suitably |
 | --- |
 
 ### Introduction
@@ -8791,7 +8791,7 @@ Prompt action must be taken to address the complaint of harassment and inappropr
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br> • Contextual Introduction. <br><br> **Body** <br> • Analyze each of the options with merits and demerits. <br><br> **Conclusion** <br> • Conclude suitably |
+| **Approach:** <br> **Introduction** <br> • Contextual Introduction. <br><br> <br> **Body** <br> • Analyze each of the options with merits and demerits. <br><br> <br> **Conclusion** <br> • Conclude suitably |
 | --- |
 
 ### Introduction

@@ -92,7 +92,7 @@ The **Suryamitra program** aims to train over 50,000 solar technicians across ru
 1. Explanation_Drishti IAS:
 Source Question: Explain briefly the ecological and economic benefits of solar energy generation in India with suitable examples. (Answer in 150 words) 10
 
-| **Approach:** <br>• **Introduction** Introduce solar energy as a key component of India's renewable energy strategy. <br>• **Body:** Discuss the ecological benefits, including reduced emissions, water conservation, and improved air quality, with relevant examples. <br>• Explain the economic benefits, such as job creation, cost-effectiveness, and income diversification, while connecting them to national energy security and sustainable growth. <br>• **Conclusion Conclude accordingly.** |
+| **Approach:** <br>• **Introduction** Introduce solar energy as a key component of India's renewable energy strategy. <br> <br> • **Body:** Discuss the ecological benefits, including reduced emissions, water conservation, and improved air quality, with relevant examples. <br>• Explain the economic benefits, such as job creation, cost-effectiveness, and income diversification, while connecting them to national energy security and sustainable growth. <br> <br> • **Conclusion Conclude accordingly.** |
 | --- |
 
 ### Introduction
@@ -390,47 +390,47 @@ India is the 4th **largest wind power producer** in the world. Wind energy const
 
 **Reasons behind limited spatial spread**
 
-**1. Geographical reasons**
+1. **Geographical reasons**
 
-  - **Wind Speed Variability-** Eg- Low wind speeds in **eastern and northern plains.**
+    - **Wind Speed Variability-** Eg- Low wind speeds in **eastern and northern plains.**
 
-  - Ideal wind sites are **"topography-dependent"-requiring** open plains, mountain gaps, or coastal fronts. This naturally limits development to the Peninsular and Western regions.
+    - Ideal wind sites are **"topography-dependent"-requiring** open plains, mountain gaps, or coastal fronts. This naturally limits development to the Peninsular and Western regions.
 
-**2. Transmission Constraints** - Grid congestion and curtailment issues.
+2. **Transmission Constraints** - Grid congestion and curtailment issues.
 
-**3. Land Acquisition** Challenges - Delays and opposition
+3. **Land Acquisition** Challenges - Delays and opposition
 
-**4. Financial Stress of DISCOMs** - **delays in** Power Purchase Agreements **discourage developers.**
+4. **Financial Stress of DISCOMs** - **delays in** Power Purchase Agreements **discourage developers.**
 
-**5. High Initial Investment** especially for offshore wind projects.
+5. **High Initial Investment** especially for offshore wind projects.
 
-**6. Competition from Solar Energy** - Solar has become cheaper and easier to deploy across more regions.
+6. **Competition from Solar Energy** - Solar has become cheaper and easier to deploy across more regions.
 
-**7. Infrastructure and Logistical Challenges**
+7. **Infrastructure and Logistical Challenges**
 
-  - Wind farms are often located in **remote areas.** Building high-voltage **transmission lines** is a slow and expensive process.
+    - Wind farms are often located in **remote areas.** Building high-voltage **transmission lines** is a slow and expensive process.
 
-  - **Transportation Logistics challenges-** Modern wind blades can exceed 80 meters in length.
+    - **Transportation Logistics challenges-** Modern wind blades can exceed 80 meters in length.
 
 **Steps Taken**
 
-**1. National Wind-Solar Hybrid Policy**
+1. **National Wind-Solar Hybrid Policy**
 
-**2. National Offshore Wind Energy Policy**
+2. **National Offshore Wind Energy Policy**
 
-**3. Renewable Purchase Obligation (RPO)**
+3. **Renewable Purchase Obligation (RPO)**
 
-**4. Waiver of Inter-State Transmission System (ISTS) Charges** To achieve **Panchamrit Targets,** there is need for
+4. **Waiver of Inter-State Transmission System (ISTS) Charges** To achieve **Panchamrit Targets,** there is need for
 
-  - Offshore wind development
+    - Offshore wind development
 
-  - Hybrid projects
+    - Hybrid projects
 
-  - Improved grid connectivity
+    - Improved grid connectivity
 
-  - Better market mechanisms
+    - Better market mechanisms
 
-  - Repowering old wind farms,
+    - Repowering old wind farms,
 
 1. Explanation_Drishti IAS:
 Source Question: Examine the potential of wind energy in India and explain the reasons for their limited spatial spread.
@@ -458,7 +458,7 @@ The wind is used to produce electricity using the kinetic energy created by air 
 1. Explanation_PWOnlyIAS:
 Source Question: Examine the potential of wind energy in India and explain the reasons for their limited spatial spread.
 
-| **Approach:** <br> **Introduction** <br>• Discuss the potential of wind energy in India. <br> **Body** <br>• Discuss the limited spatial spread of wind energy in India. <br> **Conclusion** <br>• Conclude your answer with a Futuristic Approach. |
+| **Approach:** <br> **Introduction** <br>• Discuss the potential of wind energy in India. <br> <br> **Body** <br>• Discuss the limited spatial spread of wind energy in India. <br> <br> **Conclusion** <br>• Conclude your answer with a Futuristic Approach. |
 | --- |
 
 ### Introduction
@@ -567,7 +567,7 @@ Mineral oil (petroleum) is a **strategic, exhaustible, and unevenly distributed 
 
 **Implications of uneven distribution of mineral oils in the world**
 
-**1. Economic Implications a)** Energy security challenges - Oil-deficient countries face high import bills and current account deficits. Eg- India imports ~85% of its crude oil requirement.
+1. **Economic Implications a)** Energy security challenges - Oil-deficient countries face high import bills and current account deficits. Eg- India imports ~85% of its crude oil requirement.
 
 **b)** Price Volatility- Supply disruptions cause global oil shocks, affecting global inflation. Eg- Oil price spike during the Russia-Ukraine conflict.
 
@@ -575,23 +575,23 @@ Mineral oil (petroleum) is a **strategic, exhaustible, and unevenly distributed 
 
 **d)** Petrodollar Accumulation - Oil exporters accumulate large foreign exchange reserves and sovereign wealth funds. Eg- Norway's GPFG or Saudi Arabia's PIF e) Development of Unconventional Sources - Countries adopt shale oil and oil sands to reduce dependence. Eg- USA shale revolution.
 
-**2. Geopolitical Implications a)** Energy trade is one of the key driver of global geopolitics. Eg- US sanctions on Russian and Iran oil trade **b)** Competition for oil resources leads to wars and regional instability. Eg- Gulf Wars, Saudi-Iran rivalry.
+2. **Geopolitical Implications a)** Energy trade is one of the key driver of global geopolitics. Eg- US sanctions on Russian and Iran oil trade **b)** Competition for oil resources leads to wars and regional instability. Eg- Gulf Wars, Saudi-Iran rivalry.
 
 **c)** Formation of Cartels - to influence global supply and prices. Eg- OPEC’s production decisions.
 
 **d)** Strategic Alliances - Oil trade shapes foreign policy and defence partnerships.
 
-  - US-Saudi strategic relations.
+    - US-Saudi strategic relations.
 
-  - India’s look west policy **e)** Chokepoint Vulnerability due to dependence on narrow sea routes. Eg- Strait of Hormuz, Malacca Strait.
+    - India’s look west policy **e)** Chokepoint Vulnerability due to dependence on narrow sea routes. Eg- Strait of Hormuz, Malacca Strait.
 
-**3. Developmental and Regional Inequality a)** Infrastructure and Urbanisation - Oil wealth funds modern cities and mega-projects. Eg- Dubai and Doha.
+3. **Developmental and Regional Inequality a)** Infrastructure and Urbanisation - Oil wealth funds modern cities and mega-projects. Eg- Dubai and Doha.
 
 **b)** Energy Poverty in Import-dependent Nations as high oil prices constrain development spending.
 
 **c)** Migration patterns - Eg- expats constitute approximately 88%-90% of the total population of UAE
 
-**4. Environmental Implications** a) Oil-rich regions face **oil spills, land degradation, and marine pollution.** Eg- Niger Delta pollution.
+4. **Environmental Implications** a) Oil-rich regions face **oil spills, land degradation, and marine pollution.** Eg- Niger Delta pollution.
 
 **b)** Global Carbon Emissions - oil and gas industry is responsible for over 5 billion tonnes of CO2 equivalent in direct emissions annually (15% of total energy-related emissions) **c)** Shift to Renewables - Import-dependent countries invest more in clean energy for energy security. Eg- India’s solar mission and Panchamrit targets In the long run, reducing oil dependence through **clean energy, strategic reserves, and diversified supply chains** is essential for ensuring **equitable and sustainable global development.**
 
@@ -613,7 +613,7 @@ The uneven distribution of the mineral oil resources leads to various implicatio
 1. Explanation_PWOnlyIAS:
 Source Question: Discuss the multi- dimension implications of uneven distribution of mineral oil in the world.
 
-| **Approach:** <br> **Introduction** <br>• Explaining the uneven distribution of mineral oil. <br> **Body** <br>• Mention some Implication that the uneven distribution of mineral oil <br> **Conclusion** <br>• Conclude your Answer with significant multi-dimensional implications of mineral oil. |
+| **Approach:** <br> **Introduction** <br>• Explaining the uneven distribution of mineral oil. <br> <br> **Body** <br>• Mention some Implication that the uneven distribution of mineral oil <br> <br> **Conclusion** <br>• Conclude your Answer with significant multi-dimensional implications of mineral oil. |
 | --- |
 
 ### Introduction
@@ -737,63 +737,63 @@ India has emerged as a global leader in solar energy with over **140 GW of insta
 
 1. **Total Theoretical Potential** is estimated at **748 GW** (using only 3 % wasteland).
 
-**2. High Solar Radiation** due to tropical location
+2. **High Solar Radiation** due to tropical location
 
-  - Receives **4-7 kWh/m²/day** across most regions.
+    - Receives **4-7 kWh/m²/day** across most regions.
 
-  - **~300 sunny days annually** → ideal for large-scale generation.
+    - **~300 sunny days annually** → ideal for large-scale generation.
 
-  - **Waste Land Availability-** States like Rajasthan and Ladakh possess vast tracts of high-albedo, non-arable land
+    - **Waste Land Availability-** States like Rajasthan and Ladakh possess vast tracts of high-albedo, non-arable land
 
-  - **Water Body Integration-** With thousands of reservoirs, India's **Floating Solar** potential is estimated at **280 GW Regional Variations in Development**
+    - **Water Body Integration-** With thousands of reservoirs, India's **Floating Solar** potential is estimated at **280 GW Regional Variations in Development**
 
-  - Western India has seen the highest development of solar power. Rajasthan accounts for around 27% of India's total capacity (~37 GW). Gujarat ranks second with ~20 GW.
+    - Western India has seen the highest development of solar power. Rajasthan accounts for around 27% of India's total capacity (~37 GW). Gujarat ranks second with ~20 GW.
 
-  - High solar insolation
+    - High solar insolation
 
-  - Availability of barren land
+    - Availability of barren land
 
-  - Strong transmission infrastructure
+    - Strong transmission infrastructure
 
-  - **Proximity to Manufacturing-** 70% of India's solar module manufacturing is concentrated in **Gujarat**
+    - **Proximity to Manufacturing-** 70% of India's solar module manufacturing is concentrated in **Gujarat**
 
-  - Eg- Bhadla (Rajasthan), Charanka Solar Park (Gujarat).
+    - Eg- Bhadla (Rajasthan), Charanka Solar Park (Gujarat).
 
-  - Southern India has witnessed moderate to high growth
+    - Southern India has witnessed moderate to high growth
 
-  - Progressive state policies
+    - Progressive state policies
 
-  - Land availability in dry interiors
+    - Land availability in dry interiors
 
-  - Strong private sector participation
+    - Strong private sector participation
 
-  - **Karnataka & Tamil Nadu** have combined capacity exceeding **20 GW.**
+    - **Karnataka & Tamil Nadu** have combined capacity exceeding **20 GW.**
 
-  - Eg- Pavagada Solar Park (Karnataka).
+    - Eg- Pavagada Solar Park (Karnataka).
 
-  - Northern Plains - Moderate Potential but Slower Growth
+    - Northern Plains - Moderate Potential but Slower Growth
 
-  - High population density → **land constraint.**
+    - High population density → **land constraint.**
 
-  - Pollution and fog reduce efficiency.
+    - Pollution and fog reduce efficiency.
 
-  - Majority of land is under Agriculture
+    - Majority of land is under Agriculture
 
-  - Eastern and Northeastern India - Low Development
+    - Eastern and Northeastern India - Low Development
 
-  - High cloud cover, heavy rainfall, and forest cover.
+    - High cloud cover, heavy rainfall, and forest cover.
 
-  - Limited grid infrastructure and investment.
+    - Limited grid infrastructure and investment.
 
-  - Himalayan Region - Ladakh has very high insolation but faces-
+    - Himalayan Region - Ladakh has very high insolation but faces-
 
-  - Harsh climate
+    - Harsh climate
 
-  - Transmission constraints
+    - Transmission constraints
 
-  - Fragile ecology.
+    - Fragile ecology.
 
-  - Coastal and Urban Regions - Space constraints for large plants but high scope for distributed solar. EgKerala’s rooftop solar model.
+    - Coastal and Urban Regions - Space constraints for large plants but high scope for distributed solar. EgKerala’s rooftop solar model.
 
 **Steps Taken by Governments**
 
@@ -833,7 +833,7 @@ Source Question: India hasimmense potential ofsolar energy though there are regi
 1. Explanation_PWOnlyIAS:
 Source Question: India has immense potential for solar energy though there are regional variations in its development. Elaborate.
 
-| **Approach:** <br> **Introduction** <br>• Write data related to Solar Energy. <br> **Body** <br>• Elaborate regional variation in India. <br> **Conclusion** <br>• Conclude your answer with Government initiative and its impact. |
+| **Approach:** <br> **Introduction** <br>• Write data related to Solar Energy. <br> <br> **Body** <br>• Elaborate regional variation in India. <br> <br> **Conclusion** <br>• Conclude your answer with Government initiative and its impact. |
 | --- |
 
 ### Introduction
@@ -970,7 +970,7 @@ Q6. What are the economic significances of discovery of oil in Arctic Sea and it
 1. Explanation_PWOnlyIAS:
 Source Question: What is the economic significance of the discovery of oil in the Arctic Sea and its possible environmental consequences?[200 Words, 12.5 Marks ]
 
-| **Approach:** <br> **Introduction** <br>• Start your answer with Data and importance. <br> **Body** <br>• Discuss the advantages and disadvantages of Arctic oil reserves. <br> **Conclusion** <br>• Summary of the answer with futuristic approach. |
+| **Approach:** <br> **Introduction** <br>• Start your answer with Data and importance. <br> <br> **Body** <br>• Discuss the advantages and disadvantages of Arctic oil reserves. <br> <br> **Conclusion** <br>• Summary of the answer with futuristic approach. |
 | --- |
 
 ### Introduction
@@ -1097,7 +1097,7 @@ Q7. It is said the India has substantial reserves of shale oil and gas, which ca
 1. Explanation_PWOnlyIAS:
 Source Question: It is said that India has substantial reserves of shale oil and gas, which can feed the needs of the country for a quarter century. However, tapping of the resource does not appear to be high on agenda. Discuss critically the availability and issues involved.
 
-| **Approach:** <br> **Introduction** <br>• Brief about significant reserves in India. <br> **Body** <br>• Discuss availability and issues involved in tapping of shale oil and gas in India. <br> **Conclusion** <br>• Conclude your answer with issues involved in tapping. |
+| **Approach:** <br> **Introduction** <br>• Brief about significant reserves in India. <br> <br> **Body** <br>• Discuss availability and issues involved in tapping of shale oil and gas in India. <br> <br> **Conclusion** <br>• Conclude your answer with issues involved in tapping. |
 | --- |
 
 ### Introduction
@@ -1255,7 +1255,7 @@ Q8. With growing scarcity of fossil fuels, the atomic energy is gaining more and
 1. Explanation_PWOnlyIAS:
 Source Question: With growing scarcity of fossil fuels, atomic energy is gaining more and more significance in India. Discuss the availability of raw material required for the generation of atomic energy in India and in the world.
 
-| **Approach:** <br> **Introduction** <br>• Start your answer with the importance of fossil fuel. <br> **Body** <br>• Discuss about Uranium and Thorium reserves in India and world and their Challenges. <br> **Conclusion** <br>• Summary of the answer with futuristic approach. |
+| **Approach:** <br> **Introduction** <br>• Start your answer with the importance of fossil fuel. <br> <br> **Body** <br>• Discuss about Uranium and Thorium reserves in India and world and their Challenges. <br> <br> **Conclusion** <br>• Summary of the answer with futuristic approach. |
 | --- |
 
 ### Introduction
@@ -1726,7 +1726,7 @@ India's vulnerable coastal regions require ongoing efforts in disaster preparedn
 1. Explanation_PWOnlyIAS:
 Source Question: Comment on the resource potentials of the long coastlines of India and highlight the status of natural hazard preparedness in these areas.
 
-| **Approach:** <br> **Introduction** <br>• Write about India in relation to its coast line. <br> **Body** <br>• Resource Potentials of the Long Coastlines of India. <br>• Status of Natural Hazard Preparedness in these Areas <br> **Conclusion** <br>• Give appropriate conclusion in this regard |
+| **Approach:** <br> **Introduction** <br>• Write about India in relation to its coast line. <br> <br> **Body** <br>• Resource Potentials of the Long Coastlines of India. <br>• Status of Natural Hazard Preparedness in these Areas <br> <br> **Conclusion** <br>• Give appropriate <br> conclusion in this regard |
 | --- |
 
 ### Introduction
@@ -2005,7 +2005,7 @@ Deccan Trap is a large region of thick basaltic rock located in west-central Ind
 1. Explanation_PWOnlyIAS:
 Source Question: Discuss the natural resource potentials of ‘Deccan trap’.
 
-| **Approach:** <br> **Introduction** <br>• Write about Deccan Trap in brief. **Body** <br>• Write about the significant natural resources found in the Deccan Trap. <br> **Conclusion** <br>• Conclude your answer with the importance of Deccan Trap. |
+| **Approach:** <br> **Introduction** <br>• Write about Deccan Trap in brief. <br> **Body** <br>• Write about the significant natural resources found in the Deccan Trap. <br> <br> **Conclusion** <br>• Conclude your answer with the importance of Deccan Trap. |
 | --- |
 
 ### Introduction
@@ -2206,7 +2206,7 @@ According to the Ministry of External Affairs, India’s interests in Arctic Oce
 1. Explanation_PWOnlyIAS:
 Source Question: Why is India taking keen interest in the Arctic region?
 
-| **Approach:** <br> **Introduction** <br>• Write about the Arctic region. **Body:** <br>• Discuss India’ s interest in the Arctic region. <br> **Conclusion** <br>• Conclude your answer with Importance of the Arctic region. |
+| **Approach:** <br> **Introduction** <br>• Write about the Arctic region. <br> **Body:** <br>• Discuss India’ s interest in the Arctic region. <br> <br> **Conclusion** <br>• Conclude your answer with Importance of the Arctic region. |
 | --- |
 
 ### Introduction
@@ -2291,7 +2291,7 @@ Q13. How does India see its place in the economic space of rising natural resour
 1. Explanation_PWOnlyIAS:
 Source Question: How does India see its place in the economic space of rising natural resource rich Africa?
 
-| **Approach:** <br> **Introduction** <br>• Start your answer with India relations with Africa. <br> **Body** <br>• Discuss the economic space of rising natural resource-rich Africa. <br> **Conclusion** <br>• Summary of the answer with futuristic approach. |
+| **Approach:** <br> **Introduction** <br>• Start your answer with India relations with Africa. <br> <br> **Body** <br>• Discuss the economic space of rising natural resource-rich Africa. <br> <br> **Conclusion** <br>• Summary of the answer with futuristic approach. |
 | --- |
 
 ### Introduction
@@ -2733,7 +2733,7 @@ This reflects the intimate relationship between **natural resource endowment and
 1. Explanation_Drishti IAS:
 Source Question: What are non-farm primary activities? How are these activities related to physiographic features in India ? Discuss with suitable examples. (Answer in 150 words)
 
-| **Approach:** <br>• **Introduction** Define non-farm primary activities and highlight their importance in the economy. <br>• **Body:** Discuss how these activities are influenced by India's diverse physiographic features, with specific examples from different regions. <br>• **Conclusion** Conclude by emphasizing the strong relationship between non-farm primary activities and India’s varied geographical landscape. |
+| **Approach:** <br>• **Introduction** Define non-farm primary activities and highlight their importance in the economy. <br> <br> • **Body:** Discuss how these activities are influenced by India's diverse physiographic features, with specific examples from different regions. <br> <br> • **Conclusion** Conclude by emphasizing the strong relationship between non-farm primary activities and India’s varied geographical landscape. |
 | --- |
 
 ### Introduction
@@ -2932,7 +2932,7 @@ Addressing these challenges will enhance and sustain India’s position in the g
 1. Explanation_PWOnlyIAS:
 Source Question: Why is the world today confronted with a crisis of availability of and access to freshwater resources?
 
-| **Approach:** <br> **Introduction** <br>• Start briefly with fresh water and its resources. <br> **Body** <br>• Mention reasons behind the Crisis of Availability of Freshwater Resources <br>• Mention reasons behind the Crisis of Access to Freshwater Resources <br> **Conclusion** <br>• Give appropriate conclusion in this regard |
+| **Approach:** <br> **Introduction** <br>• Start briefly with fresh water and its resources. <br> <br> **Body** <br>• Mention reasons behind the Crisis of Availability of Freshwater Resources <br>• Mention reasons behind the Crisis of Access to Freshwater Resources <br> <br> **Conclusion** <br>• Give appropriate <br> conclusion in this regard |
 | --- |
 
 ### Introduction
@@ -3086,19 +3086,19 @@ Natural rubber is a **tropical plantation crop** that requires **high temperatur
 
 - **Other countries - Vietnam and Malaysia**
 
-**3. West Africa**
+3. **West Africa**
 
-  - **Ivory Coast-** 4th largest global producer (over **1.3 million tonnes)**
+    - **Ivory Coast-** 4th largest global producer (over **1.3 million tonnes)**
 
-  - **Others-** Nigeria, Ghana, and Liberia etc
+    - **Others-** Nigeria, Ghana, and Liberia etc
 
-  - **India-** production is centered in Kerala and the North-East.
+    - **India-** production is centered in Kerala and the North-East.
 
-  - Other Producers
+    - Other Producers
 
-  - **China** - Yunnan and Hainan Island.
+    - **China** - Yunnan and Hainan Island.
 
-  - **Latin America** - Brazil (original home of Hevea brasiliensis).
+    - **Latin America** - Brazil (original home of Hevea brasiliensis).
 
 **Major Environmental Issues**
 
@@ -3162,7 +3162,7 @@ Increasing demand of rubber due to industrial expansion, the sustainable cultiva
 1. Explanation_PWOnlyIAS:
 Source Question: Describing the distribution of rubber producing countries, indicate the major environmental issues faced by them.
 
-| **Approach:** <br> **Introduction** <br>• Write about the distribution of rubber producing countries in World. <br> **Body** <br>• Discuss the major environmental issues faced by rubber producing countries <br> **Conclusion** <br>• Conclude your answer with a Futuristic Approach. |
+| **Approach:** <br> **Introduction** <br>• Write about the distribution of rubber producing countries in World. <br> <br> **Body** <br>• Discuss the major environmental issues faced by rubber producing countries <br> <br> **Conclusion** <br>• Conclude your answer with a Futuristic Approach. |
 | --- |
 
 ### Introduction
@@ -3364,7 +3364,7 @@ Despite being a part of Gondwana land, rich in providing minerals such as coal, 
 1. Explanation_PWOnlyIAS:
 Source Question: Despite India being one of the countries of Gondwanaland, its mining industry contributes much less to its Gross Domestic Products [GDP] in percentage. Discuss.
 
-| **Approach:** <br> **Introduction** <br>• Explaining contribution of the mining sector in India GDP. <br> **Body** <br>• Mention reasons behind this less percentage of contribution. <br> **Conclusion** <br>• Significance of mining Industry with government approach. |
+| **Approach:** <br> **Introduction** <br>• Explaining contribution of the mining sector in India GDP. <br> <br> **Body** <br>• Mention reasons behind this less percentage of contribution. <br> <br> **Conclusion** <br>• Significance of mining Industry with government approach. |
 | --- |
 
 ### Introduction
@@ -3595,7 +3595,7 @@ India is home to more than 10 percent of the global fish diversity and it ranks 
 1. Explanation_PWOnlyIAS:
 Source Question: Defining Blue Revolution. Explain the problem and strategies for pisciculture development in India.
 
-| **Approach:** <br> **Introduction** <br>• Write about the Blue Revolution. **Body** <br>• Discuss the Problems of pisciculture development and its strategies in India. <br> **Conclusion** <br>• Conclude your answer with a futuristic approach. |
+| **Approach:** <br> **Introduction** <br>• Write about the Blue Revolution. <br> **Body** <br>• Discuss the Problems of pisciculture development and its strategies in India. <br> <br> **Conclusion** <br>• Conclude your answer with a futuristic approach. |
 | --- |
 
 ### Introduction
@@ -3813,7 +3813,7 @@ Therefore, pulses contribute significantly in addressing hunger, food security, 
 1. Explanation_PWOnlyIAS:
 Source Question: Mention the advantages of the cultivation of pulses because of which the year 2016 was declared as the International year of Pulses by United Nations.
 
-| **Approach:** <br> **Introduction** <br>• Write the data with respect to pulses in India. <br> **Body** <br>• Discuss the advantage Pulses. **Conclusion** <br>• Conclude your answer with the importance of pulses with a futuristic approach. |
+| **Approach:** <br> **Introduction** <br>• Write the data with respect to pulses in India. <br> <br> **Body** <br>• Discuss the advantage Pulses. <br> **Conclusion** <br>• Conclude your answer with the importance of pulses with a futuristic approach. |
 | --- |
 
 ### Introduction
@@ -3925,7 +3925,7 @@ Q22. Whereas the British planters had developed tea gardens all along the Shival
 1. Explanation_PWOnlyIAS:
 Source Question: Whereas the British planters had developed tea gardens all along the Shivaliks and lesser Himalayas from Assam to Himachal Pradesh, in effect they did not succeed beyond the Darjeeling area. Explain.
 
-| **Approach:** <br> **Introduction** <br>• Start your answer with the history of tea cultivation. <br> **Body:** <br>• Discuss the planters had developed tea gardens all along the Shivaliks and lesser. <br> **Conclusion** <br>• Summary of the answer with futuristic approach. |
+| **Approach:** <br> **Introduction** <br>• Start your answer with the history of tea cultivation. <br> <br> **Body:** <br>• Discuss the planters had developed tea gardens all along the Shivaliks and lesser. <br> <br> **Conclusion** <br>• Summary of the answer with futuristic approach. |
 | --- |
 
 ### Introduction
@@ -4037,7 +4037,7 @@ Q23. Why did the Green Revolution in India virtually by-pass the eastern region 
 1. Explanation_PWOnlyIAS:
 Source Question: Why did the Green Revolution in India virtually bypass the eastern region despite fertile soil and good availability of water?
 
-| **Approach:** <br> **Introduction** <br>• Brief about the green revolution. **Body** <br>• Discuss factors that contribute to the Green Revolution. <br> **Conclusion** <br>• Conclude your answer with a futuristic approach. |
+| **Approach:** <br> **Introduction** <br>• Brief about the green revolution. <br> **Body** <br>• Discuss factors that contribute to the Green Revolution. <br> <br> **Conclusion** <br>• Conclude your answer with a futuristic approach. |
 | --- |
 
 ### Introduction
@@ -4149,43 +4149,43 @@ Several steel plants are located **away from raw material regions** due to chang
 
 **Traditional Factors for Location**
 
-**1. Proximity to Iron Ore Deposits and Flux Materials (Limestone & Dolomite)** - **Eg- Bhilai Steel Plant (Chhattisgarh)** and **Rourkela Steel Plant (Odisha)**
+1. **Proximity to Iron Ore Deposits and Flux Materials (Limestone & Dolomite)** - **Eg- Bhilai Steel Plant (Chhattisgarh)** and **Rourkela Steel Plant (Odisha)**
 
-**2. Proximity to Coal Fields**
+2. **Proximity to Coal Fields**
 
-  - **Bokaro (Jharkhand)** and **Durgapur (West Bengal)**
+    - **Bokaro (Jharkhand)** and **Durgapur (West Bengal)**
 
-  - **Ruhr Valley in Germany**
+    - **Ruhr Valley in Germany**
 
-**3. Water Supply - Eg- TISCO (Jamshedpur)** at confluence of the **Subarnarekha and Kharkai rivers Factors Responsible for the Shift in Location**
+3. **Water Supply - Eg- TISCO (Jamshedpur)** at confluence of the **Subarnarekha and Kharkai rivers Factors Responsible for the Shift in Location**
 
-  - Market-Oriented Location - Near Consumption Centres.
+    - Market-Oriented Location - Near Consumption Centres.
 
-  - Mini-Steel Plants in Delhi-NCR/Haryana
+    - Mini-Steel Plants in Delhi-NCR/Haryana
 
-  - Detroit, USA
+    - Detroit, USA
 
-  - Development of efficient transport networks reduces transport cost of raw materials. Eg- Eg- Iron ore transported from Odisha to Visakhapatnam Steel Plant.
+    - Development of efficient transport networks reduces transport cost of raw materials. Eg- Eg- Iron ore transported from Odisha to Visakhapatnam Steel Plant.
 
-  - Coastal Location for imported raw materials -
+    - Coastal Location for imported raw materials -
 
-  - Vizag Steel Plant and JSW Steel (Vijayanagar) using imported coal via ports.
+    - Vizag Steel Plant and JSW Steel (Vijayanagar) using imported coal via ports.
 
-  - Japanese steel plants are located on reclaimed land in coastal areas
+    - Japanese steel plants are located on reclaimed land in coastal areas
 
-  - Availability of Power Supply - Electric furnaces and new technologies depend more on power than coal proximity. Eg- Salem Steel Plant (Tamil Nadu).
+    - Availability of Power Supply - Electric furnaces and new technologies depend more on power than coal proximity. Eg- Salem Steel Plant (Tamil Nadu).
 
-  - Technological Advancements - Modern mini steel plants using scrap and sponge iron.
+    - Technological Advancements - Modern mini steel plants using scrap and sponge iron.
 
-  - JSW Steel, Tarapur (Maharashtra)
+    - JSW Steel, Tarapur (Maharashtra)
 
-  - Steel Scrap-based plants in Punjab
+    - Steel Scrap-based plants in Punjab
 
-  - Availability of Flat Land for Expansion - Large integrated plants need extensive land near urban-industrial regions.
+    - Availability of Flat Land for Expansion - Large integrated plants need extensive land near urban-industrial regions.
 
-  - Agglomeration Economies - Proximity to engineering, automobile, and construction industries ensures demand. Eg- Steel units near the Mumbai-Pune industrial belt.
+    - Agglomeration Economies - Proximity to engineering, automobile, and construction industries ensures demand. Eg- Steel units near the Mumbai-Pune industrial belt.
 
-  - Government Policies for balanced regional development. Eg- Salem Steel Plant (Tamil Nadu) was established to boost the industrial economy of Southern India.
+    - Government Policies for balanced regional development. Eg- Salem Steel Plant (Tamil Nadu) was established to boost the industrial economy of Southern India.
 
 This shift reflects the growing importance of **global raw material sourcing, efficient logistics, and agglomeration economies.**
 
@@ -4209,7 +4209,7 @@ Iron and Steel Industry, not located near the source of raw materials, are less 
 1. Explanation_PWOnlyIAS:
 Source Question: Account for the present location of iron and steel industries away from the raw material, by giving examples.
 
-| **Approach:** <br> **Introduction** <br>• Start your answer with discussing major location factors for the iron and steel industries. <br> **Body:** <br>• Discuss the present location factor of iron and steel industries away from the source of raw material. <br> **Conclusion** <br>• Conclude your answer with Suitable factor for the iron and steel industries. |
+| **Approach:** <br> **Introduction** <br>• Start your answer with discussing major location factors for the iron and steel industries. <br> <br> **Body:** <br>• Discuss the present location factor of iron and steel industries away from the source of raw material. <br> <br> **Conclusion** <br>• Conclude your answer with Suitable factor for the iron and steel industries. |
 | --- |
 
 ### Introduction
@@ -4323,17 +4323,17 @@ Source Question: Can the strategy of regional resource-based manufacturing help 
 
 **Role of regional resource based manufacturing in employment generation**
 
-**1. Labour-Intensive Industrialisation -** Processing of local raw materials creates large employment in production and allied activities. Eg- Food processing industries in Punjab and Maharashtra.
+1. **Labour-Intensive Industrialisation -** Processing of local raw materials creates large employment in production and allied activities. Eg- Food processing industries in Punjab and Maharashtra.
 
 **2.** Local Livelihood Creation reduces rural-to-urban migration. Eg- Agro-based industries in eastern Uttar Pradesh and Bihar.
 
-  - **Ancillary and small industries** grow around core manufacturing units. Eg- Textile clusters in Tamil Nadu.
+    - **Ancillary and small industries** grow around core manufacturing units. Eg- Textile clusters in Tamil Nadu.
 
 **4.** Value Addition at Source generates farm and non-farm employment and increases rural incomes.
 
-  - Sugar mills in western Uttar Pradesh and Maharashtra
+    - Sugar mills in western Uttar Pradesh and Maharashtra
 
-  - Dairy industry in Gujarat
+    - Dairy industry in Gujarat
 
 **5.** Promotion of Cluster-Based Development creates specialised labour markets. Eg- Coir industry in Kerala, bamboo industry in Northeast.
 
@@ -4401,7 +4401,7 @@ The overall development of the country can happen only by securing a balanced an
 1. Explanation_PWOnlyIAS:
 Source Question: What are the continued challenges for women in India against time and space?
 
-| **Approach:** <br> **Introduction** <br>• Mention a few facts about women in India and how they have faced several challenges since time immemorial. <br> **Body** <br>• Mention that some of these challenges have continued and some new ones have come up. Also mention how the challenges differ across regions too. <br> **Conclusion** <br>• Conclude stating that women in India need social support to give shape to their capabilities and reach greater heights. For this, a change in society’s mindset is necessary. |
+| **Approach:** <br> **Introduction** <br>• Mention a few facts about women in India and how they have faced several challenges since time immemorial. <br> <br> **Body** <br>• Mention that some of these challenges have continued and some new ones have come up. Also mention how the challenges differ across regions too. <br> <br> **Conclusion** <br>• Conclude stating that women in India need social support to give shape to their capabilities and reach greater heights. For this, a change in society’s mindset is necessary. |
 | --- |
 
 ### Introduction
@@ -4536,41 +4536,41 @@ Source Question: Discuss the factors for localisation of agro-based food process
 
 <p align="center"><img src="civilsdaily/images/civilsdaily_p77_img40.png" alt="Diagram" /></p>
 
-**1. Raw Material Abundance ("Granary of India")**
+1. **Raw Material Abundance ("Granary of India")**
 
-  - Punjab and Haryana produce roughly **19% of India’s wheat** and **70% of its basmati rice,** leading to a concentration of rice mills and flour-based industries.
+    - Punjab and Haryana produce roughly **19% of India’s wheat** and **70% of its basmati rice,** leading to a concentration of rice mills and flour-based industries.
 
-  - **Dairy-** high density of milch animals in Haryana and Punjab supports massive value-added dairy units. Eg- Nestlé in Moga, Punjab.
+    - **Dairy-** high density of milch animals in Haryana and Punjab supports massive value-added dairy units. Eg- Nestlé in Moga, Punjab.
 
-  - **Oilseeds-** Rajasthan contributes about **14% of India’s oilseed output** (especially mustard), driving the localization of edible oil refineries.
+    - **Oilseeds-** Rajasthan contributes about **14% of India’s oilseed output** (especially mustard), driving the localization of edible oil refineries.
 
-  - Strategic Infrastructure and Logistics
+    - Strategic Infrastructure and Logistics
 
-  - **Connectivity-** major corridors like the **Delhi-Mumbai Industrial Corridor (DMIC)** and the **Western/Eastern Dedicated Freight Corridors (DFCs)** reduce transit times to ports.
+    - **Connectivity-** major corridors like the **Delhi-Mumbai Industrial Corridor (DMIC)** and the **Western/Eastern Dedicated Freight Corridors (DFCs)** reduce transit times to ports.
 
-  - **Storage Ecosystem-** mature cold-chain network and "Plug-and-Play" facilities for small entrepreneurs.. Eg- **Mega Food Parks** in Fazilka in Punjab and Ajmer in Rajasthan
+    - **Storage Ecosystem-** mature cold-chain network and "Plug-and-Play" facilities for small entrepreneurs.. Eg- **Mega Food Parks** in Fazilka in Punjab and Ajmer in Rajasthan
 
-  - **Irrigation Reliability-** The extensive canal networks (Indira Gandhi Canal, Bhakra-Nangal system) ensure stable year-round crop cycles.
+    - **Irrigation Reliability-** The extensive canal networks (Indira Gandhi Canal, Bhakra-Nangal system) ensure stable year-round crop cycles.
 
-  - Proximity to High-Value Markets
+    - Proximity to High-Value Markets
 
-  - **Urban Demand-** Proximity to Delhi-NCR, Chandigarh, and Jaipur creates a massive local market for **Ready-to-Eat (RTE)** and **Ready-to-Cook (RTC)** products.
+    - **Urban Demand-** Proximity to Delhi-NCR, Chandigarh, and Jaipur creates a massive local market for **Ready-to-Eat (RTE)** and **Ready-to-Cook (RTC)** products.
 
-  - **Export Gateways-** air connectivity via Delhi’s IGI Airport and rail links to Gujarat’s ports (Mundra/Kandla) allow for export of high-value items like organic ghee, basmati rice etc.
+    - **Export Gateways-** air connectivity via Delhi’s IGI Airport and rail links to Gujarat’s ports (Mundra/Kandla) allow for export of high-value items like organic ghee, basmati rice etc.
 
-  - Government Policy and Institutional Support
+    - Government Policy and Institutional Support
 
-  - **State-Specific Incentives-** Agencies like **RIICO (Rajasthan)** and **PAIC (Punjab)** offer capital subsidies (up to 35-50%), interest subvention for food processing units.
+    - **State-Specific Incentives-** Agencies like **RIICO (Rajasthan)** and **PAIC (Punjab)** offer capital subsidies (up to 35-50%), interest subvention for food processing units.
 
-  - **ODOP (One District One Product)-** Targeted development of local specialties. Eg- **citrus (Kinnow) in Fazilka** or **mustard in Bharatpur**
+    - **ODOP (One District One Product)-** Targeted development of local specialties. Eg- **citrus (Kinnow) in Fazilka** or **mustard in Bharatpur**
 
-  - Socio-Economic and Climatic Factors
+    - Socio-Economic and Climatic Factors
 
-  - **Entrepreneurial Culture-** high density of progressive farmers and an enterprising diaspora.
+    - **Entrepreneurial Culture-** high density of progressive farmers and an enterprising diaspora.
 
-  - **Favorable Climate-** The relatively cooler winters in the North-West are conducive for the storage and processing of temperate fruits and vegetables
+    - **Favorable Climate-** The relatively cooler winters in the North-West are conducive for the storage and processing of temperate fruits and vegetables
 
-  - **Availability of labour** from states like Bihar and UP By bridging the gap between the "farm gate" and the "factory floor," the region has minimized post-harvest losses and maximized value addition.
+    - **Availability of labour** from states like Bihar and UP By bridging the gap between the "farm gate" and the "factory floor," the region has minimized post-harvest losses and maximized value addition.
 
 1. Explanation_Drishti IAS:
 Source Question: Discuss the factors for localisation of agro-based food processing industries of North-West India.
@@ -4600,7 +4600,7 @@ The initiatives taken at the Union level like permitting 100% FDI through the au
 1. Explanation_PWOnlyIAS:
 Source Question: What makes Indian society unique in sustaining its culture? Discuss.
 
-| **Approach:** <br> **Introduction** <br>• Mention about the cultural diversity of India. <br> **Body** <br>• Mention the unique ways in which Indian society is able to balance the modern way of living and still be able to sustain its culture. <br> **Conclusion** <br>• Conclude stating that there has been erosion in culture over the years, but still Indian society is largely rooted in culture and is sustaining it because of the values deeply rooted in the society. |
+| **Approach:** <br> **Introduction** <br>• Mention about the cultural diversity of India. <br> <br> **Body** <br>• Mention the unique ways in which Indian society is able to balance the modern way of living and still be able to sustain its culture. <br> <br> **Conclusion** <br>• Conclude stating that there has been erosion in culture over the years, but still Indian society is largely rooted in culture and is sustaining it because of the values deeply rooted in the society. |
 | --- |
 
 ### Introduction
@@ -4761,29 +4761,29 @@ to promote **manufacturing, urbanisation, and investment** through **node-based 
 
 7. **Odisha Economic Corridor (OEC)**
 
-**8. Delhi-Nagpur Industrial Corridor (DNIC) Main Characteristics of Industrial Corridors**
+8. **Delhi-Nagpur Industrial Corridor (DNIC) Main Characteristics of Industrial Corridors**
 
-  - **Multi-modal Connectivity-** Seamless integration of High-speed Rail, 6-8 lane Expressways, and Deep-water Ports. Eg- **Dighi Port** in DMIC.
+    - **Multi-modal Connectivity-** Seamless integration of High-speed Rail, 6-8 lane Expressways, and Deep-water Ports. Eg- **Dighi Port** in DMIC.
 
-  - **Plug-and-Play Infrastructure-** Allotment of land with pre-cleared environmental permits and ready-to-use water, power, and gas connections.
+    - **Plug-and-Play Infrastructure-** Allotment of land with pre-cleared environmental permits and ready-to-use water, power, and gas connections.
 
-  - **Greenfield Smart Cities-** Entirely new urban centers built from scratch with ICT-enabled utilities. Eg**Dholera SIR.**
+    - **Greenfield Smart Cities-** Entirely new urban centers built from scratch with ICT-enabled utilities. Eg**Dholera SIR.**
 
-  - **Walk-to-Work Culture-** Residential zones are located within walking or cycling distance of industrial units to minimize commuting and pollution.
+    - **Walk-to-Work Culture-** Residential zones are located within walking or cycling distance of industrial units to minimize commuting and pollution.
 
-  - **ICT Integration-** Using "Unified Logistics Interface Platform" (ULIP) and **PM Gati Shakti** for real-time tracking of cargo and efficient project management.
+    - **ICT Integration-** Using "Unified Logistics Interface Platform" (ULIP) and **PM Gati Shakti** for real-time tracking of cargo and efficient project management.
 
-  - **Sector-Specific Clusters** foster economies of scale. Eg- **Pharma cluster in Zaheerabad** or **Agro-processing in Gaya**
+    - **Sector-Specific Clusters** foster economies of scale. Eg- **Pharma cluster in Zaheerabad** or **Agro-processing in Gaya**
 
-  - **Sustainability-** Adoption of green building standards, water recycling, and massive renewable energy parks
+    - **Sustainability-** Adoption of green building standards, water recycling, and massive renewable energy parks
 
-  - **Single-Window Clearance-** Streamlined regulatory processes through a digital interface
+    - **Single-Window Clearance-** Streamlined regulatory processes through a digital interface
 
-  - PPP Model - Private sector participation in infrastructure and industry.
+    - PPP Model - Private sector participation in infrastructure and industry.
 
-  - Global Collaboration - Technology and finance support from international partners. Eg- Japan in DMIC, ADB in VCIC.
+    - Global Collaboration - Technology and finance support from international partners. Eg- Japan in DMIC, ADB in VCIC.
 
-  - Sustainable and Green Development - Eg- Use of renewable energy, zero liquid discharge systems.
+    - Sustainable and Green Development - Eg- Use of renewable energy, zero liquid discharge systems.
 
 Industrial corridors are the pillars of **Viksit Bharat @2047** and key to transition to a **globally competitive manufacturing economy.**
 
@@ -4831,7 +4831,7 @@ Industrial Corridors (ICs) are stretches across the country allocated to a speci
 1. Explanation_PWOnlyIAS:
 Source Question: What is the significance of Industrial Corridors in India? Identifying Industrial Corridors, explain their main characteristics.
 
-| **Approach:** <br> **Introduction** <br>• Write the importance of Industrial corridors. <br> **Body** <br>• Discuss the Significance and Characteristics of Industrial Corridors. <br> **Conclusion** <br>• Conclude your answer with a futuristic approach. |
+| **Approach:** <br> **Introduction** <br>• Write the importance of Industrial corridors. <br> <br> **Body** <br>• Discuss the Significance and Characteristics of Industrial Corridors. <br> <br> **Conclusion** <br>• Conclude your answer with a futuristic approach. |
 | --- |
 
 ### Introduction
@@ -4997,7 +4997,7 @@ Oil refineries usually in developing countries are built away from the oil produ
 1. Explanation_PWOnlyIAS:
 Source Question: Petroleum refineries are not necessarily located nearer to crude oil producing areas, particularly in many of the developing countries. Explain its implications.
 
-| **Approach:** <br> **Introduction** <br>• Write briefly about Petroleum. **Body** <br>• Discuss the advantages and disadvantages of Petroleum Industries. <br> **Conclusion** <br>• Summary of the answer with futuristic approach. |
+| **Approach:** <br> **Introduction** <br>• Write briefly about Petroleum. <br> **Body** <br>• Discuss the advantages and disadvantages of Petroleum Industries. <br> <br> **Conclusion** <br>• Summary of the answer with futuristic approach. |
 | --- |
 
 ### Introduction
@@ -5127,7 +5127,7 @@ Q29. Account for the change in the spatial pattern of the Iron and Steel industr
 1. Explanation_PWOnlyIAS:
 Source Question: Account for the change in the spatial pattern of the Iron and Steel industry in the world.
 
-| **Approach:** <br> **Introduction** <br>• Start your answer with Importance of the iron and steel industry. <br> **Body** <br>• Explore some of the factors that contributed to some changes. <br> **Conclusion** <br>• Summary of the answer with futuristic approach. |
+| **Approach:** <br> **Introduction** <br>• Start your answer with Importance of the iron and steel industry. <br> <br> **Body** <br>• Explore some of the factors that contributed to some changes. <br> <br> **Conclusion** <br>• Summary of the answer with futuristic approach. |
 | --- |
 
 ### Introduction
@@ -5244,7 +5244,7 @@ Q30. Analyze the factors for highly decentralized cotton textile industry in Ind
 1. Explanation_PWOnlyIAS:
 Source Question: Analyze the factor for highly decentralized cotton textile industry in India.
 
-| **Approach:** <br> **Introduction** <br>• Start your answer with data or Report. <br> **Body** <br>• Discuss Some of the key factors that have contributed to this decentralized nature of the industry are discussed below. <br> **Conclusion** <br>• Summary of the answer with futuristic approach. |
+| **Approach:** <br> **Introduction** <br>• Start your answer with data or Report. <br> <br> **Body** <br>• Discuss Some of the key factors that have contributed to this decentralized nature of the industry are discussed below. <br> <br> **Conclusion** <br>• Summary of the answer with futuristic approach. |
 | --- |
 
 ### Introduction
@@ -5409,7 +5409,7 @@ Q31. Do you agree that there is a growing trend of opening new sugar mills in th
 1. Explanation_PWOnlyIAS:
 Source Question: Growing feeling of regionalism is an important factor in the generation of demand for a separate State. Discuss.
 
-| **Approach:** <br> **Introduction** <br>• Define regionalism. Mention some of the factors that lead to the rise of regionalism and then say that it is one of the key factors for the demand for separate states. <br> **Body** <br>• Mention the reasons why regionalism develops and how a separate state is seen to be a way to address many of these concerns. <br> **Conclusion** <br>• Conclude stating that regionalism as a feeling in India is inevitable given its vast diversity, but demands for a separate state can be reduced by addressing policy issues of the region. |
+| **Approach:** <br> **Introduction** <br>• Define regionalism. Mention some of the factors that lead to the rise of regionalism and then say that it is one of the key factors for the demand for separate states. <br> <br> **Body** <br>• Mention the reasons why regionalism develops and how a separate state is seen to be a way to address many of these concerns. <br> <br> **Conclusion** <br>• Conclude stating that regionalism as a feeling in India is inevitable given its vast diversity, but demands for a separate state can be reduced by addressing policy issues of the region. |
 | --- |
 
 ### Introduction
@@ -5644,7 +5644,7 @@ They reduce distance between the places and facilitate greater trade. E.g., the 
 1. Explanation_PWOnlyIAS:
 Source Question: Mention the significance of straits and isthmus in international trade.
 
-| **Approach:** <br> **Introduction** <br>• Start your answer with strait and isthmus. <br> **Body** <br>• Mention the significant roles of strait and isthmus in international trade: <br> **Conclusion** <br>• Conclude your answer with the importance of Straits and isthmuses. |
+| **Approach:** <br> **Introduction** <br>• Start your answer with strait and isthmus. <br> <br> **Body** <br>• Mention the significant roles of strait and isthmus in international trade: <br> <br> **Conclusion** <br>• Conclude your answer with the importance of Straits and isthmuses. |
 | --- |
 
 ### Introduction
@@ -5847,7 +5847,7 @@ To provide a better standard of living to the mountain communities and to meet t
 1. Explanation_PWOnlyIAS:
 Source Question: How can the mountain ecosystem be restored from the negative impact of development initiatives and tourism?
 
-| **Approach:** <br> **Introduction** <br>• Start your answer with a brief about the mountain ecosystem. <br> **Body** <br>• Discuss the major threats to mountainous ecosystems and its solution. <br> **Conclusion** <br>• Conclude your answer with a futuristic approach and public awareness. |
+| **Approach:** <br> **Introduction** <br>• Start your answer with a brief about the mountain ecosystem. <br> <br> **Body** <br>• Discuss the major threats to mountainous ecosystems and its solution. <br> <br> **Conclusion** <br>• Conclude your answer with a futuristic approach and public awareness. |
 | --- |
 
 ### Introduction
@@ -6108,7 +6108,7 @@ Further, it will help meet local user requirements of the positioning, navigatio
 1. Explanation_PWOnlyIAS:
 Source Question: Why is the Indian Regional Navigational Satellite System [IRNSS] needed? How does it help in navigation?
 
-| **Approach:** <br> **Introduction** <br>• Briefly explain about IRNSS. **Body** <br>• Significant and helpful in navigation by IRNSS. <br> **Conclusion** <br>• Conclude your answer with the importance of IRNSS. |
+| **Approach:** <br> **Introduction** <br>• Briefly explain about IRNSS. <br> **Body** <br>• Significant and helpful in navigation by IRNSS. <br> <br> **Conclusion** <br>• Conclude your answer with the importance of IRNSS. |
 | --- |
 
 ### Introduction
@@ -6220,7 +6220,7 @@ India should cash on its huge inland river network by addressing the above probl
 1. Explanation_PWOnlyIAS:
 Source Question: Enumerate the problem and prospects of inland water transport in India. [200 Words, 12.5 Marks]
 
-| **Approach:** <br> **Introduction** <br>• Brief about Inland water transport. <br> **Body** <br>• Discuss about the problems and prospects of inland water transport in India. <br> **Conclusion** <br>• Conclude your answer with a futuristic approach. |
+| **Approach:** <br> **Introduction** <br>• Brief about Inland water transport. <br> <br> **Body** <br>• Discuss about the problems and prospects of inland water transport in India. <br> <br> **Conclusion** <br>• Conclude your answer with a futuristic approach. |
 | --- |
 
 ### Introduction
@@ -6318,7 +6318,7 @@ Q36. The states of Jammu and Kashmir, Himachal Pradesh and Uttarakhand reaching 
 1. Explanation_PWOnlyIAS:
 Source Question: The state of Jammu and Kashmir, Himachal Pradesh and Uttarakhand are reaching the limits of ecological carrying capacity due to tourism. Critically Evaluate. [200 Words, 12.5 Marks]
 
-| **Approach:** <br> **Introduction** <br>• Write data or importance of tourism. <br> **Body** <br>• Discuss the Challenges of ecological carrying capacity due to tourism. <br> **Conclusion** <br>• Summary of the answer with futuristic approach. |
+| **Approach:** <br> **Introduction** <br>• Write data or importance of tourism. <br> <br> **Body** <br>• Discuss the Challenges of ecological carrying capacity due to tourism. <br> <br> **Conclusion** <br>• Summary of the answer with futuristic approach. |
 | --- |
 
 ### Introduction
@@ -6512,7 +6512,7 @@ Strengthening coastal resilience and climate mitigation is essential to safeguar
 1. Explanation_Drishti IAS:
 Source Question: How are climate change and the sea level rise affecting the very existence of many island nations ? Discuss with examples. (Answer in 150 words)
 
-| **Approach** <br>• **Introduction** Provide an overview of how climate change and sea level rise are impacting island nations globally. <br>• **Body:** Discuss the specific consequences faced by island nations due to rising sea levels, including examples and the social, economic, and environmental impacts. <br>• **Conclusion** Conclude with the urgency of international cooperation and climate action to address the existential threat posed to island nations. |
+| **Approach** <br>• **Introduction** Provide an overview of how climate change and sea level rise are impacting island nations globally. <br> <br> • **Body:** Discuss the specific consequences faced by island nations due to rising sea levels, including examples and the social, economic, and environmental impacts. <br> <br> • **Conclusion** Conclude with the urgency of international cooperation and climate action to address the existential threat posed to island nations. |
 | --- |
 
 ### Introduction
@@ -6733,7 +6733,7 @@ To boost food security in tropical countries, we require adaptation and mitigati
 1. Explanation_PWOnlyIAS:
 Source Question: Discuss the consequences of climate change on the food security in tropical countries.
 
-| **Approach:** <br> **Introduction** <br>• Start briefly with climate change. **Body** <br>• Negative Consequences of Climate Change on the Food security in tropical countries <br>• Positive Consequences of Climate Change on the Food security in tropical countries <br> **Conclusion** <br>• Give appropriate conclusion in this regard |
+| **Approach:** <br> **Introduction** <br>• Start briefly with climate change. <br> **Body** <br>• Negative Consequences of Climate Change on the Food security in tropical countries <br>• Positive Consequences of Climate Change on the Food security in tropical countries <br> <br> **Conclusion** <br>• Give appropriate <br> conclusion in this regard |
 | --- |
 
 ### Introduction
@@ -6963,7 +6963,7 @@ As can be seen from the above arguments, desertification and its impacts are not
 1. Explanation_PWOnlyIAS:
 Source Question: The process of desertification does not have climate boundaries. Justify with examples.
 
-| **Approach:** <br> **Introduction** <br>• Define briefly desertification. **Body:** <br>• Discuss restricted by climate boundaries and some reason. <br> **Conclusion** <br>• Conclude your answer with a futuristic approach. |
+| **Approach:** <br> **Introduction** <br>• Define briefly desertification. <br> **Body:** <br>• Discuss restricted by climate boundaries and some reason. <br> <br> **Conclusion** <br>• Conclude your answer with a futuristic approach. |
 | --- |
 
 ### Introduction
@@ -7158,7 +7158,7 @@ Many glaciers around the world have been rapidly melting. Human activities are a
 1. Explanation_PWOnlyIAS:
 Source Question: What is Crypto currency? How does it affect global society? Has it been affecting Indian society also?
 
-| **Approach:** <br> **Introduction** <br>• Define cryptocurrency and mention some of its key features. <br> **Body** <br>• Mention the impact of cryptocurrency on global society. Mention the impact on Indian society specifically. <br> **Conclusion** <br>• Mention that every technology has its pros and cons, but the positive side must be developed further so that the cons become less and less relevant. |
+| **Approach:** <br> **Introduction** <br>• Define cryptocurrency and mention some of its key features. <br> <br> **Body** <br>• Mention the impact of cryptocurrency on global society. Mention the impact on Indian society specifically. <br> <br> **Conclusion** <br>• Mention that every technology has its pros and cons, but the positive side must be developed further so that the cons become less and less relevant. |
 | --- |
 
 ### Introduction
@@ -7366,7 +7366,7 @@ Melting of glaciers willsolve the scarcity of waterin India forshort-term. For o
 1. Explanation_PWOnlyIAS:
 Source Question: How will the melting of Himalayas glaciers have a far-reaching impact on the water resources of India?
 
-| **Approach:** <br> **Introduction** <br>• Start your Answer with a brief about the Himalayas. <br> **Body** <br>• Discuss the melting of Himalayan glaciers could impact the water resources. <br> **Conclusion** <br>• Conclude your Answer with the importance of the Himalayas. |
+| **Approach:** <br> **Introduction** <br>• Start your Answer with a brief about the Himalayas. <br> <br> **Body** <br>• Discuss the melting of Himalayan glaciers could impact the water resources. <br> <br> **Conclusion** <br>• Conclude your Answer with the importance of the Himalayas. |
 | --- |
 
 ### Introduction
@@ -7561,7 +7561,7 @@ The cryosphere is highly vulnerable to global warming. Therefore, any change in 
 1. Explanation_PWOnlyIAS:
 Source Question: How does the cryosphere affect global climate?
 
-| **Approach:** <br> **Introduction** <br>• Brief definition of the term Cryosphere. <br> **Body** <br>• Describe the term further and mention lined to the global climate <br> **Conclusion** <br>• Conclude your answer with the significance of the Cryosphere. |
+| **Approach:** <br> **Introduction** <br>• Brief definition of the term Cryosphere. <br> <br> **Body** <br>• Describe the term further and mention lined to the global climate <br> <br> **Conclusion** <br>• Conclude your answer with the significance of the Cryosphere. |
 | --- |
 
 ### Introduction
@@ -7677,7 +7677,7 @@ Q43. Bring out the relationship between the shrinking Himalayan glaciers and the
 1. Explanation_PWOnlyIAS:
 Source Question: Why are the world’s fold mountain systems located along the margins of continents? Bring out the association between the global distribution of fold mountains and the earthquakes and volcanoes.
 
-| **Approach:** <br> **Introduction** <br>• Brief about fold mountains. **Body** <br>• Discuss factors association between fold mountains, earthquakes and volcanoes <br> **Conclusion** <br>• Conclude your answer with a summary of the answer. |
+| **Approach:** <br> **Introduction** <br>• Brief about fold mountains. <br> **Body** <br>• Discuss factors association between fold mountains, earthquakes and volcanoes <br> <br> **Conclusion** <br>• Conclude your answer with a summary of the answer. |
 | --- |
 
 ### Introduction
@@ -7856,7 +7856,7 @@ India's diverse natural vegetation results from geography, climate, altitude, so
 1. Explanation_PWOnlyIAS:
 Source Question: Identify and discuss the factors responsible for diversity of natural vegetation in India. Assess the significance of wildlife sanctuaries in rain forest regions of India.
 
-| **Approach:** <br> **Introduction** <br>• Write about the diversity of natural vegetation of India briefly <br> **Body** <br>• Factors Responsible for Diversity of Natural Vegetation in India <br>• Significance of Wildlife Sanctuaries in Rain Forest Regions of India <br> **Conclusion** <br>• Give appropriate conclusion in this regard |
+| **Approach:** <br> **Introduction** <br>• Write about the diversity of natural vegetation of India briefly <br> <br> **Body** <br>• Factors Responsible for Diversity of Natural Vegetation in India <br>• Significance of Wildlife Sanctuaries in Rain Forest Regions of India <br> <br> **Conclusion** <br>• Give appropriate <br> conclusion in this regard |
 | --- |
 
 ### Introduction
@@ -8093,7 +8093,7 @@ According to the ‘India State of Forest Report 2019’ the total forest and tr
 1. Explanation_PWOnlyIAS:
 Source Question: Examine the Status of forest resources of India and its resultant impact on climate change.
 
-| **Approach:** <br> **Introduction** <br>• Write the findings of the Forest Survey report. <br> **Body** <br>• Status of forest resources in India. <br>• Significant impact on climate change. <br>• Vulnerable to the effects of climate change. <br> **Conclusion** <br>• Conclude your Answer with the importance of Forest. |
+| **Approach:** <br> **Introduction** <br>• Write the findings of the Forest Survey report. <br> <br> **Body** <br>• Status of forest resources in India. <br>• Significant impact on climate change. <br>• Vulnerable to the effects of climate change. <br> <br> **Conclusion** <br>• Conclude your Answer with the importance of Forest. |
 | --- |
 
 ### Introduction
@@ -8368,7 +8368,7 @@ However, over the last three years, coral reefs ecosystem around the world have 
 1. Explanation_PWOnlyIAS:
 Source Question: Assess the impact of global warming on the coral life system with examples.
 
-| **Approach:** <br> **Introduction** <br>• Start your answer with the importance of coral reefs. <br> **Body** <br>• Discuss impact of global warming on the coral life system. <br> **Conclusion** <br>• Conclude your answer with a futuristic approach. |
+| **Approach:** <br> **Introduction** <br>• Start your answer with the importance of coral reefs. <br> <br> **Body** <br>• Discuss impact of global warming on the coral life system. <br> <br> **Conclusion** <br>• Conclude your answer with a futuristic approach. |
 | --- |
 
 ### Introduction
@@ -8584,7 +8584,7 @@ Given their importance, strict enforcement of the coastal regulation measures, s
 1. Explanation_PWOnlyIAS:
 Source Question: Discuss the causes of depletion of mangroves and explain their importance in maintaining coastal ecology.
 
-| **Approach:** <br> **Introduction** <br>• Start your answer with the importance of mangroves with Data. <br> **Body** <br>• Discuss the reason for decline in mangroves and its Significance. <br> **Conclusion** <br>• Conclude your answer with a futuristic approach. |
+| **Approach:** <br> **Introduction** <br>• Start your answer with the importance of mangroves with Data. <br> <br> **Body** <br>• Discuss the reason for decline in mangroves and its Significance. <br> <br> **Conclusion** <br>• Conclude your answer with a futuristic approach. |
 | --- |
 
 ### Introduction
@@ -8735,7 +8735,7 @@ To summarize, we can expect to learn a wealth of information about Jupiter’s i
 1. Explanation_PWOnlyIAS:
 Source Question: How does the Juno Mission of NASA help to understand the origin and evolution of earth?
 
-| **Approach:** <br> **Introduction** <br>• Start your answer with Juno Mission. <br> **Body** <br>• Discuss the Juno Mission contributed to our understanding of Earth. <br> **Conclusion** <br>• Conclude your answer with the importance of Juno Mission. |
+| **Approach:** <br> **Introduction** <br>• Start your answer with Juno Mission. <br> <br> **Body** <br>• Discuss the Juno Mission contributed to our understanding of Earth. <br> <br> **Conclusion** <br>• Conclude your answer with the importance of Juno Mission. |
 | --- |
 
 ### Introduction
@@ -8861,7 +8861,7 @@ While geopolitics indicates geographical relations with politics, it also has st
 1. Explanation_PWOnlyIAS:
 Source Question: The South China Sea has assumed great geopolitical significance in the present context. Comment. [200 Words, 12.5 Marks]
 
-| **Approach:** <br> **Introduction** <br>• Write in brief about the south China sea. <br> **Body** <br>• Significant or Significance of south China sea. <br> **Conclusion** <br>• Conclude your answer with the importance of the south China sea. |
+| **Approach:** <br> **Introduction** <br>• Write in brief about the south China sea. <br> <br> **Body** <br>• Significant or Significance of south China sea. <br> <br> **Conclusion** <br>• Conclude your answer with the importance of the south China sea. |
 | --- |
 
 ### Introduction
@@ -8940,7 +8940,7 @@ Q50. Mumbai, Delhi and Kolkata are the three mega cities of the country but the 
 1. Explanation_PWOnlyIAS:
 Source Question: Mumbai, Delhi and Kolkata are the three megacities of the country but the air pollution is a much more serious problem in Delhi as compared to the other two. Why is this so?[200 Words, 12.5 Marks]
 
-| **Approach:** <br> **Introduction** <br>• Define air pollution and impact on Cities. <br> **Body** <br>• Discuss the factors responsible for air pollution. <br> **Conclusion** <br>• Conclude your answer with a summary of the answer with a futuristic approach. |
+| **Approach:** <br> **Introduction** <br>• Define air pollution and impact on Cities. <br> <br> **Body** <br>• Discuss the factors responsible for air pollution. <br> <br> **Conclusion** <br>• Conclude your answer with a summary of the answer with a futuristic approach. |
 | --- |
 
 ### Introduction
@@ -9368,7 +9368,7 @@ Freshwater is essential for survival, health, and development. However, the worl
 1. Explanation_PWOnlyIAS:
 Source Question: Why is the world today confronted with a crisis of availability of and access to freshwater resources?
 
-| **Approach:** <br> **Introduction** <br>• Start briefly with fresh water and its resources. <br> **Body** <br>• Mention reasons behind the Crisis of Availability of Freshwater Resources <br>• Mention reasons behind the Crisis of Access to Freshwater Resources <br> **Conclusion** <br>• Give appropriate conclusion in this regard |
+| **Approach:** <br> **Introduction** <br>• Start briefly with fresh water and its resources. <br> <br> **Body** <br>• Mention reasons behind the Crisis of Availability of Freshwater Resources <br>• Mention reasons behind the Crisis of Access to Freshwater Resources <br> <br> **Conclusion** <br>• Give appropriate <br> conclusion in this regard |
 | --- |
 
 ### Introduction
@@ -9615,7 +9615,7 @@ The necessity and feasibility of river-interlinking should be seen on case to ca
 1. Explanation_PWOnlyIAS:
 Source Question: The interlinking of rivers can provide viable solutions to the multi-dimensional inter-related problems of droughts, floods and interrupted navigation. Critically examine.
 
-| **Approach:** <br> **Introduction** <br>• Discuss the motive of interlinking of rivers. <br> **Body** <br>• Discuss pros and cons of interlinking rivers. <br> **Conclusion** <br>• Conclude your answer with a futuristic approach. |
+| **Approach:** <br> **Introduction** <br>• Discuss the motive of interlinking of rivers. <br> <br> **Body** <br>• Discuss pros and cons of interlinking rivers. <br> <br> **Conclusion** <br>• Conclude your answer with a futuristic approach. |
 | --- |
 
 ### Introduction
@@ -9825,7 +9825,7 @@ This indicates that India is going through **water emergency**. However, there i
 1. Explanation_PWOnlyIAS:
 Source Question: How do ocean currents and water masses differ in their impact on marine life and coastal environment? Give suitable examples.
 
-| **Approach:** <br> **Introduction** <br>• Write your answer with a brief about the marine ecosystem. <br> **Body** <br>• Significance of Ocean currents in marine ecosystem and its impacts on coastal environment. <br> **Conclusion** <br>• Conclude your answer with the importance of marine ecosystems. |
+| **Approach:** <br> **Introduction** <br>• Write your answer with a brief about the marine ecosystem. <br> <br> **Body** <br>• Significance of Ocean currents in marine ecosystem and its impacts on coastal environment. <br> <br> **Conclusion** <br>• Conclude your answer with the importance of marine ecosystems. |
 | --- |
 
 ### Introduction
@@ -10041,7 +10041,7 @@ Most metro cities in India are water starved but not rain starved. We should not
 1. Explanation_PWOnlyIAS:
 Source Question: “The ideal solution to depleting ground water resources in India is a water harvesting system. “How can it be made effective in urban areas?
 
-| **Approach:** <br> **Introduction** <br>• Brief about status of water resources in India. <br> **Body** <br>• Discuss water harvesting system and its significance with Example. <br> **Conclusion** <br>• Conclude your answer with a futuristic approach. |
+| **Approach:** <br> **Introduction** <br>• Brief about status of water resources in India. <br> <br> **Body** <br>• Discuss water harvesting system and its significance with Example. <br> <br> **Conclusion** <br>• Conclude your answer with a futuristic approach. |
 | --- |
 
 ### Introduction
@@ -10133,7 +10133,7 @@ The methods stated above, can go a long way in solving various water woes of Ind
 1. Explanation_PWOnlyIAS:
 Source Question: In what way can floods be converted into a sustainable source of irrigation and all – weather inland navigation in India?
 
-| **Approach:** <br> **Introduction** <br>• Write briefly about floods. **Body** <br>• Discuss how it can be converted into a sustainable source of irrigation and all-weather inland navigation in India. <br> **Conclusion** <br>• Summary of the answer with futuristic approach. |
+| **Approach:** <br> **Introduction** <br>• Write briefly about floods. <br> **Body** <br>• Discuss how it can be converted into a sustainable source of irrigation and all-weather inland navigation in India. <br> <br> **Conclusion** <br>• Summary of the answer with futuristic approach. |
 | --- |
 
 ### Introduction
@@ -10279,7 +10279,7 @@ Send To My Bookmarks
 1. Explanation_PWOnlyIAS:
 Source Question: In what way micro- watershed development projects help in water conservation in drought – prone and semi- arid regions of India?[200 Words, 12.5 Marks]
 
-| **Approach:** <br> **Introduction** <br>• Start your answer with Importance of Micro-watershed development Project. <br> **Body** <br>• Discuss the Micro-watershed development Project role in water conservation in drought prone and semi-arid regions. <br> **Conclusion** <br>• Conclude your answer with a futuristic approach. |
+| **Approach:** <br> **Introduction** <br>• Start your answer with Importance of Micro-watershed development Project. <br> <br> **Body** <br>• Discuss the Micro-watershed development Project role in water conservation in drought prone and semi-arid regions. <br> <br> **Conclusion** <br>• Conclude your answer with a futuristic approach. |
 | --- |
 
 ### Introduction
@@ -10400,7 +10400,7 @@ Hence, before taking a decision on such an important international treaty with h
 1. Explanation_PWOnlyIAS:
 Source Question: Present an account of the Indus Water Treaty and examine its ecological, economic and bilateral relation. [200 Words, 12.5 Marks]
 
-| **Approach:** <br> **Introduction** <br>• Brief about Indus Water Treaty. **Body** <br>• Discuss about the Ecological, Economic Implications and Bilateral Relations of Indus Water Treaty. <br> **Conclusion** <br>• Conclude your answer with the significant role of the Indus Water Treaty. |
+| **Approach:** <br> **Introduction** <br>• Brief about Indus Water Treaty. <br> **Body** <br>• Discuss about the Ecological, Economic Implications and Bilateral Relations of Indus Water Treaty. <br> <br> **Conclusion** <br>• Conclude your answer with the significant role of the Indus Water Treaty. |
 | --- |
 
 ### Introduction
@@ -10533,7 +10533,7 @@ The twin problems of recurrent drought in Maharashtra- Telangana region resultin
 1. Explanation_PWOnlyIAS:
 Source Question: To what extent globalization has influenced the core of cultural diversity in India? Explain.
 
-| **Approach:** <br> **Introduction** <br>• Define globalization. Elaborate on cultural diversity in India. <br> **Body** <br>• Mention how globalization has affected the core aspects of Indian cultural diversity by its homogenizing tendency. <br>• Then mention how globalization has also led to more awareness about our cultural diversity. <br> **Conclusion** <br>• Mention that globalization has both positive and negative effects on our cultural diversity and it is up to us to boost our culture by using globalization as an aiding tool rather than being subdued by it. |
+| **Approach:** <br> **Introduction** <br>• Define globalization. Elaborate on cultural diversity in India. <br> <br> **Body** <br>• Mention how globalization has affected the core aspects of Indian cultural diversity by its homogenizing tendency. <br>• Then mention how globalization has also led to more awareness about our cultural diversity. <br> <br> **Conclusion** <br>• Mention that globalization has both positive and negative effects on our cultural diversity and it is up to us to boost our culture by using globalization as an aiding tool rather than being subdued by it. |
 | --- |
 
 ### Introduction
@@ -10629,7 +10629,7 @@ Q60. India is well endowed with fresh water resources. Critically examine why it
 1. Explanation_PWOnlyIAS:
 Source Question: India is well endowed with fresh water resources. Critically examine why it still suffers from water scarcity. [200 Words, 12.5 Marks]
 
-| **Approach:** <br> **Introduction** <br>• Start your answer with Data or Report. <br> **Body** <br>• Discuss the reasons for water scarcity in India. <br> **Conclusion** <br>• Summary of the answer with futuristic approach. |
+| **Approach:** <br> **Introduction** <br>• Start your answer with Data or Report. <br> <br> **Body** <br>• Discuss the reasons for water scarcity in India. <br> <br> **Conclusion** <br>• Summary of the answer with futuristic approach. |
 | --- |
 
 ### Introduction
@@ -10867,7 +10867,7 @@ Temperatures and weather patterns are shifting due to climate change, causing ab
 1. Explanation_PWOnlyIAS:
 Source Question: How is the growth of Tier 2 cities related to the rise of a new middle class with an emphasis on the culture of consumption?
 
-| **Approach:** <br> **Introduction** <br>• Define Tier-2 cities with some examples. <br> **Body** <br>• Link the tier-2 cities and the culture of consumption by linking it with factors that aid consumption and demand among the middle class. <br>• Discuss how it has led to the rise of a new middle class. <br> **Conclusion** <br>• Conclude using broad points which focus on the areas where the middle class spends and how it boosts the growth of Tier-2 cities. |
+| **Approach:** <br> **Introduction** <br>• Define Tier-2 cities with some examples. <br> <br> **Body** <br>• Link the tier-2 cities and the culture of consumption by linking it with factors that aid consumption and demand among the middle class. <br>• Discuss how it has led to the rise of a new middle class. <br> <br> **Conclusion** <br>• Conclude using broad points which focus on the areas where the middle class spends and how it boosts the growth of Tier-2 cities. |
 | --- |
 
 ### Introduction
@@ -11003,7 +11003,7 @@ There are four categories of air masses: arctic, tropical, polar and equatorial.
 1. Explanation_PWOnlyIAS:
 Source Question: Discuss the role of women in the freedom struggle especially during the Gandhian phase. (200 words, 12.5 marks)
 
-| **Approach:** <br> **Introduction** <br>• Briefly introduce the role of women in the Indian freedom struggle, with a focus on their involvement during the Gandhian phase. <br> **Body** <br>• Discuss the various aspects of women’s participation. Substantiate your views with examples. <br> **Conclusion** <br>• Write a relevant conclusion. |
+| **Approach:** <br> **Introduction** <br>• Briefly introduce the role of women in the Indian freedom struggle, with a focus on their involvement during the Gandhian phase. <br> <br> **Body** <br>• Discuss the various aspects of women’s participation. Substantiate your views with examples. <br> <br> **Conclusion** <br>• Write a relevant <br> conclusion. |
 | --- |
 
 ### Introduction
@@ -11140,7 +11140,7 @@ Q63. Most of the unusual climatic happenings are explained as an outcome of the 
 1. Explanation_PWOnlyIAS:
 Source Question: Why do some of the most prosperous regions of India have an adverse sex ratio for women? Give your arguments.
 
-| **Approach:** <br> **Introduction** <br>• Define sex ratio and give data about sex ratios in prosperous regions of India compared to other regions. <br> **Body** <br>• Mention the reasons for the reduction in sex ratio despite increased prosperity and education. <br> **Conclusion** <br>• Conclude saying that awareness for changing societal mindset is absolutely necessary to counter this trend. |
+| **Approach:** <br> **Introduction** <br>• Define sex ratio and give data about sex ratios in prosperous regions of India compared to other regions. <br> <br> **Body** <br>• Mention the reasons for the reduction in sex ratio despite increased prosperity and education. <br> <br> **Conclusion** <br>• Conclude saying that awareness for changing societal mindset is absolutely necessary to counter this trend. |
 | --- |
 
 ### Introduction
@@ -11206,7 +11206,7 @@ Q64. What do you understand by the phenomenon of temperature inversion in meteor
 1. Explanation_PWOnlyIAS:
 Source Question: What do you understand about the phenomenon of temperature inversion in meteorology? How does it affect the weather and habitants of the place?
 
-| **Approach:** <br> **Introduction** <br>• Define the temperature inversion. **Body** <br>• Temperature inversion can have several significant effects on weather and the environment. <br> **Conclusion** <br>• Conclude your answer with serious impacts on the environment. |
+| **Approach:** <br> **Introduction** <br>• Define the temperature inversion. <br> **Body** <br>• Temperature inversion can have several significant effects on weather and the environment. <br> <br> **Conclusion** <br>• Conclude your answer with serious impacts on the environment. |
 | --- |
 
 ### Introduction
@@ -11322,7 +11322,7 @@ Q65. Major hot deserts in northern hemisphere are located between 20-30 degree n
 1. Explanation_PWOnlyIAS:
 Source Question: Major hot deserts in the northern hemisphere are located between 20-30 degrees north and on the western side of the continents. Why?
 
-| **Approach:** <br> **Introduction** <br>• Brief about location of hot desert. <br> **Body** <br>• Discuss about the various factors of geographical location. <br> **Conclusion** <br>• Conclude your answer with the formation of a hot desert. |
+| **Approach:** <br> **Introduction** <br>• Brief about location of hot desert. <br> <br> **Body** <br>• Discuss about the various factors of geographical location. <br> <br> **Conclusion** <br>• Conclude your answer with the formation of a hot desert. |
 | --- |
 
 ### Introduction
@@ -11656,7 +11656,7 @@ Therefore, fjords are remarkable examples of how nature and culture can create s
 1. Explanation_PWOnlyIAS:
 Source Question: How are the Fjords formed? Why do they constitute some of the most picturesque areas of the world?
 
-| **Approach:** <br> **Introduction** <br>• Start with basic introduction of Fjord. <br> **Body** <br>• Mention Formation of Fjords <br>• Mention reasons why Fjords constitute some of the Most Picturesque Areas in the World <br> **Conclusion** <br>• Give appropriate conclusion in this regard |
+| **Approach:** <br> **Introduction** <br>• Start with basic introduction of Fjord. <br> <br> **Body** <br>• Mention Formation of Fjords <br>• Mention reasons why Fjords constitute some of the Most Picturesque Areas in the World <br> <br> **Conclusion** <br>• Give appropriate <br> conclusion in this regard |
 | --- |
 
 ### Introduction
@@ -11821,33 +11821,33 @@ Source Question: Describe the characteristics and types of primary rocks. [Year:
 
 **Based on Mode of Occurrence**
 
-**1. Intrusive (Plutonic) Rocks**
+1. **Intrusive (Plutonic) Rocks**
 
-  - Formed by **slow cooling of magma below the Earth’s surface.**
+    - Formed by **slow cooling of magma below the Earth’s surface.**
 
-  - **Coarse-grained** due to large crystal formation.
+    - **Coarse-grained** due to large crystal formation.
 
-  - Eg- **Diorite, Gabbro.**
+    - Eg- **Diorite, Gabbro.**
 
-**2. Extrusive (Volcanic) Rocks**
+2. **Extrusive (Volcanic) Rocks**
 
-  - Formed by **rapid cooling of lava on the Earth’s surface.**
+    - Formed by **rapid cooling of lava on the Earth’s surface.**
 
-  - **Fine-grained or glassy texture.**
+    - **Fine-grained or glassy texture.**
 
-  - Eg- **Basalt, Obsidian, Pumice.**
+    - Eg- **Basalt, Obsidian, Pumice.**
 
 **Based on Silica Content**
 
-**1. Acidic Igneous Rocks -** High silica content (>65%), light coloured and less dense. Eg- Granite.
+1. **Acidic Igneous Rocks -** High silica content (>65%), light coloured and less dense. Eg- Granite.
 
-**2. Basic Igneous Rocks -** Low silica (45-55%), rich in iron and magnesium. Dark coloured and denser.
+2. **Basic Igneous Rocks -** Low silica (45-55%), rich in iron and magnesium. Dark coloured and denser.
 
 Eg- Basalt, Gabbro.
 
-**3. Intermediate Rocks -** Moderate silica content. Eg- Diorite, Andesite.
+3. **Intermediate Rocks -** Moderate silica content. Eg- Diorite, Andesite.
 
-**4. Ultrabasic Rocks -** Very low silica(<45%), very high iron and magnesium. Eg- Peridotite.
+4. **Ultrabasic Rocks -** Very low silica(<45%), very high iron and magnesium. Eg- Peridotite.
 
 Primary or igneous rocks are the **foundation of the rock cycle,** making them crucial for understanding the
 
@@ -11867,7 +11867,7 @@ Depending upon where the molten rock solidifies, they can be divided into two ty
 1. Explanation_PWOnlyIAS:
 Source Question: Describe the characteristics and types of primary rocks.
 
-| **Approach:** <br> **Introduction** <br>• Briefly define the Primary Rock. **Body:** <br>• Mention characteristics and types of Primary Rocks. <br> **Conclusion** <br>• Conclude your answer with the importance of Primary Rock. |
+| **Approach:** <br> **Introduction** <br>• Briefly define the Primary Rock. <br> **Body:** <br>• Mention characteristics and types of Primary Rocks. <br> <br> **Conclusion** <br>• Conclude your answer with the importance of Primary Rock. |
 | --- |
 
 ### Introduction
@@ -12174,7 +12174,7 @@ The mountain ranges of the world provide essential ecosystem-based services to g
 1. Explanation_PWOnlyIAS:
 Source Question: Briefly mention the alignment of major mountain ranges of the world and explain their impact on local weather conditions , with examples.
 
-| **Approach:** <br> **Introduction** <br>• Briefly define the mountain ranges and its Characteristics <br> **Body** <br>• Mention some mountain ranges of the word and its Climate Influence on local weather and climate. <br> **Conclusion** <br>• Conclude your Answer with the importance of the mountain ranges. |
+| **Approach:** <br> **Introduction** <br>• Briefly define the mountain ranges and its Characteristics <br> <br> **Body** <br>• Mention some mountain ranges of the word and its Climate Influence on local weather and climate. <br> <br> **Conclusion** <br>• Conclude your Answer with the importance of the mountain ranges. |
 | --- |
 
 ### Introduction
@@ -12328,7 +12328,7 @@ Moreover, India’s high population and its multiple races, religions, castes, l
 1. Explanation_PWOnlyIAS:
 Source Question: Examine the role of &#8216;Gig Economy&#8217; in the process of empowerment of women in India.
 
-| **Approach:** <br> **Introduction** <br>• Give a basic definition of the gig economy which encompasses the basic traits associated with gig economy. <br> **Body** <br>• As the question asks to examine, list down both the pros and cons of the gig economy in the process of women empowerment. <br> **Conclusion** <br>• Conclude with the idea that the Gig economy does offer several opportunities for women but the lack of security and scope of exploitation must be reduced by taking appropriate measures. |
+| **Approach:** <br> **Introduction** <br>• Give a basic definition of the gig economy which encompasses the basic traits associated with gig economy. <br> <br> **Body** <br>• As the question asks to examine, list down both the pros and cons of the gig economy in the process of women empowerment. <br> <br> **Conclusion** <br>• Conclude with the idea that the Gig economy does offer several opportunities for women but the lack of security and scope of exploitation must be reduced by taking appropriate measures. |
 | --- |
 
 ### Introduction
@@ -12498,7 +12498,7 @@ As the Circum-Pacific Belt harbors the majority of global Volcanic eruptions & E
 1. Explanation_PWOnlyIAS:
 Source Question: Discuss the geophysical characteristic of the Circum- Pacific zone.
 
-| **Approach:** <br> **Introduction** <br>• Write briefly about the Circum- Pacific Zone. <br> **Body** <br>• Mention the salient geophysical characteristics of Circum- Pacific Zone. <br> **Conclusion** <br>• Conclude your answer with a Futuristic Approach. |
+| **Approach:** <br> **Introduction** <br>• Write briefly about the Circum- Pacific Zone. <br> <br> **Body** <br>• Mention the salient geophysical characteristics of Circum- Pacific Zone. <br> <br> **Conclusion** <br>• Conclude your answer with a Futuristic Approach. |
 | --- |
 
 ### Introduction
@@ -12644,23 +12644,23 @@ A **mantle plume** is a narrow, localized column of abnormally hot, buoyant rock
 
 **1.** Plumes provide evidence of vertical convection within mantle.
 
-**2. Intraplate Volcanism (Hotspots) -** Mantle plumes create volcanic activity away from plate boundaries.
+2. **Intraplate Volcanism (Hotspots) -** Mantle plumes create volcanic activity away from plate boundaries.
 
 Eg- Hawaiian Island chain formed over a Pacific plate hotspot.
 
-**3. Formation of Volcanic Island Chains -** As tectonic plates move over stationary plumes, a chain of volcanoes forms. Eg- Hawaiian-Emperor Seamount Chain
+3. **Formation of Volcanic Island Chains -** As tectonic plates move over stationary plumes, a chain of volcanoes forms. Eg- Hawaiian-Emperor Seamount Chain
 
-**4. Continental Flood Basalts -** Plume head eruption can cause massive basalt outpourings. Eg- Deccan Traps in India (~66 million years ago).
+4. **Continental Flood Basalts -** Plume head eruption can cause massive basalt outpourings. Eg- Deccan Traps in India (~66 million years ago).
 
-**5. Plate Breakup and Rifting -** Mantle plumes can weaken lithosphere, initiating continental rifting.
+5. **Plate Breakup and Rifting -** Mantle plumes can weaken lithosphere, initiating continental rifting.
 
-  - East African Rift System.
+    - East African Rift System.
 
-  - Role in breakup of Gondwana
+    - Role in breakup of Gondwana
 
-**6. Thermal Uplift of Lithosphere -** Hot plume material causes crustal doming before volcanic eruption.
+6. **Thermal Uplift of Lithosphere -** Hot plume material causes crustal doming before volcanic eruption.
 
-  - Recent **research** suggests that the intense thermal weakening caused by a plume can cause a tectonic plate to collapse under its own weight, potentially **initiating a new subduction zone.**
+    - Recent **research** suggests that the intense thermal weakening caused by a plume can cause a tectonic plate to collapse under its own weight, potentially **initiating a new subduction zone.**
 
 Plume activity and plate motion together form an integrated framework for understanding Earth's tectonic evolution.
 
@@ -12682,7 +12682,7 @@ Mantle plume is an upwelling of abnormally hot rock within the earth's mantle wh
 1. Explanation_PWOnlyIAS:
 Source Question: Mention core strategies for the transformation of aspirational districts in India and explain the nature of convergence, collaboration and competition for its success.
 
-| **Approach:** <br> **Introduction** <br>• Start your answer with the Aspirational Districts Programme. <br> **Body** <br>• Discuss the strategies for the transformation nature of convergence, collaboration and competition. <br> **Conclusion** <br>• Conclude your answer with Importance of the Arctic region. |
+| **Approach:** <br> **Introduction** <br>• Start your answer with the Aspirational Districts Programme. <br> <br> **Body** <br>• Discuss the strategies for the transformation nature of convergence, collaboration and competition. <br> <br> **Conclusion** <br>• Conclude your answer with Importance of the Arctic region. |
 | --- |
 
 ### Introduction
@@ -12767,7 +12767,7 @@ Q73. Why are the world’s fold mountain systems located along the margins of co
 1. Explanation_PWOnlyIAS:
 Source Question: Why are the world’s fold mountain systems located along the margins of continents? Bring out the association between the global distribution of fold mountains and the earthquakes and volcanoes.
 
-| **Approach:** <br> **Introduction** <br>• Brief about fold mountains. **Body** <br>• Discuss factors association between fold mountains, earthquakes and volcanoes <br> **Conclusion** <br>• Conclude your answer with a summary of the answer. |
+| **Approach:** <br> **Introduction** <br>• Brief about fold mountains. <br> **Body** <br>• Discuss factors association between fold mountains, earthquakes and volcanoes <br> <br> **Conclusion** <br>• Conclude your answer with a summary of the answer. |
 | --- |
 
 ### Introduction
@@ -12849,7 +12849,7 @@ Q74. There is no formation of deltas by rivers of the Western Ghat. Why?
 1. Explanation_PWOnlyIAS:
 Source Question: There is no formation of deltas by rivers of the western Ghat. Why?
 
-| **Approach:** <br> **Introduction** <br>• Brief about formation of Deltas. **Body** <br>• Discuss about the Western Ghats no deltas due to several reasons. <br> **Conclusion** <br>• Conclude your answer with a summary of the answer. |
+| **Approach:** <br> **Introduction** <br>• Brief about formation of Deltas. <br> **Body** <br>• Discuss about the Western Ghats no deltas due to several reasons. <br> <br> **Conclusion** <br>• Conclude your answer with a summary of the answer. |
 | --- |
 
 ### Introduction
@@ -12953,7 +12953,7 @@ Q75. What do you understand by the theory of continental drift? Discuss the prom
 1. Explanation_PWOnlyIAS:
 Source Question: What do you understand about the theory of continental drift? Discuss the prominent evidences in its Support.
 
-| **Approach:** <br> **Introduction** <br>• Explain the continental drift theory. <br> **Body** <br>• List the evidence in support of the theory. <br> **Conclusion** <br>• Summary of the answer. |
+| **Approach:** <br> **Introduction** <br>• Explain the continental drift theory. <br> <br> **Body** <br>• List the evidence in support of the theory. <br> <br> **Conclusion** <br>• Summary of the answer. |
 | --- |
 
 ### Introduction
@@ -13076,7 +13076,7 @@ Q76. Explain the formation of thousands of islands in Indonesian and Philippines
 1. Explanation_PWOnlyIAS:
 Source Question: Explain the formation of thousand of islands in Indonesian and Philippines archipelagos.
 
-| **Approach:** <br> **Introduction** <br>• Explain what archipelago is. **Body:** <br>• Explain the geography and physical processes in the formation of these islands of the region. <br> **Conclusion** <br>• Conclude your answer with a summary of the answer. |
+| **Approach:** <br> **Introduction** <br>• Explain what archipelago is. <br> **Body:** <br>• Explain the geography and physical processes in the formation of these islands of the region. <br> <br> **Conclusion** <br>• Conclude your answer with a summary of the answer. |
 | --- |
 
 ### Introduction
@@ -13214,7 +13214,7 @@ Therefore, **Purvaiya** winds are essential to Bhojpur’s culture, shaping its
 1. Explanation_PWOnlyIAS:
 Source Question: Why is the South-West Monsoon called ‘Purvaiya’ (easterly) in Bhojpur Region? How has this directional seasonal wind system influenced the cultural ethos of the region?
 
-| **Approach:** <br> **Introduction** <br>• Write about South-West Monsoon and its nomenclature around various regions. <br> **Body** <br>• Mention reasons behind calling the South-West Monsoon ‘Purvaiya’ (Easterly) in the Bhojpur Region <br>• Influence of Directional Seasonal Wind System on the Cultural Ethos of the Region <br> **Conclusion** <br>• Give appropriate conclusion in this regard |
+| **Approach:** <br> **Introduction** <br>• Write about South-West Monsoon and its nomenclature around various regions. <br> <br> **Body** <br>• Mention reasons behind calling the South-West Monsoon ‘Purvaiya’ (Easterly) in the Bhojpur Region <br>• Influence of Directional Seasonal Wind System on the Cultural Ethos of the Region <br> <br> **Conclusion** <br>• Give appropriate <br> conclusion in this regard |
 | --- |
 
 ### Introduction
@@ -13350,7 +13350,7 @@ The role of monsoon is vital in the economy of major parts of the world because 
 1. Explanation_PWOnlyIAS:
 Source Question: What characteristic can be assigned to monsoon climate that succeeds in feeding more than 50 % of the world population residing in monsoon Asia?
 
-| **Approach:** <br> **Introduction** <br> • Brief about Monsoon climate. **Body** <br> • Describe the Characteristics of monsoon climate .** <br> **Conclusion** <br> • Conclude your answer with a futuristic approach. |
+| **Approach:** <br> **Introduction** <br> • Brief about Monsoon climate. <br> **Body** <br> • Describe the Characteristics of monsoon climate .** <br> <br> **Conclusion** <br> • Conclude your answer with a futuristic approach. |
 | --- |
 
 ### Introduction
@@ -13484,7 +13484,7 @@ Q79. How far do you agree that the behavior of the Indian monsoon has been chang
 1. Explanation_PWOnlyIAS:
 Source Question: How far do you agree that the behavior of the Indian monsoon has been changing due to humanizing landscape? Discuss.[200 Words, 12.5 Marks]
 
-| **Approach:** <br> **Introduction** <br>• Write the importance of Indian Monsoon. <br> **Body** <br>• Discuss the change behavior of the Indian monsoon. <br> **Conclusion** <br>• Summary of the answer with futuristic approach. |
+| **Approach:** <br> **Introduction** <br>• Write the importance of Indian Monsoon. <br> <br> **Body** <br>• Discuss the change behavior of the Indian monsoon. <br> <br> **Conclusion** <br>• Summary of the answer with futuristic approach. |
 | --- |
 
 ### Introduction
@@ -13695,7 +13695,7 @@ Global warming is disrupting the sinking of cold, salty water as a result of inc
 1. Explanation_PWOnlyIAS:
 Source Question: How do ocean currents and water masses differ in their impact on marine life and coastal environment? Give suitable examples.
 
-| **Approach:** <br> **Introduction** <br>• Write your answer with a brief about the marine ecosystem. <br> **Body** <br>• Significance of Ocean currents in marine ecosystem and its impacts on coastal environment. <br> **Conclusion** <br>• Conclude your answer with the importance of marine ecosystems. |
+| **Approach:** <br> **Introduction** <br>• Write your answer with a brief about the marine ecosystem. <br> <br> **Body** <br>• Significance of Ocean currents in marine ecosystem and its impacts on coastal environment. <br> <br> **Conclusion** <br>• Conclude your answer with the importance of marine ecosystems. |
 | --- |
 
 ### Introduction
@@ -13932,7 +13932,7 @@ It is clear that the spread of dead zones can affect most marine ecosystems and 
 1. Explanation_PWOnlyIAS:
 Source Question: What are the consequences of spreading ‘Dead Zone’ on marine ecosystems?
 
-| **Approach:** <br> **Introduction** <br>• Define the Dead Zone. **Body** <br>• Discuss the Significance of dead zones on marine ecosystems. <br> **Conclusion** <br>• Conclude your answer with a significant threat to the marine ecosystem with a futuristic approach. |
+| **Approach:** <br> **Introduction** <br>• Define the Dead Zone. <br> **Body** <br>• Discuss the Significance of dead zones on marine ecosystems. <br> <br> **Conclusion** <br>• Conclude your answer with a significant threat to the marine ecosystem with a futuristic approach. |
 | --- |
 
 ### Introduction
@@ -14034,7 +14034,7 @@ Salinity refers to the amount of salt dissolved in 1000 gms of sea water. It is 
 1. Explanation_PWOnlyIAS:
 Source Question: Account for variations in oceanic salinity and discuss its multidimensional effect.
 
-| **Approach:** <br> **Introduction** <br>• Brief definition of the Oceanic salinity. <br> **Body** <br>• Describe the Reasons for oceanic salinity and its multi-dimensional effects and variation. <br> **Conclusion** <br>• Conclude your answer with significance of Oceanic salinity. |
+| **Approach:** <br> **Introduction** <br>• Brief definition of the Oceanic salinity. <br> <br> **Body** <br>• Describe the Reasons for oceanic salinity and its multi-dimensional effects and variation. <br> <br> **Conclusion** <br>• Conclude your answer with significance of Oceanic salinity. |
 | --- |
 
 ### Introduction
@@ -14143,7 +14143,7 @@ Q83. Explain the factors responsible for the origin of ocean currents. How do th
 1. Explanation_PWOnlyIAS:
 Source Question: How far do you agree that the behavior of the Indian monsoon has been changing due to humanizing landscape? Discuss.[200 Words, 12.5 Marks]
 
-| **Approach:** <br> **Introduction** <br>• Write the importance of Indian Monsoon. <br> **Body** <br>• Discuss the change behavior of the Indian monsoon. <br> **Conclusion** <br>• Summary of the answer with futuristic approach. |
+| **Approach:** <br> **Introduction** <br>• Write the importance of Indian Monsoon. <br> <br> **Body** <br>• Discuss the change behavior of the Indian monsoon. <br> <br> **Conclusion** <br>• Summary of the answer with futuristic approach. |
 | --- |
 
 ### Introduction
@@ -14257,7 +14257,7 @@ Q84. Critically evaluate the various resources of the oceans which can be harnes
 1. Explanation_PWOnlyIAS:
 Source Question: What were the major political, economic and social developments in the world which motivated the anti-colonial struggle in India?
 
-| **Approach:** <br> **Introduction** <br>• Briefly introduce the anti-colonial struggle in India and its significance in the context of global political, economic, and social developments. <br> **Body:** <br>• Talk about the major political, economic and social developments in the world which motivated the anti-colonial struggle in India. <br> **Conclusion** <br>• Write a relevant conclusion. |
+| **Approach:** <br> **Introduction** <br>• Briefly introduce the anti-colonial struggle in India and its significance in the context of global political, economic, and social developments. <br> <br> **Body:** <br>• Talk about the major political, economic and social developments in the world which motivated the anti-colonial struggle in India. <br> <br> **Conclusion** <br>• Write a relevant <br> conclusion. |
 | --- |
 
 ### Introduction
@@ -14461,7 +14461,7 @@ Although ocean current is the main player in creating fishing zones, the use of 
 1. Explanation_PWOnlyIAS:
 Source Question: What are the forces that influence ocean currents? Describe their role in the fishing industry of the world.
 
-| **Approach:** <br> **Introduction** <br>• Write about Ocean Current in brief. <br> **Body** <br>• Mention the forces that influence ocean currents. <br>• Write about the impact of Ocean Current on the Fishing Industry. <br> **Conclusion** <br>• Conclude your answer with the importance of ocean current with a futuristic Approach. |
+| **Approach:** <br> **Introduction** <br>• Write about Ocean Current in brief. <br> <br> **Body** <br>• Mention the forces that influence ocean currents. <br>• Write about the impact of Ocean Current on the Fishing Industry. <br> <br> **Conclusion** <br>• Conclude your answer with the importance of ocean current with a futuristic Approach. |
 | --- |
 
 ### Introduction
@@ -14797,15 +14797,15 @@ IMD defines cloudburst as an extreme weather event involving **very high-intensi
 
 2. **Himachal Pradesh Cloudbursts in 2025 -** Losses at about Rs 4,300 crore and nearly 380 deaths
 
-**3. South Lhonak Lake Outburst (Sikkim) - October 2023 Mitigation measures**
+3. **South Lhonak Lake Outburst (Sikkim) - October 2023 Mitigation measures**
 
-**1. Structural**
+1. **Structural**
 
-  - **Engineering solutions** - Retaining walls, slope drainage, rock bolting, geo-textiles,
+    - **Engineering solutions** - Retaining walls, slope drainage, rock bolting, geo-textiles,
 
-  - **Nature based solutions** - Afforestation in himalaya
+    - **Nature based solutions** - Afforestation in himalaya
 
-**2. Non-Structural**
+2. **Non-Structural**
 
 **a. Expansion of multi-hazard insurance**
 
@@ -15192,7 +15192,7 @@ In Cyclone prone areas, the IMD issues cyclone warnings to state government offi
 1. Explanation_PWOnlyIAS:
 Source Question: Discuss the meaning of color-coded weather warnings for cyclone prone areas given by India Meteorological department.
 
-| **Approach:** <br> **Introduction** <br>• Briefly mention the Functions of India Meteorological Department (IMD). <br> **Body** <br>• Discuss the color-coded warnings issued by the IMD for cyclones. <br> **Conclusion** <br>• Conclude your answer with a Futuristic Approach. |
+| **Approach:** <br> **Introduction** <br>• Briefly mention the Functions of India Meteorological Department (IMD). <br> <br> **Body** <br>• Discuss the color-coded warnings issued by the IMD for cyclones. <br> <br> **Conclusion** <br>• Conclude your answer with a Futuristic Approach. |
 | --- |
 
 ### Introduction
@@ -15281,7 +15281,7 @@ Q90. Tropical cyclones are largely confined to South China Sea, Bay of Bengal an
 1. Explanation_PWOnlyIAS:
 Source Question: Tropical cyclones are largely confined to the South China Sea, Bay of Bengal and Gulf of Mexico. Why?
 
-| **Approach:** <br> **Introduction** <br>• Brief about tropical cyclones. **Body** <br>• Discuss the importance of geographic limitation. <br> **Conclusion** <br>• Conclude your answer with significant tropical cyclones. |
+| **Approach:** <br> **Introduction** <br>• Brief about tropical cyclones. <br> **Body** <br>• Discuss the importance of geographic limitation. <br> <br> **Conclusion** <br>• Conclude your answer with significant tropical cyclones. |
 | --- |
 
 ### Introduction
@@ -15363,7 +15363,7 @@ Q91. The recent cyclone on the east coast of India was called “Phailin”. How
 1. Explanation_PWOnlyIAS:
 Source Question: The recent cyclone on the east coast of India was called “Phailin”. How are tropical cyclones named across the world? Elaborate.
 
-| **Approach:** <br> **Introduction** <br>• Brief about how tropical cyclones can be named tropical cyclones. <br> **Body** <br>• Discuss tropical cyclones are named across the world. <br> **Conclusion** <br>• Conclude your answer with a summary of the answer. |
+| **Approach:** <br> **Introduction** <br>• Brief about how tropical cyclones can be named tropical cyclones. <br> <br> **Body** <br>• Discuss tropical cyclones are named across the world. <br> <br> **Conclusion** <br>• Conclude your answer with a summary of the answer. |
 | --- |
 
 ### Introduction
@@ -15564,7 +15564,7 @@ Terrace farming should be encouraged in the north-eastern hill states where Jhum
 1. Explanation_PWOnlyIAS:
 Source Question: Differentiate the causes of landslides in the Himalayan region and western Ghat.
 
-| **Approach:** <br> **Introduction** <br>• Briefly define landslides and causes of landslides <br> **Body** <br>• Mention some of the causes which are associated with the particular region. <br> **Conclusion** <br>• Conclude your Answer with summary of the answer. |
+| **Approach:** <br> **Introduction** <br>• Briefly define landslides and causes of landslides <br> <br> **Body** <br>• Mention some of the causes which are associated with the particular region. <br> <br> **Conclusion** <br>• Conclude your Answer with summary of the answer. |
 | --- |
 
 ### Introduction
@@ -15689,7 +15689,7 @@ Above measures, if integrated in development and planning of Himalayan states wi
 1. Explanation_PWOnlyIAS:
 Source Question: “The Himalayas are highly prone to landslides.” Discuss the causes and suggest suitable measures of mitigation.[200 Words, 12.5 Marks]
 
-| **Approach:** <br> **Introduction** <br>• Start your answer with a brief about the Himalayas. <br> **Body** <br>• Significant of Causes of Landslides and its measures of mitigation in the Himalayas. <br> **Conclusion** <br>• Conclude your answer with the importance of Himalayas. |
+| **Approach:** <br> **Introduction** <br>• Start your answer with a brief about the Himalayas. <br> <br> **Body** <br>• Significant of Causes of Landslides and its measures of mitigation in the Himalayas. <br> <br> **Conclusion** <br>• Conclude your answer with the importance of Himalayas. |
 | --- |
 
 ### Introduction
@@ -15843,7 +15843,7 @@ Q94. Bring out the causes for more frequent landslides in the Himalayas than in 
 1. Explanation_PWOnlyIAS:
 Source Question: Bring Out the causes for more frequent landslide in the Himalayas than in western Ghat.
 
-| **Approach:** <br> **Introduction** <br>• Brief about the Landslide . **Body** <br>• Discuss about the Causes for more frequent landslides in the Himalayas than in the Western Ghats. <br> **Conclusion** <br>• Conclude your answer with a summary of the answer. |
+| **Approach:** <br> **Introduction** <br>• Brief about the Landslide . <br> **Body** <br>• Discuss about the Causes for more frequent landslides in the Himalayas than in the Western Ghats. <br> <br> **Conclusion** <br>• Conclude your answer with a summary of the answer. |
 | --- |
 
 ### Introduction
@@ -15961,7 +15961,7 @@ A **tsunami** is a series of large ocean waves generated by the **sudden displac
 1. Explanation_Drishti IAS:
 Source Question: What are Tsunamis? How and where are they formed? What are their consequences? Explain with examples. (Answer in 150 words) 10
 
-| **Approach:** <br>• **Introduction** Introduce tsunamis with definition and defining term. <br>• **Body:** Explain the different causes of tsunamis (which form tsunamis) with relevant examples, and discuss its consequences. <br>• **Conclusion** Conclude suitably. |
+| **Approach:** <br>• **Introduction** Introduce tsunamis with definition and defining term. <br> <br> • **Body:** Explain the different causes of tsunamis (which form tsunamis) with relevant examples, and discuss its consequences. <br> <br> • **Conclusion** Conclude suitably. |
 | --- |
 
 ### Introduction
@@ -16373,7 +16373,7 @@ Most of the active volcanoes on earth occur on the Circum-Pacific Belt, also ref
 1. Explanation_PWOnlyIAS:
 Source Question: Mention the global Occurrence of volcanic eruptions in 2021 and their impact on the regional environment.
 
-| **Approach:** <br> **Introduction** <br>• Briefly defining What is Volcano and their occurrence at global level. <br> **Body** <br>• Some of the examples of volcanic eruptions. <br>• Discuss the Impact of volcanic eruption on the environment. <br> **Conclusion** <br>• Mention significant importance of volcanic eruption. |
+| **Approach:** <br> **Introduction** <br>• Briefly defining What is Volcano and their occurrence at global level. <br> <br> **Body** <br>• Some of the examples of volcanic eruptions. <br>• Discuss the Impact of volcanic eruption on the environment. <br> <br> **Conclusion** <br>• Mention significant importance of volcanic eruption. |
 | --- |
 
 ### Introduction
@@ -16498,41 +16498,41 @@ The Bhakti movement originated in South India in the 7th century and from the 13
 
 <p align="center"><img src="civilsdaily/images/civilsdaily_p30_img14.png" alt="Diagram" /></p>
 
-**2. Devotional and Emotional Core -** Emphasis on **personal love and surrender to God.** Eg- **Mirabai’s bhajans** expressing intense longing for Krishna.
+2. **Devotional and Emotional Core -** Emphasis on **personal love and surrender to God.** Eg- **Mirabai’s bhajans** expressing intense longing for Krishna.
 
 **3.** Critiqued **caste hierarchy and ritualism.** Promoted **equality and dignity of all devotees.** Eg- Kabir’s rejection of both Brahmanical and Islamic orthodoxy.
 
-**4. Saguna and Nirguna Traditions**
+4. **Saguna and Nirguna Traditions**
 
-  - **Saguna bhakti** focused on personal deities with attributes. Eg- **Rama and Krishna** in Tulsidas and Surdas.
+    - **Saguna bhakti** focused on personal deities with attributes. Eg- **Rama and Krishna** in Tulsidas and Surdas.
 
-  - **Nirguna bhakti** stressed formless divine reality. EgKabir and Nanak.
+    - **Nirguna bhakti** stressed formless divine reality. EgKabir and Nanak.
 
-**5. Simplicity of Form and Style -** Use of **songs, couplets, and oral traditions.** Eg- Dohas, abhangas, vachanas.
+5. **Simplicity of Form and Style -** Use of **songs, couplets, and oral traditions.** Eg- Dohas, abhangas, vachanas.
 
 **6.** Reflected concepts of **karma, bhakti, and moksha.** Eg**Nanak’s bani** blending devotion with ethical living.
 
 **Contribution of Bhakti Literature to Indian Culture**
 
-**1. Democratization of Religion**
+1. **Democratization of Religion**
 
-  - Made spirituality **accessible beyond elite circles.**
+    - Made spirituality **accessible beyond elite circles.**
 
-  - Reduced dependence on priests and rituals.
+    - Reduced dependence on priests and rituals.
 
-**2. Development of Regional Languages - Eg-** Growth of **Tamil, Marathi, Hindi, Bengali** literature.
+2. **Development of Regional Languages - Eg-** Growth of **Tamil, Marathi, Hindi, Bengali** literature.
 
 **3.** Fostered **inter-caste and inter-religious dialogue.** Eg- Baba Farid’s composition included in Guru Granth Sahib
 
-**4. Cultural Integration Across Regions -** Created a **pan-Indian devotional ethos** through common themes of devotion to Rama and Krishna.
+4. **Cultural Integration Across Regions -** Created a **pan-Indian devotional ethos** through common themes of devotion to Rama and Krishna.
 
 **5.** Bhakti poetry inspired **classical and folk music traditions.** Eg- Kirtans, bhajans, abhangas.
 
-  - Emergence of new **sects** like Lingayats, Kabirpanthis, sikhism etc
+    - Emergence of new **sects** like Lingayats, Kabirpanthis, sikhism etc
 
-**7. Ethical and Moral Framework -** Emphasised **compassion, humility, service, and detachment.**
+7. **Ethical and Moral Framework -** Emphasised **compassion, humility, service, and detachment.**
 
-**8. Inspiration for Later Social and National Movements -** Ideas of **equality and dignity** shaped reformist thought. Eg- Influence on **Gandhian ethics.**
+8. **Inspiration for Later Social and National Movements -** Ideas of **equality and dignity** shaped reformist thought. Eg- Influence on **Gandhian ethics.**
 
 Bhakti literature was a **transformative cultural force** enriching Indian culture.
 
@@ -16572,7 +16572,7 @@ The ideas of Bhakti Movement continued to permeate the cultural ethos of the soc
 1. Explanation_PWOnlyIAS:
 Source Question: Evaluate the nature of the Bhakti Literature and its contribution to Indian culture.
 
-| **Approach:** <br> **Introduction** <br>• Introduce the concept of Bhakti Literature in India and its significance. <br> **Body:** <br>• Discuss the nature of Bhakti Literature, including its focus on individual devotion, simple language, and emotional attachment to the divine. <br>• Highlight the contribution of Bhakti Literature to Indian culture, including its role in promoting religious harmony, social equality, and cultural diversity. <br>• Provide examples of how Bhakti Literature influenced various art forms and philosophical and spiritual traditions. <br> **Conclusion** <br>• Conclude by reiterating the significance of Bhakti Literature in Indian culture and its continuing legacy. |
+| **Approach:** <br> **Introduction** <br>• Introduce the concept of Bhakti Literature in India and its significance. <br> <br> **Body:** <br>• Discuss the nature of Bhakti Literature, including its focus on individual devotion, simple language, and emotional attachment to the divine. <br>• Highlight the contribution of Bhakti Literature to Indian culture, including its role in promoting religious harmony, social equality, and cultural diversity. <br>• Provide examples of how Bhakti Literature influenced various art forms and philosophical and spiritual traditions. <br> <br> **Conclusion** <br>• Conclude by reiterating the significance of Bhakti Literature in Indian culture and its continuing legacy. |
 | --- |
 
 ### Introduction
@@ -16708,11 +16708,11 @@ While the Bhakti movement originated in South India in the 7th century, the adve
 
 10. **Integration of spirituality with everyday life Re-orientation of the bhakti movement under sri chaitanya mahaprabhu**
 
-**1. Popularisation of Nama-sankirtana**
+1. **Popularisation of Nama-sankirtana**
 
-  - Chaitanya emphasised **collective chanting of the divine name** as the highest form of devotion. Eg**“Hare Rama Hare Krishna”** chant.
+    - Chaitanya emphasised **collective chanting of the divine name** as the highest form of devotion. Eg**“Hare Rama Hare Krishna”** chant.
 
-  - Bhakti shifted from **individual contemplation to mass congregational worship.**
+    - Bhakti shifted from **individual contemplation to mass congregational worship.**
 
 **2.** He elevated **Radha-Krishna worship** as the supreme spiritual ideal. **Radha-bhava** symbolised the deepest emotional bond between devotee and God.
 
@@ -16720,19 +16720,19 @@ While the Bhakti movement originated in South India in the 7th century, the adve
 
 **4.** He propounded **Achintya Bheda-Abheda,** emphasising the **inconceivable unity and difference** between God and the soul.
 
-**5. Simplification of Religious Practice -** Salvation was made accessible through **bhagavan-nama alone,** without rituals or priestly mediation.
+5. **Simplification of Religious Practice -** Salvation was made accessible through **bhagavan-nama alone,** without rituals or priestly mediation.
 
-**6. Social Inclusiveness and Anti-Caste Orientation**
+6. **Social Inclusiveness and Anti-Caste Orientation**
 
-  - Chaitanya **condemned caste discrimination** in spiritual life.
+    - Chaitanya **condemned caste discrimination** in spiritual life.
 
-  - Devotion, not birth, became the criterion for salvation. Eg- Association with **Haridas Thakur,** a Muslim-born devotee.
+    - Devotion, not birth, became the criterion for salvation. Eg- Association with **Haridas Thakur,** a Muslim-born devotee.
 
-  - Open participation of **lower castes and women** in Bhakti practices.
+    - Open participation of **lower castes and women** in Bhakti practices.
 
-**7. Emphasis** on **personal emotional experience,** not blind ritualism. It encouraged an **intimate, personal relationship with God.**
+7. **Emphasis** on **personal emotional experience,** not blind ritualism. It encouraged an **intimate, personal relationship with God.**
 
-**8. Institutionalisation through Sankirtana Mandalis -** devotees sang, danced, and worshipped collectively.
+8. **Institutionalisation through Sankirtana Mandalis -** devotees sang, danced, and worshipped collectively.
 
 **9.** Chaitanya travelled widely across **Bengal, Odisha, and South India.** He established **ashrams and devotional centres,** ensuring pan-regional diffusion of Bhakti.
 
@@ -16758,7 +16758,7 @@ The message of Chaitanya Mahaprabhu or Gaudiya School of thought is now propagat
 1. Explanation_PWOnlyIAS:
 Source Question: The Bhakti movement received a remarkable re-orientation with the advent of Sri Chaitanya Mahaprabhu. Discuss.
 
-| **Approach:** <br> **Introduction** Begin with a brief overview of the Bhakti movement and the role of Sri Chaitanya Mahaprabhu in transforming it, especially in Eastern India. <br> **Body** <br>• Discuss the introduction of “Sankirtan” and its impact on promoting spiritual unity and fellowship. <br>• Explain how Sri Chaitanya’s teachings broke down caste, gender, and social barriers. <br>• Describe the amalgamation of various Bhakti traditions and the reconciliation of dualistic and non-dualistic perspectives through “Achintya Bheda Abheda.” <br>• Discuss the contributions of Sri Chaitanya’s followers, including the Six Goswamis of Vrindavan, in producing and enriching Bhakti literature. <br> **Conclusion** <br>• Summarize the significant impact of Sri Chaitanya Mahaprabhu on the Bhakti movement and highlight the lasting influence of his teachings on spiritual love and devotion. |
+| **Approach:** <br> **Introduction** Begin with a brief overview of the Bhakti movement and the role of Sri Chaitanya Mahaprabhu in transforming it, especially in Eastern India. <br> <br> **Body** <br>• Discuss the introduction of “Sankirtan” and its impact on promoting spiritual unity and fellowship. <br>• Explain how Sri Chaitanya’s teachings broke down caste, gender, and social barriers. <br>• Describe the amalgamation of various Bhakti traditions and the reconciliation of dualistic and non-dualistic perspectives through “Achintya Bheda Abheda.” <br>• Discuss the contributions of Sri Chaitanya’s followers, including the Six Goswamis of Vrindavan, in producing and enriching Bhakti literature. <br> <br> **Conclusion** <br>• Summarize the significant impact of Sri Chaitanya Mahaprabhu on the Bhakti movement and highlight the lasting influence of his teachings on spiritual love and devotion. |
 | --- |
 
 ### Introduction
@@ -16843,7 +16843,7 @@ Q100. Sufis and medieval mystic saints failed to modify either the religious ide
 1. Explanation_PWOnlyIAS:
 Source Question: Sufis and medieval mystic saints failed to modify either the religious ideas and practices or the outward structure of Hindu / Muslim societies to any appreciable extent. Comment.
 
-| **Approach:** <br> **Introduction** <br>• Start with a brief introduction on Sufis and medieval mystic saints and their role in shaping the religious and social landscape of India. <br> **Body** <br>• Discuss the various factors that contributed to the limited impact of Sufis and medieval mystic saints in modifying religious ideas and practices in Hindu and Muslim societies. <br> **Conclusion** <br>• Conclude with a final evaluation of the role of Sufis and medieval mystic saints in shaping the religious and social landscape of India. |
+| **Approach:** <br> **Introduction** <br>• Start with a brief introduction on Sufis and medieval mystic saints and their role in shaping the religious and social landscape of India. <br> <br> **Body** <br>• Discuss the various factors that contributed to the limited impact of Sufis and medieval mystic saints in modifying religious ideas and practices in Hindu and Muslim societies. <br> <br> **Conclusion** <br>• Conclude with a final evaluation of the role of Sufis and medieval mystic saints in shaping the religious and social landscape of India. |
 | --- |
 
 ### Introduction
@@ -16989,7 +16989,7 @@ The foreign elements imbibed in the Gandhara art not only placed it on a high pe
 1. Explanation_PWOnlyIAS:
 Source Question: Highlight the Central Asian and Greco Bactrian elements in the Gandhara art.
 
-| **Approach:** <br> **Introduction** <br>• Briefly introduce Gandhara art and its unique fusion of Indian, Central Asian, and Greco-Bactrian elements. <br> **Body** <br>• Discuss the various aspects of Gandhara art that showcase the Central Asian and Greco-Bactrian influences, including Hellenistic influence, depictions of Buddha, architectural elements, motifs and iconography, and materials and techniques. <br> **Conclusion** <br>• Sum up the significance of Gandhara art as an example of cultural exchange and the blending of artistic traditions from different regions. |
+| **Approach:** <br> **Introduction** <br>• Briefly introduce Gandhara art and its unique fusion of Indian, Central Asian, and Greco-Bactrian elements. <br> <br> **Body** <br>• Discuss the various aspects of Gandhara art that showcase the Central Asian and Greco-Bactrian influences, including Hellenistic influence, depictions of Buddha, architectural elements, motifs and iconography, and materials and techniques. <br> <br> **Conclusion** <br>• Sum up the significance of Gandhara art as an example of cultural exchange and the blending of artistic traditions from different regions. |
 | --- |
 
 ### Introduction
@@ -17131,7 +17131,7 @@ Q103. Gandhara sculpture owed as much to the Romans as to the Greeks. Explain.
 1. Explanation_PWOnlyIAS:
 Source Question: Explain the formation of thousand of islands in Indonesian and Philippines archipelagos.
 
-| **Approach:** <br> **Introduction** <br>• Explain what archipelago is. **Body:** <br>• Explain the geography and physical processes in the formation of these islands of the region. <br> **Conclusion** <br>• Conclude your answer with a summary of the answer. |
+| **Approach:** <br> **Introduction** <br>• Explain what archipelago is. <br> **Body:** <br>• Explain the geography and physical processes in the formation of these islands of the region. <br> <br> **Conclusion** <br>• Conclude your answer with a summary of the answer. |
 | --- |
 
 ### Introduction
@@ -17217,52 +17217,52 @@ The architecture of the Indus Valley Civilization (Harappan Culture) represents 
 
 **Salient Features of Harappan Architecture**
 
-**1. Grid-Based Town Planning**
+1. **Grid-Based Town Planning**
 
-  - **The Layout:** rectangular **grid system,** where streets and lanes intersected at right angles, cutting the settlement into neat blocks.
+    - **The Layout:** rectangular **grid system,** where streets and lanes intersected at right angles, cutting the settlement into neat blocks.
 
 <p align="center"><img src="civilsdaily/images/civilsdaily_p25_img12.png" alt="Diagram" /></p>
 
-  - **The Arteries:** Main avenues were exceptionally wide, running systematically from north-to-south and east-to-west to maximize natural ventilation.
+    - **The Arteries:** Main avenues were exceptionally wide, running systematically from north-to-south and east-to-west to maximize natural ventilation.
 
-**2. Dual Layout: Citadel and Lower Town**
+2. **Dual Layout: Citadel and Lower Town**
 
-  - **The Citadel:** Built on a massive mud-brick platform to protect against seasonal flooding. It housed elite administrative or public structures. Eg- Great Bath at Mohenjo-daro and large-scale public Granaries.
+    - **The Citadel:** Built on a massive mud-brick platform to protect against seasonal flooding. It housed elite administrative or public structures. Eg- Great Bath at Mohenjo-daro and large-scale public Granaries.
 
 ## **● The Lower Town (Residential Zone)**
 
 Located to the east, this larger, non-elevated expanse housed the common citizens, merchants, and working-class artisans.
 
-**3. Uniform and Durable Building Materials**
+3. **Uniform and Durable Building Materials**
 
-  - **Standardized Bricks:** the Harappans pioneered the use of kiln-burnt mud bricks.
+    - **Standardized Bricks:** the Harappans pioneered the use of kiln-burnt mud bricks.
 
-  - **Proportional Consistency:** dimensions of the bricks followed a strict mathematical ratio of **4:2:1.**
+    - **Proportional Consistency:** dimensions of the bricks followed a strict mathematical ratio of **4:2:1.**
 
-**4. Residential Architecture and Privacy**
+4. **Residential Architecture and Privacy**
 
-  - **Courtyard-Centric Homes:** Private houses varied from small two-room units to multi-story mansions, all constructed around an open central courtyard.
+    - **Courtyard-Centric Homes:** Private houses varied from small two-room units to multi-story mansions, all constructed around an open central courtyard.
 
-  - **Privacy Norms:** No windows opened directly onto the main thoroughfares. Main entrance doors were strategically placed in side alleys to maintain privacy.
+    - **Privacy Norms:** No windows opened directly onto the main thoroughfares. Main entrance doors were strategically placed in side alleys to maintain privacy.
 
-**5. Advanced Hydraulic and Sanitary Engineering**
+5. **Advanced Hydraulic and Sanitary Engineering**
 
-  - **The Drainage Grid:** Every residential unit was connected to a highly sophisticated, gravity-assisted street drainage network.
+    - **The Drainage Grid:** Every residential unit was connected to a highly sophisticated, gravity-assisted street drainage network.
 
-  - **Maintenance Infrastructure:** Channels were covered by loose, removable limestone slabs or bricks to facilitate routine desilting and cleaning operations.
+    - **Maintenance Infrastructure:** Channels were covered by loose, removable limestone slabs or bricks to facilitate routine desilting and cleaning operations.
 
-**6. Public Infrastructure Elements**
+6. **Public Infrastructure Elements**
 
-  - **The Great Bath (Mohenjo-daro):** It featured changing rooms, multi-tiered steps, and an incoming clean water well system.
+    - **The Great Bath (Mohenjo-daro):** It featured changing rooms, multi-tiered steps, and an incoming clean water well system.
 
-  - **Dockyard Architecture (Lothal):** It features thick, reinforced baked-brick retaining embankments designed to withstand water pressure.
+    - **Dockyard Architecture (Lothal):** It features thick, reinforced baked-brick retaining embankments designed to withstand water pressure.
 
 Harappan architecture reflects a remarkably egalitarian, planned, and civic-minded urban civilisation, whose principles of urban planning remain relevant even today.
 
 1. Explanation_Drishti IAS:
 Source Question: Discuss the salient features of the Harappan architecture. (Answer in 150 words)
 
-| **Approach:** <br>• **Introduction** Introduce the Harappan Civilization and its significance in early urban architecture. <br>• **Body:** Discuss key features of Harappan architecture such as town planning, materials used, drainage systems, and important structures. <br>• **Conclusion** Summarize the architectural legacy and its reflection of an advanced urban society. |
+| **Approach:** <br>• **Introduction** Introduce the Harappan Civilization and its significance in early urban architecture. <br> <br> • **Body:** Discuss key features of Harappan architecture such as town planning, materials used, drainage systems, and important structures. <br> <br> • **Conclusion** Summarize the architectural legacy and its reflection of an advanced urban society. |
 | --- |
 
 ### Introduction
@@ -17514,69 +17514,69 @@ The **Vedic period (1500-600 BC)** laid the foundational framework of Indian civ
 
 **Main Features of Vedic Society and Religion**
 
-**1. Social Organisation**
+1. **Social Organisation**
 
-  - **Varna system** formed the basic social framework. Eg- **Brahmana, Kshatriya, Vaishya, Shudra** mentioned in later Vedic texts.
+    - **Varna system** formed the basic social framework. Eg- **Brahmana, Kshatriya, Vaishya, Shudra** mentioned in later Vedic texts.
 
-  - Society was initially **flexible and occupation-based,** becoming rigid over time.
+    - Society was initially **flexible and occupation-based,** becoming rigid over time.
 
-**2. Family and Kinship**
+2. **Family and Kinship**
 
-  - **Patriarchal family structure** dominated social life. Eg- Father as head of household.
+    - **Patriarchal family structure** dominated social life. Eg- Father as head of household.
 
-  - Importance of **joint family system** and lineage.
+    - Importance of **joint family system** and lineage.
 
-**3. Position of Women**
+3. **Position of Women**
 
-  - Women enjoyed **relatively higher status in early Vedic period.** Eg- **Gargi and Maitreyi** participating in philosophical debates.
+    - Women enjoyed **relatively higher status in early Vedic period.** Eg- **Gargi and Maitreyi** participating in philosophical debates.
 
-  - Gradual decline in status during later Vedic phase.
+    - Gradual decline in status during later Vedic phase.
 
-**4. Economic Life**
+4. **Economic Life**
 
-  - **Pastoralism gradually shifted to agriculture.** Eg- Use of iron ploughs in later Vedic period.
+    - **Pastoralism gradually shifted to agriculture.** Eg- Use of iron ploughs in later Vedic period.
 
-  - Wealth measured in **cattle, land, and grains.**
+    - Wealth measured in **cattle, land, and grains.**
 
-**5. Political Organisation - Assemblies** like **Sabha and Samiti** played a significant role.
+5. **Political Organisation - Assemblies** like **Sabha and Samiti** played a significant role.
 
-**6. Religious Beliefs**
+6. **Religious Beliefs**
 
-  - **Nature worship** dominated early Vedic religion. Eg- Indra, Agni, Varuna, Soma.
+    - **Nature worship** dominated early Vedic religion. Eg- Indra, Agni, Varuna, Soma.
 
-**7. Rituals and Sacrifices**
+7. **Rituals and Sacrifices**
 
-  - **Yajnas and sacrifices** were central religious practices. Eg- Ashvamedha and Rajasuya in later Vedic period.
+    - **Yajnas and sacrifices** were central religious practices. Eg- Ashvamedha and Rajasuya in later Vedic period.
 
-  - Role of **priests (Brahmanas)** became increasingly prominent.
+    - Role of **priests (Brahmanas)** became increasingly prominent.
 
-**8. Philosophical Thought -** Emergence of **Upanishadic ideas** in later Vedic period. Eg- Concepts of **Brahman, Atman, karma, and moksha.**
+8. **Philosophical Thought -** Emergence of **Upanishadic ideas** in later Vedic period. Eg- Concepts of **Brahman, Atman, karma, and moksha.**
 
 **Continuity of Vedic Features in Present Indian Society**
 
-**1. Persistence of Varna-Based Identities**
+1. **Persistence of Varna-Based Identities**
 
-  - **Caste identities continue socially.** Eg- Endogamy
+    - **Caste identities continue socially.** Eg- Endogamy
 
-**2. Religious Rituals and Festivals**
+2. **Religious Rituals and Festivals**
 
-  - **Yajnas, havans, and fire rituals** remain integral to Hindu practices. Eg- Fire rituals during marriages and festivals.
+    - **Yajnas, havans, and fire rituals** remain integral to Hindu practices. Eg- Fire rituals during marriages and festivals.
 
-**3. Family Structure**
+3. **Family Structure**
 
-  - **Joint family ideals** still influence social life, especially in rural India.
+    - **Joint family ideals** still influence social life, especially in rural India.
 
-**4. Reverence for Vedic Deities and Concepts**
+4. **Reverence for Vedic Deities and Concepts**
 
-  - Continued worship of **Agni, Indra, and Surya** in rituals.
+    - Continued worship of **Agni, Indra, and Surya** in rituals.
 
-  - Enduring belief in **karma and dharma.**
+    - Enduring belief in **karma and dharma.**
 
-**5. Philosophical Continuity**
+5. **Philosophical Continuity**
 
-  - **Upanishadic ideas** influence modern spiritual thought. Eg- Popularity of yoga, meditation, and Vedanta.
+    - **Upanishadic ideas** influence modern spiritual thought. Eg- Popularity of yoga, meditation, and Vedanta.
 
-  - **Gram sabha** at present play similar role to Sabha and Samities While **constitutional values of equality and secularism** challenge hierarchical aspects of Vedic society, its **ethical principles, ritual practices, and philosophical ideas** have continued.
+    - **Gram sabha** at present play similar role to Sabha and Samities While **constitutional values of equality and secularism** challenge hierarchical aspects of Vedic society, its **ethical principles, ritual practices, and philosophical ideas** have continued.
 
 1. Explanation_Drishti IAS:
 Source Question: What are the main features of Vedic society and religion? Do you think some of the features are still prevailing in Indian society?
@@ -17620,7 +17620,7 @@ The interplay between **ancient traditions and contemporary influences** shows I
 1. Explanation_PWOnlyIAS:
 Source Question: What are the main features of Vedic society and religion? Do you think some of the features are still prevailing in Indian society?
 
-| **Approach:** <br> **Introduction** <br>• Write about the Vedic period to provide historical context briefly <br> **Body** <br>• Write about the Main Features of Vedic Society <br>• Write about the Main Features of Vedic Religion <br>• Write the features of the Vedic period which are still prevailing in Modern Indian society <br> **Conclusion** <br>• Give appropriate conclusion in this regard |
+| **Approach:** <br> **Introduction** <br>• Write about the Vedic period to provide historical context briefly <br> <br> **Body** <br>• Write about the Main Features of Vedic Society <br>• Write about the Main Features of Vedic Religion <br>• Write the features of the Vedic period which are still prevailing in Modern Indian society <br> <br> **Conclusion** <br>• Give appropriate <br> conclusion in this regard |
 | --- |
 
 ### Introduction
@@ -17788,7 +17788,7 @@ Q107. The ancient civilization in Indian sub-continent differed from those of Eg
 1. Explanation_PWOnlyIAS:
 Source Question: The ancient civilization in the Indian sub-continent differed from those of Egypt, Mesopotamia, and Greece in that its culture and traditions have been preserved without a breakdown to the present day. Comment. (200 words, 12.5 marks)
 
-| **Approach:** <br> **Introduction** <br>• Introduce the Indus Valley Civilization and its distinctiveness compared to other ancient civilizations such as Egypt, Mesopotamia, and Greece. <br> **Body** <br>• Discuss the factors contributing to the preservation of Indian culture and traditions. <br> **Conclusion** <br>• Reiterate the unique aspect of Indian civilization in maintaining its cultural identity without significant breakdowns, unlike other ancient civilizations. |
+| **Approach:** <br> **Introduction** <br>• Introduce the Indus Valley Civilization and its distinctiveness compared to other ancient civilizations such as Egypt, Mesopotamia, and Greece. <br> <br> **Body** <br>• Discuss the factors contributing to the preservation of Indian culture and traditions. <br> <br> **Conclusion** <br>• Reiterate the unique aspect of Indian civilization in maintaining its cultural identity without significant breakdowns, unlike other ancient civilizations. |
 | --- |
 
 ### Introduction
@@ -17891,7 +17891,7 @@ Q108. To what extent has the urban planning and culture of the Indus Valley Civi
 1. Explanation_PWOnlyIAS:
 Source Question: To what extent has the urban planning and culture of the Indus Valley Civilization provided inputs to the present day urbanization? Discuss.
 
-| **Approach:** <br> **Introduction** <br>• Introduce the Indus Valley Civilization (IVC) and its advanced urban planning and culture. <br> **Body** <br>• Identify and mention the characteristics that show how urban planning and culture of the Indus Valley Civilization provided inputs to the present day urbanization. <br>• Substantiate with appropriate examples. <br> **Conclusion** <br>• Conclude emphasizing on the innovative and forward-thinking nature of the IVC, whose principles remain relevant and influential in shaping modern urban environments. |
+| **Approach:** <br> **Introduction** <br>• Introduce the Indus Valley Civilization (IVC) and its advanced urban planning and culture. <br> <br> **Body** <br>• Identify and mention the characteristics that show how urban planning and culture of the Indus Valley Civilization provided inputs to the present day urbanization. <br>• Substantiate with appropriate examples. <br> <br> **Conclusion** <br>• Conclude emphasizing on the innovative and forward-thinking nature of the IVC, whose principles remain relevant and influential in shaping modern urban environments. |
 | --- |
 
 ### Introduction
@@ -18089,7 +18089,7 @@ Government has started many initiatives to preserve the rich art heritage of the
 1. Explanation_PWOnlyIAS:
 Source Question: Safeguarding the Indian art heritage is the need of the moment. Comment
 
-| **Approach:** <br> **Introduction** <br>• Briefly highlight the significance of India’s artistic heritage and its role in preserving the nation’s cultural essence. <br> **Body** <br>• Discuss the numerous threats facing Indian art heritage and explain why its protection is vital. Mention the steps that can be undertaken to conserve and promote Indian art heritage. <br> **Conclusion** <br>• Emphasize the necessity of safeguarding and fostering Indian art heritage for future generations. |
+| **Approach:** <br> **Introduction** <br>• Briefly highlight the significance of India’s artistic heritage and its role in preserving the nation’s cultural essence. <br> <br> **Body** <br>• Discuss the numerous threats facing Indian art heritage and explain why its protection is vital. Mention the steps that can be undertaken to conserve and promote Indian art heritage. <br> <br> **Conclusion** <br>• Emphasize the necessity of safeguarding and fostering Indian art heritage for future generations. |
 | --- |
 
 ### Introduction
@@ -18373,7 +18373,7 @@ The Indian philosophy and traditions have been a predominant factorinfluencing t
 1. Explanation_PWOnlyIAS:
 Source Question: Indian Philosophy and tradition played a significant role in conceiving and shaping the monuments and their art in India. Discuss.
 
-| **Approach:** <br> **Introduction** <br>• Briefly introduce the role of Indian philosophy and tradition in shaping the monuments and their art in India. <br> **Body** <br>• Elaborate on specific examples, architectural styles, and art forms influenced by Indian philosophy and tradition. <br> **Conclusion** <br>• Summarize the significance of Indian philosophy and tradition in creating a unique and enduring architectural legacy in India. |
+| **Approach:** <br> **Introduction** <br>• Briefly introduce the role of Indian philosophy and tradition in shaping the monuments and their art in India. <br> <br> **Body** <br>• Elaborate on specific examples, architectural styles, and art forms influenced by Indian philosophy and tradition. <br> <br> **Conclusion** <br>• Summarize the significance of Indian philosophy and tradition in creating a unique and enduring architectural legacy in India. |
 | --- |
 
 ### Introduction
@@ -18574,7 +18574,7 @@ Chandella artists created a universe in stone, best described by Banabhatta’s 
 1. Explanation_Drishti IAS:
 Source Question: The sculptors filled the Chandella artform with resilient vigor and breadth of life. Elucidate. (Answer in 150 words)
 
-| **Approach** <br>• **Introduction** Introduce the Chandella dynasty and the significance of their contribution to Indian art, particularly sculpture. <br>• **Body:** Elaborate on the key aspects of the sculptural art of the Chandellas, focusing on **dynamism**, **intricate detailing**, and the **breadth of life** as represented in their works. <br>• **Conclusion** Conclude by summarizing the lasting impact of their art, which celebrated both divine and earthly life. |
+| **Approach** <br>• **Introduction** Introduce the Chandella dynasty and the significance of their contribution to Indian art, particularly sculpture. <br> <br> • **Body:** Elaborate on the key aspects of the sculptural art of the Chandellas, focusing on **dynamism**, **intricate detailing**, and the **breadth of life** as represented in their works. <br> <br> • **Conclusion** Conclude by summarizing the lasting impact of their art, which celebrated both divine and earthly life. |
 | --- |
 
 ### Introduction
@@ -18686,37 +18686,37 @@ The **Pallavas of Kanchi (275-897 CE)** laid the foundations of **Dravidian temp
 
 **Contribution of the Pallavas to Art in South India**
 
-**1. Evolution of Dravidian Temple Architecture**
+1. **Evolution of Dravidian Temple Architecture**
 
-  - Pallavas pioneered the transition from **rock-cut to structural temples.** Eg- **Shore Temple, Mahabalipuram.**
+    - Pallavas pioneered the transition from **rock-cut to structural temples.** Eg- **Shore Temple, Mahabalipuram.**
 
 <p align="center"><img src="civilsdaily/images/civilsdaily_p23_img9.png" alt="Diagram" /></p>
 
-  - Established key architectural elements like **vimana, mandapa, and gopura.**
+    - Established key architectural elements like **vimana, mandapa, and gopura.**
 
-**2. Rock-Cut Architecture -** Development of **monolithic rathas and cave temples.** Eg- **Pancha Rathas** and **Varaha Cave Temple** at Mahabalipuram.
+2. **Rock-Cut Architecture -** Development of **monolithic rathas and cave temples.** Eg- **Pancha Rathas** and **Varaha Cave Temple** at Mahabalipuram.
 
-**3. Sculptural Excellence -** Figures depicted with **grace, movement, and naturalism..** Eg- **Descent of the Ganga (Arjuna’s Penance).**
+3. **Sculptural Excellence -** Figures depicted with **grace, movement, and naturalism..** Eg- **Descent of the Ganga (Arjuna’s Penance).**
 
-**4. Structural Stone Temples -** Introduction of **stone-built temples** in South India. Eg- **Kailasanatha Temple, Kanchipuram** built by Rajasimha.
+4. **Structural Stone Temples -** Introduction of **stone-built temples** in South India. Eg- **Kailasanatha Temple, Kanchipuram** built by Rajasimha.
 
 **5.** Standardisation of **Shaiva and Vaishnava iconography.** Eg- Somaskanda panels in Pallava temples.
 
-  - **Paintings** in caves. Eg- Sittavansal Paintings
+    - **Paintings** in caves. Eg- Sittavansal Paintings
 
-  - Early Foundation of **Carnatic Music Tradition.** Supported by Mahendravarman **Contribution of the Pallavas to Literature**
+    - Early Foundation of **Carnatic Music Tradition.** Supported by Mahendravarman **Contribution of the Pallavas to Literature**
 
-**1. Patronage to Sanskrit Literature-** Eg- **Mahendravarman I,** author of **Mattavilasa Prahasana.**
+1. **Patronage to Sanskrit Literature-** Eg- **Mahendravarman I,** author of **Mattavilasa Prahasana.**
 
-**2. Growth of Tamil Bhakti Literature-** Eg- **Nayanars and Alvars** composing hymns in Tamil.
+2. **Growth of Tamil Bhakti Literature-** Eg- **Nayanars and Alvars** composing hymns in Tamil.
 
-**3. Development of Epigraphy and Inscriptions -** Use of **Grantha and early Tamil scripts** in Pallava inscriptions at **Kanchi and Mahabalipuram.**
+3. **Development of Epigraphy and Inscriptions -** Use of **Grantha and early Tamil scripts** in Pallava inscriptions at **Kanchi and Mahabalipuram.**
 
-**4. Kanchipuram** emerged as a major centre of learning. Visited by **Xuanzang,** who praised its scholarship.
+4. **Kanchipuram** emerged as a major centre of learning. Visited by **Xuanzang,** who praised its scholarship.
 
 **5.** The great poet **Bharavi** is believed to have been a court poet under the Pallavas; his Mahakavya **'Kiratarjuniya'** remains a cornerstone of Sanskrit literature.
 
-**6. Mahendravarman I** wrote the social satire **'Mattavilasa Prahasana',** which provides a humorous look at religious life in Kanchi.
+6. **Mahendravarman I** wrote the social satire **'Mattavilasa Prahasana',** which provides a humorous look at religious life in Kanchi.
 
 The Pallavas of Kanchi made a foundational contribution to South Indian civilisation, shaping the cultural trajectory later perfected under the Cholas and Pandyas.
 
@@ -19046,49 +19046,49 @@ The **Delhi Sultanate (1206-1526 CE)** was established by **Qutbuddin Aibak** af
 
 **Technological Changes Introduced During the Sultanate Period**
 
-**1. Agriculture**
+1. **Agriculture**
 
-  - **Persian wheel (saqiya)** improved irrigation efficiency and water lifting. Led to expansion of cultivation in **Punjab and Doab regions.**
+    - **Persian wheel (saqiya)** improved irrigation efficiency and water lifting. Led to expansion of cultivation in **Punjab and Doab regions.**
 
 <p align="center"><img src="civilsdaily/images/civilsdaily_p22_img7.png" alt="Diagram" /></p>
 
-  - **Improved iron tools and ploughs** enhanced productivity.
+    - **Improved iron tools and ploughs** enhanced productivity.
 
-  - Introduction of **new crops** from West and Central Asia. Eg**Spinach, carrot, watermelon, pomegranate.**
+    - Introduction of **new crops** from West and Central Asia. Eg**Spinach, carrot, watermelon, pomegranate.**
 
-**2. Coinage**
+2. **Coinage**
 
-  - Introduction of **standardised metallic currency.** Eg- **Silver tanka** and **copper jital** under Iltutmish.
+    - Introduction of **standardised metallic currency.** Eg- **Silver tanka** and **copper jital** under Iltutmish.
 
-  - Experimentation with **token currency.** Eg- **Muhammad bin Tughlaq’s copper token coins.**
+    - Experimentation with **token currency.** Eg- **Muhammad bin Tughlaq’s copper token coins.**
 
-**3. Architecture**
+3. **Architecture**
 
-  - Development of **Indo-Islamic architectural style** blending Indian and Persian elements.
+    - Development of **Indo-Islamic architectural style** blending Indian and Persian elements.
 
-  - Introduction of **true arch, dome, and vault** using lime mortar. Eg- **Alai Darwaza, Qutub Minar complex.**
+    - Introduction of **true arch, dome, and vault** using lime mortar. Eg- **Alai Darwaza, Qutub Minar complex.**
 
-**4. Infrastructure**
+4. **Infrastructure**
 
-  - Construction of **roads, bridges, sarais, and canals.** EgRoad networks and **sarais under Alauddin Khalji.**
+    - Construction of **roads, bridges, sarais, and canals.** EgRoad networks and **sarais under Alauddin Khalji.**
 
-**5. Textiles**
+5. **Textiles**
 
-  - Introduction of **spinning wheel (charkha)** led to expansion of cotton weaving in northern India.
+    - Introduction of **spinning wheel (charkha)** led to expansion of cotton weaving in northern India.
 
-  - Use of **new dyeing and weaving techniques** from Central Asia.
+    - Use of **new dyeing and weaving techniques** from Central Asia.
 
-**6. Military Technology**
+6. **Military Technology**
 
-  - Use of **composite bow, iron stirrup,** and **horse-based cavalry warfare.**
+    - Use of **composite bow, iron stirrup,** and **horse-based cavalry warfare.**
 
-  - Introduction of **standing armies** and **branding of horses (dagh system).**
+    - Introduction of **standing armies** and **branding of horses (dagh system).**
 
-**7. Paper Technology**
+7. **Paper Technology**
 
-  - Introduction of **paper manufacturing** by replacing palm-leaf manuscripts.
+    - Introduction of **paper manufacturing** by replacing palm-leaf manuscripts.
 
-  - Expansion of **record-keeping, education, and administration.**
+    - Expansion of **record-keeping, education, and administration.**
 
 **Influence of These Technological Changes on Indian Society**
 
@@ -19154,7 +19154,7 @@ Major technological changes introduced during the sultanate period:
 1. Explanation_PWOnlyIAS:
 Source Question: What were the major technological changes introduced during the Sultanate period? How did those technological changes influence Indian society?
 
-| **Approach:** <br> **Introduction** <br>• Write about the Sultanate period briefly <br> **Body:** <br>• Write the major technological changes introduced during the Sultanate period <br>• Write how these technological changes influence Indian society <br> **Conclusion** <br>• Give appropriate conclusion in this regard |
+| **Approach:** <br> **Introduction** <br>• Write about the Sultanate period briefly <br> <br> **Body:** <br>• Write the major technological changes introduced during the Sultanate period <br>• Write how these technological changes influence Indian society <br> <br> **Conclusion** <br>• Give appropriate <br> conclusion in this regard |
 | --- |
 
 
@@ -19347,79 +19347,79 @@ The Gupta period **(320-550 CE)** is referred to as the **Golden Age of India.**
 
 **Main Contributions of the Gupta Period**
 
-**1. Religion and Philosophy**
+1. **Religion and Philosophy**
 
 <p align="center"><img src="civilsdaily/images/civilsdaily_p19_img5.png" alt="Diagram" /></p>
 
-  - **Compilation and codification of Puranas and epics** strengthened Brahmanical traditions. Eg- Vishnu Purana, Bhagavata Purana.
+    - **Compilation and codification of Puranas and epics** strengthened Brahmanical traditions. Eg- Vishnu Purana, Bhagavata Purana.
 
-  - **Vaishnavism and Shaivism** received royal patronage, while Buddhism and Jainism continued to flourish.
+    - **Vaishnavism and Shaivism** received royal patronage, while Buddhism and Jainism continued to flourish.
 
-**2. Literature**
+2. **Literature**
 
-  - **Classical Sanskrit literature reached its zenith.** Eg**Kalidasa’s Abhijnanashakuntalam, Meghaduta, Raghuvamsha.**
+    - **Classical Sanskrit literature reached its zenith.** Eg**Kalidasa’s Abhijnanashakuntalam, Meghaduta, Raghuvamsha.**
 
-  - **Secular works** like **Panini’s grammar (Ashtadhyayi)** and **Vishnu Sharma’s Panchatantra** gained prominence.
+    - **Secular works** like **Panini’s grammar (Ashtadhyayi)** and **Vishnu Sharma’s Panchatantra** gained prominence.
 
-**3. Science and Medicine**
+3. **Science and Medicine**
 
-  - Significant advances in **Ayurveda.** Eg- **Charaka Samhita** and **Sushruta Samhita** were compiled and systematised.
+    - Significant advances in **Ayurveda.** Eg- **Charaka Samhita** and **Sushruta Samhita** were compiled and systematised.
 
-  - Progress in **astronomy.** Eg- **Aryabhata’s Aryabhatiya** explaining earth’s rotation.
+    - Progress in **astronomy.** Eg- **Aryabhata’s Aryabhatiya** explaining earth’s rotation.
 
-**4. Mathematics**
+4. **Mathematics**
 
-  - **The concept of zero and decimal systems** was developed. Eg- Works of **Aryabhata and Varahamihira.**
+    - **The concept of zero and decimal systems** was developed. Eg- Works of **Aryabhata and Varahamihira.**
 
-**5. Architecture**
+5. **Architecture**
 
-  - **Cave architecture** reached artistic maturity. Eg- **Ajanta, Bagh, and Udayagiri caves.**
+    - **Cave architecture** reached artistic maturity. Eg- **Ajanta, Bagh, and Udayagiri caves.**
 
-  - Development of **Nagaram style of temple architecture.** Eg- **Dashavatara Temple, Deogarh.**
+    - Development of **Nagaram style of temple architecture.** Eg- **Dashavatara Temple, Deogarh.**
 
-  - Early use of **brick temples.**
+    - Early use of **brick temples.**
 
-**6. Sculpture**
+6. **Sculpture**
 
-  - Emergence of **Sarnath School of Sculpture,** noted for cream-coloured sandstone and spiritual expression. Eg- **Sarnath Buddha image.**
+    - Emergence of **Sarnath School of Sculpture,** noted for cream-coloured sandstone and spiritual expression. Eg- **Sarnath Buddha image.**
 
-**7. Painting - Ajanta paintings** depicting Jataka tales using **fresco-tempera technique.**
+7. **Painting - Ajanta paintings** depicting Jataka tales using **fresco-tempera technique.**
 
-**8. Pillars and Inscriptions**
+8. **Pillars and Inscriptions**
 
-  - **Pillar inscriptions** reflected political ideals and administrative practices. Eg- **Allahabad Pillar inscription of Samudragupta.**
+    - **Pillar inscriptions** reflected political ideals and administrative practices. Eg- **Allahabad Pillar inscription of Samudragupta.**
 
 **9.** Continued development of **Buddhist stupas.** Eg- **Chaukhandi Stupa, Sarnath.**
 
 **Contributions of the Chola Period**
 
-**1. Temple Architecture**
+1. **Temple Architecture**
 
-  - Zenith of **Dravidian temple architecture** with monumental vimanas. Eg- **Brihadeeswara Temple, Thanjavur** and **Gangaikonda Cholapuram.**
+    - Zenith of **Dravidian temple architecture** with monumental vimanas. Eg- **Brihadeeswara Temple, Thanjavur** and **Gangaikonda Cholapuram.**
 
-  - Temples served as **religious, economic, and cultural centres.**
+    - Temples served as **religious, economic, and cultural centres.**
 
 <p align="center"><img src="civilsdaily/images/civilsdaily_p20_img6.png" alt="Diagram" /></p>
 
-**2. Sculpture -** Excellence in **bronze casting using lost-wax technique.** Eg- **Nataraja bronze of Shiva,** symbolising cosmic rhythm.
+2. **Sculpture -** Excellence in **bronze casting using lost-wax technique.** Eg- **Nataraja bronze of Shiva,** symbolising cosmic rhythm.
 
-**3. Religion and Bhakti Tradition**
+3. **Religion and Bhakti Tradition**
 
-  - Consolidation of **Shaivism and Vaishnavism.** Eg- Patronage to **Nayanars and Alvars.**
+    - Consolidation of **Shaivism and Vaishnavism.** Eg- Patronage to **Nayanars and Alvars.**
 
-  - Bhakti became an instrument of **social integration.** Eg- Saints like **Appar, Sundarar.**
+    - Bhakti became an instrument of **social integration.** Eg- Saints like **Appar, Sundarar.**
 
-**4. Administration and Local Self-Government**
+4. **Administration and Local Self-Government**
 
-  - Highly developed **village self-government.** Eg- **Kudavolai system** recorded in Uttaramerur inscriptions.
+    - Highly developed **village self-government.** Eg- **Kudavolai system** recorded in Uttaramerur inscriptions.
 
-**5. Social and Cultural Life**
+5. **Social and Cultural Life**
 
-  - Society organised around **occupational and regional identities.** Eg- **Kurinji (hunting communities)** associated with **Murugan worship.**
+    - Society organised around **occupational and regional identities.** Eg- **Kurinji (hunting communities)** associated with **Murugan worship.**
 
-**6. Maritime Trade and Cultural Expansion**
+6. **Maritime Trade and Cultural Expansion**
 
-  - Strong **naval power and overseas trade.** Eg- Cultural influence in **Sri Lanka and Southeast Asia.**
+    - Strong **naval power and overseas trade.** Eg- Cultural influence in **Sri Lanka and Southeast Asia.**
 
 Together, they enriched India’s heritage with **unity, diversity, and continuity,** whose influence continues to shape Indian culture even today.
 
@@ -19444,7 +19444,7 @@ The significant contribution by both of the dynasties have shaped India’s cult
 1. Explanation_PWOnlyIAS:
 Source Question: Discuss the main contributions of Gupta period and Chola period to Indian heritage and culture.
 
-| **Approach:** <br> **Introduction** <br>• Introduce the Gupta and Chola periods as influential eras in Indian history. <br> **Body** <br>• Discuss contributions of each period in: <br>• Art and Architecture <br>• Sculpture <br>• Literature <br>• Science (Gupta)/Music and Dance (Chola) <br>• Education (Gupta)/Governance (Chola) <br> **Conclusion** <br>• Conclude with the lasting impact of Gupta and Chola periods on India’s cultural heritage. |
+| **Approach:** <br> **Introduction** <br>• Introduce the Gupta and Chola periods as influential eras in Indian history. <br> <br> **Body** <br>• Discuss contributions of each period in: <br>• Art and Architecture <br>• Sculpture <br>• Literature <br>• Science (Gupta)/Music and Dance (Chola) <br>• Education (Gupta)/Governance (Chola) <br> <br> **Conclusion** <br>• Conclude with the lasting impact of Gupta and Chola periods on India’s cultural heritage. |
 | --- |
 
 ### Introduction
@@ -19633,7 +19633,7 @@ The Pala dynasty created the environment to thrive and discuss Buddhist philosop
 1. Explanation_PWOnlyIAS:
 Source Question: Pala period is the most significant phase in the history of Buddhism in India. Enumerate.
 
-| **Approach:** <br> **Introduction** <br>• Begin by highlighting the Pala period as a pivotal chapter in the evolution of Buddhism in India. <br> **Body** <br>• Identify and mention the key reasons for the significance of the Pala period. <br>• Substantiate your views with examples. <br> **Conclusion** <br>• Reiterate the significance of the Pala period in the history of Buddhism in India. |
+| **Approach:** <br> **Introduction** <br>• Begin by highlighting the Pala period as a pivotal chapter in the evolution of Buddhism in India. <br> <br> **Body** <br>• Identify and mention the key reasons for the significance of the Pala period. <br>• Substantiate your views with examples. <br> <br> **Conclusion** <br>• Reiterate the significance of the Pala period in the history of Buddhism in India. |
 | --- |
 
 ### Introduction
@@ -19757,7 +19757,7 @@ In the post-Gupta period, not only the quality of gold coins fell, but also the 
 1. Explanation_PWOnlyIAS:
 Source Question: The spirit of tolerance and love is not only an interesting feature of Indian society from very early times, but it is also playing an important part at the present. Elaborate.
 
-| **Approach:** <br> **Introduction** <br>• Introduce the idea of tolerance and its relation with the diversity present in India. <br> **Body** <br>• Elaborate on how tolerance was relevant for India in the past. Then mention how it is relevant at present for Indian society. <br> **Conclusion** <br>• State that tolerance and love has been at the core of Indian society since time immemorial and will always continue to be so. |
+| **Approach:** <br> **Introduction** <br>• Introduce the idea of tolerance and its relation with the diversity present in India. <br> <br> **Body** <br>• Elaborate on how tolerance was relevant for India in the past. Then mention how it is relevant at present for Indian society. <br> <br> **Conclusion** <br>• State that tolerance and love has been at the core of Indian society since time immemorial and will always continue to be so. |
 | --- |
 
 ### Introduction
@@ -20049,31 +20049,31 @@ Akbar’s religious policy marked a **departure from orthodox Islamic statecraft
 
   - **Abolition of Discriminatory Taxes - Removal of Jizya (1564) and pilgrimage tax** to reduce religious alienation.
 
-**2. Ibadat Khana Debates (1575) -** Platform for **inter-religious dialogue** among Muslims, Hindus, Jains, Christians, Zoroastrians.
+2. **Ibadat Khana Debates (1575) -** Platform for **inter-religious dialogue** among Muslims, Hindus, Jains, Christians, Zoroastrians.
 
-**3. Mahzar (1579) -** Akbar became the **final arbiter** in cases of theological dispute **(Imam-i-Adil)**
+3. **Mahzar (1579) -** Akbar became the **final arbiter** in cases of theological dispute **(Imam-i-Adil)**
 
-**4. Din-i-Ilahi (1582) -** Emphasis on **ethical conduct, loyalty, tolerance,** not mass religion. It combined elements from various faiths
+4. **Din-i-Ilahi (1582) -** Emphasis on **ethical conduct, loyalty, tolerance,** not mass religion. It combined elements from various faiths
 
-  - **Islam-** Monotheism and the concept of a spiritual guide (Pir).
+    - **Islam-** Monotheism and the concept of a spiritual guide (Pir).
 
-  - **Hinduism/Jainism-** Vegetarianism and the prohibition of animal slaughter on certain days
+    - **Hinduism/Jainism-** Vegetarianism and the prohibition of animal slaughter on certain days
 
-  - **Zoroastrianism-** Veneration of light and the Sun (Surya Namaskar).
+    - **Zoroastrianism-** Veneration of light and the Sun (Surya Namaskar).
 
-**5. Respect for Non-Islamic Practices**
+5. **Respect for Non-Islamic Practices**
 
-  - **Ban on cow slaughter** on certain days
+    - **Ban on cow slaughter** on certain days
 
-  - Patronage to **Jain monks** like Hiravijaya Suri.
+    - Patronage to **Jain monks** like Hiravijaya Suri.
 
-  - Akbar believed that religious conflict arose from ignorance. To bridge this, he established a **Maktab Khana** for translation of the Mahabharata, Ramayana, and Atharvaveda into Persian.
+    - Akbar believed that religious conflict arose from ignorance. To bridge this, he established a **Maktab Khana** for translation of the Mahabharata, Ramayana, and Atharvaveda into Persian.
 
-  - **Adoption of Socio-Religious Traditions**
+    - **Adoption of Socio-Religious Traditions**
 
-  - He began appearing at the **Jharokha Darshan** and applied the Tika on his forehead.
+    - He began appearing at the **Jharokha Darshan** and applied the Tika on his forehead.
 
-  - Celebrated festivals like Diwali, Rakshabandhan, and Nauroz at the court.
+    - Celebrated festivals like Diwali, Rakshabandhan, and Nauroz at the court.
 
 As **Irfan Habib** notes, Akbar sought **“a moral basis for kingship beyond sectarian boundaries,”** laying foundations for India’s **composite culture.**
 
@@ -20082,7 +20082,7 @@ As **Irfan Habib** notes, Akbar sought **“a moral basis for kingship beyond se
 1. Explanation_Drishti IAS:
 Source Question: Examine the main aspects of Akbar's religious syncretism. (Answer in 150 words)
 
-| **Approach:** <br>• **Introduction** Briefly introduce Akbar's approach to religious syncretism and its significance in his reign. <br>• **Body:** Discuss the main aspects such as **Sulh-i-Kul**, **abolition of Jizya**, **religious dialogues**, and other policies. <br>• **Conclusion** Conclude by highlighting the long-term impact of his syncretic policies on Indian society and governance. |
+| **Approach:** <br>• **Introduction** Briefly introduce Akbar's approach to religious syncretism and its significance in his reign. <br> <br> • **Body:** Discuss the main aspects such as **Sulh-i-Kul**, **abolition of Jizya**, **religious dialogues**, and other policies. <br> <br> • **Conclusion** Conclude by highlighting the long-term impact of his syncretic policies on Indian society and governance. |
 | --- |
 
 ### Introduction
@@ -20197,7 +20197,7 @@ It is said whenever Krishna-devaraya met the poet while riding on his elephant, 
 1. Explanation_PWOnlyIAS:
 Source Question: Krishnadeva Raya, the king of Vijayanagar, was not only an accomplished scholar himself but was also a great patron of learning and literature. Discuss. (200 words, 12.5 marks)
 
-| **Approach:** <br> **Introduction** <br>• Briefly introduce Krishnadeva Raya and his reign in Vijayanagar. <br> **Body** <br>• Discuss Krishnadeva Raya’s achievements as a scholar and patron of learning and literature, with examples from his reign. <br> **Conclusion** <br>• Write a relevant conclusion mentioning the views of the Portuguese travelers who visited the Vijayanagar empire during his reign. |
+| **Approach:** <br> **Introduction** <br>• Briefly introduce Krishnadeva Raya and his reign in Vijayanagar. <br> <br> **Body** <br>• Discuss Krishnadeva Raya’s achievements as a scholar and patron of learning and literature, with examples from his reign. <br> <br> **Conclusion** <br>• Write a relevant <br> conclusion mentioning the views of the Portuguese travelers who visited the Vijayanagar empire during his reign. |
 | --- |
 
 ### Introduction
@@ -20326,65 +20326,65 @@ The Persian language arrived in India with the **Ghaznavid and Ghurid invasions,
 
 **Persian literary sources reflecting the spirit of the medieval age**
 
-**1. Political Spirit**
+1. **Political Spirit**
 
-  - **Genealogy and Chronology of Kings** - Eg- **Amir Khusrau’s Khazain-ul-Futuh** traces Sultanate rulers and their conquests.
+    - **Genealogy and Chronology of Kings** - Eg- **Amir Khusrau’s Khazain-ul-Futuh** traces Sultanate rulers and their conquests.
 
-  - **Divine Authority** - Rulers portrayed as God’s chosen representatives. Eg- **Zia-ud-din Barani** portrayed the Sultan as a divinely guided ruler.
+    - **Divine Authority** - Rulers portrayed as God’s chosen representatives. Eg- **Zia-ud-din Barani** portrayed the Sultan as a divinely guided ruler.
 
-  - Chronicling conquests and campaigns. Eg- **Baburnama** details Babur’s battles and state-building efforts.
+    - Chronicling conquests and campaigns. Eg- **Baburnama** details Babur’s battles and state-building efforts.
 
-**2. Economic Conditions**
+2. **Economic Conditions**
 
-  - **Agrarian Revenue System** - Eg- **Ain-i-Akbari** documents crop rates, measurement systems, and revenue shares.
+    - **Agrarian Revenue System** - Eg- **Ain-i-Akbari** documents crop rates, measurement systems, and revenue shares.
 
-  - **Urban Markets and Trade** - Eg- **Ibn Battuta’s Rehla** on Delhi’s markets and Alauddin Khalji’s price controls.
+    - **Urban Markets and Trade** - Eg- **Ibn Battuta’s Rehla** on Delhi’s markets and Alauddin Khalji’s price controls.
 
-**3. Religious Climate**
+3. **Religious Climate**
 
-  - **Orthodoxy and Islamic Law** - Eg- Barani’s account of **Islamic orthodoxy** under Firoz Shah Tughlaq.
+    - **Orthodoxy and Islamic Law** - Eg- Barani’s account of **Islamic orthodoxy** under Firoz Shah Tughlaq.
 
-  - **Religious Pluralism and Tolerance** - Eg- **Abul Fazl’s Ain-i-Akbari** on **Sulh-i-Kul.**
+    - **Religious Pluralism and Tolerance** - Eg- **Abul Fazl’s Ain-i-Akbari** on **Sulh-i-Kul.**
 
-  - **Sufi Influence** - Eg- Persian **malfuzat literature** on Chishti saints.
+    - **Sufi Influence** - Eg- Persian **malfuzat literature** on Chishti saints.
 
-  - Indian epics translated into Persian. Eg- **Mahabharata translated as Razmnama** under Akbar by **Badauni.**
+    - Indian epics translated into Persian. Eg- **Mahabharata translated as Razmnama** under Akbar by **Badauni.**
 
-**4. Cultural Ethos**
+4. **Cultural Ethos**
 
-  - **Indo-Persian Cultural Synthesis** - Eg- **Amir Khusrau’s poetry** blending Persian style with Indian imagery.
+    - **Indo-Persian Cultural Synthesis** - Eg- **Amir Khusrau’s poetry** blending Persian style with Indian imagery.
 
-  - **Courtly Culture and Aesthetics** - Eg- Akbar’s court ceremonies described in **Akbarnama.**
+    - **Courtly Culture and Aesthetics** - Eg- Akbar’s court ceremonies described in **Akbarnama.**
 
-  - **Growth of Regional Languages** - Eg- **Punjabi, Sindhi, Kashmiri, and Urdu** absorbed Persian vocabulary.
+    - **Growth of Regional Languages** - Eg- **Punjabi, Sindhi, Kashmiri, and Urdu** absorbed Persian vocabulary.
 
-  - **Inter-faith Dialogue-** Eg- Dara Shikoh’s **Majma-ul-Bahrayn** (The Mingling of the Two Oceans) argues that the Upanishads and the Quran share the same spiritual truth.
+    - **Inter-faith Dialogue-** Eg- Dara Shikoh’s **Majma-ul-Bahrayn** (The Mingling of the Two Oceans) argues that the Upanishads and the Quran share the same spiritual truth.
 
-**5. Social Structure**
+5. **Social Structure**
 
-  - **Hierarchical Society** - Eg- Barani’s classification of **ashraf and ajlaf.**
+    - **Hierarchical Society** - Eg- Barani’s classification of **ashraf and ajlaf.**
 
-  - Accounts of **nobility and officials.** Eg- Chroniclers detailing lives of **mansabdars.**
+    - Accounts of **nobility and officials.** Eg- Chroniclers detailing lives of **mansabdars.**
 
-  - Reflection of **urban society** - Eg- Descriptions of **Delhi, Agra, Fatehpur Sikri.**
+    - Reflection of **urban society** - Eg- Descriptions of **Delhi, Agra, Fatehpur Sikri.**
 
-  - **State-led Reforms** - Eg- **Abul Fazl’s Akbarnama** highlights Akbar’s abolition of **Jizya.**
+    - **State-led Reforms** - Eg- **Abul Fazl’s Akbarnama** highlights Akbar’s abolition of **Jizya.**
 
-  - **Status of Women** - Eg- References to **purdah system** in court narratives.
+    - **Status of Women** - Eg- References to **purdah system** in court narratives.
 
-**6. Technological and Scientific Awareness**
+6. **Technological and Scientific Awareness**
 
-  - **Military Technology** - References to arms and fortifications. Eg- **Baburnama** on use of **gunpowder artillery.**
+    - **Military Technology** - References to arms and fortifications. Eg- **Baburnama** on use of **gunpowder artillery.**
 
-  - **Architectural Techniques** - Documentation of construction methods.
+    - **Architectural Techniques** - Documentation of construction methods.
 
-  - Expansion of **documentation culture.** Eg- Administrative manuals under the Mughals.
+    - Expansion of **documentation culture.** Eg- Administrative manuals under the Mughals.
 
-**7. Legal and Administrative Order**
+7. **Legal and Administrative Order**
 
-  - **Centralised Bureaucracy** - Eg- **Ain-i-Akbari** on mansabdari and judicial administration.
+    - **Centralised Bureaucracy** - Eg- **Ain-i-Akbari** on mansabdari and judicial administration.
 
-  - **Ethical Governance Ideals** - Advice literature for rulers. Eg- **Abul Fazl’s Akbarnama** glorifies Akbar’s reign as ideal governance.
+    - **Ethical Governance Ideals** - Advice literature for rulers. Eg- **Abul Fazl’s Akbarnama** glorifies Akbar’s reign as ideal governance.
 
 Thus, Persian literary sources are not merely historical records but **mirrors of medieval Indian society**
 
@@ -20430,7 +20430,7 @@ With the coming of the Muslimsto the subcontinent, Persian, an Aryan tongue and 
 1. Explanation_PWOnlyIAS:
 Source Question: Persian literary sources of medieval India reflect the spirit of the age. Comment.
 
-| **Approach:** <br> **Introduction** <br>• <br>• Briefly introduce the importance of Persian literary sources in medieval India and their role in reflecting the spirit of the age. <br> **Body** <br>• Discuss various aspects of Persian literature, including historical accounts, poetry, Sufi literature, and translations, and how they captured the political, social, cultural, and spiritual dimensions of the period. <br> **Conclusion** <br>• Summarize the significance of Persian literary sources in fostering cross-cultural exchange and showcasing the diverse and syncretic nature of medieval Indian society. |
+| **Approach:** <br> **Introduction** <br>• <br>• Briefly introduce the importance of Persian literary sources in medieval India and their role in reflecting the spirit of the age. <br> <br> **Body** <br>• Discuss various aspects of Persian literature, including historical accounts, poetry, Sufi literature, and translations, and how they captured the political, social, cultural, and spiritual dimensions of the period. <br> <br> **Conclusion** <br>• Summarize the significance of Persian literary sources in fostering cross-cultural exchange and showcasing the diverse and syncretic nature of medieval Indian society. |
 | --- |
 
 ### Introduction
@@ -20528,7 +20528,7 @@ Q123. Though not very useful from the point of view of a connected political his
 1. Explanation_PWOnlyIAS:
 Source Question: Though not very useful from the point of view of a connected political history of South India, the Sangam literature portrays the social and economic conditions of its time with remarkable vividness. Comment.
 
-| **Approach:** <br> **Introduction** <br>• Introduce your answer by giving a brief account on Sangam Literature. <br> **Body** <br>• Talk about why Sangam literature doesn’t help much to dig into the political history of India. <br>• And how it helps in understanding the social and economic condition of South India. <br> **Conclusion** <br>• Write a relevant conclusion. |
+| **Approach:** <br> **Introduction** <br>• Introduce your answer by giving a brief account on Sangam Literature. <br> <br> **Body** <br>• Talk about why Sangam literature doesn’t help much to dig into the political history of India. <br>• And how it helps in understanding the social and economic condition of South India. <br> <br> **Conclusion** <br>• Write a relevant <br> conclusion. |
 | --- |
 
 ### Introduction
@@ -20685,31 +20685,31 @@ represents India’s earliest large-scale architectural tradition.
 
 **Rock-cut architecture as an important source of knowledge of early Indian art and history**
 
-**1. Evolution of Architectural Forms-** reveal the **transition from timber-based to stone architecture.**
+1. **Evolution of Architectural Forms-** reveal the **transition from timber-based to stone architecture.**
 
 Eg- **Barabar caves.**
 
 <p align="center"><img src="civilsdaily/images/civilsdaily_p32_img15.png" alt="Diagram" /></p>
 
-**2. Source of Chronological History**
+2. **Source of Chronological History**
 
-  - **Nasik Caves** contain the inscriptions of **Gautamiputra Satakarni**
+    - **Nasik Caves** contain the inscriptions of **Gautamiputra Satakarni**
 
-  - Udayagiri caves in Odisha contain the record of **King Kharavela**
+    - Udayagiri caves in Odisha contain the record of **King Kharavela**
 
 **3.** Inscriptions and architectural scale reflect **royal patronage and political authority.** Eg- **Rashtrakuta patronage** of **Kailasanatha Temple, Ellora.**
 
-**4. Development of Religious Traditions -** They provide concrete evidence of **religious evolution** from **Buddhism to Hinduism and Jainism.** Eg- **Ajanta and Bhaja caves (Buddhist), Elephanta caves (Shaiva).**
+4. **Development of Religious Traditions -** They provide concrete evidence of **religious evolution** from **Buddhism to Hinduism and Jainism.** Eg- **Ajanta and Bhaja caves (Buddhist), Elephanta caves (Shaiva).**
 
 **5.** Rock-cut caves contain some of the earliest and finest **sculptural reliefs** in India. Eg- **Maheshmurti of Elephanta, Buddha figures at Ajanta.**
 
 **6.** They preserve India’s earliest surviving mural paintings. Eg- **Ajanta paintings** depicting **Jataka tales and court life.**
 
-**7. Socio-Economic Conditions -** Donor inscriptions highlight the role of **merchants, guilds, and monks,** indicating urbanisation and trade networks. Eg- Inscriptions of **shreshthis and caravan leaders** at **Nasik and Karla caves.**
+7. **Socio-Economic Conditions -** Donor inscriptions highlight the role of **merchants, guilds, and monks,** indicating urbanisation and trade networks. Eg- Inscriptions of **shreshthis and caravan leaders** at **Nasik and Karla caves.**
 
-**8. Technological and Engineering Skills-** Eg- Monolithic carving of **Kailasanatha Temple,** Ellora.
+8. **Technological and Engineering Skills-** Eg- Monolithic carving of **Kailasanatha Temple,** Ellora.
 
-**9. Cultural Synthesis and Continuity -** Cave complexes show **coexistence of multiple religions and styles.** Eg- **Ellora caves** housing **Buddhist, Hindu, and Jain** monuments together.
+9. **Cultural Synthesis and Continuity -** Cave complexes show **coexistence of multiple religions and styles.** Eg- **Ellora caves** housing **Buddhist, Hindu, and Jain** monuments together.
 
 The **global significance** of this heritage is affirmed by **UNESCO recognition** of sites such as the **Ajanta, Ellora and**
 
@@ -20747,7 +20747,7 @@ Rock-cut architectures occupy a very important place in Indian history. Their si
 1. Explanation_PWOnlyIAS:
 Source Question: The rock-cut architecture represents one of the most important sources of our knowledge of early Indian art and history. Discuss.
 
-| **Approach:** <br> **Introduction** <br>• Briefly introduce the significance of rock-cut architecture in Indian art and history. <br> **Body** <br>• Discuss the origins and evolution of rock-cut architecture in India, including the various types of structures and their unique features. <br>• Provide examples of significant rock-cut structures, such as the Ajanta and Ellora caves, the Kailashnath temple at Ellora, and the Udayagiri and Khandagiri caves. Emphasize the role of rock-cut architecture in showcasing the development of various religions and cultures in ancient India, such as Buddhism, Hinduism, and Jainism. <br> **Conclusion** <br>• Sum up the main points and emphasize the significance of rock-cut architecture in preserving and promoting India’s rich cultural heritage. |
+| **Approach:** <br> **Introduction** <br>• Briefly introduce the significance of rock-cut architecture in Indian art and history. <br> <br> **Body** <br>• Discuss the origins and evolution of rock-cut architecture in India, including the various types of structures and their unique features. <br>• Provide examples of significant rock-cut structures, such as the Ajanta and Ellora caves, the Kailashnath temple at Ellora, and the Udayagiri and Khandagiri caves. Emphasize the role of rock-cut architecture in showcasing the development of various religions and cultures in ancient India, such as Buddhism, Hinduism, and Jainism. <br> <br> **Conclusion** <br>• Sum up the main points and emphasize the significance of rock-cut architecture in preserving and promoting India’s rich cultural heritage. |
 | --- |
 
 ### Introduction
@@ -20854,7 +20854,7 @@ Q125. Mesolithic rock cut architecture of India not only reflects the cultural l
 1. Explanation_PWOnlyIAS:
 Source Question: Describe any four cultural elements of diversity in India and rate their relative significance in building a national identity.
 
-| **Approach:** <br> **Introduction** <br>• Mention about India’s diversity and list any four major areas of diversity. <br> **Body:** <br>• Describe the four elements of cultural diversity with some elaboration. <br>• Then, as per your view, rank these cultural elements based on their significance in building a national identity. <br> **Conclusion** <br>• Mention that maintenance of diversity in itself is one of the major reasons why India has remained united as a nation. |
+| **Approach:** <br> **Introduction** <br>• Mention about India’s diversity and list any four major areas of diversity. <br> <br> **Body:** <br>• Describe the four elements of cultural diversity with some elaboration. <br>• Then, as per your view, rank these cultural elements based on their significance in building a national identity. <br> <br> **Conclusion** <br>• Mention that maintenance of diversity in itself is one of the major reasons why India has remained united as a nation. |
 | --- |
 
 ### Introduction
@@ -21095,7 +21095,7 @@ Typical life scenarios are shown in sculpture. Nearly all of the sculptures and 
 1. Explanation_PWOnlyIAS:
 Source Question: How will you explain the medieval Indian temple sculptures represent the social life of those days?
 
-| **Approach:** <br> **Introduction** <br>• Write about the vivid representation showcased by the Indian temple sculpture in brief. <br> **Body** <br>• Mention the characteristics of Medieval Indian Temple Sculptures that portray the social life of those days. <br>• Add examples to substantiate your arguments. <br> **Conclusion** <br>• Write a relevant conclusion mentioning medieval Indian society, offering a unique perspective on the lives and experiences of the people. |
+| **Approach:** <br> **Introduction** <br>• Write about the vivid representation showcased by the Indian temple sculpture in brief. <br> <br> **Body** <br>• Mention the characteristics of Medieval Indian Temple Sculptures that portray the social life of those days. <br>• Add examples to substantiate your arguments. <br> <br> **Conclusion** <br>• Write a relevant <br> conclusion mentioning medieval Indian society, offering a unique perspective on the lives and experiences of the people. |
 | --- |
 
 ### Introduction
@@ -21219,59 +21219,59 @@ Animal symbolism occupies a central place in Indian civilisational thought. Amon
 
 **Significance of the Lion**
 
-**1. Mythological Significance**
+1. **Mythological Significance**
 
-  - **Divine power and protection** - Lion is the **vahana of Goddess Durga,** symbolising victory of **dharma over adharma.** Eg- **Mahishasuramardini** imagery.
+    - **Divine power and protection** - Lion is the **vahana of Goddess Durga,** symbolising victory of **dharma over adharma.** Eg- **Mahishasuramardini** imagery.
 
-  - **Incarnation of Vishnu** - **Narasimha avatar** (half-man, half-lion) represents **divine intervention against tyranny.**
+    - **Incarnation of Vishnu** - **Narasimha avatar** (half-man, half-lion) represents **divine intervention against tyranny.**
 
-  - **Royal authority** - Lion associated with **kingship and sovereignty** in Puranic literature.
+    - **Royal authority** - Lion associated with **kingship and sovereignty** in Puranic literature.
 
-  - **Buddha** is also called as **Shakya-Simha.** His first sermon is described as the "Lion’s Roar" (Simhanada), signifying the power and authority of Truth.
+    - **Buddha** is also called as **Shakya-Simha.** His first sermon is described as the "Lion’s Roar" (Simhanada), signifying the power and authority of Truth.
 
-  - **Throne Symbolism-** The Indian word for throne is **Simhasana** (Lion-seat), indicating that the occupant possesses the qualities of a lion.
+    - **Throne Symbolism-** The Indian word for throne is **Simhasana** (Lion-seat), indicating that the occupant possesses the qualities of a lion.
 
-**2. Artistic Significance**
+2. **Artistic Significance**
 
-  - **Symbol of fearlessness and majesty** - Eg- Lions shown overpowering elephants or enemies
+    - **Symbol of fearlessness and majesty** - Eg- Lions shown overpowering elephants or enemies
 
-  - **Ashokan Lion Capital** - Four lions back-to-back at **Sarnath** symbolise **power, vigilance and moral governance.**
+    - **Ashokan Lion Capital** - Four lions back-to-back at **Sarnath** symbolise **power, vigilance and moral governance.**
 
-  - Narasimha is an important form in Indian **sculpture and paintings.** Eg - Narasimha’s relief at the temple of Belur.
+    - Narasimha is an important form in Indian **sculpture and paintings.** Eg - Narasimha’s relief at the temple of Belur.
 
-**3. Architectural Significance**
+3. **Architectural Significance**
 
-  - **Guardian figures** - Lions placed at **temple entrances and gopurams** as protectors of sacred space.
+    - **Guardian figures** - Lions placed at **temple entrances and gopurams** as protectors of sacred space.
 
-  - **State symbolism** - Adopted as **National Emblem of India,** reflecting continuity of ancient political ideals.
+    - **State symbolism** - Adopted as **National Emblem of India,** reflecting continuity of ancient political ideals.
 
 **Significance of the Bull**
 
-**1. Mythological Significance**
+1. **Mythological Significance**
 
-  - **Vehicle of Lord Shiva** - **Nandi,** the bull, symbolises **devotion, strength and fertility**
+    - **Vehicle of Lord Shiva** - **Nandi,** the bull, symbolises **devotion, strength and fertility**
 
-  - **Cosmic order** - Bull associated with **Dharma** standing on four legs in Satya Yuga.
+    - **Cosmic order** - Bull associated with **Dharma** standing on four legs in Satya Yuga.
 
-  - **Agrarian symbolism** - Bull revered as sustainer of life, linked with **prosperity and agriculture.**
+    - **Agrarian symbolism** - Bull revered as sustainer of life, linked with **prosperity and agriculture.**
 
-  - The **first Jain Tirthankara** is symbolized by the Bull (Rishabha), representing the beginning of the spiritual path
+    - The **first Jain Tirthankara** is symbolized by the Bull (Rishabha), representing the beginning of the spiritual path
 
-**2. Artistic Significance**
+2. **Artistic Significance**
 
-  - **Icon of devotion** - Sculpted **Nandi figures** placed facing the sanctum in Shiva temples. Eg**Brihadeeswara Temple, Thanjavur.**
+    - **Icon of devotion** - Sculpted **Nandi figures** placed facing the sanctum in Shiva temples. Eg**Brihadeeswara Temple, Thanjavur.**
 
-  - The **bronze bull of Kalibangan** represents **Harappan skill in lost-wax casting**
+    - The **bronze bull of Kalibangan** represents **Harappan skill in lost-wax casting**
 
-  - Bull sculptures on the **capital of Mauryan pillars** depicting the zodiac sign of Taurus.
+    - Bull sculptures on the **capital of Mauryan pillars** depicting the zodiac sign of Taurus.
 
-  - **Rampurva Bull Capital** represents the calm, stable aspect of the Emperor’s rule.
+    - **Rampurva Bull Capital** represents the calm, stable aspect of the Emperor’s rule.
 
-**3. Architectural Significance**
+3. **Architectural Significance**
 
-  - **Integral temple element** - Separate **Nandi mandapas** in Dravidian temples. Eg- Largest monolithic statue of Nandi in Lepakshi Temple.
+    - **Integral temple element** - Separate **Nandi mandapas** in Dravidian temples. Eg- Largest monolithic statue of Nandi in Lepakshi Temple.
 
-  - Alignment of Nandi with **garbhagriha** symbolises **direct spiritual connection.**
+    - Alignment of Nandi with **garbhagriha** symbolises **direct spiritual connection.**
 
 The Lion and the Bull act as the dual pillars of Indian iconography, reflecting the "spirit of India."
 
@@ -21325,7 +21325,7 @@ From traces in ancient India to significance in the national symbol of the count
 1. Explanation_PWOnlyIAS:
 Source Question: Discuss the significance of the lion and bull figures in Indian mythology, art and architecture.
 
-| **Approach:** <br> **Introduction** <br>• Briefly introduce the significance of the lion and bull figures in Indian culture. <br> **Body** <br>• Discuss the symbolic value, mythology, and depiction of the lion figure in Indian culture. <br>• Discuss the symbolic value, mythology, and depiction of the bull figure in Indian culture. <br>• Highlight the extensive use of lion and bull figures in Indian art and architecture. <br>• Emphasize how their presence in Indian culture reflects deep-rooted traditions and beliefs. <br> **Conclusion** <br>• Summarize the main points of the answer. Also, reiterate the significance of the lion and bull figures in Indian culture. |
+| **Approach:** <br> **Introduction** <br>• Briefly introduce the significance of the lion and bull figures in Indian culture. <br> <br> **Body** <br>• Discuss the symbolic value, mythology, and depiction of the lion figure in Indian culture. <br>• Discuss the symbolic value, mythology, and depiction of the bull figure in Indian culture. <br>• Highlight the extensive use of lion and bull figures in Indian art and architecture. <br>• Emphasize how their presence in Indian culture reflects deep-rooted traditions and beliefs. <br> <br> **Conclusion** <br>• Summarize the main points of the answer. Also, reiterate the significance of the lion and bull figures in Indian culture. |
 | --- |
 
 ### Introduction
@@ -21521,7 +21521,7 @@ Though there are issues associated with the reliability of the accounts provided
 1. Explanation_PWOnlyIAS:
 Source Question: Assess the importance of the accounts of the Chinese and Arab travellers in the reconstruction of the history of India.
 
-| **Approach:** <br> **Introduction** <br>• Briefly introduce the significance of Chinese and Arab travelers’ accounts in reconstructing Indian history. <br> **Body** <br>• Identify and mention the importance of the accounts of the Chinese and Arab travellers in the reconstruction of the history of India. <br> **Conclusion** <br>• Summarize the importance of Chinese and Arab travelers’ accounts in reconstructing Indian history. |
+| **Approach:** <br> **Introduction** <br>• Briefly introduce the significance of Chinese and Arab travelers’ accounts in reconstructing Indian history. <br> <br> **Body** <br>• Identify and mention the importance of the accounts of the Chinese and Arab travellers in the reconstruction of the history of India. <br> <br> **Conclusion** <br>• Summarize the importance of Chinese and Arab travelers’ accounts in reconstructing Indian history. |
 | --- |
 
 ### Introduction
@@ -21702,7 +21702,7 @@ Tribal responses to colonial oppression in India were diverse, including both ar
 1. Explanation_PWOnlyIAS:
 Source Question: How did colonial rule affect the tribals in India and what was the tribal response to the colonial oppression?
 
-| **Approach:** <br> **Introduction** <br>• Write about the colonial rule and impact on the tribals briefly <br> **Body** <br>• Write how colonial rule affect the tribals in India <br>• Write about the tribal response to the colonial oppression <br> **Conclusion** <br>• Give appropriate conclusion in this regard |
+| **Approach:** <br> **Introduction** <br>• Write about the colonial rule and impact on the tribals briefly <br> <br> **Body** <br>• Write how colonial rule affect the tribals in India <br>• Write about the tribal response to the colonial oppression <br> <br> **Conclusion** <br>• Give appropriate <br> conclusion in this regard |
 | --- |
 
 ### Introduction
@@ -21859,41 +21859,41 @@ The expansion of the British East India Company was a triumph of institutional o
 
 5. **Anglo-Sikh Wars (1845-1849) Reasons behind consistent wins of British East India company army**
 
-**1. Political Factors**
+1. **Political Factors**
 
-  - **Fragmented Indian polity** - Eg- Marathas, Nizam, and Awadh failed to form a sustained anti-British alliance.
+    - **Fragmented Indian polity** - Eg- Marathas, Nizam, and Awadh failed to form a sustained anti-British alliance.
 
-  - **Diplomacy** - Company isolated enemies before military confrontation. Eg- Wellesley’s Subsidiary Alliance system neutralised Indian rulers politically.
+    - **Diplomacy** - Company isolated enemies before military confrontation. Eg- Wellesley’s Subsidiary Alliance system neutralised Indian rulers politically.
 
-**2. Economic Factors**
+2. **Economic Factors**
 
-  - **Superior financial resources** - Eg- Diwani rights (1765) funded continuous military expansion.
+    - **Superior financial resources** - Eg- Diwani rights (1765) funded continuous military expansion.
 
-  - **Commercial-military synergy** - Trade profits sustained long wars without fiscal collapse.
+    - **Commercial-military synergy** - Trade profits sustained long wars without fiscal collapse.
 
-**3. Technological Factors**
+3. **Technological Factors**
 
-  - **Standardised firearms and artillery** - Eg- Effective use of field artillery at Buxar overwhelmed numerically superior forces of Awadh, Mughal, and Bengal Nawab.
+    - **Standardised firearms and artillery** - Eg- Effective use of field artillery at Buxar overwhelmed numerically superior forces of Awadh, Mughal, and Bengal Nawab.
 
-  - **Military innovations** - Better logistics, military engineering, and disciplined infantry formations.
+    - **Military innovations** - Better logistics, military engineering, and disciplined infantry formations.
 
-**4. Leadership and Organisation**
+4. **Leadership and Organisation**
 
-  - **Professional military leadership** - Officers trained in European warfare doctrines. Eg- Clive and Eyre Coote employed coordinated infantry-artillery tactics.
+    - **Professional military leadership** - Officers trained in European warfare doctrines. Eg- Clive and Eyre Coote employed coordinated infantry-artillery tactics.
 
-  - **Unified command structure** - Clear hierarchy ensured swift decision-making unlike feudal Indian armies.
+    - **Unified command structure** - Clear hierarchy ensured swift decision-making unlike feudal Indian armies.
 
-**5. Social Divisions within Indian Armies**
+5. **Social Divisions within Indian Armies**
 
-  - **Feudal composition of Indian forces** - Loyalty based on personal allegiance, not the state. EgDefection of Mir Jafar at Plassey.
+    - **Feudal composition of Indian forces** - Loyalty based on personal allegiance, not the state. EgDefection of Mir Jafar at Plassey.
 
-  - **Caste and regional divisions** - Eg- Mahar regiment fighting against Peshwa army in Anglo-Maratha wars
+    - **Caste and regional divisions** - Eg- Mahar regiment fighting against Peshwa army in Anglo-Maratha wars
 
-**6. Ideological and Psychological Factors**
+6. **Ideological and Psychological Factors**
 
-  - **Absence of nationalism** - Indian soldiers fought for rulers, not a national cause.
+    - **Absence of nationalism** - Indian soldiers fought for rulers, not a national cause.
 
-  - **Company’s corporate discipline** - Soldiers motivated by regular pay, promotion, and military professionalism.
+    - **Company’s corporate discipline** - Soldiers motivated by regular pay, promotion, and military professionalism.
 
 The European conquest of India was not just a conquest of territory but a conquest of the Indian soul, changing the very ethos of Indian society." - **Rabindranath Tagore**
 
@@ -21939,7 +21939,7 @@ The East India Company had a private army. The corporation utilized its armed po
 1. Explanation_PWOnlyIAS:
 Source Question: Why did the armies of the British East India Company – mostly comprising of Indian soldiers – win consistently against the more numerous and better equipped armies of the Indian rulers? Give reasons.
 
-| **Approach:** <br> **Introduction** <br>• Introduce the British East India Company and the paradox of Indian soldiers fighting against their own rulers. <br> **Body:** <br>• Discuss reasons for the Company’s consistent victories over Indian armies, including their superior military tactics, advanced weaponry, and ability to exploit divisions among Indian rulers. <br>• Provide examples of significant battles, such as the Battle of Plassey to illustrate the British East India Company’s superiority. <br> **Conclusion** <br>• Summarize the main points and conclude with the ultimate outcome of British conquest in India. |
+| **Approach:** <br> **Introduction** <br>• Introduce the British East India Company and the paradox of Indian soldiers fighting against their own rulers. <br> <br> **Body:** <br>• Discuss reasons for the Company’s consistent victories over Indian armies, including their superior military tactics, advanced weaponry, and ability to exploit divisions among Indian rulers. <br>• Provide examples of significant battles, such as the Battle of Plassey to illustrate the British East India Company’s superiority. <br> <br> **Conclusion** <br>• Summarize the main points and conclude with the ultimate outcome of British conquest in India. |
 | --- |
 
 ### Introduction
@@ -22055,19 +22055,19 @@ Under British rule, India **experienced an unprecedented frequency of famines (3
 
 1. **Commercialisation of agriculture - Shift from food crops to cash crops** reduced local food availability. EgExpansion of **indigo, cotton, and opium** cultivation under Company pressure.
 
-**2. Rigid land revenue systems** with **fixed and high revenue demands** forced peasants to sell grain during scarcity.
+2. **Rigid land revenue systems** with **fixed and high revenue demands** forced peasants to sell grain during scarcity.
 
-**3. Collapse of handicrafts** increased dependence on agriculture and reduced household resilience during crop failure.
+3. **Collapse of handicrafts** increased dependence on agriculture and reduced household resilience during crop failure.
 
-**4. Disruption of traditional famine-coping mechanisms like community grain banks** due to British policies.
+4. **Disruption of traditional famine-coping mechanisms like community grain banks** due to British policies.
 
-  - **Free trade ideology (laissez-faire attitude)** prioritised exports over local needs. Eg- Continued **grain exports during famines** like the **Great Famine of 1876-78.**
+    - **Free trade ideology (laissez-faire attitude)** prioritised exports over local needs. Eg- Continued **grain exports during famines** like the **Great Famine of 1876-78.**
 
-**6. Neglect of agricultural investment** heightened vulnerability to monsoon failure. Eg- Limited irrigation outside canal colonies.
+6. **Neglect of agricultural investment** heightened vulnerability to monsoon failure. Eg- Limited irrigation outside canal colonies.
 
-  - **Diversion of foodgrains** for British soldiers during world war II led to over 3 million deaths during Bengal famine of 1943
+    - **Diversion of foodgrains** for British soldiers during world war II led to over 3 million deaths during Bengal famine of 1943
 
-  - **Role of Viceroys - Lord Lytton** exported 320,000 tons of wheat to England during the **Great Famine of 1876-1878** Thus, spurt in famines was an **"administrative and man-made"** phenomenon. It underscores the critical role of the state **in ensuring food security at present.**
+    - **Role of Viceroys - Lord Lytton** exported 320,000 tons of wheat to England during the **Great Famine of 1876-1878** Thus, spurt in famines was an **"administrative and man-made"** phenomenon. It underscores the critical role of the state **in ensuring food security at present.**
 
 1. Explanation_Drishti IAS:
 Source Question: Why was there a sudden spurt in famines in colonial India since the mid-eighteenth century? Give reasons.
@@ -22097,7 +22097,7 @@ Famines that occurred during the colonial era had a tremendous influence on the 
 1. Explanation_PWOnlyIAS:
 Source Question: Why was there a sudden spurt in famines in colonial India since the mid-eighteenth century? Give reasons.
 
-| **Approach:** <br> **Introduction** <br>• Start by providing a brief background on the occurrence of famines in colonial India since the mid-eighteenth century. Highlight the severity of the situation and its impact on the Indian population. <br> **Body** <br>• Identify and mention the possible reasons behind it. <br>• Discuss how British colonial policies, such as land revenue and taxation, played a significant role in the occurrence of famines. <br>• Discuss how British colonial policies and the spread of commercial agriculture led to the neglect of subsistence agriculture. <br> **Conclusion** <br>• Sum up by mentioning the long-lasting impact of famines on the Indian population and the need to acknowledge and address the issue. |
+| **Approach:** <br> **Introduction** <br>• Start by providing a brief background on the occurrence of famines in colonial India since the mid-eighteenth century. Highlight the severity of the situation and its impact on the Indian population. <br> <br> **Body** <br>• Identify and mention the possible reasons behind it. <br>• Discuss how British colonial policies, such as land revenue and taxation, played a significant role in the occurrence of famines. <br>• Discuss how British colonial policies and the spread of commercial agriculture led to the neglect of subsistence agriculture. <br> <br> **Conclusion** <br>• Sum up by mentioning the long-lasting impact of famines on the Indian population and the need to acknowledge and address the issue. |
 | --- |
 
 ### Introduction
@@ -22215,7 +22215,7 @@ Thus, in a short span of just 200 years (1757-1947) the entire rural economy whi
 1. Explanation_PWOnlyIAS:
 Source Question: Examine how the decline of traditional artisanal industry in colonial India crippled the rural economy.
 
-| **Approach:** <br> **Introduction** <br>• Begin with a brief overview of the decline of traditional artisanal industry in colonial India and its impact on the rural economy. <br> **Body** <br>• Divide the body into several subsections, each addressing a specific aspect of how the decline of traditional artisanal industry affected the rural economy. <br> **Conclusion** <br>• Write a relevant conclusion. |
+| **Approach:** <br> **Introduction** <br>• Begin with a brief overview of the decline of traditional artisanal industry in colonial India and its impact on the rural economy. <br> <br> **Body** <br>• Divide the <br> body into several subsections, each addressing a specific aspect of how the decline of traditional artisanal industry affected the rural economy. <br> <br> **Conclusion** <br>• Write a relevant <br> conclusion. |
 | --- |
 
 ### Introduction
@@ -22321,7 +22321,7 @@ Q133. Examine critically the various facets of economic policies of the British 
 1. Explanation_PWOnlyIAS:
 Source Question: Examine critically the various facets of economic policies of the British in India from mid-eighteenth century till independence.
 
-| **Approach:** <br> **Introduction** <br>• Introduce the economic policies of the British in India from the mid-eighteenth century till independence and their impact on India’s economy and society. <br> **Body** <br>• Critically examine the various facets of British economic policies, including revenue administration, trade and commerce, deindustrialization, railways, and the drain of wealth, highlighting their consequences. <br> **Conclusion** <br>• Summarize the overall impact of British economic policies on India and their role in shaping the country’s economic development. |
+| **Approach:** <br> **Introduction** <br>• Introduce the economic policies of the British in India from the mid-eighteenth century till independence and their impact on India’s economy and society. <br> <br> **Body** <br>• Critically examine the various facets of British economic policies, including revenue administration, trade and commerce, deindustrialization, railways, and the drain of wealth, highlighting their consequences. <br> <br> **Conclusion** <br>• Summarize the overall impact of British economic policies on India and their role in shaping the country’s economic development. |
 | --- |
 
 ### Introduction
@@ -22531,7 +22531,7 @@ While Gandhi focused on practical education and non-violence, shaping his nation
 1. Explanation_PWOnlyIAS:
 Source Question: What was the difference between Mahatma Gandhi and Rabindranath Tagore in their approach towards education and nationalism?
 
-| **Approach** <br> **Introduction** Write about Mahatma Gandhi and Rabindranath Tagore briefly <br> **Body:** Write the difference between Mahatma Gandhi and Rabindranath Tagore in their approach towards education <br> Write the difference between Mahatma Gandhi and Rabindranath Tagore in their approach towards nationalism <br> **Conclusion** Give appropriate conclusion in this regard |
+| **Approach** <br> **Introduction** Write about Mahatma Gandhi and Rabindranath Tagore briefly <br> <br> **Body:** Write the difference between Mahatma Gandhi and Rabindranath Tagore in their approach towards education <br> Write the difference between Mahatma Gandhi and Rabindranath Tagore in their approach towards nationalism <br> <br> **Conclusion** Give appropriate <br> conclusion in this regard |
 | --- |
 
 ### Introduction
@@ -22715,29 +22715,29 @@ Mahatma Gandhi (Father of the nation) combined **ethics, politics, and social re
 
 **Significance of Gandhian thoughts in present times**
 
-**1. The philosophy of Ahimsa** is relevant for addressing **internal conflicts, protests, and global tensions.** Eg- Russia-Ukraine war
+1. **The philosophy of Ahimsa** is relevant for addressing **internal conflicts, protests, and global tensions.** Eg- Russia-Ukraine war
 
-**2. His emphasis on village self-rule** promotes grassroots democracy and empowers citizens beyond electoral participation.
+2. **His emphasis on village self-rule** promotes grassroots democracy and empowers citizens beyond electoral participation.
 
 **3.** Gandhi’s fight against **untouchability** underlines social justice. It is relevant in addressing **caste discrimination and social exclusion.** Eg- Mob Lynching of Dalits
 
 **4.** His emphasis on **simple living and need-based consumption** address ecological crises and is in line with Mission LiFE.
 
-**5. Swadeshi** supports local production and employment. It also resonates with **Atmanirbhar Bharat** and counters exploitative globalisation. Eg- weaponisation of supply chains by China
+5. **Swadeshi** supports local production and employment. It also resonates with **Atmanirbhar Bharat** and counters exploitative globalisation. Eg- weaponisation of supply chains by China
 
-**6. Satyagraha** empowers citizens to challenge injustice non-violently. It prevents descent into anarchy or authoritarianism.
+6. **Satyagraha** empowers citizens to challenge injustice non-violently. It prevents descent into anarchy or authoritarianism.
 
-**7. Nai Talim** stressed holistic education integrating ethics and skills. It is in line with **value-based and vocational education** suggested in NEP,2020.
+7. **Nai Talim** stressed holistic education integrating ethics and skills. It is in line with **value-based and vocational education** suggested in NEP,2020.
 
-  - His emphasis on **self-discipline and moral courage** bridges gap between rights and duties and promotes responsible citizenry and builds social capital
+    - His emphasis on **self-discipline and moral courage** bridges gap between rights and duties and promotes responsible citizenry and builds social capital
 
-  - **Trusteeship principle**
+    - **Trusteeship principle**
 
-  - Encourages **corporate social responsibility (CSR)** and **ethical capitalism.**
+    - Encourages **corporate social responsibility (CSR)** and **ethical capitalism.**
 
-  - Reduces **wealth inequality (1% HOLDING 40% WEALTH)**
+    - Reduces **wealth inequality (1% HOLDING 40% WEALTH)**
 
-  - Gandhi’s concept of **Sarvodaya (progress for all)** and **Antyodaya** (upliftment of the last person) are relevant for forming social welfare policies. Eg- MGNREGA Mahatma Gandhi’s thoughts represent a **living philosophy.** By prioritizing the planet over profit and humanity over hegemony, Gandhian principles provide a compass for navigating the complexities of the 21st century.
+    - Gandhi’s concept of **Sarvodaya (progress for all)** and **Antyodaya** (upliftment of the last person) are relevant for forming social welfare policies. Eg- MGNREGA Mahatma Gandhi’s thoughts represent a **living philosophy.** By prioritizing the planet over profit and humanity over hegemony, Gandhian principles provide a compass for navigating the complexities of the 21st century.
 
 1. Explanation_Drishti IAS:
 Source Question: Throw light on the significance of thoughts of Mahatma Gandhi in the present times. (2018)
@@ -22759,7 +22759,7 @@ Ultimately, all ideals and thoughts of the Mahatma were reached by him via a pro
 1. Explanation_PWOnlyIAS:
 Source Question: Throw light on the significance of the thoughts of Mahatma Gandhi in the present times.
 
-| **Approach:** <br> **Introduction** <br>• Briefly introduce the relevance of Mahatma Gandhi’s thoughts in the present times, highlighting their continued impact and influence on societies worldwide. <br> **Body** <br>• Discuss the key aspects of Gandhi’s philosophy that remain relevant today. <br>• Provide examples of how these principles can be applied to contemporary issues and challenges faced by individuals and societies today. <br> **Conclusion** <br>• Summarize the importance of Gandhi’s thoughts in present times and emphasize the need to continue applying these principles to build a more peaceful, just, and sustainable world. |
+| **Approach:** <br> **Introduction** <br>• Briefly introduce the relevance of Mahatma Gandhi’s thoughts in the present times, highlighting their continued impact and influence on societies worldwide. <br> <br> **Body** <br>• Discuss the key aspects of Gandhi’s philosophy that remain relevant today. <br>• Provide examples of how these principles can be applied to contemporary issues and challenges faced by individuals and societies today. <br> <br> **Conclusion** <br>• Summarize the importance of Gandhi’s thoughts in present times and emphasize the need to continue applying these principles to build a more peaceful, just, and sustainable world. |
 | --- |
 
 ### Introduction
@@ -22879,7 +22879,7 @@ Send To My Bookmarks
 1. Explanation_PWOnlyIAS:
 Source Question: Highlight the differences in the approach of Subhash Chandra Bose and Mahatma Gandhi in the struggle for freedom. (200 words, 12.5 marks)
 
-| **Approach:** <br> **Introduction** <br>• Introduce Subhash Chandra Bose and Mahatma Gandhi as pivotal figures in the Indian freedom struggle. <br> **Body** <br>• Discuss the key differences in their philosophies and methods. <br> **Conclusion** <br>• Summarize the contrasting approaches of Gandhi and Bose, and highlight the diverse nature of the Indian freedom struggle. |
+| **Approach:** <br> **Introduction** <br>• Introduce Subhash Chandra Bose and Mahatma Gandhi as pivotal figures in the Indian freedom struggle. <br> <br> **Body** <br>• Discuss the key differences in their philosophies and methods. <br> <br> **Conclusion** <br>• Summarize the contrasting approaches of Gandhi and Bose, and highlight the diverse nature of the Indian freedom struggle. |
 | --- |
 
 ### Introduction
@@ -22979,7 +22979,7 @@ Q137. How different would have been the achievement of Indian independence witho
 1. Explanation_PWOnlyIAS:
 Source Question: The ancient civilization in the Indian sub-continent differed from those of Egypt, Mesopotamia, and Greece in that its culture and traditions have been preserved without a breakdown to the present day. Comment. (200 words, 12.5 marks)
 
-| **Approach:** <br> **Introduction** <br>• Introduce the Indus Valley Civilization and its distinctiveness compared to other ancient civilizations such as Egypt, Mesopotamia, and Greece. <br> **Body** <br>• Discuss the factors contributing to the preservation of Indian culture and traditions. <br> **Conclusion** <br>• Reiterate the unique aspect of Indian civilization in maintaining its cultural identity without significant breakdowns, unlike other ancient civilizations. |
+| **Approach:** <br> **Introduction** <br>• Introduce the Indus Valley Civilization and its distinctiveness compared to other ancient civilizations such as Egypt, Mesopotamia, and Greece. <br> <br> **Body** <br>• Discuss the factors contributing to the preservation of Indian culture and traditions. <br> <br> **Conclusion** <br>• Reiterate the unique aspect of Indian civilization in maintaining its cultural identity without significant breakdowns, unlike other ancient civilizations. |
 | --- |
 
 ### Introduction
@@ -23102,7 +23102,7 @@ Q138. Mahatma Gandhi and Dr. B.R. Ambedkar, despite having divergent approaches 
 1. Explanation_PWOnlyIAS:
 Source Question: Mahatma Gandhi and Dr. B R Ambedkar, despite having divergent approaches and strategies, had a common goal of amelioration of the downtrodden. Elucidate. (200 words, 12.5 marks)
 
-| **Approach:** <br> **Introduction** <br>• Briefly introduce Mahatma Gandhi and Dr. B.R. Ambedkar and their shared goal of amelioration of the downtrodden. <br> **Body** <br>• Elucidate on their divergent approaches and strategies <br>• Gandhi’s focus on individual change and moral persuasion, and <br>• Ambedkar’s focus on legal and constitutional means. <br> **Conclusion** <br>• Sum up how their shared goal contributed to significant social and political change in India. |
+| **Approach:** <br> **Introduction** <br>• Briefly introduce Mahatma Gandhi and Dr. B.R. Ambedkar and their shared goal of amelioration of the downtrodden. <br> <br> **Body** <br>• Elucidate on their divergent approaches and strategies <br>• Gandhi’s focus on individual change and moral persuasion, and <br>• Ambedkar’s focus on legal and constitutional means. <br> <br> **Conclusion** <br>• Sum up how their shared goal contributed to significant social and political change in India. |
 | --- |
 
 ### Introduction
@@ -23304,7 +23304,7 @@ The century long economic exploitation, political subjugation, discriminatory po
 1. Explanation_PWOnlyIAS:
 Source Question: The 1857 uprising was the culmination of the recurrent, big and small local rebellions that had occurred in the preceding hundred years of British rule. Elucidate.
 
-| **Approach:** <br> **Introduction** <br>• Introduce the 1857 uprising and its connection to the preceding local rebellions against British rule. <br> **Body** <br>• Discuss the major factors and local rebellions that led to the 1857 uprising, including: <br>• Socio-economic factors <br>• Religious and cultural factors <br>• Political factors <br>• Key local rebellions before 1857 **Conclusion** <br>• Summarize how the 1857 uprising was a culmination of the recurrent local rebellions against British rule and its significance for the Indian national movement. |
+| **Approach:** <br> **Introduction** <br>• Introduce the 1857 uprising and its connection to the preceding local rebellions against British rule. <br> <br> **Body** <br>• Discuss the major factors and local rebellions that led to the 1857 uprising, including: <br>• Socio-economic factors <br>• Religious and cultural factors <br>• Political factors <br>• Key local rebellions before 1857 <br> **Conclusion** <br>• Summarize how the 1857 uprising was a culmination of the recurrent local rebellions against British rule and its significance for the Indian national movement. |
 | --- |
 
 ### Introduction
@@ -23440,7 +23440,7 @@ After these series of events, the Mughal Empire ceased to exist as an all-India 
 1. Explanation_PWOnlyIAS:
 Source Question: Clarify how mid-eighteenth century India was beset with the spectre of a fragmented polity.
 
-| **Approach:** <br> **Introduction** <br>• Introduce the topic of political fragmentation in mid-eighteenth century India. <br> **Body** <br>• Discuss the decline of the Mughal Empire and its impact on the political landscape of India, including the power vacuum it created. <br>• Explain the rise of regional powers and how they contributed to political fragmentation. <br>• Describe the growing influence of European powers, particularly the British and French East India Companies, and their role in exploiting the political fragmentation for their own benefit. <br>• Address the issue of ineffective alliances and shifting loyalties among regional powers and European companies, further exacerbating the fragmentation. <br> **Conclusion** <br>• Summarize the factors that led to the fragmented polity in mid-eighteenth century India. |
+| **Approach:** <br> **Introduction** <br>• Introduce the topic of political fragmentation in mid-eighteenth century India. <br> <br> **Body** <br>• Discuss the decline of the Mughal Empire and its impact on the political landscape of India, including the power vacuum it created. <br>• Explain the rise of regional powers and how they contributed to political fragmentation. <br>• Describe the growing influence of European powers, particularly the British and French East India Companies, and their role in exploiting the political fragmentation for their own benefit. <br>• Address the issue of ineffective alliances and shifting loyalties among regional powers and European companies, further exacerbating the fragmentation. <br> <br> **Conclusion** <br>• Summarize the factors that led to the fragmented polity in mid-eighteenth century India. |
 | --- |
 
 ### Introduction
@@ -23564,7 +23564,7 @@ Hence, in essence, uprising in 1857 was an important mark from which the British
 1. Explanation_PWOnlyIAS:
 Source Question: Explain how the uprising of 1857 constitutes an important watershed in the evolution of British policies towards colonial India. (200 words, 12.5 marks)
 
-| **Approach:** <br> **Introduction** <br>• Briefly introduce the uprising of 1857 and its significance as a turning point in British policies towards colonial India. <br> **Body** <br>• Discuss the key changes in British policies following the uprising. <br> **Conclusion** <br>• Write a relevant conclusion. |
+| **Approach:** <br> **Introduction** <br>• Briefly introduce the uprising of 1857 and its significance as a turning point in British policies towards colonial India. <br> <br> **Body** <br>• Discuss the key changes in British policies following the uprising. <br> <br> **Conclusion** <br>• Write a relevant <br> conclusion. |
 | --- |
 
 ### Introduction
@@ -23644,7 +23644,7 @@ Q142. In what ways did the naval mutiny prove to be the last nail in the coffin 
 1. Explanation_PWOnlyIAS:
 Source Question: In what ways did the naval mutiny prove to be the last nail in the coffin of British colonial aspirations in India?
 
-| **Approach:** <br> **Introduction** <br>• Introduce the Royal Indian Navy Mutiny and its significance in India’s struggle for independence. <br> **Body** <br>• Discuss the various factors that contributed to the naval mutiny being the last nail in the coffin of British colonial aspirations in India. <br> **Conclusion** <br>• Summarize how the naval mutiny marked the end of British colonial rule in India and accelerated the process of India’s independence |
+| **Approach:** <br> **Introduction** <br>• Introduce the Royal Indian Navy Mutiny and its significance in India’s struggle for independence. <br> <br> **Body** <br>• Discuss the various factors that contributed to the naval mutiny being the last nail in the coffin of British colonial aspirations in India. <br> <br> **Conclusion** <br>• Summarize how the naval mutiny marked the end of British colonial rule in India and accelerated the process of India’s independence |
 | --- |
 
 ### Introduction
@@ -23757,7 +23757,7 @@ Q143. The third battle of Panipat was fought in 1761. Why were so many empire-sh
 1. Explanation_PWOnlyIAS:
 Source Question: The third battle of Panipat was fought in 1761. Why were so many empire-shaking battles fought at Panipat?
 
-| **Approach:** <br> **Introduction** <br>• Introduce the Third Battle of Panipat and mention its significance in Indian history, highlighting that Panipat has been the site of three major battles. <br> **Body** <br>• Elaborate on the reasons why so many empire-shaking battles were fought at Panipat, including its <br>• strategic location, <br>• proximity to Delhi, and <br>• open terrain. **Conclusion** <br>• Write a relevant conclusion. |
+| **Approach:** <br> **Introduction** <br>• Introduce the Third Battle of Panipat and mention its significance in Indian history, highlighting that Panipat has been the site of three major battles. <br> <br> **Body** <br>• Elaborate on the reasons why so many empire-shaking battles were fought at Panipat, including its <br>• strategic location, <br>• proximity to Delhi, and <br>• open terrain. <br> **Conclusion** <br>• Write a relevant <br> conclusion. |
 | --- |
 
 ### Introduction
@@ -24079,7 +24079,7 @@ Apart from attacking social evils like bigotry, superstition, untouchability, pu
 1. Explanation_PWOnlyIAS:
 Source Question: Trace the rise and growth of socio-religious reform movements with special reference to Young Bengal and Brahmo Samaj.
 
-| **Approach:** <br> **Introduction** <br>• Briefly introduce the socio-religious reform movements in India, highlighting the significance of the Young Bengal movement and the Brahmo Samaj. <br> **Body** <br>• Discuss the rise and growth of the Young Bengal movement and the Brahmo Samaj, their objectives, the prominent leaders, and their contributions to social reform and modern education. <br> **Conclusion** <br>• Summarize the impact of these movements in challenging social and religious orthodoxy and their role in shaping modern India. |
+| **Approach:** <br> **Introduction** <br>• Briefly introduce the socio-religious reform movements in India, highlighting the significance of the Young Bengal movement and the Brahmo Samaj. <br> <br> **Body** <br>• Discuss the rise and growth of the Young Bengal movement and the Brahmo Samaj, their objectives, the prominent leaders, and their contributions to social reform and modern education. <br> <br> **Conclusion** <br>• Summarize the impact of these movements in challenging social and religious orthodoxy and their role in shaping modern India. |
 | --- |
 
 ### Introduction
@@ -24235,7 +24235,7 @@ To summarize, the issues of women in the 19th century are mainly related to the 
 1. Explanation_PWOnlyIAS:
 Source Question: The women’s questions arose in modern India as a part of the 19th-century social reform movement. What are the major issues and debates concerning women in that period?
 
-| **Approach:** <br> **Introduction** <br>• Introduce with an overview of the 19th-century social reform movement in India and its focus on addressing women’s issues as a part of the broader push for social progress. <br> **Body** <br>• Discuss the major issues and debates concerning women during the 19th century. <br> **Conclusion** <br>• Emphasize how the movement laid the foundation for further progress in women’s rights, which continues to be an important area of focus in modern India. |
+| **Approach:** <br> **Introduction** <br>• Introduce with an overview of the 19th-century social reform movement in India and its focus on addressing women’s issues as a part of the broader push for social progress. <br> <br> **Body** <br>• Discuss the major issues and debates concerning women during the 19th century. <br> <br> **Conclusion** <br>• Emphasize how the movement laid the foundation for further progress in women’s rights, which continues to be an important area of focus in modern India. |
 | --- |
 
 ### Introduction
@@ -24394,7 +24394,7 @@ The partition of Bengal and the high-handed behaviour of Curzon fired the nation
 1. Explanation_PWOnlyIAS:
 Source Question: Evaluate the policies of Lord Curzon and their long term implications on the national movements.
 
-| **Approach:** <br> **Introduction** <br>• Briefly introduce Lord Curzon and his tenure as Viceroy of India. <br> **Body** <br>• Discuss key policies implemented by Lord Curzon and their impact on national movements. Give examples. <br> **Conclusion** <br>• Write a relevant conclusion, summarizing the long-term implications of Curzon’s policies on the national movements and India’s struggle for independence. |
+| **Approach:** <br> **Introduction** <br>• Briefly introduce Lord Curzon and his tenure as Viceroy of India. <br> <br> **Body** <br>• Discuss key policies implemented by Lord Curzon and their impact on national movements. Give examples. <br> <br> **Conclusion** <br>• Write a relevant <br> conclusion, summarizing the long-term implications of Curzon’s policies on the national movements and India’s struggle for independence. |
 | --- |
 
 ### Introduction
@@ -24511,7 +24511,7 @@ Q148. In many ways, Lord Dalhousie was the founder of modern India. Elaborate.
 1. Explanation_PWOnlyIAS:
 Source Question: The recent cyclone on the east coast of India was called “Phailin”. How are tropical cyclones named across the world? Elaborate.
 
-| **Approach:** <br> **Introduction** <br>• Brief about how tropical cyclones can be named tropical cyclones. <br> **Body** <br>• Discuss tropical cyclones are named across the world. <br> **Conclusion** <br>• Conclude your answer with a summary of the answer. |
+| **Approach:** <br> **Introduction** <br>• Brief about how tropical cyclones can be named tropical cyclones. <br> <br> **Body** <br>• Discuss tropical cyclones are named across the world. <br> <br> **Conclusion** <br>• Conclude your answer with a summary of the answer. |
 | --- |
 
 ### Introduction
@@ -24661,7 +24661,7 @@ Q149. It would have been difficult for the Constituent Assembly to complete its 
 1. Explanation_PWOnlyIAS:
 Source Question: Discuss the positive and negative effects of globalization on women in India.
 
-| **Approach:** <br> **Introduction** <br>• Define globalization. **Body** <br>• Give some positive and some negative effect of globalization on women in India. <br> **Conclusion** <br>• Suitable conclusion. |
+| **Approach:** <br> **Introduction** <br>• Define globalization. <br> **Body** <br>• Give some positive and some negative effect of globalization on women in India. <br> <br> **Conclusion** <br>• Suitable <br> conclusion. |
 | --- |
 
 ### Introduction
@@ -24799,7 +24799,7 @@ However, the role of moderates can also not be negated. They were first to creat
 1. Explanation_PWOnlyIAS:
 Source Question: Why did the ‘Moderates’ fail to carry conviction with the nation about their proclaimed ideology and political goals by the end of the nineteenth century?
 
-| **Approach:** <br> **Introduction** <br>• Begin with a brief overview of the Moderates, their ideology, and their struggles to gain widespread support for their political goals by the end of the nineteenth century. <br> **Body** <br>• Divide the body into several subsections, each addressing a specific factor that contributed to the Moderates’ failure to carry conviction with the nation. <br> **Conclusion** <br>• Write a relevant conclusion. |
+| **Approach:** <br> **Introduction** <br>• Begin with a brief overview of the Moderates, their ideology, and their struggles to gain widespread support for their political goals by the end of the nineteenth century. <br> <br> **Body** <br>• Divide the <br> body into several subsections, each addressing a specific factor that contributed to the Moderates’ failure to carry conviction with the nation. <br> <br> **Conclusion** <br>• Write a relevant <br> conclusion. |
 | --- |
 
 ### Introduction
@@ -24923,7 +24923,7 @@ Hence the vision of Indian independence was broadened in scale and scope after t
 1. Explanation_PWOnlyIAS:
 Source Question: Highlight the importance of the new objectives that got added to the vision of Indian Independence since the twenties of the last century.
 
-| **Approach:** <br> **Introduction** <br>• Begin with an overview of the Indian independence movement and the evolving objectives during the 1920s that shaped the vision of a modern, secular, and inclusive India. <br> **Body** <br>• Discuss the key new objectives that were added to the vision of Indian Independence since the 1920s. <br> **Conclusion** <br>• Conclude, emphasizing the enduring relevance of these objectives in guiding India’s progress and development today. |
+| **Approach:** <br> **Introduction** <br>• Begin with an overview of the Indian independence movement and the evolving objectives during the 1920s that shaped the vision of a modern, secular, and inclusive India. <br> <br> **Body** <br>• Discuss the key new objectives that were added to the vision of Indian Independence since the 1920s. <br> <br> **Conclusion** <br>• Conclude, emphasizing the enduring relevance of these objectives in guiding India’s progress and development today. |
 | --- |
 
 ### Introduction
@@ -25064,7 +25064,7 @@ In addition to these Gandhian leaders, women also participated in freedom strugg
 1. Explanation_PWOnlyIAS:
 Source Question: Discuss the role of women in the freedom struggle especially during the Gandhian phase. (200 words, 12.5 marks)
 
-| **Approach:** <br> **Introduction** <br>• Briefly introduce the role of women in the Indian freedom struggle, with a focus on their involvement during the Gandhian phase. <br> **Body** <br>• Discuss the various aspects of women’s participation. Substantiate your views with examples. <br> **Conclusion** <br>• Write a relevant conclusion. |
+| **Approach:** <br> **Introduction** <br>• Briefly introduce the role of women in the Indian freedom struggle, with a focus on their involvement during the Gandhian phase. <br> <br> **Body** <br>• Discuss the various aspects of women’s participation. Substantiate your views with examples. <br> <br> **Conclusion** <br>• Write a relevant <br> conclusion. |
 | --- |
 
 ### Introduction
@@ -25167,7 +25167,7 @@ Q153. Several foreigners made India their homeland and participated in various m
 1. Explanation_PWOnlyIAS:
 Source Question: Several foreigners made India their homeland and participated in various movements. Analyze their role in the Indian struggle for freedom.
 
-| **Approach:** <br> **Introduction** <br>• Introduce by mentioning that numerous foreign individuals made India their home. <br> **Body:** <br>• Mention their diverse roles and contributions to the struggle for freedom. <br> **Conclusion** <br>• Summarize the significance of the foreign individuals’ contributions to India’s struggle for freedom. |
+| **Approach:** <br> **Introduction** <br>• Introduce by mentioning that numerous foreign individuals made India their home. <br> <br> **Body:** <br>• Mention their diverse roles and contributions to the struggle for freedom. <br> <br> **Conclusion** <br>• Summarize the significance of the foreign individuals’ contributions to India’s struggle for freedom. |
 | --- |
 
 ### Introduction
@@ -25331,33 +25331,33 @@ The **Quit India Movement, launched on August 8, 1942,** emerged from the failur
 
 **Events leading to the Quit India Movement**
 
-**1. Unilateral involvement of India in World War II** without Indian consent created political resentment.
+1. **Unilateral involvement of India in World War II** without Indian consent created political resentment.
 
-**2. Failure of Constitutional Negotiations**
+2. **Failure of Constitutional Negotiations**
 
-  - **Collapse of the August Offer (1940)** due to no commitment to **immediate transfer of power disappointed** nationalists.
+    - **Collapse of the August Offer (1940)** due to no commitment to **immediate transfer of power disappointed** nationalists.
 
-  - **Cripps Mission (1942)** failed to satisfy Indian demands - Offer of dominion status **after the war,** with right of provinces to secede. Gandhiji called it “post dated cheque”
+    - **Cripps Mission (1942)** failed to satisfy Indian demands - Offer of dominion status **after the war,** with right of provinces to secede. Gandhiji called it “post dated cheque”
 
-**3. Growing Economic Hardship - War-time inflation, shortages, and taxation** aggravated public suffering.
+3. **Growing Economic Hardship - War-time inflation, shortages, and taxation** aggravated public suffering.
 
-**4. Rapid Japanese advances in Southeast Asia** exposed British military vulnerability. Nationalists believed **British withdrawal was necessary for India’s defence.**
+4. **Rapid Japanese advances in Southeast Asia** exposed British military vulnerability. Nationalists believed **British withdrawal was necessary for India’s defence.**
 
-  - Use of repressive laws like **Defense of India Act** angered Indian **Results of the Quit India Movement**
+    - Use of repressive laws like **Defense of India Act** angered Indian **Results of the Quit India Movement**
 
-**1. Mass uprising despite leadership arrests - Spontaneous participation of students, peasants, workers, and women.**
+1. **Mass uprising despite leadership arrests - Spontaneous participation of students, peasants, workers, and women.**
 
-**2. Establishment of Parallel Governments** in several places like **Ballia** (Chitu Pandey), **Tamluk** (Jatiya Sarkar), and **Satara** (Prati Sarkar),
+2. **Establishment of Parallel Governments** in several places like **Ballia** (Chitu Pandey), **Tamluk** (Jatiya Sarkar), and **Satara** (Prati Sarkar),
 
-**3. Brutal British Repression-** Eg- Mass arrests, firing, and censorship during 1942-43.
+3. **Brutal British Repression-** Eg- Mass arrests, firing, and censorship during 1942-43.
 
-**4. Emergence of local leaders** kept the movement alive. Eg- Role of **Aruna Asaf Ali, Jayaprakash Narayan, Ram Manohar Lohia.**
+4. **Emergence of local leaders** kept the movement alive. Eg- Role of **Aruna Asaf Ali, Jayaprakash Narayan, Ram Manohar Lohia.**
 
-  - **INA trials (1945-46)** triggered nationwide protests involving civilians and soldiers.
+    - **INA trials (1945-46)** triggered nationwide protests involving civilians and soldiers.
 
-  - **Royal Indian Navy Mutiny (1946)** in **Bombay, Karachi, Madras,** with slogans of **Quit India and INA support.**
+    - **Royal Indian Navy Mutiny (1946)** in **Bombay, Karachi, Madras,** with slogans of **Quit India and INA support.**
 
-**7. Quit India set the stage for Cabinet Mission and independence talks.**
+7. **Quit India set the stage for Cabinet Mission and independence talks.**
 
 **As noted by Bipan Chandra, it was a "spontaneous revolution" that proved the British presence**
 
@@ -25507,53 +25507,53 @@ Mahatma Gandhi viewed the Indian national movement not merely as a political str
 
 **Movement**
 
-**1. Communal Unity**
+1. **Communal Unity**
 
-  - During the NCM, he actively linked mainstream national grievances with the **Khilafat Movement** to forge Hindu - Muslim unity.
+    - During the NCM, he actively linked mainstream national grievances with the **Khilafat Movement** to forge Hindu - Muslim unity.
 
-  - He emphasized an **"unbreakable unity of hearts,"** demanding that Congress workers exhibit genuine respect for all religious faiths.
+    - He emphasized an **"unbreakable unity of hearts,"** demanding that Congress workers exhibit genuine respect for all religious faiths.
 
-  - **Joint participation** in hartals and protests. Eg- Ali Brothers working alongside Congress.
+    - **Joint participation** in hartals and protests. Eg- Ali Brothers working alongside Congress.
 
-**2. Removal of Untouchability**
+2. **Removal of Untouchability**
 
-  - Gandhi urged upper-caste Hindus to abandon untouchability as a sin against humanity.
+    - Gandhi urged upper-caste Hindus to abandon untouchability as a sin against humanity.
 
-  - Opening of wells, temples, and public roads to Dalits was encouraged.
+    - Opening of wells, temples, and public roads to Dalits was encouraged.
 
-  - **Mass Awareness via** weekly nationalist newspaper **‘Harijan’** (Children of God).
+    - **Mass Awareness via** weekly nationalist newspaper **‘Harijan’** (Children of God).
 
-  - He undertook a 20,000-km nationwide tour to raise welfare funds and founded the **Harijan Sevak Sangh** in 1932 for upliftment of depressed classes.
+    - He undertook a 20,000-km nationwide tour to raise welfare funds and founded the **Harijan Sevak Sangh** in 1932 for upliftment of depressed classes.
 
-**3. Promotion of Khadi and Village Industries**
+3. **Promotion of Khadi and Village Industries**
 
-  - Spinning wheel (charkha) became the symbol of self-reliance and economic independence.
+    - Spinning wheel (charkha) became the symbol of self-reliance and economic independence.
 
-  - Boycott of foreign cloth and promotion of hand-spun, hand-woven Khadi. Eg- Public bonfires of foreign cloth in Bombay.
+    - Boycott of foreign cloth and promotion of hand-spun, hand-woven Khadi. Eg- Public bonfires of foreign cloth in Bombay.
 
-**4. Prohibition of Alcohol and Opium**
+4. **Prohibition of Alcohol and Opium**
 
-  - Intensified anti-liquor campaigns. Eg- Women's groups in Gujarat and Maharashtra actively picketed liquor shops.
+    - Intensified anti-liquor campaigns. Eg- Women's groups in Gujarat and Maharashtra actively picketed liquor shops.
 
-**5. Basic Education (Nai Talim)**
+5. **Basic Education (Nai Talim)**
 
-  - **Holistic Pedagogy:** learning was directly connected with practical life, aiming to harmoniously develop the "mind, body, and soul."
+    - **Holistic Pedagogy:** learning was directly connected with practical life, aiming to harmoniously develop the "mind, body, and soul."
 
-  - **Vocational Roots:** centering primary education around a productive local handicraft (like spinning or woodwork)
+    - **Vocational Roots:** centering primary education around a productive local handicraft (like spinning or woodwork)
 
-  - Tilak Maharashtra Vidyapeeth and Gujarat Vidyapith were founded to provide education rooted in Indian values.
+    - Tilak Maharashtra Vidyapeeth and Gujarat Vidyapith were founded to provide education rooted in Indian values.
 
-**6. Upliftment and Empowerment of Women**
+6. **Upliftment and Empowerment of Women**
 
-  - Mass participation of women in picketing, salt-making, and boycotts.
+    - Mass participation of women in picketing, salt-making, and boycotts.
 
-  - Women like Sarojini Naidu, Kamaladevi Chattopadhyay, and Kasturba Gandhi emerged as leaders.
+    - Women like Sarojini Naidu, Kamaladevi Chattopadhyay, and Kasturba Gandhi emerged as leaders.
 
-  - **Economic Independence** by actively involving women in decentralized Khadi production.
+    - **Economic Independence** by actively involving women in decentralized Khadi production.
 
-**7. Improving the Plight of Labourers and Kisans**
+7. **Improving the Plight of Labourers and Kisans**
 
-  - **Organizing Agrarian Resistance:** Eg: The **Bardoli Satyagraha (1928)** under Sardar Patel.
+    - **Organizing Agrarian Resistance:** Eg: The **Bardoli Satyagraha (1928)** under Sardar Patel.
 
 **Significance of Constructive Programmes**
 
@@ -25585,7 +25585,7 @@ Integration of Indian society was perhaps more difficult than the achievement of
 1. Explanation_PWOnlyIAS:
 Source Question: Bring out the constructive programmes of Mahatma Gandhi during Non-Cooperation Movement and Civil Disobedience Movement.
 
-| **Approach:** <br> **Introduction** <br>• Introduce Mahatma Gandhi’s significance in India’s struggle for independence and his leadership in the Non-Cooperation Movement and Civil Disobedience Movement. <br> **Body** <br>• Elaborate on the diverse constructive initiatives undertaken by Gandhi during both movements, providing examples. <br> **Conclusion** <br>• Recap the influence of these constructive initiatives on the Indian freedom struggle. |
+| **Approach:** <br> **Introduction** <br>• Introduce Mahatma Gandhi’s significance in India’s struggle for independence and his leadership in the Non-Cooperation Movement and Civil Disobedience Movement. <br> <br> **Body** <br>• Elaborate on the diverse constructive initiatives undertaken by Gandhi during both movements, providing examples. <br> <br> **Conclusion** <br>• Recap the influence of these constructive initiatives on the Indian freedom struggle. |
 | --- |
 
 ### Introduction
@@ -25822,7 +25822,7 @@ Even the **Business class participated** by giving financial assistance and reje
 1. Explanation_PWOnlyIAS:
 Source Question: Many voices had strengthened and enriched the nationalist movement during the Gandhian phase. Elaborate.
 
-| **Approach:** <br> **Introduction** <br>• Introduce the Gandhian phase of the nationalist movement and how it was strengthened and enriched by various voices. <br> **Body** <br>• Discuss the different voices that contributed to the nationalist movement during the Gandhian phase. <br> **Conclusion** <br>• Summarize the importance of diverse voices in the nationalist movement during the Gandhian phase and their role in shaping the freedom struggle. |
+| **Approach:** <br> **Introduction** <br>• Introduce the Gandhian phase of the nationalist movement and how it was strengthened and enriched by various voices. <br> <br> **Body** <br>• Discuss the different voices that contributed to the nationalist movement during the Gandhian phase. <br> <br> **Conclusion** <br>• Summarize the importance of diverse voices in the nationalist movement during the Gandhian phase and their role in shaping the freedom struggle. |
 | --- |
 
 ### Introduction
@@ -25976,17 +25976,17 @@ The transfer of power in 1940s was not a smooth constitutional transition but a 
 
 (criticized as "blueprint for partition.")
 
-**4. Encouragement of Communal Politics**
+4. **Encouragement of Communal Politics**
 
-  - Recognition of Muslim League as sole Muslim representative and granting it a **"Veto"** in the August Offer of 1940
+    - Recognition of Muslim League as sole Muslim representative and granting it a **"Veto"** in the August Offer of 1940
 
-  - British dealings reinforced **two-nation logic** rather than national unity.
+    - British dealings reinforced **two-nation logic** rather than national unity.
 
-  - The **wavell plan and shimla conference** further emboldened the Muslim league
+    - The **wavell plan and shimla conference** further emboldened the Muslim league
 
-  - **The arrest of Congress leadership** during Quit India created a political vacuum.
+    - **The arrest of Congress leadership** during Quit India created a political vacuum.
 
-**6. Ambiguous stance on princely states** created uncertainty and bargaining delays in final settlement.
+6. **Ambiguous stance on princely states** created uncertainty and bargaining delays in final settlement.
 
 Eg- British declared that with their departure, "Paramountcy" would lapse. This created a fear of
 
@@ -25994,15 +25994,15 @@ Eg- British declared that with their departure, "Paramountcy" would lapse. This 
 
 **7.** Britain negotiated separately with **Congress, Muslim League, and princes,** during **Cabinet Mission (1946),** preventing consensus.
 
-**8. Lack of firm British commitment** allowed conflicting interpretations. Eg- Congress-League disagreement over **grouping of provinces.**
+8. **Lack of firm British commitment** allowed conflicting interpretations. Eg- Congress-League disagreement over **grouping of provinces.**
 
-**9. Sudden decision to quit** after prolonged delay created chaos.
+9. **Sudden decision to quit** after prolonged delay created chaos.
 
-  - **Mountbatten Plan** advanced transfer date to August 1947 from 30th June 1948
+    - **Mountbatten Plan** advanced transfer date to August 1947 from 30th June 1948
 
-  - Boundary demarcation under **Radcliffe** done in extreme haste.
+    - Boundary demarcation under **Radcliffe** done in extreme haste.
 
-  - Communalism + Administration vacuum resulted in riots in **Calcutta (1946)** and **Punjab (1947)** British policy was to divide and rule, and when they could no longer rule, they divided and quit. The scars of partition are still reflected in the Indian polity, economy and society.
+    - Communalism + Administration vacuum resulted in riots in **Calcutta (1946)** and **Punjab (1947)** British policy was to divide and rule, and when they could no longer rule, they divided and quit. The scars of partition are still reflected in the Indian polity, economy and society.
 
 1. Explanation_Drishti IAS:
 Source Question: Assess the role of British imperial power in complicating the process of transfer of power during the 1940s.
@@ -26042,7 +26042,7 @@ It was hard to let go of the main resource supplier and the market consumer but 
 1. Explanation_PWOnlyIAS:
 Source Question: Assess the role of British imperial power in complicating the process of transfer of power during the 1940s.
 
-| **Approach:** <br> **Introduction** <br>• Introduce the British imperial power’s role in the process of transfer of power during the 1940s. <br> **Body** <br>• Discuss the various ways in which British imperial power complicated the transfer of power. <br> **Conclusion** <br>• Summarize the role of British imperial power in complicating the transfer of power and its impact on the eventual partition of India. |
+| **Approach:** <br> **Introduction** <br>• Introduce the British imperial power’s role in the process of transfer of power during the 1940s. <br> <br> **Body** <br>• Discuss the various ways in which British imperial power complicated the transfer of power. <br> <br> **Conclusion** <br>• Summarize the role of British imperial power in complicating the transfer of power and its impact on the eventual partition of India. |
 | --- |
 
 ### Introduction
@@ -26151,25 +26151,25 @@ Source Question: Examine the linkages between the nineteenth century’s ‘Indi
 
 **Linkages between the Indian renaissance and the emergence of national identity**
 
-**1. Rediscovery of Ancient Heritage-** The glorification of the Vedas (by Dayanand Saraswati) and the Upanishads helped instill a sense of **national pride.**
+1. **Rediscovery of Ancient Heritage-** The glorification of the Vedas (by Dayanand Saraswati) and the Upanishads helped instill a sense of **national pride.**
 
-**2. Attack on social evils** weakened internal divisions that hindered collective identity. Eg- Abolition of **Sati (1829)** and campaigns against child marriage.
+2. **Attack on social evils** weakened internal divisions that hindered collective identity. Eg- Abolition of **Sati (1829)** and campaigns against child marriage.
 
-**3. Western education introduced rationalism, liberalism, equality** and created an **educated middle class** that articulated national consciousness.
+3. **Western education introduced rationalism, liberalism, equality** and created an **educated middle class** that articulated national consciousness.
 
-**4. Expansion of press and literature** facilitated pan-Indian communication of political ideas. EgNewspapers like **Sambad Kaumudi, Kesari, Amrita Bazar Patrika.**
+4. **Expansion of press and literature** facilitated pan-Indian communication of political ideas. EgNewspapers like **Sambad Kaumudi, Kesari, Amrita Bazar Patrika.**
 
-**5. Reformist reinterpretation of religion** promoted ethical universalism and unity. Eg- **Brahmo Samaj, Arya Samaj, Prarthana Samaj.**
+5. **Reformist reinterpretation of religion** promoted ethical universalism and unity. Eg- **Brahmo Samaj, Arya Samaj, Prarthana Samaj.**
 
-**6. Rise of regional renaissance movements** fostered a **composite national identity** Eg- **Bengal Renaissance, Aligarh Movement, Justice Movement.**
+6. **Rise of regional renaissance movements** fostered a **composite national identity** Eg- **Bengal Renaissance, Aligarh Movement, Justice Movement.**
 
-**7. Indian historians reclaimed history** from colonial distortions and strengthened the idea of **India as a nation with a shared past.** Eg- Works of **R.C. Majumdar, Bankim Chandra Chattopadhyay.**
+7. **Indian historians reclaimed history** from colonial distortions and strengthened the idea of **India as a nation with a shared past.** Eg- Works of **R.C. Majumdar, Bankim Chandra Chattopadhyay.**
 
-**8. Women’s education and emancipation** increased their participation in national movement. Eg- Efforts of **Ishwar Chandra Vidyasagar** and **Pandita Ramabai.**
+8. **Women’s education and emancipation** increased their participation in national movement. Eg- Efforts of **Ishwar Chandra Vidyasagar** and **Pandita Ramabai.**
 
-**9. Criticism of colonialism** by reformers led to development of **early political nationalism.** EgRammohan Roy’s critique of colonial economic exploitation.
+9. **Criticism of colonialism** by reformers led to development of **early political nationalism.** EgRammohan Roy’s critique of colonial economic exploitation.
 
-**10. Socio-religious reform created ideological readiness** for political mobilisation through **Indian National Congress (1885).**
+10. **Socio-religious reform created ideological readiness** for political mobilisation through **Indian National Congress (1885).**
 
 **Limitations**
 
@@ -26205,7 +26205,7 @@ The movement, thus, not only talked of beauty and nationalism but also revealed 
 1. Explanation_PWOnlyIAS:
 Source Question: Examine the linkages between the nineteenth century’s ‘Indian Renaissance’ and the emergence of national identity.
 
-| **Approach:** <br> **Introduction** <br>• Briefly introduce the ‘Indian Renaissance’ and its relationship to the development of national identity in the 19th century. <br> **Body** <br>• Discuss the key elements of the Indian Renaissance and their connections to the formation of national identity. <br> **Conclusion** <br>• Write a suitable conclusion. |
+| **Approach:** <br> **Introduction** <br>• Briefly introduce the ‘Indian Renaissance’ and its relationship to the development of national identity in the 19th century. <br> <br> **Body** <br>• Discuss the key elements of the Indian Renaissance and their connections to the formation of national identity. <br> <br> **Conclusion** <br>• Write a suitable <br> conclusion. |
 | --- |
 
 ### Introduction
@@ -26397,7 +26397,7 @@ However, had they adopted revolutionary or violent methods, they would have been
 1. Explanation_PWOnlyIAS:
 Source Question: To what extent did the role of the moderates prepare a base for the wider freedom movement? Comment.
 
-| **Approach:** <br> **Introduction** <br>• Introduce the moderates within the Indian National Congress and their initial goals and methods. <br> **Body** <br>• Discuss the various ways in which the moderates contributed to laying the groundwork for the wider freedom movement. <br> **Conclusion** <br>• Summarize the significance of the moderates’ role in shaping the trajectory of the Indian freedom movement. |
+| **Approach:** <br> **Introduction** <br>• Introduce the moderates within the Indian National Congress and their initial goals and methods. <br> <br> **Body** <br>• Discuss the various ways in which the moderates contributed to laying the groundwork for the wider freedom movement. <br> <br> **Conclusion** <br>• Summarize the significance of the moderates’ role in shaping the trajectory of the Indian freedom movement. |
 | --- |
 
 ### Introduction
@@ -26528,77 +26528,77 @@ The decade of the 1920s marked a watershed moment in the Indian national movemen
 
 **Various Ideological Strands in the National Movement Since the 1920s**
 
-**1. Gandhian Ideology (Satyagraha and Non-Violence)**
+1. **Gandhian Ideology (Satyagraha and Non-Violence)**
 
-  - Integrated truth, non-violence (Ahimsa), and civil disobedience to convert a middle-class movement into a mass struggle.
+    - Integrated truth, non-violence (Ahimsa), and civil disobedience to convert a middle-class movement into a mass struggle.
 
-  - Brought rural masses, artisans, and the illiterate population into active political agitation.
+    - Brought rural masses, artisans, and the illiterate population into active political agitation.
 
-  - **Constructive Programme Focus:** Emphasized Khadi, village industries, and the eradication of untouchability to build social self-reliance.
+    - **Constructive Programme Focus:** Emphasized Khadi, village industries, and the eradication of untouchability to build social self-reliance.
 
-  - Eg: Non-Cooperation Movement (1920-22) and Civil Disobedience Movement (1930).
+    - Eg: Non-Cooperation Movement (1920-22) and Civil Disobedience Movement (1930).
 
-**2. Revolutionary Nationalism**
+2. **Revolutionary Nationalism**
 
-  - Advocated for the **violent overthrow** of British imperialism, capturing the imagination of radicalized urban youth.
+    - Advocated for the **violent overthrow** of British imperialism, capturing the imagination of radicalized urban youth.
 
-  - **Secular and Socialist Evolution:** Transitioned from religious-patriotic undertones to explicit anti-imperialist, socialist-republican goals.
+    - **Secular and Socialist Evolution:** Transitioned from religious-patriotic undertones to explicit anti-imperialist, socialist-republican goals.
 
-  - **Dramatized Protests:** Created powerful symbolic actions that inspired nationwide defiance against British authorities. Eg- Kakori Train attack
+    - **Dramatized Protests:** Created powerful symbolic actions that inspired nationwide defiance against British authorities. Eg- Kakori Train attack
 
-  - Eg: Bhagat Singh, Chandrashekhar Azad, and the Hindustan Socialist Republican Association (HSRA).
+    - Eg: Bhagat Singh, Chandrashekhar Azad, and the Hindustan Socialist Republican Association (HSRA).
 
-**3. Peasant and Agrarian Ideology**
+3. **Peasant and Agrarian Ideology**
 
-  - Linked the national anti-British struggle with immediate agrarian grievances like high rents and forced evictions.
+    - Linked the national anti-British struggle with immediate agrarian grievances like high rents and forced evictions.
 
-  - Organized localized peasant unions (Kisan Sabha) to demand structural land reforms.
+    - Organized localized peasant unions (Kisan Sabha) to demand structural land reforms.
 
-  - Eg: Swami Sahajanand Saraswati founded the All India Kisan Sabha (1936) and the Bardoli Satyagraha (1928) led by Patel.
+    - Eg: Swami Sahajanand Saraswati founded the All India Kisan Sabha (1936) and the Bardoli Satyagraha (1928) led by Patel.
 
-**4. Communist Ideology**
+4. **Communist Ideology**
 
-  - **Working-Class Radicalization** through trade unionism and collective strikes.
+    - **Working-Class Radicalization** through trade unionism and collective strikes.
 
-  - **Anti-Imperialist-Anti-Capitalist Nexus**
+    - **Anti-Imperialist-Anti-Capitalist Nexus**
 
-  - Eg: M.N. Roy founded the Communist Party of India (1920) and the growth of the Girni Kamgar Union.
+    - Eg: M.N. Roy founded the Communist Party of India (1920) and the growth of the Girni Kamgar Union.
 
-**5. Socialist Ideology (Within the Congress)**
+5. **Socialist Ideology (Within the Congress)**
 
-  - **Radical Internal Reform:** Worked within mainstream political platforms to tilt economic policies toward state-led industrial planning and social equality.
+    - **Radical Internal Reform:** Worked within mainstream political platforms to tilt economic policies toward state-led industrial planning and social equality.
 
-  - Attracted the younger generation of educated leaders who were dissatisfied with conservative compromise politics.
+    - Attracted the younger generation of educated leaders who were dissatisfied with conservative compromise politics.
 
-  - Eg: Jawaharlal Nehru and Subhas Chandra Bose leading the Congress Socialist Party (CSP) formed in 1934.
+    - Eg: Jawaharlal Nehru and Subhas Chandra Bose leading the Congress Socialist Party (CSP) formed in 1934.
 
-**6. Feminist and Women’s Ideology**
+6. **Feminist and Women’s Ideology**
 
-  - Transitioned women from traditional domestic roles into active political agitators and picketers on city streets.
+    - Transitioned women from traditional domestic roles into active political agitators and picketers on city streets.
 
-  - **Demanding Equal Legal Rights:** Linked the fight against foreign colonial rule with domestic struggles for female suffrage, labor laws, and education.
+    - **Demanding Equal Legal Rights:** Linked the fight against foreign colonial rule with domestic struggles for female suffrage, labor laws, and education.
 
-  - **Armed and Subversive Participation:** Participated actively in underground revolutionary missions, breaking the stereotype of passive resistance.
+    - **Armed and Subversive Participation:** Participated actively in underground revolutionary missions, breaking the stereotype of passive resistance.
 
-  - Eg: Sarojini Naidu leading the Salt Satyagraha at Dharsana, and Pritilata Wadedar participating in the Chittagong Armoury Raid.
+    - Eg: Sarojini Naidu leading the Salt Satyagraha at Dharsana, and Pritilata Wadedar participating in the Chittagong Armoury Raid.
 
-**7. Dalit and Depressed Classes Ideology**
+7. **Dalit and Depressed Classes Ideology**
 
-  - **Substantive Social Democracy:** Argued that political freedom from the British was meaningless without social freedom from the oppressive caste hierarchy.
+    - **Substantive Social Democracy:** Argued that political freedom from the British was meaningless without social freedom from the oppressive caste hierarchy.
 
-  - **Institutional Legal Guarantees:** Fought for separate electorates, reservation of seats, and constitutional safeguards for marginalized communities.
+    - **Institutional Legal Guarantees:** Fought for separate electorates, reservation of seats, and constitutional safeguards for marginalized communities.
 
-  - **Assertion of Basic Human Dignity:** Organized mass civil rights movements to secure access to public water bodies and temples.
+    - **Assertion of Basic Human Dignity:** Organized mass civil rights movements to secure access to public water bodies and temples.
 
-  - Eg: Dr. B.R. Ambedkar established the Depressed Classes Institute (1924) and led the Mahad Satyagraha (1927).
+    - Eg: Dr. B.R. Ambedkar established the Depressed Classes Institute (1924) and led the Mahad Satyagraha (1927).
 
-**8. Tribal and Indigenous Ideology**
+8. **Tribal and Indigenous Ideology**
 
-  - **Defending Forest Sovereignty:** Fought passionately against British colonial forest laws that disrupted traditional tribal community economies.
+    - **Defending Forest Sovereignty:** Fought passionately against British colonial forest laws that disrupted traditional tribal community economies.
 
-  - **Guerrilla Warfare Tactics:** Used traditional archery and terrain knowledge to stage highly effective ambush operations against British police forces.
+    - **Guerrilla Warfare Tactics:** Used traditional archery and terrain knowledge to stage highly effective ambush operations against British police forces.
 
-  - Eg: Alluri Sitarama Raju leading the Rampa Rebellion (1922-24) in the Andhra hills.
+    - Eg: Alluri Sitarama Raju leading the Rampa Rebellion (1922-24) in the Andhra hills.
 
 **Ideological Strands Weakening the National Movement**
 
@@ -26643,7 +26643,7 @@ Send To My Bookmarks
 1. Explanation_PWOnlyIAS:
 Source Question: Since the decade of the 1920s, the national movement acquired various ideological strands and thereby expanded its social base. Discuss.
 
-| **Approach:** <br> **Introduction** <br>• Introduce the decade of the 1920s in the context of the Indian national movement. <br> **Body** <br>• Discuss the key ideological strands that emerged during the 1920s, their impact on the national movement, and how they broadened the movement’s social base. <br> **Conclusion** <br>• Summarize the significance of the 1920s in the Indian national movement. |
+| **Approach:** <br> **Introduction** <br>• Introduce the decade of the 1920s in the context of the Indian national movement. <br> <br> **Body** <br>• Discuss the key ideological strands that emerged during the 1920s, their impact on the national movement, and how they broadened the movement’s social base. <br> <br> **Conclusion** <br>• Summarize the significance of the 1920s in the Indian national movement. |
 | --- |
 
 ### Introduction
@@ -26767,7 +26767,7 @@ Q161. Defying the barriers of age, gender and religion, the Indian women became 
 1. Explanation_PWOnlyIAS:
 Source Question: Defying the barriers of age, gender and religion, the Indian women became the torch bearer during the struggle for freedom in India. Discuss.
 
-| **Approach:** <br> **Introduction** <br>• Briefly introduce the topic by highlighting the role of Indian women in the freedom struggle, emphasizing how they transcended age, gender, and religious barriers. <br> **Body** <br>• Discuss how Indian women became the torch bearer during the struggle for freedom in India. Do provide examples. <br> **Conclusion** <br>• Emphasize the lasting impact of their involvement on women’s rights and gender equality in post-independence India. |
+| **Approach:** <br> **Introduction** <br>• Briefly introduce the topic by highlighting the role of Indian women in the freedom struggle, emphasizing how they transcended age, gender, and religious barriers. <br> <br> **Body** <br>• Discuss how Indian women became the torch bearer during the struggle for freedom in India. Do provide examples. <br> <br> **Conclusion** <br>• Emphasize the lasting impact of their involvement on women’s rights and gender equality in post-independence India. |
 | --- |
 
 ### Introduction
@@ -27150,21 +27150,21 @@ The integration of 565 princely states into the Indian Union was one of the most
 
 2. **With British departure, paramountcy lapsed,** giving princely states theoretical independence or choice to join India or Pakistan. Eg- Hyderabad, Junagadh, and Kashmir posed major challenges.
 
-**3. Resistance of Rulers -** Many rulers were reluctant to surrender sovereignty and merge with India
+3. **Resistance of Rulers -** Many rulers were reluctant to surrender sovereignty and merge with India
 
-  - **Nizam of Hyderabad** declared independence; required **Operation Polo** (1948) for integration.
+    - **Nizam of Hyderabad** declared independence; required **Operation Polo** (1948) for integration.
 
-  - **Nawab of Junagadh** acceded to Pakistan despite Hindu-majority population, requiring Indian military intervention.
+    - **Nawab of Junagadh** acceded to Pakistan despite Hindu-majority population, requiring Indian military intervention.
 
-**4. Administrative Reorganisation**
+4. **Administrative Reorganisation**
 
-  - Diverse administrative systems, revenue codes, and legal frameworks had to be unified.
+    - Diverse administrative systems, revenue codes, and legal frameworks had to be unified.
 
-  - Some states were merged into provinces, others into unions (Eg- Rajasthan formed by merging 19 states).
+    - Some states were merged into provinces, others into unions (Eg- Rajasthan formed by merging 19 states).
 
-**5. Privy Purse and Privileges** created a long-term financial burden and was abolished only in 1971 by Indira Gandhi.
+5. **Privy Purse and Privileges** created a long-term financial burden and was abolished only in 1971 by Indira Gandhi.
 
-  - **Disbanding or absorbing irregular princely state armies** into the unified Indian Armed Forces presented severe **logistical and ranking issues.**
+    - **Disbanding or absorbing irregular princely state armies** into the unified Indian Armed Forces presented severe **logistical and ranking issues.**
 
 **Socio-Cultural Problems**
 
@@ -27216,7 +27216,7 @@ The rulers of most of the states signed a document called the ‘Instrument of A
 1. Explanation_PWOnlyIAS:
 Source Question: Assess the main administrative issues and socio-cultural problems in the integration process of Indian Princely States.
 
-| **Approach:** <br> **Introduction** <br>• Briefly introduce the context of integrating Indian Princely States into the newly-independent Indian Union. <br> **Body** <br>• Mention the complexity of addressing administrative issues and socio-cultural problems during the process. <br>• Divide the body into two main sections: Administrative Issues and Socio-Cultural Problems. <br>• In each section, discuss the key challenges faced during the integration process. <br> **Conclusion** <br>• Write a relevant conclusion. |
+| **Approach:** <br> **Introduction** <br>• Briefly introduce the context of integrating Indian Princely States into the newly-independent Indian Union. <br> <br> **Body** <br>• Mention the complexity of addressing administrative issues and socio-cultural problems during the process. <br>• Divide the <br> body into two main sections: Administrative Issues and Socio-Cultural Problems. <br>• In each section, discuss the key challenges faced during the integration process. <br> <br> **Conclusion** <br>• Write a relevant <br> conclusion. |
 | --- |
 
 ### Introduction
@@ -27325,7 +27325,7 @@ Q164. The New Economic Policy - 1921 of Lenin had influenced the policies adopte
 1. Explanation_PWOnlyIAS:
 Source Question: The New Economic Policy – 1921 of Lenin had influenced the policies adopted by India soon after independence. Evaluate.
 
-| **Approach:** <br> **Introduction** <br>• Introduce the New Economic Policy (NEP) of 1921 and its key features. <br> **Body** <br>• Briefly mention India’s economic policies after independence. <br>• Discuss the similarities between the NEP and India’s economic policies, such as mixed economy, state control, and focus on industrialization. <br>• Examine the differences between the NEP and India’s economic policies, such as the role of the private sector, commitment to democracy, and the influence of other economic models. <br> **Conclusion** <br>• Conclude, evaluating the extent to which the NEP influenced India’s economic policies and the factors that contributed to their adoption. |
+| **Approach:** <br> **Introduction** <br>• Introduce the New Economic Policy (NEP) of 1921 and its key features. <br> <br> **Body** <br>• Briefly mention India’s economic policies after independence. <br>• Discuss the similarities between the NEP and India’s economic policies, such as mixed economy, state control, and focus on industrialization. <br>• Examine the differences between the NEP and India’s economic policies, such as the role of the private sector, commitment to democracy, and the influence of other economic models. <br> <br> **Conclusion** <br>• Conclude, evaluating the extent to which the NEP influenced India’s economic policies and the factors that contributed to their adoption. |
 | --- |
 
 ### Introduction
@@ -27449,7 +27449,7 @@ Q165. Critically discuss the objectives of Bhoodan and Gramdan movements initiat
 1. Explanation_PWOnlyIAS:
 Source Question: Critically discuss the objectives of Bhoodan and Gramdan movements initiated by Acharya Vinoba Bhave and their success.
 
-| **Approach:** <br> **Introduction** <br>• Introduce the Bhoodan and Gramdan movements, initiated by Acharya Vinoba Bhave, as efforts to address landlessness and promote equitable land distribution in rural India. <br> **Body** <br>• Write the objectives of Bhoodan and Gramdan movements. <br>• Also, do the critical assessment of its success. <br> **Conclusion** <br>• Conclude, emphasizing their role in raising awareness, inspiring land reforms, and leaving a lasting impact on India’s rural development discourse. |
+| **Approach:** <br> **Introduction** <br>• Introduce the Bhoodan and Gramdan movements, initiated by Acharya Vinoba Bhave, as efforts to address landlessness and promote equitable land distribution in rural India. <br> <br> **Body** <br>• Write the objectives of Bhoodan and Gramdan movements. <br>• Also, do the critical assessment of its success. <br> <br> **Conclusion** <br>• Conclude, emphasizing their role in raising awareness, inspiring land reforms, and leaving a lasting impact on India’s rural development discourse. |
 | --- |
 
 ### Introduction
@@ -27602,7 +27602,7 @@ Q166. Discuss the contribution of Maulana Abul Kalam Azad to pre-and post-indepe
 1. Explanation_PWOnlyIAS:
 Source Question: Discuss the contribution of Maulana Abul Kalam Azad to pre-and post independent India.
 
-| **Approach:** <br> **Introduction** <br>• Briefly introduce Maulana Abul Kalam Azad’s role as a freedom fighter, political leader, and scholar in both pre-and post-independent India. <br> **Body** <br>• Discuss his contribution in pre- and post independent India. <br> **Conclusion** <br>• Conclude, emphasizing his impact on nation-building, unity, and inclusive development. |
+| **Approach:** <br> **Introduction** <br>• Briefly introduce Maulana Abul Kalam Azad’s role as a freedom fighter, political leader, and scholar in both pre-and post-independent India. <br> <br> **Body** <br>• Discuss his contribution in pre- and post independent India. <br> <br> **Conclusion** <br>• Conclude, emphasizing his impact on nation-building, unity, and inclusive development. |
 | --- |
 
 ### Introduction
@@ -27751,7 +27751,7 @@ Q167. Write a critical note on the evolution and significance of the slogan “J
 1. Explanation_PWOnlyIAS:
 Source Question: Write a critical note on the evolution and significance of the slogan “Jai Jawan Jai Kisan”.
 
-| **Approach:** <br> **Introduction** <br>• Introduce the slogan “Jai Jawan Jai Kisan” and mention the context and the period in which it was coined. <br> **Body:** <br>• Discuss the evolution of the slogan. <br>• Analyze the significance of the slogan. <br> **Conclusion** <br>• Highlight the continued relevance of the slogan in contemporary India. |
+| **Approach:** <br> **Introduction** <br>• Introduce the slogan “Jai Jawan Jai Kisan” and mention the context and the period in which it was coined. <br> <br> **Body:** <br>• Discuss the evolution of the slogan. <br>• Analyze the significance of the slogan. <br> <br> **Conclusion** <br>• Highlight the continued relevance of the slogan in contemporary India. |
 | --- |
 
 ### Introduction
@@ -27852,37 +27852,37 @@ The reorganisation of states and territories in India has been a **dynamic proce
 
   - **Rajasthan formed from 19 princely states,** Madhya Bharat from Central Indian states.
 
-**2. Linguistic Reorganisation**
+2. **Linguistic Reorganisation**
 
-  - **Dhar Commission (1948) & JVP Committee** (1949) opposed linguistic reorganisation.
+    - **Dhar Commission (1948) & JVP Committee** (1949) opposed linguistic reorganisation.
 
-  - States Reorganisation Commission (SRC, 1956) under **Fazl Ali** recommended reorganisation on linguistic basis.
+    - States Reorganisation Commission (SRC, 1956) under **Fazl Ali** recommended reorganisation on linguistic basis.
 
-  - **States Reorganisation Act** (1956) created 14 states and 6 union territories.
+    - **States Reorganisation Act** (1956) created 14 states and 6 union territories.
 
-**3. Subsequent Reorganisations**
+3. **Subsequent Reorganisations**
 
-  - **Bombay split into Maharashtra and Gujarat** (1960) after Samyukta Maharashtra Movement
+    - **Bombay split into Maharashtra and Gujarat** (1960) after Samyukta Maharashtra Movement
 
-  - **Punjab trifurcated** into Punjab, Haryana, and Himachal Pradesh (1966) on linguistic basis
+    - **Punjab trifurcated** into Punjab, Haryana, and Himachal Pradesh (1966) on linguistic basis
 
-  - **Northeastern states** carved out - Nagaland (1963), Meghalaya (1972), Mizoram, Arunachal Pradesh, Manipur, Tripura.
+    - **Northeastern states** carved out - Nagaland (1963), Meghalaya (1972), Mizoram, Arunachal Pradesh, Manipur, Tripura.
 
-  - **Goa** became a state in 1987 after liberation from Portuguese rule (1961).
+    - **Goa** became a state in 1987 after liberation from Portuguese rule (1961).
 
-**4. Recent Reorganisations**
+4. **Recent Reorganisations**
 
-  - **Jharkhand, Chhattisgarh, Uttarakhand** created in 2000 from Bihar, Madhya Pradesh, Uttar Pradesh respectively - driven by demands for better governance and tribal identity.
+    - **Jharkhand, Chhattisgarh, Uttarakhand** created in 2000 from Bihar, Madhya Pradesh, Uttar Pradesh respectively - driven by demands for better governance and tribal identity.
 
-  - **Telangana** was carved out of Andhra Pradesh in 2014 after prolonged agitation.
+    - **Telangana** was carved out of Andhra Pradesh in 2014 after prolonged agitation.
 
-**5. Union Territory Changes**
+5. **Union Territory Changes**
 
-  - **Reorganisation of Jammu & Kashmir** into two UTs (2019) under Jammu & Kashmir Reorganisation Act.
+    - **Reorganisation of Jammu & Kashmir** into two UTs (2019) under Jammu & Kashmir Reorganisation Act.
 
-  - **Ladakh** was created as a separate UT (2019).
+    - **Ladakh** was created as a separate UT (2019).
 
-  - However, **continuous demands for new states** (Vidarbha, Gorkhaland, Bodoland) indicate the process remains ongoing.
+    - However, **continuous demands for new states** (Vidarbha, Gorkhaland, Bodoland) indicate the process remains ongoing.
 
 The reorganisation of states reflects India's **capacity for democratic accommodation** of diverse aspirations within a federal framework.
 
@@ -27928,7 +27928,7 @@ As our Indian Constitution is a living document, which allows reorganisation of 
 1. Explanation_PWOnlyIAS:
 Source Question: The political and administrative reorganization of states and territories has been a continuous ongoing process since the mid-nineteenth century. Discuss with examples.
 
-| **Approach:** <br> **Introduction** <br>• Briefly introduce the topic of political and administrative reorganization in India. <br> **Body** <br>• Explain the historical background of political and administrative reorganization in India, citing examples of significant events and policies that shaped the process. <br>• Discuss the major phases of reorganization, including the colonial period, post-independence period, and contemporary times. <br>• Provide examples of important policies and laws that were enacted during each phase. <br> **Conclusion** <br>• Sum up by highlighting the impact of reorganization on the socio-economic and political landscape of India. |
+| **Approach:** <br> **Introduction** <br>• Briefly introduce the topic of political and administrative reorganization in India. <br> <br> **Body** <br>• Explain the historical background of political and administrative reorganization in India, citing examples of significant events and policies that shaped the process. <br>• Discuss the major phases of reorganization, including the colonial period, post-independence period, and contemporary times. <br>• Provide examples of important policies and laws that were enacted during each phase. <br> <br> **Conclusion** <br>• Sum up by highlighting the impact of reorganization on the socio-economic and political landscape of India. |
 | --- |
 
 ### Introduction
@@ -28156,7 +28156,7 @@ Recently formed state Telangana has continuously been among the top ranks in the
 1. Explanation_PWOnlyIAS:
 Source Question: Discuss whether formation of new states in recent times is beneficial or not for the economy of India?
 
-| **Approach:** <br> **Introduction** <br>• You can introduce by explaining the rationale behind the formation of new states. <br> **Body** <br>• Discuss the potential benefits of forming new states. <br>• Examine the potential drawbacks of forming new states. <br>• Analyze specific case studies of new state formations in India, such as Uttarakhand, Jharkhand, and Chhattisgarh, to assess their economic impact. <br> **Conclusion** <br>• Provide a balanced perspective, emphasizing that the overall outcome depends on factors such as governance, resource allocation, and inclusive development policies. |
+| **Approach:** <br> **Introduction** <br>• You can introduce by explaining the rationale behind the formation of new states. <br> <br> **Body** <br>• Discuss the potential benefits of forming new states. <br>• Examine the potential drawbacks of forming new states. <br>• Analyze specific case studies of new state formations in India, such as Uttarakhand, Jharkhand, and Chhattisgarh, to assess their economic impact. <br> <br> **Conclusion** <br>• Provide a balanced perspective, emphasizing that the overall outcome depends on factors such as governance, resource allocation, and inclusive development policies. |
 | --- |
 
 ### Introduction
@@ -28294,7 +28294,7 @@ Send To My Bookmarks
 1. Explanation_PWOnlyIAS:
 Source Question: Has the formation of linguistic states strengthened the cause of Indian unity? (200 words, 12.5 marks)
 
-| **Approach:** <br> **Introduction** <br>• Introduce the topic by briefly discussing the formation of linguistic states in India and their intended purpose of accommodating the country’s diverse linguistic and cultural identities. <br> **Body** <br>• Discuss the positive impacts of linguistic states on Indian unity. <br>• Examine the challenges to Indian unity posed by linguistic states. <br> **Conclusion** <br>• Write a relevant conclusion. |
+| **Approach:** <br> **Introduction** <br>• Introduce the topic by briefly discussing the formation of linguistic states in India and their intended purpose of accommodating the country’s diverse linguistic and cultural identities. <br> <br> **Body** <br>• Discuss the positive impacts of linguistic states on Indian unity. <br>• Examine the challenges to Indian unity posed by linguistic states. <br> <br> **Conclusion** <br>• Write a relevant <br> conclusion. |
 | --- |
 
 ### Introduction
@@ -28378,7 +28378,7 @@ Q171. Analyze the circumstances that led to Tashkent Agreement in 1966. Discuss 
 1. Explanation_PWOnlyIAS:
 Source Question: Analyse the circumstances that led to Tashkent Agreement in 1966. Discuss the highlights of the agreement.
 
-| **Approach:** <br> **Introduction** <br>• Introduce the Tashkent Agreement as a diplomatic effort between India and Pakistan following the 1965 Indo-Pak War to restore peace and stability in the region. <br> **Body** <br>• Talk about the circumstances that led to the Tashkent Agreement. <br>• Mention the highlights of the agreement. <br> **Conclusion** <br>• Summarize the importance of the Tashkent Agreement in restoring peace and normalizing relations between India and Pakistan, despite not achieving a lasting resolution for underlying issues like the Kashmir dispute. |
+| **Approach:** <br> **Introduction** <br>• Introduce the Tashkent Agreement as a diplomatic effort between India and Pakistan following the 1965 Indo-Pak War to restore peace and stability in the region. <br> <br> **Body** <br>• Talk about the circumstances that led to the Tashkent Agreement. <br>• Mention the highlights of the agreement. <br> <br> **Conclusion** <br>• Summarize the importance of the Tashkent Agreement in restoring peace and normalizing relations between India and Pakistan, despite not achieving a lasting resolution for underlying issues like the Kashmir dispute. |
 | --- |
 
 ### Introduction
@@ -28528,7 +28528,7 @@ Q172. Critically examine the compulsions which prompted India to play a decisive
 1. Explanation_PWOnlyIAS:
 Source Question: Critically examine the compulsions which prompted India to play a decisive role in the emergence of Bangladesh.
 
-| **Approach:** <br> **Introduction** <br>• Introduce India’s role in Bangladesh’s emergence in 1971 as a defining moment in South Asian history, highlighting the interplay of humanitarian, strategic, and geopolitical factors. <br> **Body** <br>• Critically examine the compulsions which prompted India to play a decisive role in the emergence of Bangladesh. <br> **Conclusion** <br>• Conclude, highlighting the importance of understanding regional relations and decision-making in times of crisis. |
+| **Approach:** <br> **Introduction** <br>• Introduce India’s role in Bangladesh’s emergence in 1971 as a defining moment in South Asian history, highlighting the interplay of humanitarian, strategic, and geopolitical factors. <br> <br> **Body** <br>• Critically examine the compulsions which prompted India to play a decisive role in the emergence of Bangladesh. <br> <br> **Conclusion** <br>• Conclude, highlighting the importance of understanding regional relations and decision-making in times of crisis. |
 | --- |
 
 ### Introduction
@@ -28665,55 +28665,55 @@ The French Revolution (1789-1799) was not merely a political upheaval in France 
 
 **Enduring Relevance of the French Revolution**
 
-**1. Democracy and Popular Sovereignty**
+1. **Democracy and Popular Sovereignty**
 
-  - The Revolution established that **political authority derives from the people,** not divine right or hereditary privilege. Eg- **Article 326** (universal adult franchise).
+    - The Revolution established that **political authority derives from the people,** not divine right or hereditary privilege. Eg- **Article 326** (universal adult franchise).
 
-  - **Arab Spring (2011)** - revolutionaries invoked liberty, equality, and popular sovereignty.
+    - **Arab Spring (2011)** - revolutionaries invoked liberty, equality, and popular sovereignty.
 
-**2. Human Rights Framework**
+2. **Human Rights Framework**
 
-  - The **Declaration of the Rights of Man and of the Citizen** (1789) was a precursor to the Universal Declaration of Human Rights (1948).
+    - The **Declaration of the Rights of Man and of the Citizen** (1789) was a precursor to the Universal Declaration of Human Rights (1948).
 
-  - Concepts of **individual liberty, equality before law, and freedom of expression** continue to be the cornerstone of international human rights law.
+    - Concepts of **individual liberty, equality before law, and freedom of expression** continue to be the cornerstone of international human rights law.
 
-**3. Secularism**
+3. **Secularism**
 
-  - The **Revolution's separation of church and state (laicite)** remains a model for secular governance.
+    - The **Revolution's separation of church and state (laicite)** remains a model for secular governance.
 
-  - Relevant in contemporary debates on religious freedom, theocratic tendencies, and state neutrality.
+    - Relevant in contemporary debates on religious freedom, theocratic tendencies, and state neutrality.
 
 Eg- debate on UCC in India
 
-**4. Social Justice and Equality**
+4. **Social Justice and Equality**
 
-  - The Revolution's attack on feudal privileges and aristocratic birth-based hierarchy inspired modern movements for social equality. Eg- Black Lives Matter, Dalit rights movements.
+    - The Revolution's attack on feudal privileges and aristocratic birth-based hierarchy inspired modern movements for social equality. Eg- Black Lives Matter, Dalit rights movements.
 
-  - Economic inequality **(Piketty's analysis)** echoes the Revolution's concerns about concentration of wealth and privilege.
+    - Economic inequality **(Piketty's analysis)** echoes the Revolution's concerns about concentration of wealth and privilege.
 
-**5. Nationalism and Self-Determination**
+5. **Nationalism and Self-Determination**
 
-  - Created the **modern concept of the nation-state** based on popular will.
+    - Created the **modern concept of the nation-state** based on popular will.
 
-  - Continues to influence decolonisation movements, autonomy struggles, and national identity debates. Eg- Kurdish, Palestinian, and Scottish independence movements.
+    - Continues to influence decolonisation movements, autonomy struggles, and national identity debates. Eg- Kurdish, Palestinian, and Scottish independence movements.
 
-**6. Constitutional Governance and Rule of Law**
+6. **Constitutional Governance and Rule of Law**
 
-  - **Napoleonic Code** established uniform civil law, equality before law, and property rights.
+    - **Napoleonic Code** established uniform civil law, equality before law, and property rights.
 
-  - Legal systems in over 70 countries are based on this legacy.
+    - Legal systems in over 70 countries are based on this legacy.
 
-**7. Women's Rights**
+7. **Women's Rights**
 
-  - Olympe de Gouges' Declaration of the Rights of Woman (1791) was among the earliest feminist manifestos.
+    - Olympe de Gouges' Declaration of the Rights of Woman (1791) was among the earliest feminist manifestos.
 
-  - The Revolution's incomplete gender equality promise continues to fuel feminist movements worldwide. Eg- #MeToo Movement
+    - The Revolution's incomplete gender equality promise continues to fuel feminist movements worldwide. Eg- #MeToo Movement
 
-**8. Revolutionary Ideals vs Excesses**
+8. **Revolutionary Ideals vs Excesses**
 
-  - The **Reign of Terror** (1793-94) remains a cautionary lesson about revolutionary violence, mob rule, and concentration of power.
+    - The **Reign of Terror** (1793-94) remains a cautionary lesson about revolutionary violence, mob rule, and concentration of power.
 
-  - Relevant to contemporary debates on **populism, authoritarianism, and the limits of revolutionary change.**
+    - Relevant to contemporary debates on **populism, authoritarianism, and the limits of revolutionary change.**
 
 The French Revolution's ideas of liberty, equality, and fraternity are not historical relics but living principles that continue to shape and challenge the contemporary world order.
 
@@ -28869,27 +28869,27 @@ The American Revolution (1775-1783) and French Revolution (1789-1799) were water
 
 **Contributions of the American Revolution**
 
-**1. Popular Sovereignty**
+1. **Popular Sovereignty**
 
-  - Established the principle that the government derives authority from the consent of the governed.
+    - Established the principle that the government derives authority from the consent of the governed.
 
-  - **Declaration of Independence** (1776) proclaimed that 'all men are created equal' with 'unalienable rights' to 'Life, Liberty, and the pursuit of Happiness'.
+    - **Declaration of Independence** (1776) proclaimed that 'all men are created equal' with 'unalienable rights' to 'Life, Liberty, and the pursuit of Happiness'.
 
-**2. Republican Government**
+2. **Republican Government**
 
-  - Created the **first modern republic** based on a written constitution (1787).
+    - Created the **first modern republic** based on a written constitution (1787).
 
-  - **Separation of powers** (legislative, executive, judicial) became a model for democracies worldwide.
+    - **Separation of powers** (legislative, executive, judicial) became a model for democracies worldwide.
 
-**3. Federalism -** Innovated the federal system **balancing central and state governments.** Influenced federal constitutions globally, including India's.
+3. **Federalism -** Innovated the federal system **balancing central and state governments.** Influenced federal constitutions globally, including India's.
 
-**4. Bill of Rights (1791)**
+4. **Bill of Rights (1791)**
 
-  - Guaranteed **individual freedoms** - speech, press, religion, assembly.
+    - Guaranteed **individual freedoms** - speech, press, religion, assembly.
 
-  - Established the concept of **constitutional limits** on government power.
+    - Established the concept of **constitutional limits** on government power.
 
-  - **Inspiration for Colonial Independence** - Inspired liberation movements in Latin America (Simon Bolivar), Asia, and Africa.
+    - **Inspiration for Colonial Independence** - Inspired liberation movements in Latin America (Simon Bolivar), Asia, and Africa.
 
 **Contributions of the French Revolution**
 
@@ -28953,7 +28953,7 @@ French and American revolution not only laid the edifice for a newly emerging eg
 1. Explanation_PWOnlyIAS:
 Source Question: Explain how the foundations of the modern world were laid by the American and French Revolutions.
 
-| **Approach:** <br> **Introduction** <br>• Introduce the American and French Revolutions as pivotal events that shaped the modern world. <br> **Body** <br>• Discuss their contributions to modern political, social, and economic thought. <br>• The American Revolution (1775-1783) and its impact. <br>• The French Revolution (1789-1799) and its impact. <br>• The commonalities and differences between the two revolutions. <br> **Conclusion** <br>• Write a relevant conclusion. |
+| **Approach:** <br> **Introduction** <br>• Introduce the American and French Revolutions as pivotal events that shaped the modern world. <br> <br> **Body** <br>• Discuss their contributions to modern political, social, and economic thought. <br>• The American Revolution (1775-1783) and its impact. <br>• The French Revolution (1789-1799) and its impact. <br>• The commonalities and differences between the two revolutions. <br> <br> **Conclusion** <br>• Write a relevant <br> conclusion. |
 | --- |
 
 ### Introduction
@@ -29108,7 +29108,7 @@ Q175. American Revolution was an economic revolt against mercantilism. Substanti
 1. Explanation_PWOnlyIAS:
 Source Question: American Revolution was an economic revolt against mercantilism. Substantiate.
 
-| **Approach:** <br> **Introduction** <br>• Briefly introduce the American Revolution and its multifaceted nature. <br> **Body** <br>• Mention the economic aspect, focusing on the revolt against mercantilism. <br>• Discuss the concept of mercantilism and how British colonial policies implemented this system. <br>• Explain the issue of taxation without representation and its connection to mercantilist policies. <br>• Describe the economic self-interest of American colonists and their desire for free trade. <br>• Address the economic impact of British policies on the American colonies. <br> **Conclusion** <br>• Acknowledge that while the revolution cannot be solely characterized as an economic revolt, the desire for economic self-determination was a crucial factor in the struggle for independence. |
+| **Approach:** <br> **Introduction** <br>• Briefly introduce the American Revolution and its multifaceted nature. <br> <br> **Body** <br>• Mention the economic aspect, focusing on the revolt against mercantilism. <br>• Discuss the concept of mercantilism and how British colonial policies implemented this system. <br>• Explain the issue of taxation without representation and its connection to mercantilist policies. <br>• Describe the economic self-interest of American colonists and their desire for free trade. <br>• Address the economic impact of British policies on the American colonies. <br> <br> **Conclusion** <br>• Acknowledge that while the revolution cannot be solely characterized as an economic revolt, the desire for economic self-determination was a crucial factor in the struggle for independence. |
 | --- |
 
 ### Introduction
@@ -29241,7 +29241,7 @@ The decolonization of Malayan Peninsula was largely a result of long reconciliat
 1. Explanation_PWOnlyIAS:
 Source Question: What problems are germane to the decolonization process in the Malay Peninsula? (10 marks, 150 words)
 
-| **Approach:** <br> **Introduction** <br>• Briefly introduce the context of decolonization in the Malay Peninsula and its significance in shaping the contemporary political, social, and economic landscape. <br> **Body** <br>• Elaborate on the key problems germane to the decolonization process. <br> **Conclusion** <br>• Write a relevant conclusion. |
+| **Approach:** <br> **Introduction** <br>• Briefly introduce the context of decolonization in the Malay Peninsula and its significance in shaping the contemporary political, social, and economic landscape. <br> <br> **Body** <br>• Elaborate on the key problems germane to the decolonization process. <br> <br> **Conclusion** <br>• Write a relevant <br> conclusion. |
 | --- |
 
 ### Introduction
@@ -29383,7 +29383,7 @@ Send To My Bookmarks
 1. Explanation_PWOnlyIAS:
 Source Question: The anti-colonial struggles in West Africa were led by the new elite of Western-educated Africans. Examine. (200 words, 12.5 marks)
 
-| **Approach:** <br> **Introduction** <br>• Introduce the context of anti-colonial struggles in West Africa and the emergence of a new elite of Western-educated Africans as key leaders in these movements. <br> **Body** <br>• Discuss the various ways in which the Western-educated African elite contributed to the anti-colonial struggles. <br> **Conclusion** <br>• Write a relevant conclusion. |
+| **Approach:** <br> **Introduction** <br>• Introduce the context of anti-colonial struggles in West Africa and the emergence of a new elite of Western-educated Africans as key leaders in these movements. <br> <br> **Body** <br>• Discuss the various ways in which the Western-educated African elite contributed to the anti-colonial struggles. <br> <br> **Conclusion** <br>• Write a relevant <br> conclusion. |
 | --- |
 
 ### Introduction
@@ -29514,7 +29514,7 @@ Q178. What were the major political, economic and social developments in the wor
 1. Explanation_PWOnlyIAS:
 Source Question: What were the major political, economic and social developments in the world which motivated the anti-colonial struggle in India?
 
-| **Approach:** <br> **Introduction** <br>• Briefly introduce the anti-colonial struggle in India and its significance in the context of global political, economic, and social developments. <br> **Body:** <br>• Talk about the major political, economic and social developments in the world which motivated the anti-colonial struggle in India. <br> **Conclusion** <br>• Write a relevant conclusion. |
+| **Approach:** <br> **Introduction** <br>• Briefly introduce the anti-colonial struggle in India and its significance in the context of global political, economic, and social developments. <br> <br> **Body:** <br>• Talk about the major political, economic and social developments in the world which motivated the anti-colonial struggle in India. <br> <br> **Conclusion** <br>• Write a relevant <br> conclusion. |
 | --- |
 
 ### Introduction
@@ -29643,7 +29643,7 @@ Q179. Africa was chopped into states artificially created by accident of Europea
 1. Explanation_PWOnlyIAS:
 Source Question: Africa was chopped into states artificially created by accident of European competition. Analyse.
 
-| **Approach:** <br> **Introduction** <br>• Briefly introduce the Scramble for Africa and its connection to European competition and colonization. <br> **Body** <br>• Discuss the Berlin Conference and its role in the division of Africa. <br>• Explain the motives behind European colonization (economic interests, political competition, cultural and religious expansion). <br>• Analyze the artificial borders created by European powers, addressing their disregard for existing ethnic, cultural, and political divisions among African communities. <br>• Describe the lasting impacts of these artificial borders on African nations, such as tensions, conflicts, and difficulties in nation-building and political stability. <br> **Conclusion** <br>• Write a relevant conclusion. |
+| **Approach:** <br> **Introduction** <br>• Briefly introduce the Scramble for Africa and its connection to European competition and colonization. <br> <br> **Body** <br>• Discuss the Berlin Conference and its role in the division of Africa. <br>• Explain the motives behind European colonization (economic interests, political competition, cultural and religious expansion). <br>• Analyze the artificial borders created by European powers, addressing their disregard for existing ethnic, cultural, and political divisions among African communities. <br>• Describe the lasting impacts of these artificial borders on African nations, such as tensions, conflicts, and difficulties in nation-building and political stability. <br> <br> **Conclusion** <br>• Write a relevant <br> conclusion. |
 | --- |
 
 ### Introduction
@@ -29756,7 +29756,7 @@ Q180. What policy instruments were deployed to contain the great economic depres
 1. Explanation_PWOnlyIAS:
 Source Question: American Revolution was an economic revolt against mercantilism. Substantiate.
 
-| **Approach:** <br> **Introduction** <br>• Briefly introduce the American Revolution and its multifaceted nature. <br> **Body** <br>• Mention the economic aspect, focusing on the revolt against mercantilism. <br>• Discuss the concept of mercantilism and how British colonial policies implemented this system. <br>• Explain the issue of taxation without representation and its connection to mercantilist policies. <br>• Describe the economic self-interest of American colonists and their desire for free trade. <br>• Address the economic impact of British policies on the American colonies. <br> **Conclusion** <br>• Acknowledge that while the revolution cannot be solely characterized as an economic revolt, the desire for economic self-determination was a crucial factor in the struggle for independence. |
+| **Approach:** <br> **Introduction** <br>• Briefly introduce the American Revolution and its multifaceted nature. <br> <br> **Body** <br>• Mention the economic aspect, focusing on the revolt against mercantilism. <br>• Discuss the concept of mercantilism and how British colonial policies implemented this system. <br>• Explain the issue of taxation without representation and its connection to mercantilist policies. <br>• Describe the economic self-interest of American colonists and their desire for free trade. <br>• Address the economic impact of British policies on the American colonies. <br> <br> **Conclusion** <br>• Acknowledge that while the revolution cannot be solely characterized as an economic revolt, the desire for economic self-determination was a crucial factor in the struggle for independence. |
 | --- |
 
 ### Introduction
@@ -30016,7 +30016,7 @@ Q182. Why did the industrial revolution first occur in England? Discuss the qual
 1. Explanation_PWOnlyIAS:
 Source Question: Why did the industrial revolution first occur in England? Discuss the quality of life of the people there during the industrialization. How does it compare with that in India at present times?
 
-| **Approach:** <br> **Introduction** <br>• Introduce the context of the Industrial Revolution in England and its effects on the quality of life during that period. <br> **Body** <br>• Discuss the reasons for the Industrial Revolution in England, describe the quality of life during industrialization, and compare it with the quality of life in present-day India, highlighting both similarities and differences. <br> **Conclusion** <br>• Write a relevant conclusion. |
+| **Approach:** <br> **Introduction** <br>• Introduce the context of the Industrial Revolution in England and its effects on the quality of life during that period. <br> <br> **Body** <br>• Discuss the reasons for the Industrial Revolution in England, describe the quality of life during industrialization, and compare it with the quality of life in present-day India, highlighting both similarities and differences. <br> <br> **Conclusion** <br>• Write a relevant <br> conclusion. |
 | --- |
 
 ### Introduction
@@ -30180,7 +30180,7 @@ Q183. Latecomer Industrial revolution in Japan involved certain factors that wer
 1. Explanation_PWOnlyIAS:
 Source Question: “Latecomer” Industrial revolution in Japan involved certain factors that were markedly different from what west had experienced.
 
-| **Approach:** <br> **Introduction** <br>• Briefly introduce the concept of the “latecomer” industrial revolution in Japan. <br> **Body:** <br>• Mention the key differences between Japan’s industrialization and the Western experience. <br>• Discuss Japan’s unique historical and cultural context that contributed to its industrialization. <br>• Analyze the role of the Meiji Restoration in shaping Japan’s industrial revolution. <br>• Examine Japan’s approach to industrialization, including the role of the state, zaibatsu, and emphasis on education. <br>• Explain Japan’s strategy of selective borrowing and adaptation of Western technology and practices. <br> **Conclusion** <br>• Summarize the key factors that set Japan’s industrial revolution apart from the Western experience and underscore the importance of Japan’s unique approach to industrialization. |
+| **Approach:** <br> **Introduction** <br>• Briefly introduce the concept of the “latecomer” industrial revolution in Japan. <br> <br> **Body:** <br>• Mention the key differences between Japan’s industrialization and the Western experience. <br>• Discuss Japan’s unique historical and cultural context that contributed to its industrialization. <br>• Analyze the role of the Meiji Restoration in shaping Japan’s industrial revolution. <br>• Examine Japan’s approach to industrialization, including the role of the state, zaibatsu, and emphasis on education. <br>• Explain Japan’s strategy of selective borrowing and adaptation of Western technology and practices. <br> <br> **Conclusion** <br>• Summarize the key factors that set Japan’s industrial revolution apart from the Western experience and underscore the importance of Japan’s unique approach to industrialization. |
 | --- |
 
 ### Introduction
@@ -30323,13 +30323,13 @@ The development of **Ancient Indian civilization** was deeply shaped by its **di
 
   - Facilitated the spread of Indian religion (Buddhism/Hinduism) and art to Indonesia, Cambodia, and Thailand.
 
-**6. Forests**
+6. **Forests**
 
-  - **Clearing of forests during the Later Vedic period** expanded agriculture.
+    - **Clearing of forests during the Later Vedic period** expanded agriculture.
 
-  - **Spiritual spaces** - Emergence of **ashram culture** and hermitages.
+    - **Spiritual spaces** - Emergence of **ashram culture** and hermitages.
 
-  - The **Vindhya and Satpura ranges,** along with the dense Narmada valley, separated North India from the South - development of **Dravidian culture in South “Indian history is a dialogue between man and his environment,”** a dialogue that shaped one of the world’s oldest living civilisations.
+    - The **Vindhya and Satpura ranges,** along with the dense Narmada valley, separated North India from the South - development of **Dravidian culture in South “Indian history is a dialogue between man and his environment,”** a dialogue that shaped one of the world’s oldest living civilisations.
 
 1. Explanation_Drishti IAS:
 Source Question: Explain the role of geographical factors towards the development of Ancient India.
@@ -30353,7 +30353,7 @@ Ancient India's geography shaped its civilization, culture, economy, and society
 1. Explanation_PWOnlyIAS:
 Source Question: Explain the role of geographical factors towards the development of Ancient India.
 
-| **Approach** <br>• **Introduction** Define what is meant by “geographical factors” <br> **Body** <br>• Write about the Geographical Landscape of Ancient India <br>• Write about the role of Geographical Factors in Development of Ancient India <br> **Conclusion** <br>• Give appropriate conclusion in this regard |
+| **Approach** <br>• **Introduction** Define what is meant by “geographical factors” <br> <br> **Body** <br>• Write about the Geographical Landscape of Ancient India <br>• Write about the role of Geographical Factors in Development of Ancient India <br> <br> **Conclusion** <br>• Give appropriate <br> conclusion in this regard |
 | --- |
 
 ### Introduction
@@ -30516,7 +30516,7 @@ Q185. Taxila university was one of the oldest universities of the world with whi
 1. Explanation_PWOnlyIAS:
 Source Question: What were the major political, economic and social developments in the world which motivated the anti-colonial struggle in India?
 
-| **Approach:** <br> **Introduction** <br>• Briefly introduce the anti-colonial struggle in India and its significance in the context of global political, economic, and social developments. <br> **Body:** <br>• Talk about the major political, economic and social developments in the world which motivated the anti-colonial struggle in India. <br> **Conclusion** <br>• Write a relevant conclusion. |
+| **Approach:** <br> **Introduction** <br>• Briefly introduce the anti-colonial struggle in India and its significance in the context of global political, economic, and social developments. <br> <br> **Body:** <br>• Talk about the major political, economic and social developments in the world which motivated the anti-colonial struggle in India. <br> <br> **Conclusion** <br>• Write a relevant <br> conclusion. |
 | --- |
 
 ### Introduction
@@ -30656,47 +30656,47 @@ The introduction of **railways** from the early 19th century onwards was one of 
 
 **Economic Effects**
 
-**1. Industrial Growth and Market Integration**
+1. **Industrial Growth and Market Integration**
 
-  - **Britain:** Railways fuelled the **Industrial Revolution** by transporting raw materials and finished goods efficiently. Eg- **Manchester-Liverpool Railway (1830).**
+    - **Britain:** Railways fuelled the **Industrial Revolution** by transporting raw materials and finished goods efficiently. Eg- **Manchester-Liverpool Railway (1830).**
 
-  - **USA: Transcontinental Railroad (1869)** integrated the East and West coasts, enabling continental-scale trade and settlement.
+    - **USA: Transcontinental Railroad (1869)** integrated the East and West coasts, enabling continental-scale trade and settlement.
 
-  - **India:** Railways linked raw material hinterlands to port cities. Eg- **Cotton from Deccan to Bombay port** for export to Manchester.
+    - **India:** Railways linked raw material hinterlands to port cities. Eg- **Cotton from Deccan to Bombay port** for export to Manchester.
 
-**2. Urbanisation and New Towns**
+2. **Urbanisation and New Towns**
 
-  - Railway junctions grew into major cities. Eg- **Chicago (USA), Jamalpur (India), Crewe (Britain).**
+    - Railway junctions grew into major cities. Eg- **Chicago (USA), Jamalpur (India), Crewe (Britain).**
 
-  - Migration of labour to industrial centres accelerated **urbanisation.**
+    - Migration of labour to industrial centres accelerated **urbanisation.**
 
-**3. Agricultural Commercialisation**
+3. **Agricultural Commercialisation**
 
-  - In **India,** railways enabled shift from **subsistence agriculture** to **commercial agriculture.** EgExport of **wheat, cotton, jute.**
+    - In **India,** railways enabled shift from **subsistence agriculture** to **commercial agriculture.** EgExport of **wheat, cotton, jute.**
 
-  - In the **USA,** grain from the Midwest reached eastern markets and global ports.
+    - In the **USA,** grain from the Midwest reached eastern markets and global ports.
 
-**4. Employment Generation -** Eg- **Indian Railways** became one of the world's largest employers.
+4. **Employment Generation -** Eg- **Indian Railways** became one of the world's largest employers.
 
 **Social Effects**
 
-**1. Breaking of Regional Isolation - Eg-** In **Russia, Trans-Siberian Railway (1891-1916)** connected Moscow to the Pacific.
+1. **Breaking of Regional Isolation - Eg-** In **Russia, Trans-Siberian Railway (1891-1916)** connected Moscow to the Pacific.
 
-**2. Spread of Ideas and Nationalism**
+2. **Spread of Ideas and Nationalism**
 
-  - In **India,** railways facilitated the spread of **nationalist ideas** and enabled Congress leaders to travel across provinces.
+    - In **India,** railways facilitated the spread of **nationalist ideas** and enabled Congress leaders to travel across provinces.
 
-  - In **Europe,** railways aided national unification. Eg- **German Zollverein (customs union)** was strengthened by rail connectivity.
+    - In **Europe,** railways aided national unification. Eg- **German Zollverein (customs union)** was strengthened by rail connectivity.
 
-**3. Social Mobility and Migration -** Railways eased **pilgrimage,** migration, and social interactions across regions.
+3. **Social Mobility and Migration -** Railways eased **pilgrimage,** migration, and social interactions across regions.
 
-**4. Negative Social Effects**
+4. **Negative Social Effects**
 
-  - In **India:** Commercialisation of agriculture led to **famines.** Eg- Grain exported while locals starved.
+    - In **India:** Commercialisation of agriculture led to **famines.** Eg- Grain exported while locals starved.
 
-  - In **USA:** Displacement of **Native Americans** from their lands for railroad construction.
+    - In **USA:** Displacement of **Native Americans** from their lands for railroad construction.
 
-  - In **Africa:** Railways built primarily for **colonial extraction.** Eg- **Congo-Ocean Railway** caused thousands of deaths among forced African labourers.
+    - In **Africa:** Railways built primarily for **colonial extraction.** Eg- **Congo-Ocean Railway** caused thousands of deaths among forced African labourers.
 
 Railways were a **double-edged sword** - engines of **progress** in sovereign nations, but instruments of **exploitation** in colonial contexts.
 
@@ -30732,7 +30732,7 @@ Railways have significantly shaped nations' socio-economic landscapes, fostering
 1. Explanation_PWOnlyIAS:
 Source Question: Bring out the socio-economic effects of the introduction of railways in different countries of the world.
 
-| **Approach:** <br> **Introduction** <br>• Write about the history of the introduction of railways globally briefly <br> **Body** <br>• Write about its socio-economic Effects in Developed Countries <br>• Write about its socio-economic Effects in Developing Countries <br> **Conclusion** <br>• Give appropriate conclusion in this regard |
+| **Approach:** <br> **Introduction** <br>• Write about the history of the introduction of railways globally briefly <br> <br> **Body** <br>• Write about its socio-economic Effects in Developed Countries <br>• Write about its socio-economic Effects in Developing Countries <br> <br> **Conclusion** <br>• Give appropriate <br> conclusion in this regard |
 | --- |
 
 ### Introduction
@@ -30864,19 +30864,19 @@ The indentured labour system (1834-1920) was described as a **'new system of sla
 
 1. **The British abolished slavery** in 1833-34, creating a massive labour shortage in plantation colonies. EgSugar plantations in the Caribbean (Trinidad, Guyana, Jamaica), Mauritius, Fiji, South Africa, and Malaya.
 
-**2. Availability of Cheap Indian Labour** due to poverty, famines, and landlessness in India.
+2. **Availability of Cheap Indian Labour** due to poverty, famines, and landlessness in India.
 
-**3. Colonial Economic Interests**
+3. **Colonial Economic Interests**
 
-  - The plantation economy required large-scale, disciplined, cheap labour for sugar, tea, rubber, and cotton.
+    - The plantation economy required large-scale, disciplined, cheap labour for sugar, tea, rubber, and cotton.
 
-  - Indian labourers were considered hardworking, docile, and adaptable to tropical climates.
+    - Indian labourers were considered hardworking, docile, and adaptable to tropical climates.
 
-**4. Imperial strategic interests -** Dispersal of Indian labour created a loyal colonial workforce in distant territories.
+4. **Imperial strategic interests -** Dispersal of Indian labour created a loyal colonial workforce in distant territories.
 
-  - **Introduction of the "Girmit" System:** The British established a legalistic five-year contract mechanism that bound illiterate peasants to penal colonial labor.
+    - **Introduction of the "Girmit" System:** The British established a legalistic five-year contract mechanism that bound illiterate peasants to penal colonial labor.
 
-  - **Industrial Demand for Sugar:** The European industrial revolution drove a massive surge in global consumer demand for sugar, rubber, and cocoa crops.
+    - **Industrial Demand for Sugar:** The European industrial revolution drove a massive surge in global consumer demand for sugar, rubber, and cocoa crops.
 
 **Preservation of Cultural Identity**
 
@@ -30934,7 +30934,7 @@ However, the Sri Lankan 13th Amendment to constitution is reminder that the ques
 1. Explanation_PWOnlyIAS:
 Source Question: Why indentured labour was taken by the British from India to their colonies? Have they been able to preserve their cultural identity over there?
 
-| **Approach:** <br> **Introduction** <br>• Introduce the topic of indentured laborers from India in British colonies. <br> **Body** <br>• Discuss the reasons behind the British taking indentured laborers from India to their colonies. <br>• Explain the attempts made by indentured laborers to preserve their cultural identity in the colonies. <br> **Conclusion** <br>• Write a relevant conclusion. |
+| **Approach:** <br> **Introduction** <br>• Introduce the topic of indentured laborers from India in British colonies. <br> <br> **Body** <br>• Discuss the reasons behind the British taking indentured laborers from India to their colonies. <br>• Explain the attempts made by indentured laborers to preserve their cultural identity in the colonies. <br> <br> **Conclusion** <br>• Write a relevant <br> conclusion. |
 | --- |
 
 ### Introduction
@@ -31027,7 +31027,7 @@ Q188. What were the events that led to the Suez Crisis in 1956? How did it deal 
 1. Explanation_PWOnlyIAS:
 Source Question: What were the events that led to the Suez Crisis in 1956? How did it deal a final blow to Britain’s self-image as a world power?
 
-| **Approach:** <br> **Introduction** <br>• Provide an overview of the Suez Crisis and its importance in the context of Britain’s decline as a world power. <br> **Body** <br>• Discuss the events leading to the Suez Crisis, including the nationalization of the Suez Canal, the tripartite collusion between Britain, France, and Israel, and the military intervention. <br>• Examine the international response to the crisis, focusing on the role of the United States and the United Nations. <br>• Analyze the impact of the crisis on Britain’s economy, politics, and international relations. <br> **Conclusion** <br>• Summarize the significance of the Suez Crisis in dealing a final blow to Britain’s self-image as a world power and its implications for Britain’s future role in global politics. |
+| **Approach:** <br> **Introduction** <br>• Provide an overview of the Suez Crisis and its importance in the context of Britain’s decline as a world power. <br> <br> **Body** <br>• Discuss the events leading to the Suez Crisis, including the nationalization of the Suez Canal, the tripartite collusion between Britain, France, and Israel, and the military intervention. <br>• Examine the international response to the crisis, focusing on the role of the United States and the United Nations. <br>• Analyze the impact of the crisis on Britain’s economy, politics, and international relations. <br> <br> **Conclusion** <br>• Summarize the significance of the Suez Crisis in dealing a final blow to Britain’s self-image as a world power and its implications for Britain’s future role in global politics. |
 | --- |
 
 ### Introduction
@@ -31160,53 +31160,53 @@ While the preservation of the **balance of power** was a significant factor for 
 
 **Arguments Supporting Balance of Power as the Cause**
 
-**1. Alliance System**
+1. **Alliance System**
 
-  - Europe was divided into two rival alliance blocs - **Triple Alliance (Germany, Austria-Hungary, Italy)** and **Triple Entente (France, Russia, Britain).**
+    - Europe was divided into two rival alliance blocs - **Triple Alliance (Germany, Austria-Hungary, Italy)** and **Triple Entente (France, Russia, Britain).**
 
-  - These alliances were designed to maintain equilibrium, but ultimately drew all major powers into a local conflict.
+    - These alliances were designed to maintain equilibrium, but ultimately drew all major powers into a local conflict.
 
-**2. German Challenge to British Hegemony**
+2. **German Challenge to British Hegemony**
 
-  - Germany's rapid **industrialisation** and naval expansion **(Tirpitz Plan)** directly challenged British naval supremacy.
+    - Germany's rapid **industrialisation** and naval expansion **(Tirpitz Plan)** directly challenged British naval supremacy.
 
-  - **The Anglo-German naval race (Dreadnought competition)** was a classic balance of power struggle.
+    - **The Anglo-German naval race (Dreadnought competition)** was a classic balance of power struggle.
 
-  - **British Shift from Splendid Isolation** - Britain abandoned isolation to prevent German continental dominance. Eg- **Entente Cordiale (1904).**
+    - **British Shift from Splendid Isolation** - Britain abandoned isolation to prevent German continental dominance. Eg- **Entente Cordiale (1904).**
 
-**4. Franco-Russian Alliance - France allied Russia to strategically contain rising German influence.**
+4. **Franco-Russian Alliance - France allied Russia to strategically contain rising German influence.**
 
-**5. Austrian-Russian Rivalry in the Balkans**
+5. **Austrian-Russian Rivalry in the Balkans**
 
-  - Both powers sought to fill the vacuum left by the declining **Ottoman Empire.**
+    - Both powers sought to fill the vacuum left by the declining **Ottoman Empire.**
 
-  - **Austria-Hungary's annexation of Bosnia (1908)** and Russia's **Pan-Slavist** support for Serbia threatened the balance in Southeast Europe.
+    - **Austria-Hungary's annexation of Bosnia (1908)** and Russia's **Pan-Slavist** support for Serbia threatened the balance in Southeast Europe.
 
-**6. French Revanchism -** France sought to recover **Alsace-Lorraine** lost to Germany in 1871 and restore European balance by containing German power.
+6. **French Revanchism -** France sought to recover **Alsace-Lorraine** lost to Germany in 1871 and restore European balance by containing German power.
 
 **Arguments Against - Other Significant Causes**
 
-**1. Imperialism and Colonial Rivalries -** Competition for colonies in **Africa** and **Asia** created tensions. Eg**Moroccan Crises (1905, 1911)** between France and Germany.
+1. **Imperialism and Colonial Rivalries -** Competition for colonies in **Africa** and **Asia** created tensions. Eg**Moroccan Crises (1905, 1911)** between France and Germany.
 
-**2. Nationalism**
+2. **Nationalism**
 
-  - **Pan-Slavism, Pan-Germanism,** and irredentist movements created explosive pressures.
+    - **Pan-Slavism, Pan-Germanism,** and irredentist movements created explosive pressures.
 
-  - Eg- Assassination of **Archduke Franz Ferdinand** by a Serbian nationalist triggered the war
+    - Eg- Assassination of **Archduke Franz Ferdinand** by a Serbian nationalist triggered the war
 
-**3. Militarism**
+3. **Militarism**
 
-  - **Arms race and glorification of military power** created a culture of war readiness.
+    - **Arms race and glorification of military power** created a culture of war readiness.
 
-  - **Schlieffen Plan (Germany)** and **Plan XVII (France)** assumed war was inevitable and planned for quick victory.
+    - **Schlieffen Plan (Germany)** and **Plan XVII (France)** assumed war was inevitable and planned for quick victory.
 
-**4. Economic Rivalries -** Competition for markets, raw materials, and trade routes between industrial powers. Eg- **Berlin-Baghdad Railway** threatened British interests in the Middle East.
+4. **Economic Rivalries -** Competition for markets, raw materials, and trade routes between industrial powers. Eg- **Berlin-Baghdad Railway** threatened British interests in the Middle East.
 
-**5. Failure of Diplomacy -** Absence of effective international mechanisms for conflict resolution **(no UN or League of Nations yet).**
+5. **Failure of Diplomacy -** Absence of effective international mechanisms for conflict resolution **(no UN or League of Nations yet).**
 
-  - **Secret Diplomacy** - Confidential treaties created **mistrust and rigid alliance** commitments across Europe.
+    - **Secret Diplomacy** - Confidential treaties created **mistrust and rigid alliance** commitments across Europe.
 
-  - **Press and Propaganda** - Nationalist media inflamed public opinion and war hysteria.
+    - **Press and Propaganda** - Nationalist media inflamed public opinion and war hysteria.
 
 The **First World War** demonstrated that the **balance of power system,** without mechanisms for peaceful resolution of disputes, is inherently unstable - a lesson that led to the creation of the **League of Nations** and later the **United**
 
@@ -31421,7 +31421,7 @@ The efforts of the League of Nations failed to maintain peace after the first wo
 1. Explanation_PWOnlyIAS:
 Source Question: “There arose a serious challenge to the Democratic State System between the two World Wars.” Evaluate the statement.
 
-| **Approach:** <br> **Introduction** <br>• Briefly introduce the challenges faced by the democratic state system during the interwar period. <br> **Body** <br>• Mention the key factors that contributed to the erosion of democracy. <br> **Conclusion** <br>• Summarize the challenges faced by the democratic state system and highlight how these challenges ultimately led to the outbreak of World War II and significant changes in the international order. |
+| **Approach:** <br> **Introduction** <br>• Briefly introduce the challenges faced by the democratic state system during the interwar period. <br> <br> **Body** <br>• Mention the key factors that contributed to the erosion of democracy. <br> <br> **Conclusion** <br>• Summarize the challenges faced by the democratic state system and highlight how these challenges ultimately led to the outbreak of World War II and significant changes in the international order. |
 | --- |
 
 ### Introduction
@@ -31531,7 +31531,7 @@ Q191. To what extent can Germany be held responsible for causing the two World W
 1. Explanation_PWOnlyIAS:
 Source Question: To what extent can Germany be held responsible for causing the two World Wars? Discuss critically.
 
-| **Approach:** <br> **Introduction** <br>• Introduce the context of Germany’s role in the two World Wars and the need for a nuanced analysis of responsibility. <br> **Body** <br>• Examine Germany’s involvement in both World War I and World War II, while also discussing other factors and countries’ roles that contributed to the outbreak of each conflict. <br> **Conclusion** <br>• Summarize the extent to which Germany can be held responsible for causing the two World Wars, emphasizing that multiple factors and shared responsibility were involved in the conflicts. |
+| **Approach:** <br> **Introduction** <br>• Introduce the context of Germany’s role in the two World Wars and the need for a nuanced analysis of responsibility. <br> <br> **Body** <br>• Examine Germany’s involvement in both World War I and World War II, while also discussing other factors and countries’ roles that contributed to the outbreak of each conflict. <br> <br> **Conclusion** <br>• Summarize the extent to which Germany can be held responsible for causing the two World Wars, emphasizing that multiple factors and shared responsibility were involved in the conflicts. |
 | --- |
 
 ### Introduction
@@ -31677,43 +31677,43 @@ Source Question: What is regional disparity? How does it differ from diversity? 
 
 **Seriousness of Regional Disparity in India**
 
-**1. Political disparity**
+1. **Political disparity**
 
-  - 80 MPs from UP vs 29 from Kerala and only 2 from Sikkim
+    - 80 MPs from UP vs 29 from Kerala and only 2 from Sikkim
 
-  - MP from Bihar represents twice as much people as that of TN
+    - MP from Bihar represents twice as much people as that of TN
 
-**2. Economic Disparity**
+2. **Economic Disparity**
 
-  - The per capita income of **Goa** or **Sikkim** is nearly **5-7 times** higher than that of **Bihar**
+    - The per capita income of **Goa** or **Sikkim** is nearly **5-7 times** higher than that of **Bihar**
 
-  - Nearly **60% of India’s FDI** is concentrated in just three states- **Maharashtra, Karnataka, and Gujarat.**
+    - Nearly **60% of India’s FDI** is concentrated in just three states- **Maharashtra, Karnataka, and Gujarat.**
 
-  - **Infrastructure deficit** in poorer regions like North-East, Chhattisgarh, Jharkhand
+    - **Infrastructure deficit** in poorer regions like North-East, Chhattisgarh, Jharkhand
 
-**3. Health Outcomes-** Infant Mortality Rate (IMR) in **Kerala** (approx. 6) is comparable to developed nations, while in **Madhya Pradesh,** it is above 40.
+3. **Health Outcomes-** Infant Mortality Rate (IMR) in **Kerala** (approx. 6) is comparable to developed nations, while in **Madhya Pradesh,** it is above 40.
 
-**4. Internal Migration-** over **9 million+ workers** migrate annually from the **"BIMARU" belt** to the South and West. They face
+4. **Internal Migration-** over **9 million+ workers** migrate annually from the **"BIMARU" belt** to the South and West. They face
 
-  - Poor quality of living. Eg- dharavi slums
+    - Poor quality of living. Eg- dharavi slums
 
-  - Exclusion from welfare schemes
+    - Exclusion from welfare schemes
 
-  - Violence and discrimination. Eg- son of soil movement in Maharashtra
+    - Violence and discrimination. Eg- son of soil movement in Maharashtra
 
-**5. Internal Security-** The "Red Corridor" overlaps with regions of high **relative deprivation** and resource exploitation.
+5. **Internal Security-** The "Red Corridor" overlaps with regions of high **relative deprivation** and resource exploitation.
 
-**6. Urbanization Imbalance-** States like **Tamil Nadu** are over **50% urbanized,** while **Bihar** remains over **85% rural** - disparate access to modern services.
+6. **Urbanization Imbalance-** States like **Tamil Nadu** are over **50% urbanized,** while **Bihar** remains over **85% rural** - disparate access to modern services.
 
-**7. Service sector** which contribute 55% of GDP is concentrated in metros like Mumbai, Chennai, Bengaluru, Gurugram, excluding tier 2 and their 3 cities **Steps Taken**
+7. **Service sector** which contribute 55% of GDP is concentrated in metros like Mumbai, Chennai, Bengaluru, Gurugram, excluding tier 2 and their 3 cities **Steps Taken**
 
-**1. Aspirational Districts Programme**
+1. **Aspirational Districts Programme**
 
-**2. Income Distance Criterion (45% weightage) under Finance commission devolution**
+2. **Income Distance Criterion (45% weightage) under Finance commission devolution**
 
-**3. North East Special Infrastructure Development Scheme**
+3. **North East Special Infrastructure Development Scheme**
 
-**4. PM Gram Sadak Yojana** Addressing disparities requires **cooperative federalism, targeted infrastructure, and human capital investment.**
+4. **PM Gram Sadak Yojana** Addressing disparities requires **cooperative federalism, targeted infrastructure, and human capital investment.**
 
 1. Explanation_Drishti IAS:
 Source Question: What is regional disparity? How does it differ from diversity? How serious is the issue of regional disparity in India? (Answer in 250 words)
@@ -31867,35 +31867,35 @@ Eg- 96% manual scavengers are Dalits
 
 5. **Geographical Isolation** - Culturally distinct groups in hilly or forested areas often lack services and markets. Eg- lack of connectivity in North-East
 
-**6. Regional disparity -** Eg- BIMARU states lag behind southern states in human development indicators
+6. **Regional disparity -** Eg- BIMARU states lag behind southern states in human development indicators
 
-  - **Minority Religious Communities** show **lower education and employment outcomes** as highlighted in the **Sachar Committee report.** Eg- higher % of muslim undertrails in Jail
+    - **Minority Religious Communities** show **lower education and employment outcomes** as highlighted in the **Sachar Committee report.** Eg- higher % of muslim undertrails in Jail
 
-  - **Linguistic Marginalization** - Proficiency in English (a cultural/class marker) creates a divide between the "globalized elite" and those restricted to regional languages.
+    - **Linguistic Marginalization** - Proficiency in English (a cultural/class marker) creates a divide between the "globalized elite" and those restricted to regional languages.
 
-  - **Marginalization of transgenders and LGBTQ** due to social discrimination and lack of access to basic amenities like health, education **Other factors for Socio-Economic marginalities**
+    - **Marginalization of transgenders and LGBTQ** due to social discrimination and lack of access to basic amenities like health, education **Other factors for Socio-Economic marginalities**
 
-  - **Economic Inequality** - richest 1% control more than 40% of total wealth, while the bottom 50% own merely 3% **(Oxfam Report)**
+    - **Economic Inequality** - richest 1% control more than 40% of total wealth, while the bottom 50% own merely 3% **(Oxfam Report)**
 
-  - **Rural-Urban Divide** - Consumption and wage gaps.
+    - **Rural-Urban Divide** - Consumption and wage gaps.
 
-  - **Infrastructure Deficits** - Poor connectivity, electricity, and sanitation in backward districts hinder productivity.
+    - **Infrastructure Deficits** - Poor connectivity, electricity, and sanitation in backward districts hinder productivity.
 
-  - **Gender Pay Gap** - Women continue to earn significantly less than men
+    - **Gender Pay Gap** - Women continue to earn significantly less than men
 
-  - **Policy Implementation Gaps** - affirmative policies sometimes fail to reach intended beneficiaries due to bureaucratic and governance bottlenecks. Eg- inclusion-exclusion errors in PDS However, **cultural diversity has also helped in addressing socio-economic marginalities**
+    - **Policy Implementation Gaps** - affirmative policies sometimes fail to reach intended beneficiaries due to bureaucratic and governance bottlenecks. Eg- inclusion-exclusion errors in PDS However, **cultural diversity has also helped in addressing socio-economic marginalities**
 
-**1. Affirmative action policies**
+1. **Affirmative action policies**
 
-  - Reservation for SC, ST, OBC
+    - Reservation for SC, ST, OBC
 
-  - Tribal specific schemes like Van Dhan Scheme
+    - Tribal specific schemes like Van Dhan Scheme
 
-**2. Rise of "Dalit Capitalism"**
+2. **Rise of "Dalit Capitalism"**
 
-  - Certain minority groups are among the most economically prosperous in India. Eg- **Parsi and Jain communities**
+    - Certain minority groups are among the most economically prosperous in India. Eg- **Parsi and Jain communities**
 
-  - **Caste-Based Political Mobilization** for claiming state resources and welfare. Eg- **rise of OBC politics** With **improved data (caste census), better governance, and targeted policies,** diversity can be transformed from a potential vulnerability into a driver of **inclusive growth.**
+    - **Caste-Based Political Mobilization** for claiming state resources and welfare. Eg- **rise of OBC politics** With **improved data (caste census), better governance, and targeted policies,** diversity can be transformed from a potential vulnerability into a driver of **inclusive growth.**
 
 **Caste**
 
@@ -32108,7 +32108,7 @@ In this journey, it has gone through many transformations under the influence of
 1. Explanation_PWOnlyIAS:
 Source Question: Analyze the salience of ‘sect’ in Indian society vis-a-vis caste, region and religion.
 
-| **Approach:** <br> **Introduction** <br>• Define sect and give an example. **Body** <br>• Mention the salience of ‘sect’ vis-à-vis caste. <br>• Mention the salience of ‘sect’ vis-à-vis the region. <br>• Mention the salience of ‘sect’ vis-à-vis religion. <br> **Conclusion** <br>• State that sects are a fact that would arise given the large diversity of aspirations and needs. But too much of sectarianism would lead to more divisions within society, so it must be checked appropriately. |
+| **Approach:** <br> **Introduction** <br>• Define sect and give an example. <br> **Body** <br>• Mention the salience of ‘sect’ vis-à-vis caste. <br>• Mention the salience of ‘sect’ vis-à-vis the region. <br>• Mention the salience of ‘sect’ vis-à-vis religion. <br> <br> **Conclusion** <br>• State that sects are a fact that would arise given the large diversity of aspirations and needs. But too much of sectarianism would lead to more divisions within society, so it must be checked appropriately. |
 | --- |
 
 ### Introduction
@@ -32238,39 +32238,39 @@ India’s internal migration, and cultural pluralism have created **distinct cul
 
 **Cultural pockets of small India all over the nation**
 
-**1. Linguistic Enclaves -** Migrants often cluster in specific urban neighborhoods, creating a "home away from home."
+1. **Linguistic Enclaves -** Migrants often cluster in specific urban neighborhoods, creating a "home away from home."
 
-  - **Chittaranjan Park (CR Park), Delhi-** Known as the **"Mini-Bengal"** of North India.
+    - **Chittaranjan Park (CR Park), Delhi-** Known as the **"Mini-Bengal"** of North India.
 
-  - **Matunga, Mumbai-** called **"Mini-South India"** due to the dominance of Tamil and Kannada speakers.
+    - **Matunga, Mumbai-** called **"Mini-South India"** due to the dominance of Tamil and Kannada speakers.
 
-**2. Religious Pluralism -** Certain areas serve as the spiritual or cultural headquarters for communities that are minorities elsewhere.
+2. **Religious Pluralism -** Certain areas serve as the spiritual or cultural headquarters for communities that are minorities elsewhere.
 
-  - **Majnu-ka-Tilla, Delhi** is called **"Mini-Tibet."** - Buddhist monasteries, Tibetan handicrafts, and authentic Himalayan cuisine.
+    - **Majnu-ka-Tilla, Delhi** is called **"Mini-Tibet."** - Buddhist monasteries, Tibetan handicrafts, and authentic Himalayan cuisine.
 
-  - **The Parsi Colonies (Baugs) in Mumbai**
+    - **The Parsi Colonies (Baugs) in Mumbai**
 
-**3. Economic Pockets** due to labor migration
+3. **Economic Pockets** due to labor migration
 
-  - **Surat’s Textile Hubs-** influx of workers from **Ganjam, Odisha.** Odia is the primary language in these labor colonies, and festivals like Ratha Yatra are celebrated.
+    - **Surat’s Textile Hubs-** influx of workers from **Ganjam, Odisha.** Odia is the primary language in these labor colonies, and festivals like Ratha Yatra are celebrated.
 
-  - **Similarly, Chhath Puja by Bihari migrants** on the Yamuna and Mithi rivers.
+    - **Similarly, Chhath Puja by Bihari migrants** on the Yamuna and Mithi rivers.
 
-  - **Bengaluru’s IT Corridors-** Hindi and English dominate over Kannada.
+    - **Bengaluru’s IT Corridors-** Hindi and English dominate over Kannada.
 
-  - **Gujarati pockets** in Ghatkopar, Borivali in Mumbai
+    - **Gujarati pockets** in Ghatkopar, Borivali in Mumbai
 
-  - **Marwari and Jain communities** maintain cultural continuity through business networks
+    - **Marwari and Jain communities** maintain cultural continuity through business networks
 
-**4. Historical "Settler" Pockets**
+4. **Historical "Settler" Pockets**
 
-  - **Mini-Punjab in Terai (Uttarakhand/UP)-** After the partition, many Punjabi farmers settled here
+    - **Mini-Punjab in Terai (Uttarakhand/UP)-** After the partition, many Punjabi farmers settled here
 
-  - **Fort Kochi, Kerala- Jew Town** and Portuguese-influenced neighborhoods. European architecture and Jewish history blend with Malayali traditions.
+    - **Fort Kochi, Kerala- Jew Town** and Portuguese-influenced neighborhoods. European architecture and Jewish history blend with Malayali traditions.
 
-**5. Tribal Pockets in Urban Jungles** - **Eg - in Ranchi and Jamshedpur,** specific neighborhoods function as **Adivasi pockets** where traditional Sarna rituals and tribal dialects are preserved.
+5. **Tribal Pockets in Urban Jungles** - **Eg - in Ranchi and Jamshedpur,** specific neighborhoods function as **Adivasi pockets** where traditional Sarna rituals and tribal dialects are preserved.
 
-  - **North-East Indian Communities in Metros** with distinct lifestyle and food practices.
+    - **North-East Indian Communities in Metros** with distinct lifestyle and food practices.
 
 **Factors unifying India despite cultural pockets**
 
@@ -32292,11 +32292,11 @@ India’s internal migration, and cultural pluralism have created **distinct cul
 
 1. **Son of soil movement** in Maharashtra and violence against migrants in Gujarat
 
-**2. Cultural clashes -** Eg- Mumbai's pigeon controversy
+2. **Cultural clashes -** Eg- Mumbai's pigeon controversy
 
-**3. Communalism and hate speeches**
+3. **Communalism and hate speeches**
 
-  - **Ghettoization- social isolation** hindering broader integration.
+    - **Ghettoization- social isolation** hindering broader integration.
 
 As pointed out by **Mahatma Gandhi,** “our ability to reach unity in diversity is our civilization's beauty and test.” Thus, cherishing this heritage and fostering brotherhood is needed to preserve Indian culture.
 
@@ -32320,7 +32320,7 @@ India has a lot of diversity to offer to the people of this world and to her own
 1. Explanation_PWOnlyIAS:
 Source Question: How do ocean currents and water masses differ in their impact on marine life and coastal environment? Give suitable examples.
 
-| **Approach:** <br> **Introduction** <br>• Write your answer with a brief about the marine ecosystem. <br> **Body** <br>• Significance of Ocean currents in marine ecosystem and its impacts on coastal environment. <br> **Conclusion** <br>• Conclude your answer with the importance of marine ecosystems. |
+| **Approach:** <br> **Introduction** <br>• Write your answer with a brief about the marine ecosystem. <br> <br> **Body** <br>• Significance of Ocean currents in marine ecosystem and its impacts on coastal environment. <br> <br> **Conclusion** <br>• Conclude your answer with the importance of marine ecosystems. |
 | --- |
 
 ### Introduction
@@ -32478,7 +32478,7 @@ It shows that cultural units in India are not necessarily concurrent with states
 1. Explanation_PWOnlyIAS:
 Source Question: In the context of the diversity of India, can it be said that the regions form cultural units rather than the States? Give reasons with examples for your viewpoint.
 
-| **Approach:** <br> **Introduction** <br>• Elaborate on the cultural diversity of India. <br> **Body** <br>• Mention how culture does not follow the political boundaries of States using 3-4 cultural elements along with examples. <br> **Conclusion** <br>• Conclude saying that cultural aspects are beyond any boundaries and culture has its own uniqueness in its region. |
+| **Approach:** <br> **Introduction** <br>• Elaborate on the cultural diversity of India. <br> <br> **Body** <br>• Mention how culture does not follow the political boundaries of States using 3-4 cultural elements along with examples. <br> <br> **Conclusion** <br>• Conclude saying that cultural aspects are beyond any boundaries and culture has its own uniqueness in its region. |
 | --- |
 
 ### Introduction
@@ -32600,7 +32600,7 @@ Q197. Describe any four cultural elements of diversity in India and rate their r
 1. Explanation_PWOnlyIAS:
 Source Question: Describe any four cultural elements of diversity in India and rate their relative significance in building a national identity.
 
-| **Approach:** <br> **Introduction** <br>• Mention about India’s diversity and list any four major areas of diversity. <br> **Body:** <br>• Describe the four elements of cultural diversity with some elaboration. <br>• Then, as per your view, rank these cultural elements based on their significance in building a national identity. <br> **Conclusion** <br>• Mention that maintenance of diversity in itself is one of the major reasons why India has remained united as a nation. |
+| **Approach:** <br> **Introduction** <br>• Mention about India’s diversity and list any four major areas of diversity. <br> <br> **Body:** <br>• Describe the four elements of cultural diversity with some elaboration. <br>• Then, as per your view, rank these cultural elements based on their significance in building a national identity. <br> <br> **Conclusion** <br>• Mention that maintenance of diversity in itself is one of the major reasons why India has remained united as a nation. |
 | --- |
 
 ### Introduction
@@ -32712,7 +32712,7 @@ India's extraordinary cultural diversity forms the backbone of its national iden
 | Religious Plurality | Highest (9/10) | Foundation of secular democracy |
 | Language Diversity | High (8/10) | Enables regional representation |
 | Art & Architecture | High (7/10) | Global cultural recognition |
-| Festival Traditions | Medium-High (7/10) | Social cohesion builder | **Religious plurality** emerges as most significant, forming India's secular foundation, while **language diversity** enables democratic participation. These elements collectively em <br> body **"Vasudhaiva Kutumbakam"**, making India's cultural diversity its greatest strength in building an inclusive national identity.
+| Festival Traditions | Medium-High (7/10) | Social cohesion builder | **Religious plurality** emerges as most significant, forming India's secular foundation, while **language diversity** enables democratic participation. These elements collectively em <br> <br> body **"Vasudhaiva Kutumbakam"**, making India's cultural diversity its greatest strength in building an inclusive national identity.
 
 1. Explanation_Unacademy:
 Source Question: Q8. Describe any four cultural elements of diversity in India and rate their relative significance in building a national identity. (12.5 marks, 200 words) Tag: Diversity in India.
@@ -32772,17 +32772,17 @@ Tribal development has historically unfolded alongside **resource extraction, co
 
 9. **Targeted Development schemes** - Eg- **PM-JANMAN Mission** for development of **75 PVTGs Way Forward**
 
-**1. Effective Implementation of the Forest Rights Act (FRA), 2006**
+1. **Effective Implementation of the Forest Rights Act (FRA), 2006**
 
-  - **Digitizing land records**
+    - **Digitizing land records**
 
-  - Setting up **fast-track FRA tribunals**
+    - Setting up **fast-track FRA tribunals**
 
-  - Involving local Gram Sabhas in claim verification
+    - Involving local Gram Sabhas in claim verification
 
 **2.** Strict implementation of the **Right to Fair Compensation and Transparency in Land Acquisition Act, 2013** to prevent forced evictions.
 
-**3. Revamping Tribal Healthcare through Mobile Health Units and AYUSH Integration**
+3. **Revamping Tribal Healthcare through Mobile Health Units and AYUSH Integration**
 
 **4.** Linking SHGs with **One District One Product (ODOP) initiative** for market access to tribal handicrafts.
 
@@ -32990,7 +32990,7 @@ Source Question: Given the diversities among tribal communities in India, in whi
 1. Explanation_PWOnlyIAS:
 Source Question: Given the diversities among the tribal communities in India, in which specific contexts should they be considered as a single category?
 
-| **Approach:** <br> **Introduction** <br>• Define tribes along with some facts about tribes in India. Also, mention about the diversities among tribes. <br> **Body** <br>• Mention the different contexts in which tribes can be seen as a single category. <br> **Conclusion** <br>• Mention that the categorization of tribes is necessary, but it should not be done at the cost of the diversities among tribes. |
+| **Approach:** <br> **Introduction** <br>• Define tribes along with some facts about tribes in India. Also, mention about the diversities among tribes. <br> <br> **Body** <br>• Mention the different contexts in which tribes can be seen as a single category. <br> <br> **Conclusion** <br>• Mention that the categorization of tribes is necessary, but it should not be done at the cost of the diversities among tribes. |
 | --- |
 
 ### Introduction
@@ -33139,49 +33139,49 @@ According to **Census 2011, Tribals constitute 8.6% of India’s population.** T
 
 1. **Text-based and codified knowledge**
 
-**2. Anthropocentric- Nature is viewed as a "resource"**
+2. **Anthropocentric- Nature is viewed as a "resource"**
 
-  - **Institutional and formal transmission** (schools, universities, laboratories)
+    - **Institutional and formal transmission** (schools, universities, laboratories)
 
-  - **Specialisation and compartmentalisation** of disciplines
+    - **Specialisation and compartmentalisation** of disciplines
 
-  - **Market-oriented and productivity-driven** approach
+    - **Market-oriented and productivity-driven** approach
 
-  - **Intellectual property regimes**
+    - **Intellectual property regimes**
 
-  - **Universalist- Aims for "one-size-fits-all" solutions Uniqueness of Tribal Knowledge Systems**
+    - **Universalist- Aims for "one-size-fits-all" solutions Uniqueness of Tribal Knowledge Systems**
 
-  - **Ecology-Centred Knowledge** - Eg- **Baiga tribe (Madhya Pradesh)** practising **bewar (shifting cultivation)** with long fallow cycles that allow forest regeneration.
+    - **Ecology-Centred Knowledge** - Eg- **Baiga tribe (Madhya Pradesh)** practising **bewar (shifting cultivation)** with long fallow cycles that allow forest regeneration.
 
-  - **Sustainability and Conservation Ethic** - Resource use governed by restraint and regeneration. Eg**Sacred groves.**
+    - **Sustainability and Conservation Ethic** - Resource use governed by restraint and regeneration. Eg**Sacred groves.**
 
-  - **Oral Transmission of Knowledge** through folklore, rituals, and practice. Eg- **Santhal songs** encoding agricultural seasons and crop cycles.
+    - **Oral Transmission of Knowledge** through folklore, rituals, and practice. Eg- **Santhal songs** encoding agricultural seasons and crop cycles.
 
-  - **Community Ownership of Knowledge** rather than individual control. Eg- **Seed sharing** by **Maliya Kondh tribe** in Odisha during **Burlang Yatra**
+    - **Community Ownership of Knowledge** rather than individual control. Eg- **Seed sharing** by **Maliya Kondh tribe** in Odisha during **Burlang Yatra**
 
-  - **Holistic Worldview** - No rigid separation between nature, religion, economy, and culture. Eg- **Dongria Kondh (Odisha)** worship **Niyamgiri hills** as a living deity.
+    - **Holistic Worldview** - No rigid separation between nature, religion, economy, and culture. Eg- **Dongria Kondh (Odisha)** worship **Niyamgiri hills** as a living deity.
 
-  - **Indigenous Medical Systems** - Plant-based, preventive, and locally adapted healthcare. Eg- **Irula tribe (Tamil Nadu)** using forest herbs for snakebite treatment.
+    - **Indigenous Medical Systems** - Plant-based, preventive, and locally adapted healthcare. Eg- **Irula tribe (Tamil Nadu)** using forest herbs for snakebite treatment.
 
-  - **Climate and Weather Prediction Skills** - Eg- **Bhils** predicting monsoon patterns through bird migration and flowering cycles.
+    - **Climate and Weather Prediction Skills** - Eg- **Bhils** predicting monsoon patterns through bird migration and flowering cycles.
 
-  - **Low-Cost, Locally Available Technologies** - Eg- Living Root Bridges of Meghalaya
+    - **Low-Cost, Locally Available Technologies** - Eg- Living Root Bridges of Meghalaya
 
-  - **Cultural sanctions** regulate exploitation of resources. Eg- Hunting restrictions during breeding seasons among **Gonds.**
+    - **Cultural sanctions** regulate exploitation of resources. Eg- Hunting restrictions during breeding seasons among **Gonds.**
 
-  - **Cultural Continuity** - Eg- Tribal festivals like **Sarhul** among Mundas reinforcing ecological and social values.
+    - **Cultural Continuity** - Eg- Tribal festivals like **Sarhul** among Mundas reinforcing ecological and social values.
 
 **Measures taken to preserve tribal knowledge systems in India**
 
-**1. Tribal Health Care Research Programme (THCRP)** for collecting information on folk medicines / traditional practices
+1. **Tribal Health Care Research Programme (THCRP)** for collecting information on folk medicines / traditional practices
 
-  - **Traditional Knowledge Digital Library (TKDL)** - to create digital knowledge repository
+    - **Traditional Knowledge Digital Library (TKDL)** - to create digital knowledge repository
 
-  - **PM Janjatiya Vikas Mission (PM-JVM)** to promote "forest-based livelihoods."
+    - **PM Janjatiya Vikas Mission (PM-JVM)** to promote "forest-based livelihoods."
 
-  - **UNDPs North-East India Biocultural Initiative (NEBI)** for revitalizing traditional knowledge and promoting ecosystem-based solutions
+    - **UNDPs North-East India Biocultural Initiative (NEBI)** for revitalizing traditional knowledge and promoting ecosystem-based solutions
 
-  - **Adi Sanskriti** - “world’s first digital university to preserve and promote the culture and knowledge of tribal communities.” In an era of **climate change, biodiversity loss, and sustainability crises,** integrating tribal knowledge is essential for achieving **inclusive and sustainable development.**
+    - **Adi Sanskriti** - “world’s first digital university to preserve and promote the culture and knowledge of tribal communities.” In an era of **climate change, biodiversity loss, and sustainability crises,** integrating tribal knowledge is essential for achieving **inclusive and sustainable development.**
 
 1. Explanation_Drishti IAS:
 Source Question: Examine the uniqueness of tribal knowledge systems when compared with mainstream knowledge and cultural systems
@@ -33205,7 +33205,7 @@ Nevertheless, tribal and mainstream societies are not mutually exclusive systems
 1. Explanation_PWOnlyIAS:
 Source Question: Examine the role of &#8216;Gig Economy&#8217; in the process of empowerment of women in India.
 
-| **Approach:** <br> **Introduction** <br>• Give a basic definition of the gig economy which encompasses the basic traits associated with gig economy. <br> **Body** <br>• As the question asks to examine, list down both the pros and cons of the gig economy in the process of women empowerment. <br> **Conclusion** <br>• Conclude with the idea that the Gig economy does offer several opportunities for women but the lack of security and scope of exploitation must be reduced by taking appropriate measures. |
+| **Approach:** <br> **Introduction** <br>• Give a basic definition of the gig economy which encompasses the basic traits associated with gig economy. <br> <br> **Body** <br>• As the question asks to examine, list down both the pros and cons of the gig economy in the process of women empowerment. <br> <br> **Conclusion** <br>• Conclude with the idea that the Gig economy does offer several opportunities for women but the lack of security and scope of exploitation must be reduced by taking appropriate measures. |
 | --- |
 
 ### Introduction
@@ -33300,7 +33300,7 @@ Q201. How do you explain the statistics that show that the sex ratio in Tribes i
 1. Explanation_PWOnlyIAS:
 Source Question: How far do you agree that the behavior of the Indian monsoon has been changing due to humanizing landscape? Discuss.[200 Words, 12.5 Marks]
 
-| **Approach:** <br> **Introduction** <br>• Write the importance of Indian Monsoon. <br> **Body** <br>• Discuss the change behavior of the Indian monsoon. <br> **Conclusion** <br>• Summary of the answer with futuristic approach. |
+| **Approach:** <br> **Introduction** <br>• Write the importance of Indian Monsoon. <br> <br> **Body** <br>• Discuss the change behavior of the Indian monsoon. <br> <br> **Conclusion** <br>• Summary of the answer with futuristic approach. |
 | --- |
 
 ### Introduction
@@ -33646,7 +33646,7 @@ In the fast-changing digital world, **child cuddling faces competition from ubiq
 1. Explanation_PWOnlyIAS:
 Source Question: Child cuddling is now being replaced by mobile phones. Discuss its impact on the socialization of children.
 
-| **Approach** <br>• **Introduction** Write “child cuddling” and its traditional role in child socialisation briefly <br> **Body** <br>• Write why child cuddling is now being replaced by mobile phones <br>• Write its impact on the socialization of children <br> **Conclusion** <br>• Give appropriate conclusion in this regard |
+| **Approach** <br>• **Introduction** Write “child cuddling” and its traditional role in child socialisation briefly <br> <br> **Body** <br>• Write why child cuddling is now being replaced by mobile phones <br>• Write its impact on the socialization of children <br> <br> **Conclusion** <br>• Give appropriate <br> conclusion in this regard |
 | --- |
 
 ### Introduction
@@ -33836,7 +33836,7 @@ In sum, while marriage adapts to modern needs, it **remains significant in conte
 1. Explanation_PWOnlyIAS:
 Source Question: Do you think marriage as a sacrament is loosing its value in Modern India?
 
-| **Approach:** <br> **Introduction** <br>• Write about “marriage as a sacrament” briefly <br> **Body** <br>• Write how marriage as a sacrament is loosing its value in Modern India <br>• Write various counter arguments given against this view <br> **Conclusion** Give appropriate <br> conclusion in this regard |
+| **Approach:** <br> **Introduction** <br>• Write about “marriage as a sacrament” briefly <br> <br> **Body** <br>• Write how marriage as a sacrament is loosing its value in Modern India <br>• Write various counter arguments given against this view <br> <br> **Conclusion** Give appropriate <br> <br> conclusion in this regard |
 | --- |
 
 ### Introduction
@@ -34027,7 +34027,7 @@ The rising wave of the Covid-19 outbreak in India forced the corporate world in 
 1. Explanation_PWOnlyIAS:
 Source Question: Explore and evaluate the impact of ‘Work from Home’ on family relationships.
 
-| **Approach:** <br> **Introduction** <br>• Write about the concept of work from home in brief. <br> **Body** <br>• Write down both positive and negative aspects of Work from Home. <br>• Also examine the family relations like husband-wife relations, parent-children relation, any disproportionate impact on women and children, relations with elderly, etc. <br> **Conclusion** <br>• Conclude by stating that work from home is a reality that has both positive and negative effects on family relations. So, governments and organizations must consciously try to reduce the negative impact while boosting the adoption of work from home. |
+| **Approach:** <br> **Introduction** <br>• Write about the concept of work from home in brief. <br> <br> **Body** <br>• Write down both positive and negative aspects of Work from Home. <br>• Also examine the family relations like husband-wife relations, parent-children relation, any disproportionate impact on women and children, relations with elderly, etc. <br> <br> **Conclusion** <br>• Conclude by stating that work from home is a reality that has both positive and negative effects on family relations. So, governments and organizations must consciously try to reduce the negative impact while boosting the adoption of work from home. |
 | --- |
 
 ### Introduction
@@ -34122,7 +34122,7 @@ Q206. The life cycle of a joint family depends on economic factors rather than s
 1. Explanation_PWOnlyIAS:
 Source Question: The life cycle of a joint family depends on economic factors rather than social values. Discuss.
 
-| **Approach:** <br> **Introduction** <br>• Elaborate the idea of joint family. <br> **Body** <br>• Mention how economic considerations are key factors today in determining when and whether the family stays joint and when it splits into a nuclear family. <br> **Conclusion** <br>• Mention that traditional practices are followed by a society based on its economic capacity, hence, the lifecycle of joint family too is determined by economic factors rather than social values. |
+| **Approach:** <br> **Introduction** <br>• Elaborate the idea of joint family. <br> <br> **Body** <br>• Mention how economic considerations are key factors today in determining when and whether the family stays joint and when it splits into a nuclear family. <br> <br> **Conclusion** <br>• Mention that traditional practices are followed by a society based on its economic capacity, hence, the lifecycle of joint family too is determined by economic factors rather than social values. |
 | --- |
 
 ### Introduction
@@ -34268,23 +34268,23 @@ According to **J.H. Fichter,** “a society can be defined as a network of inter
 
 1. **Shift from Collectivism to Individualism** - Eg- rise in **"Live-in relationships"** and the increasing social acceptance of divorce.
 
-**2. Changes in institution of marriage -** Eg- rise in inter-caste and inter-faith marriage
+2. **Changes in institution of marriage -** Eg- rise in inter-caste and inter-faith marriage
 
-  - **Changes in the family system.** Eg- rise in nuclear families and single parent families
+    - **Changes in the family system.** Eg- rise in nuclear families and single parent families
 
-  - **Democratization of Caste** - While caste identity persists, its "ritual" hierarchy is weakening in favor of political and economic identity. Eg- decline of **commensality restrictions** (eating together) in urban public spaces.
+    - **Democratization of Caste** - While caste identity persists, its "ritual" hierarchy is weakening in favor of political and economic identity. Eg- decline of **commensality restrictions** (eating together) in urban public spaces.
 
-  - **Sanskritization (M.N. Srinivas)** - Lower castes adopt the customs and rituals of upper castes to claim higher social status, leading to "cultural mobility."
+    - **Sanskritization (M.N. Srinivas)** - Lower castes adopt the customs and rituals of upper castes to claim higher social status, leading to "cultural mobility."
 
-  - **From Hierarchy to Stratification (André Béteille)** - The traditional link between caste, land, and power is breaking down into a more complex system of class
+    - **From Hierarchy to Stratification (André Béteille)** - The traditional link between caste, land, and power is breaking down into a more complex system of class
 
-  - **Economic independence of women** challenging traditional patriarchal values. Eg- rise in **“dual income”** households
+    - **Economic independence of women** challenging traditional patriarchal values. Eg- rise in **“dual income”** households
 
-  - **Secularization of Rituals** - Eg- transformation of **Durga Puja or Dandiya** into major commercial and tourist festivals where participation is not limited by faith.
+    - **Secularization of Rituals** - Eg- transformation of **Durga Puja or Dandiya** into major commercial and tourist festivals where participation is not limited by faith.
 
-  - **Impact of Globalization** - Eg- emergence of **"Hinglish"** and the celebration of events like Mother's Day or Valentine's Day.
+    - **Impact of Globalization** - Eg- emergence of **"Hinglish"** and the celebration of events like Mother's Day or Valentine's Day.
 
-  - Reforms under **constitutional provisions and laws** changing value system and behaviour. Egabolition of untouchability As **Yogendra Singh** noted, Indian society is undergoing a "structural" change while maintaining "cultural" continuity. The synthesis of traditional values with modern democratic ideals has created a unique **"Indian Modernity."**
+    - Reforms under **constitutional provisions and laws** changing value system and behaviour. Egabolition of untouchability As **Yogendra Singh** noted, Indian society is undergoing a "structural" change while maintaining "cultural" continuity. The synthesis of traditional values with modern democratic ideals has created a unique **"Indian Modernity."**
 
 1. Explanation_Drishti IAS:
 Source Question: How does Indian society maintain continuity in traditional social values? Enumerate the changes taking place in it.
@@ -34314,7 +34314,7 @@ Despite all these reasons, India remains a diverse country, a bewildering mosaic
 1. Explanation_PWOnlyIAS:
 Source Question: How does Indian society maintain continuity in traditional social values? Enumerate the changes taking place in it.
 
-| **Approach:** <br> **Introduction** <br>• Mention how Indian society has a diverse <br> body of traditions at its core. <br> **Body** <br>• Mention the processes like enculturation, adaptation, evolution of customs, etc that helps maintain continuity in traditional values. <br>• Then mention some factors that have introduced changes in culture and then mention the changes. <br> **Conclusion** <br>• Conclude stating that despite the changes, Indian society is still largely rooted in culture and continues to flourish. |
+| **Approach:** <br> **Introduction** <br>• Mention how Indian society has a diverse <br> <br> body of traditions at its core. <br> <br> **Body** <br>• Mention the processes like enculturation, adaptation, evolution of customs, etc that helps maintain continuity in traditional values. <br>• Then mention some factors that have introduced changes in culture and then mention the changes. <br> <br> **Conclusion** <br>• Conclude stating that despite the changes, Indian society is still largely rooted in culture and continues to flourish. |
 | --- |
 
 ### Introduction
@@ -34478,7 +34478,7 @@ Despite this,India remains a diverse country, a bewildering mosaic of communitie
 1. Explanation_PWOnlyIAS:
 Source Question: What makes Indian society unique in sustaining its culture? Discuss.
 
-| **Approach:** <br> **Introduction** <br>• Mention about the cultural diversity of India. <br> **Body** <br>• Mention the unique ways in which Indian society is able to balance the modern way of living and still be able to sustain its culture. <br> **Conclusion** <br>• Conclude stating that there has been erosion in culture over the years, but still Indian society is largely rooted in culture and is sustaining it because of the values deeply rooted in the society. |
+| **Approach:** <br> **Introduction** <br>• Mention about the cultural diversity of India. <br> <br> **Body** <br>• Mention the unique ways in which Indian society is able to balance the modern way of living and still be able to sustain its culture. <br> <br> **Conclusion** <br>• Conclude stating that there has been erosion in culture over the years, but still Indian society is largely rooted in culture and is sustaining it because of the values deeply rooted in the society. |
 | --- |
 
 ### Introduction
@@ -34602,7 +34602,7 @@ Thankfully, due to the presence of this spirit in our society so far we have bee
 1. Explanation_PWOnlyIAS:
 Source Question: The spirit of tolerance and love is not only an interesting feature of Indian society from very early times, but it is also playing an important part at the present. Elaborate.
 
-| **Approach:** <br> **Introduction** <br>• Introduce the idea of tolerance and its relation with the diversity present in India. <br> **Body** <br>• Elaborate on how tolerance was relevant for India in the past. Then mention how it is relevant at present for Indian society. <br> **Conclusion** <br>• State that tolerance and love has been at the core of Indian society since time immemorial and will always continue to be so. |
+| **Approach:** <br> **Introduction** <br>• Introduce the idea of tolerance and its relation with the diversity present in India. <br> <br> **Body** <br>• Elaborate on how tolerance was relevant for India in the past. Then mention how it is relevant at present for Indian society. <br> <br> **Conclusion** <br>• State that tolerance and love has been at the core of Indian society since time immemorial and will always continue to be so. |
 | --- |
 
 ### Introduction
@@ -34720,15 +34720,15 @@ The term **demographic winter** refers to a situation of **persistently low fert
 
 <p align="center"><img src="civilsdaily/images/civilsdaily_p122_img51.png" alt="Diagram" /></p>
 
-**3. Decline in the working-age population.**
+3. **Decline in the working-age population.**
 
-  - **Negative Population Growth** in extreme cases. Eg- Japan, Ukraine, Russia, China
+    - **Negative Population Growth** in extreme cases. Eg- Japan, Ukraine, Russia, China
 
-  - **High Old-Age Dependency Ratio**
+    - **High Old-Age Dependency Ratio**
 
-  - **Economic Slowdown Risks** Reduced consumption, innovation, and productivity.
+    - **Economic Slowdown Risks** Reduced consumption, innovation, and productivity.
 
-  - **Fiscal Stress on State** - Pressure on pensions, healthcare, and social security systems.
+    - **Fiscal Stress on State** - Pressure on pensions, healthcare, and social security systems.
 
 **World moving towards demographic winter**
 
@@ -34919,45 +34919,45 @@ Eg- service sector contributes 55% of GDP but employs only 30% of workforce
 
 8. **Regional disparity -** Eg- BIMARU states lag behind southern states in human development indicators
 
-**9. "Climate Inequality" -** women and poor are most vulnerable to climatic shocks like heatwaves or disasters. Eg- “climate induced migration” after floods in Assam **Measures taken for human development in India**
+9. **"Climate Inequality" -** women and poor are most vulnerable to climatic shocks like heatwaves or disasters. Eg- “climate induced migration” after floods in Assam **Measures taken for human development in India**
 
-**1. Healthcare and Nutrition**
+1. **Healthcare and Nutrition**
 
-  - **Ayushman Bharat (PM-JAY)-** over **40 crore Ayushman Cards** have been issued.
+    - **Ayushman Bharat (PM-JAY)-** over **40 crore Ayushman Cards** have been issued.
 
-  - Over **1.82 lakh** primary health centers have been upgraded to "Arogya Mandirs".
+    - Over **1.82 lakh** primary health centers have been upgraded to "Arogya Mandirs".
 
-  - **POSHAN Abhiyaan-** targets stunting, wasting, and anemia.
+    - **POSHAN Abhiyaan-** targets stunting, wasting, and anemia.
 
-**2. Education and Skill Development**
+2. **Education and Skill Development**
 
-  - **NEP 2020- 5+3+3+4 structure** and the **Academic Bank of Credits (ABC)**
+    - **NEP 2020- 5+3+3+4 structure** and the **Academic Bank of Credits (ABC)**
 
-  - **Skill India Mission-** trained over **1.63 crore candidates.**
+    - **Skill India Mission-** trained over **1.63 crore candidates.**
 
-**3. Poverty and Living Standards**
+3. **Poverty and Living Standards**
 
-  - Over **40 crore people** were lifted out of multidimensional poverty between 2005 and 2021
+    - Over **40 crore people** were lifted out of multidimensional poverty between 2005 and 2021
 
-  - **Kerala** has been declared officially free from "extreme poverty" in 2025
+    - **Kerala** has been declared officially free from "extreme poverty" in 2025
 
-  - **Jal Jeevan Mission-** Provided tap water to over **14.5 crore** rural households
+    - **Jal Jeevan Mission-** Provided tap water to over **14.5 crore** rural households
 
-  - **PM Awas Yojana (PMAY)-** Over **4 crore pucca houses** have been built
+    - **PM Awas Yojana (PMAY)-** Over **4 crore pucca houses** have been built
 
-  - **PM Ujjwala Yojana-** Over **10.3 crore** LPG connections have been provided
+    - **PM Ujjwala Yojana-** Over **10.3 crore** LPG connections have been provided
 
-**4. Financial Inclusion -** Over **52 crore** bank accounts have been opened **Way Forward**
+4. **Financial Inclusion -** Over **52 crore** bank accounts have been opened **Way Forward**
 
-**1. Capability Approach-** increase expenditure on Health (2.5% of GDP) and Education (6% of GDP)
+1. **Capability Approach-** increase expenditure on Health (2.5% of GDP) and Education (6% of GDP)
 
-  - Bottom-up Planning - **Porto Alegre Brazil Model**
+    - Bottom-up Planning - **Porto Alegre Brazil Model**
 
-  - Expand **MGNREGA** and link with **climate-resilient livelihoods** (water conservation, afforestation).
+    - Expand **MGNREGA** and link with **climate-resilient livelihoods** (water conservation, afforestation).
 
-  - Women Empowerment by adopting best practices like **Kerala’s Kudumbshree Model**
+    - Women Empowerment by adopting best practices like **Kerala’s Kudumbshree Model**
 
-  - Focus on **labour intensive sectors like textiles** for job creation **(Economic survey)** This can ensure **whole of government** and **life-cycle approach** to realise the vision of Viksit Bharat@2047
+    - Focus on **labour intensive sectors like textiles** for job creation **(Economic survey)** This can ensure **whole of government** and **life-cycle approach** to realise the vision of Viksit Bharat@2047
 
 1. Explanation_Drishti IAS:
 Source Question: Why did human development fail to keep pace with economic development in India?
@@ -34985,7 +34985,7 @@ However, India has **achieved significant growth** over the years in social, eco
 1. Explanation_PWOnlyIAS:
 Source Question: Why did human development fail to keep pace with economic development in India?
 
-| **Approach:** <br> **Introduction** <br>• Write about the economic trajectory of India briefly <br> **Body** <br>• Write about the economic development in India <br>• Write why human development fail to keep pace with economic development in India <br>• Write suitable way forward in this regard <br> **Conclusion** <br>• Give appropriate conclusion in this regard |
+| **Approach:** <br> **Introduction** <br>• Write about the economic trajectory of India briefly <br> <br> **Body** <br>• Write about the economic development in India <br>• Write why human development fail to keep pace with economic development in India <br>• Write suitable way forward in this regard <br> <br> **Conclusion** <br>• Give appropriate <br> conclusion in this regard |
 | --- |
 
 ### Introduction
@@ -35181,15 +35181,15 @@ Eg- Free contraceptives, institutional deliveries
 
 **Way Forward**
 
-**1. Teacher Training and Capacity Building** through **DIETs (District Institute of Education and Training),** and digital modules via **DIKSHA portal**
+1. **Teacher Training and Capacity Building** through **DIETs (District Institute of Education and Training),** and digital modules via **DIKSHA portal**
 
-  - Reaching the out-of-school youth and illiterate adults under **"New India Literacy Programme" (NILP)**
+    - Reaching the out-of-school youth and illiterate adults under **"New India Literacy Programme" (NILP)**
 
-  - **Universal access** to contraception and maternal healthcare
+    - **Universal access** to contraception and maternal healthcare
 
-  - Involvement of **Community and Religious Leaders** for attitudinal change
+    - Involvement of **Community and Religious Leaders** for attitudinal change
 
-  - Promoting **women entrepreneurship** under Stand-up India Effective Population Education can transform the "demographic burden" into a **"demographic dividend"**
+    - Promoting **women entrepreneurship** under Stand-up India Effective Population Education can transform the "demographic burden" into a **"demographic dividend"**
 
 1. Explanation_Drishti IAS:
 Source Question: Discuss the main objectives of Population Education and point out the measures to achieve them in India in detail.
@@ -35225,7 +35225,7 @@ The family welfare program over the last five decades with holistic approach tow
 1. Explanation_PWOnlyIAS:
 Source Question: Discuss the main objectives of Population Education and point out the measures to achieve them in India in detail.
 
-| **Approach:** <br> **Introduction** <br>• Define population education. **Body** <br>• List down the main objectives of population education. List down the measures taken up for population education. <br> **Conclusion** <br>• Mention how population can be a boon if population education is inculcated in them. |
+| **Approach:** <br> **Introduction** <br>• Define population education. <br> **Body** <br>• List down the main objectives of population education. List down the measures taken up for population education. <br> <br> **Conclusion** <br>• Mention how population can be a boon if population education is inculcated in them. |
 | --- |
 
 ### Introduction
@@ -35337,7 +35337,7 @@ Q213. Critically examine whether growing population is the cause of poverty OR p
 1. Explanation_PWOnlyIAS:
 Source Question: Critically examine whether growing population is the cause of poverty OR poverty is the main cause of population increase in India.
 
-| **Approach:** <br> **Introduction** <br>• Define poverty. **Body** <br>• Mention the relation between population and poverty and analyze both aspects i.e., whether poverty causes population growth or population growth causes poverty. <br> **Conclusion** <br>• Mention that both reinforce each other. |
+| **Approach:** <br> **Introduction** <br>• Define poverty. <br> **Body** <br>• Mention the relation between population and poverty and analyze both aspects i.e., whether poverty causes population growth or population growth causes poverty. <br> <br> **Conclusion** <br>• Mention that both reinforce each other. |
 | --- |
 
 ### Introduction
@@ -35454,7 +35454,7 @@ Q214. Discuss the changes in the trends of labour migration within and outside I
 1. Explanation_PWOnlyIAS:
 Source Question: Discuss the positive and negative effects of globalization on women in India.
 
-| **Approach:** <br> **Introduction** <br>• Define globalization. **Body** <br>• Give some positive and some negative effect of globalization on women in India. <br> **Conclusion** <br>• Suitable conclusion. |
+| **Approach:** <br> **Introduction** <br>• Define globalization. <br> **Body** <br>• Give some positive and some negative effect of globalization on women in India. <br> <br> **Conclusion** <br>• Suitable <br> conclusion. |
 | --- |
 
 ### Introduction
@@ -35615,23 +35615,23 @@ Source Question: Distinguish between gender equality, gender equity and women’
 
 1. **Better targeting in welfare schemes -** Eg- women constitute 63% of agriculture workforce but own only 13% land - incorporating gender concerns can address this gap
 
-**2. Correcting historical disadvantage -** Eg- **houses** registered in the name of women under **PM Awas Yojana**
+2. **Correcting historical disadvantage -** Eg- **houses** registered in the name of women under **PM Awas Yojana**
 
-  - **Maximizing Economic Returns-** The IMF notes that closing the gender gap could boost India's GDP by **27%.**
+    - **Maximizing Economic Returns-** The IMF notes that closing the gender gap could boost India's GDP by **27%.**
 
-  - **Improving Efficiency-** Eg- involving women in water committees under **Jal Jeevan Mission** ensures better maintenance as they are the primary water managers.
+    - **Improving Efficiency-** Eg- involving women in water committees under **Jal Jeevan Mission** ensures better maintenance as they are the primary water managers.
 
-  - **Upholding Constitutional Mandates-** Article 15(3) allows for special provisions for women.
+    - **Upholding Constitutional Mandates-** Article 15(3) allows for special provisions for women.
 
 Gender-sensitive design fulfills this obligation.
 
-  - **Long term Social Change** happens when women are "agents" rather than "beneficiaries." Eg**Kudumbashree** in Kerala
+    - **Long term Social Change** happens when women are "agents" rather than "beneficiaries." Eg**Kudumbashree** in Kerala
 
-  - Achieving **SDG’s** like 1(ending poverty), 3 (health and wellbeing) and 5 (gender equality)
+    - Achieving **SDG’s** like 1(ending poverty), 3 (health and wellbeing) and 5 (gender equality)
 
-  - **Enhancing development outcomes** - Gender inclusion multiplies benefits. Eg- Educating girls improves health, nutrition, and intergenerational outcomes.
+    - **Enhancing development outcomes** - Gender inclusion multiplies benefits. Eg- Educating girls improves health, nutrition, and intergenerational outcomes.
 
-  - **Global best practices and commitments** - Eg- Gender budgeting advocated by **UN Women.**
+    - **Global best practices and commitments** - Eg- Gender budgeting advocated by **UN Women.**
 
 To awaken the people, it is the women who must be awakened. Once she is on the move, the family moves, the village moves, the nation moves.
 
@@ -35828,7 +35828,7 @@ In 2021, **women comprised 27% of India's suicides**, with homemakers, students,
 1. Explanation_PWOnlyIAS:
 Source Question: Explain why suicide among young women is increasing in Indian society.
 
-| **Approach:** <br> **Introduction** <br>• Write about increasing suicide among young women in Indian society briefly <br> **Body** <br>• Write why suicide among young women is increasing in Indian society <br> **Conclusion** <br>• Give appropriate conclusion in this regard |
+| **Approach:** <br> **Introduction** <br>• Write about increasing suicide among young women in Indian society briefly <br> <br> **Body** <br>• Write why suicide among young women is increasing in Indian society <br> <br> **Conclusion** <br>• Give appropriate <br> conclusion in this regard |
 | --- |
 
 ### Introduction
@@ -36007,7 +36007,7 @@ To safeguard the interest of both employers and employees, some labour laws and 
 1. Explanation_PWOnlyIAS:
 Source Question: Examine the role of &#8216;Gig Economy&#8217; in the process of empowerment of women in India.
 
-| **Approach:** <br> **Introduction** <br>• Give a basic definition of the gig economy which encompasses the basic traits associated with gig economy. <br> **Body** <br>• As the question asks to examine, list down both the pros and cons of the gig economy in the process of women empowerment. <br> **Conclusion** <br>• Conclude with the idea that the Gig economy does offer several opportunities for women but the lack of security and scope of exploitation must be reduced by taking appropriate measures. |
+| **Approach:** <br> **Introduction** <br>• Give a basic definition of the gig economy which encompasses the basic traits associated with gig economy. <br> <br> **Body** <br>• As the question asks to examine, list down both the pros and cons of the gig economy in the process of women empowerment. <br> <br> **Conclusion** <br>• Conclude with the idea that the Gig economy does offer several opportunities for women but the lack of security and scope of exploitation must be reduced by taking appropriate measures. |
 | --- |
 
 ### Introduction
@@ -36203,7 +36203,7 @@ The unbridled growth of population is a problem that our country needs to overco
 1. Explanation_PWOnlyIAS:
 Source Question: What makes Indian society unique in sustaining its culture? Discuss.
 
-| **Approach:** <br> **Introduction** <br>• Mention about the cultural diversity of India. <br> **Body** <br>• Mention the unique ways in which Indian society is able to balance the modern way of living and still be able to sustain its culture. <br> **Conclusion** <br>• Conclude stating that there has been erosion in culture over the years, but still Indian society is largely rooted in culture and is sustaining it because of the values deeply rooted in the society. |
+| **Approach:** <br> **Introduction** <br>• Mention about the cultural diversity of India. <br> <br> **Body** <br>• Mention the unique ways in which Indian society is able to balance the modern way of living and still be able to sustain its culture. <br> <br> **Conclusion** <br>• Conclude stating that there has been erosion in culture over the years, but still Indian society is largely rooted in culture and is sustaining it because of the values deeply rooted in the society. |
 | --- |
 
 ### Introduction
@@ -36360,43 +36360,43 @@ Despite **constitutional guarantees, legal reforms, and social movements,** wome
 
 4. **Elderly women’s vulnerability** - Loneliness, poverty, and lack of social security **Challenges across space**
 
-**1. Rural-urban divide**
+1. **Rural-urban divide**
 
-  - **Limited mobility in rural areas** due to safety and norms.
+    - **Limited mobility in rural areas** due to safety and norms.
 
-  - **Safety concerns and informal employment** in cities.
+    - **Safety concerns and informal employment** in cities.
 
-**2. Caste and community-based challenges**
+2. **Caste and community-based challenges**
 
-  - **Caste-based violence** - Gender violence used as social control. Eg- Hatras rape case
+    - **Caste-based violence** - Gender violence used as social control. Eg- Hatras rape case
 
-  - Mining and infrastructure-induced displacement of **Tribal women**
+    - Mining and infrastructure-induced displacement of **Tribal women**
 
-  - **Minority women’s double marginalization** - Eg- Muslim women’s low labour force participation.
+    - **Minority women’s double marginalization** - Eg- Muslim women’s low labour force participation.
 
-**3. Challenges in Economic space**
+3. **Challenges in Economic space**
 
-  - **Concentration in low paying care and domestic work**
+    - **Concentration in low paying care and domestic work**
 
-  - **Glass ceiling effect** - discrimination and low representation at higher positions
+    - **Glass ceiling effect** - discrimination and low representation at higher positions
 
-  - **Digital Divide** - **51.6%** of women aged 15 years and above in rural areas do not own a mobile phone **(NSO)**
+    - **Digital Divide** - **51.6%** of women aged 15 years and above in rural areas do not own a mobile phone **(NSO)**
 
-**5. Regional and cultural disparities**
+5. **Regional and cultural disparities**
 
-  - **Regional inequality** - Eg- Higher TFR in Bihar (3.0 vs national average of 1.9)
+    - **Regional inequality** - Eg- Higher TFR in Bihar (3.0 vs national average of 1.9)
 
-  - **Violence in conflict zones -** Eg- gang-rape and naked parade of two Kuki-Zo women in Manipur **Improvements made**
+    - **Violence in conflict zones -** Eg- gang-rape and naked parade of two Kuki-Zo women in Manipur **Improvements made**
 
-  - **Political**
+    - **Political**
 
-  - **Nari Shakti Vandan Adhiniyam**
+    - **Nari Shakti Vandan Adhiniyam**
 
 **b. 46%** representation in PRIs
 
-  - **Legal-**
+    - **Legal-**
 
-  - stringent and gender-sensitive provisions in **Bhartiya Nyaya Sanhita**
+    - stringent and gender-sensitive provisions in **Bhartiya Nyaya Sanhita**
 
 **b. PCPNDT and POSH Acts**
 
@@ -36416,13 +36416,13 @@ Despite **constitutional guarantees, legal reforms, and social movements,** wome
 
 **3.** Introduce **gender sensitisation modules** in **school curricula nationwide.**
 
-**4. Comprehensive Healthcare**
+4. **Comprehensive Healthcare**
 
 **a. Expand coverage and financial incentives** under **Janani Suraksha Yojana** and **PM Matru Vandana Yojana**
 
   - Leverage **digital health tools** like **MP’s SUMAN SAKHI chatbot** to provide **real-time support** to **expecting mothers.**
 
-**5. Women-Centric Urban Infrastructure-** Eg- **“Sakhi Niwas” hostels** for working women Thus, sustainable gender justice requires simultaneous expansion of **resources, agency, and participation.**
+5. **Women-Centric Urban Infrastructure-** Eg- **“Sakhi Niwas” hostels** for working women Thus, sustainable gender justice requires simultaneous expansion of **resources, agency, and participation.**
 
 1. Explanation_Drishti IAS:
 Source Question: What are the continued challenges for Women in India against time and space?
@@ -36496,7 +36496,7 @@ In order to improve the condition of Indian women, society must remember words o
 1. Explanation_PWOnlyIAS:
 Source Question: What are the continued challenges for women in India against time and space?
 
-| **Approach:** <br> **Introduction** <br>• Mention a few facts about women in India and how they have faced several challenges since time immemorial. <br> **Body** <br>• Mention that some of these challenges have continued and some new ones have come up. Also mention how the challenges differ across regions too. <br> **Conclusion** <br>• Conclude stating that women in India need social support to give shape to their capabilities and reach greater heights. For this, a change in society’s mindset is necessary. |
+| **Approach:** <br> **Introduction** <br>• Mention a few facts about women in India and how they have faced several challenges since time immemorial. <br> <br> **Body** <br>• Mention that some of these challenges have continued and some new ones have come up. Also mention how the challenges differ across regions too. <br> <br> **Conclusion** <br>• Conclude stating that women in India need social support to give shape to their capabilities and reach greater heights. For this, a change in society’s mindset is necessary. |
 | --- |
 
 ### Introduction
@@ -36635,31 +36635,31 @@ Source Question: ‘Women’s movement in India has not addressed the issues of 
 
 9. **Navdanya Movement (Vandana Shiva)** - empowers women to preserve **biodiversity and seeds**
 
-**10. #MeToo Movement -** against sexual harassment at workplace **However, they failed to address the issues of women of lower strata**
+10. **#MeToo Movement -** against sexual harassment at workplace **However, they failed to address the issues of women of lower strata**
 
-  - It failed to recognise the triple **burden of discrimination** (intersection of **Caste, Class, and Gender)** as it treated "Woman" as a monolithic category. Eg- Hatras rape case
+    - It failed to recognise the triple **burden of discrimination** (intersection of **Caste, Class, and Gender)** as it treated "Woman" as a monolithic category. Eg- Hatras rape case
 
-  - **Intersection of gender and religious marginalization was weakly addressed.** Eg- Muslim women’s socio-economic exclusion received less attention beyond advocacy of UCC and Triple Talaq
+    - **Intersection of gender and religious marginalization was weakly addressed.** Eg- Muslim women’s socio-economic exclusion received less attention beyond advocacy of UCC and Triple Talaq
 
-  - **Leadership and agenda dominated by elite women -** Early focus on legal reforms like dowry and workplace equality over survival issues like hunger and wage security.
+    - **Leadership and agenda dominated by elite women -** Early focus on legal reforms like dowry and workplace equality over survival issues like hunger and wage security.
 
-  - **Limited focus on informal and unpaid work -** Eg- more focuses on "glass ceilings" in corporate offices, neglecting agricultural laborers. (Over 90% of Dalit women work in the unorganized sector.)
+    - **Limited focus on informal and unpaid work -** Eg- more focuses on "glass ceilings" in corporate offices, neglecting agricultural laborers. (Over 90% of Dalit women work in the unorganized sector.)
 
-  - **Urban bias in issues and mobilization -** Eg- Rural women’s access to drinking water, fuelwood, and sanitation remained peripheral.
+    - **Urban bias in issues and mobilization -** Eg- Rural women’s access to drinking water, fuelwood, and sanitation remained peripheral.
 
-  - **Inadequate engagement with tribal women’s concerns -** Development-induced displacement received limited feminist mobilization.
+    - **Inadequate engagement with tribal women’s concerns -** Development-induced displacement received limited feminist mobilization.
 
-  - **Neglect of women issues in conflict zones -** Eg- Women in Kashmir and the Northeast did not become sustained focal points of mainstream movements.
+    - **Neglect of women issues in conflict zones -** Eg- Women in Kashmir and the Northeast did not become sustained focal points of mainstream movements.
 
-  - **Dependence on NGO-ization and donor agendas -** Project-driven advocacy replaced mass mobilization among poor women.
+    - **Dependence on NGO-ization and donor agendas -** Project-driven advocacy replaced mass mobilization among poor women.
 
-  - **Educational Exclusion-** Elite feminism focuses on "STEM representation," while lower-strata women struggle with basic **literacy and school dropouts.**
+    - **Educational Exclusion-** Elite feminism focuses on "STEM representation," while lower-strata women struggle with basic **literacy and school dropouts.**
 
-  - **Health Disparities-** feminist debates revolve around "reproductive choice" (abortion rights), while marginalized women face lack of basic maternal healthcare.
+    - **Health Disparities-** feminist debates revolve around "reproductive choice" (abortion rights), while marginalized women face lack of basic maternal healthcare.
 
-  - **Language Barrier-** Feminist discourse is largely in **English,** creating a "vocabulary of exclusion" for rural, non-English speaking women.
+    - **Language Barrier-** Feminist discourse is largely in **English,** creating a "vocabulary of exclusion" for rural, non-English speaking women.
 
-  - **Digital Divide-** "Hashtag Activism" (#MeToo) failed to reach rural women due to digital illiteracy.
+    - **Digital Divide-** "Hashtag Activism" (#MeToo) failed to reach rural women due to digital illiteracy.
 
 **Counter-Argument- Positive Impacts on the Lower Strata**
 
@@ -36721,7 +36721,7 @@ But there are substantial evidences to prove that women movements have neglected
 1. Explanation_PWOnlyIAS:
 Source Question: Discuss whether formation of new states in recent times is beneficial or not for the economy of India?
 
-| **Approach:** <br> **Introduction** <br>• You can introduce by explaining the rationale behind the formation of new states. <br> **Body** <br>• Discuss the potential benefits of forming new states. <br>• Examine the potential drawbacks of forming new states. <br>• Analyze specific case studies of new state formations in India, such as Uttarakhand, Jharkhand, and Chhattisgarh, to assess their economic impact. <br> **Conclusion** <br>• Provide a balanced perspective, emphasizing that the overall outcome depends on factors such as governance, resource allocation, and inclusive development policies. |
+| **Approach:** <br> **Introduction** <br>• You can introduce by explaining the rationale behind the formation of new states. <br> <br> **Body** <br>• Discuss the potential benefits of forming new states. <br>• Examine the potential drawbacks of forming new states. <br>• Analyze specific case studies of new state formations in India, such as Uttarakhand, Jharkhand, and Chhattisgarh, to assess their economic impact. <br> <br> **Conclusion** <br>• Provide a balanced perspective, emphasizing that the overall outcome depends on factors such as governance, resource allocation, and inclusive development policies. |
 | --- |
 
 ### Introduction
@@ -36802,7 +36802,7 @@ Q221. Discuss the various economic and socio-cultural forces that are driving in
 1. Explanation_PWOnlyIAS:
 Source Question: Discuss the various economic and socio-cultural forces that are driving increasing feminization of agriculture in India.
 
-| **Approach:** <br> **Introduction** <br> • Mention what the term feminization of agriculture means .** <br> **Body** <br> • Mention the major socio-economic causes for the rising number of women in the agriculture sector. <br> **Conclusion** <br> • Mention that feminization of agriculture is a reality and the government must take steps to address their concerns specifically. |
+| **Approach:** <br> **Introduction** <br> • Mention what the term feminization of agriculture means .** <br> <br> **Body** <br> • Mention the major socio-economic causes for the rising number of women in the agriculture sector. <br> <br> **Conclusion** <br> • Mention that feminization of agriculture is a reality and the government must take steps to address their concerns specifically. |
 | --- |
 
 ### Introduction
@@ -36901,7 +36901,7 @@ Q222. How does patriarchy impact the position of a middle class working woman in
 1. Explanation_PWOnlyIAS:
 Source Question: How does patriarchy impact the position of a middle-class working woman in India?
 
-| **Approach:** <br> **Introduction** <br>• Mention how patriarchy is ingrained in Indian society and how the middle class are the ones who follow it fully. <br> **Body:** <br>• Give specific instances of how patriarchy is specifically impacting working women from the middle class. <br> **Conclusion** <br>• Conclude saying that women from the middle class who engage in outside work need to be treated equally and not be shackled in the chains of patriarchy. |
+| **Approach:** <br> **Introduction** <br>• Mention how patriarchy is ingrained in Indian society and how the middle class are the ones who follow it fully. <br> <br> **Body:** <br>• Give specific instances of how patriarchy is specifically impacting working women from the middle class. <br> <br> **Conclusion** <br>• Conclude saying that women from the middle class who engage in outside work need to be treated equally and not be shackled in the chains of patriarchy. |
 | --- |
 
 ### Introduction
@@ -37011,7 +37011,7 @@ Q223. Why do some of the most prosperous regions of India have an adverse sex ra
 1. Explanation_PWOnlyIAS:
 Source Question: Why do some of the most prosperous regions of India have an adverse sex ratio for women? Give your arguments.
 
-| **Approach:** <br> **Introduction** <br>• Define sex ratio and give data about sex ratios in prosperous regions of India compared to other regions. <br> **Body** <br>• Mention the reasons for the reduction in sex ratio despite increased prosperity and education. <br> **Conclusion** <br>• Conclude saying that awareness for changing societal mindset is absolutely necessary to counter this trend. |
+| **Approach:** <br> **Introduction** <br>• Define sex ratio and give data about sex ratios in prosperous regions of India compared to other regions. <br> <br> **Body** <br>• Mention the reasons for the reduction in sex ratio despite increased prosperity and education. <br> <br> **Conclusion** <br>• Conclude saying that awareness for changing societal mindset is absolutely necessary to counter this trend. |
 | --- |
 
 ### Introduction
@@ -37117,7 +37117,7 @@ Q224. Male membership needs to be encouraged in order to make women’s organiza
 1. Explanation_PWOnlyIAS:
 Source Question: “Male membership needs to be encouraged in order to make women’s organizations free from gender bias.” Comment.
 
-| **Approach:** <br> **Introduction** <br>• Mention about the role of women’s organization. <br> **Body** <br>• Mention the problems faced due to women only membership and how male membership can be seen as a remedy to some of these problems. <br> **Conclusion** <br>• Mention that women’s organizations must not see men as against their interest. Male membership would only enhance the outcomes envisaged by these organizations. |
+| **Approach:** <br> **Introduction** <br>• Mention about the role of women’s organization. <br> <br> **Body** <br>• Mention the problems faced due to women only membership and how male membership can be seen as a remedy to some of these problems. <br> <br> **Conclusion** <br>• Mention that women’s organizations must not see men as against their interest. Male membership would only enhance the outcomes envisaged by these organizations. |
 | --- |
 
 ### Introduction
@@ -37242,21 +37242,21 @@ Source Question: Achieving sustainable growth with emphasis on environmental pro
 
 3. **Environmental bans** affect subsistence livelihoods. Eg- ban on single-use plastics has disproportionately impacted street vendors
 
-**4. Higher Cost of Green Alternatives -** Eg- high initial cost of Solar pumps makes it unaffordable for small farmers
+4. **Higher Cost of Green Alternatives -** Eg- high initial cost of Solar pumps makes it unaffordable for small farmers
 
-  - **Energy Transition Costs-** closure of mines in the "coal belt" (Jharkhand/Odisha) threatens the informal livelihoods of nearly **15-20 million people** linked to the coal economy.
+    - **Energy Transition Costs-** closure of mines in the "coal belt" (Jharkhand/Odisha) threatens the informal livelihoods of nearly **15-20 million people** linked to the coal economy.
 
-  - **Urban Environmental Regulations** Closure of polluting units affects migrant workers.
+    - **Urban Environmental Regulations** Closure of polluting units affects migrant workers.
 
-  - **Fishing communities** impacted by coastal regulation norms. Eg- Limitations under Coastal Regulation Zone (CRZ) rules.
+    - **Fishing communities** impacted by coastal regulation norms. Eg- Limitations under Coastal Regulation Zone (CRZ) rules.
 
-**8. Unequal Burden of Environmental Compliance -** Eg- Sand mining restrictions affecting daily-wage workers.
+8. **Unequal Burden of Environmental Compliance -** Eg- Sand mining restrictions affecting daily-wage workers.
 
-  - **Agricultural Restrictions-** Policies discouraging water-intensive crops impact marginal farmers more as they lack capital to shift to high-value horticulture.
+    - **Agricultural Restrictions-** Policies discouraging water-intensive crops impact marginal farmers more as they lack capital to shift to high-value horticulture.
 
-  - **Eco-restoration projects,** such as clearing the **Yamuna floodplains** in Delhi, result in the demolition of informal settlements without adequate "Just Transition" housing.
+    - **Eco-restoration projects,** such as clearing the **Yamuna floodplains** in Delhi, result in the demolition of informal settlements without adequate "Just Transition" housing.
 
-  - Shift from biomass to LPG under the ujjwala **scheme** reduced indoor pollution, but high refill costs force rural households back to firewood.
+    - Shift from biomass to LPG under the ujjwala **scheme** reduced indoor pollution, but high refill costs force rural households back to firewood.
 
 **Counter argument - benefits sustainable growth with emphasis on environmental protection for poor**
 
@@ -37450,13 +37450,13 @@ Source Question: In dealing with socio-economic Issues of development, what kind
 
 7. **Regional disparity -** Eg- BIMARU states lag behind southern states in human development indicators
 
-**8. "Climate Inequality" -** women and poor are most vulnerable to climatic shocks like heatwaves or disasters. Eg- “climate induced migration” after floods in Assam
+8. **"Climate Inequality" -** women and poor are most vulnerable to climatic shocks like heatwaves or disasters. Eg- “climate induced migration” after floods in Assam
 
-  - **Urbanization issues** - Eg- 17% population living in slums **Collaboration between government, NGO and private sector**
+    - **Urbanization issues** - Eg- 17% population living in slums **Collaboration between government, NGO and private sector**
 
-  - **Public-Private-Community Partnerships (PPCP)** - Eg- collaboration between GoI, Akshay patra foundation and infosys foundation in implementing Mid-day meal scheme
+    - **Public-Private-Community Partnerships (PPCP)** - Eg- collaboration between GoI, Akshay patra foundation and infosys foundation in implementing Mid-day meal scheme
 
-**2. Complementary role**
+2. **Complementary role**
 
 **a. Policy Leadership by Government**
 
@@ -37464,17 +37464,17 @@ Source Question: In dealing with socio-economic Issues of development, what kind
 
 **c. Private Sector for Scale and Innovation**
 
-**3. CSR-Driven Development Partnerships - Eg-** tata trust funding support for PRATHAM NGO for education
+3. **CSR-Driven Development Partnerships - Eg-** tata trust funding support for PRATHAM NGO for education
 
-  - **Data and Technology Collaboration** - Tech firms building dashboards, NGOs collecting field-level data, government monitoring outcomes. Eg- in **aspirational districts program**
+    - **Data and Technology Collaboration** - Tech firms building dashboards, NGOs collecting field-level data, government monitoring outcomes. Eg- in **aspirational districts program**
 
-  - **Capacity Building** - NGOs and private sector training frontline workers in healthcare.
+    - **Capacity Building** - NGOs and private sector training frontline workers in healthcare.
 
-  - **Technology Transfer for Agriculture-** Agri-tech firms develop precision tools, the government subsidizes them, while NGOs train farmers in "Climate-Smart Agriculture".
+    - **Technology Transfer for Agriculture-** Agri-tech firms develop precision tools, the government subsidizes them, while NGOs train farmers in "Climate-Smart Agriculture".
 
-  - **Saturation-Based urban Infrastructure-** The government provides land, the private sector builds , while NGOs handle the "soft infrastructure" like health and education.
+    - **Saturation-Based urban Infrastructure-** The government provides land, the private sector builds , while NGOs handle the "soft infrastructure" like health and education.
 
-  - NGO’s helping the government in ensuring **last mile service delivery.** Eg- acting as “Arogya Mitras” under Ayushman Bharat scheme Strengthening this triangular alliance can ensure **inclusive, resilient, and sustainable** growth.
+    - NGO’s helping the government in ensuring **last mile service delivery.** Eg- acting as “Arogya Mitras” under Ayushman Bharat scheme Strengthening this triangular alliance can ensure **inclusive, resilient, and sustainable** growth.
 
 1. Explanation_Drishti IAS:
 Source Question: In dealing with socio-economic issues of development, what kind of collaboration between government, NGOs and private sector would be most productive? (Answer in 150 words)
@@ -37675,7 +37675,7 @@ Blockchain and crypto assets will be an integral part of the Fourth Industrial R
 1. Explanation_PWOnlyIAS:
 Source Question: What is Crypto currency? How does it affect global society? Has it been affecting Indian society also?
 
-| **Approach:** <br> **Introduction** <br>• Define cryptocurrency and mention some of its key features. <br> **Body** <br>• Mention the impact of cryptocurrency on global society. Mention the impact on Indian society specifically. <br> **Conclusion** <br>• Mention that every technology has its pros and cons, but the positive side must be developed further so that the cons become less and less relevant. |
+| **Approach:** <br> **Introduction** <br>• Define cryptocurrency and mention some of its key features. <br> <br> **Body** <br>• Mention the impact of cryptocurrency on global society. Mention the impact on Indian society specifically. <br> <br> **Conclusion** <br>• Mention that every technology has its pros and cons, but the positive side must be developed further so that the cons become less and less relevant. |
 | --- |
 
 ### Introduction
@@ -37802,61 +37802,61 @@ India’s education system has witnessed a major transformation through **digita
 
 **Contributions of digital initiatives to the education system**
 
-**1. Expanding Access and Inclusion -** Digital platforms have taken education to **remote and underserved areas.**
+1. **Expanding Access and Inclusion -** Digital platforms have taken education to **remote and underserved areas.**
 
-**2. Democratization of Quality Content -** High-quality lectures from premier institutions are freely accessible. Eg- **SWAYAM** offers courses from IITs, central universities, and NITs.
+2. **Democratization of Quality Content -** High-quality lectures from premier institutions are freely accessible. Eg- **SWAYAM** offers courses from IITs, central universities, and NITs.
 
-**3. Continuity of Learning -** Eg- Online classes and TV-based learning during COVID-19 lockdowns.
+3. **Continuity of Learning -** Eg- Online classes and TV-based learning during COVID-19 lockdowns.
 
-**4. Teacher Capacity Building-** Eg- Online teacher training modules on DIKSHA and NISHTHA programmes.
+4. **Teacher Capacity Building-** Eg- Online teacher training modules on DIKSHA and NISHTHA programmes.
 
-**5. Multi-Modal Learning-** Eg- **PM e-Vidya** integrating DTH channels, radio, and online learning.
+5. **Multi-Modal Learning-** Eg- **PM e-Vidya** integrating DTH channels, radio, and online learning.
 
-**6. Bridging Regional and Language Barriers -** Content available in **regional languages** improves inclusivity.
+6. **Bridging Regional and Language Barriers -** Content available in **regional languages** improves inclusivity.
 
-**7. Enhancing Governance and Transparency - Eg- UDISE+ (Unified District Information System for Education)** provides real-time data on school infrastructure, teacher availability, and student enrollment
+7. **Enhancing Governance and Transparency - Eg- UDISE+ (Unified District Information System for Education)** provides real-time data on school infrastructure, teacher availability, and student enrollment
 
-  - **Self-Paced and Lifelong Learning** -Eg- Online certification and skill courses for working professionals
+    - **Self-Paced and Lifelong Learning** -Eg- Online certification and skill courses for working professionals
 
-  - **Cost Effectiveness and Scalability** - One-time digital content creation serves millions.
+    - **Cost Effectiveness and Scalability** - One-time digital content creation serves millions.
 
-  - **Virtual Labs** allow **STEM** students to perform complex science experiments digitally.
+    - **Virtual Labs** allow **STEM** students to perform complex science experiments digitally.
 
-  - Digital initiatives have also catered to **Children with Special Needs (CWSN)** through "Digitally Accessible Information System" (DAISY) and sign-language videos on the **e-Pathshala portal.**
+    - Digital initiatives have also catered to **Children with Special Needs (CWSN)** through "Digitally Accessible Information System" (DAISY) and sign-language videos on the **e-Pathshala portal.**
 
-  - **Automated Permanent Academic Account Registry (APAAR)** or "One Nation, One Student ID", provides a **12-digit digital ID** for every student to store all their academic achievements **Challenges**
+    - **Automated Permanent Academic Account Registry (APAAR)** or "One Nation, One Student ID", provides a **12-digit digital ID** for every student to store all their academic achievements **Challenges**
 
-**1. Rural-Urban divide-** only 18.47% of rural schools have internet access compared to 47.29% of urban schools.
+1. **Rural-Urban divide-** only 18.47% of rural schools have internet access compared to 47.29% of urban schools.
 
-  - **Infrastructure gaps** - Only about 24% of rural children had access to digital devices for learning (ASER report).
+    - **Infrastructure gaps** - Only about 24% of rural children had access to digital devices for learning (ASER report).
 
-  - **Digital Illiteracy among Parents** leads to a "guidance gap" at home.
+    - **Digital Illiteracy among Parents** leads to a "guidance gap" at home.
 
-  - **Language Barriers-** the **"advanced technical content"** is still predominantly available in English
+    - **Language Barriers-** the **"advanced technical content"** is still predominantly available in English
 
-**5. Excessive screen time** leads to
+5. **Excessive screen time** leads to
 
-  - Eye strain
+    - Eye strain
 
-  - Exposure to “adult” content online
+    - Exposure to “adult” content online
 
-  - Reduced physical activity - rising obesity and social isolation
+    - Reduced physical activity - rising obesity and social isolation
 
-  - **Gender Digital Gap** - Girls have less access to devices and connectivity.
+    - **Gender Digital Gap** - Girls have less access to devices and connectivity.
 
-  - **Retention challenges** - Eg- less than 4% of SWAYAM students have completed their courses since its launch in 2017 **Way Forward**
+    - **Retention challenges** - Eg- less than 4% of SWAYAM students have completed their courses since its launch in 2017 **Way Forward**
 
-  - Replicating Kerala’s **Hi-Tech School Project** - every classroom equipped with a projector and high-speed LAN.
+    - Replicating Kerala’s **Hi-Tech School Project** - every classroom equipped with a projector and high-speed LAN.
 
-  - Leveraging **CSR funds** to provide solar-powered tablets to students in "Aspirational Districts" .
+    - Leveraging **CSR funds** to provide solar-powered tablets to students in "Aspirational Districts" .
 
-  - Using AI-based **real-time translation tools** to make high-end STEM content available in regional languages. Eg- "Bhashini" approach.
+    - Using AI-based **real-time translation tools** to make high-end STEM content available in regional languages. Eg- "Bhashini" approach.
 
-  - **Gamified Learning-** Integrating **Gamification** to increase student engagement.
+    - **Gamified Learning-** Integrating **Gamification** to increase student engagement.
 
-  - Introducing **"Digital Citizenship"** as a core subject to teach students about internet safety, misinformation, and ethical AI usage.
+    - Introducing **"Digital Citizenship"** as a core subject to teach students about internet safety, misinformation, and ethical AI usage.
 
-  - **Public-Private Partnerships** for leveraging EdTech innovation. Eg- Collaboration with start-ups for interactive content.
+    - **Public-Private Partnerships** for leveraging EdTech innovation. Eg- Collaboration with start-ups for interactive content.
 
 These measures can ensure that digital education becomes a powerful enabler of **inclusive, future-ready, and outcome-oriented learning** in India.
 
@@ -37878,7 +37878,7 @@ Source Question: How have digital initiativesin India contributed to the functio
 1. Explanation_PWOnlyIAS:
 Source Question: How have digital initiatives in India contributed to the functioning of the education system in the country? Elaborate your answer.
 
-| **Approach:** <br> **Introduction** <br>• Mention about the status of education in India and how the pandemic has accelerated the process of digital education. <br> **Body** <br>• List down and give details about the digital initiatives taken up for education in India. <br>• Add a few lines on how each initiative aids to some aspect of the functioning of the education system in India. <br> **Conclusion** <br>• Conclude stating that digital initiatives are necessary in today’s world, but it must not be seen as a replacement of the traditional system. <br>• Rather there must be a collaborative element between both the ways of teaching. |
+| **Approach:** <br> **Introduction** <br>• Mention about the status of education in India and how the pandemic has accelerated the process of digital education. <br> <br> **Body** <br>• List down and give details about the digital initiatives taken up for education in India. <br>• Add a few lines on how each initiative aids to some aspect of the functioning of the education system in India. <br> <br> **Conclusion** <br>• Conclude stating that digital initiatives are necessary in today’s world, but it must not be seen as a replacement of the traditional system. <br>• Rather there must be a collaborative element between both the ways of teaching. |
 | --- |
 
 ### Introduction
@@ -38098,7 +38098,7 @@ The COVID-19 pandemic revealed the need for serious attention for policymakers w
 1. Explanation_PWOnlyIAS:
 Source Question: COVID-19 pandemic accelerated class inequalities and poverty in India. Comment.
 
-| **Approach:** <br> **Introduction** <br>• Write about the inequality in India quoting some relevant fact or data. Add a statement that the pandemic has increased inequalities. <br> **Body** <br>• Mention the various dimensions in which the inequalities and poverty has increased due to the pandemic. <br> **Conclusion** <br>• Conclude with some government initiatives to counter this widening inequality and suggestions if any. |
+| **Approach:** <br> **Introduction** <br>• Write about the inequality in India quoting some relevant fact or data. Add a statement that the pandemic has increased inequalities. <br> <br> **Body** <br>• Mention the various dimensions in which the inequalities and poverty has increased due to the pandemic. <br> <br> **Conclusion** <br>• Conclude with some government initiatives to counter this widening inequality and suggestions if any. |
 | --- |
 
 ### Introduction
@@ -38230,45 +38230,45 @@ Though **24.82 crore people** escaped multidimensional poverty between 2013-14 a
 
 6. **PM-Jan Dhan Yojana-** Financial inclusion and bank account access.
 
-**7. Pradhan Mantri Kaushal Vikas Yojana (PMKVY) Reasons Behind the Persistence of Poverty**
+7. **Pradhan Mantri Kaushal Vikas Yojana (PMKVY) Reasons Behind the Persistence of Poverty**
 
-  - **Jobless growth** due to shift from agriculture to service led growth instead of manufacturing led growth.
+    - **Jobless growth** due to shift from agriculture to service led growth instead of manufacturing led growth.
 
 Eg- service sector contributes 55% of GDP but employs only 30% of workforce
 
-  - **Governance issues**
+    - **Governance issues**
 
 <p align="center"><img src="civilsdaily/images/civilsdaily_p123_img52.png" alt="Diagram" /></p>
 
-  - Corruption in PDS
+    - Corruption in PDS
 
-  - Ghost beneficiaries (10 lakh in Ayushman Bharat as per CAG)
+    - Ghost beneficiaries (10 lakh in Ayushman Bharat as per CAG)
 
-  - Inclusion and exclusion errors
+    - Inclusion and exclusion errors
 
-  - **Low Agricultural Productivity-**
+    - **Low Agricultural Productivity-**
 
-  - Employs nearly **45%** of the workforce, but it contributes only **~17%** to the GDP.
+    - Employs nearly **45%** of the workforce, but it contributes only **~17%** to the GDP.
 
-  - **Small and fragmented** landholdings (86%) keep rural incomes at subsistence levels.
+    - **Small and fragmented** landholdings (86%) keep rural incomes at subsistence levels.
 
-  - Over **90%** of the Indian workforce is in the informal sector - lack social security and stable wages, leading to "working poverty."
+    - Over **90%** of the Indian workforce is in the informal sector - lack social security and stable wages, leading to "working poverty."
 
-  - **Social Stratification-** Caste-based and gender-based discrimination.
+    - **Social Stratification-** Caste-based and gender-based discrimination.
 
-  - 96% manual scavengers are Dalits
+    - 96% manual scavengers are Dalits
 
-  - Women own only 13% of land while forming 63% of agriculture workforce
+    - Women own only 13% of land while forming 63% of agriculture workforce
 
-  - **Population Pressure** (1.35 billion) strains public infrastructure, housing, and the job market.
+    - **Population Pressure** (1.35 billion) strains public infrastructure, housing, and the job market.
 
-  - **Economic Inequality** - richest 1% control more than 40% of total wealth, while the bottom 50% own merely 3% **(Oxfam Report)**
+    - **Economic Inequality** - richest 1% control more than 40% of total wealth, while the bottom 50% own merely 3% **(Oxfam Report)**
 
-  - **High Out-of-Pocket Expenditure (OOPE)** in healthcare (40%) pushes "near-poor" families back into poverty.
+    - **High Out-of-Pocket Expenditure (OOPE)** in healthcare (40%) pushes "near-poor" families back into poverty.
 
-  - **Rural-Urban divide -** Poor access to **quality education and vocational training** limits employability.
+    - **Rural-Urban divide -** Poor access to **quality education and vocational training** limits employability.
 
-  - **Regional disparities -** BIMARU states lag behind southern states in human development indicators.
+    - **Regional disparities -** BIMARU states lag behind southern states in human development indicators.
 
 To bridge the remaining gap and achieve SDG-1, the government must move from **Welfare** to **Empowerment (Capability Building)** model of development.
 
@@ -38296,7 +38296,7 @@ Poverty eradication in a country with a huge population like India needs to invo
 1. Explanation_PWOnlyIAS:
 Source Question: Defining Blue Revolution. Explain the problem and strategies for pisciculture development in India.
 
-| **Approach:** <br> **Introduction** <br>• Write about the Blue Revolution. **Body** <br>• Discuss the Problems of pisciculture development and its strategies in India. <br> **Conclusion** <br>• Conclude your answer with a futuristic approach. |
+| **Approach:** <br> **Introduction** <br>• Write about the Blue Revolution. <br> **Body** <br>• Discuss the Problems of pisciculture development and its strategies in India. <br> <br> **Conclusion** <br>• Conclude your answer with a futuristic approach. |
 | --- |
 
 ### Introduction
@@ -38402,7 +38402,7 @@ The steps taken by the government are in the right direction and will go a long 
 1. Explanation_PWOnlyIAS:
 Source Question: “An essential condition to eradicate poverty is to liberate the poor from the process of deprivation.” Substantiate this statement with suitable examples.
 
-| **Approach:** <br> **Introduction** <br>• Define poverty <br>• Give some data or facts regarding poverty in India. <br> **Body** <br>• Give points on how deprivation lies at the core of poverty and how eradication of poverty can be achieved by ending the process of deprivation. <br> **Conclusion** <br>• Conclude stating that ending poverty is an SDG and the measures taken by India must be focused on building capabilities of its young population. |
+| **Approach:** <br> **Introduction** <br>• Define poverty <br>• Give some data or facts regarding poverty in India. <br> <br> **Body** <br>• Give points on how deprivation lies at the core of poverty and how eradication of poverty can be achieved by ending the process of deprivation. <br> <br> **Conclusion** <br>• Conclude stating that ending poverty is an SDG and the measures taken by India must be focused on building capabilities of its young population. |
 | --- |
 
 ### Introduction
@@ -38538,13 +38538,13 @@ However, despite being the **4th largest economy,** India’s ranking in HDI, 20
 
 3. **Economic Inequality** - richest 1% control more than 40% of total wealth, while the bottom 50% own merely 3% **(Oxfam Report) Administrative factors**
 
-**1. Leakages and corruption -**
+1. **Leakages and corruption -**
 
-  - Inclusion-exclusion errors in PDS **(Shanta Kumar committee)**
+    - Inclusion-exclusion errors in PDS **(Shanta Kumar committee)**
 
-  - **Ghost beneficiaries in Ayushman Bharat** identified by CAG
+    - **Ghost beneficiaries in Ayushman Bharat** identified by CAG
 
-  - **Lack of last mile reach** due to security issues like naxalism, insurgency etc.
+    - **Lack of last mile reach** due to security issues like naxalism, insurgency etc.
 
 **Poor Social Infrastructure**
 
@@ -38556,15 +38556,15 @@ However, despite being the **4th largest economy,** India’s ranking in HDI, 20
 
 **Way Forward**
 
-**1. Outcome-Oriented Design -** Eg- Aspirational district program
+1. **Outcome-Oriented Design -** Eg- Aspirational district program
 
-**2. Better targeting**
+2. **Better targeting**
 
-  - Subcategorization within SCs **(Davinder Singh case)**
+    - Subcategorization within SCs **(Davinder Singh case)**
 
-  - **Multi-dimensional Deprivation Index (MDI)** for EWS and OBC categories
+    - **Multi-dimensional Deprivation Index (MDI)** for EWS and OBC categories
 
-**3. Capability Approach-** increase expenditure on Health (2.5% of GDP) and Education (6% of GDP)
+3. **Capability Approach-** increase expenditure on Health (2.5% of GDP) and Education (6% of GDP)
 
 **4.** Women Empowerment by adopting best practices like **Kerala’s Kudumbshree Model**
 
@@ -38732,7 +38732,7 @@ These two legal initiatives have perhaps played the greatest role in addressing 
 1. Explanation_PWOnlyIAS:
 Source Question: What are the two major legal initiatives by the State since Independence addressing discrimination against Scheduled Tribes (STs)?
 
-| **Approach:** <br> **Introduction** <br>• Define the concept of Scheduled Tribe. <br> **Body** <br>• Mention two legal (i.e., a law has been passed by Parliament) initiatives for STs which target discrimination against STs. <br> **Conclusion** <br>• Conclude stating that the initiatives have flaws but is a step in the right direction for upliftment of STs. |
+| **Approach:** <br> **Introduction** <br>• Define the concept of Scheduled Tribe. <br> <br> **Body** <br>• Mention two legal (i.e., a law has been passed by Parliament) initiatives for STs which target discrimination against STs. <br> <br> **Conclusion** <br>• Conclude stating that the initiatives have flaws but is a step in the right direction for upliftment of STs. |
 | --- |
 
 ### Introduction
@@ -38870,7 +38870,7 @@ Apart from these provisions, 73rd Amendment Act, Panchayats (Extension to Schedu
 1. Explanation_PWOnlyIAS:
 Source Question: Why are the tribals in India referred to as ‘the Scheduled Tribes’? Indicate the major provisions enshrined in the Constitution of India for their upliftment.
 
-| **Approach:** <br> **Introduction** <br>• Give a brief description of the concept of Schedule Tribes. <br> **Body** <br>• Mention about the major provisions for STs in the Constitution of India. <br> **Conclusion** <br>• Conclude suitably. |
+| **Approach:** <br> **Introduction** <br>• Give a brief description of the concept of Schedule Tribes. <br> <br> **Body** <br>• Mention about the major provisions for STs in the Constitution of India. <br> <br> **Conclusion** <br>• Conclude suitably. |
 | --- |
 
 ### Introduction
@@ -38978,7 +38978,7 @@ Q235. Debate the issue of whether and how contemporary movements for assertion o
 1. Explanation_PWOnlyIAS:
 Source Question: Critically examine whether growing population is the cause of poverty OR poverty is the main cause of population increase in India.
 
-| **Approach:** <br> **Introduction** <br>• Define poverty. **Body** <br>• Mention the relation between population and poverty and analyze both aspects i.e., whether poverty causes population growth or population growth causes poverty. <br> **Conclusion** <br>• Mention that both reinforce each other. |
+| **Approach:** <br> **Introduction** <br>• Define poverty. <br> **Body** <br>• Mention the relation between population and poverty and analyze both aspects i.e., whether poverty causes population growth or population growth causes poverty. <br> <br> **Conclusion** <br>• Mention that both reinforce each other. |
 | --- |
 
 ### Introduction
@@ -39149,28 +39149,28 @@ Source Question: Do you think that globalization results in only an aggressive c
 
 2. **Minimalism -** globalization has spread the philosophy of "Less is More." Eg- **the Scandinavian "Lagom"** philosophy
 
-**3. Glocalization (Think Global, Act Local) - Eg-** McDonald’s menu in India is beef-free, while Domino’s serves **Paneer Tikka Pizza.**
+3. **Glocalization (Think Global, Act Local) - Eg-** McDonald’s menu in India is beef-free, while Domino’s serves **Paneer Tikka Pizza.**
 
-**4. Global Export of Culture - Eg- International Yoga Day** and the global **Ayurveda market** have moved Indian traditional knowledge to the center of global wellness.
+4. **Global Export of Culture - Eg- International Yoga Day** and the global **Ayurveda market** have moved Indian traditional knowledge to the center of global wellness.
 
-  - **Reassertion of Values** ("Returning to Roots") - urban youth increasingly participates in traditional festivals like Ganesh Chaturthi or Chhath Puja as a mark of identity.
+    - **Reassertion of Values** ("Returning to Roots") - urban youth increasingly participates in traditional festivals like Ganesh Chaturthi or Chhath Puja as a mark of identity.
 
-  - **Circular Economy Adoption-** focus on "Recycle and Upcycle" business models, countering the throwaway culture.
+    - **Circular Economy Adoption-** focus on "Recycle and Upcycle" business models, countering the throwaway culture.
 
-  - **Global Environmental Activism** to hold government and corporate accountable for unsustainable policies and practices. Eg- **Fridays for Future movement**
+    - **Global Environmental Activism** to hold government and corporate accountable for unsustainable policies and practices. Eg- **Fridays for Future movement**
 
-  - **Revival of Local Crafts through E-commerce -** Platforms like **Etsy or India’s Jaypore** promote traditional "Slow Fashion" (like Handloom) and ethical consumerism
+    - **Revival of Local Crafts through E-commerce -** Platforms like **Etsy or India’s Jaypore** promote traditional "Slow Fashion" (like Handloom) and ethical consumerism
 
-  - Globalization has also facilitated **Universal Human Rights Advocacy** - Eg- global **#BlackLivesMatter or #MeToo** movements
+    - Globalization has also facilitated **Universal Human Rights Advocacy** - Eg- global **#BlackLivesMatter or #MeToo** movements
 
-  - **Flow of Knowledge and Ideas** - Globalisation enables access to education, research, and innovation.
+    - **Flow of Knowledge and Ideas** - Globalisation enables access to education, research, and innovation.
 
 Eg- wikipedia Globalization is a **Janus-faced phenomenon (Anthony Giddens).** Improving **regulation, social consciousness, and value choices** is needed.
 
 1. Explanation_Drishti IAS:
 Source Question: Do you think that globalization results in only an aggressive consumer culture? Justify your answer. (Answer in 150 words) 10
 
-| **Approach:** <br>• **Introduction** Introduce globalization, emphasizing its impact on interconnectedness and societal transformation. <br>• **Body:** Discuss the relationship between globalization and aggressive consumer culture, with examples. Also highlighting the positive aspects of globalization. <br>• **Conclusion** Conclude suitably. |
+| **Approach:** <br>• **Introduction** Introduce globalization, emphasizing its impact on interconnectedness and societal transformation. <br> <br> • **Body:** Discuss the relationship between globalization and aggressive consumer culture, with examples. Also highlighting the positive aspects of globalization. <br> <br> • **Conclusion** Conclude suitably. |
 | --- |
 
 ### Introduction
@@ -39705,23 +39705,23 @@ Source Question: Elucidate the relationship between globalization and new techno
 
 **1.** New technologies reduce the **constraints of distance, time, and cost.**
 
-**2. Efficient Resource Utilisation-** Eg- **Precision agriculture** using satellite data and sensors to reduce water and fertiliser use.
+2. **Efficient Resource Utilisation-** Eg- **Precision agriculture** using satellite data and sensors to reduce water and fertiliser use.
 
-**3. Shift from Resource-Intensive to Knowledge-Intensive Growth-** Eg- India’s **IT-ITeS sector** generating exports with minimal material input compared to manufacturing.
+3. **Shift from Resource-Intensive to Knowledge-Intensive Growth-** Eg- India’s **IT-ITeS sector** generating exports with minimal material input compared to manufacturing.
 
-**4. Global Diffusion** of cleaner and resource-efficient technologies. Eg- **Solar and wind technologies.**
+4. **Global Diffusion** of cleaner and resource-efficient technologies. Eg- **Solar and wind technologies.**
 
-**5. Integration into Global Value Chains (GVCs) -** Technology enables countries to specialise in specific stages of production. Eg- India as the pharmacy of the world.
+5. **Integration into Global Value Chains (GVCs) -** Technology enables countries to specialise in specific stages of production. Eg- India as the pharmacy of the world.
 
 **6.** Resource constraints stimulate **technological innovation** for low-cost solutions for energy, healthcare, and mobility. Eg- telemedicine under eSanjeevani
 
-  - **The Circular Economy-** Globalization facilitates the trade of "waste-as-resource" across borders.
+    - **The Circular Economy-** Globalization facilitates the trade of "waste-as-resource" across borders.
 
 **8.** Exposure to global markets compels **efficiency and innovation.** Eg- Indian manufacturing adopting **automation and Industry 4.0** to remain competitive.
 
-**9. Technology for Resource Governance- GIS, remote sensing, and digital dashboards** used for water management and climate action in India.
+9. **Technology for Resource Governance- GIS, remote sensing, and digital dashboards** used for water management and climate action in India.
 
-  - **Collaborative R&D-** globalization pools global intellect. Eg- ITER project for nuclear fusion involving the EU, US, India, and China.
+    - **Collaborative R&D-** globalization pools global intellect. Eg- ITER project for nuclear fusion involving the EU, US, India, and China.
 
 **Negative Impacts**
 
@@ -39797,7 +39797,7 @@ In view of the advantages and disadvantages of India’s relation with global wo
 1. Explanation_PWOnlyIAS:
 Source Question: Elucidate the relationship between globalization and new technology in a world of scarce resources, with special reference to India.
 
-| **Approach:** <br> **Introduction** <br>• Define globalization. **Body** <br>• Mention the positive and negative aspects of relation between scarce resources and globalization. <br> **Conclusion** <br>• Conclude about how technology is going to be the mainstay of the future but the negative aspects must be controlled for a better future for all. |
+| **Approach:** <br> **Introduction** <br>• Define globalization. <br> **Body** <br>• Mention the positive and negative aspects of relation between scarce resources and globalization. <br> <br> **Conclusion** <br>• Conclude about how technology is going to be the mainstay of the future but the negative aspects must be controlled for a better future for all. |
 | --- |
 
 ### Introduction
@@ -39948,9 +39948,9 @@ Source Question: Is diversity and pluralism in India under threat due to globali
 
   - **Nuclear Family** over traditional joint family structures.
 
-**11. Architectural Sameness-** The rise of "Generic Cities" characterized by glass-and-steel skyscrapers ignores regional climate-responsive architecture.
+11. **Architectural Sameness-** The rise of "Generic Cities" characterized by glass-and-steel skyscrapers ignores regional climate-responsive architecture.
 
-**12. Aspirational Shift** - Youth associating prestige with global careers while devaluing local professions and knowledge systems.
+12. **Aspirational Shift** - Youth associating prestige with global careers while devaluing local professions and knowledge systems.
 
 **Counter Argument: Globalisation Strengthening Diversity and Pluralism**
 
@@ -39998,7 +39998,7 @@ Source Question: Is diversity and pluralism in India under threat due to globali
 1. Explanation_PWOnlyIAS:
 Source Question: Is diversity and pluralism in India under threat due to globalization? Justify your answer.
 
-| **Approach:** <br> **Introduction** <br>• Define globalization. Mention how India is one of the most diverse nations. <br> **Body** <br>• Mention areas where cultural diversity is at threat due to globalization. Then mention some areas where globalization aids diversity. <br> **Conclusion** <br>• Conclude by stating that globalization has both good and bad effects. <br>• Pluralism and diversity can be enhanced by using the positive aspects. |
+| **Approach:** <br> **Introduction** <br>• Define globalization. Mention how India is one of the most diverse nations. <br> <br> **Body** <br>• Mention areas where cultural diversity is at threat due to globalization. Then mention some areas where globalization aids diversity. <br> <br> **Conclusion** <br>• Conclude by stating that globalization has both good and bad effects. <br>• Pluralism and diversity can be enhanced by using the positive aspects. |
 | --- |
 
 ### Introduction
@@ -40175,29 +40175,29 @@ An era of **globalisation, digital connectivity, and transnational flows of capi
 
 **Counter arguments**
 
-**1. Glocalization (Think Global, Act Local) - Eg-** McDonald’s menu in India is beef-free, while Domino’s serves **Paneer Tikka Pizza.**
+1. **Glocalization (Think Global, Act Local) - Eg-** McDonald’s menu in India is beef-free, while Domino’s serves **Paneer Tikka Pizza.**
 
-  - **Revival of traditional cuisine.** Eg- Makhana as “superfood”
+    - **Revival of traditional cuisine.** Eg- Makhana as “superfood”
 
-**3. Revival of Regional Languages - Vernacular content** reached a **55% share** on OTT platforms. EgSacred games or Panchayat show that "hyper-local" stories now have global audiences.
+3. **Revival of Regional Languages - Vernacular content** reached a **55% share** on OTT platforms. EgSacred games or Panchayat show that "hyper-local" stories now have global audiences.
 
-**4. Global Export of Culture - Eg- International Yoga Day** and the global **Ayurveda market** have moved Indian traditional knowledge to the center of global wellness.
+4. **Global Export of Culture - Eg- International Yoga Day** and the global **Ayurveda market** have moved Indian traditional knowledge to the center of global wellness.
 
 **5.** The **"One District One Product" (ODOP)** initiative and **GI tags** for items like **Kanchipuram Silk** or **Banarasi Zardozi** have revitalized local artisan economies through e-commerce.
 
-**6. Religious & Ritualistic Resurgence - Eg-** use of social media and drones to broadcast the **Kumbh Mela** or **Ganesh Chaturthi** has made these "specificities" more visible and zealously observed
+6. **Religious & Ritualistic Resurgence - Eg-** use of social media and drones to broadcast the **Kumbh Mela** or **Ganesh Chaturthi** has made these "specificities" more visible and zealously observed
 
-  - **Diaspora-Led Cultural Preservation** - Eg- celebration of Diwali in white house or dandiya in New York’s times square
+    - **Diaspora-Led Cultural Preservation** - Eg- celebration of Diwali in white house or dandiya in New York’s times square
 
-  - **"Ethnic" Fashion Boom-** Globalization created a market for high-end traditional wear. Eg- **FabIndia** and designers like Sabyasachi have revitalized handlooms.
+    - **"Ethnic" Fashion Boom-** Globalization created a market for high-end traditional wear. Eg- **FabIndia** and designers like Sabyasachi have revitalized handlooms.
 
-  - **Regional Media Growth** as seen in the rise of Tollywood, Mollywood. Eg- global success of RRR or Kantara
+    - **Regional Media Growth** as seen in the rise of Tollywood, Mollywood. Eg- global success of RRR or Kantara
 
-  - **Greater policy focus on conservation of traditional knowledge.** Eg- traditional knowledge Digital Library (TKDL)
+    - **Greater policy focus on conservation of traditional knowledge.** Eg- traditional knowledge Digital Library (TKDL)
 
-  - **Modern Traditionalism-** Technology is used to facilitate tradition. Eg- apps for Vedic chanting, QR codes at temples
+    - **Modern Traditionalism-** Technology is used to facilitate tradition. Eg- apps for Vedic chanting, QR codes at temples
 
-  - Instead of a "Melting Pot", the world is becoming a "Salad Bowl" where individuals maintain a **dual identity** - global in professional skills, but local in personal values.
+    - Instead of a "Melting Pot", the world is becoming a "Salad Bowl" where individuals maintain a **dual identity** - global in professional skills, but local in personal values.
 
 Deep-rooted pluralism, regional diversity, and civilisational depth ensure that globalisation in India produces **Cultural Hybridization** and enriches India’s cultural fabric.
 
@@ -40247,7 +40247,7 @@ Thus, culture is an ever-evolving entity which constantly changes through diffus
 1. Explanation_PWOnlyIAS:
 Source Question: What are the challenges to our cultural practices in the name of secularism?
 
-| **Approach:** <br> **Introduction** <br>• Define secularism. **Body** <br>• Mention points which show that the practice of secularism does negatively impact the practice of some cultural aspects. <br> **Conclusion** <br>• State that despite these few flaws, secularism is an essential aspect of India as a nation and is essential for its growth. |
+| **Approach:** <br> **Introduction** <br>• Define secularism. <br> **Body** <br>• Mention points which show that the practice of secularism does negatively impact the practice of some cultural aspects. <br> <br> **Conclusion** <br>• State that despite these few flaws, secularism is an essential aspect of India as a nation and is essential for its growth. |
 | --- |
 
 ### Introduction
@@ -40398,25 +40398,25 @@ Source Question: ‘Globalisation is generally said to promote cultural homogeni
 
 10. Emphasis on **individual rights like Right to Privacy** etc **Globalization Strengthening Cultural Specificities**
 
-**1. Glocalization (Think Global, Act Local) - Eg-** McDonald’s menu in India is beef-free, while Domino’s serves **Paneer Tikka Pizza.**
+1. **Glocalization (Think Global, Act Local) - Eg-** McDonald’s menu in India is beef-free, while Domino’s serves **Paneer Tikka Pizza.**
 
-  - **Revival of traditional cuisine.** Eg- Makhana as “superfood”
+    - **Revival of traditional cuisine.** Eg- Makhana as “superfood”
 
-**3. Revival of Regional Languages - Vernacular content** reached a **55% share** on OTT platforms. EgSacred games or Panchayat show that "hyper-local" stories now have global audiences.
+3. **Revival of Regional Languages - Vernacular content** reached a **55% share** on OTT platforms. EgSacred games or Panchayat show that "hyper-local" stories now have global audiences.
 
-**4. Global Export of Culture - Eg- International Yoga Day** and the global **Ayurveda market** have moved Indian traditional knowledge to the center of global wellness.
+4. **Global Export of Culture - Eg- International Yoga Day** and the global **Ayurveda market** have moved Indian traditional knowledge to the center of global wellness.
 
 **5.** The **"One District One Product" (ODOP)** initiative and **GI tags** for items like **Kanchipuram Silk** or **Banarasi Zardozi** have revitalized local artisan economies through e-commerce.
 
-**6. Religious & Ritualistic Resurgence - Eg-** use of social media and drones to broadcast the **Kumbh Mela** or **Ganesh Chaturthi** has made these "specificities" more visible and zealously observed
+6. **Religious & Ritualistic Resurgence - Eg-** use of social media and drones to broadcast the **Kumbh Mela** or **Ganesh Chaturthi** has made these "specificities" more visible and zealously observed
 
-  - **Diaspora-Led Cultural Preservation** - Eg- celebration of Diwali in white house or dandiya in New York’s times square
+    - **Diaspora-Led Cultural Preservation** - Eg- celebration of Diwali in white house or dandiya in New York’s times square
 
-  - **"Ethnic" Fashion Boom-** Globalization created a market for high-end traditional wear. Eg- **FabIndia** and designers like Sabyasachi have revitalized handlooms.
+    - **"Ethnic" Fashion Boom-** Globalization created a market for high-end traditional wear. Eg- **FabIndia** and designers like Sabyasachi have revitalized handlooms.
 
-  - **Regional Media Growth** as seen in the rise of Tollywood, Mollywood. Eg- global success of RRR or Kantara
+    - **Regional Media Growth** as seen in the rise of Tollywood, Mollywood. Eg- global success of RRR or Kantara
 
-  - **Greater policy focus on conservation of traditional knowledge.** Eg- traditional knowledge Digital Library (TKDL) Deep-rooted pluralism, regional diversity, and civilisational depth ensure that globalisation in India produces **Cultural Hybridization** and enriches India’s cultural fabric.
+    - **Greater policy focus on conservation of traditional knowledge.** Eg- traditional knowledge Digital Library (TKDL) Deep-rooted pluralism, regional diversity, and civilisational depth ensure that globalisation in India produces **Cultural Hybridization** and enriches India’s cultural fabric.
 
 1. Explanation_Drishti IAS:
 Source Question: ‘Globalization is generally said to promote cultural homogenization but due to this cultural specificities appear to be strengthened in the Indian Society.’ Elucidate. (2018)
@@ -40444,7 +40444,7 @@ However, there are also negative reactions to the process of globalization. Revi
 1. Explanation_PWOnlyIAS:
 Source Question: Safeguarding the Indian art heritage is the need of the moment. Comment
 
-| **Approach:** <br> **Introduction** <br>• Briefly highlight the significance of India’s artistic heritage and its role in preserving the nation’s cultural essence. <br> **Body** <br>• Discuss the numerous threats facing Indian art heritage and explain why its protection is vital. Mention the steps that can be undertaken to conserve and promote Indian art heritage. <br> **Conclusion** <br>• Emphasize the necessity of safeguarding and fostering Indian art heritage for future generations. |
+| **Approach:** <br> **Introduction** <br>• Briefly highlight the significance of India’s artistic heritage and its role in preserving the nation’s cultural essence. <br> <br> **Body** <br>• Discuss the numerous threats facing Indian art heritage and explain why its protection is vital. Mention the steps that can be undertaken to conserve and promote Indian art heritage. <br> <br> **Conclusion** <br>• Emphasize the necessity of safeguarding and fostering Indian art heritage for future generations. |
 | --- |
 
 ### Introduction
@@ -40537,7 +40537,7 @@ Globalisation refers to the increased interconnectedness across the countries of
 1. Explanation_PWOnlyIAS:
 Source Question: To what extent globalization has influenced the core of cultural diversity in India? Explain.
 
-| **Approach:** <br> **Introduction** <br>• Define globalization. Elaborate on cultural diversity in India. <br> **Body** <br>• Mention how globalization has affected the core aspects of Indian cultural diversity by its homogenizing tendency. <br>• Then mention how globalization has also led to more awareness about our cultural diversity. <br> **Conclusion** <br>• Mention that globalization has both positive and negative effects on our cultural diversity and it is up to us to boost our culture by using globalization as an aiding tool rather than being subdued by it. |
+| **Approach:** <br> **Introduction** <br>• Define globalization. Elaborate on cultural diversity in India. <br> <br> **Body** <br>• Mention how globalization has affected the core aspects of Indian cultural diversity by its homogenizing tendency. <br>• Then mention how globalization has also led to more awareness about our cultural diversity. <br> <br> **Conclusion** <br>• Mention that globalization has both positive and negative effects on our cultural diversity and it is up to us to boost our culture by using globalization as an aiding tool rather than being subdued by it. |
 | --- |
 
 ### Introduction
@@ -40635,7 +40635,7 @@ Q244. Discuss the positive and negative effects of globalization on women in Ind
 1. Explanation_PWOnlyIAS:
 Source Question: Discuss the positive and negative effects of globalization on women in India.
 
-| **Approach:** <br> **Introduction** <br>• Define globalization. **Body** <br>• Give some positive and some negative effect of globalization on women in India. <br> **Conclusion** <br>• Suitable conclusion. |
+| **Approach:** <br> **Introduction** <br>• Define globalization. <br> **Body** <br>• Give some positive and some negative effect of globalization on women in India. <br> <br> **Conclusion** <br>• Suitable <br> conclusion. |
 | --- |
 
 ### Introduction
@@ -40773,7 +40773,7 @@ Q245. Critically examine the effects of globalization on the aged population in 
 1. Explanation_PWOnlyIAS:
 Source Question: Critically examine the effect of globalization on the aged population in India.
 
-| **Approach:** <br> **Introduction** <br>• Define globalization. Mention that India has a growing aged population along with some facts. <br> **Body** <br>• Mention the effects of globalization on the aged people, especially on their social security, health and well-being and economic stability. <br> **Conclusion** <br>• Conclude stating that the elderly are an asset if the tools of globalization are used properly. They must be guarded against the ill effects of globalization by increasing social security. |
+| **Approach:** <br> **Introduction** <br>• Define globalization. Mention that India has a growing aged population along with some facts. <br> <br> **Body** <br>• Mention the effects of globalization on the aged people, especially on their social security, health and well-being and economic stability. <br> <br> **Conclusion** <br>• Conclude stating that the elderly are an asset if the tools of globalization are used properly. They must be guarded against the ill effects of globalization by increasing social security. |
 | --- |
 
 ### Introduction
@@ -41008,7 +41008,7 @@ The caste system in India is a system of **social stratification, social restric
 1. Explanation_PWOnlyIAS:
 Source Question: Why is caste identity in India both fluid and static?
 
-| **Approach:** <br> **Introduction** <br>• Write about fluid and static nature of caste identity briefly <br> **Body** <br>• Write about the Fluid Nature of Caste Identity <br>• Write about the Static Nature of Caste Identity <br> **Conclusion** <br>• Give appropriate conclusion in this regard |
+| **Approach:** <br> **Introduction** <br>• Write about fluid and static nature of caste identity briefly <br> <br> **Body** <br>• Write about the Fluid Nature of Caste Identity <br>• Write about the Static Nature of Caste Identity <br> <br> **Conclusion** <br>• Give appropriate <br> conclusion in this regard |
 | --- |
 
 ### Introduction
@@ -41216,7 +41216,7 @@ One of the most significant yet paradoxical changes in the caste system in the c
 1. Explanation_PWOnlyIAS:
 Source Question: Has caste lost its relevance in understanding the multi-cultural Indian Society? Elaborate your answer with illustrations.
 
-| **Approach:** <br> **Introduction** <br>• Define Caste and mention how it has long been considered as a distinctive feature of Indian society. <br> **Body** <br>• As the question asks for caste’s relevance, both sides have to be written about. Mention about caste has become less important in many areas. <br>• Then mention how it continues to be relevant in several other areas. <br> **Conclusion** <br>• Conclude stating that caste is a social system that is still having its place in the society although it has changed the ways and places where it manifests. |
+| **Approach:** <br> **Introduction** <br>• Define Caste and mention how it has long been considered as a distinctive feature of Indian society. <br> <br> **Body** <br>• As the question asks for caste’s relevance, both sides have to be written about. Mention about caste has become less important in many areas. <br>• Then mention how it continues to be relevant in several other areas. <br> <br> **Conclusion** <br>• Conclude stating that caste is a social system that is still having its place in the society although it has changed the ways and places where it manifests. |
 | --- |
 
 ### Introduction
@@ -41365,11 +41365,11 @@ Caste can be defined as a localized, hereditary, and endogamous group characteri
 
 7. **Urban and Professional Networks** - EgCaste-based matrimonial preferences and housing patterns.
 
-**8. Sanskritisation (M.N. Srinivas) -** Lower castes adopting practices of upper castes to achieve upward mobility.
+8. **Sanskritisation (M.N. Srinivas) -** Lower castes adopting practices of upper castes to achieve upward mobility.
 
-  - **Institutionalisation through State Policies** - Eg- **Reservations for SCs, STs, and OBCs.**
+    - **Institutionalisation through State Policies** - Eg- **Reservations for SCs, STs, and OBCs.**
 
-  - **Digital and Social Media Mobilisation** - New platforms for caste assertion.
+    - **Digital and Social Media Mobilisation** - New platforms for caste assertion.
 
 **Possibility of eradication of caste**
 
@@ -41435,7 +41435,7 @@ Source Question: “Caste system is assuming new identities and associational fo
 1. Explanation_PWOnlyIAS:
 Source Question: “Caste system is assuming new identities and associational forms. Hence, the caste system cannot be eradicated in India.” Comment.
 
-| **Approach:** <br> **Introduction** <br>• Define caste system. Introduce the concept of caste associations. <br> **Body** <br>• Mention how caste has penetrated different aspects apart from social and economical. <br>• Explain the role of caste associations in this aspect and show that caste is only being strengthened because of it. <br> **Conclusion** <br>• Concluding that caste as a system would be strengthened due to caste associations and reducing inequalities is the only way to reduce the role of caste in our society. |
+| **Approach:** <br> **Introduction** <br>• Define caste system. Introduce the concept of caste associations. <br> <br> **Body** <br>• Mention how caste has penetrated different aspects apart from social and economical. <br>• Explain the role of caste associations in this aspect and show that caste is only being strengthened because of it. <br> <br> **Conclusion** <br>• Concluding that caste as a system would be strengthened due to caste associations and reducing inequalities is the only way to reduce the role of caste in our society. |
 | --- |
 
 ### Introduction
@@ -41655,7 +41655,7 @@ Therefore if on one hand post liberal economy has ushered the country into the e
 1. Explanation_PWOnlyIAS:
 Source Question: Discuss the impact of post-liberal economy on ethnic identity and communalism.
 
-| **Approach:** <br> **Introduction** <br>• Write about the ethnic identity and communalism briefly <br> **Body** <br>• Write the impact of post-liberal economy on ethnic identity <br>• Write the impact of post-liberal economy on communalism <br> **Conclusion** <br>• Give appropriate conclusion in this regard |
+| **Approach:** <br> **Introduction** <br>• Write about the ethnic identity and communalism briefly <br> <br> **Body** <br>• Write the impact of post-liberal economy on ethnic identity <br>• Write the impact of post-liberal economy on communalism <br> <br> **Conclusion** <br>• Give appropriate <br> conclusion in this regard |
 | --- |
 
 ### Introduction
@@ -41896,7 +41896,7 @@ Religion, when deliberately used as a tool for attaining power, both political a
 1. Explanation_PWOnlyIAS:
 Source Question: Discuss whether formation of new states in recent times is beneficial or not for the economy of India?
 
-| **Approach:** <br> **Introduction** <br>• You can introduce by explaining the rationale behind the formation of new states. <br> **Body** <br>• Discuss the potential benefits of forming new states. <br>• Examine the potential drawbacks of forming new states. <br>• Analyze specific case studies of new state formations in India, such as Uttarakhand, Jharkhand, and Chhattisgarh, to assess their economic impact. <br> **Conclusion** <br>• Provide a balanced perspective, emphasizing that the overall outcome depends on factors such as governance, resource allocation, and inclusive development policies. |
+| **Approach:** <br> **Introduction** <br>• You can introduce by explaining the rationale behind the formation of new states. <br> <br> **Body** <br>• Discuss the potential benefits of forming new states. <br>• Examine the potential drawbacks of forming new states. <br>• Analyze specific case studies of new state formations in India, such as Uttarakhand, Jharkhand, and Chhattisgarh, to assess their economic impact. <br> <br> **Conclusion** <br>• Provide a balanced perspective, emphasizing that the overall outcome depends on factors such as governance, resource allocation, and inclusive development policies. |
 | --- |
 
 ### Introduction
@@ -41995,7 +41995,7 @@ In independent India the Ayodhya issue where construction of a temple or masjid 
 1. Explanation_PWOnlyIAS:
 Source Question: Distinguish between religiousness/religiosity and communalism giving one example of how the former has transformed into the latter in independent India.
 
-| **Approach:** <br> **Introduction** <br>• Define religiosity and communalism in introduction. <br> **Body** <br>• Mention the difference between religiousness and communalism. Then mention how religiousness got converted into communalism due to political aspects. Then elaborate using one example. <br> **Conclusion** <br>• Conclude saying that communalism is a threat to the social fabric of India and must be uprooted in all its forms. |
+| **Approach:** <br> **Introduction** <br>• Define religiosity and communalism in introduction. <br> <br> **Body** <br>• Mention the difference between religiousness and communalism. Then mention how religiousness got converted into communalism due to political aspects. Then elaborate using one example. <br> <br> **Conclusion** <br>• Conclude saying that communalism is a threat to the social fabric of India and must be uprooted in all its forms. |
 | --- |
 
 ### Introduction
@@ -42162,7 +42162,7 @@ The Indian civil service, at its best, embodies what Jawaharlal Nehru envisioned
 1. Explanation_Drishti IAS:
 Source Question: The ethos of civil service in India stands for the combination of professionalism with nationalistic consciousness – Elucidate.
 
-| **Approach:** <br>• **Introduction** Ethos of civil service <br>• **Body:** Highlight Professionalism → merit-based UPSC recruitment, and Nationalistic consciousness in Civil Service. <br>• **Conclusion** Conclude suitably. |
+| **Approach:** <br>• **Introduction** Ethos of civil service <br> <br> • **Body:** Highlight Professionalism → merit-based UPSC recruitment, and Nationalistic consciousness in Civil Service. <br> <br> • **Conclusion** Conclude suitably. |
 | --- |
 
 ### Introduction
@@ -42340,7 +42340,7 @@ Source Question: Customs and traditions suppress reason leading to obscurantism.
 1. Explanation_PWOnlyIAS:
 Source Question: Customs and traditions suppress reason leading to obscurantism. Do you agree?
 
-| **Approach:** <br> **Introduction** <br>• Elaborate the meaning of customs and how its an important part of the way the society lives. <br> **Body** <br>• Take a stand on whether customs and traditions suppress the reasoning ability of the society. <br>• But mention a few points on the counter aspect too. <br> **Conclusion** <br>• Mention that customs and reason have a complex relationship, but following customs need not mean an absence of reason. |
+| **Approach:** <br> **Introduction** <br>• Elaborate the meaning of customs and how its an important part of the way the society lives. <br> <br> **Body** <br>• Take a stand on whether customs and traditions suppress the reasoning ability of the society. <br>• But mention a few points on the counter aspect too. <br> <br> **Conclusion** <br>• Mention that customs and reason have a complex relationship, but following customs need not mean an absence of reason. |
 | --- |
 
 ### Introduction
@@ -42575,7 +42575,7 @@ Although, socio-cultural factors motivate regionalism, other factors such as soc
 1. Explanation_PWOnlyIAS:
 Source Question: Do you agree that regionalism in India appears to be a consequence of rising cultural assertiveness? Argue.
 
-| **Approach:** <br> **Introduction** <br> • Define regionalism <br> • Mention some of its positive and negative aspects. <br> **Body** <br> • Mention how regionalism in India can be seen as a result of cultural assertiveness. Later mention how regionalism has other aspects too. <br> **Conclusion** <br> • Conclude saying that regionalism in India can be seen as a consequence of rising cultural assertiveness but there are other factors too leading to its rise. <br> • Then mention how the positives of regionalism can be extracted to the benefit of nation building. |
+| **Approach:** <br> **Introduction** <br> • Define regionalism <br> • Mention some of its positive and negative aspects. <br> <br> **Body** <br> • Mention how regionalism in India can be seen as a result of cultural assertiveness. Later mention how regionalism has other aspects too. <br> <br> **Conclusion** <br> • Conclude saying that regionalism in India can be seen as a consequence of rising cultural assertiveness but there are other factors too leading to its rise. <br> • Then mention how the positives of regionalism can be extracted to the benefit of nation building. |
 | --- |
 
 ### Introduction
@@ -42720,7 +42720,7 @@ Send To My Bookmarks
 1. Explanation_PWOnlyIAS:
 Source Question: What is the basis of regionalism? Is it that unequal distribution of benefits of development on a regional basis eventually promotes regionalism? Substantiate your answer.
 
-| **Approach:** <br> **Introduction** <br>• Define regionalism. **Body** <br>• Mention some of the reasons why regionalism develops and then focus on how unequal development is one of the major reasons that promotes regionalism. <br> **Conclusion** <br>• Conclude by stating that regionalism is inevitable given the unequal distribution of resources but the government can ensure equal distribution of the benefits and reduce the development of this feeling. |
+| **Approach:** <br> **Introduction** <br>• Define regionalism. <br> **Body** <br>• Mention some of the reasons why regionalism develops and then focus on how unequal development is one of the major reasons that promotes regionalism. <br> <br> **Conclusion** <br>• Conclude by stating that regionalism is inevitable given the unequal distribution of resources but the government can ensure equal distribution of the benefits and reduce the development of this feeling. |
 | --- |
 
 ### Introduction
@@ -42817,7 +42817,7 @@ Q256. Growing feeling of regionalism is an important factor in the generation of
 1. Explanation_PWOnlyIAS:
 Source Question: Growing feeling of regionalism is an important factor in the generation of demand for a separate State. Discuss.
 
-| **Approach:** <br> **Introduction** <br>• Define regionalism. Mention some of the factors that lead to the rise of regionalism and then say that it is one of the key factors for the demand for separate states. <br> **Body** <br>• Mention the reasons why regionalism develops and how a separate state is seen to be a way to address many of these concerns. <br> **Conclusion** <br>• Conclude stating that regionalism as a feeling in India is inevitable given its vast diversity, but demands for a separate state can be reduced by addressing policy issues of the region. |
+| **Approach:** <br> **Introduction** <br>• Define regionalism. Mention some of the factors that lead to the rise of regionalism and then say that it is one of the key factors for the demand for separate states. <br> <br> **Body** <br>• Mention the reasons why regionalism develops and how a separate state is seen to be a way to address many of these concerns. <br> <br> **Conclusion** <br>• Conclude stating that regionalism as a feeling in India is inevitable given its vast diversity, but demands for a separate state can be reduced by addressing policy issues of the region. |
 | --- |
 
 ### Introduction
@@ -43028,7 +43028,7 @@ It means people of different religion, sects, cultures live together with harmon
 1. Explanation_PWOnlyIAS:
 Source Question: Are tolerance, assimilation and pluralism the key elements in the making of an Indian form of secularism? Justify your answer.
 
-| **Approach:** <br> **Introduction** <br>• Define Indian form of secularism. **Body** <br>• List down a few points which reflect tolerance, assimilation and plurality in the way secularism is practiced in India. <br> **Conclusion** <br>• Mention how all the three values are complementary and essential for India to be able to follow its unique mode of secularism. |
+| **Approach:** <br> **Introduction** <br>• Define Indian form of secularism. <br> **Body** <br>• List down a few points which reflect tolerance, assimilation and plurality in the way secularism is practiced in India. <br> <br> **Conclusion** <br>• Mention how all the three values are complementary and essential for India to be able to follow its unique mode of secularism. |
 | --- |
 
 ### Introduction
@@ -43254,7 +43254,7 @@ Thus, it is obvious that while some of the challenges are the outcome of the mis
 1. Explanation_PWOnlyIAS:
 Source Question: What are the challenges to our cultural practices in the name of secularism?
 
-| **Approach:** <br> **Introduction** <br>• Define secularism. **Body** <br>• Mention points which show that the practice of secularism does negatively impact the practice of some cultural aspects. <br> **Conclusion** <br>• State that despite these few flaws, secularism is an essential aspect of India as a nation and is essential for its growth. |
+| **Approach:** <br> **Introduction** <br>• Define secularism. <br> **Body** <br>• Mention points which show that the practice of secularism does negatively impact the practice of some cultural aspects. <br> <br> **Conclusion** <br>• State that despite these few flaws, secularism is an essential aspect of India as a nation and is essential for its growth. |
 | --- |
 
 ### Introduction
@@ -43408,7 +43408,7 @@ The uniqueness of Indian secularism is that it admits the freedom of religion, u
 1. Explanation_PWOnlyIAS:
 Source Question: How is the Indian concept of secularism different from the western model of secularism? Discuss.
 
-| **Approach:** <br> **Introduction** <br>• Define secularism. **Body** <br>• Mention the difference between Indian and Western models of secularism. <br> **Conclusion** <br>• State that Indian model of secularism is broader than the West and it is most suitable to the Indian multicultural society. |
+| **Approach:** <br> **Introduction** <br>• Define secularism. <br> **Body** <br>• Mention the difference between Indian and Western models of secularism. <br> <br> **Conclusion** <br>• State that Indian model of secularism is broader than the West and it is most suitable to the Indian multicultural society. |
 | --- |
 
 ### Introduction
@@ -43473,7 +43473,7 @@ Q260. How do the Indian debates on secularism differ from the debates in the Wes
 1. Explanation_PWOnlyIAS:
 Source Question: How do the India debates on secularism differ from the debates in the West?
 
-| **Approach:** <br> **Introduction** <br>• Define secularism. **Body** <br>• Mention the differentiating points between Indian and Western secularism. <br> **Conclusion** <br>• Conclude by stating that secularism in India is best suited for its needs given the large diversity in its society. |
+| **Approach:** <br> **Introduction** <br>• Define secularism. <br> **Body** <br>• Mention the differentiating points between Indian and Western secularism. <br> <br> **Conclusion** <br>• Conclude by stating that secularism in India is best suited for its needs given the large diversity in its society. |
 | --- |
 
 ### Introduction
@@ -43669,7 +43669,7 @@ As per the government, cities having a population size ranging between **50,000 
 1. Explanation_PWOnlyIAS:
 Source Question: How is the growth of Tier 2 cities related to the rise of a new middle class with an emphasis on the culture of consumption?
 
-| **Approach:** <br> **Introduction** <br>• Define Tier-2 cities with some examples. <br> **Body** <br>• Link the tier-2 cities and the culture of consumption by linking it with factors that aid consumption and demand among the middle class. <br>• Discuss how it has led to the rise of a new middle class. <br> **Conclusion** <br>• Conclude using broad points which focus on the areas where the middle class spends and how it boosts the growth of Tier-2 cities. |
+| **Approach:** <br> **Introduction** <br>• Define Tier-2 cities with some examples. <br> <br> **Body** <br>• Link the tier-2 cities and the culture of consumption by linking it with factors that aid consumption and demand among the middle class. <br>• Discuss how it has led to the rise of a new middle class. <br> <br> **Conclusion** <br>• Conclude using broad points which focus on the areas where the middle class spends and how it boosts the growth of Tier-2 cities. |
 | --- |
 
 ### Introduction
@@ -43880,7 +43880,7 @@ India’s technology services industry can achieve USD 300-350 billion in annual
 1. Explanation_PWOnlyIAS:
 Source Question: What are the main socio-economic implications arising out of the development of IT industries in major cities of India?
 
-| **Approach:** <br> **Introduction** <br>• Mention about the IT industry and the major locations in India which are the hubs for the IT industry. <br> **Body:** <br>• Mention both the positive and negative socio-economic implications of the IT industries being located in the major cities of India. <br> **Conclusion** <br>• Mention that IT industries are necessary for India’s growth story but it must not be concentrated in major cities. They must be spread across Tier-2 and 3 cities as well for growth to be inclusive. |
+| **Approach:** <br> **Introduction** <br>• Mention about the IT industry and the major locations in India which are the hubs for the IT industry. <br> <br> **Body:** <br>• Mention both the positive and negative socio-economic implications of the IT industries being located in the major cities of India. <br> <br> **Conclusion** <br>• Mention that IT industries are necessary for India’s growth story but it must not be concentrated in major cities. They must be spread across Tier-2 and 3 cities as well for growth to be inclusive. |
 | --- |
 
 ### Introduction
@@ -43994,7 +43994,7 @@ Lastly, the growth of cities as IT hubs creates problems with pollution, waste d
 1. Explanation_PWOnlyIAS:
 Source Question: The spirit of tolerance and love is not only an interesting feature of Indian society from very early times, but it is also playing an important part at the present. Elaborate.
 
-| **Approach:** <br> **Introduction** <br>• Introduce the idea of tolerance and its relation with the diversity present in India. <br> **Body** <br>• Elaborate on how tolerance was relevant for India in the past. Then mention how it is relevant at present for Indian society. <br> **Conclusion** <br>• State that tolerance and love has been at the core of Indian society since time immemorial and will always continue to be so. |
+| **Approach:** <br> **Introduction** <br>• Introduce the idea of tolerance and its relation with the diversity present in India. <br> <br> **Body** <br>• Elaborate on how tolerance was relevant for India in the past. Then mention how it is relevant at present for Indian society. <br> <br> **Conclusion** <br>• State that tolerance and love has been at the core of Indian society since time immemorial and will always continue to be so. |
 | --- |
 
 ### Introduction
@@ -44116,7 +44116,7 @@ Q264. Discussion the various social problems which originated out of the speedy 
 1. Explanation_PWOnlyIAS:
 Source Question: Critically examine the compulsions which prompted India to play a decisive role in the emergence of Bangladesh.
 
-| **Approach:** <br> **Introduction** <br>• Introduce India’s role in Bangladesh’s emergence in 1971 as a defining moment in South Asian history, highlighting the interplay of humanitarian, strategic, and geopolitical factors. <br> **Body** <br>• Critically examine the compulsions which prompted India to play a decisive role in the emergence of Bangladesh. <br> **Conclusion** <br>• Conclude, highlighting the importance of understanding regional relations and decision-making in times of crisis. |
+| **Approach:** <br> **Introduction** <br>• Introduce India’s role in Bangladesh’s emergence in 1971 as a defining moment in South Asian history, highlighting the interplay of humanitarian, strategic, and geopolitical factors. <br> <br> **Body** <br>• Critically examine the compulsions which prompted India to play a decisive role in the emergence of Bangladesh. <br> <br> **Conclusion** <br>• Conclude, highlighting the importance of understanding regional relations and decision-making in times of crisis. |
 | --- |
 
 ### Introduction
@@ -44372,7 +44372,7 @@ Cities are the **engines of economic growth,** contributing nearly **two-thirds 
 
 10. **Energy Security-** Shifting from private petrol vehicles to public transit reduces India's crude oil import bill.
 
-**11. Direct Job Creation -** in construction, maintenance, operations of public transport.
+11. **Direct Job Creation -** in construction, maintenance, operations of public transport.
 
 **Challenges**
 
@@ -44394,19 +44394,19 @@ Cities are the **engines of economic growth,** contributing nearly **two-thirds 
 
 1. Establishing **Unified Metropolitan Transport Authority (UMTA)** for major cities
 
-**2. 100% electrification** of public transport through **PM e-Bus Sewa**
+2. **100% electrification** of public transport through **PM e-Bus Sewa**
 
-**3. Investment in non-motorised transport.** Eg- walking and cycling
+3. **Investment in non-motorised transport.** Eg- walking and cycling
 
-  - Adopting **Transit Oriented Development approach** in urban planning.
+    - Adopting **Transit Oriented Development approach** in urban planning.
 
-  - Adopting best practices
+    - Adopting best practices
 
-  - Singapore - area licensing system, vehicle quota system, congestion pricing
+    - Singapore - area licensing system, vehicle quota system, congestion pricing
 
-  - Mexico city- Right to Mobility
+    - Mexico city- Right to Mobility
 
-  - Ahmedabad BRTS Corridor - Integrated Transportation Management System (IMTS), CNG Buses A shift towards **integrated, people-centric, and financially sustainable public transport systems** is essential for making Indian cities true engines of growth.
+    - Ahmedabad BRTS Corridor - Integrated Transportation Management System (IMTS), CNG Buses A shift towards **integrated, people-centric, and financially sustainable public transport systems** is essential for making Indian cities true engines of growth.
 
 1. Explanation_Drishti IAS:
 Source Question: How is efficient and affordable urban mass transport key to the rapid economic development in India?
@@ -44438,7 +44438,7 @@ In the coming years, Emerging market cities will play an increasingly large role
 1. Explanation_PWOnlyIAS:
 Source Question: How is efficient and affordable urban mass transport key to the rapid economic development in India?
 
-| **Approach:** <br> **Introduction** <br>• Write about the importance of mass transport. <br> **Body** <br>• Discuss the Reason for the mass transport system improves connectivity. <br> **Conclusion** <br>• Conclude your answer’s importance with a futuristic approach. |
+| **Approach:** <br> **Introduction** <br>• Write about the importance of mass transport. <br> <br> **Body** <br>• Discuss the Reason for the mass transport system improves connectivity. <br> <br> **Conclusion** <br>• Conclude your answer’s importance with a futuristic approach. |
 | --- |
 
 ### Introduction
@@ -44628,7 +44628,7 @@ As per UNDP’s 2018 Human Development Index wherein India is ranked 130 out of 
 1. Explanation_PWOnlyIAS:
 Source Question: Mention core strategies for the transformation of aspirational districts in India and explain the nature of convergence, collaboration and competition for its success.
 
-| **Approach:** <br> **Introduction** <br>• Start your answer with the Aspirational Districts Programme. <br> **Body** <br>• Discuss the strategies for the transformation nature of convergence, collaboration and competition. <br> **Conclusion** <br>• Conclude your answer with Importance of the Arctic region. |
+| **Approach:** <br> **Introduction** <br>• Start your answer with the Aspirational Districts Programme. <br> <br> **Body** <br>• Discuss the strategies for the transformation nature of convergence, collaboration and competition. <br> <br> **Conclusion** <br>• Conclude your answer with Importance of the Arctic region. |
 | --- |
 
 ### Introduction
@@ -44754,7 +44754,7 @@ These provisions under smart city, if implemented earnestly will go a long way i
 1. Explanation_PWOnlyIAS:
 Source Question: To what extent globalization has influenced the core of cultural diversity in India? Explain.
 
-| **Approach:** <br> **Introduction** <br>• Define globalization. Elaborate on cultural diversity in India. <br> **Body** <br>• Mention how globalization has affected the core aspects of Indian cultural diversity by its homogenizing tendency. <br>• Then mention how globalization has also led to more awareness about our cultural diversity. <br> **Conclusion** <br>• Mention that globalization has both positive and negative effects on our cultural diversity and it is up to us to boost our culture by using globalization as an aiding tool rather than being subdued by it. |
+| **Approach:** <br> **Introduction** <br>• Define globalization. Elaborate on cultural diversity in India. <br> <br> **Body** <br>• Mention how globalization has affected the core aspects of Indian cultural diversity by its homogenizing tendency. <br>• Then mention how globalization has also led to more awareness about our cultural diversity. <br> <br> **Conclusion** <br>• Mention that globalization has both positive and negative effects on our cultural diversity and it is up to us to boost our culture by using globalization as an aiding tool rather than being subdued by it. |
 | --- |
 
 ### Introduction
@@ -44843,7 +44843,7 @@ Q269. Smart cities in India cannot sustain without smart villages. Discuss this 
 1. Explanation_PWOnlyIAS:
 Source Question: Discuss the positive and negative effects of globalization on women in India.
 
-| **Approach:** <br> **Introduction** <br>• Define globalization. **Body** <br>• Give some positive and some negative effect of globalization on women in India. <br> **Conclusion** <br>• Suitable conclusion. |
+| **Approach:** <br> **Introduction** <br>• Define globalization. <br> **Body** <br>• Give some positive and some negative effect of globalization on women in India. <br> <br> **Conclusion** <br>• Suitable <br> conclusion. |
 | --- |
 
 ### Introduction
@@ -44964,25 +44964,25 @@ The **Smart Cities Mission** aims to improve **quality of life, economic opportu
 
 **Role of smart cities in addressing issues of urban poverty and distributive justice**
 
-**1. Inclusive Urban Service Delivery -** Area-based development with upgraded basic services in low-income neighbourhoods. Eg- 24x7 water supply in slum clusters using smart metering in **Indore**
+1. **Inclusive Urban Service Delivery -** Area-based development with upgraded basic services in low-income neighbourhoods. Eg- 24x7 water supply in slum clusters using smart metering in **Indore**
 
-**2. Affordable Housing -** Convergence with **PM Awas Yojana-Urban** for **in-situ redevelopment.**
+2. **Affordable Housing -** Convergence with **PM Awas Yojana-Urban** for **in-situ redevelopment.**
 
-**3. Technology-Enabled Targeting of Welfare** to reduce exclusion and leakage.
+3. **Technology-Enabled Targeting of Welfare** to reduce exclusion and leakage.
 
-**4. Improved Urban Mobility for the Poor-** Smart buses, integrated ticketing, and pedestrian-friendly streets. Eg- Ahmedabad's BRTS
+4. **Improved Urban Mobility for the Poor-** Smart buses, integrated ticketing, and pedestrian-friendly streets. Eg- Ahmedabad's BRTS
 
-**5. Livelihood Generation and Skill Development-** Skill hubs, incubation centres, and support for street vendors and MSMEs. Eg- "Smart Vending Zones" in Lucknow
+5. **Livelihood Generation and Skill Development-** Skill hubs, incubation centres, and support for street vendors and MSMEs. Eg- "Smart Vending Zones" in Lucknow
 
-**6. Digital Inclusion and Access-** Citizen service centres, Public Wi-Fi, digital kiosks, enabling access to welfare, certificates, and grievance redressal.
+6. **Digital Inclusion and Access-** Citizen service centres, Public Wi-Fi, digital kiosks, enabling access to welfare, certificates, and grievance redressal.
 
-**7. Participatory Governance** through technology. Eg- Namma Bengaluru (Sahaaya 2.0) mobile app for reporting civic grievances in Bangalore
+7. **Participatory Governance** through technology. Eg- Namma Bengaluru (Sahaaya 2.0) mobile app for reporting civic grievances in Bangalore
 
-**8. Safety, Health, and Social Infrastructure -** Smart surveillance, lighting, and emergency response improve safety for vulnerable groups.
+8. **Safety, Health, and Social Infrastructure -** Smart surveillance, lighting, and emergency response improve safety for vulnerable groups.
 
-**9. Environmental Justice-** Eg- Flood mitigation, heat action plans, and green public spaces in dense areas.
+9. **Environmental Justice-** Eg- Flood mitigation, heat action plans, and green public spaces in dense areas.
 
-**10. Transparency and Accountability in** service delivery and outcomes. Eg- Public dashboards tracking water supply, waste management, and complaints.
+10. **Transparency and Accountability in** service delivery and outcomes. Eg- Public dashboards tracking water supply, waste management, and complaints.
 
 **Challenges**
 
@@ -45011,7 +45011,7 @@ The **Smart Cities Mission** aims to improve **quality of life, economic opportu
 1. Explanation_Drishti IAS:
 Source Question: How does smart city in India, address the issues of urban poverty and distributive justice? (Answer in 150 words)
 
-| **Approach:** <br>• **Introduction** Introduce the concept of Smart Cities in India and their primary objective. <br>• **Body:** Highlight key initiatives that address urban poverty and promote distributive justice in smart cities with adequate examples. <br>• **Conclusion** Conclude suitably. |
+| **Approach:** <br>• **Introduction** Introduce the concept of Smart Cities in India and their primary objective. <br> <br> • **Body:** Highlight key initiatives that address urban poverty and promote distributive justice in smart cities with adequate examples. <br> <br> • **Conclusion** Conclude suitably. |
 | --- |
 
 ### Introduction
@@ -45376,7 +45376,7 @@ Government Initiatives to tackle segregation and marginalization of poor -
 1. Explanation_PWOnlyIAS:
 Source Question: Does urbanization lead to more segregation and/or marginalization of the poor in Indian metropolises?
 
-| **Approach:** <br> **Introduction** <br>• Write about urbanisation in relation to rapid migration in brief. <br> **Body** <br>• Urbanization and Segregation of the poor <br>• Urbanization and Marginalization of the poor <br>• Urbanisation as an opportunity for inclusive growth also. <br> **Conclusion** <br>• Give appropriate conclusion in this regard |
+| **Approach:** <br> **Introduction** <br>• Write about urbanisation in relation to rapid migration in brief. <br> <br> **Body** <br>• Urbanization and Segregation of the poor <br>• Urbanization and Marginalization of the poor <br>• Urbanisation as an opportunity for inclusive growth also. <br> <br> **Conclusion** <br>• Give appropriate <br> conclusion in this regard |
 | --- |
 
 ### Introduction
@@ -45618,7 +45618,7 @@ Water bodies not only support high concentrations of biodiversity, but also offe
 1. Explanation_PWOnlyIAS:
 Source Question: What are the environmental implications of the reclamation of water bodies into urban land use ? Explain with examples.
 
-| **Approach:** <br> **Introduction** <br>• Explaining the process of land reclamation and its needs <br> **Body** <br>• Explain land reclamation implication on environment <br> **Conclusion** <br>• Conclude your answer with environmental implications. |
+| **Approach:** <br> **Introduction** <br>• Explaining the process of land reclamation and its needs <br> <br> **Body** <br>• Explain land reclamation implication on environment <br> <br> **Conclusion** <br>• Conclude your answer with environmental implications. |
 | --- |
 
 ### Introduction
@@ -45754,7 +45754,7 @@ Shortcomings in urban planning and poor coordination among various departments/b
 1. Explanation_PWOnlyIAS:
 Source Question: Account for the huge flooding of the millions of cities in India including the smart ones like Hyderabad and pune. Suggest lasting remedial measures.
 
-| **Approach:** <br> **Introduction** <br>• Write any Data / Report **Body** <br>• Discuss the responsible factor for frequent urban flooding and remedial measurement. <br> **Conclusion** <br>• Conclude your answer with a futuristic approach and public awareness. |
+| **Approach:** <br> **Introduction** <br>• Write any Data / Report <br> **Body** <br>• Discuss the responsible factor for frequent urban flooding and remedial measurement. <br> <br> **Conclusion** <br>• Conclude your answer with a futuristic approach and public awareness. |
 | --- |
 
 ### Introduction
@@ -45892,7 +45892,7 @@ Apart from above measures, robust implementation of Sendai framework for Disaste
 1. Explanation_PWOnlyIAS:
 Source Question: Why are the tribals in India referred to as ‘the Scheduled Tribes’? Indicate the major provisions enshrined in the Constitution of India for their upliftment.
 
-| **Approach:** <br> **Introduction** <br>• Give a brief description of the concept of Schedule Tribes. <br> **Body** <br>• Mention about the major provisions for STs in the Constitution of India. <br> **Conclusion** <br>• Conclude suitably. |
+| **Approach:** <br> **Introduction** <br>• Give a brief description of the concept of Schedule Tribes. <br> <br> **Body** <br>• Mention about the major provisions for STs in the Constitution of India. <br> <br> **Conclusion** <br>• Conclude suitably. |
 | --- |
 
 ### Introduction

@@ -741,7 +741,7 @@ The **UDAN scheme** has made notable progress in connecting underserved regions,
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br>• Write about ‘care economy’ and ‘monetized economy’ briefly <br> **Body** <br>• Write differences between ‘care economy’ and ‘monetized economy’ <br>• Write how the care economy can be brought into monetized economy through women empowerment <br> **Conclusion** <br>• Give appropriate conclusion in this regard |
+| **Approach:** <br> **Introduction** <br>• Write about ‘care economy’ and ‘monetized economy’ briefly <br> <br> **Body** <br>• Write differences between ‘care economy’ and ‘monetized economy’ <br>• Write how the care economy can be brought into monetized economy through women empowerment <br> <br> **Conclusion** <br>• Give appropriate <br> conclusion in this regard |
 | --- |
 
 ### Introduction
@@ -793,7 +793,7 @@ These **strategies, backed by real-world examples**, pave the way for innovative
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br>• Write about cropping pattern in India briefly <br> **Body** <br>• Write the changes in cropping pattern in India <br>• Write about the influence of changes in consumption pattern over cropping pattern <br>• Write about the influence of marketing conditions over cropping pattern <br> **Conclusion** Give appropriate <br> conclusion in this regard |
+| **Approach:** <br> **Introduction** <br>• Write about cropping pattern in India briefly <br> <br> **Body** <br>• Write the changes in cropping pattern in India <br>• Write about the influence of changes in consumption pattern over cropping pattern <br>• Write about the influence of marketing conditions over cropping pattern <br> <br> **Conclusion** Give appropriate <br> <br> conclusion in this regard |
 | --- |
 
 ### Introduction
@@ -849,7 +849,7 @@ Understanding the changing cropping patterns in India requires a multifaceted vi
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br>• Write the role of manufacturing sector in GDP, particularly of MSMEs briefly <br> **Body** <br>• Write why faster economic growth requires increased share of the manufacturing sector in GDP, particularly of MSMEs <br>• Write about the contribution of present policies of the Government in this regard <br> **Conclusion** <br>• Give appropriate conclusion in this regard |
+| **Approach:** <br> **Introduction** <br>• Write the role of manufacturing sector in GDP, particularly of MSMEs briefly <br> <br> **Body** <br>• Write why faster economic growth requires increased share of the manufacturing sector in GDP, particularly of MSMEs <br>• Write about the contribution of present policies of the Government in this regard <br> <br> **Conclusion** <br>• Give appropriate <br> conclusion in this regard |
 | --- |
 
 ### Introduction
@@ -892,7 +892,7 @@ These innovative suggestions could potentially accelerate the growth of the manu
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br>• Write about E-technology in the agricultural context <br> **Body** <br>• Write how e-Technology help farmers in production of agricultural produce <br>• Write how e-Technology help farmers in marketing of agricultural produce <br>• Write government Efforts for e Technology in Agriculture <br> **Conclusion** <br>• Give appropriate conclusion in this regard |
+| **Approach:** <br> **Introduction** <br>• Write about E-technology in the agricultural context <br> <br> **Body** <br>• Write how e-Technology help farmers in production of agricultural produce <br>• Write how e-Technology help farmers in marketing of agricultural produce <br>• Write government Efforts for e Technology in Agriculture <br> <br> **Conclusion** <br>• Give appropriate <br> conclusion in this regard |
 | --- |
 
 ### Introduction
@@ -946,7 +946,7 @@ Overall, e-technology has emerged as a beacon of transformation in the agricultu
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br>• Write about unemployment in India emphasizing on structural unemployment briefly <br> **Body** <br>• Write how most of the unemployment in India is structural in nature <br>• Write about the methodology adopted to compute unemployment in the country <br>• Write suggestions for improvements **Conclusion** <br>• Give appropriate conclusion in this regard |
+| **Approach:** <br> **Introduction** <br>• Write about unemployment in India emphasizing on structural unemployment briefly <br> <br> **Body** <br>• Write how most of the unemployment in India is structural in nature <br>• Write about the methodology adopted to compute unemployment in the country <br>• Write suggestions for improvements <br> **Conclusion** <br>• Give appropriate <br> conclusion in this regard |
 | --- |
 
 ### Introduction
@@ -994,7 +994,7 @@ Understanding structural unemployment is crucial for formulating effective polic
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br>• Write about land reforms in India briefly <br> **Body** <br>• Write about the objectives of land reforms in India <br>• Write about the measures of land reforms in India <br>• Write how land ceiling policy on landholding can be considered as an effective reform under economic criteria <br> **Conclusion** <br>• Give appropriate conclusion in this regard |
+| **Approach:** <br> **Introduction** <br>• Write about land reforms in India briefly <br> <br> **Body** <br>• Write about the objectives of land reforms in India <br>• Write about the measures of land reforms in India <br>• Write how land ceiling policy on landholding can be considered as an effective reform under economic criteria <br> <br> **Conclusion** <br>• Give appropriate <br> conclusion in this regard |
 | --- |
 
 ### Introduction
@@ -1044,7 +1044,7 @@ In conclusion, land reforms underscore a commitment to adaptability and resonanc
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br>• Write about subsidies for farm sector in India briefly <br> **Body** <br>• Write the direct and indirect subsidies provided to farm sector in India <br>• Write the issues raised by the World Trade Organization (WTO) in relation to agricultural subsidies <br>• Write suitable way ahead in this regard <br> **Conclusion** <br>• Give appropriate conclusion in this regard |
+| **Approach:** <br> **Introduction** <br>• Write about subsidies for farm sector in India briefly <br> <br> **Body** <br>• Write the direct and indirect subsidies provided to farm sector in India <br>• Write the issues raised by the World Trade Organization (WTO) in relation to agricultural subsidies <br>• Write suitable way ahead in this regard <br> <br> **Conclusion** <br>• Give appropriate <br> conclusion in this regard |
 | --- |
 
 ### Introduction
@@ -1098,7 +1098,7 @@ To conclude, while the WTO aims to streamline global agricultural trade, it must
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br>• Write about the digitization of the Indian economy briefly <br> **Body** <br>• Write about the status of digitalization in the Indian economy <br>• Write the problems faced in this regard <br>• Write suitable suggestions for improvements <br> **Conclusion** <br>• Give appropriate conclusion in this regard |
+| **Approach:** <br> **Introduction** <br>• Write about the digitization of the Indian economy briefly <br> <br> **Body** <br>• Write about the status of digitalization in the Indian economy <br>• Write the problems faced in this regard <br>• Write suitable suggestions for improvements <br> <br> **Conclusion** <br>• Give appropriate <br> conclusion in this regard |
 | --- |
 
 ### Introduction
@@ -1148,7 +1148,7 @@ Digitalization has indeed spurred growth and added a dynamic dimension to the In
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br>• Mention about labour being one of the factors of production and labour productivity is a key determinant for growth. <br> **Body** <br>• Mention the reasons why the recent growth trend can be said to be due to labour productivity. <br>• Mention a list of growth patterns that will help create more jobs without compromising on productivity. <br> **Conclusion** <br>• Conclude suitably |
+| **Approach:** <br> **Introduction** <br>• Mention about labour being one of the factors of production and labour productivity is a key determinant for growth. <br> <br> **Body** <br>• Mention the reasons why the recent growth trend can be said to be due to labour productivity. <br>• Mention a list of growth patterns that will help create more jobs without compromising on productivity. <br> <br> **Conclusion** <br>• Conclude suitably |
 | --- |
 
 ### Introduction
@@ -1194,7 +1194,7 @@ The above strategies would enable India to create more jobs and reap its favoura
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br>• Give a brief about the food processing industry with some relevant data or example. <br> **Body** <br>• Explain the scope of the food processing industry in India. <br>• Mention why the food processing industry is so significant in India. <br> **Conclusion** <br>• Conclude stating that there are several challenges in this sector but it is very important for the Indian economy to grow.. |
+| **Approach:** <br> **Introduction** <br>• Give a brief about the food processing industry with some relevant data or example. <br> <br> **Body** <br>• Explain the scope of the food processing industry in India. <br>• Mention why the food processing industry is so significant in India. <br> <br> **Conclusion** <br>• Conclude stating that there are several challenges in this sector but it is very important for the Indian economy to grow.. |
 | --- |
 
 ### Introduction
@@ -1240,7 +1240,7 @@ Despite its many benefits, the **level of processing of agricultural produce is 
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br>• Define inclusive growth and introduce the concept of market economy. <br> **Body** <br>• Explain how market economy and inclusive growth are seen as opposing ideas. <br>• Mention how some aspects of the market economy can aid inclusive growth. <br>• State the significance of financial inclusion in achieving economic growth in India. <br> **Conclusion** <br>• Conclude stating that inclusive growth is absolutely necessary especially in India & market economy must be used as an aiding factor for this objective. |
+| **Approach:** <br> **Introduction** <br>• Define inclusive growth and introduce the concept of market economy. <br> <br> **Body** <br>• Explain how market economy and inclusive growth are seen as opposing ideas. <br>• Mention how some aspects of the market economy can aid inclusive growth. <br>• State the significance of financial inclusion in achieving economic growth in India. <br> <br> **Conclusion** <br>• Conclude stating that inclusive growth is absolutely necessary especially in India & market economy must be used as an aiding factor for this objective. |
 | --- |
 
 ### Introduction
@@ -1287,7 +1287,7 @@ Since the 11th Five Year Plan, it has been clearly stated that economic growth m
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br>• Define life expectancy and give some data showing the increase in life expectancy. <br> **Body** <br>• Give a list of challenges that have risen due to increase in life expectancy. <br>• Mention the steps taken to address these challenges. <br> **Conclusion** <br>• Mention that India must look after the needs of its elderly population. |
+| **Approach:** <br> **Introduction** <br>• Define life expectancy and give some data showing the increase in life expectancy. <br> <br> **Body** <br>• Give a list of challenges that have risen due to increase in life expectancy. <br>• Mention the steps taken to address these challenges. <br> <br> **Conclusion** <br>• Mention that India must look after the needs of its elderly population. |
 | --- |
 
 ### Introduction
@@ -1327,7 +1327,7 @@ Investing a little to engage the elderly in communities can improve their health
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br>• Define agri-marketing and the meaning of upstream and downstream processes. <br> **Body:** <br>• Mention a list of bottlenecks (issues) in both the upstream and downstream agricultural marketing. <br> **Conclusion** <br>• Conclude stating that the government has taken initiatives like e-NAM to solve some of these issues but more needs to be done. |
+| **Approach:** <br> **Introduction** <br>• Define agri-marketing and the meaning of upstream and downstream processes. <br> <br> **Body:** <br>• Mention a list of bottlenecks (issues) in both the upstream and downstream agricultural marketing. <br> <br> **Conclusion** <br>• Conclude stating that the government has taken initiatives like e-NAM to solve some of these issues but more needs to be done. |
 | --- |
 
 ### Introduction
@@ -1366,7 +1366,7 @@ The government has taken various measures for improving marketing of agricultura
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br>• Give a brief idea about the Public Distribution System (PDS) and its objectives. <br> **Body** <br>• Mention the challenges of PDS. <br>• Mention how PDS can be made effective and transparent. <br> **Conclusion** <br>• Conclude stating that PDS has been the lifeline of millions but it can do more than just food security by focusing on nutritional security. |
+| **Approach:** <br> **Introduction** <br>• Give a brief idea about the Public Distribution System (PDS) and its objectives. <br> <br> **Body** <br>• Mention the challenges of PDS. <br>• Mention how PDS can be made effective and transparent. <br> <br> **Conclusion** <br>• Conclude stating that PDS has been the lifeline of millions but it can do more than just food security by focusing on nutritional security. |
 | --- |
 
 ### Introduction
@@ -1415,7 +1415,7 @@ PDS is a scheme that has become the lifeline for millions and its role was clear
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br>• Define Integrated Farming System **Body** <br>• Mention some of the features of Integrated Farming System. <br>• Give pointers as to how it is helpful specifically to small and marginal farmers. <br> **Conclusion** <br>• Conclude stating that Integrated Farming System is key to achieving the goal of doubling farmers income by 2022. |
+| **Approach:** <br> **Introduction** <br>• Define Integrated Farming System <br> **Body** <br>• Mention some of the features of Integrated Farming System. <br>• Give pointers as to how it is helpful specifically to small and marginal farmers. <br> <br> **Conclusion** <br>• Conclude stating that Integrated Farming System is key to achieving the goal of doubling farmers income by 2022. |
 | --- |
 
 ### Introduction
@@ -1452,7 +1452,7 @@ IFS provides multiple benefits like optimization of resources, diversification o
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br>• Define Public Private Partnership (PPP) <br> **Body:** <br>• Explain the need for Public Private Partnership (PPP) in infrastructure projects. <br>• Specifically examine the role of Public Private Partnership (PPP) in redevelopment of railway stations <br> **Conclusion** <br>• Conclude stating that PPPs have an important role in infrastructure development and it must be promoted. |
+| **Approach:** <br> **Introduction** <br>• Define Public Private Partnership (PPP) <br> <br> **Body:** <br>• Explain the need for Public Private Partnership (PPP) in infrastructure projects. <br>• Specifically examine the role of Public Private Partnership (PPP) in redevelopment of railway stations <br> <br> **Conclusion** <br>• Conclude stating that PPPs have an important role in infrastructure development and it must be promoted. |
 | --- |
 
 ### Introduction
@@ -1493,7 +1493,7 @@ Although there are challenges like delays in land acquisition, non-availability 
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br>• Mention that these terms are part of the Union Budget <br> **Body** <br>• Mention the differences between Capital and Revenue Budget along with explanation of the components. <br> **Conclusion** <br>• Conclude suitably. |
+| **Approach:** <br> **Introduction** <br>• Mention that these terms are part of the Union Budget <br> <br> **Body** <br>• Mention the differences between Capital and Revenue Budget along with explanation of the components. <br> <br> **Conclusion** <br>• Conclude suitably. |
 | --- |
 
 ### Introduction
@@ -1522,7 +1522,7 @@ Although there are challenges like delays in land acquisition, non-availability 
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br>• Briefly define V-shaped recovery. **Body** <br>• Give pointers on why economists view the recovery as V-shaped <br>• Give some arguments as to why some others do not see it as V-shaped recovery, rather as K-shaped recovery. <br> **Conclusion** <br>• Conclude saying that the recovery pattern differs with the sectors and the point of view of economists. But it is true that the Indian economy is growing. |
+| **Approach:** <br> **Introduction** <br>• Briefly define V-shaped recovery. <br> **Body** <br>• Give pointers on why economists view the recovery as V-shaped <br>• Give some arguments as to why some others do not see it as V-shaped recovery, rather as K-shaped recovery. <br> <br> **Conclusion** <br>• Conclude saying that the recovery pattern differs with the sectors and the point of view of economists. But it is true that the Indian economy is growing. |
 | --- |
 
 ### Introduction
@@ -1558,7 +1558,7 @@ While experts may differ as to whether the Indian economy has experienced a V-sh
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br>• Define GDP and the importance of this metric. <br> **Body** <br>• Explain the differences between both the methodologies of calculating GDP. <br> **Conclusion** <br>• Conclude stating that the new method is more in line with the global standards. |
+| **Approach:** <br> **Introduction** <br>• Define GDP and the importance of this metric. <br> <br> **Body** <br>• Explain the differences between both the methodologies of calculating GDP. <br> <br> **Conclusion** <br>• Conclude stating that the new method is more in line with the global standards. |
 | --- |
 
 ### Introduction
@@ -1591,7 +1591,7 @@ The shift in the method of GDP calculation depicts dynamism in the growth calcul
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br>• Give a brief about the water stress situation in India. <br> **Body** <br>• Elaborate on how micro-irrigation can solve various aspects of the causes for water stress. Also mention that micro-irrigation is not a panacea and to what extent it can help. <br> **Conclusion** <br>• Conclude saying that micro-irrigation should be clubbed with water harvesting and such other methods to be truly effective. |
+| **Approach:** <br> **Introduction** <br>• Give a brief about the water stress situation in India. <br> <br> **Body** <br>• Elaborate on how micro-irrigation can solve various aspects of the causes for water stress. Also mention that micro-irrigation is not a panacea and to what extent it can help. <br> <br> **Conclusion** <br>• Conclude saying that micro-irrigation should be clubbed with water harvesting and such other methods to be truly effective. |
 | --- |
 
 ### Introduction
@@ -1629,7 +1629,7 @@ Overall, micro-irrigation has the potential to make a significant contribution t
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br>• Give a brief about land reforms. **Body** <br>• Give pointers on how land reforms helped improve the socio-economic conditions of small and marginal farmers specifically. Also mention how it was not fully able to achieve these objectives. <br> **Conclusion** <br>• Conclude saying that land reforms did give some results in the initial period but now it has stagnated and new reforms must come through for achieving its true objectives. |
+| **Approach:** <br> **Introduction** <br>• Give a brief about land reforms. <br> **Body** <br>• Give pointers on how land reforms helped improve the socio-economic conditions of small and marginal farmers specifically. Also mention how it was not fully able to achieve these objectives. <br> <br> **Conclusion** <br>• Conclude saying that land reforms did give some results in the initial period but now it has stagnated and new reforms must come through for achieving its true objectives. |
 | --- |
 
 ### Introduction
@@ -1666,7 +1666,7 @@ Thus, Land Reforms have been a mixed experience with right intention but ineffec
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br>• Give a brief on the relation between infrastructure and growth. <br> **Body** <br>• Elaborate on the points on why infrastructure is essential for rapid growth. <br> **Conclusion** <br>• Conclude by linking infrastructure development and SDGs. |
+| **Approach:** <br> **Introduction** <br>• Give a brief on the relation between infrastructure and growth. <br> <br> **Body** <br>• Elaborate on the points on why infrastructure is essential for rapid growth. <br> <br> **Conclusion** <br>• Conclude by linking infrastructure development and SDGs. |
 | --- |
 
 ### Introduction
@@ -1704,7 +1704,7 @@ Infrastructure lies at the core of India’s ability to realise a number of SDGs
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br>• Give a brief on National Food Security Act (NFSA) <br> **Body** <br>• Enlist the features of NFSA <br>• Elaborate on the role of NFSA in eliminating hunger and malnutrition. <br> **Conclusion** <br>• Conclude stating that NFSA has been a game changer but it has to evolve a lot in order to achieve all of its objectives and also SDGs. |
+| **Approach:** <br> **Introduction** <br>• Give a brief on National Food Security Act (NFSA) <br> <br> **Body** <br>• Enlist the features of NFSA <br>• Elaborate on the role of NFSA in eliminating hunger and malnutrition. <br> <br> **Conclusion** <br>• Conclude stating that NFSA has been a game changer but it has to evolve a lot in order to achieve all of its objectives and also SDGs. |
 | --- |
 
 ### Introduction
@@ -1747,7 +1747,7 @@ NFSA has been a game changer but there is still a long way to go for India as In
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br>• Define Potential GDP and briefly explain about the aspects of potential GDP. <br> **Body** <br>• Enumerate the determinants of potential GDP and the constraints in achieving it. <br> **Conclusion** <br>• Conclude stating that potential GDP is a dynamic metric determined by multiple variables, but it must be looked into as a valuable tool to make informed decisions. |
+| **Approach:** <br> **Introduction** <br>• Define Potential GDP and briefly explain about the aspects of potential GDP. <br> <br> **Body** <br>• Enumerate the determinants of potential GDP and the constraints in achieving it. <br> <br> **Conclusion** <br>• Conclude stating that potential GDP is a dynamic metric determined by multiple variables, but it must be looked into as a valuable tool to make informed decisions. |
 | --- |
 
 ### Introduction
@@ -1791,7 +1791,7 @@ Potential GDP is determined by various factors. Accurately estimating potential 
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br>• Give a brief on the meaning of intra-generational and inter-generational equity. <br> **Body** <br>• Elaborate on the issues from the perspective of both inclusive and sustainable growth. <br> **Conclusion** <br>• Conclude stating that intra-generational and inter-generational equity are very important factors for a developing country like India to ensure continuous growth. |
+| **Approach:** <br> **Introduction** <br>• Give a brief on the meaning of intra-generational and inter-generational equity. <br> <br> **Body** <br>• Elaborate on the issues from the perspective of both inclusive and sustainable growth. <br> <br> **Conclusion** <br>• Conclude stating that intra-generational and inter-generational equity are very important factors for a developing country like India to ensure continuous growth. |
 | --- |
 
 ### Introduction
@@ -1824,7 +1824,7 @@ The concept of inclusive growth and sustainable development are the key pillars 
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br>• Define investment and capital formation. <br> **Body** <br>• Link both the aspects and explain investment in terms of capital formation. <br>• Elaborate on the meaning of concession agreement and the various factors to be considered for such an agreement. <br> **Conclusion** <br>• Conclude stating that capital formation forms the basis for all future growth and investment is the key to that. |
+| **Approach:** <br> **Introduction** <br>• Define investment and capital formation. <br> <br> **Body** <br>• Link both the aspects and explain investment in terms of capital formation. <br>• Elaborate on the meaning of concession agreement and the various factors to be considered for such an agreement. <br> <br> **Conclusion** <br>• Conclude stating that capital formation forms the basis for all future growth and investment is the key to that. |
 | --- |
 
 ### Introduction
@@ -1866,7 +1866,7 @@ Capital formation and especially gross capital formation is one of the biggest p
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br>• Give a brief description of GST and the compensation clause. <br> **Body** <br>• Enlist the rationale behind GST Compensation. <br>• Discuss the impact of the pandemic on this provision along with the federal tensions created by it. <br> **Conclusion** <br>• Conclude stating that there have been issues in GST compensation due to structural issues as well as the pandemic, but it has been resolved now as the provision hasn’t been extended. |
+| **Approach:** <br> **Introduction** <br>• Give a brief description of GST and the compensation clause. <br> <br> **Body** <br>• Enlist the rationale behind GST Compensation. <br>• Discuss the impact of the pandemic on this provision along with the federal tensions created by it. <br> <br> **Conclusion** <br>• Conclude stating that there have been issues in GST compensation due to structural issues as well as the pandemic, but it has been resolved now as the provision hasn’t been extended. |
 | --- |
 
 ### Introduction
@@ -1905,7 +1905,7 @@ The 15th FC report had projected that the gap between GST cess collections and t
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br>• Define food processing. **Body** <br>• Enlist the opportunities in the food processing sector. <br>• Enlist the challenges faced by the sector. <br>• Suggest methods to improve the condition of the sector. <br> **Conclusion** <br>• Conclude stating that food processing is key to improving the status of farmers as well as agriculture as a whole. |
+| **Approach:** <br> **Introduction** <br>• Define food processing. <br> **Body** <br>• Enlist the opportunities in the food processing sector. <br>• Enlist the challenges faced by the sector. <br>• Suggest methods to improve the condition of the sector. <br> <br> **Conclusion** <br>• Conclude stating that food processing is key to improving the status of farmers as well as agriculture as a whole. |
 | --- |
 
 ### Introduction
@@ -1957,7 +1957,7 @@ Food processing provides an opportunity to utilize excess production efficiently
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br>• Define agricultural marketing. **Body** <br>• Enlist the constraints faced in various aspects of agricultural marketing. <br> **Conclusion** <br>• Conclude stating that agricultural marketing is key to the goal of doubling farmers income. |
+| **Approach:** <br> **Introduction** <br>• Define agricultural marketing. <br> **Body** <br>• Enlist the constraints faced in various aspects of agricultural marketing. <br> <br> **Conclusion** <br>• Conclude stating that agricultural marketing is key to the goal of doubling farmers income. |
 | --- |
 
 ### Introduction
@@ -1990,7 +1990,7 @@ Agriculture marketing is a key aspect in achieving the goal of doubling farmer�
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br>• Briefly describe rice-wheat cropping system in India. <br> **Body** <br>• Enlist the major factors for the success of this system. <br>• Enlist the issues created by this system. <br> **Conclusion** <br>• Conclude stating that rice and wheat alone cannot fulfill the economic as well as nutritional needs of the farmers. |
+| **Approach:** <br> **Introduction** <br>• Briefly describe rice-wheat cropping system in India. <br> <br> **Body** <br>• Enlist the major factors for the success of this system. <br>• Enlist the issues created by this system. <br> <br> **Conclusion** <br>• Conclude stating that rice and wheat alone cannot fulfill the economic as well as nutritional needs of the farmers. |
 | --- |
 
 ### Introduction
@@ -2047,7 +2047,7 @@ The traditional Green Revolution States would need to shed “business as usual�
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br>• Define GST and give a brief background. <br> **Body** <br>• Enumerate the list of taxes subsumed under GST. <br>• Elaborate on the revenue implications of GST. <br> **Conclusion** <br>• Conclude stating that although not perfect, GST is a step in the right direction for the economic integration of India. |
+| **Approach:** <br> **Introduction** <br>• Define GST and give a brief background. <br> <br> **Body** <br>• Enumerate the list of taxes subsumed under GST. <br>• Elaborate on the revenue implications of GST. <br> <br> **Conclusion** <br>• Conclude stating that although not perfect, GST is a step in the right direction for the economic integration of India. |
 | --- |
 
 ### Introduction
@@ -2100,7 +2100,7 @@ GST has been a significant reform which eliminates cascading of taxes and reduce
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br>• Mention that the Economic Survey says that steady GDP growth and low inflation has left the Indian economy in good shape. <br> **Body** <br>• Mention points in favour and against this view point. <br> **Conclusion** <br>• Conclude stating that inflation and growth may or may not be in sync, but if it ensures that growth is positive, inflation must not be seen as a negative aspect of the economy. |
+| **Approach:** <br> **Introduction** <br>• Mention that the Economic Survey says that steady GDP growth and low inflation has left the Indian economy in good shape. <br> <br> **Body** <br>• Mention points in favour and against this view point. <br> <br> **Conclusion** <br>• Conclude stating that inflation and growth may or may not be in sync, but if it ensures that growth is positive, inflation must not be seen as a negative aspect of the economy. |
 | --- |
 
 ### Introduction
@@ -2135,7 +2135,7 @@ There can be a conflict between economic growth and inflation. In periods of rap
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br>• Define Integrated Farming System (IFS) <br> **Body** <br>• Elaborate on how the Integrated Farming System (IFS) is helpful in sustaining agriculture. <br> **Conclusion** <br>• Conclude stating that Integrated Farming System (IFS) is important for achieving the goal of doubling farmer’s income. |
+| **Approach:** <br> **Introduction** <br>• Define Integrated Farming System (IFS) <br> <br> **Body** <br>• Elaborate on how the Integrated Farming System (IFS) is helpful in sustaining agriculture. <br> <br> **Conclusion** <br>• Conclude stating that Integrated Farming System (IFS) is important for achieving the goal of doubling farmer’s income. |
 | --- |
 
 ### Introduction
@@ -2174,7 +2174,7 @@ The IFS approach can be helpful in sustaining agricultural production by improvi
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br>• Define watershed and give a brief background about the National Watershed Project. <br> **Body** <br>• Mention the impact of the National Watershed Project on agriculture in water-stressed areas. <br> **Conclusion** <br>• Conclude stating that the National Watershed Project helps conserve water while also helping achieve the goal of doubling farmer’s income. |
+| **Approach:** <br> **Introduction** <br>• Define watershed and give a brief background about the National Watershed Project. <br> <br> **Body** <br>• Mention the impact of the National Watershed Project on agriculture in water-stressed areas. <br> <br> **Conclusion** <br>• Conclude stating that the National Watershed Project helps conserve water while also helping achieve the goal of doubling farmer’s income. |
 | --- |
 
 ### Introduction
@@ -2211,7 +2211,7 @@ This is an inclusive concept wherein decentralization, community participation a
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br>• Define inclusive growth. **Body** <br>• Give points showing the link between inclusive and sustainable growth. <br> **Conclusion** <br>• Conclude stating that inclusive growth has the potential to be a game changer in all aspects of the growth of the economy and the society as a whole. |
+| **Approach:** <br> **Introduction** <br>• Define inclusive growth. <br> **Body** <br>• Give points showing the link between inclusive and sustainable growth. <br> <br> **Conclusion** <br>• Conclude stating that inclusive growth has the potential to be a game changer in all aspects of the growth of the economy and the society as a whole. |
 | --- |
 
 ### Introduction
@@ -2247,7 +2247,7 @@ Inclusiveness and sustainability are interwoven in the concept of inclusive grow
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br>• Mention a clear definition of Public Expenditure Management (PEM). <br> **Body** <br>• Elaborate on the challenges faced in budget making due to changes post liberalization. <br> **Conclusion** <br>• Conclude saying that liberalization has led to growth in public expenditure especially on infrastructure and social needs but there has not been a similar increase in tax income and this creates challenges in PEM. |
+| **Approach:** <br> **Introduction** <br>• Mention a clear definition of Public Expenditure Management (PEM). <br> <br> **Body** <br>• Elaborate on the challenges faced in budget making due to changes post liberalization. <br> <br> **Conclusion** <br>• Conclude saying that liberalization has led to growth in public expenditure especially on infrastructure and social needs but there has not been a similar increase in tax income and this creates challenges in PEM. |
 | --- |
 
 ### Introduction
@@ -2280,7 +2280,7 @@ In the aftermath of LPG reforms, the nation’s per capita income increased, gov
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br>• Mention about PDS **Body** <br>• Give a brief about problems faced in PDS. <br>• Enlist the reformative steps taken in PDS. <br> **Conclusion** <br>• Conclude stating that PDS has a huge role to play and the reforms are in the right direction, though there is more to be done. |
+| **Approach:** <br> **Introduction** <br>• Mention about PDS <br> **Body** <br>• Give a brief about problems faced in PDS. <br>• Enlist the reformative steps taken in PDS. <br> <br> **Conclusion** <br>• Conclude stating that PDS has a huge role to play and the reforms are in the right direction, though there is more to be done. |
 | --- |
 
 ### Introduction
@@ -2322,7 +2322,7 @@ The government initiatives for reform are in the right direction. But there are 
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br>• Give a brief about the food processing sector. <br> **Body** <br>• Enlist the challenges faced in the food processing sector. <br>• Elaborate the policy taken to address these issues. <br> **Conclusion** <br>• Conclude stating that policy measures are in the right direction, but there is much to be done. |
+| **Approach:** <br> **Introduction** <br>• Give a brief about the food processing sector. <br> <br> **Body** <br>• Enlist the challenges faced in the food processing sector. <br>• Elaborate the policy taken to address these issues. <br> <br> **Conclusion** <br>• Conclude stating that policy measures are in the right direction, but there is much to be done. |
 | --- |
 
 ### Introduction
@@ -2373,7 +2373,7 @@ For unhindered growth, it becomes important to address the demand and supply-sid
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br>• Mention about the Capital Gain Tax and DDT. <br> **Body** <br>• List down the changes introduced in the budget. <br> **Conclusion** <br>• Conclude stating that the changes are “progressive” and would aid growth. |
+| **Approach:** <br> **Introduction** <br>• Mention about the Capital Gain Tax and DDT. <br> <br> **Body** <br>• List down the changes introduced in the budget. <br> <br> **Conclusion** <br>• Conclude stating that the changes are “progressive” and would aid growth. |
 | --- |
 
 ### Introduction
@@ -2412,7 +2412,7 @@ A good taxation system should be “progressive” i.e. those with higher income
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br>• Define MSP **Body** <br>• Mention the key aspects of MSP. <br>• Mention how MSP can help the small farmers specifically to escape the debt trap. <br> **Conclusion** <br>• Mention that MSP has benefits, but its effect has become stagnant. Thus it needs reforms. |
+| **Approach:** <br> **Introduction** <br>• Define MSP <br> **Body** <br>• Mention the key aspects of MSP. <br>• Mention how MSP can help the small farmers specifically to escape the debt trap. <br> <br> **Conclusion** <br>• Mention that MSP has benefits, but its effect has become stagnant. Thus it needs reforms. |
 | --- |
 
 ### Introduction
@@ -2457,7 +2457,7 @@ The objectives with which MSP was introduced has been only partially met. Hence,
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br>• Give a brief description of the concept of supermarket <br> **Body** <br>• Examine the role of supermarkets in supply chain management of perishables. <br>• List points as to how super markets help eliminate a number of intermediaries. <br> **Conclusion** <br>• Conclude saying that supermarket helps both farmer as well as customers |
+| **Approach:** <br> **Introduction** <br>• Give a brief description of the concept of supermarket <br> <br> **Body** <br>• Examine the role of supermarkets in supply chain management of perishables. <br>• List points as to how super markets help eliminate a number of intermediaries. <br> <br> **Conclusion** <br>• Conclude saying that supermarket helps both farmer as well as customers |
 | --- |
 
 ### Introduction
@@ -2496,7 +2496,7 @@ Direct sourcing, quality control measures, standardization, aggregation, and use
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br>• Give a brief of the origin of NITI Aayog. <br> **Body** <br>• Mention the points on which NITI Aayog and Planning Commission differ from each other. <br> **Conclusion** <br>• Conclude stating that NITI Aayog is more in line with the present needs of the country. |
+| **Approach:** <br> **Introduction** <br>• Give a brief of the origin of NITI Aayog. <br> <br> **Body** <br>• Mention the points on which NITI Aayog and Planning Commission differ from each other. <br> <br> **Conclusion** <br>• Conclude stating that NITI Aayog is more in line with the present needs of the country. |
 | --- |
 
 ### Introduction
@@ -2532,7 +2532,7 @@ Although socio-economic transformation lies at the heart of both NITI Aayog and 
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br>• Define protectionism and currency manipulation <br> **Body** <br>• Mention the impact of both protectionism and currency manipulation specifically on India. <br> **Conclusion** <br>• Conclude stating that such shocks would come up often in a globalised world and India should learn to deal with it. |
+| **Approach:** <br> **Introduction** <br>• Define protectionism and currency manipulation <br> <br> **Body** <br>• Mention the impact of both protectionism and currency manipulation specifically on India. <br> <br> **Conclusion** <br>• Conclude stating that such shocks would come up often in a globalised world and India should learn to deal with it. |
 | --- |
 
 ### Introduction
@@ -2571,7 +2571,7 @@ Protectionism has a mixed impact on Indian macroeconomic stability because while
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br>• Give a brief about National Horticulture Mission (NHM) <br> **Body** <br>• Enlist aspects showing role of National Horticulture Mission (NHM) in boosting production and productivity. <br>• Mention about its impact on farmers income. <br> **Conclusion** <br>• Conclude stating that horticulture can play a key role in boosting farmers income and thus it must be focused upon. |
+| **Approach:** <br> **Introduction** <br>• Give a brief about National Horticulture Mission (NHM) <br> <br> **Body** <br>• Enlist aspects showing role of National Horticulture Mission (NHM) in boosting production and productivity. <br>• Mention about its impact on farmers income. <br> <br> **Conclusion** <br>• Conclude stating that horticulture can play a key role in boosting farmers income and thus it must be focused upon. |
 | --- |
 
 ### Introduction
@@ -2610,7 +2610,7 @@ By combining horticulture cultivation with traditional farming, agriculture in o
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br>• Define cropping pattern and give a brief about the current cropping pattern. <br> **Body** <br>• Mention changes in the cropping pattern. <br>• Talk about millets and the reasons for recent focus on millets. <br> **Conclusion** <br>• Conclude stating that crop diversification has several benefits and even among these, the role of millets is crucial for food, nutritional and environmental security. |
+| **Approach:** <br> **Introduction** <br>• Define cropping pattern and give a brief about the current cropping pattern. <br> <br> **Body** <br>• Mention changes in the cropping pattern. <br>• Talk about millets and the reasons for recent focus on millets. <br> <br> **Conclusion** <br>• Conclude stating that crop diversification has several benefits and even among these, the role of millets is crucial for food, nutritional and environmental security. |
 | --- |
 
 ### Introduction
@@ -2654,7 +2654,7 @@ India’s Millet Revolution is driven by growing awareness of the health and env
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br>• Mention the issue of jobless growth in India. <br> **Body** <br>• Give reasons for the failure of the manufacturing sector in generating labor-intensive exports. <br>• Suggest measures to rectify this. **Conclusion** <br>• Conclude stating that labor-intensive manufacturing could solve the job crisis in India now while building a floor for building a future ready workforce. |
+| **Approach:** <br> **Introduction** <br>• Mention the issue of jobless growth in India. <br> <br> **Body** <br>• Give reasons for the failure of the manufacturing sector in generating labor-intensive exports. <br>• Suggest measures to rectify this. <br> **Conclusion** <br>• Conclude stating that labor-intensive manufacturing could solve the job crisis in India now while building a floor for building a future ready workforce. |
 | --- |
 
 ### Introduction
@@ -2693,7 +2693,7 @@ Although India did not follow the traditional path for growth in the manufacturi
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br>• Mention about the relation between capital formation and savings in case of India. <br> **Body** <br>• Mention that apart from savings there are other factors too that drive growth. <br> **Conclusion** <br>• Conclude stating that **sayings** is but there are other methods too which should be tapped for the Indian economy to grow to its true potential. |
+| **Approach:** <br> **Introduction** <br>• Mention about the relation between capital formation and savings in case of India. <br> <br> **Body** <br>• Mention that apart from savings there are other factors too that drive growth. <br> <br> **Conclusion** <br>• Conclude stating that **sayings** is but there are other methods too which should be tapped for the Indian economy to grow to its true potential. |
 | --- |
 
 ### Introduction
@@ -2729,7 +2729,7 @@ India has a favourable demographic dividend. But to really harness it, it must l
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br>• Define PPP. **Body** <br>• Mention about the development of airports under PPP. <br>• Mention the challenges in such projects. <br> **Conclusion** <br>• Conclude stating that a certain degree of flexibility would solve many of the problems faced by such projects. |
+| **Approach:** <br> **Introduction** <br>• Define PPP. <br> **Body** <br>• Mention about the development of airports under PPP. <br>• Mention the challenges in such projects. <br> <br> **Conclusion** <br>• Conclude stating that a certain degree of flexibility would solve many of the problems faced by such projects. |
 | --- |
 
 ### Introduction
@@ -2771,7 +2771,7 @@ The understanding between public and private players should not be rigid but fle
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br>• Mention about agriculture and its significance in the Indian economy. <br> **Body** <br>• Discuss about various types of agricultural revolutions. <br>• Mention how these revolutions have helped in poverty alleviation. <br> **Conclusion** <br>• Conclude stating that agriculture sector. |
+| **Approach:** <br> **Introduction** <br>• Mention about agriculture and its significance in the Indian economy. <br> <br> **Body** <br>• Discuss about various types of agricultural revolutions. <br>• Mention how these revolutions have helped in poverty alleviation. <br> <br> **Conclusion** <br>• Conclude stating that agriculture sector. |
 | --- |
 
 ### Introduction
@@ -2808,7 +2808,7 @@ To further carry on the momentum of these programmes and assure food security in
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br>• Define agricultural subsidy. **Body** <br>• Specifically mention how subsidies affect the cropping pattern, crop diversity and economy of farmers <br>• The specify the significance of the crop insurance, minimum support price and food processing for small and marginal farmers <br> **Conclusion** <br>• Conclude stating that agricultural subsidies are important but must be targeted properly. |
+| **Approach:** <br> **Introduction** <br>• Define agricultural subsidy. <br> **Body** <br>• Specifically mention how subsidies affect the cropping pattern, crop diversity and economy of farmers <br>• The specify the significance of the crop insurance, minimum support price and food processing for small and marginal farmers <br> <br> **Conclusion** <br>• Conclude stating that agricultural subsidies are important but must be targeted properly. |
 | --- |
 
 ### Introduction
@@ -2847,7 +2847,7 @@ Subsidies, crop insurance, minimum support price (MSP), and food processing can 
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br>• Give a brief about Industrial growth in India. <br> **Body** <br>• Mention why industrial growth lagged behind GDP. <br>• Mention how the recent changes would impact industrial growth rate. <br> **Conclusion** <br>• Conclude stating that steps are in the right direction and must be continued further. |
+| **Approach:** <br> **Introduction** <br>• Give a brief about Industrial growth in India. <br> <br> **Body** <br>• Mention why industrial growth lagged behind GDP. <br>• Mention how the recent changes would impact industrial growth rate. <br> <br> **Conclusion** <br>• Conclude stating that steps are in the right direction and must be continued further. |
 | --- |
 
 The Industrial sector is one of the main sectors that contribute to India’s GDP. It accounts for 27.6% of India’s GDP. The LPG Lof 1991 was expected to give a great boost to India’s industries. However, Industrial growth rate could not match the pace with the overall growth of GDP as the industrial growth remained around 2-3% while India’s GDP grew above 6-7%.
@@ -2881,7 +2881,7 @@ Since most of these initiatives are long term measures, they would need time to 
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br>• Give a brief about the wheat-rice cropping system. <br> **Body** <br>• Mention the reasons behind the declining rice-wheat system. <br>• Mention how crop diversification will help solve the problem. <br> **Conclusion** <br>• Conclude stating that crop diversification must be taken up vigorously. |
+| **Approach:** <br> **Introduction** <br>• Give a brief about the wheat-rice cropping system. <br> <br> **Body** <br>• Mention the reasons behind the declining rice-wheat system. <br>• Mention how crop diversification will help solve the problem. <br> <br> **Conclusion** <br>• Conclude stating that crop diversification must be taken up vigorously. |
 | --- |
 
 ### Introduction
@@ -2927,7 +2927,7 @@ Crop diversification is one of the most suitable ways of stabilising the crop yi
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br>• Define food processing **Body** <br>• Mention the reasons why small scale units in this sector fail <br>• Mention how it’d be helpful for poor farmers. <br> **Conclusion** <br>• Conclude stating that food processing can help India achieve its goal of doubling farmers income. |
+| **Approach:** <br> **Introduction** <br>• Define food processing <br> **Body** <br>• Mention the reasons why small scale units in this sector fail <br>• Mention how it’d be helpful for poor farmers. <br> <br> **Conclusion** <br>• Conclude stating that food processing can help India achieve its goal of doubling farmers income. |
 | --- |
 
 ### Introduction
@@ -2966,7 +2966,7 @@ India must leverage all the available resources to emerge as a leader in food pr
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br>• Define inclusive growth. **Body** <br>• Enlist the salient features of inclusive growth <br>• Give pointers as to whether India has been experiencing inclusive growth or not. <br>• Suggest measures for inclusive growth. <br> **Conclusion** <br>• Conclude by combing inclusive growth and sustainable development. |
+| **Approach:** <br> **Introduction** <br>• Define inclusive growth. <br> **Body** <br>• Enlist the salient features of inclusive growth <br>• Give pointers as to whether India has been experiencing inclusive growth or not. <br>• Suggest measures for inclusive growth. <br> <br> **Conclusion** <br>• Conclude by combing inclusive growth and sustainable development. |
 | --- |
 
 ### Introduction
@@ -3011,7 +3011,7 @@ Inclusive growth will aid in the empowerment of disadvantaged and marginalized p
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br>• Define inclusive growth. **Body** <br>• Talk about the careless and useless manpower in India and how it impacts inclusive growth. <br>• Suggest measures to solve this problem. <br> **Conclusion** <br>• Conclude stating that India should make efforts to convert its careless and useless labour into productive labour. |
+| **Approach:** <br> **Introduction** <br>• Define inclusive growth. <br> **Body** <br>• Talk about the careless and useless manpower in India and how it impacts inclusive growth. <br>• Suggest measures to solve this problem. <br> <br> **Conclusion** <br>• Conclude stating that India should make efforts to convert its careless and useless labour into productive labour. |
 | --- |
 
 ### Introduction
@@ -3057,7 +3057,7 @@ Careless and useless deployment of manpower has inhibited the individuals as wel
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br>• Give a brief about land reforms. **Body** <br>• Mention a list of factors which made land reforms successful. <br> **Conclusion** <br>• Conclude stating that land reforms did have some positive effects but it has now become stagnant and awaits a different version of land reforms. |
+| **Approach:** <br> **Introduction** <br>• Give a brief about land reforms. <br> **Body** <br>• Mention a list of factors which made land reforms successful. <br> <br> **Conclusion** <br>• Conclude stating that land reforms did have some positive effects but it has now become stagnant and awaits a different version of land reforms. |
 | --- |
 
 ### Introduction
@@ -3100,7 +3100,7 @@ Land reforms play a crucial role in agricultural development, as they can increa
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br>• Give a brief about the vulnerabilities faced in Indian agriculture. <br> **Body** <br>• Discuss the need for crop insurance <br>• Mention the features of PMFBY **Conclusion** <br>• Conclude stating that crop insurance is necessary and PMFBY is a step in the right direction. |
+| **Approach:** <br> **Introduction** <br>• Give a brief about the vulnerabilities faced in Indian agriculture. <br> <br> **Body** <br>• Discuss the need for crop insurance <br>• Mention the features of PMFBY <br> **Conclusion** <br>• Conclude stating that crop insurance is necessary and PMFBY is a step in the right direction. |
 | --- |
 
 ### Introduction
@@ -3141,7 +3141,7 @@ Climate change induced extreme weather conditions and market fluctuations have i
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br>• Define globalization and its relation with informalization <br> **Body** <br>• Give reasons how globalization led to reduction of formal employment. <br>• Discuss whether informalization harms development of India. <br> **Conclusion** <br>• Conclude stating that informalization is harmful in the long term and thus efforts must be made towards formalization. |
+| **Approach:** <br> **Introduction** <br>• Define globalization and its relation with informalization <br> <br> **Body** <br>• Give reasons how globalization led to reduction of formal employment. <br>• Discuss whether informalization harms development of India. <br> <br> **Conclusion** <br>• Conclude stating that informalization is harmful in the long term and thus efforts must be made towards formalization. |
 | --- |
 
 ### Introduction
@@ -3181,7 +3181,7 @@ Although the informal economy provides much needed jobs for the poor, it does so
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br>• Define FDI. **Body** <br>• Justify the need for FDI <br>• Mention the reasons behind gap between MOUs and actual FDI <br>• Suggest remedies. **Conclusion** <br>• Conclude stating that FDIs are important for growth and steps must be taken to ensure that MOUs become realities. |
+| **Approach:** <br> **Introduction** <br>• Define FDI. <br> **Body** <br>• Justify the need for FDI <br>• Mention the reasons behind gap between MOUs and actual FDI <br>• Suggest remedies. <br> **Conclusion** <br>• Conclude stating that FDIs are important for growth and steps must be taken to ensure that MOUs become realities. |
 | --- |
 
 ### Introduction
@@ -3222,7 +3222,7 @@ FDI is a very crucial aspect of how development would occur given the fact that 
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br>• Define financial inclusion. **Body** <br>• Mention about PMJDY and the reason why financial inclusion is focused upon. Then talk about how PMJDY brings about financial inclusion. <br> **Conclusion** <br>• Conclude stating that PMJDY has helped achieve some milestones but there’s more to go till financial inclusion is achieved in its true sense. |
+| **Approach:** <br> **Introduction** <br>• Define financial inclusion. <br> **Body** <br>• Mention about PMJDY and the reason why financial inclusion is focused upon. Then talk about how PMJDY brings about financial inclusion. <br> <br> **Conclusion** <br>• Conclude stating that PMJDY has helped achieve some milestones but there’s more to go till financial inclusion is achieved in its true sense. |
 | --- |
 
 ### Introduction
@@ -3258,7 +3258,7 @@ PMJDY has achieved milestones and is truly a step in the right direction toward 
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br>• Define gender budgeting and elaborate it. <br> **Body** <br>• Mention the requirements of gender budgeting <br>• Give the present status of gender budgeting in India. <br> **Conclusion** <br>• Conclude stating that gender budgeting is necessary for true women empowerment. |
+| **Approach:** <br> **Introduction** <br>• Define gender budgeting and elaborate it. <br> <br> **Body** <br>• Mention the requirements of gender budgeting <br>• Give the present status of gender budgeting in India. <br> <br> **Conclusion** <br>• Conclude stating that gender budgeting is necessary for true women empowerment. |
 | --- |
 
 ### Introduction
@@ -3299,7 +3299,7 @@ A gender sensitive budget helps in translating gender-specific commitments into 
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br>• Give a brief about Digital India Programme. <br> **Body** <br>• Mention how digital India can help improve farm productivity and income <br>• Enlist the steps taken by the government to this end. <br> **Conclusion** <br>• Conclude stating that Digital India holds lot of potential to improve the position of farmers. |
+| **Approach:** <br> **Introduction** <br>• Give a brief about Digital India Programme. <br> <br> **Body** <br>• Mention how digital India can help improve farm productivity and income <br>• Enlist the steps taken by the government to this end. <br> <br> **Conclusion** <br>• Conclude stating that Digital India holds lot of potential to improve the position of farmers. |
 | --- |
 
 Digital India was **launched in 2015 to create digital infrastructure** for empowering rural communities and promoting digital literacy. Digital public infrastructure for agriculture will be built as an open source, open standard and interoperable public good. Given that 70% (2011 census) of India’s population is rural and agriculture is the main source of livelihood for 50% of the population, Digital India can play an important role in the agriculture sector.
@@ -3337,7 +3337,7 @@ There is much promise in digital applications to improve farmer livelihoods. Ove
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br>• Give a brief about the status of land holding in India <br> **Body** <br>• Mention how small land holding makes farming unviable. <br>• Analyse whether contract farming and land leasing can act as a solution by giving both pros and cons. <br> **Conclusion** <br>• Conclude stating that a solution must be arrived at only after considering various factors in the region and including the viewpoints of all stakeholders. |
+| **Approach:** <br> **Introduction** <br>• Give a brief about the status of land holding in India <br> <br> **Body** <br>• Mention how small land holding makes farming unviable. <br>• Analyse whether contract farming and land leasing can act as a solution by giving both pros and cons. <br> <br> **Conclusion** <br>• Conclude stating that a solution must be arrived at only after considering various factors in the region and including the viewpoints of all stakeholders. |
 | --- |
 
 ### Introduction
@@ -3385,7 +3385,7 @@ Thus, even though contract Farming has significant potential to turnaround produ
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br>• Give a brief about DBT. **Body** <br>• Mention ways in which DBT would alter the traditional subsidy method <br> **Conclusion** <br>• Conclude stating that the goal of the government in subsidy reform through DBT is not doing away with subsidies, but targeting them effectively. |
+| **Approach:** <br> **Introduction** <br>• Give a brief about DBT. <br> **Body** <br>• Mention ways in which DBT would alter the traditional subsidy method <br> <br> **Conclusion** <br>• Conclude stating that the goal of the government in subsidy reform through DBT is not doing away with subsidies, but targeting them effectively. |
 | --- |
 
 ### Introduction
@@ -3415,7 +3415,7 @@ The goal of the government in subsidy reform through DBT is not doing away with 
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br>• Give a brief about the status of livestock in India. <br> **Body** <br>• Mention how livestock rearing can help provide non-farm employment and income. <br>• Suggest suitable measures for promoting this sector. <br> **Conclusion** <br>• Conclude stating that livestock rearing can augment farmers in multiple ways and thus must be promoted. |
+| **Approach:** <br> **Introduction** <br>• Give a brief about the status of livestock in India. <br> <br> **Body** <br>• Mention how livestock rearing can help provide non-farm employment and income. <br>• Suggest suitable measures for promoting this sector. <br> <br> **Conclusion** <br>• Conclude stating that livestock rearing can augment farmers in multiple ways and thus must be promoted. |
 | --- |
 
 ### Introduction
@@ -3464,7 +3464,7 @@ The objective of animal rearing is to make livestock useful for human beings for
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br>• Elaborate on the meaning of jobless growth. <br> **Body** <br>• Give arguments why India’s growth is said to be jobless growth. <br>• Mention some of the initiatives taken by the government <br>• Suggest some way forward. **Conclusion** <br>• Conclude stating that skill development can go a long way in changing this scenario. |
+| **Approach:** <br> **Introduction** <br>• Elaborate on the meaning of jobless growth. <br> <br> **Body** <br>• Give arguments why India’s growth is said to be jobless growth. <br>• Mention some of the initiatives taken by the government <br>• Suggest some way forward. <br> **Conclusion** <br>• Conclude stating that skill development can go a long way in changing this scenario. |
 | --- |
 
 ### Introduction
@@ -3507,7 +3507,7 @@ The experiences of developed countries have demonstrated that the growth of smal
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br>• Give a brief about SEZs **Body:** <br>• Mention the challenges faced by SEZs. <br>• Mention some recommendations by Baba Kalyani Committee <br> **Conclusion** <br>• Conclude stating that a concerted effort from all stakeholders would help make SEZs a successful initiative. |
+| **Approach:** <br> **Introduction** <br>• Give a brief about SEZs <br> **Body:** <br>• Mention the challenges faced by SEZs. <br>• Mention some recommendations by Baba Kalyani Committee <br> <br> **Conclusion** <br>• Conclude stating that a concerted effort from all stakeholders would help make SEZs a successful initiative. |
 | --- |
 
 ### Introduction
@@ -3541,7 +3541,7 @@ SEZs have been looked up to as the tools of industrial development, manufacturin
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br>• Give a brief about the status of solar energy in India. <br> **Body** <br>• List the factors that have led to fall in equipment costs and tariffs of solar energy. <br>• Mention the impact of solar energy on thermal power plants. <br> **Conclusion** <br>• Conclude stating that solar power is bound to grow but it doesn’t naturally mean an end to thermal power plants. |
+| **Approach:** <br> **Introduction** <br>• Give a brief about the status of solar energy in India. <br> <br> **Body** <br>• List the factors that have led to fall in equipment costs and tariffs of solar energy. <br>• Mention the impact of solar energy on thermal power plants. <br> <br> **Conclusion** <br>• Conclude stating that solar power is bound to grow but it doesn’t naturally mean an end to thermal power plants. |
 | --- |
 
 ### Introduction
@@ -3583,7 +3583,7 @@ Overall, the trend towards lower equipment costs and tariffs for solar energy is
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br>• Define food processing **Body** <br>• Enlist the obstacles in marketing and supply chain management of the food processing industry. <br>• Analyse whether e-commerce can help solve these problems. <br> **Conclusion** <br>• Conclude stating that food processing is important for doubling farmers income by 2022 and e-commerce can help solve some of these problems |
+| **Approach:** <br> **Introduction** <br>• Define food processing <br> **Body** <br>• Enlist the obstacles in marketing and supply chain management of the food processing industry. <br>• Analyse whether e-commerce can help solve these problems. <br> <br> **Conclusion** <br>• Conclude stating that food processing is important for doubling farmers income by 2022 and e-commerce can help solve some of these problems |
 | --- |
 
 ### Introduction
@@ -3630,7 +3630,7 @@ E-retailers engagement with FPO’s may bridge technological gaps and bring more
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br>• Define capitalism. **Body** <br>• Mention how capitalism leads to unequal growth. <br>• Mention that capitalism alone cannot ensure inclusive growth in India. <br> **Conclusion** <br>• Conclude stating that capitalism must be regulated for inclusive growth. |
+| **Approach:** <br> **Introduction** <br>• Define capitalism. <br> **Body** <br>• Mention how capitalism leads to unequal growth. <br>• Mention that capitalism alone cannot ensure inclusive growth in India. <br> <br> **Conclusion** <br>• Conclude stating that capitalism must be regulated for inclusive growth. |
 | --- |
 
 ### Introduction
@@ -3665,7 +3665,7 @@ Capitalism needs to be regulated for delivery of greatest economic growth to gre
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br>• Define PPPs **Body** <br>• Give points about how PPP arrangements can lead to future liabilities. <br>• Suggest some ways to ensure that these liabilities do not hamper the future generations. <br> **Conclusion** <br>• PPPs are important for infrastructure development but appropriate care must be taken to ensure its sustainability. |
+| **Approach:** <br> **Introduction** <br>• Define PPPs <br> **Body** <br>• Give points about how PPP arrangements can lead to future liabilities. <br>• Suggest some ways to ensure that these liabilities do not hamper the future generations. <br> <br> **Conclusion** <br>• PPPs are important for infrastructure development but appropriate care must be taken to ensure its sustainability. |
 | --- |
 
 ### Introduction
@@ -3710,7 +3710,7 @@ Although there are challenges, PPPs can help to address the challenges of financ
 
 ### Answer
 
-| **Approach:** <br>• **Introduction** Give a brief about the way FDI entered the defence sector. <br>• **Body:** Mention the short and long term implications. <br>• **Conclusion** The FDI policy in defence sector would bring immense gains in both short and long term. |
+| **Approach:** <br>• **Introduction** Give a brief about the way FDI entered the defence sector. <br> <br> • **Body:** Mention the short and long term implications. <br> <br> • **Conclusion** The FDI policy in defence sector would bring immense gains in both short and long term. |
 | --- |
 
 ### Introduction
@@ -3745,7 +3745,7 @@ The new FDI policy has the potential to reduce dependency on imports in the defe
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br>• Mention about the agriculture credit situation in India. <br> **Body** <br>• Mention reasons why banks are not able to finance agriculture <br>• Mention how technology can help change the situation. <br> **Conclusion** <br>• Mention that banks must understand the peculiar needs of the people involved in agriculture and develop products tailor made for them. |
+| **Approach:** <br> **Introduction** <br>• Mention about the agriculture credit situation in India. <br> <br> **Body** <br>• Mention reasons why banks are not able to finance agriculture <br>• Mention how technology can help change the situation. <br> <br> **Conclusion** <br>• Mention that banks must understand the peculiar needs of the people involved in agriculture and develop products tailor made for them. |
 | --- |
 
 ### Introduction
@@ -3782,7 +3782,7 @@ Village society needs a financing system which takes into consideration the loca
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br>• Give a brief about NUTP **Body** <br>• Discuss the strategies used by the government. <br>• Mention the issues involved **Conclusion** <br>• Conclude stating that NUTP must be reformed and put into action to change the mobility landscape of India. |
+| **Approach:** <br> **Introduction** <br>• Give a brief about NUTP <br> **Body** <br>• Discuss the strategies used by the government. <br>• Mention the issues involved <br> **Conclusion** <br>• Conclude stating that NUTP must be reformed and put into action to change the mobility landscape of India. |
 | --- |
 
 ### Introduction
@@ -3824,7 +3824,7 @@ There is a need for more equitable allocation of road space with people, rather 
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br>• Mention that normally the shift occurs from agri to industry to services but it didn’t happen so in India. <br> **Body** <br>• Mention the reasons why services grew in India and manufacturing did not. <br>• Analyse whether India can become a developed country without a strong industrial base. <br> **Conclusion** <br>• Conclude stating that having a strong industrial base helps make the growth more equitable and sustainable. |
+| **Approach:** <br> **Introduction** <br>• Mention that normally the shift occurs from agri to industry to services but it didn’t happen so in India. <br> <br> **Body** <br>• Mention the reasons why services grew in India and manufacturing did not. <br>• Analyse whether India can become a developed country without a strong industrial base. <br> <br> **Conclusion** <br>• Conclude stating that having a strong industrial base helps make the growth more equitable and sustainable. |
 | --- |
 
 ### Introduction
@@ -3865,7 +3865,7 @@ Therefore, although India can become a developed country without a strong indust
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br>• Give a brief about the origin of the LARR Act. <br> **Body** <br>• Mention the key points on which the LARR Act 2013 is better than the older Act. <br>• Specify the implications of LARR on agriculture and industries <br> **Conclusion** <br>• Conclude stating that LARR Act 2013 is about securing livelihoods and its impact on any sector must be viewed from that perspective. |
+| **Approach:** <br> **Introduction** <br>• Give a brief about the origin of the LARR Act. <br> <br> **Body** <br>• Mention the key points on which the LARR Act 2013 is better than the older Act. <br>• Specify the implications of LARR on agriculture and industries <br> <br> **Conclusion** <br>• Conclude stating that LARR Act 2013 is about securing livelihoods and its impact on any sector must be viewed from that perspective. |
 | --- |
 
 ### Introduction
@@ -3908,7 +3908,7 @@ The LARR Act of 2013 was brought to give effect to the pre-existing fundamental 
 
 ### Answer
 
-| **Approach:** <br>• **Introduction** Give a brief about APMC <br>• **Body:** Mention the criticisms of APMC with respect to its impact on growth of agriculture and food inflation. <br>• **Conclusion** Conclude saying that APMC is just one factor, there are other factors too that impacts agriculture and food inflation. But APMC reforms are still a must. |
+| **Approach:** <br>• **Introduction** Give a brief about APMC <br> <br> • **Body:** Mention the criticisms of APMC with respect to its impact on growth of agriculture and food inflation. <br> <br> • **Conclusion** Conclude saying that APMC is just one factor, there are other factors too that impacts agriculture and food inflation. But APMC reforms are still a must. |
 | --- |
 
 ### Introduction
@@ -3940,7 +3940,7 @@ All this led the central govt to formulate Model APMC act in 2003, but it has no
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br>• Define demographic dividend. **Body** <br>• Mention challenges to demographic dividend. <br>• Mention some job opportunities that can help absorb the labour. <br> **Conclusion** <br>• India needs to upskill its populace and reform the labour laws to extract maximum out of the favourable demographic dividend. |
+| **Approach:** <br> **Introduction** <br>• Define demographic dividend. <br> **Body** <br>• Mention challenges to demographic dividend. <br>• Mention some job opportunities that can help absorb the labour. <br> <br> **Conclusion** <br>• India needs to upskill its populace and reform the labour laws to extract maximum out of the favourable demographic dividend. |
 | --- |
 
 ### Introduction
@@ -3980,7 +3980,7 @@ India needs to reform Labour laws to promote formal employment, focus more on sk
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br>• Define PPP and mention some fact showing how they are being increasingly adopted by countries. <br> **Body** <br>• Mention few points why PPP is favoured. <br>• Then focus on the criticisms of PPP model in India as it is the demand of the question. <br> **Conclusion** <br>• Conclude stating that the criticisms of PPP are part of the evolution of this model in India. It should develop further by rectifying these issues. |
+| **Approach:** <br> **Introduction** <br>• Define PPP and mention some fact showing how they are being increasingly adopted by countries. <br> <br> **Body** <br>• Mention few points why PPP is favoured. <br>• Then focus on the criticisms of PPP model in India as it is the demand of the question. <br> <br> **Conclusion** <br>• Conclude stating that the criticisms of PPP are part of the evolution of this model in India. It should develop further by rectifying these issues. |
 | --- |
 
 ### Introduction
@@ -4018,7 +4018,7 @@ Although there are challenges like delays in land acquisition, non-availability 
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br>• Give a brief background of GST **Body** <br>• Mention the rationale behind GST <br>• Mention reasons for delay in its rollout <br> **Conclusion** <br>• Conclude saying that GST makes the Indian economy future ready. |
+| **Approach:** <br> **Introduction** <br>• Give a brief background of GST <br> **Body** <br>• Mention the rationale behind GST <br>• Mention reasons for delay in its rollout <br> <br> **Conclusion** <br>• Conclude saying that GST makes the Indian economy future ready. |
 | --- |
 
 ### Introduction
@@ -4060,7 +4060,7 @@ GST has been a significant reform which eliminates cascading of taxes and reduce
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br>• Give a brief about land reforms **Body** <br>• Establish relationship between land reforms, agriculture productivity and elimination of poverty <br>• Mention difficulties in planning and executing agri-friendly land reforms. <br> **Conclusion** <br>• Mention that India should now move towards the second generation of land reforms focused on digitization and financial inclusion. |
+| **Approach:** <br> **Introduction** <br>• Give a brief about land reforms <br> **Body** <br>• Establish relationship between land reforms, agriculture productivity and elimination of poverty <br>• Mention difficulties in planning and executing agri-friendly land reforms. <br> <br> **Conclusion** <br>• Mention that India should now move towards the second generation of land reforms focused on digitization and financial inclusion. |
 | --- |
 
 ### Introduction
@@ -4101,7 +4101,7 @@ Land reforms play a crucial role in agricultural development, as they can increa
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br>• Define economic liberalization **Body** <br>• Mention the impact of liberalization on Indian companies <br>• Analyze if they are competing with MNCs on an equal footing <br> **Conclusion** <br>• Mention that India is attempting to strike its own balance of the ‘state-market mix’ |
+| **Approach:** <br> **Introduction** <br>• Define economic liberalization <br> **Body** <br>• Mention the impact of liberalization on Indian companies <br>• Analyze if they are competing with MNCs on an equal footing <br> <br> **Conclusion** <br>• Mention that India is attempting to strike its own balance of the ‘state-market mix’ |
 | --- |
 
 ### Introduction
@@ -4134,7 +4134,7 @@ In the Indian case, the term liberalization is used to show the direction of the
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br>• Give a brief idea about the pink revolution <br> **Body:** <br>• Mention Benefits of the Pink Revolution <br>• Mention measures to be strengthened to promote pink revolution <br> **Conclusion** <br>• Conclude stating that pink revolution can help achieve food and nutrition security. |
+| **Approach:** <br> **Introduction** <br>• Give a brief idea about the pink revolution <br> <br> **Body:** <br>• Mention Benefits of the Pink Revolution <br>• Mention measures to be strengthened to promote pink revolution <br> <br> **Conclusion** <br>• Conclude stating that pink revolution can help achieve food and nutrition security. |
 | --- |
 
 ### Introduction
@@ -4176,7 +4176,7 @@ The Pink Revolution in India has the potential to improve nutrition and health o
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br>• Give a brief about the NFSA, 2013 **Body** <br>• Mention the role of NFSA in eliminating hunger and malnutrition <br>• Mention concerns raised in WTO against the Food security Act <br> **Conclusion** <br>• Conclude stating that NFSA has a major role for food security to India’s poor. |
+| **Approach:** <br> **Introduction** <br>• Give a brief about the NFSA, 2013 <br> **Body** <br>• Mention the role of NFSA in eliminating hunger and malnutrition <br>• Mention concerns raised in WTO against the Food security Act <br> <br> **Conclusion** <br>• Conclude stating that NFSA has a major role for food security to India’s poor. |
 | --- |
 
 ### Introduction
@@ -4212,7 +4212,7 @@ It is to be understood that the rules of WTO were not geared to help agrarian ec
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br>• Define farm subsidy **Body** <br>• Enlist the different types of agriculture subsidies <br>• Analyse how agricultural subsidy regime creates distortions. <br> **Conclusion** <br>• Conclude saying that not all subsidies create distortions, some are really necessary. |
+| **Approach:** <br> **Introduction** <br>• Define farm subsidy <br> **Body** <br>• Enlist the different types of agriculture subsidies <br>• Analyse how agricultural subsidy regime creates distortions. <br> <br> **Conclusion** <br>• Conclude saying that not all subsidies create distortions, some are really necessary. |
 | --- |
 
 ### Introduction
@@ -4257,7 +4257,7 @@ The agriculture sector which provides more than 40% of employment, contributes o
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br>• Define tax expenditure **Body** <br>• Explain the meaning of the term ‘tax expenditure using the housing sector as an example. <br>• Discuss the effect of tax expenditure on budgetary policies. <br> **Conclusion** <br>• Conclude stating that tax expenditure is seen as a way to boost development in the long term. |
+| **Approach:** <br> **Introduction** <br>• Define tax expenditure <br> **Body** <br>• Explain the meaning of the term ‘tax expenditure using the housing sector as an example. <br>• Discuss the effect of tax expenditure on budgetary policies. <br> <br> **Conclusion** <br>• Conclude stating that tax expenditure is seen as a way to boost development in the long term. |
 | --- |
 
 ### Introduction
@@ -4293,7 +4293,7 @@ Thus, tax expenditure is seen as a way to boost development and tax revenue in t
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br>• Give a brief idea about the origin of FRBM Act. <br> **Body:** <br>• Mention reasons for the introduction of FRBM Act <br>• Mention salient features of the FRBM Act <br>• Mention some of the issues with its provisions <br> **Conclusion** <br>• Mention that FRBM is a well-intentioned act but must be reformed on the lines of N.K. Singh committee recommendations. |
+| **Approach:** <br> **Introduction** <br>• Give a brief idea about the origin of FRBM Act. <br> <br> **Body:** <br>• Mention reasons for the introduction of FRBM Act <br>• Mention salient features of the FRBM Act <br>• Mention some of the issues with its provisions <br> <br> **Conclusion** <br>• Mention that FRBM is a well-intentioned act but must be reformed on the lines of N.K. Singh committee recommendations. |
 | --- |
 
 ### Introduction
@@ -4341,7 +4341,7 @@ FRBM brought focus on fiscal discipline and provided benchmarks to measure the s
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br>• Give a brief of CSR **Body** <br>• Mention challenges to CSR in India <br>• Enlist salient features of Companies Act, 2013 <br> **Conclusion** <br>• Corporate houses must understand the challenges faced by its citizens and then invest properly. |
+| **Approach:** <br> **Introduction** <br>• Give a brief of CSR <br> **Body** <br>• Mention challenges to CSR in India <br>• Enlist salient features of Companies Act, 2013 <br> <br> **Conclusion** <br>• Corporate houses must understand the challenges faced by its citizens and then invest properly. |
 | --- |
 
 ### Introduction
@@ -4380,7 +4380,7 @@ Due to a lack of strategic planning, proper experimentation, innovation, and eng
 
 ### Answer
 
-| **Approach:** <br>• **Introduction** Give a brief idea about the green energy corridor <br>• **Body:** Mention how India’s Green Energy Corridor project could alleviate problems associated with conventional energy <br>• **Conclusion** India’s green energy corridor is a significant initiative to promote renewable energy and create a sustainable future. |
+| **Approach:** <br>• **Introduction** Give a brief idea about the green energy corridor <br> <br> • **Body:** Mention how India’s Green Energy Corridor project could alleviate problems associated with conventional energy <br> <br> • **Conclusion** India’s green energy corridor is a significant initiative to promote renewable energy and create a sustainable future. |
 | --- |
 
 ### Introduction
@@ -4772,7 +4772,7 @@ Environmental Impact Assessment ( **EIA** ) is a vital process in India that ass
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br>• Write about the National Wetland Conservation Programme briefly <br> **Body** <br>• Write key features of the National Wetland Conservation Programme initiated by the Government of India <br>• Write India’s wetlands of international importance included in the Ramsar Sites <br> **Conclusion** <br>• Give appropriate conclusion in this regard |
+| **Approach:** <br> **Introduction** <br>• Write about the National Wetland Conservation Programme briefly <br> <br> **Body** <br>• Write key features of the National Wetland Conservation Programme initiated by the Government of India <br>• Write India’s wetlands of international importance included in the Ramsar Sites <br> <br> **Conclusion** <br>• Give appropriate <br> conclusion in this regard |
 | --- |
 
 ### Introduction
@@ -4812,7 +4812,7 @@ The National Wetland Conservation Programme serves as a cornerstone in India’s
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br>• Write about growing electric vehicle adoption globally briefly <br> **Body** <br>• Write how electric vehicles contribute to reducing carbon emissions <br>• Write the key benefits they offer compared to traditional combustion engine vehicles <br> **Conclusion** <br>• Give appropriate conclusion in this regard |
+| **Approach:** <br> **Introduction** <br>• Write about growing electric vehicle adoption globally briefly <br> <br> **Body** <br>• Write how electric vehicles contribute to reducing carbon emissions <br>• Write the key benefits they offer compared to traditional combustion engine vehicles <br> <br> **Conclusion** <br>• Give appropriate <br> conclusion in this regard |
 | --- |
 
 ### Introduction
@@ -4861,7 +4861,7 @@ The rapid adoption of EVs offers a tangible path for reducing greenhouse gas emi
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br>• Write about IPCC and its report over sea level rise by AD 2100 briefly <br> **Body** <br>• Write the reasons behind the predicted a global sea level rise of about one metre by AD 2100 <br>• Write its impact in India and the other countries in the Indian Ocean region <br> **Conclusion** <br>• Give appropriate conclusion in this regard |
+| **Approach:** <br> **Introduction** <br>• Write about IPCC and its report over sea level rise by AD 2100 briefly <br> <br> **Body** <br>• Write the reasons behind the predicted a global sea level rise of about one metre by AD 2100 <br>• Write its impact in India and the other countries in the Indian Ocean region <br> <br> **Conclusion** <br>• Give appropriate <br> conclusion in this regard |
 | --- |
 
 ### Introduction
@@ -4911,7 +4911,7 @@ The IPCC’s prediction of a one-meter sea level rise by 2100 poses a dire threa
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br>• Write about oil pollution briefly **Body** <br>• Write its impacts on the marine ecosystem <br>• Write ways in which oil pollution particularly harmful for a country like India <br> **Conclusion** <br>• Give appropriate conclusion in this regard |
+| **Approach:** <br> **Introduction** <br>• Write about oil pollution briefly <br> **Body** <br>• Write its impacts on the marine ecosystem <br>• Write ways in which oil pollution particularly harmful for a country like India <br> <br> **Conclusion** <br>• Give appropriate <br> conclusion in this regard |
 | --- |
 
 ### Introduction
@@ -4953,7 +4953,7 @@ To safeguard its rich marine biodiversity and the health and livelihood of its c
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br> • Define Global warming. **Body** <br> • Write about the Global Warming Impacts on Earth Climate. <br> • Write down the control measures to reduce the GHG emission in the light of Kyoto Protocol. <br> **Conclusion** <br> • Conclude your answer with key steps towards Global warming Mitigation and Sustainability. |
+| **Approach:** <br> **Introduction** <br> • Define Global warming. <br> **Body** <br> • Write about the Global Warming Impacts on Earth Climate. <br> • Write down the control measures to reduce the GHG emission in the light of Kyoto Protocol. <br> <br> **Conclusion** <br> • Conclude your answer with key steps towards Global warming Mitigation and Sustainability. |
 | --- |
 
 ### Introduction
@@ -4990,7 +4990,7 @@ The Kyoto Protocol, established in 1997, played a crucial role in addressing glo
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br>• Write about photochemical smog in brief. <br> **Body** <br>• Discuss the formation, effects and mitigation of Photochemical Smog. <br>• Write about the 1999 Gothenburg Protocol in brief. <br> **Conclusion** <br>• Summary of the answer with urgent measures needed. |
+| **Approach:** <br> **Introduction** <br>• Write about photochemical smog in brief. <br> <br> **Body** <br>• Discuss the formation, effects and mitigation of Photochemical Smog. <br>• Write about the 1999 Gothenburg Protocol in brief. <br> <br> **Conclusion** <br>• Summary of the answer with urgent measures needed. |
 | --- |
 
 ### Introduction
@@ -5028,7 +5028,7 @@ Photochemical smog necessitates immediate action due to its complex formation an
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br>• Start your answer by writing about coastal erosion in brief. <br> **Body** <br>• Discuss the Causes and Effects of Coastal Erosion. <br>• Then elaborate the Coastal Management Techniques. <br> **Conclusion** <br>• Summary of the answer with urgent measures needed. |
+| **Approach:** <br> **Introduction** <br>• Start your answer by writing about coastal erosion in brief. <br> <br> **Body** <br>• Discuss the Causes and Effects of Coastal Erosion. <br>• Then elaborate the Coastal Management Techniques. <br> <br> **Conclusion** <br>• Summary of the answer with urgent measures needed. |
 | --- |
 
 ### Introduction
@@ -5069,7 +5069,7 @@ Coastal erosion demands urgent attention to safeguard vulnerable coastlines. Eff
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br>• Start your answer with WHO Guidelines Combat Air Pollution. <br> **Body** <br>• Discuss the key points of the revised Global Air Quality Guidelines [AQGs] and the difference from its 2005 update. <br>• Write about the changes that are required in India’s National Clean Air Programme (NCAP) to achieve these standards.. <br> **Conclusion** <br>• Conclude your answer with revamping India’s NCAP for stricter Air Quality Standards. |
+| **Approach:** <br> **Introduction** <br>• Start your answer with WHO Guidelines Combat Air Pollution. <br> <br> **Body** <br>• Discuss the key points of the revised Global Air Quality Guidelines [AQGs] and the difference from its 2005 update. <br>• Write about the changes that are required in India’s National Clean Air Programme (NCAP) to achieve these standards.. <br> <br> **Conclusion** <br>• Conclude your answer with revamping India’s NCAP for stricter Air Quality Standards. |
 | --- |
 
 ### Introduction
@@ -5107,7 +5107,7 @@ To achieve the revised air quality standards recommended by WHO, India’s Natio
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br> • Brief about UNFCCC and COP26. **Body** <br> • Discuss about the major outcomes of COP 26. <br> • Write about commitments made by India in COP 26. <br> **Conclusion** <br> • Conclude your answer with a futuristic approach. |
+| **Approach:** <br> **Introduction** <br> • Brief about UNFCCC and COP26. <br> **Body** <br> • Discuss about the major outcomes of COP 26. <br> • Write about commitments made by India in COP 26. <br> <br> **Conclusion** <br> • Conclude your answer with a futuristic approach. |
 | --- |
 
 ### Introduction
@@ -5152,7 +5152,7 @@ India made commitments at COP26, including achieving net-zero emissions by 2070,
 
 ### Answer
 
-| **Approach:** <br>• **Introduction** Start your answer with Uniting Global electricity Networks for Sustainability. <br>• **Body:** Explain the purpose of the Green Grid Initiative and its reference and connetion to ISA. <br>• **Conclusion** Conclude your answer with uniting Nations for renewable energy solution. |
+| **Approach:** <br>• **Introduction** Start your answer with Uniting Global electricity Networks for Sustainability. <br> <br> • **Body:** Explain the purpose of the Green Grid Initiative and its reference and connetion to ISA. <br> <br> • **Conclusion** Conclude your answer with uniting Nations for renewable energy solution. |
 | --- |
 
 ### Introduction
@@ -5187,7 +5187,7 @@ The idea of a global interconnected solar power grid, which formed the basis of 
 
 ### Answer
 
-| **Approach:** <br>• **Introduction** Write about Draft EIA notification 2020 in brief. <br>• **Body:** State the differences between EIA Notification 2020 and 2006. <br>• **Conclusion** Conclude your answer with concerns over weakened safeguards and public engagement. |
+| **Approach:** <br>• **Introduction** Write about Draft EIA notification 2020 in brief. <br> <br> • **Body:** State the differences between EIA Notification 2020 and 2006. <br> <br> • **Conclusion** Conclude your answer with concerns over weakened safeguards and public engagement. |
 | --- |
 
 ### Introduction
@@ -5227,7 +5227,7 @@ The draft EIA Notification, 2020 diverges from the existing EIA Notification, 20
 
 ### Answer
 
-| **Approach:** <br>• **Introduction** Brief about Jal Shakti Abhiyan. <br>• **Body:** Brief about the Salient features of the Jal Shakti Abhiyan. <br>• **Conclusion** Conclude your answer with a futuristic approach. |
+| **Approach:** <br>• **Introduction** Brief about Jal Shakti Abhiyan. <br> <br> • **Body:** Brief about the Salient features of the Jal Shakti Abhiyan. <br> <br> • **Conclusion** Conclude your answer with a futuristic approach. |
 | --- |
 
 ### Introduction
@@ -5261,7 +5261,7 @@ The salient features of the Jal Shakti Abhiyan include rainwater harvesting, rev
 
 ### Answer
 
-| **Approach:** <br>• **Introduction** Brief about The National Clean Air Programme. <br>• **Body:** State the key features of the National Clean Air Programme [NCAP] <br>• **Conclusion** Conclude your answer with a futuristic approach. |
+| **Approach:** <br>• **Introduction** Brief about The National Clean Air Programme. <br> <br> • **Body:** State the key features of the National Clean Air Programme [NCAP] <br> <br> • **Conclusion** Conclude your answer with a futuristic approach. |
 | --- |
 
 ### Introduction
@@ -5294,7 +5294,7 @@ The key features of the National Clean Air Programme (NCAP) include setting up a
 
 ### Answer
 
-| **Approach:** <br>• **Introduction** Brief about Indian coastal Mining. <br>• **Body:** Discuss about the Impact of Coastal Sand Mining along Indian Coasts. <br>• **Conclusion** Conclude your answer with a futuristic approach. |
+| **Approach:** <br>• **Introduction** Brief about Indian coastal Mining. <br> <br> • **Body:** Discuss about the Impact of Coastal Sand Mining along Indian Coasts. <br> <br> • **Conclusion** Conclude your answer with a futuristic approach. |
 | --- |
 
 ### Introduction
@@ -5330,7 +5330,7 @@ Sand mining along the Indian coasts has led to coastal erosion, saline-water int
 
 ### Answer
 
-| **Approach:** <br>• **Introduction** Brief about carrying capacity, balancing needs and ecosystem resilience. <br>• **Body:** Discuss the importance in Sustainable Development Planning. <br>• **Conclusion** Conclude your answer with a futuristic approach. |
+| **Approach:** <br>• **Introduction** Brief about carrying capacity, balancing needs and ecosystem resilience. <br> <br> • **Body:** Discuss the importance in Sustainable Development Planning. <br> <br> • **Conclusion** Conclude your answer with a futuristic approach. |
 | --- |
 
 ### Introduction
@@ -5361,7 +5361,7 @@ By comprehending the carrying capacity of an ecosystem, policymakers and planner
 
 ### Answer
 
-| **Approach:** <br>• **Introduction** Brief about India’s organic state set new environmental and economic standards. <br>• **Body:** Discuss about the Economic and environmental benefits of Organic State. <br>• **Conclusion** Conclude your answer with a futuristic Approach. |
+| **Approach:** <br>• **Introduction** Brief about India’s organic state set new environmental and economic standards. <br> <br> • **Body:** Discuss about the Economic and environmental benefits of Organic State. <br> <br> • **Conclusion** Conclude your answer with a futuristic Approach. |
 | --- |
 
 ### Introduction
@@ -5394,7 +5394,7 @@ The organic status of Sikkim has not only led to a healthier environment with re
 
 ### Answer
 
-| **Approach:** <br>• **Introduction** Brief about India’s mega diversity nation. <br>• **Body:** Discuss about the Biodiversity variation in India and the importance of conservation. <br>• **Conclusion** Conclude your answer with a futuristic Approach. |
+| **Approach:** <br>• **Introduction** Brief about India’s mega diversity nation. <br> <br> • **Body:** Discuss about the Biodiversity variation in India and the importance of conservation. <br> <br> • **Conclusion** Conclude your answer with a futuristic Approach. |
 | --- |
 
 ### Introduction
@@ -5426,7 +5426,7 @@ The Biological Diversity Act, 2002 plays a crucial role in the conservation of I
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br>• Brief about Climate change. **Body** <br>• Discuss India’s vulnerabilities and regional consequences by climate change impact. <br>• Write about the impact of Climate Change on Himalayan and coastal states of India. <br> **Conclusion** <br>• Conclude your answer sustainable Approach to climate change. |
+| **Approach:** <br> **Introduction** <br>• Brief about Climate change. <br> **Body** <br>• Discuss India’s vulnerabilities and regional consequences by climate change impact. <br>• Write about the impact of Climate Change on Himalayan and coastal states of India. <br> <br> **Conclusion** <br>• Conclude your answer sustainable Approach to climate change. |
 | --- |
 
 ### Introduction
@@ -5461,7 +5461,7 @@ Climate change is a pressing issue that requires immediate attention in India. T
 
 ### Answer
 
-| **Approach:** <br>• **Introduction** Brief about River linking. <br>• **Body:** Discuss about the advantages of river linking and its possible impact on the environment. <br>• **Conclusion** Conclude your answer sustainable Approach to river linking. |
+| **Approach:** <br>• **Introduction** Brief about River linking. <br> <br> • **Body:** Discuss about the advantages of river linking and its possible impact on the environment. <br> <br> • **Conclusion** Conclude your answer sustainable Approach to river linking. |
 | --- |
 
 ### Introduction
@@ -5498,7 +5498,7 @@ The concept of river linking was once a distant dream, but it has now become a r
 
 ### Answer
 
-| **Approach:** <br>• **Introduction** Brief about prioritizing rehabilitation. <br>• **Body**: Principles for responsible project development and community engagement. <br>• **Conclusion** Conclude your answer with a futuristic Approach. |
+| **Approach:** <br>• **Introduction** Brief about prioritizing rehabilitation. <br> <br> • **Body**: Principles for responsible project development and community engagement. <br> <br> • **Conclusion** Conclude your answer with a futuristic Approach. |
 | --- |
 
 ### Introduction
@@ -5526,7 +5526,7 @@ The rehabilitation of human settlements is a crucial factor in ensuring the succ
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br>• Brief about The Nanami Gange and National Mission for Clean Ganga. <br> **Body** <br>• Discuss Nanami Gange and National Mission for Clean Ganga (NMCG) programmes. <br>• Write about the role of Quantum leaps in preserving the river Ganga. <br> **Conclusion** <br>• Conclude your answer with a futuristic Approach. |
+| **Approach:** <br> **Introduction** <br>• Brief about The Nanami Gange and National Mission for Clean Ganga. <br> <br> **Body** <br>• Discuss Nanami Gange and National Mission for Clean Ganga (NMCG) programmes. <br>• Write about the role of Quantum leaps in preserving the river Ganga. <br> <br> **Conclusion** <br>• Conclude your answer with a futuristic Approach. |
 | --- |
 
 ### Introduction
@@ -5571,7 +5571,7 @@ To preserve the river Ganga, a quantum leap is required, which involves a multi-
 
 ### Answer
 
-| **Approach:** <br>• **Introduction** Brief about EIA. <br>• **Body:** Discuss crucial role of EIA studies in assessing coal plant impacts. <br>• **Conclusion** Conclude your answer significance of coal plant. |
+| **Approach:** <br>• **Introduction** Brief about EIA. <br> <br> • **Body:** Discuss crucial role of EIA studies in assessing coal plant impacts. <br> <br> • **Conclusion** Conclude your answer significance of coal plant. |
 | --- |
 
 ### Introduction
@@ -5599,7 +5599,7 @@ Coal-fired thermal plants located at coal pitheads have significant environmenta
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br>• Brief about assessing the effectiveness of carbon credit for climate mitigation. <br> **Body** <br>• Discuss Benefits of Carbon Credits and CDMs: <br>• Challenges of Carbon Credits and CDMs. <br>• India’s Energy Needs for Economic Growth. <br> **Conclusion** <br>• Conclude your answer with a futuristic Approach. |
+| **Approach:** <br> **Introduction** <br>• Brief about assessing the effectiveness of carbon credit for climate mitigation. <br> <br> **Body** <br>• Discuss Benefits of Carbon Credits and CDMs: <br>• Challenges of Carbon Credits and CDMs. <br>• India’s Energy Needs for Economic Growth. <br> <br> **Conclusion** <br>• Conclude your answer with a futuristic Approach. |
 | --- |
 
 ### Introduction
@@ -5634,7 +5634,7 @@ India’s energy needs for economic growth require a balanced approach that addr
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br>• Brief about India’s National water policy. <br> **Body** <br>• Discuss challenges of Pollution of rivers and hazardous wastes remain critical <br>• Effective strategies for Ganga River pollution and hazardous waste management. <br> **Conclusion** <br>• Conclude your answer to the india path to clean water by multiface approach. |
+| **Approach:** <br> **Introduction** <br>• Brief about India’s National water policy. <br> <br> **Body** <br>• Discuss challenges of Pollution of rivers and hazardous wastes remain critical <br>• Effective strategies for Ganga River pollution and hazardous waste management. <br> <br> **Conclusion** <br>• Conclude your answer to the india path to clean water by multiface approach. |
 | --- |
 
 ### Introduction
@@ -5675,7 +5675,7 @@ The pollution of the river Ganges and other water bodies, India must adopt a mul
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br>• Start your answer with impacts of illegal mining in India. <br> **Body** <br>• Discuss the Consequences of illegal mining with examples. <br>• Sustainable approach for coal mining by GO and No – GO Zones <br> **Conclusion** <br>• Conclude your answer summary of the answer. |
+| **Approach:** <br> **Introduction** <br>• Start your answer with impacts of illegal mining in India. <br> <br> **Body** <br>• Discuss the Consequences of illegal mining with examples. <br>• Sustainable approach for coal mining by GO and No – GO Zones <br> <br> **Conclusion** <br>• Conclude your answer summary of the answer. |
 | --- |
 
 ### Introduction
@@ -6036,7 +6036,7 @@ The evolution of electronic toll collection technologies, such as **RFID and DSR
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br>• Write about microorganisms briefly **Body** <br>• Write ways in which microorganisms can help in meeting the current fuel shortages <br> **Conclusion** <br>• Give appropriate conclusion in this regard |
+| **Approach:** <br> **Introduction** <br>• Write about microorganisms briefly <br> **Body** <br>• Write ways in which microorganisms can help in meeting the current fuel shortages <br> <br> **Conclusion** <br>• Give appropriate <br> conclusion in this regard |
 | --- |
 
 ### Introduction
@@ -6069,7 +6069,7 @@ Going ahead, **by embarking on these paths of innovation and sustainability, Ind
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br>• Write about the concept of Artificial Intelligence (AI) briefly <br> **Body** <br>• Write how Al can help in clinical diagnosis <br>• Write about the threat to privacy of the individual in the use of Al in healthcare <br> **Conclusion** <br>• Give appropriate conclusion in this regard |
+| **Approach:** <br> **Introduction** <br>• Write about the concept of Artificial Intelligence (AI) briefly <br> <br> **Body** <br>• Write how Al can help in clinical diagnosis <br>• Write about the threat to privacy of the individual in the use of Al in healthcare <br> <br> **Conclusion** <br>• Give appropriate <br> conclusion in this regard |
 | --- |
 
 ### Introduction
@@ -6110,7 +6110,7 @@ AI holds transformative potential for healthcare, but, as with any potent tool, 
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br>• Write about India’s third moon mission briefly <br> **Body** <br>• Write the main task of India’s third moon mission which could not be achieved in its earlier mission <br>• Write the countries that have achieved this task <br>• Write about the subsystems in the spacecraft launched <br>• Write the role of the Virtual Launch Control Centre’ at the Vikram Sarabhai Space Centre led to its successful <br> **Conclusion** <br>• Give appropriate conclusion in this regard |
+| **Approach:** <br> **Introduction** <br>• Write about India’s third moon mission briefly <br> <br> **Body** <br>• Write the main task of India’s third moon mission which could not be achieved in its earlier mission <br>• Write the countries that have achieved this task <br>• Write about the subsystems in the spacecraft launched <br>• Write the role of the Virtual Launch Control Centre’ at the Vikram Sarabhai Space Centre led to its successful <br> <br> **Conclusion** <br>• Give appropriate <br> conclusion in this regard |
 | --- |
 
 ### Introduction
@@ -6174,7 +6174,7 @@ The **success of India’s third moon mission** would be a significant milestone
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br>• Present a brief overview of JWST, highlighting its launch and unique role in exploring the universe. <br> **Body** <br>• Discuss four key features of JWST in distinct, concise subsections: larger mirror, infrared observation, strategic location, and advanced instruments. <br>• Talk about JWST’s mission. <br>• Mention its potential benefits. **Conclusion** <br>• Summarize JWST’s potential impact on space exploration and our understanding of the cosmos. |
+| **Approach:** <br> **Introduction** <br>• Present a brief overview of JWST, highlighting its launch and unique role in exploring the universe. <br> <br> **Body** <br>• Discuss four key features of JWST in distinct, concise subsections: larger mirror, infrared observation, strategic location, and advanced instruments. <br>• Talk about JWST’s mission. <br>• Mention its potential benefits. <br> **Conclusion** <br>• Summarize JWST’s potential impact on space exploration and our understanding of the cosmos. |
 | --- |
 
 ### Introduction
@@ -6220,7 +6220,7 @@ In essence, the James Webb Space Telescope is set to revolutionize our understan
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br>• Begin with a brief explanation of the significance of vaccines and their role in combating infectious diseases. <br> **Body** <br>• Break down the body into three parts: <br>• **Principle of Vaccine Development:** Explain the basic principle behind vaccine development, using an analogy or example for clarity. <br>• **Working of Vaccines:** Describe how vaccines function in training the immune system, again using an analogy or example for better understanding. <br>• **Indian COVID-19 Vaccines:** Discuss the different strategies used by Indian manufacturers in the development of COVID-19 vaccines, illustrating each approach with an appropriate example or analogy. <br> **Conclusion** <br>• Conclude by highlighting the importance and effectiveness of vaccines in controlling and preventing infectious diseases, with a special emphasis on the role of Indian vaccine manufacturers during the COVID-19 pandemic. |
+| **Approach:** <br> **Introduction** <br>• Begin with a brief explanation of the significance of vaccines and their role in combating infectious diseases. <br> <br> **Body** <br>• Break down the <br> body into three parts: <br>• **Principle of Vaccine Development:** Explain the basic principle behind vaccine development, using an analogy or example for clarity. <br>• **Working of Vaccines:** Describe how vaccines function in training the immune system, again using an analogy or example for better understanding. <br>• **Indian COVID-19 Vaccines:** Discuss the different strategies used by Indian manufacturers in the development of COVID-19 vaccines, illustrating each approach with an appropriate example or analogy. <br> <br> **Conclusion** <br>• Conclude by highlighting the importance and effectiveness of vaccines in controlling and preventing infectious diseases, with a special emphasis on the role of Indian vaccine manufacturers during the COVID-19 pandemic. |
 | --- |
 
 ### Introduction
@@ -6267,7 +6267,7 @@ Vaccines represent one of the most effective tools we have to control and preven
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br>• Briefly explain what the S-400 Triumf system is and mention the key aspects that make it technically superior to other air defence systems. <br> **Body** <br>• The body of the answer should be divided into four main sections, each discussing a specific aspect of the S-400’s technical superiority: <br>• Extended Range <br>• Versatility <br>• Advanced Radar System <br>• Ability to Engage Various Targets <br>• Also, substantiate with examples. **Conclusion** <br>• Conclude, mentioning the acquisition of the S-400 by multiple nations as an indication of its global recognition as a technically superior air defence system. |
+| **Approach:** <br> **Introduction** <br>• Briefly explain what the S-400 Triumf system is and mention the key aspects that make it technically superior to other air defence systems. <br> <br> **Body** <br>• The <br> body of the answer should be divided into four main sections, each discussing a specific aspect of the S-400’s technical superiority: <br>• Extended Range <br>• Versatility <br>• Advanced Radar System <br>• Ability to Engage Various Targets <br>• Also, substantiate with examples. <br> **Conclusion** <br>• Conclude, mentioning the acquisition of the S-400 by multiple nations as an indication of its global recognition as a technically superior air defence system. |
 | --- |
 
 ### Introduction
@@ -6299,7 +6299,7 @@ The S-400 Triumf’s unique capabilities make it one of the most formidable air 
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br>• Start by acknowledging the 2014 Nobel Prize in Physics that was awarded to the inventors of Blue LEDs. <br> **Body** <br>• Discuss the specific areas where Blue LEDs have made significant impacts: <br>• Energy Efficiency and Cost Savings <br>• Catalyst for Digital Revolution <br>• Medical Applications and Healthcare <br>• Innovations in Agriculture <br>• Environmental Sustainability ● **Conclusion** Conclude, emphasizing the transformative power of scientific advancements, as exemplified by the invention of Blue LEDs, on societal development. |
+| **Approach:** <br> **Introduction** <br>• Start by acknowledging the 2014 Nobel Prize in Physics that was awarded to the inventors of Blue LEDs. <br> <br> **Body** <br>• Discuss the specific areas where Blue LEDs have made significant impacts: <br>• Energy Efficiency and Cost Savings <br>• Catalyst for Digital Revolution <br>• Medical Applications and Healthcare <br>• Innovations in Agriculture <br>• Environmental Sustainability ● <br> **Conclusion** Conclude, emphasizing the transformative power of scientific advancements, as exemplified by the invention of Blue LEDs, on societal development. |
 | --- |
 
 ### Introduction
@@ -6335,7 +6335,7 @@ The advent of Blue LEDs, a breakthrough invention, has permeated numerous sector
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br>• Start with a concise definition of biotechnology and mention its significant strides in India. <br> **Body** <br>• The body of the answer should be divided into several sections, each discussing a specific sector where biotechnology has made significant advancements: <br>• Healthcare Advancements <br>• Agricultural Improvements <br>• Environmental Management <br>• Nutrition Enhancement <br>• Waste Management <br>• Livestock Productivity <br>• Aquaculture **Conclusion** <br>• Conclude, emphasizing the need for widespread implementation and access to these technologies to achieve the maximum societal benefit. |
+| **Approach:** <br> **Introduction** <br>• Start with a concise definition of biotechnology and mention its significant strides in India. <br> <br> **Body** <br>• The <br> body of the answer should be divided into several sections, each discussing a specific sector where biotechnology has made significant advancements: <br>• Healthcare Advancements <br>• Agricultural Improvements <br>• Environmental Management <br>• Nutrition Enhancement <br>• Waste Management <br>• Livestock Productivity <br>• Aquaculture <br> **Conclusion** <br>• Conclude, emphasizing the need for widespread implementation and access to these technologies to achieve the maximum societal benefit. |
 | --- |
 
 ### Introduction
@@ -6371,7 +6371,7 @@ Biotechnology has broad applications, from healthcare to agriculture, and holds 
 
 ### Answer
 
-| **Approach:** <br>• **Introduction** Begin by highlighting the unprecedented devastation caused by the COVID-19 pandemic worldwide. And then, Introduce the focus of the answer on how technology aided pandemic management, with a specific emphasis on India. <br>• **Body:** The body should be organized into several sections, each highlighting a different technological intervention in pandemic management. <br>• **Conclusion** Conclude, highlighting the resilience and adaptability of societies in leveraging technology to combat unprecedented challenges. |
+| **Approach:** <br>• **Introduction** Begin by highlighting the unprecedented devastation caused by the COVID-19 pandemic worldwide. And then, Introduce the focus of the answer on how technology aided pandemic management, with a specific emphasis on India. <br> <br> • **Body:** The <br> body should be organized into several sections, each highlighting a different technological intervention in pandemic management. <br> <br> • **Conclusion** Conclude, highlighting the resilience and adaptability of societies in leveraging technology to combat unprecedented challenges. |
 | --- |
 
 ### Introduction
@@ -6413,7 +6413,7 @@ Technology has played an essential role in managing the COVID-19 pandemic, from 
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br>• Begin by emphasizing the pervasiveness of science in everyday life and its transformative impact on various sectors, specifically agriculture in India. <br> **Body** <br>• The body should be divided into two main sections. <br>• Science in Everyday Life <br>• Transforming Agriculture Through Science-Based Technologies <br>• Green Revolution <br>• Biotechnology <br>• Precision Agriculture <br>• Irrigation Technologies <br>• Climate Resilient Crops **Conclusion** <br>• Conclude, emphasizing the paradigm shift from subsistence to sustainable and resilient farming due to science-based technologies and express optimism for future transformations driven by science. |
+| **Approach:** <br> **Introduction** <br>• Begin by emphasizing the pervasiveness of science in everyday life and its transformative impact on various sectors, specifically agriculture in India. <br> <br> **Body** <br>• The <br> body should be divided into two main sections. <br>• Science in Everyday Life <br>• Transforming Agriculture Through Science-Based Technologies <br>• Green Revolution <br>• Biotechnology <br>• Precision Agriculture <br>• Irrigation Technologies <br>• Climate Resilient Crops <br> **Conclusion** <br>• Conclude, emphasizing the paradigm shift from subsistence to sustainable and resilient farming due to science-based technologies and express optimism for future transformations driven by science. |
 | --- |
 
 ### Introduction
@@ -6453,7 +6453,7 @@ Science is deeply interwoven with our lives, empowering us with capabilities pre
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br>• Begin by defining nanotechnology and emphasizing its multidisciplinary nature. <br> **Body** <br>• Discuss specific ways in which nanotechnology is improving India’s health sector. <br>• Enhancing Disease Diagnosis <br>• Improving Drug Delivery <br>• Preventing Infections <br>• Advancing Vaccines and Therapeutics <br>• Innovating Biomaterials and Implants <br> **Conclusion** <br>• Conclude, discussing the potential of nanotechnology to further revolutionize healthcare by making it more effective, accessible, and affordable. |
+| **Approach:** <br> **Introduction** <br>• Begin by defining nanotechnology and emphasizing its multidisciplinary nature. <br> <br> **Body** <br>• Discuss specific ways in which nanotechnology is improving India’s health sector. <br>• Enhancing Disease Diagnosis <br>• Improving Drug Delivery <br>• Preventing Infections <br>• Advancing Vaccines and Therapeutics <br>• Innovating Biomaterials and Implants <br> <br> **Conclusion** <br>• Conclude, discussing the potential of nanotechnology to further revolutionize healthcare by making it more effective, accessible, and affordable. |
 | --- |
 
 ### Introduction
@@ -6488,7 +6488,7 @@ Nanotechnology is playing a transformative role in India’s healthcare sector, 
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br>• Start with a broad overview of the topic, highlighting India’s ambitious plan to establish its own space station and its significance in the context of global space exploration. <br> **Body** <br>• Mention in detail India’s plan, outlining the timeline, preparatory missions, and potential for international collaboration. <br>• Focus on the benefits to India’s space programme. <br>• Include specific examples that illustrate the potential impact of the space station project. <br> **Conclusion** <br>• The conclusion should restate the importance of the project, projecting its influence in shaping India as a significant player in global space exploration. |
+| **Approach:** <br> **Introduction** <br>• Start with a broad overview of the topic, highlighting India’s ambitious plan to establish its own space station and its significance in the context of global space exploration. <br> <br> **Body** <br>• Mention in detail India’s plan, outlining the timeline, preparatory missions, and potential for international collaboration. <br>• Focus on the benefits to India’s space programme. <br>• Include specific examples that illustrate the potential impact of the space station project. <br> <br> **Conclusion** <br>• The <br> conclusion should restate the importance of the project, projecting its influence in shaping India as a significant player in global space exploration. |
 | --- |
 
 ### Introduction
@@ -6536,7 +6536,7 @@ This venture, with its far-reaching implications in scientific discovery, techno
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br>• Begin with the acknowledgment of India’s vast traditional medicinal knowledge. <br> **Body** <br>• Describe the TKDL and its role in preventing misappropriation. <br>• Discuss the key amendments made to the Indian Patent Act, particularly the 2005 revision, and their impact on the patenting of traditional knowledge. <br>• Discuss India’s participation in international forums like the Intergovernmental Committee at WIPO, emphasizing its commitment to global cooperation in safeguarding traditional knowledge. <br>• Explain the Act’s mandate for National Biodiversity Authority’s approval for the exploitation of Indian biological resources. <br> **Conclusion** <br>• Conclude, summarizing the Indian Government’s determined efforts to protect the nation’s traditional medicinal knowledge through various initiatives. |
+| **Approach:** <br> **Introduction** <br>• Begin with the acknowledgment of India’s vast traditional medicinal knowledge. <br> <br> **Body** <br>• Describe the TKDL and its role in preventing misappropriation. <br>• Discuss the key amendments made to the Indian Patent Act, particularly the 2005 revision, and their impact on the patenting of traditional knowledge. <br>• Discuss India’s participation in international forums like the Intergovernmental Committee at WIPO, emphasizing its commitment to global cooperation in safeguarding traditional knowledge. <br>• Explain the Act’s mandate for National Biodiversity Authority’s approval for the exploitation of Indian biological resources. <br> <br> **Conclusion** <br>• Conclude, summarizing the Indian Government’s determined efforts to protect the nation’s traditional medicinal knowledge through various initiatives. |
 | --- |
 
 ### Introduction
@@ -6567,7 +6567,7 @@ The Indian Government, through these strategic initiatives, displays a strong co
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br>• Briefly outline the transformative potential of biotechnology in agriculture. <br> **Body** <br>• Discuss the ways in which biotechnology helps to improve the living standards of farmers. <br>• Substantiate with appropriate examples. <br> **Conclusion** <br>• Summarize the transformative potential of biotechnology in uplifting Indian farmers’ living standards. |
+| **Approach:** <br> **Introduction** <br>• Briefly outline the transformative potential of biotechnology in agriculture. <br> <br> **Body** <br>• Discuss the ways in which biotechnology helps to improve the living standards of farmers. <br>• Substantiate with appropriate examples. <br> <br> **Conclusion** <br>• Summarize the transformative potential of biotechnology in uplifting Indian farmers’ living standards. |
 | --- |
 
 ### Introduction
@@ -6610,7 +6610,7 @@ The deployment of biotechnology in agriculture, with its numerous advantages, ha
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br>• Begin by acknowledging the profound impact of Prof. Satyendra Nath Bose’s work on quantum mechanics. <br> **Body** <br>• Discuss the work of ‘Bose-Einstein Statistics’. <br>• Also, show how it revolutionized the field of Physics. <br>• Substantiate with appropriate examples. <br> **Conclusion** <br>• Conclude, emphasizing the enduring resonance of his work in quantum mechanics, inspiring ongoing research and technological advancements. |
+| **Approach:** <br> **Introduction** <br>• Begin by acknowledging the profound impact of Prof. Satyendra Nath Bose’s work on quantum mechanics. <br> <br> **Body** <br>• Discuss the work of ‘Bose-Einstein Statistics’. <br>• Also, show how it revolutionized the field of Physics. <br>• Substantiate with appropriate examples. <br> <br> **Conclusion** <br>• Conclude, emphasizing the enduring resonance of his work in quantum mechanics, inspiring ongoing research and technological advancements. |
 | --- |
 
 ### Introduction
@@ -6654,7 +6654,7 @@ In essence, Prof. Satyendra Nath Bose’s path-breaking contribution to Bose-Ein
 
 ### Answer
 
-| **Approach:** <br> **Introduction** Initiate with a concise overview of the booming biotechnology activities in India and their influence on the biopharma industry. <br> **Body** <br>• Discuss the factors responsible for upswing in biotechnology activities in India. <br>• Also, explain how this activity has benefitted the field of biopharma. <br>• Substantiate with examples. **Conclusion** <br>• Conclude by reaffirming the significant influence of the biotechnology boom on the biopharma sector and the positive implications for India’s scientific and economic growth. |
+| **Approach:** <br> **Introduction** Initiate with a concise overview of the booming biotechnology activities in India and their influence on the biopharma industry. <br> <br> **Body** <br>• Discuss the factors responsible for upswing in biotechnology activities in India. <br>• Also, explain how this activity has benefitted the field of biopharma. <br>• Substantiate with examples. <br> **Conclusion** <br>• Conclude by reaffirming the significant influence of the biotechnology boom on the biopharma sector and the positive implications for India’s scientific and economic growth. |
 | --- |
 
 ### Introduction
@@ -6695,7 +6695,7 @@ The dynamic growth in India’s biotechnology sector is reshaping the landscape 
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br>• Introduce the topic by mentioning India’s growing energy demands and the role nuclear energy could play. Also, acknowledge the mixed feelings towards expanding the nuclear energy program. <br> **Body** <br>• Discuss both the facts and fears associated with nuclear energy. <br>• Substantiate your points with appropriate examples. <br> **Conclusion** <br>• Conclude by reiterating the potential of nuclear energy in meeting India’s energy demands. |
+| **Approach:** <br> **Introduction** <br>• Introduce the topic by mentioning India’s growing energy demands and the role nuclear energy could play. Also, acknowledge the mixed feelings towards expanding the nuclear energy program. <br> <br> **Body** <br>• Discuss both the facts and fears associated with nuclear energy. <br>• Substantiate your points with appropriate examples. <br> <br> **Conclusion** <br>• Conclude by reiterating the potential of nuclear energy in meeting India’s energy demands. |
 | --- |
 
 ### Introduction
@@ -6744,7 +6744,7 @@ The road to harnessing nuclear energy to satiate India’s energy needs and meet
 
 ### Answer
 
-| **Approach:** <br> **Introduction** Begin by acknowledging India’s nuclear science and technology journey, starting with the establishment of the Atomic Energy Commission in 1948. <br> **Body** <br>• Trace the trajectory of nuclear science and technology development in India. <br>• Discuss the role and advantages of the Fast Breeder Reactor program in India. <br>• Substantiate with examples too. **Conclusion** <br>• Summarize the progress in India’s nuclear science and technology and the transformative potential of programs like the fast breeder reactor for India’s energy landscape. |
+| **Approach:** <br> **Introduction** Begin by acknowledging India’s nuclear science and technology journey, starting with the establishment of the Atomic Energy Commission in 1948. <br> <br> **Body** <br>• Trace the trajectory of nuclear science and technology development in India. <br>• Discuss the role and advantages of the Fast Breeder Reactor program in India. <br>• Substantiate with examples too. <br> **Conclusion** <br>• Summarize the progress in India’s nuclear science and technology and the transformative potential of programs like the fast breeder reactor for India’s energy landscape. |
 | --- |
 
 ### Introduction
@@ -6787,7 +6787,7 @@ The development of nuclear science and technology in India, marked by remarkable
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br>• Begin by acknowledging India’s success in unmanned space missions such as the Mars Orbiter Mission and Chandrayaan. <br> **Body** <br>• Discuss the main obstacles to launching a manned space mission, both in terms of technology and logistics. <br>• Substantiate with examples too. **Conclusion** <br>• Conclude by noting India’s ongoing efforts to overcome these challenges, with the planned Gaganyaan mission as an example of progress towards a manned space mission. |
+| **Approach:** <br> **Introduction** <br>• Begin by acknowledging India’s success in unmanned space missions such as the Mars Orbiter Mission and Chandrayaan. <br> <br> **Body** <br>• Discuss the main obstacles to launching a manned space mission, both in terms of technology and logistics. <br>• Substantiate with examples too. <br> **Conclusion** <br>• Conclude by noting India’s ongoing efforts to overcome these challenges, with the planned Gaganyaan mission as an example of progress towards a manned space mission. |
 | --- |
 
 ### Introduction
@@ -6830,7 +6830,7 @@ Despite these challenges, India has been making progress towards launching its f
 
 ### Answer
 
-| **Approach:** <br> **Introduction** Introduce stem cell therapy as a form of regenerative medicine, briefly explaining what it is and how it works. <br> **Body** <br>• Discuss the wide range of medical conditions that stem cell therapy can potentially treat. <br>• Explain how stem cell therapy promotes the <br> body’s natural healing processes. <br>• Highlight the role of stem cell therapy in reducing reliance on organ transplants. <br>• Detail the significant promise that stem cell therapy holds for treating genetic disorders. <br> **Conclusion** <br>• Conclude by acknowledging the great potential of stem cell therapy. |
+| **Approach:** <br> **Introduction** Introduce stem cell therapy as a form of regenerative medicine, briefly explaining what it is and how it works. <br> <br> **Body** <br>• Discuss the wide range of medical conditions that stem cell therapy can potentially treat. <br>• Explain how stem cell therapy promotes the <br> <br> body’s natural healing processes. <br>• Highlight the role of stem cell therapy in reducing reliance on organ transplants. <br>• Detail the significant promise that stem cell therapy holds for treating genetic disorders. <br> <br> **Conclusion** <br>• Conclude by acknowledging the great potential of stem cell therapy. |
 | --- |
 
 ### Introduction
@@ -6866,7 +6866,7 @@ It’s important to note, however, that while stem cell therapy holds great pote
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br>• The introduction would start by briefly outlining India’s journey in space science and technology, highlighting the establishment of ISRO and the launch of Aryabhata as crucial initial steps. <br> **Body** <br>• The body would be divided into four sub-headings. Each of these would focus on a specific area of India’s achievements in space science and technology and their implications: <br>• Landmark Missions and Their Impact <br>• Satellite Technologies and Communication <br>• Space Tech for Socio-economic Development <br>• Environmental Monitoring and Job Creation <br> **Conclusion** <br>• Conclude, discussing the future potential of space technology in shaping India’s growth trajectory. |
+| **Approach:** <br> **Introduction** <br>• The introduction would start by briefly outlining India’s journey in space science and technology, highlighting the establishment of ISRO and the launch of Aryabhata as crucial initial steps. <br> <br> **Body** <br>• The <br> body would be divided into four sub-headings. Each of these would focus on a specific area of India’s achievements in space science and technology and their implications: <br>• Landmark Missions and Their Impact <br>• Satellite Technologies and Communication <br>• Space Tech for Socio-economic Development <br>• Environmental Monitoring and Job Creation <br> <br> **Conclusion** <br>• Conclude, discussing the future potential of space technology in shaping India’s growth trajectory. |
 | --- |
 
 ### Introduction
@@ -6909,7 +6909,7 @@ The strides India has made in space science and technology have been transformat
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br>• The introduction would outline the concept of nanotechnology and its significance as a transformative technology in the 21st century, with potential impacts across various sectors. <br> **Body** <br>• The body would be divided into two main parts: <br>• Key Features of the Indian Government’s Mission on Nanoscience and Technology. <br>• Scope of its Application in India’s Development. <br> **Conclusion** <br>• The conclusion would re-emphasize the importance of nanotechnology in India’s development and the role of the government’s Nano Mission in facilitating this. |
+| **Approach:** <br> **Introduction** <br>• The introduction would outline the concept of nanotechnology and its significance as a transformative technology in the 21st century, with potential impacts across various sectors. <br> <br> **Body** <br>• The <br> body would be divided into two main parts: <br>• Key Features of the Indian Government’s Mission on Nanoscience and Technology. <br>• Scope of its Application in India’s Development. <br> <br> **Conclusion** <br>• The <br> conclusion would re-emphasize the importance of nanotechnology in India’s development and the role of the government’s Nano Mission in facilitating this. |
 | --- |
 
 ### Introduction
@@ -6958,7 +6958,7 @@ Nanotechnology, as a frontier technology, can play a crucial role in India’s d
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br>• The introduction would briefly describe the Traditional Knowledge Digital Library (TKDL) and its significance as a repository of over 2 million medicinal formulations from traditional Indian medicine systems. <br> **Body** <br>• The body of the answer would be divided into two main sections: <br>• Pros of Open-Source Licensing: This section would enumerate the potential benefits of making TKDL open source. <br>• Cons of Open-Source Licensing: This part would discuss the potential downsides of making TKDL open source. <br>• Substantiate with appropriate examples. <br> **Conclusion** <br>• Conclude by emphasizing the importance of disseminating knowledge without compromising ethical and economic considerations. |
+| **Approach:** <br> **Introduction** <br>• The introduction would briefly describe the Traditional Knowledge Digital Library (TKDL) and its significance as a repository of over 2 million medicinal formulations from traditional Indian medicine systems. <br> <br> **Body** <br>• The <br> body of the answer would be divided into two main sections: <br>• Pros of Open-Source Licensing: This section would enumerate the potential benefits of making TKDL open source. <br>• Cons of Open-Source Licensing: This part would discuss the potential downsides of making TKDL open source. <br>• Substantiate with appropriate examples. <br> <br> **Conclusion** <br>• Conclude by emphasizing the importance of disseminating knowledge without compromising ethical and economic considerations. |
 | --- |
 
 ### Introduction
@@ -6997,7 +6997,7 @@ While open-sourcing the TKDL offers several benefits like promoting traditional 
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br>• The introduction would establish the context by briefly explaining the potential of robots to manage prohibitive labor sustainably. <br> **Body** <br>• The body of the answer would be divided into two main sections: <br>• Areas Managed by Robots <br>• Propelling Research Initiatives **Conclusion** <br>• Conclude, underscoring the interconnectedness of these aspects in shaping a sustainable and innovative future in the field of robotics. |
+| **Approach:** <br> **Introduction** <br>• The introduction would establish the context by briefly explaining the potential of robots to manage prohibitive labor sustainably. <br> <br> **Body** <br>• The <br> body of the answer would be divided into two main sections: <br>• Areas Managed by Robots <br>• Propelling Research Initiatives <br> **Conclusion** <br>• Conclude, underscoring the interconnectedness of these aspects in shaping a sustainable and innovative future in the field of robotics. |
 | --- |
 
 ### Introduction
@@ -7037,7 +7037,7 @@ Robots can sustainably manage prohibitive labor across numerous sectors, enhanci
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br>• Provide a brief explanation of Standard Positioning Systems (SPS) and Precision Positioning Systems (PPS) in the context of the GPS era. <br> **Body** <br>• Discuss the advantages India perceives from its ambitious IRNSS program. <br>• Substantiate with examples too. **Conclusion** <br>• Conclude, emphasizing its significance not only in space technology but also in enhancing India’s national security, socio-economic development, and navigational autonomy. |
+| **Approach:** <br> **Introduction** <br>• Provide a brief explanation of Standard Positioning Systems (SPS) and Precision Positioning Systems (PPS) in the context of the GPS era. <br> <br> **Body** <br>• Discuss the advantages India perceives from its ambitious IRNSS program. <br>• Substantiate with examples too. <br> **Conclusion** <br>• Conclude, emphasizing its significance not only in space technology but also in enhancing India’s national security, socio-economic development, and navigational autonomy. |
 | --- |
 
 ### Introduction
@@ -7074,7 +7074,7 @@ The IRNSS or NAVIC is a strategic step for India not only in the field of space 
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br>• Start by acknowledging the contribution of overuse and free availability of antibiotics without a doctor’s prescription. <br> **Body** <br>• Identify and discuss various factors that contribute to drug resistance. <br>• Mention the regulatory mechanisms and policies in place to control antibiotic use in India. <br>• Critically examine the problems hindering effective control of antibiotic misuse. <br> **Conclusion** <br>• Conclude, emphasizing the need for addressing the identified issues to improve the effectiveness of control mechanisms and ultimately combat the menace of antibiotic resistance. |
+| **Approach:** <br> **Introduction** <br>• Start by acknowledging the contribution of overuse and free availability of antibiotics without a doctor’s prescription. <br> <br> **Body** <br>• Identify and discuss various factors that contribute to drug resistance. <br>• Mention the regulatory mechanisms and policies in place to control antibiotic use in India. <br>• Critically examine the problems hindering effective control of antibiotic misuse. <br> <br> **Conclusion** <br>• Conclude, emphasizing the need for addressing the identified issues to improve the effectiveness of control mechanisms and ultimately combat the menace of antibiotic resistance. |
 | --- |
 
 ### Introduction
@@ -7119,7 +7119,7 @@ Overuse and free availability of antibiotics without a prescription are major co
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br>• The introduction would provide a concise overview of the significance of Intellectual Property Rights (IPRs) in the context of globalization, innovation, and economic growth. <br> **Body** <br>• The body of the answer would be divided into three main sections: <br>• **Copyrights:** This section would provide a brief explanation of copyrights, emphasizing their role in protecting artistic and literary works. <br>• **Patents:** Focus on patents and their role in safeguarding inventions and innovative processes. <br>• **Trade Secrets:** Outline the concept of trade secrets, emphasizing their value as confidential and valuable information. ● <br> **Conclusion** The <br> conclusion would recap the importance of Intellectual Property Rights (IPRs) in fostering innovation, creativity, and economic growth in the era of globalization. |
+| **Approach:** <br> **Introduction** <br>• The introduction would provide a concise overview of the significance of Intellectual Property Rights (IPRs) in the context of globalization, innovation, and economic growth. <br> <br> **Body** <br>• The <br> body of the answer would be divided into three main sections: <br>• **Copyrights:** This section would provide a brief explanation of copyrights, emphasizing their role in protecting artistic and literary works. <br>• **Patents:** Focus on patents and their role in safeguarding inventions and innovative processes. <br>• **Trade Secrets:** Outline the concept of trade secrets, emphasizing their value as confidential and valuable information. ● <br> <br> **Conclusion** The <br> <br> conclusion would recap the importance of Intellectual Property Rights (IPRs) in fostering innovation, creativity, and economic growth in the era of globalization. |
 | --- |
 
 ### Introduction
@@ -7158,7 +7158,7 @@ Intellectual Property Rights are of paramount importance in the globalized era, 
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br> • The introduction would present the assertion of declining scientific research in Indian universities and attribute it to the attraction towards business, engineering, and administration professions. <br> **Body** <br> **The body of the answer would be divided into two main sections: <br> • Issues <br> • Consumer-Oriented Universities <br> • Way Forward **Conclusion** <br> • The conclusion would encapsulate the discussion and underline the need for a multifaceted approach to revitalize scientific research in Indian universities. |
+| **Approach:** <br> **Introduction** <br> • The introduction would present the assertion of declining scientific research in Indian universities and attribute it to the attraction towards business, engineering, and administration professions. <br> <br> **Body** <br> **The <br> body of the answer would be divided into two main sections: <br> • Issues <br> • Consumer-Oriented Universities <br> • Way Forward <br> **Conclusion** <br> • The <br> conclusion would encapsulate the discussion and underline the need for a multifaceted approach to revitalize scientific research in Indian universities. |
 | --- |
 
 ### Introduction
@@ -7198,7 +7198,7 @@ While the attractiveness of alternative career paths plays a part in the decline
 
 ### Answer
 
-| **Approach:** <br> **Introduction** Begin with a brief description of the 2005 amendment to Section 3(d) of the Indian Patent Law, 1970. <br> **Body** <br>• Mention the two key factors leading to the amendment. <br>• Discuss the Supreme Court’s application of Section 3(d) in denying a patent to Novartis for its drug Glivec. <br>• Outline the main advantages and disadvantages of the decision. <br>• Provide real-life examples too. ● **Conclusion** Conclude with a summary statement emphasizing the importance of the amendment to Section 3(d) in balancing innovation and public health, and its significance as a standard for developing nations. |
+| **Approach:** <br> **Introduction** Begin with a brief description of the 2005 amendment to Section 3(d) of the Indian Patent Law, 1970. <br> <br> **Body** <br>• Mention the two key factors leading to the amendment. <br>• Discuss the Supreme Court’s application of Section 3(d) in denying a patent to Novartis for its drug Glivec. <br>• Outline the main advantages and disadvantages of the decision. <br>• Provide real-life examples too. ● <br> **Conclusion** Conclude with a summary statement emphasizing the importance of the amendment to Section 3(d) in balancing innovation and public health, and its significance as a standard for developing nations. |
 | --- |
 
 ### Introduction
@@ -7247,7 +7247,7 @@ The amendment to Section 3(d) represents a significant compromise between foster
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br>• Begin with a brief definition of 3D printing and a general description of how the technology works. <br> **Body** <br>• Explain in more detail the three main steps involved in 3D printing: designing, slicing, and printing. <br>• Discuss the main advantages of 3D printing. <br>• Transition into the key limitations or disadvantages of 3D printing. <br>• Provide real-world examples that illustrate the use of 3D printing in India. <br> **Conclusion** <br>• Conclude by summarizing the potential impact and future implications of 3D printing technology, taking into account both its advantages and disadvantages. |
+| **Approach:** <br> **Introduction** <br>• Begin with a brief definition of 3D printing and a general description of how the technology works. <br> <br> **Body** <br>• Explain in more detail the three main steps involved in 3D printing: designing, slicing, and printing. <br>• Discuss the main advantages of 3D printing. <br>• Transition into the key limitations or disadvantages of 3D printing. <br>• Provide real-world examples that illustrate the use of 3D printing in India. <br> <br> **Conclusion** <br>• Conclude by summarizing the potential impact and future implications of 3D printing technology, taking into account both its advantages and disadvantages. |
 | --- |
 
 ### Introduction
@@ -7292,7 +7292,7 @@ While 3D printing is an innovative technology that offers numerous benefits, it 
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br>• Begin by defining Fixed Dose Drug Combinations (FDCs) and their intended purpose in the field of pharmaceuticals. <br> **Body** <br>• Discuss the primary advantages of FDCs. <br>• Shift the discussion to the disadvantages associated with FDCs. <br>• Provide examples to reinforce each point. <br> **Conclusion** <br>• Conclude with an overview of the implications of FDCs on patient care and public health. |
+| **Approach:** <br> **Introduction** <br>• Begin by defining Fixed Dose Drug Combinations (FDCs) and their intended purpose in the field of pharmaceuticals. <br> <br> **Body** <br>• Discuss the primary advantages of FDCs. <br>• Shift the discussion to the disadvantages associated with FDCs. <br>• Provide examples to reinforce each point. <br> <br> **Conclusion** <br>• Conclude with an overview of the implications of FDCs on patient care and public health. |
 | --- |
 
 ### Introduction
@@ -7334,7 +7334,7 @@ While FDCs offer significant benefits, their use must be carefully managed to mi
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br>• Start with defining the Umpire Decision Review System (DRS) in cricket, explaining its purpose and how it is used in the sport. <br> **Body** <br>• Discuss the key technologies used in DRS. <br>• Shift focus to the issue of silicon tape on the bat’s edge and how it can potentially interfere with the DRS. <br>• Give real-life examples that illustrate the use of DRS in cricket matches, as well as any instances or allegations of the silicon tape controversy. <br> **Conclusion** <br>• End with a summarizing statement on the significance of DRS in ensuring accuracy and fairness in cricket, while acknowledging potential limitations and misuse. |
+| **Approach:** <br> **Introduction** <br>• Start with defining the Umpire Decision Review System (DRS) in cricket, explaining its purpose and how it is used in the sport. <br> <br> **Body** <br>• Discuss the key technologies used in DRS. <br>• Shift focus to the issue of silicon tape on the bat’s edge and how it can potentially interfere with the DRS. <br>• Give real-life examples that illustrate the use of DRS in cricket matches, as well as any instances or allegations of the silicon tape controversy. <br> <br> **Conclusion** <br>• End with a summarizing statement on the significance of DRS in ensuring accuracy and fairness in cricket, while acknowledging potential limitations and misuse. |
 | --- |
 
 ### Introduction
@@ -7367,7 +7367,7 @@ While DRS has been a game-changer in cricket, ensuring higher accuracy of umpiri
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br>• Initiate with a brief explanation of what FRP composites are, including the components involved in their formation. <br> **Body** <br>• Describe the step-by-step manufacturing process of FRP composites. <br>• Discuss the applications of FRP composites in the aviation and automobile industry. <br>• Provide real-world examples that demonstrate the use of FRP composites within the Indian aviation and automobile sectors. <br> **Conclusion** <br>• Summarize by highlighting the increasing significance of FRP composites in industries where strength, durability, and lightweight characteristics are paramount. |
+| **Approach:** <br> **Introduction** <br>• Initiate with a brief explanation of what FRP composites are, including the components involved in their formation. <br> <br> **Body** <br>• Describe the step-by-step manufacturing process of FRP composites. <br>• Discuss the applications of FRP composites in the aviation and automobile industry. <br>• Provide real-world examples that demonstrate the use of FRP composites within the Indian aviation and automobile sectors. <br> <br> **Conclusion** <br>• Summarize by highlighting the increasing significance of FRP composites in industries where strength, durability, and lightweight characteristics are paramount. |
 | --- |
 
 ### Introduction
@@ -7413,7 +7413,7 @@ FRP composites, with their unique characteristics, have found extensive applicat
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br>• Begin by defining what a digital signature is and its purpose in digital communication and documentation. <br> **Body** <br>• Explain the process and importance of authenticating a digital signature. <br>• Discuss the three key features of digital signatures. <br>• Substantiate the points by giving specific examples. <br> **Conclusion** <br>• Summarize the discussion by highlighting the crucial role of digital signatures in today’s digital age. |
+| **Approach:** <br> **Introduction** <br>• Begin by defining what a digital signature is and its purpose in digital communication and documentation. <br> <br> **Body** <br>• Explain the process and importance of authenticating a digital signature. <br>• Discuss the three key features of digital signatures. <br>• Substantiate the points by giving specific examples. <br> <br> **Conclusion** <br>• Summarize the discussion by highlighting the crucial role of digital signatures in today’s digital age. |
 | --- |
 
 ### Introduction
@@ -7836,7 +7836,7 @@ Social media **and** encrypted messaging services **have fundamentally transform
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br>• Write about terror funding in India briefly. <br> **Body** <br>• Write the major sources of terror funding in India. <br>• Write the efforts being made to curtail these sources <br>• Write the aim and objective of the ‘No Money for Terror (NMFT)’ Conference recently held at New Delhi. <br> **Conclusion** <br>• Give appropriate conclusion in this regard |
+| **Approach:** <br> **Introduction** <br>• Write about terror funding in India briefly. <br> <br> **Body** <br>• Write the major sources of terror funding in India. <br>• Write the efforts being made to curtail these sources <br>• Write the aim and objective of the ‘No Money for Terror (NMFT)’ Conference recently held at New Delhi. <br> <br> **Conclusion** <br>• Give appropriate <br> conclusion in this regard |
 | --- |
 
 ### Introduction
@@ -7902,7 +7902,7 @@ The **‘No Money for Terror (NMFT)’ Conference** is a global initiative to co
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br>• Write about the use of UAVs for nefarious purposes briefly <br> **Body** <br>• Write how the use of UAVs by our adversaries across the borders poses serious threat to the internal security <br>• Write the measures being taken to tackle this threat <br> **Conclusion** <br>• Give appropriate conclusion in this regard |
+| **Approach:** <br> **Introduction** <br>• Write about the use of UAVs for nefarious purposes briefly <br> <br> **Body** <br>• Write how the use of UAVs by our adversaries across the borders poses serious threat to the internal security <br>• Write the measures being taken to tackle this threat <br> <br> **Conclusion** <br>• Give appropriate <br> conclusion in this regard |
 | --- |
 
 ### Introduction
@@ -7944,7 +7944,7 @@ As the illicit use of UAVs by adversaries poses a multifaceted threat to India�
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br>• Write about importance of internal security briefly <br> **Body** <br>• Write the internal security challenges being faced by India <br>• Write the role of Central Intelligence and Investigative Agencies tasked to counter such threats <br> **Conclusion** <br>• Give appropriate conclusion in this regard |
+| **Approach:** <br> **Introduction** <br>• Write about importance of internal security briefly <br> <br> **Body** <br>• Write the internal security challenges being faced by India <br>• Write the role of Central Intelligence and Investigative Agencies tasked to counter such threats <br> <br> **Conclusion** <br>• Give appropriate <br> conclusion in this regard |
 | --- |
 
 ### Introduction
@@ -7996,7 +7996,7 @@ Internal security is a multifaceted challenge that needs a cohesive and coordina
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br>• Write about Winning of ‘Hearts and Minds’ in terrorism-affected areas briefly <br> **Body** <br>• Write why Winning of ‘Hearts and Minds’ in terrorism-affected areas is an essential step in restoring the trust of the population <br>• Write the measures adopted by the Government in this respect as part of the conflict resolution in Jammu and Kashmir <br> **Conclusion** <br>• Give appropriate conclusion in this regard |
+| **Approach:** <br> **Introduction** <br>• Write about Winning of ‘Hearts and Minds’ in terrorism-affected areas briefly <br> <br> **Body** <br>• Write why Winning of ‘Hearts and Minds’ in terrorism-affected areas is an essential step in restoring the trust of the population <br>• Write the measures adopted by the Government in this respect as part of the conflict resolution in Jammu and Kashmir <br> <br> **Conclusion** <br>• Give appropriate <br> conclusion in this regard |
 | --- |
 
 ### Introduction
@@ -8042,7 +8042,7 @@ The **‘hearts and minds’ strategy remains central to envisioning a peaceful 
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br>• Define organised crime briefly and its relevance in the current context. <br> **Body** <br>• Mention the types of organised crimes. <br>• Describe the linkages between terrorists and organised crime at national and transnational levels. <br>• Substantiate with appropriate examples. <br> **Conclusion** <br>• Conclude, highlighting the need for a multi-faceted strategy that includes international cooperation, intelligence sharing, and targeted law enforcement actions. |
+| **Approach:** <br> **Introduction** <br>• Define organised crime briefly and its relevance in the current context. <br> <br> **Body** <br>• Mention the types of organised crimes. <br>• Describe the linkages between terrorists and organised crime at national and transnational levels. <br>• Substantiate with appropriate examples. <br> <br> **Conclusion** <br>• Conclude, highlighting the need for a multi-faceted strategy that includes international cooperation, intelligence sharing, and targeted law enforcement actions. |
 | --- |
 
 ### Introduction
@@ -8096,7 +8096,7 @@ The nexus between terrorism and organized crime presents serious security threat
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br> • Briefly introduce by describing the origin of Naxalism and its evolution into a significant security challenge for India. <br> **Body** <br> • Identify and explain the emerging issues related to Naxalism. <br> • Discuss a comprehensive strategy that includes security measures, socio-economic development, and political engagement. <br> • Substantiate with appropriate examples. <br> **Conclusion** <br> • Conclude by reinforcing that tackling Naxalism requires a well-rounded approach that addresses both the symptoms and the root causes. |
+| **Approach:** <br> **Introduction** <br> • Briefly introduce by describing the origin of Naxalism and its evolution into a significant security challenge for India. <br> <br> **Body** <br> • Identify and explain the emerging issues related to Naxalism. <br> • Discuss a comprehensive strategy that includes security measures, socio-economic development, and political engagement. <br> • Substantiate with appropriate examples. <br> <br> **Conclusion** <br> • Conclude by reinforcing that tackling Naxalism requires a well-rounded approach that addresses both the symptoms and the root causes. |
 | --- |
 
 ### Introduction
@@ -8149,7 +8149,7 @@ The nexus between terrorism and organized crime presents serious security threat
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br>• Introduce, highlighting the critical role of cybersecurity in the modern digital era. <br> **Body** <br>• Briefly enumerate and explain the different components of cybersecurity. <br>• Discuss the major challenges facing cybersecurity in India. <br>• Examine the effectiveness of India’s National Cyber Security Strategy. <br> **Conclusion** <br>• Conclude, emphasizing the need for technological advancements and collaborations to counter the ever-evolving nature of cyber threats and safeguard India’s digital ecosystem. |
+| **Approach:** <br> **Introduction** <br>• Introduce, highlighting the critical role of cybersecurity in the modern digital era. <br> <br> **Body** <br>• Briefly enumerate and explain the different components of cybersecurity. <br>• Discuss the major challenges facing cybersecurity in India. <br>• Examine the effectiveness of India’s National Cyber Security Strategy. <br> <br> **Conclusion** <br>• Conclude, emphasizing the need for technological advancements and collaborations to counter the ever-evolving nature of cyber threats and safeguard India’s digital ecosystem. |
 | --- |
 
 ### Introduction
@@ -8199,7 +8199,7 @@ As cyber threats continue to evolve, India has taken substantial steps towards b
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br>• Provide a brief overview of India’s maritime security concerns. <br> **Body** <br>• Identify and briefly describe the key maritime security challenges India faces. <br>• Discuss the organizational, technical, and procedural initiatives taken by India to enhance maritime security. <br> **Conclusion** <br>• Conclude by emphasizing the necessity for a multi-dimensional approach in addressing maritime security challenges. |
+| **Approach:** <br> **Introduction** <br>• Provide a brief overview of India’s maritime security concerns. <br> <br> **Body** <br>• Identify and briefly describe the key maritime security challenges India faces. <br>• Discuss the organizational, technical, and procedural initiatives taken by India to enhance maritime security. <br> <br> **Conclusion** <br>• Conclude by emphasizing the necessity for a multi-dimensional approach in addressing maritime security challenges. |
 | --- |
 
 ### Introduction
@@ -8249,7 +8249,7 @@ India’s maritime security landscape is complex, requiring multi-dimensional ap
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br>• Introduce by acknowledging the severity of the terrorism issue for India, considering its geographical and socio-political circumstances. <br> **Body** <br>• Discuss various factors contributing to the complexity of terrorism. <br>• Identify and mention the potential strategies to eradicate terrorism. <br> **Conclusion** <br>• Conclude by underlining the necessity for a diverse set of strategies to tackle terrorism effectively. |
+| **Approach:** <br> **Introduction** <br>• Introduce by acknowledging the severity of the terrorism issue for India, considering its geographical and socio-political circumstances. <br> <br> **Body** <br>• Discuss various factors contributing to the complexity of terrorism. <br>• Identify and mention the potential strategies to eradicate terrorism. <br> <br> **Conclusion** <br>• Conclude by underlining the necessity for a diverse set of strategies to tackle terrorism effectively. |
 | --- |
 
 ### Introduction
@@ -8292,7 +8292,7 @@ Tackling the menace of terrorism requires a multi-pronged strategy that targets 
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br>• Introduce by describing the complexity of India’s internal security landscape, acknowledging the challenges from both state and non-state external actors. <br> **Body** <br>• Discuss various types of threats that stem from these actors. <br>• Discuss potential measures to counter these threats. <br> **Conclusion** <br>• Conclude by emphasizing the need for comprehensive, multi-dimensional solutions to deal with the multifaceted threats to India’s internal security. |
+| **Approach:** <br> **Introduction** <br>• Introduce by describing the complexity of India’s internal security landscape, acknowledging the challenges from both state and non-state external actors. <br> <br> **Body** <br>• Discuss various types of threats that stem from these actors. <br>• Discuss potential measures to counter these threats. <br> <br> **Conclusion** <br>• Conclude by emphasizing the need for comprehensive, multi-dimensional solutions to deal with the multifaceted threats to India’s internal security. |
 | --- |
 
 ### Introduction
@@ -8347,7 +8347,7 @@ The threats posed by external state and non-state actors to India’s internal s
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br>• Recognize the connection between emerging technologies, globalization, and the rise in money laundering. <br> **Body** <br>• Discuss the role of various emerging technologies and aspects of globalization in facilitating money laundering. <br>• Identify and mention measures to counter money laundering. <br>• Do substantiate with examples. **Conclusion** <br>• Conclude, reiterating the challenges posed by emerging technologies and globalization in money laundering and stress the importance of robust regulations, cooperation, and advanced technology usage in combating this financial crime. |
+| **Approach:** <br> **Introduction** <br>• Recognize the connection between emerging technologies, globalization, and the rise in money laundering. <br> <br> **Body** <br>• Discuss the role of various emerging technologies and aspects of globalization in facilitating money laundering. <br>• Identify and mention measures to counter money laundering. <br>• Do substantiate with examples. <br> **Conclusion** <br>• Conclude, reiterating the challenges posed by emerging technologies and globalization in money laundering and stress the importance of robust regulations, cooperation, and advanced technology usage in combating this financial crime. |
 | --- |
 
 ### Introduction
@@ -8385,7 +8385,7 @@ While emerging technologies and globalization present challenges in the fight ag
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br>• Introduce writing an overview of the growing concern of cross-border cyber attacks globally. <br> **Body** <br>• Discuss the various impacts these attacks can have on India’s internal security. <br>• Discuss the measures India can take to defend against these attacks. <br> **Conclusion** <br>• Conclude, emphasizing the need for India to reinforce its cybersecurity measures to tackle the threats posed by cross-border cyber attacks. |
+| **Approach:** <br> **Introduction** <br>• Introduce writing an overview of the growing concern of cross-border cyber attacks globally. <br> <br> **Body** <br>• Discuss the various impacts these attacks can have on India’s internal security. <br>• Discuss the measures India can take to defend against these attacks. <br> <br> **Conclusion** <br>• Conclude, emphasizing the need for India to reinforce its cybersecurity measures to tackle the threats posed by cross-border cyber attacks. |
 | --- |
 
 ### Introduction
@@ -8430,7 +8430,7 @@ Cross-border cyber attacks pose significant threats to India’s internal securi
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br>• Introduce, acknowledging the complex security landscape along India’s borders with Myanmar, Bangladesh, and Pakistan including the Line of Control (LoC). <br> **Body** <br>• Discuss the specific threats and crimes along these borders. <br>• Highlight the role of various security forces. <br> **Conclusion** <br>• Conclude, re-emphasizing the challenges presented by the diverse border scenarios and the crucial role of security forces, diplomacy, and development initiatives in ensuring national security and stability. |
+| **Approach:** <br> **Introduction** <br>• Introduce, acknowledging the complex security landscape along India’s borders with Myanmar, Bangladesh, and Pakistan including the Line of Control (LoC). <br> <br> **Body** <br>• Discuss the specific threats and crimes along these borders. <br>• Highlight the role of various security forces. <br> <br> **Conclusion** <br>• Conclude, re-emphasizing the challenges presented by the diverse border scenarios and the crucial role of security forces, diplomacy, and development initiatives in ensuring national security and stability. |
 | --- |
 
 ### Introduction
@@ -8477,7 +8477,7 @@ The multiplicity of threats across India’s vast and diverse borders necessitat
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br>• Define cyber crime and its significance in the context of the modern, digitized world. <br> **Body** <br>• Discuss the types of cyber crimes, with examples. <br>• Identify and mention the measures required to combat cyber crimes. <br>• Do provide examples. **Conclusion** <br>• Conclude, reiterating the importance of the proposed measures in safeguarding against these crimes. |
+| **Approach:** <br> **Introduction** <br>• Define cyber crime and its significance in the context of the modern, digitized world. <br> <br> **Body** <br>• Discuss the types of cyber crimes, with examples. <br>• Identify and mention the measures required to combat cyber crimes. <br>• Do provide examples. <br> **Conclusion** <br>• Conclude, reiterating the importance of the proposed measures in safeguarding against these crimes. |
 | --- |
 
 ### Introduction
@@ -8519,7 +8519,7 @@ Cyber crime represents a significant threat in our interconnected world, capable
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br>• Brief about transitioning India’s disaster Management. <br> **Body** <br>• Discuss about the Recent Initiatives in Disaster Management. <br> **Conclusion** <br>• Conclude your answer with a comprehensive Approach. |
+| **Approach:** <br> **Introduction** <br>• Brief about transitioning India’s disaster Management. <br> <br> **Body** <br>• Discuss about the Recent Initiatives in Disaster Management. <br> <br> **Conclusion** <br>• Conclude your answer with a comprehensive Approach. |
 | --- |
 
 ### Introduction
@@ -8558,7 +8558,7 @@ The Government of India has initiated several measures to improve disaster manag
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br>• Introduce, acknowledging the complexity of border area management in India and the necessity of denying local support to militants and managing favourable perceptions among locals. <br> **Body** <br>• Discuss strategies to deny local support to militants. <br>• Suggest ways to manage favourable perceptions among locals. <br> **Conclusion** <br>• Conclude, reinforcing the importance of a comprehensive approach in effective border area management, involving local community welfare and their active participation in maintaining peace and security. |
+| **Approach:** <br> **Introduction** <br>• Introduce, acknowledging the complexity of border area management in India and the necessity of denying local support to militants and managing favourable perceptions among locals. <br> <br> **Body** <br>• Discuss strategies to deny local support to militants. <br>• Suggest ways to manage favourable perceptions among locals. <br> <br> **Conclusion** <br>• Conclude, reinforcing the importance of a comprehensive approach in effective border area management, involving local community welfare and their active participation in maintaining peace and security. |
 | --- |
 
 ### Introduction
@@ -8599,7 +8599,7 @@ An amalgamation of proactive intelligence, developmental initiatives, cultural s
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br>• Introduce by highlighting the complexity of left-wing extremism in Eastern India, emphasizing its roots in socio-economic issues, political realities, and systemic inequalities. <br> **Body** <br>• Identify and explain the determinants of left-wing extremism. <br>• Mention strategic solutions to counter the threat. <br> **Conclusion** <br>• Conclude, reiterating the need for a comprehensive, balanced approach to address left-wing extremism. |
+| **Approach:** <br> **Introduction** <br>• Introduce by highlighting the complexity of left-wing extremism in Eastern India, emphasizing its roots in socio-economic issues, political realities, and systemic inequalities. <br> <br> **Body** <br>• Identify and explain the determinants of left-wing extremism. <br>• Mention strategic solutions to counter the threat. <br> <br> **Conclusion** <br>• Conclude, reiterating the need for a comprehensive, balanced approach to address left-wing extremism. |
 | --- |
 
 ### Introduction
@@ -8643,7 +8643,7 @@ An amalgamation of proactive intelligence, developmental initiatives, cultural s
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br>• Begin by acknowledging the increasing importance of cybersecurity in the digital age and introduce the Cyber Dome Project as Kerala Police’s innovative initiative to ensure a safer cyberspace. <br> **Body** <br>• Explain the concept of the Cyber Dome Project as a public-private partnership aimed at tackling cyber threats. <br>• Discuss the application of advanced technologies by the Cyber Dome Project. <br>• Highlight the role of the Cyber Dome Project in conducting public awareness programs. <br>• Discuss the importance of Cyber Dome in cyber forensics and its collaboration with social media platforms. <br> **Conclusion** <br>• Conclude by appreciating the role of the Cyber Dome Project in creating a secure digital environment in India and emphasizing its potential as a model for other states to follow. |
+| **Approach:** <br> **Introduction** <br>• Begin by acknowledging the increasing importance of cybersecurity in the digital age and introduce the Cyber Dome Project as Kerala Police’s innovative initiative to ensure a safer cyberspace. <br> <br> **Body** <br>• Explain the concept of the Cyber Dome Project as a public-private partnership aimed at tackling cyber threats. <br>• Discuss the application of advanced technologies by the Cyber Dome Project. <br>• Highlight the role of the Cyber Dome Project in conducting public awareness programs. <br>• Discuss the importance of Cyber Dome in cyber forensics and its collaboration with social media platforms. <br> <br> **Conclusion** <br>• Conclude by appreciating the role of the Cyber Dome Project in creating a secure digital environment in India and emphasizing its potential as a model for other states to follow. |
 | --- |
 
 ### Introduction
@@ -8675,7 +8675,7 @@ The Cyber Dome Project, with its multi-pronged approach towards cyber threats, h
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br>• Introduce by acknowledging the persistent challenge of Left Wing Extremism (LWE) in India and its socio-economic impact, particularly in the central and eastern regions. <br> **Body** <br>• Discuss the Security Related Expenditure (SRE) scheme and the modernization of state police forces. <br>• Discuss the Integrated Action Plan (IAP) and the Aspirational Districts Programme. <br>• Highlight the importance of local governance and its role in addressing political grievances. <br>• Talk about rehabilitation and surrender policies as a means to reintegrate Naxals into mainstream society. <br> **Conclusion** <br>• Conclude by emphasizing the effectiveness of India’s comprehensive approach in reducing LWE incidents. |
+| **Approach:** <br> **Introduction** <br>• Introduce by acknowledging the persistent challenge of Left Wing Extremism (LWE) in India and its socio-economic impact, particularly in the central and eastern regions. <br> <br> **Body** <br>• Discuss the Security Related Expenditure (SRE) scheme and the modernization of state police forces. <br>• Discuss the Integrated Action Plan (IAP) and the Aspirational Districts Programme. <br>• Highlight the importance of local governance and its role in addressing political grievances. <br>• Talk about rehabilitation and surrender policies as a means to reintegrate Naxals into mainstream society. <br> <br> **Conclusion** <br>• Conclude by emphasizing the effectiveness of India’s comprehensive approach in reducing LWE incidents. |
 | --- |
 
 ### Introduction
@@ -8729,7 +8729,7 @@ The progress achieved in curbing LWE underscores the efficacy of India’s multi
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br>• Introduce by highlighting the growing significance of cyber-attacks as a threat in the digital era. <br> **Body** <br>• Discuss the various threats posed by cyber-attacks. <br>• Identify and mention the key components of a robust security framework to counter these threats. <br> **Conclusion** <br>• Conclude by underscoring the increasing prominence of cyber threats as India progresses in digitalization. |
+| **Approach:** <br> **Introduction** <br>• Introduce by highlighting the growing significance of cyber-attacks as a threat in the digital era. <br> <br> **Body** <br>• Discuss the various threats posed by cyber-attacks. <br>• Identify and mention the key components of a robust security framework to counter these threats. <br> <br> **Conclusion** <br>• Conclude by underscoring the increasing prominence of cyber threats as India progresses in digitalization. |
 | --- |
 
 ### Introduction
@@ -8767,7 +8767,7 @@ As India continues to digitalize, the threat of cyber-attacks will become increa
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br>• Introduce by recognizing the growing issue of mob violence in India and cite relevant examples to establish the gravity of the situation. <br> **Body** <br>• Discuss the reasons behind mob violence in India. <br>• Analyze the impact of such violence. <br> **Conclusion** <br>• Conclude by summarizing the multi-pronged nature of the issue and emphasize on the need for a comprehensive response. |
+| **Approach:** <br> **Introduction** <br>• Introduce by recognizing the growing issue of mob violence in India and cite relevant examples to establish the gravity of the situation. <br> <br> **Body** <br>• Discuss the reasons behind mob violence in India. <br>• Analyze the impact of such violence. <br> <br> **Conclusion** <br>• Conclude by summarizing the multi-pronged nature of the issue and emphasize on the need for a comprehensive response. |
 | --- |
 
 ### Introduction
@@ -8806,7 +8806,7 @@ The issue of mob violence in India is multifaceted, fed by various social, techn
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br>• Introduce by noting the long-standing issue of insurgency in the North-Eastern region of India, highlighting its complex origins. <br> **Body** <br>• Discuss how the region’s ethnic diversity and associated identity politics contribute to the survival of insurgencies. <br>• Mention the role of limited economic opportunities and developmental issues in fueling discontent and insurgency. <br>• Discuss the challenges posed by the region’s geographical isolation and difficult terrain. <br>• Address the influence of alleged support from neighbouring countries in sustaining insurgent activities. <br>• Comment on how a lack of strong law enforcement aids in the survival of insurgencies. <br> **Conclusion** <br>• Conclude by acknowledging the complex nature of the issue and emphasizing the necessity of an integrated approach involving political dialogue, socio-economic development, improved law enforcement, and stronger international relations to tackle this problem effectively. |
+| **Approach:** <br> **Introduction** <br>• Introduce by noting the long-standing issue of insurgency in the North-Eastern region of India, highlighting its complex origins. <br> <br> **Body** <br>• Discuss how the region’s ethnic diversity and associated identity politics contribute to the survival of insurgencies. <br>• Mention the role of limited economic opportunities and developmental issues in fueling discontent and insurgency. <br>• Discuss the challenges posed by the region’s geographical isolation and difficult terrain. <br>• Address the influence of alleged support from neighbouring countries in sustaining insurgent activities. <br>• Comment on how a lack of strong law enforcement aids in the survival of insurgencies. <br> <br> **Conclusion** <br>• Conclude by acknowledging the complex nature of the issue and emphasizing the necessity of an integrated approach involving political dialogue, socio-economic development, improved law enforcement, and stronger international relations to tackle this problem effectively. |
 | --- |
 
 ### Introduction
@@ -8837,7 +8837,7 @@ The endurance of armed insurgency in the North-East region is a complex issue de
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br>• Introduce by acknowledging the grave threat terrorism poses to national security, and assert the need for comprehensive strategies to address it. <br> **Body** <br>• Mention strategies like enhancing intelligence and surveillance, fostering international cooperation, improving financial oversight, and implementing measures to counter radicalization. <br>• Identify the main sources of terrorist funding, such as the illegal drug trade, money laundering, kidnapping and ransom, and state-sponsored terrorism. <br> **Conclusion** <br>• Conclude by summarizing the complexity of the task at hand and reaffirming the importance of both proactive and reactive strategies at national and international levels to effectively combat terrorism. |
+| **Approach:** <br> **Introduction** <br>• Introduce by acknowledging the grave threat terrorism poses to national security, and assert the need for comprehensive strategies to address it. <br> <br> **Body** <br>• Mention strategies like enhancing intelligence and surveillance, fostering international cooperation, improving financial oversight, and implementing measures to counter radicalization. <br>• Identify the main sources of terrorist funding, such as the illegal drug trade, money laundering, kidnapping and ransom, and state-sponsored terrorism. <br> <br> **Conclusion** <br>• Conclude by summarizing the complexity of the task at hand and reaffirming the importance of both proactive and reactive strategies at national and international levels to effectively combat terrorism. |
 | --- |
 
 ### Introduction
@@ -8876,7 +8876,7 @@ Tackling terrorism is a complex task that requires both proactive and reactive s
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br>• Begin with a brief overview of the complexity of border management in India. <br> **Body** <br>• Discuss the key challenges in managing India’s borders. <br>• Identify and mention the strategies to address these challenges. <br> **Conclusion** <br>• Conclude by emphasizing that effective border management is a continuous process that requires strategic planning, technological upgrades, infrastructural improvements, diplomatic efforts, and inter-agency coordination. |
+| **Approach:** <br> **Introduction** <br>• Begin with a brief overview of the complexity of border management in India. <br> <br> **Body** <br>• Discuss the key challenges in managing India’s borders. <br>• Identify and mention the strategies to address these challenges. <br> <br> **Conclusion** <br>• Conclude by emphasizing that effective border management is a continuous process that requires strategic planning, technological upgrades, infrastructural improvements, diplomatic efforts, and inter-agency coordination. |
 | --- |
 
 ### Introduction
@@ -8915,7 +8915,7 @@ Despite the challenges, effective border management is attainable through strate
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br>• Begin by acknowledging the evolution of terrorism into a more organized, monetized, and competitive phenomenon, not just globally but also in the context of India. <br> **Body** <br>• Discuss how terrorist groups have leveraged technology to broaden their reach and influence. <br>• Examine the economic aspects of terrorism, with groups resorting to various illegal activities for fund generation. <br>• Discuss how the presence of multiple terror outfits leads to competition for resources and prominence. <br>• Discuss the implications of external state sponsorship of terrorism, further complicating the scenario. <br> **Conclusion** <br>• Conclude by asserting that understanding this new dynamic of terrorism is crucial for developing effective counter-terrorism strategies. |
+| **Approach:** <br> **Introduction** <br>• Begin by acknowledging the evolution of terrorism into a more organized, monetized, and competitive phenomenon, not just globally but also in the context of India. <br> <br> **Body** <br>• Discuss how terrorist groups have leveraged technology to broaden their reach and influence. <br>• Examine the economic aspects of terrorism, with groups resorting to various illegal activities for fund generation. <br>• Discuss how the presence of multiple terror outfits leads to competition for resources and prominence. <br>• Discuss the implications of external state sponsorship of terrorism, further complicating the scenario. <br> <br> **Conclusion** <br>• Conclude by asserting that understanding this new dynamic of terrorism is crucial for developing effective counter-terrorism strategies. |
 | --- |
 
 ### Introduction
@@ -8949,7 +8949,7 @@ Indeed, terrorism has evolved into a form of “competitive industry” in India
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br>• Introduce with a brief explanation of the terms ‘Hot Pursuit’ and ‘Surgical Strikes,’ highlighting their use in response to cross-border terrorist threats. <br> **Body** <br>• Discuss how these operations serve to deter hostile entities and state sponsors of terrorism by signaling a strong stance against terrorist activities. <br>• Highlight how these actions aim to damage terrorist infrastructure, thereby disrupting their operational capabilities. <br>• Explain how successful operations can bolster the morale of security forces and foster domestic support. <br>• Discuss the potential diplomatic implications of such actions, both positive and negative. <br> **Conclusion** <br>• Conclude by emphasizing that while these military responses can be effective, they need to be part of a broader strategy that balances military action with diplomatic initiatives and internal security measures for long-term peace and stability. |
+| **Approach:** <br> **Introduction** <br>• Introduce with a brief explanation of the terms ‘Hot Pursuit’ and ‘Surgical Strikes,’ highlighting their use in response to cross-border terrorist threats. <br> <br> **Body** <br>• Discuss how these operations serve to deter hostile entities and state sponsors of terrorism by signaling a strong stance against terrorist activities. <br>• Highlight how these actions aim to damage terrorist infrastructure, thereby disrupting their operational capabilities. <br>• Explain how successful operations can bolster the morale of security forces and foster domestic support. <br>• Discuss the potential diplomatic implications of such actions, both positive and negative. <br> <br> **Conclusion** <br>• Conclude by emphasizing that while these military responses can be effective, they need to be part of a broader strategy that balances military action with diplomatic initiatives and internal security measures for long-term peace and stability. |
 | --- |
 
 ### Introduction
@@ -8982,7 +8982,7 @@ While ‘Hot Pursuit’ and ‘Surgical Strikes’ can be effective military res
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br>• Start by highlighting the paradoxical nature of the internet and social media. <br> **Body** <br>• Discuss the various ways in which non-state actors have recently exploited these platforms. <br>• Identify and mention effective measures to tackle the misuse of the internet and social media by non-state actors. <br> **Conclusion** <br>• Conclude by reiterating the complexity of the challenge posed by the misuse of the internet and social media. |
+| **Approach:** <br> **Introduction** <br>• Start by highlighting the paradoxical nature of the internet and social media. <br> <br> **Body** <br>• Discuss the various ways in which non-state actors have recently exploited these platforms. <br>• Identify and mention effective measures to tackle the misuse of the internet and social media by non-state actors. <br> <br> **Conclusion** <br>• Conclude by reiterating the complexity of the challenge posed by the misuse of the internet and social media. |
 | --- |
 
 ### Introduction
@@ -9023,7 +9023,7 @@ While the misuse of internet and social media by non-state actors poses a signif
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br>• Briefly mention India’s National Cyber Security Policy, 2013 and its relevance to this context. <br> **Body** <br>• Provide a brief overview of the policy’s main objectives and measures. <br>• Discuss the key issues affecting the effective implementation of the policy. <br> **Conclusion** <br>• Conclude with a summary of the policy’s significance and the need for improvements. |
+| **Approach:** <br> **Introduction** <br>• Briefly mention India’s National Cyber Security Policy, 2013 and its relevance to this context. <br> <br> **Body** <br>• Provide a brief overview of the policy’s main objectives and measures. <br>• Discuss the key issues affecting the effective implementation of the policy. <br> <br> **Conclusion** <br>• Conclude with a summary of the policy’s significance and the need for improvements. |
 | --- |
 
 ### Introduction
@@ -9066,7 +9066,7 @@ The National Cyber Security Policy, 2013, was an important step in fortifying In
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br>• Introduce the context by highlighting the shift from in-house server hosting to cloud hosting in government and private sectors, and introduce the premise of discussing the advantages and security implications of both. <br> **Body:** <br>• Discuss the benefits of cloud hosting, such as scalability, cost-effectiveness, and accessibility. <br>• Highlight potential security concerns associated with cloud hosting. <br>• Discuss the benefits of traditional in-house server hosting. <br>• Discuss the challenges, like the responsibility for security and maintenance, and physical threats to servers. <br> **Conclusion** <br>• Conclude by summarizing the benefits and concerns of both cloud and in-house hosting and suggesting a balanced approach (like hybrid solutions) for government businesses, considering their specific needs and security requirements. |
+| **Approach:** <br> **Introduction** <br>• Introduce the context by highlighting the shift from in-house server hosting to cloud hosting in government and private sectors, and introduce the premise of discussing the advantages and security implications of both. <br> <br> **Body:** <br>• Discuss the benefits of cloud hosting, such as scalability, cost-effectiveness, and accessibility. <br>• Highlight potential security concerns associated with cloud hosting. <br>• Discuss the benefits of traditional in-house server hosting. <br>• Discuss the challenges, like the responsibility for security and maintenance, and physical threats to servers. <br> <br> **Conclusion** <br>• Conclude by summarizing the benefits and concerns of both cloud and in-house hosting and suggesting a balanced approach (like hybrid solutions) for government businesses, considering their specific needs and security requirements. |
 | --- |
 
 ### Introduction
@@ -9108,7 +9108,7 @@ While cloud hosting provides flexibility, cost-effectiveness, and accessibility,
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br>• Introduce by explaining what AFSPA is and why it is controversial. Mention the perspective of human rights activists on the Act. <br> **Body** <br>• Briefly explain the sections of the Act (Section 3 and Section 4) that are opposed by activists and why. <br>• Discuss the stance of the Apex Court on AFSPA, emphasizing the need to balance national security and human rights. <br>• Cite examples of alleged misuse of the Act, like the Thangjam Manorama case, to highlight the issues raised by activists. <br> **Conclusion** <br>• Conclude by acknowledging the necessity to balance national security and human rights. |
+| **Approach:** <br> **Introduction** <br>• Introduce by explaining what AFSPA is and why it is controversial. Mention the perspective of human rights activists on the Act. <br> <br> **Body** <br>• Briefly explain the sections of the Act (Section 3 and Section 4) that are opposed by activists and why. <br>• Discuss the stance of the Apex Court on AFSPA, emphasizing the need to balance national security and human rights. <br>• Cite examples of alleged misuse of the Act, like the Thangjam Manorama case, to highlight the issues raised by activists. <br> <br> **Conclusion** <br>• Conclude by acknowledging the necessity to balance national security and human rights. |
 | --- |
 
 ### Introduction
@@ -9143,7 +9143,7 @@ The debate around AFSPA underscores the delicate balance between national securi
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br>• Introduce with a brief explanation about the rise of extremist groups like ISIS and their utilization of digital media for recruitment and indoctrination globally. <br> **Body** <br>• Explain what ISIS is and its primary mission. <br>• Detail how ISIS can be a threat to India’s internal security. <br>• Discuss the potential issues like recruitment and radicalization of Indian youth, the fueling of sectarian tensions, and threats to national unity. <br> **Conclusion** <br>• Conclude, summarizing by emphasizing the necessity of a comprehensive approach to address this threat. |
+| **Approach:** <br> **Introduction** <br>• Introduce with a brief explanation about the rise of extremist groups like ISIS and their utilization of digital media for recruitment and indoctrination globally. <br> <br> **Body** <br>• Explain what ISIS is and its primary mission. <br>• Detail how ISIS can be a threat to India’s internal security. <br>• Discuss the potential issues like recruitment and radicalization of Indian youth, the fueling of sectarian tensions, and threats to national unity. <br> <br> **Conclusion** <br>• Conclude, summarizing by emphasizing the necessity of a comprehensive approach to address this threat. |
 | --- |
 
 ### Introduction
@@ -9186,7 +9186,7 @@ The debate around AFSPA underscores the delicate balance between national securi
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br>• Begin by discussing the dichotomy of government-led large scale industrial development in backward regions. <br> **Body** <br>• Highlight the need for development that considers local communities’ rights and needs. <br>• Discuss the importance of skill development and education initiatives for social and economic integration. <br>• Point out how improving infrastructure can reduce isolation and enhance access to basic services. <br>• Discuss the significance of involving local communities in decision-making processes. <br>• Address the need for strengthening security forces in these regions. <br> **Conclusion** <br>• Conclude by stressing that inclusive, participatory, and sensitive growth, along with appropriate security measures, can help bring the LWE-affected citizens back into the mainstream and contribute to the nation’s growth. |
+| **Approach:** <br> **Introduction** <br>• Begin by discussing the dichotomy of government-led large scale industrial development in backward regions. <br> <br> **Body** <br>• Highlight the need for development that considers local communities’ rights and needs. <br>• Discuss the importance of skill development and education initiatives for social and economic integration. <br>• Point out how improving infrastructure can reduce isolation and enhance access to basic services. <br>• Discuss the significance of involving local communities in decision-making processes. <br>• Address the need for strengthening security forces in these regions. <br> <br> **Conclusion** <br>• Conclude by stressing that inclusive, participatory, and sensitive growth, along with appropriate security measures, can help bring the LWE-affected citizens back into the mainstream and contribute to the nation’s growth. |
 | --- |
 
 ### Introduction
@@ -9224,7 +9224,7 @@ Winning back the LWE-affected citizens into the mainstream requires not just eco
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br>• Begin by briefly explaining what the China-Pakistan Economic Corridor (CPEC) is and its significance in the context of India’s security. <br> **Body** <br>• Discuss the various security challenges posed by the CPEC to India. <br>• Analyze the potential benefits of economic corridors like the CPEC in promoting regional integration and economic development. <br> **Conclusion** <br>• Conclude by acknowledging the security challenges posed by CPEC to India and emphasize the importance of proactive diplomacy and strategic planning in addressing these issues. |
+| **Approach:** <br> **Introduction** <br>• Begin by briefly explaining what the China-Pakistan Economic Corridor (CPEC) is and its significance in the context of India’s security. <br> <br> **Body** <br>• Discuss the various security challenges posed by the CPEC to India. <br>• Analyze the potential benefits of economic corridors like the CPEC in promoting regional integration and economic development. <br> <br> **Conclusion** <br>• Conclude by acknowledging the security challenges posed by CPEC to India and emphasize the importance of proactive diplomacy and strategic planning in addressing these issues. |
 | --- |
 
 ### Introduction
@@ -9274,7 +9274,7 @@ While the China-Pakistan Economic Corridor poses security challenges for India, 
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br>• Begin with the presentation of the issue at hand – illegal trans-border migration into India, underlining its significance in terms of national security. <br> **Body** <br>• Mention the various security threats posed by illegal migration. <br>• Discuss the strategies implemented by the Indian government to tackle this issue. <br>• Mention the various factors contributing to illegal migration. <br> **Conclusion** <br>• Conclude by acknowledging the complexity of the issue and the need for a comprehensive and balanced approach that takes into account security concerns, socio-economic implications, and humanitarian aspects. |
+| **Approach:** <br> **Introduction** <br>• Begin with the presentation of the issue at hand – illegal trans-border migration into India, underlining its significance in terms of national security. <br> <br> **Body** <br>• Mention the various security threats posed by illegal migration. <br>• Discuss the strategies implemented by the Indian government to tackle this issue. <br>• Mention the various factors contributing to illegal migration. <br> <br> **Conclusion** <br>• Conclude by acknowledging the complexity of the issue and the need for a comprehensive and balanced approach that takes into account security concerns, socio-economic implications, and humanitarian aspects. |
 | --- |
 
 ### Introduction
@@ -9328,7 +9328,7 @@ Addressing the challenge of illegal trans-border migration requires a nuanced, m
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br>• Briefly explain the shift of the high-risk piracy area by the IMO and the relevance of this shift to India’s maritime security. <br> **Body** <br>• Discuss the various impacts of the change on India’s maritime security. <br> **Conclusion** <br>• Conclude by summarizing the increased responsibilities and potential vulnerabilities for India due to this shift, but also highlight the opportunity for enhanced international cooperation in tackling piracy. |
+| **Approach:** <br> **Introduction** <br>• Briefly explain the shift of the high-risk piracy area by the IMO and the relevance of this shift to India’s maritime security. <br> <br> **Body** <br>• Discuss the various impacts of the change on India’s maritime security. <br> <br> **Conclusion** <br>• Conclude by summarizing the increased responsibilities and potential vulnerabilities for India due to this shift, but also highlight the opportunity for enhanced international cooperation in tackling piracy. |
 | --- |
 
 ### Introduction
@@ -9358,7 +9358,7 @@ The IMO’s decision to shift the piracy high-risk area’s longitudinal marking
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br>• Define the concept of airspace and briefly mention the rules governing it according to international civil aviation laws. <br> **Body** <br>• Detail the concept of airspace and the international civil aviation laws that govern its use and control. <br>• Discuss the different implications for the use of outer space. <br>• Discuss the challenges that the current rules pose. <br> **Conclusion** <br>• Conclude, emphasizing the need for international cooperation, more comprehensive regulations, and urgent response to new challenges to maintain peace and shared human heritage in space. |
+| **Approach:** <br> **Introduction** <br>• Define the concept of airspace and briefly mention the rules governing it according to international civil aviation laws. <br> <br> **Body** <br>• Detail the concept of airspace and the international civil aviation laws that govern its use and control. <br>• Discuss the different implications for the use of outer space. <br>• Discuss the challenges that the current rules pose. <br> <br> **Conclusion** <br>• Conclude, emphasizing the need for international cooperation, more comprehensive regulations, and urgent response to new challenges to maintain peace and shared human heritage in space. |
 | --- |
 
 ### Introduction
@@ -9403,7 +9403,7 @@ Airspace and outer space are integral parts of our interconnected world, and the
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br>• Briefly introduce the concept of India’s diverse society and acknowledge its susceptibility to the impacts of regional radicalism. <br> **Body** <br>• Mention the complexities of a multi-religious, multi-ethnic society and exemplify how regional radicalism can impact it. <br>• Discuss various strategies to counter radicalism. <br> **Conclusion** <br>• Conclude with an emphasis on the strength of diversity to counter radicalism, summarizing the importance of harmony, education, media, technology, and international cooperation in mitigating radical influences. |
+| **Approach:** <br> **Introduction** <br>• Briefly introduce the concept of India’s diverse society and acknowledge its susceptibility to the impacts of regional radicalism. <br> <br> **Body** <br>• Mention the complexities of a multi-religious, multi-ethnic society and exemplify how regional radicalism can impact it. <br>• Discuss various strategies to counter radicalism. <br> <br> **Conclusion** <br>• Conclude with an emphasis on the strength of diversity to counter radicalism, summarizing the importance of harmony, education, media, technology, and international cooperation in mitigating radical influences. |
 | --- |
 
 ### Introduction
@@ -9441,7 +9441,7 @@ India’s diversity, while making it susceptible to radicalism, also offers the 
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br>• Begin with a brief explanation of Article 244 of the Indian Constitution and its significance. <br> **Body** <br>• Mention the key provisions under the Fifth Schedule. <br>• Discuss the impact of the non-implementation of the Fifth Schedule on the growth of LWE. <br> **Conclusion** <br>• Conclude by reinforcing the link between non-implementation of the Fifth Schedule and the growth of LWE, and the need for its complete implementation to counter LWE effectively. |
+| **Approach:** <br> **Introduction** <br>• Begin with a brief explanation of Article 244 of the Indian Constitution and its significance. <br> <br> **Body** <br>• Mention the key provisions under the Fifth Schedule. <br>• Discuss the impact of the non-implementation of the Fifth Schedule on the growth of LWE. <br> <br> **Conclusion** <br>• Conclude by reinforcing the link between non-implementation of the Fifth Schedule and the growth of LWE, and the need for its complete implementation to counter LWE effectively. |
 | --- |
 
 ### Introduction
@@ -9483,7 +9483,7 @@ The non-implementation of the Fifth Schedule provisions has inadvertently contri
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br>• Begin with a definition of cyber warfare and its implications for national security. <br> **Body** <br>• Discuss the various types of cyber threats that India is vulnerable to. <br>• Substantiate with appropriate facts and examples. <br>• Evaluate India’s preparedness to deal with these threats by looking at the policy and regulatory framework, technical and operational capabilities, international cooperation, and public-private partnerships. <br> **Conclusion** <br>• Conclude with an overview of the progress made in strengthening India’s cyber warfare preparedness and the need for continued improvements in technology, regulations, and human resource development. |
+| **Approach:** <br> **Introduction** <br>• Begin with a definition of cyber warfare and its implications for national security. <br> <br> **Body** <br>• Discuss the various types of cyber threats that India is vulnerable to. <br>• Substantiate with appropriate facts and examples. <br>• Evaluate India’s preparedness to deal with these threats by looking at the policy and regulatory framework, technical and operational capabilities, international cooperation, and public-private partnerships. <br> <br> **Conclusion** <br>• Conclude with an overview of the progress made in strengthening India’s cyber warfare preparedness and the need for continued improvements in technology, regulations, and human resource development. |
 | --- |
 
 ### Introduction
@@ -9530,7 +9530,7 @@ While India has made strides in strengthening its cyber warfare preparedness, th
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br>• Introduce by explaining the connection between India’s internal security and its border management due to its long and porous borders with South Asian countries and Myanmar. <br> **Body** <br>• Discuss the various internal security challenges linked to border management. <br>• Do substantiate with appropriate facts and examples. <br> **Conclusion** <br>• Conclude by highlighting the importance of effective border management in addressing internal security challenges and suggest a comprehensive approach to tackle these issues. |
+| **Approach:** <br> **Introduction** <br>• Introduce by explaining the connection between India’s internal security and its border management due to its long and porous borders with South Asian countries and Myanmar. <br> <br> **Body** <br>• Discuss the various internal security challenges linked to border management. <br>• Do substantiate with appropriate facts and examples. <br> <br> **Conclusion** <br>• Conclude by highlighting the importance of effective border management in addressing internal security challenges and suggest a comprehensive approach to tackle these issues. |
 | --- |
 
 ### Introduction
@@ -9566,7 +9566,7 @@ Managing India’s porous borders is crucial to addressing its internal security
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br>• Introduce with a brief explanation of what money laundering is and its implications for India’s economic sovereignty. <br> **Body** <br>• Discuss the different aspects impacted by money laundering. <br>• Identify and mention the measures needed to control money laundering. <br> **Conclusion** <br>• Conclude by summarizing the threat of money laundering to India’s economic sovereignty and the importance of the suggested measures in effectively countering this menace. |
+| **Approach:** <br> **Introduction** <br>• Introduce with a brief explanation of what money laundering is and its implications for India’s economic sovereignty. <br> <br> **Body** <br>• Discuss the different aspects impacted by money laundering. <br>• Identify and mention the measures needed to control money laundering. <br> <br> **Conclusion** <br>• Conclude by summarizing the threat of money laundering to India’s economic sovereignty and the importance of the suggested measures in effectively countering this menace. |
 | --- |
 
 ### Introduction
@@ -9610,7 +9610,7 @@ While money laundering poses a serious threat to India’s economic sovereignty,
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br>• Introduce with a brief definition of a digital signature and its role in validating the authenticity and integrity of a digital message or document. <br> **Body** <br>• Explain what the authentication of a digital signature means and its significance. <br>• Enumerate and explain the key built-in features of a digital signature. <br> **Conclusion** <br>• Conclude by reiterating the importance of digital signatures in a digital world and the need to understand their key features. |
+| **Approach:** <br> **Introduction** <br>• Introduce with a brief definition of a digital signature and its role in validating the authenticity and integrity of a digital message or document. <br> <br> **Body** <br>• Explain what the authentication of a digital signature means and its significance. <br>• Enumerate and explain the key built-in features of a digital signature. <br> <br> **Conclusion** <br>• Conclude by reiterating the importance of digital signatures in a digital world and the need to understand their key features. |
 | --- |
 
 ### Introduction
@@ -9645,7 +9645,7 @@ Digital signatures play a crucial role in maintaining the integrity, authenticit
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br>• Introduce by defining social networking sites and their role in modern communication and connection. <br> **Body** <br>• Discuss the various security implications of social networking sites. <br>• Substantiate with appropriate examples. <br> **Conclusion** <br>• Conclude by summarizing the security risks associated with social networking sites and stress on the need for awareness, robust privacy policies, and active digital literacy. |
+| **Approach:** <br> **Introduction** <br>• Introduce by defining social networking sites and their role in modern communication and connection. <br> <br> **Body** <br>• Discuss the various security implications of social networking sites. <br>• Substantiate with appropriate examples. <br> <br> **Conclusion** <br>• Conclude by summarizing the security risks associated with social networking sites and stress on the need for awareness, robust privacy policies, and active digital literacy. |
 | --- |
 
 ### Introduction
@@ -9795,7 +9795,7 @@ Strengthening disaster resilience is an ongoing process that requires **innovati
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br>• Write about the pivotal role of dams in country like India briefly <br> **Body** <br>• Write about the catastrophic consequences of dam failures on the downstream side <br>• Write various causes of dam failures <br>• Write two examples of large dam failures <br> **Conclusion** <br>• Give appropriate conclusion in this regard |
+| **Approach:** <br> **Introduction** <br>• Write about the pivotal role of dams in country like India briefly <br> <br> **Body** <br>• Write about the catastrophic consequences of dam failures on the downstream side <br>• Write various causes of dam failures <br>• Write two examples of large dam failures <br> <br> **Conclusion** <br>• Give appropriate <br> conclusion in this regard |
 | --- |
 
 ### Introduction
@@ -9837,7 +9837,7 @@ While dams remain indispensable to India’s developmental goals, safety cannot 
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br>• Brief about characteristics of cloudbursts. <br> **Body** <br>• Discuss about the Mechanism and Occurrence of Cloudbursts. <br>• Write some examples of Cloudbursts in the Indian Subcontinent <br> **Conclusion** <br>• Conclude your answer with significant cloudbursts. |
+| **Approach:** <br> **Introduction** <br>• Brief about characteristics of cloudbursts. <br> <br> **Body** <br>• Discuss about the Mechanism and Occurrence of Cloudbursts. <br>• Write some examples of Cloudbursts in the Indian Subcontinent <br> <br> **Conclusion** <br>• Conclude your answer with significant cloudbursts. |
 | --- |
 
 ### Introduction
@@ -9880,7 +9880,7 @@ Cloudbursts are a significant natural hazard in the Indian subcontinent, particu
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br>• Brief about significant loss by Landslide. <br> **Body** <br>• Discuss about the Causes of Landslides Effects of Landslides. <br>• National Landslide Risk Management Strategy. <br> **Conclusion** <br>• Conclude your answer with a significant future stick approach. |
+| **Approach:** <br> **Introduction** <br>• Brief about significant loss by Landslide. <br> <br> **Body** <br>• Discuss about the Causes of Landslides Effects of Landslides. <br>• National Landslide Risk Management Strategy. <br> <br> **Conclusion** <br>• Conclude your answer with a significant future stick approach. |
 | --- |
 
 ### Introduction
@@ -9922,7 +9922,7 @@ Landslides are a significant natural hazard that can cause extensive damage and 
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br>• Brief about India’s Seismic vulnerability. <br> **Body** <br>• Discuss about the Vulnerability of India to Earthquake-Related Hazards. <br>• Examples of Major Disasters Caused by Earthquakes in India <br>• Salient Features of Major Earthquake Disasters in India <br> **Conclusion** <br>• Conclude your answer with a comprehensive Approach. |
+| **Approach:** <br> **Introduction** <br>• Brief about India’s Seismic vulnerability. <br> <br> **Body** <br>• Discuss about the Vulnerability of India to Earthquake-Related Hazards. <br>• Examples of Major Disasters Caused by Earthquakes in India <br>• Salient Features of Major Earthquake Disasters in India <br> <br> **Conclusion** <br>• Conclude your answer with a comprehensive Approach. |
 | --- |
 
 ### Introduction
@@ -9964,7 +9964,7 @@ The major earthquake disasters in the last three decades have highlighted the ne
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br>• Start your answer with Importance of hazard zonation mapping in disaster preparedness. <br> **Body** <br>• Discussing the Hazard zonation mapping can help in disaster mitigation in the case of landslides. <br> **Conclusion** <br>• Summary of the answer with futuristic approach. |
+| **Approach:** <br> **Introduction** <br>• Start your answer with Importance of hazard zonation mapping in disaster preparedness. <br> <br> **Body** <br>• Discussing the Hazard zonation mapping can help in disaster mitigation in the case of landslides. <br> <br> **Conclusion** <br>• Summary of the answer with futuristic approach. |
 | --- |
 
 ### Introduction
@@ -10001,7 +10001,7 @@ Hazard zonation mapping can help in disaster mitigation by identifying high-risk
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br>• Start your answer December 2004, tsunami in India. <br> **Body** <br>• Discuss the Factors Responsible for Tsunami Occurrence. <br>• Effects on Life and Economy. <br>• NDMA Guidelines for Preparedness. **Conclusion** <br>• Summary of the answer with futuristic approach. |
+| **Approach:** <br> **Introduction** <br>• Start your answer December 2004, tsunami in India. <br> <br> **Body** <br>• Discuss the Factors Responsible for Tsunami Occurrence. <br>• Effects on Life and Economy. <br>• NDMA Guidelines for Preparedness. <br> **Conclusion** <br>• Summary of the answer with futuristic approach. |
 | --- |
 
 ### Introduction
@@ -10044,7 +10044,7 @@ The 2004 tsunami was a grim reminder of the devastating potential of natural dis
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br>• Brief about understanding causes and enhancing preparedness for Rising Urban Floods. <br> **Body** <br>• Discuss about the mechanisms for preparedness. <br>• Causes of Mitigating Urban Floods. **Conclusion** <br>• Conclude your answer with the key Strategies for mitigation. |
+| **Approach:** <br> **Introduction** <br>• Brief about understanding causes and enhancing preparedness for Rising Urban Floods. <br> <br> **Body** <br>• Discuss about the mechanisms for preparedness. <br>• Causes of Mitigating Urban Floods. <br> **Conclusion** <br>• Conclude your answer with the key Strategies for mitigation. |
 | --- |
 
 ### Introduction
@@ -10093,7 +10093,7 @@ Urban floods and implementing robust preparedness mechanisms, the risk associate
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br>• Start your answer with Cloudbursts Uttarakhand in India. <br> **Body** <br>• Cloudburst Impact in Uttarakhand And NDMA Guideline-Based Measures. <br> **Conclusion** <br>• Summary of the answer with futuristic approach. |
+| **Approach:** <br> **Introduction** <br>• Start your answer with Cloudbursts Uttarakhand in India. <br> <br> **Body** <br>• Cloudburst Impact in Uttarakhand And NDMA Guideline-Based Measures. <br> <br> **Conclusion** <br>• Summary of the answer with futuristic approach. |
 | --- |
 
 ### Introduction
@@ -10139,7 +10139,7 @@ Uttarakhand can strengthen its disaster management strategies and minimize the i
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br>• Start your answer with tectonic plates in India. <br> **Body** <br>• Reasons for the Increased Frequency of Earthquakes. <br>• Recent Major Earthquakes in the Region. <br>• Gaps in India’s Preparedness for Mitigating the Impact of Earthquakes. <br>• Mechanisms for Preparedness to Reduce the Risk During Earthquakes. <br> **Conclusion** <br>• Summary of the answer with futuristic approach. |
+| **Approach:** <br> **Introduction** <br>• Start your answer with tectonic plates in India. <br> <br> **Body** <br>• Reasons for the Increased Frequency of Earthquakes. <br>• Recent Major Earthquakes in the Region. <br>• Gaps in India’s Preparedness for Mitigating the Impact of Earthquakes. <br>• Mechanisms for Preparedness to Reduce the Risk During Earthquakes. <br> <br> **Conclusion** <br>• Summary of the answer with futuristic approach. |
 | --- |
 
 ### Introduction
@@ -10181,7 +10181,7 @@ The increasing frequency of earthquakes in the Indian subcontinent highlights th
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br>• Start your answer with Drought and National Disaster Management Authority. <br> **Body** <br>• Understanding and importance of El Nino and La Nina and its Preparedness <br>• September 2010 NDMA Guidelines. **Conclusion** <br>• Summary of the answer with futuristic approach. |
+| **Approach:** <br> **Introduction** <br>• Start your answer with Drought and National Disaster Management Authority. <br> <br> **Body** <br>• Understanding and importance of El Nino and La Nina and its Preparedness <br>• September 2010 NDMA Guidelines. <br> **Conclusion** <br>• Summary of the answer with futuristic approach. |
 | --- |
 
 ### Introduction
@@ -10215,7 +10215,7 @@ The September 2010 guidelines by the NDMA serve as a valuable resource for enhan
 
 ### Answer
 
-| **Approach:** <br> **Introduction** <br>• Start your answer with Vulnerability and risk assessment play a pivotal Role in pre-disaster management. <br> **Body** <br>• Significance of vulnerability and risk assessment in pre-disaster management. <br> **Conclusion** <br>• Summary of the answer with futuristic approach. |
+| **Approach:** <br> **Introduction** <br>• Start your answer with Vulnerability and risk assessment play a pivotal Role in pre-disaster management. <br> <br> **Body** <br>• Significance of vulnerability and risk assessment in pre-disaster management. <br> <br> **Conclusion** <br>• Summary of the answer with futuristic approach. |
 | --- |
 
 ### Introduction
