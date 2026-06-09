@@ -5393,7 +5393,9 @@ The Disaster Management Act was established to provide a comprehensive framework
 - It established the National Disaster Management Authority (NDMA) under the chairmanship of the Prime Minister to oversee disaster management at the national level.
 - The act also empowers the central government to establish policies and guidelines for disaster management, while directing states to follow these guidelines.
 
-**This centralizing approach ensures a unified strategy, effective resource allocation, and efficient coordination among various agencies during disaster situations.** Farm Acts **
+**This centralizing approach ensures a unified strategy, effective resource allocation, and efficient coordination among various agencies during disaster situations.**
+
+**Farm Acts**
 
 The recent Farm Acts were introduced to reform India’s agricultural sector by liberalizing trade, providing a framework for contract farming, and removing stock holding limits on essential commodities.
 - These reforms aimed to empower farmers, improve market access, and attract private investment.
@@ -5859,7 +5861,7 @@ Source Question: Though the federal principle is dominant in our Constitution an
   - While the Constitution provides for grants and distribution of revenue between the Centre and States, the bargaining power is often tilted towards the Centre.
 - **Parliament’s Power over State Territories:** The Parliament can alter the boundaries of States or create a new State **without the concerned State’s consent (Article 3).**
 
-***While these features lean towards a strong Centre, it is also true that the Indian Constitution provides for cooperative federalism,**: encouraging the Centre and States to work together for national progress.
+**While these features lean towards a strong Centre, it is also true that the Indian Constitution provides for cooperative federalism,**: encouraging the Centre and States to work together for national progress.
 
 - **The GST Council, an example of cooperative federalism,:** is a constitutional body that makes recommendations on GST rates, and includes representatives from the Centre and all States.
 
@@ -13165,12 +13167,16 @@ Source Question: Khap Panchayats have been in the news for functioning as extra-
 **Legislative:**
 - The Parliament has enacted laws that protect individual rights and prohibit honor killings, such as the Indian Penal Code (IPC), the Protection of Women from Domestic Violence Act (2005), and the Scheduled Castes and Scheduled Tribes (Prevention of Atrocities) Act (1989).
 
-**However, these laws have not been able to effectively curb the powers of Khap Panchayats, as their influence remains deeply rooted in local customs and traditions.** Executive **
+**However, these laws have not been able to effectively curb the powers of Khap Panchayats, as their influence remains deeply rooted in local customs and traditions.**
+
+**Executive**
 
 The executive branch of the government, comprising the police and the administration, has taken action in specific cases involving human rights violations by Khap Panchayats.
 - For instance, police have arrested individuals involved in honor killings, and the administration has taken measures to ensure the security of the affected individuals or families.
 
-**However, these efforts have often been reactive rather than proactive, and the enforcement of existing laws has been inadequate.** Judiciary **
+**However, these efforts have often been reactive rather than proactive, and the enforcement of existing laws has been inadequate.**
+
+**Judiciary**
 
 The Indian judiciary has played a more proactive role in dealing with the issue of Khap Panchayats. The Supreme Court of India, in various judgments, has condemned the functioning of these councils as parallel judicial systems and has directed the police and administration to take strict action against them.
 - **In the case of Shakti Vahini v. Union of India (2018),:** the Supreme Court ruled that any attempt by Khap Panchayats to interfere in the marriages of consenting adults is illegal, and laid down preventive, remedial, and punitive measures to deal with the issue of honor killings.
@@ -13929,7 +13935,7 @@ Source Question: Pressure group politics is sometimes seen as the informal face 
 - **Issue-Based:** Some pressure groups are formed around specific issues, such as environmental groups like the Chipko Movement, or human rights groups like Amnesty International India.
 - **Identity-Based:** Several pressure groups in India are formed based on identity lines, such as caste groups **like the Dravida Munnetra Kazhagam (DMK) or religious groups like the All India Muslim Personal Law Board.**
 
-***Functioning of Pressure Groups in India:**:
+**Functioning of Pressure Groups in India:**
 
 **Policy Advocacy:** Pressure groups play a crucial role in policy advocacy by lobbying with government officials, mobilizing public opinion, and using various forms of protest and negotiation to influence policy outcomes.
 - **An example is the Confederation of Indian Industry (CII),:** which regularly interacts with government officials to advocate for pro-business policies.
@@ -14549,13 +14555,7 @@ Q96. On what grounds a people’s representative can be disqualified under the R
 [Year: 2019] [Marks: 15] [Group: UPSC CSE] [Exam: Mains] [Stage: Mains] [Paper: Mains - GS 2] [Subject: POLITY] [Section Group: Elections & Political Dynamics] [Microtopic: Salient features of the Representation of People's Act] [Subtopic: Election Dispute and Disqualification] [Macrotag: Descriptive] [Microtag: What, Mention]
 
 1. Explanation_Civilsdaily:
-Source Question: On what grounds a people’s representative can [Year: 2019]
-
-be disqualified under the**
-
-**Representation of People Act, 1951? Also mention the remedies available to such person**
-
-**against his disqualification. (15)**
+Source Question: On what grounds a people’s representative can be disqualified under the Representation of People Act, 1951? Also mention the remedies available to such person against his disqualification. [Year: 2019] [Marks: 15]
 
 The **RPA, 1951** provides the **statutory framework** for conducting elections and maintaining the integrity of India’s democratic process.
 
@@ -15400,7 +15400,7 @@ Source Question: Discuss the role of the Election Commission of India in the lig
 
 **Role of the Election Commission of India in the Evolution of the Model Code of Conduct:**<p align="center"><img src="pwonlyias/images/pw_polity_q650_img1.webp" alt="Election Commission" /></p>**
 
-**Role of the Election Commission of India in the Evolution of the Model Code of Conduct:****
+**Role of the Election Commission of India in the Evolution of the Model Code of Conduct:**
 
 - **Formulation and Evolution:** The ECI formulated the MCC in 1960, based on a consensus among major political parties.
   - Since then, the ECI has periodically updated and revised the MCC to address new challenges and to incorporate feedback from various stakeholders.
@@ -16278,7 +16278,9 @@ Source Question: How have the recommendations of the 14th Finance Commission of 
 
 - The 14th Finance Commission recommended increasing the share of states in the divisible pool of central taxes from 32% to 42%, the highest ever increase in vertical devolution.
 
-**This increased devolution allowed states to have more resources at their disposal, enabling them to address their developmental needs and improve their fiscal position.** Revenue deficit grants **
+**This increased devolution allowed states to have more resources at their disposal, enabling them to address their developmental needs and improve their fiscal position.**
+
+**Revenue deficit grants**
 
 The Commission identified states with revenue deficits and recommended revenue deficit grants to bridge the gap, ensuring fiscal stability for these states.
 - These grants helped the states maintain their expenditure commitments without resorting to excessive borrowing, thus contributing to their fiscal stability.
@@ -17516,7 +17518,7 @@ Source Question: What is a quasi judicial body? Explain with the help of concret
 
 ### Introduction
 
-**Quasi-judicial bodies are administrative or non-judicial entities that possess the authority to adjudicate disputes, make decisions, and impose penalties in specific areas. Although not part of the traditional judicial system, they exercise powers akin to courts, thereby providing a more efficient and focused mechanism for dispute resolution.** Articles 323A and 323B of the Constitution empower the establishment of such bodies. **
+**Quasi-judicial bodies are administrative or non-judicial entities that possess the authority to adjudicate disputes, make decisions, and impose penalties in specific areas. Although not part of the traditional judicial system, they exercise powers akin to courts, thereby providing a more efficient and focused mechanism for dispute resolution.** Articles 323A and 323B of the Constitution empower the establishment of such bodies.
 
 ### Body
 
@@ -20333,7 +20335,9 @@ Source Question: Has the Indian governmental system responded adequately to the 
 **Privatization:**
 - The government has introduced disinvestment policies to reduce its stake in non-strategic PSUs.
 
-**However, the pace of privatization has been slow, and several PSUs continue to underperform. The government should accelerate its privatization efforts, focusing on loss-making and non-strategic enterprises while ensuring a transparent and competitive process.** Globalization **
+**However, the pace of privatization has been slow, and several PSUs continue to underperform. The government should accelerate its privatization efforts, focusing on loss-making and non-strategic enterprises while ensuring a transparent and competitive process.**
+
+**Globalization**
 
 India has benefited from globalization through increased trade, foreign investment, and technology transfers.
 - The government has liberalized its Foreign Direct Investment (FDI) policies, allowing greater foreign investment in various sectors.
@@ -22597,7 +22601,7 @@ Source Question: The Citizens&#8217; charter has been a landmark initiative in e
 - **Stakeholder Engagement:** Involving citizens in the drafting and periodic review of the Citizen’s Charter can make it more **responsive** to public needs and expectations. **For example:Participatory budgeting initiatives** in **Pune** invites citizen input in municipal governance, enhancing transparency.
 - **Quality Management Systems:** Implementing quality management systems can help improve service quality and **reliability** in public administration. **For example:** The **ISO 9001 certification** of the **Delhi Metro** has significantly enhanced its operational efficiency and service quality.
 
-**The Citizen’s Charter has brought significant advancements in public service delivery, however, addressing its current limitations and implementing robust revitalization measures is crucial. The aforesaid mentioned efforts can significantly enhance service efficacy, ensuring that the Charter evolves to meet the** dynamic needs **of the** Indian citizenry**.
+**The Citizen’s Charter has brought significant advancements in public service delivery, however, addressing its current limitations and implementing robust revitalization measures is crucial. The aforesaid mentioned efforts can significantly enhance service efficacy, ensuring that the Charter evolves to meet the dynamic needs of the Indian citizenry.**
 
 1. Explanation_Superkalam:
 Source Question: The citizen charter has been a landmark initiative in ensuring citizen- centric administration. But it is yet to reach its full potential. Identify the factors hindering the full realization of its promise and suggest measures to overcome them.
@@ -22989,7 +22993,7 @@ The **Public Examination (Prevention of Unfair Means) Act, 2024,** was enacted t
 
 - The Act applies to **“Public Examinations”** conducted by authorities listed in its **Schedule** or **notified later by the Central Government.**
 
-## **• The Schedule presently includes**
+## **● The Schedule presently includes**
 
   - **Union Public Service Commission (UPSC)**
 
@@ -30337,7 +30341,7 @@ Source Question: Hunger and Poverty are the biggest challenges for good governan
 
 ### Body
 
-***Progress made by successive governments:**:
+**Progress made by successive governments:**
 
 **Economic growth:** According to the World Bank, the percentage of people living in extreme poverty has significantly decreased since the 1990s.
 - **Social welfare programs:** Governments have implemented various social welfare programs aimed at alleviating poverty and hunger, such as the **Mahatma Gandhi National Rural Employment Guarantee Act (MGNREGA),** which guarantees 100 days of wage employment per year to rural households, and the **Public Distribution System (PDS),** which provides subsidized food grains to vulnerable populations.
@@ -30771,7 +30775,7 @@ Q206. Besides the welfare schemes, India needs deft management of inflation and 
 [Year: 2022] [Marks: 15] [Group: UPSC CSE] [Exam: Mains] [Stage: Mains] [Paper: Mains - GS 2] [Subject: SOCIAL JUSTICE] [Section Group: Poverty & Hunger] [Microtopic: Issues and Challenges relating to Poverty & Hunger] [Subtopic: Poverty] [Macrotag: Analytical, Applied] [Microtag: Discuss, India]
 
 1. Explanation_Civilsdaily:
-Source Question: Besides the welfare schemes, India needs deft management of inflation and unemployment to serve the poor and the underprivileged sections of the society. Discuss.
+Source Question: Besides the welfare schemes, India needs deft management of inflation and unemployment to serve the poor and the underprivileged sections of the society. Discuss. [Year: 2022] [Marks: 15]
 
 The **Indian Constitution envisions a Welfare State under the DPSP (Articles 36-51),** mandating the State to ensure **social, economic, and political justice** through equitable development. However, impact is undermined by **macroeconomic instability,** particularly **high inflation (8%)** and **unemployment (6-8%).**
 
@@ -31529,7 +31533,7 @@ Source Question: Discuss the role of the Election Commission of India in the lig
 
 **Role of the Election Commission of India in the Evolution of the Model Code of Conduct:**<p align="center"><img src="pwonlyias/images/pw_polity_q650_img1.webp" alt="Election Commission" /></p>**
 
-**Role of the Election Commission of India in the Evolution of the Model Code of Conduct:****
+**Role of the Election Commission of India in the Evolution of the Model Code of Conduct:**
 
 - **Formulation and Evolution:** The ECI formulated the MCC in 1960, based on a consensus among major political parties.
   - Since then, the ECI has periodically updated and revised the MCC to address new challenges and to incorporate feedback from various stakeholders.
@@ -32177,7 +32181,7 @@ India and Africa share historic ties through trade, culture, and anti-colonial s
 
 ### Conclusion
 
-This India- Africa partnership exemplifies **Global South–South cooperation, fostering trust, capacity building, and long-term digital infrastructure, while offering a model of inclusive development for the Global South.
+This India- Africa partnership exemplifies **Global South–South cooperation, fostering trust, capacity building, and long-term digital infrastructure, while offering a model of inclusive development for the Global South.**
 
 1. Explanation_Superkalam:
 Source Question: India-Africa digital partnership is achieving mutual respect, co-development and long-term institutional partnerships. Elaborate.
@@ -32224,7 +32228,7 @@ Q218. Discuss the geopolitical and geostrategic importance of Maldives for India
 1. Explanation_Civilsdaily:
 Source Question: Discuss the geopolitical and geostrategic importance of Maldives for India with a focus on global trade and/energy flows. Further also discuss how this relationship affects
 
-? (15 Marks) The **Maldives,** located southwest of India in the central **Indian Ocean,** sits astride critical **Sea Lines of**
+? (15 )** The **Maldives,** located southwest of India in the central **Indian Ocean,** sits astride critical **Sea Lines of**
 
 **Communication (SLOCs)** that carry **a major share of global oil and trade flows.**
 
@@ -37982,7 +37986,7 @@ Q256. “The reform process in the United Nations remains unresolved, because of
 [Year: 2025] [Marks: 15] [Group: UPSC CSE] [Exam: Mains] [Stage: Mains] [Paper: Mains - GS 2] [Subject: INTERNATIONAL RELATIONS] [Section Group: International Organizations] [Microtopic: International Institutions: Structure, Mandate & Functioning of Important Agencies & Fora] [Subtopic: United Nations and its Agencies] [Macrotag: Analytical, Comparative, Applied] [Microtag: Critically evaluate, Examine, Vs, Policy]
 
 1. Explanation_Civilsdaily:
-Source Question: “The reform process in the United Nations remains unresolved, because of the delicate imbalance of East and West and entanglement of the USA vs. Russo-Chinese
+Source Question: “The reform process in the United Nations remains unresolved, because of the delicate imbalance of East and West and entanglement of the USA vs. Russo-Chinese alliance.” Examine and critically evaluate the East-West policy confrontations in this regard. [Year: 2025] [Marks: 15]
 
 "The UN was not created to take mankind to heaven, but to save humanity from hell." - 2nd Secretary-General
 
@@ -38213,7 +38217,7 @@ Q257. Terrorism has become a significant threat to global peace and security’.
 [Year: 2024] [Marks: 15] [Group: UPSC CSE] [Exam: Mains] [Stage: Mains] [Paper: Mains - GS 2] [Subject: INTERNATIONAL RELATIONS] [Section Group: International Organizations] [Microtopic: International Institutions: Structure, Mandate & Functioning of Important Agencies & Fora] [Subtopic: United Nations and its Agencies] [Macrotag: Analytical] [Microtag: Evaluate]
 
 1. Explanation_Civilsdaily:
-Source Question: ‘Terrorism has become a significant threat to global peace and security.’ Evaluate the effectiveness of the United Nations Security Council’s Counter Terrorism Committee (CTC
+Source Question: ‘Terrorism has become a significant threat to global peace and security.’ Evaluate the effectiveness of the United Nations Security Council’s Counter Terrorism Committee (CTC) and its associated bodies in addressing and mitigating this threat at the international level. [Year: 2024] [Marks: 15]
 
 **Terrorism** refers to the **use of violence or threat** to create fear and achieve **political, ideological, or religious**
 

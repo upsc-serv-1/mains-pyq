@@ -510,7 +510,7 @@ Thus, the doctrine of **‘Eminent Need’** and **‘Last resort’** (Family c
 
 **Under what circumstances can the Financial Emergency be proclaimed by the**
 
-**President of India? What consequences follow when such a declaration remains in force?** [Year: 2018] [Marks: 10]**
+**President of India? What consequences follow when such a declaration remains in force? [Year: 2018] [Marks: 10]**
 
 ### Answer
 
@@ -3636,15 +3636,9 @@ Local bodies are the **cornerstones of participatory democracy** and good govern
 ## Question 53 (Year: 2019 | Paper: GS II)
 **Question ID: 2019-gs2-q53-civilsdaily**
 
-**On what grounds a people’s representative can [Year: 2019]**
+**On what grounds a people’s representative can be disqualified under the Representation of People Act, 1951? Also mention the remedies available to such person against his disqualification. [Year: 2019] [Marks: 15]**
 
 ### Answer
-
-be disqualified under the**
-
-**Representation of People Act, 1951? Also mention the remedies available to such person**
-
-**against his disqualification. (15)**
 
 The **RPA, 1951** provides the **statutory framework** for conducting elections and maintaining the integrity of India’s democratic process.
 
@@ -5408,7 +5402,7 @@ The **Public Examination (Prevention of Unfair Means) Act, 2024,** was enacted t
 
 - The Act applies to **“Public Examinations”** conducted by authorities listed in its **Schedule** or **notified later by the Central Government.**
 
-## **• The Schedule presently includes**
+## **● The Schedule presently includes**
 
   - **Union Public Service Commission (UPSC)**
 
@@ -7408,7 +7402,7 @@ Ensuring **“people-centric governance”** through **information, inclusion, a
 ## Question 107 (Year: 2022 | Paper: GS II)
 **Question ID: 2022-gs2-q107-civilsdaily**
 
-**Besides the welfare schemes, India needs deft management of inflation and unemployment to serve the poor and the underprivileged sections of the society. Discuss.** [Year: 2022] [Marks: 15]**
+**Besides the welfare schemes, India needs deft management of inflation and unemployment to serve the poor and the underprivileged sections of the society. Discuss. [Year: 2022] [Marks: 15]**
 
 ### Answer
 
@@ -9091,7 +9085,7 @@ India’s response reflected its **“humanitarian diplomacy”-guided** by empa
 
 ### Answer
 
-? (15 Marks) The **Maldives,** located southwest of India in the central **Indian Ocean,** sits astride critical **Sea Lines of**
+? (15 )** The **Maldives,** located southwest of India in the central **Indian Ocean,** sits astride critical **Sea Lines of**
 
 **Communication (SLOCs)** that carry **a major share of global oil and trade flows.**
 
@@ -10680,9 +10674,7 @@ Multi-vector diplomacy and strategic autonomy is the way forward.
 ## Question 157 (Year: 2024 | Paper: GS II)
 **Question ID: 2024-gs2-q157-civilsdaily**
 
-**‘Terrorism has become a significant threat to global peace and security.’ Evaluate the effectiveness of the United Nations Security Council’s Counter Terrorism Committee (CTC**
-
-**and its associated bodies in addressing and mitigating this threat at the international level.** [Year: 2024] [Marks: 15]**
+**‘Terrorism has become a significant threat to global peace and security.’ Evaluate the effectiveness of the United Nations Security Council’s Counter Terrorism Committee (CTC) and its associated bodies in addressing and mitigating this threat at the international level. [Year: 2024] [Marks: 15]**
 
 ### Answer
 
@@ -10775,9 +10767,7 @@ Multi-vector diplomacy and strategic autonomy is the way forward.
 ## Question 158 (Year: 2025 | Paper: GS II)
 **Question ID: 2025-gs2-q158-civilsdaily**
 
-**“The reform process in the United Nations remains unresolved, because of the delicate imbalance of East and West and entanglement of the USA vs. Russo-Chinese**
-
-**alliance.” Examine and critically evaluate the East-West policy confrontations in this regard.** [Year: 2025] [Marks: 15]**
+**“The reform process in the United Nations remains unresolved, because of the delicate imbalance of East and West and entanglement of the USA vs. Russo-Chinese alliance.” Examine and critically evaluate the East-West policy confrontations in this regard. [Year: 2025] [Marks: 15]**
 
 ### Answer
 
