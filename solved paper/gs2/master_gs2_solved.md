@@ -58,7 +58,7 @@ Source Question: Did the Government of India Act, 1935 lay down a federal consti
 - **Division of powers:** The Act provided for a clear division of powers between the central government and the provincial governments, creating three lists – Federal List, Provincial List, and Concurrent List.
 - **Provincial autonomy:** The Act introduced the concept of provincial autonomy, granting greater powers and responsibility to the provinces in various areas of governance. This move was intended to devolve power from the central government and allow the provinces to function more independently.
 - **Bicameral legislature:** The Act provided for a bicameral federal legislature, consisting of the Council of State and the Federal Assembly. This structure was designed to facilitate better representation of the provinces and princely states in the federal legislative process.
-- **Princely states:** One of the key features of the proposed federal constitution was the inclusion of princely states alongside British Indian provinces. However, this aspect was contingent upon the willingness of the princely states to join the federation, which ultimately proved to be a significant obstacle in implementing the federal provisions of the Act. **Despite the federal features outlined in the Government of India Act, 1935, the federal provisions were never fully implemented.
+- **Princely states:** One of the key features of the proposed federal constitution was the inclusion of princely states alongside British Indian provinces. However, this aspect was contingent upon the willingness of the princely states to join the federation, which ultimately proved to be a significant obstacle in implementing the federal provisions of the Act. **Despite the federal features outlined in the Government of India Act, 1935, the federal provisions were never fully implemented.**
 - The primary reason was the lack of participation from the princely states, which were reluctant to join the federation due to concerns over their sovereignty and autonomy.
 - Additionally, the outbreak of World War II and the subsequent political developments in India, including the rise of the Indian independence movement, led to a shift in focus away from implementing the federal provisions of the Act.
 
@@ -1723,7 +1723,7 @@ Source Question: Right to privacy is intrinsic to life and personal liberty and 
 - **Interconnected with Other Fundamental Rights:** The right to privacy is essential for the enjoyment of various other fundamental rights such as freedom of speech and expression **(Article 19)** and freedom of religion **(Article 25)**. Without privacy, individuals cannot exercise their choices regarding **personal beliefs, relationships,** and **preferences**
 - **Protection of Individual Autonomy:** Privacy is central to individual autonomy, which includes decisions about **family life, reproductive choices**, and **personal information.** The right to privacy empowers individuals to make decisions regarding their **body, health,** and **private life,** free from **unnecessary state intervention** or **public scrutiny**, ensuring a dignified existence.
 - **Preventing Arbitrary State Action:** It acts as a safeguard against arbitrary state actions, such as **mass surveillance**, **unlawful data collection**, or invasions into personal space. It compels the state to justify any encroachment upon **personal privacy** on reasonable grounds and ensures such actions follow **principles of proportionality and legality**.
-- **Constitutional Protection:** The Supreme Court of India, in its P **uttaswamy v. Union of India (2017) case**, affirmed that the **right to privacy** is an **intrinsic part** of the right to life and personal liberty guaranteed under **Article 21** of the Indian Constitution.
+- **Constitutional Protection:** The Supreme Court of India, in its **Puttaswamy v. Union of India (2017)** case, affirmed that the **right to privacy** is an **intrinsic part** of the right to life and personal liberty guaranteed under **Article 21** of the Indian Constitution.
 - **Reproductive Autonomy:** Individuals have the **right to make decisions** regarding **reproduction** and family life, ensuring personal **privacy** and control over intimate matters.
 - **Evolution of Privacy in the Digital Age:** In the modern digital world, the right to privacy has evolved to include the **protection of personal data and digital information**.
 
@@ -2329,8 +2329,8 @@ Source Question: What do you understand by the concept “freedom of speech and 
 
 **However, like all rights, freedom of speech is not absolute.**
 - **It is subject to certain restrictions in the interest of the sovereignty and integrity of India, the security of the State, friendly relations with foreign States, public order, decency, morality, or in relation to contempt of court, defamation, or incitement to an offence.:** These restrictions are outlined in Article 19(2) of the Constitution.
-- **In the context of hate speech, it’s important to note that the Indian legal framework does not explicitly define “hate speech.”:** However, it has been addressed in various sections of the **Indian Penal Code (IPC), such as Sections 153A, 153B, 295A, and 505.
-- **These provisions criminalize any speech, words, signs, or visible representation that can incite hatred or cause harm based on religion, race, place of birth, residence, language, caste, or community.:** Therefore, while freedom of speech is a fundamental right, hate speech, as generally understood, is not protected under it due to its potential to disrupt public order and incite violence.
+- **In the context of hate speech, it’s important to note that the Indian legal framework does not explicitly define “hate speech.”** However, it has been addressed in various sections of the **Indian Penal Code (IPC)**, such as Sections 153A, 153B, 295A, and 505.
+- **These provisions criminalize any speech, words, signs, or visible representation that can incite hatred or cause harm based on religion, race, place of birth, residence, language, caste, or community.** Therefore, while freedom of speech is a fundamental right, hate speech, as generally understood, is not protected under it due to its potential to disrupt public order and incite violence.
 
 Turning to the issue of films, they indeed occupy a unique space within the sphere of free speech in India.
 - **Despite being a form of artistic expression, films are subject to pre-censorship in India:** under the Cinematograph Act of 1952, which established the Central Board of Film Certification (CBFC).
@@ -3020,7 +3020,7 @@ Source Question: Discuss India as a secular state and compare it with the secula
 | **Religious Education** | Religious teachings can be **included** in private and minority institutions under specific circumstances. | The US **prohibits religious education** in public schools and ensures the secular nature of public education. |
 | **Political Influence** | Religion has a **strong influence** on politics and elections, with visible religious undertones in campaigns. | The US enforces a **more rigorous separation**, limiting the overt influence of religion on political campaigns. |
 
-**As** Sarva Dharma Bhava **emphasises,**“equal respect for all religions”** is key to maintaining harmony. India’s model of secularism seeks inclusivity, while the US focuses on strict separation. Together, these approaches highlight the diverse paths to achieving a balanced state-religion relationship.
+**As** Sarva Dharma Bhava **emphasises,** “equal respect for all religions” is key to maintaining harmony. India’s model of secularism seeks **inclusivity**, while the US focuses on **strict separation**. Together, these approaches highlight the diverse paths to achieving a balanced state-religion relationship.
 
 1. Explanation_Superkalam:
 Source Question: Discuss India as a secular state and compare it with the secular principles of the US constitution.
@@ -4489,7 +4489,9 @@ Source Question: Recent directives from Ministry of Petroleum and Natural Gas ar
 
 **Enshrined by the 13th Amendment in 1962, Article 371A confers Nagaland with an exceptional status.**
 It maintains that no parliamentary act related to the Nagas’ religious or social practices, its customary laws, administration of civil and criminal justice involving decisions according to Naga customary law, and ownership and transfer of land and its resources, shall extend to Nagaland unless the Nagaland Legislative Assembly decides so by a resolution.
-- **For instance, the Nagaland Liquor Total Prohibition Act, 1989, based on the social customs of the Nagas,** bans the sale and consumption of alcohol in Nagaland, overriding the central laws. **The Ministry’s Directives:
+- **For instance, the Nagaland Liquor Total Prohibition Act, 1989, based on the social customs of the Nagas,** bans the sale and consumption of alcohol in Nagaland, overriding the central laws. 
+
+**The Ministry’s Directives:**
 - The recent directives from the Ministry of Petroleum and Natural Gas concern the regulation of extraction and exploration of natural resources like oil and natural gas, which falls under the central list of the Constitution.
 - This has led to unease among the Naga community, as they view these directives as encroachment into their constitutional rights over their land and resources.
 - For example, the directives might be seen as challenging the traditional rights of the Nagas over the oil reserves in the state, which they have traditionally considered as their own.
@@ -5841,7 +5843,7 @@ Source Question: Though the federal principle is dominant in our Constitution an
 ### Body
 
 **Features of the Indian Constitution that lean towards a strong Centre.**
-- **Division of Powers:** Under the Indian Constitution, powers are distributed between the Centre and the States through three lists: Union List, State List, and Concurrent List **(Article 246).
+- **Division of Powers:** Under the Indian Constitution, powers are distributed between the Centre and the States through three lists: Union List, State List, and Concurrent List as per **Article 246**.
 - The Union List includes subjects of national importance (like defense, atomic energy, etc.), and the Centre has exclusive powers to make laws on these subjects.
   - The State List includes subjects of local or regional importance, and the States can make laws on these subjects.
   - The Concurrent List includes subjects where both the Centre and States can make laws.
@@ -6448,7 +6450,7 @@ Source Question: Analyse the role of local bodies in providing good governance a
 > - Analyse role of local bodies in providing good governance at local level
 > - Discuss the pros of merging the rural local bodies with the urban local bodies
 > - Discuss the cons of merging the rural local bodies with the urban local bodies
-> * ***Local bodies form the backbone of:** decentralised governance **in India, empowered by the** 73rd **and** 74th Constitutional Amendments **, which introduced** Articles 243 **to** 243Z **. These amendments have transformed local bodies into key drivers of development and governance. Recently, in 2022, the Supreme Court emphasised the importance of strengthening local bodies by mandating timely elections in states like Maharashtra.**
+> **Local bodies form the backbone of** decentralised governance **in India, empowered by the** 73rd **and** 74th Constitutional Amendments, which introduced **Articles 243 to 243Z**. These amendments have transformed local bodies into key drivers of development and governance. Recently, in 2022, the Supreme Court emphasised the importance of strengthening local bodies by mandating timely elections in states like Maharashtra.
 
 **Role of Local Bodies in Providing Good Governance at the Local Level**
 - **Decentralised Decision-Making:** Local bodies enable **autonomous decision-making** that caters to the unique needs of their communities, in line with **Article 243G** of the Constitution, which empowers Panchayats to plan and implement economic development. **For example: Gram Panchayats** in Maharashtra managed **Jalyukt Shivar Abhiyan**, a water conservation initiative, improving water availability in drought-prone areas.
@@ -8502,7 +8504,7 @@ Source Question: Resorting to ordinances has always raised concern on violation 
 - **In the case of AK Roy vs Union of India (1982),** the Supreme Court upheld the constitutionality of the power to promulgate ordinances and observed that the President’s satisfaction is subject to judicial review.
 - **In the case of DC Wadhwa vs State of Bihar (1987),:** the Supreme Court criticized the excessive use of ordinances, stating that it is against the constitutional scheme and should only be used in exceptional circumstances.
 - **In the case of KR Lakshmanan vs State of Tamil Nadu (1996),:** the Supreme Court reiterated that ordinances should be promulgated only when urgent and immediate action is required.
-- **In the case of Krishna Kumar Singh vs State of Bihar (2017),:** the Supreme Court ruled that repromulgation of ordinances is a fraud on the Constitution, and the reasons for promulgating an ordinance must be placed before the legislature. **While the Supreme Court has upheld the constitutionality of the power to promulgate ordinances, it has consistently emphasized that this power should be exercised judiciously and only in exceptional circumstances.** The court’s decisions have acted as a check on the arbitrary use of this power, rather than facilitating its abuse. **Repealing the power to promulgate ordinances would eliminate a crucial instrument to address urgent and unforeseen situations. Instead of repealing the power, it is essential to ensure that it is exercised responsibly and within the constitutional framework. Strengthening the checks and balances through judicial review and legislative oversight can help prevent the misuse of this power while preserving its necessity in exceptional circumstances.
+- **In the case of Krishna Kumar Singh vs State of Bihar (2017),** the Supreme Court ruled that repromulgation of ordinances is a fraud on the Constitution, and the reasons for promulgating an ordinance must be placed before the legislature. **While the Supreme Court has upheld the constitutionality of the power to promulgate ordinances, it has consistently emphasized that this power should be exercised judiciously and only in exceptional circumstances.** The court’s decisions have acted as a check on the arbitrary use of this power, rather than facilitating its abuse. **Repealing the power to promulgate ordinances would eliminate a crucial instrument to address urgent and unforeseen situations.** Instead of repealing the power, it is essential to ensure that it is exercised responsibly and within the constitutional framework. Strengthening the checks and balances through judicial review and legislative oversight can help prevent the misuse of this power while preserving its necessity in exceptional circumstances.
 
 ### Conclusion
 
@@ -9289,7 +9291,7 @@ India’s federal system features a bicameral legislature in certain states, wit
 - **Working of Legislative Councils:** Legislative Councils play a role in the legislative process by reviewing and scrutinizing bills passed by the Legislative Assembly.
   - However, the powers of the Legislative Council are limited in comparison to the Legislative Assembly. While the Council can recommend amendments or delay the passage of a bill, it cannot permanently block a bill. If a bill is rejected or not passed within a specific period, the Legislative Assembly may pass the bill again, and it would be deemed to have been passed by both Houses.
   - Legislative Councils cannot initiate or reject Money Bills. They can only recommend amendments, which the Legislative Assembly may choose to accept or reject.
-- **Current status and illustrations:** As of now, six states in India have bicameral legislatures with Legislative Councils: **Andhra Pradesh, Bihar, Karnataka, Maharashtra, Telangana, and Uttar Pradesh.
+- **Current status and illustrations:** As of now, six states in India have bicameral legislatures with Legislative Councils: **Andhra Pradesh, Bihar, Karnataka, Maharashtra, Telangana, and Uttar Pradesh.**
 - The recent example of Jammu and Kashmir can be cited, where the Legislative Council was abolished when the state was reorganized into a Union Territory in 2019.
 - There have been ongoing debates about the necessity and relevance of Legislative Councils in various states. Some argue that they serve as a check on hasty legislation and provide representation for various interest groups, while others contend that they are an unnecessary burden on state exchequers and often delay the legislative process.
 
@@ -9511,7 +9513,7 @@ India’s federal system features a bicameral legislature in certain states, wit
 - **Working of Legislative Councils:** Legislative Councils play a role in the legislative process by reviewing and scrutinizing bills passed by the Legislative Assembly.
   - However, the powers of the Legislative Council are limited in comparison to the Legislative Assembly. While the Council can recommend amendments or delay the passage of a bill, it cannot permanently block a bill. If a bill is rejected or not passed within a specific period, the Legislative Assembly may pass the bill again, and it would be deemed to have been passed by both Houses.
   - Legislative Councils cannot initiate or reject Money Bills. They can only recommend amendments, which the Legislative Assembly may choose to accept or reject.
-- **Current status and illustrations:** As of now, six states in India have bicameral legislatures with Legislative Councils: **Andhra Pradesh, Bihar, Karnataka, Maharashtra, Telangana, and Uttar Pradesh.
+- **Current status and illustrations:** As of now, six states in India have bicameral legislatures with Legislative Councils: **Andhra Pradesh, Bihar, Karnataka, Maharashtra, Telangana, and Uttar Pradesh.**
 - The recent example of Jammu and Kashmir can be cited, where the Legislative Council was abolished when the state was reorganized into a Union Territory in 2019.
 - There have been ongoing debates about the necessity and relevance of Legislative Councils in various states. Some argue that they serve as a check on hasty legislation and provide representation for various interest groups, while others contend that they are an unnecessary burden on state exchequers and often delay the legislative process.
 
@@ -11878,7 +11880,7 @@ Source Question: Instances of President’s delay in commuting death sentences h
 
 **However, others argue against setting such a time limit due to:**
 - **Complexity and Seriousness of Cases:** Cases involving capital punishment are often complex, and the decision to pardon or commute a death sentence is a serious one with irreversible consequences. Therefore, it may be reasonable to allow the President sufficient time to consider all aspects of the case.
-- **Political Implications:** Decisions on mercy petitions can have significant political implications. A time limit may rush the decision-making process, potentially leading to decisions that aren’t fully considered. **The issue of delay in deciding mercy petitions was highlighted in the case of Devender Pal Singh Bhullar, a convict on death row.
+- **Political Implications:** Decisions on mercy petitions can have significant political implications. A time limit may rush the decision-making process, potentially leading to decisions that aren’t fully considered. **The issue of delay in deciding mercy petitions was highlighted in the case of Devender Pal Singh Bhullar, a convict on death row.**
 - His mercy petition was pending before the President for over eight years before it was rejected.
 - **The Supreme Court of India, in a landmark judgment in 2014,ruled that an inordinate delay in deciding a mercy petition is a ground for commutation of a death sentence.:** 
 
@@ -12903,9 +12905,9 @@ Source Question: Starting from inventing the ‘basic structure’ doctrine, the
 
 **protecting the environment, often linking it with the right to life under Article 21.**
 - **The Supreme Court’s rulings in M.C. Mehta vs Union of India (1986):** led to the closure of several industries causing pollution in Delhi, demonstrating the judiciary’s proactive role.
-- **Safeguarding Secularism and Social Justice:** The judiciary has also upheld the secular nature of the Indian Constitution, **as seen in S.R. Bommai vs Union of India (1994).
+- **Safeguarding Secularism and Social Justice:** The judiciary has also upheld the secular nature of the Indian Constitution, as seen in **S.R. Bommai vs Union of India (1994)**.
 - **The courts have also directed governments to ensure social justice, such as in the Vishaka vs State of Rajasthan (1997),** which led to the formulation of guidelines for sexual harassment at the workplace.
-- **Checks and Balances:** Through judicial review, the judiciary has maintained a check on the legislative and executive branches of the government, preventing any misuse of power and ensuring the rule of law, both of which are key democratic principles. **However, it’s worth noting that judicial activism in India has also been critiqued for overstepping the boundaries** of the judiciary and infringing upon the domains of the legislative and executive branches. This has led to debates on the need for a balance between judicial activism and judicial restraint in the country.
+- **Checks and Balances:** Through judicial review, the judiciary has maintained a check on the legislative and executive branches of the government, preventing any misuse of power and ensuring the rule of law, both of which are key democratic principles. However, it’s worth noting that **judicial activism** in India has also been critiqued for **overstepping the boundaries of the judiciary** and infringing upon the domains of the legislative and executive branches. This has led to debates on the need for a balance between judicial activism and judicial restraint in the country.
 
 ### Conclusion
 
@@ -14296,7 +14298,9 @@ Source Question: Discuss the procedures to decide the disputes arising out of th
 **Grounds on which the election of a returned candidate may be declared void:**
 - **Corrupt Practices:** If the returned candidate or their election agent is found guilty of indulging in corrupt practices, such as bribery, undue influence, or promoting enmity between different groups, the election can be declared void (Section 100(1)(b)).
 - **Improper Reception, Refusal or Rejection of Votes:** If the court finds that there were irregularities in the reception, refusal, or rejection of votes, which affected the outcome of the election, it may declare the election void (Section 100(1)(d)(iii)).
-- **Non-compliance with the provisions of the Constitution or the Act:** If the election was conducted in violation of the provisions of the Constitution or the Act, and the court believes that such non-compliance has materially affected the election’s result, it can declare the election void (Section 100(1)(d)(iv)). **Remedy available to the aggrieved party against the decision:
+- **Non-compliance with the provisions of the Constitution or the Act:** If the election was conducted in violation of the provisions of the Constitution or the Act, and the court believes that such non-compliance has materially affected the election’s result, it can declare the election void (Section 100(1)(d)(iv)).
+
+**Remedy available to the aggrieved party against the decision:**
 - An aggrieved party can file an appeal against the decision of the High Court or the Supreme Court, as per Section 116A of the Act. The appeal must be filed within 30 days from the date of the decision, and it must be heard by a bench of at least two judges.
 
 **Case Laws:**
@@ -15098,7 +15102,7 @@ Source Question: To enhance the quality of democracy in India the Election Commi
 
 <p align="center"><img src="pwonlyias/images/pw_polity_q369_img1.webp" alt="Electoral reforms" /></p>
 
-- **Inclusion of special categories:** The ECI recommended measures to facilitate the voting process for special categories of voters, such as Non-Resident Indians (NRIs), persons with disabilities, and migrant workers. ****
+- **Inclusion of special categories:** The ECI recommended measures to facilitate the voting process for special categories of voters, such as **Non-Resident Indians (NRIs)**, **persons with disabilities**, and **migrant workers**.
 
 **The significance of these proposed electoral reforms in making democracy successful can be assessed as follows:**
 - **Enhanced transparency and accountability:** Reforms like transparency in political funding and the disqualification of candidates with criminal charges can help reduce corruption and ensure that public representatives are accountable.
@@ -15807,8 +15811,8 @@ Source Question: The Indian party system is passing through a phase of transitio
 - **National Parties’ Changing Dynamics:** The rise of the Bharatiya Janata Party (BJP) as the dominant party at the national level and the decline of the Indian National Congress (INC) represent a shift in the Indian party system.
 
 **The BJP’s success, as seen in the 2014 and 2019 general elections, has challenged the long-standing dominance of the INC.**
-- **Coalition Politics:** The emergence of coalition governments, such as the United Progressive Alliance (UPA) and the National Democratic Alliance (NDA),:** highlights the importance of alliances in Indian politics. This trend reflects both the diversity of Indian society and the challenges of coalition-building for political stability.
-- **Influence of Social Media:** The growing role of social media in shaping political narratives and mobilizing support is a significant development. **The BJP’s extensive use of social media platforms in the 2014 and 2019 elections exemplifies this trend.** However, it also raises concerns about the spread of misinformation and the impact on the quality of political discourse.
+- **Coalition Politics:** The emergence of coalition governments, such as the **United Progressive Alliance (UPA)** and the **National Democratic Alliance (NDA)**, highlights the importance of alliances in Indian politics. This trend reflects both the diversity of Indian society and the challenges of coalition-building for political stability.
+- **Influence of Social Media:** The growing role of social media in shaping political narratives and mobilizing support is a significant development. The **BJP’s extensive use of social media platforms** in the 2014 and 2019 elections exemplifies this trend. However, it also raises concerns about the spread of misinformation and the impact on the quality of political discourse.
 
 ### Conclusion
 
@@ -16644,7 +16648,7 @@ Source Question: Appropriate local community-level healthcare intervention is a 
 
 ### Introduction
 
-***‘Health for All’**: is a universal goal aimed at ensuring equitable access to healthcare services for every individual. In India, achieving this goal requires appropriate local community-level healthcare interventions, which can address the unique health needs and challenges of diverse populations across the country.
+**“Health for All”** is a universal goal aimed at ensuring equitable access to healthcare services for every individual. In India, achieving this goal requires appropriate local community-level healthcare interventions, which can address the unique health needs and challenges of diverse populations across the country.
 
 ### Body
 
@@ -16856,7 +16860,7 @@ Source Question: Exercise of CAG’s powers in relation to the accounts of the U
 
 - **To discuss this, it is essential to understand the nature of the CAG’s audits:**
 
-**Financial Audit:** The CAG audits the accounts and financial statements of the government to ensure accuracy, legality, and compliance with established financial rules and regulations.**
+**Financial Audit:** The CAG audits the accounts and financial statements of the government to ensure **accuracy**, **legality**, and **compliance** with established financial rules and regulations.
 - **Compliance Audit:** The CAG examines whether the government’s activities, operations, and procurement processes comply with the relevant laws, regulations, and policies.
 - **Performance Audit:** The CAG assesses the effectiveness, efficiency, and economy of government programs, policies, and operations in achieving their intended objectives.
 - The performance audit, in particular, may appear to touch upon the government’s policy implementation. However, it is important to note that the CAG’s audit is focused on evaluating the outcomes of policy implementation rather than questioning the policy itself.
@@ -18806,7 +18810,7 @@ Source Question: Appropriate local community-level healthcare intervention is a 
 
 ### Introduction
 
-***‘Health for All’**: is a universal goal aimed at ensuring equitable access to healthcare services for every individual. In India, achieving this goal requires appropriate local community-level healthcare interventions, which can address the unique health needs and challenges of diverse populations across the country.
+**“Health for All”** is a universal goal aimed at ensuring equitable access to healthcare services for every individual. In India, achieving this goal requires appropriate local community-level healthcare interventions, which can address the unique health needs and challenges of diverse populations across the country.
 
 ### Body
 
@@ -21251,7 +21255,9 @@ Source Question: How can the role of NGOs be strengthened in India for developme
 - **Capacity Building:** Many NGOs struggle with a lack of technical knowledge and resources. Providing training and access to resources would help them perform their work more effectively.
 - **Funding:** NGOs often face funding constraints. Streamlining access to funds, both domestic and international, and providing tax incentives could help alleviate this problem.
 - **Networking and Collaboration:** Encouraging collaboration between NGOs, government agencies, and private entities can help pool resources and expertise. This could be especially beneficial in large-scale conservation projects.
-- **Public Awareness and Engagement:** NGOs should be encouraged to conduct public awareness campaigns. Additionally, they can involve local communities in their conservation efforts, which would not only provide manpower but also instill a sense of ownership among the people. ***However, NGOs face several constraints in their environmental conservation efforts:
+- **Public Awareness and Engagement:** NGOs should be encouraged to conduct public awareness campaigns. Additionally, they can involve local communities in their conservation efforts, which would not only provide manpower but also instill a sense of ownership among the people. 
+
+**However, NGOs face several constraints in their environmental conservation efforts:**
 - **Regulatory Hurdles:** The recent tightening of regulations governing foreign funding of NGOs under the Foreign Contribution (Regulation) Act (FCRA), 1976, has created difficulties for many organizations.
 - **Lack of Transparency and Accountability:** Some NGOs have been accused of financial mismanagement and lack of transparency, leading to a loss of credibility.
 - **Lack of Skilled Manpower:** Many NGOs face challenges in attracting and retaining skilled manpower due to financial constraints.
@@ -22003,7 +22009,7 @@ Source Question: The legitimacy and accountability of Self Help Groups (SHGs) an
 ### Body
 
 **Legitimacy and Accountability of SHGs and MFIs**
-- **Regulatory Framework and Legitimacy:** In India, the regulatory framework for these entities **has been set up by the Reserve Bank of India (RBI) for MFIs and the National Bank for Agriculture and Rural Development (NABARD) for SHGs.
+- **Regulatory Framework and Legitimacy:** In India, the regulatory framework for these entities has been set up by the **Reserve Bank of India (RBI)** for MFIs and the **National Bank for Agriculture and Rural Development (NABARD)** for SHGs.
 - Despite this, there have been issues with legitimacy, with many SHGs operating without official registration.
   - This lack of registration leads to inadequate legal protection for members and hinders access to institutional credit.
 - **For example, the Andhra Pradesh microfinance crisis in 2010 highlighted the issue of legitimacy,:** where the presence of unregulated MFIs led to over-indebtedness and a slew of borrower suicides. In the aftermath, the RBI stepped in to regulate the sector through the Malegam Committee recommendations, emphasizing the need for legitimacy and regulatory compliance for the health of the sector.
@@ -22011,7 +22017,7 @@ Source Question: The legitimacy and accountability of Self Help Groups (SHGs) an
 - **For instance, the SKS Microfinance scandal in India highlighted the need for better accountability.:** The company, once a darling of the microfinance world, faced serious allegations regarding its lending practices, aggressive recovery methods, and corporate governance, leading to a significant fall in its share prices.
 - **Role of Technology:** Technology can play a crucial role in enhancing the legitimacy and accountability of SHGs and MFIs.
   - Digital platforms can facilitate transparent transactions, better record-keeping, and timely reporting, thereby improving accountability.
-- **For example, the digital SHG Bank Linkage platform (ESHAKTI) by NABARD has helped improve the quality of bookkeeping and enhanced transparency of SHGs.:** 
+- **For example, the digital SHG Bank Linkage platform (ESHAKTI) by NABARD has helped improve the quality of bookkeeping and enhanced transparency of SHGs.**
 
 ### Conclusion
 
@@ -22800,7 +22806,7 @@ E-governance refers to the application of information and communication technolo
 - **Relevance of Information:** E-governance initiatives should focus on providing relevant information that directly addresses the needs and concerns of the citizens. **For example, during the COVID-19 pandemic, r** elevant information like vaccination schedules, safety guidelines, and helpline numbers became critical for the public.
 - **Accessibility:** This includes offering information in multiple languages, making websites and applications user-friendly, and providing alternative channels (like SMS or voice-based services) for those who lack internet access. **For instance, the Government of India’s Umang App** provides more than 1200 central and state government services in 13 Indian languages.
 - **Applicability:** For example, providing real-time data on the availability of hospital beds, oxygen supplies, and medicines during a health crisis empowers citizens to make critical decisions for their well-being.
-- **Transparency and Accountability:** For instance, the implementation of the Right to Information (RTI) Act:** in India has made it easier for citizens to access information on government functioning and decisions, fostering greater accountability.
+- **Transparency and Accountability:** For instance, the implementation of the **Right to Information (RTI) Act** in India has made it easier for citizens to access information on government functioning and decisions, fostering greater accountability.
 - **Citizen Participation:** The My Gov platform in India is an example of a platform that facilitates citizen engagement in policy formulation and program implementation.
 
 ### Conclusion
@@ -23644,7 +23650,7 @@ Source Question: In the integrity index of Transparency International, India sta
 ***Legal Factors:**
 - **Inadequate laws and regulations:** India lacks comprehensive anti-corruption laws, and existing laws have loopholes that are exploited by corrupt individuals.
 - **Weak enforcement:** Law enforcement agencies in India often suffer from inadequate resources, low capacity, and limited autonomy.
-- **Delays in the judicial process:** The slow and overburdened judicial system in India leads to delays in delivering justice, which enables corrupt individuals to evade punishment.
+- **Delays in the judicial process:** The slow and overburdened judicial system in India leads to **delays in delivering justice**, which enables corrupt individuals to evade punishment.
 
 **Political Factors:**
 - **Political patronage:** Politicians may indulge in corrupt practices to fund their election campaigns or secure loyalty from their supporters.
@@ -25194,7 +25200,7 @@ E-governance refers to the application of information and communication technolo
 - **Relevance of Information:** E-governance initiatives should focus on providing relevant information that directly addresses the needs and concerns of the citizens. **For example, during the COVID-19 pandemic, r** elevant information like vaccination schedules, safety guidelines, and helpline numbers became critical for the public.
 - **Accessibility:** This includes offering information in multiple languages, making websites and applications user-friendly, and providing alternative channels (like SMS or voice-based services) for those who lack internet access. **For instance, the Government of India’s Umang App** provides more than 1200 central and state government services in 13 Indian languages.
 - **Applicability:** For example, providing real-time data on the availability of hospital beds, oxygen supplies, and medicines during a health crisis empowers citizens to make critical decisions for their well-being.
-- **Transparency and Accountability:** For instance, the implementation of the Right to Information (RTI) Act:** in India has made it easier for citizens to access information on government functioning and decisions, fostering greater accountability.
+- **Transparency and Accountability:** For instance, the implementation of the **Right to Information (RTI) Act** in India has made it easier for citizens to access information on government functioning and decisions, fostering greater accountability.
 - **Citizen Participation:** The My Gov platform in India is an example of a platform that facilitates citizen engagement in policy formulation and program implementation.
 
 ### Conclusion
@@ -25882,7 +25888,7 @@ Source Question: Has the Cadre based Civil Services Organization been the cause 
 **Arguments Against:**
 - **Stability of Tenure:** Despite the frequent transfers, the cadre-based civil services provide a stable administrative structure that is crucial for policy continuity in a diverse country like India.
 - **Wide Experience:** The officers of the cadre-based civil services gain diverse experience by working in different regions and departments, which can be utilized for effective policy-making.
-- **Role in Policy Implementation:** Cadre-based civil services play a crucial role in implementing policies at the grassroots level, often in challenging circumstances. ***For instance,
+- **Role in Policy Implementation:** Cadre-based civil services play a crucial role in implementing policies at the grassroots level, often in challenging circumstances. **For instance:**
 - **The successful implementation of the polio eradication program in India:** can be attributed to the tireless efforts of cadre-based civil servants.
 - **On the other hand, the delay in the implementation of crucial reforms like the Goods and Services Tax (GST):** can, in part, be attributed to bureaucratic hurdles.
 
@@ -28711,7 +28717,7 @@ Source Question: Appropriate local community-level healthcare intervention is a 
 
 ### Introduction
 
-***‘Health for All’**: is a universal goal aimed at ensuring equitable access to healthcare services for every individual. In India, achieving this goal requires appropriate local community-level healthcare interventions, which can address the unique health needs and challenges of diverse populations across the country.
+**“Health for All”** is a universal goal aimed at ensuring equitable access to healthcare services for every individual. In India, achieving this goal requires appropriate local community-level healthcare interventions, which can address the unique health needs and challenges of diverse populations across the country.
 
 ### Body
 
@@ -28871,7 +28877,7 @@ Source Question: Public health system has limitations in providing universal hea
 
 **The private sector can play a vital role in bridging the gap, but it’s not the only solution.:**
 
-***Role of Private Sector:** The private sector can significantly contribute to expanding healthcare coverage:
+**Role of Private Sector:** The private sector can significantly contribute to expanding healthcare coverage:
 
 - **Infrastructure and Services:** Private healthcare providers often have better infrastructure and can offer a wider range of services, including advanced treatments and diagnostic facilities.
 - **Innovation and Efficiency:** The private sector often drives innovation in healthcare and can bring efficiency into the system, helping to reduce costs and improve quality.
@@ -28961,7 +28967,7 @@ Source Question: Identify the Millennium Development Goals (MDGs) that are relat
 **MDG 4: Reduce Child Mortality**
 - **The Government of India launched several initiatives to achieve this goal. The most significant among these is the:** Integrated Child Development Services (ICDS) scheme,** which provides a package of services including immunization, health check-ups, referral services, pre-school education, and supplementary nutrition.
 - Another **critical initiative was the Universal Immunization Programme (UIP),** which aimed to immunize all children against seven vaccine-preventable diseases.
-- These efforts have led to substantial progress. **According to the UN’s final MDG report, India’s Under-Five Mortality Rate dropped from 126 per 1000 live births in 1990 to 49 in 2013.**
+- These efforts have led to substantial progress. According to the UN’s final MDG report, India’s Under-Five Mortality Rate dropped from **126 per 1000 live births** in 1990 to **49 in 2013**.
 
 **MDG 5: Improve Maternal Health:**
 - **The National Health Mission (NHM), which includes the National Rural Health Mission (NRHM) and the National Urban Health Mission (NUHM),:** has been instrumental in improving maternal health. Under this, **the Janani Suraksha Yojana (JSY)** incentivized institutional deliveries, thereby reducing maternal mortality rates.
@@ -29323,7 +29329,7 @@ Source Question: The crucial aspect of the development process has been the inad
 - **Project-Based Learning:** Finland’s education system:** is a notable example where project-based learning has been implemented successfully, fostering a culture of creativity and critical thinking among students. India could borrow cues from such models to nurture a problem-solving approach.
 - **Industry-Academia Collaboration:** The **collaboration between IIT Madras and various industries** is a testament to the potential of symbiotic relationships between academia and industry, where theoretical learning meets practical demands, enhancing employability prospects.
 - **Continuous Professional Development:** Singapore has an integrated system for continuous teacher training and development. India could take a leaf from this, encouraging teachers to engage in lifelong learning and adapt to evolving educational landscapes.
-- **Telemedicine:** The successful implementation of telemedicine in states **like Kerala during the COVID-19 pandemic** demonstrated how technology can be utilized to bridge healthcare gaps, presenting a viable model for other states to emulate.
+- **Telemedicine:** The successful implementation of telemedicine in states like **Kerala** during the **COVID-19 pandemic** demonstrated how technology can be utilized to bridge healthcare gaps, presenting a viable model for other states to emulate.
 - **Community Kitchens:** The **Amma Unavagam initiative in Tamil Nadu** is a stellar example where community kitchens have been utilized to address malnutrition while also supporting local farmers.
 - **Incubation Centres:** The success stories coming from incubation centres **like those at IIT Bombay** signify the potential of fostering innovation at the educational institutional level, thus promoting research and development.
 - **Mobile Education Units:** Initiatives such as **the digital bus project in Maharashtra** have showcased the efficacy of mobile education units in bridging the digital divide and promoting digital literacy.
@@ -29664,7 +29670,7 @@ Source Question: “Demographic Dividend in India will remain only theoretical u
 **Some of these measures include**
 - **Skill development initiatives:** The government launched the National Skill Development Mission in 2015 to provide a cohesive strategy for skill development.
 - **The Pradhan Mantri Kaushal Vikas Yojana (PMKVY) is a flagship program:** that aims to train millions of youth in industry-relevant skills, making them employable and promoting entrepreneurship.
-- **Education reforms:** The government has made significant strides in education reform, **such as the introduction of the National Education Policy (NEP) 2020.
+- **Education reforms:** The government has made significant strides in education reform, such as the introduction of the **National Education Policy (NEP) 2020**.
 - The NEP emphasizes foundational literacy and numeracy, vocational education integration, and higher education access, equity, and quality improvements to create a well-rounded and skilled workforce.
 - **Make in India initiative:** 
 - **Launched in 2014, the Make in India initiative aims to transform India into a global manufacturing hub, encouraging investment, innovation, and skill development.:** The initiative is designed to generate employment opportunities and enhance the employability of the population.
@@ -29675,7 +29681,7 @@ Source Question: “Demographic Dividend in India will remain only theoretical u
 - **National Apprenticeship Promotion Scheme (NAPS):** This program was launched in 2016 to promote apprenticeship training and create industry-ready skilled workers.
 - **NAPS incentivizes employers to engage apprentices and facilitates on-the-job training,:** contributing to the development of a skilled workforce.
 - **Digital India:** This initiative aims to transform India into a digitally empowered society by promoting digital literacy, improving internet connectivity, and developing e-governance services.
-- **By enhancing digital literacy, the government seeks to create a skilled workforce:** capable of participating in the digital economy.
+- **By enhancing digital literacy, the government seeks to create a skilled workforce** capable of participating in the digital economy.
 
 ### Conclusion
 
@@ -30137,7 +30143,7 @@ Ending hunger and malnutrition will not be achieved by focusing on food security
 1. Explanation_PWOnlyIAS:
 Source Question: How far do you agree with the view that the focus on lack of availability of food as the main cause of hunger takes the attention away from ineffective human development policies in India?
 
-| **Approach:** <br> **Introduction:** <br>• Introduce the issue of hunger in India and the debate on whether focusing on the lack of food availability distracts from ineffective human development policies. **Body** <br>• Discuss the impact of ineffective human development policies on hunger and malnutrition, focusing on aspects like education, health, and social protection, and providing relevant examples. <br>• Explain the interconnectedness of food availability and human development policies, with examples illustrating the importance of a comprehensive approach that includes agricultural policies and infrastructure development. **Conclusion** <br>• Write a relevant conclusion. |
+| **Approach:** <br> **Introduction:** <br>• Introduce the issue of hunger in India and the debate on whether focusing on the lack of food availability distracts from ineffective human development policies. <br> **Body:** <br>• Discuss the impact of ineffective human development policies on hunger and malnutrition, focusing on aspects like education, health, and social protection, and providing relevant examples. <br>• Explain the interconnectedness of food availability and human development policies, with examples illustrating the importance of a comprehensive approach that includes agricultural policies and infrastructure development. <br> **Conclusion:** <br>• Write a relevant conclusion. |
 | --- |
 
 ### Introduction
@@ -30150,9 +30156,9 @@ Source Question: How far do you agree with the view that the focus on lack of av
 * **Impact of ineffective human development policies**
 - **Education:** Limited access to quality education can hinder individuals’ ability to make informed choices about nutrition, health, and family planning, leading to intergenerational cycles of hunger and malnutrition. For instance, the poor implementation of ‘The Right to Education Act’ in certain regions has resulted in low literacy rates and limited knowledge of health and nutrition among the population.
 - **Health:** Weak healthcare infrastructure and inadequate healthcare services can exacerbate hunger and malnutrition, especially among vulnerable sections like pregnant women and children. **For instance, despite** ‘ **The National Health Mission’,** the shortage of healthcare professionals and limited access to primary healthcare in rural areas contribute to high maternal and child mortality rates.
-- **Social protection:** Insufficient social protection programs may fail to provide adequate support to vulnerable populations, pushing them further into poverty and hunger. **For instance, ‘The Public Distribution System (PDS)’,** which aims to provide subsidized food to the poor, has faced issues of leakages, corruption, and inefficiencies, limiting its impact on reducing hunger. ***Interconnectedness*** ***of food availability and human development policies:**
+- **Social protection:** Insufficient social protection programs may fail to provide adequate support to vulnerable populations, pushing them further into poverty and hunger. **For instance, ‘The Public Distribution System (PDS)’,** which aims to provide subsidized food to the poor, has faced issues of leakages, corruption, and inefficiencies, limiting its impact on reducing hunger. **Interconnectedness of food availability and human development policies:**
 - **Agricultural policies:** For instance, **‘** The National Food Security Act’ **aims to provide food grains at subsidized rates, but its implementation requires coordination with other human development policies to ensure better nutrition and overall well-being.**
-- **Infrastructure development:** For instance, ‘The Pradhan Mantri Gram Sadak Yojana (PMGSY)’:** has improved rural connectivity, enhancing access to markets, healthcare, and education, and thus contributing to human development and reduced hunger.
+- **Infrastructure development:** For instance, **Pradhan Mantri Gram Sadak Yojana (PMGSY)** has improved rural connectivity, enhancing access to markets, healthcare, and education, and thus contributing to human development and reduced hunger.
 
 ### Conclusion
 
@@ -30350,7 +30356,7 @@ Source Question: Hunger and Poverty are the biggest challenges for good governan
 
 **Despite these efforts, hunger and poverty continue to persist in India due to various reasons, such as inadequate implementation, lack of resources, and population growth.**
 
-***Measures for improvement:**:
+**Measures for improvement:**
 
 **Strengthening social welfare programs:** It is crucial to improve the implementation and monitoring of social welfare programs like MGNREGA and PDS to ensure that benefits reach the intended beneficiaries.
 - **Enhancing agricultural productivity:** Investing in agricultural research, extension services, and infrastructure can help increase productivity, generate income, and reduce poverty.
@@ -32330,7 +32336,9 @@ Source Question: Discuss the geopolitical and geostrategic importance of Maldive
 > - Discuss how this relationship affects India’s maritime security and regional stability amidst international competition
 > - Suggest suitable way ahead
 
-**The strategic location of the** Maldives **along** vital maritime routes **underscores its significance for India, particularly in securing global trade and energy flows. During current Indian** External Affairs Minister recent visit **, India and the Maldives signed an agreement on** Unified Payments Interface (UPI) **, strengthening financial ties and highlighting the growing importance of their** economic **and** strategic partnership **in the region.** Geopolitical and Geostrategic Importance of Maldives for India with a Focus on Global Trade and Energy Flows **
+**The strategic location of the** Maldives **along** vital maritime routes **underscores its significance for India, particularly in securing global trade and energy flows. During current Indian** External Affairs Minister recent visit **, India and the Maldives signed an agreement on** Unified Payments Interface (UPI) **, strengthening financial ties and highlighting the growing importance of their** economic **and** strategic partnership **in the region.**
+
+**Geopolitical and Geostrategic Importance of Maldives for India with a Focus on Global Trade and Energy Flows:**
 
 **Geopolitical Importance:**
 - **Major Trade Route Security:** Ensuring the safety of critical maritime routes that facilitate global trade is crucial for India’s economic and strategic interests, especially since **70% of India’s oil imports transit** through these waters. **For example:** Monitoring shipping lanes near the **Eight Degree Channel**, located between the Maldives and India **,** is critical for securing India’s oil imports from the **Middle East.**
@@ -34655,7 +34663,9 @@ Source Question: Discuss the procedures to decide the disputes arising out of th
 **Grounds on which the election of a returned candidate may be declared void:**
 - **Corrupt Practices:** If the returned candidate or their election agent is found guilty of indulging in corrupt practices, such as bribery, undue influence, or promoting enmity between different groups, the election can be declared void (Section 100(1)(b)).
 - **Improper Reception, Refusal or Rejection of Votes:** If the court finds that there were irregularities in the reception, refusal, or rejection of votes, which affected the outcome of the election, it may declare the election void (Section 100(1)(d)(iii)).
-- **Non-compliance with the provisions of the Constitution or the Act:** If the election was conducted in violation of the provisions of the Constitution or the Act, and the court believes that such non-compliance has materially affected the election’s result, it can declare the election void (Section 100(1)(d)(iv)). **Remedy available to the aggrieved party against the decision:
+- **Non-compliance with the provisions of the Constitution or the Act:** If the election was conducted in violation of the provisions of the Constitution or the Act, and the court believes that such non-compliance has materially affected the election’s result, it can declare the election void (Section 100(1)(d)(iv)).
+
+**Remedy available to the aggrieved party against the decision:**
 - An aggrieved party can file an appeal against the decision of the High Court or the Supreme Court, as per Section 116A of the Act. The appeal must be filed within 30 days from the date of the decision, and it must be heard by a bench of at least two judges.
 
 **Case Laws:**
@@ -36165,11 +36175,11 @@ The **North Atlantic Treaty Organization (NATO), 1949** by the **North Atlantic 
 - **Energy Security:** Initiatives **like the US-EU Energy Council** can be platforms where India can collaborate to secure its energy needs and work on renewable energy technologies, potentially tapping into the nuclear energy agreements like the US-India nuclear agreement.
 
 **Concerns for India:**
-- **Russia Relations:** India’s procurement of the S-400 missile defencesystem:** from Russia has already drawn concerns from NATO allies, potentially affecting India’s relations with NATO countries while straining its historical ties with Russia.
+- **Russia Relations:** India’s procurement of the S-400 missile defence system from Russia has already drawn concerns from NATO allies, potentially affecting India’s relations with NATO countries while straining its historical ties with Russia.
 - **Economic Pressures:** There could be pressures to comply with **economic sanctions imposed by NATO allies on other countries**, which might affect India’s economic relations and trade agreements with those nations, as seen in the Iran oil trade disruptions.
 - **Technology Transfer Restrictions:** India’s attempts to acquire modern technology can be hampered due to restrictions imposed by NATO countries, affecting collaborative projects such as the Fifth Generation Fighter Aircraft (FGFA) with Russia.
 - **Resource Allocation:** Aligning with NATO defence initiatives might compel India to increase its defence spending substantially, which **could divert funds from critical domestic programs such as health and education**.
-- **Sovereignty Concerns:** Navigating partnerships with stronger NATO alliances may sometimes **come at the cost of compromising on strategic decisions independen** tly, thus posing a challenge to India’s policy of maintaining sovereign decision-making in international relations.
+- **Sovereignty Concerns:** Navigating partnerships with stronger NATO alliances may sometimes **come at the cost of compromising on strategic decisions independently**, thus posing a challenge to India’s policy of maintaining sovereign decision-making in international relations.
 
 ### Conclusion
 
