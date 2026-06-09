@@ -2339,7 +2339,7 @@ Turning to the issue of films, they indeed occupy a unique space within the sphe
 **Several reasons contribute to this differential treatment:**
 - **Wide Reach and Influence:** Films have a wide reach and can influence a large number of people, including those considered more impressionable, such as children and young adults.
 - **Medium’s Characteristics:** The audio-visual nature of films can have a profound impact and can stir emotions more easily than other forms of media.
-- **Historical Precedent:** I:** ndia’s history of communal violence has led to a cautious approach towards any medium that has the potential to incite violence or disrupt public order, which includes films.
+- **Historical Precedent:** India’s history of communal violence has led to a cautious approach towards any medium that has the potential to incite violence or disrupt public order, which includes films.
 
 **A recent example of these tensions was seen in the controversy over the movie “Padmaavat” in 2018.**
 - **Despite clearance from the CBFC, the film faced violent protests from certain groups:** who believed it misrepresented history and hurt their sentiments.
@@ -20416,7 +20416,7 @@ Source Question: Though 100 percent FDI is already allowed in non-news media lik
 ### Body
 
 **Pros of Increasing FDI in News Media**
-- **Enhanced Technology and Infrastructure:** I:** ncreased FDI could lead to better technology and infrastructure for news media outlets. Foreign companies might bring advanced technology, leading to improved news coverage and reach.
+- **Enhanced Technology and Infrastructure:** Increased FDI could lead to better technology and infrastructure for news media outlets. Foreign companies might bring advanced technology, leading to improved news coverage and reach.
 - **Financial Stability:** An influx of foreign investment could provide the necessary financial stability that many news outlets require. It could help them expand their operations and potentially improve their quality of content.
 - **Global Perspective:** With foreign investment, Indian news media could gain a more global perspective. It could lead to a more diverse range of news coverage and a broader understanding of international issues.
 - **Employment Opportunities:** Increased FDI could lead to job creation in the sector, which would benefit the economy.
@@ -20751,10 +20751,10 @@ No state has more than 20% women representation in its Assembly. Chhattisgarh ha
 ### Body
 
 **Contribution of Civil Society Groups for Women’s Effective Participation and Representation**
-- **Sensitization Programs:** Organizations such as “Jagori” and “Swayam”:** have consistently worked on sensitizing the populace about women’s rights and nurturing women’s participation in politics through numerous awareness programs.
+- **Sensitization Programs:** Organizations such as **“Jagori” and “Swayam”** have consistently worked on sensitizing the populace about women’s rights and nurturing women’s participation in politics through numerous awareness programs.
 - **Leadership Training:** The **“Women’s Political Empowerment Program” executed by the Institute of Social Sciences (ISS)** stands as a monumental initiative, empowering over 15,000 women in Panchayati Raj Institutions and grooming them for greater roles in state legislatures.
 - **They have also provided training and support to women candidates:** helping them to develop the skills and knowledge needed to run successful campaigns. Ex. Swayam worked for giving training about political rights .
-- **Policy Advocacy:** Institutions like the “Centre for Social Research”:** have championed policy changes, prominently advocating for the Women’s Reservation Bill, which aims to reserve seats for women in legislatures.
+- **Policy Advocacy:** Institutions like the **“Centre for Social Research”** have championed policy changes, prominently advocating for the Women’s Reservation Bill, which aims to reserve seats for women in legislatures.
 - **Research and Documentation:** Entities like “PRIDE India” have been industrious in documenting relevant data and propagating research-backed advocacies for women’s rights and representation in politics.
 - **Grassroot Mobilization:** SEWA (Self Employed Women’s Association) has undertaken extensive efforts in mobilizing women at the grassroots, setting a robust foundation for nurturing women leaders for state legislatures.
 
@@ -20771,7 +20771,7 @@ No state has more than 20% women representation in its Assembly. Chhattisgarh ha
 - **Mentorship Programs:** Taking a leaf from **“Women2Women” international leadership program**, India could foster mentorship programs where established women leaders guide aspiring young females, sharing insights and experiences, and helping them to navigate the political landscape.
 - **Financial Grants:** Encourage corporate sectors to contribute towards women’s political campaigns, **taking inspiration from the ‘Facebook’s SheLeads initiative,’** which provided grants and mentorship to women-led businesses.
 - **Capacity Building Workshops:** Leverage the expertise of organizations **like the “National Commission for Women”** which has previously organized capacity-building workshops, to foster a culture of learning and skill enhancement for aspiring women politicians.
-- **Research and Data Compilation:** Organizations like “Women in Politics: India”:** have been tracking women’s representation in Indian politics. Such platforms can be further leveraged to compile data and create comprehensive reports to aid policy recommendations.
+- **Research and Data Compilation:** Organizations like **“Women in Politics: India”** have been tracking women’s representation in Indian politics. Such platforms can be further leveraged to compile data and create comprehensive reports to aid policy recommendations.
 - **Networking Platforms:** Building on examples **like the “Women’s Political Network” in Montenegro,** India can foster platforms encouraging international collaboration and the sharing of best practices for fostering women’s participation in politics.
 - **Legislative Reforms:** Drawing inspiration from Rwanda, which leads in women representation in the legislature due to affirmative action, India could look towards revisiting policies and introducing reforms to ensure a mandated representation of women in state legislatures.
 
@@ -26992,7 +26992,7 @@ Women’s social capital means the **friendships, support systems, and networks 
 
 **Harnessing Women’s Social Capital for Empowerment**
 - **Peer Networks:** Women **SHGs** like **Kudumbashree (Kerala)** boost skills, financial literacy, and entrepreneurship.
-- **Collective Bargaining:** SEWA:** secures better wages, safer work conditions and social security.
+- **Collective Bargaining:** **SEWA** secures better wages, safer work conditions and social security.
 - **Support Systems:** Community groups **aid survivors of violence** with confidence and resilience to overcome patriarchal constraints..
 - **Political Leadership:** Mahila Sabhas empower women through awareness of right and political participation.
 - **Digital Empowerment:** Social media platforms **amplify women’s voices** and create **global solidarity** movements.
@@ -28806,7 +28806,7 @@ A traditional approach has been to segment the beneficiaries on the basis of geo
 1. Explanation_PWOnlyIAS:
 Source Question: ‘To ensure effective implementation of policies addressing water, sanitation and hygiene needs, the identification of beneficiary segments is to be synchronized with the anticipated outcomes’. Examine the statement in the context of the WASH scheme.
 
-| **Approach:** <br> **Introduction** <br> • Introduce the WASH scheme and its objectives. <br> **Body** <br> **Divide the body into four main sections: <br> • Identification of beneficiary segments: <br> • Focus on vulnerable and marginalized populations. <br> • Address the specific needs of these groups. <br> • Anticipated outcomes: <br> • Reducing waterborne diseases. <br> • Enhancing access to clean water and sanitation facilities. <br> • Promoting healthy hygiene practices. <br> • Synchronization of beneficiary identification and outcomes: <br> • Targeted interventions. <br> • Efficient resource allocation. <br> • Improved monitoring and evaluation. <br> • Collaboration with stakeholders: <br> • Involvement of local governments, NGOs, community-based organizations, and the private sector. <br> • Addressing needs and achieving anticipated outcomes. **Conclusion** <br> • Write a relevant conclusion. |
+| **Approach:** <br> **Introduction** <br> • Introduce the WASH scheme and its objectives. <br> **Body** <br> **Divide the body into four main sections:** <br> • Identification of beneficiary segments: <br> • Focus on vulnerable and marginalized populations. <br> • Address the specific needs of these groups. <br> • Anticipated outcomes: <br> • Reducing waterborne diseases. <br> • Enhancing access to clean water and sanitation facilities. <br> • Promoting healthy hygiene practices. <br> • Synchronization of beneficiary identification and outcomes: <br> • Targeted interventions. <br> • Efficient resource allocation. <br> • Improved monitoring and evaluation. <br> • Collaboration with stakeholders: <br> • Involvement of local governments, NGOs, community-based organizations, and the private sector. <br> • Addressing needs and achieving anticipated outcomes. **Conclusion** <br> • Write a relevant conclusion. |
 | --- |
 
 ### Introduction
@@ -28965,7 +28965,7 @@ Source Question: Identify the Millennium Development Goals (MDGs) that are relat
 ### Body
 
 **MDG 4: Reduce Child Mortality**
-- **The Government of India launched several initiatives to achieve this goal. The most significant among these is the:** Integrated Child Development Services (ICDS) scheme,** which provides a package of services including immunization, health check-ups, referral services, pre-school education, and supplementary nutrition.
+- **The Government of India launched several initiatives to achieve this goal. The most significant among these is the:** **Integrated Child Development Services (ICDS)** scheme, which provides a package of services including immunization, health check-ups, referral services, pre-school education, and supplementary nutrition.
 - Another **critical initiative was the Universal Immunization Programme (UIP),** which aimed to immunize all children against seven vaccine-preventable diseases.
 - These efforts have led to substantial progress. According to the UN’s final MDG report, India’s Under-Five Mortality Rate dropped from **126 per 1000 live births** in 1990 to **49 in 2013**.
 
@@ -29326,7 +29326,7 @@ Source Question: The crucial aspect of the development process has been the inad
 - **Lack of Vocational Training:** Despite positive steps **like the Skill India initiative**, the nation faces a pronounced gap in the availability and accessibility of vocational training.
 
 **Measures to Address the Inadequacy**
-- **Project-Based Learning:** Finland’s education system:** is a notable example where project-based learning has been implemented successfully, fostering a culture of creativity and critical thinking among students. India could borrow cues from such models to nurture a problem-solving approach.
+- **Project-Based Learning:** **Finland’s education system** is a notable example where project-based learning has been implemented successfully, fostering a culture of creativity and critical thinking among students. India could borrow cues from such models to nurture a problem-solving approach.
 - **Industry-Academia Collaboration:** The **collaboration between IIT Madras and various industries** is a testament to the potential of symbiotic relationships between academia and industry, where theoretical learning meets practical demands, enhancing employability prospects.
 - **Continuous Professional Development:** Singapore has an integrated system for continuous teacher training and development. India could take a leaf from this, encouraging teachers to engage in lifelong learning and adapt to evolving educational landscapes.
 - **Telemedicine:** The successful implementation of telemedicine in states like **Kerala** during the **COVID-19 pandemic** demonstrated how technology can be utilized to bridge healthcare gaps, presenting a viable model for other states to emulate.
@@ -30933,7 +30933,7 @@ India has leading demographic dividend, **fifth largest** economy by nominal GDP
 1. Explanation_PWOnlyIAS:
 Source Question: Besides the welfare schemes, India needs deft management of inflation and unemployment to serve the poor and the underprivileged sections of the society. Discuss.
 
-| **Approach:** <br> **Introduction** <br> • Introduce the importance of welfare schemes in India and emphasize the need for addressing broader economic challenges, particularly inflation and unemployment, to serve the poor and underprivileged sections of society. **Body** <br> • Discuss the significance of managing inflation and unemployment, elaborating on the measures that can be taken to address these issues, and explain how doing so complements welfare schemes .** <br> **Conclusion** <br> • Write a relevant conclusion. |
+| **Approach:** <br> **Introduction** <br> • Introduce the importance of welfare schemes in India and emphasize the need for addressing broader economic challenges, particularly inflation and unemployment, to serve the poor and underprivileged sections of society. **Body** <br> • Discuss the significance of managing inflation and unemployment, elaborating on the measures that can be taken to address these issues, and explain how doing so complements welfare schemes. <br> **Conclusion** <br> • Write a relevant conclusion. |
 | --- |
 
 ### Introduction
@@ -36946,7 +36946,7 @@ The “String of Pearls” is a term used to describe China’s strategic encirc
 - It threatens India’s maritime security, freedom of navigation, and access to resources. Like
 
 **the Gwadar Port in Pakistan, Hambantota Port in Sri Lanka.**
-- **China’s presence in these countries also gives it the ability to influence their policies and actions, potentially undermining India’s regional influence.:** g Djibouti Naval Base in Africa**.
+- **China’s presence in these countries also gives it the ability to influence their policies and actions, potentially undermining India’s regional influence.:** g **Djibouti Naval Base** in Africa.
 - **Steps taken by India to counter the String of Pearls strategy:**
 - **Maritime diplomacy:** India has engaged in maritime diplomacy with countries in the region to strengthen its ties and counter China’s influence.
 - **Military modernization:** India has taken steps to modernize its military and improve its naval capabilities to counter China’s growing military presence in the Indian Ocean.
