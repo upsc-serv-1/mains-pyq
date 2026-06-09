@@ -972,13 +972,13 @@ button, input, select {
 }
 
 .markdown-body blockquote {
-  border-left: 4px solid var(--accent-purple);
-  padding: 8px 16px;
-  background-color: rgba(124, 58, 237, 0.02);
-  color: var(--text-main);
-  font-style: italic;
-  margin-bottom: 16px;
-  border-radius: 0 8px 8px 0;
+  border: 1px solid var(--border-color);
+  padding: 14px 18px;
+  background-color: var(--bg-primary);
+  color: var(--text-secondary);
+  font-style: normal;
+  margin-bottom: 20px;
+  border-radius: 8px;
 }
 
 /* Style rendered Markdown tables inside answer viewport */
