@@ -1143,3 +1143,94 @@ function basicMarkdownParser(md) {
   
   return html;
 }
+
+window.exportAllFilteredToPrint = function() {
+  if (filteredDataset.length === 0) {
+    alert("No questions to export!");
+    return;
+  }
+  
+  const printWindow = window.open('', '_blank');
+  let contentHtml = "";
+  
+  filteredDataset.forEach(q => {
+    let ansHtml = "";
+    const ansData = q.answers[activeCoaching];
+    if (ansData) {
+      let bodyText = ansData.body;
+      const folderName = FOLDER_MAP[activeCoaching] || activeCoaching.toLowerCase();
+      const gsPaperFolder = `../solved paper`;
+      
+      // Rewrite image paths
+      bodyText = bodyText.replace(/!\[(.*?)\]\((?:images\/|([^)]+?)\/images\/)(.*?)\)/g, (match, alt, folder, imgName) => {
+        const targetFolder = folder ? folder : folderName;
+        return `![${alt}](${gsPaperFolder}/${targetFolder}/images/${imgName})`;
+      });
+      
+      bodyText = bodyText.replace(/src=["'](?:images\/|([^"']+?)\/images\/)(.*?)["']/g, (match, folder, imgName) => {
+        const targetFolder = folder ? folder : folderName;
+        return `src="${gsPaperFolder}/${targetFolder}/images/${imgName}"`;
+      });
+      
+      try {
+        if (window.marked && typeof window.marked.parse === "function") {
+          ansHtml = window.marked.parse(bodyText);
+        } else if (typeof window.marked === "function") {
+          ansHtml = window.marked(bodyText);
+        } else {
+          ansHtml = basicMarkdownParser(bodyText);
+        }
+      } catch (e) {
+        ansHtml = basicMarkdownParser(bodyText);
+      }
+    } else {
+      ansHtml = `<p style="color: #ef4444; font-style: italic;">No answer compiled for this coaching institute.</p>`;
+    }
+    
+    contentHtml += `
+      <div class="question-block" style="page-break-inside: avoid; border-bottom: 1px solid #e5e7eb; padding-bottom: 24px; margin-bottom: 24px;">
+        <div class="print-header" style="background: #f3f4f6; padding: 12px; border-left: 4px solid #4f46e5; margin-bottom: 16px; font-family: sans-serif;">
+          <div style="font-size: 12px; color: #4b5563;"><strong>${q.id}</strong> | Year: ${q.year} | Subject: ${q.subject} | Marks: ${q.marks}</div>
+          <div style="font-size: 15px; font-weight: bold; margin-top: 6px; color: #111827;">${cleanStatementDisplay(q.statement)}</div>
+        </div>
+        <div class="markdown-body" style="font-family: sans-serif; font-size: 14px; line-height: 1.6; color: #374151;">
+          ${ansHtml}
+        </div>
+      </div>
+    `;
+  });
+  
+  printWindow.document.write(`
+    <html>
+      <head>
+        <title>UPSC Solved Compilation - GS ${activePaper} - ${activeCoaching}</title>
+        <link rel="stylesheet" href="styles.css">
+        <style>
+          body {
+            font-family: 'Inter', sans-serif;
+            padding: 40px;
+            color: #333;
+            background: white;
+          }
+          .markdown-body {
+            line-height: 1.6;
+            font-size: 14px;
+          }
+          @media print {
+            body { padding: 0; }
+          }
+        </style>
+      </head>
+      <body>
+        <h1 style="border-bottom: 2px solid #4f46e5; padding-bottom: 12px; margin-bottom: 30px; font-family: sans-serif; color: #111827;">UPSC Mains PYQs - GS ${activePaper} (${activeCoaching})</h1>
+        ${contentHtml}
+        <script>
+          window.onload = function() {
+            window.print();
+          };
+        </script>
+      </body>
+    </html>
+  `);
+  printWindow.document.close();
+};

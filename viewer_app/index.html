@@ -68,10 +68,15 @@
           <h1 id="active-paper-header">General Studies I (GS-I)</h1>
           <p class="subtitle" id="active-paper-desc">Master solved compilation containing 275 syllabus-mapped questions.</p>
         </div>
-        <div class="theme-toggle">
-          <!-- Premium aesthetic status indicator -->
-          <span class="pulse-indicator"></span>
-          <span class="status-label">Database Loaded</span>
+        <div style="display: flex; align-items: center; gap: 16px;">
+          <button onclick="window.exportAllFilteredToPrint && window.exportAllFilteredToPrint()" style="background: var(--accent-gradient); font-size: 12px; padding: 10px 18px; border-radius: 8px; box-shadow: 0 4px 10px rgba(79, 70, 229, 0.15); border: none; cursor: pointer; color: white; font-family: var(--font-header); font-weight: 700; display: inline-flex; align-items: center; gap: 6px; transition: opacity 0.2s;">
+            📄 Export Current Compilation (PDF)
+          </button>
+          <div class="theme-toggle">
+            <!-- Premium aesthetic status indicator -->
+            <span class="pulse-indicator"></span>
+            <span class="status-label">Database Loaded</span>
+          </div>
         </div>
       </header>
 
