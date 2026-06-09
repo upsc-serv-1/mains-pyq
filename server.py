@@ -6,7 +6,15 @@ import os
 import re
 import subprocess
 
+import sys
+
 PORT = 8000
+if len(sys.argv) > 1:
+    try:
+        PORT = int(sys.argv[1])
+    except ValueError:
+        pass
+
 WORKSPACE_DIR = r"C:\Users\Dr. Yogesh\Desktop\mains\neet and upsc cms\upsc"
 
 class CustomHandler(http.server.SimpleHTTPRequestHandler):
@@ -260,7 +268,7 @@ def run():
     print(f"Starting server on port {PORT}...")
     print(f"Local editor address: http://localhost:{PORT}/viewer_app/editor.html")
     server_address = ('', PORT)
-    httpd = socketserver.TCPServer(server_address, CustomHandler)
+    httpd = socketserver.ThreadingTCPServer(server_address, CustomHandler)
     try:
         httpd.serve_forever()
     except KeyboardInterrupt:

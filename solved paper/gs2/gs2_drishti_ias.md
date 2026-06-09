@@ -279,7 +279,7 @@ The Attorney General of India holds a pivotal role in ensuring the legal integri
 
 ---
 
-## Question 5 (Year: 2025) **“Constitutional morality is the fulcrum which acts as an essential check upon the high functionaries and citizens alike…” In view of the above observation of the Supreme Court, explain the concept of constitutional morality and its application to ensure balance between judicial independence and judicial accountability in India. (250 words)**
+## Question 6 (Year: 2025) **“Constitutional morality is the fulcrum which acts as an essential check upon the high functionaries and citizens alike…” In view of the above observation of the Supreme Court, explain the concept of constitutional morality and its application to ensure balance between judicial independence and judicial accountability in India. (250 words)**
 
 ### Answer
 **Question ID: 2025-gs2-q5-drishti_ias**
@@ -376,7 +376,7 @@ Thus, while the **Constitution** grants **Parliament** **wide powers** to **amen
 
 ---
 
-## Question 6 (Year: 2025) **Discuss the evolution of the collegium system in India. Critically examine the advantages and disadvantages of the system of appointment of the Judges of the Supreme Court of India and that of the USA.(250 words)**
+## Question 7 (Year: 2025) **Discuss the evolution of the collegium system in India. Critically examine the advantages and disadvantages of the system of appointment of the Judges of the Supreme Court of India and that of the USA.(250 words)**
 
 ### Answer
 **Question ID: 2025-gs2-q6-drishti_ias**
@@ -452,7 +452,7 @@ As **Granville Austin** noted, the Indian Constitution is a “ **seamless web o
 
 ---
 
-## Question 7 (Year: 2025) **Examine the evolving pattern of Centre-State financial relations in the context of planned development in India. How far have the recent reforms impacted the fiscal federalism in India? (250 words)**
+## Question 8 (Year: 2025) **Examine the evolving pattern of Centre-State financial relations in the context of planned development in India. How far have the recent reforms impacted the fiscal federalism in India? (250 words)**
 
 ### Answer
 **Question ID: 2025-gs2-q7-drishti_ias**
@@ -517,7 +517,7 @@ Balanced fiscal federalism is vital for **equity, efficiency, and autonomy**. Re
 
 ---
 
-## Question 8 (Year: 2024) **Examine the need for electoral reforms as suggested by various committees with particular reference to “one nation – one election” principle. (Answer in 150 words)**
+## Question 9 (Year: 2024) **Examine the need for electoral reforms as suggested by various committees with particular reference to “one nation – one election” principle. (Answer in 150 words)**
 
 ### Answer
 **Question ID: 2024-gs2-q8-drishti_ias**
@@ -566,7 +566,7 @@ While “ONOE” offers several benefits, its implementation would require const
 
 ---
 
-## Question 9 (Year: 2024) **Explain and distinguish between Lok Adalats and Arbitration Tribunals. Whether they entertain civil as well as criminal cases? (Answer in 150 words)**
+## Question 10 (Year: 2024) **Explain and distinguish between Lok Adalats and Arbitration Tribunals. Whether they entertain civil as well as criminal cases? (Answer in 150 words)**
 
 ### Answer
 **Question ID: 2024-gs2-q9-drishti_ias**
@@ -609,7 +609,7 @@ While “ONOE” offers several benefits, its implementation would require const
 
 ---
 
-## Question 10 (Year: 2024) **"The growth of the cabinet system has practically resulted in the marginalisation of the parliamentary supremacy." Elucidate. (Answer in 150 words)**
+## Question 11 (Year: 2024) **"The growth of the cabinet system has practically resulted in the marginalisation of the parliamentary supremacy." Elucidate. (Answer in 150 words)**
 
 ### Answer
 **Question ID: 2024-gs2-q10-drishti_ias**
@@ -647,7 +647,7 @@ While the cabinet system has changed power dynamics, parliamentary supremacy is 
 
 ---
 
-## Question 11 (Year: 2024) **The duty of the Comptroller and Auditor General is not merely to ensure the legality of expenditure but also its proprietary? (Answer in 150 words)**
+## Question 12 (Year: 2024) **The duty of the Comptroller and Auditor General is not merely to ensure the legality of expenditure but also its proprietary? (Answer in 150 words)**
 
 ### Answer
 **Question ID: 2024-gs2-q11-drishti_ias**
@@ -694,7 +694,7 @@ The CAG improves transparency, accountability, and efficiency in managing public
 
 ---
 
-## Question 12 (Year: 2024) **Right to Privacy is intrinsic to life and liberty and is inherently protected under Article 21 of the constitution. Explain. In this reference discuss the law relating to DNA testing of Child in the womb to establish its paternity. (Answer in 250 words)**
+## Question 13 (Year: 2024) **Right to Privacy is intrinsic to life and liberty and is inherently protected under Article 21 of the constitution. Explain. In this reference discuss the law relating to DNA testing of Child in the womb to establish its paternity. (Answer in 250 words)**
 
 ### Answer
 **Question ID: 2024-gs2-q12-drishti_ias**
@@ -752,7 +752,7 @@ While DNA testing for paternity can be allowed, it must adhere to privacy rights
 
 ---
 
-## Question 13 (Year: 2024) **What changes has the Union Government recently introduced in the domain of Centre-State Relations? Suggest measures to be adopted to build the trust between the Centre and the States for strengthening federalism. (Answer in 250 words)**
+## Question 14 (Year: 2024) **What changes has the Union Government recently introduced in the domain of Centre-State Relations? Suggest measures to be adopted to build the trust between the Centre and the States for strengthening federalism. (Answer in 250 words)**
 
 ### Answer
 **Question ID: 2024-gs2-q13-drishti_ias**
@@ -826,7 +826,7 @@ Strengthening federalism needs better dialogue through the Inter-State Council, 
 
 ---
 
-## Question 14 (Year: 2024) **Explain the reasons for the growth of public interest litigation in India. As a result of it, has the Indian Supreme Court emerged as the world's most powerful judiciary? (Answer in 250 words).**
+## Question 15 (Year: 2024) **Explain the reasons for the growth of public interest litigation in India. As a result of it, has the Indian Supreme Court emerged as the world's most powerful judiciary? (Answer in 250 words).**
 
 ### Answer
 **Question ID: 2024-gs2-q14-drishti_ias**
@@ -886,7 +886,7 @@ Though PILs have expanded the ambit of judicial review and have contributed in m
 
 ---
 
-## Question 15 (Year: 2024) **Discuss India as a secular state and compare with the secular principles of the US constitution. (Answer in 250 words)**
+## Question 16 (Year: 2024) **Discuss India as a secular state and compare with the secular principles of the US constitution. (Answer in 250 words)**
 
 ### Answer
 **Question ID: 2024-gs2-q15-drishti_ias**
@@ -933,7 +933,7 @@ Both India and the US encounter challenges in managing the interplay between rel
 
 ---
 
-## Question 16 (Year: 2023) **"Constitutionally guaranteed judicial independence is a prerequisite of democracy." Comment.**
+## Question 17 (Year: 2023) **"Constitutionally guaranteed judicial independence is a prerequisite of democracy." Comment.**
 
 ### Answer
 **Question ID: 2023-gs2-q16-drishti_ias**
@@ -970,7 +970,7 @@ Through various provisions of the Constitution, India retains an unrestricted ye
 
 ---
 
-## Question 17 (Year: 2023) **Who are entitled to receive free legal aid? Assess the role of the National Legal Services Authority (NALSA) in rendering free legal aid in India.**
+## Question 18 (Year: 2023) **Who are entitled to receive free legal aid? Assess the role of the National Legal Services Authority (NALSA) in rendering free legal aid in India.**
 
 ### Answer
 **Question ID: 2023-gs2-q17-drishti_ias**
@@ -1009,7 +1009,7 @@ NALSA has done a great job at making legal aid available to the most disadvantag
 
 ---
 
-## Question 18 (Year: 2023) **"The states in India seem reluctant to empower urban local bodies both functionally as well as financially." Comment.**
+## Question 19 (Year: 2023) **"The states in India seem reluctant to empower urban local bodies both functionally as well as financially." Comment.**
 
 ### Answer
 **Question ID: 2023-gs2-q18-drishti_ias**
@@ -1036,7 +1036,7 @@ Hence, there is a long way to go for liberalization of Urban Local Bodies and pr
 
 ---
 
-## Question 19 (Year: 2023) **Compare and contrast the British and Indian approaches to Parliamentary sovereignty.**
+## Question 20 (Year: 2023) **Compare and contrast the British and Indian approaches to Parliamentary sovereignty.**
 
 ### Answer
 **Question ID: 2023-gs2-q19-drishti_ias**
@@ -1057,7 +1057,7 @@ While India is often believed to have a system congruent to the Westminster mode
 
 ---
 
-## Question 20 (Year: 2023) **Discuss the role of Presiding Officers of state legislatures in maintaining order and impartiality in conducting legislative work and in facilitating best democratic practices.**
+## Question 21 (Year: 2023) **Discuss the role of Presiding Officers of state legislatures in maintaining order and impartiality in conducting legislative work and in facilitating best democratic practices.**
 
 ### Answer
 **Question ID: 2023-gs2-q20-drishti_ias**
@@ -1090,7 +1090,7 @@ By ensuring the fulfilment of their duties, the Presiding Officers of state legi
 
 ---
 
-## Question 21 (Year: 2023) **“The Constitution of India is a living instrument with capabilities of enormous dynamism. It is a constitution made for a progressive society.” Illustrate with special reference to the expanding horizons of the right to life and personal liberty.**
+## Question 22 (Year: 2023) **“The Constitution of India is a living instrument with capabilities of enormous dynamism. It is a constitution made for a progressive society.” Illustrate with special reference to the expanding horizons of the right to life and personal liberty.**
 
 ### Answer
 **Question ID: 2023-gs2-q21-drishti_ias**
@@ -1121,7 +1121,7 @@ The Constitution has evolved through time via various amendments that have been 
 
 ---
 
-## Question 22 (Year: 2023) **Explain the constitutional perspectives of Gender Justice with the help of relevant Constitutional Provisions and case laws.**
+## Question 23 (Year: 2023) **Explain the constitutional perspectives of Gender Justice with the help of relevant Constitutional Provisions and case laws.**
 
 ### Answer
 **Question ID: 2023-gs2-q22-drishti_ias**
@@ -1156,7 +1156,7 @@ The Indian legal and judicial perspective is one that places a lot of significan
 
 ---
 
-## Question 23 (Year: 2023) **Account for the legal and political factors responsible for the reduced frequency of using Article 356 by the Union Governments since mid 1990s.**
+## Question 24 (Year: 2023) **Account for the legal and political factors responsible for the reduced frequency of using Article 356 by the Union Governments since mid 1990s.**
 
 ### Answer
 **Question ID: 2023-gs2-q23-drishti_ias**
@@ -1185,7 +1185,7 @@ The reduced usage of Article 356 by application of various political and legal m
 
 ---
 
-## Question 24 (Year: 2023) **Explain the significance of the 101st Constitutional Amendment Act. To what extent does it reflect the accommodative spirit of federalism?**
+## Question 25 (Year: 2023) **Explain the significance of the 101st Constitutional Amendment Act. To what extent does it reflect the accommodative spirit of federalism?**
 
 ### Answer
 **Question ID: 2023-gs2-q24-drishti_ias**
@@ -1222,7 +1222,7 @@ The 101st Constitution Amendment Act, by implementing Goods and Services Tax has
 
 ---
 
-## Question 25 (Year: 2023) **Explain the structure of the Parliamentary Committee system. How far have the financial committees helped in the institutionalisation of Indian Parliament?**
+## Question 26 (Year: 2023) **Explain the structure of the Parliamentary Committee system. How far have the financial committees helped in the institutionalisation of Indian Parliament?**
 
 ### Answer
 **Question ID: 2023-gs2-q25-drishti_ias**
@@ -1269,7 +1269,7 @@ The financial committees have over the years proved to be of importance to the p
 
 ---
 
-## Question 26 (Year: 2022) **"The most significant achievement of modern law in India is the constitutionalization of environmental problems by the Supreme Court." Discuss this statement with the help of relevant case laws.**
+## Question 27 (Year: 2022) **"The most significant achievement of modern law in India is the constitutionalization of environmental problems by the Supreme Court." Discuss this statement with the help of relevant case laws.**
 
 ### Answer
 **Question ID: 2022-gs2-q26-drishti_ias**
@@ -1292,7 +1292,7 @@ Thus, SC as guardian of fundamental rights has effectively employed the provisio
 
 ---
 
-## Question 27 (Year: 2022) **"Right of movement and residence throughout the territory of India are freely available to the Indian citizens, but these rights are not absolute." Comment.**
+## Question 28 (Year: 2022) **"Right of movement and residence throughout the territory of India are freely available to the Indian citizens, but these rights are not absolute." Comment.**
 
 ### Answer
 **Question ID: 2022-gs2-q27-drishti_ias**
@@ -1317,7 +1317,7 @@ Thus, this right, while enhancing the mobility of the Indian citizens, is also s
 
 ---
 
-## Question 28 (Year: 2022) **Discuss the role of the Vice-President of India as the Chairman of the Rajya Sabha.**
+## Question 29 (Year: 2022) **Discuss the role of the Vice-President of India as the Chairman of the Rajya Sabha.**
 
 ### Answer
 **Question ID: 2022-gs2-q28-drishti_ias**
@@ -1350,7 +1350,7 @@ The Vice-President of India has been clothed with a dual capacity as the second 
 
 ---
 
-## Question 29 (Year: 2022) **Discuss the role of the National Commission for Backward Classes in the wake of its transformation from a statutory body to a constitutional body.**
+## Question 30 (Year: 2022) **Discuss the role of the National Commission for Backward Classes in the wake of its transformation from a statutory body to a constitutional body.**
 
 ### Answer
 **Question ID: 2022-gs2-q29-drishti_ias**
@@ -1375,7 +1375,7 @@ Thus, NCBC is an important commission for social progress. It should be gender s
 
 ---
 
-## Question 30 (Year: 2022) **Discuss the procedures to decide the disputes arising out of the election of a Member of the Parliament or State Legislature under The Representation of the People Act, 1951. What are the grounds on which the election of any returned candidate may be declared void? What remedy is available to the aggrieved party against the decision? Refer to the case laws.**
+## Question 31 (Year: 2022) **Discuss the procedures to decide the disputes arising out of the election of a Member of the Parliament or State Legislature under The Representation of the People Act, 1951. What are the grounds on which the election of any returned candidate may be declared void? What remedy is available to the aggrieved party against the decision? Refer to the case laws.**
 
 ### Answer
 **Question ID: 2022-gs2-q30-drishti_ias**
@@ -1410,7 +1410,7 @@ Thus, the Representation of the People Act, 1951 is crucial for the efficient fu
 
 ---
 
-## Question 31 (Year: 2022) **Discuss the essential conditions for exercise of the legislative powers by the Governor. Discuss the legality of re-promulgation of ordinances by the Governor without placing them before the Legislature.**
+## Question 32 (Year: 2022) **Discuss the essential conditions for exercise of the legislative powers by the Governor. Discuss the legality of re-promulgation of ordinances by the Governor without placing them before the Legislature.**
 
 ### Answer
 **Question ID: 2022-gs2-q31-drishti_ias**
@@ -1437,7 +1437,7 @@ Indian Constitution has provided for the separation of powers among the legislat
 
 ---
 
-## Question 32 (Year: 2022) **"While the national political parties in India favour centralisation, the regional parties are in favour of State autonomy." Comment.**
+## Question 33 (Year: 2022) **"While the national political parties in India favour centralisation, the regional parties are in favour of State autonomy." Comment.**
 
 ### Answer
 **Question ID: 2022-gs2-q32-drishti_ias**
@@ -1480,7 +1480,7 @@ Regional parties in India are of opinion that regional issues are different from
 
 ---
 
-## Question 33 (Year: 2022) **Critically examine the procedures through which the Presidents of India and France are elected.**
+## Question 34 (Year: 2022) **Critically examine the procedures through which the Presidents of India and France are elected.**
 
 ### Answer
 **Question ID: 2022-gs2-q33-drishti_ias**
@@ -1511,7 +1511,7 @@ Thus, we can say that there are some similarities as well as dissimilarities in 
 
 ---
 
-## Question 34 (Year: 2022) **Discuss the role of the Election Commission of India in the light of the evolution of the Model Code of Conduct.**
+## Question 35 (Year: 2022) **Discuss the role of the Election Commission of India in the light of the evolution of the Model Code of Conduct.**
 
 ### Answer
 **Question ID: 2022-gs2-q34-drishti_ias**
@@ -1546,7 +1546,7 @@ Model Code of Conduct does not have any statutory backing, it has come to acquir
 
 ---
 
-## Question 35 (Year: 2021) **‘Constitutional Morality’ is rooted in the Constitution itself and is founded on its essential facets. Explain the doctrine of ‘Constitutional Morality’ with the help of relevant judicial decisions.**
+## Question 36 (Year: 2021) **‘Constitutional Morality’ is rooted in the Constitution itself and is founded on its essential facets. Explain the doctrine of ‘Constitutional Morality’ with the help of relevant judicial decisions.**
 
 ### Answer
 **Question ID: 2021-gs2-q35-drishti_ias**
@@ -1579,7 +1579,7 @@ Constitutional morality is crucial for constitutional laws to be effective. With
 
 ---
 
-## Question 36 (Year: 2021)
+## Question 37 (Year: 2021)
 **Question ID: 2021-gs2-q36-drishti_ias**
 
 **Discuss the desirability of greater representation to women in the higher judiciary to ensure diversity, equity and inclusiveness.**
@@ -1602,7 +1602,7 @@ Improving the representation of women in the judiciary is of crucial importance 
 
 ---
 
-## Question 37 (Year: 2021) **How have the recommendations of the 14th Finance Commission of India enabled the States to improve their fiscal position?**
+## Question 38 (Year: 2021) **How have the recommendations of the 14th Finance Commission of India enabled the States to improve their fiscal position?**
 
 ### Answer
 **Question ID: 2021-gs2-q37-drishti_ias**
@@ -1623,7 +1623,7 @@ The Finance Commission recommendations will reform the State finances which will
 
 ---
 
-## Question 38 (Year: 2021) **To what extent, in your view, the Parliament is able to ensure accountability of the executive in India?**
+## Question 39 (Year: 2021) **To what extent, in your view, the Parliament is able to ensure accountability of the executive in India?**
 
 ### Answer
 **Question ID: 2021-gs2-q38-drishti_ias**
@@ -1664,7 +1664,7 @@ To ensure complete accountability of the Executive to the Parliament, some steps
 
 ---
 
-## Question 39 (Year: 2021) **The jurisdiction of the Central Bureau of Investigation (CBI) regarding lodging an FIR and conducting probe within a particular State is being questioned by various States. However, the power of the States to withhold consent to the CBI is not absolute. Explain with special reference to the federal character of India.**
+## Question 40 (Year: 2021) **The jurisdiction of the Central Bureau of Investigation (CBI) regarding lodging an FIR and conducting probe within a particular State is being questioned by various States. However, the power of the States to withhold consent to the CBI is not absolute. Explain with special reference to the federal character of India.**
 
 ### Answer
 **Question ID: 2021-gs2-q39-drishti_ias**
@@ -1687,7 +1687,7 @@ In context of federal structure, Police is exclusively a State subject. However,
 
 ---
 
-## Question 40 (Year: 2021)
+## Question 41 (Year: 2021)
 **Question ID: 2021-gs2-q40-drishti_ias**
 
 **Though the Human Rights Commissions have contributed immensely to the protection of human rights in India, yet they have failed to assert themselves against the mighty and powerful. Analysing their structural and practical limitations, suggest remedial measures.**
@@ -1740,7 +1740,7 @@ Manifold challenges are presented by the situation of persistent human rights vi
 
 ---
 
-## Question 41 (Year: 2021) **Analyse the distinguishing features of the notion of Right to Equality in the Constitutions of the USA and India.**
+## Question 42 (Year: 2021) **Analyse the distinguishing features of the notion of Right to Equality in the Constitutions of the USA and India.**
 
 ### Answer
 **Question ID: 2021-gs2-q41-drishti_ias**
@@ -1759,7 +1759,7 @@ The Right to Equality is considered a basic feature of both the Constitutions an
 
 ---
 
-## Question 42 (Year: 2021) **Explain the constitutional provisions under which Legislative Councils are established. Review the working and current status of Legislative Councils with suitable illustrations.**
+## Question 43 (Year: 2021) **Explain the constitutional provisions under which Legislative Councils are established. Review the working and current status of Legislative Councils with suitable illustrations.**
 
 ### Answer
 **Question ID: 2021-gs2-q42-drishti_ias**
@@ -1806,7 +1806,7 @@ Nevertheless, the Legislative Councils serve some useful purposes. They act as a
 
 ---
 
-## Question 43 (Year: 2021) **Do Department-related Parliamentary Standing Committees keep the administration on its toes and inspire reverence for parliamentary control? Evaluate the working of such committees with suitable examples.**
+## Question 44 (Year: 2021) **Do Department-related Parliamentary Standing Committees keep the administration on its toes and inspire reverence for parliamentary control? Evaluate the working of such committees with suitable examples.**
 
 ### Answer
 **Question ID: 2021-gs2-q43-drishti_ias**
@@ -1835,7 +1835,7 @@ Thus, though it is comparatively less difficult to examine an issue in depth by 
 
 ---
 
-## Question 44 (Year: 2020) **“There is a need for simplification of procedure for disqualification of persons found guilty of corrupt practices under the Representation of Peoples Act”. Comment.**
+## Question 45 (Year: 2020) **“There is a need for simplification of procedure for disqualification of persons found guilty of corrupt practices under the Representation of Peoples Act”. Comment.**
 
 ### Answer
 **Question ID: 2020-gs2-q44-drishti_ias**
@@ -1882,7 +1882,7 @@ The Representation of the Peoples Act (RPA), 1951 deals with the conduct of elec
 
 ---
 
-## Question 45 (Year: 2020) **“Recent amendmentsto the Rightto Information Act will have a profound impact on the autonomy and independence of the Information Commission”. Discuss.**
+## Question 46 (Year: 2020) **“Recent amendmentsto the Rightto Information Act will have a profound impact on the autonomy and independence of the Information Commission”. Discuss.**
 
 ### Answer
 **Question ID: 2020-gs2-q45-drishti_ias**
@@ -1915,7 +1915,7 @@ The 2nd ARC held that RTI is the master key to governance as it checks the misus
 
 ---
 
-## Question 46 (Year: 2020) **How far do you think cooperation, competition and confrontation have shaped the nature of federation in India? Cite some recent examples to validate your answer.**
+## Question 47 (Year: 2020) **How far do you think cooperation, competition and confrontation have shaped the nature of federation in India? Cite some recent examples to validate your answer.**
 
 ### Answer
 **Question ID: 2020-gs2-q46-drishti_ias**
@@ -1956,7 +1956,7 @@ Cooperative and competitive federalism are complementary ideas that will drive I
 
 ---
 
-## Question 47 (Year: 2020) **The judicialsystemsin India and the UK seem to be converging as well as diverging in recent times. Highlightthe key points of convergence and divergence between the two nationsin terms oftheirjudicial practices.**
+## Question 48 (Year: 2020) **The judicialsystemsin India and the UK seem to be converging as well as diverging in recent times. Highlightthe key points of convergence and divergence between the two nationsin terms oftheirjudicial practices.**
 
 ### Answer
 **Question ID: 2020-gs2-q47-drishti_ias**
@@ -1991,7 +1991,7 @@ The British judicial system provided the foundation on which its Indian counterp
 
 ---
 
-## Question 48 (Year: 2020) **‘Once a Speaker, Always a Speaker’! Do you think this practice should be adopted to impart objectivity to the office of the Speaker of Lok Sabha? What could be its implications for the robust functioning of parliamentary business in India?**
+## Question 49 (Year: 2020) **‘Once a Speaker, Always a Speaker’! Do you think this practice should be adopted to impart objectivity to the office of the Speaker of Lok Sabha? What could be its implications for the robust functioning of parliamentary business in India?**
 
 ### Answer
 **Question ID: 2020-gs2-q48-drishti_ias**
@@ -2034,7 +2034,7 @@ It is time to ensure impartiality and transparency in the office of the Speaker 
 
 ---
 
-## Question 49 (Year: 2020) **Indian Constitution exhibits centralising tendencies to maintain unity and integrity of the nation. Elucidate in the perspective of the Epidemic Diseases Act, 1897; The Disaster Management Act, 2005 and recently passed Farm Acts.**
+## Question 50 (Year: 2020) **Indian Constitution exhibits centralising tendencies to maintain unity and integrity of the nation. Elucidate in the perspective of the Epidemic Diseases Act, 1897; The Disaster Management Act, 2005 and recently passed Farm Acts.**
 
 ### Answer
 **Question ID: 2020-gs2-q49-drishti_ias**
@@ -2081,7 +2081,7 @@ Thus, a strong Union seems essential for coordinating vital matters of common co
 
 ---
 
-## Question 50 (Year: 2020) **Judicial Legislation is antithetical to the doctrine of separation of powers as envisaged in the Indian Constitution. In this context justify the filing of large number of public interest petitions praying for issuing guidelines to executive authorities.**
+## Question 51 (Year: 2020) **Judicial Legislation is antithetical to the doctrine of separation of powers as envisaged in the Indian Constitution. In this context justify the filing of large number of public interest petitions praying for issuing guidelines to executive authorities.**
 
 ### Answer
 **Question ID: 2020-gs2-q50-drishti_ias**
@@ -2126,7 +2126,7 @@ Thus, though Judicial Legislation is antithetical to the doctrine of separation 
 
 ---
 
-## Question 51 (Year: 2020) **The strength and sustenance of local institutions in India has shifted from their formative phase of ‘Functions, Functionaries and Funds’to the contemporary stage of ‘Functionality’. Highlightthe critical challenges faced by local institutions in terms of their functionality in recent times.**
+## Question 52 (Year: 2020) **The strength and sustenance of local institutions in India has shifted from their formative phase of ‘Functions, Functionaries and Funds’to the contemporary stage of ‘Functionality’. Highlightthe critical challenges faced by local institutions in terms of their functionality in recent times.**
 
 ### Answer
 **Question ID: 2020-gs2-q51-drishti_ias**
@@ -2175,7 +2175,7 @@ Local institutions have been able to strengthen democracy at the root level. But
 
 ---
 
-## Question 52 (Year: 2020) **Rajya Sabha has been transformed from a ‘useless stepney tyre’ to the most useful supporting organ in past few decades. Highlight the factors as well as the areas in which this transformation could be visible.**
+## Question 53 (Year: 2020) **Rajya Sabha has been transformed from a ‘useless stepney tyre’ to the most useful supporting organ in past few decades. Highlight the factors as well as the areas in which this transformation could be visible.**
 
 ### Answer
 **Question ID: 2020-gs2-q52-drishti_ias**
@@ -2218,7 +2218,7 @@ Even though the ups and downs of Indian politics, the Rajya Sabha has remained a
 
 ---
 
-## Question 53 (Year: 2020) **Which steps are required for constitutionalization of a Commission? Do you think imparting constitutionality to the National Commission for Women would ensure greater gender justice and empowerment in India? Give reasons.**
+## Question 54 (Year: 2020) **Which steps are required for constitutionalization of a Commission? Do you think imparting constitutionality to the National Commission for Women would ensure greater gender justice and empowerment in India? Give reasons.**
 
 ### Answer
 **Question ID: 2020-gs2-q53-drishti_ias**
@@ -2255,7 +2255,7 @@ Granting constitutional status the NCW helps in ensuring greater gender justice 
 
 ---
 
-## Question 54 (Year: 2019) **Do you think that Constitution of India does not accept principle of strict separation of powers rather it is based on the principle of 'checks and balance'? Explain.**
+## Question 55 (Year: 2019) **Do you think that Constitution of India does not accept principle of strict separation of powers rather it is based on the principle of 'checks and balance'? Explain.**
 
 ### Answer
 **Question ID: 2019-gs2-q54-drishti_ias**
@@ -2274,7 +2274,7 @@ Indian constitution have meticulously defined powers and functions of the differ
 
 ---
 
-## Question 55 (Year: 2019) **From the resolution of contentious issues regarding distribution of legislative powers by the courts, 'Principle of Federal Supremacy' and 'Harmonious Construction' have emerged. Explain.**
+## Question 56 (Year: 2019) **From the resolution of contentious issues regarding distribution of legislative powers by the courts, 'Principle of Federal Supremacy' and 'Harmonious Construction' have emerged. Explain.**
 
 ### Answer
 **Question ID: 2019-gs2-q55-drishti_ias**
@@ -2295,7 +2295,7 @@ When there is a conflict between the statue’s provisions between the union and
 
 ---
 
-## Question 56 (Year: 2019) **What can France learn from the Indian Constitution’s approach to secularism.**
+## Question 57 (Year: 2019) **What can France learn from the Indian Constitution’s approach to secularism.**
 
 ### Answer
 **Question ID: 2019-gs2-q56-drishti_ias**
@@ -2324,7 +2324,7 @@ We may observe this from the fact that very few people in India were radicalised
 
 ---
 
-## Question 57 (Year: 2019) **On what grounds a people’s representative can be disqualified under the Representation of Peoples Act, 1951? Also mention the remedies available to such person against his disqualification.**
+## Question 58 (Year: 2019) **On what grounds a people’s representative can be disqualified under the Representation of Peoples Act, 1951? Also mention the remedies available to such person against his disqualification.**
 
 ### Answer
 **Question ID: 2019-gs2-q57-drishti_ias**
@@ -2361,7 +2361,7 @@ The Act of 1951 has laid down certain **criteria for disqualifications**. Accord
 
 ---
 
-## Question 58 (Year: 2019) **Parliament’s power to amend the constitution is limited power and it cannot be enlarged into absolute power”. In light of this statement explain whether parliament under Article 368 of the constitution can destroy the Basic structure of the constitution by expanding its amending power?**
+## Question 59 (Year: 2019) **Parliament’s power to amend the constitution is limited power and it cannot be enlarged into absolute power”. In light of this statement explain whether parliament under Article 368 of the constitution can destroy the Basic structure of the constitution by expanding its amending power?**
 
 ### Answer
 **Question ID: 2019-gs2-q58-drishti_ias**
@@ -2390,7 +2390,7 @@ Thus, Parliament is restricted in its power to amend the Constitution so that th
 
 ---
 
-## Question 59 (Year: 2019) **"The reservation of seats for women in the institutions of local self-government has had a limited impact on the patriarchal character of the Indian Political Process." Comment.**
+## Question 60 (Year: 2019) **"The reservation of seats for women in the institutions of local self-government has had a limited impact on the patriarchal character of the Indian Political Process." Comment.**
 
 ### Answer
 **Question ID: 2019-gs2-q59-drishti_ias**
@@ -2435,7 +2435,7 @@ The reservation of women at the local level has had various social and developme
 
 ---
 
-## Question 60 (Year: 2019) **“The Attorney-General is the chief legal adviser and lawyer of the Government of India.” Discuss.**
+## Question 61 (Year: 2019) **“The Attorney-General is the chief legal adviser and lawyer of the Government of India.” Discuss.**
 
 ### Answer
 **Question ID: 2019-gs2-q60-drishti_ias**
@@ -2466,7 +2466,7 @@ Thus, the duties and privileges of the AGI, combined with the limitations impose
 
 ---
 
-## Question 61 (Year: 2019) **Individual Parliamentarian’s role as the national law maker is on a decline, which in turn, has adversely impacted the quality of debates and their outcome. Discuss.**
+## Question 62 (Year: 2019) **Individual Parliamentarian’s role as the national law maker is on a decline, which in turn, has adversely impacted the quality of debates and their outcome. Discuss.**
 
 ### Answer
 **Question ID: 2019-gs2-q61-drishti_ias**
@@ -2509,7 +2509,7 @@ In a mature parliamentary system, all ideas should be debated and decided upon. 
 
 ---
 
-## Question 62 (Year: 2018) **In the light of recent controversy regarding the use of Electronic Voting Machine (EVM), what are the challenges before the Election Commission of India to ensure the trustworthiness of elections in India? (2018)**
+## Question 63 (Year: 2018) **In the light of recent controversy regarding the use of Electronic Voting Machine (EVM), what are the challenges before the Election Commission of India to ensure the trustworthiness of elections in India? (2018)**
 
 ### Answer
 **Question ID: 2018-gs2-q62-drishti_ias**
@@ -2540,7 +2540,7 @@ EVMs have brought a structure to the electoral process that did not exist during
 
 ---
 
-## Question 63 (Year: 2018) **Whether National Commission for Scheduled Castes (NCSC) can enforce the implementation of constitutional reservation for the Scheduled Castes in the religious minority institutions? Examine. (2018)**
+## Question 64 (Year: 2018) **Whether National Commission for Scheduled Castes (NCSC) can enforce the implementation of constitutional reservation for the Scheduled Castes in the religious minority institutions? Examine. (2018)**
 
 ### Answer
 **Question ID: 2018-gs2-q63-drishti_ias**
@@ -2555,7 +2555,7 @@ Therefore, the according to the Constitution of India, minority institutions und
 
 ---
 
-## Question 64 (Year: 2018) **Under what circumstances can the Financial Emergency be proclaimed by the President of India? What consequences follow when such a declaration remain in force? (2018)**
+## Question 65 (Year: 2018) **Under what circumstances can the Financial Emergency be proclaimed by the President of India? What consequences follow when such a declaration remain in force? (2018)**
 
 ### Answer
 **Question ID: 2018-gs2-q64-drishti_ias**
@@ -2576,7 +2576,7 @@ Till now, the Financial Emergency has never been invoked in India.
 
 ---
 
-## Question 65 (Year: 2018) **Why do you think the committees are considered to be useful for parliamentary work? Discuss, in this context, the role of the Estimates Committee. (2018)**
+## Question 66 (Year: 2018) **Why do you think the committees are considered to be useful for parliamentary work? Discuss, in this context, the role of the Estimates Committee. (2018)**
 
 ### Answer
 **Question ID: 2018-gs2-q65-drishti_ias**
@@ -2605,7 +2605,7 @@ However, the effectiveness of the role of the committee is limited by the follow
 
 ---
 
-## Question 66 (Year: 2018) **“The Comptroller and Auditor General (CAG) has a very vital role to play.” Explain how this is reflected in the method and terms of his appointment as well as the range of powers he can exercise. (2018)**
+## Question 67 (Year: 2018) **“The Comptroller and Auditor General (CAG) has a very vital role to play.” Explain how this is reflected in the method and terms of his appointment as well as the range of powers he can exercise. (2018)**
 
 ### Answer
 **Question ID: 2018-gs2-q66-drishti_ias**
@@ -2632,7 +2632,7 @@ Its role as the highest auditing authority is intrinsically linked to the effica
 
 ---
 
-## Question 67 (Year: 2018) **Whether the Supreme Court Judgment (July 2018) can settle the political tussle between the Lt. Governor and elected government of Delhi? Examine. (2018)**
+## Question 68 (Year: 2018) **Whether the Supreme Court Judgment (July 2018) can settle the political tussle between the Lt. Governor and elected government of Delhi? Examine. (2018)**
 
 ### Answer
 **Question ID: 2018-gs2-q67-drishti_ias**
@@ -2651,7 +2651,7 @@ The noble principles of democracy and deliberation have been worded by Supreme C
 
 ---
 
-## Question 68 (Year: 2018) **How far do you agree with the view that tribunals curtail the jurisdiction of ordinary courts? In view of the above, discuss the constitutional validity and competency of the tribunals in India? (2018)**
+## Question 69 (Year: 2018) **How far do you agree with the view that tribunals curtail the jurisdiction of ordinary courts? In view of the above, discuss the constitutional validity and competency of the tribunals in India? (2018)**
 
 ### Answer
 **Question ID: 2018-gs2-q68-drishti_ias**
@@ -2680,7 +2680,7 @@ A tribunal is a quasi-judicial body established by an Act of Parliament or State
 
 ---
 
-## Question 69 (Year: 2018) **How is the Finance Commission of India constituted? What do you know about the terms of reference of the recently constituted Finance Commission? Discuss. (2018)**
+## Question 70 (Year: 2018) **How is the Finance Commission of India constituted? What do you know about the terms of reference of the recently constituted Finance Commission? Discuss. (2018)**
 
 ### Answer
 **Question ID: 2018-gs2-q69-drishti_ias**
@@ -2725,7 +2725,7 @@ The Constitution envisages the FC as the balancing wheel of the fiscal federalis
 
 ---
 
-## Question 70 (Year: 2017) **“The local self government system in India has not proved to be effective instrument of governance”. Critically examine the statement and give your views to improve the situation. (2017)**
+## Question 71 (Year: 2017) **“The local self government system in India has not proved to be effective instrument of governance”. Critically examine the statement and give your views to improve the situation. (2017)**
 
 ### Answer
 **Question ID: 2017-gs2-q70-drishti_ias**
@@ -2760,7 +2760,7 @@ The LSGs are dependent on the states for **:** - **Functions:** The progress of 
 
 ---
 
-## Question 71 (Year: 2017) **Critically examine the Supreme Court’s judgement on ‘National Judicial Appointments Commission Act, 2014’ with reference to appointment of judges of higher judiciary in India. (2017)**
+## Question 72 (Year: 2017) **Critically examine the Supreme Court’s judgement on ‘National Judicial Appointments Commission Act, 2014’ with reference to appointment of judges of higher judiciary in India. (2017)**
 
 ### Answer
 **Question ID: 2017-gs2-q71-drishti_ias**
@@ -2785,7 +2785,7 @@ The Constitution envisages and puts a system in place to ensure the balance of p
 
 ---
 
-## Question 72 (Year: 2017) **‘Simultaneous election to the Lok Sabha and the State Assemblies will limit the amount of time and money spent in electioneering but it will reduce the government’s accountability to the people’ Discuss. (2017)**
+## Question 73 (Year: 2017) **‘Simultaneous election to the Lok Sabha and the State Assemblies will limit the amount of time and money spent in electioneering but it will reduce the government’s accountability to the people’ Discuss. (2017)**
 
 ### Answer
 **Question ID: 2017-gs2-q72-drishti_ias**
@@ -2812,7 +2812,7 @@ Simultaneous elections are desirable provided they are juxtaposed with certain r
 
 ---
 
-## Question 73 (Year: 2017) **How do pressure groups influence Indian political process? Do you agree with this view that informal pressure groups have emerged as powerful as formal pressure groups in recent years? (2017)**
+## Question 74 (Year: 2017) **How do pressure groups influence Indian political process? Do you agree with this view that informal pressure groups have emerged as powerful as formal pressure groups in recent years? (2017)**
 
 ### Answer
 **Question ID: 2017-gs2-q73-drishti_ias**
@@ -2841,7 +2841,7 @@ Both of these movements were informal, not associated to any identities or entit
 
 ---
 
-## Question 74 (Year: 2017) **Explain the salient features of the constitution (One Hundred and First Amendment) Act, 2016. Do you think it is efficacious enough ‘to remove cascading effect of taxes and provide for common national market for goods and services’? (2017)**
+## Question 75 (Year: 2017) **Explain the salient features of the constitution (One Hundred and First Amendment) Act, 2016. Do you think it is efficacious enough ‘to remove cascading effect of taxes and provide for common national market for goods and services’? (2017)**
 
 ### Answer
 **Question ID: 2017-gs2-q74-drishti_ias**
@@ -2870,7 +2870,7 @@ Any new reform is expected to experience a few teething problems. Since it is ex
 
 ---
 
-## Question 75 (Year: 2017) **Examine the scope of Fundamental Rights in the light of the latest judgement of the Supreme Court on Right to Privacy. (2017)**
+## Question 76 (Year: 2017) **Examine the scope of Fundamental Rights in the light of the latest judgement of the Supreme Court on Right to Privacy. (2017)**
 
 ### Answer
 **Question ID: 2017-gs2-q75-drishti_ias**
@@ -2893,7 +2893,7 @@ However it should not be forgotten that no fundamental rights are absolute in In
 
 ---
 
-## Question 76 (Year: 2017) **The Indian Constitution has provisions for holding a joint session of the two houses of the Parliament. Enumerate the occasions when this would normally happen and also the occasions when it cannot, with reasons thereof. (2017)**
+## Question 77 (Year: 2017) **The Indian Constitution has provisions for holding a joint session of the two houses of the Parliament. Enumerate the occasions when this would normally happen and also the occasions when it cannot, with reasons thereof. (2017)**
 
 ### Answer
 **Question ID: 2017-gs2-q76-drishti_ias**
@@ -2916,7 +2916,7 @@ Dowry Prohibition Act, 1960, Banking Service Commission Act, 1977 and POTA, 2002
 
 ---
 
-## Question 77 (Year: 2017) **To enhance the quality of democracy in India the Election Commission of India has proposed electoral reforms in 2016. What are the suggested reforms and how far are they significant to make democracy successful? (2017)**
+## Question 78 (Year: 2017) **To enhance the quality of democracy in India the Election Commission of India has proposed electoral reforms in 2016. What are the suggested reforms and how far are they significant to make democracy successful? (2017)**
 
 ### Answer
 **Question ID: 2017-gs2-q77-drishti_ias**
@@ -2943,7 +2943,7 @@ Electoral reform basically aims at introducing an electoral system of conducting
 
 ---
 
-## Question 78 (Year: 2017) **Is the National Commission for Women able to strategise and tackle the problems that women face at both public and private spheres? Give reasons in support of your answer. (2017)**
+## Question 79 (Year: 2017) **Is the National Commission for Women able to strategise and tackle the problems that women face at both public and private spheres? Give reasons in support of your answer. (2017)**
 
 ### Answer
 **Question ID: 2017-gs2-q78-drishti_ias**
@@ -2970,7 +2970,7 @@ Thus there is a need to safeguard the political autonomy of NCW by replacing the
 
 ---
 
-## Question 79 (Year: 2016) **Discuss the essentials of the 69th Constitutional Amendment Act and anomalies, if any, that have led to recent reported conflicts between the elected representatives and institution of Lieutenant Governor in the administration of Delhi. Do you think that this will give rise to a new trend in the functioning of the Indian Federal Politics? (2016)**
+## Question 80 (Year: 2016) **Discuss the essentials of the 69th Constitutional Amendment Act and anomalies, if any, that have led to recent reported conflicts between the elected representatives and institution of Lieutenant Governor in the administration of Delhi. Do you think that this will give rise to a new trend in the functioning of the Indian Federal Politics? (2016)**
 
 ### Answer
 **Question ID: 2016-gs2-q79-drishti_ias**
@@ -2987,7 +2987,7 @@ This impasse is not new altogether. Since 1967, when the parties ruling at centr
 
 ---
 
-## Question 80 (Year: 2016) **To what extent is Article 370 of the Indian Constitution, bearing marginal note “temporary provision with respect to the State of Jammu and Kashmir”, temporary? Discuss the future prospects of this provision in the context of Indian polity. (2016)**
+## Question 81 (Year: 2016) **To what extent is Article 370 of the Indian Constitution, bearing marginal note “temporary provision with respect to the State of Jammu and Kashmir”, temporary? Discuss the future prospects of this provision in the context of Indian polity. (2016)**
 
 ### Answer
 **Question ID: 2016-gs2-q80-drishti_ias**
@@ -3002,7 +3002,7 @@ For this, the state legislature of J&K would have to agree and since the ruling 
 
 ---
 
-## Question 81 (Year: 2016) **The Indian party system is passing through a phase of transition which looks to be full of contradictions and paradoxes.” Discuss. (2016)**
+## Question 82 (Year: 2016) **The Indian party system is passing through a phase of transition which looks to be full of contradictions and paradoxes.” Discuss. (2016)**
 
 ### Answer
 **Question ID: 2016-gs2-q81-drishti_ias**
@@ -3025,7 +3025,7 @@ The party system can be said to be moving from social cohesion to fragmentation 
 
 ---
 
-## Question 82 (Year: 2016) **Exercise of CAG’s powers in relation to the accounts of the Union and the States is derived from Article 149 of the Indian Constitution. Discuss whether audit of the Government’s policy implementation could amount to overstepping its own (CAG) jurisdiction. (2016)**
+## Question 83 (Year: 2016) **Exercise of CAG’s powers in relation to the accounts of the Union and the States is derived from Article 149 of the Indian Constitution. Discuss whether audit of the Government’s policy implementation could amount to overstepping its own (CAG) jurisdiction. (2016)**
 
 ### Answer
 **Question ID: 2016-gs2-q82-drishti_ias**
@@ -3042,7 +3042,7 @@ The institution of CAG is no longer that of only auditors as it was probably 50 
 
 ---
 
-## Question 83 (Year: 2016) **Discuss each adjective attached to the word ‘Republic’ in the ‘Preamble’. Are they defendable in the present circumstances? (2016)**
+## Question 84 (Year: 2016) **Discuss each adjective attached to the word ‘Republic’ in the ‘Preamble’. Are they defendable in the present circumstances? (2016)**
 
 ### Answer
 **Question ID: 2016-gs2-q83-drishti_ias**
@@ -3069,7 +3069,7 @@ Increasing role of money and muscle power in elections, has resulted in parliame
 
 ---
 
-## Question 84 (Year: 2016) **What was held in the Coelho case? In this context, can you say that judicial review is of key importance amongst the basic features of the Constitution? (2016)**
+## Question 85 (Year: 2016) **What was held in the Coelho case? In this context, can you say that judicial review is of key importance amongst the basic features of the Constitution? (2016)**
 
 ### Answer
 **Question ID: 2016-gs2-q84-drishti_ias**
@@ -3094,7 +3094,7 @@ Therefore, judicial review is a crucial aspect and cornerstone to our constituti
 
 ---
 
-## Question 85 (Year: 2016) **Did the Government of India Act, 1935 lay down a federal constitution? Discuss. (2016)**
+## Question 86 (Year: 2016) **Did the Government of India Act, 1935 lay down a federal constitution? Discuss. (2016)**
 
 ### Answer
 **Question ID: 2016-gs2-q85-drishti_ias**
@@ -3129,7 +3129,7 @@ However, the establishment of the all–India federation did not materialize bec
 
 ---
 
-## Question 86 (Year: 2016) **What is quasi judicial body? Explain with the help of concrete examples. (2016)**
+## Question 87 (Year: 2016) **What is quasi judicial body? Explain with the help of concrete examples. (2016)**
 **Question ID: 2016-gs2-q86-drishti_ias**
 
 ### Answer
@@ -3147,7 +3147,7 @@ Send To My Bookmarks
 
 ---
 
-## Question 87 (Year: 2025)
+## Question 88 (Year: 2025)
 **Question ID: 2025-gs2-q87-drishti_ias**
 
 **e-governance projects have a built-in bias towards technology and back-end integration than user-centric designs. Examine.(Answer in 150 words) 10**
@@ -3207,7 +3207,7 @@ While **technological integration** is essential for improving public administra
 
 ---
 
-## Question 88 (Year: 2025) **Civil Society Organizations are often perceived as being anti-State actors than non-State actors. Do you agree? Justify. (Answer in 150 words)**
+## Question 89 (Year: 2025) **Civil Society Organizations are often perceived as being anti-State actors than non-State actors. Do you agree? Justify. (Answer in 150 words)**
 
 ### Answer
 **Question ID: 2025-gs2-q88-drishti_ias**
@@ -3265,7 +3265,7 @@ CSOs may sometimes confront the State, but this does not make them **anti-State*
 
 ---
 
-## Question 89 (Year: 2025) **What are environmental pressure groups? Discuss their role in raising awareness, influencing policies and advocating for environmental protection in India. (250 words)**
+## Question 90 (Year: 2025) **What are environmental pressure groups? Discuss their role in raising awareness, influencing policies and advocating for environmental protection in India. (250 words)**
 
 ### Answer
 **Question ID: 2025-gs2-q89-drishti_ias**
@@ -3322,7 +3322,7 @@ Environmental pressure groups are **critical actors in India’s environmental g
 
 ---
 
-## Question 90 (Year: 2025) **“In contemporary development models, decision-making and problem-solving responsibilities are not located close to the source of information and execution, defeating the objectives of development.” Critically evaluate. (Answer in 250 words)**
+## Question 91 (Year: 2025) **“In contemporary development models, decision-making and problem-solving responsibilities are not located close to the source of information and execution, defeating the objectives of development.” Critically evaluate. (Answer in 250 words)**
 
 ### Answer
 **Question ID: 2025-gs2-q90-drishti_ias**
@@ -3395,7 +3395,7 @@ Development succeeds when **decisions travel downward** as much as resources do.
 
 ---
 
-## Question 91 (Year: 2024) **Analyse the role of local bodies in providing good governance at local level and bring out the pros and cons merging the rural local bodies with the urban local bodies. (Answer in 150 words)**
+## Question 92 (Year: 2024) **Analyse the role of local bodies in providing good governance at local level and bring out the pros and cons merging the rural local bodies with the urban local bodies. (Answer in 150 words)**
 
 ### Answer
 **Question ID: 2024-gs2-q91-drishti_ias**
@@ -3438,7 +3438,7 @@ While merging local bodies can improve efficiency, it risks diminishing local id
 
 ---
 
-## Question 92 (Year: 2024) **The Doctrine of Democratic Governance makes it necessary that the public perception of the integrity and commitment of civil servants becomes absolutely positive. Discuss. (Answer in 150 words)**
+## Question 93 (Year: 2024) **The Doctrine of Democratic Governance makes it necessary that the public perception of the integrity and commitment of civil servants becomes absolutely positive. Discuss. (Answer in 150 words)**
 
 ### Answer
 **Question ID: 2024-gs2-q92-drishti_ias**
@@ -3494,7 +3494,7 @@ Achieving a positive public perception of civil servants' integrity and commitme
 
 - --
 
-## Question 7 (Year: 2024) **What are the aims and objects of recently passed and enforced, The Public Examination (Prevention of Unfair Means) Act, 2024? Whether University/State Education Board examinations, too, are covered under the Act? (Answer in 250 words)**
+## Question 94 (Year: 2024) **What are the aims and objects of recently passed and enforced, The Public Examination (Prevention of Unfair Means) Act, 2024? Whether University/State Education Board examinations, too, are covered under the Act? (Answer in 250 words)**
 
 ### Answer
 
@@ -3553,7 +3553,7 @@ The Public Examinations Act, 2024, strengthens the integrity of public exams in 
 
 ---
 
-## Question 93 (Year: 2024) **The Citizen Charter has been a landmark initiative in ensuring citizen centric administration. But it is yet to reach its full potential. Identify the factors hindering the realisation of its promise and suggest measures to overcome them? (Answer in 250 words)**
+## Question 95 (Year: 2024) **The Citizen Charter has been a landmark initiative in ensuring citizen centric administration. But it is yet to reach its full potential. Identify the factors hindering the realisation of its promise and suggest measures to overcome them? (Answer in 250 words)**
 
 ### Answer
 **Question ID: 2024-gs2-q93-drishti_ias**
@@ -3608,7 +3608,7 @@ The Citizen's Charter has the potential to revolutionize governance by enhancing
 
 ---
 
-## Question 94 (Year: 2024) **e-governance is not just about the routine application of digital technology in service delivery process. It is as much about multifarious interactions for ensuring transparency and accountability. In this context evaluate the role of the ‘Interactive Service Model’ of e-governance. (Answer in 250 words)**
+## Question 96 (Year: 2024) **e-governance is not just about the routine application of digital technology in service delivery process. It is as much about multifarious interactions for ensuring transparency and accountability. In this context evaluate the role of the ‘Interactive Service Model’ of e-governance. (Answer in 250 words)**
 
 ### Answer
 **Question ID: 2024-gs2-q94-drishti_ias**
@@ -3655,7 +3655,7 @@ To tackle the challenges of the Interactive Service Model of e-governance, the g
 
 ---
 
-## Question 95 (Year: 2023) **Discuss the role of the Competition Commission of India in containing the abuse of dominant position by the Multi-National Corporations in India.**
+## Question 97 (Year: 2023) **Discuss the role of the Competition Commission of India in containing the abuse of dominant position by the Multi-National Corporations in India.**
 
 ### Answer
 **Question ID: 2023-gs2-q95-drishti_ias**
@@ -3682,7 +3682,7 @@ Adjudicating more than 1200 cases with 89% disposal rate and having overseen mor
 
 ---
 
-## Question 96 (Year: 2023) **e-Governance, as a critical tool of governance, has ushered in effectiveness, transparency and accountability in governments. What inadequacies hamper the enhancement of these features?**
+## Question 98 (Year: 2023) **e-Governance, as a critical tool of governance, has ushered in effectiveness, transparency and accountability in governments. What inadequacies hamper the enhancement of these features?**
 
 ### Answer
 **Question ID: 2023-gs2-q96-drishti_ias**
@@ -3715,7 +3715,7 @@ While e-governance is a boon to the society, its inadequacies must be kept in mi
 
 ---
 
-## Question 97 (Year: 2022) **To what extent, in your opinion, has the decentralisation of power in India changed the governance landscape at the grassroots?**
+## Question 99 (Year: 2022) **To what extent, in your opinion, has the decentralisation of power in India changed the governance landscape at the grassroots?**
 
 ### Answer
 **Question ID: 2022-gs2-q97-drishti_ias**
@@ -3750,7 +3750,7 @@ For Local bodies and Panchayats to play a bigger role in human capital intervent
 
 ---
 
-## Question 98 (Year: 2022) **The Gati-Shakti Yojana needs meticulous co-ordination between the government and the private sector to achieve the goal of connectivity. Discuss.**
+## Question 100 (Year: 2022) **The Gati-Shakti Yojana needs meticulous co-ordination between the government and the private sector to achieve the goal of connectivity. Discuss.**
 
 ### Answer
 **Question ID: 2022-gs2-q98-drishti_ias**
@@ -3798,7 +3798,7 @@ The projects pertaining to these 7 engines in the “National Infrastructure Pip
 
 ---
 
-## Question 99 (Year: 2022) **The Rights of Persons with Disabilities Act, 2016 remains only a legal document without intense sensitisation of government functionaries and citizens regarding disability. Comment.**
+## Question 101 (Year: 2022) **The Rights of Persons with Disabilities Act, 2016 remains only a legal document without intense sensitisation of government functionaries and citizens regarding disability. Comment.**
 
 ### Answer
 **Question ID: 2022-gs2-q99-drishti_ias**
@@ -3846,7 +3846,7 @@ While the government and the judiciary have adopted a right based approach with 
 
 ---
 
-## Question 100 (Year: 2022) **Reforming the government delivery system through the Direct Benefit Transfer Scheme is a progressive step, but it has its limitations too. Comment.**
+## Question 102 (Year: 2022) **Reforming the government delivery system through the Direct Benefit Transfer Scheme is a progressive step, but it has its limitations too. Comment.**
 
 ### Answer
 **Question ID: 2022-gs2-q100-drishti_ias**
@@ -3887,7 +3887,7 @@ There is no doubt that DBT is a positive milestone in the government delivery sy
 
 ---
 
-## Question 101 (Year: 2021) **“Pressure groups play a vital role in influencing public policy making in India.” Explain how the business associations contribute to public policies.**
+## Question 103 (Year: 2021) **“Pressure groups play a vital role in influencing public policy making in India.” Explain how the business associations contribute to public policies.**
 
 ### Answer
 **Question ID: 2021-gs2-q101-drishti_ias**
@@ -3914,7 +3914,7 @@ Besides, in a system of representative democracy, the business groups influence 
 
 ---
 
-## Question 102 (Year: 2021) **Has digital illiteracy, particularly in rural areas, coupled with lack of Information and Communication Technology (ICT) accessibility hindered socio-economic development? Examine with justification.**
+## Question 104 (Year: 2021) **Has digital illiteracy, particularly in rural areas, coupled with lack of Information and Communication Technology (ICT) accessibility hindered socio-economic development? Examine with justification.**
 
 ### Answer
 **Question ID: 2021-gs2-q102-drishti_ias**
@@ -3941,7 +3941,7 @@ The government needs to focus on information accessibility, information utilisat
 
 ---
 
-## Question 103 (Year: 2020) **“Institutional quality is a crucial driver of economic performance”. In this context suggest reforms in the Civil Service for strengthening democracy.**
+## Question 105 (Year: 2020) **“Institutional quality is a crucial driver of economic performance”. In this context suggest reforms in the Civil Service for strengthening democracy.**
 
 ### Answer
 **Question ID: 2020-gs2-q103-drishti_ias**
@@ -3978,7 +3978,7 @@ Sardar Patel considered the civil service “the steel frame of government machi
 
 ---
 
-## Question 104 (Year: 2020) **“The emergence of the Fourth Industrial Revolution (Digital Revolution) hasinitiated e-Governance as an integral part of government”. Discuss.**
+## Question 106 (Year: 2020) **“The emergence of the Fourth Industrial Revolution (Digital Revolution) hasinitiated e-Governance as an integral part of government”. Discuss.**
 
 ### Answer
 **Question ID: 2020-gs2-q104-drishti_ias**
@@ -4007,7 +4007,7 @@ Industrial Revolution 4.0 brings with it immense potential to improve governance
 
 ---
 
-## Question 105 (Year: 2019) **The central administrative tribunal which was established for redressal of grievances and complaints by or against central government employees nowadays is exercising its power as an independent judicial authority. Explain.**
+## Question 107 (Year: 2019) **The central administrative tribunal which was established for redressal of grievances and complaints by or against central government employees nowadays is exercising its power as an independent judicial authority. Explain.**
 
 ### Answer
 **Question ID: 2019-gs2-q105-drishti_ias**
@@ -4042,7 +4042,7 @@ Thus, it can be fairly argued that the tribunal which was formed for grievance a
 
 ---
 
-## Question 106 (Year: 2019) **What are the methods used by the farmers’ organisation to influence the policy-makers in India and how effective are these methods?**
+## Question 108 (Year: 2019) **What are the methods used by the farmers’ organisation to influence the policy-makers in India and how effective are these methods?**
 
 ### Answer
 **Question ID: 2019-gs2-q106-drishti_ias**
@@ -4077,7 +4077,7 @@ Thus, although organising the protest and mobilising support help in gaining the
 
 ---
 
-## Question 107 (Year: 2019) **Implementation of Information and Communication Technology (ICT) based projects/programmes usually suffers in terms of certain vital factors. Identify these factors and suggest measures for their effective implementation.**
+## Question 109 (Year: 2019) **Implementation of Information and Communication Technology (ICT) based projects/programmes usually suffers in terms of certain vital factors. Identify these factors and suggest measures for their effective implementation.**
 
 ### Answer
 **Question ID: 2019-gs2-q107-drishti_ias**
@@ -4126,7 +4126,7 @@ Hence, if the challenges and lacunae of ICT based programmes are effectively tac
 
 ---
 
-## Question 108 (Year: 2019) **‘In the context of neo-liberal paradigm of development planning, multi-level planning is expected to make operations cost-effective and remove many implementation blockages.” Discuss.**
+## Question 110 (Year: 2019) **‘In the context of neo-liberal paradigm of development planning, multi-level planning is expected to make operations cost-effective and remove many implementation blockages.” Discuss.**
 
 ### Answer
 **Question ID: 2019-gs2-q108-drishti_ias**
@@ -4165,7 +4165,7 @@ Niti Aayog has taken various initiatives to develop mechanisms to formulate cred
 
 ---
 
-## Question 109 (Year: 2019) **The need for cooperation among various services sectors has been an inherent component of development discourse. Partnership bridges the gap among the sectors. It also sets in motion a culture of ‘collaboration’ and ‘team spirit’. In the light of statements above examine India’s development process.**
+## Question 111 (Year: 2019) **The need for cooperation among various services sectors has been an inherent component of development discourse. Partnership bridges the gap among the sectors. It also sets in motion a culture of ‘collaboration’ and ‘team spirit’. In the light of statements above examine India’s development process.**
 
 ### Answer
 **Question ID: 2019-gs2-q109-drishti_ias**
@@ -4236,7 +4236,7 @@ Services sector not only promotes economic growth but also creates opportunity f
 
 ---
 
-## Question 110 (Year: 2018) **“Policy Contradictions among various competing sectors and stakeholders have resulted in inadequate ‘protection and prevention of degradation’ to environment.” Comment with relevant illustrations. (2018)**
+## Question 112 (Year: 2018) **“Policy Contradictions among various competing sectors and stakeholders have resulted in inadequate ‘protection and prevention of degradation’ to environment.” Comment with relevant illustrations. (2018)**
 
 ### Answer
 **Question ID: 2018-gs2-q110-drishti_ias**
@@ -4257,7 +4257,7 @@ Given the above examples, various sectors and their stake holders need to work i
 
 ---
 
-## Question 111 (Year: 2018) **E-governance is not only about utilization of the power of new technology, but also much about critical importance of the ‘use value’ of information. Explain. (2018)**
+## Question 113 (Year: 2018) **E-governance is not only about utilization of the power of new technology, but also much about critical importance of the ‘use value’ of information. Explain. (2018)**
 
 ### Answer
 **Question ID: 2018-gs2-q111-drishti_ias**
@@ -4272,7 +4272,7 @@ Therefore, the focus of e- governance should not only be limited to efficiently 
 
 ---
 
-## Question 112 (Year: 2018) **Assess the importance of the Panchayat system in India as a part of local government. Apart from government grants, what sources the Panchayats can look out for financing development projects? (2018)**
+## Question 114 (Year: 2018) **Assess the importance of the Panchayat system in India as a part of local government. Apart from government grants, what sources the Panchayats can look out for financing development projects? (2018)**
 
 ### Answer
 **Question ID: 2018-gs2-q112-drishti_ias**
@@ -4291,7 +4291,7 @@ However, the decisions as to which taxes, duties, tolls and fees should be assig
 
 ---
 
-## Question 113 (Year: 2018) **Multiplicity of various commissions for the vulnerable sections of the society leads to problems of overlapping jurisdiction & duplication of functions. Is it better to merge all commissions into an umbrella human rights commission? Argue your case. (2018)**
+## Question 115 (Year: 2018) **Multiplicity of various commissions for the vulnerable sections of the society leads to problems of overlapping jurisdiction & duplication of functions. Is it better to merge all commissions into an umbrella human rights commission? Argue your case. (2018)**
 
 ### Answer
 **Question ID: 2018-gs2-q113-drishti_ias**
@@ -4320,7 +4320,7 @@ The Human Rights Commission (unified)needs to be given more teeth in terms of in
 
 ---
 
-## Question 114 (Year: 2018) **The Citizens’ Charter is an ideal instrument of organizational transparency and accountability, but it has its own limitations. Identify the limitations and suggest measures for greater effectiveness of the Citizens’ Charter. (2018)**
+## Question 116 (Year: 2018) **The Citizens’ Charter is an ideal instrument of organizational transparency and accountability, but it has its own limitations. Identify the limitations and suggest measures for greater effectiveness of the Citizens’ Charter. (2018)**
 
 ### Answer
 **Question ID: 2018-gs2-q114-drishti_ias**
@@ -4369,7 +4369,7 @@ Therefore, given the importance of Citizens’ Charters in ensuring good governa
 
 ---
 
-## Question 115 (Year: 2017) **Discuss the role of Public Accounts Committee in establishing accountability of the government to the people. (2017)**
+## Question 117 (Year: 2017) **Discuss the role of Public Accounts Committee in establishing accountability of the government to the people. (2017)**
 
 ### Answer
 **Question ID: 2017-gs2-q115-drishti_ias**
@@ -4406,7 +4406,7 @@ However PAC at times, through its criticism of the inefficient public expenditur
 
 ---
 
-## Question 116 (Year: 2017) **‘The emergence of Self Help Groups(SHGs) in contemporary times points to the slow but steady withdrawal of the state from developmental activities’. Examine the role of the SHGs in developmental activities and the measures taken by the Government of India to promote the SHGs. (2017)**
+## Question 118 (Year: 2017) **‘The emergence of Self Help Groups(SHGs) in contemporary times points to the slow but steady withdrawal of the state from developmental activities’. Examine the role of the SHGs in developmental activities and the measures taken by the Government of India to promote the SHGs. (2017)**
 
 ### Answer
 **Question ID: 2017-gs2-q116-drishti_ias**
@@ -4445,7 +4445,7 @@ Given the important role SHGs play in development activities, the government sho
 
 ---
 
-## Question 117 (Year: 2017) **Initially Civil Services in India were designed to achieve the goals of neutrality and effectiveness, which seems to be lacking in the present context. Do you agree with the view that drastic reforms are required in Civil Services. Comment. (2017)**
+## Question 119 (Year: 2017) **Initially Civil Services in India were designed to achieve the goals of neutrality and effectiveness, which seems to be lacking in the present context. Do you agree with the view that drastic reforms are required in Civil Services. Comment. (2017)**
 
 ### Answer
 **Question ID: 2017-gs2-q117-drishti_ias**
@@ -4476,7 +4476,7 @@ Therefore, the purpose of ‘reform’ is to reorient the civil services into a 
 
 ---
 
-## Question 118 (Year: 2016) **“In the Indian governance system, the role of non-state actors has been only marginal.” Critically examine this statement. (2016)**
+## Question 120 (Year: 2016) **“In the Indian governance system, the role of non-state actors has been only marginal.” Critically examine this statement. (2016)**
 
 ### Answer
 **Question ID: 2016-gs2-q118-drishti_ias**
@@ -4501,7 +4501,7 @@ At the same time, their contribution to the governance domain is limited by lack
 
 ---
 
-## Question 119 (Year: 2016) **“Effectiveness of the government system at various levels and people’s participation in the governance system are inter-dependent” Discuss their relationship in the context of India. (2016)**
+## Question 121 (Year: 2016) **“Effectiveness of the government system at various levels and people’s participation in the governance system are inter-dependent” Discuss their relationship in the context of India. (2016)**
 
 ### Answer
 **Question ID: 2016-gs2-q119-drishti_ias**
@@ -4534,7 +4534,7 @@ With the help of the above measures, there has been a significant improvement in
 
 ---
 
-## Question 120 (Year: 2016) **In the integrity index of Transparency International, India stands very low. Discuss briefly the legal, political, social and cultural factors that have caused the decline of public morality in India. (2016)**
+## Question 122 (Year: 2016) **In the integrity index of Transparency International, India stands very low. Discuss briefly the legal, political, social and cultural factors that have caused the decline of public morality in India. (2016)**
 
 ### Answer
 **Question ID: 2016-gs2-q120-drishti_ias**
@@ -4575,7 +4575,7 @@ Corruption is a global phenomenon and it is omnipotent. It has progressively inc
 
 ---
 
-## Question 121 (Year: 2016) **Has the Indian governmental system responded adequately to the demands of Liberalization, Privatization and Globalization started in 1991? What can the government do to be responsive to this important change? (2016)**
+## Question 123 (Year: 2016) **Has the Indian governmental system responded adequately to the demands of Liberalization, Privatization and Globalization started in 1991? What can the government do to be responsive to this important change? (2016)**
 
 ### Answer
 **Question ID: 2016-gs2-q121-drishti_ias**
@@ -4592,7 +4592,7 @@ Hence, for the government to be responsive to this important change, it needs to
 
 ---
 
-## Question 122 (Year: 2016) **“Traditional bureaucratic structure and culture have hampered the process of socio-economic development in India.” Comment. (2016)**
+## Question 124 (Year: 2016) **“Traditional bureaucratic structure and culture have hampered the process of socio-economic development in India.” Comment. (2016)**
 
 ### Answer
 **Question ID: 2016-gs2-q122-drishti_ias**
@@ -4607,7 +4607,7 @@ With the opening up of the economy with the 1991 reforms, things have gradually 
 
 ---
 
-## Question 123 (Year: 2016) **“Demographic Dividend in India will remain only theoretical unless our manpower becomes more educated, aware, skilled and creative.” What measures have been taken by the government to enhance the capacity of our population to be more productive and employable? (2016)**
+## Question 125 (Year: 2016) **“Demographic Dividend in India will remain only theoretical unless our manpower becomes more educated, aware, skilled and creative.” What measures have been taken by the government to enhance the capacity of our population to be more productive and employable? (2016)**
 **Question ID: 2016-gs2-q123-drishti_ias**
 
 ### Answer
@@ -4633,7 +4633,7 @@ Send To My Bookmarks
 
 ---
 
-## Question 124 (Year: 2025)
+## Question 126 (Year: 2025)
 **Question ID: 2025-gs2-q124-drishti_ias**
 
 **Women’s social capital complements in advancing empowerment and gender equity. Explain. (Answer in 150 words)**
@@ -4707,7 +4707,7 @@ Women’s **social capital** plays a crucial role in advancing **empowerment** a
 
 ---
 
-## Question 125 (Year: 2025) **Inequality in the ownership pattern of resources is one of the major causes of poverty. Discuss in the context of 'paradox of poverty'. (Answer in 250 words)**
+## Question 127 (Year: 2025) **Inequality in the ownership pattern of resources is one of the major causes of poverty. Discuss in the context of 'paradox of poverty'. (Answer in 250 words)**
 
 ### Answer
 **Question ID: 2025-gs2-q125-drishti_ias**
@@ -4760,7 +4760,7 @@ As scholars like Mark Rank argue, **poverty reflects systemic vulnerabilities ra
 
 ---
 
-## Question 126 (Year: 2025) **The National Commission for Protection of Child Rights has to address the challenges faced by children in the digital era. Examine the existing policies and suggest measures the Commission can initiate to tackle the issue. (Answer in 250 words)**
+## Question 128 (Year: 2025) **The National Commission for Protection of Child Rights has to address the challenges faced by children in the digital era. Examine the existing policies and suggest measures the Commission can initiate to tackle the issue. (Answer in 250 words)**
 
 ### Answer
 **Question ID: 2025-gs2-q126-drishti_ias**
@@ -4823,7 +4823,7 @@ NCPCR plays a vital role in protecting children’s rights in the digital age. T
 
 ---
 
-## Question 127 (Year: 2024) **Public charitable trusts have the potential to make India's development more inclusive as they relate to certain vital public issues. Comment. (Answer in 150 words)**
+## Question 129 (Year: 2024) **Public charitable trusts have the potential to make India's development more inclusive as they relate to certain vital public issues. Comment. (Answer in 150 words)**
 **Question ID: 2024-gs2-q127-drishti_ias**
 
 ### Answer
@@ -4865,7 +4865,7 @@ Limited funding, bureaucratic hurdles, and reliance on donors can hinder charita
 
 ---
 
-## Question 128 (Year: 2024) **Poverty and malnutrition create a vicious cycle, adversely affecting human capital formation. What steps can be taken to break the cycle? (Answer in 150 words)**
+## Question 130 (Year: 2024) **Poverty and malnutrition create a vicious cycle, adversely affecting human capital formation. What steps can be taken to break the cycle? (Answer in 150 words)**
 
 ### Answer
 **Question ID: 2024-gs2-q128-drishti_ias**
@@ -4911,7 +4911,7 @@ Breaking the vicious cycle of poverty and malnutrition is essential for achievin
 
 ---
 
-## Question 129 (Year: 2024) **In a crucial domain like the public healthcare system the Indian State should play a vital role to contain the adverse impact of marketisation of the system. Suggest some measures through which the State can enhance the reach of public healthcare at the grassroots level. (Answer in 250 words)**
+## Question 131 (Year: 2024) **In a crucial domain like the public healthcare system the Indian State should play a vital role to contain the adverse impact of marketisation of the system. Suggest some measures through which the State can enhance the reach of public healthcare at the grassroots level. (Answer in 250 words)**
 
 ### Answer
 **Question ID: 2024-gs2-q129-drishti_ias**
@@ -4964,7 +4964,7 @@ The state should utilise marketization to enhance competition and deliver afford
 
 ---
 
-## Question 130 (Year: 2023) **The crucial aspect of development process has been the inadequate attention paid to Human Resource Development in India. Suggest measures that can address this inadequacy.**
+## Question 132 (Year: 2023) **The crucial aspect of development process has been the inadequate attention paid to Human Resource Development in India. Suggest measures that can address this inadequacy.**
 
 ### Answer
 **Question ID: 2023-gs2-q130-drishti_ias**
@@ -4989,7 +4989,7 @@ Although India is a developing nation with a young, vibrant population, if adequ
 
 ---
 
-## Question 131 (Year: 2023) **Discuss the contribution of civil society groups for women’s effective and meaningful participation and representation in state legislatures in India.**
+## Question 133 (Year: 2023) **Discuss the contribution of civil society groups for women’s effective and meaningful participation and representation in state legislatures in India.**
 
 ### Answer
 **Question ID: 2023-gs2-q131-drishti_ias**
@@ -5010,7 +5010,7 @@ Therefore, the effects of civil society groups on the legislative process of Ind
 
 ---
 
-## Question 132 (Year: 2023) **“Development and welfare schemes for the vulnerable, by its nature, are discriminatory in approach.” Do you agree? Give reasons for your answer.**
+## Question 134 (Year: 2023) **“Development and welfare schemes for the vulnerable, by its nature, are discriminatory in approach.” Do you agree? Give reasons for your answer.**
 
 ### Answer
 **Question ID: 2023-gs2-q132-drishti_ias**
@@ -5047,7 +5047,7 @@ Therefore, while it is true that welfare schemes for the vulnerable are indeed d
 
 ---
 
-## Question 133 (Year: 2023) **Skill development programmes have succeeded in increasing human resources supply to various sectors. In the context of the statement, analyse the linkages between education, skill and employment.**
+## Question 135 (Year: 2023) **Skill development programmes have succeeded in increasing human resources supply to various sectors. In the context of the statement, analyse the linkages between education, skill and employment.**
 
 ### Answer
 **Question ID: 2023-gs2-q133-drishti_ias**
@@ -5078,7 +5078,7 @@ Various skill development programmes such as Pradhan Mantri Kaushal Vikas Yojana
 
 ---
 
-## Question 134 (Year: 2022) **Besides the welfare schemes, India needs deft management of inflation and unemployment to serve the poor and the underprivileged sections of the society. Discuss.**
+## Question 136 (Year: 2022) **Besides the welfare schemes, India needs deft management of inflation and unemployment to serve the poor and the underprivileged sections of the society. Discuss.**
 
 ### Answer
 **Question ID: 2022-gs2-q134-drishti_ias**
@@ -5135,7 +5135,7 @@ India has leading demographic dividend, **fifth largest** economy by nominal GDP
 
 ---
 
-## Question 135 (Year: 2022) **Do you agree with the view that increasing dependence on donor agencies for development reduces the importance of community participation in the development process? Justify your answer.**
+## Question 137 (Year: 2022) **Do you agree with the view that increasing dependence on donor agencies for development reduces the importance of community participation in the development process? Justify your answer.**
 
 ### Answer
 **Question ID: 2022-gs2-q135-drishti_ias**
@@ -5162,7 +5162,7 @@ Thus, Donor agencies are humanitarian but if we get over-dependent on them, then
 
 ---
 
-## Question 136 (Year: 2022) **The Right of Children to Free and Compulsory Education Act, 2009 remains indadequate in promoting incentive-based system for children's education without generating awareness about the importance of schooling. Analyse.**
+## Question 138 (Year: 2022) **The Right of Children to Free and Compulsory Education Act, 2009 remains indadequate in promoting incentive-based system for children's education without generating awareness about the importance of schooling. Analyse.**
 **Question ID: 2022-gs2-q136-drishti_ias**
 
 ### Answer
@@ -5237,7 +5237,7 @@ It has been twelve years since the implementation of RTE Act, but it still has a
 
 ---
 
-## Question 137 (Year: 2021) **“Besides being a moral imperative of a Welfare State, primary health structure is a necessary precondition for sustainable development.” Analyse.**
+## Question 139 (Year: 2021) **“Besides being a moral imperative of a Welfare State, primary health structure is a necessary precondition for sustainable development.” Analyse.**
 
 ### Answer
 **Question ID: 2021-gs2-q137-drishti_ias**
@@ -5266,7 +5266,7 @@ As recognized in the 2018 Astana Declaration, the Primary Health Care approach i
 
 ---
 
-## Question 138 (Year: 2021) **“Earn while you learn scheme needs to be strengthened to make vocational education and skill training meaningful.” Comment.**
+## Question 140 (Year: 2021) **“Earn while you learn scheme needs to be strengthened to make vocational education and skill training meaningful.” Comment.**
 
 ### Answer
 **Question ID: 2021-gs2-q138-drishti_ias**
@@ -5299,7 +5299,7 @@ More awareness about this kind of initiatives by the government should be genera
 
 ---
 
-## Question 139 (Year: 2021) **Can the vicious cycle of gender inequality, poverty and malnutrition be broken through microfinancing of women SHGs? Explain with examples.**
+## Question 141 (Year: 2021) **Can the vicious cycle of gender inequality, poverty and malnutrition be broken through microfinancing of women SHGs? Explain with examples.**
 
 ### Answer
 **Question ID: 2021-gs2-q139-drishti_ias**
@@ -5322,7 +5322,7 @@ Though microfinancing of women SHGs can help overcome challenges like malnutriti
 
 ---
 
-## Question 140 (Year: 2021) **“Though women in post-Independent India have excelled in various fields, the social attitude towards women and feminist movement has been patriarchal.” Apart from women education and women empowerment schemes, what interventions can help change this milieu?**
+## Question 142 (Year: 2021) **“Though women in post-Independent India have excelled in various fields, the social attitude towards women and feminist movement has been patriarchal.” Apart from women education and women empowerment schemes, what interventions can help change this milieu?**
 
 ### Answer
 **Question ID: 2021-gs2-q140-drishti_ias**
@@ -5351,7 +5351,7 @@ Thus, education and empowerment schemes are necessary to support the feminist mo
 
 ---
 
-## Question 141 (Year: 2021) **Can Civil Society and Non-Governmental Organisations present an alternative model of public service delivery to benefit the common citizen? Discuss the challenges of this alternative model.**
+## Question 143 (Year: 2021) **Can Civil Society and Non-Governmental Organisations present an alternative model of public service delivery to benefit the common citizen? Discuss the challenges of this alternative model.**
 
 ### Answer
 **Question ID: 2021-gs2-q141-drishti_ias**
@@ -5382,7 +5382,7 @@ Civil society and NGOs can be made an integral part of the development process b
 
 ---
 
-## Question 142 (Year: 2020) **In order to enhance the prospects of social development, sound and adequate health care policies are needed particularly in the fields of geriatric and maternal health care. Discuss.**
+## Question 144 (Year: 2020) **In order to enhance the prospects of social development, sound and adequate health care policies are needed particularly in the fields of geriatric and maternal health care. Discuss.**
 
 ### Answer
 **Question ID: 2020-gs2-q142-drishti_ias**
@@ -5445,7 +5445,7 @@ Healthcare has a major role to play in reducing social exclusion at the local le
 
 ---
 
-## Question 143 (Year: 2020) **“The incidence and intensity of poverty are more important in determining poverty based on income alone”. In this context analyse the latest United Nations Multidimensional Poverty Index Report.**
+## Question 145 (Year: 2020) **“The incidence and intensity of poverty are more important in determining poverty based on income alone”. In this context analyse the latest United Nations Multidimensional Poverty Index Report.**
 
 ### Answer
 **Question ID: 2020-gs2-q143-drishti_ias**
@@ -5482,7 +5482,7 @@ The MPI methodology shows aspects in which the poor are deprived and helps to re
 
 ---
 
-## Question 144 (Year: 2020) **“Micro-Finance as an anti-poverty vaccine, is aimed at asset creation and income security of the rural poorin India”. Evaluate the role ofthe Self Help Groups in achieving the twin objectives along with empowering women in rural India.**
+## Question 146 (Year: 2020) **“Micro-Finance as an anti-poverty vaccine, is aimed at asset creation and income security of the rural poorin India”. Evaluate the role ofthe Self Help Groups in achieving the twin objectives along with empowering women in rural India.**
 
 ### Answer
 **Question ID: 2020-gs2-q144-drishti_ias**
@@ -5517,7 +5517,7 @@ For equitable and sustainable development in rural India, financial inclusion su
 
 ---
 
-## Question 145 (Year: 2020) **National Education Policy 2020 isin conformity with the Sustainable Development Goal-4 (2030). It intends to restructure and reorient education system in India. Critically examine the statement.**
+## Question 147 (Year: 2020) **National Education Policy 2020 isin conformity with the Sustainable Development Goal-4 (2030). It intends to restructure and reorient education system in India. Critically examine the statement.**
 
 ### Answer
 **Question ID: 2020-gs2-q145-drishti_ias**
@@ -5550,7 +5550,7 @@ NEP 2020 has the potential to make an overwhelming impact on the socio-economic 
 
 ---
 
-## Question 146 (Year: 2019) **Despite the consistent experience of high growth, India still goes with the lowest indicators of human development. Examine the issues that make balanced and inclusive development elusive.**
+## Question 148 (Year: 2019) **Despite the consistent experience of high growth, India still goes with the lowest indicators of human development. Examine the issues that make balanced and inclusive development elusive.**
 
 ### Answer
 **Question ID: 2019-gs2-q146-drishti_ias**
@@ -5621,7 +5621,7 @@ Human development and economic growth share a cause and effect to each other rel
 
 ---
 
-## Question 147 (Year: 2019) **There is a growing divergence in the relationship between poverty and hunger in India. The shrinking of social expenditure by the government is forcing the poor to spend more on non-food essential items squeezing their food budget. Elucidate.**
+## Question 149 (Year: 2019) **There is a growing divergence in the relationship between poverty and hunger in India. The shrinking of social expenditure by the government is forcing the poor to spend more on non-food essential items squeezing their food budget. Elucidate.**
 
 ### Answer
 **Question ID: 2019-gs2-q147-drishti_ias**
@@ -5648,7 +5648,7 @@ Economists Amartya Sen and Jean Dreze distinguish two aspects of social security
 
 ---
 
-## Question 148 (Year: 2019) **Performance of welfare schemes that are implemented for vulnerable sections is not so effective due to absence of their awareness and active involvement at all stages of policy process. Discuss.**
+## Question 150 (Year: 2019) **Performance of welfare schemes that are implemented for vulnerable sections is not so effective due to absence of their awareness and active involvement at all stages of policy process. Discuss.**
 
 ### Answer
 **Question ID: 2019-gs2-q148-drishti_ias**
@@ -5689,7 +5689,7 @@ The quality of policy framework and effectiveness of implementation of the polic
 
 ---
 
-## Question 149 (Year: 2018) **Appropriate local community-level healthcare intervention is a prerequisite to achieve ‘Health for All’ in India. Explain. (2018)**
+## Question 151 (Year: 2018) **Appropriate local community-level healthcare intervention is a prerequisite to achieve ‘Health for All’ in India. Explain. (2018)**
 
 ### Answer
 **Question ID: 2018-gs2-q149-drishti_ias**
@@ -5712,7 +5712,7 @@ Hence, it is important to address these issues at the community level to achieve
 
 ---
 
-## Question 150 (Year: 2018) **How far do you agree with the view that the focus on lack of availability of food as the main cause of hunger takes the attention away from ineffective human development policies in India? (2018)**
+## Question 152 (Year: 2018) **How far do you agree with the view that the focus on lack of availability of food as the main cause of hunger takes the attention away from ineffective human development policies in India? (2018)**
 
 ### Answer
 **Question ID: 2018-gs2-q150-drishti_ias**
@@ -5725,7 +5725,7 @@ Ending hunger and malnutrition will not be achieved by focusing on food security
 
 ---
 
-## Question 151 (Year: 2017) **‘To ensure effective implementation of policies addressing water, sanitation and hygiene needs, the identification of beneficiary segments is to be synchronized with the anticipated outcomes’. Examine the statement in the context of the WASH scheme. (2017)**
+## Question 153 (Year: 2017) **‘To ensure effective implementation of policies addressing water, sanitation and hygiene needs, the identification of beneficiary segments is to be synchronized with the anticipated outcomes’. Examine the statement in the context of the WASH scheme. (2017)**
 
 ### Answer
 **Question ID: 2017-gs2-q151-drishti_ias**
@@ -5742,7 +5742,7 @@ A traditional approach has been to segment the beneficiaries on the basis of geo
 
 ---
 
-## Question 152 (Year: 2017) **Does the Rights of Persons with Disabilities Act, 2016 ensure effective mechanism for empowerment and inclusion of the intended beneficiaries in the society? Discuss. (2017)**
+## Question 154 (Year: 2017) **Does the Rights of Persons with Disabilities Act, 2016 ensure effective mechanism for empowerment and inclusion of the intended beneficiaries in the society? Discuss. (2017)**
 
 ### Answer
 **Question ID: 2017-gs2-q152-drishti_ias**
@@ -5767,7 +5767,7 @@ While the 2016 Act provides many reassurances, brings domestic law in consonance
 
 ---
 
-## Question 153 (Year: 2017) **Hunger and Poverty are the biggest challenges for good governance in India still today. Evaluate how far successive governments have progressed in dealing with these humongous problems. Suggest measures for improvement. (2017)**
+## Question 155 (Year: 2017) **Hunger and Poverty are the biggest challenges for good governance in India still today. Evaluate how far successive governments have progressed in dealing with these humongous problems. Suggest measures for improvement. (2017)**
 
 ### Answer
 **Question ID: 2017-gs2-q153-drishti_ias**
@@ -5798,7 +5798,7 @@ But the challenges still remain. According to the latest Global Hunger Index (20
 
 ---
 
-## Question 154 (Year: 2017) **“Poverty Alleviation programs in India remain mere showpieces until and unless they are backed up by political will.” Discuss with reference to the performance of the major poverty alleviation program in India. (2017)**
+## Question 156 (Year: 2017) **“Poverty Alleviation programs in India remain mere showpieces until and unless they are backed up by political will.” Discuss with reference to the performance of the major poverty alleviation program in India. (2017)**
 
 ### Answer
 **Question ID: 2017-gs2-q154-drishti_ias**
@@ -5833,7 +5833,7 @@ As things stand, many of those living in poverty today will continue to remain p
 
 ---
 
-## Question 155 (Year: 2016) **Professor Amartya Sen has advocated important reforms in the realms of primary education and primary health care. What are your suggestions to improve their status and performance? (2016)**
+## Question 157 (Year: 2016) **Professor Amartya Sen has advocated important reforms in the realms of primary education and primary health care. What are your suggestions to improve their status and performance? (2016)**
 
 ### Answer
 **Question ID: 2016-gs2-q155-drishti_ias**
@@ -5874,7 +5874,7 @@ India is the only country in the world which is aiming to become a global econom
 
 ---
 
-## Question 156 (Year: 2016) **Examine the main provisions of the National Child Policy and throw light on the status of its implementation. (2016)**
+## Question 158 (Year: 2016) **Examine the main provisions of the National Child Policy and throw light on the status of its implementation. (2016)**
 
 ### Answer
 **Question ID: 2016-gs2-q156-drishti_ias**
@@ -5912,7 +5912,7 @@ Send To My Bookmarks
 
 ---
 
-## Question 157 (Year: 2025)
+## Question 159 (Year: 2025)
 **Question ID: 2025-gs2-q157-drishti_ias**
 
 **India-Africa digital partnership is achieving mutual respect, co-development and long-term institutional partnerships. Elaborate. (Answer in 150 words)**
@@ -5970,7 +5970,7 @@ The **India-Africa digital partnership** exemplifies a model of **mutual respect
 
 ---
 
-## Question 158 (Year: 2025) **“With the waning of globalization, post-Cold War world is becoming a site of sovereign nationalism.” Elucidate. (Answer in 150 words) 10**
+## Question 160 (Year: 2025) **“With the waning of globalization, post-Cold War world is becoming a site of sovereign nationalism.” Elucidate. (Answer in 150 words) 10**
 
 ### Answer
 **Question ID: 2025-gs2-q158-drishti_ias**
@@ -6022,7 +6022,7 @@ The post-Cold War world has seen a significant shift from **global cooperation**
 
 ---
 
-## Question 159 (Year: 2025) **“Energy security constitutes the dominant kingpin of India’s foreign policy, and is linked with India’s overarching influence in Middle Eastern countries.” How would you integrate energy security with India’s foreign policy trajectories in the coming years? (Answer in 250 words)**
+## Question 161 (Year: 2025) **“Energy security constitutes the dominant kingpin of India’s foreign policy, and is linked with India’s overarching influence in Middle Eastern countries.” How would you integrate energy security with India’s foreign policy trajectories in the coming years? (Answer in 250 words)**
 
 ### Answer
 **Question ID: 2025-gs2-q159-drishti_ias**
@@ -6098,7 +6098,7 @@ Keeping energy at the core of foreign policy—by securing Gulf hydrocarbons tod
 
 ---
 
-## Question 160 (Year: 2025) **“The reform process in the United Nations remains unresolved, because of the delicate imbalance of East and West and entanglement of the USA vs. Russo-Chinese alliance.” Examine and critically evaluate the East-West policy confrontations in this regard. (Answer in 250 words)**
+## Question 162 (Year: 2025) **“The reform process in the United Nations remains unresolved, because of the delicate imbalance of East and West and entanglement of the USA vs. Russo-Chinese alliance.” Examine and critically evaluate the East-West policy confrontations in this regard. (Answer in 250 words)**
 
 ### Answer
 **Question ID: 2025-gs2-q160-drishti_ias**
@@ -6176,7 +6176,7 @@ UN reform remains stuck between urgency and inertia. P5 privilege and North–So
 
 ---
 
-## Question 161 (Year: 2024) **“The West is fostering India as an alternative to reduce dependence on China’s supply chain and as a strategic ally to counter China’s political and economic dominance.” Explain this statement with examples. (Answer in 150 words)**
+## Question 163 (Year: 2024) **“The West is fostering India as an alternative to reduce dependence on China’s supply chain and as a strategic ally to counter China’s political and economic dominance.” Explain this statement with examples. (Answer in 150 words)**
 
 ### Answer
 **Question ID: 2024-gs2-q161-drishti_ias**
@@ -6221,7 +6221,7 @@ Looking forward, India has the potential to emerge as a key player in global sup
 
 - --
 
-## Question 6 (Year: 2024) **Critically analyse India's evolving diplomatic, economic and strategic relations with Central Asian Republics highlighting their increasing significance in regional global geopolitics. (Answer in 150 words)**
+## Question 164 (Year: 2024) **Critically analyse India's evolving diplomatic, economic and strategic relations with Central Asian Republics highlighting their increasing significance in regional global geopolitics. (Answer in 150 words)**
 
 ### Answer
 
@@ -6272,7 +6272,7 @@ India should maintain **proactive diplomatic engagements** with Central Asian na
 
 ---
 
-## Question 162 (Year: 2024) **Terrorism has become a significant threat to global peace and security. Evaluate the effectiveness of the United Nations Security Council’s Counter-Terrorism Committee (CTC) and its associated bodies in addressing and mitigating this threat at the international level. (Answer in 250 words).**
+## Question 165 (Year: 2024) **Terrorism has become a significant threat to global peace and security. Evaluate the effectiveness of the United Nations Security Council’s Counter-Terrorism Committee (CTC) and its associated bodies in addressing and mitigating this threat at the international level. (Answer in 250 words).**
 
 ### Answer
 **Question ID: 2024-gs2-q162-drishti_ias**
@@ -6339,7 +6339,7 @@ While the CTC has advanced in countering terrorism, a proactive approach is vita
 
 ---
 
-## Question 163 (Year: 2024) **Discuss the geopolitical and geostrategic importance of Maldives for India with a focus on global trade and energy flows. Further also discuss how this relationship affects India's maritime security and regional stability amidst international competition ? (Answer in 250 words)**
+## Question 166 (Year: 2024) **Discuss the geopolitical and geostrategic importance of Maldives for India with a focus on global trade and energy flows. Further also discuss how this relationship affects India's maritime security and regional stability amidst international competition ? (Answer in 250 words)**
 
 ### Answer
 **Question ID: 2024-gs2-q163-drishti_ias**
@@ -6389,7 +6389,7 @@ Amid rising Chinese influence and anti-India sentiment, strengthening India-Mald
 
 ---
 
-## Question 164 (Year: 2023) **‘Virus of Conflict is affecting the functioning of the SCO'. In the light of the above statement, point out the role of India in mitigating the problems.**
+## Question 167 (Year: 2023) **‘Virus of Conflict is affecting the functioning of the SCO'. In the light of the above statement, point out the role of India in mitigating the problems.**
 
 ### Answer
 **Question ID: 2023-gs2-q164-drishti_ias**
@@ -6422,7 +6422,7 @@ India’s role in mitigation of various SCO conflicts can be immense considering
 
 ---
 
-## Question 165 (Year: 2023) **Indian diaspora has scaled new heights in the West. Describe its economic and political benefits for India.**
+## Question 168 (Year: 2023) **Indian diaspora has scaled new heights in the West. Describe its economic and political benefits for India.**
 
 ### Answer
 **Question ID: 2023-gs2-q165-drishti_ias**
@@ -6455,7 +6455,7 @@ India enjoys a great advantage due to its extensive spread of a diaspora of 32 m
 
 ---
 
-## Question 166 (Year: 2023) **‘The expansion and strengthening of NATO and a stronger US-Europe strategic partnership works well for India.’ What is your opinion about this statement? Give reasons and examples to support your answer.**
+## Question 169 (Year: 2023) **‘The expansion and strengthening of NATO and a stronger US-Europe strategic partnership works well for India.’ What is your opinion about this statement? Give reasons and examples to support your answer.**
 
 ### Answer
 **Question ID: 2023-gs2-q166-drishti_ias**
@@ -6486,7 +6486,7 @@ Overall, India would benefit immensely from a strengthened NATO and a stronger U
 
 ---
 
-## Question 167 (Year: 2023) **‘Sea is an important Component of the Cosmos.’ Discuss in the light of the above statement, the role of the IMO (International Maritime Organisation) in protecting environment and enhancing maritime safety and security.**
+## Question 170 (Year: 2023) **‘Sea is an important Component of the Cosmos.’ Discuss in the light of the above statement, the role of the IMO (International Maritime Organisation) in protecting environment and enhancing maritime safety and security.**
 
 ### Answer
 **Question ID: 2023-gs2-q167-drishti_ias**
@@ -6519,7 +6519,7 @@ The International Maritime Organisation (IMO) plays a major role in protecting e
 
 ---
 
-## Question 168 (Year: 2022) **‘India is an age-old friend of Sri Lanka.’ Discuss India's role in the recent crisis in Sri Lanka in the light of the preceding statement.**
+## Question 171 (Year: 2022) **‘India is an age-old friend of Sri Lanka.’ Discuss India's role in the recent crisis in Sri Lanka in the light of the preceding statement.**
 
 ### Answer
 **Question ID: 2022-gs2-q168-drishti_ias**
@@ -6568,7 +6568,7 @@ The Sri Lankan crisis is not just a domestic problem, but it has a spill-over ef
 
 ---
 
-## Question 169 (Year: 2022) **Do you think that BIMSTEC is a parallel organisation like the SAARC? Waht are the similarities and dissimilarities between the two? How are Indian foreign policy objectives realized by forming this new organisation?**
+## Question 172 (Year: 2022) **Do you think that BIMSTEC is a parallel organisation like the SAARC? Waht are the similarities and dissimilarities between the two? How are Indian foreign policy objectives realized by forming this new organisation?**
 
 ### Answer
 **Question ID: 2022-gs2-q169-drishti_ias**
@@ -6608,7 +6608,7 @@ The two organisations focus on geographically overlapping regions. However, this
 
 ---
 
-## Question 170 (Year: 2022) **How will I2U2 (India, Israel, UAE and USA) grouping transform India's position in global politics?**
+## Question 173 (Year: 2022) **How will I2U2 (India, Israel, UAE and USA) grouping transform India's position in global politics?**
 
 ### Answer
 **Question ID: 2022-gs2-q170-drishti_ias**
@@ -6661,7 +6661,7 @@ The I2U2 group makes lot of sense in West Asia and South Asia geopolitics. For I
 
 ---
 
-## Question 171 (Year: 2022) **'Clean energy is the order of the day.' Describe briefly India's changing policy towards climate change in various international fora in the context of geopolitics.**
+## Question 174 (Year: 2022) **'Clean energy is the order of the day.' Describe briefly India's changing policy towards climate change in various international fora in the context of geopolitics.**
 
 ### Answer
 **Question ID: 2022-gs2-q171-drishti_ias**
@@ -6688,7 +6688,7 @@ Thus, India has modified its climate change policy according to the developments
 
 ---
 
-## Question 172 (Year: 2021) **“If the last few decades were of Asia’s growth story, the next few are expected to be of Africa’s.” In the light of this statement, examine India’s influence in Africa in recent years.**
+## Question 175 (Year: 2021) **“If the last few decades were of Asia’s growth story, the next few are expected to be of Africa’s.” In the light of this statement, examine India’s influence in Africa in recent years.**
 
 ### Answer
 **Question ID: 2021-gs2-q172-drishti_ias**
@@ -6717,7 +6717,7 @@ India and Africa offer a lot of opportunities for each other in coming times lik
 
 ---
 
-## Question 173 (Year: 2021) **“The USA is facing an existential threat in the form of China, that is much more challenging than the erstwhile Soviet Union.” Explain.**
+## Question 176 (Year: 2021) **“The USA is facing an existential threat in the form of China, that is much more challenging than the erstwhile Soviet Union.” Explain.**
 
 ### Answer
 **Question ID: 2021-gs2-q173-drishti_ias**
@@ -6740,7 +6740,7 @@ Given the high degree of interdependence and the prevalence of globalisation, th
 
 ---
 
-## Question 174 (Year: 2021) **Critically examine the aims and objectives of SCO. What importance does it hold for India?**
+## Question 177 (Year: 2021) **Critically examine the aims and objectives of SCO. What importance does it hold for India?**
 
 ### Answer
 **Question ID: 2021-gs2-q174-drishti_ias**
@@ -6771,7 +6771,7 @@ India’s relations with countries in the region have enormous potential for enh
 
 ---
 
-## Question 175 (Year: 2021) **The new tri-nation partnership AUKUS is aimed at countering China’s ambitions in the Indo-Pacific region. Is it going to supersede the existing partnerships in the region? Discuss the strength and impact of AUKUS in the present scenario.**
+## Question 178 (Year: 2021) **The new tri-nation partnership AUKUS is aimed at countering China’s ambitions in the Indo-Pacific region. Is it going to supersede the existing partnerships in the region? Discuss the strength and impact of AUKUS in the present scenario.**
 
 ### Answer
 **Question ID: 2021-gs2-q175-drishti_ias**
@@ -6792,7 +6792,7 @@ Thus, though AUKUS offers the advantage of balance of power, strategic autonomy,
 
 ---
 
-## Question 176 (Year: 2020) **Critically examine the role of WHOin providing global health security during the Covid-19 pandemic.**
+## Question 179 (Year: 2020) **Critically examine the role of WHOin providing global health security during the Covid-19 pandemic.**
 
 ### Answer
 **Question ID: 2020-gs2-q176-drishti_ias**
@@ -6821,7 +6821,7 @@ Today’s global institutions are extremely dependent on their contributors for 
 
 ---
 
-## Question 177 (Year: 2020) **‘Indian diaspora has a decisive role to play in the politics and economy of America and European Countries’. Comment with examples.**
+## Question 180 (Year: 2020) **‘Indian diaspora has a decisive role to play in the politics and economy of America and European Countries’. Comment with examples.**
 
 ### Answer
 **Question ID: 2020-gs2-q177-drishti_ias**
@@ -6852,7 +6852,7 @@ The Indian diaspora has gained new visibility as their political and financial c
 
 ---
 
-## Question 178 (Year: 2020) **Quadrilateral Security Dialogue (Quad) is transforming itself into a trade bloc from a military alliance, in present times Discuss.**
+## Question 181 (Year: 2020) **Quadrilateral Security Dialogue (Quad) is transforming itself into a trade bloc from a military alliance, in present times Discuss.**
 
 ### Answer
 **Question ID: 2020-gs2-q178-drishti_ias**
@@ -6885,7 +6885,7 @@ Quad member countries agreed that a free, open, prosperous, and inclusive Indo-P
 
 ---
 
-## Question 179 (Year: 2020) **What is the significance of Indo-US defence deals over Indo-Russian defence deals? Discuss with reference to stability in the Indo-Pacific region.**
+## Question 182 (Year: 2020) **What is the significance of Indo-US defence deals over Indo-Russian defence deals? Discuss with reference to stability in the Indo-Pacific region.**
 
 ### Answer
 **Question ID: 2020-gs2-q179-drishti_ias**
@@ -6916,7 +6916,7 @@ In the last two decades, the US and India defence relations have strengthened du
 
 ---
 
-## Question 180 (Year: 2019) **The time has come for India and Japan to build a strong contemporary relationship, one involving global and strategic partnership that will have a great significance for Asia and the world as a whole. Comment.**
+## Question 183 (Year: 2019) **The time has come for India and Japan to build a strong contemporary relationship, one involving global and strategic partnership that will have a great significance for Asia and the world as a whole. Comment.**
 
 ### Answer
 **Question ID: 2019-gs2-q180-drishti_ias**
@@ -6963,7 +6963,7 @@ Japan can prove to be a development multiplier in India. Therefore, India should
 
 ---
 
-## Question 181 (Year: 2019) **Too little cash, too much politics, leaves UNESCO fighting for life.’ Discuss the statement in the light of US’ withdrawal and its accusation of the cultural body as being ‘anti-Israel bias’.**
+## Question 184 (Year: 2019) **Too little cash, too much politics, leaves UNESCO fighting for life.’ Discuss the statement in the light of US’ withdrawal and its accusation of the cultural body as being ‘anti-Israel bias’.**
 
 ### Answer
 **Question ID: 2019-gs2-q181-drishti_ias**
@@ -6990,7 +6990,7 @@ The fact is that UNESCO was all about solidarity and creating a climate for peac
 
 ---
 
-## Question 182 (Year: 2019) **‘The long-sustained image of India as a leader of the oppressed and marginalised nations has disappeared on account of its new found role in the emerging global order.’ Elaborate.**
+## Question 185 (Year: 2019) **‘The long-sustained image of India as a leader of the oppressed and marginalised nations has disappeared on account of its new found role in the emerging global order.’ Elaborate.**
 
 ### Answer
 **Question ID: 2019-gs2-q182-drishti_ias**
@@ -7027,7 +7027,7 @@ These inferences are pointing towards shift in India’s approach from the leade
 
 ---
 
-## Question 183 (Year: 2019) **“What introduces friction into the ties between India and the United States is that Washington is still unable to find for India a position in its global strategy, which would satisfy India’s National self-esteem and ambitions” Explain with suitable examples.**
+## Question 186 (Year: 2019) **“What introduces friction into the ties between India and the United States is that Washington is still unable to find for India a position in its global strategy, which would satisfy India’s National self-esteem and ambitions” Explain with suitable examples.**
 
 ### Answer
 **Question ID: 2019-gs2-q183-drishti_ias**
@@ -7048,7 +7048,7 @@ Moreover, the USA’s National Defense Strategy 2018 marked Russia and China as 
 
 ---
 
-## Question 184 (Year: 2018) **“India’s relations with Israel have, of late, acquired a depth and diversity, which cannot be rolled back.” Discuss. (2018)**
+## Question 187 (Year: 2018) **“India’s relations with Israel have, of late, acquired a depth and diversity, which cannot be rolled back.” Discuss. (2018)**
 
 ### Answer
 **Question ID: 2018-gs2-q184-drishti_ias**
@@ -7071,7 +7071,7 @@ India’s evolving ties with Israel are based on pragmatism and emerging global 
 
 ---
 
-## Question 185 (Year: 2018) **A number of outside powers have entrenched themselves in Central Asia, which is a zone of interest to India. Discuss the implications, in this context, of India’s joining the Ashgabat Agreement, 2018. (2018)**
+## Question 188 (Year: 2018) **A number of outside powers have entrenched themselves in Central Asia, which is a zone of interest to India. Discuss the implications, in this context, of India’s joining the Ashgabat Agreement, 2018. (2018)**
 
 ### Answer
 **Question ID: 2018-gs2-q185-drishti_ias**
@@ -7098,7 +7098,7 @@ Therefore, Ashgabat Agreement acts as a India‘s doorway to Central Asia - ther
 
 ---
 
-## Question 186 (Year: 2018) **India and USA are the two large democracies. Examine the basic tenets on which the two political systems are based. (2018)**
+## Question 189 (Year: 2018) **India and USA are the two large democracies. Examine the basic tenets on which the two political systems are based. (2018)**
 
 ### Answer
 **Question ID: 2018-gs2-q186-drishti_ias**
@@ -7123,7 +7123,7 @@ Though the US and Indian political systems are similar in many respects, yet the
 
 ---
 
-## Question 187 (Year: 2018) **What are the key areas of reform if the WTO has to survive in the present context of ‘Trade War’, especially keeping in mind the interest of India? (2018)**
+## Question 190 (Year: 2018) **What are the key areas of reform if the WTO has to survive in the present context of ‘Trade War’, especially keeping in mind the interest of India? (2018)**
 
 ### Answer
 **Question ID: 2018-gs2-q187-drishti_ias**
@@ -7142,7 +7142,7 @@ India is one of the prominent members of WTO and is largely seen as leader of de
 
 ---
 
-## Question 188 (Year: 2018) **In what ways would the ongoing U.S-Iran Nuclear Pact Controversy affect the national interest of India? How should India respond to this situation? (2018)**
+## Question 191 (Year: 2018) **In what ways would the ongoing U.S-Iran Nuclear Pact Controversy affect the national interest of India? How should India respond to this situation? (2018)**
 
 ### Answer
 **Question ID: 2018-gs2-q188-drishti_ias**
@@ -7169,7 +7169,7 @@ India has always maintained that the Iranian nuclear issue should be resolved pe
 
 ---
 
-## Question 189 (Year: 2017) **‘China is using its economic relations and positive trade surplus as tools to develop potential military power status in Asia’. In the light of this statement, discuss its impact on India as her neighbour. (2017)**
+## Question 192 (Year: 2017) **‘China is using its economic relations and positive trade surplus as tools to develop potential military power status in Asia’. In the light of this statement, discuss its impact on India as her neighbour. (2017)**
 
 ### Answer
 **Question ID: 2017-gs2-q189-drishti_ias**
@@ -7192,7 +7192,7 @@ China’s rising economic influence in Asia will allow Beijing to spread its inf
 
 ---
 
-## Question 190 (Year: 2017) **What are the main functions of the United Nations Economic and Social Council (ECOSOC)? Explain different functional commissions attached to it. (2017)**
+## Question 193 (Year: 2017) **What are the main functions of the United Nations Economic and Social Council (ECOSOC)? Explain different functional commissions attached to it. (2017)**
 
 ### Answer
 **Question ID: 2017-gs2-q190-drishti_ias**
@@ -7205,7 +7205,7 @@ It is the central platform for fostering debate and innovative thinking, forging
 
 ---
 
-## Question 191 (Year: 2017) **The question of India’s Energy Security Constitutes the most important part of India’s economic progress. Analyse India’s energy policy cooperation with West Asian countries. (2017)**
+## Question 194 (Year: 2017) **The question of India’s Energy Security Constitutes the most important part of India’s economic progress. Analyse India’s energy policy cooperation with West Asian countries. (2017)**
 
 ### Answer
 **Question ID: 2017-gs2-q191-drishti_ias**
@@ -7224,7 +7224,7 @@ India’s energy policy engagement with the West Asian region is also related to
 
 ---
 
-## Question 192 (Year: 2017) **Indian Diaspora has an important role to play in South East Asian countries economy and society. Appraise the role of Indian Diaspora in South-East Asia in this context. (2017)**
+## Question 195 (Year: 2017) **Indian Diaspora has an important role to play in South East Asian countries economy and society. Appraise the role of Indian Diaspora in South-East Asia in this context. (2017)**
 
 ### Answer
 **Question ID: 2017-gs2-q192-drishti_ias**
@@ -7249,7 +7249,7 @@ Thus, the Indian Diaspora has been making significant contributions to the econo
 
 ---
 
-## Question 193 (Year: 2016) **“The broader aims and objectives of WTO are to manage and promote international trade in the era of globalization. But the Doha round of negotiations seem doomed due to differences between the developed and the developing countries.” Discuss in the Indian perspective. (2016)**
+## Question 196 (Year: 2016) **“The broader aims and objectives of WTO are to manage and promote international trade in the era of globalization. But the Doha round of negotiations seem doomed due to differences between the developed and the developing countries.” Discuss in the Indian perspective. (2016)**
 
 ### Answer
 **Question ID: 2016-gs2-q193-drishti_ias**
@@ -7270,7 +7270,7 @@ India can only be successful in this endeavour of putting an end to attempts to 
 
 ---
 
-## Question 194 (Year: 2016) **Evaluate the economic and strategic dimensions of India’s Look East Policy in the context of the post Cold War international scenario. (2016)**
+## Question 197 (Year: 2016) **Evaluate the economic and strategic dimensions of India’s Look East Policy in the context of the post Cold War international scenario. (2016)**
 
 ### Answer
 **Question ID: 2016-gs2-q194-drishti_ias**
@@ -7287,7 +7287,7 @@ India further bolstered its Look East Policy with the announcement of the ‘Act
 
 ---
 
-## Question 195 (Year: 2016) **"Increasing cross-border terrorist attacks in India and growing interference in the internal affairs of several member-states by Pakistan are not conducive for the future of SAARC (South Asian Association for Regional Cooperation)." Explain with suitable examples. (2016)**
+## Question 198 (Year: 2016) **"Increasing cross-border terrorist attacks in India and growing interference in the internal affairs of several member-states by Pakistan are not conducive for the future of SAARC (South Asian Association for Regional Cooperation)." Explain with suitable examples. (2016)**
 
 ### Answer
 **Question ID: 2016-gs2-q195-drishti_ias**
@@ -7304,7 +7304,7 @@ All of the above limit the ability of SAARC to prosper as a regional organizatio
 
 ---
 
-## Question 196 (Year: 2016) **What are the aims and objectives of the McBride Commission of the UNESCO? What is India’s position on these? (2016)**
+## Question 199 (Year: 2016) **What are the aims and objectives of the McBride Commission of the UNESCO? What is India’s position on these? (2016)**
 **Question ID: 2016-gs2-q196-drishti_ias**
 
 ### Answer

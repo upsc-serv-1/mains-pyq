@@ -24,7 +24,39 @@ const API_BASE = "http://localhost:8000/api";
 document.addEventListener("DOMContentLoaded", () => {
   initDropdowns();
   bindSelectors();
+  initLayoutToggle();
 });
+
+window.toggleLayoutMode = function() {
+  const grid = document.getElementById("editor-grid");
+  const toggleBtn = document.getElementById("toggle-layout-btn");
+  if (!grid || !toggleBtn) return;
+  
+  const isNowTwoCol = grid.classList.toggle("two-column-mode");
+  if (isNowTwoCol) {
+    localStorage.setItem("editor_layout_mode", "two-column");
+    toggleBtn.innerHTML = "✏️ Switch to 1-Column Editor";
+  } else {
+    localStorage.setItem("editor_layout_mode", "one-column");
+    toggleBtn.innerHTML = "📖 Switch to 2-Column Preview";
+  }
+};
+
+function initLayoutToggle() {
+  const toggleBtn = document.getElementById("toggle-layout-btn");
+  const grid = document.getElementById("editor-grid");
+  if (!toggleBtn || !grid) return;
+  
+  // Load initial state
+  const isTwoCol = localStorage.getItem("editor_layout_mode") === "two-column";
+  if (isTwoCol) {
+    grid.classList.add("two-column-mode");
+    toggleBtn.innerHTML = "✏️ Switch to 1-Column Editor";
+  } else {
+    grid.classList.remove("two-column-mode");
+    toggleBtn.innerHTML = "📖 Switch to 2-Column Preview";
+  }
+}
 
 // Load coachings and subjects on start
 async function initDropdowns() {
@@ -166,6 +198,18 @@ function findCompiledQuestion(coaching, subject, qNum, statementText) {
   return match || null;
 }
 
+function cleanStatementDisplay(text) {
+  if (!text) return "";
+  let clean = text.replace(/\*\*Question ID:\s*[^*]+\*\*/gi, "");
+  clean = clean.replace(/Question ID:\s*[a-zA-Z0-9_-]+/gi, "");
+  clean = clean.replace(/\[\d+\s*(?:words?|wards?),\s*\d+\s*marks?\]\.?/gi, "");
+  clean = clean.replace(/\[\d+\s*marks?,\s*\d+\s*(?:words?|wards?)\]\.?/gi, "");
+  clean = clean.replace(/\[\d+\s*(?:words?|wards?|marks?)\]\.?/gi, "");
+  clean = clean.replace(/\*\*/g, "");
+  clean = clean.replace(/\*/g, "");
+  return clean.trim();
+}
+
 // ==========================================================================
 // Load and Render Questions (Website Style)
 // ==========================================================================
@@ -235,9 +279,14 @@ async function loadQuestions(scrollToQNum = null) {
               <span class="q-subject">${currentSubject.toUpperCase().replace("GS", "GS ")}</span>
               <span class="q-marks">${qMarks} Marks</span>
             </div>
-            <h3 class="q-statement">${q.statement}</h3>
+            <h3 class="q-statement">${cleanStatementDisplay(q.statement)}</h3>
           </div>
-          <div class="save-status-badge clean" id="status-${q.q_num}">✓ Saved</div>
+          <div style="display: flex; align-items: center; gap: 8px;">
+            <div class="save-status-badge clean" id="status-${q.q_num}">✓ Saved</div>
+            <button class="edit-card-btn" id="edit-card-btn-${q.q_num}" style="background: var(--bg-primary); border: 1px solid var(--border-color); border-radius: 6px; padding: 4px 8px; font-size: 11px; font-weight: 600; cursor: pointer; color: var(--text-secondary); display: flex; align-items: center; gap: 4px; transition: all 0.2s;">
+              ✏️ Edit
+            </button>
+          </div>
         </div>
         
         <!-- Card Content (Website Style) -->
@@ -284,15 +333,46 @@ async function loadQuestions(scrollToQNum = null) {
               <!-- Side-by-Side Split Viewport Container -->
               <div class="editor-split-container" id="viewport-${q.q_num}">
                 
-                <!-- Left Pane: Edit Area -->
-                <div class="editor-pane">
-                  <div class="pane-label">Edit Markdown</div>
+                <!-- Left Pane: Edit Area / Compare Preview -->
+                <div class="editor-pane" id="left-pane-${q.q_num}">
+                  <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 8px;">
+                    <div style="display: flex; align-items: center; gap: 8px;">
+                      <span class="pane-label" id="left-label-${q.q_num}">Edit Markdown</span>
+                      <select id="left-compare-select-${q.q_num}" class="editor-select" style="padding: 4px 8px; font-size: 11px; font-weight: 600; display: none; height: auto; margin: 0; border-radius: 6px;">
+                        ${COACHING_LIST.map(inst => {
+                          const instKey = inst.toLowerCase();
+                          const selected = currentCoaching.toLowerCase() === instKey ? "selected" : "";
+                          return `<option value="${instKey}" ${selected}>${inst}</option>`;
+                        }).join("")}
+                      </select>
+                    </div>
+                    <button class="toggle-compare-btn" id="toggle-compare-btn-${q.q_num}" style="background: var(--bg-primary); border: 1px solid var(--border-color); border-radius: 6px; padding: 4px 8px; font-size: 11px; font-weight: 600; cursor: pointer; color: var(--text-secondary); display: flex; align-items: center; gap: 4px; transition: all 0.2s;">
+                      👁️ Hide Editor (Compare Mode)
+                    </button>
+                  </div>
                   <textarea class="editor-textarea" id="textarea-${q.q_num}" placeholder="Paste or type answer markdown here...">${q.answer}</textarea>
+                  <div class="editor-preview-viewport markdown-body" id="preview-left-${q.q_num}" style="display: none;"></div>
                 </div>
                 
-                <!-- Right Pane: Rendered Preview styled exactly like website answer viewport -->
-                <div class="editor-pane">
-                  <div class="pane-label">Live Preview (Website View)</div>
+                <!-- Right Pane: Rendered Preview -->
+                <div class="editor-pane" id="right-pane-${q.q_num}">
+                  <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 8px; height: 25px;">
+                    <div style="display: flex; align-items: center; gap: 8px;">
+                      <span class="pane-label" id="right-label-${q.q_num}">Live Preview (Website View)</span>
+                      <select id="right-compare-select-${q.q_num}" class="editor-select" style="padding: 4px 8px; font-size: 11px; font-weight: 600; display: none; height: auto; margin: 0; border-radius: 6px;">
+                        ${COACHING_LIST.map(inst => {
+                          const instKey = inst.toLowerCase();
+                          let selected = "";
+                          if (currentCoaching.toLowerCase() === "pwonlyias") {
+                            if (instKey === "drishti ias") selected = "selected";
+                          } else {
+                            if (instKey === "pwonlyias") selected = "selected";
+                          }
+                          return `<option value="${instKey}" ${selected}>${inst}</option>`;
+                        }).join("")}
+                      </select>
+                    </div>
+                  </div>
                   <div class="editor-preview-viewport markdown-body" id="preview-${q.q_num}"></div>
                 </div>
                 
@@ -353,6 +433,47 @@ async function loadQuestions(scrollToQNum = null) {
         });
       });
       
+      // Bind local edit card button click
+      const editCardBtn = card.querySelector(`#edit-card-btn-${q.q_num}`);
+      if (editCardBtn) {
+        editCardBtn.addEventListener("click", (e) => {
+          e.preventDefault();
+          const qCard = document.getElementById(`editor-card-${q.q_num}`);
+          if (qCard) {
+            const isEditing = qCard.classList.toggle("individual-edit-mode");
+            editCardBtn.innerHTML = isEditing ? "👁️ Preview" : "✏️ Edit";
+            if (isEditing) {
+              setTimeout(() => {
+                autoResize(q.q_num);
+              }, 50);
+            }
+          }
+        });
+      }
+
+      // Bind compare mode event listeners
+      const toggleCompareBtn = card.querySelector(`#toggle-compare-btn-${q.q_num}`);
+      if (toggleCompareBtn) {
+        toggleCompareBtn.addEventListener("click", (e) => {
+          e.preventDefault();
+          toggleCompareMode(q.q_num);
+        });
+      }
+
+      const leftCompareSelect = card.querySelector(`#left-compare-select-${q.q_num}`);
+      if (leftCompareSelect) {
+        leftCompareSelect.addEventListener("change", () => {
+          updateCompareView(q.q_num);
+        });
+      }
+
+      const rightCompareSelect = card.querySelector(`#right-compare-select-${q.q_num}`);
+      if (rightCompareSelect) {
+        rightCompareSelect.addEventListener("change", () => {
+          updateCompareView(q.q_num);
+        });
+      }
+
       // Initialize preview rendering and height synchronization after rendering
       setTimeout(() => {
         autoResize(q.q_num);
@@ -382,24 +503,24 @@ async function loadQuestions(scrollToQNum = null) {
   }
 }
 
-// ==========================================================================
-// Interactive Actions (Resizing, Previews)
-// ==========================================================================
-window.autoResize = function(qNum) {
-  const textarea = document.getElementById(`textarea-${qNum}`);
-  if (textarea) {
-    textarea.style.height = "auto";
-    textarea.style.height = textarea.scrollHeight + "px";
+function cleanAnswerHeaders(text) {
+  if (!text) return "";
+  text = text.trim();
+  while (true) {
+    const prev = text;
+    text = text.replace(/^(?:#+\s*Ans(?:wer)?\s*(?:\*\*Ans(?:wer)?:\*\*)?|\*\*Ans(?:wer)?:\*\*|\*\*Ans(?:wer)?\*\*|Ans(?:wer)?:|Ans(?:wer)?\*\*)\s*/i, '').trim();
+    text = text.replace(/^(?:\*\*|\*|)?Question ID:\s*[a-zA-Z0-9_-]+(?:\*\*|\*|)?\s*/i, '').trim();
+    text = text.replace(/^(?:---\r?\n|\s+)+/, '').trim();
+    if (text === prev) break;
   }
-};
+  text = text.replace(/\r?\n#+\s*Ans(?:wer)?(?:\s+\*\*Ans(?:wer)?:\*\*)?\s*(?:\r?\n|$)/gi, '\n');
+  text = text.replace(/\r?\n(?:\*\*|\*|)?Ans(?:wer)?:?(?:\*\*|\*|)?\s*(?:\r?\n|$)/gi, '\n');
+  return text.trim();
+}
 
-window.updatePreview = function(qNum) {
-  const textarea = document.getElementById(`textarea-${qNum}`);
-  const previewDiv = document.getElementById(`preview-${qNum}`);
-  if (!textarea || !previewDiv) return;
-  
-  let text = textarea.value;
-  const folderName = getFolderName(currentCoaching);
+window.renderMarkdownToHtml = function(text, coachingName) {
+  text = cleanAnswerHeaders(text);
+  const folderName = getFolderName(coachingName);
   const gsPaperFolder = `../solved paper`;
   
   // Rewrite relative image references in Markdown or raw HTML
@@ -427,8 +548,162 @@ window.updatePreview = function(qNum) {
   if (!html) {
     html = basicMarkdownParser(text);
   }
+  return html;
+};
+
+window.fetchCoachingAnswerForCompare = async function(coaching, subject, qNum) {
+  const cacheKey = `${coaching.toLowerCase()}_${subject.toLowerCase()}`;
   
-  previewDiv.innerHTML = html;
+  // 1. Try to find in the compiled global JS first! (Fastest and works offline for GS1/GS2/GS3)
+  const paperKey = subject.toLowerCase();
+  let globalDataSet = null;
+  if (paperKey === "gs1") globalDataSet = window.GS1_DATA;
+  else if (paperKey === "gs2") globalDataSet = window.GS2_DATA;
+  else if (paperKey === "gs3") globalDataSet = window.GS3_DATA;
+  
+  if (globalDataSet) {
+    // Find matching question in global dataset
+    const cleanString = (text) => {
+      if (!text) return "";
+      let cleanText = text.replace(/\*\*Question ID:\s*[a-zA-Z0-9_-]+\*\*/gi, "");
+      cleanText = cleanText.replace(/\[?Question ID:\s*[a-zA-Z0-9_-]+\]?/gi, "");
+      cleanText = cleanText.replace(/^##\s+Question\s+\d+\s*(?:\([^\)]*\))?\s*/gi, "");
+      return cleanText.toLowerCase().replace(/[^a-z0-9]/g, "").substring(0, 100);
+    };
+    
+    // Get statement text of the active question from our loaded questionsList
+    const activeQ = questionsList.find(q => q.q_num === qNum);
+    if (activeQ) {
+      const targetClean = cleanString(activeQ.statement);
+      const matchedQ = globalDataSet.find(gq => {
+        const gqClean = cleanString(gq.statement);
+        return gqClean.includes(targetClean) || targetClean.includes(gqClean);
+      });
+      
+      if (matchedQ) {
+        // Find matching key in matchedQ.answers
+        const answerKey = Object.keys(matchedQ.answers).find(k => 
+          k.toLowerCase() === coaching.toLowerCase() || 
+          COACHING_DISPLAY_NAMES[k.toLowerCase()]?.toLowerCase() === coaching.toLowerCase()
+        );
+        if (answerKey && matchedQ.answers[answerKey]) {
+          return matchedQ.answers[answerKey].body || "";
+        }
+      }
+    }
+  }
+  
+  // 2. Fetch from the local API if not found or if it's GS4
+  if (!coachingCompareCache[cacheKey]) {
+    try {
+      const url = `${API_BASE}/get-questions?coaching=${encodeURIComponent(coaching)}&subject=${encodeURIComponent(subject)}`;
+      const res = await fetch(url);
+      const data = await res.json();
+      coachingCompareCache[cacheKey] = data.questions || [];
+    } catch (e) {
+      console.error(`Failed to fetch compare answers for ${coaching} ${subject}`, e);
+      coachingCompareCache[cacheKey] = [];
+    }
+  }
+  
+  const q = coachingCompareCache[cacheKey].find(item => item.q_num === qNum);
+  return q ? q.answer : "*(No answer found for this coaching institute)*";
+};
+
+window.updateCompareView = async function(qNum) {
+  const leftSelect = document.getElementById(`left-compare-select-${qNum}`);
+  const rightSelect = document.getElementById(`right-compare-select-${qNum}`);
+  const leftPreview = document.getElementById(`preview-left-${qNum}`);
+  const rightPreview = document.getElementById(`preview-${qNum}`);
+  const textarea = document.getElementById(`textarea-${qNum}`);
+  
+  if (!leftSelect || !rightSelect || !leftPreview || !rightPreview) return;
+  
+  const leftCoaching = leftSelect.value;
+  const rightCoaching = rightSelect.value;
+  
+  // Render left preview
+  if (leftCoaching === currentCoaching.toLowerCase()) {
+    leftPreview.innerHTML = renderMarkdownToHtml(textarea.value, currentCoaching);
+  } else {
+    leftPreview.innerHTML = `<div style="padding: 20px; text-align: center; color: var(--text-muted);">⏳ Loading left preview...</div>`;
+    const text = await fetchCoachingAnswerForCompare(leftCoaching, currentSubject, qNum);
+    leftPreview.innerHTML = renderMarkdownToHtml(text, leftCoaching);
+  }
+  
+  // Render right preview
+  if (rightCoaching === currentCoaching.toLowerCase()) {
+    rightPreview.innerHTML = renderMarkdownToHtml(textarea.value, currentCoaching);
+  } else {
+    rightPreview.innerHTML = `<div style="padding: 20px; text-align: center; color: var(--text-muted);">⏳ Loading right preview...</div>`;
+    const text = await fetchCoachingAnswerForCompare(rightCoaching, currentSubject, qNum);
+    rightPreview.innerHTML = renderMarkdownToHtml(text, rightCoaching);
+  }
+};
+
+window.toggleCompareMode = function(qNum) {
+  const textarea = document.getElementById(`textarea-${qNum}`);
+  const leftPreview = document.getElementById(`preview-left-${qNum}`);
+  const leftSelect = document.getElementById(`left-compare-select-${qNum}`);
+  const rightSelect = document.getElementById(`right-compare-select-${qNum}`);
+  const leftLabel = document.getElementById(`left-label-${qNum}`);
+  const rightLabel = document.getElementById(`right-label-${qNum}`);
+  const btn = document.getElementById(`toggle-compare-btn-${qNum}`);
+  
+  if (!textarea || !leftPreview || !leftSelect || !rightSelect || !btn) return;
+  
+  const isEditing = textarea.style.display !== "none";
+  if (isEditing) {
+    // Switch to Compare Mode
+    textarea.style.display = "none";
+    leftPreview.style.display = "block";
+    leftSelect.style.display = "inline-block";
+    rightSelect.style.display = "inline-block";
+    leftLabel.textContent = "Compare:";
+    rightLabel.textContent = "Compare:";
+    btn.innerHTML = "✏️ Show Editor";
+    btn.style.backgroundColor = "rgba(124, 58, 237, 0.08)";
+    btn.style.borderColor = "var(--accent-purple)";
+    btn.style.color = "var(--accent-purple)";
+    updateCompareView(qNum);
+  } else {
+    // Switch to Edit Mode
+    textarea.style.display = "block";
+    leftPreview.style.display = "none";
+    leftSelect.style.display = "none";
+    rightSelect.style.display = "none";
+    leftLabel.textContent = "Edit Markdown";
+    rightLabel.textContent = "Live Preview (Website View)";
+    btn.innerHTML = "👁️ Hide Editor (Compare Mode)";
+    btn.style.backgroundColor = "var(--bg-secondary)";
+    btn.style.borderColor = "var(--border-color)";
+    btn.style.color = "var(--text-secondary)";
+    updatePreview(qNum);
+  }
+};
+
+window.autoResize = function(qNum) {
+  const textarea = document.getElementById(`textarea-${qNum}`);
+  if (textarea) {
+    textarea.style.height = "auto";
+    textarea.style.height = textarea.scrollHeight + "px";
+  }
+};
+
+window.updatePreview = function(qNum) {
+  const textarea = document.getElementById(`textarea-${qNum}`);
+  const previewDiv = document.getElementById(`preview-${qNum}`);
+  if (!textarea || !previewDiv) return;
+  
+  // If in compare mode, do not overwrite the preview with textarea contents
+  const leftPreview = document.getElementById(`preview-left-${qNum}`);
+  const isCompare = leftPreview && leftPreview.style.display !== "none";
+  if (isCompare) {
+    updateCompareView(qNum);
+    return;
+  }
+  
+  previewDiv.innerHTML = renderMarkdownToHtml(textarea.value, currentCoaching);
 };
 
 function basicMarkdownParser(md) {

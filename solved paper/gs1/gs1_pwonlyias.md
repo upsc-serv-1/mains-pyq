@@ -327,7 +327,7 @@ The shift from the Rig Vedic to the later Vedic period saw society evolve from a
 
 **Explain the role of geographical factors towards the development of Ancient India.**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach** <br>• **Introduction:** Define what is meant by “geographical factors” **Body** <br>• Write about the Geographical Landscape of Ancient India <br>• Write about the role of Geographical Factors in Development of Ancient India **Conclusion** <br>• Give appropriate conclusion in this regard |
 | --- |
@@ -376,6 +376,7 @@ In the study of historical developments, “ **geographical factors** ” refer 
 Overall, it catalysed a rich tapestry of cultural developments, from profound philosophies to majestic art and architecture, carving a civilization rich in diversity and depth. Thus, it is **evident that the geographical landscape of ancient India played a pivotal role in the intrinsic development** of one of the world’s oldest civilizations.
 
 [Question ID: 2023-gs1-q8-pwonlyias]
+
 
 ---
 
@@ -466,7 +467,7 @@ Thus, the Sultanate period marked a pivotal juncture in Indian history, steering
 
 **Discuss the main contributions of Gupta period and Chola period to Indian heritage and culture.**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction:** <br>• Introduce the Gupta and Chola periods as influential eras in Indian history. **Body** <br>• Discuss contributions of each period in: <br>• Art and Architecture <br>• Sculpture <br>• Literature <br>• Science (Gupta)/Music and Dance (Chola) <br>• Education (Gupta)/Governance (Chola) **Conclusion** <br>• Conclude with the lasting impact of Gupta and Chola periods on India’s cultural heritage. |
 | --- |
@@ -500,6 +501,7 @@ Thus, the Sultanate period marked a pivotal juncture in Indian history, steering
 The Gupta and Chola periods left significant marks on Indian heritage and culture. While the Gupta Empire focused on education and science, the Chola Dynasty emphasized art and governance. Their lasting legacies continue to influence and inspire modern India, highlighting the country’s cultural diversity and showcasing their contributions to India’s heritage.
 
 [Question ID: 2022-gs1-q10-pwonlyias]
+
 
 ---
 
@@ -637,7 +639,7 @@ Bhakti Literature’s nature is characterized by its intense emotional appeal, s
 
 **Indian Philosophy and tradition played a significant role in conceiving and shaping the monuments and their art in India. Discuss.**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** <br>• Briefly introduce the role of Indian philosophy and tradition in shaping the monuments and their art in India. **Body** <br>• Elaborate on specific examples, architectural styles, and art forms influenced by Indian philosophy and tradition. **Conclusion** <br>• Summarize the significance of Indian philosophy and tradition in creating a unique and enduring architectural legacy in India. |
 | --- |
@@ -664,6 +666,7 @@ Indian philosophy and tradition have played a pivotal role in shaping the countr
 Indian philosophy and tradition have been instrumental in shaping the country’s monuments and their art. The diverse religious, cultural, and artistic influences have led to the creation of a rich architectural heritage that stands as a testament to India’s complex history and cultural identity.
 
 [Question ID: 2020-gs1-q14-pwonlyias]
+
 
 ---
 
@@ -706,7 +709,7 @@ Persian literary sources of medieval India played a pivotal role in capturing th
 
 **The rock-cut architecture represents one of the most important sources of our knowledge of early Indian art and history. Discuss.**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** <br>• Briefly introduce the significance of rock-cut architecture in Indian art and history. **Body** <br>• Discuss the origins and evolution of rock-cut architecture in India, including the various types of structures and their unique features. <br>• Provide examples of significant rock-cut structures, such as the Ajanta and Ellora caves, the Kailashnath temple at Ellora, and the Udayagiri and Khandagiri caves. Emphasize the role of rock-cut architecture in showcasing the development of various religions and cultures in ancient India, such as Buddhism, Hinduism, and Jainism. **Conclusion** <br>• Sum up the main points and emphasize the significance of rock-cut architecture in preserving and promoting India’s rich cultural heritage. |
 | --- |
@@ -734,6 +737,7 @@ Rock-cut architecture has not only contributed to the artistic and cultural heri
 
 [Question ID: 2020-gs1-q16-pwonlyias]
 
+
 ---
 
 ## Question 17 (Year: 2019 | Paper: GS 1 | Marks: 10 Marks | Words: 150 Words)
@@ -741,7 +745,7 @@ Rock-cut architecture has not only contributed to the artistic and cultural heri
 
 **Highlight the Central Asian and Greco Bactrian elements in the Gandhara art.**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** <br>• Briefly introduce Gandhara art and its unique fusion of Indian, Central Asian, and Greco-Bactrian elements. **Body** <br>• Discuss the various aspects of Gandhara art that showcase the Central Asian and Greco-Bactrian influences, including Hellenistic influence, depictions of Buddha, architectural elements, motifs and iconography, and materials and techniques. **Conclusion** <br>• Sum up the significance of Gandhara art as an example of cultural exchange and the blending of artistic traditions from different regions. |
 | --- |
@@ -767,6 +771,7 @@ Gandhara art is known for its unique blend of Indian, Central Asian, and Greco-B
 Gandhara art serves as a testament to the rich cultural exchanges and blending of artistic traditions from India, Central Asia, and the Greco-Bactrian region. The unique fusion of these elements in Gandhara art exemplifies the syncretic nature of the period and highlights the interconnectedness of different cultures in the creation of enduring artistic expressions.
 
 [Question ID: 2019-gs1-q17-pwonlyias]
+
 
 ---
 
@@ -903,7 +908,7 @@ Domingo Paes and Duarte Barbosa, the Portuguese travelers, visited the Vijayanag
 
 **The ancient civilization in the Indian sub-continent differed from those of Egypt, Mesopotamia, and Greece in that its culture and traditions have been preserved without a breakdown to the present day. Comment. (200 words, 12.5 marks)**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** <br>• Introduce the Indus Valley Civilization and its distinctiveness compared to other ancient civilizations such as Egypt, Mesopotamia, and Greece. **Body** <br>• Discuss the factors contributing to the preservation of Indian culture and traditions. **Conclusion** <br>• Reiterate the unique aspect of Indian civilization in maintaining its cultural identity without significant breakdowns, unlike other ancient civilizations. |
 | --- |
@@ -929,6 +934,7 @@ These factors have enabled the Indian subcontinent to maintain its unique cultur
 
 [Question ID: 2015-gs1-q21-pwonlyias]
 
+
 ---
 
 ## Question 22 (Year: 2014 | Paper: GS 1 | Marks: 10 Marks | Words: 150 Words)
@@ -936,7 +942,7 @@ These factors have enabled the Indian subcontinent to maintain its unique cultur
 
 **Sufis and medieval mystic saints failed to modify either the religious ideas and practices or the outward structure of Hindu / Muslim societies to any appreciable extent. Comment.**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** <br>• Start with a brief introduction on Sufis and medieval mystic saints and their role in shaping the religious and social landscape of India. **Body** <br>• Discuss the various factors that contributed to the limited impact of Sufis and medieval mystic saints in modifying religious ideas and practices in Hindu and Muslim societies. **Conclusion** <br>• Conclude with a final evaluation of the role of Sufis and medieval mystic saints in shaping the religious and social landscape of India. |
 | --- |
@@ -963,6 +969,7 @@ While Sufis and medieval mystic saints significantly impacted religious thought 
 
 [Question ID: 2014-gs1-q22-pwonlyias]
 
+
 ---
 
 ## Question 23 (Year: 2014 | Paper: GS 1 | Marks: 10 Marks | Words: 150 Words)
@@ -970,7 +977,7 @@ While Sufis and medieval mystic saints significantly impacted religious thought 
 
 **The third battle of Panipat was fought in 1761. Why were so many empire-shaking battles fought at Panipat?**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** <br>• Introduce the Third Battle of Panipat and mention its significance in Indian history, highlighting that Panipat has been the site of three major battles. **Body** <br>• Elaborate on the reasons why so many empire-shaking battles were fought at Panipat, including its <br>• strategic location, <br>• proximity to Delhi, and <br>• open terrain. **Conclusion** <br>• Write a relevant conclusion. |
 | --- |
@@ -994,6 +1001,7 @@ The combination of these factors made Panipat a recurrent site for empire-shakin
 
 [Question ID: 2014-gs1-q23-pwonlyias]
 
+
 ---
 
 ## Question 24 (Year: 2014 | Paper: GS 1 | Marks: 10 Marks | Words: 150 Words)
@@ -1001,7 +1009,7 @@ The combination of these factors made Panipat a recurrent site for empire-shakin
 
 **To what extent has the urban planning and culture of the Indus Valley Civilization provided inputs to the present day urbanization? Discuss.**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** <br>• Introduce the Indus Valley Civilization (IVC) and its advanced urban planning and culture. **Body** <br>• Identify and mention the characteristics that show how urban planning and culture of the Indus Valley Civilization provided inputs to the present day urbanization. <br>• Substantiate with appropriate examples. **Conclusion** <br>• Conclude emphasizing on the innovative and forward-thinking nature of the IVC, whose principles remain relevant and influential in shaping modern urban environments. |
 | --- |
@@ -1029,6 +1037,7 @@ The combination of these factors made Panipat a recurrent site for empire-shakin
 The Indus Valley Civilization’s urban planning and culture have had a lasting impact on contemporary urban development, both globally and within India. The IVC’s enduring legacy in urban planning underscores the innovative and forward-thinking nature of this ancient civilization, whose principles remain relevant and influential in addressing the challenges of today’s urban environments.
 
 [Question ID: 2014-gs1-q24-pwonlyias]
+
 
 ---
 
@@ -1271,7 +1280,7 @@ The **Quit India Movement** of **1942** marked a critical **turning point** in I
 
 **Bring out the socio-economic effects of the introduction of railways in different countries of the world.**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** <br>• Write about the history of the introduction of railways globally briefly **Body** <br>• Write about its socio-economic Effects in Developed Countries <br>• Write about its socio-economic Effects in Developing Countries **Conclusion** <br>• Give appropriate conclusion in this regard |
 | --- |
@@ -1316,6 +1325,7 @@ The **introduction of railways globally has been a double-edged sword**, promoti
 
 [Question ID: 2023-gs1-q31-pwonlyias]
 
+
 ---
 
 ## Question 32 (Year: 2023 | Paper: GS 1 | Marks: 15 Marks | Words: 250 Words)
@@ -1323,7 +1333,7 @@ The **introduction of railways globally has been a double-edged sword**, promoti
 
 **How did colonial rule affect the tribals in India and what was the tribal response to the colonial oppression?**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** <br>• Write about the colonial rule and impact on the tribals briefly **Body** <br>• Write how colonial rule affect the tribals in India <br>• Write about the tribal response to the colonial oppression **Conclusion** <br>• Give appropriate conclusion in this regard |
 | --- |
@@ -1373,6 +1383,7 @@ During **the colonial period**, India was under British rule, a time characteriz
 Despite the adversities, tribal communities mounted resistance, both violent and non-violent, to assert their rights and protect their heritage. The **tribal movements continue today, echoing a relentless spirit of resilience and a vibrant resurgence** to reclaim lost ground, safeguarding their legacy, and nurturing hopes for a future built on justice and equality.
 
 [Question ID: 2023-gs1-q32-pwonlyias]
+
 
 ---
 
@@ -1428,7 +1439,7 @@ Both Gandhi and Tagore were monumental figures in Indian history, crafting diver
 
 **Why did the armies of the British East India Company – mostly comprising of Indian soldiers – win consistently against the more numerous and better equipped armies of the Indian rulers? Give reasons.**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** <br>• Introduce the British East India Company and the paradox of Indian soldiers fighting against their own rulers. **Body:** <br>• Discuss reasons for the Company’s consistent victories over Indian armies, including their superior military tactics, advanced weaponry, and ability to exploit divisions among Indian rulers. <br>• Provide examples of significant battles, such as the Battle of Plassey to illustrate the British East India Company’s superiority. **Conclusion** <br>• Summarize the main points and conclude with the ultimate outcome of British conquest in India. |
 | --- |
@@ -1464,6 +1475,7 @@ Indian rulers’ failure to modernize their armies and adapt to new military tec
 
 [Question ID: 2022-gs1-q34-pwonlyias]
 
+
 ---
 
 ## Question 35 (Year: 2022 | Paper: GS 1 | Marks: 10 Marks | Words: 150 Words)
@@ -1471,7 +1483,7 @@ Indian rulers’ failure to modernize their armies and adapt to new military tec
 
 **Why was there a sudden spurt in famines in colonial India since the mid-eighteenth century? Give reasons.**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** <br>• Start by providing a brief background on the occurrence of famines in colonial India since the mid-eighteenth century. Highlight the severity of the situation and its impact on the Indian population. **Body** <br>• Identify and mention the possible reasons behind it. <br>• Discuss how British colonial policies, such as land revenue and taxation, played a significant role in the occurrence of famines. <br>• Discuss how British colonial policies and the spread of commercial agriculture led to the neglect of subsistence agriculture. **Conclusion** <br>• Sum up by mentioning the long-lasting impact of famines on the Indian population and the need to acknowledge and address the issue. |
 | --- |
@@ -1498,6 +1510,7 @@ The famines had long-lasting impacts on the Indian population, leading to a loss
 
 [Question ID: 2022-gs1-q35-pwonlyias]
 
+
 ---
 
 ## Question 36 (Year: 2021 | Paper: GS 1 | Marks: 15 Marks | Words: 250 Words)
@@ -1505,7 +1518,7 @@ The famines had long-lasting impacts on the Indian population, leading to a loss
 
 **Bring out the constructive programmes of Mahatma Gandhi during Non-Cooperation Movement and Civil Disobedience Movement.**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** <br>• Introduce Mahatma Gandhi’s significance in India’s struggle for independence and his leadership in the Non-Cooperation Movement and Civil Disobedience Movement. **Body** <br>• Elaborate on the diverse constructive initiatives undertaken by Gandhi during both movements, providing examples. **Conclusion** <br>• Recap the influence of these constructive initiatives on the Indian freedom struggle. |
 | --- |
@@ -1536,6 +1549,7 @@ Mahatma Gandhi’s constructive initiatives played a vital role in rallying the 
 
 [Question ID: 2021-gs1-q36-pwonlyias]
 
+
 ---
 
 ## Question 37 (Year: 2021 | Paper: GS 1 | Marks: 15 Marks | Words: 250 Words)
@@ -1543,7 +1557,7 @@ Mahatma Gandhi’s constructive initiatives played a vital role in rallying the 
 
 **To what extent did the role of the moderates prepare a base for the wider freedom movement? Comment.**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** <br>• Introduce the moderates within the Indian National Congress and their initial goals and methods. **Body** <br>• Discuss the various ways in which the moderates contributed to laying the groundwork for the wider freedom movement. **Conclusion** <br>• Summarize the significance of the moderates’ role in shaping the trajectory of the Indian freedom movement. |
 | --- |
@@ -1569,6 +1583,7 @@ While their methods and demands may have been moderate compared to the more radi
 
 [Question ID: 2021-gs1-q37-pwonlyias]
 
+
 ---
 
 ## Question 38 (Year: 2021 | Paper: GS 1 | Marks: 10 Marks | Words: 150 Words)
@@ -1576,7 +1591,7 @@ While their methods and demands may have been moderate compared to the more radi
 
 **Trace the rise and growth of socio-religious reform movements with special reference to Young Bengal and Brahmo Samaj.**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** <br>• Briefly introduce the socio-religious reform movements in India, highlighting the significance of the Young Bengal movement and the Brahmo Samaj. **Body** <br>• Discuss the rise and growth of the Young Bengal movement and the Brahmo Samaj, their objectives, the prominent leaders, and their contributions to social reform and modern education. **Conclusion** <br>• Summarize the impact of these movements in challenging social and religious orthodoxy and their role in shaping modern India. |
 | --- |
@@ -1614,6 +1629,7 @@ The rise and growth of socio-religious reform movements like the Young Bengal mo
 
 [Question ID: 2021-gs1-q38-pwonlyias]
 
+
 ---
 
 ## Question 39 (Year: 2020 | Paper: GS 1 | Marks: 10 Marks | Words: 150 Words)
@@ -1621,7 +1637,7 @@ The rise and growth of socio-religious reform movements like the Young Bengal mo
 
 **Evaluate the policies of Lord Curzon and their long term implications on the national movements.**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** <br>• Briefly introduce Lord Curzon and his tenure as Viceroy of India. **Body** <br>• Discuss key policies implemented by Lord Curzon and their impact on national movements. Give examples. **Conclusion** <br>• Write a relevant conclusion, summarizing the long-term implications of Curzon’s policies on the national movements and India’s struggle for independence. |
 | --- |
@@ -1653,6 +1669,7 @@ His policies in education, military, and cultural spheres heightened the Indian 
 
 [Question ID: 2020-gs1-q39-pwonlyias]
 
+
 ---
 
 ## Question 40 (Year: 2020 | Paper: GS 1 | Marks: 10 Marks | Words: 150 Words)
@@ -1660,7 +1677,7 @@ His policies in education, military, and cultural spheres heightened the Indian 
 
 **Pala period is the most significant phase in the history of Buddhism in India. Enumerate.**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** <br>• Begin by highlighting the Pala period as a pivotal chapter in the evolution of Buddhism in India. **Body** <br>• Identify and mention the key reasons for the significance of the Pala period. <br>• Substantiate your views with examples. **Conclusion** <br>• Reiterate the significance of the Pala period in the history of Buddhism in India. |
 | --- |
@@ -1687,6 +1704,7 @@ The Pala period was a highly significant phase in the history of Buddhism in Ind
 
 [Question ID: 2020-gs1-q40-pwonlyias]
 
+
 ---
 
 ## Question 41 (Year: 2020 | Paper: GS 1 | Marks: 15 Marks | Words: 250 Words)
@@ -1694,7 +1712,7 @@ The Pala period was a highly significant phase in the history of Buddhism in Ind
 
 **Since the decade of the 1920s, the national movement acquired various ideological strands and thereby expanded its social base. Discuss.**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** <br>• Introduce the decade of the 1920s in the context of the Indian national movement. **Body** <br>• Discuss the key ideological strands that emerged during the 1920s, their impact on the national movement, and how they broadened the movement’s social base. **Conclusion** <br>• Summarize the significance of the 1920s in the Indian national movement. |
 | --- |
@@ -1727,6 +1745,7 @@ The Pala period was a highly significant phase in the history of Buddhism in Ind
 The 1920s marked a critical period in the Indian national movement, as various ideological strands emerged, significantly expanding the movement’s social base. These diverse ideologies, although sometimes contradictory, enriched the national struggle and contributed to the eventual achievement of Indian independence.
 
 [Question ID: 2020-gs1-q41-pwonlyias]
+
 
 ---
 
@@ -1773,7 +1792,7 @@ The 1857 uprising was a culmination of the recurrent local rebellions against Br
 
 **Examine the linkages between the nineteenth century’s ‘Indian Renaissance’ and the emergence of national identity.**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** <br>• Briefly introduce the ‘Indian Renaissance’ and its relationship to the development of national identity in the 19th century. **Body** <br>• Discuss the key elements of the Indian Renaissance and their connections to the formation of national identity. **Conclusion** <br>• Write a suitable conclusion. |
 | --- |
@@ -1799,6 +1818,7 @@ The connections between the Indian Renaissance and the emergence of national ide
 
 [Question ID: 2019-gs1-q43-pwonlyias]
 
+
 ---
 
 ## Question 44 (Year: 2019 | Paper: GS 1 | Marks: 15 Marks | Words: 250 Words)
@@ -1806,7 +1826,7 @@ The connections between the Indian Renaissance and the emergence of national ide
 
 **Many voices had strengthened and enriched the nationalist movement during the Gandhian phase. Elaborate.**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** <br>• Introduce the Gandhian phase of the nationalist movement and how it was strengthened and enriched by various voices. **Body** <br>• Discuss the different voices that contributed to the nationalist movement during the Gandhian phase. **Conclusion** <br>• Summarize the importance of diverse voices in the nationalist movement during the Gandhian phase and their role in shaping the freedom struggle. |
 | --- |
@@ -1833,6 +1853,7 @@ The Gandhian phase of the Indian nationalist movement was marked by the converge
 
 [Question ID: 2019-gs1-q44-pwonlyias]
 
+
 ---
 
 ## Question 45 (Year: 2019 | Paper: GS 1 | Marks: 15 Marks | Words: 250 Words)
@@ -1840,7 +1861,7 @@ The Gandhian phase of the Indian nationalist movement was marked by the converge
 
 **Assess the role of British imperial power in complicating the process of transfer of power during the 1940s.**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** <br>• Introduce the British imperial power’s role in the process of transfer of power during the 1940s. **Body** <br>• Discuss the various ways in which British imperial power complicated the transfer of power. **Conclusion** <br>• Summarize the role of British imperial power in complicating the transfer of power and its impact on the eventual partition of India. |
 | --- |
@@ -1866,6 +1887,7 @@ The role of British imperial power in complicating the process of transfer of po
 
 [Question ID: 2019-gs1-q45-pwonlyias]
 
+
 ---
 
 ## Question 46 (Year: 2018 | Paper: GS 1 | Marks: 10 Marks | Words: 150 Words)
@@ -1873,7 +1895,7 @@ The role of British imperial power in complicating the process of transfer of po
 
 **Assess the importance of the accounts of the Chinese and Arab travellers in the reconstruction of the history of India.**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** <br>• Briefly introduce the significance of Chinese and Arab travelers’ accounts in reconstructing Indian history. **Body** <br>• Identify and mention the importance of the accounts of the Chinese and Arab travellers in the reconstruction of the history of India. **Conclusion** <br>• Summarize the importance of Chinese and Arab travelers’ accounts in reconstructing Indian history. |
 | --- |
@@ -1902,6 +1924,7 @@ The accounts of Chinese and Arab travelers provide an invaluable perspective on 
 The accounts of Chinese and Arab travelers have played a crucial role in the reconstruction of the history of India. They have not only enriched our understanding of various aspects of Indian society but have also helped to establish a more accurate and nuanced historical narrative.
 
 [Question ID: 2018-gs1-q46-pwonlyias]
+
 
 ---
 
@@ -1950,7 +1973,7 @@ While Indian indentured laborers and their descendants have made efforts to pres
 
 **Clarify how mid-eighteenth century India was beset with the spectre of a fragmented polity.**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** <br>• Introduce the topic of political fragmentation in mid-eighteenth century India. **Body** <br>• Discuss the decline of the Mughal Empire and its impact on the political landscape of India, including the power vacuum it created. <br>• Explain the rise of regional powers and how they contributed to political fragmentation. <br>• Describe the growing influence of European powers, particularly the British and French East India Companies, and their role in exploiting the political fragmentation for their own benefit. <br>• Address the issue of ineffective alliances and shifting loyalties among regional powers and European companies, further exacerbating the fragmentation. **Conclusion** <br>• Summarize the factors that led to the fragmented polity in mid-eighteenth century India. |
 | --- |
@@ -1972,6 +1995,7 @@ During the mid-eighteenth century, India experienced significant political fragm
 This intricate interplay of factors not only fostered political instability but also paved the way for external forces to exploit the situation for their own gain. The fragmented political landscape eventually contributed to the colonization of India, a period that would leave lasting effects on the nation’s history, culture, and socio-economic development.
 
 [Question ID: 2017-gs1-q48-pwonlyias]
+
 
 ---
 
@@ -2015,7 +2039,7 @@ The decline of traditional artisanal industry in colonial India had a devastatin
 
 **Highlight the importance of the new objectives that got added to the vision of Indian Independence since the twenties of the last century.**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** <br>• Begin with an overview of the Indian independence movement and the evolving objectives during the 1920s that shaped the vision of a modern, secular, and inclusive India. **Body** <br>• Discuss the key new objectives that were added to the vision of Indian Independence since the 1920s. **Conclusion** <br>• Conclude, emphasizing the enduring relevance of these objectives in guiding India’s progress and development today. |
 | --- |
@@ -2042,6 +2066,7 @@ The new objectives that emerged since the 1920s significantly enriched the visio
 
 [Question ID: 2017-gs1-q50-pwonlyias]
 
+
 ---
 
 ## Question 51 (Year: 2017 | Paper: GS 1 | Marks: 15 Marks | Words: 250 Words)
@@ -2049,7 +2074,7 @@ The new objectives that emerged since the 1920s significantly enriched the visio
 
 **The women’s questions arose in modern India as a part of the 19th-century social reform movement. What are the major issues and debates concerning women in that period?**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** <br>• Introduce with an overview of the 19th-century social reform movement in India and its focus on addressing women’s issues as a part of the broader push for social progress. **Body** <br>• Discuss the major issues and debates concerning women during the 19th century. **Conclusion** <br>• Emphasize how the movement laid the foundation for further progress in women’s rights, which continues to be an important area of focus in modern India. |
 | --- |
@@ -2077,6 +2102,7 @@ This social reform movement in India played a significant role in addressing wom
 
 [Question ID: 2017-gs1-q51-pwonlyias]
 
+
 ---
 
 ## Question 52 (Year: 2017 | Paper: GS 1 | Marks: 10 Marks | Words: 150 Words)
@@ -2084,7 +2110,7 @@ This social reform movement in India played a significant role in addressing wom
 
 **Why did the ‘Moderates’ fail to carry conviction with the nation about their proclaimed ideology and political goals by the end of the nineteenth century?**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** <br>• Begin with a brief overview of the Moderates, their ideology, and their struggles to gain widespread support for their political goals by the end of the nineteenth century. **Body** <br>• Divide the body into several subsections, each addressing a specific factor that contributed to the Moderates’ failure to carry conviction with the nation. **Conclusion** <br>• Write a relevant conclusion. |
 | --- |
@@ -2109,6 +2135,7 @@ The ‘Moderates’ were a prominent faction within the Indian nationalist movem
 Their approach was seen as ineffective and out of touch with the aspirations of the majority of Indians, who sought more radical and assertive means to achieve independence.
 
 [Question ID: 2017-gs1-q52-pwonlyias]
+
 
 ---
 
@@ -2152,7 +2179,7 @@ The Gandhian phase of the Indian freedom struggle saw significant participation 
 
 **Explain how the uprising of 1857 constitutes an important watershed in the evolution of British policies towards colonial India. (200 words, 12.5 marks)**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** <br>• Briefly introduce the uprising of 1857 and its significance as a turning point in British policies towards colonial India. **Body** <br>• Discuss the key changes in British policies following the uprising. **Conclusion** <br>• Write a relevant conclusion. |
 | --- |
@@ -2179,6 +2206,7 @@ As a watershed moment, the 1857 rebellion shaped the trajectory of British colon
 
 [Question ID: 2016-gs1-q54-pwonlyias]
 
+
 ---
 
 ## Question 55 (Year: 2016 | Paper: GS 1 | Marks: N/A | Words: N/A)
@@ -2186,7 +2214,7 @@ As a watershed moment, the 1857 rebellion shaped the trajectory of British colon
 
 **Highlight the differences in the approach of Subhash Chandra Bose and Mahatma Gandhi in the struggle for freedom. (200 words, 12.5 marks)**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** <br>• Introduce Subhash Chandra Bose and Mahatma Gandhi as pivotal figures in the Indian freedom struggle. **Body** <br>• Discuss the key differences in their philosophies and methods. **Conclusion** <br>• Summarize the contrasting approaches of Gandhi and Bose, and highlight the diverse nature of the Indian freedom struggle. |
 | --- |
@@ -2215,6 +2243,7 @@ Gandhi emphasized non-violent resistance and moral persuasion, while Bose advoca
 
 [Question ID: 2016-gs1-q55-pwonlyias]
 
+
 ---
 
 ## Question 56 (Year: 2015 | Paper: GS 1 | Marks: N/A | Words: N/A)
@@ -2223,8 +2252,6 @@ Gandhi emphasized non-violent resistance and moral persuasion, while Bose advoca
 **Mahatma Gandhi and Dr. B R Ambedkar, despite having divergent approaches and strategies, had a common goal of amelioration of the downtrodden. Elucidate. (200 words, 12.5 marks)**
 
 ### Answer
-
-**Answer:**
 
 | **Approach:** <br> **Introduction** <br>• Briefly introduce Mahatma Gandhi and Dr. B.R. Ambedkar and their shared goal of amelioration of the downtrodden. **Body** <br>• Elucidate on their divergent approaches and strategies <br>• Gandhi’s focus on individual change and moral persuasion, and <br>• Ambedkar’s focus on legal and constitutional means. **Conclusion** <br>• Sum up how their shared goal contributed to significant social and political change in India. |
 | --- |
@@ -2257,6 +2284,7 @@ As the chief architect of the Indian Constitution, he incorporated provisions th
 Despite their divergent approaches, they sought to create a more equitable society, free from caste-based discrimination and social inequalities. Although they sometimes disagreed on strategies and methods, their shared goal of uplifting the oppressed classes in India ultimately contributed to significant social and political change.
 
 [Question ID: 2015-gs1-q56-pwonlyias]
+
 
 ---
 
@@ -2304,7 +2332,7 @@ These policies resulted in the impoverishment of the Indian peasantry, deindustr
 
 **In what ways did the naval mutiny prove to be the last nail in the coffin of British colonial aspirations in India?**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** <br>• Introduce the Royal Indian Navy Mutiny and its significance in India’s struggle for independence. **Body** <br>• Discuss the various factors that contributed to the naval mutiny being the last nail in the coffin of British colonial aspirations in India. **Conclusion** <br>• Summarize how the naval mutiny marked the end of British colonial rule in India and accelerated the process of India’s independence |
 | --- |
@@ -2330,6 +2358,7 @@ The Royal Indian Navy Mutiny of 1946 proved to be the last nail in the coffin of
 
 [Question ID: 2014-gs1-q58-pwonlyias]
 
+
 ---
 
 ## Question 59 (Year: 2013 | Paper: GS 1 | Marks: 10 Marks | Words: 200 Words)
@@ -2337,7 +2366,7 @@ The Royal Indian Navy Mutiny of 1946 proved to be the last nail in the coffin of
 
 **Defying the barriers of age, gender and religion, the Indian women became the torch bearer during the struggle for freedom in India. Discuss.**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** <br>• Briefly introduce the topic by highlighting the role of Indian women in the freedom struggle, emphasizing how they transcended age, gender, and religious barriers. **Body** <br>• Discuss how Indian women became the torch bearer during the struggle for freedom in India. Do provide examples. **Conclusion** <br>• Emphasize the lasting impact of their involvement on women’s rights and gender equality in post-independence India. |
 | --- |
@@ -2365,6 +2394,7 @@ The involvement of Indian women in the freedom struggle not only paved the way f
 
 [Question ID: 2013-gs1-q59-pwonlyias]
 
+
 ---
 
 ## Question 60 (Year: 2013 | Paper: GS 1 | Marks: 10 Marks | Words: 200 Words)
@@ -2372,7 +2402,7 @@ The involvement of Indian women in the freedom struggle not only paved the way f
 
 **Several foreigners made India their homeland and participated in various movements. Analyze their role in the Indian struggle for freedom.**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction:** <br>• Introduce by mentioning that numerous foreign individuals made India their home. **Body:** <br>• Mention their diverse roles and contributions to the struggle for freedom. **Conclusion:** <br>• Summarize the significance of the foreign individuals’ contributions to India’s struggle for freedom. |
 | --- |
@@ -2409,6 +2439,7 @@ The involvement of Indian women in the freedom struggle not only paved the way f
 They brought diverse perspectives, skills, and support to the independence movement, thereby enriching and strengthening it. Their involvement in the freedom struggle is a testament to the universal appeal of the Indian cause and the shared values of justice, freedom, and equality.
 
 [Question ID: 2013-gs1-q60-pwonlyias]
+
 
 ---
 
@@ -2537,7 +2568,7 @@ His principles of nonviolence, truth, self-rule, simplicity, environmental susta
 
 **Discuss whether formation of new states in recent times is beneficial or not for the economy of India?**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** <br>• You can introduce by explaining the rationale behind the formation of new states. **Body** <br>• Discuss the potential benefits of forming new states. <br>• Examine the potential drawbacks of forming new states. <br>• Analyze specific case studies of new state formations in India, such as Uttarakhand, Jharkhand, and Chhattisgarh, to assess their economic impact. **Conclusion** <br>• Provide a balanced perspective, emphasizing that the overall outcome depends on factors such as governance, resource allocation, and inclusive development policies. |
 | --- |
@@ -2568,6 +2599,7 @@ The formation of new states in India and its impact on the economy is a complex 
 
 [Question ID: 2018-gs1-q64-pwonlyias]
 
+
 ---
 
 ## Question 65 (Year: 2016 | Paper: GS 1 | Marks: N/A | Words: N/A)
@@ -2575,7 +2607,7 @@ The formation of new states in India and its impact on the economy is a complex 
 
 **Has the formation of linguistic states strengthened the cause of Indian unity? (200 words, 12.5 marks)**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** <br>• Introduce the topic by briefly discussing the formation of linguistic states in India and their intended purpose of accommodating the country’s diverse linguistic and cultural identities. **Body** <br>• Discuss the positive impacts of linguistic states on Indian unity. <br>• Examine the challenges to Indian unity posed by linguistic states. **Conclusion** <br>• Write a relevant conclusion. |
 | --- |
@@ -2605,6 +2637,7 @@ The key to preserving and strengthening Indian unity lies in striking a balance 
 
 [Question ID: 2016-gs1-q65-pwonlyias]
 
+
 ---
 
 ## Question 66 (Year: 2013 | Paper: GS 1 | Marks: 10 Marks | Words: 200 Words)
@@ -2612,7 +2645,7 @@ The key to preserving and strengthening Indian unity lies in striking a balance 
 
 **Analyse the circumstances that led to Tashkent Agreement in 1966. Discuss the highlights of the agreement.**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** <br>• Introduce the Tashkent Agreement as a diplomatic effort between India and Pakistan following the 1965 Indo-Pak War to restore peace and stability in the region. **Body** <br>• Talk about the circumstances that led to the Tashkent Agreement. <br>• Mention the highlights of the agreement. **Conclusion** <br>• Summarize the importance of the Tashkent Agreement in restoring peace and normalizing relations between India and Pakistan, despite not achieving a lasting resolution for underlying issues like the Kashmir dispute. |
 | --- |
@@ -2644,6 +2677,7 @@ The Tashkent Agreement was a crucial diplomatic effort to restore peace and stab
 
 [Question ID: 2013-gs1-q66-pwonlyias]
 
+
 ---
 
 ## Question 67 (Year: 2013 | Paper: GS 1 | Marks: 10 Marks | Words: 200 Words)
@@ -2651,7 +2685,7 @@ The Tashkent Agreement was a crucial diplomatic effort to restore peace and stab
 
 **Critically discuss the objectives of Bhoodan and Gramdan movements initiated by Acharya Vinoba Bhave and their success.**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction:** <br>• Introduce the Bhoodan and Gramdan movements, initiated by Acharya Vinoba Bhave, as efforts to address landlessness and promote equitable land distribution in rural India. **Body** <br>• Write the objectives of Bhoodan and Gramdan movements. <br>• Also, do the critical assessment of its success. **Conclusion:** <br>• Conclude, emphasizing their role in raising awareness, inspiring land reforms, and leaving a lasting impact on India’s rural development discourse. |
 | --- |
@@ -2682,6 +2716,7 @@ The Bhoodan and Gramdan movements by Acharya Vinoba Bhave made progress in land 
 
 [Question ID: 2013-gs1-q67-pwonlyias]
 
+
 ---
 
 ## Question 68 (Year: 2013 | Paper: GS 1 | Marks: 10 Marks | Words: 200 Words)
@@ -2689,7 +2724,7 @@ The Bhoodan and Gramdan movements by Acharya Vinoba Bhave made progress in land 
 
 **Critically examine the compulsions which prompted India to play a decisive role in the emergence of Bangladesh.**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** <br>• Introduce India’s role in Bangladesh’s emergence in 1971 as a defining moment in South Asian history, highlighting the interplay of humanitarian, strategic, and geopolitical factors. **Body** <br>• Critically examine the compulsions which prompted India to play a decisive role in the emergence of Bangladesh. **Conclusion** <br>• Conclude, highlighting the importance of understanding regional relations and decision-making in times of crisis. |
 | --- |
@@ -2714,6 +2749,7 @@ The emergence of Bangladesh remains a significant milestone in South Asian histo
 
 [Question ID: 2013-gs1-q68-pwonlyias]
 
+
 ---
 
 ## Question 69 (Year: 2013 | Paper: GS 1 | Marks: 10 Marks | Words: 200 Words)
@@ -2721,7 +2757,7 @@ The emergence of Bangladesh remains a significant milestone in South Asian histo
 
 **Discuss the contribution of Maulana Abul Kalam Azad to pre-and post independent India.**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** <br>• Briefly introduce Maulana Abul Kalam Azad’s role as a freedom fighter, political leader, and scholar in both pre-and post-independent India. **Body** <br>• Discuss his contribution in pre- and post independent India. **Conclusion** <br>• Conclude, emphasizing his impact on nation-building, unity, and inclusive development. |
 | --- |
@@ -2750,6 +2786,7 @@ His leadership in the freedom struggle, commitment to national integration, and 
 
 [Question ID: 2013-gs1-q69-pwonlyias]
 
+
 ---
 
 ## Question 70 (Year: 2013 | Paper: GS 1 | Marks: 10 Marks | Words: 200 Words)
@@ -2757,7 +2794,7 @@ His leadership in the freedom struggle, commitment to national integration, and 
 
 **Write a critical note on the evolution and significance of the slogan “Jai Jawan Jai Kisan”.**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** <br>• Introduce the slogan “Jai Jawan Jai Kisan” and mention the context and the period in which it was coined. **Body:** <br>• Discuss the evolution of the slogan. <br>• Analyze the significance of the slogan. **Conclusion** <br>• Highlight the continued relevance of the slogan in contemporary India. |
 | --- |
@@ -2787,6 +2824,7 @@ The slogan “ **Jai Jawan Jai Kisan”** **(meaning “Hail the Soldier, Hail t
 As a powerful rallying cry, it has left a lasting impact on the nation’s political and social fabric and continues to inspire generations to uphold India’s spirit of resilience, unity, and progress.
 
 [Question ID: 2013-gs1-q70-pwonlyias]
+
 
 ---
 
@@ -2886,7 +2924,7 @@ While the **First World War** was fought to maintain the **balance of power**, i
 ## Question 73 (Year: 2021 | Paper: GS 1 | Marks: 15 Marks | Words: 250 Words)
 **Question ID: 2021-gs1-q73-pwonlyias** **“There arose a serious challenge to the Democratic State System between the two World Wars.” Evaluate the statement.**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** <br>• Briefly introduce the challenges faced by the democratic state system during the interwar period. **Body** <br>• Mention the key factors that contributed to the erosion of democracy. **Conclusion** <br>• Summarize the challenges faced by the democratic state system and highlight how these challenges ultimately led to the outbreak of World War II and significant changes in the international order. |
 | --- |
@@ -2918,6 +2956,7 @@ The challenges faced by the democratic state system between the two World Wars w
 
 [Question ID: 2021-gs1-q73-pwonlyias]
 
+
 ---
 
 ## Question 74 (Year: 2019 | Paper: GS 1 | Marks: 15 Marks | Words: 250 Words)
@@ -2925,7 +2964,7 @@ The challenges faced by the democratic state system between the two World Wars w
 
 **Explain how the foundations of the modern world were laid by the American and French Revolutions.**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** <br>• Introduce the American and French Revolutions as pivotal events that shaped the modern world. **Body** <br>• Discuss their contributions to modern political, social, and economic thought. <br>• The American Revolution (1775-1783) and its impact. <br>• The French Revolution (1789-1799) and its impact. <br>• The commonalities and differences between the two revolutions. **Conclusion** <br>• Write a relevant conclusion. |
 | --- |
@@ -2960,6 +2999,7 @@ The challenges faced by the democratic state system between the two World Wars w
 The American and French Revolutions laid the foundations of the modern world by challenging traditional political and social systems, embracing Enlightenment ideals, and promoting democratic principles. Their lasting influence is evident in the political, social, and economic structures that continue to shape our world today, serving as a testament to the transformative power of revolutionary ideas.
 
 [Question ID: 2019-gs1-q74-pwonlyias]
+
 
 ---
 
@@ -3004,7 +3044,7 @@ The decolonization process in the Malay Peninsula has left a legacy of key issue
 
 **The anti-colonial struggles in West Africa were led by the new elite of Western-educated Africans. Examine. (200 words, 12.5 marks)**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** <br>• Introduce the context of anti-colonial struggles in West Africa and the emergence of a new elite of Western-educated Africans as key leaders in these movements. **Body** <br>• Discuss the various ways in which the Western-educated African elite contributed to the anti-colonial struggles. **Conclusion** <br>• Write a relevant conclusion. |
 | --- |
@@ -3028,6 +3068,7 @@ The anti-colonial struggles in West Africa played a pivotal role in the region�
 The Western-educated African elite were instrumental in the success of West Africa’s anti-colonial struggles. **Leaders** **such as Kwame Nkrumah in Ghana and Léopold Sédar Senghor in Senegal** offered crucial political leadership, mobilized labor movements, advocated for pan-Africanism, engaged in constitutional development, and utilized media and education to promote nationalism. Their efforts greatly impacted the eventual independence of West African countries and the formation of post-colonial governments.
 
 [Question ID: 2016-gs1-q76-pwonlyias]
+
 
 ---
 
@@ -3073,7 +3114,7 @@ While Germany played a significant role in the causes of both World Wars, it is 
 
 **Why did the industrial revolution first occur in England? Discuss the quality of life of the people there during the industrialization. How does it compare with that in India at present times?**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** <br>• Introduce the context of the Industrial Revolution in England and its effects on the quality of life during that period. **Body** <br>• Discuss the reasons for the Industrial Revolution in England, describe the quality of life during industrialization, and compare it with the quality of life in present-day India, highlighting both similarities and differences. **Conclusion** <br>• Write a relevant conclusion. |
 | --- |
@@ -3113,6 +3154,7 @@ While there are similarities between the quality of life during the Industrial R
 
 [Question ID: 2015-gs1-q78-pwonlyias]
 
+
 ---
 
 ## Question 79 (Year: 2014 | Paper: GS 1 | Marks: 10 Marks | Words: 150 Words)
@@ -3120,7 +3162,7 @@ While there are similarities between the quality of life during the Industrial R
 
 **The New Economic Policy – 1921 of Lenin had influenced the policies adopted by India soon after independence. Evaluate.**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** <br>• Introduce the New Economic Policy (NEP) of 1921 and its key features. **Body** <br>• Briefly mention India’s economic policies after independence. <br>• Discuss the similarities between the NEP and India’s economic policies, such as mixed economy, state control, and focus on industrialization. <br>• Examine the differences between the NEP and India’s economic policies, such as the role of the private sector, commitment to democracy, and the influence of other economic models. **Conclusion** <br>• Conclude, evaluating the extent to which the NEP influenced India’s economic policies and the factors that contributed to their adoption. |
 | --- |
@@ -3149,6 +3191,7 @@ The NEP may have provided a framework for a mixed economy that allowed India to 
 
 [Question ID: 2014-gs1-q79-pwonlyias]
 
+
 ---
 
 ## Question 80 (Year: 2014 | Paper: GS 1 | Marks: 10 Marks | Words: 150 Words)
@@ -3156,7 +3199,7 @@ The NEP may have provided a framework for a mixed economy that allowed India to 
 
 **What were the events that led to the Suez Crisis in 1956? How did it deal a final blow to Britain’s self-image as a world power?**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** <br>• Provide an overview of the Suez Crisis and its importance in the context of Britain’s decline as a world power. **Body** <br>• Discuss the events leading to the Suez Crisis, including the nationalization of the Suez Canal, the tripartite collusion between Britain, France, and Israel, and the military intervention. <br>• Examine the international response to the crisis, focusing on the role of the United States and the United Nations. <br>• Analyze the impact of the crisis on Britain’s economy, politics, and international relations. **Conclusion** <br>• Summarize the significance of the Suez Crisis in dealing a final blow to Britain’s self-image as a world power and its implications for Britain’s future role in global politics. |
 | --- |
@@ -3185,6 +3228,7 @@ The Suez Crisis of 1956 was a pivotal event that marked a turning point in Brita
 The Suez Crisis of 1956 was a watershed moment in the decline of Britain’s self-image as a world power. The events leading to the crisis, the international response, and the subsequent economic, political, and diplomatic consequences highlighted Britain’s diminished global influence and dependence on the United States. The crisis served as a stark reminder of the changing global landscape and marked the beginning of the end for Britain’s role as a dominant force in international affairs.
 
 [Question ID: 2014-gs1-q80-pwonlyias]
+
 
 ---
 
@@ -3229,7 +3273,7 @@ The convergence of these factors not only facilitated the eventual dismantling o
 
 **Africa was chopped into states artificially created by accident of European competition. Analyse.**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** <br>• Briefly introduce the Scramble for Africa and its connection to European competition and colonization. **Body** <br>• Discuss the Berlin Conference and its role in the division of Africa. <br>• Explain the motives behind European colonization (economic interests, political competition, cultural and religious expansion). <br>• Analyze the artificial borders created by European powers, addressing their disregard for existing ethnic, cultural, and political divisions among African communities. <br>• Describe the lasting impacts of these artificial borders on African nations, such as tensions, conflicts, and difficulties in nation-building and political stability. **Conclusion** <br>• Write a relevant conclusion. |
 | --- |
@@ -3256,6 +3300,7 @@ The Scramble for Africa resulted in the creation of artificial borders that disr
 
 [Question ID: 2013-gs1-q82-pwonlyias]
 
+
 ---
 
 ## Question 83 (Year: 2013 | Paper: GS 1 | Marks: 10 Marks | Words: 200 Words)
@@ -3263,7 +3308,7 @@ The Scramble for Africa resulted in the creation of artificial borders that disr
 
 **American Revolution was an economic revolt against mercantilism. Substantiate.**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** <br>• Briefly introduce the American Revolution and its multifaceted nature. **Body** <br>• Mention the economic aspect, focusing on the revolt against mercantilism. <br>• Discuss the concept of mercantilism and how British colonial policies implemented this system. <br>• Explain the issue of taxation without representation and its connection to mercantilist policies. <br>• Describe the economic self-interest of American colonists and their desire for free trade. <br>• Address the economic impact of British policies on the American colonies. **Conclusion** <br>• Acknowledge that while the revolution cannot be solely characterized as an economic revolt, the desire for economic self-determination was a crucial factor in the struggle for independence. |
 | --- |
@@ -3289,6 +3334,7 @@ The American Revolution (1775-1783) was a multifaceted struggle for independence
 While the American Revolution encompassed various factors, the quest for economic self-determination significantly contributed to the struggle for independence, demonstrating the importance of addressing economic grievances in the pursuit of freedom and autonomy.
 
 [Question ID: 2013-gs1-q83-pwonlyias]
+
 
 ---
 
@@ -3972,7 +4018,7 @@ In conclusion, while the technological revolution has brought a paradigm shift i
 
 **Discuss the impact of post-liberal economy on ethnic identity and communalism.**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** <br>• Write about the ethnic identity and communalism briefly **Body** <br>• Write the impact of post-liberal economy on ethnic identity <br>• Write the impact of post-liberal economy on communalism **Conclusion:** <br>• Give appropriate conclusion in this regard |
 | --- |
@@ -4024,6 +4070,7 @@ Adopting these innovative strategies can steer India towards a harmonious future
 
 [Question ID: 2023-gs1-q99-pwonlyias]
 
+
 ---
 
 ## Question 100 (Year: 2023 | Paper: GS 1 | Marks: 10 Marks | Words: 150 Words)
@@ -4031,7 +4078,7 @@ Adopting these innovative strategies can steer India towards a harmonious future
 
 **Do you think marriage as a sacrament is loosing its value in Modern India?**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** <br>• Write about “marriage as a sacrament” briefly **Body** <br>• Write how marriage as a sacrament is loosing its value in Modern India <br>• Write various counter arguments given against this view **Conclusion**: Give appropriate conclusion in this regard |
 | --- |
@@ -4068,6 +4115,7 @@ While marriage as a sacrament is undergoing changes in modern India, with varyin
 
 [Question ID: 2023-gs1-q100-pwonlyias]
 
+
 ---
 
 ## Question 101 (Year: 2023 | Paper: GS 1 | Marks: 10 Marks | Words: 150 Words)
@@ -4075,7 +4123,7 @@ While marriage as a sacrament is undergoing changes in modern India, with varyin
 
 **Explain why suicide among young women is increasing in Indian society.**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** <br>• Write about increasing suicide among young women in Indian society briefly **Body** <br>• Write why suicide among young women is increasing in Indian society **Conclusion** <br>• Give appropriate conclusion in this regard |
 | --- |
@@ -4103,6 +4151,7 @@ Going ahead, it is vital to **foster a society that nurtures and supports young 
 
 [Question ID: 2023-gs1-q101-pwonlyias]
 
+
 ---
 
 ## Question 102 (Year: 2023 | Paper: GS 1 | Marks: 15 Marks | Words: 250 Words)
@@ -4110,7 +4159,7 @@ Going ahead, it is vital to **foster a society that nurtures and supports young 
 
 **What are the main features of Vedic society and religion? Do you think some of the features are still prevailing in Indian society?**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** <br>• Write about the Vedic period to provide historical context briefly **Body** <br>• Write about the Main Features of Vedic Society <br>• Write about the Main Features of Vedic Religion <br>• Write the features of the Vedic period which are still prevailing in Modern Indian society **Conclusion:** <br>• Give appropriate conclusion in this regard |
 | --- |
@@ -4167,6 +4216,7 @@ The **Vedic period endowed India with a rich and complex cultural heritage**, de
 
 [Question ID: 2023-gs1-q102-pwonlyias]
 
+
 ---
 
 ## Question 103 (Year: 2023 | Paper: GS 1 | Marks: 15 Marks | Words: 250 Words)
@@ -4174,7 +4224,7 @@ The **Vedic period endowed India with a rich and complex cultural heritage**, de
 
 **Why did human development fail to keep pace with economic development in India?**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** <br>• Write about the economic trajectory of India briefly **Body** <br>• Write about the economic development in India <br>• Write why human development fail to keep pace with economic development in India <br>• Write suitable way forward in this regard **Conclusion:** <br>• Give appropriate conclusion in this regard |
 | --- |
@@ -4218,6 +4268,7 @@ Synchronizing economic growth with human development is a pivotal necessity for 
 
 [Question ID: 2023-gs1-q103-pwonlyias]
 
+
 ---
 
 ## Question 104 (Year: 2023 | Paper: GS 1 | Marks: 15 Marks | Words: 250 Words)
@@ -4225,7 +4276,7 @@ Synchronizing economic growth with human development is a pivotal necessity for 
 
 **Why is caste identity in India both fluid and static?**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction:** <br>• Write about fluid and static nature of caste identity briefly **Body** <br>• Write about the Fluid Nature of Caste Identity <br>• Write about the Static Nature of Caste Identity **Conclusion:** <br>• Give appropriate conclusion in this regard |
 | --- |
@@ -4259,6 +4310,7 @@ Understanding the fluid and static nature of caste identity in India is a comple
 
 [Question ID: 2023-gs1-q104-pwonlyias]
 
+
 ---
 
 ## Question 105 (Year: 2022 | Paper: GS 1 | Marks: 15 Marks | Words: 250 Words)
@@ -4266,7 +4318,7 @@ Understanding the fluid and static nature of caste identity in India is a comple
 
 **Analyze the salience of ‘sect’ in Indian society vis-a-vis caste, region and religion.**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** <br>• Define sect and give an example. **Body** <br>• Mention the salience of ‘sect’ vis-à-vis caste. <br>• Mention the salience of ‘sect’ vis-à-vis the region. <br>• Mention the salience of ‘sect’ vis-à-vis religion. **Conclusion** <br>• State that sects are a fact that would arise given the large diversity of aspirations and needs. But too much of sectarianism would lead to more divisions within society, so it must be checked appropriately. |
 | --- |
@@ -4305,6 +4357,7 @@ Too much sectarianism may lead to increased fragmentation within society that ma
 
 [Question ID: 2022-gs1-q105-pwonlyias]
 
+
 ---
 
 ## Question 106 (Year: 2022 | Paper: GS 1 | Marks: 15 Marks | Words: 250 Words)
@@ -4312,7 +4365,7 @@ Too much sectarianism may lead to increased fragmentation within society that ma
 
 **Are tolerance, assimilation and pluralism the key elements in the making of an Indian form of secularism? Justify your answer.**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** <br>• Define Indian form of secularism. **Body** <br>• List down a few points which reflect tolerance, assimilation and plurality in the way secularism is practiced in India. **Conclusion** <br>• Mention how all the three values are complementary and essential for India to be able to follow its unique mode of secularism. |
 | --- |
@@ -4357,6 +4410,7 @@ The multiplicity in culture, faith and language is what makes India special. Plu
 
 [Question ID: 2022-gs1-q106-pwonlyias]
 
+
 ---
 
 ## Question 107 (Year: 2022 | Paper: GS 1 | Marks: 15 Marks | Words: 250 Words)
@@ -4364,7 +4418,7 @@ The multiplicity in culture, faith and language is what makes India special. Plu
 
 **Elucidate the relationship between globalization and new technology in a world of scarce resources, with special reference to India.**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** <br>• Define globalization. **Body** <br>• Mention the positive and negative aspects of relation between scarce resources and globalization. **Conclusion** <br>• Conclude about how technology is going to be the mainstay of the future but the negative aspects must be controlled for a better future for all. |
 | --- |
@@ -4409,6 +4463,7 @@ Technology will continue to play an integral role in supporting globalization. T
 
 [Question ID: 2022-gs1-q107-pwonlyias]
 
+
 ---
 
 ## Question 108 (Year: 2022 | Paper: GS 1 | Marks: 10 Marks | Words: 150 Words)
@@ -4416,7 +4471,7 @@ Technology will continue to play an integral role in supporting globalization. T
 
 **Explore and evaluate the impact of ‘Work from Home’ on family relationships.**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** <br>• Write about the concept of work from home in brief. **Body** <br>• Write down both positive and negative aspects of Work from Home. <br>• Also examine the family relations like husband-wife relations, parent-children relation, any disproportionate impact on women and children, relations with elderly, etc. **Conclusion** <br>• Conclude by stating that work from home is a reality that has both positive and negative effects on family relations. So, governments and organizations must consciously try to reduce the negative impact while boosting the adoption of work from home. |
 | --- |
@@ -4451,6 +4506,7 @@ As with any socio-economic phenomenon, the impact of WFH on family relationships
 
 [Question ID: 2022-gs1-q108-pwonlyias]
 
+
 ---
 
 ## Question 109 (Year: 2022 | Paper: GS 1 | Marks: 10 Marks | Words: 150 Words)
@@ -4458,7 +4514,7 @@ As with any socio-economic phenomenon, the impact of WFH on family relationships
 
 **Given the diversities among the tribal communities in India, in which specific contexts should they be considered as a single category?**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** <br>• Define tribes along with some facts about tribes in India. Also, mention about the diversities among tribes. **Body** <br>• Mention the different contexts in which tribes can be seen as a single category. **Conclusion** <br>• Mention that the categorization of tribes is necessary, but it should not be done at the cost of the diversities among tribes. |
 | --- |
@@ -4500,6 +4556,7 @@ Each tribe has its own distinctive characteristics that sets it apart from the o
 
 [Question ID: 2022-gs1-q109-pwonlyias]
 
+
 ---
 
 ## Question 110 (Year: 2022 | Paper: GS 1 | Marks: 10 Marks | Words: 150 Words)
@@ -4507,7 +4564,7 @@ Each tribe has its own distinctive characteristics that sets it apart from the o
 
 **How is the growth of Tier 2 cities related to the rise of a new middle class with an emphasis on the culture of consumption?**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** <br>• Define Tier-2 cities with some examples. **Body** <br>• Link the tier-2 cities and the culture of consumption by linking it with factors that aid consumption and demand among the middle class. <br>• Discuss how it has led to the rise of a new middle class. **Conclusion** <br>• Conclude using broad points which focus on the areas where the middle class spends and how it boosts the growth of Tier-2 cities. |
 | --- |
@@ -4540,6 +4597,7 @@ Increased wages, the digital revolution, and the westernization of habits along 
 
 [Question ID: 2022-gs1-q110-pwonlyias]
 
+
 ---
 
 ## Question 111 (Year: 2021 | Paper: GS 1 | Marks: 15 Marks | Words: 250 Words)
@@ -4547,7 +4605,7 @@ Increased wages, the digital revolution, and the westernization of habits along 
 
 **Discuss the main objectives of Population Education and point out the measures to achieve them in India in detail.**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** <br>• Define population education. **Body** <br>• List down the main objectives of population education. List down the measures taken up for population education. **Conclusion** <br>• Mention how population can be a boon if population education is inculcated in them. |
 | --- |
@@ -4581,6 +4639,7 @@ India is projected to become the **most populous nation** soon. This huge popula
 
 [Question ID: 2021-gs1-q111-pwonlyias]
 
+
 ---
 
 ## Question 112 (Year: 2021 | Paper: GS 1 | Marks: 10 Marks | Words: 150 Words)
@@ -4588,7 +4647,7 @@ India is projected to become the **most populous nation** soon. This huge popula
 
 **Examine the role of &#8216;Gig Economy&#8217; in the process of empowerment of women in India.**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** <br>• Give a basic definition of the gig economy which encompasses the basic traits associated with gig economy. **Body** <br>• As the question asks to examine, list down both the pros and cons of the gig economy in the process of women empowerment. **Conclusion** <br>• Conclude with the idea that the Gig economy does offer several opportunities for women but the lack of security and scope of exploitation must be reduced by taking appropriate measures. |
 | --- |
@@ -4626,6 +4685,7 @@ In the short term, the gig economy can be a step towards increasing female labor
 
 [Question ID: 2021-gs1-q112-pwonlyias]
 
+
 ---
 
 ## Question 113 (Year: 2021 | Paper: GS 1 | Marks: 15 Marks | Words: 250 Words)
@@ -4633,7 +4693,7 @@ In the short term, the gig economy can be a step towards increasing female labor
 
 **How does Indian society maintain continuity in traditional social values? Enumerate the changes taking place in it.**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** <br>• Mention how Indian society has a diverse body of traditions at its core. **Body** <br>• Mention the processes like enculturation, adaptation, evolution of customs, etc that helps maintain continuity in traditional values. <br>• Then mention some factors that have introduced changes in culture and then mention the changes. **Conclusion** <br>• Conclude stating that despite the changes, Indian society is still largely rooted in culture and continues to flourish. |
 | --- |
@@ -4672,6 +4732,7 @@ Although, the forces of modernization have altered the balance of Indian traditi
 
 [Question ID: 2021-gs1-q113-pwonlyias]
 
+
 ---
 
 ## Question 114 (Year: 2021 | Paper: GS 1 | Marks: 15 Marks | Words: 250 Words)
@@ -4679,7 +4740,7 @@ Although, the forces of modernization have altered the balance of Indian traditi
 
 **What are the main socio-economic implications arising out of the development of IT industries in major cities of India?**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction:** <br>• Mention about the IT industry and the major locations in India which are the hubs for the IT industry. **Body:** <br>• Mention both the positive and negative socio-economic implications of the IT industries being located in the major cities of India. **Conclusion:** <br>• Mention that IT industries are necessary for India’s growth story but it must not be concentrated in major cities. They must be spread across Tier-2 and 3 cities as well for growth to be inclusive. |
 | --- |
@@ -4721,6 +4782,7 @@ The development of IT industries has come as a boon for the country. India’s t
 
 [Question ID: 2021-gs1-q114-pwonlyias]
 
+
 ---
 
 ## Question 115 (Year: 2021 | Paper: GS 1 | Marks: 15 Marks | Words: 250 Words)
@@ -4728,7 +4790,7 @@ The development of IT industries has come as a boon for the country. India’s t
 
 **What is Crypto currency? How does it affect global society? Has it been affecting Indian society also?**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** <br>• Define cryptocurrency and mention some of its key features. **Body** <br>• Mention the impact of cryptocurrency on global society. Mention the impact on Indian society specifically. **Conclusion** <br>• Mention that every technology has its pros and cons, but the positive side must be developed further so that the cons become less and less relevant. |
 | --- |
@@ -4765,6 +4827,7 @@ Like all technology, cryptocurrency exchanges are neither inherently good nor ba
 
 [Question ID: 2021-gs1-q115-pwonlyias]
 
+
 ---
 
 ## Question 116 (Year: 2020 | Paper: GS 1 | Marks: 10 Marks | Words: 150 Words)
@@ -4772,7 +4835,7 @@ Like all technology, cryptocurrency exchanges are neither inherently good nor ba
 
 **COVID-19 pandemic accelerated class inequalities and poverty in India. Comment.**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** <br>• Write about the inequality in India quoting some relevant fact or data. Add a statement that the pandemic has increased inequalities. **Body** <br>• Mention the various dimensions in which the inequalities and poverty has increased due to the pandemic. **Conclusion** <br>• Conclude with some government initiatives to counter this widening inequality and suggestions if any. |
 | --- |
@@ -4805,6 +4868,7 @@ Thus, it is clear that Covid-19 has increased existing inequalities at multiple 
 
 [Question ID: 2020-gs1-q116-pwonlyias]
 
+
 ---
 
 ## Question 117 (Year: 2020 | Paper: GS 1 | Marks: 15 Marks | Words: 250 Words)
@@ -4812,7 +4876,7 @@ Thus, it is clear that Covid-19 has increased existing inequalities at multiple 
 
 **Customs and traditions suppress reason leading to obscurantism. Do you agree?**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** <br>• Elaborate the meaning of customs and how its an important part of the way the society lives. **Body** <br>• Take a stand on whether customs and traditions suppress the reasoning ability of the society. <br>• But mention a few points on the counter aspect too. **Conclusion** <br>• Mention that customs and reason have a complex relationship, but following customs need not mean an absence of reason. |
 | --- |
@@ -4850,6 +4914,7 @@ The relationship between customs and reason is complex and multifaceted, and dep
 
 [Question ID: 2020-gs1-q117-pwonlyias]
 
+
 ---
 
 ## Question 118 (Year: 2020 | Paper: GS 1 | Marks: 10 Marks | Words: 150 Words)
@@ -4857,7 +4922,7 @@ The relationship between customs and reason is complex and multifaceted, and dep
 
 **Do you agree that regionalism in India appears to be a consequence of rising cultural assertiveness? Argue.**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** <br> • Define regionalism <br> • Mention some of its positive and negative aspects. <br> **Body** <br> • Mention how regionalism in India can be seen as a result of cultural assertiveness. Later mention how regionalism has other aspects too. **Conclusion** <br> • Conclude saying that regionalism in India can be seen as a consequence of rising cultural assertiveness but there are other factors too leading to its rise. <br> • Then mention how the positives of regionalism can be extracted to the benefit of nation building. |
 | --- |
@@ -4890,6 +4955,7 @@ Overall, it can be argued that rising cultural assertiveness is one of the main 
 
 [Question ID: 2020-gs1-q118-pwonlyias]
 
+
 ---
 
 ## Question 119 (Year: 2020 | Paper: GS 1 | Marks: 10 Marks | Words: 150 Words)
@@ -4897,7 +4963,7 @@ Overall, it can be argued that rising cultural assertiveness is one of the main 
 
 **Has caste lost its relevance in understanding the multi-cultural Indian Society? Elaborate your answer with illustrations.**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** <br>• Define Caste and mention how it has long been considered as a distinctive feature of Indian society. **Body** <br>• As the question asks for caste’s relevance, both sides have to be written about. Mention about caste has become less important in many areas. <br>• Then mention how it continues to be relevant in several other areas. **Conclusion** <br>• Conclude stating that caste is a social system that is still having its place in the society although it has changed the ways and places where it manifests. |
 | --- |
@@ -4933,6 +4999,7 @@ It can be difficult to fully eliminate the influence of caste, as it is deeply i
 
 [Question ID: 2020-gs1-q119-pwonlyias]
 
+
 ---
 
 ## Question 120 (Year: 2020 | Paper: GS 1 | Marks: 15 Marks | Words: 250 Words)
@@ -4940,7 +5007,7 @@ It can be difficult to fully eliminate the influence of caste, as it is deeply i
 
 **How have digital initiatives in India contributed to the functioning of the education system in the country? Elaborate your answer.**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** <br>• Mention about the status of education in India and how the pandemic has accelerated the process of digital education. **Body** <br>• List down and give details about the digital initiatives taken up for education in India. <br>• Add a few lines on how each initiative aids to some aspect of the functioning of the education system in India. **Conclusion:** <br>• Conclude stating that digital initiatives are necessary in today’s world, but it must not be seen as a replacement of the traditional system. <br>• Rather there must be a collaborative element between both the ways of teaching. |
 | --- |
@@ -4982,6 +5049,7 @@ Traditional forms of education have certain drawbacks which can be corrected thr
 
 [Question ID: 2020-gs1-q120-pwonlyias]
 
+
 ---
 
 ## Question 121 (Year: 2020 | Paper: GS 1 | Marks: 15 Marks | Words: 250 Words)
@@ -4989,7 +5057,7 @@ Traditional forms of education have certain drawbacks which can be corrected thr
 
 **Is diversity and pluralism in India under threat due to globalization? Justify your answer.**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** <br>• Define globalization. Mention how India is one of the most diverse nations. **Body** <br>• Mention areas where cultural diversity is at threat due to globalization. Then mention some areas where globalization aids diversity. **Conclusion** <br>• Conclude by stating that globalization has both good and bad effects. <br>• Pluralism and diversity can be enhanced by using the positive aspects. |
 | --- |
@@ -5026,6 +5094,7 @@ India is a place where there is diversity and pluralism. The highly diverse natu
 
 [Question ID: 2020-gs1-q121-pwonlyias]
 
+
 ---
 
 ## Question 122 (Year: 2019 | Paper: GS 1 | Marks: 10 Marks | Words: 150 Words)
@@ -5033,7 +5102,7 @@ India is a place where there is diversity and pluralism. The highly diverse natu
 
 **What makes Indian society unique in sustaining its culture? Discuss.**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** <br>• Mention about the cultural diversity of India. **Body** <br>• Mention the unique ways in which Indian society is able to balance the modern way of living and still be able to sustain its culture. **Conclusion** <br>• Conclude stating that there has been erosion in culture over the years, but still Indian society is largely rooted in culture and is sustaining it because of the values deeply rooted in the society. |
 | --- |
@@ -5065,6 +5134,7 @@ In recent times, Indian society has seen a surge in multiple divisive issues lik
 
 [Question ID: 2019-gs1-q122-pwonlyias]
 
+
 ---
 
 ## Question 123 (Year: 2019 | Paper: GS 1 | Marks: 10 Marks | Words: 150 Words)
@@ -5072,7 +5142,7 @@ In recent times, Indian society has seen a surge in multiple divisive issues lik
 
 **What are the challenges to our cultural practices in the name of secularism?**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** <br>• Define secularism. **Body** <br>• Mention points which show that the practice of secularism does negatively impact the practice of some cultural aspects. **Conclusion** <br>• State that despite these few flaws, secularism is an essential aspect of India as a nation and is essential for its growth. |
 | --- |
@@ -5104,6 +5174,7 @@ India must always be the perfect picture of booming diversity. It is obvious tha
 
 [Question ID: 2019-gs1-q123-pwonlyias]
 
+
 ---
 
 ## Question 124 (Year: 2019 | Paper: GS 1 | Marks: 15 Marks | Words: 250 Words)
@@ -5111,7 +5182,7 @@ India must always be the perfect picture of booming diversity. It is obvious tha
 
 **What are the continued challenges for women in India against time and space?**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** <br>• Mention a few facts about women in India and how they have faced several challenges since time immemorial. **Body** <br>• Mention that some of these challenges have continued and some new ones have come up. Also mention how the challenges differ across regions too. **Conclusion** <br>• Conclude stating that women in India need social support to give shape to their capabilities and reach greater heights. For this, a change in society’s mindset is necessary. |
 | --- |
@@ -5154,12 +5225,13 @@ Though with rise in education, modernization and urbanization, women have got re
 
 [Question ID: 2019-gs1-q124-pwonlyias]
 
+
 ---
 
 ## Question 125 (Year: 2018 | Paper: GS 1 | Marks: 10 Marks | Words: 150 Words)
 **Question ID: 2018-gs1-q125-pwonlyias** **“Caste system is assuming new identities and associational forms. Hence, the caste system cannot be eradicated in India.” Comment.**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** <br>• Define caste system. Introduce the concept of caste associations. **Body** <br>• Mention how caste has penetrated different aspects apart from social and economical. <br>• Explain the role of caste associations in this aspect and show that caste is only being strengthened because of it. **Conclusion** <br>• Concluding that caste as a system would be strengthened due to caste associations and reducing inequalities is the only way to reduce the role of caste in our society. |
 | --- |
@@ -5196,6 +5268,7 @@ As caste identity is seen to be offering benefits, people will continue to asser
 
 [Question ID: 2018-gs1-q125-pwonlyias]
 
+
 ---
 
 ## Question 126 (Year: 2018 | Paper: GS 1 | Marks: 10 Marks | Words: 150 Words)
@@ -5203,7 +5276,7 @@ As caste identity is seen to be offering benefits, people will continue to asser
 
 **How is the Indian concept of secularism different from the western model of secularism? Discuss.**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** <br>• Define secularism. **Body** <br>• Mention the difference between Indian and Western models of secularism. **Conclusion** <br>• State that Indian model of secularism is broader than the West and it is most suitable to the Indian multicultural society. |
 | --- |
@@ -5232,6 +5305,7 @@ Secularism is understood differently by different nations. The Indian concept of
 Thus, Indian secularism is broader than western. The state in India walks a tightrope between the requirement of religious liberty and the demand for equality and justice. The Indian model of secularism, over the years, has allowed a multi-religious society like ours to thrive in peace without the development of any major differences. This speaks volumes about the success of the Indian model of secularism.
 
 [Question ID: 2018-gs1-q126-pwonlyias]
+
 
 ---
 
@@ -5317,7 +5391,7 @@ No state forms a single monolithic cultural unit in India. While some cultures a
 
 **The spirit of tolerance and love is not only an interesting feature of Indian society from very early times, but it is also playing an important part at the present. Elaborate.**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** <br>• Introduce the idea of tolerance and its relation with the diversity present in India. **Body** <br>• Elaborate on how tolerance was relevant for India in the past. Then mention how it is relevant at present for Indian society. **Conclusion** <br>• State that tolerance and love has been at the core of Indian society since time immemorial and will always continue to be so. |
 | --- |
@@ -5350,6 +5424,7 @@ Barring occasional incidents of violence and hatred, Indian civilization has alw
 
 [Question ID: 2017-gs1-q129-pwonlyias]
 
+
 ---
 
 ## Question 130 (Year: 2017 | Paper: GS 1 | Marks: 10 Marks | Words: 150 Words)
@@ -5357,7 +5432,7 @@ Barring occasional incidents of violence and hatred, Indian civilization has alw
 
 **What are the two major legal initiatives by the State since Independence addressing discrimination against Scheduled Tribes (STs)?**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** <br>• Define the concept of Scheduled Tribe. **Body** <br>• Mention two legal (i.e., a law has been passed by Parliament) initiatives for STs which target discrimination against STs. **Conclusion** <br>• Conclude stating that the initiatives have flaws but is a step in the right direction for upliftment of STs. |
 | --- |
@@ -5393,6 +5468,7 @@ Apart from these, the Government of India has taken up many legal initiatives fo
 These two legal initiatives have perhaps played the greatest role in addressing the concerns and in protecting the rights and cultures of the tribal groups in India.
 
 [Question ID: 2017-gs1-q130-pwonlyias]
+
 
 ---
 
@@ -5516,7 +5592,7 @@ In a country as diverse as India, regionalism is inevitable if the specific need
 
 **Why are the tribals in India referred to as ‘the Scheduled Tribes’? Indicate the major provisions enshrined in the Constitution of India for their upliftment.**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** <br>• Give a brief description of the concept of Schedule Tribes. **Body** <br>• Mention about the major provisions for STs in the Constitution of India. **Conclusion** <br>• Conclude suitably. |
 | --- |
@@ -5556,6 +5632,7 @@ These are some of the provisions for the protection and development of scheduled
 
 **“Sabka Sath and Sabka Vikas”.**
 
+
 ---
 
 ## Question 302 (Year: 2015 | Paper: GS 1 | Marks: 10 Marks | Words: 150 Words)
@@ -5563,8 +5640,6 @@ These are some of the provisions for the protection and development of scheduled
 **Critically examine whether growing population is the cause of poverty OR poverty is the main cause of population increase in India.**
 
 ### Answer
-
-**Answer:**
 
 | **Approach:** <br> **Introduction** <br>• Define poverty. **Body** <br>• Mention the relation between population and poverty and analyze both aspects i.e., whether poverty causes population growth or population growth causes poverty. **Conclusion** <br>• Mention that both reinforce each other. |
 | --- |
@@ -5598,6 +5673,7 @@ b). **Poverty leads to increase in population**
 
 So, the answer to such a question depends on whether it is to be seen from the government’s point of view or the individual’s point of view. Population growth or decline alone is not a determining factor of poverty. It is the ability of the state to make its population skilled enough to be productive that makes a difference. Building the capabilities would make the growth in population seem as an asset rather than a liability on the State.
 
+
 ---
 
 ## Question 135 (Year: 2015 | Paper: GS 1 | Marks: 10 Marks | Words: 150 Words)
@@ -5605,7 +5681,7 @@ So, the answer to such a question depends on whether it is to be seen from the g
 
 **Describe any four cultural elements of diversity in India and rate their relative significance in building a national identity.**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** <br>• Mention about India’s diversity and list any four major areas of diversity. **Body:** <br>• Describe the four elements of cultural diversity with some elaboration. <br>• Then, as per your view, rank these cultural elements based on their significance in building a national identity. **Conclusion** <br>• Mention that maintenance of diversity in itself is one of the major reasons why India has remained united as a nation. |
 | --- |
@@ -5633,6 +5709,7 @@ Thus, cultural diversity has an important role in shaping India’s national ide
 
 [Question ID: 2015-gs1-q135-pwonlyias]
 
+
 ---
 
 ## Question 136 (Year: 2015 | Paper: GS 1 | Marks: 15 Marks | Words: 250 Words)
@@ -5640,7 +5717,7 @@ Thus, cultural diversity has an important role in shaping India’s national ide
 
 **Discuss the positive and negative effects of globalization on women in India.**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** <br>• Define globalization. **Body** <br>• Give some positive and some negative effect of globalization on women in India. **Conclusion** <br>• Suitable conclusion. |
 | --- |
@@ -5676,6 +5753,7 @@ Globalization affected Indian women in both ways, but there is a greater scope t
 
 [Question ID: 2015-gs1-q136-pwonlyias]
 
+
 ---
 
 ## Question 137 (Year: 2014 | Paper: GS 1 | Marks: 10 Marks | Words: 200 Words)
@@ -5683,7 +5761,7 @@ Globalization affected Indian women in both ways, but there is a greater scope t
 
 **Discuss the various economic and socio-cultural forces that are driving increasing feminization of agriculture in India.**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** <br> • Mention what the term feminization of agriculture means .** <br> **Body** <br> • Mention the major socio-economic causes for the rising number of women in the agriculture sector. **Conclusion** <br> • Mention that feminization of agriculture is a reality and the government must take steps to address their concerns specifically. |
 | --- |
@@ -5713,6 +5791,7 @@ With these factors only being strengthened, feminization of agriculture must be 
 
 [Question ID: 2014-gs1-q137-pwonlyias]
 
+
 ---
 
 ## Question 138 (Year: 2014 | Paper: GS 1 | Marks: 10 Marks | Words: 200 Words)
@@ -5720,7 +5799,7 @@ With these factors only being strengthened, feminization of agriculture must be 
 
 **How do the India debates on secularism differ from the debates in the West?**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** <br>• Define secularism. **Body** <br>• Mention the differentiating points between Indian and Western secularism. **Conclusion** <br>• Conclude by stating that secularism in India is best suited for its needs given the large diversity in its society. |
 | --- |
@@ -5745,6 +5824,7 @@ With these factors only being strengthened, feminization of agriculture must be 
 Thus, Indian secularism is broader than western. The Western idea is more negative while the Indian concept is more positive with a focus on mutual co-existence rather than separation. The essence of the Indian model of secularism lies in forging a positive relation between the state and religion in the social and cultural realm rather than pulling up an iron curtain between religion and State, both of which are essential parts of every society.
 
 [Question ID: 2014-gs1-q138-pwonlyias]
+
 
 ---
 
@@ -5793,7 +5873,7 @@ Working women face an ironical situation wherein their financial contribution to
 
 **The life cycle of a joint family depends on economic factors rather than social values. Discuss.**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** <br>• Elaborate the idea of joint family. **Body** <br>• Mention how economic considerations are key factors today in determining when and whether the family stays joint and when it splits into a nuclear family. **Conclusion** <br>• Mention that traditional practices are followed by a society based on its economic capacity, hence, the lifecycle of joint family too is determined by economic factors rather than social values. |
 | --- |
@@ -5820,6 +5900,7 @@ Working women face an ironical situation wherein their financial contribution to
 The continuation of social norms and cultural practices like the joint family system depends on the economic capacity of the family. Thus, economic factors, rather than social values, decide the life cycle of joint family in Indian society.
 
 [Question ID: 2014-gs1-q140-pwonlyias]
+
 
 ---
 
@@ -5862,7 +5943,7 @@ Changes in the society’s mindset, better enforcement of dowry and sex-selectiv
 
 **Critically examine the effect of globalization on the aged population in India.**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** <br>• Define globalization. Mention that India has a growing aged population along with some facts. **Body** <br>• Mention the effects of globalization on the aged people, especially on their social security, health and well-being and economic stability. **Conclusion** <br>• Conclude stating that the elderly are an asset if the tools of globalization are used properly. They must be guarded against the ill effects of globalization by increasing social security. |
 | --- |
@@ -5894,6 +5975,7 @@ As India continues to grapple with the challenges of an aging population, it wil
 
 [Question ID: 2013-gs1-q142-pwonlyias]
 
+
 ---
 
 ## Question 143 (Year: 2013 | Paper: GS 1 | Marks: 10 Marks | Words: 200 Words)
@@ -5901,7 +5983,7 @@ As India continues to grapple with the challenges of an aging population, it wil
 
 **Growing feeling of regionalism is an important factor in the generation of demand for a separate State. Discuss.**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** <br>• Define regionalism. Mention some of the factors that lead to the rise of regionalism and then say that it is one of the key factors for the demand for separate states. **Body** <br>• Mention the reasons why regionalism develops and how a separate state is seen to be a way to address many of these concerns. **Conclusion** <br>• Conclude stating that regionalism as a feeling in India is inevitable given its vast diversity, but demands for a separate state can be reduced by addressing policy issues of the region. |
 | --- |
@@ -5927,12 +6009,13 @@ In a country as diverse as India, regionalism is inevitable if the specific need
 
 [Question ID: 2013-gs1-q143-pwonlyias]
 
+
 ---
 
 ## Question 144 (Year: 2013 | Paper: GS 1 | Marks: 10 Marks | Words: 200 Words)
 **Question ID: 2013-gs1-q144-pwonlyias** **“Male membership needs to be encouraged in order to make women’s organizations free from gender bias.” Comment.**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** <br>• Mention about the role of women’s organization. **Body** <br>• Mention the problems faced due to women only membership and how male membership can be seen as a remedy to some of these problems. **Conclusion** <br>• Mention that women’s organizations must not see men as against their interest. Male membership would only enhance the outcomes envisaged by these organizations. |
 | --- |
@@ -5962,6 +6045,7 @@ However, this view is countered and male membership is sought in the women’s o
 Ultimately, both male and female have to coexist. None can flourish alone. So, including male into women’s organizations is necessary. A congenial atmosphere of free discussion and equitable distribution needs to be created for removing gender-based disadvantages from society. If encouragement of male membership to women’s organization would make them free from gender bias it should be allowed.
 
 [Question ID: 2013-gs1-q144-pwonlyias]
+
 
 ---
 
@@ -6604,7 +6688,7 @@ Rural-Urban migration refers to the movement of people from rural areas to urban
 
 **Comment on the resource potentials of the long coastlines of India and highlight the status of natural hazard preparedness in these areas.**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** <br>• Write about India in relation to its coast line. **Body** <br>• Resource Potentials of the Long Coastlines of India. <br>• Status of Natural Hazard Preparedness in these Areas **Conclusion** <br>• Give appropriate conclusion in this regard |
 | --- |
@@ -6660,6 +6744,7 @@ India is blessed with an extensive and diverse coastline that extends along the 
 India’s extensive coastlines present a unique duality, offering abundant resources while also being susceptible to natural hazards. However, through concrete measures, India can pave the way for unlocking the full potential of its blue economy resources while enhancing disaster resilience.
 
 [Question ID: 2023-gs1-q159-pwonlyias]
+
 
 ---
 
@@ -6729,7 +6814,7 @@ The consequences of climate change on food security in tropical countries are pr
 
 **Does urbanization lead to more segregation and/or marginalization of the poor in Indian metropolises?**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** <br>• Write about urbanisation in relation to rapid migration in brief. **Body** <br>• Urbanization and Segregation of the poor <br>• Urbanization and Marginalization of the poor <br>• Urbanisation as an opportunity for inclusive growth also. **Conclusion** <br>• Give appropriate conclusion in this regard |
 | --- |
@@ -6784,6 +6869,7 @@ Urbanization in India is a dynamic force that demands careful consideration and 
 
 [Question ID: 2023-gs1-q161-pwonlyias]
 
+
 ---
 
 ## Question 162 (Year: 2023 | Paper: GS 1 | Marks: 10 Marks | Words: 150 Words)
@@ -6791,7 +6877,7 @@ Urbanization in India is a dynamic force that demands careful consideration and 
 
 **How are the Fjords formed? Why do they constitute some of the most picturesque areas of the world?**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** <br>• Start with basic introduction of Fjord. **Body** <br>• Mention Formation of Fjords <br>• Mention reasons why Fjords constitute some of the Most Picturesque Areas in the World **Conclusion:** <br>• Give appropriate conclusion in this regard |
 | --- |
@@ -6836,6 +6922,7 @@ A fjord is a narrow, deep inlet of seawater bordered by steep cliffs or mountain
 Fjords are incredibly unique and visually captivating geological features on Earth, shaped through diverse natural processes. Nevertheless, these natural wonders are currently under threat from climate change. By fostering collective efforts, we can work towards securing their existence for future generations.
 
 [Question ID: 2023-gs1-q162-pwonlyias]
+
 
 ---
 
@@ -6902,7 +6989,7 @@ The diversity of India’s natural vegetation arises from numerous factors. Howe
 
 **Why is the South-West Monsoon called ‘Purvaiya’ (easterly) in Bhojpur Region? How has this directional seasonal wind system influenced the cultural ethos of the region?**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** <br>• Write about South-West Monsoon and its nomenclature around various regions. **Body** <br>• Mention reasons behind calling the South-West Monsoon ‘Purvaiya’ (Easterly) in the Bhojpur Region <br>• Influence of Directional Seasonal Wind System on the Cultural Ethos of the Region **Conclusion** <br>• Give appropriate conclusion in this regard |
 | --- |
@@ -6942,6 +7029,7 @@ The South-West Monsoon is a seasonal wind system that typically originates from 
 
 [Question ID: 2023-gs1-q164-pwonlyias]
 
+
 ---
 
 ## Question 165 (Year: 2023 | Paper: GS 1 | Marks: 10 Marks | Words: 150 Words)
@@ -6949,7 +7037,7 @@ The South-West Monsoon is a seasonal wind system that typically originates from 
 
 **Why is the world today confronted with a crisis of availability of and access to freshwater resources?**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** <br>• Start briefly with fresh water and its resources. **Body** <br>• Mention reasons behind the Crisis of Availability of Freshwater Resources <br>• Mention reasons behind the Crisis of Access to Freshwater Resources **Conclusion** <br>• Give appropriate conclusion in this regard |
 | --- |
@@ -6994,6 +7082,7 @@ The urgency of addressing the crisis of availability and access to freshwater ca
 
 [Question ID: 2023-gs1-q165-pwonlyias]
 
+
 ---
 
 ## Question 166 (Year: 2022 | Paper: GS 1 | Marks: 10 Marks | Words: 150 Words)
@@ -7001,7 +7090,7 @@ The urgency of addressing the crisis of availability and access to freshwater ca
 
 **Describe the characteristics and types of primary rocks.**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** <br>• Briefly define the Primary Rock. **Body:** <br>• Mention characteristics and types of Primary Rocks. **Conclusion** <br>• Conclude your answer with the importance of Primary Rock. |
 | --- |
@@ -7034,6 +7123,7 @@ Primary rocks are an essential component of the Earth’s crust, and they play a
 
 [Question ID: 2022-gs1-q166-pwonlyias]
 
+
 ---
 
 ## Question 167 (Year: 2022 | Paper: GS 1 | Marks: 15 Marks | Words: 250 Words)
@@ -7041,7 +7131,7 @@ Primary rocks are an essential component of the Earth’s crust, and they play a
 
 **Describing the distribution of rubber producing countries, indicate the major environmental issues faced by them.**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** <br>• Write about the distribution of rubber producing countries in World. **Body** <br>• Discuss the major environmental issues faced by rubber producing countries **Conclusion** <br>• Conclude your answer with a Futuristic Approach. |
 | --- |
@@ -7070,6 +7160,7 @@ Primary rocks are an essential component of the Earth’s crust, and they play a
 The rubber industry is an important economic sector for several countries, but it is associated with significant environmental issues. **WWF’s goal** is to have the majority of companies that produce and use rubber commit to sustainably and ethically produced rubber.
 
 [Question ID: 2022-gs1-q167-pwonlyias]
+
 
 ---
 
@@ -7114,7 +7205,7 @@ The IMD also provides detailed information on the potential impact of the cyclon
 
 **Discuss the natural resource potentials of ‘Deccan trap’.**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** <br>• Write about Deccan Trap in brief. **Body** <br>• Write about the significant natural resources found in the Deccan Trap. **Conclusion** <br>• Conclude your answer with the importance of Deccan Trap. |
 | --- |
@@ -7146,6 +7237,7 @@ Deccan Traps is a region with diverse natural resources, which can contribute to
 
 [Question ID: 2022-gs1-q169-pwonlyias]
 
+
 ---
 
 ## Question 170 (Year: 2022 | Paper: GS 1 | Marks: 10 Marks | Words: 150 Words)
@@ -7153,7 +7245,7 @@ Deccan Traps is a region with diverse natural resources, which can contribute to
 
 **Examine the potential of wind energy in India and explain the reasons for their limited spatial spread.**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** <br>• Discuss the potential of wind energy in India. **Body** <br>• Discuss the limited spatial spread of wind energy in India. **Conclusion** <br>• Conclude your answer with a Futuristic Approach. |
 | --- |
@@ -7186,6 +7278,7 @@ India to overcome these limitations and promote the development of wind energy p
 
 [Question ID: 2022-gs1-q170-pwonlyias]
 
+
 ---
 
 ## Question 171 (Year: 2022 | Paper: GS 1 | Marks: 15 Marks | Words: 250 Words)
@@ -7193,7 +7286,7 @@ India to overcome these limitations and promote the development of wind energy p
 
 **Mention the significance of straits and isthmus in international trade.**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** <br>• Start your answer with strait and isthmus. **Body** <br>• Mention the significant roles of strait and isthmus in international trade: **Conclusion** <br>• Conclude your answer with the importance of Straits and isthmuses. |
 | --- |
@@ -7222,6 +7315,7 @@ India to overcome these limitations and promote the development of wind energy p
 Straits and isthmuses play an essential role in international trade, providing access to markets, resources, and people. They have provided opportunities for tourism and international trade in marine products and are essential for maintaining global economic growth and development.
 
 [Question ID: 2022-gs1-q171-pwonlyias]
+
 
 ---
 
@@ -7325,7 +7419,7 @@ Mountain ranges play a crucial role in shaping local weather, climate patterns, 
 
 **Despite India being one of the countries of Gondwanaland, its mining industry contributes much less to its Gross Domestic Products [GDP] in percentage. Discuss.**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** <br>• Explaining contribution of the mining sector in India GDP. **Body** <br>• Mention reasons behind this less percentage of contribution. **Conclusion** <br>• Significance of mining Industry with government approach. |
 | --- |
@@ -7356,6 +7450,7 @@ India’s mining industry has significant potential to contribute to the country
 
 [Question ID: 2021-gs1-q174-pwonlyias]
 
+
 ---
 
 ## Question 175 (Year: 2021 | Paper: GS 1 | Marks: 10 Marks | Words: 150 Words)
@@ -7363,7 +7458,7 @@ India’s mining industry has significant potential to contribute to the country
 
 **Differentiate the causes of landslides in the Himalayan region and western Ghat.**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** <br>• Briefly define landslides and causes of landslides **Body** <br>• Mention some of the causes which are associated with the particular region. **Conclusion** <br>• Conclude your Answer with summary of the answer. |
 | --- |
@@ -7397,6 +7492,7 @@ A landslide is a natural disaster that occurs when a mass of earth or rock sudde
 Landslides are caused by a combination of geological, climatic, and human factors. The causes of landslides in the Himalayan region and the Western Ghats are different due to their distinct geographical and geological features.
 
 [Question ID: 2021-gs1-q175-pwonlyias]
+
 
 ---
 
@@ -7447,7 +7543,7 @@ The uneven distribution of mineral oil in the world has significant multi-dimens
 
 **Mention the global Occurrence of volcanic eruptions in 2021 and their impact on the regional environment.**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** <br>• Briefly defining What is Volcano and their occurrence at global level. **Body** <br>• Some of the examples of volcanic eruptions. <br>• Discuss the Impact of volcanic eruption on the environment. **Conclusion** <br>• Mention significant importance of volcanic eruption. |
 | --- |
@@ -7483,6 +7579,7 @@ The occurrence of volcanic eruptions in 2021 had varying impacts that can be bot
 
 [Question ID: 2021-gs1-q177-pwonlyias]
 
+
 ---
 
 ## Question 178 (Year: 2021 | Paper: GS 1 | Marks: 10 Marks | Words: 150 Words)
@@ -7490,7 +7587,7 @@ The occurrence of volcanic eruptions in 2021 had varying impacts that can be bot
 
 **What are the environmental implications of the reclamation of water bodies into urban land use ? Explain with examples.**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** <br>• Explaining the process of land reclamation and its needs **Body** <br>• Explain land reclamation implication on environment **Conclusion** <br>• Conclude your answer with environmental implications. |
 | --- |
@@ -7516,6 +7613,7 @@ Land reclamation is the process of creating new land from areas that were previo
 The reclamation of water bodies into urban land use can have significant environmental implications, including the loss of biodiversity, water quality degradation, increased flood risk and climate change.
 
 [Question ID: 2021-gs1-q178-pwonlyias]
+
 
 ---
 
@@ -7609,7 +7707,7 @@ The location factors for iron and steel industries have evolved over time, with 
 
 **Discuss the geophysical characteristic of the Circum- Pacific zone.**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** <br>• Write briefly about the Circum- Pacific Zone. **Body** <br>• Mention the salient geophysical characteristics of Circum- Pacific Zone. **Conclusion** <br>• Conclude your answer with a Futuristic Approach. |
 | --- |
@@ -7637,6 +7735,7 @@ The location factors for iron and steel industries have evolved over time, with 
 Geophysical characteristics of the Circum-Pacific Zone make it a region of significant geological activity and hazards, including earthquakes, volcanic eruptions, and tsunamis. These characteristics are essential for ensuring the safety and resilience of the communities living in this region.
 
 [Question ID: 2020-gs1-q181-pwonlyias]
+
 
 ---
 
@@ -7690,7 +7789,7 @@ India’s forest resources play a crucial role in mitigating climate change and 
 
 **How will the melting of Himalayas glaciers have a far-reaching impact on the water resources of India?**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** <br>• Start your Answer with a brief about the Himalayas. **Body** <br>• Discuss the melting of Himalayan glaciers could impact the water resources. **Conclusion** <br>• Conclude your Answer with the importance of the Himalayas. |
 | --- |
@@ -7718,6 +7817,7 @@ The Himalayas are of immense importance to the people who rely on their resource
 
 [Question ID: 2020-gs1-q183-pwonlyias]
 
+
 ---
 
 ## Question 184 (Year: 2020 | Paper: GS 1 | Marks: 10 Marks | Words: 150 Words)
@@ -7725,7 +7825,7 @@ The Himalayas are of immense importance to the people who rely on their resource
 
 **India has immense potential for solar energy though there are regional variations in its development. Elaborate.**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** <br>• Write data related to Solar Energy. **Body** <br>• Elaborate regional variation in India. **Conclusion** <br>• Conclude your answer with Government initiative and its impact. |
 | --- |
@@ -7758,6 +7858,7 @@ The Indian government has taken several initiatives and policies to propel the s
 
 [Question ID: 2020-gs1-q184-pwonlyias]
 
+
 ---
 
 ## Question 185 (Year: 2020 | Paper: GS 1 | Marks: 10 Marks | Words: 150 Words)
@@ -7765,7 +7866,7 @@ The Indian government has taken several initiatives and policies to propel the s
 
 **The interlinking of rivers can provide viable solutions to the multi-dimensional inter-related problems of droughts, floods and interrupted navigation. Critically examine.**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** <br>• Discuss the motive of interlinking of rivers. **Body** <br>• Discuss pros and cons of interlinking rivers. **Conclusion** <br>• Conclude your answer with a futuristic approach. |
 | --- |
@@ -7800,6 +7901,7 @@ Interlinking of rivers is a complex and contentious issue. It has the potential 
 
 [Question ID: 2020-gs1-q185-pwonlyias]
 
+
 ---
 
 ## Question 186 (Year: 2020 | Paper: GS 1 | Marks: 10 Marks | Words: 150 Words)
@@ -7807,7 +7909,7 @@ Interlinking of rivers is a complex and contentious issue. It has the potential 
 
 **The process of desertification does not have climate boundaries. Justify with examples.**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction:** <br>• Define briefly desertification. **Body:** <br>• Discuss restricted by climate boundaries and some reason. **Conclusion:** <br>• Conclude your answer with a futuristic approach. |
 | --- |
@@ -7832,6 +7934,7 @@ The factors contributing to desertification are complex and multifaceted and req
 
 [Question ID: 2020-gs1-q186-pwonlyias]
 
+
 ---
 
 ## Question 187 (Year: 2019 | Paper: GS 1 | Marks: 10 Marks | Words: 150 Words)
@@ -7839,7 +7942,7 @@ The factors contributing to desertification are complex and multifaceted and req
 
 **Assess the impact of global warming on the coral life system with examples.**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** <br>• Start your answer with the importance of coral reefs. **Body** <br>• Discuss impact of global warming on the coral life system. **Conclusion** <br>• Conclude your answer with a futuristic approach. |
 | --- |
@@ -7869,6 +7972,7 @@ Global warming impacts on coral life are significant and complex, threatening ec
 
 [Question ID: 2019-gs1-q187-pwonlyias]
 
+
 ---
 
 ## Question 188 (Year: 2019 | Paper: GS 1 | Marks: 10 Marks | Words: 150 Words)
@@ -7876,7 +7980,7 @@ Global warming impacts on coral life are significant and complex, threatening ec
 
 **Discuss the causes of depletion of mangroves and explain their importance in maintaining coastal ecology.**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** <br>• Start your answer with the importance of mangroves with Data. **Body** <br>• Discuss the reason for decline in mangroves and its Significance. **Conclusion** <br>• Conclude your answer with a futuristic approach. |
 | --- |
@@ -7913,6 +8017,7 @@ Mangroves are an important part of coastal ecosystems, providing a range of ecol
 Mangroves are vital, but threatened ecosystems. Depletion caused by human activities has significant implications for coastal ecology. Conservation, sustainable management practices, and restoration are needed to ensure their long-term health and resilience.
 
 [Question ID: 2019-gs1-q188-pwonlyias]
+
 
 ---
 
@@ -7967,7 +8072,7 @@ Restoring the mountain ecosystem from the negative impact of development initiat
 
 **How is efficient and affordable urban mass transport key to the rapid economic development in India?**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** <br>• Write about the importance of mass transport. **Body** <br>• Discuss the Reason for the mass transport system improves connectivity. **Conclusion** <br>• Conclude your answer’s importance with a futuristic approach. |
 | --- |
@@ -7998,6 +8103,7 @@ Restoring the mountain ecosystem from the negative impact of development initiat
 A well-developed urban mass transport system can be a game-changer for India’s economic growth. India moves towards becoming a global economic superpower, investing in urban mass transport must be a priority to ensure inclusive and sustainable growth.
 
 [Question ID: 2019-gs1-q190-pwonlyias]
+
 
 ---
 
@@ -8060,7 +8166,7 @@ Ocean currents and water masses are both important components of the marine envi
 
 **Why is the Indian Regional Navigational Satellite System [IRNSS] needed? How does it help in navigation?**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** <br>• Briefly explain about IRNSS. **Body** <br>• Significant and helpful in navigation by IRNSS. **Conclusion** <br>• Conclude your answer with the importance of IRNSS. |
 | --- |
@@ -8100,6 +8206,7 @@ IRNSS is a critical technological development for India as it enhances the effic
 
 [Question ID: 2018-gs1-q192-pwonlyias]
 
+
 ---
 
 ## Question 193 (Year: 2018 | Paper: GS 1 | Marks: 10 Marks | Words: 150 Words)
@@ -8107,7 +8214,7 @@ IRNSS is a critical technological development for India as it enhances the effic
 
 **Why is India taking keen interest in the Arctic region?**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction:** <br>• Write about the Arctic region. **Body:** <br>• Discuss India’ s interest in the Arctic region. **Conclusion:** <br>• Conclude your answer with Importance of the Arctic region. |
 | --- |
@@ -8139,6 +8246,7 @@ India’s interest in the Arctic region is driven by a combination of economic, 
 
 [Question ID: 2018-gs1-q193-pwonlyias]
 
+
 ---
 
 ## Question 194 (Year: 2018 | Paper: GS 1 | Marks: 10 Marks | Words: 150 Words)
@@ -8146,7 +8254,7 @@ India’s interest in the Arctic region is driven by a combination of economic, 
 
 **What are the consequences of spreading ‘Dead Zone’ on marine ecosystems?**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** <br>• Define the Dead Zone. **Body** <br>• Discuss the Significance of dead zones on marine ecosystems. **Conclusion** <br>• Conclude your answer with a significant threat to the marine ecosystem with a futuristic approach. |
 | --- |
@@ -8180,6 +8288,7 @@ India’s interest in the Arctic region is driven by a combination of economic, 
 The spreading of ‘Dead Zones’ poses a significant threat to the marine ecosystem. It can lead to a decline in fish populations, an increase in harmful algal blooms, and a shift in the species composition. We can take measures to reduce nutrient pollution and protect our oceans from these growing environmental issues.
 
 [Question ID: 2018-gs1-q194-pwonlyias]
+
 
 ---
 
@@ -8267,7 +8376,7 @@ India possesses a significant portion of the world’s fish diversity and stands
 
 **What is the significance of Industrial Corridors in India? Identifying Industrial Corridors, explain their main characteristics.**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** <br>• Write the importance of Industrial corridors. **Body** <br>• Discuss the Significance and Characteristics of Industrial Corridors. **Conclusion** <br>• Conclude your answer with a futuristic approach. |
 | --- |
@@ -8315,6 +8424,7 @@ The development of industrial corridors in India is crucial for the country’s 
 
 [Question ID: 2018-gs1-q197-pwonlyias]
 
+
 ---
 
 ## Question 198 (Year: 2018 | Paper: GS 1 | Marks: 15 Marks | Words: 250 Words)
@@ -8322,7 +8432,7 @@ The development of industrial corridors in India is crucial for the country’s 
 
 **Mention core strategies for the transformation of aspirational districts in India and explain the nature of convergence, collaboration and competition for its success.**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** <br>• Start your answer with the Aspirational Districts Programme. **Body** <br>• Discuss the strategies for the transformation nature of convergence, collaboration and competition. **Conclusion** <br>• Conclude your answer with Importance of the Arctic region. |
 | --- |
@@ -8353,6 +8463,7 @@ The transformation of aspirational districts in India requires a multi-pronged a
 
 [Question ID: 2018-gs1-q198-pwonlyias]
 
+
 ---
 
 ## Question 199 (Year: 2017 | Paper: GS 1 | Marks: 15 Marks | Words: 250 Words)
@@ -8360,7 +8471,7 @@ The transformation of aspirational districts in India requires a multi-pronged a
 
 **Account for variations in oceanic salinity and discuss its multidimensional effect.**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** <br>• Brief definition of the Oceanic salinity. **Body** <br>• Describe the Reasons for oceanic salinity and its multi-dimensional effects and variation. **Conclusion** <br>• Conclude your answer with significance of Oceanic salinity. |
 | --- |
@@ -8392,6 +8503,7 @@ The multi-dimensional effects of oceanic salinity are vast, ranging from changes
 
 [Question ID: 2017-gs1-q199-pwonlyias]
 
+
 ---
 
 ## Question 200 (Year: 2017 | Paper: GS 1 | Marks: 10 Marks | Words: 150 Words)
@@ -8399,7 +8511,7 @@ The multi-dimensional effects of oceanic salinity are vast, ranging from changes
 
 **How does the cryosphere affect global climate?**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** <br>• Brief definition of the term Cryosphere. **Body** <br>• Describe the term further and mention lined to the global climate **Conclusion** <br>• Conclude your answer with the significance of the Cryosphere. |
 | --- |
@@ -8427,6 +8539,7 @@ The multi-dimensional effects of oceanic salinity are vast, ranging from changes
 Changes to the cryosphere can have significant implications for the planet’s climate, ecosystems, and communities. Understanding the role of the cryosphere in global climate is essential for mitigating the impacts of climate change and developing strategies for adaptation and resilience.
 
 [Question ID: 2017-gs1-q200-pwonlyias]
+
 
 ---
 
@@ -8544,7 +8657,7 @@ The power of floods for irrigation and inland navigation can be an effective way
 
 **Mention the advantages of the cultivation of pulses because of which the year 2016 was declared as the International year of Pulses by United Nations.**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** <br>• Write the data with respect to pulses in India. **Body** <br>• Discuss the advantage Pulses. **Conclusion** <br>• Conclude your answer with the importance of pulses with a futuristic approach. |
 | --- |
@@ -8571,6 +8684,7 @@ The cultivation of pulses has several advantages, including their high nutrition
 
 [Question ID: 2017-gs1-q203-pwonlyias]
 
+
 ---
 
 ## Question 204 (Year: 2017 | Paper: GS 1 | Marks: 15 Marks | Words: 250 Words)
@@ -8578,7 +8692,7 @@ The cultivation of pulses has several advantages, including their high nutrition
 
 **Petroleum refineries are not necessarily located nearer to crude oil producing areas, particularly in many of the developing countries. Explain its implications.**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** <br>• Write briefly about Petroleum. **Body** <br>• Discuss the advantages and disadvantages of Petroleum Industries. **Conclusion** <br>• Summary of the answer with futuristic approach. |
 | --- |
@@ -8612,6 +8726,7 @@ The location of petroleum refineries in developing countries away from crude oil
 
 [Question ID: 2017-gs1-q204-pwonlyias]
 
+
 ---
 
 ## Question 205 (Year: 2017 | Paper: GS 1 | Marks: 15 Marks | Words: 250 Words)
@@ -8619,7 +8734,7 @@ The location of petroleum refineries in developing countries away from crude oil
 
 **What characteristic can be assigned to monsoon climate that succeeds in feeding more than 50 % of the world population residing in monsoon Asia?**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** <br> • Brief about Monsoon climate. **Body** <br> • Describe the Characteristics of monsoon climate .** <br> **Conclusion** <br> • Conclude your answer with a futuristic approach. |
 | --- |
@@ -8652,6 +8767,7 @@ The unique characteristics of monsoon climate, including seasonal rainfall patte
 
 [Question ID: 2017-gs1-q205-pwonlyias]
 
+
 ---
 
 ## Question 206 (Year: 2016 | Paper: GS 1 | Marks: N/A | Words: N/A)
@@ -8659,7 +8775,7 @@ The unique characteristics of monsoon climate, including seasonal rainfall patte
 
 **Enumerate the problem and prospects of inland water transport in India. [200 Words, 12.5 Marks]**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** <br>• Brief about Inland water transport. **Body** <br>• Discuss about the problems and prospects of inland water transport in India. **Conclusion** <br>• Conclude your answer with a futuristic approach. |
 | --- |
@@ -8691,6 +8807,7 @@ Inland water transport in India has both challenges and opportunities such as de
 
 [Question ID: 2016-gs1-q206-pwonlyias]
 
+
 ---
 
 ## Question 207 (Year: 2016 | Paper: GS 1 | Marks: N/A | Words: N/A)
@@ -8698,7 +8815,7 @@ Inland water transport in India has both challenges and opportunities such as de
 
 **In what way micro- watershed development projects help in water conservation in drought – prone and semi- arid regions of India?[200 Words, 12.5 Marks]**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** <br>• Start your answer with Importance of Micro-watershed development Project. **Body** <br>• Discuss the Micro-watershed development Project role in water conservation in drought prone and semi-arid regions. **Conclusion** <br>• Conclude your answer with a futuristic approach. |
 | --- |
@@ -8724,6 +8841,7 @@ Micro-watershed development projects have proven to be effective in conserving w
 
 [Question ID: 2016-gs1-q207-pwonlyias]
 
+
 ---
 
 ## Question 208 (Year: 2016 | Paper: GS 1 | Marks: N/A | Words: N/A)
@@ -8731,7 +8849,7 @@ Micro-watershed development projects have proven to be effective in conserving w
 
 **Present an account of the Indus Water Treaty and examine its ecological, economic and bilateral relation. [200 Words, 12.5 Marks]**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** <br>• Brief about Indus Water Treaty. **Body** <br>• Discuss about the Ecological, Economic Implications and Bilateral Relations of Indus Water Treaty. **Conclusion** <br>• Conclude your answer with the significant role of the Indus Water Treaty. |
 | --- |
@@ -8752,12 +8870,13 @@ The Indus Water Treaty has played a significant role in managing the water resou
 
 [Question ID: 2016-gs1-q208-pwonlyias]
 
+
 ---
 
 ## Question 209 (Year: 2016 | Paper: GS 1 | Marks: N/A | Words: N/A)
 **Question ID: 2016-gs1-q209-pwonlyias** **“The Himalayas are highly prone to landslides.” Discuss the causes and suggest suitable measures of mitigation.[200 Words, 12.5 Marks]**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** <br>• Start your answer with a brief about the Himalayas. **Body** <br>• Significant of Causes of Landslides and its measures of mitigation in the Himalayas. **Conclusion** <br>• Conclude your answer with the importance of Himalayas. |
 | --- |
@@ -8795,6 +8914,7 @@ The Indus Water Treaty has played a significant role in managing the water resou
 Landslides are a significant natural hazard in the Himalayan region, posing a severe threat to human lives and infrastructure. A collaborative effort between the government, communities, and scientists is necessary to develop sustainable solutions to reduce the risk of landslides in the region.
 
 [Question ID: 2016-gs1-q209-pwonlyias]
+
 
 ---
 
@@ -8836,7 +8956,7 @@ The South China Sea’s geopolitical significance is due to its location as a vi
 
 **How far do you agree that the behavior of the Indian monsoon has been changing due to humanizing landscape? Discuss.[200 Words, 12.5 Marks]**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** <br>• Write the importance of Indian Monsoon. **Body** <br>• Discuss the change behavior of the Indian monsoon. **Conclusion** <br>• Summary of the answer with futuristic approach. |
 | --- |
@@ -8860,6 +8980,7 @@ There is increasing evidence to suggest that human activities are affecting the 
 Indian monsoon is a complex weather phenomenon influenced by several natural and human factors, there is growing evidence that human activities are changing the monsoon’s behavior. These challenges require a coordinated effort between policymakers, scientists, and local communities to adopt sustainable land-use practices and mitigate the impacts of climate change to protect the Indian monsoon’s stability and predictability.
 
 [Question ID: 2015-gs1-q211-pwonlyias]
+
 
 ---
 
@@ -8902,7 +9023,7 @@ India has abundant freshwater resources, the country’s water scarcity problem 
 
 **Mumbai, Delhi and Kolkata are the three megacities of the country but the air pollution is a much more serious problem in Delhi as compared to the other two. Why is this so?[200 Words, 12.5 Marks]**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** <br>• Define air pollution and impact on Cities. **Body** <br>• Discuss the factors responsible for air pollution. **Conclusion** <br>• Conclude your answer with a summary of the answer with a futuristic approach. |
 | --- |
@@ -8928,6 +9049,7 @@ India has abundant freshwater resources, the country’s water scarcity problem 
 Mumbai, Delhi, and Kolkata face significant air pollution challenges, Delhi’s problem is more severe due to several factors, including its geography, weather patterns, and urbanization trends. Delhi’s air pollution problem will require a multifaceted approach that considers both short-term and long-term solutions to improve air quality and protect public health.
 
 [Question ID: 2015-gs1-q213-pwonlyias]
+
 
 ---
 
@@ -9017,7 +9139,7 @@ The discovery of oil reserves in the Arctic Sea could have significant economic 
 
 **Account for the change in the spatial pattern of the Iron and Steel industry in the world.**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** <br>• Start your answer with Importance of the iron and steel industry. **Body** <br>• Explore some of the factors that contributed to some changes. **Conclusion** <br>• Summary of the answer with futuristic approach. |
 | --- |
@@ -9044,6 +9166,7 @@ The spatial pattern of the iron and steel industry in the world has changed due 
 
 [Question ID: 2014-gs1-q216-pwonlyias]
 
+
 ---
 
 ## Question 217 (Year: 2014 | Paper: GS 1 | Marks: 10 Marks | Words: 150 Words)
@@ -9051,7 +9174,7 @@ The spatial pattern of the iron and steel industry in the world has changed due 
 
 **Explain the formation of thousand of islands in Indonesian and Philippines archipelagos.**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction:** <br>• Explain what archipelago is. **Body:** <br>• Explain the geography and physical processes in the formation of these islands of the region. **Conclusion:** <br>• Conclude your answer with a summary of the answer. |
 | --- |
@@ -9086,6 +9209,7 @@ The formation of islands in the Indonesian and Philippine archipelagos is the re
 
 [Question ID: 2014-gs1-q217-pwonlyias]
 
+
 ---
 
 ## Question 218 (Year: 2014 | Paper: GS 1 | Marks: 10 Marks | Words: 150 Words)
@@ -9093,7 +9217,7 @@ The formation of islands in the Indonesian and Philippine archipelagos is the re
 
 **How does India see its place in the economic space of rising natural resource rich Africa?**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** <br>• Start your answer with India relations with Africa. **Body** <br>• Discuss the economic space of rising natural resource-rich Africa. **Conclusion** <br>• Summary of the answer with futuristic approach. |
 | --- |
@@ -9134,6 +9258,7 @@ India’s engagement with Africa is expected to continue to deepen as it seeks t
 
 [Question ID: 2014-gs1-q218-pwonlyias]
 
+
 ---
 
 ## Question 219 (Year: 2014 | Paper: GS 1 | Marks: 10 Marks | Words: 150 Words)
@@ -9141,7 +9266,7 @@ India’s engagement with Africa is expected to continue to deepen as it seeks t
 
 **Tropical cyclones are largely confined to the South China Sea, Bay of Bengal and Gulf of Mexico. Why?**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** <br>• Brief about tropical cyclones. **Body** <br>• Discuss the importance of geographic limitation. **Conclusion** <br>• Conclude your answer with significant tropical cyclones. |
 | --- |
@@ -9164,6 +9289,7 @@ India’s engagement with Africa is expected to continue to deepen as it seeks t
 The geographic confinement of tropical cyclones to the South China Sea, Bay of Bengal, and Gulf of Mexico is due to a combination of factors, including warm ocean temperatures, favorable atmospheric conditions, and the specific geography of these regions. While these storms can cause significant damage, continued research and preparedness measures can help to minimize the impact on coastal communities.
 
 [Question ID: 2014-gs1-q219-pwonlyias]
+
 
 ---
 
@@ -9492,7 +9618,7 @@ The location of major hot deserts in the northern hemisphere is a result of comp
 
 **There is no formation of deltas by rivers of the western Ghat. Why?**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** <br>• Brief about formation of Deltas. **Body** <br>• Discuss about the Western Ghats no deltas due to several reasons. **Conclusion** <br>• Conclude your answer with a summary of the answer. |
 | --- |
@@ -9517,6 +9643,7 @@ The absence of deltas in Western Ghats rivers could be due to the steep gradient
 
 [Question ID: 2013-gs1-q227-pwonlyias]
 
+
 ---
 
 ## Question 228 (Year: 2013 | Paper: GS 1 | Marks: 5 Marks | Words: 100 Words)
@@ -9524,7 +9651,7 @@ The absence of deltas in Western Ghats rivers could be due to the steep gradient
 
 **What do you understand about the phenomenon of temperature inversion in meteorology? How does it affect the weather and habitants of the place?**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** <br>• Define the temperature inversion. **Body** <br>• Temperature inversion can have several significant effects on weather and the environment. **Conclusion** <br>• Conclude your answer with serious impacts on the environment. |
 | --- |
@@ -9555,6 +9682,7 @@ The absence of deltas in Western Ghats rivers could be due to the steep gradient
 Temperature inversion is a complex meteorological phenomenon that can have serious impacts on the environment and the people living in an area. Its effects can range from air pollution to extreme weather conditions and can be challenging to predict and manage. Therefore, it is essential to understand temperature inversion and its impacts to ensure better preparedness and management of its effects.
 
 [Question ID: 2013-gs1-q228-pwonlyias]
+
 
 ---
 
@@ -9599,8 +9727,6 @@ The prominent evidence in support of the theory include the matching coastlines,
 
 ### Answer
 
-**Answer:**
-
 | **Approach:** <br> **Introduction** <br>• Start your answer with the importance of fossil fuel. **Body** <br>• Discuss about Uranium and Thorium reserves in India and world and their Challenges. **Conclusion** <br>• Summary of the answer with futuristic approach. |
 | --- |
 
@@ -9633,5 +9759,6 @@ India has significant reserves of uranium and thorium, there are challenges asso
 India has significant reserves of uranium, it still relies on imports to meet its requirements. Moreover, the production of nuclear energy raises concerns regarding the safe disposal of nuclear waste. Therefore, the development of alternative sources of energy remains a pressing need.
 
 [Question ID: 2013-gs1-q230-pwonlyias]
+
 
 ---

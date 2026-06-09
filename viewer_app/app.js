@@ -199,26 +199,40 @@ function parseCoachingMarkdown(content) {
     const qidMatch = blockStrip.match(/Question ID:\s*([a-zA-Z0-9_-]+)/i);
     const qid = qidMatch ? qidMatch[1] : "Unknown";
     
-    const boldMatches = [];
-    const boldRegex = /\*\*([^*]+)\*\*/g;
-    let match;
-    while ((match = boldRegex.exec(blockStrip)) !== null) {
-      const mClean = match[1].trim();
-      if (mClean.startsWith("Question ID:") || mClean.toLowerCase().startsWith("answer") || mClean === "Answer" || mClean === "Answer:") {
-        continue;
-      }
-      if (mClean.length > 20) {
-        boldMatches.push(mClean);
+    // 1. Try to extract from the header line first
+    let questionText = "";
+    const headerMatch = headerLine.match(/^##\s+Question\s+\d+\s*\([^)]+\)\s*(.+)$/i);
+    if (headerMatch) {
+      let headerQ = headerMatch[1].trim();
+      headerQ = headerQ.replace(/^\*\*+|\*\*+$|^\*+|\*+$/g, '').trim();
+      if (headerQ.length > 5) {
+        questionText = headerQ;
       }
     }
     
-    let questionText = boldMatches[0] || "";
+    // 2. Fallback to bold matches in the body
     if (!questionText) {
-      for (let j = 1; j < Math.min(lines.length, 5); j++) {
-        const lineVal = lines[j].trim();
-        if (lineVal.startsWith("**") && lineVal.endsWith("**")) {
-          questionText = lineVal.replace(/\*\*/g, "");
-          break;
+      const boldMatches = [];
+      const boldRegex = /\*\*([^*]+)\*\*/g;
+      let match;
+      while ((match = boldRegex.exec(blockStrip)) !== null) {
+        const mClean = match[1].trim();
+        if (mClean.startsWith("Question ID:") || mClean.toLowerCase().startsWith("answer") || mClean === "Answer" || mClean === "Answer:") {
+          continue;
+        }
+        if (mClean.length > 20) {
+          boldMatches.push(mClean);
+        }
+      }
+      
+      questionText = boldMatches[0] || "";
+      if (!questionText) {
+        for (let j = 1; j < Math.min(lines.length, 5); j++) {
+          const lineVal = lines[j].trim();
+          if (lineVal.startsWith("**") && lineVal.endsWith("**")) {
+            questionText = lineVal.replace(/\*\*/g, "");
+            break;
+          }
         }
       }
     }
@@ -241,18 +255,19 @@ function parseCoachingMarkdown(content) {
   return parsedQs;
 }
 
+
 // Clean answer block headers
 function cleanAnswerHeaders(text) {
   text = text.trim();
   while (true) {
     const prev = text;
-    text = text.replace(/^(?:#+\s*Answer\s*(?:\*\*Answer:\*\*)?|\*\*Answer:\*\*|\*\*Answer\*\*|Answer:|Answer\*\*)\s*/i, '').trim();
+    text = text.replace(/^(?:#+\s*Ans(?:wer)?\s*(?:\*\*Ans(?:wer)?:\*\*)?|\*\*Ans(?:wer)?:\*\*|\*\*Ans(?:wer)?\*\*|Ans(?:wer)?:|Ans(?:wer)?\*\*)\s*/i, '').trim();
     text = text.replace(/^(?:\*\*|\*|)?Question ID:\s*[a-zA-Z0-9_-]+(?:\*\*|\*|)?\s*/i, '').trim();
     text = text.replace(/^(?:---\r?\n|\s+)+/, '').trim();
     if (text === prev) break;
   }
-  text = text.replace(/\r?\n#+\s*Answer(?:\s+\*\*Answer:\*\*)?\s*(?:\r?\n|$)/gi, '\n');
-  text = text.replace(/\r?\n(?:\*\*|\*|)?Answer:?(?:\*\*|\*|)?\s*(?:\r?\n|$)/gi, '\n');
+  text = text.replace(/\r?\n#+\s*Ans(?:wer)?(?:\s+\*\*Ans(?:wer)?:\*\*)?\s*(?:\r?\n|$)/gi, '\n');
+  text = text.replace(/\r?\n(?:\*\*|\*|)?Ans(?:wer)?:?(?:\*\*|\*|)?\s*(?:\r?\n|$)/gi, '\n');
   return text.trim();
 }
 
@@ -797,6 +812,18 @@ function renderSubjectStats() {
   });
 }
 
+function cleanStatementDisplay(text) {
+  if (!text) return "";
+  let clean = text.replace(/\*\*Question ID:\s*[^*]+\*\*/gi, "");
+  clean = clean.replace(/Question ID:\s*[a-zA-Z0-9_-]+/gi, "");
+  clean = clean.replace(/\[\d+\s*(?:words?|wards?),\s*\d+\s*marks?\]\.?/gi, "");
+  clean = clean.replace(/\[\d+\s*marks?,\s*\d+\s*(?:words?|wards?)\]\.?/gi, "");
+  clean = clean.replace(/\[\d+\s*(?:words?|wards?|marks?)\]\.?/gi, "");
+  clean = clean.replace(/\*\*/g, "");
+  clean = clean.replace(/\*/g, "");
+  return clean.trim();
+}
+
 // ==========================================================================
 // Render Feed
 // ==========================================================================
@@ -834,7 +861,7 @@ function renderFeed() {
             <span class="q-subject">${q.subject}</span>
             <span class="q-marks">${q.marks} Marks</span>
           </div>
-          <h3 class="q-statement">${q.statement}</h3>
+          <h3 class="q-statement">${cleanStatementDisplay(q.statement)}</h3>
         </div>
         <div class="arrow-icon">▼</div>
       </div>
@@ -1023,7 +1050,7 @@ async function renderAnswer(q, instName) {
   let bodyText = ansData.body;
   
   // Image path rewriting logic:
-  // e.g. superkalam/images/foo.png -> ../solved paper/gs[1|2|3]/superkalam/images/foo.png
+  // e.g. superkalam/images/foo.png -> ../solved paper/gs1/superkalam/images/foo.png
   const folderName = FOLDER_MAP[instName] || instName.toLowerCase();
   
   // Match relative image references in Markdown or raw HTML e.g. src="images/... " or src="folder/images/... "

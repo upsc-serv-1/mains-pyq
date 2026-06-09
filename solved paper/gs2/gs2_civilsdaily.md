@@ -461,11 +461,11 @@ Eg- **Aadhar Judgment**
 
 **1. Test of Proportionality - Puttaswamy (2017) -**
 
-1. **Legality** - **sanctioned by law,** with a **just, fair, and reasonable procedure.**
+  - **Legality** - **sanctioned by law,** with a **just, fair, and reasonable procedure.**
 
-2. **Legitimate Aim** - e.g., national security, public health.
+  - **Legitimate Aim** - e.g., national security, public health.
 
-3. **Proportionality** - The **nature, method, and extent** of interference must be proportionate to the **purpose sought.**
+  - **Proportionality** - The **nature, method, and extent** of interference must be proportionate to the **purpose sought.**
 
 **Arguments in Favour of DNA Testing**
 
@@ -579,9 +579,9 @@ Between 1950-1990, it was invoked over **90 times.** However, since the **mid-19
 
 - **Basic Structure Check** - Federalism held as part of the Basic Structure; arbitrary use of Article 356 violates it.
 
-3. **Subsequent Judicial Oversight** - SC interventions in **Uttarakhand (2016)** and **Arunachal Pradesh (2016)** reinstated governments, reinforcing judicial limits on Centre’s power.
+  - **Subsequent Judicial Oversight** - SC interventions in **Uttarakhand (2016)** and **Arunachal Pradesh (2016)** reinstated governments, reinforcing judicial limits on Centre’s power.
 
-4. **Evolving Constitutional Conventions** - Growing acceptance that President’s Rule is an **exceptional remedy of last resort.**
+  - **Evolving Constitutional Conventions** - Growing acceptance that President’s Rule is an **exceptional remedy of last resort.**
 
 **Political Factors**
 
@@ -1387,7 +1387,7 @@ As per **Granville Austin,** India is a **“cooperative federalism” model,** 
 
 **1. Summoning and Proroguing Houses (Article 174)**
 
-2. **Article 200 -** Giving assent to the Bills
+  - **Article 200 -** Giving assent to the Bills
 
 **3. Article 175-** Addresses the first session of the State Legislature after each general election.
 
@@ -1399,13 +1399,13 @@ As per **Granville Austin,** India is a **“cooperative federalism” model,** 
 
 **7. Ordinance-Making** Power (Article 213) **Essential Conditions for Exercise of Legislative Powers by the Governor**
 
-1. **Legislature Not in Session** - Ordinance can be issued only when **both Houses (or the sole House)** of the State Legislature are not in session.
+  - **Legislature Not in Session** - Ordinance can be issued only when **both Houses (or the sole House)** of the State Legislature are not in session.
 
-2. **Immediate Need** - The Governor must be **satisfied that circumstances exist** which render it necessary to take **immediate legislative action.**
+  - **Immediate Need** - The Governor must be **satisfied that circumstances exist** which render it necessary to take **immediate legislative action.**
 
-3. **Legislative Competence** - The ordinance can only be issued on a **subject within the State Legislature’s competence** under **State or Concurrent Lists.**
+  - **Legislative Competence** - The ordinance can only be issued on a **subject within the State Legislature’s competence** under **State or Concurrent Lists.**
 
-4. **Presidential Assent (Proviso to Article 213(1))** - Required if-
+  - **Presidential Assent (Proviso to Article 213(1))** - Required if-
 
   - The Bill would need the **President’s previous sanction;** or
 
@@ -1413,7 +1413,7 @@ As per **Granville Austin,** India is a **“cooperative federalism” model,** 
 
   - It covers subjects where **Parliament has overriding powers.**
 
-5. **Temporary Nature** - The ordinance must be **laid before the Legislature** and will cease to operate **six weeks after its reassembly,** unless replaced by an Act.
+  - **Temporary Nature** - The ordinance must be **laid before the Legislature** and will cease to operate **six weeks after its reassembly,** unless replaced by an Act.
 
 **Legality of Re-promulgation of Ordinances**
 
@@ -1535,11 +1535,11 @@ The **Cabinet system,** a legacy of the **British parliamentary model,** is base
 
 2. As Lawyer of GoI
 
-a. **Representation in Courts** on behalf of the Union. Eg- in the **Triple Talaq** and **Rafale Deal** cases.
+  - **Representation in Courts** on behalf of the Union. Eg- in the **Triple Talaq** and **Rafale Deal** cases.
 
-b. **Right of Audience in all Indian courts,** even without being a party.
+  - **Right of Audience in all Indian courts,** even without being a party.
 
-c. **Defends Union Actions** - Represents the government in **public interest litigations, constitutional disputes,** and **international arbitration** matters. Eg- **M.C. Setalvad (1950-1963) -** Defended the **constitutionality of preventive detention laws under Article 22 in** A.K. Gopalan case **Limitations**
+  - **Defends Union Actions** - Represents the government in **public interest litigations, constitutional disputes,** and **international arbitration** matters. Eg- **M.C. Setalvad (1950-1963) -** Defended the **constitutionality of preventive detention laws under Article 22 in** A.K. Gopalan case **Limitations**
 
 1. Unlike the **U.S. Attorney General,** who heads the **Department of Justice** and oversees federal law enforcement, the **Indian AG has no administrative or prosecutorial powers.**
 
@@ -2078,59 +2078,59 @@ of members.
 
 A. Legislative Function
 
-1. **Marginalization of Private Members’ Bills** - Only **14 passed since 1952.**
+  - **Marginalization of Private Members’ Bills** - Only **14 passed since 1952.**
 
-2. **Decreasing referral of bills to parliamentary committees-** Only 27% in the 16th Lok Sabha and 16% in the 17th Lok Sabha.
+  - **Decreasing referral of bills to parliamentary committees-** Only 27% in the 16th Lok Sabha and 16% in the 17th Lok Sabha.
 
 <p align="center"><img src="images/civilsdaily_p32_img67.png" alt="Diagram" /></p>
 
-3. **Lack of thorough scrutiny of bills-** During the term of the 17th LS, 58% of the Bills introduced were passed within two weeks of their introduction. Eg- the J&K Reorganisation Bill, 2019
+  - **Lack of thorough scrutiny of bills-** During the term of the 17th LS, 58% of the Bills introduced were passed within two weeks of their introduction. Eg- the J&K Reorganisation Bill, 2019
 
-4. **Weak research and knowledge support** - Inadequate access to legislative data and expert analysis undermines quality of debates.
+  - **Weak research and knowledge support** - Inadequate access to legislative data and expert analysis undermines quality of debates.
 
 B. Deliberative Function
 
-1. **Decline in sitting days** - From **120+ days (1950s)** to around **55 days** in 17th LS, curtailing deliberation
+  - **Decline in sitting days** - From **120+ days (1950s)** to around **55 days** in 17th LS, curtailing deliberation
 
-2. **Declining attendance-** In 2021, average attendance dropped to 71% in the Lok Sabha and 74% in the Rajya Sabha.
+  - **Declining attendance-** In 2021, average attendance dropped to 71% in the Lok Sabha and 74% in the Rajya Sabha.
 
-3. **Frequent disruptions and adjournments** - During the 17th Lok Sabha, MPs were suspended on 206 instances, across both Houses of Parliament. In Winter Session 2023, 146 MPs were suspended for serious misconduct in the House.
+  - **Frequent disruptions and adjournments** - During the 17th Lok Sabha, MPs were suspended on 206 instances, across both Houses of Parliament. In Winter Session 2023, 146 MPs were suspended for serious misconduct in the House.
 
-4. **Party whip system** - Strict control discourages independent viewpoints and policy reasoning.
+  - **Party whip system** - Strict control discourages independent viewpoints and policy reasoning.
 
 C. Financial Function
 
-1. Between 2019 and 2023, on average, about 80% of the budget has been voted on without discussion. In 2023, the entire budget was passed without discussion.
+  - Between 2019 and 2023, on average, about 80% of the budget has been voted on without discussion. In 2023, the entire budget was passed without discussion.
 
-2. **Decline in budget scrutiny** - Detailed examination of Demands for Grants often guillotined without debate.
+  - **Decline in budget scrutiny** - Detailed examination of Demands for Grants often guillotined without debate.
 
-3. **Weak engagement with financial committees** - Falling participation in PAC, Estimates Committee, etc.
+  - **Weak engagement with financial committees** - Falling participation in PAC, Estimates Committee, etc.
 
 D. Executive Oversight Function
 
 **1. Question Hour functioned for 60% of scheduled time in LS and 52% in Rajya Sabha.**
 
-2. **Underutilized parliamentary committees** - Low attendance and poor follow-up dilute scrutiny of executive performance.
+  - **Underutilized parliamentary committees** - Low attendance and poor follow-up dilute scrutiny of executive performance.
 
-3. **Resort to Money Bill route** undermines RS. Eg- Aadhar Act **Consequences of the Decline in Individual Parliamentarian’s Role**
+  - **Resort to Money Bill route** undermines RS. Eg- Aadhar Act **Consequences of the Decline in Individual Parliamentarian’s Role**
 
-1. **Reduced Accountability** - Rushing bills like the **Women’s Reservation Bill, 2023** limits scrutiny and weakens executive oversight.
+  - **Reduced Accountability** - Rushing bills like the **Women’s Reservation Bill, 2023** limits scrutiny and weakens executive oversight.
 
-2. **Criminalization of politics** - as per ADR data, **46% of MPs elected in 2024** have criminal cases pending.
+  - **Criminalization of politics** - as per ADR data, **46% of MPs elected in 2024** have criminal cases pending.
 
-3. **Poor Legislative Quality** - **Farm Laws (2020)** passed with minimal debate led to backlash and repeal.
+  - **Poor Legislative Quality** - **Farm Laws (2020)** passed with minimal debate led to backlash and repeal.
 
-4. **Legislative Stagnation** - Delay in passage of important bills due to disruption
+  - **Legislative Stagnation** - Delay in passage of important bills due to disruption
 
-5. **Judicial Intervention** - Weak legislative performance prompts courts to step in (e.g., **NGT,** social justice rulings).
+  - **Judicial Intervention** - Weak legislative performance prompts courts to step in (e.g., **NGT,** social justice rulings).
 
-6. **Ordinance Culture** - Fewer sittings have led to rising ordinances **(11 in 2020),** bypassing Parliament.
+  - **Ordinance Culture** - Fewer sittings have led to rising ordinances **(11 in 2020),** bypassing Parliament.
 
-7. **Public Disillusionment** - Citizens lose faith in Parliament’s deliberative and representative role.
+  - **Public Disillusionment** - Citizens lose faith in Parliament’s deliberative and representative role.
 
-8. **Democratic Imbalance** - Executive consolidation weakens **checks and balances,** harming deliberative democracy.
+  - **Democratic Imbalance** - Executive consolidation weakens **checks and balances,** harming deliberative democracy.
 
-9. **Diminishing role of opposition MPs** - Reduced speaking time and political polarization undermine effective oversight.
+  - **Diminishing role of opposition MPs** - Reduced speaking time and political polarization undermine effective oversight.
 
 **Way Forward-**
 
@@ -2560,23 +2560,23 @@ Legislative Councils reflect India’s **deliberative democratic ethos.** With *
 
 **2. No women CJI**
 
-3. As of 2025, only **1 Supreme Court judge** and about **13% of High Court judges** are women **Desirability of Greater Representation**
+  - As of 2025, only **1 Supreme Court judge** and about **13% of High Court judges** are women **Desirability of Greater Representation**
 
-1. **Constitutional Imperative** - Fulfils **Articles 14, 15(3), and 39A,** ensuring equal opportunity and access to justice for all.
+  - **Constitutional Imperative** - Fulfils **Articles 14, 15(3), and 39A,** ensuring equal opportunity and access to justice for all.
 
-2. **Corrects Historical Imbalance-** Addresses structural and institutional barriers in legal and judicial careers.
+  - **Corrects Historical Imbalance-** Addresses structural and institutional barriers in legal and judicial careers.
 
-3. **Diversity of Perspective** - Women judges bring unique **social insights, empathy, and lived experiences,** enriching judicial reasoning and deliberation.
+  - **Diversity of Perspective** - Women judges bring unique **social insights, empathy, and lived experiences,** enriching judicial reasoning and deliberation.
 
-4. **Gender-Sensitive Adjudication** - Enhances sensitivity in matters of **sexual violence, family law, and gender rights.** Eg- Justice Indu Malhotra’s dissent in **Sabarimala (2018).**
+  - **Gender-Sensitive Adjudication** - Enhances sensitivity in matters of **sexual violence, family law, and gender rights.** Eg- Justice Indu Malhotra’s dissent in **Sabarimala (2018).**
 
-5. **Enhances Legitimacy and Public Trust** - A judiciary reflective of society’s diversity strengthens **citizen confidence** in judicial impartiality.
+  - **Enhances Legitimacy and Public Trust** - A judiciary reflective of society’s diversity strengthens **citizen confidence** in judicial impartiality.
 
-6. **Democratization of Judiciary** - Promotes **inclusive representation** across gender, class, and region, aligning with democratic ideals.
+  - **Democratization of Judiciary** - Promotes **inclusive representation** across gender, class, and region, aligning with democratic ideals.
 
-7. **Global Democratic Benchmark** - Countries like **Canada and the UK** have achieved near gender parity, improving judicial balance and inclusivity.
+  - **Global Democratic Benchmark** - Countries like **Canada and the UK** have achieved near gender parity, improving judicial balance and inclusivity.
 
-8. **Role-Model Effect** - Inspires **women in the legal profession,** helping address underrepresentation in senior judicial positions.
+  - **Role-Model Effect** - Inspires **women in the legal profession,** helping address underrepresentation in senior judicial positions.
 
 | Challenges | Way Forward |
 | --- | --- |
@@ -3506,39 +3506,39 @@ They are inspired by **Gandhiji’s concept** of **“Oceanic Circles of Power�
 
 A. Political Challenges
 
-1. **Delayed Elections-** Eg- **Maharashtra’s 27 Municipal Corporations** functioning under administrators since 2022.
+  - **Delayed Elections-** Eg- **Maharashtra’s 27 Municipal Corporations** functioning under administrators since 2022.
 
-2. **Weak Gram Sabhas-** Low participation, elite domination, and token meetings.
+  - **Weak Gram Sabhas-** Low participation, elite domination, and token meetings.
 
-3. With rural population falling from **75% (1990)** to **about 60%,** national development priorities have moved toward **urban governance and municipal reforms.**
+  - With rural population falling from **75% (1990)** to **about 60%,** national development priorities have moved toward **urban governance and municipal reforms.**
 
 B. Functional and Planning Challenges
 
-1. **District and Metropolitan Planning Committees are largely** non-functional in most states.
+  - **District and Metropolitan Planning Committees are largely** non-functional in most states.
 
-2. **Poor digital capacity-** Limited use of **e-Gram Swaraj and GIS-based planning.**
+  - **Poor digital capacity-** Limited use of **e-Gram Swaraj and GIS-based planning.**
 
 C. Administrative Challenges
 
-1. **Shortage of Functionaries-** Severe **staff vacancies-only 0.67 secretaries per Gram Panchayat** (falling to 0.33 in Uttar Pradesh).
+  - **Shortage of Functionaries-** Severe **staff vacancies-only 0.67 secretaries per Gram Panchayat** (falling to 0.33 in Uttar Pradesh).
 
-2. **Parastatal Dominance** reduces the role of elected bodies. Eg- Delhi Jal Board
+  - **Parastatal Dominance** reduces the role of elected bodies. Eg- Delhi Jal Board
 
-3. **Accountability issues-** Weak **social audit mechanisms** and poor grievance redressal.
+  - **Accountability issues-** Weak **social audit mechanisms** and poor grievance redressal.
 
 D. Financial Challenges
 
-1. **Declining Fiscal Autonomy-** Local bodies generate **<1% of GDP** as own-source revenue (RBI, 2022).
+  - **Declining Fiscal Autonomy-** Local bodies generate **<1% of GDP** as own-source revenue (RBI, 2022).
 
-2. **Post-GST Revenue Loss-** Subsumption of **octroi, market, and entertainment taxes.**
+  - **Post-GST Revenue Loss-** Subsumption of **octroi, market, and entertainment taxes.**
 
-3. Irregular constitution and poor implementation of **SFC recommendations.**
+  - Irregular constitution and poor implementation of **SFC recommendations.**
 
 E. Social and Governance Challenges
 
-1. **Elite Capture-** Local elites dominate decision-making, sidelining marginalized voices.
+  - **Elite Capture-** Local elites dominate decision-making, sidelining marginalized voices.
 
-2. Despite reservation, **proxy representation (Sarpanch Pati)** reduces women’s leadership effectiveness.
+  - Despite reservation, **proxy representation (Sarpanch Pati)** reduces women’s leadership effectiveness.
 
 **Way Forward**
 
@@ -3902,23 +3902,23 @@ Thus, the disqualification provisions ensure the **trinity of Ethics, Accountabi
 
 **A. Legal and Institutional Challenges**
 
-1. **Lack of Statutory Backing-** enforcement depends on **moral authority,** not legal sanction.
+  - **Lack of Statutory Backing-** enforcement depends on **moral authority,** not legal sanction.
 
-2. **Delay in Judicial Remedies** on MCC violations, reduce **deterrent effect.**
+  - **Delay in Judicial Remedies** on MCC violations, reduce **deterrent effect.**
 
 **B. Administrative Challenges**
 
-1. Monitoring compliance across **10+ lakh polling stations** and multiple states is logistically difficult.
+  - Monitoring compliance across **10+ lakh polling stations** and multiple states is logistically difficult.
 
-2. **Limited Human Resources-** reliance on **district officials** who are part of state bureaucracy reduces independence.
+  - **Limited Human Resources-** reliance on **district officials** who are part of state bureaucracy reduces independence.
 
 **C. Political Challenges**
 
-1. **Allegations of Bias,** especially against opposition leaders.
+  - **Allegations of Bias,** especially against opposition leaders.
 
-2. **Non-cooperation by Political Parties- ignore advisories** or **delay compliance** with MCC orders.
+  - **Non-cooperation by Political Parties- ignore advisories** or **delay compliance** with MCC orders.
 
-3. **Freebies and Populism-** Lack of clear guidelines to differentiate **welfare schemes** from **electoral freebies** (as seen in Tamil Nadu & Telangana cases).
+  - **Freebies and Populism-** Lack of clear guidelines to differentiate **welfare schemes** from **electoral freebies** (as seen in Tamil Nadu & Telangana cases).
 
 **D. Technological and Media Challenges -** Difficulty tracking **fake news, hate campaigns, and paid promotions** on digital platforms.
 
@@ -4007,35 +4007,35 @@ In **Abhiram Singh vs UoI,** SC has held that elections are the biggest secular 
 
 A. Technical and Operational Challenges
 
-1. **Allegations of EVM tampering** and demand for Postal Ballot system.
+  - **Allegations of EVM tampering** and demand for Postal Ballot system.
 
-2. EVMs are produced by PSU’s **BEL and ECIL-** concerns about **source code security** and potential government misuse.
+  - EVMs are produced by PSU’s **BEL and ECIL-** concerns about **source code security** and potential government misuse.
 
-3. Large-scale deployment increases risk of **technical failure,** power supply issues, and **storage vulnerability.**
+  - Large-scale deployment increases risk of **technical failure,** power supply issues, and **storage vulnerability.**
 
 B. Institutional and Procedural Challenges
 
-1. Political polarisation has led to **accusations of bias** against ECI decisions (timing of elections, model code enforcement).
+  - Political polarisation has led to **accusations of bias** against ECI decisions (timing of elections, model code enforcement).
 
-2. **Lack of transparency-** Limited access for political parties and civil society to **audit or inspect EVM functioning.**
+  - **Lack of transparency-** Limited access for political parties and civil society to **audit or inspect EVM functioning.**
 
-3. Opposition parties demand **100% VVPAT verification or return to ballot papers,** which the ECI has resisted citing **impracticality.**
+  - Opposition parties demand **100% VVPAT verification or return to ballot papers,** which the ECI has resisted citing **impracticality.**
 
 C. Legal and Regulatory Challenges
 
-1. Use of EVMs is governed by **Conduct of Elections Rules, 1961,** not by a **specific EVM legislation.**
+  - Use of EVMs is governed by **Conduct of Elections Rules, 1961,** not by a **specific EVM legislation.**
 
-2. **Judicial scrutiny and legal disputes-** Repeated petitions challenge **credibility of EVMs and VVPAT counting procedures.**
+  - **Judicial scrutiny and legal disputes-** Repeated petitions challenge **credibility of EVMs and VVPAT counting procedures.**
 
-3. **Despite SC directives** (2024) to improve **VVPAT counting transparency** and **preserve paper trail records** - compliance remains partial.
+  - **Despite SC directives** (2024) to improve **VVPAT counting transparency** and **preserve paper trail records** - compliance remains partial.
 
 D. Public Perception and Political Trust Deficit
 
-1. **Decline in citizen confidence-** Lack of understanding of EVM functioning leads to **misinformation and conspiracy theories.**
+  - **Decline in citizen confidence-** Lack of understanding of EVM functioning leads to **misinformation and conspiracy theories.**
 
-2. **Political blame culture-** Losing parties often **question EVM integrity,** politicising the institution’s credibility.
+  - **Political blame culture-** Losing parties often **question EVM integrity,** politicising the institution’s credibility.
 
-3. **Social media misinformation-** Viral false claims about **EVM manipulation** erode voter trust. Eg“Black Box” Allegations (2024) **ECI’s Stand**
+  - **Social media misinformation-** Viral false claims about **EVM manipulation** erode voter trust. Eg“Black Box” Allegations (2024) **ECI’s Stand**
 
 - **EVMs are standalone, non-networked machines;** cannot be hacked remotely.
 
@@ -4680,7 +4680,7 @@ NHRC is a **statutory body,** established under the **Protection of Human Rights
 
 **4. Observations by the Sub-Committee on Accreditation (SCA) of GANHRI**
 
-a. **Lack of Diversity -** Only **95 out of 393 staff positions** are held by women, violating the **Paris Principles** requirement of pluralism and representativeness.
+  - **Lack of Diversity -** Only **95 out of 393 staff positions** are held by women, violating the **Paris Principles** requirement of pluralism and representativeness.
 
 **b. Government-Dominated Selection Committee curbs opposition input** and reduces transparency in selection.
 
@@ -4690,13 +4690,13 @@ a. **Lack of Diversity -** Only **95 out of 393 staff positions** are held by wo
 
 **5. Additional Institutional Challenges**
 
-1. **Vacancies and Delays** in appointments reduce capacity and response efficiency.
+  - **Vacancies and Delays** in appointments reduce capacity and response efficiency.
 
-2. **Financial Dependence-** Budgetary allocations come through the **Ministry of Home Affairs,** affecting autonomy.
+  - **Financial Dependence-** Budgetary allocations come through the **Ministry of Home Affairs,** affecting autonomy.
 
-3. **Poor Implementation of Recommendations-** NHRC recommendations are **advisory,** often ignored or delayed by governments.
+  - **Poor Implementation of Recommendations-** NHRC recommendations are **advisory,** often ignored or delayed by governments.
 
-4. **Backlogs-** Growing pendency of complaints due to limited staff and rising caseloads.
+  - **Backlogs-** Growing pendency of complaints due to limited staff and rising caseloads.
 
 **Way Forward**
 
@@ -4970,11 +4970,11 @@ Their **election procedures** reflect the differing nature of their political sy
 
 6. Significance
 
-a. Indirect election is relevant as president is nominal head
+  - Indirect election is relevant as president is nominal head
 
-b. Federal Balance maintained
+  - Federal Balance maintained
 
-c. Only elected members participate in elections **Procedure for Election of the President of France**
+  - Only elected members participate in elections **Procedure for Election of the President of France**
 
 1. **Constitutional Basis: Article 6** of the **French Constitution (1958).**
 
@@ -4988,11 +4988,11 @@ c. Only elected members participate in elections **Procedure for Election of the
 
 6. Significance
 
-a. **Accountability** - Direct election is in line with executive powers of president
+  - **Accountability** - Direct election is in line with executive powers of president
 
-b. **President** enjoys absolute majority
+  - **President** enjoys absolute majority
 
-c. **Stability** due to security of tenure **Criticism of Procedure for Election of the President of India**
+  - **Stability** due to security of tenure **Criticism of Procedure for Election of the President of India**
 
 1. **Indirect election** limits **popular legitimacy.**
 
@@ -5362,17 +5362,17 @@ The **Public Examination (Prevention of Unfair Means) Act, 2024,** was enacted t
 
 **1. India saw 65 exam paper leaks since 2019**
 
-2. Major Paper Leaks
+  - Major Paper Leaks
 
-a. National Eligibility cum Entrance Test (NEET)-UG 2024
+  - National Eligibility cum Entrance Test (NEET)-UG 2024
 
-b. Indian Army’s Common Entrance Examination for recruiting soldiers in 2021,
+  - Indian Army’s Common Entrance Examination for recruiting soldiers in 2021,
 
-c. Central Teachers’ Eligibility Test (CTET) 2023,
+  - Central Teachers’ Eligibility Test (CTET) 2023,
 
-d. NEET-UG 2021
+  - NEET-UG 2021
 
-e. Joint Entrance Examination (JEE) Mains 2021.
+  - Joint Entrance Examination (JEE) Mains 2021.
 
 **Aims and Objectives of the Act**
 
@@ -5408,7 +5408,7 @@ e. Joint Entrance Examination (JEE) Mains 2021.
 
 - The Act applies to **“Public Examinations”** conducted by authorities listed in its **Schedule** or **notified later by the Central Government.**
 
-## **● The Schedule presently includes**
+## **• The Schedule presently includes**
 
   - **Union Public Service Commission (UPSC)**
 
@@ -6657,7 +6657,7 @@ The **Indian Constitution envisions a Welfare State under the DPSP (Articles 36-
 
 **a.** Kerala’s **People’s Plan Campaign**
 
-b. Participatory Budgeting in **porto alegre brazil**
+  - Participatory Budgeting in **porto alegre brazil**
 
 2. **Institutional Convergence and Coordination - Eg-** Expand **PM Gati Shakti** model to social sectors like health and education.
 
@@ -6764,9 +6764,9 @@ The **Indian Constitution envisions a Welfare State under the DPSP (Articles 36-
 
 **1. Adopt Best Practices**
 
-a. Kerala’s **People’s Plan Campaign**
+  - Kerala’s **People’s Plan Campaign**
 
-b. Participatory Budgeting in **porto alegre brazil**
+  - Participatory Budgeting in **porto alegre brazil**
 
 **2. Institutional Convergence and Coordination - Eg-** Expand **PM Gati Shakti** model to social sectors like health and education.
 
@@ -6927,29 +6927,29 @@ Development is most effective when **decisions are taken close to where problems
 
 **7. Political and Fiscal Centralization** through centrally sponsored schemes
 
-8. Regulatory Capture - Eg- Nexus of Bureaucracy-Politicians-Corporate. **(Vohra Committee) Counter-Argument**
+  - Regulatory Capture - Eg- Nexus of Bureaucracy-Politicians-Corporate. **(Vohra Committee) Counter-Argument**
 
-1. **73rd & 74th Constitutional Amendments** empowered **PRIs and ULBs** for **local governance and participatory planning.**
+  - **73rd & 74th Constitutional Amendments** empowered **PRIs and ULBs** for **local governance and participatory planning.**
 
-2. **Gram Panchayat Development Plans (GPDPs)** institutionalized **bottom-up planning** in over **2.6 lakh Panchayats.**
+  - **Gram Panchayat Development Plans (GPDPs)** institutionalized **bottom-up planning** in over **2.6 lakh Panchayats.**
 
-3. **Aspirational Districts Programme (ADP) -** Promotes **data-driven local governance** with **district-level flexibility** and real-time monitoring.
+  - **Aspirational Districts Programme (ADP) -** Promotes **data-driven local governance** with **district-level flexibility** and real-time monitoring.
 
-4. **PM Gati Shakti National Master Plan -** Integrates **16 ministries** on a **GIS-based platform** to align planning and execution at ground level.
+  - **PM Gati Shakti National Master Plan -** Integrates **16 ministries** on a **GIS-based platform** to align planning and execution at ground level.
 
-5. **Mission Karmayogi -** Builds **capacity of field-level officials** for local problem-solving and citizen-centric service delivery.
+  - **Mission Karmayogi -** Builds **capacity of field-level officials** for local problem-solving and citizen-centric service delivery.
 
-6. **Cooperative Federalism via NITI Aayog - Governing Council** enable **state-specific and local feedback-based planning.**
+  - **Cooperative Federalism via NITI Aayog - Governing Council** enable **state-specific and local feedback-based planning.**
 
-7. **Community-Led Models - Swachh Bharat Mission** and **Jal Jeevan Mission** emphasize **village-level implementation and monitoring.**
+  - **Community-Led Models - Swachh Bharat Mission** and **Jal Jeevan Mission** emphasize **village-level implementation and monitoring.**
 
-8. State Level Measures - Kerala’s **People’s Plan Campaign Way Forward**
+  - State Level Measures - Kerala’s **People’s Plan Campaign Way Forward**
 
-1. **Capability Approach -** increase spending on Health (2.5%of GDP) and Education (6% of GDP)
+  - **Capability Approach -** increase spending on Health (2.5%of GDP) and Education (6% of GDP)
 
-2. **Adopt Best Practices -** Participatory Budgeting in **porto alegre brazil**
+  - **Adopt Best Practices -** Participatory Budgeting in **porto alegre brazil**
 
-3. **Decentralized Governance** based on **principle of subsidiarity.**
+  - **Decentralized Governance** based on **principle of subsidiarity.**
 
 “Growth becomes meaningful only when it expands human freedom and capability.” - **Amartya Sen** For this, decision-making authority and problem-solving responsibilities should be at the grassroots level.
 
@@ -7148,15 +7148,15 @@ The **NCPCR,** established under the **Commission for Protection of Child Rights
 
 ## **5. NCPCR Initiatives**
 
-a. **POCSO e-Box** - Online reporting of sexual abuse.
+  - **POCSO e-Box** - Online reporting of sexual abuse.
 
-b. **Sammaan Portal** - Tracks child abuse cases online.
+  - **Sammaan Portal** - Tracks child abuse cases online.
 
-c. Guidelines on Online Child Safety (2020) during COVID.
+  - Guidelines on Online Child Safety (2020) during COVID.
 
-d. **Guidelines for Ed-Tech Platforms** - Protect children’s digital privacy and safety.
+  - **Guidelines for Ed-Tech Platforms** - Protect children’s digital privacy and safety.
 
-e. **POCSO e-Courts Project (2018) - to fast-track POCSO trials using digital case management systems Issues in the Existing Policies and Legal Framework**
+  - **POCSO e-Courts Project (2018) - to fast-track POCSO trials using digital case management systems Issues in the Existing Policies and Legal Framework**
 
 1. **Fragmented Mechanism:** Overlap among NCPCR, IT Ministry, and police leads to poor coordination.
 
@@ -7462,27 +7462,27 @@ The **Indian Constitution envisions a Welfare State under the DPSP (Articles 36-
 
 - **Stand-Up India The Impact of Inflation on the Poor**
 
-1. **Erosion of Real Income:** Inflation disproportionately affects low-income households as **food and fuel** form over **50% of their consumption basket.**
+  - **Erosion of Real Income:** Inflation disproportionately affects low-income households as **food and fuel** form over **50% of their consumption basket.**
 
-2. **Reduced Effectiveness of Welfare Schemes:** High prices diminish the **real value of cash transfers** under DBT or PM-Kisan.
+  - **Reduced Effectiveness of Welfare Schemes:** High prices diminish the **real value of cash transfers** under DBT or PM-Kisan.
 
-3. **Rural Distress:** Inflation widens the **rural-urban gap,** as agricultural incomes lag behind input costs (fertilizer, diesel).
+  - **Rural Distress:** Inflation widens the **rural-urban gap,** as agricultural incomes lag behind input costs (fertilizer, diesel).
 
-4. **Fiscal Stress:** Rising subsidy bills due to inflation crowd out **developmental spending.**
+  - **Fiscal Stress:** Rising subsidy bills due to inflation crowd out **developmental spending.**
 
-5. **Rise in inequality** - top 1% holding 40% of national wealth **(Oxfam Report) Unemployment and Its Consequences for the Poor**
+  - **Rise in inequality** - top 1% holding 40% of national wealth **(Oxfam Report) Unemployment and Its Consequences for the Poor**
 
 <p align="center"><img src="images/civilsdaily_p114_img75.png" alt="Diagram" /></p>
 
-1. **Jobless Growth:** Despite 7%+ GDP growth, **unemployment among youth** remains **17.3% (PLFS 2022-23).**
+  - **Jobless Growth:** Despite 7%+ GDP growth, **unemployment among youth** remains **17.3% (PLFS 2022-23).**
 
-2. **Informalisation:** Around **90% of India’s workforce** remains in the informal sector, lacking job security or social protection.
+  - **Informalisation:** Around **90% of India’s workforce** remains in the informal sector, lacking job security or social protection.
 
-3. **Poverty Persists** - **12.9% Indians** still multidimensionally poor (NITI Aayog, 2023).
+  - **Poverty Persists** - **12.9% Indians** still multidimensionally poor (NITI Aayog, 2023).
 
-4. **Gender Disparity:** Female **LFPR,** though improved to **41% (2022-23),** still trails male LFPR (78%) and Global Average (48%)
+  - **Gender Disparity:** Female **LFPR,** though improved to **41% (2022-23),** still trails male LFPR (78%) and Global Average (48%)
 
-5. **Welfare Dependency:** Lack of stable income pushes people to rely on welfare transfers, which creates **fiscal burden** and undermines **self-reliance.**
+  - **Welfare Dependency:** Lack of stable income pushes people to rely on welfare transfers, which creates **fiscal burden** and undermines **self-reliance.**
 
 **Policy Measures for Deft Management**
 
@@ -7975,11 +7975,11 @@ India is **Fastest Growing Economy** in the world **(IMF)** but **low HDI rank (
 
 1. **Gender Inequality:** low **Female Labour Force Participation** due to
 
-a. Triple Burden - Household, Children, Job
+  - Triple Burden - Household, Children, Job
 
-b. Patriarchal Mindset - Eg- Sarpanch Pati
+  - Patriarchal Mindset - Eg- Sarpanch Pati
 
-c. Law of asset ownership - only 11% land ownership
+  - Law of asset ownership - only 11% land ownership
 
 2. **Education and Health Deficits**
 
@@ -8001,9 +8001,9 @@ c. Law of asset ownership - only 11% land ownership
 
 **2. Adopt Best Practices**
 
-a. Kerala’s **People’s Plan Campaign**
+  - Kerala’s **People’s Plan Campaign**
 
-b. Participatory Budgeting in **porto alegre brazil**
+  - Participatory Budgeting in **porto alegre brazil**
 
 **3. Decentralized Governance** based on **principle of subsidiarity.**
 
@@ -8215,19 +8215,19 @@ The **Directive Principles of State Policy (Articles 38, 39, 42, and 47)** manda
 
 **4. Reduces out of pocket expenditure and vicious cycle of poverty Primary Health as a Precondition for Sustainable Development**
 
-1. **SDG-3** emphasizes ensuring healthy lives and well-being for all.
+  - **SDG-3** emphasizes ensuring healthy lives and well-being for all.
 
-2. **Social Development** - Reduces disease burden, enhances productivity, and improves quality of life.
+  - **Social Development** - Reduces disease burden, enhances productivity, and improves quality of life.
 
 Eg- Reduction in **IMR (24)** and **MMR (97)**
 
 **3. Economic Development - World Bank (2023):** Every ₹1 invested in primary health yields ₹9 in economic returns.
 
-4. Strong primary healthcare ensures **better productivity, improved livelihoods, and universal healthcare access.**
+  - Strong primary healthcare ensures **better productivity, improved livelihoods, and universal healthcare access.**
 
-5. **Institutional Sustainability** - Strengthens local governance and community participation in health planning. Eg- ASHA workers
+  - **Institutional Sustainability** - Strengthens local governance and community participation in health planning. Eg- ASHA workers
 
-6. Supported by the **Astana Declaration** and **National Health Policy 2017,** which envisions comprehensive and affordable healthcare.
+  - Supported by the **Astana Declaration** and **National Health Policy 2017,** which envisions comprehensive and affordable healthcare.
 
 **Key Challenges**
 
@@ -8644,9 +8644,9 @@ While **extreme poverty fell to 2.35% (World Bank, 2024), undernourishment (12%)
 
 ## **2. Persistence of Hunger and Malnutrition**
 
-a. Despite surplus food production, India’s **GHI score (25.8)** remains in the “serious” category.
+  - Despite surplus food production, India’s **GHI score (25.8)** remains in the “serious” category.
 
-b. Indicators such as **stunting (32.9%), wasting (18.7%),** and **anemia (57% women)** reveal continued deprivation.
+  - Indicators such as **stunting (32.9%), wasting (18.7%),** and **anemia (57% women)** reveal continued deprivation.
 
 3. **Shift from Absolute Hunger to Hidden Hunger: 57% of women** and **67% of children** are anemic **Shrinking of Social Expenditure by the Government**
 
@@ -8761,13 +8761,13 @@ As per **World Bank, Poverty** is a “pronounced deprivation in well-being” w
 
 - **Children out of school:** 487 million deprived **Limitations of the Global MPI**
 
-1. **Data Gaps:** Many countries rely on outdated or incomplete household surveys; MPI data lags actual conditions.
+  - **Data Gaps:** Many countries rely on outdated or incomplete household surveys; MPI data lags actual conditions.
 
-2. **Uniform Weights and Indicators:** Equal weighting (health, education, living standards) may not reflect local priorities or contexts.
+  - **Uniform Weights and Indicators:** Equal weighting (health, education, living standards) may not reflect local priorities or contexts.
 
-3. **Intra-country Variations:** National averages mask disparities between rural-urban areas, genders, and regions.
+  - **Intra-country Variations:** National averages mask disparities between rural-urban areas, genders, and regions.
 
-4. **No Vulnerability Capture:** MPI measures current deprivation but not people at risk of falling back into poverty.
+  - **No Vulnerability Capture:** MPI measures current deprivation but not people at risk of falling back into poverty.
 
 **Way Forward**
 
@@ -9139,7 +9139,7 @@ India’s response reflected its **“humanitarian diplomacy”-guided** by empa
 
 **3. Institutionalize Political and Strategic Dialogue- 2+2 Ministerial Dialogue**
 
-4. Provide **viable alternatives** to **Chinese Belt and Road projects** via **Neighbourhood First** and **SAGAR** A stable, sovereign, and friendly Maldives is essential for **India’s** ambition of **Net Security Provider in IOR.**
+  - Provide **viable alternatives** to **Chinese Belt and Road projects** via **Neighbourhood First** and **SAGAR** A stable, sovereign, and friendly Maldives is essential for **India’s** ambition of **Net Security Provider in IOR.**
 
 [Question ID: 2024-gs2-q133-civilsdaily]
 
@@ -9194,9 +9194,9 @@ India’s response reflected its **“humanitarian diplomacy”-guided** by empa
 
 **2.** India walk a tightrope between its strategic embrace of Israel and economic entrenchment in the Gulf. Harsh V. Pant (ORF)
 
-3. **Non-defense trade remains modest** and over-reliant on diamonds and agriculture.
+  - **Non-defense trade remains modest** and over-reliant on diamonds and agriculture.
 
-4. The **India-Israel Free Trade Agreement,** under negotiation since 2010 (14 rounds held), remains inconclusive.
+  - The **India-Israel Free Trade Agreement,** under negotiation since 2010 (14 rounds held), remains inconclusive.
 
 **5. Domestic Political Issues - left-leaning and minority groups,** criticize deepening ties with Israel.
 
@@ -9310,11 +9310,11 @@ The US withdrawal from the **JCPOA (Joint Comprehensive Plan of Action)** in 201
 
 - **Security Concerns-** Escalation in the **Strait of Hormuz** threatens India’s **sea-borne energy supplies** and security of Indian diaspora in the Gulf. Eg- Red sea crisis in 2024 **How India Should Respond Short-term Measures**
 
-1. **Energy Diversification-** Strengthen long-term import contracts with **Saudi Arabia, UAE, Russia, and the US,** and expand **strategic oil reserves.**
+  - **Energy Diversification-** Strengthen long-term import contracts with **Saudi Arabia, UAE, Russia, and the US,** and expand **strategic oil reserves.**
 
-2. **Protect Maritime Routes-** Enhance **naval surveillance** in the Arabian Sea under **SAGAR** (Security and Growth for All in the Region).
+  - **Protect Maritime Routes-** Enhance **naval surveillance** in the Arabian Sea under **SAGAR** (Security and Growth for All in the Region).
 
-3. Use **rupee-rial trade mechanisms** and **alternate payment channels.**
+  - Use **rupee-rial trade mechanisms** and **alternate payment channels.**
 
 **Medium to Long-term Strategy**
 
@@ -9637,27 +9637,27 @@ The region of Central Asia is located in the **heart of Eurasia and denoted as H
 
 1. **Diplomatic-**
 
-a. **Connect Central Asia Policy - based on 4 Cs-Commerce , Connectivity , Consular and Community.**
+  - **Connect Central Asia Policy - based on 4 Cs-Commerce , Connectivity , Consular and Community.**
 
-b. Institutionalized through **India-Central Asia Summit (2022)** and **SCO membership (2017).**
+  - Institutionalized through **India-Central Asia Summit (2022)** and **SCO membership (2017).**
 
 2. **Economic-**
 
-a. Trade at **USD 3 billion (2023);**
+  - Trade at **USD 3 billion (2023);**
 
-b. Focus on **energy, IT, and pharma**
+  - Focus on **energy, IT, and pharma**
 
 **c. US$1 billion** line of credit for development projects in infrastructure, **IT, energy and agriculture in 2020.**
 
-d. Joined **Ashgabat Agreement (2018)** and **INSTC.**
+  - Joined **Ashgabat Agreement (2018)** and **INSTC.**
 
 3. **Strategic-**
 
-a. Cooperation on **counterterrorism (SCO RATS)**
+  - Cooperation on **counterterrorism (SCO RATS)**
 
-b. India operates **Ayni Air Base (Tajikistan)**
+  - India operates **Ayni Air Base (Tajikistan)**
 
-c. Invests via **ONGC Videsh** in Kazakhstan.
+  - Invests via **ONGC Videsh** in Kazakhstan.
 
 **Challenges-**
 
@@ -9758,37 +9758,37 @@ India is the **world’s 3rd largest energy consumer,** importing **over 85% of 
 
 **A. Short-Term Measures (2025-2030)**
 
-1. **Diversification of Suppliers-** Expand sourcing from **US, Russia, Africa, and Latin America.**
+  - **Diversification of Suppliers-** Expand sourcing from **US, Russia, Africa, and Latin America.**
 
-2. Expand **Strategic Petroleum Reserves** capacity from **5.3 MMT to 10 MMT.**
+  - Expand **Strategic Petroleum Reserves** capacity from **5.3 MMT to 10 MMT.**
 
-3. **Chabahar & INSTC Connectivity-** Use **Iran-Central Asia corridor** to secure overland energy routes and bypass chokepoints.
+  - **Chabahar & INSTC Connectivity-** Use **Iran-Central Asia corridor** to secure overland energy routes and bypass chokepoints.
 
-4. **Maritime and Energy Diplomacy-** Strengthen cooperation with **UAE, Saudi Arabia, and Oman** for logistics bases and secure sea lines of communication.
+  - **Maritime and Energy Diplomacy-** Strengthen cooperation with **UAE, Saudi Arabia, and Oman** for logistics bases and secure sea lines of communication.
 
-5. **Financial Resilience-** Develop **Rupee-based oil trade and local currency settlements** to cushion against dollar volatility and sanctions.
+  - **Financial Resilience-** Develop **Rupee-based oil trade and local currency settlements** to cushion against dollar volatility and sanctions.
 
 **B. Long-Term Measures (2030-2050)**
 
-1. **“Nearshoring”** energy supplies and greening the Indian grid under Neighbourhood First policy. Eghydropower projects in Nepal
+  - **“Nearshoring”** energy supplies and greening the Indian grid under Neighbourhood First policy. Eghydropower projects in Nepal
 
-2. **Review of Civil Liability for Nuclear Damage Act and Atomic Energy Act** for FDI in civil nuclear power.
+  - **Review of Civil Liability for Nuclear Damage Act and Atomic Energy Act** for FDI in civil nuclear power.
 
-3. **Green Energy Partnerships-**
+  - **Green Energy Partnerships-**
 
   - Collaborate with Gulf nations on **green hydrogen, solar parks, and carbon capture** (India-UAE Green Energy Corridor).
 
   - Promote **India as a global hub** for renewable technology and green financing.
 
-4. **Energy Investments Abroad-**
+  - **Energy Investments Abroad-**
 
   - Scale **ONGC Videsh and IOCL investments** in upstream oil and gas fields in **Iraq, UAE, Mozambique, and Russia.**
 
   - Establish a **Sovereign Energy Investment Fund** for strategic acquisitions.
 
-5. **Critical Minerals Diplomacy-** Partner with **CAR and African nations** for **lithium, nickel, and cobalt supply chains.**
+  - **Critical Minerals Diplomacy-** Partner with **CAR and African nations** for **lithium, nickel, and cobalt supply chains.**
 
-6. **Institutional Integration-** Create an **Energy Diplomacy Wing** within MEA for coherent foreign policy alignment.
+  - **Institutional Integration-** Create an **Energy Diplomacy Wing** within MEA for coherent foreign policy alignment.
 
 “Energy security is not just about fuel, it is about strategic autonomy, and India’s foreign policy must secure both.” - **M.K.Narayanan**
 
@@ -9882,59 +9882,59 @@ In the words of **Henry Kissinger,** “The Soviet Union was a military threat, 
 
 **1. Geopolitical Dimension**
 
-1. China projects an alternative **governance and development model** of **authoritarian capitalism**
+  - China projects an alternative **governance and development model** of **authoritarian capitalism**
 
-2. **Indo-Pacific expansion-** Strategic assertion in **South China Sea, Taiwan Strait, and Indian Ocean** directly contests US-led regional order. Eg- boiling frog strategy
+  - **Indo-Pacific expansion-** Strategic assertion in **South China Sea, Taiwan Strait, and Indian Ocean** directly contests US-led regional order. Eg- boiling frog strategy
 
 **2. Geo-Economic Dimension**
 
-1. **Parallel institutional ecosystem-** Creation of **AIIB, NDB, and BRI** undermines US-dominated Bretton Woods institutions.
+  - **Parallel institutional ecosystem-** Creation of **AIIB, NDB, and BRI** undermines US-dominated Bretton Woods institutions.
 
-2. **Integrated global economy** leading to **complex interdependence-** 18% of world GDP, major supplier in 70% of global supply chains.
+  - **Integrated global economy** leading to **complex interdependence-** 18% of world GDP, major supplier in 70% of global supply chains.
 
-3. **Debt Trap diplomacy** through **BRI loans and surplus-deficit strategies.** Eg- Sri Lanka
+  - **Debt Trap diplomacy** through **BRI loans and surplus-deficit strategies.** Eg- Sri Lanka
 
-4. **Technological rivalry-** Leads in **AI, 5G, EVs, and green manufacturing,** challenging US corporate and innovation supremacy.
+  - **Technological rivalry-** Leads in **AI, 5G, EVs, and green manufacturing,** challenging US corporate and innovation supremacy.
 
-5. **Trade imbalance-** Persistent **US trade deficit with China (~$350 billion).**
+  - **Trade imbalance-** Persistent **US trade deficit with China (~$350 billion).**
 
-6. China’s **yuan internationalisation** and **digital currency pilot** aim to reduce dollar dominance.
+  - China’s **yuan internationalisation** and **digital currency pilot** aim to reduce dollar dominance.
 
 **3. Defence and Security Dimension**
 
-1. **PLA modernisation (Blue Water Navy) - A2/AD (Anti-Access/Area Denial)** and hypersonic capabilities, threaten US naval superiority.
+  - **PLA modernisation (Blue Water Navy) - A2/AD (Anti-Access/Area Denial)** and hypersonic capabilities, threaten US naval superiority.
 
-2. China’s growing **nuclear triad and cyber warfare** capacity. Eg- Huawei ban in USA
+  - China’s growing **nuclear triad and cyber warfare** capacity. Eg- Huawei ban in USA
 
-3. **Dual-use infrastructure- Eg-** BRI ports and bases **(Djibouti, Gwadar).**
+  - **Dual-use infrastructure- Eg-** BRI ports and bases **(Djibouti, Gwadar).**
 
 **4. Multilateralism and Institutional Order**
 
-1. **Global South outreach** through **BRICS, SCO, and G77,** eroding US soft power among developing nations.
+  - **Global South outreach** through **BRICS, SCO, and G77,** eroding US soft power among developing nations.
 
-2. **Issue-based coalitions-** Unlike USSR’s bloc politics, China uses **flexible, interest-based partnerships** (e.g., with EU on climate, with Russia on energy).
+  - **Issue-based coalitions-** Unlike USSR’s bloc politics, China uses **flexible, interest-based partnerships** (e.g., with EU on climate, with Russia on energy).
 
 **5. Connectivity and Global Influence**
 
-1. **Belt and Road Initiative (BRI)-** Encompasses 150+ countries, linking Asia, Africa, and Europe
+  - **Belt and Road Initiative (BRI)-** Encompasses 150+ countries, linking Asia, Africa, and Europe
 
-2. **Digital Silk Road-** Expands China’s control over global **telecom, satellite, and internet infrastructure Steps Taken by USA to Counter China**
+  - **Digital Silk Road-** Expands China’s control over global **telecom, satellite, and internet infrastructure Steps Taken by USA to Counter China**
 
 **1. Indo-Pacific Pivot Strategy** for Free and Open Indo-Pacific (FOIP)
 
-2. QUAD Revitalisation for strategic balancing
+  - QUAD Revitalisation for strategic balancing
 
-3. **AUKUS Pact (2021)** with **Australia and the UK-** sharing of **nuclear submarine technology.**
+  - **AUKUS Pact (2021)** with **Australia and the UK-** sharing of **nuclear submarine technology.**
 
 **4. Trade Restrictions and Tariffs**
 
-5. **Friendshoring** with countries like **India, Vietnam** for supply chain diversification
+  - **Friendshoring** with countries like **India, Vietnam** for supply chain diversification
 
-6. Indo-Pacific Economic Framework (IPEF, 2022)
+  - Indo-Pacific Economic Framework (IPEF, 2022)
 
-7. **Blue Dot Network (with Japan and Australia)** for transparency in global infrastructure projects.
+  - **Blue Dot Network (with Japan and Australia)** for transparency in global infrastructure projects.
 
-8. Increasing **freedom of navigation operations (FONOPs)** in South China Sea As held by **Alexander,** “China will astonish the world when it rises out of slumber.” Sustained **strategic competition without conflict** is essential to avoid future global instability and ensure peace.
+  - Increasing **freedom of navigation operations (FONOPs)** in South China Sea As held by **Alexander,** “China will astonish the world when it rises out of slumber.” Sustained **strategic competition without conflict** is essential to avoid future global instability and ensure peace.
 
 [Question ID: 2021-gs2-q145-civilsdaily]
 
@@ -10205,7 +10205,7 @@ The **WTO,** established in **1995** under **Uruguay Round** of the **GATT,** wa
 
 **6. Dispute over “Developing Country” Status -** The US opposes **self-declared developing status** at WTO, arguing that countries like **India and China** should be treated as developed.
 
-7. **Mega-regional trade pacts** like the **TPP (Trans-Pacific Partnership),** bypassing WTO norms.
+  - **Mega-regional trade pacts** like the **TPP (Trans-Pacific Partnership),** bypassing WTO norms.
 
 **Proposals by India in the High-Level Mini-Ministerial**
 
@@ -10339,7 +10339,7 @@ As pointed out by S. Jaishankar, “more focused Quad” will “help deliver be
 
 - Support **UN-based international order.**
 
-4. **Cultural and People-to-People Ties -** Enhance **educational, tourism, and youth exchanges** through SCO University, Cultural Forums, and Youth Camps.
+  - **Cultural and People-to-People Ties -** Enhance **educational, tourism, and youth exchanges** through SCO University, Cultural Forums, and Youth Camps.
 
 **Critical Examination of SCO**
 
@@ -10574,7 +10574,7 @@ Group’s **cohesion and sustainability** is key to realise **‘Vision 2030’*
 
 - Formation of **BASIC bloc (Brazil, South Africa, India, China)** to represent emerging economies.
 
-3. **Leadership Phase (Post-2015 -Present)**
+  - **Leadership Phase (Post-2015 -Present)**
 
 - **Paris Agreement (2015):** India’s NDCs -
 
@@ -10698,19 +10698,19 @@ Multi-vector diplomacy and strategic autonomy is the way forward.
 
 **3. Threats**
 
-a. **Economic** - Terrorism and organised crime linkage. Eg- role of D-Company in Bombay Blasts
+  - **Economic** - Terrorism and organised crime linkage. Eg- role of D-Company in Bombay Blasts
 
-b. **Bioterrorism** - Eg- use of chemical weapons in Syria
+  - **Bioterrorism** - Eg- use of chemical weapons in Syria
 
-c. **State sponsored terrorism** - Eg- Pakistan
+  - **State sponsored terrorism** - Eg- Pakistan
 
-d. **Cyber terrorism** - Eg- online radicalization by ISIS
+  - **Cyber terrorism** - Eg- online radicalization by ISIS
 
-e. **Regional Instability** - Eg- Taliban in Afghanistan **United Nations Security Council’s Counter-Terrorism Committee (CTC) and Associated Bodies**
+  - **Regional Instability** - Eg- Taliban in Afghanistan **United Nations Security Council’s Counter-Terrorism Committee (CTC) and Associated Bodies**
 
-1. Established under **UNSC Resolution 1373 (2001)** after 9/11.
+  - Established under **UNSC Resolution 1373 (2001)** after 9/11.
 
-2. **CTC’s mandate:** Enhance state co-operation and capacity building to deal with global terror
+  - **CTC’s mandate:** Enhance state co-operation and capacity building to deal with global terror
 
 ## **3. Associated Bodies**
 
@@ -10809,31 +10809,31 @@ e. **Regional Instability** - Eg- Taliban in Afghanistan **United Nations Securi
 
 **A. Delicate East-West imbalance**
 
-1. **Historic institutional lock-in** - UNSC **P5 structure** reflects 1945 power distribution.
+  - **Historic institutional lock-in** - UNSC **P5 structure** reflects 1945 power distribution.
 
-2. The **West (US, UK, France)** advocates **“value-based liberal multilateralism,”** emphasizing democracy, human rights, and rule-based order.
+  - The **West (US, UK, France)** advocates **“value-based liberal multilateralism,”** emphasizing democracy, human rights, and rule-based order.
 
-3. The **East (Russia, China)** emphasizes **“sovereign equality, non-interference, and multipolarity.”** Egcriticism of **“Responsibility to Protect (R2P)”** as **neo-interventionism**
+  - The **East (Russia, China)** emphasizes **“sovereign equality, non-interference, and multipolarity.”** Egcriticism of **“Responsibility to Protect (R2P)”** as **neo-interventionism**
 
-4. **Regional rivalries** - rival claims **(Japan vs. China, India vs. Pakistan)** block consensus on new permanent seats.
+  - **Regional rivalries** - rival claims **(Japan vs. China, India vs. Pakistan)** block consensus on new permanent seats.
 
 **B. Entanglement: USA vs. Russo-Chinese alignment**
 
-1. **P3 vs P2 divide** over veto and reforms. Eg- Syria, Ukraine.
+  - **P3 vs P2 divide** over veto and reforms. Eg- Syria, Ukraine.
 
-2. P5 members resist reforms that could **reduce their leverage.**
+  - P5 members resist reforms that could **reduce their leverage.**
 
-3. **Security dilemmas** and Great-power rivalry turns UN reform into a question of strategic advantage rather than institutional efficiency.
+  - **Security dilemmas** and Great-power rivalry turns UN reform into a question of strategic advantage rather than institutional efficiency.
 
 **C. Other decisive factors**
 
-1. **Charter rigidity -** amendments need **2/3 members + P5 ratification.**
+  - **Charter rigidity -** amendments need **2/3 members + P5 ratification.**
 
-2. **Bloc fragmentation** - **G4, African Union (Ezulwini), Uniting for Consensus dilute consensus**
+  - **Bloc fragmentation** - **G4, African Union (Ezulwini), Uniting for Consensus dilute consensus**
 
-3. **Resource dependence** - Eg- **UN budget has been slashed by 15%** in 2026 (from USD 3.7 billion to USD 3.2 billion) as the US, China, Russia failed to complete their payments.
+  - **Resource dependence** - Eg- **UN budget has been slashed by 15%** in 2026 (from USD 3.7 billion to USD 3.2 billion) as the US, China, Russia failed to complete their payments.
 
-4. **Proliferation of parallel forums** like **BRICS, G20, SCO** provide alternative platforms, reducing political pressure for UN reform.
+  - **Proliferation of parallel forums** like **BRICS, G20, SCO** provide alternative platforms, reducing political pressure for UN reform.
 
 **Way Forward**
 

@@ -53,16 +53,30 @@ def parse_institute_files():
             qid_match = re.search(r'Question ID:\s*([a-zA-Z0-9_-]+)', block, re.IGNORECASE)
             qid = qid_match.group(1) if qid_match else "Unknown"
             
-            bold_matches = re.findall(r'\*\*([^*]+)\*\*', block)
-            questions = []
-            for m in bold_matches:
-                m_clean = m.strip()
-                if m_clean.startswith("Question ID:") or m_clean.lower().startswith("answer") or m_clean == "Answer" or m_clean == "Answer:":
-                    continue
-                if len(m_clean) > 20:
-                    questions.append(m_clean)
+            # 1. Try to extract from the header line first
+            header_match = re.search(r'^##\s+Question\s+\d+\s*\([^)]+\)\s*(.+)$', header_line)
+            question_text = ""
+            if header_match:
+                header_q = header_match.group(1).strip()
+                # Clean leading/trailing bold/italic markers
+                header_q = re.sub(r'^\*\*+|\*\*+$|^\*+|\*+$', '', header_q).strip()
+                if len(header_q) > 5:
+                    question_text = header_q
             
-            question_text = questions[0] if questions else ""
+            # 2. Fallback to bold matches in the body
+            if not question_text:
+                bold_matches = re.findall(r'\*\*([^*]+)\*\*', block)
+                questions = []
+                for m in bold_matches:
+                    m_clean = m.strip()
+                    if m_clean.startswith("Question ID:") or m_clean.lower().startswith("answer") or m_clean == "Answer" or m_clean == "Answer:":
+                        continue
+                    if len(m_clean) > 20:
+                        questions.append(m_clean)
+                
+                question_text = questions[0] if questions else ""
+                
+            # 3. Fallback to lines 1 to 5 starting/ending with bold
             if not question_text:
                 for line in lines[1:5]:
                     if line.strip().startswith("**") and line.strip().endswith("**"):

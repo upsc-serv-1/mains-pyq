@@ -284,7 +284,7 @@ While the RBI's monetary policy is crucial for **managing inflation,** tackling 
 
 ---
 
-## Question 6 (Year: 2024) **What were the factors responsible for the successful implementation of land reforms in some parts of the country? Elaborate. (Answer in 150 words)**
+## Question 7 (Year: 2024) **What were the factors responsible for the successful implementation of land reforms in some parts of the country? Elaborate. (Answer in 150 words)**
 
 ### Answer
 **Question ID: 2024-gs3-q6-drishti_ias**
@@ -333,7 +333,7 @@ Factors responsible for the poor implementation of land reforms in other parts:
 
 ---
 
-## Question 7 (Year: 2024) **Discuss the merits and demerits of the four Labour Codes' in the context of labour market reforms in India. What has been the progress so far in this regard? (Answer in 250 words)**
+## Question 8 (Year: 2024) **Discuss the merits and demerits of the four Labour Codes' in the context of labour market reforms in India. What has been the progress so far in this regard? (Answer in 250 words)**
 
 ### Answer
 **Question ID: 2024-gs3-q7-drishti_ias**
@@ -395,7 +395,7 @@ The implementation of these codes is expected to bring significant changes to In
 
 ---
 
-## Question 8 (Year: 2024) **What is the need for expanding the regional air connectivity in India? In this context, discuss the government's UDAN Scheme and its achievements. (Answer in 250 words)**
+## Question 9 (Year: 2024) **What is the need for expanding the regional air connectivity in India? In this context, discuss the government's UDAN Scheme and its achievements. (Answer in 250 words)**
 
 ### Answer
 **Question ID: 2024-gs3-q8-drishti_ias**
@@ -450,7 +450,7 @@ Despite ongoing efforts, challenges remain due to incomplete functionality of op
 
 ---
 
-## Question 9 (Year: 2023) **Faster economic growth requires increased share of the manufacturing sector in GDP, particularly of MSMEs. Comment on the present policies of the Government in this regard.**
+## Question 10 (Year: 2023) **Faster economic growth requires increased share of the manufacturing sector in GDP, particularly of MSMEs. Comment on the present policies of the Government in this regard.**
 
 ### Answer
 **Question ID: 2023-gs3-q9-drishti_ias**
@@ -485,7 +485,7 @@ MSMEs contribute around 8% to India's GDP, employ over 60 million people, and ha
 
 ---
 
-## Question 10 (Year: 2023) **What is the status of digitalization in the Indian economy? Examine the problems faced in this regard and suggest improvements.**
+## Question 11 (Year: 2023) **What is the status of digitalization in the Indian economy? Examine the problems faced in this regard and suggest improvements.**
 
 ### Answer
 **Question ID: 2023-gs3-q10-drishti_ias**
@@ -516,7 +516,7 @@ While the digitalization in India has grown sharply in the past few years, with 
 
 ---
 
-## Question 11 (Year: 2023) **State the objectives and measures of land reforms in India. Discuss how land ceiling policy on landholding can be considered as an effective reform under economic criteria.**
+## Question 12 (Year: 2023) **State the objectives and measures of land reforms in India. Discuss how land ceiling policy on landholding can be considered as an effective reform under economic criteria.**
 
 ### Answer
 **Question ID: 2023-gs3-q11-drishti_ias**
@@ -557,7 +557,7 @@ Land reforms in India have not just helped in providing resources to the landles
 
 ---
 
-## Question 12 (Year: 2023) **Most of the unemployment in India is structural in nature. Examine the methodology adopted to compute unemployment in the country and suggest improvements.**
+## Question 13 (Year: 2023) **Most of the unemployment in India is structural in nature. Examine the methodology adopted to compute unemployment in the country and suggest improvements.**
 
 ### Answer
 **Question ID: 2023-gs3-q12-drishti_ias**
@@ -594,7 +594,7 @@ To conclude, it is high time that certain computational methodologies need to be
 
 ---
 
-## Question 13 (Year: 2023) **Distinguish between ‘care economy’ and ‘monetized economy’. How can care economy be brought into monetized economy through women empowerment?**
+## Question 14 (Year: 2023) **Distinguish between ‘care economy’ and ‘monetized economy’. How can care economy be brought into monetized economy through women empowerment?**
 
 ### Answer
 **Question ID: 2023-gs3-q13-drishti_ias**
@@ -623,7 +623,7 @@ Integration of care economy into monetized economy will not only enhance economi
 
 ---
 
-## Question 14 (Year: 2022) **Why is Public Private Partnership (PPP) required in infrastructural projects? Examine the role of PPP model in the redevelopment of Railway Stations in India.**
+## Question 15 (Year: 2022) **Why is Public Private Partnership (PPP) required in infrastructural projects? Examine the role of PPP model in the redevelopment of Railway Stations in India.**
 
 ### Answer
 **Question ID: 2022-gs3-q14-drishti_ias**
@@ -662,7 +662,7 @@ PPPs offer the public sector potential cost, quality, and scale advantages in ac
 
 ---
 
-## Question 15 (Year: 2022) **Is inclusive growth possible under market economy? State the significance of financial inclusion in achieving economic growth in India.**
+## Question 16 (Year: 2022) **Is inclusive growth possible under market economy? State the significance of financial inclusion in achieving economic growth in India.**
 
 ### Answer
 **Question ID: 2022-gs3-q15-drishti_ias**
@@ -701,7 +701,7 @@ The market economy despite being economically efficient is not the ideal system 
 
 ---
 
-## Question 16 (Year: 2022) **What are the major challenges of Public Distribution System (PDS) in India? How can it be made effective and transparent?**
+## Question 17 (Year: 2022) **What are the major challenges of Public Distribution System (PDS) in India? How can it be made effective and transparent?**
 
 ### Answer
 **Question ID: 2022-gs3-q16-drishti_ias**
@@ -732,7 +732,7 @@ PDS is one of the biggest welfare programmes of the government. Strengthening of
 
 ---
 
-## Question 17 (Year: 2022) **Elaborate the scope and significance of the food processing industry in India.**
+## Question 18 (Year: 2022) **Elaborate the scope and significance of the food processing industry in India.**
 
 ### Answer
 **Question ID: 2022-gs3-q17-drishti_ias**
@@ -783,7 +783,7 @@ Industry, using processing methods, transforms agriculture product into food or 
 
 ---
 
-## Question 18 (Year: 2022) **The increase in life expectancy in the country has led to newer health challenges in the community. What are those challenges and what steps need to be taken to meet them?**
+## Question 19 (Year: 2022) **The increase in life expectancy in the country has led to newer health challenges in the community. What are those challenges and what steps need to be taken to meet them?**
 
 ### Answer
 **Question ID: 2022-gs3-q18-drishti_ias**
@@ -820,7 +820,7 @@ Thus, increased life expectancy has both positive and negative effects. With pro
 
 ---
 
-## Question 19 (Year: 2022) **''Economic growth in the recent past has been led by increase in labour productivity.'' Explain this statement. Suggest the growth pattern that will lead to creation of more jobs without compromising labour productivity.**
+## Question 20 (Year: 2022) **''Economic growth in the recent past has been led by increase in labour productivity.'' Explain this statement. Suggest the growth pattern that will lead to creation of more jobs without compromising labour productivity.**
 
 ### Answer
 **Question ID: 2022-gs3-q19-drishti_ias**
@@ -855,7 +855,7 @@ Thus, increased labour activity and the resultant increase in productivity and e
 
 ---
 
-## Question 20 (Year: 2022) **Do you think India will meet 50 percent of its energy needs from renewable energy by 2030? Justify your answer. How will the shift of subsidies from fossil fuels to renewables help achieve the above bjective? Explain.**
+## Question 21 (Year: 2022) **Do you think India will meet 50 percent of its energy needs from renewable energy by 2030? Justify your answer. How will the shift of subsidies from fossil fuels to renewables help achieve the above bjective? Explain.**
 
 ### Answer
 **Question ID: 2022-gs3-q20-drishti_ias**
@@ -888,7 +888,7 @@ Although, the shift of subsidies from fossil fuels to renewables will help in su
 
 ---
 
-## Question 21 (Year: 2021) **Explain the difference between computing methodology of India’s Gross Domestic Product (GDP) before the year 2015 and after the year 2015.**
+## Question 22 (Year: 2021) **Explain the difference between computing methodology of India’s Gross Domestic Product (GDP) before the year 2015 and after the year 2015.**
 
 ### Answer
 **Question ID: 2021-gs3-q21-drishti_ias**
@@ -935,7 +935,7 @@ The new method is statistically more robust since it estimates more indicators s
 
 ---
 
-## Question 22 (Year: 2021) **Distinguish between Capital Budget and Revenue Budget. Explain the components of both these Budgets.**
+## Question 23 (Year: 2021) **Distinguish between Capital Budget and Revenue Budget. Explain the components of both these Budgets.**
 
 ### Answer
 **Question ID: 2021-gs3-q22-drishti_ias**
@@ -964,7 +964,7 @@ According to Article 112 of the Indian Constitution, the Union Budget of a year 
 
 ---
 
-## Question 23 (Year: 2021) **How did land reforms in some parts of the country help to improve the socio-economic conditions of marginal and small farmers?**
+## Question 24 (Year: 2021) **How did land reforms in some parts of the country help to improve the socio-economic conditions of marginal and small farmers?**
 
 ### Answer
 **Question ID: 2021-gs3-q23-drishti_ias**
@@ -993,7 +993,7 @@ The pace of implementation of land reform measures has been slow but the objecti
 
 ---
 
-## Question 24 (Year: 2021) **Do you agree that the Indian economy has recently experienced V-shaped recovery? Give reasons in support of your answer.**
+## Question 25 (Year: 2021) **Do you agree that the Indian economy has recently experienced V-shaped recovery? Give reasons in support of your answer.**
 
 ### Answer
 **Question ID: 2021-gs3-q24-drishti_ias**
@@ -1020,7 +1020,7 @@ V-shaped recovery is characterised by a quick and sustained recovery in measures
 
 ---
 
-## Question 25 (Year: 2021) **“Investment in infrastructure is essential for more rapid and inclusive economic growth.” Discuss in the light of India’s experience.**
+## Question 26 (Year: 2021) **“Investment in infrastructure is essential for more rapid and inclusive economic growth.” Discuss in the light of India’s experience.**
 
 ### Answer
 **Question ID: 2021-gs3-q25-drishti_ias**
@@ -1055,7 +1055,7 @@ However, the success of the infrastructure expansion plan would depend on other 
 
 ---
 
-## Question 26 (Year: 2020) **Explain intra-generational and inter-generational issues of equity from the perspective of inclusive growth and sustainable development.**
+## Question 27 (Year: 2020) **Explain intra-generational and inter-generational issues of equity from the perspective of inclusive growth and sustainable development.**
 
 ### Answer
 **Question ID: 2020-gs3-q26-drishti_ias**
@@ -1086,7 +1086,7 @@ The concept of inclusive growth and sustainable development are the key pillars 
 
 ---
 
-## Question 27 (Year: 2020) **Define potential GDP and explain its determinants. What are the factorsthat have been inhibiting India from realizing its potential GDP?**
+## Question 28 (Year: 2020) **Define potential GDP and explain its determinants. What are the factorsthat have been inhibiting India from realizing its potential GDP?**
 
 ### Answer
 **Question ID: 2020-gs3-q27-drishti_ias**
@@ -1131,7 +1131,7 @@ Potential GDP is one of the theoretical aspects of national income accounting wh
 
 ---
 
-## Question 28 (Year: 2020) **Explain the meaning of investment in an economy in terms of capital formation. Discuss the factors to be considered while designing a concession agreement between a public entity and private entity.**
+## Question 29 (Year: 2020) **Explain the meaning of investment in an economy in terms of capital formation. Discuss the factors to be considered while designing a concession agreement between a public entity and private entity.**
 
 ### Answer
 **Question ID: 2020-gs3-q28-drishti_ias**
@@ -1168,7 +1168,7 @@ Concession agreements are of fundamental importance for the development of infra
 
 ---
 
-## Question 29 (Year: 2020) **Explain the rationale behind the Goods and Services Tax (Compensation to States) Act of 2017. How has COVID-19 impacted the GST compensation fund and created new federal tensions?**
+## Question 30 (Year: 2020) **Explain the rationale behind the Goods and Services Tax (Compensation to States) Act of 2017. How has COVID-19 impacted the GST compensation fund and created new federal tensions?**
 
 ### Answer
 **Question ID: 2020-gs3-q29-drishti_ias**
@@ -1199,7 +1199,7 @@ It is time for states to accept the realities and agree to a lower level of comp
 
 ---
 
-## Question 30 (Year: 2020) **Describe the benefits of deriving electric energy from sunlight in contrast to the conventional energy generation. What are the initiatives offered by our government for this purpose?**
+## Question 31 (Year: 2020) **Describe the benefits of deriving electric energy from sunlight in contrast to the conventional energy generation. What are the initiatives offered by our government for this purpose?**
 
 ### Answer
 **Question ID: 2020-gs3-q30-drishti_ias**
@@ -1236,7 +1236,7 @@ With its pollution free nature, virtually inexhaustible supply and global distri
 
 ---
 
-## Question 31 (Year: 2019) **Enumerate the indirect taxes which have been subsumed in the Goods and Services Tax (GST) in India. Also, comment on the revenue implications of the GST introduced in India since July 2017.**
+## Question 32 (Year: 2019) **Enumerate the indirect taxes which have been subsumed in the Goods and Services Tax (GST) in India. Also, comment on the revenue implications of the GST introduced in India since July 2017.**
 
 ### Answer
 **Question ID: 2019-gs3-q31-drishti_ias**
@@ -1283,7 +1283,7 @@ At the **State** level, the following taxes have been subsumed in the GST:
 
 ---
 
-## Question 32 (Year: 2019) **Do you agree with the view that steady GDP growth and low inflation have left the Indian economy in good shape? Give reasons in support of your arguments.**
+## Question 33 (Year: 2019) **Do you agree with the view that steady GDP growth and low inflation have left the Indian economy in good shape? Give reasons in support of your arguments.**
 
 ### Answer
 **Question ID: 2019-gs3-q32-drishti_ias**
@@ -1324,7 +1324,7 @@ Current monetary policy easing should be continued to give a renewed push to the
 
 ---
 
-## Question 33 (Year: 2019) **It is argued that the strategy of inclusive growth is intended to meet the objective of inclusiveness and sustainability together. Comment on this statement.**
+## Question 34 (Year: 2019) **It is argued that the strategy of inclusive growth is intended to meet the objective of inclusiveness and sustainability together. Comment on this statement.**
 
 ### Answer
 
@@ -1355,7 +1355,7 @@ In the last few decades, India’s growth story has been phenomenal but the outc
 
 ---
 
-## Question 34 (Year: 2019) **The public expenditure management is a challenge to the Government of India in the context of budgetmaking during the post-liberalization period. Clarify it.**
+## Question 35 (Year: 2019) **The public expenditure management is a challenge to the Government of India in the context of budgetmaking during the post-liberalization period. Clarify it.**
 
 ### Answer
 **Question ID: 2019-gs3-q34-drishti_ias**
@@ -1404,7 +1404,7 @@ With the 1991 reforms, the Indian economy was linked with the global economy. Th
 
 ---
 
-## Question 35 (Year: 2019) **What are the reformative steps taken by the Government to make the food grain distribution system more effective?**
+## Question 36 (Year: 2019) **What are the reformative steps taken by the Government to make the food grain distribution system more effective?**
 
 ### Answer
 **Question ID: 2019-gs3-q35-drishti_ias**
@@ -1457,7 +1457,7 @@ Food security is crucial for reaping the benefits of demographic dividend and th
 
 ---
 
-## Question 36 (Year: 2019) **Elaborate the policy taken by the Government of India to meet the challenges of the food processing sector.**
+## Question 37 (Year: 2019) **Elaborate the policy taken by the Government of India to meet the challenges of the food processing sector.**
 
 ### Answer
 **Question ID: 2019-gs3-q36-drishti_ias**
@@ -1516,7 +1516,7 @@ The food processing industry is critical to India’s growth and the government 
 
 ---
 
-## Question 37 (Year: 2018) **Comment on the important changes introduced in respect of the Long Term Capital Gains Tax (LTCGT) and Dividend Distribution Tax (DDT) in the Union Budget for 2018-2019. (2018)**
+## Question 38 (Year: 2018) **Comment on the important changes introduced in respect of the Long Term Capital Gains Tax (LTCGT) and Dividend Distribution Tax (DDT) in the Union Budget for 2018-2019. (2018)**
 
 ### Answer
 **Question ID: 2018-gs3-q37-drishti_ias**
@@ -1539,7 +1539,7 @@ However, these changes should also be followed by abolishing or reducing the sec
 
 ---
 
-## Question 38 (Year: 2018) **What do you mean by Minimum Support Price (MSP)? How will MSP rescue the farmers from the low income trap? (2018)**
+## Question 39 (Year: 2018) **What do you mean by Minimum Support Price (MSP)? How will MSP rescue the farmers from the low income trap? (2018)**
 
 ### Answer
 **Question ID: 2018-gs3-q38-drishti_ias**
@@ -1560,7 +1560,7 @@ However, a lot is yet to be done as far as MSPs for different crops are concerne
 
 ---
 
-## Question 39 (Year: 2018) **The China-Pakistan Economic Corridor (CPEC) is viewed as a cardinal subset of China’s larger ‘One Belt One Road’ initiative. Give a brief description of CPEC and enumerate the reasons why India has distanced itself from the same. (2018)**
+## Question 40 (Year: 2018) **The China-Pakistan Economic Corridor (CPEC) is viewed as a cardinal subset of China’s larger ‘One Belt One Road’ initiative. Give a brief description of CPEC and enumerate the reasons why India has distanced itself from the same. (2018)**
 
 ### Answer
 **Question ID: 2018-gs3-q39-drishti_ias**
@@ -1589,7 +1589,7 @@ However, it should also be noted that India’s concerns regarding sovereignty a
 
 ---
 
-## Question 40 (Year: 2018) **How are principles followed by the NITI Aayog different from those followed by erstwhile Planning Commission in India? (2018)**
+## Question 41 (Year: 2018) **How are principles followed by the NITI Aayog different from those followed by erstwhile Planning Commission in India? (2018)**
 
 ### Answer
 **Question ID: 2018-gs3-q40-drishti_ias**
@@ -1618,7 +1618,7 @@ With the coming of NITI Aayog, there has been paradigm shift in planning process
 
 ---
 
-## Question 41 (Year: 2018) **How would the recent phenomena of protectionism and currency manipulations in world trade affect macroeconomic stability of India? (2018)**
+## Question 42 (Year: 2018) **How would the recent phenomena of protectionism and currency manipulations in world trade affect macroeconomic stability of India? (2018)**
 
 ### Answer
 **Question ID: 2018-gs3-q41-drishti_ias**
@@ -1647,7 +1647,7 @@ Since, protectionism and currency manipulations do not seem to halt in coming fu
 
 ---
 
-## Question 42 (Year: 2017) **Among several factors for India’s potential growth, savings rate is the most effective one. Do you agree? What are the other factors available for growth potential? (2017)**
+## Question 43 (Year: 2017) **Among several factors for India’s potential growth, savings rate is the most effective one. Do you agree? What are the other factors available for growth potential? (2017)**
 
 ### Answer
 **Question ID: 2017-gs3-q42-drishti_ias**
@@ -1676,7 +1676,7 @@ India which is on the verge of reaping the benefits of demographic dividend, mus
 
 ---
 
-## Question 43 (Year: 2017) **Account for the failure of manufacturing sector in achieving the goal of labour-intensive exports. Suggest measures for more labour-intensive rather than capital-intensive exports. (2017)**
+## Question 44 (Year: 2017) **Account for the failure of manufacturing sector in achieving the goal of labour-intensive exports. Suggest measures for more labour-intensive rather than capital-intensive exports. (2017)**
 
 ### Answer
 **Question ID: 2017-gs3-q43-drishti_ias**
@@ -1703,7 +1703,7 @@ Further, the **tax** rationalisation **under GST** as well as the **push for Ent
 
 ---
 
-## Question 44 (Year: 2017) **Examine the development of Airports in India through joint ventures under Public – Private Partnership (PPP) model. What are the challenges faced by the authorities in this regard. (2017)**
+## Question 45 (Year: 2017) **Examine the development of Airports in India through joint ventures under Public – Private Partnership (PPP) model. What are the challenges faced by the authorities in this regard. (2017)**
 
 ### Answer
 **Question ID: 2017-gs3-q44-drishti_ias**
@@ -1730,7 +1730,7 @@ All requisite steps are being taken to address the various challenges in this fi
 
 ---
 
-## Question 45 (Year: 2017) **What are the reasons for poor acceptance of cost-effective small processing unit? How the food processing unit will be helpful to uplift the socio-economic status of poor farmers? (2017)**
+## Question 46 (Year: 2017) **What are the reasons for poor acceptance of cost-effective small processing unit? How the food processing unit will be helpful to uplift the socio-economic status of poor farmers? (2017)**
 
 ### Answer
 **Question ID: 2017-gs3-q45-drishti_ias**
@@ -1767,7 +1767,7 @@ India must leverage all the available resources to emerge as a leader in food pr
 
 ---
 
-## Question 46 (Year: 2017) **One of the intended objectives of Union-Budget 2017-18 is to ‘transform, energize and clean India’. Analyze the measures proposed in the Budget 2017-18 to achieve the objective. (2017)**
+## Question 47 (Year: 2017) **One of the intended objectives of Union-Budget 2017-18 is to ‘transform, energize and clean India’. Analyze the measures proposed in the Budget 2017-18 to achieve the objective. (2017)**
 
 ### Answer
 **Question ID: 2017-gs3-q46-drishti_ias**
@@ -1812,7 +1812,7 @@ The budget envisions to ‘transform, energize and clean India’ but it will no
 
 ---
 
-## Question 47 (Year: 2017) **“Industrial growth rate has lagged behind in the overall growth of Gross-Domestic-Product (GDP) in the post-reform period” Give reasons. How far the recent changes in Industrial Policy are capable of increasing the industrial growth rate? (2017)**
+## Question 48 (Year: 2017) **“Industrial growth rate has lagged behind in the overall growth of Gross-Domestic-Product (GDP) in the post-reform period” Give reasons. How far the recent changes in Industrial Policy are capable of increasing the industrial growth rate? (2017)**
 
 ### Answer
 **Question ID: 2017-gs3-q47-drishti_ias**
@@ -1845,7 +1845,7 @@ Recently Department of Industrial Policy and Promotion (DIPP) has proposed vario
 
 ---
 
-## Question 48 (Year: 2017) **What are the salient features of ‘inclusive growth’? Has India been experiencing such a growth process? Analyse and suggest measures for inclusive growth. (2017)**
+## Question 49 (Year: 2017) **What are the salient features of ‘inclusive growth’? Has India been experiencing such a growth process? Analyse and suggest measures for inclusive growth. (2017)**
 
 ### Answer
 **Question ID: 2017-gs3-q48-drishti_ias**
@@ -1882,7 +1882,7 @@ Through these measures inclusive growth can be ensured and the Gandhian dream of
 
 ---
 
-## Question 49 (Year: 2016) **How globalization has led to the reduction of employment in the formal sector of the Indian economy? Is increased informalization detrimental to the development of the country? (2016)**
+## Question 50 (Year: 2016) **How globalization has led to the reduction of employment in the formal sector of the Indian economy? Is increased informalization detrimental to the development of the country? (2016)**
 
 ### Answer
 **Question ID: 2016-gs3-q49-drishti_ias**
@@ -1909,7 +1909,7 @@ This shows how informalisation of labour force has proven detrimental to the dev
 
 ---
 
-## Question 50 (Year: 2016) **Women empowerment in India needs gender budgeting. What are the requirements and status of gender budgeting in the Indian context? (2016)**
+## Question 51 (Year: 2016) **Women empowerment in India needs gender budgeting. What are the requirements and status of gender budgeting in the Indian context? (2016)**
 
 ### Answer
 **Question ID: 2016-gs3-q50-drishti_ias**
@@ -1936,7 +1936,7 @@ Even though India has made significant strides in gender budgeting, it still lea
 
 ---
 
-## Question 51 (Year: 2016) **Pradhan Mantri Jan Dhan Yojana (PMJDY) is necessary for bringing unbanked to the institutional finance fold. Do you agree with this for financial inclusion of the poor section of the Indian society? Give arguments to justify your opinion. (2016)**
+## Question 52 (Year: 2016) **Pradhan Mantri Jan Dhan Yojana (PMJDY) is necessary for bringing unbanked to the institutional finance fold. Do you agree with this for financial inclusion of the poor section of the Indian society? Give arguments to justify your opinion. (2016)**
 
 ### Answer
 **Question ID: 2016-gs3-q51-drishti_ias**
@@ -1961,7 +1961,7 @@ The PMJDY is playing its role in great manner by ensuring mass participation of 
 
 ---
 
-## Question 52 (Year: 2016) **What are ‘Smart Cities’? Examine their relevance for urban development in India. Will it increase rural-urban differences? Give arguments for ’Smart Villages’ in the light of PURA and RURBAN Mission. (2016)**
+## Question 53 (Year: 2016) **What are ‘Smart Cities’? Examine their relevance for urban development in India. Will it increase rural-urban differences? Give arguments for ’Smart Villages’ in the light of PURA and RURBAN Mission. (2016)**
 
 ### Answer
 **Question ID: 2016-gs3-q52-drishti_ias**
@@ -1984,7 +1984,7 @@ High development in urban cities and less emphasis on development in rural areas
 
 ---
 
-## Question 53 (Year: 2016) **Justify the need for FDI for the development of the Indian economy. Why there is gap between MoUs signed and actual FDIs? Suggest remedial steps to be taken for increasing actual FDIs in India. (2016)**
+## Question 54 (Year: 2016) **Justify the need for FDI for the development of the Indian economy. Why there is gap between MoUs signed and actual FDIs? Suggest remedial steps to be taken for increasing actual FDIs in India. (2016)**
 
 ### Answer
 **Question ID: 2016-gs3-q53-drishti_ias**
@@ -2009,7 +2009,7 @@ Insolvency and Bankruptcy Code, Ease of doing business, establishment of Special
 
 ---
 
-## Question 54 (Year: 2016) **Comment on the challenges for inclusive growth which include careless and useless manpower in the Indian context. Suggest measures to be taken for facing these challenges. (2016)**
+## Question 55 (Year: 2016) **Comment on the challenges for inclusive growth which include careless and useless manpower in the Indian context. Suggest measures to be taken for facing these challenges. (2016)**
 
 ### Answer
 **Question ID: 2016-gs3-q54-drishti_ias**
@@ -2028,7 +2028,7 @@ These are some measures that would increase the employability and productivity o
 
 ---
 
-## Question 55 (Year: 2016) **Give an account of the current status and the targets to be achieved pertaining to renewable energy sources in the country. Discuss in brief the importance of National Programme on Light Emitting Diodes (LEDs). (2016)**
+## Question 56 (Year: 2016) **Give an account of the current status and the targets to be achieved pertaining to renewable energy sources in the country. Discuss in brief the importance of National Programme on Light Emitting Diodes (LEDs). (2016)**
 **Question ID: 2016-gs3-q55-drishti_ias**
 
 ### Answer
@@ -2060,7 +2060,7 @@ Send To My Bookmarks
 
 ---
 
-## Question 56 (Year: 2025)
+## Question 57 (Year: 2025)
 **Question ID: 2025-gs3-q56-drishti_ias**
 
 **Explain the factors influencing the decision of the farmers on the selection of high value crops in India. (Answer in 150 words)**
@@ -2096,7 +2096,7 @@ With the help of such initiatives, farmers are better equipped to make informed 
 
 ---
 
-## Question 57 (Year: 2025) **Elaborate the scope and significance of supply chain management of agricultural commodities in India. (Answer in 150 words)**
+## Question 58 (Year: 2025) **Elaborate the scope and significance of supply chain management of agricultural commodities in India. (Answer in 150 words)**
 
 ### Answer
 **Question ID: 2025-gs3-q57-drishti_ias**
@@ -2151,7 +2151,7 @@ Challenges such as inefficiencies in government programs, lack of storage, and t
 
 ---
 
-## Question 58 (Year: 2025) **Examine the scope of the food processing industries in India. Elaborate the measures taken by the government in the food processing industries for generating employment opportunities. (Answer in 250 words)**
+## Question 59 (Year: 2025) **Examine the scope of the food processing industries in India. Elaborate the measures taken by the government in the food processing industries for generating employment opportunities. (Answer in 250 words)**
 
 ### Answer
 **Question ID: 2025-gs3-q58-drishti_ias**
@@ -2195,7 +2195,7 @@ India's food processing sector holds significant growth potential. Cold chain ex
 
 ---
 
-## Question 59 (Year: 2024) **Explain the role of millets for ensuring health and nutritional security in India. (Answer in 150 words)**
+## Question 60 (Year: 2024) **Explain the role of millets for ensuring health and nutritional security in India. (Answer in 150 words)**
 **Question ID: 2024-gs3-q59-drishti_ias**
 
 ### Answer
@@ -2241,7 +2241,7 @@ Thus, initiatives for **Nutritional Security through Intensive Millets Promotion
 
 ---
 
-## Question 60 (Year: 2024) **What are the major challenges faced by the Indian irrigation system in recent times? State the measures taken by the government for efficient irrigation management. (Answer in 250 words)**
+## Question 61 (Year: 2024) **What are the major challenges faced by the Indian irrigation system in recent times? State the measures taken by the government for efficient irrigation management. (Answer in 250 words)**
 
 ### Answer
 **Question ID: 2024-gs3-q60-drishti_ias**
@@ -2299,7 +2299,7 @@ To tackle water depletion and outdated infrastructure, India must adopt sustaina
 
 ---
 
-## Question 61 (Year: 2024) **Elucidate the importance of buffer stocks for stabilizing agricultural prices in India. What are the challenges associated with the storage of buffer stock? Discuss. (Answer in 250 words)**
+## Question 62 (Year: 2024) **Elucidate the importance of buffer stocks for stabilizing agricultural prices in India. What are the challenges associated with the storage of buffer stock? Discuss. (Answer in 250 words)**
 
 ### Answer
 **Question ID: 2024-gs3-q61-drishti_ias**
@@ -2359,7 +2359,7 @@ Buffer stocks are vital for stabilizing prices and ensuring food security in Ind
 
 ---
 
-## Question 62 (Year: 2023) **How does e-Technology help farmers in production and marketing of agricultural produce? Explain it.**
+## Question 63 (Year: 2023) **How does e-Technology help farmers in production and marketing of agricultural produce? Explain it.**
 
 ### Answer
 **Question ID: 2023-gs3-q62-drishti_ias**
@@ -2392,7 +2392,7 @@ e-Technology has made agriculture much more transparent and provided farmers wit
 
 ---
 
-## Question 63 (Year: 2023) **Explain the changes in cropping pattern in India in the context of changes in consumption pattern and marketing conditions.**
+## Question 64 (Year: 2023) **Explain the changes in cropping pattern in India in the context of changes in consumption pattern and marketing conditions.**
 
 ### Answer
 **Question ID: 2023-gs3-q63-drishti_ias**
@@ -2423,7 +2423,7 @@ Change in cropping patterns are shaped by complex factors, including consumer pr
 
 ---
 
-## Question 64 (Year: 2023) **What are the direct and indirect subsidies provided to the farm sector in India? Discuss the issues raised by the World Trade Organization (WTO) in relation to agricultural subsidies.**
+## Question 65 (Year: 2023) **What are the direct and indirect subsidies provided to the farm sector in India? Discuss the issues raised by the World Trade Organization (WTO) in relation to agricultural subsidies.**
 
 ### Answer
 **Question ID: 2023-gs3-q64-drishti_ias**
@@ -2456,7 +2456,7 @@ Agriculture in India employs half of its population and subsidies here plays a m
 
 ---
 
-## Question 65 (Year: 2022) **What are the main bottlenecks in upstream and downstream process of marketing of agricultural products in India?**
+## Question 66 (Year: 2022) **What are the main bottlenecks in upstream and downstream process of marketing of agricultural products in India?**
 
 ### Answer
 **Question ID: 2022-gs3-q65-drishti_ias**
@@ -2483,7 +2483,7 @@ Addressing the challenges of the agricultural market is complex, yet doable, as 
 
 ---
 
-## Question 66 (Year: 2022) **What is Integrated Farming System? How is it helpful to small and marginal farmers in India?**
+## Question 67 (Year: 2022) **What is Integrated Farming System? How is it helpful to small and marginal farmers in India?**
 
 ### Answer
 **Question ID: 2022-gs3-q66-drishti_ias**
@@ -2517,7 +2517,7 @@ IFS fulfills multiple objectives, including making farmers self-sufficient by en
 
 ---
 
-## Question 67 (Year: 2021) **How and to what extent would micro-irrigation help in solving India’s water crisis?**
+## Question 68 (Year: 2021) **How and to what extent would micro-irrigation help in solving India’s water crisis?**
 
 ### Answer
 **Question ID: 2021-gs3-q67-drishti_ias**
@@ -2554,7 +2554,7 @@ The future revolution in agriculture will come from precision farming. Micro-irr
 
 ---
 
-## Question 68 (Year: 2021) **What are the salient features of the National Food Security Act, 2013? How has the Food Security Bill helped in eliminating hunger and malnutrition in India?**
+## Question 69 (Year: 2021) **What are the salient features of the National Food Security Act, 2013? How has the Food Security Bill helped in eliminating hunger and malnutrition in India?**
 
 ### Answer
 **Question ID: 2021-gs3-q68-drishti_ias**
@@ -2591,7 +2591,7 @@ Regarded as a landmark legislation to ameliorate the conditions of the poor and 
 
 ---
 
-## Question 69 (Year: 2021) **What are the present challenges before crop diversification? How do emerging technologies provide an opportunity for crop diversification?**
+## Question 70 (Year: 2021) **What are the present challenges before crop diversification? How do emerging technologies provide an opportunity for crop diversification?**
 
 ### Answer
 **Question ID: 2021-gs3-q69-drishti_ias**
@@ -2652,7 +2652,7 @@ Crop diversification refers to the addition of new crops or cropping systems to 
 
 ---
 
-## Question 70 (Year: 2020) **What are the main constraints in transport and marketing of agricultural produce in India?**
+## Question 71 (Year: 2020) **What are the main constraints in transport and marketing of agricultural produce in India?**
 
 ### Answer
 **Question ID: 2020-gs3-q70-drishti_ias**
@@ -2693,7 +2693,7 @@ The problem for transport and marketing of agricultural produce do not only resu
 
 ---
 
-## Question 71 (Year: 2020) **What are the challenges and opportunities of the food processing sector in the country? How can the income of the farmers be substantially increased by encouraging food processing?**
+## Question 72 (Year: 2020) **What are the challenges and opportunities of the food processing sector in the country? How can the income of the farmers be substantially increased by encouraging food processing?**
 
 ### Answer
 **Question ID: 2020-gs3-q71-drishti_ias**
@@ -2734,7 +2734,7 @@ Food processing has become an integral part of the food supply chain in the glob
 
 ---
 
-## Question 72 (Year: 2020) **What are the major factors responsible for making the rice-wheat system a success? In spite of this success how has this system become bane in India?**
+## Question 73 (Year: 2020) **What are the major factors responsible for making the rice-wheat system a success? In spite of this success how has this system become bane in India?**
 
 ### Answer
 **Question ID: 2020-gs3-q72-drishti_ias**
@@ -2765,7 +2765,7 @@ Thus, to sum up, we can say that the rice-wheat system is doing less good for th
 
 ---
 
-## Question 73 (Year: 2020) **Suggest measures to improve water storage and irrigation system to make its judicious use under depleting scenario.**
+## Question 74 (Year: 2020) **Suggest measures to improve water storage and irrigation system to make its judicious use under depleting scenario.**
 
 ### Answer
 **Question ID: 2020-gs3-q73-drishti_ias**
@@ -2810,7 +2810,7 @@ Thus, we see that traditional methods when coupled with modern scientific approa
 
 ---
 
-## Question 74 (Year: 2019) **How far is Integrated Farming System (IFS) helpful in sustaining agricultural production.**
+## Question 75 (Year: 2019) **How far is Integrated Farming System (IFS) helpful in sustaining agricultural production.**
 
 ### Answer
 **Question ID: 2019-gs3-q74-drishti_ias**
@@ -2841,7 +2841,7 @@ IFS provides multiple benefits that are sustainable and can pave the way for *cl
 
 ---
 
-## Question 75 (Year: 2019) **Elaborate the impact of National Watershed Project in increasing agricultural production from waterstressed areas.**
+## Question 76 (Year: 2019) **Elaborate the impact of National Watershed Project in increasing agricultural production from waterstressed areas.**
 
 ### Answer
 **Question ID: 2019-gs3-q75-drishti_ias**
@@ -2868,7 +2868,7 @@ However, watershed project faces certain challenges such as very little communit
 
 ---
 
-## Question 76 (Year: 2018) **Examine the role of supermarkets in supply chain management of fruits, vegetables, and food items. How do they eliminate number of intermediaries? (2018)**
+## Question 77 (Year: 2018) **Examine the role of supermarkets in supply chain management of fruits, vegetables, and food items. How do they eliminate number of intermediaries? (2018)**
 
 ### Answer
 **Question ID: 2018-gs3-q76-drishti_ias**
@@ -2889,7 +2889,7 @@ In this way, supermarkets help in elimination of intermediaries such as agents a
 
 ---
 
-## Question 77 (Year: 2018) **Assess the role of National Horticulture Mission (NHM) in boosting the production, productivity and income of horticulture farms. How far has it succeeded in increasing the income of farmers? (2018)**
+## Question 78 (Year: 2018) **Assess the role of National Horticulture Mission (NHM) in boosting the production, productivity and income of horticulture farms. How far has it succeeded in increasing the income of farmers? (2018)**
 
 ### Answer
 **Question ID: 2018-gs3-q77-drishti_ias**
@@ -2916,7 +2916,7 @@ This form of cultivation is gathering steam across the country, even as the Cent
 
 ---
 
-## Question 78 (Year: 2018) **How has the emphasis on certain crops brought about changes in cropping patterns in recent past? Elaborate the emphasis on millets production and consumption. (2018)**
+## Question 79 (Year: 2018) **How has the emphasis on certain crops brought about changes in cropping patterns in recent past? Elaborate the emphasis on millets production and consumption. (2018)**
 
 ### Answer
 **Question ID: 2018-gs3-q78-drishti_ias**
@@ -2943,7 +2943,7 @@ There is an unmet demand for rice and wheat which is met by millets. If consumer
 
 ---
 
-## Question 79 (Year: 2017) **Explain various types of revolutions, took place in Agriculture after Independence in India. How these revolutions have helped in poverty alleviation and food security in India? (2017)**
+## Question 80 (Year: 2017) **Explain various types of revolutions, took place in Agriculture after Independence in India. How these revolutions have helped in poverty alleviation and food security in India? (2017)**
 
 ### Answer
 **Question ID: 2017-gs3-q79-drishti_ias**
@@ -2966,7 +2966,7 @@ To further carry on the momentum of these programmes and assure food security in
 
 ---
 
-## Question 80 (Year: 2017) **What are the major reasons for declining rice and wheat yield in the cropping system? How crop diversification is helpful to stabilize the yield of the crops in the system? (2017)**
+## Question 81 (Year: 2017) **What are the major reasons for declining rice and wheat yield in the cropping system? How crop diversification is helpful to stabilize the yield of the crops in the system? (2017)**
 
 ### Answer
 **Question ID: 2017-gs3-q80-drishti_ias**
@@ -2995,7 +2995,7 @@ The government of India has launched crop diversification scheme in the original
 
 ---
 
-## Question 81 (Year: 2017) **How do subsidies affect the cropping pattern, crop diversity and economy of farmers? What is the significance of crop insurance, minimum support price and food processing for small and marginal farmers? (2017)**
+## Question 82 (Year: 2017) **How do subsidies affect the cropping pattern, crop diversity and economy of farmers? What is the significance of crop insurance, minimum support price and food processing for small and marginal farmers? (2017)**
 
 ### Answer
 **Question ID: 2017-gs3-q81-drishti_ias**
@@ -3010,7 +3010,7 @@ Though high MSP for certain produces such as wheat and rice drives farmers to ta
 
 ---
 
-## Question 82 (Year: 2016) **What is water-use efficiency? Describe the role of micro-irrigation in increasing the water-use efficiency. (2016)**
+## Question 83 (Year: 2016) **What is water-use efficiency? Describe the role of micro-irrigation in increasing the water-use efficiency. (2016)**
 
 ### Answer
 **Question ID: 2016-gs3-q82-drishti_ias**
@@ -3037,7 +3037,7 @@ Government of India has also accorded high priority to water conservation and it
 
 ---
 
-## Question 83 (Year: 2016) **What is allelopathy? Discuss its role in major cropping systems of irrigated agriculture. (2016)**
+## Question 84 (Year: 2016) **What is allelopathy? Discuss its role in major cropping systems of irrigated agriculture. (2016)**
 
 ### Answer
 **Question ID: 2016-gs3-q83-drishti_ias**
@@ -3058,7 +3058,7 @@ Studies on allelopathy in crops and weeds have been developed in the past few de
 
 ---
 
-## Question 84 (Year: 2016) **Discuss the role of land reforms in agricultural development identify the factors that were responsible for the success of land reforms in India. (2016)**
+## Question 85 (Year: 2016) **Discuss the role of land reforms in agricultural development identify the factors that were responsible for the success of land reforms in India. (2016)**
 
 ### Answer
 **Question ID: 2016-gs3-q84-drishti_ias**
@@ -3087,7 +3087,7 @@ Though the process of land reforms were not as successful as it was intended to 
 
 ---
 
-## Question 85 (Year: 2016) **Given the vulnerability of Indian agriculture to vagaries of nature, discuss the need for crop insurance and bring out the salient features of the Pradhan Mantri Fasal Bima Yojana (PMFBY). (2016)**
+## Question 86 (Year: 2016) **Given the vulnerability of Indian agriculture to vagaries of nature, discuss the need for crop insurance and bring out the salient features of the Pradhan Mantri Fasal Bima Yojana (PMFBY). (2016)**
 
 ### Answer
 **Question ID: 2016-gs3-q85-drishti_ias**
@@ -3121,7 +3121,7 @@ Send To My Bookmarks
 
 ---
 
-## Question 86 (Year: 2025)
+## Question 87 (Year: 2025)
 **Question ID: 2025-gs3-q86-drishti_ias**
 
 **What is Carbon Capture, Utilization and Storage (CCUS)? What is the potential role of CCUS in tackling climate change? (150 words)**
@@ -3205,7 +3205,7 @@ Carbon Capture, Utilization, and Storage (CCUS) refers to a collection of techno
 
 ---
 
-## Question 87 (Year: 2025) **Seawater intrusion in the coastal aquifers is a major concern in India. What are the causes of seawater intrusion and the remedial measures to combat this hazard? (150 words)**
+## Question 88 (Year: 2025) **Seawater intrusion in the coastal aquifers is a major concern in India. What are the causes of seawater intrusion and the remedial measures to combat this hazard? (150 words)**
 
 ### Answer
 **Question ID: 2025-gs3-q87-drishti_ias**
@@ -3257,7 +3257,7 @@ The coastal aquifers play a vital role in maintaining ecological balance by supp
 
 ---
 
-## Question 88 (Year: 2025) **Examine the factors responsible for depleting groundwater in India. What are the steps taken by the government to mitigate such depletion of groundwater? (Answer in 250 words)**
+## Question 89 (Year: 2025) **Examine the factors responsible for depleting groundwater in India. What are the steps taken by the government to mitigate such depletion of groundwater? (Answer in 250 words)**
 
 ### Answer
 **Question ID: 2025-gs3-q88-drishti_ias**
@@ -3319,7 +3319,7 @@ Addressing groundwater depletion in India requires a multi-faceted approach comb
 
 ---
 
-## Question 89 (Year: 2025) **Mineral resources are fundamental to the country's economy and these are exploited by mining. Why is mining considered an environmental hazard? Explain the remedial measures required to reduce the environmental hazard due to mining. (Answer in 250 words)**
+## Question 90 (Year: 2025) **Mineral resources are fundamental to the country's economy and these are exploited by mining. Why is mining considered an environmental hazard? Explain the remedial measures required to reduce the environmental hazard due to mining. (Answer in 250 words)**
 
 ### Answer
 **Question ID: 2025-gs3-q89-drishti_ias**
@@ -3376,7 +3376,7 @@ Mining is often a double-edged sword-while it significantly contributes to econo
 
 ---
 
-## Question 90 (Year: 2025) **Write a review on India's climate commitments under the Paris Agreement (2015) and mention how these have been further strengthened in COP26 (2021). In this direction, how has the first Nationally Determined Contribution intended by India been updated in 2022? (Answer in 250 words)**
+## Question 91 (Year: 2025) **Write a review on India's climate commitments under the Paris Agreement (2015) and mention how these have been further strengthened in COP26 (2021). In this direction, how has the first Nationally Determined Contribution intended by India been updated in 2022? (Answer in 250 words)**
 
 ### Answer
 **Question ID: 2025-gs3-q90-drishti_ias**
@@ -3444,7 +3444,7 @@ India has progressively scaled up ambitions w.r.t. climate change, while balanci
 
 ---
 
-## Question 91 (Year: 2024) **Industrial pollution of river water is a significant environmental issue in India. Discuss the various mitigation measures to deal with this problem and also the government’s initiative in this regard. (Answer in 150 words)**
+## Question 92 (Year: 2024) **Industrial pollution of river water is a significant environmental issue in India. Discuss the various mitigation measures to deal with this problem and also the government’s initiative in this regard. (Answer in 150 words)**
 
 ### Answer
 **Question ID: 2024-gs3-q91-drishti_ias**
@@ -3511,7 +3511,7 @@ Addressing industrial pollution of river water in India requires a multi-faceted
 
 - --
 
-## Question 7 (Year: 2024) **What role do environmental NGOs and activists play in influencing Environmental Impact Assessment (EIA) outcomes for major projects in India? Cite four examples with all important details. (Answer in 150 words)**
+## Question 93 (Year: 2024) **What role do environmental NGOs and activists play in influencing Environmental Impact Assessment (EIA) outcomes for major projects in India? Cite four examples with all important details. (Answer in 150 words)**
 
 ### Answer
 
@@ -3553,7 +3553,7 @@ ENGOs and activists hold authorities accountable, ensuring development projects 
 
 ---
 
-## Question 92 (Year: 2023) **What is oil pollution? What are its impacts on the marine ecosystem? In what way is oil pollution particularly harmful for a country like India?**
+## Question 94 (Year: 2023) **What is oil pollution? What are its impacts on the marine ecosystem? In what way is oil pollution particularly harmful for a country like India?**
 
 ### Answer
 **Question ID: 2023-gs3-q92-drishti_ias**
@@ -3580,7 +3580,7 @@ Oil pollution is a matter of concern for India and efforts to prevent and mitiga
 
 ---
 
-## Question 93 (Year: 2023) **The adoption of electric vehicles is rapidly growing worldwide. How do electric vehicles contribute to reducing carbon emissions and what are the key benefits they offer compared to traditional combustion engine vehicles.**
+## Question 95 (Year: 2023) **The adoption of electric vehicles is rapidly growing worldwide. How do electric vehicles contribute to reducing carbon emissions and what are the key benefits they offer compared to traditional combustion engine vehicles.**
 
 ### Answer
 **Question ID: 2023-gs3-q93-drishti_ias**
@@ -3615,7 +3615,7 @@ EVs offer numerous advantages over traditional vehicles but sustainable generati
 
 ---
 
-## Question 94 (Year: 2023) **Comment on the National Wetland Conservation Programme initiated by the Government of India and name a few of India’s wetlands of international importance included in the Ramsar Sites.**
+## Question 96 (Year: 2023) **Comment on the National Wetland Conservation Programme initiated by the Government of India and name a few of India’s wetlands of international importance included in the Ramsar Sites.**
 
 ### Answer
 **Question ID: 2023-gs3-q94-drishti_ias**
@@ -3656,7 +3656,7 @@ The National Wetlands Conservation Programme (NWCP) and National Lake Conservati
 
 ---
 
-## Question 95 (Year: 2023) **The Intergovernmental Panel on Climate Change (IPCC) has predicted a global sea level rise of about one metre by AD 2100. What would be its impact in India and the other countries in the Indian Ocean region?**
+## Question 97 (Year: 2023) **The Intergovernmental Panel on Climate Change (IPCC) has predicted a global sea level rise of about one metre by AD 2100. What would be its impact in India and the other countries in the Indian Ocean region?**
 
 ### Answer
 **Question ID: 2023-gs3-q95-drishti_ias**
@@ -3697,7 +3697,7 @@ Various other researches predict an even early onset of these effects with much 
 
 ---
 
-## Question 96 (Year: 2022) **Each year a large amount of plant material, cellulose, is deposited on the surface of Planet Earth. What are the natural processes this cellulose undergoes before yielding carbon dioxide, water and other end products?**
+## Question 98 (Year: 2022) **Each year a large amount of plant material, cellulose, is deposited on the surface of Planet Earth. What are the natural processes this cellulose undergoes before yielding carbon dioxide, water and other end products?**
 
 ### Answer
 **Question ID: 2022-gs3-q96-drishti_ias**
@@ -3752,7 +3752,7 @@ Generally, cellulose is mainly used to produce **paperboard and paper.** But its
 
 - --
 
-## Question 13 (Year: 2022) **Discuss in detail the photochemical smog emphasizing its formation, effects and mitigation. Explain the 1999 Gothenburg protocol.**
+## Question 99 (Year: 2022) **Discuss in detail the photochemical smog emphasizing its formation, effects and mitigation. Explain the 1999 Gothenburg protocol.**
 
 ### Answer
 
@@ -3798,7 +3798,7 @@ Currently, the protocol is under negotiation for a revised protocol. It was upda
 
 ---
 
-## Question 97 (Year: 2022) **Discuss global warming and mention its effects on the global climate. Explain the control measures to bring down the level of greenhouse gases which cause global warming, in the light of the Kyoto Protocol, 1997.**
+## Question 100 (Year: 2022) **Discuss global warming and mention its effects on the global climate. Explain the control measures to bring down the level of greenhouse gases which cause global warming, in the light of the Kyoto Protocol, 1997.**
 
 ### Answer
 **Question ID: 2022-gs3-q97-drishti_ias**
@@ -3835,7 +3835,7 @@ The Kyoto Protocol is based on the principle of common but differentiated respon
 
 ---
 
-## Question 98 (Year: 2022) **Explain the causes and effects of coastal erosion in India. What are the available coastal management techniques for combating the hazard?**
+## Question 101 (Year: 2022) **Explain the causes and effects of coastal erosion in India. What are the available coastal management techniques for combating the hazard?**
 
 ### Answer
 **Question ID: 2022-gs3-q98-drishti_ias**
@@ -3884,7 +3884,7 @@ With the alarming rise in climate change threats, rising sea level is a certain 
 
 ---
 
-## Question 99 (Year: 2021) **Explain the purpose of the Green Grid Initiative launched at World Leaders Summit of the COP26 UN Climate Change Conference in Glasgow in November, 2021. When was this idea first floated in the International Solar Alliance (ISA)?**
+## Question 102 (Year: 2021) **Explain the purpose of the Green Grid Initiative launched at World Leaders Summit of the COP26 UN Climate Change Conference in Glasgow in November, 2021. When was this idea first floated in the International Solar Alliance (ISA)?**
 
 ### Answer
 **Question ID: 2021-gs3-q99-drishti_ias**
@@ -3909,7 +3909,7 @@ The Green Grid initiative is a transformational new programme, with the goal of 
 
 ---
 
-## Question 100 (Year: 2021) **Describe the key points of the revised Global Air Quality Guidelines (AQGs) recently released by the World Health Organisation (WHO). How are these different from its last update in 2005? What changes in India’s National Clean Air Programme are required to achieve revised standards?**
+## Question 103 (Year: 2021) **Describe the key points of the revised Global Air Quality Guidelines (AQGs) recently released by the World Health Organisation (WHO). How are these different from its last update in 2005? What changes in India’s National Clean Air Programme are required to achieve revised standards?**
 
 ### Answer
 **Question ID: 2021-gs3-q100-drishti_ias**
@@ -3932,7 +3932,7 @@ India’s National Clean Air Programme (NCAP) aims for a 20% to 30% reduction in
 
 ---
 
-## Question 101 (Year: 2021) **Describe the major outcomes of the 26th session of the Conference of the Parties (COP) to the United Nations Framework Convention on Climate Change (UNFCCC). What are the commitments made by India in this conference?**
+## Question 104 (Year: 2021) **Describe the major outcomes of the 26th session of the Conference of the Parties (COP) to the United Nations Framework Convention on Climate Change (UNFCCC). What are the commitments made by India in this conference?**
 
 ### Answer
 **Question ID: 2021-gs3-q101-drishti_ias**
@@ -3969,7 +3969,7 @@ COP26 of Glasgow is a promising start on emissions reduction, however, on the pa
 
 ---
 
-## Question 102 (Year: 2020) **How doesthe draft EnvironmentImpact Assessment(EIA)Notification, 2020 differfrom the existing EIA Notification, 2006?**
+## Question 105 (Year: 2020) **How doesthe draft EnvironmentImpact Assessment(EIA)Notification, 2020 differfrom the existing EIA Notification, 2006?**
 
 ### Answer
 **Question ID: 2020-gs3-q102-drishti_ias**
@@ -4006,7 +4006,7 @@ The new notification is being brought in order to make the process more transpar
 
 ---
 
-## Question 103 (Year: 2020) **What are the salient features of the Jal Shakti Abhiyan launched by the Government of India for water conservation and water security?**
+## Question 106 (Year: 2020) **What are the salient features of the Jal Shakti Abhiyan launched by the Government of India for water conservation and water security?**
 
 ### Answer
 **Question ID: 2020-gs3-q103-drishti_ias**
@@ -4045,7 +4045,7 @@ Following the massive water crisis across India in the summer of 2019, the Centr
 
 ---
 
-## Question 104 (Year: 2020) **What are the key features of the National Clean Air Programme (NCAP) initiated by the government of India?**
+## Question 107 (Year: 2020) **What are the key features of the National Clean Air Programme (NCAP) initiated by the government of India?**
 
 ### Answer
 **Question ID: 2020-gs3-q104-drishti_ias**
@@ -4074,7 +4074,7 @@ NCAP is envisaged to be dynamic although the targets appear less ambitious. Howe
 
 ---
 
-## Question 105 (Year: 2019) **Coastal sand mining, whether legal or illegal, poses one of the biggest threats to our environment. Analyse the impact of sand mining along the Indian coasts, citing specific examples.**
+## Question 108 (Year: 2019) **Coastal sand mining, whether legal or illegal, poses one of the biggest threats to our environment. Analyse the impact of sand mining along the Indian coasts, citing specific examples.**
 
 ### Answer
 **Question ID: 2019-gs3-q105-drishti_ias**
@@ -4103,7 +4103,7 @@ Better spatial planning and reducing unnecessary construction, using green infra
 
 ---
 
-## Question 106 (Year: 2019) **Define the concept of carrying capacity of an ecosystem as relevant to an environment. Explain how understanding this concept is vital while planning for sustainable development of a region.**
+## Question 109 (Year: 2019) **Define the concept of carrying capacity of an ecosystem as relevant to an environment. Explain how understanding this concept is vital while planning for sustainable development of a region.**
 
 ### Answer
 
@@ -4140,7 +4140,7 @@ The current ethos of ‘sustainable development’ is slanted towards preservati
 
 ---
 
-## Question 107 (Year: 2018) **“Access to affordable, reliable, sustainable and modern energy is the sine qua non to achieve Sustainable Development Goals (SDGs).” Comment on the progress made in India in this regard. (2018)**
+## Question 110 (Year: 2018) **“Access to affordable, reliable, sustainable and modern energy is the sine qua non to achieve Sustainable Development Goals (SDGs).” Comment on the progress made in India in this regard. (2018)**
 
 ### Answer
 **Question ID: 2018-gs3-q107-drishti_ias**
@@ -4165,7 +4165,7 @@ According to Lawson, there is reduction in gender gap in India by half over the 
 
 ---
 
-## Question 108 (Year: 2018) **What are the impediments disposing the huge quantities of discarded solid waste which are continuously being generated? How do we remove safely the toxic wastes that have been accumulated in our habitable environment? (2018)**
+## Question 111 (Year: 2018) **What are the impediments disposing the huge quantities of discarded solid waste which are continuously being generated? How do we remove safely the toxic wastes that have been accumulated in our habitable environment? (2018)**
 
 ### Answer
 **Question ID: 2018-gs3-q108-drishti_ias**
@@ -4204,7 +4204,7 @@ Considering the pace of urbanization in India this is imperative that more waste
 
 ---
 
-## Question 109 (Year: 2018) **What is wetland? Explain the Ramsar concept of ‘wise use’ in the context of wetland conservation. Cite two examples of Ramsar sites from India. (2018)**
+## Question 112 (Year: 2018) **What is wetland? Explain the Ramsar concept of ‘wise use’ in the context of wetland conservation. Cite two examples of Ramsar sites from India. (2018)**
 
 ### Answer
 **Question ID: 2018-gs3-q109-drishti_ias**
@@ -4225,7 +4225,7 @@ India has 26 Ramsar Sites which are the Wetlands of International importance. Th
 
 ---
 
-## Question 110 (Year: 2018) **Sikkim is the first ‘Organic State’ in India. What are the ecological and economical benefits of Organic State? (2018)**
+## Question 113 (Year: 2018) **Sikkim is the first ‘Organic State’ in India. What are the ecological and economical benefits of Organic State? (2018)**
 
 ### Answer
 **Question ID: 2018-gs3-q110-drishti_ias**
@@ -4260,7 +4260,7 @@ Sikkim became India’s first ‘organic state’ by implementing organic practi
 
 ---
 
-## Question 111 (Year: 2018) **How does biodiversity vary in India? How is the Biological Diversity Act, 2002 helpful in conservation of flora and fauna? (2018)**
+## Question 114 (Year: 2018) **How does biodiversity vary in India? How is the Biological Diversity Act, 2002 helpful in conservation of flora and fauna? (2018)**
 
 ### Answer
 **Question ID: 2018-gs3-q111-drishti_ias**
@@ -4295,7 +4295,7 @@ Biodiversity is defined as the variability among living organisms. Biogeographic
 
 ---
 
-## Question 112 (Year: 2017) **Not many years ago, river linking was a concept but it is becoming reality in the country. Discuss the advantages of river linking and its possible impact on the environment. (2017)**
+## Question 115 (Year: 2017) **Not many years ago, river linking was a concept but it is becoming reality in the country. Discuss the advantages of river linking and its possible impact on the environment. (2017)**
 
 ### Answer
 **Question ID: 2017-gs3-q112-drishti_ias**
@@ -4328,7 +4328,7 @@ The river link project is not without its disadvantages. The environmental angle
 
 ---
 
-## Question 113 (Year: 2017) **'Climate change' is a global problem. How India will be affected by climate change? How Himalayan and coastal states of India will be affected by climate change? (2017)**
+## Question 116 (Year: 2017) **'Climate change' is a global problem. How India will be affected by climate change? How Himalayan and coastal states of India will be affected by climate change? (2017)**
 
 ### Answer
 **Question ID: 2017-gs3-q113-drishti_ias**
@@ -4365,7 +4365,7 @@ Being one of the most vulnerable countries to climate change, it is high time th
 
 ---
 
-## Question 114 (Year: 2016) **Rehabilitation of human settlements is one of the important environmental impacts which always attracts controversy while planning major projects. Discuss the measures suggested for mitigation of this impact while proposing major developmental projects. (2016)**
+## Question 117 (Year: 2016) **Rehabilitation of human settlements is one of the important environmental impacts which always attracts controversy while planning major projects. Discuss the measures suggested for mitigation of this impact while proposing major developmental projects. (2016)**
 **Question ID: 2016-gs3-q114-drishti_ias**
 
 ### Answer
@@ -4389,7 +4389,7 @@ Send To My Bookmarks
 
 ---
 
-## Question 115 (Year: 2025)
+## Question 118 (Year: 2025)
 **Question ID: 2025-gs3-q115-drishti_ias**
 
 **The fusion energy programme in India has steadily evolved over the past few decades. Mention India's contributions to the international fusion energy project International Thermonuclear Experimental Reactor (ITER). What will be the implications of the success of this project for the future of global energy? (Answer in 150 words)**
@@ -4451,7 +4451,7 @@ The ITER project represents a groundbreaking step toward a clean, sustainable, a
 
 ---
 
-## Question 116 (Year: 2025) **How can India achieve energy independence through clean technology by 2047? How can biotechnology can play a crucial role in this endeavour? (Answer in 150 words)**
+## Question 119 (Year: 2025) **How can India achieve energy independence through clean technology by 2047? How can biotechnology can play a crucial role in this endeavour? (Answer in 150 words)**
 
 ### Answer
 **Question ID: 2025-gs3-q116-drishti_ias**
@@ -4502,7 +4502,7 @@ India’s pursuit of energy independence through clean technology is both urgent
 
 ---
 
-## Question 117 (Year: 2025) **How does nanotechnology offer significant advancements in the field of agriculture? How can this technology help to uplift the socio-economic status of farmers? (Answer in 250 words)**
+## Question 120 (Year: 2025) **How does nanotechnology offer significant advancements in the field of agriculture? How can this technology help to uplift the socio-economic status of farmers? (Answer in 250 words)**
 
 ### Answer
 **Question ID: 2025-gs3-q117-drishti_ias**
@@ -4576,7 +4576,7 @@ Nanotechnology holds significant potential to revolutionize agriculture by enhan
 
 ---
 
-## Question 118 (Year: 2025) **India aims to become a semiconductor manufacturing hub. What are the challenges faced by the semiconductor industry in India? Mention the salient features of the India Semiconductor Mission. (250 words)**
+## Question 121 (Year: 2025) **India aims to become a semiconductor manufacturing hub. What are the challenges faced by the semiconductor industry in India? Mention the salient features of the India Semiconductor Mission. (250 words)**
 
 ### Answer
 **Question ID: 2025-gs3-q118-drishti_ias**
@@ -4671,7 +4671,7 @@ India is strengthening its semiconductor ecosystem through the **ISM**, agreemen
 
 ---
 
-## Question 119 (Year: 2024) **What is the present world scenario of intellectual property rights with respect to life materials? Although India is second in the world to file patents, still only a few have been commericialized. Explain the reasons behind this less commercialization. (Answer in 150 words)**
+## Question 122 (Year: 2024) **What is the present world scenario of intellectual property rights with respect to life materials? Although India is second in the world to file patents, still only a few have been commericialized. Explain the reasons behind this less commercialization. (Answer in 150 words)**
 
 ### Answer
 **Question ID: 2024-gs3-q119-drishti_ias**
@@ -4710,7 +4710,7 @@ India's growing number of patent filings shows the need to improve commercializa
 
 - --
 
-## Question 6 (Year: 2024) **What is the technology being employed for electronic toll collection on highways? What are its advantages and limitations? What are the proposed changes that will make this process seamless? Would this transition carry any potential hazards? (Answer in 150 words)**
+## Question 123 (Year: 2024) **What is the technology being employed for electronic toll collection on highways? What are its advantages and limitations? What are the proposed changes that will make this process seamless? Would this transition carry any potential hazards? (Answer in 150 words)**
 
 ### Answer
 
@@ -4763,7 +4763,7 @@ While electronic toll collection technology offers numerous benefits, **careful 
 
 ---
 
-## Question 120 (Year: 2024) **Describe the context and salient features of Digital Personal Data Protection Act 2023. (Answer in 150 words)**
+## Question 124 (Year: 2024) **Describe the context and salient features of Digital Personal Data Protection Act 2023. (Answer in 150 words)**
 
 ### Answer
 **Question ID: 2024-gs3-q120-drishti_ias**
@@ -4884,7 +4884,7 @@ Integrating advanced technologies like desalination, wastewater treatment, and A
 
 ---
 
-## Question 121 (Year: 2024) **What are asteroids? How real is the threat of them causing extinction of life? What strategies have been developed to prevent such a catastrophe? (Answer in 250 words)**
+## Question 125 (Year: 2024) **What are asteroids? How real is the threat of them causing extinction of life? What strategies have been developed to prevent such a catastrophe? (Answer in 250 words)**
 
 ### Answer
 **Question ID: 2024-gs3-q121-drishti_ias**
@@ -4942,7 +4942,7 @@ While asteroids pose a threat, advancements in detection, deflection, and global
 
 ---
 
-## Question 122 (Year: 2023) **Introduce the concept of Artificial Intelligence (Al). How does Al help clinical diagnosis? Do you perceive any threat to privacy of the individual in the use of Al in healthcare?**
+## Question 126 (Year: 2023) **Introduce the concept of Artificial Intelligence (Al). How does Al help clinical diagnosis? Do you perceive any threat to privacy of the individual in the use of Al in healthcare?**
 
 ### Answer
 **Question ID: 2023-gs3-q122-drishti_ias**
@@ -4975,7 +4975,7 @@ The advent of Artificial Intelligence continues to cause massive changes through
 
 ---
 
-## Question 123 (Year: 2023) **Discuss several ways in which microorganisms can help in meeting the current fuel shortage.**
+## Question 127 (Year: 2023) **Discuss several ways in which microorganisms can help in meeting the current fuel shortage.**
 
 ### Answer
 **Question ID: 2023-gs3-q123-drishti_ias**
@@ -5000,7 +5000,7 @@ The development of pilot plants for microbial energy fuel production is necessar
 
 ---
 
-## Question 124 (Year: 2023) **What is the main task of India’s third moon mission which could not be achieved in its earlier mission? List the countries that have achieved this task. Introduce the subsystems in the spacecraft launched and explain the role of the ‘Virtual Launch Control Centre’ at the Vikram Sarabhai Space Centre which contributed to the successful launch from Sriharikota.**
+## Question 128 (Year: 2023) **What is the main task of India’s third moon mission which could not be achieved in its earlier mission? List the countries that have achieved this task. Introduce the subsystems in the spacecraft launched and explain the role of the ‘Virtual Launch Control Centre’ at the Vikram Sarabhai Space Centre which contributed to the successful launch from Sriharikota.**
 
 ### Answer
 **Question ID: 2023-gs3-q124-drishti_ias**
@@ -5039,7 +5039,7 @@ With the success of Chandrayaan-3, India can now look forward to the sample retr
 
 ---
 
-## Question 125 (Year: 2022) **Launched on 25 th December, 2021, James Webb Space Telescope has been much in the news since then. What are its unique features which make it superior to its predecessor Space Telescopes? What are the key goals of this mission? What potential benefits does it hold for the human race?**
+## Question 129 (Year: 2022) **Launched on 25 th December, 2021, James Webb Space Telescope has been much in the news since then. What are its unique features which make it superior to its predecessor Space Telescopes? What are the key goals of this mission? What potential benefits does it hold for the human race?**
 
 ### Answer
 **Question ID: 2022-gs3-q125-drishti_ias**
@@ -5085,7 +5085,7 @@ James Webb telescope is the successor of the Hubble Telescope. The characteristi
 
 ---
 
-## Question 126 (Year: 2022) **What is the basic principle behind vaccine development? How do vaccines work? What approaches were adopted by the Indian vaccine manufacturers to produce COVID-19 vaccines?**
+## Question 130 (Year: 2022) **What is the basic principle behind vaccine development? How do vaccines work? What approaches were adopted by the Indian vaccine manufacturers to produce COVID-19 vaccines?**
 
 ### Answer
 **Question ID: 2022-gs3-q126-drishti_ias**
@@ -5142,7 +5142,7 @@ In a historic achievement, India’s vaccination drive has surpassed the **200-C
 
 ---
 
-## Question 127 (Year: 2021) **How is S-400 air defence system technically superior to any other system presently available in the world?**
+## Question 131 (Year: 2021) **How is S-400 air defence system technically superior to any other system presently available in the world?**
 
 ### Answer
 **Question ID: 2021-gs3-q127-drishti_ias**
@@ -5169,7 +5169,7 @@ Even though buying S-400 from Russia attracted criticism from the US under the C
 
 ---
 
-## Question 128 (Year: 2021) **What are the research and developmental achievements in applied biotechnology? How will these achievements help to uplift the poorer sections of the society?**
+## Question 132 (Year: 2021) **What are the research and developmental achievements in applied biotechnology? How will these achievements help to uplift the poorer sections of the society?**
 
 ### Answer
 **Question ID: 2021-gs3-q128-drishti_ias**
@@ -5202,7 +5202,7 @@ Biotechnology is technology based on biology. Biotechnology generates cellular a
 
 ---
 
-## Question 129 (Year: 2021) **The Nobel Prize in Physics of 2014 was jointly awarded to Akasaki, Amano and Nakamura for the invention of Blue LEDs in 1990s. How has this invention impacted the everyday life of human beings?**
+## Question 133 (Year: 2021) **The Nobel Prize in Physics of 2014 was jointly awarded to Akasaki, Amano and Nakamura for the invention of Blue LEDs in 1990s. How has this invention impacted the everyday life of human beings?**
 
 ### Answer
 **Question ID: 2021-gs3-q129-drishti_ias**
@@ -5227,7 +5227,7 @@ Researchers are exploring other applications of LEDs as well like in transmittin
 
 ---
 
-## Question 130 (Year: 2020) **What do you understand by nanotechnology and how is it helping in health sector?**
+## Question 134 (Year: 2020) **What do you understand by nanotechnology and how is it helping in health sector?**
 
 ### Answer
 **Question ID: 2020-gs3-q130-drishti_ias**
@@ -5252,7 +5252,7 @@ Because of their small size, much concern has been expressed about the potential
 
 ---
 
-## Question 131 (Year: 2020) **How is science interwoven deeply with our lives? What are the striking changes in agriculture triggered off by science-based technologies?**
+## Question 135 (Year: 2020) **How is science interwoven deeply with our lives? What are the striking changes in agriculture triggered off by science-based technologies?**
 
 ### Answer
 **Question ID: 2020-gs3-q131-drishti_ias**
@@ -5291,7 +5291,7 @@ The technologies including Artificial Intelligence, Big Data Analytics, Blockcha
 
 ---
 
-## Question 132 (Year: 2020) **COVID-19 pandemic has caused unprecedented devastation worldwide. However, technological advancements are being availed readily to win over the crisis. Give an account of how technology was sought to aid management of the pandemic.**
+## Question 136 (Year: 2020) **COVID-19 pandemic has caused unprecedented devastation worldwide. However, technological advancements are being availed readily to win over the crisis. Give an account of how technology was sought to aid management of the pandemic.**
 
 ### Answer
 **Question ID: 2020-gs3-q132-drishti_ias**
@@ -5326,7 +5326,7 @@ Thus, we notice that during the COVID-19 period technology innovations helped in
 
 ---
 
-## Question 133 (Year: 2019) **How was India benefited from the contributions of Sir M.Visvesvaraya and Dr. M. S. Swaminathan in the fields of water engineering and agricultural science respectively?**
+## Question 137 (Year: 2019) **How was India benefited from the contributions of Sir M.Visvesvaraya and Dr. M. S. Swaminathan in the fields of water engineering and agricultural science respectively?**
 **Question ID: 2019-gs3-q133-drishti_ias**
 
 ### Answer
@@ -5363,7 +5363,7 @@ India needs to adhere to the visions of these two men, especially when our agrar
 
 ---
 
-## Question 134 (Year: 2019) **What is India’s plan to have its own space station and how will it benefit our space programme?**
+## Question 138 (Year: 2019) **What is India’s plan to have its own space station and how will it benefit our space programme?**
 
 ### Answer
 **Question ID: 2019-gs3-q134-drishti_ias**
@@ -5400,7 +5400,7 @@ India should increase its engagement with the private sector and research instit
 
 ---
 
-## Question 135 (Year: 2019) **How is the Government of India protecting traditional knowledge of medicine from patenting by pharmaceutical companies?**
+## Question 139 (Year: 2019) **How is the Government of India protecting traditional knowledge of medicine from patenting by pharmaceutical companies?**
 
 ### Answer
 **Question ID: 2019-gs3-q135-drishti_ias**
@@ -5443,7 +5443,7 @@ The interest in traditional medicines is growing rapidly due to the increased si
 
 ---
 
-## Question 136 (Year: 2019) **How can biotechnology help to improve the living standards of farmers?**
+## Question 140 (Year: 2019) **How can biotechnology help to improve the living standards of farmers?**
 
 ### Answer
 **Question ID: 2019-gs3-q136-drishti_ias**
@@ -5474,7 +5474,7 @@ The benefits of biotechnology are especially meaningful at a time when our globa
 
 ---
 
-## Question 137 (Year: 2018) **Discuss the work of ‘Bose-Einstein Statistics’ done by Prof. Satyendra Nath Bose and show how it revolutionized the field of Physics. (2018)**
+## Question 141 (Year: 2018) **Discuss the work of ‘Bose-Einstein Statistics’ done by Prof. Satyendra Nath Bose and show how it revolutionized the field of Physics. (2018)**
 
 ### Answer
 **Question ID: 2018-gs3-q137-drishti_ias**
@@ -5489,7 +5489,7 @@ One of the most dramatic effects of Bose-Einstein statistics is the prediction t
 
 ---
 
-## Question 138 (Year: 2018) **Why is there so much activity in the field of biotechnology in our country? How has this activity benefitted the field of biopharma? (2018)**
+## Question 142 (Year: 2018) **Why is there so much activity in the field of biotechnology in our country? How has this activity benefitted the field of biopharma? (2018)**
 
 ### Answer
 **Question ID: 2018-gs3-q138-drishti_ias**
@@ -5516,7 +5516,7 @@ Initiatives such i3 (Innovate in India); National Biopharma Mission and establis
 
 ---
 
-## Question 139 (Year: 2018) **With growing energy needs should India keep on expanding its nuclear energy programme? Discuss the facts and fears associated with nuclear energy? (2018)**
+## Question 143 (Year: 2018) **With growing energy needs should India keep on expanding its nuclear energy programme? Discuss the facts and fears associated with nuclear energy? (2018)**
 
 ### Answer
 **Question ID: 2018-gs3-q139-drishti_ias**
@@ -5551,7 +5551,7 @@ With Indian motto of ‘atoms for peace’, nuclear energy can act as a great ca
 
 ---
 
-## Question 140 (Year: 2017) **Stem cell therapy is gaining popularity in India to treat a wide variety of medical conditions including leukaemia, Thalassemia, damaged cornea and several burns. Describe briefly what stem cell therapy is and what advantages it has over other treatments? (2017)**
+## Question 144 (Year: 2017) **Stem cell therapy is gaining popularity in India to treat a wide variety of medical conditions including leukaemia, Thalassemia, damaged cornea and several burns. Describe briefly what stem cell therapy is and what advantages it has over other treatments? (2017)**
 
 ### Answer
 **Question ID: 2017-gs3-q140-drishti_ias**
@@ -5570,7 +5570,7 @@ India is among the frontrunner in stem cell therapy. Clinical trials are being p
 
 ---
 
-## Question 141 (Year: 2017) **India has achieved remarkable successes in unmanned space missions including the Chandrayaan and Mars Orbiter Mission, but has not ventured into manned space mission. What are the main obstacles to launching a manned space mission, both in terms of technology and logistics? Examine critically. (2017)**
+## Question 145 (Year: 2017) **India has achieved remarkable successes in unmanned space missions including the Chandrayaan and Mars Orbiter Mission, but has not ventured into manned space mission. What are the main obstacles to launching a manned space mission, both in terms of technology and logistics? Examine critically. (2017)**
 
 ### Answer
 **Question ID: 2017-gs3-q141-drishti_ias**
@@ -5605,7 +5605,7 @@ Some scientists hold the view that private players have much more flexibility, f
 
 ---
 
-## Question 142 (Year: 2017) **Give an account of the growth and development of nuclear science and technology in India. What is the advantage of fast breeder reactor programme in India? (2017)**
+## Question 146 (Year: 2017) **Give an account of the growth and development of nuclear science and technology in India. What is the advantage of fast breeder reactor programme in India? (2017)**
 
 ### Answer
 **Question ID: 2017-gs3-q142-drishti_ias**
@@ -5636,7 +5636,7 @@ In FBRs, plutonium-239 undergoes fission to produce energy, while the uranium-23
 
 ---
 
-## Question 143 (Year: 2016) **Discuss India’s achievements in the field of Space Science and Technology. How the application of this technology has helped India in its socio-economic development? (2016)**
+## Question 147 (Year: 2016) **Discuss India’s achievements in the field of Space Science and Technology. How the application of this technology has helped India in its socio-economic development? (2016)**
 
 ### Answer
 **Question ID: 2016-gs3-q143-drishti_ias**
@@ -5651,7 +5651,7 @@ Apart from being a mighty achievement, these achievements have also helped in so
 
 ---
 
-## Question 144 (Year: 2016) **Why is nanotechnology one of the key technologies of the 21st century? Describe the salient features of Indian Government’s Mission on Nanoscience and Technology and the scope of its application in the development process of the country (2016)**
+## Question 148 (Year: 2016) **Why is nanotechnology one of the key technologies of the 21st century? Describe the salient features of Indian Government’s Mission on Nanoscience and Technology and the scope of its application in the development process of the country (2016)**
 **Question ID: 2016-gs3-q144-drishti_ias**
 
 ### Answer
@@ -5679,7 +5679,7 @@ Send To My Bookmarks
 
 ---
 
-## Question 145 (Year: 2025)
+## Question 149 (Year: 2025)
 **Question ID: 2025-gs3-q145-drishti_ias**
 
 **Terrorism is a global scourge. How has it manifested in India? Elaborate with contemporary examples. What are the counter measures adopted by the State? Explain. (150 words)**
@@ -5708,7 +5708,7 @@ The state has developed a multi-faceted approach to combat terrorism. Yet, the e
 
 ---
 
-## Question 146 (Year: 2025) **The Government of India recently stated that Left Wing Extremism (LWE) will be eliminated by 2026. What do you understand by LWE and how are the people affected by it? What measures have been taken by the government to eliminate LWE? (Answer in 150 words)**
+## Question 150 (Year: 2025) **The Government of India recently stated that Left Wing Extremism (LWE) will be eliminated by 2026. What do you understand by LWE and how are the people affected by it? What measures have been taken by the government to eliminate LWE? (Answer in 150 words)**
 
 ### Answer
 **Question ID: 2025-gs3-q146-drishti_ias**
@@ -5754,7 +5754,7 @@ LWE is both a security and socio-economic challenge rooted in alienation. Its el
 
 ---
 
-## Question 147 (Year: 2025) **What are the major challenges to internal security and peace process in the North-Eastern States? Map the various peace accords and agreements initiated by the government in the past decade. (Answer in 250 words)**
+## Question 151 (Year: 2025) **What are the major challenges to internal security and peace process in the North-Eastern States? Map the various peace accords and agreements initiated by the government in the past decade. (Answer in 250 words)**
 
 ### Answer
 **Question ID: 2025-gs3-q147-drishti_ias**
@@ -5811,7 +5811,7 @@ While significant strides have been made in fostering peace through accords, cha
 
 ---
 
-## Question 148 (Year: 2025) **Why is maritime security vital to protect India's sea trade? Discuss maritime and coastal security challenges and the way forward. (250 words)**
+## Question 152 (Year: 2025) **Why is maritime security vital to protect India's sea trade? Discuss maritime and coastal security challenges and the way forward. (250 words)**
 
 ### Answer
 **Question ID: 2025-gs3-q148-drishti_ias**
@@ -5839,7 +5839,7 @@ India’s maritime security is central to its economic well-being, energy access
 
 ---
 
-## Question 149 (Year: 2024) **Explain how nacro- terrorism has emerged as a serious threat across the country. Suggest suitable measures to counter narco-terrorism. (Answer in 150 words)**
+## Question 153 (Year: 2024) **Explain how nacro- terrorism has emerged as a serious threat across the country. Suggest suitable measures to counter narco-terrorism. (Answer in 150 words)**
 
 ### Answer
 **Question ID: 2024-gs3-q149-drishti_ias**
@@ -5885,7 +5885,7 @@ A Multi-faceted approach is essential to counter narco-terrorism. Strengthening 
 
 ---
 
-## Question 150 (Year: 2024) **India has a long and troubled border with China and Pakistan fraught with contentious issues. Examine the conflicting issues and security challenges along the border. Also give out the development being undertaken in these areas under the border Area Development Programme (BADP) and Border Infrastructure and Management (BIM) Scheme. (Answer in 250 words)**
+## Question 154 (Year: 2024) **India has a long and troubled border with China and Pakistan fraught with contentious issues. Examine the conflicting issues and security challenges along the border. Also give out the development being undertaken in these areas under the border Area Development Programme (BADP) and Border Infrastructure and Management (BIM) Scheme. (Answer in 250 words)**
 
 ### Answer
 **Question ID: 2024-gs3-q150-drishti_ias**
@@ -5944,7 +5944,7 @@ Through initiatives like BADP and BIM, India is not only enhancing border securi
 
 ---
 
-## Question 151 (Year: 2024) **Social media and encrypting messaging services pose a serious security challenge. What measures have been adopted at various levels to address the security implications of social media? Also suggest any other remedies to address the problem. (Answer in 250 words)**
+## Question 155 (Year: 2024) **Social media and encrypting messaging services pose a serious security challenge. What measures have been adopted at various levels to address the security implications of social media? Also suggest any other remedies to address the problem. (Answer in 250 words)**
 
 ### Answer
 **Question ID: 2024-gs3-q151-drishti_ias**
@@ -6014,7 +6014,7 @@ By combining technological solutions, digital literacy initiatives, and collabor
 
 ---
 
-## Question 152 (Year: 2023) **Winning ‘Hearts and Minds’ in terrorism affected areas is an essential step in restoring the trust of the population. Discuss the measures adopted by the Government in this respect as part of the conflict resolution in Jammu and Kashmir.**
+## Question 156 (Year: 2023) **Winning ‘Hearts and Minds’ in terrorism affected areas is an essential step in restoring the trust of the population. Discuss the measures adopted by the Government in this respect as part of the conflict resolution in Jammu and Kashmir.**
 
 ### Answer
 **Question ID: 2023-gs3-q152-drishti_ias**
@@ -6045,7 +6045,7 @@ Though the government approach is to restore peace, stability, and development i
 
 ---
 
-## Question 153 (Year: 2023) **The use of unmanned aerial vehicles (UAVs) by our adversaries across the borders to ferry arms/ammunitions, drugs, etc., is a serious threat to the internal security. Comment on the measures being taken to tackle this threat.**
+## Question 157 (Year: 2023) **The use of unmanned aerial vehicles (UAVs) by our adversaries across the borders to ferry arms/ammunitions, drugs, etc., is a serious threat to the internal security. Comment on the measures being taken to tackle this threat.**
 
 ### Answer
 **Question ID: 2023-gs3-q153-drishti_ias**
@@ -6080,7 +6080,7 @@ With the emergence of technology comes the threat to internal security. Therefor
 
 ---
 
-## Question 154 (Year: 2023) **What are the internal security challenges being faced by India? Give out the role of Central Intelligence and Investigative Agencies tasked to counter such threats.**
+## Question 158 (Year: 2023) **What are the internal security challenges being faced by India? Give out the role of Central Intelligence and Investigative Agencies tasked to counter such threats.**
 
 ### Answer
 **Question ID: 2023-gs3-q154-drishti_ias**
@@ -6117,7 +6117,7 @@ Internal security is imperative for the growth of a nation. Indian Intelligence 
 
 ---
 
-## Question 155 (Year: 2023) **Give out the major sources of terror funding in India and the efforts being made to curtail these sources. In the light of this, also discuss the aim and objective of the No Money for Terror (NMFT) Conference recently held at New Delhi in November 2022.**
+## Question 159 (Year: 2023) **Give out the major sources of terror funding in India and the efforts being made to curtail these sources. In the light of this, also discuss the aim and objective of the No Money for Terror (NMFT) Conference recently held at New Delhi in November 2022.**
 
 ### Answer
 **Question ID: 2023-gs3-q155-drishti_ias**
@@ -6160,7 +6160,7 @@ Being surrounded by two hostile neighbours does not allow India any leeway for c
 
 ---
 
-## Question 156 (Year: 2022) **Discuss the types of organised crimes. Describe the linkages between terrorists and organised crime that exist at the national and transnational levels.**
+## Question 160 (Year: 2022) **Discuss the types of organised crimes. Describe the linkages between terrorists and organised crime that exist at the national and transnational levels.**
 
 ### Answer
 **Question ID: 2022-gs3-q156-drishti_ias**
@@ -6183,7 +6183,7 @@ Thus, organised crime and terrorism share close linkages at both national and tr
 
 ---
 
-## Question 157 (Year: 2022) **What are the maritime security challenges in India? Discuss the organisational, technical and procedural initiatives taken to improve the maritime security.**
+## Question 161 (Year: 2022) **What are the maritime security challenges in India? Discuss the organisational, technical and procedural initiatives taken to improve the maritime security.**
 
 ### Answer
 **Question ID: 2022-gs3-q157-drishti_ias**
@@ -6248,7 +6248,7 @@ India has more than 7000 km long maritime border shared with seven nations. Inst
 
 ---
 
-## Question 158 (Year: 2022) **What are the different elements of cyber security? Keeping in view the challenges in cyber security, examine the extent to which India has successfully developed a comprehensive National Cyber Security Strategy.**
+## Question 162 (Year: 2022) **What are the different elements of cyber security? Keeping in view the challenges in cyber security, examine the extent to which India has successfully developed a comprehensive National Cyber Security Strategy.**
 
 ### Answer
 **Question ID: 2022-gs3-q158-drishti_ias**
@@ -6297,7 +6297,7 @@ Thus, with the changing nature of cybercrimes, India has also made efforts at me
 
 ---
 
-## Question 159 (Year: 2022) **Naxalism is a social, economic and developmental issue manifesting as a violent internal security threat. In this context, discuss the emerging issues and suggest a multilayered strategy to tackle the menace of Naxalism.**
+## Question 163 (Year: 2022) **Naxalism is a social, economic and developmental issue manifesting as a violent internal security threat. In this context, discuss the emerging issues and suggest a multilayered strategy to tackle the menace of Naxalism.**
 
 ### Answer
 **Question ID: 2022-gs3-q159-drishti_ias**
@@ -6346,7 +6346,7 @@ India has made little success tackling Naxalism, but the root causes have not be
 
 ---
 
-## Question 160 (Year: 2021) **Discuss how emerging technologies and globalisation contribute to money laundering. Elaborate measures to tackle the problem of money laundering both at national and international levels.**
+## Question 164 (Year: 2021) **Discuss how emerging technologies and globalisation contribute to money laundering. Elaborate measures to tackle the problem of money laundering both at national and international levels.**
 
 ### Answer
 **Question ID: 2021-gs3-q160-drishti_ias**
@@ -6393,7 +6393,7 @@ Money Laundering is a global menace which require global effort to curb it. Both
 
 ---
 
-## Question 161 (Year: 2021) **Keeping in view of India’s internal security, analyse the impact of cross-border cyber-attacks. Also, discuss defensive measures against these sophisticated attacks.**
+## Question 165 (Year: 2021) **Keeping in view of India’s internal security, analyse the impact of cross-border cyber-attacks. Also, discuss defensive measures against these sophisticated attacks.**
 
 ### Answer
 **Question ID: 2021-gs3-q161-drishti_ias**
@@ -6426,7 +6426,7 @@ The need of the hour is to produce a futuristic National Cyber-Security Policy w
 
 ---
 
-## Question 162 (Year: 2021) **Analyse the multidimensional challenges posed by external state and non-state actors, to the internal security of India. Also discuss measures required to be taken to combat these threats.**
+## Question 166 (Year: 2021) **Analyse the multidimensional challenges posed by external state and non-state actors, to the internal security of India. Also discuss measures required to be taken to combat these threats.**
 
 ### Answer
 **Question ID: 2021-gs3-q162-drishti_ias**
@@ -6459,7 +6459,7 @@ We need to understand national security in a comprehensive sense and not in narr
 
 ---
 
-## Question 163 (Year: 2021) **Analyse the complexity and intensity of terrorism, its causes, linkages and obnoxious nexus. Also suggest measures required to be taken to eradicate the menace of terrorism.**
+## Question 167 (Year: 2021) **Analyse the complexity and intensity of terrorism, its causes, linkages and obnoxious nexus. Also suggest measures required to be taken to eradicate the menace of terrorism.**
 
 ### Answer
 **Question ID: 2021-gs3-q163-drishti_ias**
@@ -6500,7 +6500,7 @@ Terrorism can be defined as the calculated use of violence or the threat of viol
 
 ---
 
-## Question 164 (Year: 2020) **Discuss different types of cyber crimes and measures required to be taken to fight the menace.**
+## Question 168 (Year: 2020) **Discuss different types of cyber crimes and measures required to be taken to fight the menace.**
 
 ### Answer
 **Question ID: 2020-gs3-q164-drishti_ias**
@@ -6541,7 +6541,7 @@ One of the highest numbers of cyber threats have been detected in India, and the
 
 ---
 
-## Question 165 (Year: 2020) **For effective border area management, discuss the steps required to be taken to deny local support to militants and also suggest ways to manage favourable perception among locals.**
+## Question 169 (Year: 2020) **For effective border area management, discuss the steps required to be taken to deny local support to militants and also suggest ways to manage favourable perception among locals.**
 
 ### Answer
 **Question ID: 2020-gs3-q165-drishti_ias**
@@ -6572,7 +6572,7 @@ Without the development process, there will be no organic end of the causes of d
 
 ---
 
-## Question 166 (Year: 2020) **What are the determinants of left-wing extremism in Eastern part of India? What strategy should the Government of India, civil administration and security forces adopt to counter the threat in the affected areas?**
+## Question 170 (Year: 2020) **What are the determinants of left-wing extremism in Eastern part of India? What strategy should the Government of India, civil administration and security forces adopt to counter the threat in the affected areas?**
 
 ### Answer
 **Question ID: 2020-gs3-q166-drishti_ias**
@@ -6607,7 +6607,7 @@ For the holistic last-mile development of “New India”, it is necessary to ge
 
 ---
 
-## Question 167 (Year: 2020) **Analyze internal security threats and transborder crimes along Myanmar, Bangladesh and Pakistan borders including Line of Control (LoC). Also discuss the role played by various security forces in this regard.**
+## Question 171 (Year: 2020) **Analyze internal security threats and transborder crimes along Myanmar, Bangladesh and Pakistan borders including Line of Control (LoC). Also discuss the role played by various security forces in this regard.**
 
 ### Answer
 **Question ID: 2020-gs3-q167-drishti_ias**
@@ -6632,7 +6632,7 @@ India should endeavor to meaningfully engage with Myanmar, Bangladesh and Pakist
 
 ---
 
-## Question 168 (Year: 2019) **The banning of ‘Jamaat-e-islaami’ in Jammu and Kashmir brought into focus the role of over-ground workers (OGWs) in assisting terrorist organizations. Examine the role played by OGWs in assisting terrorist organizations in insurgency affected areas. Discuss measures to neutralize the influence of OGWs.**
+## Question 172 (Year: 2019) **The banning of ‘Jamaat-e-islaami’ in Jammu and Kashmir brought into focus the role of over-ground workers (OGWs) in assisting terrorist organizations. Examine the role played by OGWs in assisting terrorist organizations in insurgency affected areas. Discuss measures to neutralize the influence of OGWs.**
 
 ### Answer
 **Question ID: 2019-gs3-q168-drishti_ias**
@@ -6673,7 +6673,7 @@ However, Misuse of the legal provision in the random booking of youth on mere su
 
 ---
 
-## Question 169 (Year: 2019) **What is CyberDome Project? Explain how it can be useful in controlling internet crimes in India.**
+## Question 173 (Year: 2019) **What is CyberDome Project? Explain how it can be useful in controlling internet crimes in India.**
 
 ### Answer
 **Question ID: 2019-gs3-q169-drishti_ias**
@@ -6710,7 +6710,7 @@ India has witnessed a 457% rise in cybercrime incidents under the Information Te
 
 ---
 
-## Question 170 (Year: 2019) **Indian government has recently strengthed the anti-terrorism laws by amending the unlawful activities (Prevention) Act, (UAPA), 1967 and the NIA Act. Analyze the changes in the context of prevailing security environment while discussing scope and reasons for opposing the UAPA by human rights organisations.**
+## Question 174 (Year: 2019) **Indian government has recently strengthed the anti-terrorism laws by amending the unlawful activities (Prevention) Act, (UAPA), 1967 and the NIA Act. Analyze the changes in the context of prevailing security environment while discussing scope and reasons for opposing the UAPA by human rights organisations.**
 
 ### Answer
 **Question ID: 2019-gs3-q170-drishti_ias**
@@ -6745,7 +6745,7 @@ Thus, though the changes are required to meet the prevailing security environmen
 
 ---
 
-## Question 171 (Year: 2019) **Cross-border movement of insurgents is only one of the several security challenges facing the policing of the border in North-East India. Examine the various challenges currently emanating across the India-Myanmar border. Also, discuss the steps to counter the challenges. (250 words)**
+## Question 175 (Year: 2019) **Cross-border movement of insurgents is only one of the several security challenges facing the policing of the border in North-East India. Examine the various challenges currently emanating across the India-Myanmar border. Also, discuss the steps to counter the challenges. (250 words)**
 
 ### Answer
 **Question ID: 2019-gs3-q171-drishti_ias**
@@ -6798,7 +6798,7 @@ India should endeavour to meaningfully engage with Myanmar and solicit its coope
 
 ---
 
-## Question 172 (Year: 2018) **Left Wing Extremism (LWE) is showing a downward trend, but still affects many parts of the country. Briefly explain the Government of India’s approach to counter the challenges posed by LWE. (2018)**
+## Question 176 (Year: 2018) **Left Wing Extremism (LWE) is showing a downward trend, but still affects many parts of the country. Briefly explain the Government of India’s approach to counter the challenges posed by LWE. (2018)**
 
 ### Answer
 **Question ID: 2018-gs3-q172-drishti_ias**
@@ -6825,7 +6825,7 @@ The Government’s approach is to deal with Left Wing Extremism in a holistic ma
 
 ---
 
-## Question 173 (Year: 2018) **Data security has assumed significant importance in the digitized world due to rising cyber crimes. The Justice B.N. Srikrishna Committee Report addresses issues related to data security. What, in your view, are the strengths and weaknesses of the Report relating to protection of personal data in cyber space? (2018)**
+## Question 177 (Year: 2018) **Data security has assumed significant importance in the digitized world due to rising cyber crimes. The Justice B.N. Srikrishna Committee Report addresses issues related to data security. What, in your view, are the strengths and weaknesses of the Report relating to protection of personal data in cyber space? (2018)**
 
 ### Answer
 **Question ID: 2018-gs3-q173-drishti_ias**
@@ -6854,7 +6854,7 @@ Some of the Important Strengths and Weakness of the Report:
 
 ---
 
-## Question 174 (Year: 2018) **India’s proximity to the two of the world’s biggest illicit opium growing states has enhanced her internal security concerns. Explain the linkages between drug trafficking and other illicit activities such as gunrunning, money laundering and human trafficking. What counter measures should be taken to prevent the same? (2018)**
+## Question 178 (Year: 2018) **India’s proximity to the two of the world’s biggest illicit opium growing states has enhanced her internal security concerns. Explain the linkages between drug trafficking and other illicit activities such as gunrunning, money laundering and human trafficking. What counter measures should be taken to prevent the same? (2018)**
 
 ### Answer
 **Question ID: 2018-gs3-q174-drishti_ias**
@@ -6885,7 +6885,7 @@ This drug problem is a serious menace giving impetus to various other crimes, so
 
 ---
 
-## Question 175 (Year: 2017) **Discuss the potential threats of Cyber attack and the security framework to prevent it. (2017)**
+## Question 179 (Year: 2017) **Discuss the potential threats of Cyber attack and the security framework to prevent it. (2017)**
 
 ### Answer
 **Question ID: 2017-gs3-q175-drishti_ias**
@@ -6906,7 +6906,7 @@ NASSCOM and DSCI Cyber security Task Force have also launched a roadmap to devel
 
 ---
 
-## Question 176 (Year: 2017) **The North-Eastern region of India has been infested with insurgency for a very long time. Analyze the major reasons for the survival of armed insurgency in this region. (2017)**
+## Question 180 (Year: 2017) **The North-Eastern region of India has been infested with insurgency for a very long time. Analyze the major reasons for the survival of armed insurgency in this region. (2017)**
 
 ### Answer
 **Question ID: 2017-gs3-q176-drishti_ias**
@@ -6929,7 +6929,7 @@ The twin approach of development and counter insurgency operations coupled with 
 
 ---
 
-## Question 177 (Year: 2017) **Mob violence is emerging as a serious law and order problem in India. By giving suitable examples, analyze the causes and consequences of such violence. (2017)**
+## Question 181 (Year: 2017) **Mob violence is emerging as a serious law and order problem in India. By giving suitable examples, analyze the causes and consequences of such violence. (2017)**
 
 ### Answer
 **Question ID: 2017-gs3-q177-drishti_ias**
@@ -6960,7 +6960,7 @@ Therefore, there is need for comprehensive police reforms and efficient criminal
 
 ---
 
-## Question 178 (Year: 2017) **The scourge of terrorism is a grave challenge to national security. What solutions do you suggest to curb this growing menace? What are the major sources of terrorist funding? (2017)**
+## Question 182 (Year: 2017) **The scourge of terrorism is a grave challenge to national security. What solutions do you suggest to curb this growing menace? What are the major sources of terrorist funding? (2017)**
 
 ### Answer
 **Question ID: 2017-gs3-q178-drishti_ias**
@@ -6997,7 +6997,7 @@ India has been hit by terrorism since a long time, like, 1993 Bombay blasts, att
 
 ---
 
-## Question 179 (Year: 2016) **The terms ‘Hot Pursuit’ and ‘Surgical Strikes’ are often used in connection with armed action against terrorist attacks. Discuss the strategic impact of such actions. (2016)**
+## Question 183 (Year: 2016) **The terms ‘Hot Pursuit’ and ‘Surgical Strikes’ are often used in connection with armed action against terrorist attacks. Discuss the strategic impact of such actions. (2016)**
 
 ### Answer
 **Question ID: 2016-gs3-q179-drishti_ias**
@@ -7022,7 +7022,7 @@ There are also several negative impacts of these types of acts as it may escalat
 
 ---
 
-## Question 180 (Year: 2016) **‘Terrorism is emerging as a competitive industry over the last few decades.” Analyse the above statement. (2016)**
+## Question 184 (Year: 2016) **‘Terrorism is emerging as a competitive industry over the last few decades.” Analyse the above statement. (2016)**
 
 ### Answer
 **Question ID: 2016-gs3-q180-drishti_ias**
@@ -7039,7 +7039,7 @@ Competition over establishing their ideologies all around the world has also ins
 
 ---
 
-## Question 181 (Year: 2016) **Border management is a complex task due to difficult terrain and hostile relations with some countries. Elucidate the challenges and strategies for effective border management. (2016)**
+## Question 185 (Year: 2016) **Border management is a complex task due to difficult terrain and hostile relations with some countries. Elucidate the challenges and strategies for effective border management. (2016)**
 
 ### Answer
 **Question ID: 2016-gs3-q181-drishti_ias**
@@ -7070,7 +7070,7 @@ Owing to such peculiarities, having infrastructure and technology does not alone
 
 ---
 
-## Question 182 (Year: 2016) **Use of internet and social media by non-state actors for subversive activities is a major security concern. How have these been misused in the recent past? Suggest effective guidelines to curb the above threat. (2016)**
+## Question 186 (Year: 2016) **Use of internet and social media by non-state actors for subversive activities is a major security concern. How have these been misused in the recent past? Suggest effective guidelines to curb the above threat. (2016)**
 
 ### Answer
 **Question ID: 2016-gs3-q182-drishti_ias**
@@ -7102,7 +7102,7 @@ Send To My Bookmarks
 
 ---
 
-## Question 183 (Year: 2024)
+## Question 187 (Year: 2024)
 **Question ID: 2024-gs3-q183-drishti_ias**
 
 **What is disaster resilience? How is it determined? Describe various elements of a resilience framework. Also, mention the global targets of Sendai Framework for Disaster Risk Reduction (2020-2030). (Answer in 250 words)**
@@ -7159,7 +7159,7 @@ The **Government of India** has issued a set of priority actions based on the go
 
 ---
 
-## Question 184 (Year: 2024) **Flooding in urban areas is an emerging climate-induced disaster. Discuss the causes of this disaster. Mention the features of two such major floods in the last two decades in India. Describe the policies and frameworks in India that aim at tackling such floods. (Answer in 250 words)**
+## Question 188 (Year: 2024) **Flooding in urban areas is an emerging climate-induced disaster. Discuss the causes of this disaster. Mention the features of two such major floods in the last two decades in India. Describe the policies and frameworks in India that aim at tackling such floods. (Answer in 250 words)**
 
 ### Answer
 **Question ID: 2024-gs3-q184-drishti_ias**
@@ -7215,7 +7215,7 @@ Urban flooding driven by climate change poses significant risks to cities. Effec
 
 ---
 
-## Question 185 (Year: 2023) **Dam failures are always catastrophic, especially on the downstream side, resulting in a colossal loss of life and property. Analyze the various causes of dam failures. Give two examples of large dam failures.**
+## Question 189 (Year: 2023) **Dam failures are always catastrophic, especially on the downstream side, resulting in a colossal loss of life and property. Analyze the various causes of dam failures. Give two examples of large dam failures.**
 
 ### Answer
 **Question ID: 2023-gs3-q185-drishti_ias**
@@ -7248,7 +7248,7 @@ Efforts like the Dam Safety Act 2021 and Dam Rehabilitation and Improvement Proj
 
 ---
 
-## Question 186 (Year: 2022) **Explain the mechanism and occurrence of cloudburst in the context of the Indian subcontinent. Discuss two recent examples.**
+## Question 190 (Year: 2022) **Explain the mechanism and occurrence of cloudburst in the context of the Indian subcontinent. Discuss two recent examples.**
 
 ### Answer
 **Question ID: 2022-gs3-q186-drishti_ias**
@@ -7275,7 +7275,7 @@ With rising occurrences of cloudburst every year, it has become necessary to ins
 
 ---
 
-## Question 187 (Year: 2021) **Discuss about the vulnerability of India to earthquake related hazards. Give examples including the salient features of major disasters caused by earthquakes in different parts of India during the last three decades.**
+## Question 191 (Year: 2021) **Discuss about the vulnerability of India to earthquake related hazards. Give examples including the salient features of major disasters caused by earthquakes in different parts of India during the last three decades.**
 
 ### Answer
 **Question ID: 2021-gs3-q187-drishti_ias**
@@ -7308,7 +7308,7 @@ India has come a long way on the road to earthquake safety. And yet, much remain
 
 ---
 
-## Question 188 (Year: 2021) **Describe the various causes and the effects of landslides. Mention the important components of the National Landslide Risk Management Strategy.**
+## Question 192 (Year: 2021) **Describe the various causes and the effects of landslides. Mention the important components of the National Landslide Risk Management Strategy.**
 
 ### Answer
 **Question ID: 2021-gs3-q188-drishti_ias**
@@ -7349,7 +7349,7 @@ Slope movement occurs when forces acting downward (mainly due to gravity) exceed
 
 ---
 
-## Question 189 (Year: 2020) **Discuss the recent measures initiated in disaster management by the Government of India departing from the earlier reactive approach.**
+## Question 193 (Year: 2020) **Discuss the recent measures initiated in disaster management by the Government of India departing from the earlier reactive approach.**
 
 ### Answer
 **Question ID: 2020-gs3-q189-drishti_ias**
@@ -7384,7 +7384,7 @@ Nevertheless, in India, disaster management is yet to be seen as integral to dev
 
 ---
 
-## Question 190 (Year: 2019) **Vulnerability is an essential element for defining disaster impacts and its threat to people. How and in what ways can vulnerability to disasters be characterized? Discuss different types of vulnerability with reference to disasters.**
+## Question 194 (Year: 2019) **Vulnerability is an essential element for defining disaster impacts and its threat to people. How and in what ways can vulnerability to disasters be characterized? Discuss different types of vulnerability with reference to disasters.**
 
 ### Answer
 **Question ID: 2019-gs3-q190-drishti_ias**
@@ -7419,7 +7419,7 @@ Vulnerability assessment needs to be based on a systematization and conceptualiz
 
 ---
 
-## Question 191 (Year: 2019) **Disaster preparedness is the first step in any disaster management process. Explain how hazard zonation mapping will help disaster mitigation in the case of landslides.**
+## Question 195 (Year: 2019) **Disaster preparedness is the first step in any disaster management process. Explain how hazard zonation mapping will help disaster mitigation in the case of landslides.**
 
 ### Answer
 **Question ID: 2019-gs3-q191-drishti_ias**
@@ -7456,7 +7456,7 @@ Landslides and their consequences are still a great problem for many countries, 
 
 ---
 
-## Question 192 (Year: 2018) **Describe various measures taken in India for Disaster Risk Reduction (DRR) before and after signing 'Sendai Framework for DRR (2015-30)'. How is this framework different from ‘Hyogo Framework for Action, 2005’? (2018)**
+## Question 196 (Year: 2018) **Describe various measures taken in India for Disaster Risk Reduction (DRR) before and after signing 'Sendai Framework for DRR (2015-30)'. How is this framework different from ‘Hyogo Framework for Action, 2005’? (2018)**
 
 ### Answer
 **Question ID: 2018-gs3-q192-drishti_ias**
@@ -7485,7 +7485,7 @@ India is the largest democracy which has adopted the Sendai framework for disast
 
 ---
 
-## Question 193 (Year: 2017) **On December 2004, tsumani brought havoc on fourteen countries including India. Discuss the factors responsible for occurrence of tsunami and its effects on life and economy. In the light of guidelines of NDMA (2010) describe the mechanisms for preparedness to reduce the risk during such events. (2017)**
+## Question 197 (Year: 2017) **On December 2004, tsumani brought havoc on fourteen countries including India. Discuss the factors responsible for occurrence of tsunami and its effects on life and economy. In the light of guidelines of NDMA (2010) describe the mechanisms for preparedness to reduce the risk during such events. (2017)**
 
 ### Answer
 **Question ID: 2017-gs3-q193-drishti_ias**
@@ -7514,7 +7514,7 @@ On December 26, 2004 the gigantic tsunami waves generated due to a great underse
 
 ---
 
-## Question 194 (Year: 2016) **The frequency of urban floods due to high intensity rainfall is increasing over the years. Discussing the reasons for urban floods, highlight the mechanisms for preparedness to reduce the risk during such events. (2016)**
+## Question 198 (Year: 2016) **The frequency of urban floods due to high intensity rainfall is increasing over the years. Discussing the reasons for urban floods, highlight the mechanisms for preparedness to reduce the risk during such events. (2016)**
 
 ### Answer
 **Question ID: 2016-gs3-q194-drishti_ias**
@@ -7547,7 +7547,7 @@ To reduce these risk following measure can be taken:
 
 ---
 
-## Question 195 (Year: 2016) **With reference to National Disaster Management Authority (NDMA) guidelines, discuss the measures to be adopted to mitigate the impact of recent incidents of cloudbursts in many places of Uttarakhand. (2016)**
+## Question 199 (Year: 2016) **With reference to National Disaster Management Authority (NDMA) guidelines, discuss the measures to be adopted to mitigate the impact of recent incidents of cloudbursts in many places of Uttarakhand. (2016)**
 
 ### Answer
 **Question ID: 2016-gs3-q195-drishti_ias**

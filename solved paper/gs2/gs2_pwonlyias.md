@@ -11,8 +11,10 @@ This file contains the combined solved papers for GS2 subjects in logical order.
 
 ### Answer
 
-| **Core demand of the Question** <br>• Need of Administrative Tribunals vs. Court System <br>• Positive Impact of 2021 Tribunal Reforms <br>• Negative impact (limitations) of 2021 Tribunal Reforms |
-| --- |
+**Core demand of the Question:**
+- Need of Administrative Tribunals vs. Court System
+- Positive Impact of 2021 Tribunal Reforms
+- Negative impact (limitations) of 2021 Tribunal Reforms
 
 ### Introduction
 
@@ -40,8 +42,6 @@ The Tribunals Reforms Act, 2021 dissolved several existing tribunals and transfe
 - **Concerns on Independence:** Short tenure of members (4 years) and executive control over service conditions raise issues of autonomy.
 - **Accessibility Issues:** Closure/merger of local tribunals reduces easy access for litigants, especially in remote areas.
 
-
-
 ### Conclusion
 
 Administrative tribunals are needed for faster and simpler decisions in technical disputes. The 2021 changes reduced many small tribunals and moved cases to regular courts, which improves clarity but risks losing specialization and adding work to high courts.
@@ -57,21 +57,23 @@ Administrative tribunals are needed for faster and simpler decisions in technica
 
 ### Answer
 
-| **Core demand of the Question** <br>• Key Similarities <br>• Key difference <br>• Limits to it in both countries <br>• What are “Preemptive pardons” |
-| --- |
+**Core demand of the Question:**
+- Key Similarities
+- Key difference
+- Limits to it in both countries
+- What are “Preemptive pardons”
 
 ### Introduction
 
 The pardoning power, exercised by the **Head of State**, is meant to correct judicial errors and show mercy. In India, it is conferred on the President under **Article 72**, while in the **USA**, it is vested in the President under **Article II, Section 2,** each reflecting their distinct constitutional frameworks.
-
-
 
 ### Body
 
 **Key Similarities:**
 - **Same basic idea:** Both systems let the President show mercy to fix harsh results or mistakes in criminal justice.
 - **Many types of mercy:** Both can pardon, commute, remit, or otherwise reduce punishment and related penalties.
-- **No role in impeachment:** Neither President can use clemency to stop or undo impeachment proceedings. **Key difference** | **Aspect** | **India: President’s pardon power** | **USA: President’s pardon power** |
+- **No role in impeachment:** Neither President can use clemency to stop or undo impeachment proceedings. **Key difference**
+| **Aspect** | **India: President’s pardon power** | **USA: President’s pardon power** |
 | --- | --- | --- |
 | **Constitutional source** | Article 72, Constitution of India | Article II, Section 2, U.S. Constitution |
 | **Scope** | Court‑martial cases, offences against Union law, and all death sentences | Federal offences only, not state offences |
@@ -94,8 +96,6 @@ The pardoning power, exercised by the **Head of State**, is meant to correct jud
 - **USA:** Constitutionally permitted; famous example is **President Ford’s pardon of Richard Nixon** for any offences he “committed or may have committed.”
 - **India:** Not recognized in the same way: **. Mercy is typically** considered after conviction **and sentence, especially post-appeal. Preventive or blanket pre-charge pardons are not the practice.**
 
-
-
 ### Conclusion
 
 Both systems treat **pardons as a mercy tool**, but India prioritises institutional accountability through an **advice-driven process and potential judicial scrutiny**, while the United States prioritises **executive flexibility with broad presidential discretion** over federal clemency, including preemptive use.
@@ -109,8 +109,9 @@ Both systems treat **pardons as a mercy tool**, but India prioritises institutio
 
 ### Answer
 
-| **Core Demand of the Question** <br>• Explain the concept of Constitutional Morality. <br>• Application of Constitutional Morality in ensuring balance between judicial independence and judicial accountability in India. |
-| --- |
+**Core Demand of the Question:**
+- Explain the concept of Constitutional Morality.
+- Application of Constitutional Morality in ensuring balance between judicial independence and judicial accountability in India.
 
 ### Introduction
 
@@ -132,8 +133,6 @@ Constitutional morality means **adhering** to the **core** values of the Constit
 - **Checks Through Impeachment & Oversight:** Constitutional morality allows removal of judges for proven misbehaviour, maintaining accountability while protecting independence from political misuse. **Eg**: Impeachment provisions under **Articles 124(4) and 217**.
 - **Recusal and Conflict of Interest:** Judges must follow constitutional morality by recusing in cases of bias to uphold public confidence.
 
-
-
 ### Conclusion
 
 Constitutional morality ensures that the judiciary remains strong and impartial, yet accountable. By harmonizing independence with transparency and restraint, it strengthens democracy, protects citizens’ rights, and upholds the Constitution as the ultimate guiding framework for governance.
@@ -149,8 +148,11 @@ Constitutional morality ensures that the judiciary remains strong and impartial,
 
 ### Answer
 
-| **Core demand of the Question** <br>• Corrupt Practices under RPA, 1951 <br>• Analysing asset growth with corrupt practice: <br>• Yes, it can, when linked to voter interference <br>• No, not by itself |
-| --- |
+**Core demand of the Question:**
+- Corrupt Practices under RPA, 1951
+- Analysing asset growth with corrupt practice:
+- Yes, it can, when linked to voter interference
+- No, not by itself
 
 ### Introduction
 
@@ -178,8 +180,6 @@ Highlighting the scenarios where a disproportionate increase in assets amounts t
 - **Out of domain:** Disproportionate assets are primarily an **issue under anti-corruption, benami, income-tax, or Prevention of Corruption Act** proceedings, not per se an RPA corrupt practice.
 - **Evidence:** Without proof:** that the wealth was used to bribe, coerce, or otherwise manipulate voters, it will not qualify as a corrupt practice.
 
-
-
 ### Conclusion
 
 The **Representation of the People Acts** keep elections **free and fair** by stopping bribery, threats, and lies that distort voter choice and results. It protects voter freedom and ensures clean contests that reflect the **genuine public will**, eventually holding **democratic values intact.**
@@ -195,14 +195,14 @@ The **Representation of the People Acts** keep elections **free and fair** by st
 
 ### Answer
 
-| **Core Demand of the Question** <br>• Evolution of the Collegium system in India. <br>• Advantage and disadvantage of the system in the appointment of the Judges of the Supreme Court of India. <br>• Advantage and disadvantage of the system in the appointment of the Judges of the Supreme Court of USA. |
-| --- |
+**Core Demand of the Question:**
+- Evolution of the Collegium system in India.
+- Advantage and disadvantage of the system in the appointment of the Judges of the Supreme Court of India.
+- Advantage and disadvantage of the system in the appointment of the Judges of the Supreme Court of USA.
 
 ### Introduction
 
 Article 124 **of the Constitution establishes the Supreme Court of India and provides for judicial appointments by the President in consultation with the CJI. Judicial rulings later evolved this into the** collegium system **, giving the judiciary primacy, as affirmed in the Judges Cases and after the NJAC verdict (2015).**
-
-
 
 ### Body
 
@@ -211,7 +211,8 @@ Article 124 **of the Constitution establishes the Supreme Court of India and pro
 - **First Judges Case (1981):** In *S.P. Gupta v. Union of India (1981)*, the Court held that consultation did not mean concurrence, thus reaffirming the **executive’s dominance** in judicial appointments.
 - **Second Judges Case (1993):** In Supreme Court Advocates-on-Record Association v. Union of India, the Court reversed its earlier stance, creating the **collegium system** where the CJI, with two senior-most judges, held primacy in appointments.
 - **Third Judges Case (1998):** Through a Presidential Reference, the collegium was expanded to **five members** the CJI and four senior-most judges making its recommendations **binding** on the executive.
-- **NJAC Verdict (2015) & Current Status:** The 99th Amendment created the NJAC, but it was struck down in 2015 as violating the **basic structure** of judicial independence. The collegium system was restored, though it faces criticism for **opacity and lack of accountability**. **Advantage and Disadvantage of Collegium System in India** | **Country** | **Advantages** | **Disadvantages** |
+- **NJAC Verdict (2015) & Current Status:** The 99th Amendment created the NJAC, but it was struck down in 2015 as violating the **basic structure** of judicial independence. The collegium system was restored, though it faces criticism for **opacity and lack of accountability**. **Advantage and Disadvantage of Collegium System in India**
+| **Country** | **Advantages** | **Disadvantages** |
 | --- | --- | --- |
 | **India** | 1. Ensures ***judicial independence*** by limiting executive interference. 2. Provides continuity & stability through senior judges’ institutional memory. 3. Promotes ***merit-based selection*** over political patronage. | 1. ***Opaque process*** with no formal criteria or transparency. 2. ***Isolation**: Judges appointing judges reduces accountability. 3. ***Lack of diversity*** in gender, caste, and regional representation. | **Advantages and Disadvantages of the Appointment of a Judge of the USA**
 
@@ -236,8 +237,10 @@ Article 124 **of the Constitution establishes the Supreme Court of India and pro
 
 ### Answer
 
-| **Core demand of the Question:** <br>• Nature of the J&K Legislative Assembly after 2019 <br>• Powers of the J&K UT Assembly <br>• Functions of the J&K UT Assembly |
-| --- |
+**Core demand of the Question:**
+- Nature of the J&K Legislative Assembly after 2019
+- Powers of the J&K UT Assembly
+- Functions of the J&K UT Assembly
 
 ### Introduction
 
@@ -263,8 +266,6 @@ Article 124 **of the Constitution establishes the Supreme Court of India and pro
 - **Budget and appropriations:** It passes the Budget and grants for UT subjects, following procedures that require the LG’s prior recommendation where needed.
 - **Representation and inclusion:** It ensures representation through SC/ST reservations and can include nominated women and migrant representatives for broader inclusion.
 
-
-
 ### Conclusion
 
 J&K’s Assembly can make local laws but key areas stay with the LG and Parliament. The road to its progress stays in its steady sittings, clear LG–government coordination on finances and security, and responsive laws that reflect delimitation-based representation.
@@ -280,8 +281,10 @@ J&K’s Assembly can make local laws but key areas stay with the LG and Parliame
 
 ### Answer
 
-| **Core Demand of the Question** <br>• Evolving Pattern of Centre-State Financial Relations. <br>• Discuss the Challenge in Evolving Pattern. <br>• Impact of Recent Reforms on Fiscal Federalism in India (Positive and Negative) |
-| --- |
+**Core Demand of the Question:**
+- Evolving Pattern of Centre-State Financial Relations.
+- Discuss the Challenge in Evolving Pattern.
+- Impact of Recent Reforms on Fiscal Federalism in India (Positive and Negative)
 
 ### Introduction
 
@@ -315,8 +318,6 @@ J&K’s Assembly can make local laws but key areas stay with the LG and Parliame
 - **Shrinking Divisible Pool:** Rising cesses and surcharges, which are non-sharable, reduce states’ actual share.
 - **Delays & Trust Deficit:** GST compensation delays and conditional grants created friction, especially during COVID-19.
 
-
-
 ### Conclusion
 
 Centre–State financial relations have advanced but still face autonomy and equity gaps. Strengthening fiscal federalism requires predictable transfers, flexible State spending, and empowered institutions like the GST Council to balance national goals with regional needs.
@@ -332,14 +333,14 @@ Centre–State financial relations have advanced but still face autonomy and equ
 
 ### Answer
 
-| **Core Demand of the Question** <br>• Discuss the amending power conferred by the Constitution on Legislative Institution. <br>• Procedural limitations on the amending power of the Parliament. <br>• Substantive limitations on the amending power of the Parliament. |
-| --- |
+**Core Demand of the Question:**
+- Discuss the amending power conferred by the Constitution on Legislative Institution.
+- Procedural limitations on the amending power of the Parliament.
+- Substantive limitations on the amending power of the Parliament.
 
 ### Introduction
 
 The **Indian Constitution** under **Article 368** empowers Parliament to amend provisions, ensuring flexibility unlike **rigid constitutions**. However, this **power is not absolute**, as it is subject to **procedural requirements** and **substantive judicial limitations** to protect the Constitution’s identity.
-
-
 
 ### Body
 
@@ -363,8 +364,6 @@ The **Indian Constitution** under **Article 368** empowers Parliament to amend p
 - **Judicial Review and safeguards (Arts. 13, 32, 136, 142):** Courts review amendments to ensure they don’t violate basic structure.
 - **Doctrine of Limited Amending Power (Minerva Mills, 1980):** Parliament’s authority is to amend, not to destroy or abrogate the Constitution.
 
-
-
 ### Conclusion
 
 Thus, the **Indian Constitution** adopts a **middle path**, neither rigid like the US nor flexible like the UK. While Parliament wields significant amending power, procedural hurdles and the basic structure doctrine ensure that the power is broad but not absolute, safeguarding the Constitution’s spirit.
@@ -378,8 +377,10 @@ Thus, the **Indian Constitution** adopts a **middle path**, neither rigid like t
 
 ### Answer
 
-| **Core demand of the question** <br>• Responsibilities of Attorney General of India <br>• Rights of Attorney General of India <br>• Limitations of Attorney General of India |
-| --- |
+**Core demand of the question:**
+- Responsibilities of Attorney General of India
+- Rights of Attorney General of India
+- Limitations of Attorney General of India
 
 ### Introduction
 
@@ -406,8 +407,6 @@ The **Attorney General of India** **(Article 76)** is the highest legal advisor 
 - **Restricted to Union Government:** Cannot advise states or private parties without government consent.
 - **Advisory, Not Executive:** Cannot enforce decisions, only recommends or represents legally.
 
-
-
 ### Conclusion
 
 The Attorney General ensures that the Union Government functions within the legal framework, balancing governance with constitutional safeguards, while operating under well-defined limitations to maintain neutrality and legality.
@@ -423,8 +422,11 @@ The Attorney General ensures that the Union Government functions within the lega
 
 ### Answer
 
-| **Core Demand of the Question** <br>• What are environmental pressure groups (Introduction) <br>• Their role in raising awareness in India. <br>• Their role in influencing policies in India. <br>• Their role in advocating for environmental protection in India. |
-| --- |
+**Core Demand of the Question:**
+- What are environmental pressure groups (Introduction)
+- Their role in raising awareness in India.
+- Their role in influencing policies in India.
+- Their role in advocating for environmental protection in India.
 
 ### Introduction
 
@@ -450,8 +452,6 @@ Environmental pressure groups are **non-state organizations or civil society gro
 - **Building Alliances:** Collaborate with governments and corporates for stronger environmental impact.
 - **Mobilizing Citizens:** Create movements that pressure authorities for stronger environmental safeguards.
 
-
-
 ### Conclusion
 
 Environmental protection and development must **go hand in hand.** Open decisions, honest impact sharing, and active community participation can ensure sustainable, balanced growth while safeguarding nature for present and future generations.
@@ -467,9 +467,10 @@ Environmental protection and development must **go hand in hand.** Open decision
 
 ### Answer
 
-| **Core Demand of the Question:** <br>• Analyse role of local bodies in providing good governance at local level <br>• Discuss the pros of merging the rural local bodies with the urban local bodies <br>• Discuss the cons of merging the rural local bodies with the urban local bodies |
-| --- |
-
+**Core Demand of the Question:**
+- Analyse role of local bodies in providing good governance at local level
+- Discuss the pros of merging the rural local bodies with the urban local bodies
+- Discuss the cons of merging the rural local bodies with the urban local bodies
 
 * ***Local bodies form the backbone of:** decentralised governance **in India, empowered by the** 73rd **and** 74th Constitutional Amendments **, which introduced** Articles 243 **to** 243Z **. These amendments have transformed local bodies into key drivers of development and governance. Recently, in 2022, the Supreme Court emphasised the importance of strengthening local bodies by mandating timely elections in states like Maharashtra.**
 
@@ -511,9 +512,10 @@ The local body is the lowest tier of governance, but by no means the least. Merg
 
 ### Answer
 
-| **Core Demand of the Question:** <br>• Discuss India as a secular state <br>• Discuss similarities between Indian secularism and the secular principles of the US constitution <br>• Discuss differences between Indian secularism and the secular principles of the US constitution |
-| --- |
-
+**Core Demand of the Question:**
+- Discuss India as a secular state
+- Discuss similarities between Indian secularism and the secular principles of the US constitution
+- Discuss differences between Indian secularism and the secular principles of the US constitution
 
 **Secularism** is fundamental to modern democratic governance, guaranteeing the **separation of religion from the state**. This principle promotes equal treatment of all religions, safeguards individual rights, and nurtures social harmony. In India, secularism is constitutionally enshrined, ensuring that no religion is favoured by the state, as seen in the **42nd Amendment (1976),** which officially added the term **‘secular.’**
 
@@ -528,11 +530,10 @@ The local body is the lowest tier of governance, but by no means the least. Merg
 - **Constitutional Enshrinement and Political Neutrality:** Both India and the US emphasise the separation of religion from state through their constitutions, reinforcing the **state’s neutral position** in religious affairs. **For example:** The **First Amendment** in the US and **Articles 25-28** in India prohibit the establishment of a state religion.
 - **Freedom of Religion:** Both countries guarantee the protection of **individual religious freedoms** through constitutional safeguards, ensuring citizens can freely practise their religion without interference. **For example:** In **India**, **Article 25** of the Constitution guarantees individuals the right to freely practice and propagate their religion, paralleling the **First Amendment of the U.S**. Constitution, which safeguards religious freedom for all citizens.
 - **Judiciary’s Role:** Courts in both India and the US play a critical role in **upholding** secular values and **resolving conflicts** between religion and constitutional principles. **For example:** The US Supreme Court’s **Engel v. Vitale (1962)and India’s Kesavananda Bharati (1973)** reaffirm secularism in governance.
-- **Protection Against Discrimination:** Both India and the US have legal frameworks that protect citizens from religious discrimination in public life, ensuring equal rights irrespective of religious beliefs. **For example:** The **Civil Rights Act** in the US and various provisions in the Indian Constitution like **Article 14 & 15** protect citizens from discrimination based on religion. **Differences with the US Secular Principles** | **Aspect** | **India** | **United States** |
+- **Protection Against Discrimination:** Both India and the US have legal frameworks that protect citizens from religious discrimination in public life, ensuring equal rights irrespective of religious beliefs. **For example:** The **Civil Rights Act** in the US and various provisions in the Indian Constitution like **Article 14 & 15** protect citizens from discrimination based on religion. **Differences with the US Secular Principles**
+| **Aspect** | **India** | **United States** |
 | --- | --- | --- |
-| **Explicit Mention of Secularism** | The term **‘Secular’** was explicitly added to the Constitution through the **42nd Amendment (1976).** | Secularism is implied through the First Amendment, but the word ‘secular’ is **not explicitly**
-
-**mentioned**. |
+| **Explicit Mention of Secularism** | The term **‘Secular’** was explicitly added to the Constitution through the **42nd Amendment (1976).** | Secularism is implied through the First Amendment, but the word ‘secular’ is **not explicitly** **mentioned**. |
 | **Separation of State and Religion** | India practises a **more flexible model** where the state sometimes sponsors religious festivals. | The US maintains a **strict separation of church and state**, preventing state-sponsored religious activities. |
 | **Religious Symbols in Public** | Religious symbols are **commonly seen** in public institutions and government offices. | **Restriction** on **religious symbols** in public and government establishments. |
 | **Religious Education** | Religious teachings can be **included** in private and minority institutions under specific circumstances. | The US **prohibits religious education** in public schools and ensures the secular nature of public education. |
@@ -551,8 +552,10 @@ The local body is the lowest tier of governance, but by no means the least. Merg
 
 ### Answer
 
-| **Core Demand of the Question:** <br>• Examine the need for electoral reforms as suggested by various committees <br>• Discuss issues with one nation-one election principle <br>• Suggest suitable way ahead |
-| --- |
+**Core Demand of the Question:**
+- Examine the need for electoral reforms as suggested by various committees
+- Discuss issues with one nation-one election principle
+- Suggest suitable way ahead
 
 **Answer:** Electoral reforms are crucial for improving the democratic integrity and efficiency of India’s electoral process. The “ **One Nation, One Election** ” concept, recently endorsed by the **Ram Nath Kovind Committee,** advocates **simultaneous elections** for the Lok Sabha and state assemblies. This reform aims to reduce election-related expenditure, streamline governance, and foster political stability by synchronising electoral cycles across the country.
 
@@ -584,12 +587,12 @@ The implementation of **One Nation-One Election** holds the potential to strengt
 
 ### Answer
 
-| **Core Demand of Question** ● Distinguish between Lok Adalats and Arbitration Tribunals ● Discuss whether they entertain civil as well as criminal cases |
-| --- |
+**Core Demand of Question ● Distinguish between Lok Adalats and Arbitration Tribunals ● Discuss whether they entertain civil as well as criminal cases:**
 
 **Answer:** Both **Lok Adalats and Arbitration Tribunals** are alternative dispute resolution **(ADR)** mechanisms aimed at **resolving disputes outside of the traditional court system**. However, they differ significantly in their nature, formation, and procedures. **Lok Adalats** are designed to provide quick, cost-effective solutions to disputes, especially for underprivileged citizens. On the other hand, **Arbitration Tribunals** focus majorly on **commercial** and **contractual disputes.**
 
-**Distinction between Lok Adalats and Arbitration Tribunals** | **Aspect** | **Lok Adalats** | **Arbitration Tribunals** |
+**Distinction between Lok Adalats and Arbitration Tribunals**
+| **Aspect** | **Lok Adalats** | **Arbitration Tribunals** |
 | --- | --- | --- |
 | **Nature of Disputes** | Deal primarily with minor **civil**, **family**, and **petty criminal cases**.<br> **For example:** Issues related to **land disputes** and **matrimonial cases**. | Primarily resolve **commercial**, **contractual**, and **corporate disputes**.<br> **For example:** Arbitration Tribunals were used in the **Vodafone tax case** in India. |
 | **Legal Basis** | Governed by the **Legal Services Authorities Act, 1987** to **ensure quick** and **accessible justice** for ordinary citizens. | Governed by the **Arbitration and Conciliation Act, 1996**.<br> **For example:** The **Tata-Mistry dispute** used **Arbitration Tribunals** to settle commercial differences. |
@@ -610,15 +613,17 @@ Both **Lok Adalats** and **Arbitration Tribunals** play vital roles in providing
 
 ---
 
-## Question 14 (Year: 2024 | Paper: GS 2 | Marks: N/A | Words: N/A)
+## Question 15 (Year: 2024 | Paper: GS 2 | Marks: N/A | Words: N/A)
 **Question ID: 2024-gs2-q14-pwonlyias**
 
 **Explain the reasons for the growth of public interest litigation in India. As a result of it, has the Indian Supreme Court emerged as the world&#8217;s most powerful judiciary?**
 
 ### Answer
 
-| **Core Demand of the Question:** <br>• Explain reasons for the growth of public interest litigation in India <br>• Discuss the emergence of Supreme Court of India as the world’s most powerful judiciary as a result of PILs <br>• Suggest suitable way ahead |
-| --- |
+**Core Demand of the Question:**
+- Explain reasons for the growth of public interest litigation in India
+- Discuss the emergence of Supreme Court of India as the world’s most powerful judiciary as a result of PILs
+- Suggest suitable way ahead
 
 **Answer** Public Interest Litigation ( **PIL** ) has fundamentally reshaped the judicial system in India by empowering courts to champion the **rights of marginalised communities**. Rooted in **Articles 32** and **226** of the Indian Constitution, PIL enables individuals or groups to file petitions in the High Courts and Supreme Court on behalf of those whose rights are under threat, expanding judicial reach.
 
@@ -649,15 +654,14 @@ The Supreme Court of India, through the innovative use of PIL, has become a powe
 
 ---
 
-## Question 15 (Year: 2024 | Paper: GS 2 | Marks: N/A | Words: N/A)
+## Question 16 (Year: 2024 | Paper: GS 2 | Marks: N/A | Words: N/A)
 **Question ID: 2024-gs2-q15-pwonlyias**
 
 **Right to privacy is intrinsic to life and personal liberty and is inherently protected under Article 21 of the constitution. Explain. In this reference, discuss the law relating to D.N.A. testing of a child in the womb to establish its paternity.**
 
 ### Answer
 
-| **Core Demand of Question** ● Discuss how Right to privacy is intrinsic to life and personal liberty and is inherently protected under Article 21 ● Discuss law relating to D.N.A. testing of child in the womb to establish its paternity ● Analyse the conflict between the right to privacy and the need for DNA testing in paternity cases ● Suggest ways to balance the right to privacy with other interests, such as the child’s right to know their parentage |
-| --- |
+**Core Demand of Question ● Discuss how Right to privacy is intrinsic to life and personal liberty and is inherently protected under Article 21 ● Discuss law relating to D.N.A. testing of child in the womb to establish its paternity ● Analyse the conflict between the right to privacy and the need for DNA testing in paternity cases ● Suggest ways to balance the right to privacy with other interests, such as the child’s right to know their parentage:**
 
 **Answer** The **right to privacy** gained significant attention after the landmark **Puttaswamy judgement** in 2017, where the Supreme Court of India declared privacy as a **fundamental right** under **Article 21**. In the context of **DNA testing** for paternity determination, recent cases have sparked debates on balancing the **right to privacy** with the child’s right to know their **biological parentage**. **
 
@@ -698,14 +702,14 @@ As Kerala High Court held, “ **Privacy is the ultimate expression of the sanct
 
 ---
 
-## Question 16 (Year: 2024 | Paper: GS 2 | Marks: N/A | Words: N/A)
+## Question 17 (Year: 2024 | Paper: GS 2 | Marks: N/A | Words: N/A)
 **Question ID: 2024-gs2-q16-pwonlyias** **&#8220;The duty of the Comptroller and Auditor General is not merely to ensure the legality of expenditure but also its propriety.&#8221; Comment.**
 
 ### Answer
 
-| **Core Demand of the Question:** <br>• Discuss role of CAG in ensuring legality of expenditure <br>• Discuss role of CAG in ensuring propriety of expenditure |
-| --- |
-
+**Core Demand of the Question:**
+- Discuss role of CAG in ensuring legality of expenditure
+- Discuss role of CAG in ensuring propriety of expenditure
 
 **The Comptroller and Auditor General (CAG)** of India’s mandate, under **Article 148** of the Constitution extends beyond merely ensuring the legality of government expenditure to also examining its propriety. It suggests that the CAG also has the responsibility of ensuring that public money is spent not just legally ( **Legality of Expenditure** ) but appropriately, prudently, and for the intended purpose ( **Propriety of Expenditure** ).
 
@@ -732,13 +736,14 @@ The **Comptroller and Auditor General** plays a vital role in maintaining **fina
 
 ---
 
-## Question 17 (Year: 2024 | Paper: GS 2 | Marks: N/A | Words: N/A)
+## Question 18 (Year: 2024 | Paper: GS 2 | Marks: N/A | Words: N/A)
 **Question ID: 2024-gs2-q17-pwonlyias** **&#8220;The growth of the cabinet system has practically resulted in the marginalisation of parliamentary supremacy&#8221; Elucidate.**
 
 ### Answer
 
-| **Core Demand of the Question:** <br>• Discuss how growth of the cabinet system has practically resulted in the marginalisation of parliamentary supremacy <br>• Discuss how role of the Parliament remains significant |
-| --- |
+**Core Demand of the Question:**
+- Discuss how growth of the cabinet system has practically resulted in the marginalisation of parliamentary supremacy
+- Discuss how role of the Parliament remains significant
 
 **Answer:** The growth of the **cabinet system** in India has significantly shifted power from Parliament to the temporary executive, often raising concerns about the **erosion of parliamentary supremacy**. Recent instances, such as the passing of key bills without extensive debate, reflect the growing dominance of the executive. For example, the **2020 Farm Laws** were passed without thorough parliamentary scrutiny, raising questions about the weakening of Parliament’s role.
 
@@ -766,15 +771,16 @@ As **Walter Bagehot** remarked, **“The cabinet system is a hyphen which joins,
 
 ---
 
-## Question 18 (Year: 2024 | Paper: GS 2 | Marks: N/A | Words: N/A)
+## Question 19 (Year: 2024 | Paper: GS 2 | Marks: N/A | Words: N/A)
 **Question ID: 2024-gs2-q18-pwonlyias**
 
 **What are the aims and objectives of recently passed and enforced, The Public Examination (Prevention of Unfair Means) Act, 2024. Whether University/State Education Board examinations, too, are covered under the Act?**
 
 ### Answer
 
-| **Core Demand of the Question** <br>• Discuss aims and objectives of recently passed and enforced, The Public Examination (Prevention of Unfair Means) Act, 2024 <br>• Discuss whether University/State Education Board examinations, too, are covered under the Act |
-| --- |
+**Core Demand of the Question:**
+- Discuss aims and objectives of recently passed and enforced, The Public Examination (Prevention of Unfair Means) Act, 2024
+- Discuss whether University/State Education Board examinations, too, are covered under the Act
 
 **Answer** The **Public Examination (Prevention of Unfair Means) Act, 2024,** was introduced to uphold the integrity of public examinations amids rising instances of cheating, with recent reports indicating that India registered **at least 4 paper leak cases** in **2024** alone.
 
@@ -796,23 +802,22 @@ The Public Examination (Prevention of Unfair Means) Act, 2024, is a landmark ste
 
 ---
 
-## Question 19 (Year: 2024 | Paper: GS 2 | Marks: N/A | Words: N/A)
+## Question 20 (Year: 2024 | Paper: GS 2 | Marks: N/A | Words: N/A)
 **Question ID: 2024-gs2-q19-pwonlyias**
 
 **What changes has the Union Government recently introduced in the domain of Centre-State relations? Suggest measures to be adopted to build the trust between the Centre and the States and for strengthening federalism.**
 
 ### Answer
 
-| **Core Demand of the Question:** <br>• Discuss recent changes introduced by the Union Government in the domain of Centre-State relations <br>• Discuss measures to build the trust between the Centre and the States and for strengthening federalism |
-| --- |
+**Core Demand of the Question:**
+- Discuss recent changes introduced by the Union Government in the domain of Centre-State relations
+- Discuss measures to build the trust between the Centre and the States and for strengthening federalism
 
 **Answer** The **Centre-State relations** in India have undergone significant changes, in recent years, especially with the rise of debates around **cooperative federalism** and **fiscal devolution**. The **15th Finance Commission’s** recommendations on state allocations and the growing tension over issues like **GST compensation and farm laws** have brought attention to the need for reforms in this dynamic relationship.
 
 **Recent Changes Introduced by the Union Government (Centre-State Relations)**
 - **15th Finance Commission’s Recommendations:** The Centre implemented Commission’s recommendation of reducing the **states’ share in taxes** from 42% to 41% For instance: The reduction in states share acknowledges the fiscal challenges while balancing the needs of Jammu & Kashmir as a Union Territory.
 -
-
-
 
 ### Introduction
 
@@ -839,7 +844,7 @@ India’s federal structure requires constant nurturing through mutual trust and
 
 ---
 
-## Question 20 (Year: 2023 | Paper: GS 2 | Marks: 15 Marks | Words: 250 Words)
+## Question 21 (Year: 2023 | Paper: GS 2 | Marks: 15 Marks | Words: 250 Words)
 **Question ID: 2023-gs2-q20-pwonlyias**
 
 **Account for the legal and political factors responsible for the reduced frequency of using Article 356 by the Union Governments since mid-1990s.**
@@ -851,8 +856,6 @@ India’s federal structure requires constant nurturing through mutual trust and
 
 ### Introduction
  **Article 356** of the Indian Constitution empowers the President to suspend state government and impose direct central rule in a state **if he/she is satisfied that the constitutional machinery has failed in that state.** It is also called **President’s Rule or State Emergency**. Though it was frequently invoked initially, since the mid-1990s, there has been a noticeable decline in its usage.
-
-
 
 ### Body
 
@@ -876,8 +879,6 @@ India’s federal structure requires constant nurturing through mutual trust and
 - **Political Maturity:** India has witnessed an **evolution towards a more mature political environment**, where stability and governance take precedence over power struggles, encouraging adherence to constitutional norms.
 - **International Image:** The **desire to maintain a democratic image internationally** has influenced the Union governments to adhere to constitutional norms and principles, avoiding unnecessary invocation of Article 356.
 
-
-
 ### Conclusion
 
 Thus, over the years, the **prudent legal interventions coupled with the evolved political climate** have been instrumental in reducing the frequency of invoking Article 356, fostering a harmonious and balanced governance structure. This **showcases a mature and evolving democracy that is working progressively towards fulfilling the envisioned ideals of its constitution**.
@@ -886,12 +887,12 @@ Thus, over the years, the **prudent legal interventions coupled with the evolved
 
 ---
 
-## Question 21 (Year: 2023 | Paper: GS 2 | Marks: 10 Marks | Words: 150 Words)
+## Question 22 (Year: 2023 | Paper: GS 2 | Marks: 10 Marks | Words: 150 Words)
 **Question ID: 2023-gs2-q21-pwonlyias**
 
 **Compare and contrast the British and Indian approaches to Parliamentary sovereignty.**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** <br>• Write about Parliamentary sovereignty briefly **Body** <br>• Write differences between the British and Indian approaches to Parliamentary sovereignty <br>• Write similarities between the British and Indian approaches to Parliamentary sovereignty **Conclusion** <br>• Give appropriate conclusion in this regard |
 | --- |
@@ -901,7 +902,8 @@ Thus, over the years, the **prudent legal interventions coupled with the evolved
 
 ### Body
 
-**Differences between the British and Indian approaches to Parliamentary sovereignty** | **Aspect** | **British Approach** | **Indian Approach** |
+**Differences between the British and Indian approaches to Parliamentary sovereignty**
+| **Aspect** | **British Approach** | **Indian Approach** |
 | --- | --- | --- |
 | **Constitutional Foundation** | The UK has an **uncodified constitution**, which implies that parliamentary sovereignty is more flexible and is based on conventions and judicial precedents. | India has a **codified constitution** that clearly delineates the powers of parliament, thereby providing a structured approach to parliamentary sovereignty. |
 | **Judicial Review** | The **UK parliament is sovereign**, and theoretically, its decisions cannot be overridden or reviewed by the judiciary. | In India, **Constitution supremacy** is preferred over parliamentary sovereignty. The Indian judiciary has the power to review parliamentary decisions and even strike down laws passed by the parliament if found unconstitutional, marking a **limit on parliamentary sovereignty.** |
@@ -922,26 +924,24 @@ Thus, over the years, the **prudent legal interventions coupled with the evolved
 - **Question Hour:** This is an essential tool for the opposition and other MPs to seek answers. Eg: **In India, during the 2020 monsoon session**, issues ranging from the COVID-19 pandemic to border tensions were raised. The UK sees similar rigorous question hours.
 - **Adjournment Motion:** It’s a tool to discuss urgent matters. Eg: In India, adjournment motions have been raised regarding issues like the **Delhi riots**. In the UK, such motions were raised during emergencies like the **2008 financial crisis.**
 
-
 ### Conclusion
  **Overall, while the British and Indian parliaments share a democratic foundation** and function based on representing the will of the people with a structured legislative process, they **differ fundamentally in their approach to parliamentary sovereignty**, rooted in their constitutional setups.
 
 [Question ID: 2023-gs2-q21-pwonlyias]
 
+
 ---
 
-## Question 22 (Year: 2023 | Paper: GS 2 | Marks: 10 Marks | Words: 150 Words)
+## Question 23 (Year: 2023 | Paper: GS 2 | Marks: 10 Marks | Words: 150 Words)
 **Question ID: 2023-gs2-q22-pwonlyias** **&#8220;Constitutionally guaranteed judicial independence is a prerequisite of democracy.&#8221; Comment.**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** <br>• Write about Constitutionally guaranteed judicial independence briefly **Body** <br>• Write the different Constitutionally Guaranteed provisions Judicial Independence <br>• Write how constitutionally guaranteed judicial independence is a prerequisite of democracy **Conclusion** <br>• Give appropriate conclusion in this regard |
 | --- |
 
 ### Introduction
  **Constitutionally guaranteed judicial independence** refers to the autonomy and impartiality of the judiciary system, which ensures that it operates without interference from other government branches or any external forces. Article 50 of the Constitution ensures complete independence of the judiciary and frees it from executive control. This **framework ensures the protection of human rights, the rule of law, and a checks-and-balances system**, which are foundational elements of a democratic society.
-
-
 
 ### Body
 
@@ -968,8 +968,6 @@ Thus, over the years, the **prudent legal interventions coupled with the evolved
 - **Judicial Review:** Judiciary’s role in reviewing laws is critical. The Supreme Court’s decision to **decriminalize Section 377**, which discriminated against LGBTQ+ individuals, exemplifies the judiciary’s role in upholding constitutional morality.
 - **Public Faith:** An independent judiciary, by its judgments and actions, ensures public trust. The **Right to Privacy judgment** is a prime example, where the judiciary aligned with evolving global norms, securing citizens’ faith in democratic principles.
 
-
-
 ### Conclusion
 
 Moving forward, it is imperative to work on strengthening the judiciary while promoting other democratic tenets to forge a society rooted in justice, equality, and the collective good. It is through **the collective responsibility and active participation of all stakeholders that a resilient and vibrant democracy can be achieved**.
@@ -979,14 +977,15 @@ Moving forward, it is imperative to work on strengthening the judiciary while pr
 
 [Question ID: 2023-gs2-q22-pwonlyias]
 
+
 ---
 
-## Question 23 (Year: 2023 | Paper: GS 2 | Marks: 15 Marks | Words: 250 Words)
+## Question 24 (Year: 2023 | Paper: GS 2 | Marks: 15 Marks | Words: 250 Words)
 **Question ID: 2023-gs2-q23-pwonlyias**
 
 **Discuss the contribution of civil society groups for women&#8217;s effective and meaningful participation and representation in state legislatures in India.**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** <br>• Write about civil society groups and significance of women in state legislatures briefly **Body** <br>• Write about the contribution of these groups for women’s effective and meaningful participation and representation in state legislatures <br>• Write challenges faced in this regard <br>• Write suitable way forward **Conclusion** <br>• Give appropriate conclusion in this regard |
 | --- |
@@ -995,8 +994,6 @@ Moving forward, it is imperative to work on strengthening the judiciary while pr
  **Civil society groups** are non-governmental organizations and institutions that represent the interests and will of citizens. In the context of India, they have **played a pivotal role in encouraging women’s representation in state legislatures**, which is vital for a balanced and inclusive democracy that truly represents the diverse populace of the nation.
 
 No state has more than 20% women representation in its Assembly. Chhattisgarh has the highest representation with 18% women MLAs, while Himachal Pradesh has just one-woman MLA and Mizoram has none. Both men and women have more than 75% attendance in Lok Sabha
-
-
 
 ### Body
 
@@ -1025,21 +1022,20 @@ No state has more than 20% women representation in its Assembly. Chhattisgarh ha
 - **Networking Platforms:** Building on examples **like the “Women’s Political Network” in Montenegro,** India can foster platforms encouraging international collaboration and the sharing of best practices for fostering women’s participation in politics.
 - **Legislative Reforms:** Drawing inspiration from Rwanda:** , which leads in women representation in the legislature due to affirmative action, India could look towards revisiting policies and introducing reforms to ensure a mandated representation of women in state legislatures.
 
-
-
 ### Conclusion
  **Overall, the contributions of civil society groups have initiated a positive change**, albeit there is a considerable journey ahead. Enhancing educational interventions, ensuring safety, and promoting financial backing are critical paths **to forge a future where women are not just spectators but active participants and leaders in the democratic processes**.
 
 [Question ID: 2023-gs2-q23-pwonlyias]
 
+
 ---
 
-## Question 24 (Year: 2023 | Paper: GS 2 | Marks: 10 Marks | Words: 150 Words)
+## Question 25 (Year: 2023 | Paper: GS 2 | Marks: 10 Marks | Words: 150 Words)
 **Question ID: 2023-gs2-q24-pwonlyias**
 
 **Discuss the role of Presiding Officers of state legislatures in maintaining order and impartiality in conducting legislative work and in facilitating best democratic practices.**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** <br>• Write about Presiding Officers of state legislatures briefly **Body** <br>• Write the role of Presiding Officers of state legislatures in maintaining order <br>• Write the role of Presiding Officers of state legislatures ensuring impartiality in conducting legislative work <br>• Write the role of Presiding Officers of state legislatures in facilitating best democratic practices **Conclusion** <br>• Give appropriate conclusion in this regard |
 | --- |
@@ -1047,8 +1043,6 @@ No state has more than 20% women representation in its Assembly. Chhattisgarh ha
 ### Introduction
 
 **Article 178 of the Constitution of India allows all states and union territories for the appointment of a speaker. Presiding Officers of state legislatures** are fundamental in steering the direction of legislative proceedings, ensuring a balanced, orderly, and impartial environment that facilitates democratic practices. They are entrusted with the **duty of overseeing the conduct of members while abiding by the rules of the house.**
-
-
 
 ### Body
 
@@ -1072,13 +1066,12 @@ No state has more than 20% women representation in its Assembly. Chhattisgarh ha
 - **Training and Development:** Facilitating training sessions for members to grasp parliamentary procedures better. Eg: **Workshops and seminars have been arranged in various assemblies**, including Rajasthan, to help members understand the nuances of legislative proceedings.
 - **Transparency:** Enhancing transparency in the working of the legislative assembly. Eg: Many assemblies, including Himachal Pradesh, have adopted measures to increase transparency **through live telecasts and documentation of sessions**, thus inviting public scrutiny and awareness.
 
-
-
 ### Conclusion
 
 Thus, presiding officers stand as a pillar of democratic functionality, assuring that the legislative process is conducted with order, impartiality, and adherence to the best democratic practices. The endeavour should be to
 
 **continue fortifying this role with greater responsibility and diligence to serve the evolving democratic norms and practices.**
+
 
 ---
 
@@ -1086,7 +1079,7 @@ Thus, presiding officers stand as a pillar of democratic functionality, assuring
 
 **Explain the significance of the 101st Constitutional Amendment Act. To what extent does it reflect the accommodative spirit of federalism?**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** <br>• Write about the 101st Constitutional Amendment Act briefly **Body** <br>• Write the significance of the 101st Constitutional Amendment Act <br>• Write how it reflects the accommodative spirit of federalism **Conclusion** <br>• Give appropriate conclusion in this regard |
 | --- |
@@ -1115,21 +1108,20 @@ The **101st Constitutional Amendment Act** paved the way for the introduction of
 **the council’s decision to reduce tax rates on several essential COVID-19 supplies.**
 - **Strengthening Cooperative Federalism:** GST Council represents the cooperative federalism spirit, where both central and state governments come together to take key policy decisions. Eg: the **rationalization of tax rates on several items over the years**, taking suggestions of different states.
 
-
-
 ### Conclusion
  **Envisioning a future that leverages the principles of the 101st Constitutional Amendment Act** can potentially nurture a cooperative federalism spirit. It is pivotal to address the existing concerns to truly harness the accommodative potential of this historical amendment in the legislative framework of India, **forging a path of harmonious and constructive federal relationships**.
 
 [Question ID: 2023-gs2-q24-pwonlyias]
 
+
 ---
 
-## Question 25 (Year: 2023 | Paper: GS 2 | Marks: 15 Marks | Words: 250 Words)
+## Question 27 (Year: 2023 | Paper: GS 2 | Marks: 15 Marks | Words: 250 Words)
 **Question ID: 2023-gs2-q25-pwonlyias**
 
 **Explain the structure of the Parliamentary Committee system. How far have the financial committees helped in the institutionalisation of Indian Parliament?**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** <br>• Write about the Parliamentary Committee system briefly **Body** <br>• Write the structure of the Parliamentary Committee system <br>• Write how the financial committees helped in the institutionalization of Indian Parliament **Conclusion** <br>• Give appropriate conclusion in this regard |
 | --- |
@@ -1159,22 +1151,21 @@ The **Parliamentary Committee system** is an essential mechanism in the legislat
 **the Companies Amendment Bill, 2020.**
 - **Policy Analysis:** Committees **such as the Economic Advisory Council to the Prime Minister (EAC-PM)** have offered nuanced insights on economic matters. Notably, it recommended several measures during the economic slowdown, helping steer policy directions to revive growth.
 
-
-
 ### Conclusion
 
 The **Parliamentary Committee system remains a cornerstone in enhancing the efficiency, accountability, and inclusivity** of the legislative process. However, it is imperative to address the existing challenges to further institutionalize their role. Implementing the suggested way forward would ensure a **more robust, transparent, and accountable system that upholds the democratic ethos** of the Indian Parliament.
 
 [Question ID: 2023-gs2-q25-pwonlyias]
 
+
 ---
 
-## Question 26 (Year: 2023 | Paper: GS 2 | Marks: 15 Marks | Words: 250 Words)
+## Question 28 (Year: 2023 | Paper: GS 2 | Marks: 15 Marks | Words: 250 Words)
 **Question ID: 2023-gs2-q26-pwonlyias**
 
 **The Constitution of India is a living instrument with capabilities of enormous dynamism. It is a constitution made for a progressive society.&#8221; Illustrate with special reference to the expanding horizons of the right to life and personal liberty.**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** <br>• Write what is meant by “a living instrument” in the context of the Constitution **Body** <br>• Write about the Constitution of India as a living instrument with capabilities of enormous dynamism <br>• Write how the Indian Constitution Adapts to the Evolving Needs of a Progressive Society <br>• Write about the expanding horizons of the right to life and personal liberty in India **Conclusion** <br>• Give appropriate conclusion in this regard |
 | --- |
@@ -1182,8 +1173,6 @@ The **Parliamentary Committee system remains a cornerstone in enhancing the effi
 ### Introduction
 
 In the realm of jurisprudence, a **“living instrument”** denotes a legal text capable of **adapting to the changing circumstances and norms of society** to remain relevant and effective. Part-xx Article 368 (1) of the Constitution of India grants constituent power to make formal amendments and empowers Parliament to amend the Constitution by way of addition, variation or repeal of any provision. The Constitution of India, framed with foresight by the architects of modern India, embodies this principle perfectly, with its provisions demonstrating the capabilities of enormous dynamism.
-
-
 
 ### Body
 
@@ -1209,13 +1198,12 @@ In the realm of jurisprudence, a **“living instrument”** denotes a legal tex
 - **Right to Die with Dignity:** The court in **Aruna Ramchandra Shanbaug vs Union of India** (2011) recognized the right to die with dignity, permitting passive euthanasia under stringent guidelines, marking a significant evolution in the understanding of the right to life.
 - **Right to Internet:** In **Anuradha Bhasin vs Union of India (2019),** the Supreme Court recognized the right to access the internet as a fundamental right, underlining the necessity to adapt the constitutional rights to contemporary realities.
 
-
-
 ### Conclusion
 
 The **Constitution of India manifests as a dynamic, living document, amenable to the requisite changes** catering to the evolving society. The continuous expansive judicial interpretations, especially in safeguarding the right to life and personal liberty, bear testimony to its vibrant and living nature,
 
 **securing a dignified life for every citizen in a progressive society.**
+
 
 ---
 
@@ -1223,15 +1211,13 @@ The **Constitution of India manifests as a dynamic, living document, amenable to
 
 **Who are entitled to receive free legal aid? Assess the role of the National Legal Services Authority (NALSA) in rendering free legal aid in India.**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** <br>• Write about free legal aid and NALSA briefly **Body** <br>• Write Entitlement to Free Legal Aid <br>• Write the role of the National Legal Services Authority (NALSA) in rendering free legal aid in India **Conclusion** Give appropriate conclusion in this regard |
 | --- |
 
 ### Introduction
  **Free legal aid** is a provision granted to ensure that individuals, regardless of their economic or social status, can access justice. Article 39A of the Indian constitution provides Equal justice and free legal aid .In India, the **National Legal Services Authority (NALSA)** is mandated to provide free and competent legal services to the weaker sections of society, as per the **Legal Services Authorities Act, 1987**.
-
-
 
 ### Body
 
@@ -1262,22 +1248,21 @@ The **Constitution of India manifests as a dynamic, living document, amenable to
 - **Community Outreach:** NALSA has initiated community outreach programs targeting marginalized groups, **including awareness camps in rural areas** to help people understand their legal rights and remedies available.
 - **Legal Research:** By engaging in legal research, NALSA has been constantly working towards the betterment of legal aid services, **understanding the dynamically changing needs** and adapting its strategies accordingly.
 
-
-
 ### Conclusion
 
 Free legal aid is a cornerstone in ensuring justice for all and the efforts by NALSA, despite facing certain hurdles, have been commendable in reaching out to marginalized sections of society. Going ahead, it is **incumbent upon the society and the system to work synergically to remove impediments and foster a culture of justice that is truly inclusive**.
 
 [Question ID: 2023-gs2-q26-pwonlyias]
 
+
 ---
 
-## Question 27 (Year: 2022 | Paper: GS 2 | Marks: 15 Marks | Words: 250 Words)
+## Question 30 (Year: 2022 | Paper: GS 2 | Marks: 15 Marks | Words: 250 Words)
 **Question ID: 2022-gs2-q27-pwonlyias**
 
 **Critically examine the procedures through which the Presidents of India and France are elected.**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** <br>• Briefly introduce the presidential electoral systems of both countries, highlighting their key differences. **Body** <br>• Explain the procedure for electing the President of India. <br>• Explain the procedure for electing the President of France. <br>• Critically examine the procedures. <br>• Discuss the advantages and disadvantages of each procedure. **Conclusion** <br>• Conclude, highlighting the main strengths and weaknesses of each electoral system. |
 | --- |
@@ -1298,22 +1283,21 @@ Free legal aid is a cornerstone in ensuring justice for all and the efforts by N
 - **Voting system:** The French Presidential election follows a two-round system. In the first round, all candidates contest, and if no candidate secures an absolute majority, the top two candidates proceed to the second round. The candidate with the majority in the second round becomes the President.
 - **Election process:** Candidates require a minimum number of endorsements from elected officials to contest the election. The two-round system ensures that the elected President has the support of the majority of the electorate. **Critique:** The direct election process empowers citizens by giving them a direct say in choosing their head of state. However, it may also result in a highly politicized office, potentially undermining the President’s role as a unifying figure.
 
-
-
 ### Conclusion
 
 While the President of India is elected through an indirect electoral process, ensuring neutrality and proportionality, the President of France is elected by direct popular vote, empowering citizens and reflecting the will of the majority. Both election processes have their merits and drawbacks, and they serve the unique needs and expectations of their respective nations.
 
 [Question ID: 2022-gs2-q27-pwonlyias]
 
+
 ---
 
-## Question 28 (Year: 2022 | Paper: GS 2 | Marks: 15 Marks | Words: 250 Words)
+## Question 31 (Year: 2022 | Paper: GS 2 | Marks: 15 Marks | Words: 250 Words)
 **Question ID: 2022-gs2-q28-pwonlyias**
 
 **Discuss the essential conditions for exercise of the legislative powers by the Governor. Discuss the legality of re-promulgation of ordinances by the Governor without placing them before the Legislature.**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** <br>• Briefly introduce the Governor’s role and powers in the context of legislative functions. **Body** <br>• Divide the body into two main parts: <br>• Essential conditions for exercise of legislative powers by the Governor. <br>• Legality of re-promulgation of ordinances without placing them before the Legislature. **Conclusion:** <br>• Conclude, summarizing the importance of maintaining a balance between the Governor’s legislative powers and the need for legislative oversight, emphasizing the constitutional spirit and the principles of democratic governance. |
 | --- |
@@ -1335,22 +1319,21 @@ The re-promulgation of ordinances without placing them before the Legislature go
 - **In the case of D.C. Wadhwa v. State of Bihar (1987),:** the Supreme Court held that the re-promulgation of ordinances without placing them before the State Legislature is unconstitutional. The Court observed that the ordinance-making power is a temporary measure and should not be used as a substitute for the law-making power of the State Legislature. Re-promulgation of ordinances without legislative approval is a violation of the constitutional scheme and amounts to a subversion of the democratic process.
 - **The 2017 judgment in Krishna Kumar Singh v. State of Bihar:** reiterated the Wadhwa decision, emphasizing that re-promulgation of ordinances without legislative approval is a “fraud on the Constitution.” The Court held that the Governor’s ordinance-making power should be used sparingly and only as a last resort to address urgent matters when the Legislature is not in session.
 
-
-
 ### Conclusion
 
 Upholding the balance between the Governor’s powers and the need for legislative scrutiny is essential to preserving the spirit of the Constitution and maintaining the democratic fabric of India.
 
 [Question ID: 2022-gs2-q28-pwonlyias]
 
+
 ---
 
-## Question 29 (Year: 2022 | Paper: GS 2 | Marks: 15 Marks | Words: 250 Words)
+## Question 32 (Year: 2022 | Paper: GS 2 | Marks: 15 Marks | Words: 250 Words)
 **Question ID: 2022-gs2-q29-pwonlyias**
 
 **Discuss the procedures to decide the disputes arising out of the election of a Member of the Parliament or State Legislature under The Representation of the People Act, 1951. What are the grounds on which the election of any returned candidate may be declared void? What remedy is available to the aggrieved party against the decision? Refer to the case laws.**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** <br>• Briefly introduce the Representation of the People Act, 1951, and its significance in addressing disputes arising out of the election of a Member of Parliament or State Legislature. **Body** <br>• Divide the body into three main parts: <br>• Procedures to decide disputes arising out of elections. <br>• Grounds for declaring an election void. <br>• Remedies available to the aggrieved party. **Conclusion** <br>• Summarize the importance of the Representation of the People Act, 1951, in ensuring a transparent, accountable, and fair electoral process in India, and emphasize its role in strengthening the country’s democratic fabric. |
 | --- |
@@ -1376,22 +1359,21 @@ Upholding the balance between the Governor’s powers and the need for legislati
 - **Indira Nehru Gandhi v. Raj Narain (1975):** This landmark case saw the election of then-Prime Minister Indira Gandhi declared void on the grounds of corrupt practices. However, the case also led to the 39th Amendment of the Constitution, which limited the judiciary’s power to scrutinize the election of the Prime Minister and Speaker.
 - **Manohar Joshi v. Nitin Bhaurao Patil (1996):** In this case, the Supreme Court held that an election could be declared void only if the corrupt practices materially affected the election’s outcome, emphasizing the importance of the nexus between the corrupt practice and the election result.
 
-
-
 ### Conclusion
 
 The Representation of the People Act, 1951, plays a vital role in upholding the democratic principles enshrined in the Constitution of India, and it has been instrumental in ensuring that the electoral process remains a true reflection of the will of the people.
 
 [Question ID: 2022-gs2-q29-pwonlyias]
 
+
 ---
 
-## Question 30 (Year: 2022 | Paper: GS 2 | Marks: 15 Marks | Words: 250 Words)
+## Question 33 (Year: 2022 | Paper: GS 2 | Marks: 15 Marks | Words: 250 Words)
 **Question ID: 2022-gs2-q30-pwonlyias**
 
 **Discuss the role of the Election Commission of India in the light of the evolution of the Model Code of Conduct.**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** <br> • Introduce the Election Commission of India (ECI) and the Model Code of Conduct (MCC), emphasizing the significance of the MCC in ensuring free and fair elections. **Body** <br> • Discuss the role of the Election Commission of India in the light of the evolution of the Model Code of Conduct. <br> • **Formulation and Evolution** <br> • **Implementation and Enforcement** <br> • **Awareness and Education** <br> • **Monitoring and Grievance Redressal** <br> • **Adaptation to Technological Advancements** <br> **Conclusion** <br> • Conclude, emphasizing its significance in maintaining the integrity of the electoral process in India. |
 | --- |
@@ -1403,6 +1385,8 @@ The Representation of the People Act, 1951, plays a vital role in upholding the 
 ### Body
 
 **Role of the Election Commission of India in the Evolution of the Model Code of Conduct:**<p align="center"><img src="images/pw_polity_q650_img1.webp" alt="Election Commission" /></p>**
+
+**Role of the Election Commission of India in the Evolution of the Model Code of Conduct:****
 
 - **Formulation and Evolution:** The ECI formulated the MCC in 1960, based on a consensus among major political parties.
   - Since then, the ECI has periodically updated and revised the MCC to address new challenges and to incorporate feedback from various stakeholders.
@@ -1416,22 +1400,21 @@ The Representation of the People Act, 1951, plays a vital role in upholding the 
 - **Adaptation to Technological Advancements:** With the growing influence of technology in the electoral process, the ECI has adapted the MCC to address challenges arising from social media, electronic media, and digital platforms.
 - For instance, the ECI has issued guidelines for political parties and candidates on the use of social media for election campaigning, and it closely monitors online activities for potential MCC violations.
 
-
-
 ### Conclusion
 
 The Election Commission of India plays a crucial role in the evolution, implementation, and enforcement of the Model Code of Conduct. The ECI’s efforts have significantly contributed to the conduct of free, fair, and transparent elections in India, thereby upholding the democratic principles enshrined in the Indian Constitution.
 
 [Question ID: 2022-gs2-q30-pwonlyias]
 
+
 ---
 
-## Question 31 (Year: 2022 | Paper: GS 2 | Marks: 10 Marks | Words: 150 Words)
+## Question 34 (Year: 2022 | Paper: GS 2 | Marks: 10 Marks | Words: 150 Words)
 **Question ID: 2022-gs2-q31-pwonlyias**
 
 **Discuss the role of the National Commission for Backward Classes in the wake of its transformation from a statutory body to a constitutional body.**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** <br>• Begin with a brief overview of the National Commission for Backward Classes (NCBC) and its transformation from a statutory body to a constitutional body through the 102nd Constitutional Amendment Act. **Body** <br>• Discuss the various aspects of the role of the NCBC in the wake of its transformation. **Conclusion** <br>• Write a relevant conclusion. |
 | --- |
@@ -1442,12 +1425,8 @@ The National Commission for Backward Classes (NCBC) was initially established as
 
 <p align="center"><img src="images/pw_polity_q651_img1.webp" alt="NCBC" /></p>
 
-
-
 ### Body
 Evolution and Expansion of NCBC: From Statutory to Constitutional
-
-
 
 ### Body
 
@@ -1462,22 +1441,21 @@ Evolution and Expansion of NCBC: From Statutory to Constitutional
 - **Redressal of Grievances:** It can conduct inquiries, summon officials, and pass orders to ensure that the grievances of these communities are addressed and their rights are protected.
 - **Periodic Review and Reports:** The NCBC is required to submit periodic reports to the President of India regarding the implementation of the constitutional safeguards and the measures taken for the welfare and development of the backward classes.
 
-
-
 ### Conclusion
 
 With its expanded mandate and increased powers, the NCBC is better equipped to safeguard the rights and interests of these communities and ensure their effective representation and welfare in various spheres of society.
 
 [Question ID: 2022-gs2-q31-pwonlyias]
 
+
 ---
 
-## Question 32 (Year: 2022 | Paper: GS 2 | Marks: 10 Marks | Words: 150 Words)
+## Question 35 (Year: 2022 | Paper: GS 2 | Marks: 10 Marks | Words: 150 Words)
 **Question ID: 2022-gs2-q32-pwonlyias**
 
 **Discuss the role of the Vice –Presidents of India as the chairman of the Rajya Sabha.**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** <br>• Begin with a brief overview of the Vice-President’s role as the ex-officio Chairman of the Rajya Sabha and its importance in the functioning of the Upper House of Parliament. **Body** <br>• Discuss the various aspects of the Vice-President’s role as the Chairman of the Rajya Sabha. **Conclusion** <br>• Write a relevant conclusion. |
 | --- |
@@ -1487,8 +1465,6 @@ With its expanded mandate and increased powers, the NCBC is better equipped to s
 **The Vice-President of India is the second-highest constitutional office in the country, provisioned under** Art.66 of constitution **and one of their key responsibilities is to serve as the ex-officio Chairman of the Rajya Sabha, the Upper House of the Parliament of India. This role is crucial to ensuring the smooth functioning of the Rajya Sabha and maintaining the dignity and decorum of the House.**
 
 <p align="center"><img src="images/pw_polity_q652_img1.webp" alt="Role of vice president" /></p>
-
-
 
 ### Body
 
@@ -1500,20 +1476,19 @@ With its expanded mandate and increased powers, the NCBC is better equipped to s
 - **Representing the Rajya Sabha:** The Chairman represents the Rajya Sabha in its relations with the President of India, the Lok Sabha (Lower House of Parliament), and other authorities and organizations.
 - **Referral of Money Bills:** While the Rajya Sabha has limited powers in dealing with Money Bills, the Chairman plays an essential role in the process by certifying whether a particular bill is a Money Bill or not, based on the provisions outlined in Article 110 of the Indian Constitution.
 
-
-
 ### Conclusion
 
 From presiding over sessions to maintaining order and decorum, referring bills to committees, and representing the Rajya Sabha in its relations with other authorities, the Chairman’s role is instrumental in upholding the parliamentary democratic system in India.
 
 [Question ID: 2022-gs2-q32-pwonlyias]
 
+
 ---
 
-## Question 33 (Year: 2022 | Paper: GS 2 | Marks: 10 Marks | Words: 150 Words)
+## Question 36 (Year: 2022 | Paper: GS 2 | Marks: 10 Marks | Words: 150 Words)
 **Question ID: 2022-gs2-q33-pwonlyias** **“Right of movement and residence throughout the territory of India are freely available to the Indian citizens, but these rights are not absolute. “ Comment.**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** <br>• Begin with a brief overview of the rights to freedom of movement and residence under Article 19(1)(d) and (e) of the Indian Constitution, and mention that these rights are not absolute. **Body** <br>• Divide the main content into sub-sections discussing: <br>• The provisions of Article 19(1)(d) and (e) and the reasonable restrictions under Article 19(5) in the interests of the general public, national security, and the protection of Scheduled Tribes. <br>• Notable judgments from the Supreme Court of India that uphold the constitutionality of these restrictions. **Conclusion** <br>• Write a relevant conclusion. |
 | --- |
@@ -1533,20 +1508,19 @@ From presiding over sessions to maintaining order and decorum, referring bills t
 - **Kharak Singh v. State of Uttar Pradesh (1963):** The Court held that the right to move freely is not an absolute right, and reasonable restrictions can be imposed for maintaining public order and ensuring national security.
 - **Sundararajan v. State of Tamil Nadu (2013):** The Court upheld restrictions on the right to reside near the Kudankulam Nuclear Power Plant, citing the potential threat to public safety and national security.
 
-
-
 ### Conclusion
 
 These cases demonstrate that the rights to freedom of movement and residence, while fundamental to Indian citizens, are not absolute and can be restricted by the state in the interests of public order, national security, and the protection of vulnerable communities.
 
 [Question ID: 2022-gs2-q33-pwonlyias]
 
+
 ---
 
-## Question 34 (Year: 2022 | Paper: GS 2 | Marks: 10 Marks | Words: 150 Words)
+## Question 37 (Year: 2022 | Paper: GS 2 | Marks: 10 Marks | Words: 150 Words)
 **Question ID: 2022-gs2-q34-pwonlyias** **“The most significant achievement of modern law in India is the constitutionalization of environmental problems by the Supreme Court.” Discuss this statement with the help of relevant case laws.**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** <br>• Begin with a brief overview of the importance of environmental protection in India and the role of the Supreme Court in addressing environmental issues within the constitutional framework. **Body** <br>• Divide the main content into sub-sections discussing: <br>• The expansion of the right to life (Article 21) to include the right to a pollution-free environment, with case law examples (e.g., Oleum Gas Leak Case). <br>• The integration of international environmental principles into Indian law, such as the Precautionary Principle and Polluter Pays Principle, with case law examples (e.g., Vellore Citizens Welfare Forum v. Union of India). <br>• The application of the public trust doctrine and the recognition of state and citizen responsibilities in protecting the environment, with case law examples (e.g., T.N. Godavarman Thirumulpad v. Union of India) **Conclusion** <br>• Conclude, emphasizing the innovative interpretations of the Constitution and the establishment of a solid legal framework for addressing environmental challenges. |
 | --- |
@@ -1571,21 +1545,21 @@ These cases demonstrate that the rights to freedom of movement and residence, wh
   - The Court emphasized that the state and citizens have a duty to preserve the environment and maintain ecological balance.
   - The case resulted in the creation of the **Central Empowered Committee (CEC) to monitor forest conservation issues in India.**
 
-
 ### Conclusion
 
 These cases exemplify the Supreme Court’s role in the constitutionalization of environmental problems in India. Through innovative interpretation of the Indian Constitution, the Court has expanded the scope of fundamental rights, incorporated international environmental principles, and reinforced the state’s responsibility to protect the environment for current and future generations.
 
 [Question ID: 2022-gs2-q34-pwonlyias]
 
+
 ---
 
-## Question 35 (Year: 2022 | Paper: GS 2 | Marks: 15 Marks | Words: 250 Words)
+## Question 38 (Year: 2022 | Paper: GS 2 | Marks: 15 Marks | Words: 250 Words)
 **Question ID: 2022-gs2-q35-pwonlyias**
 
 **While the national political parties in India favour centralisation, the regional parties are in favour of State autonomy.” Comment.**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** <br>• Briefly introduce the federal structure of governance in India and the contrasting preferences of national and regional political parties regarding centralization and state autonomy. **Body** <br>• Divide the body into two main parts: <br>• National political parties and centralization. <br>• Regional parties and state autonomy. **Conclusion** <br>• Summarize the importance of striking a balance between centralization and state autonomy for effective governance and addressing the diverse needs of India’s population. |
 | --- |
@@ -1612,22 +1586,21 @@ These cases exemplify the Supreme Court’s role in the constitutionalization of
 - **Language Policies:** Several regional parties have advocated for the preservation and promotion of their respective state’s language, emphasizing its importance in education and administration. This emphasis on linguistic identity showcases their preference for state autonomy in determining language policies tailored to the local context.
 - **State-Specific Development Programs:** Regional parties often introduce development programs and schemes that cater to the specific needs of their states, focusing on local industries, agriculture, and socio-economic conditions.
 
-
-
 ### Conclusion
 
 It is important to note that the inclination of national and regional parties towards centralization and state autonomy is not absolute. Depending on the political climate and specific issues, parties may adopt different stances to cater to their constituents’ needs and further their political interests. Hence, striking a balance between centralization and state autonomy is crucial for effective governance and addressing the diverse needs of India’s population.
 
 [Question ID: 2022-gs2-q35-pwonlyias]
 
+
 ---
 
-## Question 36 (Year: 2021 | Paper: GS 2 | Marks: 15 Marks | Words: 250 Words)
+## Question 39 (Year: 2021 | Paper: GS 2 | Marks: 15 Marks | Words: 250 Words)
 **Question ID: 2021-gs2-q36-pwonlyias**
 
 **Analyze the distinguishing features of the notion of Equality in the Constitutions of the USA and India.**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** <br>• Introduce the importance of the principle of equality in both the US and Indian Constitutions and mention that there are distinct differences in their articulation and implementation. **Body** <br>• Discuss the constitutional provisions related to equality in both countries. <br>• Compare the scope of protection provided by each constitution. <br>• Analyze the differences in affirmative action policies between the two countries. <br>• Examine the role of the judiciary in interpreting and enforcing the principle of equality in both nations. **Conclusion** <br>• Conclude, highlighting the unique historical, social, and political contexts of each country. |
 | --- |
@@ -1653,20 +1626,19 @@ It is important to note that the inclination of national and regional parties to
 - **USA:** The US Supreme Court has played a significant role in interpreting and developing the principle of equality, expanding its scope through landmark cases such as Brown v. Board of Education (1954) and Loving v. Virginia (1967).
 - **India:** The Indian judiciary has also played an active role in interpreting and enforcing the principle of equality, notably through the doctrine of the basic structure, which states that the principle of equality is a part of the basic structure of the Indian Constitution and cannot be abridged or abrogated by any amendment.
 
-
-
 ### Conclusion
 
 These differences reflect the unique historical, social, and political contexts of each country and demonstrate the diverse ways in which the notion of equality can be articulated and pursued.
 
 [Question ID: 2021-gs2-q36-pwonlyias]
 
+
 ---
 
-## Question 37 (Year: 2021 | Paper: GS 2 | Marks: 10 Marks | Words: 150 Words)
+## Question 40 (Year: 2021 | Paper: GS 2 | Marks: 10 Marks | Words: 150 Words)
 **Question ID: 2021-gs2-q37-pwonlyias** **‘Constitutional Morality’ is rooted in the Constitution itself and is founded on its essential facets. Explain the doctrine of ‘Constitutional Morality’ with the help of relevant judicial decisions.**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** Introduce the concept of Constitutional Morality. **Body** <br>• Mention in brief, in which provisions, it’s present in the constitution. <br>• Elaborate on the concept with the help of relevant judicial decisions from India, highlighting how Indian courts have shaped the understanding of Constitutional Morality. **Conclusion** <br>• Write a relevant conclusion. |
 | --- |
@@ -1678,6 +1650,8 @@ These differences reflect the unique historical, social, and political contexts 
 ### Body
 
 **Constitutional Morality: presence in the constitution** <p align="center"><img src="images/pw_polity_q574_img1.webp" alt="Constitutional Morality" /></p>
+
+**Constitutional Morality: presence in the constitution** 
 
 - **The Preamble, often referred to as the soul of the Constitution, encapsulates the essence of Constitutional Morality,:** outlining the guiding principles of justice, liberty, equality, and fraternity.
 - **This doctrine is also implicitly embedded in the Fundamental Rights (Articles 14-32):** that guarantee equality, freedom, and justice to all citizens, irrespective of their background.
@@ -1698,22 +1672,21 @@ These differences reflect the unique historical, social, and political contexts 
   - The Supreme Court highlighted the importance of Constitutional Morality in federalism, stating that both the central and state governments should abide by the constitutional values and principles to ensure harmony and good governance.
 - **The court cited Articles 239AA and 239AB, which deal with the special provisions concerning Delhi’s governance,:** to illustrate the significance of Constitutional Morality in the federal structure.
 
-
-
 ### Conclusion
 
 These cases highlight the significance of Constitutional Morality in the Indian judiciary, emphasizing the need to adhere to the constitution’s core principles and values. The doctrine of Constitutional Morality acts as a guiding force in ensuring good governance, promoting social justice, and protecting individual rights.
 
 [Question ID: 2021-gs2-q37-pwonlyias]
 
+
 ---
 
-## Question 38 (Year: 2021 | Paper: GS 2 | Marks: 10 Marks | Words: 150 Words)
+## Question 41 (Year: 2021 | Paper: GS 2 | Marks: 10 Marks | Words: 150 Words)
 **Question ID: 2021-gs2-q38-pwonlyias**
 
 **Discuss the desirability of greater representation to women in the higher judiciary to ensure diversity, equity and inclusiveness.**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** <br>• Introduce the importance of women’s representation in higher judiciary for diversity, equity, and inclusiveness. **Body:** <br>• Discuss the benefits of greater representation of women in higher judiciary. <br>• Address the challenges to overcome. **Conclusion** <br>• Conclude, suggesting the need for concerted efforts from various stakeholders to promote gender diversity in the judiciary. |
 | --- |
@@ -1735,17 +1708,16 @@ These cases highlight the significance of Constitutional Morality in the Indian 
 - work-life balance issues, and
 - traditional gender roles that may hinder women’s progression in the legal profession.
 
-
-
 ### Conclusion
 
 Initiatives like the introduction of gender diversity targets or quotas for public prosecutors and panel lawyers by state governments in India, exemplified by the Delhi government’s policy mandating that 50% of public prosecutors appointed should be women, play a crucial role in shaping the future of the higher judiciary.
 
 [Question ID: 2021-gs2-q38-pwonlyias]
 
+
 ---
 
-## Question 39 (Year: 2021 | Paper: GS 2 | Marks: 15 Marks | Words: 250 Words)
+## Question 42 (Year: 2021 | Paper: GS 2 | Marks: 15 Marks | Words: 250 Words)
 **Question ID: 2021-gs2-q39-pwonlyias**
 
 **Do Department -related Parliamentary Standing Committees keep the administration on its toes and inspire reverence for parliamentary control? Evaluate the working of such committees with suitable examples.**
@@ -1775,8 +1747,6 @@ Department-related Parliamentary Standing Committees (DRPSCs) are crucial instru
 - **Examples showcasing the working of DRPSCs:** The 31st report of the Standing Committee on Information Technology (2018-19) examined issues related to data security and privacy and made recommendations to the government for strengthening the data protection framework in India.
 - The Standing Committee on Finance’s report on the Insolvency and Bankruptcy Code (2016) suggested various amendments to the bill, many of which were incorporated in the final legislation.
 
-
-
 ### Conclusion
 
 Addressing these challenges and strengthening the working of DRPSCs will contribute to a more robust system of parliamentary control and inspire greater reverence for the institution of Parliament.
@@ -1785,7 +1755,7 @@ Addressing these challenges and strengthening the working of DRPSCs will contrib
 
 ---
 
-## Question 40 (Year: 2021 | Paper: GS 2 | Marks: 15 Marks | Words: 250 Words)
+## Question 43 (Year: 2021 | Paper: GS 2 | Marks: 15 Marks | Words: 250 Words)
 **Question ID: 2021-gs2-q40-pwonlyias**
 
 **Explain the constitutional provisions under which Legislative Councils are established. Review the working and current status of Legislative Councils with suitable illustrations.**
@@ -1812,8 +1782,6 @@ India’s federal system features a bicameral legislature in certain states, wit
 - The recent example of Jammu and Kashmir can be cited, where the Legislative Council was abolished when the state was reorganized into a Union Territory in 2019.
 - There have been ongoing debates about the necessity and relevance of Legislative Councils in various states. Some argue that they serve as a check on hasty legislation and provide representation for various interest groups, while others contend that they are an unnecessary burden on state exchequers and often delay the legislative process.
 
-
-
 ### Conclusion
 
 The ongoing debate surrounding the necessity and relevance of Legislative Councils highlights the complexities of balancing diverse interests and effective governance within the Indian federal structure.
@@ -1822,7 +1790,7 @@ The ongoing debate surrounding the necessity and relevance of Legislative Counci
 
 ---
 
-## Question 41 (Year: 2021 | Paper: GS 2 | Marks: 10 Marks | Words: 150 Words)
+## Question 44 (Year: 2021 | Paper: GS 2 | Marks: 10 Marks | Words: 150 Words)
 **Question ID: 2021-gs2-q41-pwonlyias**
 
 **How have the recommendations of the 14th Finance Commission of India enabled the states to improve their fiscal position?**
@@ -1839,6 +1807,8 @@ The ongoing debate surrounding the necessity and relevance of Legislative Counci
 ### Body
 
 **Increased devolution of central taxes:** <p align="center"><img src="images/pw_polity_q599_img1.webp" alt="14th FCI recommendations " /></p>
+
+**Increased devolution of central taxes:** 
 
 - The 14th Finance Commission recommended increasing the share of states in the divisible pool of central taxes from 32% to 42%, the highest ever increase in vertical devolution.
 
@@ -1859,8 +1829,6 @@ The Commission emphasized greater autonomy and flexibility for states in designi
 The 14th Finance Commission increased grants for both urban and rural local bodies, ensuring that they had adequate resources to provide essential public services.
 - By strengthening local bodies, the Commission indirectly reduced the financial burden on states, contributing to their overall fiscal stability.
 
-
-
 ### Conclusion
 
 These recommendations have not only strengthened fiscal federalism in India but also encouraged states to pursue prudent fiscal policies and efficient resource allocation, addressing their developmental priorities.
@@ -1869,12 +1837,12 @@ These recommendations have not only strengthened fiscal federalism in India but 
 
 ---
 
-## Question 42 (Year: 2021 | Paper: GS 2 | Marks: 15 Marks | Words: 250 Words)
+## Question 45 (Year: 2021 | Paper: GS 2 | Marks: 15 Marks | Words: 250 Words)
 **Question ID: 2021-gs2-q42-pwonlyias**
 
 **The jurisdiction of the Central Bureau of Investigation(CBI) regarding lodging an FIR and conducting probe within a particular state is being questioned by various States. However, the power of States to withhold consent to the CBI is not absolute. Explain with special reference to the federal character of India.**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** <br>• Briefly explain the CBI’s role in India and its jurisdictional issues with the states. **Body** <br>• Discuss the federal structure of India and the division of powers between central and state governments. <br>• Explain why the CBI’s jurisdiction is a matter of debate due to the subject of ‘police’ falling under the State List. <br>• Enumerate the specific situations in which the CBI can exercise jurisdiction within a state despite the state government’s objections or lack of consent. **Conclusion** <br>• Write a relevant conclusion. |
 | --- |
@@ -1897,22 +1865,21 @@ India follows a federal structure, as per the Constitution of India, with a clea
 - **Cases involving central government employees or agencies:** The CBI can investigate cases involving central government employees, central government agencies, or offenses committed on central government property, even if the concerned state government has not granted consent. This is because such cases fall under the jurisdiction of the central government.
 - **Cases with inter-state or international ramifications:** If a case has inter-state or international ramifications, the central government can ask the CBI to investigate the case, overriding the state government’s objections.
 
-
-
 ### Conclusion
 
 While the federal character of India allows states to exercise their power in matters related to law and order, the CBI’s jurisdiction is not entirely curtailed. Specific situations, as mentioned above, grant the CBI the necessary authority to conduct investigations within a state, ensuring that justice is served, and the rule of law is maintained throughout the country.
 
 [Question ID: 2021-gs2-q42-pwonlyias]
 
+
 ---
 
-## Question 43 (Year: 2021 | Paper: GS 2 | Marks: 15 Marks | Words: 250 Words)
+## Question 46 (Year: 2021 | Paper: GS 2 | Marks: 15 Marks | Words: 250 Words)
 **Question ID: 2021-gs2-q43-pwonlyias**
 
 **Though the Human Rights Commissions have contributed immensely to the protection of human rights in India, yet they have failed to assert themselves against the mighty and powerful. Analyzing their structural and practical limitations, suggest remedial measures.**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** Briefly introduce the role of Human Rights Commissions in India. **Body** <br>• Enumerate the structural and practical limitations of Human Rights Commissions. <br>• Suggest remedial measures to enhance the effectiveness of Human Rights Commissions. **Conclusion** <br>• Write a relevant conclusion. |
 | --- |
@@ -1939,22 +1906,21 @@ While the federal character of India allows states to exercise their power in ma
 - **Awareness campaigns:** Conducting awareness campaigns and educational programs on the role, functions, and powers of Human Rights Commissions can help increase public engagement and utilization of these institutions.
 - **Transparent appointment process:** Ensuring a transparent and merit-based appointment process for the members of Human Rights Commissions can help reduce political interference and ensure their impartiality and independence.
 
-
-
 ### Conclusion
 
 Implementing the suggested remedial measures can help overcome these limitations, enabling Human Rights Commissions to assert themselves effectively against the mighty and powerful and contribute more significantly to the protection of human rights in India.
 
 [Question ID: 2021-gs2-q43-pwonlyias]
 
+
 ---
 
-## Question 44 (Year: 2021 | Paper: GS 2 | Marks: 10 Marks | Words: 150 Words)
+## Question 47 (Year: 2021 | Paper: GS 2 | Marks: 10 Marks | Words: 150 Words)
 **Question ID: 2021-gs2-q44-pwonlyias**
 
 **To what extent, in your view, the Parliament is able to ensure accountability of the executive in India?**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** <br>• Provide a brief overview of the Indian parliamentary system and the importance of holding the executive accountable. **Body** <br>• Discuss the mechanisms for ensuring executive accountability in the Indian Parliament. <br>• Write examples to better substantiate your views. <br>• Analyze the factors that can limit the effectiveness of these mechanisms. **Conclusion** <br>• Write a relevant conclusion. |
 | --- |
@@ -1974,13 +1940,14 @@ Implementing the suggested remedial measures can help overcome these limitations
 - **Adjournment Motion and Calling Attention Motion:** These motions allow MPs to bring urgent matters of public importance to the attention of the executive and seek their response.
 
 **In 2019, the calling attention motion was moved in Rajya Sabha by opposition MPs to discuss the issue of air pollution and climate change.**
+
 - **Debates and Discussions:** The Parliament engages in debates and discussions on various issues, bills, and policy decisions, allowing MPs to voice their opinions and hold the executive accountable. **An example would be the extensive debate in Parliament over the Citizenship (Amendment) Act, 2019,** wherein MPs voiced their support, concerns, and objections, leading to nationwide discussion on the topic. **However, certain factors may limit the Parliament’s effectiveness in ensuring executive accountability:** <p align="center"><img src="images/pw_polity_q625_img1.webp" alt="Parliament's effectiveness" /></p>
+
+- **Debates and Discussions:** The Parliament engages in debates and discussions on various issues, bills, and policy decisions, allowing MPs to voice their opinions and hold the executive accountable. **An example would be the extensive debate in Parliament over the Citizenship (Amendment) Act, 2019,** wherein MPs voiced their support, concerns, and objections, leading to nationwide discussion on the topic. **However, certain factors may limit the Parliament’s effectiveness in ensuring executive accountability:** 
 - **Frequent disruptions:** Disruptions and adjournments in the Parliament can limit the time available for scrutinizing the executive’s actions.
 - **Party discipline:** MPs belonging to the ruling party may be reluctant to criticize their own government, which can undermine the Parliament’s role in holding the executive accountable.
 - **Weak opposition:** If the opposition is weak or fragmented, it may not be able to effectively challenge the executive and hold it accountable.
 - **Bypassing the Parliament:** Sometimes, the executive may bypass the Parliament and take decisions through ordinances or executive orders, which can limit parliamentary oversight.
-
-
 
 ### Conclusion
 
@@ -1988,14 +1955,15 @@ To maximize the Parliament’s ability to hold the executive accountable, it is 
 
 [Question ID: 2021-gs2-q44-pwonlyias]
 
+
 ---
 
-## Question 45 (Year: 2020 | Paper: GS 2 | Marks: 10 Marks | Words: 150 Words)
+## Question 48 (Year: 2020 | Paper: GS 2 | Marks: 10 Marks | Words: 150 Words)
 **Question ID: 2020-gs2-q45-pwonlyias**
 
 **How far do you think cooperation, competition and confrontation have shaped the nature of federation in India? Cite some recent examples to validate your answer.**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** <br>• Introduce the complexity and dynamism of India’s federal system. And mention the significance of cooperation, competition, and confrontation in shaping India’s federal structure. **Body** <br>• Discuss the role of cooperation in the Indian federation. <br>• Examine the impact of competition on the Indian federation. <br>• Analyze the influence of confrontation on the Indian federation. **Conclusion** <br>• Conclude, emphasizing the need to maintain a balance between these elements for the smooth functioning of the federation and addressing the diverse needs of the Indian populace. |
 | --- |
@@ -2019,22 +1987,21 @@ To maximize the Parliament’s ability to hold the executive accountable, it is 
 - **Recent examples include the conflict between the central government and the West Bengal government over the CBI’s jurisdiction:** and the tussle between the central government and the Delhi government over administrative control.
 - **The Citizenship Amendment Act (CAA) also led to confrontations between some state governments and the center,:** with some states refusing to implement the Act.
 
-
-
 ### Conclusion
 
 India’s federal system has been shaped by cooperation, competition, and confrontation. Cooperation and competition foster efficient policy-making and resource allocation, while confrontation can uphold federal principles. Balancing these elements is vital for the federation’s smooth functioning and addressing India’s diverse needs.
 
 [Question ID: 2020-gs2-q45-pwonlyias]
 
+
 ---
 
-## Question 46 (Year: 2020 | Paper: GS 2 | Marks: 15 Marks | Words: 250 Words)
+## Question 49 (Year: 2020 | Paper: GS 2 | Marks: 15 Marks | Words: 250 Words)
 **Question ID: 2020-gs2-q46-pwonlyias**
 
 **Indian Constitution exhibits centralising tendencies to maintain unity and integrity of the nation. Elucidate in the perspective of the Epidemic Diseases Act, 1897; The Disaster Management Act, 2005 and recently passed Farm Acts.**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** <br>• Briefly introduce the centralizing tendencies in the Indian Constitution and their significance in maintaining unity and integrity. **Body** <br>• Elucidate the centralizing aspects of the Epidemic Diseases Act, 1897; Disaster Management Act, 2005; and the recently passed Farm Acts, highlighting their objectives and implications on the federal structure. **Conclusion** <br>• Sum up the importance of centralizing tendencies while emphasizing the need to strike a balance between central control and preserving the federal nature of the Indian political system. |
 | --- |
@@ -2065,17 +2032,16 @@ The recent Farm Acts were introduced to reform India’s agricultural sector by 
 - However, the acts have been criticized for potentially undermining the authority of state governments, especially in areas such as agricultural marketing and price regulation.
 - The centralizing tendencies of these acts have led to widespread protests, as some stakeholders argue that they erode the federal structure of India and the autonomy of states.
 
-
-
 ### Conclusion
 
 These Acts are examples of legislation that showcase these centralizing inclinations. While such an approach can ensure unity and facilitate effective decision-making, it is essential to strike a balance between central control and preserving the federal nature of the Indian political system.
 
 [Question ID: 2020-gs2-q46-pwonlyias]
 
+
 ---
 
-## Question 47 (Year: 2020 | Paper: GS 2 | Marks: 15 Marks | Words: 250 Words)
+## Question 50 (Year: 2020 | Paper: GS 2 | Marks: 15 Marks | Words: 250 Words)
 **Question ID: 2020-gs2-q47-pwonlyias**
 
 **Judicial Legislation is antithetical to the doctrine of separation of powers as envisaged in the Indian Constitution. In this context justify the filing of large number of public interest petitions praying for issuing guidelines to executive authorities.**
@@ -2099,8 +2065,6 @@ The doctrine of separation of powers, as envisaged in the Indian Constitution, p
 - **Balancing act:** Although judicial legislation can be seen as a violation of the doctrine of separation of powers, the Indian Constitution does not strictly adhere to this doctrine. Instead, it provides for a system of checks and balances, where the judiciary can review and interpret the actions of the executive and legislature. This flexible approach has allowed the judiciary to intervene in cases where other branches have failed to act responsibly or efficiently.
 - A significant example of the judiciary’s balancing act is the Supreme Court’s judgment **in the Common Cause v. Union of India case (2017).** The court directed the government to introduce specific measures to ensure transparency and accountability in political funding, addressing the issue of corruption. While encroaching upon the executive’s domain, this decision aimed to uphold the principles of integrity and fairness in the electoral process.
 
-
-
 ### Conclusion
 
 While judicial legislation can be seen as antithetical to the doctrine of separation of powers, the filing of numerous PILs praying for guidelines to be issued to executive authorities is justified in the context of India’s unique challenges. The Indian judiciary has played a crucial role in upholding the rights of citizens, addressing pressing social issues, and ensuring accountability from the executive and legislative branches. This intervention, while pushing the boundaries of the separation of powers, has been necessary to maintain a balance and protect the public interest in many cases.
@@ -2109,7 +2073,7 @@ While judicial legislation can be seen as antithetical to the doctrine of separa
 
 ---
 
-## Question 48 (Year: 2020 | Paper: GS 2 | Marks: 10 Marks | Words: 150 Words)
+## Question 51 (Year: 2020 | Paper: GS 2 | Marks: 10 Marks | Words: 150 Words)
 **Question ID: 2020-gs2-q48-pwonlyias** **‘Once a Speaker, Always a Speaker’! Do you think this practice should be adopted to impart objectivity to the office of the Speaker of Lok Sabha? What could be its implications for the robust functioning of parliamentary business in India?**
 
 ### Answer
@@ -2124,6 +2088,8 @@ While judicial legislation can be seen as antithetical to the doctrine of separa
 ### Body
 
 **However, it is essential to examine the potential implications of this practice for the robust functioning of parliamentary business in India:** <p align="center"><img src="images/pw_polity_q524_img1.webp" alt=" parliamentary business" /></p> **Potential Benefits:**
+
+**However, it is essential to examine the potential implications of this practice for the robust functioning of parliamentary business in India:**  **Potential Benefits:**
 - **Impartiality:** Adopting this practice would reinforce the impartiality of the Speaker, as they would not be beholden to any political party during or after their term.
 - **Strengthening democracy:** Ensuring the neutrality of the Speaker would contribute to a healthier democratic process by promoting fair debate and discussion in the house.
 - **Enhancing credibility:** The perception of the Speaker as an unbiased figure would enhance the credibility of the office and boost public trust in the parliamentary process.
@@ -2134,8 +2100,6 @@ While judicial legislation can be seen as antithetical to the doctrine of separa
 - **Detachment from political realities:** A Speaker permanently detached from active politics might lose touch with the evolving political landscape, which could hinder their ability to effectively manage parliamentary proceedings.
 - **Constitutional challenges:** Implementing such a practice might face constitutional challenges, as it could be perceived as an infringement on the individual’s right to participate in political activities.
 
-
-
 ### Conclusion
 
 Balancing the need for impartiality with the individual’s right to engage in political activities and the practical realities of the political landscape is crucial for ensuring the robust functioning of parliamentary business in India. An alternative approach could be to focus on strengthening the existing norms and conventions that govern the office of the Speaker, rather than imposing a permanent restriction on their political career.
@@ -2144,12 +2108,12 @@ Balancing the need for impartiality with the individual’s right to engage in p
 
 ---
 
-## Question 49 (Year: 2020 | Paper: GS 2 | Marks: 15 Marks | Words: 250 Words)
+## Question 52 (Year: 2020 | Paper: GS 2 | Marks: 15 Marks | Words: 250 Words)
 **Question ID: 2020-gs2-q49-pwonlyias**
 
 **Rajya Sabha has been transformed from a ‘useless stepney tyre’ to the most useful supporting organ in past few decades. Highlight the factors as well as the areas in which this transformation could be visible.**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** <br>• Introduce the Rajya Sabha as the upper house of the Indian Parliament and briefly mention its transformation from being perceived as a ‘useless stepney tyre’ to an essential supporting organ in the legislative process over the past few decades. **Body** <br>• Discuss the factors and areas in which the transformation of the Rajya Sabha is visible. <br>• Elaborate on each factor, explaining how it has contributed to the transformation of the Rajya Sabha into a more essential and effective institution within the Indian legislative process. **Conclusion** <br>• Write a relevant conclusion. |
 | --- |
@@ -2179,20 +2143,19 @@ Balancing the need for impartiality with the individual’s right to engage in p
 - **Stability and Continuity:** Unlike the Lok Sabha, the Rajya Sabha is a permanent house, with one-third of its members retiring every two years. This ensures stability and continuity in the legislative process, as members can carry forward their expertise and knowledge over a longer period.
 - **For example, the staggered terms of the Rajya Sabha members ensured continuity during the COVID-19 crisis. D:** espite the general elections and changes in the Lok Sabha, the Rajya Sabha could carry on its legislative duties without disruption.
 
-
-
 ### Conclusion
 
 The Rajya Sabha has been instrumental in upholding federalism, but there is potential for further improvement to enhance its effectiveness and relevance. Key areas to address include increasing transparency in the nomination process, engaging with civil society, and collaborating more closely with the Lok Sabha.
 
 [Question ID: 2020-gs2-q49-pwonlyias]
 
+
 ---
 
-## Question 50 (Year: 2020 | Paper: GS 2 | Marks: 10 Marks | Words: 150 Words)
+## Question 53 (Year: 2020 | Paper: GS 2 | Marks: 10 Marks | Words: 150 Words)
 **Question ID: 2020-gs2-q50-pwonlyias** **“Recent amendments to the Right to Information Act will have a profound impact on the autonomy and independence of the Information Commission”. Discuss.**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** <br>• Briefly explain the Right to Information (RTI) Act and the role of the Information Commission. **Body** <br>• Discuss the potential impacts of the amendments on the Information Commission’s autonomy and independence: **Conclusion** <br>• Write a suitable conclusion, emphasizing the need for fair and transparent implementation of the amendments to uphold the spirit of the RTI Act and ensure the continued effectiveness of the Information Commission. |
 | --- |
@@ -2203,8 +2166,6 @@ The Right to Information (RTI) Act was enacted in India in 2005 to promote trans
 
 <p align="center"><img src="images/pw_polity_q533_img1.webp" alt="RTI" /></p>
 
-
-
 ### Body
 
 **The recent amendments to the RTI Act have been seen as potentially affecting the autonomy and independence of the Information Commission in several ways:**
@@ -2213,22 +2174,21 @@ The Right to Information (RTI) Act was enacted in India in 2005 to promote trans
 - **Appointment process:** The amendments do not directly change the appointment process for Information Commissioners, but the increased control over tenure and salaries may have indirect implications. **For instance, potential candidates may be discouraged from applying for the position due to fears of political interference,** or the government may be able to exert more influence over the selection process.
 - **Erosion of trust:** The perceived threat to the autonomy and independence of the Information Commission could lead to an erosion of public trust in the institution. **This, in turn, might affect the effectiveness of the RTI Act as a tool for promoting transparency and accountability** in the government.
 
-
-
 ### Conclusion
 
 However, it is important to note that the impact of the amendments will depend on how they are implemented in practice. If the government exercises its new powers in a fair and transparent manner, the autonomy and independence of the Information Commission could still be maintained.
 
 [Question ID: 2020-gs2-q50-pwonlyias]
 
+
 ---
 
-## Question 51 (Year: 2020 | Paper: GS 2 | Marks: 10 Marks | Words: 150 Words)
+## Question 54 (Year: 2020 | Paper: GS 2 | Marks: 10 Marks | Words: 150 Words)
 **Question ID: 2020-gs2-q51-pwonlyias**
 
 **The judicial systems in India and the UK seem to be converging as well as diverging in recent times. Highlight the key points of convergence and divergence between the two nations in terms of their judicial practices.**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** <br>• Introduce writing the historical linkages between the Indian and UK judicial systems. **Body:** <br>• Discuss the points of convergence between the Indian and UK judicial systems. <br>• Examine the points of divergence between the Indian and UK judicial systems. **Conclusion** <br>• Conclude, highlighting the potential for further adaptations and changes in both judicial systems as they continue to evolve and address contemporary challenges. |
 | --- |
@@ -2253,17 +2213,16 @@ However, it is important to note that the impact of the amendments will depend o
 - **Court structure:** India has a unitary three-tier structure of the judiciary, with the Supreme Court at the apex, High Courts in the middle, and subordinate courts at the base. The UK has a more complex structure, with different court systems for England and Wales, Scotland, and Northern Ireland.
 - **Appointment of judges:** The appointment process for judges in India is more opaque and involves a collegium system, where senior judges play a significant role in selecting new judges. In the UK, the appointment process is more transparent, with the Judicial Appointments Commission responsible for selecting judges based on merit.
 
-
-
 ### Conclusion
 
 As both nations continue to evolve and address contemporary challenges, their judicial systems may further adapt, resulting in new areas of convergence or divergence, reflecting the dynamic nature of their legal landscapes.
 
 [Question ID: 2020-gs2-q51-pwonlyias]
 
+
 ---
 
-## Question 52 (Year: 2020 | Paper: GS 2 | Marks: 15 Marks | Words: 250 Words)
+## Question 55 (Year: 2020 | Paper: GS 2 | Marks: 15 Marks | Words: 250 Words)
 **Question ID: 2020-gs2-q52-pwonlyias**
 
 **The strength and sustenance of local institutions in India has shifted from their formative phase of ‘Functions, Functionaries and Funds’ to the contemporary stage of ‘Functionality’. Highlight the critical challenges faced by local institutions in terms of their functionality in recent times.**
@@ -2279,8 +2238,6 @@ The evolution of local institutions in India has witnessed a significant transit
 
 <p align="center"><img src="images/pw_polity_q196_img1.webp" alt="significance of LSG " /></p>
 
-
-
 ### Body
 
 **However, in recent times, these institutions have faced numerous challenges that hinder their ability to achieve the desired functionality. Some of these challenges are as follows:**
@@ -2293,8 +2250,6 @@ The evolution of local institutions in India has witnessed a significant transit
 - **Fragmented Governance:** The multiplicity of local institutions, such as Gram Panchayats, Urban Local Bodies, and various line departments, often leads to fragmented governance and a lack of coordination among them. This results in overlapping functions, duplication of efforts, and inefficiencies in service delivery.
 - **Poor Monitoring and Accountability:** The weak monitoring and accountability mechanisms at the local level make it difficult to assess the performance of local institutions and ensure that they are effectively addressing the needs of their constituents.
 
-
-
 ### Conclusion
 
 To overcome these challenges and enhance the functionality of local institutions, concerted efforts must be made to strengthen their capacity, improve financial resources, promote transparency and accountability, foster meaningful citizen participation, and ensure greater inclusiveness in decision-making processes.
@@ -2303,10 +2258,10 @@ To overcome these challenges and enhance the functionality of local institutions
 
 ---
 
-## Question 53 (Year: 2020 | Paper: GS 2 | Marks: 10 Marks | Words: 150 Words)
+## Question 56 (Year: 2020 | Paper: GS 2 | Marks: 10 Marks | Words: 150 Words)
 **Question ID: 2020-gs2-q53-pwonlyias** **“There is a need for simplification of procedure for disqualification of persons found guilty of corrupt practices under the Representation of Peoples Act”. Comment.**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** <br>• Briefly explain the Representation of Peoples Act (RPA) and its role in the electoral process. **Body** <br>• Discuss the reasons for the need for simplification: <br>• Timely resolution <br>• Legal clarity <br>• Deterrence effect <br>• Public trust <br>• Highlight the importance of balancing simplification with protection of candidates’ rights and principles of natural justice. **Conclusion** <br>• Conclude with the potential benefits of simplification for the integrity of the electoral system and public trust in democracy. |
 | --- |
@@ -2323,22 +2278,21 @@ To overcome these challenges and enhance the functionality of local institutions
 - **Deterrence effect:** Streamlining the disqualification procedure may also have a stronger deterrence effect, as potential offenders would be aware that they could be quickly and effectively disqualified if found guilty of corrupt practices.
 - **Public trust:** A transparent, fair, and efficient disqualification process can help improve public trust in the electoral system. This is particularly important in a democracy like India, where the legitimacy of the government depends on the integrity of the electoral process. **However, simplifying the disqualification process should not compromise the rights of candidates to a fair hearing and the opportunity to present their case.** It is essential to strike a balance between streamlining the process and ensuring that the principles of natural justice are upheld.
 
-
-
 ### Conclusion
 
 While doing so, it is important to ensure that the rights of candidates are protected, and the principles of natural justice are upheld. Ultimately, this can help promote a more transparent, fair, and efficient electoral system, fostering greater public trust in the democratic process.
 
 [Question ID: 2020-gs2-q53-pwonlyias]
 
+
 ---
 
-## Question 54 (Year: 2020 | Paper: GS 2 | Marks: 15 Marks | Words: 250 Words)
+## Question 57 (Year: 2020 | Paper: GS 2 | Marks: 15 Marks | Words: 250 Words)
 **Question ID: 2020-gs2-q54-pwonlyias**
 
 **Which steps are required for constitutionalization of a Commission? Do you think imparting constitutionality to the National Commission for Women would ensure greater gender justice and empowerment in India? Give reasons.**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** <br>• Begin by introducing the concept of constitutionalization of a Commission and its significance. **Body:** <br>• Identify and mention the steps for constitutionalization of a Commission. <br>• Discuss the potential benefits of constitutionalizing the NCW and the complementary measures required to ensure gender justice and empowerment in India. **Conclusion** <br>• Write a relevant conclusion. |
 | --- |
@@ -2363,22 +2317,21 @@ While doing so, it is important to ensure that the rights of candidates are prot
 - **Increased resources and capacity:** A constitutional body typically receives more significant resources and capacity, which can help the NCW to address gender issues more effectively and efficiently.
 - **Greater visibility and awareness:** As a constitutional body, the NCW would receive more significant attention and visibility, leading to increased awareness of gender issues and the promotion of gender justice and empowerment in India.
 
-
-
 ### Conclusion
 
 However, it is crucial to note that merely constitutionalizing the NCW is not a panacea for gender justice and empowerment. Complementary measures, such as strengthening the legal framework, promoting gender-sensitive policies, addressing socio-cultural norms that perpetuate gender inequality, and ensuring effective implementation of gender-related laws and policies, are also necessary for achieving gender justice and empowerment in India.
 
 [Question ID: 2020-gs2-q54-pwonlyias]
 
+
 ---
 
-## Question 55 (Year: 2019 | Paper: GS 2 | Marks: 10 Marks | Words: 150 Words)
+## Question 58 (Year: 2019 | Paper: GS 2 | Marks: 10 Marks | Words: 150 Words)
 **Question ID: 2019-gs2-q55-pwonlyias**
 
 **What can France learn from the Indian Constitution’s approach to secularism?**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** <br>• Introduce the concept of secularism and briefly mention the differences between French laïcité and Indian secularism. **Body** <br>• Discuss the aspects of the Indian Constitution’s approach to secularism that France could learn from: <br>• Recognition of multiple religions. <br>• Protection of religious rights. <br>• Encouraging interfaith dialogue and harmony. <br>• Balancing secularism with religious accommodation. **Conclusion** <br>• Write a relevant conclusion. |
 | --- |
@@ -2395,22 +2348,21 @@ However, it is crucial to note that merely constitutionalizing the NCW is not a 
 - **Encouraging interfaith dialogue and harmony:** France can learn from India’s approach by fostering interfaith dialogue and initiatives that promote harmony **(For example, in India’s case, mentioned in Article 51A(e))** and understanding between different religious groups.
 - **Balancing secularism with religious accommodation:** France could consider adopting a more nuanced approach to secularism that balances the need for state neutrality with the accommodation of religious rights and social justice concerns.
 
-
-
 ### Conclusion
 
 By adopting elements of India’s secularism, France could better address the challenges posed by its increasingly diverse society and promote harmony between different religious groups.
 
 [Question ID: 2019-gs2-q55-pwonlyias]
 
+
 ---
 
-## Question 56 (Year: 2019 | Paper: GS 2 | Marks: 15 Marks | Words: 250 Words)
+## Question 59 (Year: 2019 | Paper: GS 2 | Marks: 15 Marks | Words: 250 Words)
 **Question ID: 2019-gs2-q56-pwonlyias**
 
 **On what grounds a people’s representative can be disqualified under the Representation of Peoples Act, 1951? Also mention the remedies available to such person against his disqualification.**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** <br>• Introduce the Representation of People’s Act, 1951 (RPA) and its purpose in governing the conduct of elections in India. **Body** <br>• Discuss the grounds for disqualification under the RPA (Sections 8, 8A, 9, 9A, 10, and 10A). <br>• Explain the remedies available to a person against disqualification, including appealing to a higher court, seeking judicial review, expunging the conviction, and obtaining a presidential pardon. **Conclusion** <br>• Conclude, emphasizing the importance of the RPA in maintaining the integrity of the electoral process in India. |
 | --- |
@@ -2422,6 +2374,8 @@ By adopting elements of India’s secularism, France could better address the ch
 ### Body
 
 **Listed below are the key grounds for disqualification:** <p align="center"><img src="images/pw_polity_q451_img1.webp" alt="grounds for disqualification" /></p>
+
+**Listed below are the key grounds for disqualification:** 
 
 - **Conviction for certain offenses (Section 8):** A person is disqualified if convicted of any offense and sentenced to imprisonment for:
 - Two years or more for any offense specified in the RPA.
@@ -2438,20 +2392,19 @@ By adopting elements of India’s secularism, France could better address the ch
 - **Expunging the conviction:** In rare cases, a person can seek the expunging of their conviction through a legal process, thereby removing the grounds for disqualification. However, this remedy is available only in exceptional circumstances and is subject to the discretion of the courts.
 - **Presidential pardon:** In very rare cases, a person may seek a presidential pardon, which has the potential to reverse the conviction and remove the disqualification. However, this remedy is granted only in exceptional circumstances and is solely at the discretion of the President of India.
 
-
-
 ### Conclusion
 
 This Act plays a crucial role in maintaining the integrity of the electoral process in India by outlining the grounds for disqualification and the available remedies. By ensuring that individuals who engage in corruption or other offenses are held accountable and disqualified from contesting elections or holding public office, the RPA contributes to the preservation of democracy in India.
 
 [Question ID: 2019-gs2-q56-pwonlyias]
 
+
 ---
 
-## Question 57 (Year: 2019 | Paper: GS 2 | Marks: 15 Marks | Words: 250 Words)
+## Question 60 (Year: 2019 | Paper: GS 2 | Marks: 15 Marks | Words: 250 Words)
 **Question ID: 2019-gs2-q57-pwonlyias** **“The Attorney-General is the chief legal adviser and lawyer of the Government of India.” Discuss.**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** <br>• Briefly introduce the Attorney-General of India as a constitutional position under Article 76 and their role as the chief legal adviser and lawyer for the Government of India. **Body:** <br>• Discuss the appointment and qualifications of the Attorney-General. <br>• Outline the primary functions and responsibilities of the Attorney-General, emphasizing their role in providing legal advice, representing the government in courts, and drafting legal documents. <br>• Mention the additional roles, such as attending Parliament sessions and providing references to the Supreme Court. <br>• Explain the limitations and restrictions on the Attorney-General’s role, including independence, lack of executive powers, and professional limitations. **Conclusion** <br>• Conclude, emphasizing their importance in the country’s legal framework and ensuring the lawful functioning of the government. |
 | --- |
@@ -2474,17 +2427,16 @@ The Attorney-General of India is a constitutional position defined under Article
 - **No executive powers:** The Attorney-General does not have any executive powers or functions and cannot participate in the decision-making process of the government.
 - **Professional limitations:** The Attorney-General is not allowed to advise or hold a brief for any private party against the Government of India or defend an accused person in criminal proceedings.
 
-
-
 ### Conclusion
 
 Despite certain limitations, the Attorney-General remains an essential figure in ensuring the lawful functioning of the government and the protection of the nation’s legal interests.
 
 [Question ID: 2019-gs2-q57-pwonlyias]
 
+
 ---
 
-## Question 58 (Year: 2019 | Paper: GS 2 | Marks: 15 Marks | Words: 250 Words)
+## Question 61 (Year: 2019 | Paper: GS 2 | Marks: 15 Marks | Words: 250 Words)
 **Question ID: 2019-gs2-q58-pwonlyias**
 
 **Individual Parliamentarian’s role as the national law maker is on a decline, which in turn, has adversely impacted the quality of debates and their outcome. Discuss.**
@@ -2515,8 +2467,6 @@ Despite certain limitations, the Attorney-General remains an essential figure in
 - **Limited accountability:** With less in-depth discussion and scrutiny, the government may not be held accountable for its legislative proposals, undermining the principles of democratic governance.
 - **Reduced public trust:** As the quality of debates and legislative outcomes decline, public trust in the legislative process and the efficacy of democratic institutions may be eroded.
 
-
-
 ### Conclusion
 
 It is crucial to recognize and address this issue in order to maintain the integrity and effectiveness of the democratic process, ensuring that legislation is well-crafted, and the government is held accountable for its actions.
@@ -2525,12 +2475,12 @@ It is crucial to recognize and address this issue in order to maintain the integ
 
 ---
 
-## Question 59 (Year: 2018 | Paper: GS 2 | Marks: 10 Marks | Words: 150 Words)
+## Question 62 (Year: 2018 | Paper: GS 2 | Marks: 10 Marks | Words: 150 Words)
 **Question ID: 2018-gs2-q59-pwonlyias**
 
 **Whether National Commission for Scheduled Castes (NCSC) can enforce the implementation of constitutional reservation for the Scheduled Castes in the religious minority institutions? Examine.**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** <br>• Briefly introduce the National Commission for Scheduled Castes (NCSC) and its role in safeguarding the rights of Scheduled Castes (SCs). **Body** <br>• Discuss the constitutional provisions for reservation and the applicability of these provisions to religious minority institutions. Examine whether the NCSC can enforce the implementation of reservation in these institutions. **Conclusion** <br>• Sum up the limitations and challenges in enforcing reservation policies in religious minority institutions and the need for a balanced approach. |
 | --- |
@@ -2554,22 +2504,21 @@ Enforcing reservation in religious minority institutions may overstep the bounda
 The Indian Parliament has the legislative power to make laws concerning reservations, including potential alterations to the policy or constitutional amendments.
 - **This was demonstrated with the Central Educational Institutions (Reservation in Admission) Act of 2006, which mandated a 27% reservation for Other Backward Classes (OBCs) in central educational institutions,:** though it exempted minority educational institutions covered under Article 30.
 
-
-
 ### Conclusion
 
 While the NCSC plays a crucial role in safeguarding the rights of Scheduled Castes, its ability to enforce the implementation of constitutional reservation in religious minority institutions is restricted by the constitutional protection provided under Article 30. Striking a balance between the rights of minorities to maintain their religious and cultural identity and ensuring equal opportunities for SCs remains a complex challenge. It requires a nuanced approach that respects the constitutional provisions and promotes social justice and inclusion for all.
 
 [Question ID: 2018-gs2-q59-pwonlyias]
 
+
 ---
 
-## Question 60 (Year: 2018 | Paper: GS 2 | Marks: 10 Marks | Words: 150 Words)
+## Question 63 (Year: 2018 | Paper: GS 2 | Marks: 10 Marks | Words: 150 Words)
 **Question ID: 2018-gs2-q60-pwonlyias**
 
 **Under what circumstances can the Financial Emergency be proclaimed by the President of India? What consequences follow when such a declaration remain in force?**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** <br>• Briefly introduce the concept of Financial Emergency as per the Indian Constitution. **Body** <br>• Discuss the circumstances under which a Financial Emergency can be proclaimed by the President and the consequences that follow when such a declaration remains in force. **Conclusion** <br>• Summarize the importance of understanding Financial Emergency provisions and their implications on the functioning of the government and the economy. |
 | --- |
@@ -2593,17 +2542,16 @@ While the NCSC plays a crucial role in safeguarding the rights of Scheduled Cast
 - **Reservation of money bills:** During a Financial Emergency, the President can also reserve any financial bill passed by the state legislature for their consideration.
 - **Suspension of Fundamental Rights:** Though not explicitly mentioned in the Constitution, the enforcement of Directive Principles of State Policy (DPSP) may take precedence over the Fundamental Rights during a Financial Emergency.
 
-
-
 ### Conclusion
 
 Understanding the provisions of Financial Emergency and their implications is crucial for comprehending the constitutional framework for addressing financial crises in India. While a Financial Emergency has never been imposed in India’s history, its potential consequences can have far-reaching impacts on the functioning of the government and the economy. The President’s powers during a Financial Emergency are aimed at restoring financial stability and creditworthiness, albeit at the cost of temporarily curtailing certain rights and privileges of government officials and the public.
 
 [Question ID: 2018-gs2-q60-pwonlyias]
 
+
 ---
 
-## Question 61 (Year: 2018 | Paper: GS 2 | Marks: 10 Marks | Words: 150 Words)
+## Question 64 (Year: 2018 | Paper: GS 2 | Marks: 10 Marks | Words: 150 Words)
 **Question ID: 2018-gs2-q61-pwonlyias**
 
 **Why do you think the committees are considered to be useful for parliamentary work? Discuss, in this context, the role of the Estimates Committee.**
@@ -2640,8 +2588,6 @@ Understanding the provisions of Financial Emergency and their implications is cr
 - **Recommendations:** Based on their examination, the committee provides recommendations to the Parliament for improving the economy, efficiency, and effectiveness of government expenditure.
 - **Non-ministerial members:** The Estimates Committee consists exclusively of non-ministerial members, ensuring an unbiased and independent review of the government’s expenditure proposals.
 
-
-
 ### Conclusion
 
 Parliamentary committees, including the Estimates Committee, play a crucial role in enhancing the effectiveness and efficiency of the parliamentary system. They enable in-depth scrutiny of legislative proposals, policies, and budgets, facilitate the development of specialized expertise among MPs, and promote a non-partisan approach to parliamentary work.
@@ -2650,7 +2596,7 @@ Parliamentary committees, including the Estimates Committee, play a crucial role
 
 ---
 
-## Question 62 (Year: 2018 | Paper: GS 2 | Marks: 15 Marks | Words: 250 Words)
+## Question 65 (Year: 2018 | Paper: GS 2 | Marks: 15 Marks | Words: 250 Words)
 **Question ID: 2018-gs2-q62-pwonlyias**
 
 **Whether the Supreme Court Judgment (July 2018) can settle the political tussle between the Lt. Governor and elected government of Delhi? Examine.**
@@ -2679,8 +2625,6 @@ Parliamentary committees, including the Estimates Committee, play a crucial role
 - **Interpretation issues:** The judgment leaves room for interpretation in certain areas, which may lead to differing opinions and further conflicts between the Lt. Governor and the elected government.
 - **Political dynamics:** The political tussle between the Lt. Governor and the elected government is often influenced by the larger political dynamics at the central and state levels, which may not be entirely resolved by the judgment.
 
-
-
 ### Conclusion
 
 The Supreme Court judgment of July 2018 offers a legal framework clarifying the roles and powers of Delhi’s Lt. Governor and elected government, but it may not completely resolve their political tussle. The judgment’s effectiveness depends on both parties’ willingness to cooperate, constructively interpret the ruling, and prioritize citizens’ interests. Cooperation and consultation between the Lt. Governor and elected government are crucial for efficient governance and citizens’ well-being in Delhi.
@@ -2689,22 +2633,19 @@ The Supreme Court judgment of July 2018 offers a legal framework clarifying the 
 
 ---
 
-## Question 63 (Year: 2018 | Paper: GS 2 | Marks: 15 Marks | Words: 250 Words)
+## Question 66 (Year: 2018 | Paper: GS 2 | Marks: 15 Marks | Words: 250 Words)
 **Question ID: 2018-gs2-q63-pwonlyias**
 
 **How far do you agree with the view that tribunals curtail the jurisdiction of ordinary courts? In view of the above, discuss the constitutional validity and competency of the tribunals in India?**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** <br>• Introduce the concept of tribunals in India and their role in the judicial system. **Body** <br>• Discuss the extent to which tribunals curtail the jurisdiction of ordinary courts and examine the constitutional validity and competency of tribunals in India. **Conclusion** <br>• Summarize the importance of tribunals in the Indian judicial system and the need for maintaining a balance between the jurisdiction of tribunals and ordinary courts. |
 | --- |
 
 ### Introduction
 
-
 **Tribunals in India** are specialized quasi-judicial bodies **under Article 323A and 323B,** established to adjudicate disputes in specific areas, such as tax, environment, and labor. They aim to provide efficient, cost-effective, and expert resolution of disputes, thereby reducing the burden on ordinary courts.
-
-
 
 ### Body
 
@@ -2723,17 +2664,16 @@ The Supreme Court judgment of July 2018 offers a legal framework clarifying the 
 - **Speedy justice:** Tribunals generally have less formal procedures and fewer adjournments, which can lead to faster dispute resolution compared to ordinary courts.
 - **Access to justice:** Tribunals can be more accessible and affordable for litigants, particularly in cases involving technical or specialized matters.
 
-
-
 ### Conclusion
 
 The constitutional validity of tribunals is established under Articles 323A and 323B of the Constitution, and their competency is evidenced by their expertise and effectiveness in handling specific disputes. However, it is essential to maintain a balance between the jurisdiction of tribunals and ordinary courts to ensure that the rights of litigants are adequately protected and that the overall judicial system remains effective and accessible to all.
 
 [Question ID: 2018-gs2-q63-pwonlyias]
 
+
 ---
 
-## Question 64 (Year: 2018 | Paper: GS 2 | Marks: 15 Marks | Words: 250 Words)
+## Question 67 (Year: 2018 | Paper: GS 2 | Marks: 15 Marks | Words: 250 Words)
 **Question ID: 2018-gs2-q64-pwonlyias**
 
 **How is the Finance Commission of India constituted? What do you know about the terms of reference of the recently constituted Finance Commission? Discuss.**
@@ -2760,8 +2700,6 @@ The constitutional validity of tribunals is established under Articles 323A and 
 - **Performance-based incentives:** Recommending performance-based incentives for States that demonstrate progress in areas such as ease of doing business, education, health, and sustainable development.
 - **Disaster management:** Assessing the impact of the goods and services tax (GST) on the fiscal situation of the Union and States, and recommending measures for disaster management, particularly in light of the increasing frequency of natural disasters.
 
-
-
 ### Conclusion
 
 By addressing the financial needs of both the Union and State governments, the Commission promotes balanced economic development and fosters cooperation between different levels of government. The terms of reference of the recently constituted Finance Commission reflect the evolving fiscal landscape and contemporary challenges, emphasizing the need for fiscal discipline, performance-based incentives, and effective disaster management.
@@ -2770,12 +2708,12 @@ By addressing the financial needs of both the Union and State governments, the C
 
 ---
 
-## Question 65 (Year: 2017 | Paper: GS 2 | Marks: 10 Marks | Words: 150 Words)
+## Question 68 (Year: 2017 | Paper: GS 2 | Marks: 10 Marks | Words: 150 Words)
 **Question ID: 2017-gs2-q65-pwonlyias**
 
 **Critically examine the Supreme Court’s judgement on ‘National Judicial Appointments Commission Act, 2014’ with reference to appointment of judges of higher judiciary in India.**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** <br>• Provide a brief overview of the NJAC Act, 2014, and its significance in reforming the appointment of judges in the higher judiciary in India. **Body** <br>• Discuss, Analyze and Assess the arguments ‘for’ and ‘against’ the Supreme Court’s judgement on ‘National Judicial Appointments Commission Act, 2014’. **Conclusion** <br>• Write a relevant conclusion. |
 | --- |
@@ -2796,17 +2734,16 @@ By addressing the financial needs of both the Union and State governments, the C
 - **Arbitrary Veto Power:** The NJAC Act provided that if any two members of the Commission disagreed with an appointment, the appointment would not go through. The Supreme Court held that this provision gave arbitrary veto power to members of the NJAC, which could be misused to block appointments. Critics of the judgment argue that the provision was designed to ensure a consensus-based approach to appointments, and the Court’s concerns were based on assumptions rather than evidence.
 - **Collegium System:** After striking down the NJAC Act, the Supreme Court reinstated the collegium system for judicial appointments, which has long been criticized for its opacity and lack of accountability. Critics argue that the Court missed an opportunity to propose meaningful reforms to the collegium system while striking down the NJAC Act.
 
-
-
 ### Conclusion
 
 While the Court’s concerns about the independence of the judiciary are valid, critics argue that the NJAC Act could have been an opportunity to reform the appointment process while preserving the independence of the judiciary.
 
 [Question ID: 2017-gs2-q65-pwonlyias]
 
+
 ---
 
-## Question 66 (Year: 2017 | Paper: GS 2 | Marks: 15 Marks | Words: 250 Words)
+## Question 69 (Year: 2017 | Paper: GS 2 | Marks: 15 Marks | Words: 250 Words)
 **Question ID: 2017-gs2-q66-pwonlyias**
 
 **Examine the scope of Fundamental Rights in the light of the latest judgement of the Supreme Court on Right to Privacy.**
@@ -2818,20 +2755,18 @@ While the Court’s concerns about the independence of the judiciary are valid, 
 
 ### Introduction
 
-
 **The Right to Privacy judgment by the Supreme Court of India in 2017 (Justice K.S. Puttaswamy (Retd.) vs Union of India)** marked a significant milestone in the interpretation and scope of Fundamental Rights in India. The nine-judge bench **unanimously recognized the Right to Privacy as an intrinsic part of the Right to Life** and Personal Liberty under Article 21 of the Constitution.
 
-
-
 ### Body
+
 * **The Puttaswamy case or the Right to Privacy judgment has had broad implications on the scope of Fundamental Rights in India**: <p align="center"><img src="images/pw_polity_q329_img1.webp" alt="scope of Fundamental Rights in India" /></p>
+
+* **The Puttaswamy case or the Right to Privacy judgment has had broad implications on the scope of Fundamental Rights in India**: 
 - **Expansion of Article 21:** The Right to Privacy judgment reaffirms the expansive interpretation of Article 21, which encompasses not just the right to life but also the right to live with dignity, personal liberty, and privacy.
 - **Interconnectedness of Fundamental Rights:** By acknowledging that privacy is essential to the meaningful exercise of these rights, the judgment underscores the importance of a holistic approach to interpreting and safeguarding Fundamental Rights.
 - **Balancing individual rights and legitimate state interests:** While recognizing the Right to Privacy as a Fundamental Right, the judgment also acknowledges the need to balance individual rights with legitimate state interests, such as national security, public order, and the protection of the rights of others.
 - **Impact on existing and future legislation:** For example, the judgment prompted a reconsideration of the constitutional validity of Section 377 of the Indian Penal Code, which criminalized consensual same-sex relationships. In 2018, the Supreme Court decriminalized homosexuality in the landmark Navtej Singh Johar vs Union of India case, citing privacy as a key factor in its decision.
 - **Influence on data protection and surveillance:** The court’s recognition of informational privacy has prompted discussions about a robust data protection framework and the need to regulate state and private surveillance.
-
-
 
 ### Conclusion
 
@@ -2841,12 +2776,12 @@ The Supreme Court’s Right to Privacy judgment has implications on various doma
 
 ---
 
-## Question 67 (Year: 2017 | Paper: GS 2 | Marks: 15 Marks | Words: 250 Words)
+## Question 70 (Year: 2017 | Paper: GS 2 | Marks: 15 Marks | Words: 250 Words)
 **Question ID: 2017-gs2-q67-pwonlyias**
 
 **Explain the salient features of the constitution (One Hundred and First Amendment) Act, 2016. Do you think it is efficacious enough ‘to remove cascading effect of taxes and provide for common national market for goods and services’?**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction:** <br>• Introduce the Constitution (One Hundred and First Amendment) Act, 2016, which implemented the Goods and Services Tax (GST) in India, aiming to remove the cascading effect of taxes and create a common national market for goods and services. **Body** <br>• Divide the body into three main sections. <br>• Salient features of the amendment. <br>• Efficacy of GST in achieving objectives. <br>• Concerns and challenges. **Conclusion** <br>• Conclude, emphasizing the need for continued improvement and simplification of the GST system to enhance its overall effectiveness. |
 | --- |
@@ -2854,6 +2789,8 @@ The Supreme Court’s Right to Privacy judgment has implications on various doma
 ### Introduction
 
 **The Constitution (One Hundred and First Amendment) Act, 2016, introduced the Goods and Services Tax (GST) in India, a comprehensive indirect tax system aimed at streamlining the taxation process and creating a common national market for goods and services.** Body: **<p align="center"><img src="images/pw_polity_q330_img1.webp" alt="GST" /></p>**
+
+**The Constitution (One Hundred and First Amendment) Act, 2016, introduced the Goods and Services Tax (GST) in India, a comprehensive indirect tax system aimed at streamlining the taxation process and creating a common national market for goods and services.** Body: ****
 
 **The amendment’s salient features include:**
 - **Dual GST structure:** This includes Central GST (CGST) and State GST (SGST) or Union Territory GST (UTGST) depending on the transaction type.
@@ -2872,17 +2809,16 @@ The Supreme Court’s Right to Privacy judgment has implications on various doma
 - **Compliance burden:** Small and medium-sized enterprises (SMEs) may face challenges in complying with the GST’s digital filing requirements and navigating the tax system.
 - **Revenue concerns for states:** Some states may experience revenue losses despite the compensation mechanism, as they lose the autonomy to levy their taxes.
 
-
-
 ### Conclusion
 
 Addressing the challenges faced by businesses and states, and further simplifying the tax structure, can enhance the overall efficacy of the GST system.
 
 [Question ID: 2017-gs2-q67-pwonlyias]
 
+
 ---
 
-## Question 68 (Year: 2017 | Paper: GS 2 | Marks: 10 Marks | Words: 150 Words)
+## Question 71 (Year: 2017 | Paper: GS 2 | Marks: 10 Marks | Words: 150 Words)
 **Question ID: 2017-gs2-q68-pwonlyias**
 
 **How do pressure groups influence Indian political process? Do you agree with this view that informal pressure groups have emerged as powerful as formal pressure groups in recent years?**
@@ -2898,8 +2834,6 @@ Pressure groups are vital to the Indian political process, influencing decisions
 
 <p align="center"><img src="images/pw_polity_q335_img1.webp" alt="features of Pressure groups" /></p>
 
-
-
 ### Body
 
 There has been a growing perception that informal pressure groups have emerged as powerful as formal pressure groups in recent years.
@@ -2913,8 +2847,6 @@ There has been a growing perception that informal pressure groups have emerged a
 - **Anti-corruption movement (India Against Corruption):** Led by social activist Anna Hazare in 2011, this informal pressure group demanded the enactment of the Jan Lokpal Bill to address corruption. The movement garnered widespread public support and played a crucial role in the formation of the Aam Aadmi Party (AAP).
 - **Farmers’ protests:** The ongoing farmers’ protests in India, which began in 2020, are an example of an informal pressure group coming together to challenge the central government’s farm laws. The protests have gained national and international attention, pressuring the government to engage in dialogue with the farmers.
 
-
-
 ### Conclusion
 
 Despite the growing influence of informal pressure groups, it is essential not to undermine the importance of formal pressure groups, which continue to play a crucial role in the Indian political process. Both types of pressure groups contribute to a vibrant democracy by ensuring that diverse voices are heard and considered in the policy-making process.
@@ -2923,7 +2855,7 @@ Despite the growing influence of informal pressure groups, it is essential not t
 
 ---
 
-## Question 69 (Year: 2017 | Paper: GS 2 | Marks: 15 Marks | Words: 250 Words)
+## Question 72 (Year: 2017 | Paper: GS 2 | Marks: 15 Marks | Words: 250 Words)
 **Question ID: 2017-gs2-q69-pwonlyias**
 
 **Is the National Commission for Women able to strategise and tackle the problems that women face at both public and private spheres? Give reasons in support of your answer.**
@@ -2953,8 +2885,6 @@ Despite the growing influence of informal pressure groups, it is essential not t
 - **Regional disparities:** The NCW’s reach and impact can vary across states and regions due to differences in local governance, socio-cultural factors, and the presence of State Commissions for Women, leading to uneven progress in addressing women’s issues.
 - I **nadequate implementation:** The implementation of laws and policies recommended by the NCW is often hindered by societal attitudes, lack of awareness, and bureaucratic hurdles, which can result in a limited impact on the ground.
 
-
-
 ### Conclusion
 
 To enhance the effectiveness of the NCW, there is a need for greater political will, increased resources, and stronger collaboration between the NCW, State Commissions for Women, and other stakeholders.
@@ -2963,7 +2893,7 @@ To enhance the effectiveness of the NCW, there is a need for greater political w
 
 ---
 
-## Question 70 (Year: 2017 | Paper: GS 2 | Marks: 10 Marks | Words: 150 Words)
+## Question 73 (Year: 2017 | Paper: GS 2 | Marks: 10 Marks | Words: 150 Words)
 **Question ID: 2017-gs2-q70-pwonlyias** **‘Simultaneous election to the Lok Sabha and the State Assemblies will limit the amount of time and money spent in electioneering but it will reduce the government’s accountability to the people’ Discuss.**
 
 ### Answer
@@ -2974,6 +2904,8 @@ To enhance the effectiveness of the NCW, there is a need for greater political w
 ### Introduction
 
 **Simultaneous elections, also known as “One Nation, One Election,” refer to the proposal of conducting both Lok Sabha and State Assembly elections concurrently in India. This concept aims to streamline the electoral process, save resources, and reduce the disruptions caused by frequent elections.** Body: **<p align="center"><img src="images/pw_polity_q358_img1.webp" alt="simultaneous elections" /></p>**
+
+**Simultaneous elections, also known as “One Nation, One Election,” refer to the proposal of conducting both Lok Sabha and State Assembly elections concurrently in India. This concept aims to streamline the electoral process, save resources, and reduce the disruptions caused by frequent elections.** Body: ****
 
 **Advantages of simultaneous elections:**
 - **Saving resources:** Conducting simultaneous elections can save a significant amount of financial and administrative resources, as well as time spent in electioneering.
@@ -2987,8 +2919,6 @@ To enhance the effectiveness of the NCW, there is a need for greater political w
 - **Impact on coalition governments:** In case of a hung Parliament or Assembly, the formation of a coalition government may become more challenging in a simultaneous election setup.
 - **Constitutional challenges:** Implementing simultaneous elections may require significant amendments to the Constitution, which could be a complex and time-consuming process. Additionally, it might disrupt the federal structure of the country.
 
-
-
 ### Conclusion
 
 While simultaneous elections can save time and resources, it may also impact government accountability to the people. It is essential to weigh these advantages and disadvantages carefully before implementing such a system. Public consultations and expert opinions must be considered to ensure the best possible outcome for the country’s democratic process.
@@ -2997,7 +2927,7 @@ While simultaneous elections can save time and resources, it may also impact gov
 
 ---
 
-## Question 71 (Year: 2017 | Paper: GS 2 | Marks: 15 Marks | Words: 250 Words)
+## Question 74 (Year: 2017 | Paper: GS 2 | Marks: 15 Marks | Words: 250 Words)
 **Question ID: 2017-gs2-q71-pwonlyias**
 
 **The Indian Constitution has provisions for holding a joint session of the two houses of the Parliament. Enumerate the occasions when this would normally happen and also the occasions when it cannot, with reasons thereof.**
@@ -3026,8 +2956,6 @@ While simultaneous elections can save time and resources, it may also impact gov
 - **No-confidence motion:** A joint session cannot be held to discuss and pass a no-confidence motion against the government, as this motion applies only to the Lok Sabha.
 - **Approval of ordinances:** Joint sessions are not applicable for approving ordinances issued by the President when Parliament is not in session. Ordinances must be separately approved by both houses within six weeks of the Parliament’s reassembly.
 
-
-
 ### Conclusion
 
 The Indian Constitution provides for joint sessions of Parliament to resolve legislative deadlocks on non-money bills. However, joint sessions cannot be held for money bills, constitutional amendment bills, impeachment proceedings, no-confidence motions, and approval of ordinances.
@@ -3036,10 +2964,10 @@ The Indian Constitution provides for joint sessions of Parliament to resolve leg
 
 ---
 
-## Question 72 (Year: 2017 | Paper: GS 2 | Marks: 10 Marks | Words: 150 Words)
+## Question 75 (Year: 2017 | Paper: GS 2 | Marks: 10 Marks | Words: 150 Words)
 **Question ID: 2017-gs2-q72-pwonlyias** **“The local self government system in India has not proved to be effective instrument of governance”. Critically examine the statement and give your views to improve the situation.**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** <br>• Briefly introduce the concept of local self-government system in India, and mention the 73rd and 74th Constitutional Amendments. **Body** <br>• Talk about the positive aspects of the local self-government system. <br>• Identify and mention the challenges faced by the local self-government system. <br>• Also, mention the recommendations of the Second ARC. <br>• Provide suggestions to improve the situation. **Conclusion** <br>• Write a suitable conclusion. |
 | --- |
@@ -3049,8 +2977,6 @@ The Indian Constitution provides for joint sessions of Parliament to resolve leg
 **The local self-government system in India, including Panchayati Raj Institutions and Urban Local Bodies, was established to promote participatory democracy, decentralized governance, and address local concerns.** Despite the 73rd and 74th Constitutional Amendments providing a legal framework, **the effectiveness of these institutions in governance continues to be debated.**
 
 <p align="center"><img src="images/pw_polity_q196_img1.webp" alt="significance of LSG" /></p>
-
-
 
 ### Body
 
@@ -3072,22 +2998,21 @@ The Indian Constitution provides for joint sessions of Parliament to resolve leg
 - **Training and capacity building:** To enhance the efficiency of local self-government institutions, **regular training and capacity-building programs** should be organized for elected representatives and officials, equipping them with the necessary skills and knowledge.
 - **Accountability and transparency:** Measures like social audits, citizen report cards, and e-governance initiatives:** should be encouraged to promote transparency and accountability in the functioning of local bodies.
 
-
-
 ### Conclusion
 
 By addressing the challenges and implementing the suggested measures, the system can be strengthened, enabling it to deliver better governance and development outcomes for the people of India.
 
 [Question ID: 2017-gs2-q72-pwonlyias]
 
+
 ---
 
-## Question 73 (Year: 2017 | Paper: GS 2 | Marks: 15 Marks | Words: 250 Words)
+## Question 76 (Year: 2017 | Paper: GS 2 | Marks: 15 Marks | Words: 250 Words)
 **Question ID: 2017-gs2-q73-pwonlyias**
 
 **To enhance the quality of democracy in India the Election Commission of India has proposed electoral reforms in 2016. What are the suggested reforms and how far are they significant to make democracy successful?**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** <br>• Introduce by emphasizing the purpose of the electoral reforms proposed by the Election Commission of India in 2016. **Body** <br>• Divide the body into two main sections. <br>• Suggested electoral reforms. <br>• Significance of the suggested reforms in making democracy successful. **Conclusion** <br>• Highlight the need for political will, public awareness, and the continued vigilance of civil society and citizens to ensure the successful implementation of these reforms. |
 | --- |
@@ -3106,7 +3031,10 @@ By addressing the challenges and implementing the suggested measures, the system
 - **Transparency in political funding:** The ECI recommended setting limits on corporate donations to political parties, mandating the disclosure of donor identities, and ensuring transparency in the use of electoral bonds to curb the influence of unaccounted money in elections.
 - **Compulsory voting:** The ECI suggested exploring the feasibility of introducing compulsory voting to increase voter turnout and enhance democratic participation.
 - **Use of technology:** The ECI proposed measures such as the introduction of Voter Verifiable Paper Audit Trail (VVPAT) machines, electronic transmission of postal ballots, and the use of biometric identification to make the voting process more secure and efficient.
+
 - **Inclusion of special categories:** The ECI recommended measures to facilitate the voting process for special categories of voters, such as Non-Resident Indians (NRIs), persons with disabilities, and migrant workers. **<p align="center"><img src="images/pw_polity_q369_img1.webp" alt="Electoral reforms" /></p>**
+
+- **Inclusion of special categories:** The ECI recommended measures to facilitate the voting process for special categories of voters, such as Non-Resident Indians (NRIs), persons with disabilities, and migrant workers. ****
 
 **The significance of these proposed electoral reforms in making democracy successful can be assessed as follows:**
 - **Enhanced transparency and accountability:** Reforms like transparency in political funding and the disqualification of candidates with criminal charges can help reduce corruption and ensure that public representatives are accountable.
@@ -3114,17 +3042,16 @@ By addressing the challenges and implementing the suggested measures, the system
 - **Efficient governance:** Simultaneous elections can lead to more efficient governance by reducing the frequency of elections and allowing the government to focus on policy implementation and development.
 - **Leveling the playing field:** State funding of elections and limits on corporate donations can help reduce the influence of money in politics and create a more level playing field for candidates and parties.
 
-
-
 ### Conclusion
 
 The electoral reforms proposed by the Election Commission of India in 2016 can significantly enhance the quality of democracy in India by promoting transparency, accountability, and inclusiveness. However, the successful implementation of these reforms requires political will, public awareness, and continued vigilance from civil society and citizens.
 
 [Question ID: 2017-gs2-q73-pwonlyias]
 
+
 ---
 
-## Question 74 (Year: 2016 | Paper: GS 2 | Marks: N/A | Words: N/A)
+## Question 77 (Year: 2016 | Paper: GS 2 | Marks: N/A | Words: N/A)
 **Question ID: 2016-gs2-q74-pwonlyias**
 
 **Did the Government of India Act, 1935 lay down a federal constitution? Discuss. (200 words, 12.5 marks)**
@@ -3149,8 +3076,6 @@ The electoral reforms proposed by the Election Commission of India in 2016 can s
 - The primary reason was the lack of participation from the princely states, which were reluctant to join the federation due to concerns over their sovereignty and autonomy.
 - Additionally, the outbreak of World War II and the subsequent political developments in India, including the rise of the Indian independence movement, led to a shift in focus away from implementing the federal provisions of the Act.
 
-
-
 ### Conclusion
 
 The Act, however, significantly influenced the framing of the Constitution of India after independence, with several of its provisions serving as a basis for the new constitution’s federal structure.
@@ -3159,7 +3084,7 @@ The Act, however, significantly influenced the framing of the Constitution of In
 
 ---
 
-## Question 75 (Year: 2016 | Paper: GS 2 | Marks: N/A | Words: N/A)
+## Question 78 (Year: 2016 | Paper: GS 2 | Marks: N/A | Words: N/A)
 **Question ID: 2016-gs2-q75-pwonlyias**
 
 **Discuss each adjective attached to the word ‘Republic’ in the ‘Preamble’. Are they defendable in the present circumstances? (200 words, 12.5 marks)**
@@ -3174,8 +3099,6 @@ The Act, however, significantly influenced the framing of the Constitution of In
 The Preamble of the Indian Constitution serves as the guiding light for the nation, setting forth its fundamental principles and values. Among these principles, India is declared as a “Sovereign Socialist Secular Democratic Republic,” representing the key features of the country’s political and social fabric. These adjectives reflect the aspirations of the founding fathers and continue to guide India’s development and progress.
 
 <p align="center"><img src="images/pw_polity_q253_img1.webp" alt="value of preamble" /></p>
-
-
 
 ### Body
 
@@ -3193,8 +3116,6 @@ The Preamble of the Indian Constitution serves as the guiding light for the nati
   - India, as the largest democracy globally, has witnessed regular elections, an independent judiciary, and a vibrant civil society. **For example, the recent state assembly elections in West Bengal and Kerala** demonstrate the robustness of the democratic process.
 - However, concerns about the erosion of democratic values, media freedom, and the concentration of power have been raised, highlighting the need to strengthen democratic institutions.
 
-
-
 ### Conclusion
 
 The adjectives attached to the word “Republic” in the Preamble continue to be defendable in the present circumstances, despite the challenges. The examples provided illustrate India’s commitment to upholding these values, which form the bedrock of the Indian Constitution.
@@ -3203,7 +3124,7 @@ The adjectives attached to the word “Republic” in the Preamble continue to b
 
 ---
 
-## Question 76 (Year: 2016 | Paper: GS 2 | Marks: N/A | Words: N/A)
+## Question 79 (Year: 2016 | Paper: GS 2 | Marks: N/A | Words: N/A)
 **Question ID: 2016-gs2-q76-pwonlyias**
 
 **Discuss the essentials of the 69th Constitutional Amendment Act and anomalies, if any, that have led to recent reported conflicts between the elected representatives and institution of Lieutenant Governor in the administration of Delhi. Do you think that this will give rise to a new trend in the functioning of the Indian Federal Politics?  (200 words, 12.5 marks)**
@@ -3232,8 +3153,6 @@ The adjectives attached to the word “Republic” in the Preamble continue to b
 - The conflicts arising from the 69th Constitutional Amendment Act highlight the complexities of the federal structure in India, particularly in the context of a Union Territory with a unique status like Delhi.
 - These conflicts have the potential to set new trends in Indian federal politics as they underscore the need for clearly defined roles and responsibilities for both elected representatives and constitutional authorities.
 
-
-
 ### Conclusion
 
 In its 2018 judgment, the Supreme Court of India clarified the LG’s and Delhi Government’s roles and powers, emphasizing that the LG must act on the Council of Ministers’ advice and not interfere in NCT’s day-to-day administration. This decision fosters cooperation and coordination between the LG and Delhi Government, potentially serving as a model for other Union Territories with legislatures.
@@ -3242,12 +3161,12 @@ In its 2018 judgment, the Supreme Court of India clarified the LG’s and Delhi 
 
 ---
 
-## Question 77 (Year: 2016 | Paper: GS 2 | Marks: N/A | Words: N/A)
+## Question 80 (Year: 2016 | Paper: GS 2 | Marks: N/A | Words: N/A)
 **Question ID: 2016-gs2-q77-pwonlyias**
 
 **Exercise of CAG’s powers in relation to the accounts of the Union and the States is derived from Article 149 of the Indian Constitution. Discuss whether audit of the Government’s policy implementation could amount to overstepping its own (CAG) jurisdiction. (200 words, 12.5 marks)**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** <br>• Introduce the Comptroller and Auditor General (CAG) as a constitutional authority derived from Article 149 of the Indian Constitution. **Body** <br>• Discuss the different types of audits conducted by the CAG, focusing on the performance audit and its relevance to government policy implementation. <br>• Explain that the CAG’s audit does not interfere with the policy-making process but evaluates the effectiveness, efficiency, and economy of the government’s policies and operations. **Conclusion** <br>• Conclude, emphasizing the CAG’s vital role in enhancing the overall effectiveness and accountability of the government’s operations. |
 | --- |
@@ -3271,17 +3190,16 @@ In its 2018 judgment, the Supreme Court of India clarified the LG’s and Delhi 
 - **The CAG does not interfere with the government’s policy-making process, which remains the exclusive domain of the executive branch.:** Instead, the CAG’s role is to provide an independent and objective assessment of whether the government’s policies have been implemented effectively and efficiently, in line with the intended goals and objectives.
 - In this context, the audit of government policy implementation by the CAG does not amount to overstepping its jurisdiction. **The CAG’s audits contribute to improving governance, transparency, and accountability by highlighting areas of inefficiency, irregularities, or non-compliance, thus enabling the government to take corrective measures and improve its policy implementation process.**
 
-
-
 ### Conclusion
 
 By evaluating the outcomes of policy implementation and identifying areas for improvement, the CAG plays a vital role in enhancing the overall effectiveness and accountability of the government’s operations.
 
 [Question ID: 2016-gs2-q77-pwonlyias]
 
+
 ---
 
-## Question 78 (Year: 2016 | Paper: GS 2 | Marks: N/A | Words: N/A)
+## Question 81 (Year: 2016 | Paper: GS 2 | Marks: N/A | Words: N/A)
 **Question ID: 2016-gs2-q78-pwonlyias**
 
 **The Indian party system is passing through a phase of transition which looks to be full of contradictions and paradoxes.” Discuss. (200 words, 12.5 marks)**
@@ -3305,8 +3223,6 @@ By evaluating the outcomes of policy implementation and identifying areas for im
 - **Coalition Politics:** The emergence of coalition governments, such as the United Progressive Alliance (UPA) and the National Democratic Alliance (NDA),:** highlights the importance of alliances in Indian politics. This trend reflects both the diversity of Indian society and the challenges of coalition-building for political stability.
 - **Influence of Social Media:** The growing role of social media in shaping political narratives and mobilizing support is a significant development. **The BJP’s extensive use of social media platforms in the 2014 and 2019 elections exemplifies this trend.** However, it also raises concerns about the spread of misinformation and the impact on the quality of political discourse.
 
-
-
 ### Conclusion
 
 As India’s democracy continues to evolve, it is crucial to address these challenges to ensure the stability and integrity of the political system while embracing the diverse aspirations of its citizens.
@@ -3315,12 +3231,12 @@ As India’s democracy continues to evolve, it is crucial to address these chall
 
 ---
 
-## Question 79 (Year: 2016 | Paper: GS 2 | Marks: N/A | Words: N/A)
+## Question 82 (Year: 2016 | Paper: GS 2 | Marks: N/A | Words: N/A)
 **Question ID: 2016-gs2-q79-pwonlyias**
 
 **What is a quasi judicial body? Explain with the help of concrete examples. (200 words, 12.5 marks)**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** <br>• Introduce the concept of quasi-judicial bodies as administrative or non-judicial organizations that have the authority to make decisions, adjudicate disputes, or impose penalties in specific matters, functioning within specialized areas of law. **Body** <br>• You can also mention in brief, Articles 323A and 323B of the Constitution. <br>• Explain the characteristics of quasi-judicial bodies and their role in complementing the traditional judicial system. <br>• Provide concrete examples of quasi-judicial bodies in India, such as: <br>• Central Administrative Tribunal (CAT), <br>• National Green Tribunal (NGT), <br>• Competition Commission of India (CCI), and <br>• Telecom Disputes Settlement and Appellate Tribunal (TDSAT). <br>• Discuss their respective areas of expertise, functions, and powers, highlighting their importance in providing efficient and focused dispute resolution or decision-making mechanisms. **Conclusion** <br>• Write a relevant conclusion. |
 | --- |
@@ -3328,8 +3244,6 @@ As India’s democracy continues to evolve, it is crucial to address these chall
 ### Introduction
 
 **Quasi-judicial bodies are administrative or non-judicial entities that possess the authority to adjudicate disputes, make decisions, and impose penalties in specific areas. Although not part of the traditional judicial system, they exercise powers akin to courts, thereby providing a more efficient and focused mechanism for dispute resolution.** Articles 323A and 323B of the Constitution empower the establishment of such bodies. **
-
-
 
 ### Body
 
@@ -3351,22 +3265,21 @@ As India’s democracy continues to evolve, it is crucial to address these chall
 - **Telecom Disputes Settlement and Appellate Tribunal (TDSAT):** Established under the Telecom Regulatory Authority of India (TRAI) Act, 1997, TDSAT is a specialized tribunal that adjudicates disputes and hears appeals related to the telecommunications sector.
 - It deals with cases involving telecom service providers, broadcasting companies, and cable operators, ensuring a focused mechanism for dispute resolution in this rapidly evolving industry.
 
-
-
 ### Conclusion
 
 These bodies are essential for providing efficient, specialized, and focused dispute resolution or decision-making mechanisms, complementing the traditional judicial system in addressing the complexities of modern society.
 
 [Question ID: 2016-gs2-q79-pwonlyias]
 
+
 ---
 
-## Question 80 (Year: 2016 | Paper: GS 2 | Marks: N/A | Words: N/A)
+## Question 83 (Year: 2016 | Paper: GS 2 | Marks: N/A | Words: N/A)
 **Question ID: 2016-gs2-q80-pwonlyias**
 
 **What was held in the Coelho case? In this context, can you say that judicial review is of key importance amongst the basic features of the Constitution? (200 words, 12.5 marks)**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** <br>• Introduce the Coelho case as a landmark judgment by the Supreme Court of India, which reinforced the doctrine of the basic structure of the Constitution and the importance of judicial review. **Body** <br>• Explain the main holding of the Coelho case, emphasizing that laws placed in the Ninth Schedule are still subject to judicial review if they violate the basic structure of the Constitution. <br>• Discuss the significance of judicial review as a key component of the basic features of the Constitution, elaborating on its role in upholding the principles of separation of powers, rule of law, and protection of fundamental rights. **Conclusion** <br>• Conclude by emphasizing that the decision underscores the importance of judicial review as a key element of the basic features of the Constitution. |
 | --- |
@@ -3385,17 +3298,16 @@ The I.R. Coelho v. State of Tamil Nadu (2007), is a landmark judgment by the Sup
 - **The basic structure doctrine,:** first established in the Kesavananda Bharati case (1973), lists several features of the Constitution that cannot be altered or removed even by a constitutional amendment.
 - **Judicial review is considered one of these essential features,:** as it upholds the principles of separation of powers, rule of law, and protection of fundamental rights.
 
-
-
 ### Conclusion
 
 The Coelho case underscores the importance of judicial review as a key element of the basic features of the Constitution. By asserting the supremacy of the basic structure doctrine over the Ninth Schedule and limiting the power of Parliament to shield laws from scrutiny, the Supreme Court reaffirmed the crucial role of judicial review in upholding constitutional values and principles.
 
 [Question ID: 2016-gs2-q80-pwonlyias]
 
+
 ---
 
-## Question 81 (Year: 2015 | Paper: GS 2 | Marks: N/A | Words: N/A)
+## Question 84 (Year: 2015 | Paper: GS 2 | Marks: N/A | Words: N/A)
 **Question ID: 2015-gs2-q81-pwonlyias**
 
 **Discuss the possible factors that inhibit India from enacting for its citizens a uniform civil code as provided for in the Directive Principles of State Policy. (200 words, 12.5 marks)**
@@ -3421,8 +3333,6 @@ The Coelho case underscores the importance of judicial review as a key element o
 - **Judicial approach:** The judiciary, while interpreting personal laws, has often adopted a cautious and gradual approach, making piecemeal changes to the existing personal laws, rather than pushing for a complete overhaul in the form of a UCC.
 - **Socio-cultural factors:** Societal norms and cultural practices are deeply entrenched in Indian society. Implementing a UCC would require overcoming these barriers and persuading people to accept a new legal system.
 
-
-
 ### Conclusion
 
 The implementation of a UCC in India is a complex issue due to the factors mentioned above. The challenge lies in finding a balanced approach that respects the country’s religious and cultural diversity while ensuring justice, equality, and gender parity.
@@ -3431,7 +3341,7 @@ The implementation of a UCC in India is a complex issue due to the factors menti
 
 ---
 
-## Question 82 (Year: 2015 | Paper: GS 2 | Marks: N/A | Words: N/A)
+## Question 85 (Year: 2015 | Paper: GS 2 | Marks: N/A | Words: N/A)
 **Question ID: 2015-gs2-q82-pwonlyias**
 
 **Does the right to clean environment entail legal regulations on burning crackers during Diwali? Discuss in the light of Article 21 of the Indian Constitution and Judgement(s) of the Apex Court in this regard. (200 words, 12.5 marks)**
@@ -3452,8 +3362,6 @@ The implementation of a UCC in India is a complex issue due to the factors menti
 - **In the case of Arjun Gopal vs Union of India (2017),:** the Supreme Court imposed a temporary ban on the sale of firecrackers in the Delhi-NCR region to address the severe air pollution caused by the burning of crackers during Diwali. The court also directed the Central Pollution Control Board (CPCB) to study the impact of firecrackers on air quality and submit a report.
 - **In 2018, the Supreme Court issued guidelines on the use of firecrackers during Diwali,:** which included restrictions on the sale and manufacture of non-green crackers, fixed time slots for bursting crackers, and the designation of specific areas for community celebrations. The court also encouraged the use of environmentally-friendly crackers, which cause less air and noise pollution. **These judgments highlight the Apex Court’s efforts to balance the right to a clean environment with the cultural practices associated with Diwali.** Legal regulations on burning crackers aim to minimize the adverse effects on air quality and public health while respecting the cultural significance of the festival.
 
-
-
 ### Conclusion
 
 The Supreme Court’s judgments in this regard reflect a balanced approach that seeks to protect the right to a clean environment while respecting cultural practices. Legal regulations on burning crackers during Diwali can play a crucial role in ensuring a healthy environment and safeguarding the well-being of the citizens.
@@ -3462,10 +3370,10 @@ The Supreme Court’s judgments in this regard reflect a balanced approach that 
 
 ---
 
-## Question 83 (Year: 2015 | Paper: GS 2 | Marks: N/A | Words: N/A)
+## Question 86 (Year: 2015 | Paper: GS 2 | Marks: N/A | Words: N/A)
 **Question ID: 2015-gs2-q83-pwonlyias** **“If amendment bill to the Whistleblowers Act, 2011 tabled in the Parliament is passed, there may be no one left to protect.” Critically evaluate. (200 words, 12.5 marks)**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** <br>• Briefly introduce the Whistleblowers Protection Act, 2011, and the proposed amendment bill. **Body** <br>• Discuss the key provisions of the amendment bill and critically evaluate their potential impact on the protection of whistleblowers. **Conclusion** <br>• Write a relevant conclusion. |
 | --- |
@@ -3486,22 +3394,21 @@ The Supreme Court’s judgments in this regard reflect a balanced approach that 
 - **Hindering disclosures:** The requirement of prior approval for disclosing sensitive information may create procedural hurdles for whistleblowers, potentially delaying or even preventing them from exposing wrongdoing. This provision could discourage whistleblowers from taking action, fearing bureaucratic obstacles or reprisals from their superiors.
 - **Chilling effect:** The introduction of penalties for false or frivolous complaints may have a chilling effect on potential whistleblowers, who may be deterred from reporting corruption or wrongdoing due to the fear of being penalized if their claims are deemed unfounded.
 
-
-
 ### Conclusion
 
 A careful reassessment of the proposed amendments is necessary to strike the right balance between these competing interests and ensure that the Act continues to serve as a robust mechanism for whistleblower protection.
 
 [Question ID: 2015-gs2-q83-pwonlyias]
 
+
 ---
 
-## Question 84 (Year: 2015 | Paper: GS 2 | Marks: N/A | Words: N/A)
+## Question 87 (Year: 2015 | Paper: GS 2 | Marks: N/A | Words: N/A)
 **Question ID: 2015-gs2-q84-pwonlyias**
 
 **In absence of a well-educated and organized local level government system, ‘Panchayats’ and ‘Samitis’ have remained mainly political institutions and not effective instruments of governance. Critically discuss. (200 words, 12.5 marks)**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** <br>• Briefly introduce the concept of local level government systems, Panchayats, and Samitis. **Body** <br>• Discuss the role of education and organization in local governance, analyze the effectiveness of Panchayats and Samitis as instruments of governance, and critically discuss their limitations. **Conclusion** <br>• Sum up the importance of strengthening local governance systems to ensure effective governance at the grassroots level. |
 | --- |
@@ -3515,7 +3422,10 @@ A careful reassessment of the proposed amendments is necessary to strike the rig
 **Role of education and organization in local governance:**
 - **Capacity building:** Education and organization are essential for capacity building of local representatives, enabling them to effectively carry out their responsibilities and address the needs of their communities.
 - **Decision-making:** A well-educated and organized local governance system facilitates informed decision-making, leading to better policies and programs that cater to local needs.
+
 - **Accountability:** Education and organization empower local representatives to hold higher authorities accountable and ensure that resources are utilized efficiently and transparently. <p align="center"><img src="images/pw_polity_q196_img1.webp" alt="significance of LSG" /></p>
+
+- **Accountability:** Education and organization empower local representatives to hold higher authorities accountable and ensure that resources are utilized efficiently and transparently. 
 
 **Effectiveness of Panchayats and Samitis as instruments of governance:**
 - **Decentralization:** Panchayats and Samitis have played a crucial role in decentralizing governance and bringing decision-making closer to the people, thus fostering a sense of ownership and participation among communities.
@@ -3528,22 +3438,21 @@ A careful reassessment of the proposed amendments is necessary to strike the rig
 - **Political interference:** Panchayats and Samitis are sometimes influenced by state-level politics, which can compromise their autonomy and ability to function as effective instruments of governance.
 - **Bureaucratic hurdles:** The complex and hierarchical nature of governance in India can create bureaucratic hurdles for Panchayats and Samitis, limiting their effectiveness in addressing local needs.
 
-
-
 ### Conclusion
 
 To ensure effective governance at the grassroots level, it is crucial to invest in capacity building, provide adequate resources, and minimize political interference in local governance. Strengthening local governance systems will empower communities to actively participate in decision-making, leading to more inclusive and sustainable development.
 
 [Question ID: 2015-gs2-q84-pwonlyias]
 
+
 ---
 
-## Question 85 (Year: 2015 | Paper: GS 2 | Marks: N/A | Words: N/A)
+## Question 88 (Year: 2015 | Paper: GS 2 | Marks: N/A | Words: N/A)
 **Question ID: 2015-gs2-q85-pwonlyias**
 
 **Resorting to ordinances has always raised concern on violation of the spirit of separation of powers doctrine. While noting the rationales justifying the power to promulgate ordinances, analyze whether the decisions of the Supreme Court on the issue have further facilitated resorting to this power. Should the power to promulgate ordinances be repealed? (200 words, 12.5 marks)**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** <br>• Briefly introduce the concept of ordinances and their relation to the separation of powers doctrine. **Body** <br>• Discuss the rationale justifying the power to promulgate ordinances, analyze the Supreme Court’s decisions on the issue, and debate whether the power to promulgate ordinances should be repealed. **Conclusion** <br>• Sum up the importance of striking a balance between the need for ordinances and maintaining the spirit of separation of powers. |
 | --- |
@@ -3563,22 +3472,21 @@ To ensure effective governance at the grassroots level, it is crucial to invest 
 - **In the case of KR Lakshmanan vs State of Tamil Nadu (1996),:** the Supreme Court reiterated that ordinances should be promulgated only when urgent and immediate action is required.
 - **In the case of Krishna Kumar Singh vs State of Bihar (2017),:** the Supreme Court ruled that repromulgation of ordinances is a fraud on the Constitution, and the reasons for promulgating an ordinance must be placed before the legislature. **While the Supreme Court has upheld the constitutionality of the power to promulgate ordinances, it has consistently emphasized that this power should be exercised judiciously and only in exceptional circumstances.** The court’s decisions have acted as a check on the arbitrary use of this power, rather than facilitating its abuse. **Repealing the power to promulgate ordinances would eliminate a crucial instrument to address urgent and unforeseen situations*.*** Instead of repealing the power, it is essential to ensure that it is exercised responsibly and within the constitutional framework. Strengthening the checks and balances through judicial review and legislative oversight can help prevent the misuse of this power while preserving its necessity in exceptional circumstances.
 
-
-
 ### Conclusion
 
 It is crucial to exercise this power judiciously and within the boundaries set by the Constitution to maintain the spirit of separation of powers. Rather than repealing the power, strengthening the existing checks and balances through judicial review and legislative oversight can ensure that the power is used responsibly and in the best interests of the nation.
 
 [Question ID: 2015-gs2-q85-pwonlyias]
 
+
 ---
 
-## Question 86 (Year: 2015 | Paper: GS 2 | Marks: N/A | Words: N/A)
+## Question 89 (Year: 2015 | Paper: GS 2 | Marks: N/A | Words: N/A)
 **Question ID: 2015-gs2-q86-pwonlyias**
 
 **The concept of cooperative federalism has been increasingly emphasized in recent years. Highlight the drawbacks in the existing structure and the extent to which cooperative federalism would answer the shortcomings. (200 words, 12.5 marks)**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** <br>• Briefly introduce the concept of cooperative federalism and its significance in recent years. **Body** <br>• Discuss the drawbacks in the existing structure, and explain how cooperative federalism can address these shortcomings. Provide examples to substantiate your views. **Conclusion** <br>• Sum up the importance of cooperative federalism in addressing the drawbacks of the existing structure and fostering national development. |
 | --- |
@@ -3602,22 +3510,21 @@ It is crucial to exercise this power judiciously and within the boundaries set b
 - **Enhanced coordination:** The centrally sponsored schemes are increasingly designed with greater flexibility to accommodate states’ specific requirements and promote better coordination.
 - **Conflict resolution:** The creation of the Inter-State Council under Article 263 of the Constitution helps resolve disputes and fosters cooperation between states and the center.
 
-
-
 ### Conclusion
 
 The successful adoption of cooperative federalism would require a commitment from both levels of government to work together, setting aside political differences in the interest of national development.
 
 [Question ID: 2015-gs2-q86-pwonlyias]
 
+
 ---
 
-## Question 87 (Year: 2015 | Paper: GS 2 | Marks: N/A | Words: N/A)
+## Question 90 (Year: 2015 | Paper: GS 2 | Marks: N/A | Words: N/A)
 **Question ID: 2015-gs2-q87-pwonlyias**
 
 **What are the major changes brought in the Arbitration and Conciliation Act, 1996 through the recent Ordinance promulgated by the President? How far will it improve India’s dispute resolution mechanism? Discuss. (200 words, 12.5 marks)**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** <br>• Introduction: Briefly introduce the Arbitration and Conciliation Act, 1996, and mention the recent ordinance promulgated by the President. **Body** <br>• Discuss the major changes brought in the Act through the ordinance and analyze how these changes would improve India’s dispute resolution mechanism. **Conclusion** <br>• Sum up the potential impact of the changes on India’s dispute resolution mechanism. |
 | --- |
@@ -3640,22 +3547,21 @@ The successful adoption of cooperative federalism would require a commitment fro
 - **Strengthened confidentiality:** The mandatory confidentiality provision is expected to encourage more parties to opt for arbitration, particularly in sensitive commercial disputes, by ensuring the privacy of the process.
 - **Greater clarity:** The amendments to the Act, particularly the clarification of the public policy ground for challenging arbitral awards, provide greater clarity to parties and reduce the scope for frivolous litigation.
 
-
-
 ### Conclusion
 
 By addressing the concerns related to delays, confidentiality, and the appointment of arbitrators, these changes are likely to encourage more parties to opt for arbitration and contribute to the development of a robust and effective alternative dispute resolution framework in India.
 
 [Question ID: 2015-gs2-q87-pwonlyias]
 
+
 ---
 
-## Question 88 (Year: 2014 | Paper: GS 2 | Marks: N/A | Words: N/A)
+## Question 91 (Year: 2014 | Paper: GS 2 | Marks: N/A | Words: N/A)
 **Question ID: 2014-gs2-q88-pwonlyias**
 
 **Instances of President’s delay in commuting death sentences has come under public debate as denial of justice. Should there be a time specified for the President to accept/reject such petitions? Analyse (200 words, 12.5 marks)**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** <br>• Begin with a brief explanation of the President’s power to grant pardons and commute sentences under Article 72 of the Indian Constitution. **Body** <br>• Discuss the arguments in favor of specifying a time limit for the President to decide on mercy petitions. <br>• Discussion of the complexity and seriousness of cases involving capital punishment, and the potential political implications of decisions on mercy petitions. <br>• Substantiate the arguments with real-world examples, such as the case of Devender Pal Singh Bhullar. **Conclusion** <br>• Conclude, suggesting a potential way forward, such as establishing guidelines or norms for deciding mercy petitions within a reasonable timeframe, without making it a rigid requirement. |
 | --- |
@@ -3678,17 +3584,16 @@ By addressing the concerns related to delays, confidentiality, and the appointme
 - His mercy petition was pending before the President for over eight years before it was rejected.
 - **The Supreme Court of India, in a landmark judgment in 2014,ruled that an inordinate delay in deciding a mercy petition is a ground for commutation of a death sentence.:** 
 
-
-
 ### Conclusion
 
 While there is a need to ensure speedy justice and alleviate the suffering of convicts awaiting a decision on their mercy petitions, it’s also important to allow sufficient time for a comprehensive review of all aspects of the case. Striking a balance between these competing concerns is a complex issue that calls for careful consideration. A potential way forward could be to establish guidelines or norms for deciding mercy petitions within a reasonable timeframe, without making it a rigid requirement.
 
 [Question ID: 2014-gs2-q88-pwonlyias]
 
+
 ---
 
-## Question 89 (Year: 2014 | Paper: GS 2 | Marks: N/A | Words: N/A)
+## Question 92 (Year: 2014 | Paper: GS 2 | Marks: N/A | Words: N/A)
 **Question ID: 2014-gs2-q89-pwonlyias**
 
 **Starting from inventing the ‘basic structure’ doctrine, the judiciary has played a highly proactive role in ensuring that India develops into a thriving democracy. In light of the statement, evaluate the role played by judicial activism in achieving the ideals of democracy. (200 words, 12.5 marks)**
@@ -3719,8 +3624,6 @@ While there is a need to ensure speedy justice and alleviate the suffering of co
 - **The courts have also directed governments to ensure social justice, such:** as in the Vishaka vs State of Rajasthan (1997),** which led to the formulation of guidelines for sexual harassment at the workplace.
 - **Checks and Balances:** Through judicial review, the judiciary has maintained a check on the legislative and executive branches of the government, preventing any misuse of power and ensuring the rule of law, both of which are key democratic principles. **However, it’s worth noting that judicial activism in India has also been critiqued for overstepping the boundaries** of the judiciary and infringing upon the domains of the legislative and executive branches. This has led to debates on the need for a balance between judicial activism and judicial restraint in the country.
 
-
-
 ### Conclusion
 
 Overall, the judiciary, through its activism, has significantly contributed to the evolution of Indian democracy, establishing a system of rights and justice that aims to protect the interests of all citizens.
@@ -3729,12 +3632,12 @@ Overall, the judiciary, through its activism, has significantly contributed to t
 
 ---
 
-## Question 90 (Year: 2014 | Paper: GS 2 | Marks: N/A | Words: N/A)
+## Question 93 (Year: 2014 | Paper: GS 2 | Marks: N/A | Words: N/A)
 **Question ID: 2014-gs2-q90-pwonlyias**
 
 **The ‘Powers, Privileges and Immunities of Parliament and its Members’ as envisaged in Article 105 of the Constitution leave room for a large number of un-codified and un-enumerated privileges to continue. Assess the reasons for the absence of legal codification of the ‘parliamentary privileges’. How can this problem be addressed? (200 words, 12.5 marks)**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** <br>• Briefly explain what parliamentary privileges are and their place in the constitution, specifically referring to Article 105. Mention the un-codified and un-enumerated nature of these privileges. **Body** <br>• Assess the reasons for the absence of legal codification of parliamentary privileges. <br>• Discuss how the problem of the un-codified nature of parliamentary privileges can be addressed. **Conclusion** <br>• Conclude by emphasizing that finding this balance is crucial for an effective and accountable parliamentary system. |
 | --- |
@@ -3760,17 +3663,16 @@ Overall, the judiciary, through its activism, has significantly contributed to t
 - **Periodic Review:** A regular review of the practice and usage of privileges could be instituted. This would allow for ongoing adjustments and improvements to the system.
 - **Public Awareness:** Efforts could be made to increase public awareness and understanding of parliamentary privileges. This would help ensure greater transparency and accountability.
 
-
-
 ### Conclusion
 
 While the un-codified nature of parliamentary privileges allows for flexibility and maintains the autonomy of the Parliament, it also poses challenges in terms of transparency, consistency, and public understanding. It is essential to strike a balance between these aspects for a more accountable and effective parliamentary system.
 
 [Question ID: 2014-gs2-q90-pwonlyias]
 
+
 ---
 
-## Question 91 (Year: 2014 | Paper: GS 2 | Marks: N/A | Words: N/A)
+## Question 94 (Year: 2014 | Paper: GS 2 | Marks: N/A | Words: N/A)
 **Question ID: 2014-gs2-q91-pwonlyias**
 
 **The size of the cabinet should be as big as governmental work justifies and as big as the Prime Minister can manage as a team. How far is the efficacy of a government then inversely related to the size of the cabinet? Discuss. (200 words, 12.5 marks)**
@@ -3801,7 +3703,6 @@ Despite these benefits, a larger cabinet could lead to less efficiency.
 
 **The 91st Amendment to the Constitution of India,** enacted in 2003, attempted to address the issue of oversized cabinets by stipulating that the total number of Ministers, including the Prime Minister, **in the Council of Ministers shall not exceed 15% of the total number of members of the House of the People (Lok Sabha).**
 
-
 ### Conclusion
 
 The ideal cabinet size balances representation and efficiency. This was evident in Narendra Modi’s first term as Prime Minister (2014-2019), where a smaller cabinet performed effectively. Therefore, cabinet size and governmental efficacy are interrelated but also depend on factors like political context, governance complexity, and the Prime Minister’s leadership style.
@@ -3810,7 +3711,7 @@ The ideal cabinet size balances representation and efficiency. This was evident 
 
 ---
 
-## Question 92 (Year: 2014 | Paper: GS 2 | Marks: N/A | Words: N/A)
+## Question 95 (Year: 2014 | Paper: GS 2 | Marks: N/A | Words: N/A)
 **Question ID: 2014-gs2-q92-pwonlyias**
 
 **Though the federal principle is dominant in our Constitution and that principle is one of its basic features, but it is equally true that federalism under the Indian Constitution leans in favour of a strong Centre, a feature that militates against the concept of strong federalism. Discuss (200 words, 12.5 marks)**
@@ -3851,8 +3752,6 @@ The ideal cabinet size balances representation and efficiency. This was evident 
 
 - **The GST Council, an example of cooperative federalism,:** is a constitutional body that makes recommendations on GST rates, and includes representatives from the Centre and all States.
 
-
-
 ### Conclusion
 
 The Constitution of India, while predominantly federal, does exhibit certain unitary features, primarily for the sake of maintaining national unity, integrity, and ensuring effective administrative and legislative functioning in a diverse and complex country like India. The challenge lies in balancing these dual requirements and preventing any misuse of the provisions that favor the Centre.
@@ -3861,12 +3760,12 @@ The Constitution of India, while predominantly federal, does exhibit certain uni
 
 ---
 
-## Question 93 (Year: 2014 | Paper: GS 2 | Marks: N/A | Words: N/A)
+## Question 96 (Year: 2014 | Paper: GS 2 | Marks: N/A | Words: N/A)
 **Question ID: 2014-gs2-q93-pwonlyias**
 
 **What do you understand by the concept “freedom of speech and expression”? Does it cover hate speech also? Why do the films in India stand on a slightly different plane from other forms of expression? Discuss. (200 words, 12.5 marks)**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** <br>• Start by defining the concept of “freedom of speech and expression” in the context of the Indian Constitution. **Body** <br>• Discuss whether freedom of speech and expression covers hate speech. <br>• Discuss why films in India stand on a different plane from other forms of expression. <br>• Include a recent controversy like the one surrounding the film “Padmaavat”. **Conclusion** <br>• Write a suitable conclusion. |
 | --- |
@@ -3895,22 +3794,21 @@ Turning to the issue of films, they indeed occupy a unique space within the sphe
 - **Despite clearance from the CBFC, the film faced violent protests from certain groups:** who believed it misrepresented history and hurt their sentiments.
 - **The Supreme Court of India upheld the film’s right to release, reaffirming the freedom of speech and expression.:** However, the controversy highlighted the complex interplay between freedom of expression, public sentiment, and the fear of public disorder in India.
 
-
-
 ### Conclusion
 
 To maintain democratic values and social harmony, a constant reassessment of the balance between free speech and its misuse is essential. This requires clearer legal definitions, especially for hate speech, a nuanced approach to film censorship, and increased public awareness about responsible speech. The ultimate goal is to uphold free expression while preventing societal harm.
 
 [Question ID: 2014-gs2-q93-pwonlyias]
 
+
 ---
 
-## Question 94 (Year: 2013 | Paper: GS 2 | Marks: 10 Marks | Words: 200 Words)
+## Question 97 (Year: 2013 | Paper: GS 2 | Marks: 10 Marks | Words: 200 Words)
 **Question ID: 2013-gs2-q94-pwonlyias**
 
 **Constitutional mechanisms to resolve the inter-state water disputes have failed to address and solve the problems. Is the failure due to structural or process inadequacy or both? Discuss.**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** <br>• Begin by providing an overview of the recurring issue of inter-state water disputes in India, and the constitutional mechanisms provided to resolve these under Article 262 and the Inter-State Water Disputes Act, 1956. **Body** <br>• Discuss the inherent limitations within the system that restrict its capacity to effectively address and resolve disputes. <br>• Highlight issues related to the implementation and operation of the dispute resolution mechanisms, including the formation of Tribunals and their effectiveness. <br>• Discuss how these two types of inadequacies often interact, resulting in a failure to effectively resolve water disputes. **Conclusion** <br>• Conclude by emphasizing the need for comprehensive review and reform of the constitutional mechanisms for resolving inter-state water disputes, suggesting potential approaches such as a permanent inter-state river water disputes resolution tribunal. |
 | --- |
@@ -3932,16 +3830,16 @@ To maintain democratic values and social harmony, a constant reassessment of the
 - **Combined Effect of Structural and Process Inadequacies:** Often, the impact of these inadequacies is compounded, resulting in a failure to effectively resolve water disputes.
   - The protracted nature of many disputes, s **uch as the Krishna river water dispute involving Karnataka, Andhra Pradesh, and Maharashtra, is a testament to these combined inadequacies.**
 
-
 ### Conclusion
 
 While the constitutional mechanisms for resolving inter-state water disputes have been instrumental in some cases, their overall effectiveness has been limited due to both structural and process inadequacies. A comprehensive review and reform of these mechanisms are needed, focusing on cooperative federalism, timely resolution, and enforcement of awards. This could involve the creation of a permanent inter-state river water disputes resolution tribunal, as suggested by the Punchhi Commission on Centre-State Relations.
 
 [Question ID: 2013-gs2-q94-pwonlyias]
 
+
 ---
 
-## Question 95 (Year: 2013 | Paper: GS 2 | Marks: 10 Marks | Words: 200 Words)
+## Question 98 (Year: 2013 | Paper: GS 2 | Marks: 10 Marks | Words: 200 Words)
 **Question ID: 2013-gs2-q95-pwonlyias**
 
 **Discuss Section 66A of IT Act, with reference to its alleged violation of Article 19 of the Constitution.**
@@ -3965,8 +3863,6 @@ While the constitutional mechanisms for resolving inter-state water disputes hav
 - **In 2015, the Supreme Court of India, in Shreya Singhal v. Union of India, agreed with these criticisms and struck down Section 66A of the IT Act.:** The court held that the provision was unconstitutional as it was vague and overbroad, and it did not fall within the reasonable restrictions specified under Article 19(2).
 - The court noted that a law which is vague, which is not clearly defined, can cause a **‘chilling effect’ on freedom of speech and expression,** and thus, it is not permissible under the Constitution.
 
-
-
 ### Conclusion
 
 Therefore, while Section 66A of the IT Act was intended to protect individuals and society from cybercrimes, its lack of clear definitions and potential for misuse led to its downfall as it was seen as a violation of the fundamental right to freedom of speech and expression enshrined in the Constitution of India.
@@ -3975,7 +3871,7 @@ Therefore, while Section 66A of the IT Act was intended to protect individuals a
 
 ---
 
-## Question 96 (Year: 2013 | Paper: GS 2 | Marks: 10 Marks | Words: 200 Words)
+## Question 99 (Year: 2013 | Paper: GS 2 | Marks: 10 Marks | Words: 200 Words)
 **Question ID: 2013-gs2-q96-pwonlyias**
 
 **Discuss the recommendations of the 13th Finance Commission which have been a departure from the previous commissions for strengthening the local government finances.**
@@ -3996,8 +3892,6 @@ The 13th Finance Commission, chaired by Dr. Vijay Kelkar, covered the period fro
 - **Maintenance of Capital Assets:** The Commission recommended a portion of the grants to be used for the maintenance of capital assets created by local bodies. This was a crucial recommendation to ensure the sustainability of assets created by local bodies.
 - **Strengthening of State Finance Commissions:** The 13th Finance Commission laid stress on strengthening the State Finance Commissions (SFCs) by providing funds for setting up of SFC cells and conducting studies related to local body finances. **For instance, in Kerala, the 13th Finance Commission’s recommendations helped in augmenting the resources of local bodies through performance-based grants,** leading to better provision of services like water supply and sanitation. The grants were also used for the maintenance of assets, improving their sustainability. Similarly, in Rajasthan, the recommendation to strengthen the SFCs led to a more effective functioning of the SFC and better financial management at the local level.
 
-
-
 ### Conclusion
 
 The 13th Finance Commission’s recommendations marked a significant departure from the previous commissions, emphasizing the need to strengthen local body finances. While these recommendations have made significant strides, more needs to be done to strengthen the financial autonomy of local bodies, making them self-reliant and capable of providing quality public services.
@@ -4006,7 +3900,7 @@ The 13th Finance Commission’s recommendations marked a significant departure f
 
 ---
 
-## Question 97 (Year: 2013 | Paper: GS 2 | Marks: 10 Marks | Words: 200 Words)
+## Question 100 (Year: 2013 | Paper: GS 2 | Marks: 10 Marks | Words: 200 Words)
 **Question ID: 2013-gs2-q97-pwonlyias**
 
 **Recent directives from Ministry of Petroleum and Natural Gas are perceived by the ‘Nagas’ as a threat to override the exceptional status enjoyed by the State. Discuss in light of Article 371A of the Indian Constitution.**
@@ -4032,8 +3926,6 @@ It maintains that no parliamentary act related to the Nagas’ religious or soci
 **The essence of the dispute revolves around constitutional interpretation.**
 While the central government has the authority to enact laws on matters of national importance, including extraction of natural resources, the special constitutional status of Nagaland raises questions about the boundaries of these powers, especially considering the rights of the indigenous community.
 
-
-
 ### Conclusion
 
 Resolving this tension requires balancing respect for the constitutional provisions and understanding Nagaland’s unique socio-political context. Open, respectful dialogue and consensus-building between the central government and the Nagaland state authorities could be crucial in resolving this issue. A possible solution could involve creating a framework that respects the constitutional rights of the Naga people while also considering the strategic interests of the nation. For instance, a joint venture or profit-sharing model could be considered, where both the central government and the state can benefit from the resource extraction without infringing upon the rights granted by Article 371A.
@@ -4042,12 +3934,12 @@ Resolving this tension requires balancing respect for the constitutional provisi
 
 ---
 
-## Question 98 (Year: 2013 | Paper: GS 2 | Marks: 10 Marks | Words: 200 Words)
+## Question 101 (Year: 2013 | Paper: GS 2 | Marks: 10 Marks | Words: 200 Words)
 **Question ID: 2013-gs2-q98-pwonlyias**
 
 **The role of individual MPs (Members of Parliament) has diminished over the years and as a result healthy constructive debates on policy issues are not usually witnessed. How far can this be attributed to the anti-defection law, which was legislated but with a different intention?**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** <br>• Briefly explain what the Anti-Defection Law is and its original intention. **Body** <br>• Discuss the unintended consequences of the Anti-Defection Law on the role of individual MPs and parliamentary debates. **Conclusion** <br>• Conclude by discussing the need for reform in the Anti-Defection Law to balance political stability and vibrant, constructive parliamentary debates. |
 | --- |
@@ -4057,8 +3949,6 @@ Resolving this tension requires balancing respect for the constitutional provisi
 The Anti-Defection Law was introduced via the 52nd amendment to the Indian Constitution in 1985, which added the 10th Schedule to the Indian Constitution. The aim of this law was to curb political defections, which were causing instability in the government and undermining the faith of the electorate. The law prohibits elected members from defecting to another party after elections, and if they do, they are liable to be disqualified from their position.
 
 <p align="center"><img src="images/pw_polity_q62_img1.webp" alt="responsibilities of MP" /></p>
-
-
 
 ### Body
 
@@ -4070,22 +3960,21 @@ The Anti-Defection Law was introduced via the 52nd amendment to the Indian Const
 - **Neglect of constituency issues:** MPs, fearful of the repercussions of the Anti-Defection Law, might prioritize party interests over the interests of their constituents.
 - This could lead to a neglect of local issues in parliamentary debates. **While the Anti-Defection Law has served its purpose of bringing stability to the political structure and preventing unethical political defections, its unintended consequences on parliamentary debates and the role of individual MPs cannot be overlooked.** There is a growing consensus that reform is needed in the functioning of the law to balance the need for political stability with the necessity for vibrant, constructive, and diverse debates in the Parliament. **For instance, the Dinesh Goswami Committee on electoral reforms suggested that disqualification should occur only in cases where there are clear defections, and not in cases where an MP/MLA simply votes against the party line.** In the current form of the law, there’s a line of thought that it undermines the very spirit of democracy, which is based on debates, discussions, and a healthy difference of opinion. **As a specific case, there is a 2018 vote of no confidence in the Lok Sabha. The Telugu Desam Party (TDP) issued a whip to its members to vote against the government.** However, one of the TDP’s MPs, Diwakar Reddy, defied the party’s order and abstained from voting. In this case, the anti-defection law served to stifle individual dissent and forced MPs to vote along party lines, suppressing what could have been a healthy debate on the floor of the house.
 
-
-
 ### Conclusion
 
 The role of the Anti-Defection Law in diminishing the role of individual MPs and limiting constructive parliamentary debate is significant and necessitates careful review and reform.
 
 [Question ID: 2013-gs2-q98-pwonlyias]
 
+
 ---
 
-## Question 99 (Year: 2013 | Paper: GS 2 | Marks: 10 Marks | Words: 200 Words)
+## Question 102 (Year: 2013 | Paper: GS 2 | Marks: 10 Marks | Words: 200 Words)
 **Question ID: 2013-gs2-q99-pwonlyias**
 
 **The Supreme Court of India keeps a check on arbitrary power of the Parliament in amending the Constitution. Discuss critically.**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** <br>• Begin by briefly explaining the Indian Constitution’s supremacy, the Parliament’s power to amend it. **Body** <br>• Discuss the power of the Parliament to amend the Constitution and the limitations on this power, highlighting the principle that the basic structure of the Constitution cannot be altered. <br>• Discuss the role of the Supreme Court in maintaining the Constitution’s sanctity and ensuring that the Parliament’s power to amend the Constitution is not used arbitrarily. <br>• Provide examples of cases where the Supreme Court has struck down constitutional amendments that violated the Constitution’s basic structure, such as the Keshavananda Bharati case, the Minerva Mills case, and the Indira Nehru Gandhi vs Raj Narain case. **Conclusion** <br>• Conclude by emphasizing the importance of the balance between the Parliament’s power to amend the Constitution and the Supreme Court’s role in safeguarding the Constitution’s basic structure, and how this balance contributes to the functioning of India’s democracy. |
 | --- |
@@ -4111,25 +4000,25 @@ The Supreme Court has on several occasions struck down constitutional amendments
 - **For instance, in the Minerva Mills case (1980),:** the Supreme Court struck down clauses (4) and (5) of the Article 368 inserted by the 42nd Amendment, stating that the “limited amending power” itself is a basic feature of the Constitution.
 - Similarly, **in the Indira Nehru Gandhi vs Raj Narain case (1975),** the Supreme Court declared clause (4) of Article 329A, added by the 39th Amendment, as unconstitutional and void on the ground that it was beyond the Parliament’s amending power as it destroyed the basic feature of the Constitution.
 
-
-
 ### Conclusion
 
 While the Parliament possesses the power to amend the Constitution, the Supreme Court plays a vital role in ensuring this power is not utilized arbitrarily or to alter the basic structure of the Constitution. The balance between the Parliament’s authority to respond to changing societal needs and the Supreme Court’s responsibility to protect the Constitution’s basic structure is a cornerstone of India’s vibrant democracy. This dynamic relationship continues to evolve, shaping India’s constitutional and political narrative.
 
 [Question ID: 2013-gs2-q99-pwonlyias]
 
+
 ---
 
-## Question 100 (Year: 2025 | Paper: GS 2 | Marks: 10 Marks | Words: 150 Words)
+## Question 103 (Year: 2025 | Paper: GS 2 | Marks: 10 Marks | Words: 150 Words)
 **Question ID: 2025-gs2-q100-pwonlyias**
 
 **Civil Society Organizations are often perceived as being anti-State actors than non-State actors. Do you agree? Justify.**
 
 ### Answer
 
-| **Core Demand of the Question** <br>• Discuss in what instances Civil Society Organisations are perceived as Anti-state actors. <br>• But this is not always true: Acting as Non state actors |
-| --- |
+**Core Demand of the Question:**
+- Discuss in what instances Civil Society Organisations are perceived as Anti-state actors.
+- But this is not always true: Acting as Non state actors
 
 ### Introduction
 
@@ -4163,8 +4052,6 @@ Civil Society Organizations (CSOs) as **Non-state actors** are groups **outside 
 - **Crisis Relief:** They can mobilise quickly during emergencies like natural disasters or pandemics (e.g., COVID-19), providing relief, rehabilitation, and community support.
   - **Eg:** During COVID-19, organisations like **Akshaya Patra and Goonj** distributed food and essential supplies to migrants and urban poor.
 
-
-
 ### Conclusion
 
 A **“light but tight” regulatory framework, as suggested by Vijay Kuma** r **Committee**, can ensure transparency and accountability without stifling CSOs’ autonomy. This balanced approach fosters trust, enabling CSOs to complement governance, strengthen democracy, and promote inclusive development.
@@ -4173,13 +4060,15 @@ A **“light but tight” regulatory framework, as suggested by Vijay Kuma** r *
 
 ---
 
-## Question 101 (Year: 2025 | Paper: GS 2 | Marks: 10 Marks | Words: 150 Words)
+## Question 104 (Year: 2025 | Paper: GS 2 | Marks: 10 Marks | Words: 150 Words)
 **Question ID: 2025-gs2-q101-pwonlyias** **e-governance projects have a built-in bias towards technology and back-end integration than user-centric designs. Examine.**
 
 ### Answer
 
-| **Core Demand of the Question** <br>• Discuss how e-governance projects have a built-in bias towards technology. <br>• Discuss how e-governance projects have a built-in bias towards back-end integration. <br>• Mention how e-governance has promoted user -centric designs as well. |
-| --- |
+**Core Demand of the Question:**
+- Discuss how e-governance projects have a built-in bias towards technology.
+- Discuss how e-governance projects have a built-in bias towards back-end integration.
+- Mention how e-governance has promoted user -centric designs as well.
 
 ### Introduction
 
@@ -4207,8 +4096,6 @@ E‑governance in India has rapidly built **strong technology platforms** and **
 
 Although this is not the case forever. Government initiatives like **UMANG, DigiLocker, Aadhaar-enabled DBT, and e‑Sanjeevani** show user-first e-governance in action. They make services easy to access, cut paperwork, send benefits directly, and offer remote healthcare—using simple, multilingual, and assisted options that build inclusion and trust.
 
-
-
 ### Conclusion
 
 These issues can be overcome by putting people first. Offer services in regional Indian languages with the working of apps in low internet and offline mode. Keep steps short and clear. Provide help to citizens based on pilot testing with real users. Protecting privacy and working on feedback loop mechanisms to make e-governance more efficient and citizen-oriented.
@@ -4217,13 +4104,15 @@ These issues can be overcome by putting people first. Offer services in regional
 
 ---
 
-## Question 102 (Year: 2025 | Paper: GS 2 | Marks: 15 Marks | Words: 250 Words)
+## Question 105 (Year: 2025 | Paper: GS 2 | Marks: 15 Marks | Words: 250 Words)
 **Question ID: 2025-gs2-q102-pwonlyias** **“In contemporary development models, decision-making and problem-solving responsibilities are not located close to the source of information and execution defeating the objectives of development.” Critically evaluate.**
 
 ### Answer
 
-| **Core demand of the question:** <br>• Arguments supporting the statement. <br>• Counter-arguments justifying why it is required. <br>• Balanced way out. |
-| --- |
+**Core demand of the question:**
+- Arguments supporting the statement.
+- Counter-arguments justifying why it is required.
+- Balanced way out.
 
 ### Introduction
 
@@ -4257,8 +4146,6 @@ India’s **73rd and 74th Constitutional Amendments** created a three‑tier loc
 - **Build Local Capacities:** Provide financial, technical, and administrative training to Panchayats and ULBs for effective execution.
 - **Integrate Technology & Data:** Employ GIS, MIS, and e-governance to connect ground realities with higher policy levels.
 
-
-
 ### Conclusion
 
 Centralised templates help align standards and scale, but they often miss local realities. A practical balance is to set broad goals nationally while shifting real choices, funds, and staff to districts and panchayats with transparent, community‑audited data.
@@ -4267,14 +4154,16 @@ Centralised templates help align standards and scale, but they often miss local 
 
 ---
 
-## Question 103 (Year: 2024 | Paper: GS 2 | Marks: N/A | Words: N/A)
+## Question 106 (Year: 2024 | Paper: GS 2 | Marks: N/A | Words: N/A)
 **Question ID: 2024-gs2-q103-pwonlyias** **e-governance is not just about the routine application of digital technology in the service delivery process. It is as much about multifarious interactions for ensuring transparency and accountability. In this context evaluate the role of the &#8216;Interactive Service Model’ of e-governance.**
 
 ### Answer
 
-| **Core Demand of the Question:** <br>• Discuss role e-governance for ensuring transparency and accountability, beyond the routine application of digital technology in service delivery. <br>• Discuss the role of the ‘Interactive Service Model of e-governance’ <br>• Analyse issues associated with the ‘Interactive Service Model of e-governance’ <br>• Suggest suitable way ahead |
-| --- |
-
+**Core Demand of the Question:**
+- Discuss role e-governance for ensuring transparency and accountability, beyond the routine application of digital technology in service delivery.
+- Discuss the role of the ‘Interactive Service Model of e-governance’
+- Analyse issues associated with the ‘Interactive Service Model of e-governance’
+- Suggest suitable way ahead
 
 **E-governance** initiatives like **UPI & Digilocker** are revolutionising the relationship between the government and citizens, by going beyond basic conventional norms. On similar lines the **Interactive Service Model of e-governance** enables **two-way communication** between citizens and the government, using ICT to enhance access to services and promote active citizen participation in governance.**
 
@@ -4318,15 +4207,15 @@ E-governance, particularly through the Interactive Service Model, holds the pote
 
 ---
 
-## Question 5 (Year: 2024 | Paper: GS 2 | Marks: N/A | Words: N/A)
+## Question 107 (Year: 2024 | Paper: GS 2 | Marks: N/A | Words: N/A)
 
 **Public charitable trusts have the potential to make India&#8217;s development more inclusive as they relate to certain vital public issues. Comment.**
 
 ### Answer
 
-| **Core Demand of the Question** <br>• Discuss role of public charitable trusts in making India’s development more inclusive <br>• Examine various issues faced by public charitable trusts |
-| --- |
-
+**Core Demand of the Question:**
+- Discuss role of public charitable trusts in making India’s development more inclusive
+- Examine various issues faced by public charitable trusts
 
 **Public charitable trusts** operate under legal frameworks such as the **Indian Trusts Act, 1882**, focusing on philanthropic initiatives aimed at **education**, **healthcare**, and **social justice**. These trusts (for example, **SEWA Trust**, **Tata Trusts** etc.) play a crucial role in addressing public welfare needs and promoting inclusive development across underserved communities in India. **
 
@@ -4359,15 +4248,17 @@ Public charitable trusts are uniquely positioned to fill gaps in public service 
 
 ---
 
-## Question 104 (Year: 2024 | Paper: GS 2 | Marks: N/A | Words: N/A)
+## Question 108 (Year: 2024 | Paper: GS 2 | Marks: N/A | Words: N/A)
 **Question ID: 2024-gs2-q104-pwonlyias**
 
 **The Citizens&#8217; charter has been a landmark initiative in ensuring citizen-centric administration. But it is yet to reach its full potential. Identify the factors hindering the realisation of its promise and suggest measures to overcome them.**
 
 ### Answer
 
-| **Core Demand of the Question:** <br>• Discuss how Citizens’ charter has been a landmark initiative in ensuring citizen-centric administration <br>• Identify the factors hindering the realisation of its full potential <br>• Suggest measures to overcome them |
-| --- |
+**Core Demand of the Question:**
+- Discuss how Citizens’ charter has been a landmark initiative in ensuring citizen-centric administration
+- Identify the factors hindering the realisation of its full potential
+- Suggest measures to overcome them
 
 **The** Citizen’s Charter **is a** formal document **that delineates the** services **and** standards **an organisation pledges to provide to its citizens. Introduced to improve accountability and service quality in public administration, it represents a significant advancement in** citizen-centric governance **by promoting transparency, timeliness, and efficiency in public services.**
 
@@ -4401,16 +4292,17 @@ Public charitable trusts are uniquely positioned to fill gaps in public service 
 
 ---
 
-## Question 105 (Year: 2024 | Paper: GS 2 | Marks: N/A | Words: N/A)
+## Question 109 (Year: 2024 | Paper: GS 2 | Marks: N/A | Words: N/A)
 **Question ID: 2024-gs2-q105-pwonlyias**
 
 **The Doctrine of Democratic Governance makes it necessary that the public perception of the integrity and commitment of civil servants becomes absolutely positive. Discuss.**
 
 ### Answer
 
-| **Core Demand of the Question:** <br>• Discuss why Doctrine of Democratic Governance requires positive public perception of civil servants <br>• Analyse challenges in ensuring positive perception of civil servants <br>• Suggest suitable way ahead |
-| --- |
-
+**Core Demand of the Question:**
+- Discuss why Doctrine of Democratic Governance requires positive public perception of civil servants
+- Analyse challenges in ensuring positive perception of civil servants
+- Suggest suitable way ahead
 
 **The Doctrine of Democratic governance** relies heavily on the **integrity** and **commitment** of civil servants. **Article 311** of the Indian Constitution ensures their protection, underscoring the significance of their role in upholding the trust and accountability necessary for effective administration.
 
@@ -4442,12 +4334,12 @@ As emphasised in **Kautilya’s Saptanga Theory**, the **Amatya** (civil servant
 
 ---
 
-## Question 106 (Year: 2023 | Paper: GS 2 | Marks: 10 Marks | Words: 150 Words)
+## Question 110 (Year: 2023 | Paper: GS 2 | Marks: 10 Marks | Words: 150 Words)
 **Question ID: 2023-gs2-q106-pwonlyias**
 
 **Discuss the role of the Competition Commission of India in containing the abuse of dominant position by the Multi-National Corporations in India. Refer to the recent decisions.**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** <br>• Write about the Competition Commission of India briefly **Body** <br>• Write about the role of the CCI in containing the abuse of dominant position by the Multi-National Corporations in India <br>• Write the recent decisions illustrating CCI’s role **Conclusion** <br>• Give appropriate conclusion in this regard |
 | --- |
@@ -4478,30 +4370,27 @@ The **Competition Commission of India (CCI)** was established as a statutory bod
 - **Investigative Role:** CCI has a well-structured system for investigating allegations of anti-competitive behaviors. For instance, **in 2019, it launched an investigation into Google for allegedly abusing** its dominant position in the mobile operating system and relevant markets.
 - **Regulatory Oversight:** CCI maintains the competition spirit in corporate mergers and acquisitions. Eg: **its inspection of the merger deal between Zomato and Uber Eats,** evaluating its repercussions on the competition within the online food delivery sector.
 
-
-
 ### Conclusion
 
 The Competition Commission of India has played a pivotal role in fostering a competitive market environment in India by diligently working to curb abuses of dominant positions by Multi-National Corporations. The **continuous vigilance of the CCI is crucial in the dynamically evolving market landscape to foster sustainable economic development in India**.
 
 [Question ID: 2023-gs2-q106-pwonlyias]
 
+
 ---
 
-## Question 107 (Year: 2023 | Paper: GS 2 | Marks: 10 Marks | Words: 150 Words)
+## Question 111 (Year: 2023 | Paper: GS 2 | Marks: 10 Marks | Words: 150 Words)
 **Question ID: 2023-gs2-q107-pwonlyias**
 
 **E-governance, as a critical tool of governance, has ushered in effectiveness, transparency and accountability in governments. What inadequacies hamper the enhancement of these features?**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** <br>• Write about e-governance briefly **Body** <br>• Write how e-governance has ushered in effectiveness, transparency and accountability in governments <br>• Write inadequacies hampering the enhancement of these features **Conclusion** <br>• Give appropriate conclusion in this regard |
 | --- |
 
 ### Introduction
  **E-governance** refers to the application of **information and communication technology (ICT)** to deliver government services, exchange information, conduct transactions between government-to-customer **(G2C)**, government-to-business **(G2B)**, government-to-government (G2G), as well as back-office processes and interactions within the entire government framework.
-
-
 
 ### Body
 
@@ -4538,20 +4427,19 @@ The Competition Commission of India has played a pivotal role in fostering a com
 - **Low infrastructure connectivity:** mobile tower connectivity, especially in Naxal districts is very poor.
 - **Language Barrier:** The limited availability of e-governance services in vernacular languages restricts usability, **particularly amongst non-English speaking individuals**.
 
-
-
 ### Conclusion
  **E-governance has indeed revolutionized the functioning of governments**, the journey is far from over. Addressing the existing inadequacies and forging a way ahead with innovative, inclusive, and secure strategies can further deepen the impact of e-governance,
 
 **creating a governance model that is truly by the people, for the people, and of the people.**
 
+
 ---
 
-## Question 10 (Year: 2023 | Paper: GS 2 | Marks: 15 Marks | Words: 250 Words)
+## Question 112 (Year: 2023 | Paper: GS 2 | Marks: 15 Marks | Words: 250 Words)
 
 **Skill development programmes have succeeded in increasing human resources supply to various sectors. In the context of the statement analyse the linkages between education, skill and employment.**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** <br>• Write about linkages between education, skill and employment briefly **Body** <br>• Write about the success of Skill development programmes in increasing human resources supply <br>• Write about the linkages between education and skill development <br>• Write about the linkages between skill development and employment **Conclusion** <br>• Give appropriate conclusion in this regard |
 | --- |
@@ -4590,30 +4478,27 @@ In the rapidly evolving global economic landscape, the **trio of education, skil
 - **Industry-Specific Skills:** Developing industry-specific skills through targeted training programs is common. Eg: **Cisco Networking Academy** provides industry-specific training in networking, cybersecurity, and programming to equip individuals with skills sought by IT industries globally.
 - **Productivity:** Enhanced skills directly correlate with increased productivity. Various corporate training programs, **such as those offered by Dale Carnegie**, focus on skill development to enhance productivity in organizational settings.
 
-
-
 ### Conclusion
 
 Overall, the efforts in nurturing education, fostering skill development, and facilitating employment avenues have sewn a rich tapestry of opportunities and growth in India. A sustained **focus on evolving and responsive skill development programs integrating global best practices and continuous innovation** will be the keystones in crafting a future where every individual can leverage their fullest potential.
 
 [Question ID: 2023-gs2-q107-pwonlyias]
 
+
 ---
 
-## Question 108 (Year: 2023 | Paper: GS 2 | Marks: 10 Marks | Words: 150 Words)
+## Question 113 (Year: 2023 | Paper: GS 2 | Marks: 10 Marks | Words: 150 Words)
 **Question ID: 2023-gs2-q108-pwonlyias**
 
 **The crucial aspect of the development process has been the inadequate attention paid to Human Resource Development in India. Suggest measures that can address this inadequacy.**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** <br>• Write about the importance of Human Resource Development briefly **Body** <br>• Write about the current scenario of Human Resource Development in India <br>• Write the measures that can address this inadequacy **Conclusion** <br>• Give appropriate conclusion in this regard |
 | --- |
 
 ### Introduction
  **Human Resource Development (HRD)** refers to the systematic approach to nurturing and fostering the talents, competencies, and skills of individuals, thereby contributing to national development. Unfortunately, **India has faced persistent challenges in ensuring optimal HRD,** which is crucial to capitalize on its substantial demographic dividend. The rapid economic growth of the past decade has ensured India a place among the top 5 movers on GDP growth, but the country ranks a low 132 among on the HDI.
-
-
 
 ### Body
 
@@ -4637,17 +4522,16 @@ Overall, the efforts in nurturing education, fostering skill development, and fa
 - **Mentorship Programs:** Mentorship programs **like those initiated by organizations such as the WISE (Women in Science and Engineering)** in various countries could serve as an exemplary model to foster gender equality in the academic and professional spheres.
 - **Skill Festivals:** Countries **like Germany** have showcased the efficacy of promoting vocational training through festivals and fairs, where individuals get a platform to exhibit their vocational skills and learn about diverse career avenues.
 
-
-
 ### Conclusion
 
 Overall, to foster a vibrant and dynamic workforce, India must adopt a multi-faceted approach to human resource development. This **involves nurturing talent right from the grassroots level through robust educational reforms, fostering skill development** through well-structured programs, and creating a supportive ecosystem for research and innovation. **The Ministry of Education (MoE) in India also has various schemes for human resource development:** Some of these schemes include the Samagra Shiksha Scheme to provide quality education in Madrasas, the Mid-Day Meal Scheme, the National Achievement Survey (NAS), and Infrastructure Development in Minority Institutes (IDMI).
 
 [Question ID: 2023-gs2-q108-pwonlyias]
 
+
 ---
 
-## Question 109 (Year: 2023 | Paper: GS 2 | Marks: 10 Marks | Words: 150 Words)
+## Question 114 (Year: 2023 | Paper: GS 2 | Marks: 10 Marks | Words: 150 Words)
 **Question ID: 2023-gs2-q109-pwonlyias** **&#8220;The states in India seem reluctant to empower urban local bodies both functionally as well as financially.&#8221; Comment.**
 
 ### Answer
@@ -4657,8 +4541,6 @@ Overall, to foster a vibrant and dynamic workforce, India must adopt a multi-fac
 
 ### Introduction
  **Urban Local Bodies (ULBs),** encompassing Municipalities and Municipal Corporations, were envisaged as the administrative units responsible for ensuring proper governance in urban areas, deriving their mandate from **the 74th Constitutional Amendment Act, 1992**. This amendment aimed to strengthen local self-governance in cities and towns.
-
-
 
 ### Body
 
@@ -4685,8 +4567,6 @@ Overall, to foster a vibrant and dynamic workforce, India must adopt a multi-fac
 - **Public-Private Partnerships (PPP):** While the PPP model has seen successful implementation in projects **like the Hyderabad Metro**, there is a broader reluctance in promoting ULBs to adopt this financial model for urban development, inhibiting innovative financial solutions.
 - **GST Compensation:** The ongoing tussles over GST compensation have added financial strain to ULBs. Post-GST implementation, **many ULBs faced a reduction in their revenue as their share of taxes got significantly affected**, imposing a dire need for compensation to maintain financial health.
 
-
-
 ### Conclusion
 
 The **vision of decentralized urban governance, as outlined in the 74th Constitutional Amendment Act, remains partially fulfilled** due to the states’ reluctance to transfer both functional and financial powers to ULBs fully. Addressing this gap is crucial **to foster self-reliant, efficient, and responsive urban local bodies**, paving the way for sustainable and inclusive urban development in India.
@@ -4695,12 +4575,12 @@ The **vision of decentralized urban governance, as outlined in the 74th Constitu
 
 ---
 
-## Question 110 (Year: 2022 | Paper: GS 2 | Marks: 10 Marks | Words: 150 Words)
+## Question 115 (Year: 2022 | Paper: GS 2 | Marks: 10 Marks | Words: 150 Words)
 **Question ID: 2022-gs2-q110-pwonlyias**
 
 **Reforming the government delivery system through the Direct Benefit Transfer Scheme is a progressive step, but it has its limitations too. Comment.**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** <br>• Introduce the Direct Benefit Transfer Scheme and its objective of reforming the government delivery system by directly transferring subsidies and benefits to eligible beneficiaries. **Body** <br>• Discuss the advantages of the DBT Scheme while also highlighting its limitations. **Conclusion** <br>• Write a relevant conclusion. |
 | --- |
@@ -4725,22 +4605,21 @@ The **vision of decentralized urban governance, as outlined in the 74th Constitu
 - **Identification and targeting:** Errors in identification or exclusion of deserving beneficiaries can undermine the scheme’s effectiveness and lead to grievances.
 - **Administrative capacity:** Limited administrative capacity can lead to delays in processing, disbursement, and redressal of grievances.
 
-
-
 ### Conclusion
 
 To maximize the benefits of the DBT scheme, it is essential to address these limitations and ensure that the system is inclusive, accessible, and efficient for all beneficiaries.
 
 [Question ID: 2022-gs2-q110-pwonlyias]
 
+
 ---
 
-## Question 111 (Year: 2022 | Paper: GS 2 | Marks: 10 Marks | Words: 150 Words)
+## Question 116 (Year: 2022 | Paper: GS 2 | Marks: 10 Marks | Words: 150 Words)
 **Question ID: 2022-gs2-q111-pwonlyias**
 
 **The Gati-Shakti Yojana needs meticulous co-ordination between the government and the private sector to achieve the goal of connectivity. Discuss.**
 
-### Answer **Ans:**
+### Answer
 
 | **Approach:** <br>• **Introduction:** Introduce the Gati-Shakti Yojana and its objective of improving multi-modal connectivity across India. <br>• **Body:** Discuss the need for meticulous coordination between the government and the private sector. <br>• **Conclusion:** Conclude, highlighting its potential impact on India’s infrastructure development and economic growth. |
 | --- |
@@ -4750,8 +4629,6 @@ To maximize the benefits of the DBT scheme, it is essential to address these lim
 **The Gati-Shakti Yojana, also known as the National Master Plan for Multi-modal Connectivity, is an ambitious initiative by the Indian government aimed at enhancing infrastructure development and providing seamless connectivity across various modes of transportation. The plan envisions a holistic approach to infrastructure development by integrating road, rail, air, and water transport networks, which is crucial for the nation’s economic growth and regional development.**
 
 <p align="center"><img src="images/pw_governance_q682_img1.webp" alt="gati shakti " /></p>
-
-
 
 ### Body
 
@@ -4763,22 +4640,21 @@ To maximize the benefits of the DBT scheme, it is essential to address these lim
 - **Capacity building and skill development:** The government and the private sector should work together to develop training programs and capacity-building initiatives that can equip the workforce with the necessary skills and expertise.
 - **Monitoring and evaluation:** Both parties should collaborate to establish a robust monitoring and evaluation mechanism that ensures transparency, accountability, and timely completion of projects.
 
-
-
 ### Conclusion
 
 The Gati-Shakti Yojana has the potential to transform India’s infrastructure landscape and boost economic growth. However, achieving the goal of seamless connectivity requires close coordination between the government and the private sector. Through collaborative efforts in policy formulation, public-private partnerships, technology adoption, capacity building, and monitoring, the Gati-Shakti Yojana can bring about the desired changes in India’s connectivity and infrastructure development.
 
 [Question ID: 2022-gs2-q111-pwonlyias]
 
+
 ---
 
-## Question 112 (Year: 2022 | Paper: GS 2 | Marks: 10 Marks | Words: 150 Words)
+## Question 117 (Year: 2022 | Paper: GS 2 | Marks: 10 Marks | Words: 150 Words)
 **Question ID: 2022-gs2-q112-pwonlyias**
 
 **The Rights of Persons with Disabilities Act, 2016 remains only a legal document without intense sensitisation of government functionaries and citizens regarding disability. Comment.**
 
-### Answer **Ans:**
+### Answer
 
 | **Approach:** <br>• **Introduction:** Introduce the Rights of Persons with Disabilities Act, 2016 and its objectives. <br>• **Body:** Discuss the importance of sensitization in areas such as awareness and understanding, changing mindsets and attitudes, capacity building, accessibility, and collaborative efforts. <br>• **Conclusion:** Summarize the significance of sensitization for the success of the RPWD Act and its potential impact on the lives of persons with disabilities. |
 | --- |
@@ -4797,17 +4673,16 @@ The Gati-Shakti Yojana has the potential to transform India’s infrastructure l
 - **Accessibility:** Sensitization of government functionaries and citizens can help identify and address accessibility gaps in infrastructure and services, making them more inclusive and compliant with the RPWD Act.
 - **Collaborative efforts:** Sensitization of government functionaries and citizens can foster collaborative efforts among various stakeholders, including non-governmental organizations (NGOs), disability rights activists, and community members.
 
-
-
 ### Conclusion
 
 The Rights of Persons with Disabilities Act, 2016 is a significant milestone in promoting the rights and inclusion of persons with disabilities in India. Through these collective efforts, the RPWD Act can move beyond being a mere legal document and have a meaningful impact on the lives of people with disabilities.
 
 [Question ID: 2022-gs2-q112-pwonlyias]
 
+
 ---
 
-## Question 113 (Year: 2022 | Paper: GS 2 | Marks: 10 Marks | Words: 150 Words)
+## Question 118 (Year: 2022 | Paper: GS 2 | Marks: 10 Marks | Words: 150 Words)
 **Question ID: 2022-gs2-q113-pwonlyias**
 
 **To what extent, in your opinion, has the decentralisation of power in India changed the governance landscape at the grassroots?**
@@ -4822,8 +4697,6 @@ The Rights of Persons with Disabilities Act, 2016 is a significant milestone in 
 The decentralization of power in India has significantly changed the governance landscape at the grassroots level. The 73rd and 74th Constitutional Amendments in 1992, which formalized the Panchayati Raj system and urban local bodies, respectively, have been instrumental in this process.
 
 <p align="center"><img src="images/pw_governance_q691_img1.webp" alt="decentralization" /></p>
-
-
 
 ### Body
 
@@ -4843,8 +4716,6 @@ The decentralization of power in India has significantly changed the governance 
 - **Limited capacity:** Some local representatives may lack the required skills, knowledge, or training to effectively manage resources and implement policies, which can hinder the overall governance process.
 - **Corruption and inefficiency:** Decentralization can sometimes lead to increased corruption and inefficiency in local government bodies, especially in cases where there is a lack of accountability or proper monitoring mechanisms.
 
-
-
 ### Conclusion
 
 By adopting measures like enhancing financial devolution, promoting transparency, strengthening accountability mechanisms, and investing in capacity building for local representatives, India can create a more inclusive and responsive governance framework at the grassroots level.
@@ -4856,12 +4727,12 @@ By adopting measures like enhancing financial devolution, promoting transparency
 
 ---
 
-## Question 114 (Year: 2021 | Paper: GS 2 | Marks: 10 Marks | Words: 150 Words)
+## Question 119 (Year: 2021 | Paper: GS 2 | Marks: 10 Marks | Words: 150 Words)
 **Question ID: 2021-gs2-q114-pwonlyias**
 
 **Has digital illiteracy, particularly in rural areas, coupled with lack of Information and Communication Technology(ICT) accessibility hindered socio-economic development? Examine with justification.**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** <br>• Provide a brief overview of the importance of digital literacy and ICT accessibility in the context of socio-economic development. **Body** <br>• Emphasize the challenges faced by rural areas in achieving these objectives. **Conclusion** <br>• Write a relevant conclusion, focusing on the way forward. |
 | --- |
@@ -4885,22 +4756,21 @@ By adopting measures like enhancing financial devolution, promoting transparency
 - **Inhibited social connectivity and communication:** Digital illiteracy and lack of ICT access in rural areas can result in reduced social connectivity, making it difficult for individuals to communicate and collaborate with others.
 - **Digital divide:** Digital divide can hinder the overall progress of a region, as it prevents large segments of the population from participating in and benefiting from digital advancements.
 
-
-
 ### Conclusion
 
 It is crucial for policymakers, the private sector, and civil society to collaborate on initiatives that promote digital literacy, expand ICT infrastructure, and facilitate access to digital tools and services in rural regions. By empowering these communities with the skills and resources needed to thrive in a digital world, we can promote socio-economic development that benefits all members of society.
 
 [Question ID: 2021-gs2-q114-pwonlyias]
 
+
 ---
 
-## Question 115 (Year: 2021 | Paper: GS 2 | Marks: 10 Marks | Words: 150 Words)
+## Question 120 (Year: 2021 | Paper: GS 2 | Marks: 10 Marks | Words: 150 Words)
 **Question ID: 2021-gs2-q115-pwonlyias**
 
 **Pressure groups play a vital role in influencing public policy making in India.” Explain how the business associations contribute to public policies.**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** <br>• Briefly introduce the concept of pressure groups and their significance in influencing public policy-making in India, with a specific focus on business associations. **Body** <br>• Mention how the business associations contribute to public policies. Also, give examples. **Conclusion** <br>• Write a relevant conclusion. |
 | --- |
@@ -4923,17 +4793,16 @@ It is crucial for policymakers, the private sector, and civil society to collabo
 - **Public Campaigns:** Business associations run campaigns to build public support for their policy positions. For instance, FICCI’s campaigns promoting “Make in India” have shaped public opinion and policy orientation towards domestic manufacturing.
 - **Representation in Policy Forums:** Business associations often have representation in various governmental policy forums. **For instance, representatives from CII and FICCI are regularly part of various government committees and task forces formed for policy-making.**
 
-
-
 ### Conclusion
 
 Through these mechanisms, business associations exert substantial influence over public policy-making, shaping it to reflect the needs and concerns of the business community.
 
 [Question ID: 2021-gs2-q115-pwonlyias]
 
+
 ---
 
-## Question 116 (Year: 2020 | Paper: GS 2 | Marks: 10 Marks | Words: 150 Words)
+## Question 121 (Year: 2020 | Paper: GS 2 | Marks: 10 Marks | Words: 150 Words)
 **Question ID: 2020-gs2-q116-pwonlyias** **“Institutional quality is a crucial driver of economic performance”. In this context suggest reforms in the Civil Service for strengthening democracy.**
 
 ### Answer
@@ -4949,6 +4818,8 @@ Through these mechanisms, business associations exert substantial influence over
 
 **To strengthen democracy and enhance the performance of the civil service, several reforms can be suggested:** <p align="center"><img src="images/pw_governance_q518_img1.webp" alt="civil service reforms" /></p>
 
+**To strengthen democracy and enhance the performance of the civil service, several reforms can be suggested:** 
+
 - **Recruitment and Selection:** Introduce innovative recruitment methods, such as online assessments and structured interviews, to identify candidates with the necessary skills, aptitude, and values.
 - **Training and Capacity Building:** Invest in continuous training and capacity building programs for civil servants, focusing on enhancing domain-specific expertise, leadership, decision-making, and ethical conduct.
 - **Performance Management:** Implement a robust performance management system that includes regular performance appraisals, feedback, and incentives for high performers.
@@ -4958,8 +4829,6 @@ Through these mechanisms, business associations exert substantial influence over
 - **Code of Ethics:** Implement strict mechanisms to enforce adherence to the code and address instances of misconduct, including corruption and abuse of power.
 - **Inclusiveness and Representation:** Promote diversity and inclusiveness in the civil service by ensuring adequate representation of women, marginalized communities, and people with disabilities.
 
-
-
 ### Conclusion
 
 By implementing these reforms, the civil service can be transformed into a more efficient, effective, and responsive institution that contributes to the strengthening of democracy and the overall economic performance of the country.
@@ -4968,10 +4837,10 @@ By implementing these reforms, the civil service can be transformed into a more 
 
 ---
 
-## Question 117 (Year: 2020 | Paper: GS 2 | Marks: 10 Marks | Words: 150 Words)
+## Question 122 (Year: 2020 | Paper: GS 2 | Marks: 10 Marks | Words: 150 Words)
 **Question ID: 2020-gs2-q117-pwonlyias** **“The emergence of the Fourth Industrial Revolution (Digital Revolution) has initiated e-Governance as an integral part of government”. Discuss.**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** <br>• Introduce the Fourth Industrial Revolution (Digital Revolution) and its impact on various sectors of society, including governance. **Body** <br>• Discuss the implications of e-Governance as an integral part of government. **Conclusion** <br>• Emphasize the importance of adapting to technological advancements and harnessing their potential to improve governance and better serve citizens in the digital age. |
 | --- |
@@ -4993,17 +4862,16 @@ By implementing these reforms, the civil service can be transformed into a more 
 - **Inclusiveness and accessibility:** e-Governance enables governments to reach a wider audience, particularly those in remote or underserved areas, by providing services and information through digital channels.
 - **Cost reduction:** By automating processes and reducing the need for physical infrastructure, e-Governance can lead to significant cost savings for governments.
 
-
-
 ### Conclusion
 
 As the digital revolution continues to evolve, governments worldwide must continue to adapt and harness its potential to improve governance and better serve their citizens.
 
 [Question ID: 2020-gs2-q117-pwonlyias]
 
+
 ---
 
-## Question 118 (Year: 2019 | Paper: GS 2 | Marks: 10 Marks | Words: 150 Words)
+## Question 123 (Year: 2019 | Paper: GS 2 | Marks: 10 Marks | Words: 150 Words)
 **Question ID: 2019-gs2-q118-pwonlyias**
 
 **What are the methods used by the farmers’ organisation to influence the policy-makers in India and how effective are these methods?**
@@ -5030,8 +4898,6 @@ As the digital revolution continues to evolve, governments worldwide must contin
 - The **implementation of the Swaminathan Commission recommendations,** which led to an increase in the Minimum Support Price (MSP) for crops.
 - The **waiver of farm loans in several states,** following pressure from farmers’ organizations and their electoral impact.
 
-
-
 ### Conclusion
 
 While the effectiveness of these methods depends on several factors, farmers’ organizations have been successful in bringing about significant policy changes that impact the agricultural sector and the lives of farmers in the country. It is crucial for policy-makers to engage with and consider the inputs of farmers’ organizations to ensure inclusive and sustainable development in the agricultural sector.
@@ -5040,10 +4906,10 @@ While the effectiveness of these methods depends on several factors, farmers’ 
 
 ---
 
-## Question 119 (Year: 2019 | Paper: GS 2 | Marks: 15 Marks | Words: 250 Words)
+## Question 124 (Year: 2019 | Paper: GS 2 | Marks: 15 Marks | Words: 250 Words)
 **Question ID: 2019-gs2-q119-pwonlyias** **“In the context of neo-liberal paradigm of development planning, multi-level planning is expected to make operations cost-effective and remove many implementation blockages.” Discuss.**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** <br>• Introduce the concept of multi-level planning and its importance in the neo-liberal paradigm of development planning. **Body** <br>• Discuss the features of the neo-liberal paradigm of development planning. <br>• Explain how multi-level planning aligns with these features and helps address cost-effectiveness and implementation blockages. <br>• Provide examples of successful multi-level planning initiatives that have addressed these concerns. **Conclusion** <br>• Write a relevant conclusion. |
 | --- |
@@ -5068,22 +4934,21 @@ While the effectiveness of these methods depends on several factors, farmers’ 
 - **Panchayati Raj Institutions (PRIs) in India:** The decentralization of power to local governments through the 73rd and 74th Constitutional Amendments has promoted more effective and participatory development planning at the grassroots level, addressing local needs more efficiently.
 - **European Union’s Cohesion Policy:** The policy facilitates a multi-level governance approach to regional development, involving regional and local actors in the planning and implementation of development projects, leading to better targeting of resources and improved outcomes.
 
-
-
 ### Conclusion
 
 By promoting local participation, responsiveness, and accountability, multi-level planning can lead to more efficient and targeted development outcomes that better address the needs and priorities of communities across different levels of government.
 
 [Question ID: 2019-gs2-q119-pwonlyias]
 
+
 ---
 
-## Question 120 (Year: 2018 | Paper: GS 2 | Marks: 10 Marks | Words: 150 Words)
+## Question 125 (Year: 2018 | Paper: GS 2 | Marks: 10 Marks | Words: 150 Words)
 **Question ID: 2018-gs2-q120-pwonlyias**
 
 **E-governance is not only about utilization of the power of new technology, but also much about critical importance of the ‘use value’ of information. Explain.**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** <br>• Briefly introduce the concept of e-governance and its objectives, highlighting the importance of the ‘use value’ of information in addition to leveraging new technology. **Body** <br>• Discuss the various aspects of the ‘use value’ of information in e-governance initiatives, such as relevance, accessibility, applicability, transparency, and citizen participation. Provide examples to illustrate each aspect. **Conclusion** <br>• Sum up the importance of focusing on the ‘use value’ of information in e-governance and how it can contribute to better service delivery, enhanced transparency, and increased citizen engagement. |
 | --- |
@@ -5094,8 +4959,6 @@ E-governance refers to the application of information and communication technolo
 
 <p align="center"><img src="images/pw_governance_q405_img1.webp" alt="image 2023 12 29T122229.181" /></p>
 
-
-
 ### Body
 * **While the use of new technology is certainly a key aspect of e-governance, it is also crucial to recognize the importance of the ‘use value’ of information.**
 - **Relevance of Information:** E-governance initiatives should focus on providing relevant information that directly addresses the needs and concerns of the citizens. **For example, during the COVID-19 pandemic, r** elevant information like vaccination schedules, safety guidelines, and helpline numbers became critical for the public.
@@ -5104,22 +4967,21 @@ E-governance refers to the application of information and communication technolo
 - **Transparency and Accountability:** For instance, the implementation of the Right to Information (RTI) Act:** in India has made it easier for citizens to access information on government functioning and decisions, fostering greater accountability.
 - **Citizen Participation:** The My Gov platform in India is an example of a platform that facilitates citizen engagement:** in policy formulation and program implementation.
 
-
-
 ### Conclusion
 
 While new technology plays an essential role in e-governance, it is the ‘use value’ of information that ultimately determines the success of such initiatives. By focusing on the relevance, accessibility, and applicability of information, governments can ensure that e-governance initiatives lead to better service delivery, enhanced transparency, and increased citizen engagement.
 
 [Question ID: 2018-gs2-q120-pwonlyias]
 
+
 ---
 
-## Question 121 (Year: 2018 | Paper: GS 2 | Marks: 15 Marks | Words: 250 Words)
+## Question 126 (Year: 2018 | Paper: GS 2 | Marks: 15 Marks | Words: 250 Words)
 **Question ID: 2018-gs2-q121-pwonlyias**
 
 **Assess the importance of the Panchayat system in India as a part of local government. Apart from government grants, what sources the Panchayats can look out for financing development projects?**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** <br>• Introduce the Panchayat system as an integral part of India’s local government, focusing on grassroots democracy, decentralization, and inclusive development. **Body** <br>• Discuss the importance of the Panchayat system in India, addressing aspects such as decentralization, grassroots democracy, socio-economic development, and social justice. <br>• Explore alternative financing sources for Panchayats apart from government grants, including local taxes, user charges, public-private partnerships, corporate social responsibility funds, and community contributions. Provide examples for each source. **Conclusion** <br>• Write a relevant conclusion. |
 | --- |
@@ -5151,21 +5013,21 @@ While new technology plays an essential role in e-governance, it is the ‘use v
 **or instance, some Panchayats in Rajasthan have utilized CSR funds from local industries to improve school infrastructure.**
 - **Community contributions and crowdfunding:** Panchayats can mobilize resources from the local community, NGOs, and through crowdfunding platforms to support development initiatives. **The Hiwre Bazar village in Maharashtra successfully raised funds from the community to implement water conservation projects.**
 
-
 ### Conclusion
 
 The Panchayat system serves as the backbone of India’s local governance, empowering communities and driving grassroots democracy, decentralization, and socio-economic development. To maximize their impact, Panchayats must not only rely on government grants but also proactively explore diverse financing sources such as local taxes, user charges, public-private partnerships, CSR funds, and community contributions.
 
 [Question ID: 2018-gs2-q121-pwonlyias]
 
+
 ---
 
-## Question 122 (Year: 2017 | Paper: GS 2 | Marks: 10 Marks | Words: 150 Words)
+## Question 127 (Year: 2017 | Paper: GS 2 | Marks: 10 Marks | Words: 150 Words)
 **Question ID: 2017-gs2-q122-pwonlyias**
 
 **Discuss the role of Public Accounts Committee in establishing accountability of the government to the people.**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** <br>• Introduce the Public Accounts Committee (PAC) as a vital parliamentary committee in India. **Body** <br>• Discuss the role of PAC in establishing accountability. **Conclusion** <br>• Conclude, emphasizing the significance of transparency, efficiency, and good governance in public financial management. |
 | --- |
@@ -5184,22 +5046,21 @@ The Panchayat system serves as the backbone of India’s local governance, empow
 - **Reporting to Parliament:** The PAC submits its reports and recommendations to the Parliament, highlighting any instances of financial mismanagement or deviations from the approved budget.
 - **Public Opinions:** The PAC often conducts public opinions, calling upon senior government officials and experts to provide information and clarify concerns related to the audit reports. These opinions increase transparency, facilitate public scrutiny, and ensure that the government is held accountable for its financial actions.
 
-
-
 ### Conclusion
 
 By examining the CAG’s audit reports, investigating financial irregularities, and recommending improvements, the PAC ensures that public funds are utilized efficiently and effectively, promoting transparency and good governance.
 
 [Question ID: 2017-gs2-q122-pwonlyias]
 
+
 ---
 
-## Question 123 (Year: 2017 | Paper: GS 2 | Marks: 15 Marks | Words: 250 Words)
+## Question 128 (Year: 2017 | Paper: GS 2 | Marks: 15 Marks | Words: 250 Words)
 **Question ID: 2017-gs2-q123-pwonlyias**
 
 **Initially Civil Services in India were designed to achieve the goals of neutrality and effectiveness, which seems to be lacking in the present context. Do you agree with the view that drastic reforms are required in Civil Services. Comment.**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** <br>• Introduce the initial goals of neutrality and effectiveness in the Indian Civil Services and mention the growing concerns in the present context. **Body** <br>• Divide the body into two main sections: <br>• Factors contributing to concerns about neutrality and effectiveness. <br>• Potential reforms to enhance civil services’ performance. **Conclusion** <br>• Conclude, emphasizing the importance of addressing the various challenges and implementing necessary reforms for better governance. |
 | --- |
@@ -5222,20 +5083,19 @@ By examining the CAG’s audit reports, investigating financial irregularities, 
 - **Encouraging specialization:** Introducing domain-specific recruitment and training programs can help bring specialized expertise into the civil services and improve their problem-solving capacity.
 - **Enhancing training and skill development:** Upgrading training programs and promoting continuous skill development among civil servants can help prepare them for the challenges of modern governance and ensure their effectiveness in fulfilling their roles.
 
-
-
 ### Conclusion
 
 By addressing the various challenges and implementing the necessary reforms, the civil services can better serve the evolving needs of the nation and contribute to its progress.
 
 [Question ID: 2017-gs2-q123-pwonlyias]
 
+
 ---
 
-## Question 124 (Year: 2017 | Paper: GS 2 | Marks: 15 Marks | Words: 250 Words)
+## Question 129 (Year: 2017 | Paper: GS 2 | Marks: 15 Marks | Words: 250 Words)
 **Question ID: 2017-gs2-q124-pwonlyias** **‘The emergence of Self Help Groups(SHGs) in contemporary times points to the slow but steady withdrawal of the state from developmental activities’. Examine the role of the SHGs in developmental activities and the measures taken by the Government of India to promote the SHGs.**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** <br>• Introduce the concept of Self Help Groups (SHGs) and their emergence in contemporary times. **Body** <br>• Role of SHGs in developmental activities. <br>• Measures taken by the Government of India to promote SHGs. **Conclusion** <br>• Write a relevant conclusion. |
 | --- |
@@ -5245,8 +5105,6 @@ By addressing the various challenges and implementing the necessary reforms, the
 The emergence of Self Help Groups (SHGs) in contemporary times has significantly contributed to developmental activities in India, particularly in rural areas. While it may be argued that the growth of SHGs indicates a slow withdrawal of the state from developmental activities, it can also be seen as a complementary strategy to empower communities and promote sustainable development.
 
 <p align="center"><img src="images/pw_governance_q362_img1.webp" alt="image 2023 12 29T130744.720" /></p>
-
-
 
 ### Body
 * **Role of SHGs in developmental activities**
@@ -5260,20 +5118,19 @@ The emergence of Self Help Groups (SHGs) in contemporary times has significantly
 - **Marketing support:** The government provides marketing support to SHGs by organizing trade fairs, exhibitions, and buyer-seller meets, helping them access wider markets for their products and services.
 - **Financial incentives:** The government offers financial incentives, such as interest rate subsidies and credit guarantees, to encourage banks and financial institutions to extend credit to SHGs.
 
-
-
 ### Conclusion
 
 By taking measures to support and promote SHGs, the Government of India is working towards creating a synergistic relationship between state-led initiatives and community-based efforts, ultimately contributing to more sustainable, inclusive, and equitable development for all citizens.
 
 [Question ID: 2017-gs2-q124-pwonlyias]
 
+
 ---
 
-## Question 125 (Year: 2016 | Paper: GS 2 | Marks: N/A | Words: N/A)
+## Question 130 (Year: 2016 | Paper: GS 2 | Marks: N/A | Words: N/A)
 **Question ID: 2016-gs2-q125-pwonlyias** **“Demographic Dividend in India will remain only theoretical unless our manpower becomes more educated, aware, skilled and creative.” What measures have been taken by the government to enhance the capacity of our population to be more productive and employable? (200 words, 12.5 marks)**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** <br>• Introduce the concept of demographic dividend in India and emphasize the importance of an educated, skilled, and employable workforce for realizing its full potential. **Body** <br>• Divide the body into multiple subsections, each discussing a specific measure taken by the government to enhance the capacity of the population to be more productive and employable. **Conclusion** <br>• Acknowledge the need for continuous efforts, effective implementation, and close monitoring to ensure the demographic dividend is fully harnessed and not just a theoretical concept. |
 | --- |
@@ -5300,20 +5157,19 @@ By taking measures to support and promote SHGs, the Government of India is worki
 - **Digital India:** This initiative aims to transform India into a digitally empowered society by promoting digital literacy, improving internet connectivity, and developing e-governance services.
 - **By enhancing digital literacy, the government seeks to create a skilled workforce:** capable of participating in the digital economy.
 
-
-
 ### Conclusion
 
 These measures demonstrate the government’s commitment to improving education, skill development, and employability of the Indian population. However, continuous efforts, effective implementation, and close monitoring are required to ensure that the demographic dividend is fully harnessed and not just a theoretical concept.
 
 [Question ID: 2016-gs2-q125-pwonlyias]
 
+
 ---
 
-## Question 126 (Year: 2016 | Paper: GS 2 | Marks: N/A | Words: N/A)
+## Question 131 (Year: 2016 | Paper: GS 2 | Marks: N/A | Words: N/A)
 **Question ID: 2016-gs2-q126-pwonlyias** **“Effectiveness of the government system at various levels and people’s participation in the governance system are inter-dependent” Discuss their relationship in the context of India. (200 words, 12.5 marks)**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** <br>• Introduce the concept of interdependence between the effectiveness of the government system and people’s participation in the governance system. **Body** <br>• You can give case studies of TN, Kerala wrt sectors of Health, Delhi model of Education etc. <br>• Discuss the role of decentralization and local governance in enhancing people’s participation. <br>• Examine the impact of social audit and transparency tools. <br>• Analyze the role of civil society organizations and citizen-led initiatives in bridging the gap between the government system and the people. <br>• Explore the use of technology in promoting citizen participation and improving service delivery through e-governance initiatives and digital platforms. **Conclusion** <br>• Conclude with the importance of fostering a robust and participatory governance system for inclusive development and the well-being of citizens. |
 | --- |
@@ -5340,16 +5196,15 @@ These measures demonstrate the government’s commitment to improving education,
 - **Use of Technology for Citizen Participation:** Online platforms and mobile applications, such as MyGov, facilitate citizen participation in policy-making, crowdsourcing ideas, and feedback on government programs.
 - **Technology-driven initiatives like Digital India and Aadhaar have streamlined service delivery and reduced leakages in welfare schemes,:** ensuring that benefits reach the intended beneficiaries.
 
-
-
 ### Conclusion
  **The Delhi model of education offers another case study of effective government-citizen collaboration.** The transformation of government schools in Delhi was driven by a participatory approach involving parents, teachers, students, and the administration. The School Management Committees (SMCs), comprising parents and teachers, played a pivotal role in this transformation. Hence, to strengthen this relationship, it is essential to promote decentralization, transparency, and accountability, and create platforms for citizen engagement and collaborative decision-making.
 
 [Question ID: 2016-gs2-q126-pwonlyias]
 
+
 ---
 
-## Question 127 (Year: 2016 | Paper: GS 2 | Marks: N/A | Words: N/A)
+## Question 132 (Year: 2016 | Paper: GS 2 | Marks: N/A | Words: N/A)
 **Question ID: 2016-gs2-q127-pwonlyias**
 
 **Has the Indian governmental system responded adequately to the demands of Liberalization, Privatization and Globalization started in 1991? What can the government do to be responsive to this important change? (200 words, 12.5 marks)**
@@ -5388,8 +5243,6 @@ India has benefited from globalization through increased trade, foreign investme
 - **Implement social safety nets and inclusive growth policies:** To mitigate the potential adverse effects of LPG policies on vulnerable sections of society, the government can strengthen social safety nets.
 - **Direct Benefit Transfer (DBT) schemes aim to reduce leakages in welfare programs, while the Mahatma Gandhi National Rural Employment Guarantee Act (MGNREGA):** provides a safety net for rural households.
 
-
-
 ### Conclusion
 
 The Indian government has made considerable progress in responding to the demands of Liberalization, Privatization, and Globalization since 1991. However, there is a need to address persisting challenges and pursue further reforms to fully realize the potential benefits of LPG and ensure inclusive and sustainable growth.
@@ -5398,10 +5251,10 @@ The Indian government has made considerable progress in responding to the demand
 
 ---
 
-## Question 128 (Year: 2016 | Paper: GS 2 | Marks: N/A | Words: N/A)
+## Question 133 (Year: 2016 | Paper: GS 2 | Marks: N/A | Words: N/A)
 **Question ID: 2016-gs2-q128-pwonlyias** **“In the Indian governance system, the role of non-state actors has been only marginal.” Critically examine this statement. (200 words, 12.5 marks)**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** <br>• Introduce the statement and provide a brief overview of the role of non-state actors in the Indian governance system. **Body** <br>• Discuss the role and contributions of civil society organizations and NGOs. <br>• Analyze the role of private sector entities in India’s economic growth and development. <br>• Examine the media’s role in shaping public opinion. **Conclusion** <br>• Conclude by emphasizing the importance of fostering collaboration between state and non-state actors to improve governance and address pressing social and economic issues. |
 | --- |
@@ -5427,22 +5280,21 @@ The Indian government has made considerable progress in responding to the demand
   - Media coverage of social issues, such as gender equality, child labor, and environmental degradation, has raised awareness and influenced public policy.
 - **For example, The media’s coverage of the Nirbhaya case in 2012:** led to widespread public outrage and subsequent changes in laws related to sexual assault and gender-based violence.
 
-
-
 ### Conclusion
 
 Their contributions have been significant in various sectors and continue to influence policy-making, implementation, and monitoring. However, challenges remain in terms of their capacity, funding, and regulatory environment, which may limit their effectiveness in certain aspects of governance.
 
 [Question ID: 2016-gs2-q128-pwonlyias]
 
+
 ---
 
-## Question 129 (Year: 2016 | Paper: GS 2 | Marks: N/A | Words: N/A)
+## Question 134 (Year: 2016 | Paper: GS 2 | Marks: N/A | Words: N/A)
 **Question ID: 2016-gs2-q129-pwonlyias**
 
 **In the integrity index of Transparency International, India stands very low. Discuss briefly the legal, political, social and cultural factors that have caused the decline of public morality in India. (200 words, 12.5 marks)**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** <br>• Provide data on India’s ranking in Transparency International’s 2022 Corruption Perceptions Index (CPI) to establish the context of corruption and public morality in India. **Body** <br>• Discuss legal factors that have contributed to corruption. <br>• Analyze political factors which have led to the decline of public morality. <br>• Examine social factors which have exacerbated the problem. <br>• Explore cultural factors that contribute to corruption and the decline of public morality in India. **Conclusion** <br>• Write a suitable conclusion. |
 | --- |
@@ -5475,17 +5327,16 @@ Their contributions have been significant in various sectors and continue to inf
 - **Social hierarchies:** Deep-rooted social hierarchies in India can contribute to the misuse of power by those in positions of authority, leading to corruption and exploitation of vulnerable sections of society.
 - **Bribery as a cultural norm:** In some cases, bribery may be considered a customary practice or a way of showing gratitude, further perpetuating corruption.
 
-
-
 ### Conclusion
 
 To address this issue, India needs to strengthen its anti-corruption laws, enhance transparency and accountability in the political system, create awareness about citizens’ rights, and promote a culture of integrity and ethical conduct in public life.
 
 [Question ID: 2016-gs2-q129-pwonlyias]
 
+
 ---
 
-## Question 130 (Year: 2016 | Paper: GS 2 | Marks: N/A | Words: N/A)
+## Question 135 (Year: 2016 | Paper: GS 2 | Marks: N/A | Words: N/A)
 **Question ID: 2016-gs2-q130-pwonlyias** **“Traditional bureaucratic structure and culture have hampered the process of socio-economic development in India.” Comment. (200 words, 12.5 marks)**
 
 ### Answer
@@ -5513,8 +5364,6 @@ To address this issue, India needs to strengthen its anti-corruption laws, enhan
 
 <p align="center"><img src="images/pw_governance_q298_img1.webp" alt="image 2023 12 29T133256.290" /></p>
 
-
-
 ### Conclusion
 
 The traditional bureaucratic system in India has hindered socio-economic development. Reforms like e-governance, the Right to Information Act, and NITI Aayog show promise, but further efforts are needed to tackle systemic challenges and accelerate development.
@@ -5523,12 +5372,12 @@ The traditional bureaucratic system in India has hindered socio-economic develop
 
 ---
 
-## Question 131 (Year: 2015 | Paper: GS 2 | Marks: N/A | Words: N/A)
+## Question 136 (Year: 2015 | Paper: GS 2 | Marks: N/A | Words: N/A)
 **Question ID: 2015-gs2-q131-pwonlyias**
 
 **Examine critically the recent changes in the rules governing foreign funding of NGOs under the Foreign Contribution (Regulation) Act (FCRA), 1976. (200 words, 12.5 marks)**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** <br>• Start by briefly describing what the Foreign Contribution (Regulation) Act (FCRA), 1976, is and its purpose in regulating the acceptance and usage of foreign contributions by individuals and organizations. **Body** <br>• Mention the recent changes made to the Act. <br>• Discuss some of the critical amendments made to the FCRA and do a critical examination of their implications. **Conclusion** <br>• Conclude, highlighting the need to strike a balance between ensuring transparency and accountability in foreign funding. |
 | --- |
@@ -5547,20 +5396,19 @@ The traditional bureaucratic system in India has hindered socio-economic develop
 - **Suspension of registration:** The Act now allows the government to suspend an NGO’s FCRA registration for up to 360 days, up from 180 days. This gives the government more time to prepare a case, but it also means NGOs might be unable to access necessary foreign funds for an extended period, hampering their operations.
 - **Government discretion:** The amendments give the government enhanced discretionary powers to cancel an organization’s FCRA license if it believes the NGO is engaged in activities detrimental to the ‘public interest.’ Critics argue that this clause is vaguely defined and could be misused to stifle dissent.
 
-
-
 ### Conclusion
 
 It’s crucial to strike a balance between ensuring accountability and maintaining the vibrant functioning of NGOs, a significant pillar of any democratic society.
 
 [Question ID: 2015-gs2-q131-pwonlyias]
 
+
 ---
 
-## Question 132 (Year: 2015 | Paper: GS 2 | Marks: N/A | Words: N/A)
+## Question 137 (Year: 2015 | Paper: GS 2 | Marks: N/A | Words: N/A)
 **Question ID: 2015-gs2-q132-pwonlyias** **“For achieving the desired objectives, it is necessary to ensure that the regulatory institutions remain independent and autonomous.” Discuss in the light of the experiences in recent past. (200 words, 12.5 marks)**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** <br>• Highlight the need for these institutions to be independent and autonomous to effectively achieve their objectives. **Body** <br>• Discuss the recent experiences regarding the independence and autonomy of these institutions: <br>• The Reserve Bank of India (RBI) <br>• The Central Bureau of Investigation (CBI) <br>• The Judiciary <br>• The Election Commission of India (ECI. <br>• In each case, analyze how the instances of potential interference with the institutions’ autonomy could affect their ability to fulfill their mandates effectively. **Conclusion** <br>• Write a relevant conclusion. |
 | --- |
@@ -5581,22 +5429,21 @@ It’s crucial to strike a balance between ensuring accountability and maintaini
 - **However, the debate around the appointment of judges, particularly after the NJAC (National Judicial Appointments Commission) Act of 2014,:** raised concerns about the independence of the judiciary.
 - **The Election Commission of India (ECI):** The ECI is entrusted with the task of conducting free and fair elections. But there have been allegations of bias and concerns about its autonomy, particularly during the 2019 General Elections, raising questions about its capability to function independently. **These examples show that the autonomy and independence of regulatory institutions have been under strain,** which can potentially undermine their effectiveness and credibility. It is, therefore, crucial to safeguard their autonomy to ensure they can perform their functions effectively and maintain public trust. This can be achieved through measures like statutory backing for independence, clear appointment and removal processes, transparency in operations, and accountability mechanisms.
 
-
-
 ### Conclusion
 
 The autonomy of regulatory institutions is not an end in itself but a means to an end – the end being the effective and efficient achievement of desired objectives. This autonomy needs to be preserved and protected for these institutions to fulfill their mandates and contribute to the nation’s development effectively.
 
 [Question ID: 2015-gs2-q132-pwonlyias]
 
+
 ---
 
-## Question 133 (Year: 2015 | Paper: GS 2 | Marks: N/A | Words: N/A)
+## Question 138 (Year: 2015 | Paper: GS 2 | Marks: N/A | Words: N/A)
 **Question ID: 2015-gs2-q133-pwonlyias**
 
 **In the light of the Satyam Scandal (2009), discuss the changes brought in corporate governance to ensure transparency, accountability. (200 words, 12.5 marks)**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** <br>• Briefly describe the Satyam Scandal of 2009, emphasizing its impact on the corporate world and its role in highlighting the need for stricter corporate governance norms in India. **Body** <br>• Discuss the changes brought about in corporate governance post the Satyam Scandal. **Conclusion** <br>• Write a relevant conclusion. |
 | --- |
@@ -5606,8 +5453,6 @@ The autonomy of regulatory institutions is not an end in itself but a means to a
 The Satyam Scandal, often referred to as “India’s Enron,” was a corporate scandal affecting India-based company Satyam Computer Services in 2009, where the chairman Ramalinga Raju confessed that the company’s accounts had been falsified.
 
 <p align="center"><img src="images/pw_governance_q197_img1.webp" alt="image 2023 12 29T135123.917" /></p>
-
-
 
 ### Body
 
@@ -5620,22 +5465,21 @@ The Satyam Scandal, often referred to as “India’s Enron,” was a corporate 
 - **Enhanced Disclosure Requirements:** The Act increased the disclosure requirements for companies. Directors are now required to disclose their interest in other entities, and financial statements need to disclose related-party transactions, remuneration of directors and key managerial personnel, among others.
 - **Class Action Suits:** For the first time, provisions for class action suits were introduced in India, allowing shareholders and depositors to claim damages or demand suitable action against the company for any fraudulent, unlawful, or wrongful act.
 
-
-
 ### Conclusion
 
 The Satyam Scandal was a turning point in India’s corporate governance history, leading to several reforms to ensure transparency, accountability, and better protection for stakeholders. However, the effectiveness of these changes would ultimately depend on how well they are enforced and adopted in practice by the corporate sector.
 
 [Question ID: 2015-gs2-q133-pwonlyias]
 
+
 ---
 
-## Question 134 (Year: 2015 | Paper: GS 2 | Marks: N/A | Words: N/A)
+## Question 139 (Year: 2015 | Paper: GS 2 | Marks: N/A | Words: N/A)
 **Question ID: 2015-gs2-q134-pwonlyias**
 
 **Khap Panchayats have been in the news for functioning as extra-constitutional authorities, often delivering pronouncements amounting to human rights violations. Discuss critically the actions taken by the legislative, executive and the judiciary to set the things right in this regard. (200 words, 12.5 marks)**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** <br>• Briefly describe what Khap Panchayats are and the challenges associated with them. **Body** <br>• Divide the body into three main sections corresponding to the actions taken by the legislative, executive, and judiciary branches of the Indian government. **Conclusion** <br>• Conclude, suggesting ways to effectively address the issue. |
 | --- |
@@ -5662,17 +5506,16 @@ The Indian judiciary has played a more proactive role in dealing with the issue 
 - **In the case of Shakti Vahini v. Union of India (2018),:** the Supreme Court ruled that any attempt by Khap Panchayats to interfere in the marriages of consenting adults is illegal, and laid down preventive, remedial, and punitive measures to deal with the issue of honor killings.
 - The court has also taken suo motu cognizance in cases of human rights violations by Khap Panchayats and has ordered investigations and the provision of protection to the affected parties.
 
-
-
 ### Conclusion
 
 Despite these efforts, the influence of Khap Panchayats persists, primarily due to the deep-rooted patriarchal mindset and the socio-political clout they hold in rural areas. To effectively address the issue, it is crucial to raise awareness about the unconstitutionality of their actions, empower local law enforcement, and promote social change that challenges regressive customs and traditions.
 
 [Question ID: 2015-gs2-q134-pwonlyias]
 
+
 ---
 
-## Question 135 (Year: 2015 | Paper: GS 2 | Marks: N/A | Words: N/A)
+## Question 140 (Year: 2015 | Paper: GS 2 | Marks: N/A | Words: N/A)
 **Question ID: 2015-gs2-q135-pwonlyias**
 
 **The Self-Help Group (SHG) Bank Linkage Programme (SBLP), which is India’s own innovation, has proved to be one of the most effective poverty alleviation and women empowerment programmes. Elucidate. (200 words, 12.5 marks)**
@@ -5699,8 +5542,6 @@ The Self-Help Group (SHG) Bank Linkage Programme (SBLP) is a unique initiative i
 - **Social Impact:** Beyond the economic benefits, SHGs have also had a profound social impact.
 - **In states like Bihar and Uttar Pradesh, women’s SHGs have been at the forefront of social campaigns like sanitation, education, and health awareness,:** contributing to the overall development of their communities.
 
-
-
 ### Conclusion
 
 The SBLP, through its focus on microcredit and SHGs, has not only enabled financial inclusion but also empowered women, promoted entrepreneurship, and alleviated poverty. It stands as a testament to the power of innovative, inclusive, and community-led initiatives in addressing socio-economic challenges.
@@ -5709,7 +5550,7 @@ The SBLP, through its focus on microcredit and SHGs, has not only enabled financ
 
 ---
 
-## Question 136 (Year: 2014 | Paper: GS 2 | Marks: N/A | Words: N/A)
+## Question 141 (Year: 2014 | Paper: GS 2 | Marks: N/A | Words: N/A)
 **Question ID: 2014-gs2-q136-pwonlyias**
 
 **Has the Cadre based Civil Services Organization been the cause of slow change in India? Critically examine. (200 words, 12.5 marks)**
@@ -5736,8 +5577,6 @@ The SBLP, through its focus on microcredit and SHGs, has not only enabled financ
 - **The successful implementation of the polio eradication program in India:** can be attributed to the tireless efforts of cadre-based civil servants.
 - **On the other hand, the delay in the implementation of crucial reforms like the Goods and Services Tax (GST):** can, in part, be attributed to bureaucratic hurdles.
 
-
-
 ### Conclusion
 
 While the cadre-based civil services in India have certain structural issues that can slow down change, they also have strengths that contribute to effective governance. It is essential to undertake administrative reforms to address the issues while building on the strengths of the system.
@@ -5746,7 +5585,7 @@ While the cadre-based civil services in India have certain structural issues tha
 
 ---
 
-## Question 137 (Year: 2014 | Paper: GS 2 | Marks: N/A | Words: N/A)
+## Question 142 (Year: 2014 | Paper: GS 2 | Marks: N/A | Words: N/A)
 **Question ID: 2014-gs2-q137-pwonlyias**
 
 **The penetration of Self Help Groups (SHGs) in rural areas in promoting participation in development programmes is facing socio-cultural hurdles. Examine. (200 words, 12.5 marks)**
@@ -5761,8 +5600,6 @@ While the cadre-based civil services in India have certain structural issues tha
 Self Help Groups (SHGs), formed on the premise of collective effort and shared responsibility, have emerged as a pivotal social innovation for promoting participatory development, particularly in the rural context. By catalyzing small-scale entrepreneurship, enhancing financial literacy, and fostering economic inclusion, SHGs have the potential to address the socio-economic gaps that persist in rural areas.
 
 <p align="center"><img src="images/pw_governance_q145_img1.webp" alt="image 2023 12 29T140011.366" /></p>
-
-
 
 ### Body
 
@@ -5782,8 +5619,6 @@ Self Help Groups (SHGs), formed on the premise of collective effort and shared r
 - **SHGs in Rural Rajasthan:** 
 - **Illiteracy was a significant challenge for SHGs in Rajasthan.:** To overcome this, many groups have started offering literacy and basic financial education to their members, thereby improving their understanding of SHGs and boosting their confidence.
 
-
-
 ### Conclusion
 
 Addressing these socio-cultural hurdles is crucial for increasing the penetration of SHGs in rural India. This could involve community sensitization about the benefits of SHGs, promoting gender equality, providing basic education and financial literacy programs, and working towards a more inclusive society free from caste-based discrimination. By overcoming these challenges, SHGs can play a significant role in empowering individuals and promoting development in rural India.
@@ -5792,12 +5627,12 @@ Addressing these socio-cultural hurdles is crucial for increasing the penetratio
 
 ---
 
-## Question 138 (Year: 2014 | Paper: GS 2 | Marks: N/A | Words: N/A)
+## Question 143 (Year: 2014 | Paper: GS 2 | Marks: N/A | Words: N/A)
 **Question ID: 2014-gs2-q138-pwonlyias**
 
 **The setting up of a Rail Tariff Authority to regulate fares will subject the cash strapped Indian Railways to demand subsidy for obligation to operate non-profitable routes and services. Taking into account the experience in the power sector, discuss if the proposed reform is expected to benefit the consumers, the Indian Railways or the private container operators. (200 words, 12.5 marks)**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** <br>• Begin with a brief introduction about the proposal of setting up a Rail Tariff Authority (RTA) to regulate fares in the Indian Railways. **Body** <br>• Discuss the potential impact of the RTA on consumers. <br>• Explore the possible implications of the RTA on the Indian Railways. <br>• Can also write about recommendations by the expert committees in this sector. <br>• Examine how the RTA might affect private container operators. **Conclusion** <br>• Conclude, emphasizing the need for a balanced approach that considers the interests of all stakeholders. |
 | --- |
@@ -5805,8 +5640,6 @@ Addressing these socio-cultural hurdles is crucial for increasing the penetratio
 ### Introduction
 
 **The Indian government’s proposal to establish a Rail Tariff Authority (RTA) to regulate fares in Indian Railways is a significant policy shift aimed at bringing transparency and rationalization in fare determination. The idea of an independent tariff regulatory authority for the railways was first recommended** by the Expert Group for Modernization of Indian Railways, headed by Dr. Sam Pitroda in 2012, and later reinforced by the Bibek Debroy Committee in 2015. **
-
-
 
 ### Body
 
@@ -5823,17 +5656,16 @@ Addressing these socio-cultural hurdles is crucial for increasing the penetratio
 - **Drawing from the Bibek Debroy Committee’s recommendations,:** an independent tariff regulatory authority could ensure a level playing field between Indian Railways and private operators.
 - This could drive competition but may also impact the profit margins of private operators.
 
-
-
 ### Conclusion
 
 Drawing lessons from the power sector, it is clear that while regulatory reforms can introduce transparency and fairness, they also necessitate a balanced approach to ensure the equitable distribution of benefits and burdens among all stakeholders.
 
 [Question ID: 2014-gs2-q138-pwonlyias]
 
+
 ---
 
-## Question 139 (Year: 2014 | Paper: GS 2 | Marks: N/A | Words: N/A)
+## Question 144 (Year: 2014 | Paper: GS 2 | Marks: N/A | Words: N/A)
 **Question ID: 2014-gs2-q139-pwonlyias**
 
 **Though 100 percent FDI is already allowed in non-news media like a trade publication and general entertainment channel, the government is mulling over the proposal for increased FDI in news media for quite some time. What difference would an increase in FDI make? Critically evaluate the pros and cons. (200 words, 12.5 marks)**
@@ -5864,8 +5696,6 @@ Drawing lessons from the power sector, it is clear that while regulatory reforms
 - On the other hand, concerns about increased FDI can be illustrated by the apprehension surrounding the entry of foreign news media outlets in India.
 - **For instance, when BBC and CNN began broadcasting in India,:** there were concerns about the potential influence of Western values and norms on Indian society.
 
-
-
 ### Conclusion
 
 A nuanced policy approach, accompanied by robust regulatory mechanisms, is necessary to ensure that the growth and integrity of the Indian news media sector are maintained while harnessing the benefits of foreign investment. It is essential to strike a balance that promotes economic prosperity without compromising the autonomy and diversity of the Indian news media.
@@ -5874,12 +5704,12 @@ A nuanced policy approach, accompanied by robust regulatory mechanisms, is neces
 
 ---
 
-## Question 140 (Year: 2014 | Paper: GS 2 | Marks: N/A | Words: N/A)
+## Question 145 (Year: 2014 | Paper: GS 2 | Marks: N/A | Words: N/A)
 **Question ID: 2014-gs2-q140-pwonlyias**
 
 **Two parallel run schemes of the Government, viz the Adhar card and NPR, one of voluntary and the other as compulsory, have led to debates at national levels and also litigations. On merits , discuss whether or not both schemes need run concurrently. Analyse the potential of the schemes to achieve development benefits and equitable growth. (200 words, 12.5 marks)**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** <br>• Begin by briefly introducing the Aadhaar card and the National Population Register (NPR) schemes, highlighting their primary features and purposes. **Body** <br>• Discuss the merits and demerits of both Aadhaar and NPR running concurrently. <br>• Highlight the differences in their objectives and the potential for overlap and redundancy. <br>• Analyze the potential of both schemes to achieve development benefits and equitable growth. <br>• Provide examples of how these schemes have contributed or can contribute to these goals. **Conclusion** <br>• Conclude, highlighting the need for data protection and efficient use of resources. |
 | --- |
@@ -5906,17 +5736,16 @@ A nuanced policy approach, accompanied by robust regulatory mechanisms, is neces
 The Aadhaar card has already shown its effectiveness in promoting financial inclusion and ensuring that government welfare reaches the intended beneficiaries.
 - On the other hand, NPR, with its comprehensive data, can help in better policy planning and implementation, leading to more targeted and effective development schemes. **However, there are legitimate concerns regarding data privacy and the possibility of misuse of information, particularly in the absence of a robust data protection law.** These concerns need to be addressed to ensure the effectiveness and acceptability of these schemes.
 
-
-
 ### Conclusion
 
 While there are merits in both the Aadhaar and NPR schemes, their concurrent implementation needs to be carefully assessed considering the overlap in data collection, the cost involved, and concerns related to data privacy. A more pragmatic approach could be to integrate the data collected through these schemes, ensuring data protection, and use it for effective policy planning and targeted delivery of services.
 
 [Question ID: 2014-gs2-q140-pwonlyias]
 
+
 ---
 
-## Question 141 (Year: 2013 | Paper: GS 2 | Marks: 10 Marks | Words: 200 Words)
+## Question 146 (Year: 2013 | Paper: GS 2 | Marks: 10 Marks | Words: 200 Words)
 **Question ID: 2013-gs2-q141-pwonlyias**
 
 **A national Lokpal, however strong it may be, cannot resolve the problems of immorality in public affairs’. Discuss.**
@@ -5947,7 +5776,6 @@ While there are merits in both the Aadhaar and NPR schemes, their concurrent imp
   - While the Lokpal can investigate individual cases of corruption, it may not be equipped to address these larger systemic issues.
 - **The 2G Spectrum scam is an example where structural issues allowed for widespread corruption.:** 
 
-
 ### Conclusion
 
 To effectively resolve the problem of immorality in public affairs, a comprehensive approach is required. This includes fostering a culture of integrity and ethics, reforming the education system to include moral and ethical education, introducing systemic changes to increase transparency and accountability, and enforcing stringent laws against all forms of unethical behavior. A strong Lokpal can certainly be a crucial component of this approach, but on its own, it cannot fully resolve the problems of immorality in public affairs.
@@ -5956,7 +5784,7 @@ To effectively resolve the problem of immorality in public affairs, a comprehens
 
 ---
 
-## Question 142 (Year: 2013 | Paper: GS 2 | Marks: N/A | Words: N/A)
+## Question 147 (Year: 2013 | Paper: GS 2 | Marks: N/A | Words: N/A)
 **Question ID: 2013-gs2-q142-pwonlyias**
 
 **Electronic cash transfer system for the welfare schemes is an ambitious project to minimize corruption, eliminate wastage and facilitate reforms. Comment.**
@@ -5983,8 +5811,6 @@ To effectively resolve the problem of immorality in public affairs, a comprehens
 - **Transparency and Accountability:** The DBT system improves transparency and accountability in the delivery of welfare services. It allows for better tracking of funds and easier identification of bottlenecks or leakages.
 - **For instance, the Mahatma Gandhi National Rural Employment Guarantee Act (MGNREGA):** has seen improved transparency with wage payments being made directly into the bank accounts of the beneficiaries.
 
-
-
 ### Conclusion
 
 Despite the potential benefits, there are challenges in implementing the electronic cash transfer system, including digital illiteracy, lack of banking infrastructure in remote areas, and issues with internet connectivity. Nonetheless, with concerted efforts to address these challenges, the DBT system can bring about a significant improvement in the delivery of welfare services in India. It is indeed an ambitious project that has the potential to revolutionize India’s welfare landscape by minimizing corruption, eliminating wastage, and facilitating reforms.
@@ -5993,12 +5819,12 @@ Despite the potential benefits, there are challenges in implementing the electro
 
 ---
 
-## Question 143 (Year: 2013 | Paper: GS 2 | Marks: 10 Marks | Words: 200 Words)
+## Question 148 (Year: 2013 | Paper: GS 2 | Marks: 10 Marks | Words: 200 Words)
 **Question ID: 2013-gs2-q143-pwonlyias**
 
 **Many State Governments further bifurcate geographical administrative areas like Districts and Talukas for better governance. In light of the above, can it also be justified that more number of smaller States would bring in effective governance at State level? Discuss.**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** <br>• Introduce the topic by briefly discussing the bifurcation of geographical administrative areas such as districts and talukas, and the broader question of whether the creation of smaller states can lead to effective governance. **Body** <br>• Discuss the potential advantages of creating smaller states. <br>• Discuss the potential disadvantages or challenges of creating smaller states. **Conclusion** <br>• Conclude, writing the key to effective governance lies in decentralization and devolution of powers to local bodies, irrespective of the size of the state. |
 | --- |
@@ -6008,8 +5834,6 @@ Despite the potential benefits, there are challenges in implementing the electro
 The reorganization and bifurcation of administrative areas have been ongoing processes in India since independence, aimed at improving governance and administrative efficiency. While the bifurcation of districts and talukas is a common practice at the local level, the creation of smaller states is a much-debated topic in India’s political and administrative discourse.
 
 <p align="center"><img src="images/pw_governance_q44_img1.webp" alt="image 2023 12 29T151125.069" /></p>
-
-
 
 ### Body
 
@@ -6025,21 +5849,21 @@ The reorganization and bifurcation of administrative areas have been ongoing pro
 - **Possibility of Increased Regionalism:** Smaller states can potentially lead to increased regionalism, threatening national integration. For instance, demands for separate states such as Gorkhaland in West Bengal and Bodoland in Assam, if conceded, could trigger similar demands from other regions, leading to instability.
 - **Lack of Sustainable Development:** Smaller states may not necessarily ensure sustainable development. **For instance, despite the creation of Jharkhand, the state has been lagging in terms of development indicators due to issues like governance deficits and left-wing extremism.**
 
-
 ### Conclusion
 
 Bifurcation of administrative areas can enhance local governance, but creating smaller states is a complex matter needing careful consideration. The potential for better governance in smaller states is not guaranteed and is contingent upon factors like leadership, policy, and administrative abilities. The crux of effective governance lies in decentralizing power to local bodies, irrespective of the state’s size, to promote local development.
 
 [Question ID: 2013-gs2-q143-pwonlyias]
 
+
 ---
 
-## Question 144 (Year: 2013 | Paper: GS 2 | Marks: 10 Marks | Words: 200 Words)
+## Question 149 (Year: 2013 | Paper: GS 2 | Marks: 10 Marks | Words: 200 Words)
 **Question ID: 2013-gs2-q144-pwonlyias**
 
 **Pressure group politics is sometimes seen as the informal face of politics. With regards to the above, assess the structure and functioning of pressure groups in India.**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** <br>• Begin by defining what pressure groups are and their role as the informal face of politics. Briefly mention their function in influencing public policies and decisions without seeking formal political power. **Body** <br>• Discuss the different types of pressure groups based on interest, issues, and identity, providing examples for each. <br>• Discuss the various roles of pressure groups, such as policy advocacy, public education, and representation. **Conclusion** <br>• Conclude by summarizing the significant role of pressure groups in India’s democratic setup, highlighting their function as a bridge between the government and citizens. |
 | --- |
@@ -6061,11 +5885,12 @@ Bifurcation of administrative areas can enhance local governance, but creating s
 - **An example is the Confederation of Indian Industry (CII),:** which regularly interacts with government officials to advocate for pro-business policies.
 - **Public Education:** They often undertake public education and awareness campaigns to inform the public about specific issues and build support for their cause.
 - **For instance, environmental groups like Greenpeace India:** run campaigns to raise awareness about climate change and other environmental issues.
+
 - **Representation:** Pressure groups provide a platform for marginalized and underrepresented groups to voice their concerns and interests. <p align="center"><img src="images/pw_governance_q47_img1.webp" alt="image 2023 12 29T151515.671" /></p> ***Examples:
+
+- **Representation:** Pressure groups provide a platform for marginalized and underrepresented groups to voice their concerns and interests.  ***Examples:
 - **Farmers’ Movements:** The recent farmers’ protests against the new farm laws highlight the role of pressure groups in shaping policy outcomes. Various farmers’ unions came together to protest the laws, leading to a nationwide movement that significantly impacted the political discourse.
 - **Narmada Bachao Andolan:** The movement against the construction of large dams on the Narmada river is another example of a pressure group influencing policy decisions. **Led by social activist Medha Patkar, the movement highlighted the environmental and social costs of large dam projects.**
-
-
 
 ### Conclusion
 
@@ -6073,9 +5898,10 @@ Pressure groups play a significant role in India’s democratic setup. They act 
 
 [Question ID: 2013-gs2-q144-pwonlyias]
 
+
 ---
 
-## Question 145 (Year: 2013 | Paper: GS 2 | Marks: 10 Marks | Words: 200 Words)
+## Question 150 (Year: 2013 | Paper: GS 2 | Marks: 10 Marks | Words: 200 Words)
 **Question ID: 2013-gs2-q145-pwonlyias**
 
 **The basis of providing urban amenities in rural areas (PURA) is rooted in establishing connectivity. Comment.**
@@ -6103,8 +5929,6 @@ Pressure groups play a significant role in India’s democratic setup. They act 
   - It empowers them to participate more effectively in the economy and avail themselves of better employment opportunities.
 - **One of the initiatives towards this end is the establishment of Skill Development Centers in rural areas under the Skill India Mission.:** These centers have been crucial in providing vocational training to the rural youth, thereby enhancing their employability.
 
-
-
 ### Conclusion
 
 The philosophy of PURA is indeed rooted in the principle of connectivity. By fostering physical, electronic, and knowledge connectivity, PURA aims to bring urban amenities to rural areas, thereby reducing the urban-rural divide and promoting balanced regional development. As India moves forward, the successful implementation of the PURA concept will be crucial in achieving inclusive and sustainable development.
@@ -6113,12 +5937,12 @@ The philosophy of PURA is indeed rooted in the principle of connectivity. By fos
 
 ---
 
-## Question 146 (Year: 2013 | Paper: GS 2 | Marks: 10 Marks | Words: 200 Words)
+## Question 151 (Year: 2013 | Paper: GS 2 | Marks: 10 Marks | Words: 200 Words)
 **Question ID: 2013-gs2-q146-pwonlyias**
 
 **The legitimacy and accountability of Self Help Groups (SHGs) and their patrons, the micro-finance outfits, need systematic assessment and scrutiny for the sustained success of the concept. Discuss.**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** <br>• Start with the importance of SHGs and MFIs in India’s socio-economic landscape. **Body** <br>• Discuss the current regulatory framework for SHGs and MFIs in India (RBI and NABARD). <br>• Discuss the importance of accountability and transparency for the functioning of SHGs and MFIs. <br>• Discuss how technology can enhance legitimacy and accountability in these institutions. **Conclusion** <br>• Conclude by reiterating the vital role these entities play in India’s inclusive growth and development, and the significance of ensuring their legitimacy and accountability. |
 | --- |
@@ -6140,17 +5964,16 @@ The philosophy of PURA is indeed rooted in the principle of connectivity. By fos
   - Digital platforms can facilitate transparent transactions, better record-keeping, and timely reporting, thereby improving accountability.
 - **For example, the digital SHG Bank Linkage platform (ESHAKTI) by NABARD has helped improve the quality of bookkeeping and enhanced transparency of SHGs.:** 
 
-
-
 ### Conclusion
 
 As these entities play a critical role in India’s socio-economic landscape, ensuring their legitimacy and accountability is vital for the nation’s inclusive growth and development.
 
 [Question ID: 2013-gs2-q146-pwonlyias]
 
+
 ---
 
-## Question 147 (Year: 2013 | Paper: GS 2 | Marks: 10 Marks | Words: 200 Words)
+## Question 152 (Year: 2013 | Paper: GS 2 | Marks: 10 Marks | Words: 200 Words)
 **Question ID: 2013-gs2-q147-pwonlyias**
 
 **The product diversification of financial institutions and insurance companies, resulting in overlapping of products and services strengthens the case for the merger of the two regulatory agencies, namely SEBI and IRDA. Justify.**
@@ -6179,8 +6002,6 @@ As these entities play a critical role in India’s socio-economic landscape, en
   - These bodies have specialized expertise in their respective domains, and a merger could dilute this focus.
 - Furthermore, the scale and complexity of the combined regulatory responsibilities could be overwhelming, potentially affecting regulatory efficiency.
 
-
-
 ### Conclusion
 
 The diversification and overlap of financial products and services indeed strengthen the case for merging SEBI and IRDA. However, it’s important to carefully consider potential challenges and ensure that any merger enhances regulatory effectiveness, protects consumers, and contributes to the stability of the financial system. As the financial sector continues to evolve, so must the regulatory frameworks governing it.
@@ -6189,7 +6010,7 @@ The diversification and overlap of financial products and services indeed streng
 
 ---
 
-## Question 148 (Year: 2013 | Paper: GS 2 | Marks: 10 Marks | Words: 200 Words)
+## Question 153 (Year: 2013 | Paper: GS 2 | Marks: 10 Marks | Words: 200 Words)
 **Question ID: 2013-gs2-q148-pwonlyias**
 
 **Though Citizen’s charters have been formulated by many public service delivery organizations, there is no corresponding improvement in the level of citizens’ satisfaction and quality of services being provided. Analyse.**
@@ -6204,8 +6025,6 @@ The diversification and overlap of financial products and services indeed streng
 Introduced in India in 1997, Citizen’s Charters aimed to enhance governance by stipulating service delivery standards for public sector organizations. However, despite being in operation for over two decades, their impact on augmenting citizen satisfaction and improving service quality hasn’t been significantly substantial.
 
 <p align="center"><img src="images/pw_governance_q67_img1.webp" alt="image 2023 12 29T180011.587" /></p>
-
-
 
 ### Body
 * **This could be attributed to several reasons**
@@ -6223,8 +6042,6 @@ Introduced in India in 1997, Citizen’s Charters aimed to enhance governance by
 - **Regular audits and reviews of the charters:** should be conducted to ensure their relevance and effectiveness.
 - Efforts should be made **to increase awareness about the charters** among the citizens.
 
-
-
 ### Conclusion
 
 While Citizen’s Charters have the potential to improve the quality of public services and enhance citizen satisfaction, their effectiveness in the Indian context has been hampered by a number of challenges. However, with the right reforms, these issues can be addressed, and Citizen’s Charters can play a significant role in promoting good governance in India.
@@ -6233,15 +6050,16 @@ While Citizen’s Charters have the potential to improve the quality of public s
 
 ---
 
-## Question 149 (Year: 2025 | Paper: GS 1 | Marks: 15 Marks | Words: 250 Words)
+## Question 154 (Year: 2025 | Paper: GS 1 | Marks: 15 Marks | Words: 250 Words)
 **Question ID: 2025-gs2-q149-pwonlyias**
 
 **Inequality in the ownership pattern of resources is one of the major causes of poverty. Discuss in the context of ‘paradox of poverty’.**
 
 ### Answer
 
-| **Core demand of the question** <br>• Paradox of Poverty <br>• How unequal ownership creates the poverty paradox |
-| --- |
+**Core demand of the question:**
+- Paradox of Poverty
+- How unequal ownership creates the poverty paradox
 
 ### Introduction
 
@@ -6289,8 +6107,6 @@ The ***paradox of poverty*** refers to persistent deprivation amid overall growt
   - Caste, ethnicity, and gender biases limit resource access for Dalits, Adivasis, and women.
 - **Effect:** Discrimination reinforces low ownership → structural poverty continues despite national development.
 
-
-
 ### Conclusion
 
 Poverty persists not for lack of resources, but due to unequal ownership and control that concentrates gains and disperses risks; expanding asset ownership, rights over commons, and value-chain power is central to resolving the poverty paradox.
@@ -6299,15 +6115,17 @@ Poverty persists not for lack of resources, but due to unequal ownership and con
 
 ---
 
-## Question 150 (Year: 2025 | Paper: GS 2 | Marks: 15 Marks | Words: 250 Words)
+## Question 155 (Year: 2025 | Paper: GS 2 | Marks: 15 Marks | Words: 250 Words)
 **Question ID: 2025-gs2-q150-pwonlyias**
 
 **The National Commission for Protection of Child Rights has to address the challenges faced by children in the digital era. Examine the existing policies and suggest measures the Commission can initiate to tackle the issue.**
 
 ### Answer
 
-| **Core demand of the question** <br>• Mention existing policies <br>• Challenges in existing policies <br>• Suggested Measures for NCPCR |
-| --- |
+**Core demand of the question:**
+- Mention existing policies
+- Challenges in existing policies
+- Suggested Measures for NCPCR
 
 ### Introduction
 
@@ -6334,8 +6152,6 @@ Poverty persists not for lack of resources, but due to unequal ownership and con
 - **Teach students and parents:** Hold quarterly school sessions using “Being Safe Online,” train teachers, and share easy parent guides.
 - **Check data practices:** Inspect EdTech and ad‑tech handling children’s data; fine violators and require fixes with follow‑ups.
 
-
-
 ### Conclusion
 
 These steps bring laws, apps, and families together for child‑first online safety through better age checks, safer design, one‑place reporting, and strong data privacy. With regular audits and school lessons, NCPCR can cut CSAM, grooming, addictive features, and data misuse while keeping useful access.
@@ -6344,15 +6160,16 @@ These steps bring laws, apps, and families together for child‑first online saf
 
 ---
 
-## Question 151 (Year: 2025 | Paper: GS 2 | Marks: 10 Marks | Words: 150 Words)
+## Question 156 (Year: 2025 | Paper: GS 2 | Marks: 10 Marks | Words: 150 Words)
 **Question ID: 2025-gs2-q151-pwonlyias**
 
 **Women’s social capital complements in advancing empowerment and gender equity. Explain.**
 
 ### Answer
 
-| **Core Demand of the Question** <br>• Discuss how Women’s social capital complements in advancing empowerment. <br>• Women’s social capital complements gender equity. |
-| --- |
+**Core Demand of the Question:**
+- Discuss how Women’s social capital complements in advancing empowerment.
+- Women’s social capital complements gender equity.
 
 ### Introduction
 
@@ -6374,23 +6191,20 @@ Women’s social capital means the **friendships, support systems, and networks 
 - **Mentorship and Intergenerational Learning:** Senior women mentor younger generations for equity. **Eg:Corporate mentorship** breaking the glass ceiling.
 - **Strengthening Community Decision-Making:** Women’s collective voice ensures gendered perspectives in planning and development. **Eg: Village Water Committees** in Rajasthan.
 
-
-
 ### Conclusion
 
 By fostering solidarity and awareness, women’s social capital serves as a powerful driver of empowerment, creating equality, opportunity, and voice. Strengthening this capital is vital for advancing gender justice and achieving **SDG 5 of Gender Equality.
--
 
 ---
 
-## Question 4 (Year: 2024 | Paper: GS 2 | Marks: N/A | Words: N/A)
+## Question 157 (Year: 2024 | Paper: GS 2 | Marks: N/A | Words: N/A)
 
 **In a crucial domain like the public healthcare system the Indian State should play a vital role to contain the adverse impact of marketisation of the system. Suggest some measures through which the State can enhance the reach of public healthcare at the grassroots level.**
 
 ### Answer
 
-| **Core Demand of Question** ● Discuss role played in by state in enhancing public healthcare system ● Analyse adverse impact of marketisation of public healthcare system ● Suggest measures address these adverse impact of marketisation |
-| --- |
+**Core Demand of Question ● Discuss role played in by state in enhancing public healthcare system ● Analyse adverse impact of marketisation of public healthcare system ● Suggest measures address these adverse impact of marketisation:**
+
 
 Recognizing **healthcare as an essential fundamental right for every citizen** is must for welfare of the society. The Indian Constitution, through **Directive Principles (Article 47)**, underscores the State’s responsibility in ensuring the health of its population. Recently, the Supreme Court reaffirmed this, emphasising **universal healthcare access** in light of the ongoing **COVID-19 pandemic**, highlighting the need for stronger public health systems.
 
@@ -6423,17 +6237,17 @@ Recognizing **healthcare as an essential fundamental right for every citizen** i
 
 **Going ahead,** the State must ensure **that its interventions in the healthcare sector align with** Sustainable Development Goal (SDG) 3 **—ensuring healthy lives and promoting well-being for all at all ages. This includes universal health coverage, reducing inequalities** (SDG 10) **, and building resilient healthcare infrastructure** (SDG 9). **
 
-
 ---
 
-## Question 5 (Year: 2024 | Paper: GS 2 | Marks: N/A | Words: N/A)
+## Question 158 (Year: 2024 | Paper: GS 2 | Marks: N/A | Words: N/A)
 
 **Poverty and malnutrition create a vicious cycle, adversely affecting human capital formation. What steps can be taken to break the cycle?**
 
 ### Answer
 
-| **Core Demand of the Question** <br>• Analyse how poverty and malnutrition create a vicious cycle adversely affecting human capital formation <br>• Suggest steps can be taken to break the cycle |
-| --- |
+**Core Demand of the Question:**
+- Analyse how poverty and malnutrition create a vicious cycle adversely affecting human capital formation
+- Suggest steps can be taken to break the cycle
 
 
 **Poverty** and **malnutrition** are interconnected in a vicious cycle where lack of access to nutritious food results in undernourishment, reducing productivity, and perpetuating deprivation. India is ranked **111th out of 125 countries** in the **2023 Global Hunger Index**, reflecting significant nutritional deficiencies due to economic disparities. **
@@ -6455,11 +6269,10 @@ Recognizing **healthcare as an essential fundamental right for every citizen** i
 - **Community Nutrition Education:** Community-driven education programs on nutrition and sustainable agriculture can lead to better dietary practices and reduced malnutrition through grassroots participation and awareness. **For example:Brazil’s Fome Zero (Zero Hunger) program** reduced child malnutrition through community-driven education focused on better nutrition and agricultural sustainability.
 
 To tackle poverty and malnutrition, a multifaceted approach is essential, combining immediate nutritional support and long-term socio-economic reforms. Aligning with **SDG 2** (Zero Hunger) and **SDG 3** (Good Health), India can enhance **human capital,** ensuring **inclusive growth** and **lasting prosperity.**
--
 
 ---
 
-## Question 6 (Year: 2023 | Paper: GS 2 | Marks: 15 Marks | Words: 250 Words)
+## Question 159 (Year: 2023 | Paper: GS 2 | Marks: 15 Marks | Words: 250 Words)
 
 **&#8220;Development and welfare schemes for the vulnerable, by its nature, are discriminatory in approach.&#8221; Do you agree? Give reasons for your answer.**
 
@@ -6494,8 +6307,6 @@ To tackle poverty and malnutrition, a multifaceted approach is essential, combin
 - **Tribal empowerment:** VAN DHAN YOJANA:** providing economic assistance and good market avenues for forest products.
 - **Protecting culture and traditions:** Schemes like **USTAAD** providing assistance for handicraft making industry among minority community.
 
-
-
 ### Conclusion
 
 Going ahead, while addressing the criticisms of being potentially discriminatory, it is equally vital to appreciate the necessity of targeted interventions to foster inclusivity and equity. The way forward lies in **adopting a collaborative, technologically adept, and transparent approach to nurture a society where development is both inclusive and sustainable**.
@@ -6504,12 +6315,12 @@ Going ahead, while addressing the criticisms of being potentially discriminatory
 
 ---
 
-## Question 152 (Year: 2022 | Paper: GS 2 | Marks: 15 Marks | Words: 250 Words)
+## Question 160 (Year: 2022 | Paper: GS 2 | Marks: 15 Marks | Words: 250 Words)
 **Question ID: 2022-gs2-q152-pwonlyias**
 
 **Besides the welfare schemes, India needs deft management of inflation and unemployment to serve the poor and the underprivileged sections of the society. Discuss.**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** <br> • Introduce the importance of welfare schemes in India and emphasize the need for addressing broader economic challenges, particularly inflation and unemployment, to serve the poor and underprivileged sections of society. **Body** <br> • Discuss the significance of managing inflation and unemployment, elaborating on the measures that can be taken to address these issues, and explain how doing so complements welfare schemes .** <br> **Conclusion** <br> • Write a relevant conclusion. |
 | --- |
@@ -6526,7 +6337,6 @@ Going ahead, while addressing the criticisms of being potentially discriminatory
 
 **Some measures to manage inflation include**
 
-
   - Implementing a sound monetary policy framework, like inflation targeting, to maintain price stability.
   - Ensuring a well-functioning supply chain and addressing structural bottlenecks in the production and distribution of essential goods.
   - Promoting competition in the market to keep prices in check.
@@ -6540,17 +6350,16 @@ Encouraging entrepreneurship and promoting small and medium enterprises (SMEs) b
 - Investing in skill development programs and vocational training to equip the workforce with the skills required by the job market.
 - Fostering innovation and investing in research and development to create new employment opportunities in emerging sectors.
 
-
-
 ### Conclusion
 
 Addressing inflation and unemployment alongside implementing welfare schemes ensures a comprehensive approach to serving the poor and underprivileged sections of society. By managing these macroeconomic challenges, the government can create a stable economic environment that facilitates inclusive growth and reduces income disparities.
 
 [Question ID: 2022-gs2-q152-pwonlyias]
 
+
 ---
 
-## Question 153 (Year: 2022 | Paper: GS 2 | Marks: 15 Marks | Words: 250 Words)
+## Question 161 (Year: 2022 | Paper: GS 2 | Marks: 15 Marks | Words: 250 Words)
 **Question ID: 2022-gs2-q153-pwonlyias**
 
 **Do you agree with the view that increasing dependence on donor agencies for development reduces the importance of community participation in the development process? Justify your answer.**
@@ -6574,8 +6383,6 @@ Addressing inflation and unemployment alongside implementing welfare schemes ens
 - **Inclusive Development Strategies:** When donor agencies adopt inclusive development strategies that prioritize community participation, they can facilitate the involvement of local communities in the planning, implementation, and evaluation of development projects in India. **For instance, the Asian Development Bank’s Urban Climate Change Resilience Trust Fund** has involved local communities in the design and implementation of climate resilience projects.
 - **Leveraging Local Knowledge:** By actively engaging communities in the development process, donor agencies can tap into valuable resources and foster a sense of ownership and commitment among local stakeholders. **An example of this is the partnership between the Swedish International Development Cooperation Agency and the Self Employed Women’s Association in India,** which has harnessed local knowledge to improve livelihoods for women in the informal sector.
 
-
-
 ### Conclusion
 
 Ultimately, the key to ensuring effective community participation lies in striking a balance between leveraging external resources and expertise while maintaining a strong focus on local needs, priorities, and involvement. This approach can help achieve sustainable and inclusive development outcomes that benefit India’s diverse population.
@@ -6584,12 +6391,12 @@ Ultimately, the key to ensuring effective community participation lies in striki
 
 ---
 
-## Question 154 (Year: 2022 | Paper: GS 2 | Marks: 15 Marks | Words: 250 Words)
+## Question 162 (Year: 2022 | Paper: GS 2 | Marks: 15 Marks | Words: 250 Words)
 **Question ID: 2022-gs2-q154-pwonlyias**
 
 **The Right of Children to Free and Compulsory Education Act, 2009 remains inadequate in promoting an incentive-based system for children&#8217;s education without generating awareness about the importance of schooling. Analyse.**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** <br>• Introduce the Right of Children to Free and Compulsory Education (RTE) Act, 2009, and its objectives. **Body** <br>• Discuss the achievements of the RTE Act in improving access to education and its limitations in incentivizing and promoting the importance of education, focusing on learning outcomes, awareness generation, incentives for disadvantaged groups, and implementation challenges. **Conclusion** <br>• Write a relevant conclusion. |
 | --- |
@@ -6606,7 +6413,7 @@ Ultimately, the key to ensuring effective community participation lies in striki
 **According to the Annual Status of Education Report (ASER) 2020, the overall enrollment rate for children aged 6-14 years increased from 93.4% in 2006 to 96.3% in 2020.**
 - **Infrastructure and quality improvements:** The RTE Act also mandates that schools meet certain minimum standards in terms of infrastructure and teacher qualifications. **Since the Act’s implementation, there has been a significant improvement in school infrastructure, with the percentage of schools with functional toilets increasing from 62.6% in 2010 to 79.4% in 2016, according to the District Information System for Education (DISE).**
 
-***However, despite these successes, the RTE Act has certain limitations **:
+**However, despite these successes, the RTE Act has certain limitations**:
 
 **Limited focus on learning outcomes:** This can limit the effectiveness of the Act in incentivizing and promoting the importance of education, as parents and children may not perceive the benefits of schooling if learning outcomes are not emphasized.
 
@@ -6619,16 +6426,16 @@ Ultimately, the key to ensuring effective community participation lies in striki
 **Although the Mid-Day Meal Scheme is in place, its implementation has faced challenges, and further incentives are needed to ensure greater inclusion.**
 - **Incomplete implementation:** The RTE Act has faced challenges in its implementation due to inadequate funding, a shortage of trained teachers, and insufficient monitoring and evaluation mechanisms. **As per the DISE 2016 report, around 17.51% of schools still lack the mandated pupil-teacher ratio.**
 
-
 ### Conclusion
 
 By adopting a comprehensive approach that addresses the aforementioned limitations, India can harness the full potential of the RTE Act to create an inclusive, equitable, and effective education system that empowers children and contributes to the nation’s overall development.
 
 [Question ID: 2022-gs2-q154-pwonlyias]
 
+
 ---
 
-## Question 155 (Year: 2021 | Paper: GS 2 | Marks: 10 Marks | Words: 150 Words)
+## Question 163 (Year: 2021 | Paper: GS 2 | Marks: 10 Marks | Words: 150 Words)
 **Question ID: 2021-gs2-q155-pwonlyias** **“Besides being a moral imperative of a Welfare State, primary health structure is a necessary precondition for sustainable development.” Analyse.**
 
 ### Answer
@@ -6655,8 +6462,6 @@ By adopting a comprehensive approach that addresses the aforementioned limitatio
 
 <p align="center"><img src="images/pw_social_justice_q568_img1.webp" alt="image 2023 12 29T154823.229" /></p>
 
-
-
 ### Conclusion
 
 By ensuring equitable access to health services, promoting preventive care, improving health outcomes, and fostering economic productivity and social cohesion, primary health care lays the foundation for a healthy, inclusive, and prosperous society that can sustainably develop and thrive.
@@ -6665,12 +6470,12 @@ By ensuring equitable access to health services, promoting preventive care, impr
 
 ---
 
-## Question 156 (Year: 2021 | Paper: GS 2 | Marks: 15 Marks | Words: 250 Words)
+## Question 164 (Year: 2021 | Paper: GS 2 | Marks: 15 Marks | Words: 250 Words)
 **Question ID: 2021-gs2-q156-pwonlyias**
 
 **Can Civil Society and Non-Governmental Organisations present an alternative model of public service delivery to benefit the common citizen? Discuss the challenges of this alternative model.**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** <br>• Introduce the potential role of Civil Society and NGOs in public service delivery as an alternative model, while acknowledging the challenges they face. **Body** <br>• Discuss the potential of NGOs and Civil Society in public service delivery. <br>• Challenges of the alternative model. **Conclusion** <br>• Write a relevant conclusion. |
 | --- |
@@ -6680,7 +6485,6 @@ By ensuring equitable access to health services, promoting preventive care, impr
 **Civil Society Organizations (CSOs) and Non-Governmental Organizations (NGOs) play a pivotal role in India’s socio-economic landscape. They supplement and complement government efforts across various sectors, bridging gaps in public service delivery with innovative, grassroots-based solutions.** As per a 2019 report by the Ministry of Statistics and Programme Implementation, India houses approximately 3.2 million NGOs, outnumbering schools and health centers, underlining their significant role. **
 
 **<p align="center"><img src="images/pw_social_justice_q572_img1.webp" alt="image 2023 12 29T160545.886" /></p>**
-
 
 
 ### Body
@@ -6702,17 +6506,16 @@ By ensuring equitable access to health services, promoting preventive care, impr
 - **Coordination with government agencies:** The lack of coordination between government and NGOs in disaster management during the 2013 Uttarakhand floods led to duplication of efforts and inefficiencies in relief operations.
 - **Political interference:** The NGO Greenpeace India faced political interference in 2015 when the government suspended its license, alleging the organization was working against the country’s economic interests.
 
-
-
 ### Conclusion
 
 By overcoming these challenges, NGOs and Civil Society can play a vital role in complementing government efforts and ensuring efficient public service delivery to the citizens.
 
 [Question ID: 2021-gs2-q156-pwonlyias]
 
+
 ---
 
-## Question 157 (Year: 2021 | Paper: GS 2 | Marks: 10 Marks | Words: 150 Words)
+## Question 165 (Year: 2021 | Paper: GS 2 | Marks: 10 Marks | Words: 150 Words)
 **Question ID: 2021-gs2-q157-pwonlyias**
 
 **Can the vicious cycle of gender inequality, poverty and malnutrition be broken through microfinancing of women SHGs? Explain with examples.**
@@ -6727,8 +6530,6 @@ By overcoming these challenges, NGOs and Civil Society can play a vital role in 
 Microfinancing of women Self-Help Groups (SHGs) has emerged as a powerful tool for empowering women and addressing various socio-economic challenges, such as gender inequality, poverty, and malnutrition. By providing women with access to financial resources and promoting economic independence, microfinancing can play a significant role in breaking the vicious cycle.
 
 <p align="center"><img src="images/pw_social_justice_q573_img1.webp" alt="image 2023 12 29T155821.331 1" /></p>
-
-
 
 ### Body
 
@@ -6751,8 +6552,6 @@ Microfinancing of women Self-Help Groups (SHGs) has emerged as a powerful tool f
 - **Multiplier effect:** The economic and social empowerment of women through microfinancing can have a multiplier effect on the community, as women are more likely to reinvest their income in their family’s well-being, leading to reduced poverty and improved health and nutrition.
 - Example: **Research has shown that in countries where microfinance initiatives target women, there is a noticeable improvement in the overall socio-economic conditions** of the community.
 
-
-
 ### Conclusion
 
 Through the successful implementation of microfinancing programs, such as the Grameen Bank, SEWA, and Kudumbashree, women have been able to overcome barriers and transform their lives and communities, demonstrating the transformative power of microfinancing in addressing these complex socio-economic challenges.
@@ -6761,7 +6560,7 @@ Through the successful implementation of microfinancing programs, such as the Gr
 
 ---
 
-## Question 158 (Year: 2021 | Paper: GS 2 | Marks: 10 Marks | Words: 150 Words)
+## Question 166 (Year: 2021 | Paper: GS 2 | Marks: 10 Marks | Words: 150 Words)
 **Question ID: 2021-gs2-q158-pwonlyias** **“Earn while you learn scheme needs to be strengthened to make vocational education and skill training meaningful.” Comment.**
 
 ### Answer
@@ -6781,8 +6580,6 @@ The “Earn while you Learn” scheme combines vocational education and skill tr
 - **Enhancing industry-academia collaboration:** This collaboration ensures that the vocational education system stays up-to-date with the latest industry trends and technological advancements, ultimately benefiting both students and employers.
 - **Encouraging lifelong learning:** The scheme fosters a culture of lifelong learning, as students continuously adapt to the ever-changing demands of the job market.
 
-
-
 ### Conclusion
 
 The “Earn while you Learn” approach can better equip students with the skills and knowledge required for successful careers. Ultimately, this will contribute to a more skilled, adaptable, and competitive workforce that drives economic growth and prosperity.
@@ -6791,7 +6588,7 @@ The “Earn while you Learn” approach can better equip students with the skill
 
 ---
 
-## Question 159 (Year: 2021 | Paper: GS 2 | Marks: 15 Marks | Words: 250 Words)
+## Question 167 (Year: 2021 | Paper: GS 2 | Marks: 15 Marks | Words: 250 Words)
 **Question ID: 2021-gs2-q159-pwonlyias** **“Though women in post-Independent India have excelled in various fields, the social attitude towards women and feminist movement has been patriarchal.” Apart from women education and women empowerment schemes, what interventions can help change this milieu?**
 
 ### Answer
@@ -6823,8 +6620,6 @@ The “Earn while you Learn” approach can better equip students with the skill
 - **Community-based initiatives:** Engaging community leaders, religious institutions, and local organizations in promoting gender equality can help address patriarchal attitudes at the grassroots level. These initiatives can encourage dialogue, foster understanding, and create a supportive environment for women to challenge gender norms.
 - **Comprehensive sex education:** Introducing comprehensive sex education in schools that covers topics such as consent, gender identity, and healthy relationships can help build a foundation of understanding and respect for gender equality from an early age.
 
-
-
 ### Conclusion
 
 By focusing on the aforementioned interventions, it is possible to challenge entrenched gender norms and foster a more equitable society. Such a shift requires the collective efforts of individuals, communities, and institutions to create an environment where women can thrive alongside men, ultimately contributing to a more inclusive and progressive society.
@@ -6833,12 +6628,12 @@ By focusing on the aforementioned interventions, it is possible to challenge ent
 
 ---
 
-## Question 160 (Year: 2020 | Paper: GS 2 | Marks: 10 Marks | Words: 150 Words)
+## Question 168 (Year: 2020 | Paper: GS 2 | Marks: 10 Marks | Words: 150 Words)
 **Question ID: 2020-gs2-q160-pwonlyias**
 
 **In order to enhance the prospects of social development, sound and adequate health care policies are needed particularly in the fields of geriatric and maternal health care. Discuss.**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** <br>• Introduce the importance of geriatric and maternal health care in achieving social development and the need for well-designed policies to meet their unique needs. **Body** <br>• Discuss the significance of sound and adequate health care policies in the fields of geriatric and maternal health care. <br>• Give appropriate examples. **Conclusion** <br>• Emphasize the need for policymakers to focus on these areas to improve health outcomes, promote equity, and foster overall societal progress. |
 | --- |
@@ -6863,20 +6658,19 @@ By focusing on the aforementioned interventions, it is possible to challenge ent
 - **Education and Awareness:** Promoting education and awareness about maternal health issues can help women make informed choices and access the care they need for a healthy pregnancy and childbirth.
 - **For instance, TN’s health care model has shown commendable progress in this area.:** The state has implemented various initiatives, such as the **Tamil Nadu Health Systems Project,** which focuses on improving maternal and child health outcomes through improved infrastructure, skilled birth attendance, and comprehensive antenatal and postnatal care.
 
-
-
 ### Conclusion
 
 By focusing on preventive care, accessibility, workforce development, mental health support, and education, policymakers can contribute to improved health outcomes, better quality of life, and overall social development.
 
 [Question ID: 2020-gs2-q160-pwonlyias]
 
+
 ---
 
-## Question 161 (Year: 2020 | Paper: GS 2 | Marks: 15 Marks | Words: 250 Words)
+## Question 169 (Year: 2020 | Paper: GS 2 | Marks: 15 Marks | Words: 250 Words)
 **Question ID: 2020-gs2-q161-pwonlyias** **“Micro-Finance as an anti-poverty vaccine, is aimed at asset creation and income security of the rural poor in India”. Evaluate the role of the Self Help Groups in achieving the twin objectives along with empowering women in rural India.**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** <br>• Briefly mention the role of Self Help Groups (SHGs) in providing microfinance services in rural India, with a focus on empowering women. **Body** <br>• Discuss the role of SHGs in asset creation and income security for the rural poor in India, providing examples of successful initiatives. <br>• Explain how SHGs contribute to women empowerment, skill development, and social capital formation in rural India, giving examples of successful programs. <br>• Highlight the importance of linkages between SHGs and formal financial institutions, and provide examples of successful partnerships. **Conclusion** <br>• Write a relevant conclusion, mentioning the challenges and the probable way forward. |
 | --- |
@@ -6886,8 +6680,6 @@ By focusing on preventive care, accessibility, workforce development, mental hea
 Micro-finance has emerged as a powerful instrument for poverty reduction, asset creation, and income security in developing countries, including India. Self Help Groups (SHGs) have been instrumental in providing microfinance services to rural poor, especially women.
 
 <p align="center"><img src="images/pw_social_justice_q521_img1.webp" alt="image 2023 12 29T162141.093" /></p>
-
-
 
 ### Body
 
@@ -6899,22 +6691,21 @@ Micro-finance has emerged as a powerful instrument for poverty reduction, asset 
 - **Social Capital Formation:** SHGs foster a sense of unity and cooperation among members, encouraging them to work collectively towards common goals. This social capital can then be leveraged to address various social and economic issues faced by the community. For example, the Mann Deshi Mahila Sahakari Bank in Maharashtra, founded by an SHG, has effectively utilized social capital to improve financial inclusion and livelihood opportunities for rural women.
 - **Linkages with Formal Financial Institutions:** SHGs have established vital linkages between the rural poor and formal financial institutions, which has helped integrate the rural poor into the mainstream economy, reducing their dependence on informal sources of credit. The partnership between SHGs and banks under the SHG-Bank Linkage Program in India is a testament to the success of such linkages.
 
-
-
 ### Conclusion
 
 Despite challenges like inadequate credit, limited capacity-building, and weak formal financial linkages, Self Help Groups have been remarkably effective. However, their impact can be enhanced through targeted interventions and policies. Strengthening institutional support, promoting financial inclusion, and fostering collaborations among stakeholders will be key to ensuring SHGs’ continued role in poverty alleviation and rural women empowerment.
 
 [Question ID: 2020-gs2-q161-pwonlyias]
 
+
 ---
 
-## Question 162 (Year: 2020 | Paper: GS 2 | Marks: 15 Marks | Words: 250 Words)
+## Question 170 (Year: 2020 | Paper: GS 2 | Marks: 15 Marks | Words: 250 Words)
 **Question ID: 2020-gs2-q162-pwonlyias**
 
 **National Education Policy 2020 is in conformity with the Sustainable Development Goal-4 (2030). It intends to restructure and reorient education system in India. Critically examine the statement.**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** <br>• Introduce the National Education Policy (NEP) 2020 and its aim to transform India’s education system. **Body** <br>• Discuss the positive aspects of NEP 2020 in conformity with SDG-4. <br>• Address the challenges and concerns related to NEP 2020 in achieving SDG-4. **Conclusion** <br>• Suggest a way forward for the government, educational institutions, and stakeholders to ensure the policy’s success and contribute to a brighter and more equitable future for India. |
 | --- |
@@ -6937,17 +6728,16 @@ Despite challenges like inadequate credit, limited capacity-building, and weak f
 - **Digital Divide:** While the policy emphasizes the use of technology in education, the existing digital divide, particularly in rural areas and among socio-economically disadvantaged groups, may hinder the equitable implementation of technology-driven learning solutions.
 - **Monitoring and Evaluation:** The NEP 2020 lacks a clear monitoring and evaluation mechanism to assess its progress towards achieving SDG-4.
 
-
-
 ### Conclusion
 
 The success of the National Education Policy 2020 in transforming India’s education landscape hinges on the collaboration and commitment of the government, educational institutions, and all stakeholders. A well-structured and adequately funded plan of action is essential to translate the policy’s progressive vision into tangible results. By creating a conducive learning environment and tapping into the potential of India’s diverse population, the National Education Policy 2020 has the potential to chart a path toward a brighter and more equitable future for the nation.
 
 [Question ID: 2020-gs2-q162-pwonlyias]
 
+
 ---
 
-## Question 163 (Year: 2020 | Paper: GS 2 | Marks: 15 Marks | Words: 250 Words)
+## Question 171 (Year: 2020 | Paper: GS 2 | Marks: 15 Marks | Words: 250 Words)
 **Question ID: 2020-gs2-q163-pwonlyias** **“The incidence and intensity of poverty are more important in determining poverty based on income alone”. In this context analyse the latest United Nations Multidimensional Poverty Index Report.**
 
 ### Answer
@@ -6961,8 +6751,6 @@ The success of the National Education Policy 2020 in transforming India’s educ
 
 <p align="center"><img src="images/pw_social_justice_q539_img1.webp" alt="image 2023 12 29T161524.618" /></p>
 
-
-
 ### Body
 
 This approach offers a more comprehensive understanding of poverty by considering the incidence and intensity of deprivations that people face in multiple aspects of their lives.
@@ -6973,8 +6761,6 @@ This approach offers a more comprehensive understanding of poverty by considerin
 - **Disaggregated Data:** The report presents disaggregated data by different sub-groups, such as gender, age, and geographical location, allowing for a better understanding of the specific deprivations faced by different segments of the population. This level of detail can help in the formulation of more nuanced and tailored interventions to combat poverty.
 - **Policy Implications:** By analyzing the MPI report, policymakers can gain valuable insights into the most pressing deprivations in their countries, which can guide the development of targeted policies and interventions to address multidimensional poverty more effectively.
 
-
-
 ### Conclusion
 
 The United Nations Multidimensional Poverty Index Report offers a more comprehensive view of poverty by considering both the incidence and intensity of deprivations across multiple dimensions. This approach highlights the importance of moving beyond income-based measures to better understand and address the complex nature of poverty. By examining the latest MPI report, policymakers can identify the most vulnerable populations and design targeted strategies to alleviate poverty and improve overall well-being.
@@ -6983,12 +6769,12 @@ The United Nations Multidimensional Poverty Index Report offers a more comprehen
 
 ---
 
-## Question 164 (Year: 2019 | Paper: GS 2 | Marks: 10 Marks | Words: 150 Words)
+## Question 172 (Year: 2019 | Paper: GS 2 | Marks: 10 Marks | Words: 150 Words)
 **Question ID: 2019-gs2-q164-pwonlyias**
 
 **Despite the consistent experience of high growth, India still goes with the lowest indicators of human development. Examine the issues that make balanced and inclusive development elusive.**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** <br>• Introduce by acknowledging India’s high growth rates in recent years. **Body** <br>• Discuss various issues that make balanced and inclusive development elusive, such as income inequality, regional disparities, social exclusion, gender inequality, and inadequate investments in social sectors. <br>• Provide examples and data to support each of the identified issues. **Conclusion** <br>• Conclude, emphasizing the need for addressing these issues to achieve balanced and inclusive development in India. |
 | --- |
@@ -7012,22 +6798,21 @@ The United Nations Multidimensional Poverty Index Report offers a more comprehen
 - **Inadequate investments in social sectors:** Investments in critical social sectors like health, education, and social protection have often been insufficient to meet the needs of India’s large and diverse population. This has resulted in inadequate infrastructure, service delivery, and human resource development, hindering inclusive growth.
 - **For instance, Public healthcare infrastructure in rural areas:** is often inadequate, with a shortage of doctors, nurses, and medical facilities, making it difficult for the rural population to access essential healthcare services.
 
-
-
 ### Conclusion
 
 By tackling these challenges and adopting a more equitable and inclusive approach to development, India can ensure that the benefits of growth are shared by all segments of society, leading to improved human development outcomes for the entire population.
 
 [Question ID: 2019-gs2-q164-pwonlyias]
 
+
 ---
 
-## Question 165 (Year: 2019 | Paper: GS 2 | Marks: 15 Marks | Words: 250 Words)
+## Question 173 (Year: 2019 | Paper: GS 2 | Marks: 15 Marks | Words: 250 Words)
 **Question ID: 2019-gs2-q165-pwonlyias**
 
 **Performance of welfare schemes that are implemented for vulnerable sections is not so effective due to absence of their awareness and active involvement at all stages of policy process. Discuss.**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** <br>• Introduce the issue of ineffective performance of welfare schemes targeted at vulnerable sections. **Body** <br>• Discuss various welfare schemes implemented for vulnerable sections in India, such as schemes for the poor, women, children, and marginalized communities. <br>• Explain how the absence of awareness and active involvement at different stages of the policy process (design, implementation, monitoring, and evaluation) can lead to ineffective outcomes. <br>• Suggest measures to enhance awareness and active involvement of vulnerable sections in the policy process. **Conclusion** <br>• Conclude, emphasizing the importance of awareness and active involvement of vulnerable sections in the policy process for the effective performance of welfare schemes. |
 | --- |
@@ -7053,32 +6838,28 @@ For example, Mahatma Gandhi National Rural Employment Guarantee Act (MGNREGA), P
 - **Capacity building:** Providing training and capacity-building support to the target groups can empower them to participate effectively in the policy process and ensure their rights and entitlements are protected.
 - **Information dissemination:** Ensuring that information about welfare schemes is widely disseminated through various channels, such as community meetings, mass media, and digital platforms, can increase awareness and facilitate access to services.
 
-
-
 ### Conclusion
 
 To enhance the performance of welfare schemes for vulnerable sections, it is essential to foster awareness and active involvement of the target groups in the policy process. By adopting participatory approaches, building capacities, and disseminating information, the effectiveness of these schemes can be significantly improved, leading to better outcomes for the intended beneficiaries.
 
 [Question ID: 2019-gs2-q165-pwonlyias]
 
+
 ---
 
-## Question 166 (Year: 2018 | Paper: GS 2 | Marks: 10 Marks | Words: 150 Words)
+## Question 174 (Year: 2018 | Paper: GS 2 | Marks: 10 Marks | Words: 150 Words)
 **Question ID: 2018-gs2-q166-pwonlyias**
 
 **Appropriate local community-level healthcare intervention is a prerequisite to achieve ‘Health for All’ in India. Explain.**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** <br>• Introduce the concept of ‘Health for All’ and emphasize the importance of local community-level healthcare interventions in achieving this goal in the Indian context. **Body** <br>• Discuss various aspects of community-level healthcare interventions that contribute to achieving ‘Health for All’ in India. <br>• Provide examples for each aspect to illustrate the practical implementation of local community-level healthcare interventions and their impact on improving health outcomes. <br>• Provide case studies of the successful models. **Conclusion** <br>• Write a relevant conclusion. |
 | --- |
 
 ### Introduction
 
-
 ***‘Health for All’**: is a universal goal aimed at ensuring equitable access to healthcare services for every individual. In India, achieving this goal requires appropriate local community-level healthcare interventions, which can address the unique health needs and challenges of diverse populations across the country.
-
-
 
 ### Body
 
@@ -7092,34 +6873,30 @@ To enhance the performance of welfare schemes for vulnerable sections, it is ess
 - **Delhi:** The Mohalla Clinic project:** is a noteworthy initiative that has seen substantial success. Aimed at expanding primary health care, these clinics are set up in neighborhoods (Mohallas) to provide free doctor consultations, tests, and medicines. The clinics address the needs of the local community and have significantly improved access to primary healthcare in Delhi.
 - **Tamil Nadu:** Tamil Nadu’s model of health care is well-regarded across India, particularly for its primary health care network. One of the significant initiatives is the **“Amma Baby Care Kit” scheme.** The state provides a kit of 16 baby care items to all newborns in government hospitals, promoting institutional deliveries and newborn care. **The Tamil Nadu Health Systems Project (TNHSP)** is another initiative that has improved health outcomes through strengthening service delivery, public-private partnerships, and community engagement.
 
-
-
 ### Conclusion
 
 By focusing on these community-based interventions, India can make significant strides towards ensuring equitable access to healthcare services for all its citizens.
 
 [Question ID: 2018-gs2-q166-pwonlyias]
 
+
 ---
 
-## Question 167 (Year: 2018 | Paper: GS 2 | Marks: 15 Marks | Words: 250 Words)
+## Question 175 (Year: 2018 | Paper: GS 2 | Marks: 15 Marks | Words: 250 Words)
 **Question ID: 2018-gs2-q167-pwonlyias**
 
 **How far do you agree with the view that the focus on lack of availability of food as the main cause of hunger takes the attention away from ineffective human development policies in India?**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction:** <br>• Introduce the issue of hunger in India and the debate on whether focusing on the lack of food availability distracts from ineffective human development policies. **Body** <br>• Discuss the impact of ineffective human development policies on hunger and malnutrition, focusing on aspects like education, health, and social protection, and providing relevant examples. <br>• Explain the interconnectedness of food availability and human development policies, with examples illustrating the importance of a comprehensive approach that includes agricultural policies and infrastructure development. **Conclusion** <br>• Write a relevant conclusion. |
 | --- |
 
 ### Introduction
 
-
 **The 2022 Global Hunger Index ranks India 107th out of 121 countries, highlighting a critical hunger issue. With the world’s highest child wasting rate at 19.3%,** the problem extends beyond food scarcity. It’s a complex interplay of socio-economic factors, health and sanitation issues, and the effectiveness of human development policies. Therefore, a comprehensive approach is vital to address India’s hunger challenge holistically.
 
 <p align="center"><img src="images/pw_social_justice_q411_img1.webp" alt="image 2023 12 29T164522.675" /></p>
-
-
 
 ### Body
 * **Impact of ineffective human development policies**
@@ -7129,17 +6906,16 @@ By focusing on these community-based interventions, India can make significant s
 - **Agricultural policies:** For instance, **‘** The National Food Security Act’ **aims to provide food grains at subsidized rates, but its implementation requires coordination with other human development policies to ensure better nutrition and overall well-being.**
 - **Infrastructure development:** For instance, ‘The Pradhan Mantri Gram Sadak Yojana (PMGSY)’:** has improved rural connectivity, enhancing access to markets, healthcare, and education, and thus contributing to human development and reduced hunger.
 
-
-
 ### Conclusion
 
 Focusing solely on the lack of food availability as the main cause of hunger risks overshadowing the role of ineffective human development policies in perpetuating the problem. A comprehensive approach that addresses the interconnectedness of food availability, education, health, social protection, and infrastructure development is essential to tackle hunger and malnutrition in India effectively.
 
 [Question ID: 2018-gs2-q167-pwonlyias]
 
+
 ---
 
-## Question 168 (Year: 2017 | Paper: GS 2 | Marks: 10 Marks | Words: 150 Words)
+## Question 176 (Year: 2017 | Paper: GS 2 | Marks: 10 Marks | Words: 150 Words)
 **Question ID: 2017-gs2-q168-pwonlyias**
 
 **Does the Rights of Persons with Disabilities Act, 2016 ensure effective mechanism for empowerment and inclusion of the intended beneficiaries in the society? Discuss.**
@@ -7171,8 +6947,6 @@ Focusing solely on the lack of food availability as the main cause of hunger ris
 - **Resource allocation and infrastructure:** Insufficient allocation of funds and inadequate infrastructure can limit the effectiveness of the Act in promoting inclusion and empowerment.
 - **Implementation and enforcement:** Weak implementation and enforcement mechanisms may restrict the intended beneficiaries from enjoying their rights under the Act.
 
-
-
 ### Conclusion
 
 The RPWD Act, 2016 offers a robust framework for empowering and including persons with disabilities. Addressing challenges in awareness, resource allocation, and implementation is vital for effectiveness. Joint efforts from the government, civil society, and the public are needed for an inclusive, accessible society.
@@ -7181,12 +6955,12 @@ The RPWD Act, 2016 offers a robust framework for empowering and including person
 
 ---
 
-## Question 169 (Year: 2017 | Paper: GS 2 | Marks: 10 Marks | Words: 150 Words)
+## Question 177 (Year: 2017 | Paper: GS 2 | Marks: 10 Marks | Words: 150 Words)
 **Question ID: 2017-gs2-q169-pwonlyias**
 
 **Hunger and Poverty are the biggest challenges for good governance in India still today. Evaluate how far successive governments have progressed in dealing with these humongous problems. Suggest measures for improvement.**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** <br>• Introduce the challenges of hunger and poverty in India and their significance in the context of good governance. **Body** <br>• Talk about the progress made by successive governments. <br>• Identify the challenges in addressing hunger and poverty. <br>• Highlight the measures for improvement. **Conclusion** <br>• Conclude, emphasizing the need for a combination of improved implementation, targeted interventions, and collaborative efforts to ensure good governance in addressing these critical issues. |
 | --- |
@@ -7194,6 +6968,8 @@ The RPWD Act, 2016 offers a robust framework for empowering and including person
 ### Introduction
 
 **Despite India’s economic progress, it grapples with severe hunger and poverty issues.** The 2022 Global Hunger Index places India at 107 out of 121 countries, with the world’s highest child wasting rate at 19.3%. **Concurrently,** although poverty rates have decreased over the years, the pandemic’s impact suggests a potential rise, **with a significant portion of the population still living in extreme poverty. These persistent challenges underscore the need for comprehensive and inclusive policies.** <p align="center"><img src="images/pw_social_justice_q340_img1.webp" alt="image 2023 12 29T170206.454" /></p> Body: **
+
+**Despite India’s economic progress, it grapples with severe hunger and poverty issues.** The 2022 Global Hunger Index places India at 107 out of 121 countries, with the world’s highest child wasting rate at 19.3%. **Concurrently,** although poverty rates have decreased over the years, the pandemic’s impact suggests a potential rise, **with a significant portion of the population still living in extreme poverty. These persistent challenges underscore the need for comprehensive and inclusive policies.**  Body: **
 
 ***Progress made by successive governments:**:
 
@@ -7213,32 +6989,28 @@ The RPWD Act, 2016 offers a robust framework for empowering and including person
 - **Targeted poverty alleviation schemes:** Implementing targeted poverty alleviation schemes based on accurate data and identification of beneficiaries can help maximize the impact of government efforts.
 - **Public-private partnerships:** Encouraging partnerships between the government, private sector, and civil society organizations can help mobilize resources and expertise to address hunger and poverty more effectively.
 
-
-
 ### Conclusion
 
 While successive governments have made progress in dealing with hunger and poverty, significant challenges remain. A combination of improved implementation, targeted interventions, and collaborative efforts can help India overcome these hurdles and ensure good governance in addressing these critical issues.
 
 [Question ID: 2017-gs2-q169-pwonlyias]
 
+
 ---
 
-## Question 170 (Year: 2017 | Paper: GS 2 | Marks: 15 Marks | Words: 250 Words)
+## Question 178 (Year: 2017 | Paper: GS 2 | Marks: 15 Marks | Words: 250 Words)
 **Question ID: 2017-gs2-q170-pwonlyias** **“Poverty Alleviation programs in India remain mere showpieces until and unless they are backed up by political will.” Discuss with reference to the performance of the major poverty alleviation program in India.**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** <br>• Introduce the challenges of poverty in India and the importance of poverty alleviation programs. **Body** <br>• Divide the body into two main sections: <br>• Major poverty alleviation programs in India. <br>• Role of political will in the effectiveness of poverty alleviation programs. **Conclusion** <br>• Write a relevant conclusion. |
 | --- |
 
 ### Introduction
 
-
 India, in its pursuit of inclusive growth, continues to be plagued by the longstanding challenges of poverty and inequality. While numerous poverty alleviation programs are in place, their effectiveness is often curtailed, partially due to insufficient political commitment. **According to the World Bank data, by 2021, there had been a gradual decline in poverty rates in India. However, the COVID-19 pandemic has likely intensified these issues.** This scenario underscores the urgent necessity for robust political commitment and systemic reforms to alleviate poverty.
 
 <p align="center"><img src="images/pw_social_justice_q357_img1.webp" alt="image 2023 12 29T170616.078" /></p>
-
-
 
 ### Body
 
@@ -7266,17 +7038,16 @@ India, in its pursuit of inclusive growth, continues to be plagued by the longst
 - **Tackling corruption:** Political will is required to address the corruption that often undermines the effectiveness of poverty alleviation programs and erodes public trust.
 - **For instance, Direct Benefit Transfer (DBT):** is an initiative that aims to transfer government subsidies and welfare benefits directly to the bank accounts of beneficiaries, eliminating middlemen and reducing corruption. Political will is crucial for implementing the necessary infrastructure, ensuring accurate targeting of beneficiaries, and addressing potential challenges during the transition.
 
-
-
 ### Conclusion
 
 Only with steadfast political commitment can these programs transition from mere showpieces to effective instruments for poverty reduction and social progress.
 
 [Question ID: 2017-gs2-q170-pwonlyias]
 
+
 ---
 
-## Question 171 (Year: 2017 | Paper: GS 2 | Marks: 10 Marks | Words: 150 Words)
+## Question 179 (Year: 2017 | Paper: GS 2 | Marks: 10 Marks | Words: 150 Words)
 **Question ID: 2017-gs2-q171-pwonlyias** **‘To ensure effective implementation of policies addressing water, sanitation and hygiene needs, the identification of beneficiary segments is to be synchronized with the anticipated outcomes’. Examine the statement in the context of the WASH scheme.**
 
 ### Answer
@@ -7289,8 +7060,6 @@ Only with steadfast political commitment can these programs transition from mere
 The Water, Sanitation, and Hygiene (WASH) scheme aims to improve public health and well-being by providing access to clean water, adequate sanitation facilities, and promoting good hygiene practices. Ensuring effective implementation of policies addressing WASH needs requires synchronizing the identification of beneficiary segments with the anticipated outcomes.
 
 <p align="center"><img src="images/pw_social_justice_q370_img1.webp" alt="image 2023 12 29T165115.243" /></p>
-
-
 
 ### Body
 
@@ -7305,8 +7074,6 @@ The Water, Sanitation, and Hygiene (WASH) scheme aims to improve public health a
 - **Collaboration with stakeholders:** Successful implementation of WASH policies involves various stakeholders, including local governments, NGOs, community-based organizations, and the private sector.
 - This collaborative approach ensures that the needs of the identified beneficiary segments are adequately addressed, and the anticipated outcomes are achieved.
 
-
-
 ### Conclusion
 
 Synchronizing beneficiary identification with anticipated outcomes in the WASH scheme is crucial for effective implementation. This approach ensures targeted interventions, efficient resource use, and the achievement of desired impacts, ultimately enhancing the well-being of vulnerable and marginalized populations.
@@ -7315,12 +7082,12 @@ Synchronizing beneficiary identification with anticipated outcomes in the WASH s
 
 ---
 
-## Question 172 (Year: 2016 | Paper: GS 2 | Marks: N/A | Words: N/A)
+## Question 180 (Year: 2016 | Paper: GS 2 | Marks: N/A | Words: N/A)
 **Question ID: 2016-gs2-q172-pwonlyias**
 
 **Examine the main provisions of the National Child Policy and throw light on the status of its implementation. (200 words, 12.5 marks)**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** <br>• Begin with a brief overview of the National Child Policy (NCP) and its objective to provide a comprehensive framework for the protection, development, and well-being of children in India. **Body** <br>• Discuss: <br>• Write down the main Provisions of the NCP. <br>• Status of Implementation. **Conclusion** <br>• Conclude, Emphasizing the need for continuous efforts, effective monitoring, and resource allocation to ensure the policy’s successful implementation and secure the well-being of children in India. |
 | --- |
@@ -7343,22 +7110,21 @@ Synchronizing beneficiary identification with anticipated outcomes in the WASH s
 - **Child Protection:** Although the number of reported cases under the POCSO Act increased from 8,904 in 2014 to 48,493 in 2019 (National Crime Records Bureau), it is widely acknowledged that many cases remain unreported. Moreover, the conviction rate for POCSO cases remains low, at 32.6% in 2019.
 - **Participation:** While specific data on children’s participation in decision-making processes is limited, initiatives like the Bal Sansad (Children’s Parliament) and Bal Panchayats (Children’s Councils) have been established in several states to promote children’s participation in governance and community matters.
 
-
-
 ### Conclusion
 
 Although there has been progress in implementing the National Child Policy’s provisions, challenges remain in areas like malnutrition, learning outcomes, child protection, and children’s participation. Continuous efforts, effective monitoring, and resource allocation are needed to ensure the policy’s successful implementation and secure the well-being of children in India.
 
 [Question ID: 2016-gs2-q172-pwonlyias]
 
+
 ---
 
-## Question 173 (Year: 2016 | Paper: GS 2 | Marks: N/A | Words: N/A)
+## Question 181 (Year: 2016 | Paper: GS 2 | Marks: N/A | Words: N/A)
 **Question ID: 2016-gs2-q173-pwonlyias**
 
 **Professor Amartya Sen has advocated important reforms in the realms of primary education and primary health care. What are your suggestions to improve their status and performance? (200 words, 12.5 marks)**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** <br>• Begin with the importance of primary education and primary health care as emphasized by Professor Amartya Sen, and highlight the need to address the challenges faced by these sectors in order to improve their status and performance. **Body** <br>• Discuss various suggestions to improve the status and performance of primary education and primary health care. **Conclusion** <br>• Conclude by summarizing the significance of improving primary education and primary health care sectors for overall human development and social progress. |
 | --- |
@@ -7382,22 +7148,21 @@ Although there has been progress in implementing the National Child Policy’s p
 - **Adequate funding:** This can be achieved by increasing budgetary allocations and exploring alternative funding sources, such as public-private partnerships and international aid.
 - **Monitoring and evaluation:** This can help identify challenges, measure the impact of interventions, and inform evidence-based policy-making.
 
-
-
 ### Conclusion
 
 By implementing these suggestions, the status and performance of primary education and primary health care can be significantly improved, which in turn can contribute to better human development outcomes and overall social progress.
 
 [Question ID: 2016-gs2-q173-pwonlyias]
 
+
 ---
 
-## Question 174 (Year: 2015 | Paper: GS 2 | Marks: N/A | Words: N/A)
+## Question 182 (Year: 2015 | Paper: GS 2 | Marks: N/A | Words: N/A)
 **Question ID: 2015-gs2-q174-pwonlyias**
 
 **How can the role of NGOs be strengthened in India for development works relating to protection of the environment? Discuss throwing light on the major constraints. (200 words, 12.5 marks)**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** <br>• Start with a brief explanation about the role of NGOs in environmental protection, underlining their importance in this field in India. **Body** <br>• The body of your answer should be divided into two main parts: <br>• Strengthening the Role of NGOs. <br>• Major Constraints. <br>• Provide appropriate examples, such as the role of NGOs like the Centre for Science and Environment (CSE), WWF-India, and Vanashakti in environmental protection, and the impact of regulations like the FCRA on their operations. **Conclusion** <br>• Conclude, emphasizing the need for a collaborative approach involving NGOs, government agencies, and private entities for effective environmental conservation. |
 | --- |
@@ -7409,6 +7174,8 @@ By implementing these suggestions, the status and performance of primary educati
 ### Body
 
 **However, their potential can be further harnessed through the following ways**: <p align="center"><img src="images/pw_social_justice_q191_img1.webp" alt="image 2023 12 29T172210.904" /></p>
+
+**However, their potential can be further harnessed through the following ways**: 
 
 - **Policy Involvement:** NGOs should be included in policy-making processes at all levels. Their grassroots level experience and technical expertise can provide valuable insights for comprehensive and effective policy formulation.
 - **Capacity Building:** Many NGOs struggle with a lack of technical knowledge and resources. Providing training and access to resources would help them perform their work more effectively.
@@ -7423,17 +7190,16 @@ By implementing these suggestions, the status and performance of primary educati
 - **WWF-India,:** known for its conservation efforts in biodiversity hotspots; and
 - **Vanashakti,:** which focuses on forest, mangrove, and wetland conservation in Maharashtra.
 
-
-
 ### Conclusion
 
 While NGOs play a critical role in environmental protection, their potential can be further harnessed by strengthening their involvement in policy-making, building their capacity, improving access to funding, encouraging networking and collaboration, and enhancing public awareness and engagement. At the same time, addressing constraints such as regulatory hurdles, lack of transparency, skilled manpower shortage, and inadequate legal support is also crucial.
 
 [Question ID: 2015-gs2-q174-pwonlyias]
 
+
 ---
 
-## Question 175 (Year: 2015 | Paper: GS 2 | Marks: N/A | Words: N/A)
+## Question 183 (Year: 2015 | Paper: GS 2 | Marks: N/A | Words: N/A)
 **Question ID: 2015-gs2-q175-pwonlyias**
 
 **Public health system has limitations in providing universal health coverage. Do you think that the private sector could help in bridging the gap? What other viable alternatives would you suggest? (200 words, 12.5 marks)**
@@ -7463,8 +7229,6 @@ While NGOs play a critical role in environmental protection, their potential can
 - **Health Insurance:** Expanding health insurance coverage, both public and private, can help reduce out-of-pocket expenses for individuals and improve access to healthcare services.
 - **Strengthening Public Health System:** Ultimately, strengthening the public health system is crucial for achieving universal health coverage. This includes increasing public health spending, improving infrastructure, training and retaining healthcare professionals, and enhancing governance and accountability.
 
-
-
 ### Conclusion
 
 While the private sector can play a significant role in bridging the gap in universal health coverage, it’s not a standalone solution. A multi-pronged approach involving strengthening the public health system, leveraging private sector strengths through PPPs, promoting community health programs, expanding health insurance coverage, and harnessing telemedicine can help achieve the goal of universal health coverage.
@@ -7473,12 +7237,12 @@ While the private sector can play a significant role in bridging the gap in univ
 
 ---
 
-## Question 176 (Year: 2015 | Paper: GS 2 | Marks: N/A | Words: N/A)
+## Question 184 (Year: 2015 | Paper: GS 2 | Marks: N/A | Words: N/A)
 **Question ID: 2015-gs2-q176-pwonlyias**
 
 **The quality of higher education in India requires major improvements to make it internationally competitive. Do you think that the entry of foreign educational institutions would help improve the quality of higher and technical education in the country? Discuss. (200 words, 12.5 marks)**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** <br>• Introduce the idea of the entry of foreign educational institutions as a potential solution. **Body** <br>• Discuss how the entry of foreign educational institutions could enhance the quality of higher education in India. <br>• Discuss the potential challenges associated with the entry of foreign educational institutions. **Conclusion** <br>• Conclude by summarizing the potential benefits and challenges associated with the entry of foreign educational institutions in India. |
 | --- |
@@ -7488,8 +7252,6 @@ While the private sector can play a significant role in bridging the gap in univ
 The quality of higher education in India is a matter of concern as highlighted by various international rankings like the QS World University Rankings and Times Higher Education World University Rankings, where Indian universities often rank low.
 
 <p align="center"><img src="images/pw_social_justice_q222_img1.webp" alt="image 2023 12 29T172639.773" /></p>
-
-
 
 ### Body
 
@@ -7508,22 +7270,21 @@ The quality of higher education in India is a matter of concern as highlighted b
 - prevent commercialization of education, and
 - promote collaboration between foreign and domestic institutions.
 
-
-
 ### Conclusion
 
 While the entry of foreign institutions could potentially improve the quality of higher education in India, careful planning and stringent regulation are required to ensure that the benefits outweigh the potential drawbacks. It should not be seen as a standalone solution, but as part of a broader strategy to improve the overall quality of higher education in India.
 
 [Question ID: 2015-gs2-q176-pwonlyias]
 
+
 ---
 
-## Question 177 (Year: 2015 | Paper: GS 2 | Marks: N/A | Words: N/A)
+## Question 185 (Year: 2015 | Paper: GS 2 | Marks: N/A | Words: N/A)
 **Question ID: 2015-gs2-q177-pwonlyias**
 
 **Though there have been several different estimates of poverty in India, all indicate reduction in poverty levels over time. Do you agree? Critically examine with reference to urban and rural poverty indicators. (200 words, 12.5 marks)**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** <br>• Introduce the topic by acknowledging the different estimates of poverty in India while emphasizing the general consensus of a reduction in poverty levels over time. **Body** <br>• Discuss the overall reduction in poverty levels in India. <br>• Talk about the various indicators that reflect this reduction, such as rising income and consumption levels, shifts in employment patterns, increased access to education and healthcare, and the impact of government programs like the Public Distribution System. <br>• Critically examine the disparities in poverty reduction between urban and rural areas. **Conclusion** <br>• Conclude by summarizing the overall reduction in poverty levels in India and the disparities between urban and rural areas. |
 | --- |
@@ -7548,22 +7309,21 @@ While the entry of foreign institutions could potentially improve the quality of
 - **Rural Poverty:** While poverty has decreased in rural areas due to factors such as agricultural growth and rural employment schemes like MGNREGA, the pace of reduction has been slow. Many rural households continue to suffer from low incomes, indebtedness, and lack of access to basic services.
 - **Urban Poverty:** In urban areas, poverty has declined more rapidly due to industrialization and service sector growth. However, urban poverty is often underestimated as cost-of-living differences are not adequately considered in poverty estimates. Slums, inadequate housing, and lack of basic services remain significant challenges in urban areas.
 
-
-
 ### Conclusion
 
 While there is general agreement that poverty in India has reduced over time, the pace of reduction and the extent of poverty remain contentious issues. The disparity between urban and rural poverty underlines the need for region-specific strategies to address poverty. Additionally, the focus should not just be on income-based measures of poverty but also on multi-dimensional poverty which includes access to basic services like education, health, sanitation, and housing.
 
 [Question ID: 2015-gs2-q177-pwonlyias]
 
+
 ---
 
-## Question 178 (Year: 2014 | Paper: GS 2 | Marks: N/A | Words: N/A)
+## Question 186 (Year: 2014 | Paper: GS 2 | Marks: N/A | Words: N/A)
 **Question ID: 2014-gs2-q178-pwonlyias**
 
 **An athlete participates in Olympics for personal triumph and nation’s glory; victors are showered with cash incentives by various agencies, on their return. Discuss the merit of state sponsored talent hunt and its cultivation as against the rationale of a reward mechanism as encouragement. (200 words, 12.5 marks)**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** <br>• The introduction should briefly hint at their importance in encouraging athletes to participate in international competitions like the Olympics. **Body** <br>• Discuss the merits of State-Sponsored Talent Hunts and Cultivation Programs, with examples like the ‘Khelo India’ initiative. <br>• Explain what reward mechanisms are and discuss their merits, with examples from different countries, including India. **Conclusion** <br>• Conclude briefly discussing the need for a balanced approach that includes both state-sponsored talent hunts and cultivation programs, as well as reward mechanisms. |
 | --- |
@@ -7586,22 +7346,21 @@ While there is general agreement that poverty in India has reduced over time, th
 - **Financial Support:** These rewards can provide substantial financial support, which can be used for better training, equipment, and other resources.
 - **Recognition:** They bring recognition to the athletes, boosting their morale and encouraging them to perform better.
 
-
-
 ### Conclusion
 
 However, both approaches need to be balanced. Overemphasis on rewards may lead to excessive pressure and an unhealthy competitive spirit, while solely focusing on talent hunts and training may not provide enough motivation for performance. Thus, a combination of state-sponsored talent hunt and cultivation, along with a well-structured reward mechanism, can create a robust ecosystem for sports development.
 
 [Question ID: 2014-gs2-q178-pwonlyias]
 
+
 ---
 
-## Question 179 (Year: 2014 | Paper: GS 2 | Marks: N/A | Words: N/A)
+## Question 187 (Year: 2014 | Paper: GS 2 | Marks: N/A | Words: N/A)
 **Question ID: 2014-gs2-q179-pwonlyias**
 
 **Do government’s schemes for up-lifting vulnerable and backward communities by protecting required social resources for them, lead to their exclusion in establishing businesses in urban economies? (200 words, 12.5 marks)**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** <br>• Provide an overview of government schemes aimed at uplifting vulnerable and backward communities. **Body** <br>• Discuss how many government schemes primarily focus on rural areas, with less emphasis on supporting these communities in urban economies. <br>• Discuss how some schemes might provide skill development for vocations that are not as relevant in urban economies, leading to difficulties in establishing urban businesses. <br>• Discuss how, despite certain government schemes, marginalized individuals may still struggle to access capital due to various challenges, such as the need for formal banking access, financial literacy, and collateral. <br>• Discuss how social discrimination continues to be a significant hurdle in urban settings, deterring individuals from backward communities from establishing businesses or limiting their customer base. **Conclusion** <br>• Conclude, suggesting that a more targeted approach might be necessary to ensure these schemes effectively support these communities in urban settings. |
 | --- |
@@ -7623,22 +7382,21 @@ However, both approaches need to be balanced. Overemphasis on rewards may lead t
 - **Social Discrimination:** Social discrimination remains a major hurdle.
 - Even in urban settings, people from backward communities often face discrimination, which can deter them from establishing businesses or can limit their customer base. **However, it is important to note that not all government schemes lead to exclusion in urban economies.** There are schemes like the Deendayal Antyodaya Yojana-National Urban Livelihoods Mission (DAY-NULM) that specifically aim to reduce poverty and vulnerability in urban areas by providing skill training, supporting self-employment, and offering subsidized loans.
 
-
-
 ### Conclusion
 
 To ensure these schemes effectively support these communities in urban settings, there needs to be a more targeted approach that considers the unique challenges and opportunities in urban economies.
 
 [Question ID: 2014-gs2-q179-pwonlyias]
 
+
 ---
 
-## Question 180 (Year: 2014 | Paper: GS 2 | Marks: N/A | Words: N/A)
+## Question 188 (Year: 2014 | Paper: GS 2 | Marks: N/A | Words: N/A)
 **Question ID: 2014-gs2-q180-pwonlyias**
 
 **National Human Rights Commission (NHRC) in India can be most effective when its tasks are adequately supported by other mechanisms that ensure the accountability of a government. In light of the above observation assess the role of NHRC as an effective complement to the judiciary and other institutions in promoting and protecting human rights standards. (200 words, 12.5 marks)**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** <br>• Briefly explain what the National Human Rights Commission (NHRC) is and its role in India. **Body** <br>• Discuss how the NHRC investigates human rights violations, citing examples where it has stepped in when these violations may not have reached the courts. <br>• Explain how the NHRC reviews and recommends changes to laws and policies, and advocates for new laws that advance human rights, with relevant examples. <br>• Discuss the role of the NHRC in promoting awareness about human rights and creating a culture of respect for human rights. <br>• Explain how the NHRC advises the government on human rights issues, ensuring government accountability. <br>• Discuss how the NHRC cooperates with international human rights bodies to ensure that India’s human rights protection measures are in line with international standards. <br>• Towards the end of the body, discuss the need for the NHRC to be more supported by other mechanisms that ensure government accountability, explaining how it lacks the power to enforce its recommendations and how it needs more cooperation from the judiciary, the government, and civil society. **Conclusion** <br>• Highlight the need for more support from these other institutions and mechanisms that ensure government accountability for the NHRC to be more effective. |
 | --- |
@@ -7664,22 +7422,21 @@ To ensure these schemes effectively support these communities in urban settings,
 - **International Cooperation:** The NHRC cooperates with international human rights bodies, sharing best practices and learning from their experiences.
 - This cooperation helps ensure that India’s human rights protection measures are in line with international standards. ***However, for the NHRC to be more effective,*** it needs more support from other mechanisms that ensure government accountability. The NHRC lacks the power to enforce its recommendations, relying on moral authority and public pressure to make the government act. It needs more cooperation from the judiciary, which can enforce its recommendations, and from the government, which must implement the recommended changes. It also needs more cooperation from civil society, which can help by spreading awareness about human rights and reporting violations.
 
-
-
 ### Conclusion
 
 The NHRC plays a vital role in complementing the judiciary and other institutions in promoting and protecting human rights in India. However, for it to be more effective, it needs more support from these other institutions and mechanisms that ensure government accountability.
 
 [Question ID: 2014-gs2-q180-pwonlyias]
 
+
 ---
 
-## Question 181 (Year: 2014 | Paper: GS 2 | Marks: N/A | Words: N/A)
+## Question 189 (Year: 2014 | Paper: GS 2 | Marks: N/A | Words: N/A)
 **Question ID: 2014-gs2-q181-pwonlyias**
 
 **Should the premier institutes like IITs/IIMs be allowed to retain premier status, allowed more academic independence in designing courses and also decide mode/criteria of selection of students. Discuss in light of the growing challenges. (200 words, 12.5 marks)**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** <br>• Briefly introduce the topic of premier institutes like IITs/IIMs retaining their premier status, having academic independence in course design, and deciding the mode/criteria of student selection. **Body** <br>• Discuss various aspects of the topic in a balanced manner, each with its own merits and potential drawbacks. **Conclusion** <br>• Write a suitable conclusion. |
 | --- |
@@ -7702,22 +7459,21 @@ The NHRC plays a vital role in complementing the judiciary and other institution
 - **Quality Control:** If each institute is allowed to set its own curriculum and admission criteria, there could be a significant disparity in the quality of education provided by different institutes.
 - This could lead to an uneven playing field for students, where the opportunities available to them depend largely on which institute they attend.
 
-
-
 ### Conclusion
 
 While there are certainly potential benefits to granting more autonomy to premier institutes like IITs and IIMs, it’s also important to consider the potential risks and challenges. A balanced approach might be to grant these institutions more flexibility while still maintaining some level of oversight and regulation to ensure equal opportunities and accountability.
 
 [Question ID: 2014-gs2-q181-pwonlyias]
 
+
 ---
 
-## Question 182 (Year: 2013 | Paper: GS 2 | Marks: 10 Marks | Words: 200 Words)
+## Question 190 (Year: 2013 | Paper: GS 2 | Marks: 10 Marks | Words: 200 Words)
 **Question ID: 2013-gs2-q182-pwonlyias**
 
 **Identify the Millennium Development Goals (MDGs) that are related to health.Discuss the success of the actions taken by the Government for achieving the same.**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** <br>• The introduction would briefly explain the Millennium Development Goals (MDGs) and identify the three MDGs that are directly related to health: MDG 4 (Reduce Child Mortality), MDG 5 (Improve Maternal Health), and MDG 6 (Combat HIV/AIDS, Malaria, and Other Diseases). **Body** <br>• Detail the actions taken by the Indian government to achieve this goal, such as the Integrated Child Development Services (ICDS) scheme and the Universal Immunization Programme (UIP). <br>• Discuss the government’s initiatives to improve maternal health, such as the National Health Mission (NHM) and the Janani Suraksha Yojana (JSY). <br>• Discuss the actions taken by the Indian government to combat HIV/AIDS, malaria, and other diseases, such as the National AIDS Control Programme (NACP) and the National Vector Borne Disease Control Programme (NVBDCP). **Conclusion:** <br>• The conclusion would summarize the progress made by India in achieving the health-related MDGs, acknowledging the significant strides made while also highlighting the challenges that remained. |
 | --- |
@@ -7741,17 +7497,16 @@ While there are certainly potential benefits to granting more autonomy to premie
 - **The:** National AIDS Control Programme (NACP) **was launched to prevent and control HIV/AIDS in India. Similarly,** the National Vector Borne Disease Control Programme (NVBDCP) **was set up to combat diseases like malaria and dengue.**
 - India has been successful in halting and reversing the incidence of malaria, with a significant decline in the number of cases reported annually. **The incidence of HIV also decreased by 57% from 2000 to 2011.**
 
-
-
 ### Conclusion
 
 While India made significant progress towards achieving the health-related MDGs, the progress was not uniform, and several challenges remained. With the advent of the Sustainable Development Goals (SDGs) in 2015, which are an extension and expansion of the MDGs, India continues to work towards improving the health and wellbeing of its citizens.
 
 [Question ID: 2013-gs2-q182-pwonlyias]
 
+
 ---
 
-## Question 183 (Year: 2013 | Paper: GS 2 | Marks: 10 Marks | Words: 200 Words)
+## Question 191 (Year: 2013 | Paper: GS 2 | Marks: 10 Marks | Words: 200 Words)
 **Question ID: 2013-gs2-q183-pwonlyias**
 
 **The Central Government frequently complains on the poor performance of the State Governments in eradicating suffering of the vulnerable sections of the society. Restructuring of Centrally sponsored schemes across the sectors for ameliorating the cause of vulnerable sections of population aims at providing flexibility to the States in better implementation. Critically evaluate.**
@@ -7785,8 +7540,6 @@ While India made significant progress towards achieving the health-related MDGs,
 - **Inequality Among States:** The restructuring may lead to inequality among States.
 - Wealthier States with better administrative capacity may be able to implement the schemes more effectively, leaving the poorer States behind. This can exacerbate regional disparities.
 
-
-
 ### Conclusion
 
 While the restructuring of Centrally Sponsored Schemes can provide more flexibility to the States, it is not a panacea for all the challenges in implementing social welfare schemes. It is important to ensure that the States have the necessary capacity for planning and implementation. Moreover, there must be a balance between the Central Government’s priorities and the States’ unique needs. Only then can the restructuring truly ameliorate the condition of the vulnerable sections of the society.
@@ -7795,7 +7548,7 @@ While the restructuring of Centrally Sponsored Schemes can provide more flexibil
 
 ---
 
-## Question 184 (Year: 2013 | Paper: GS 2 | Marks: 10 Marks | Words: 200 Words)
+## Question 192 (Year: 2013 | Paper: GS 2 | Marks: 10 Marks | Words: 200 Words)
 **Question ID: 2013-gs2-q184-pwonlyias**
 
 **The concept of Mid Day Meal (MDM) scheme is almost a century old in India with early beginnings in Madras Presidency in pre-independent India. The scheme has again been given impetus in most states in the last two decades. Critically examine its twin objectives, latest mandates and success.**
@@ -7814,6 +7567,8 @@ While the restructuring of Centrally Sponsored Schemes can provide more flexibil
 **Twin Objectives of MDM**:
 
 * **<p align="center"><img src="images/pw_social_justice_q54_img1.webp" alt="image 2023 12 29T153145.387" /></p>**:
+
+* ****:
 - **Enhancing Nutritional Intake:** The MDM aims to improve the nutritional status of children in government and government-aided schools across the country.
   - It does so by providing free, nutritious meals to children, thus ensuring at least one balanced meal a day.
 - **The meal typically consists of a combination of cereals, pulses, vegetables, and sometimes even fruit,:** aiming to provide a minimum amount of calories, proteins, and other essential nutrients.
@@ -7831,8 +7586,6 @@ While the restructuring of Centrally Sponsored Schemes can provide more flexibil
 **A study in Andhra Pradesh found that children receiving mid-day meals showed a reduction in malnutrition levels.**
 - **However, the scheme has faced challenges,:** including issues of food quality and safety, irregularity in meal distribution, and corruption. **The tragic incident in Bihar in 2013, where 23 children died after consuming contaminated food served under the MDM,** underscores the need for stringent quality controls.
 
-
-
 ### Conclusion
 
 While the Mid Day Meal Scheme has made significant strides in achieving its twin objectives, continuous monitoring, evaluation, and improvements are required to overcome existing challenges. The scheme is a testament to how policy interventions can address critical issues of nutrition and education, thereby contributing to the nation’s overall development.
@@ -7841,13 +7594,15 @@ While the Mid Day Meal Scheme has made significant strides in achieving its twin
 
 ---
 
-## Question 185 (Year: 2025 | Paper: GS 2 | Marks: 15 Marks | Words: 250 Words)
+## Question 193 (Year: 2025 | Paper: GS 2 | Marks: 15 Marks | Words: 250 Words)
 **Question ID: 2025-gs2-q185-pwonlyias** **“Energy security constitutes the dominant kingpin of India’s foreign policy, and is linked with India’s overarching influence in Middle Eastern countries.” How would you integrate energy security with India’s foreign policy trajectories in the coming years?**
 
 ### Answer
 
-| **Core demand of the question** <br>• How Energy Security Constitutes the Dominant Kingpin of India’s Foreign Policy <br>• How Energy Security is Linked with India’s Overarching Influence in Middle Eastern Countries <br>• Integrating Energy Security with India’s Foreign Policy Trajectories in the Coming Years |
-| --- |
+**Core demand of the question:**
+- How Energy Security Constitutes the Dominant Kingpin of India’s Foreign Policy
+- How Energy Security is Linked with India’s Overarching Influence in Middle Eastern Countries
+- Integrating Energy Security with India’s Foreign Policy Trajectories in the Coming Years
 
 ### Introduction
 
@@ -7876,8 +7631,6 @@ India imports about **85–88%** of its crude oil, with over **half sourced from
 - **Strategic Oil Reserves & Technology Collaboration:** Expand reserves with UAE, Japan, and boost cooperation on carbon capture and storage.
 - **Climate & Security Balance:** Integrate energy goals with climate diplomacy (G20, COP) while ensuring affordable access for domestic growth.
 
-
-
 ### Conclusion
 
 Keep strong ties with Gulf suppliers for steady oil, add new partners, and grow clean‑energy links. Protect key sea routes too. This mix keeps energy secure and, over time, quietly strengthens India’s standing and influence across West Asia.
@@ -7886,15 +7639,17 @@ Keep strong ties with Gulf suppliers for steady oil, add new partners, and grow 
 
 ---
 
-## Question 186 (Year: 2025 | Paper: GS 2 | Marks: 10 Marks | Words: 150 Words)
+## Question 194 (Year: 2025 | Paper: GS 2 | Marks: 10 Marks | Words: 150 Words)
 **Question ID: 2025-gs2-q186-pwonlyias**
 
 **India-Africa digital partnership is achieving mutual respect, co-development, and long-term institutional partnerships. Elaborate.**
 
 ### Answer
 
-| **Core Demand of the Question** <br>• India-Africa Digital Collaboration achieving mutual respect. <br>• India-Africa Digital Collaboration achieving Co-Development Initiatives. <br>• India-Africa Digital Collaboration achieving Long-Term Institutional Partnerships. |
-| --- |
+**Core Demand of the Question:**
+- India-Africa Digital Collaboration achieving mutual respect.
+- India-Africa Digital Collaboration achieving Co-Development Initiatives.
+- India-Africa Digital Collaboration achieving Long-Term Institutional Partnerships.
 
 ### Introduction
 
@@ -7923,8 +7678,6 @@ India and Africa share historic ties through trade, culture, and anti-colonial s
   - **Eg:** ***Joint workshops***: on digital governance under the Ministry of External Affairs (MEA) programmes.
 - **Institutionalized Forums:** Platforms like IAFS institutionalize digital dialogue, ensuring continuity beyond short-term projects.
 
-
-
 ### Conclusion
 
 This India- Africa partnership exemplifies **Global South–South cooperation, fostering trust, capacity building, and long-term digital infrastructure, while offering a model of inclusive development for the Global South.
@@ -7933,15 +7686,19 @@ This India- Africa partnership exemplifies **Global South–South cooperation, f
 
 ---
 
-## Question 187 (Year: 2025 | Paper: GS 2 | Marks: 15 Marks | Words: 250 Words)
+## Question 195 (Year: 2025 | Paper: GS 2 | Marks: 15 Marks | Words: 250 Words)
 **Question ID: 2025-gs2-q187-pwonlyias**
 
 **The reform process in the United Nations remains unaccomplished because of the delicate imbalance of East and West and entanglement of the USA vs. Russo-Chinese alliance.” Examine and critically evaluate the East-West policy confrontations in this regard.**
 
 ### Answer
 
-| **Core demand of the question** <br>• How East–West Imbalance hindering reforms in UN <br>• How entanglement in USA vs Russo–Chinese Alliance hinders reforms in UN <br>• What East-West policy confrontations enables. <br>• What East-West policy confrontations disable. <br>• Way forward |
-| --- |
+**Core demand of the question:**
+- How East–West Imbalance hindering reforms in UN
+- How entanglement in USA vs Russo–Chinese Alliance hinders reforms in UN
+- What East-West policy confrontations enables.
+- What East-West policy confrontations disable.
+- Way forward
 
 ### Introduction
 
@@ -7974,8 +7731,6 @@ UN reform, especially of the **Security Council,** is stalled by **great‑power
 - **Build cross-regional deals:** Align G4, African Union, and Uniting for Consensus on minimums like African representation and stronger roles for elected members.
 - **Use transparency:** Keep post-veto debates and empower elected members to draft more texts, widening participation.
 
-
-
 ### Conclusion
 
 Progress should come through small, realistic steps. Add a few seats, clarify Council rules, and encourage voluntary veto restraint in grave crises. Build cross‑regional compromises that raise African and wider **Global South** voices without needing perfect, unanimous agreement.
@@ -7984,13 +7739,13 @@ Progress should come through small, realistic steps. Add a few seats, clarify Co
 
 ---
 
-## Question 188 (Year: 2025 | Paper: GS 2 | Marks: 10 Marks | Words: 150 Words)
+## Question 196 (Year: 2025 | Paper: GS 2 | Marks: 10 Marks | Words: 150 Words)
 **Question ID: 2025-gs2-q188-pwonlyias** **“With the waning of globalization, post-Cold War world is becoming a site of sovereign nationalism.” Elucidate.**
 
 ### Answer
 
-| **Core Demand of the Question** <br>• Mention how in Post Cold War, World is tilting toward sovereign nationalism with waning of globalization |
-| --- |
+**Core Demand of the Question:**
+- Mention how in Post Cold War, World is tilting toward sovereign nationalism with waning of globalization
 
 ### Introduction
 
@@ -8008,8 +7763,6 @@ As global ties weaken due to **trade barriers, supply-chain shifts, and stricter
 - **Fragmented trade architecture:** Countries prefer minilateral or values-based blocs over universal WTO-style bargains, raising regionalization. **Eg: CPTPP (Trans-Pacific Partnership) and IPEF (Indo-Pacific Economic Framework for Prosperity)** are rising as regional/minilateral deals outside the WTO framework.
 - **Cultural protection and identity politics:** Narratives of civilizational pride, media quotas, and “local first” campaigns reinforce national identity and markets.
 
-
-
 ### Conclusion
 
 The rise of sovereign nationalism is reshaping global dynamics and challenging multilateralism, but it can also be leveraged to find solutions to global issues. By aligning national interests with collective goals, states can channel self-reliance and strategic autonomy into cooperative efforts on climate change, security, and health crises.
@@ -8018,15 +7771,16 @@ The rise of sovereign nationalism is reshaping global dynamics and challenging m
 
 ---
 
-## Question 189 (Year: 2024 | Paper: GS 2 | Marks: N/A | Words: N/A)
+## Question 197 (Year: 2024 | Paper: GS 2 | Marks: N/A | Words: N/A)
 **Question ID: 2024-gs2-q189-pwonlyias**
 
 **Critically analyse India&#8217;s evolving diplomatic, economic and strategic relations with the Central Asian Republics (CARs) highlighting their increasing significance in regional and global geopolitics.**
 
 ### Answer
 
-| **Core Demand of the Question** <br>• Analyse India’s evolving diplomatic, economic and strategic relations with the Central Asian Republics (CARs) <br>• Discuss various challenges in India-CAR Relations |
-| --- |
+**Core Demand of the Question:**
+- Analyse India’s evolving diplomatic, economic and strategic relations with the Central Asian Republics (CARs)
+- Discuss various challenges in India-CAR Relations
 
 **Answer** India’s evolving relations with the **Central Asian Republics (CARs)** have gained prominence due to their strategic importance in regional security, energy resources, and connectivity projects. India, being a rising power, seeks to enhance its footprint in such regions. Like re-emerging views on **TAPI pipeline** and **INSTC** for regional integration. **India’s evolving diplomatic, economic and strategic relations with the Central Asian Republics (CARs)**
 
@@ -8067,15 +7821,17 @@ India’s engagement with the Central Asian Republics offers great potential to 
 
 ---
 
-## Question 190 (Year: 2024 | Paper: GS 2 | Marks: N/A | Words: N/A)
+## Question 198 (Year: 2024 | Paper: GS 2 | Marks: N/A | Words: N/A)
 **Question ID: 2024-gs2-q190-pwonlyias**
 
 **Discuss the geopolitical and geostrategic importance of Maldives for India with a focus on global trade and energy flows. Further also discuss how this relationship affects India&#8217;s maritime security and regional stability amidst international competition?**
 
 ### Answer
 
-| **Core Demand of the Question** <br>• Discuss geopolitical and geostrategic importance of Maldives for India with a focus on global trade and energy flows <br>• Discuss how this relationship affects India’s maritime security and regional stability amidst international competition <br>• Suggest suitable way ahead |
-| --- |
+**Core Demand of the Question:**
+- Discuss geopolitical and geostrategic importance of Maldives for India with a focus on global trade and energy flows
+- Discuss how this relationship affects India’s maritime security and regional stability amidst international competition
+- Suggest suitable way ahead
 
 **The strategic location of the** Maldives **along** vital maritime routes **underscores its significance for India, particularly in securing global trade and energy flows. During current Indian** External Affairs Minister recent visit **, India and the Maldives signed an agreement on** Unified Payments Interface (UPI) **, strengthening financial ties and highlighting the growing importance of their** economic **and** strategic partnership **in the region.** Geopolitical and Geostrategic Importance of Maldives for India with a Focus on Global Trade and Energy Flows **
 
@@ -8088,7 +7844,6 @@ India’s engagement with the Central Asian Republics offers great potential to 
 - **Counter to Chinese Influence:** India’s strategic engagement with the **Maldives** is essential to counterbalance China’s growing presence in the **Indian Ocean region**, particularly through the **Belt and Road Initiative (BRI)**. **For example:** India has invested in key infrastructure projects like the **Greater Male Connectivity Project** (GMCP) to strengthen its foothold in the **Maldives** and counter China’s influence.
 - **Surveillance and Monitoring:** The geographic proximity of the Maldives enables India to enhance its maritime surveillance capabilities, especially in the **Southern Indian Ocean**, crucial for tracking trade routes and security threats. **For example:** India helped set up **radar systems** on the Maldivian islands as part of the **Coastal Surveillance Radar System (CSRS),** allowing better monitoring of maritime traffic and potential threats.
 - **Access to Deep-Sea Resources:** Collaborating with the Maldives offers India opportunities to **explore** and **exploit underutilised deep-searesources**, including fisheries and **oceanic minerals**. **Ways in which This Relationship Affects India’s Maritime Security and Regional Stability Amidst International Competition**
-
 
 **Maritime Security:**
 - **Enhanced Naval Capabilities:** Strengthening naval cooperation with the Maldives enhances **India’s maritime defence**. **For example:** Joint naval exercises like **Ekuverin** have been conducted annually since 2009 between India and the Maldives.
@@ -8112,15 +7867,16 @@ India’s proactive engagement with the Maldives remains crucial for ensuring re
 
 ---
 
-## Question 191 (Year: 2024 | Paper: GS 2 | Marks: N/A | Words: N/A)
+## Question 199 (Year: 2024 | Paper: GS 2 | Marks: N/A | Words: N/A)
 **Question ID: 2024-gs2-q191-pwonlyias**
 
 **The West is fostering India as an alternative to reduce dependence on China&#8217;s supply chain and as a strategic ally to counter China&#8217;s political and economic dominance. Explain this statement with examples.**
 
 ### Answer
 
-| **Core Demand of the Question** <br>• Discuss how West is fostering India as an alternative to reduce dependence on China’s supply chain <br>• Discuss how West is fostering India as a strategic ally to counter China’s political and economic dominance |
-| --- |
+**Core Demand of the Question:**
+- Discuss how West is fostering India as an alternative to reduce dependence on China’s supply chain
+- Discuss how West is fostering India as a strategic ally to counter China’s political and economic dominance
 
 **Answer** In an ongoing polarisation around the world and amidst **rising geopolitical tensions**, the West is increasingly seeking to reduce its dependence on China’s **supply chain.** India is emerging as a key alternative, supported by its economic potential, strategic location, efficient human resource power and growing global influence. Recent initiatives such as the **Indo-Pacific Economic Framework (IPEF)** underscore this shift. **
 
@@ -8138,7 +7894,6 @@ India’s proactive engagement with the Maldives remains crucial for ensuring re
 - **Space Cooperation:** The West is collaborating with India to develop its **space capabilities**, which can serve as a counterbalance to China’s growing dominance in space exploration and satellite technology.
   - **For example:** NISAR: **, a joint Earth-observation mission by** NASA **and** ISRO **, exemplifies the strengthening space collaboration between India and the U.S.**
 
-
 **Economic Dominance:**
 - **Trade Diversification:** The West is increasingly focused on **diversifying trade** away from China, turning to India as a reliable partner for sourcing goods, services, and investments. **For example:US-India bilateral trade** reached a record **$128 billion** in **2023**, signalling the West’s growing economic engagement with India to reduce reliance on China.
 - **Investment in Technology:** The West is fostering India’s role as a leader in **emerging technologies** like AI, 5G, and clean energy, positioning it as a key partner in reducing China’s dominance in high-tech industries.
@@ -8151,15 +7906,16 @@ The West’s focus on fostering India as an alternative to China in both supply 
 
 ---
 
-## Question 192 (Year: 2024 | Paper: GS 2 | Marks: N/A | Words: N/A)
+## Question 200 (Year: 2024 | Paper: GS 2 | Marks: N/A | Words: N/A)
 **Question ID: 2024-gs2-q192-pwonlyias** **&#8220;Terrorism has become a significant threat to global peace and security.&#8217; Evaluate the effectiveness of the United Nations Security Council&#8217;s Counter Terrorism Committee (CTC) and its associated bodies in addressing and mitigating this threat at the international level.**
 
 ### Answer
 
-| **Core Demand of the Question:** <br>• Discuss how terrorism has become a significant threat to global peace and security <br>• Discuss effectiveness of the UN Security Council’s Counter Terrorism Committee (CTC) and associated bodies in addressing and mitigating this threat <br>• Analyse the challenges faced in counter terrorism efforts <br>• Suggest suitable way ahead |
-| --- |
-
-
+**Core Demand of the Question:**
+- Discuss how terrorism has become a significant threat to global peace and security
+- Discuss effectiveness of the UN Security Council’s Counter Terrorism Committee (CTC) and associated bodies in addressing and mitigating this threat
+- Analyse the challenges faced in counter terrorism efforts
+- Suggest suitable way ahead
 
 **Terrorism** is one of the most pressing challenges to international peace, destabilising nations and regions. It **destabilises economies**, **displaces populations**, and **erodes social cohesion**. Tackling this multifaceted issue demands **swift** and **coordinated global action** to build resilience, strengthen collaboration, and create effective counter-terrorism strategies for enduring stability.
 
@@ -8205,10 +7961,10 @@ The global fight against terrorism must combine stringent security measures with
 
 ---
 
-## Question 193 (Year: 2023 | Paper: GS 2 | Marks: 15 Marks | Words: 250 Words)
+## Question 201 (Year: 2023 | Paper: GS 2 | Marks: 15 Marks | Words: 250 Words)
 **Question ID: 2023-gs2-q193-pwonlyias** **&#8216;Sea is an important Component of the Cosmos&#8221;. Discuss in the light of the above statement the role of the IMO (International Maritime Organisation) in protecting the environment and enhancing maritime safety and security.**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** <br>• Write pivotal role of sea and introduce about IMO briefly **Body** <br>• Write about the role of the IMO in protecting the environment <br>• Write about the role of the IMO in enhancing maritime safety and security **Conclusion** <br>• Give appropriate conclusion in this regard |
 | --- |
@@ -8216,7 +7972,6 @@ The global fight against terrorism must combine stringent security measures with
 ### Introduction
 
 The sea, encompassing around **70% of the Earth’s surface**, is an essential component of the cosmos, rich in biodiversity and a crucial facilitator of global trade and commerce. In this context, the International Maritime Organisation (IMO), As a specialized agency of the United Nations, IMO is the global standard-setting authority for the safety, security and environmental performance of international shipping. **Its main role is to create a regulatory framework for the shipping industry that is fair and effective, universally adopted and universally implemented major focus on prevention of marine and atmospheric pollution by ships.**
-
 
 ### Body
 
@@ -8236,8 +7991,6 @@ The sea, encompassing around **70% of the Earth’s surface**, is an essential c
 - **Legal Framework:** Developing a comprehensive legal framework that ensures compensation for damages resulting from oil spills is another pivotal role of IMO. The **International Convention on Civil Liability for Oil Pollution Damage (CLC)** has been crucial in this endeavour.
 - **Safety Management:** IMO furthers safety management through **the International Safety Management (ISM) Code,** which provides an international standard for the safe management and operation of ships and for pollution prevention.
 
-
-
 ### Conclusion
 
 The **sea, an indispensable component of the cosmos**, continues to be a focal point of global economic activities and environmental sustainability. The IMO, by further fortifying its strategies with proactive measures and global cooperation can **pave the way for a safer, secure, and environmentally sound maritime future,** harmonizing the critical relationship between the sea and the cosmos.
@@ -8247,14 +8000,15 @@ The **sea, an indispensable component of the cosmos**, continues to be a focal p
 
 [Question ID: 2023-gs2-q193-pwonlyias]
 
+
 ---
 
-## Question 194 (Year: 2023 | Paper: GS 2 | Marks: 15 Marks | Words: 250 Words)
+## Question 202 (Year: 2023 | Paper: GS 2 | Marks: 15 Marks | Words: 250 Words)
 **Question ID: 2023-gs2-q194-pwonlyias**
 
 **The expansion and strengthening of NATO and a stronger US-Europe strategic partnership works well for India. What is your opinion about this statement? Give reasons and examples to support your answer.**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** <br>• Write about strengthening of NATO and a stronger US-Europe strategic partnership briefly **Body** <br>• Write how it will benefit India · **Conclusion** <br>• Give appropriate conclusion in this regard |
 | --- |
@@ -8284,22 +8038,21 @@ The **North Atlantic Treaty Organization (NATO), 1949** by the **North Atlantic 
 - **Resource Allocation:** Aligning with NATO defence initiatives might compel India to increase its defence spending substantially, which **could divert funds from critical domestic programs such as health and education**.
 - **Sovereignty Concerns:** Navigating partnerships with stronger NATO alliances may sometimes **come at the cost of compromising on strategic decisions independen** tly, thus posing a challenge to India’s policy of maintaining sovereign decision-making in international relations.
 
-
-
 ### Conclusion
 
 Taking a **multi-faceted approach towards the changing global dynamics**, India should focus on fostering relations that are mutually beneficial while safeguarding its national interest, **utilizing a strategy grounded on cooperation, collaboration, and strategic autonomy**.
 
 [Question ID: 2023-gs2-q194-pwonlyias]
 
+
 ---
 
-## Question 195 (Year: 2023 | Paper: GS 2 | Marks: 10 Marks | Words: 150 Words)
+## Question 203 (Year: 2023 | Paper: GS 2 | Marks: 10 Marks | Words: 150 Words)
 **Question ID: 2023-gs2-q195-pwonlyias**
 
 **The Indian diaspora has scaled new heights in the West. Describe its economic and political benefits for India.**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** <br>• Write about Indian diaspora in the West briefly **Body** <br>• Write how the Indian diaspora has scaled new heights in the West <br>• Write its economic benefits for India <br>• Write its political benefits for India. **Conclusion** <br>• Give appropriate conclusion in this regard |
 | --- |
@@ -8336,17 +8089,16 @@ The count of the Indian disapora has increased 10% from 15.9 million in 2015, ma
 - **Lobbying:** The diaspora has engaged in lobbying activities, influencing policies in Favor of India. Organizations **like the US India Political Action Committee (USINPAC)** have been quite active in this regard.
 - **Diaspora Diplomacy:** India has utilized diaspora diplomacy strategically to foster goodwill and stronger ties with host nations, partly facilitated through the **annual Pravasi Bharatiya Divas event.**
 
-
-
 ### Conclusion
 
 The Indian diaspora in the West has ascended to remarkable heights, proving beneficial for India both economically and politically. Their achievements and contributions have not only elevated the community’s stature but have also **turned into a bridge, fostering stronger relations between India and the world,** weaving a narrative of success, integration, and cultural harmony.
 
 [Question ID: 2023-gs2-q195-pwonlyias]
 
+
 ---
 
-## Question 196 (Year: 2023 | Paper: GS 2 | Marks: 10 Marks | Words: 150 Words)
+## Question 204 (Year: 2023 | Paper: GS 2 | Marks: 10 Marks | Words: 150 Words)
 **Question ID: 2023-gs2-q196-pwonlyias** **&#8216;Virus of Conflict is affecting the functioning of the SCO&#8217;. In the light of the above statement, point out the role of India in mitigating the problems.**
 
 ### Answer
@@ -8357,8 +8109,6 @@ The Indian diaspora in the West has ascended to remarkable heights, proving bene
 ### Introduction
 
 The **Shanghai Cooperation Organization (SCO)**, **2001** stands as a pivotal entity fostering regional stability and cooperation across member nations, **entailing economic, military, and cultural collaborations**. SCO shoulders the critical role of harmonizing relations and nurturing collaborative initiatives amidst a diverse set of ideologies, economic standings, and geopolitical narratives. In 2017, at the historic summit in Astana, *India*, and Pakistan officially *joined SCO* as full-fledged members.
-
-
 
 ### Body
 
@@ -8384,8 +8134,6 @@ The **Shanghai Cooperation Organization (SCO)**, **2001** stands as a pivotal en
 - **Cultural Exchanges:** India has been at the forefront of promoting cultural ties, often through platforms **like the SCO Cultural Festival**, highlighting its rich cultural tapestry and fostering understanding and unity among member nations through cultural diplomacy.
 - **Educational Collaborations:** To enhance humanitarian bonds, India can upscale its educational outreach by **offering more scholarships to students from SCO nations** and initiating academic exchange programs, thereby nurturing intellectual bonds among the youth of SCO nations.
 
-
-
 ### Conclusion
 
 Despite the ‘Virus of Conflict’ permeating the SCO, India leverages its diplomatic prowess and collaborative spirit to work towards a peaceful and cooperative regional environment. By nurturing a dialogue of understanding and fostering collaborative initiatives, **India stands as a beacon of stability, steering the SCO towards a path of harmonized and prosperous coexistence**.
@@ -8394,12 +8142,12 @@ Despite the ‘Virus of Conflict’ permeating the SCO, India leverages its dipl
 
 ---
 
-## Question 197 (Year: 2022 | Paper: GS 2 | Marks: N/A | Words: N/A)
+## Question 205 (Year: 2022 | Paper: GS 2 | Marks: N/A | Words: N/A)
 **Question ID: 2022-gs2-q197-pwonlyias**
 
 **Clean energy is the order of the day. Describe briefly India’s changing policy towards climate change in various international fora in the context of geopolitics.**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** <br>• Brief about India’s evolving climate change policy. **Body** <br>• Discuss about key initiative and considerations for global leadership. **Conclusion** <br>• Conclude your answer with the significance role of India. |
 | --- |
@@ -8416,17 +8164,16 @@ India’s climate change policy has shifted from energy security to global leade
 - **International Cooperation:** India has sought international cooperation in clean energy technology transfer, capacity building, and financing. It has engaged with countries and organizations, including the United States, European Union, and International Solar Alliance members, to foster collaborations and secure support for its clean energy goals.
 - **Climate Finance:** India has emphasized the need for developed countries to fulfill their commitments of providing financial and technological assistance to developing nations to support their climate change mitigation and adaptation efforts. This reflects India’s concerns about equitable burden-sharing and the need for financial support to implement clean energy projects.
 
-
-
 ### Conclusion
 
 India’s changing policy towards climate change in international fora reflects its growing recognition of the need for global collaboration and collective action. By actively engaging in climate negotiations, advocating for renewable energy, and collaborating with other nations, India is positioning itself as a responsible global player in combating climate change. This evolving approach contributes to the collective effort in creating a sustainable and resilient future for the planet.
 
 [Question ID: 2022-gs2-q197-pwonlyias]
 
+
 ---
 
-## Question 198 (Year: 2022 | Paper: GS 2 | Marks: N/A | Words: N/A)
+## Question 206 (Year: 2022 | Paper: GS 2 | Marks: N/A | Words: N/A)
 **Question ID: 2022-gs2-q198-pwonlyias**
 
 **How will I2U2(India, Israel, UAE and USA) grouping transform India’s position in global politics ?**
@@ -8451,8 +8198,6 @@ India’s changing policy towards climate change in international fora reflects 
 - **Strengthening multilateralism:** The grouping will promote multilateralism and cooperation among its member states, contributing to a more stable and interconnected global order. **E. g.** BIMSTEC can foster joint efforts to address climate change challenges through multilateral cooperation.
 - **Challenges and limitations:** The grouping may face challenges in balancing the interests of its diverse member states, and it may also face criticism and opposition from other countries.
 
-
-
 ### Conclusion
 
 The 12U2 grouping has the potential to significantly enhance India’s position in global politics, enabling it to pursue a more assertive foreign policy and expand its strategic partnerships. By aligning itself with countries that share similar values and interests, India can play a more prominent role in shaping global events and advancing its economic and security interests.
@@ -8461,12 +8206,12 @@ The 12U2 grouping has the potential to significantly enhance India’s position 
 
 ---
 
-## Question 199 (Year: 2021 | Paper: GS 2 | Marks: 15 Marks | Words: 250 Words)
+## Question 207 (Year: 2021 | Paper: GS 2 | Marks: 15 Marks | Words: 250 Words)
 **Question ID: 2021-gs2-q199-pwonlyias**
 
 **Critically examine the aims and objectives of SCO. What Importance does it hold for India?**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** <br>• Brief introduction about SCO. **Body** <br>• Explain the aim and goals of SCO and challenges and importance. **Conclusion** <br>• Conclude your answer with some challenges and developments of being a member of SCO. |
 | --- |
@@ -8498,17 +8243,16 @@ The Shanghai Cooperation Organisation (SCO) is an intergovernmental organization
 - **Boosting Connectivity:** India’s presence in the SCO will help in linking itself to the larger Eurasian region and Europe via the International North-South Transport Corridor (INSTC), thus boosting connectivity in the region.
 - **Deepening People-to-People Engagement:** SCO can play an important role in deepening people-to-people engagement through cooperation in the field of education, medicine, tourism, etc.3
 
-
-
 ### Conclusion
 
 The SCO holds significant importance for India as it provides a platform for India to deepen its strategic reach in Central Asia, boost energy security, and become a major pan-Asian player. However, India’s benefits from the SCO are limited due to the role of China and Pakistan in the organization. Positive outcomes will depend on how Indian diplomacy deals with its rivals, and India’s SECURE strategy should be adopted to make the SCO more effective in regional growth and stability.
 
 [Question ID: 2021-gs2-q199-pwonlyias]
 
+
 ---
 
-## Question 200 (Year: 2021 | Paper: GS 2 | Marks: 10 Marks | Words: 150 Words)
+## Question 208 (Year: 2021 | Paper: GS 2 | Marks: 10 Marks | Words: 150 Words)
 **Question ID: 2021-gs2-q200-pwonlyias** **“If the last few decades were of Asian’s.” In the light of this statement, examine India’s influence in Africa in recent years.**
 
 ### Answer
@@ -8521,8 +8265,6 @@ The SCO holds significant importance for India as it provides a platform for Ind
 The last few decades have seen extraordinary growth of Asian countries, particularly China, India, Japan, and South Korea. The paradigm is now tilting towards Africa.
 
 <p align="center"><img src="images/pw_international_relations_q603_img1.webp" alt="India- Africa" /></p>
-
-
 
 ### Body
 
@@ -8542,8 +8284,6 @@ The last few decades have seen extraordinary growth of Asian countries, particul
 - **Trade barriers:** Non-tariff barriers, complex regulatory frameworks, and insufficient trade facilitation measures hinder India’s trade expansion in Africa.
 - **Limited access to finance:** Limited access to affordable finance poses challenges for Indian businesses seeking to invest and expand operations in Africa.
 
-
-
 ### Conclusion
 
 India’s longstanding ties with Africa and its diplomatic and economic initiatives in the continent have strengthened their relationship. India has been providing grants-in-aid, capacity building, security cooperation, and medical diplomacy to Africa. The India-Africa friendship, based on shared struggles against colonial rule and mutual respect, offers many opportunities for both sides.
@@ -8552,12 +8292,12 @@ India’s longstanding ties with Africa and its diplomatic and economic initiati
 
 ---
 
-## Question 201 (Year: 2021 | Paper: GS 2 | Marks: 15 Marks | Words: 250 Words)
+## Question 209 (Year: 2021 | Paper: GS 2 | Marks: 15 Marks | Words: 250 Words)
 **Question ID: 2021-gs2-q201-pwonlyias**
 
 **The newly tri-nation partnership AUKUS is aimed at countering China’s ambitions in the Indo-Pacific region. Is it going to supersede the existing partnership in the region? Discuss the strength and impact of AUKUS in the present scenario.**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** <br>• Brief explaining the tri nation partnership AUKUS and its Aims. **Body** <br>• Discuss the strength and impact of AUKUS in the present scenario. **Conclusion** <br>• Conclude your answer with the significance of AUKUS. |
 | --- |
@@ -8567,8 +8307,6 @@ India’s longstanding ties with Africa and its diplomatic and economic initiati
 The recent announcement of the trilateral security partnership between Australia, the United Kingdom, and the United States, known as AUKUS, has drawn attention for its potential impact on the Indo-Pacific region. AUKUS aims to counter China’s growing influence in the region and has already sparked controversy.
 
 <p align="center"><img src="images/pw_international_relations_q618_img1.webp" alt="Aukus" /></p>
-
-
 
 ### Body
 
@@ -8587,12 +8325,13 @@ AUKUS is a significant development in the Indo-Pacific region that has the poten
 
 [Question ID: 2021-gs2-q201-pwonlyias]
 
+
 ---
 
-## Question 202 (Year: 2021 | Paper: GS 2 | Marks: 10 Marks | Words: 150 Words)
+## Question 210 (Year: 2021 | Paper: GS 2 | Marks: 10 Marks | Words: 150 Words)
 **Question ID: 2021-gs2-q202-pwonlyias** **“The USA is facing an existential threat in the form of China, that is much more challenging than the erstwhile Soviet Union.” Explain.**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** <br>• Brief explaining the US, China and Russia relations since the Cold War. **Body** <br>• Discuss the US-Soviet during cold war-Explain why Soviet union did not pose existential threat to US. **Conclusion** <br>• Conclude your answer with a balanced approach. |
 | --- |
@@ -8621,17 +8360,16 @@ The United States of America (USA) and China are currently engaged in a complex 
   - The Soviet Union’s ideology, communism, had limited appeal outside of the Soviet bloc, The US represented democracy and capitalism, which had broader appeal.
 - The Soviet Union was also limited by the fact that it had to maintain control over a vast, multi-ethnic empire, which placed a strain on its resources and limited its ability to project power abroad.
 
-
-
 ### Conclusion
 
 The USA is facing an existential threat in the form of China, which is much more challenging than the erstwhile Soviet Union. The USA needs to address China’s rise and create strategies to compete effectively while avoiding a potential conflict that could be catastrophic for both nations and the rest of the world. A balanced approach to diplomacy, economic engagement, and military preparedness may help mitigate the threat posed by China to the USA.
 
 [Question ID: 2021-gs2-q202-pwonlyias]
 
+
 ---
 
-## Question 203 (Year: 2020 | Paper: GS 2 | Marks: N/A | Words: N/A)
+## Question 211 (Year: 2020 | Paper: GS 2 | Marks: N/A | Words: N/A)
 **Question ID: 2020-gs2-q203-pwonlyias**
 
 **Critically Examine the role of WHO in providing global health security during the covid-19 pandemic. [150 wards, 10 Marks].**
@@ -8664,8 +8402,6 @@ The WHO issued guidelines and practices to prevent the spread of COVID-19, but w
 - **Funding Challenges:** The WHO heavily relies on voluntary contributions, which can limit its financial resources and affect its capacity to respond effectively to global health emergencies, including the COVID-19 pandemic.
 - **Access to Data:** The availability and timeliness of data from member states can impact the WHO’s ability to assess the situation accurately, monitor the spread of the virus, and provide evidence-based guidance for effective response measures.
 
-
-
 ### Conclusion
 
 The COVID-19 pandemic has highlighted the importance of global health security, with the WHO playing a crucial role in providing guidance and support to countries worldwide. The WHO’s response to the pandemic has been criticized, it is essential to recognize the organization’s commendable work in combating previous outbreaks and diseases.
@@ -8674,10 +8410,10 @@ The COVID-19 pandemic has highlighted the importance of global health security, 
 
 ---
 
-## Question 204 (Year: 2020 | Paper: GS 2 | Marks: N/A | Words: N/A)
+## Question 212 (Year: 2020 | Paper: GS 2 | Marks: N/A | Words: N/A)
 **Question ID: 2020-gs2-q204-pwonlyias** **‘Indian diaspora has a decisive role to play in the politics and economy of America and European Countries’. Comment with examples.**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** <br>• Start your answer by briefly discussing the significance of the Indian diaspora. **Body** <br>• Discuss in what ways the Indian diaspora affects the politics and economy of America and European Countries. **Conclusion** <br>• Conclude your answer with a balanced approach. |
 | --- |
@@ -8700,22 +8436,21 @@ According to a Ministry of External Affairs report, there are 32 million NRIs an
   - During the **Brexit referendum campaign** in the UK, the Indian diaspora actively participated in discussions, debates, and campaigns, expressing their perspectives on the impact of Brexit on trade, immigration, and cultural exchanges between India and the UK.
 - In **Canada**, the Indian diaspora has been vocal in advocating for immigrant rights and policies that support diverse communities. They have successfully influenced government decisions and policies that positively affect the Indian diaspora and other immigrant groups.
 
-
-
 ### Conclusion
 
 The Indian diaspora has emerged as a powerful force, influencing the economic and political dimensions of America and European countries. The diaspora’s contributions have been instrumental in establishing India’s identity as a global player, thereby strengthening the country’s relations with the world.
 
 [Question ID: 2020-gs2-q204-pwonlyias]
 
+
 ---
 
-## Question 205 (Year: 2020 | Paper: GS 2 | Marks: 15 Marks | Words: 250 Words)
+## Question 213 (Year: 2020 | Paper: GS 2 | Marks: 15 Marks | Words: 250 Words)
 **Question ID: 2020-gs2-q205-pwonlyias**
 
 **Quadrilateral Security Dialogue (QUAD) is transforming itself into a trade bloc from a military alliance, in present time &#8211; Discuss.**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** <br>• Start your answer by briefly discussing what is a QUAD. **Body** <br>• Discuss the need for Quad from a geo- economic prism rather than as a military bloc. **Conclusion** <br>• Conclude your answer with a balanced approach. |
 | --- |
@@ -8738,17 +8473,16 @@ The Quadrilateral Security Dialogue, commonly known as QUAD, was established in 
   - The countries involved, increased economic cooperation would create economic benefits, including increased trade and investment.
 - It would provide an alternative to China’s Belt and Road Initiative, which has been criticized for its debt-trap diplomacy.
 
-
-
 ### Conclusion
 
 QUAD’s shift from a military alliance towards a trade bloc is a significant development. It reflects the growing importance of economic cooperation and the need to promote free and fair trade among QUAD countries. While military cooperation remains essential, the emphasis on trade and economic issues indicates a recognition of the changing dynamics in the international arena.
 
 [Question ID: 2020-gs2-q205-pwonlyias]
 
+
 ---
 
-## Question 206 (Year: 2020 | Paper: GS 2 | Marks: 15 Marks | Words: 250 Words)
+## Question 214 (Year: 2020 | Paper: GS 2 | Marks: 15 Marks | Words: 250 Words)
 **Question ID: 2020-gs2-q206-pwonlyias**
 
 **What is the significance of Indo- US defence deals over Indo-Russian defence deals? Discuss with reference to stability in the Indo- Pacific region.**
@@ -8789,8 +8523,6 @@ QUAD’s shift from a military alliance towards a trade bloc is a significant de
 - **Technological Superiority:**
 - **Advantages in Critical Areas:** Indo-US defence deals offer India access to advanced capabilities, including next-generation fighter aircraft, missile defense systems, and intelligence-sharing platforms, providing a technological edge over Indo-Russian defence deals.
 
-
-
 ### Conclusion
 
 Indo-US defence deals offer technological superiority, enhanced interoperability, and closer strategic alignment, bolstering stability in the Indo-Pacific. While Indo-Russian defence deals retain importance, Indo-US cooperation plays a pivotal role in addressing regional security challenges and maintaining a rules-based order in the Indo-Pacific.
@@ -8799,10 +8531,10 @@ Indo-US defence deals offer technological superiority, enhanced interoperability
 
 ---
 
-## Question 207 (Year: 2019 | Paper: GS 2 | Marks: 15 Marks | Words: 200 Words)
+## Question 215 (Year: 2019 | Paper: GS 2 | Marks: 15 Marks | Words: 200 Words)
 **Question ID: 2019-gs2-q207-pwonlyias** **“The long-sustained image of India as a leader of the oppressed and marginalized Nations has disappeared on account of its new found role in the emerging global order” Elaborate**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** <br>• Start your answer significant to India’s foreign policy. **Body** <br>• Discuss about the Leadership and idealistic credentials of India was sustained and can be seen. <br>• Shift in India’s Approach towards Strategic Foreign Policy Perspective. **Conclusion** <br>• Conclude your answer with a balanced approach. |
 | --- |
@@ -8829,20 +8561,19 @@ Indo-US defence deals offer technological superiority, enhanced interoperability
 - **SAARC’s Stagnation:** India’s strong stance on boycotting Pakistanin the SAARC regional forum has resulted in the non-functioning of the organization, potentially delaying development projects for smaller neighboring nations within the SAARC framework.
 - **Prioritizing Indo-Pacific and Countering China:** India’s increased involvement in the QUAD and its focus on Indo-Pacific regional growth reflect its growing concerns about China’s influence and its efforts to safeguard its national interests in the region.
 
-
-
 ### Conclusion
 
 India’s shift towards Realpolitik marks a departure from its traditional idealistic approach as a leader of oppressed nations. India’s new-found role in the emerging global order indicates its growing ambitions as a major world power. India’s leadership in promoting a rules-based international order will be vital in shaping the future of the global community.
 
 [Question ID: 2019-gs2-q207-pwonlyias]
 
+
 ---
 
-## Question 208 (Year: 2018 | Paper: GS 2 | Marks: 10 Marks | Words: 150 Words)
+## Question 216 (Year: 2018 | Paper: GS 2 | Marks: 10 Marks | Words: 150 Words)
 **Question ID: 2018-gs2-q208-pwonlyias** **“India’s relations with Israel have, of late, acquired a depth and diversity, which cannot be rolled back” Discuss**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** <br>• Briefly introduce the status of Indo-Israel relations presently and in the past. **Body** <br>• Elaborate on traditional and new areas of cooperation. **Conclusion** <br>• Conclude your answer with a balanced approach. |
 | --- |
@@ -8859,22 +8590,21 @@ India’s shift towards Realpolitik marks a departure from its traditional ideal
 - **Economic Cooperation:** India and Israel have also deepened their economic cooperation, particularly in the areas of trade and investment. Israel is among the top 10 trading partners of India, and both countries have set up joint funds to promote investment and business partnerships. **Example**, in 2020, India and Israel launched a joint innovation fund to support start-ups in the two countries.
 - **Cultural Exchanges:** India and Israel have also enhanced their cultural exchanges in recent years. Several Indian films have been shot in Israel, and Israeli artists have performed in India. This has helped promote **people-to-people contacts** and strengthen the bonds between the two countries.
 
-
-
 ### Conclusion
 
 India’s relations with Israel have acquired a depth and diversity that cannot be rolled back. The strategic partnership between the two countries has evolved into a multidimensional relationship that is based on mutual interests and shared values.
 
 [Question ID: 2018-gs2-q208-pwonlyias]
 
+
 ---
 
-## Question 209 (Year: 2018 | Paper: GS 2 | Marks: 15 Marks | Words: 200 Words)
+## Question 217 (Year: 2018 | Paper: GS 2 | Marks: 15 Marks | Words: 200 Words)
 **Question ID: 2018-gs2-q209-pwonlyias**
 
 **What are the Key areas of reform if the WTO has to survive in the present context of “Trade War” especially keeping in mind the interest of India?.**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** <br>• Brief about problems in WTO structure. **Body** <br>• Current problems and reasons behind trade wars. **Conclusion** <br>• Conclude your answer with Reforms for sustainability of WTO. |
 | --- |
@@ -8897,17 +8627,16 @@ A trade war is an economic conflict between nations characterized by the imposit
 - **Facilitating Negotiations:** The WTO should facilitate negotiations among member countries to find common ground on contentious issues, fostering consensus-building and constructive dialogue.
 - **Promoting Development and Equity:** Reforms should prioritize the interests of developing countries, including special and differential treatment, to ensure their meaningful participation and benefits from the global trading system.
 
-
-
 ### Conclusion
 
 India, as a prominent member of the WTO, has a significant stake in its continued relevance and effectiveness. Key areas of reform include the dispute settlement system, reducing trade costs, and modalities of negotiations. India should call for systemic reform in these crucial areas to ensure the WTO’s functioning benefits all its members, particularly developing countries.
 
 [Question ID: 2018-gs2-q209-pwonlyias]
 
+
 ---
 
-## Question 210 (Year: 2018 | Paper: GS 2 | Marks: 15 Marks | Words: 200 Words)
+## Question 218 (Year: 2018 | Paper: GS 2 | Marks: 15 Marks | Words: 200 Words)
 **Question ID: 2018-gs2-q210-pwonlyias**
 
 **In what ways would the ongoing US-Iran Nuclear Pact Controversy affect the national interest of India? How should India respond to its situation?**
@@ -8934,8 +8663,6 @@ India, as a prominent member of the WTO, has a significant stake in its continue
 - **Alternative sources of energy:** India should explore alternative sources of energy to reduce its dependence on Iranian oil and gas. India should also focus on developing its domestic sources of energy.
 - **Strengthening regional cooperation:** India should work towards strengthening regional cooperation with other countries in the region to ensure regional stability. India should also engage with other countries like China and Russia to find a common ground on the issue.
 
-
-
 ### Conclusion
 
 India’s relations with Iran are complex and go beyond geopolitical and geo-economic considerations. The ongoing US-Iran Nuclear Pact Controversy can have significant implications for India’s national interests. India’s response to the situation should be measured and diplomatic, keeping in mind its own interests and the need for regional stability.
@@ -8944,12 +8671,12 @@ India’s relations with Iran are complex and go beyond geopolitical and geo-eco
 
 ---
 
-## Question 211 (Year: 2017 | Paper: GS 2 | Marks: 10 Marks | Words: 150 Words)
+## Question 219 (Year: 2017 | Paper: GS 2 | Marks: 10 Marks | Words: 150 Words)
 **Question ID: 2017-gs2-q211-pwonlyias**
 
 **China is using its economic relation and positive trade surplus as tools to develop potential military power status in Asia; In the light of this statement, discuss its impact on India as her neighbour.**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** <br>• Start your answer with China’s rapid rise as an economic and military superpower. **Body** <br>• Discuss about the impact of China’s rise on India **Conclusion** <br>• Conclude your answer with a futuristic approach. |
 | --- |
@@ -8967,17 +8694,16 @@ China’s rapid rise as an economic and military superpower has significant impl
 - **South Asian Countries:** China’s infrastructure development projects in South Asian countries like Sri Lanka, Nepal, and Bangladesh have weakened India’s position in the region and allowed China to expand its influence.
 - **Economic Influence:** China’s economic dominance in Asia allows it to spread its influence in the region, which could be used to India’s detriment. China’s trade surplus with India and other Asian countries gives it the financial resources to further its military and economic expansion.
 
-
-
 ### Conclusion
 
 China’s rapid rise as an economic and military powerhouse poses significant challenges for India as its neighbor. China’s aggressive policies, military buildup, and infrastructure development activities along the border regions have created a security threat to India.
 
 [Question ID: 2017-gs2-q211-pwonlyias]
 
+
 ---
 
-## Question 212 (Year: 2017 | Paper: GS 2 | Marks: 15 Marks | Words: 200 Words)
+## Question 220 (Year: 2017 | Paper: GS 2 | Marks: 15 Marks | Words: 200 Words)
 **Question ID: 2017-gs2-q212-pwonlyias**
 
 **Indian Diaspora has an important role to play in South-East Asian countries&#8217; economy and society. Appraise the role of Indian Diaspora in South- East Asian in this context.**
@@ -8993,8 +8719,6 @@ India and South East Asia have shared a long history of economic, cultural, and 
 
 <p align="center"><img src="images/pw_international_relations_q348_img1.webp" alt="Indian Diaspora" /></p>
 
-
-
 ### Body
 
 **Role of Indian diaspora in South-East Asian countries and its significance:**
@@ -9005,8 +8729,6 @@ India and South East Asia have shared a long history of economic, cultural, and 
 - **Philanthropic activities:** The Indian diaspora has also been actively involved in philanthropic activities in Southeast Asia. Indian charities and foundations have contributed to the development of healthcare, education, and other social services in the region. **Example** TATA Trusts have partnered with the Thai government to provide healthcare services to rural communities in Thailand.
 - **Political influence:** The Indian diaspora has had a notable impact on the politics of Southeast Asian countries. Many Indian-origin individuals have held high-ranking positions in government and have influenced policy decisions. **Example**, S. Jayakumar, a Singaporean of Indian origin, served as Singapore’s Deputy Prime Minister and Minister for Foreign Affairs.
 
-
-
 ### Conclusion
 
 The Indian diaspora has played a crucial role in the economic and social development of South-East Asian countries. Their contributions have helped to build bridges between India and these nations, facilitating trade and cultural exchange. As India continues to expand its economic and political influence globally, the Indian diaspora’s role in South-East Asia is likely to become even more critical in the years to come.
@@ -9015,12 +8737,12 @@ The Indian diaspora has played a crucial role in the economic and social develop
 
 ---
 
-## Question 213 (Year: 2017 | Paper: GS 2 | Marks: 10 Marks | Words: 150 Words)
+## Question 221 (Year: 2017 | Paper: GS 2 | Marks: 10 Marks | Words: 150 Words)
 **Question ID: 2017-gs2-q213-pwonlyias**
 
 **What are the main functions of the United Nations Economic and Social Council (ECOSOC)? Explain different functional commissions attached to it.**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** <br>• Start your answer with ECOSOC. **Body** <br>• Discuss function and functional Commissions Attached to ECOSOC. **Conclusion** <br>• Conclude your answer with advancing global cooperation for sustainable development and social equality. |
 | --- |
@@ -9042,17 +8764,16 @@ The United Nations Economic and Social Council (ECOSOC) is a principal organ of 
 - **Commission on Sustainable Development:** This commission focuses on promoting sustainable development globally. It develops policies and programs to address environmental challenges, including climate change, biodiversity, and ecosystem management.
 - **Commission on Narcotic Drugs:** This commission focuses on drug control policies and strategies. It develops policies and programs to combat drug trafficking, abuse, and addiction.
 
-
-
 ### Conclusion
 
 The United Nations Economic and Social Council (ECOSOC) is a critical organ of the United Nations and plays a pivotal role in promoting international economic and social cooperation. The Commission on Population and Development, the Commission on the Status of Women, and the Commission on Science and Technology for Development, play a vital role in addressing specific issues related to economic and social development. Through its various programs and initiatives, ECOSOC is helping to achieve the United Nations’ sustainable development goals and build a more equitable and prosperous world.
 
 [Question ID: 2017-gs2-q213-pwonlyias]
 
+
 ---
 
-## Question 214 (Year: 2016 | Paper: GS 2 | Marks: N/A | Words: N/A)
+## Question 222 (Year: 2016 | Paper: GS 2 | Marks: N/A | Words: N/A)
 **Question ID: 2016-gs2-q214-pwonlyias**
 
 **Evaluate the economic and strategic dimension of India’s Look East Policy in the context of the post-cold war international scenario.[200 Words,12.5 Marks].**
@@ -9085,8 +8806,6 @@ India’s Look East Policy (LEP) was launched in 1991 to strengthen India’s ec
 - **Connectivity and Infrastructure:** India-Myanmar-Thailand Trilateral Highway: The highway project aimed to improve connectivity and trade between India and Southeast Asia.
 - **Kaladan Multi-Modal Transit Transport Project:** This project aimed to establish maritime connectivity between India’s northeastern region and Myanmar.
 
-
-
 ### Conclusion
 
 India’s Look East Policy has been a significant success, both in terms of economic and strategic dimensions. It has helped India to deepen its economic integration with the Asia-Pacific region and enhance its strategic engagement with key players the United States and Japan. In the post-Cold War international scenario, India’s Look East Policy has enabled India to emerge as a leading player in the Asia-Pacific region, contributing to regional stability and prosperity.
@@ -9095,7 +8814,7 @@ India’s Look East Policy has been a significant success, both in terms of econ
 
 ---
 
-## Question 215 (Year: 2016 | Paper: GS 2 | Marks: N/A | Words: N/A)
+## Question 223 (Year: 2016 | Paper: GS 2 | Marks: N/A | Words: N/A)
 **Question ID: 2016-gs2-q215-pwonlyias** **“Increase cross- border terrorist attacks in India and growing interference in the internal affairs of member &#8211; states of SAARC ( South Asian Association for Regional Cooperation)” Explain with suitable examples.[200 Words, 12.5 Marks].**
 
 ### Answer
@@ -9113,8 +8832,6 @@ The South Asian Association for Regional Cooperation (SAARC), established in 198
 - **Impediments to Economic Integration:** Pakistan’s policies have stalled important agreements on trade liberalization, cross-border trade in energy, and road connectivity. These actions have not only hindered regional economic cooperation but also led to the formation of sub-regional frameworks such as the BBIN (Bangladesh, Bhutan, India, Nepal) cooperation, which excludes Pakistan. India has turned towards alternative regional organizations like BIMSTEC, as witnessed during the BIMSTEC summit held alongside the BRICS Summit.
 - **Security Challenges and Regional Cooperation:** Pakistan’s role in using terrorism as a tool of state policy has posed significant security challenges in the region. Being strategically positioned between South Asia and Central Asia, Pakistan plays a crucial role in intra- and inter-regional trade and commerce. Effectively addressing security concerns and achieving regional cooperation within SAARC necessitates the involvement of Pakistan in the framework.
 
-
-
 ### Conclusion
 
 Tensions and disagreements between India and Pakistan have hampered SAARC’s effectiveness, it is crucial to engage Pakistan to overcome the economic and security challenges faced by South Asian nations. Pakistan’s central geographic location and its influence on trade and commerce make it essential to include the country within the SAARC framework for regional cooperation. By promoting dialogue and understanding between India and Pakistan, SAARC can regain its purpose and work towards fostering peace, stability, and prosperity in the region.
@@ -9123,10 +8840,10 @@ Tensions and disagreements between India and Pakistan have hampered SAARC’s ef
 
 ---
 
-## Question 216 (Year: 2016 | Paper: GS 2 | Marks: N/A | Words: N/A)
+## Question 224 (Year: 2016 | Paper: GS 2 | Marks: N/A | Words: N/A)
 **Question ID: 2016-gs2-q216-pwonlyias** **“The broader aims and objectives of the WTO are to manage and promote international trade in the era of globalization. But the Doha round of negotiations seem doomed due to differences between the developed and the developing countries”. Discuss in the Indian perspective.[200 Words, 12.5 Marks]**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** <br>• Brief about The World Trade Organization (WTO). **Body** <br>• Discuss equitable focus on developing countries and impact on India’s trade policy in Doha Round. **Conclusion** <br>• Conclude your answer with a futuristic approach. |
 | --- |
@@ -9142,13 +8859,9 @@ India has taken a firm stand against the inclusion of ‘new issues’ such as l
 - **Resolution of Outstanding Issues:** India stresses the importance of resolving outstanding issues before introducing new non-trade matters. Key issues that require attention include the ‘Special Safeguard Mechanism,’ aimed at protecting the interests of poor farmers in developing countries, and finding a permanent solution for public stockholding to ensure food security.
 - **Criteria for Introducing New Issues:** India calls for two criteria to be met by countries advocating for the inclusion of ‘non-issues’ in the WTO agenda. Firstly, the relevance of the proposed issues in the context of trade must be established. Secondly, a consensus among all 162 WTO members must be achieved to take up the agenda. These criteria ensure a fair and inclusive approach to decision-making within the WTO.
 
-
-
 ### Conclusion
 
 India’s efforts to prevent the introduction of ‘new issues’ in the WTO, and its emphasis on resolving outstanding matters from the Doha Round negotiations, reflect its commitment to safeguarding the interests of developing nations. By forming strong alliances with other developing and poor countries, and equipping trade law experts to represent them effectively at the WTO’s Dispute Settlement
-
-
 
 ### Body
 
@@ -9156,9 +8869,10 @@ India’s efforts to prevent the introduction of ‘new issues’ in the WTO, an
 
 [Question ID: 2016-gs2-q216-pwonlyias]
 
+
 ---
 
-## Question 217 (Year: 2016 | Paper: GS 2 | Marks: N/A | Words: N/A)
+## Question 225 (Year: 2016 | Paper: GS 2 | Marks: N/A | Words: N/A)
 **Question ID: 2016-gs2-q217-pwonlyias**
 
 **What are the aims and objectives of the McBride Commission of UNESCO? What is India’s position on these? [200 Words, 12.5 Marks].**
@@ -9174,8 +8888,6 @@ The McBride Commission of UNESCO was established in 1977 to examine the relation
 
 <p align="center"><img src="images/pw_international_relations_q300_img1.webp" alt="objective of UNESCO" /></p>
 
-
-
 ### Body
 
 - **Aim and Objectives of the McBride Commission of the UNESCO:** To study and make recommendations on issues related to communication and the free flow of information.
@@ -9187,8 +8899,6 @@ The McBride Commission of UNESCO was established in 1977 to examine the relation
   - India also supported the Commission’s recommendations on the need for greater access to communication technologies and the use of communication for development purposes.
 - India expressed reservations on some of the Commission’s recommendations related to media ownership and regulation, arguing that these should be left to individual countries to decide.
 
-
-
 ### Conclusion
 
 The UNESCO’s McBride Commission aimed to tackle media concentration and information imbalance between developed and developing nations. India backed the objective, but voiced concerns over the state control approach. India remains dedicated to promoting media freedom and a fairer global media landscape while seeking a balance between government intervention and market forces.
@@ -9197,7 +8907,7 @@ The UNESCO’s McBride Commission aimed to tackle media concentration and inform
 
 ---
 
-## Question 218 (Year: 2015 | Paper: GS 2 | Marks: N/A | Words: N/A)
+## Question 226 (Year: 2015 | Paper: GS 2 | Marks: N/A | Words: N/A)
 **Question ID: 2015-gs2-q218-pwonlyias**
 
 **Discuss the impediments India is facing in its pursuit of a permanent seat in UNSC. [200 Words, 12.5 Marks]**
@@ -9213,8 +8923,6 @@ The United Nations Security Council (UNSC) plays a vital role in maintaining glo
 
 <p align="center"><img src="images/pw_international_relations_q183_img1.webp" alt="Approach for UNSC" /></p>
 
-
-
 ### Body
 
 **Impediments that the country has faced in this pursuit:**
@@ -9225,8 +8933,6 @@ The United Nations Security Council (UNSC) plays a vital role in maintaining glo
 - **Current issues:** India’s human rights record, its Kashmir policy, and its border disputes with neighboring countries such as China and Pakistan have also been used to question its suitability for a permanent seat. These issues could be used by countries opposed to India’s bid to argue against it.
 - **Financial contributions:** Some members may argue that India has not made enough financial contributions to the UN, which is a criterion for being considered for a permanent seat.
 
-
-
 ### Conclusion
 
 India’s pursuit of a permanent seat in the UNSC has been hampered by several factors. These include resistance from other countries, lack of consensus among the permanent members of the UNSC, and India’s own limitations in terms of economic and military power. India continues to strive towards this goal and remains committed to working with other countries towards a more inclusive and representative UN system.
@@ -9235,12 +8941,12 @@ India’s pursuit of a permanent seat in the UNSC has been hampered by several f
 
 ---
 
-## Question 219 (Year: 2015 | Paper: GS 2 | Marks: N/A | Words: N/A)
+## Question 227 (Year: 2015 | Paper: GS 2 | Marks: N/A | Words: N/A)
 **Question ID: 2015-gs2-q219-pwonlyias**
 
 **Increased interest of India in Africa has its pros and cons. Critically Examine.[200 Words, 12.5 Marks]**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** <br>• Brief about India’s growing interest in Africa **Body** <br>• Discuss the Pros and Cons of India’s Increasing Interest in Africa. **Conclusion** <br>• Conclude your answer with a futuristic approach |
 | --- |
@@ -9250,9 +8956,10 @@ India’s pursuit of a permanent seat in the UNSC has been hampered by several f
 India’s growing interest in Africa has been marked by increased economic, strategic, and cultural engagements with African countries. While this presents several opportunities for both India and Africa, it raises concerns about the potential negative consequences of such engagement.
 
 **Body:**
-- **Pros of India’s Increasing Interest in Africa:**
 
-**Energy Security:** India’s engagement with Africa has been driven by its need for energy security. Africa is a significant source of oil and gas, and India’s growing energy demands can be met through its engagement with Africa.
+**Pros of India’s Increasing Interest in Africa:**
+
+- **Energy Security:** India’s engagement with Africa has been driven by its need for energy security. Africa is a significant source of oil and gas, and India’s growing energy demands can be met through its engagement with Africa.
 - **Natural Resources:** Africa is home to several critical natural resources, including minerals, metals, and agricultural products. India’s engagement with Africa can help secure its access to these resources and ensure their sustainable use.
 - **New Markets:** India’s engagement with Africa can help diversify its export markets and reduce its dependence on traditional markets in the West. This can help India strengthen its economic ties with Africa and promote greater regional integration.
 - **Cons of India’s Increasing Interest in Africa:** 
@@ -9260,22 +8967,21 @@ India’s growing interest in Africa has been marked by increased economic, stra
 - **Political Challenges:** Africa is a complex region with several political challenges, including ethnic conflicts, terrorism, and weak governance. India’s engagement with Africa can expose it to these challenges, which can have adverse effects on its economic and strategic interests.
 - **Competition with China:** India’s engagement with Africa has to contend with China’s growing influence in the region. China’s aggressive investments in Africa can limit India’s access to resources and markets and pose significant strategic challenges.
 
-
-
 ### Conclusion
 
 India’s increasing interest in Africa presents several opportunities for both India and Africa, particularly in the areas of trade, investment, and cultural exchange. It raises concerns about the potential negative consequences, such as resource exploitation and political instability. India to maintain a balanced approach to its engagement with Africa and ensure that its engagements are mutually beneficial and sustainable.
 
 [Question ID: 2015-gs2-q219-pwonlyias]
 
+
 ---
 
-## Question 220 (Year: 2015 | Paper: GS 2 | Marks: N/A | Words: N/A)
+## Question 228 (Year: 2015 | Paper: GS 2 | Marks: N/A | Words: N/A)
 **Question ID: 2015-gs2-q220-pwonlyias**
 
 **Project “Mausam” is considered a unique foreign policy initiative of the Indian government to improve relationships with its neighbors. Does the project have a strategic dimension? Discuss. [200 word,12.5 Marks]**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** <br>• Brief about Project Mausam. **Body** <br>• Discuss the project has a strategic dimension that can help India advance its strategic interests in the region. **Conclusion** <br>• Conclude your answer with the importance of Project Mausam. |
 | --- |
@@ -9291,17 +8997,16 @@ Project Mausam is an Indian government initiative launched in 2014 to explore th
 - **Enhancing maritime security:** The project can also help India enhance its maritime security by promoting greater maritime cooperation and information-sharing among the participating countries. This can help address common security challenges such as piracy, smuggling, and terrorism.
 - **Countering China’s influence:** Project Mausam can also help India counter China’s growing influence in the region. By promoting greater cultural and economic exchanges with its neighbors, India can build stronger ties with the region and reduce its dependence on China.
 
-
-
 ### Conclusion
 
 Project Mausam aims to promote India’s soft power in the Indian Ocean region by highlighting the shared cultural heritage of participating countries. It has economic potential by promoting tourism and trade, and fosters greater regional cooperation and stability. A unique foreign policy initiative that enhances India’s regional influence and promotes its strategic interests.
 
 [Question ID: 2015-gs2-q220-pwonlyias]
 
+
 ---
 
-## Question 221 (Year: 2015 | Paper: GS 2 | Marks: N/A | Words: N/A)
+## Question 229 (Year: 2015 | Paper: GS 2 | Marks: N/A | Words: N/A)
 **Question ID: 2015-gs2-q221-pwonlyias**
 
 **Terrorist activities and mutual distrust have clouded India &#8211; Pakistan relation. To what extent the use of soft power like sports and culture exchange could help generate goodwill between the two countries. Discuss with suitable examples. [200 Words,12.5 Marks]**
@@ -9323,8 +9028,6 @@ Project Mausam aims to promote India’s soft power in the Indian Ocean region b
 - **People-to-People Contacts:** People-to-people contacts can also help improve India-Pakistan relations by creating greater understanding and empathy between citizens of both countries. Educational and exchange programs can facilitate such contacts and help promote a sense of common purpose and cooperation.
 - **Positive Examples:** Demonstrate the potential of soft power in improving India-Pakistan relations. The Aman Ki Asha initiative, launched in 2010, aimed to promote people-to-people contacts and cultural exchanges between the two countries. The initiative included several cultural events and exchange programs, highlighting the potential of soft power in improving bilateral ties
 
-
-
 ### Conclusion
 
 Sports and cultural exchanges can improve India-Pakistan relations by promoting people-to-people contacts, mutual understanding, and goodwill. Successes like cricket diplomacy and Kartarpur Corridor underscore their potential to build trust, enhance cooperation, and contribute to peace and stability in the region.
@@ -9333,12 +9036,12 @@ Sports and cultural exchanges can improve India-Pakistan relations by promoting 
 
 ---
 
-## Question 222 (Year: 2014 | Paper: GS 2 | Marks: N/A | Words: N/A)
+## Question 230 (Year: 2014 | Paper: GS 2 | Marks: N/A | Words: N/A)
 **Question ID: 2014-gs2-q222-pwonlyias**
 
 **India has recently signed to become a founding member of New Development Bank (NDB) and also the Asian Infrastructure Investment Bank (AIIB). How will the role of the two banks be different? Discuss the Strategic significance of these two Banks for India. [200 words, 12.5 Marks]**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** <br>• Start your answer with India’s membership in NDB and AIIB. **Body** <br>• Discuss the understanding of the differences in their roles and the strategic significance for India. **Conclusion** <br>• Conclude your answer with a significant approach. |
 | --- |
@@ -9363,17 +9066,16 @@ The NDB has five founding members – Brazil, Russia, India, China, and South Af
 - Both banks offer India an alternative to traditional Western-dominated financial institutions, providing a greater voice and influence in the global economic system.
 - India must balance its strategic interests with the potential risks and concerns related to Chinese dominance in both institutions.
 
-
-
 ### Conclusion
 
 The NDB and AIIB have different roles, with NDB emphasizing on sustainable development and AIIB focusing on infrastructure. Both banks offer funding opportunities for India’s development needs, while also allowing India to shape their policies and governance as a founding member, strengthening economic ties with other countries.
 
 [Question ID: 2014-gs2-q222-pwonlyias]
 
+
 ---
 
-## Question 223 (Year: 2014 | Paper: GS 2 | Marks: 15 Marks | Words: 250 Words)
+## Question 231 (Year: 2014 | Paper: GS 2 | Marks: 15 Marks | Words: 250 Words)
 **Question ID: 2014-gs2-q223-pwonlyias** **&#8216;Sea is an important Component of the Cosmos&#8221;. Discuss in the light of the above statement the role of the IMO (International Maritime Organisation) in protecting the environment and enhancing maritime safety and security.**
 
 ### Answer
@@ -9384,7 +9086,6 @@ The NDB and AIIB have different roles, with NDB emphasizing on sustainable devel
 ### Introduction
 
 The sea, encompassing around **70% of the Earth’s surface**, is an essential component of the cosmos, rich in biodiversity and a crucial facilitator of global trade and commerce. In this context, the International Maritime Organisation (IMO), As a specialized agency of the United Nations, IMO is the global standard-setting authority for the safety, security and environmental performance of international shipping. **Its main role is to create a regulatory framework for the shipping industry that is fair and effective, universally adopted and universally implemented major focus on prevention of marine and atmospheric pollution by ships.**
-
 
 ### Body
 
@@ -9404,8 +9105,6 @@ The sea, encompassing around **70% of the Earth’s surface**, is an essential c
 - **Legal Framework:** Developing a comprehensive legal framework that ensures compensation for damages resulting from oil spills is another pivotal role of IMO. The **International Convention on Civil Liability for Oil Pollution Damage (CLC)** has been crucial in this endeavour.
 - **Safety Management:** IMO furthers safety management through **the International Safety Management (ISM) Code,** which provides an international standard for the safe management and operation of ships and for pollution prevention.
 
-
-
 ### Conclusion
 
 The **sea, an indispensable component of the cosmos**, continues to be a focal point of global economic activities and environmental sustainability. The IMO, by further fortifying its strategies with proactive measures and global cooperation can **pave the way for a safer, secure, and environmentally sound maritime future,** harmonizing the critical relationship between the sea and the cosmos.
@@ -9417,12 +9116,12 @@ The **sea, an indispensable component of the cosmos**, continues to be a focal p
 
 ---
 
-## Question 224 (Year: 2014 | Paper: GS 2 | Marks: N/A | Words: N/A)
+## Question 232 (Year: 2014 | Paper: GS 2 | Marks: N/A | Words: N/A)
 **Question ID: 2014-gs2-q224-pwonlyias**
 
 **Some of the international funding agencies have special terms for economic participation stipulating a substantial component of the aid used for sourcing equipment from leading countries. Discuss the merits of such terms and there exists a strong case not to accept such conditions in the Indian context. [200 Words, 12.5 Marks]**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** <br>• Start your answer with the importance of International Funding Agencies. **Body** <br>• Discuss debate on Conditions for International Funding. **Conclusion** <br>• Conclude your answer with a futuristic approach. |
 | --- |
@@ -9440,17 +9139,16 @@ The **sea, an indispensable component of the cosmos**, continues to be a focal p
 - **Can result in a debt trap:** Accepting such terms can result in the accumulation of debt and the creation of a debt trap for the recipient country, as the repayment of the debt becomes dependent on the performance of the equipment.
 - **Disadvantages local industry:** Sourcing equipment from leading countries can disadvantage local industry, as they may not be able to compete with the foreign suppliers and lose out on opportunities to develop their own expertise and technology.
 
-
-
 ### Conclusion
 
 India should carefully consider economic participation terms in foreign aid as they may limit the country’s technological development and create a reliance on foreign suppliers. A strategic approach is needed to balance aid benefits with long-term economic interests, safeguarding technological independence.
 
 [Question ID: 2014-gs2-q224-pwonlyias]
 
+
 ---
 
-## Question 225 (Year: 2014 | Paper: GS 2 | Marks: N/A | Words: N/A)
+## Question 233 (Year: 2014 | Paper: GS 2 | Marks: N/A | Words: N/A)
 **Question ID: 2014-gs2-q225-pwonlyias**
 
 **The aim of information Technology Agreements (ITAs) is to lower all taxes and tariffs on Information technology products by signatories to zero. What impact would such agreements have on India’s interests? [200 Words,12.5 Marks]**
@@ -9472,8 +9170,6 @@ India should carefully consider economic participation terms in foreign aid as t
 - **Revenue Loss:** ITAs may result in revenue loss for the Indian government, which currently earns revenue from import tariffs on IT products. The reduction or elimination of tariffs on IT products could result in reduced revenue for the government, impacting its ability to fund public services and development projects. **Example**, the removal of tariffs on IT products under the WTO ITA 2 agreement could result in an estimated revenue loss of around $1.3 billion for the Indian government.
 - **Access to New Technologies:** ITAs could benefit Indian consumers and businesses by increasing access to new technologies, which may not be available domestically. The elimination of tariffs on such products could lead to the availability of a wider range of products at a lower cost, promoting innovation and technological advancement. **Example**, the elimination of tariffs on digital cameras under the WTO ITA agreement enabled Indian consumers to access a wider range of digital cameras at lower prices, promoting the growth of the digital camera market in India.
 
-
-
 ### Conclusion
 
 The Information Technology Agreement (ITA) has the potential to stimulate global trade and economic growth, it may have negative implications for India’s interests. To address these concerns, India needs to engage in constructive dialogue with the signatories to ensure that its interests are adequately protected. It is only through effective negotiation and cooperation that India can ensure a fair and balanced outcome that benefits all parties involved.
@@ -9482,12 +9178,12 @@ The Information Technology Agreement (ITA) has the potential to stimulate global
 
 ---
 
-## Question 226 (Year: 2014 | Paper: GS 2 | Marks: N/A | Words: N/A)
+## Question 234 (Year: 2014 | Paper: GS 2 | Marks: N/A | Words: N/A)
 **Question ID: 2014-gs2-q226-pwonlyias**
 
 **With respect to the South China sea, maritime territorial disputes and rising tension affairs the need for safeguarding maritime security to ensure freedom of navigation and ever flight throughout the region. In this context, discuss the bilateral issues between India and China. [200 Words, 12.5 Marks]**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** <br>• Start your answer with maritime security in the South China Sea. **Body** <br>• Discuss the bilateral Issues between India and China. **Conclusion** <br>• Conclude your answer with a futuristic approach. |
 | --- |
@@ -9504,22 +9200,21 @@ The Information Technology Agreement (ITA) has the potential to stimulate global
 - **Economic Competition:** India and China are major economic powers in the region, and there is intense competition between the two countries. China has been expanding its economic influence in the region through initiatives The Belt and Road Initiative, which India sees as an attempt to increase Chinese influence in the region at the expense of India. This has led to tensions between the two countries and has hindered cooperation on issues such as maritime security in the South China Sea.
 - **Strategic Rivalry:** India and China are seen as strategic rivals in the region. China is seen as a rising power, and India is seen as a counterbalance to China’s influence. This has led to a perception of a power struggle between the two countries in the region, which has implications for maritime security in the South China Sea.
 
-
-
 ### Conclusion
 
 India and China’s bilateral issues in the South China Sea region have become a matter of concern for regional and global security. It is essential that the two countries engage in constructive dialogue to resolve their differences peacefully, ensuring the freedom of navigation and flight in the region. It is only through cooperation and mutual respect that a stable and peaceful South China Sea can be achieved.
 
 [Question ID: 2014-gs2-q226-pwonlyias]
 
+
 ---
 
-## Question 227 (Year: 2014 | Paper: GS 2 | Marks: N/A | Words: N/A)
+## Question 235 (Year: 2014 | Paper: GS 2 | Marks: N/A | Words: N/A)
 **Question ID: 2014-gs2-q227-pwonlyias**
 
 **WTO is an important international institution where decisions taken affect countries in a profound manner. What is the mandate of the WTO and how binding are their decisions ? Critically analyze India’s stand on the latest round of talks on food security. [200 Words, 12.5 Marks]**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** <br>• Brief about World Trade Organization (WTO). **Body** <br>• Discuss role implications of WTO Decisions. <br>• Benefits of WTO Participation. <br>• Challenges Faced by the WTO. <br>• India’s Perspective on Food Security. **Conclusion** <br>• Conclude your answer with WTO’s role in global trade regulation and India’s food security concerns. |
 | --- |
@@ -9535,17 +9230,16 @@ The World Trade Organization (WTO) holds a crucial position as an international 
 - **India’s Stand on Food Security Talks:** India’s stand on the latest round of talks on food security has been a subject of critical analysis. The country has consistently advocated for safeguarding its food security concerns, especially in the context of international trade negotiations. Critics argue that India’s insistence on protecting its food security measures, such as public stockholding and minimum support prices, can hinder global trade liberalization efforts. They contend that India’s policies distort agricultural markets, create trade barriers, and impede fair competition.
 - **India’s Perspective on Food Security:** India asserts that its policies are essential to address domestic poverty, rural development, and food self-sufficiency goals. The country emphasizes the importance of protecting the livelihoods of millions of small-scale farmers who depend on agriculture for their income and sustenance. From India’s perspective, any agreement on food security must consider the specific challenges faced by developing countries and provide flexibility to accommodate their needs.
 
-
-
 ### Conclusion
 
 The WTO is an essential international institution that plays a crucial role in regulating global trade. The decisions taken by the organization are binding on member countries, but the extent of their implementation depends on political will and specific circumstances. India’s stand on food security at the latest round of WTO talks highlights the challenges faced by developing countries in advocating for their interests and securing their food security.
 
 [Question ID: 2014-gs2-q227-pwonlyias]
 
+
 ---
 
-## Question 228 (Year: 2013 | Paper: GS 2 | Marks: 10 Marks | Words: 200 Words)
+## Question 236 (Year: 2013 | Paper: GS 2 | Marks: 10 Marks | Words: 200 Words)
 **Question ID: 2013-gs2-q228-pwonlyias**
 
 **Discuss the political developments in Maldives in the last two years. Should they be of cause of concern to India?**
@@ -9583,8 +9277,6 @@ The WTO is an essential international institution that plays a crucial role in r
 - **Addressing Concerns:** India should effectively communicate its intentions behind development projects to address concerns raised by supporters of the “India Out” campaign, ensuring the continuation of the favorable relationship between India and Maldives.
 - **Regional Leadership:** India should assume a leadership role in the Indo-Pacific region to counterbalance the influence of extra-regional powers and safeguard its maritime sphere of influence.
 
-
-
 ### Conclusion
 
 As India-Maldives relations evolve, India must navigate concerns over political stability, radicalization, and China’s influence. By actively engaging in the Indo-Pacific security space, addressing concerns through effective communication, and assuming a leadership role in the region, India can safeguard its maritime interests and ensure a favorable and stable relationship with Maldives.
@@ -9593,12 +9285,12 @@ As India-Maldives relations evolve, India must navigate concerns over political 
 
 ---
 
-## Question 229 (Year: 2013 | Paper: GS 2 | Marks: 10 Marks | Words: 200 Words)
+## Question 237 (Year: 2013 | Paper: GS 2 | Marks: 10 Marks | Words: 200 Words)
 **Question ID: 2013-gs2-q229-pwonlyias**
 
 **Economic ties between India and Japan, while growing in recent years, are still far below their potential. Elucidate the policy constraints which are inhibiting this growth.**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** <br>• Brief about economic ties between India and Japan. **Body** <br>• Discuss about the trade impediments and investment challenges between India and Japan. **Conclusion** <br>• Conclude your answer with a futuristics approach. |
 | --- |
@@ -9617,22 +9309,21 @@ As India-Maldives relations evolve, India must navigate concerns over political 
 
 <p align="center"><img src="images/pw_international_relations_q26_img1.webp" alt="Indo-Japan relation" /></p>
 
-
-
 ### Conclusion
 
 These constraints and unlock the full potential of their economic ties, India and Japan need to work towards enhancing their policy coordination and streamlining their regulatory frameworks. This will require a concerted effort from both sides to address the existing challenges and create a more conducive environment for bilateral economic cooperation.
 
 [Question ID: 2013-gs2-q229-pwonlyias]
 
+
 ---
 
-## Question 230 (Year: 2013 | Paper: GS 2 | Marks: 10 Marks | Words: 200 Words)
+## Question 238 (Year: 2013 | Paper: GS 2 | Marks: 10 Marks | Words: 200 Words)
 **Question ID: 2013-gs2-q230-pwonlyias**
 
 **The proposed withdrawal of the International Security Assistance Force (ISAF) from Afghanistan in 2014 is fraught with major security implications for the counters of the region. Examine in light of the fact that India is faced with a plethora of challenges and needs to safeguard its own strategic interests.**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** <br>• Brief about International Security Assistance Force. **Body** <br>• Discuss challenges and safeguarding India’s Strategic Interests of India to withdraw the International Security Assistance Force. **Conclusion** <br>• Conclude your answer with futuristic approach. |
 | --- |
@@ -9650,22 +9341,21 @@ These constraints and unlock the full potential of their economic ties, India an
 - **Border management:** India has improved its border management infrastructure, including the construction of border fencing and the deployment of additional security forces.
 - **Intelligence gathering:** India has increased its intelligence gathering capabilities to monitor cross-border activities and prevent terrorist attacks.
 
-
-
 ### Conclusion
 
 The withdrawal of ISAF from Afghanistan presents a potential security vacuum, which may lead to an increase in violence and instability in the region. India needs to work closely with the Afghan government and other regional powers to counter the threat of terrorism and ensure stability in the region. India must focus on improving its intelligence capabilities and strengthening its military presence in the region to safeguard its strategic interests.
 
 [Question ID: 2013-gs2-q230-pwonlyias]
 
+
 ---
 
-## Question 231 (Year: 2013 | Paper: GS 2 | Marks: 10 Marks | Words: 200 Words)
+## Question 239 (Year: 2013 | Paper: GS 2 | Marks: 10 Marks | Words: 200 Words)
 **Question ID: 2013-gs2-q231-pwonlyias**
 
 **The protests in Shahbag Square in Dhaka in Bangladesh reveal a fundamental split in society between the nationalists and Islamic forces. What is its significance for India?**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** <br>• Brief about Shahbag Square Protests. **Body** <br>• Discuss the significance of Shahbag square in Dhaka. **Conclusion** <br>• Conclude your answer with Implications for India’s Security and Bilateral Relations with Bangladesh. |
 | --- |
@@ -9683,22 +9373,21 @@ The withdrawal of ISAF from Afghanistan presents a potential security vacuum, wh
 - **Security concerns:** The protests have raised security concerns in the region, with fears that extremist groups could use the unrest to promote their own agenda. India has a history of dealing with terrorism and has been working closely with Bangladesh to address security challenges.
 - **Humanitarian concerns:** The protests have also highlighted the need for greater attention to humanitarian issues in the region. Many of the protesters have called for justice for the victims of the 1971 war and for greater accountability for human rights abuses. India has a responsibility to ensure that human rights are respected and that justice is served for all victims of violence and conflict in the region.
 
-
-
 ### Conclusion
 
 The protests in Shahbag Square highlighted the clash between secular and Islamist forces in Bangladesh. India, being a neighbor of Bangladesh, has a significant stake in the stability and security of the country. The protests’ impact on India can be seen in terms of border security, bilateral relations, and regional security. India needs to keep a close eye on the developments in Bangladesh and be prepared to deal with any spillover effects on its own security and stability.
 
 [Question ID: 2013-gs2-q231-pwonlyias]
 
+
 ---
 
-## Question 232 (Year: 2013 | Paper: GS 2 | Marks: 10 Marks | Words: 200 Words)
+## Question 240 (Year: 2013 | Paper: GS 2 | Marks: 10 Marks | Words: 200 Words)
 **Question ID: 2013-gs2-q232-pwonlyias**
 
 **The World Bank and the IMF, Collectively known as the Bretton wood Institutions are the two intergovernmental pillars supporting the structure of the world’s economic and financial order. Superficially, the world bank and the IMF exhibit many common characteristics, yet these roles, functions and mandates are distinctly different. Elucidate.**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** <br>• Start your Answer with comparison between World Bank and IMF. **Body** <br>• Discuss about the difference between the World Bank and IMF. **Conclusion** <br>• Conclude your Answer with a futuristic Approach. |
 | --- |
@@ -9716,17 +9405,16 @@ The World Bank (WB) and the International Monetary Fund (IMF) are two intergover
 - **Financing:** The World Bank raises funds by issuing bonds in international capital markets and by borrowing from member countries, while the IMF’s resources come primarily from quota subscriptions paid by member countries.
 - **Focus:** The World Bank primarily focuses on poverty reduction, infrastructure development, and social welfare programs, while the IMF’s focus is on macroeconomic stability and providing loans to countries experiencing financial crises.
 
-
-
 ### Conclusion
 
 The World Bank and the IMF are two important institutions in the global economic and financial order, but they have different roles, functions, and mandates. The World Bank focuses on providing financial and technical assistance for development projects, while the IMF is primarily responsible for ensuring global economic stability and providing short-term financial assistance to countries in need. Understanding their distinct differences is crucial for effective policy-making and economic development.
 
 [Question ID: 2013-gs2-q232-pwonlyias]
 
+
 ---
 
-## Question 233 (Year: 2013 | Paper: GS 2 | Marks: 10 Marks | Words: 200 Words)
+## Question 241 (Year: 2013 | Paper: GS 2 | Marks: 10 Marks | Words: 200 Words)
 **Question ID: 2013-gs2-q233-pwonlyias**
 
 **What do you understand by ‘The String of Pearls’? How does it impact India? Briefly outline the steps taken by India to counter this.**
@@ -9742,8 +9430,6 @@ The “String of Pearls” is a term used to describe China’s strategic encirc
 
 <p align="center"><img src="images/pw_international_relations_q76_img1.webp" alt="String of Pearls" /></p>
 
-
-
 ### Body
 
 - **Impact on India:** The String of Pearls poses significant strategic challenges for India, as it seeks to establish itself as a dominant power in the Indian Ocean region.
@@ -9758,8 +9444,6 @@ The “String of Pearls” is a term used to describe China’s strategic encirc
 - **Regional cooperation:** India has emphasized regional cooperation and established forums like the Indian Ocean Rim Association to promote cooperation and security in the region.
 - **Infrastructure development:** India has also invested in infrastructure development in the region, including the development of ports and connectivity projects, to counter China’s efforts to establish its own network of ports and bases.
 
-
-
 ### Conclusion
 
 India has been taking several steps to counter China’s ‘String of Pearls’ strategy, including enhancing its naval capabilities, developing strategic partnerships with other nations in the region, and investing in infrastructure development projects in its neighboring countries. India’s proactive approach to counter the ‘String of Pearls’ is essential for ensuring its security and maintaining its influence in the region.
@@ -9768,12 +9452,12 @@ India has been taking several steps to counter China’s ‘String of Pearls’ 
 
 ---
 
-## Question 234 (Year: 2013 | Paper: GS 2 | Marks: 10 Marks | Words: 200 Words)
+## Question 242 (Year: 2013 | Paper: GS 2 | Marks: 10 Marks | Words: 200 Words)
 **Question ID: 2013-gs2-q234-pwonlyias**
 
 **What is meant by Gujral doctrine? Does it have any relevance today? Discuss.**
 
-### Answer **Answer:**
+### Answer
 
 | **Approach:** <br> **Introduction** <br>• Brief about The Gujral Doctrine. **Body** <br>• Discuss about five principles of The Gujral Doctrine and relevance today. **Conclusion** <br>• Conclude your answer with a futuristics approach. |
 | --- |
@@ -9794,12 +9478,11 @@ The Gujral Doctrine refers to a set of principles proposed by the former Indian 
   - The Gujral Doctrine’s principles serve as a guiding framework for India’s foreign policy, emphasizing economic cooperation and regional integration. The doctrine’s continued application fosters stronger ties with neighboring nations, promoting mutual growth and stability.
 - By prioritizing non-reciprocity, addressing concerns of smaller nations, and advocating for transparent and inclusive regional cooperation, the Gujral Doctrine ensures India’s engagement with its neighbors is based on mutual respect and shared prosperity. Its continued implementation enhances India’s standing as a responsible and cooperative regional power.
 
-
-
 ### Conclusion
 
 The Gujral Doctrine represents a set of principles aimed at promoting peaceful and friendly relations between India and its neighboring countries. While the relevance of the doctrine is sometimes questioned, its principles continue to guide India’s foreign policy towards its neighbors, particularly in the areas of economic cooperation and regional integration.
 
 [Question ID: 2013-gs2-q234-pwonlyias]
+
 
 ---
