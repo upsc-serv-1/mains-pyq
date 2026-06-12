@@ -9,3 +9,7 @@ Thumbs.db
 # Exclude large PDF files that exceed GitHub's 100MB limit
 solved paper/DECODE ETHICS SOLVED PREVIOUS YEAR QUESTIONS.pdf
 syllabus hierarchy/essay/ESSAY TOPPER COPIES.pdf
+
+# Exclude temporary Office/Word lock files
+~$*
+
